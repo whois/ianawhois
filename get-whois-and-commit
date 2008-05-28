@@ -18,7 +18,7 @@ for tld in $TLDS; do
     new=0
     if [ ! -e $tld ]; then # New Top Level Domain
 	touch $tld
-	cvs add $tld > $LOG 2>&1
+	svn add $tld > $LOG 2>&1
 	new=1
     fi
     whois -h whois.iana.org $tld > $tld 2> $LOG
@@ -27,14 +27,14 @@ for tld in $TLDS; do
 	exit 1
     fi
     if [ $new == 0 ]; then
-	cvs diff $tld > $DIFF 2>&1
+	svn diff $tld > $DIFF 2>&1
 	if [ ! -z $DIFF ]; then
 	    sendemail.py -t $LIST -f $MAINTAINER -h "X-IANA-monitoring: whois" -s "New version of IANA whois for $tld" < $DIFF
-	    cvs commit -m "New copy of $date" $tld > $LOG 2>&1 
+	    svn commit -m "New copy of $date" $tld > $LOG 2>&1 
 	fi
     else 
 	    sendemail.py -t $LIST -f $MAINTAINER -h "X-IANA-monitoring: whois" -s "New TLD in IANA whois: $tld" < $tld
-	    cvs commit -m "First version ($date)" $tld > $LOG 2>&1 	
+	    svn commit -m "First version ($date)" $tld > $LOG 2>&1 	
     fi
     sleep 300
 done
