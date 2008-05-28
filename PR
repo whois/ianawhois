@@ -1,0 +1,69 @@
+
+IANA Whois Service
+Domain: pr
+ID: pr
+
+Sponsoring Organization:
+    Name: 
+    Organization: Gauss Research Laboratory Inc.
+    Address1: Calle Vesta 801
+    Address2: 
+    Address3: 
+    City: San Juan
+    State/Province: 
+    Country: Puerto Rico
+    Postal Code: 00923
+    Phone: 
+    Fax: 
+    Email: 
+    Registration Date: 01-January-1985
+    Last Updated Date: 21-December-2006
+
+Administrative Contact:
+    Name: Oscar Moreno
+    Organization: Gauss Research Laboratory Inc.
+    Address1: Calle Vesta 801
+    Address2: 
+    Address3: 
+    City: San Juan
+    State/Province: 
+    Country: Puerto Rico
+    Postal Code: 00923
+    Phone: 787-372-3803
+    Fax: 
+    Email: moreno@nic.pr
+    Registration Date: 01-January-1985
+    Last Updated Date: 13-August-2007
+
+Technical Contact:
+    Name: Registry Technical Contact
+    Organization: Gauss Research Laboratory Inc.
+    Address1: Calle Vesta 801
+    Address2: 
+    Address3: 
+    City: San Juan
+    State/Province: 
+    Country: Puerto Rico
+    Postal Code: 00923
+    Phone: 787-372-3804
+    Fax: 
+    Email: tech@nic.pr
+    Registration Date: 01-January-1985
+    Last Updated Date: 13-August-2007
+URL for registration services: http://www.nic.pr
+Whois Server (port 43): whois.uprr.pr
+
+Nameserver Information:
+    Nameserver: pascal.nic.pr.
+    IP Address: 134.202.0.120
+    Nameserver: pr-dns.denic.de.
+    IP Address: 81.91.161.82
+    Nameserver: pr-ns.anycast.pch.net.
+    IP Address: 204.61.216.23
+    Nameserver: descartes.nic.pr.
+    IP Address: 134.202.1.120
+    Nameserver: golomb.nic.pr.
+    IP Address: 134.202.6.100
+
+Registration Date: 27-August-1989
+Last Updated Date: 13-August-2007

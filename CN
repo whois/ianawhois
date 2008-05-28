@@ -1,0 +1,73 @@
+
+IANA Whois Service
+Domain: cn
+ID: cn
+
+Sponsoring Organization:
+    Name: 
+    Organization: Chinese Academy of Sciences
+                  The Computer Network Center
+    Address1: No.4, South 4th Street
+    Address2: Zhong Guan Cun
+    Address3: 
+    City: Beijing
+    State/Province: 
+    Country: China
+    Postal Code: 100080
+    Phone: 
+    Fax: 
+    Email: 
+    Registration Date: 01-January-1985
+    Last Updated Date: 01-January-1985
+
+Administrative Contact:
+    Name: Hualin Qian
+    Organization: Computer Network Information Center,
+                  Chinese Academy of Sciences
+    Address1: No.4, South 4th Street
+    Address2: Zhong Guan Cun
+    Address3: 
+    City: Beijing
+    State/Province: 
+    Country: China
+    Postal Code: 100080
+    Phone: +86 10 58812270
+    Fax: +86 10 58812290
+    Email: hlqian@cnic.cn
+    Registration Date: 01-January-1985
+    Last Updated Date: 08-October-2007
+
+Technical Contact:
+    Name: Xiaodong LEE
+    Organization: China Internet Network Information Center
+    Address1: No.4, South 4th Street
+    Address2: Zhong Guan Cun
+    Address3: 
+    City: Beijing
+    State/Province: 
+    Country: China
+    Postal Code: 100080
+    Phone: +86 10 58813020
+    Fax: +86 10 58812666 103
+    Email: lee@cnnic.cn
+    Registration Date: 08-October-2007
+    Last Updated Date: 08-October-2007
+URL for registration services: http://www.cnnic.cn/
+Whois Server (port 43): whois.cnnic.cn
+
+Nameserver Information:
+    Nameserver: ns.cernet.net.
+    IP Address: 202.112.0.44
+    Nameserver: a.dns.cn.
+    IP Address: 203.119.25.1 2001:dc7:0:0:0:0:0:1
+    Nameserver: c.dns.cn.
+    IP Address: 203.119.27.1
+    Nameserver: b.dns.cn.
+    IP Address: 203.119.26.1
+    Nameserver: d.dns.cn.
+    IP Address: 203.119.28.1 2001:dc7:1000:0:0:0:0:1
+    Nameserver: e.dns.cn.
+    IP Address: 203.119.29.1
+
+Registration Date: 28-November-1990
+Last Updated Date: 08-October-2007

@@ -1,0 +1,68 @@
+
+IANA Whois Service
+Domain: ao
+ID: ao
+
+Sponsoring Organization:
+    Name: 
+    Organization: Faculdade de Engenharia da Universidade Agostinho Neto
+    Address1: Av. 4 de Fevereiro, nº 7, 2º andar
+    Address2: 
+    Address3: 
+    City: Luanda
+    State/Province: 
+    Country: Angola
+    Postal Code: CP 815
+    Phone: 
+    Fax: 
+    Email: 
+    Registration Date: 01-January-1985
+    Last Updated Date: 23-July-2007
+
+Administrative Contact:
+    Name: Joao S. Teta
+    Organization: Faculdade de Engenharia da Universidade Agostinho Neto
+    Address1: Av. 4 de Fevereiro, nº 7, 2º Andar
+    Address2: 
+    Address3: 
+    City: Luanda
+    State/Province: 
+    Country: Angola
+    Postal Code: CP 815
+    Phone: +244 222 311125 / 310296
+    Fax: +244 222 310283
+    Email: reitor.uan@nexus.ao , reitor@uan-angola.org
+    Registration Date: 01-January-1985
+    Last Updated Date: 23-July-2007
+
+Technical Contact:
+    Name: Joao Nuno Ferreira
+    Organization: Fundacao Para A Computacao Cientifica Nacional
+    Address1: Av. do Brasil 101
+    Address2: 
+    Address3: 
+    City: Lisboa
+    State/Province: 
+    Country: Portugal
+    Postal Code: 1700-066
+    Phone: +351 21 8440100
+    Fax: +351 21 8472167
+    Email: ferreira@fccn.pt
+    Registration Date: 01-January-1985
+    Last Updated Date: 02-July-2003
+URL for registration services: http://www.dns.ao/
+
+Nameserver Information:
+    Nameserver: auth02.ns.uu.net.
+    IP Address: 198.6.1.82
+    Nameserver: dns.fccn.pt.
+    IP Address: 193.136.192.10
+    Nameserver: dns.rccn.net.
+    IP Address: 193.136.7.17
+    Nameserver: ns-ext.vix.com.
+    IP Address: 204.152.184.64
+    Nameserver: sunic.sunet.se.
+    IP Address: 192.36.125.2
+
+Registration Date: 15-November-1995
+Last Updated Date: 23-July-2007

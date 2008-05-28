@@ -1,0 +1,77 @@
+
+IANA Whois Service
+Domain: se
+ID: se
+
+Sponsoring Organization:
+    Name: 
+    Organization: The Internet Infrastructure Foundation
+    Address1: Box 7399
+    Address2: 
+    Address3: 
+    City: Stockholm
+    State/Province: 
+    Country: Sweden
+    Postal Code: SE-103 91
+    Phone: 
+    Fax: 
+    Email: 
+    Registration Date: 01-January-1985
+    Last Updated Date: 27-March-2008
+
+Administrative Contact:
+    Name: SE Administrative Contact
+    Organization: The Internet Infrastructure Foundation
+    Address1: Box 7399
+    Address2: 
+    Address3: 
+    City: Stockholm
+    State/Province: 
+    Country: Sweden
+    Postal Code: SE-103 91
+    Phone: +46 8 452 35 00
+    Fax: +46 8 452 35 02
+    Email: noc@iis.se
+    Registration Date: 01-January-1985
+    Last Updated Date: 27-March-2008
+
+Technical Contact:
+    Name: SE Technical Contact
+    Organization: The Internet Infrastructure Foundation
+    Address1: Box 7399
+    Address2: 
+    Address3: 
+    City: Stockholm
+    State/Province: 
+    Country: Sweden
+    Postal Code: SE-103 91
+    Phone: +46 8 452 35 00
+    Fax: +46 8 452 35 02
+    Email: hostmaster@iis.se
+    Registration Date: 01-January-1985
+    Last Updated Date: 27-March-2008
+URL for registration services: http://www.iis.se
+Whois Server (port 43): whois.iis.se
+
+Nameserver Information:
+    Nameserver: a.ns.se.
+    IP Address: 192.36.144.107 2a01:3f0:0:0301:0:0:0:53
+    Nameserver: b.ns.se.
+    IP Address: 192.36.133.107
+    Nameserver: c.ns.se.
+    IP Address: 192.36.135.107
+    Nameserver: d.ns.se.
+    IP Address: 81.228.8.16
+    Nameserver: e.ns.se.
+    IP Address: 81.228.10.57
+    Nameserver: f.ns.se.
+    IP Address: 192.71.53.53
+    Nameserver: g.ns.se.
+    IP Address: 130.239.5.114 2001:6b0:e:3:0:0:0:1
+    Nameserver: h.ns.se.
+    IP Address: 199.7.49.30
+    Nameserver: i.ns.se.
+    IP Address: 194.146.106.22
+
+Registration Date: 04-September-1986
+Last Updated Date: 24-April-2008

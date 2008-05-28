@@ -1,0 +1,65 @@
+
+IANA Whois Service
+Domain: mc
+ID: mc
+
+Sponsoring Organization:
+    Name: 
+    Organization: Gouvernement de Monaco
+                  Direction des Telecommunications
+    Address1: 23, av. Prince Hereditaire Albert
+    Address2: 
+    Address3: 
+    City: Principaute de Monaco
+    State/Province: 
+    Country: Monaco
+    Postal Code: 98000
+    Phone: 
+    Fax: 
+    Email: 
+    Registration Date: 01-January-1985
+    Last Updated Date: 01-January-1985
+
+Administrative Contact:
+    Name: Christian Palmaro
+    Organization: Direction des Telecommunications
+    Address1: 23, av. Prince Hereditaire Albert
+    Address2: 
+    Address3: 
+    City: Principaute de Monaco
+    State/Province: 
+    Country: Monaco
+    Postal Code: 98000
+    Phone: +377 93 15 88 00
+    Fax: +377 97 98 56 57
+    Email: nic@nic.mc
+    Registration Date: 01-January-1985
+    Last Updated Date: 01-January-1985
+
+Technical Contact:
+    Name: N'Guyen Lam Son
+    Organization: Monaco Telecom
+    Address1: 25, bd de Suisse
+    Address2: 
+    Address3: 
+    City: Principaute de Monaco
+    State/Province: 
+    Country: Monaco
+    Postal Code: 98000
+    Phone: +377 99 66 66 69
+    Fax: +377 99 66 62 34
+    Email: dns@monaco-telecom.mc
+    Registration Date: 01-January-1985
+    Last Updated Date: 01-January-1985
+URL for registration services: http://www.nic.mc/
+
+Nameserver Information:
+    Nameserver: bow.rain.fr.
+    IP Address: 194.51.3.49
+    Nameserver: ns.nic.mc.
+    IP Address: 195.78.6.131
+    Nameserver: ns.ripe.net.
+    IP Address: 193.0.0.193
+
+Registration Date: 20-January-1995
+Last Updated Date: 26-July-2005

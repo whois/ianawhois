@@ -1,0 +1,69 @@
+
+IANA Whois Service
+Domain: jp
+ID: jp
+
+Sponsoring Organization:
+    Name: 
+    Organization: Japan Registry Services Co., Ltd.
+    Address1: Chiyoda First Bldg. East 13F,
+    Address2: 3-8-1 Nishi-Kanda
+    Address3: 
+    City: Chiyoda-ku
+    State/Province: Tokyo
+    Country: Japan
+    Postal Code: 101-0065
+    Phone: 
+    Fax: 
+    Email: 
+    Registration Date: 01-January-1985
+    Last Updated Date: 16-June-2005
+
+Administrative Contact:
+    Name: Koki Higashida
+    Organization: Japan Registry Services Co., Ltd.
+    Address1: Chiyoda First Bldg. East 13F,
+    Address2: 3-8-1 Nishi-Kanda
+    Address3: 
+    City: Chiyoda-ku
+    State/Province: Tokyo
+    Country: Japan
+    Postal Code: 101-0065
+    Phone: +81 3 5215 8451
+    Fax: +81 3 5215 8452
+    Email: higashida@jprs.co.jp
+    Registration Date: 01-January-1985
+    Last Updated Date: 16-June-2005
+
+Technical Contact:
+    Name: Susumu Sano
+    Organization: Japan Registry Services Co., Ltd.
+    Address1: Chiyoda First Bldg. East 13F,
+    Address2: 3-8-1 Nishi-Kanda
+    Address3: 
+    City: Chiyoda-ku
+    State/Province: Tokyo
+    Country: Japan
+    Postal Code: 101-0065
+    Phone: +81 3 5215 8451
+    Fax: +81 3 5215 8452
+    Email: tech-admin@jprs.jp
+    Registration Date: 01-January-1985
+    Last Updated Date: 16-June-2005
+URL for registration services: http://jprs.jp/
+Whois Server (port 43): whois.jprs.jp
+
+Nameserver Information:
+    Nameserver: a.dns.jp.
+    IP Address: 203.119.1.1 2001:dc4:0:0:0:0:0:1
+    Nameserver: b.dns.jp.
+    IP Address: 202.12.30.131
+    Nameserver: d.dns.jp.
+    IP Address: 210.138.175.244 2001:240:0:0:0:0:0:53
+    Nameserver: e.dns.jp.
+    IP Address: 192.50.43.53 2001:200:c000::35
+    Nameserver: f.dns.jp.
+    IP Address: 150.100.2.3 2001:2f8:0:100:0:0:0:153
+
+Registration Date: 05-August-1986
+Last Updated Date: 19-December-2007

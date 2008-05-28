@@ -1,0 +1,71 @@
+
+IANA Whois Service
+Domain: org
+ID: org
+
+Sponsoring Organization:
+    Name: 
+    Organization: Public Interest Registry (PIR)
+    Address1: 1775 Wiehle Avenue
+    Address2: Suite 102A
+    Address3: 
+    City: Reston
+    State/Province: Virginia
+    Country: United States
+    Postal Code: 20190
+    Phone: 
+    Fax: 
+    Email: 
+    Registration Date: 31-December-2002
+    Last Updated Date: 31-December-2002
+
+Administrative Contact:
+    Name: Pamela Miller
+    Organization: Public Interest Registry (PIR)
+    Address1: 1775 Wiehle Avenue
+    Address2: Suite 102A
+    Address3: 
+    City: Reston
+    State/Province: Virginia
+    Country: United States
+    Postal Code: 20190
+    Phone: +1-703-464-7005
+    Fax: +1-703-464-7006
+    Email: pmiller@pir.org
+    Registration Date: 31-December-2002
+    Last Updated Date: 02-September-2005
+
+Technical Contact:
+    Name: Pamela Miller
+    Organization: Public Interest Registry (PIR)
+    Address1: 1775 Wiehle Avenue
+    Address2: Suite 102A
+    Address3: 
+    City: Reston
+    State/Province: Virginia
+    Country: US
+    Postal Code: 20190
+    Phone: +1-703-464-7005
+    Fax: +1-703-464-7006
+    Email: pmiller@pir.org
+    Registration Date: 13-February-2003
+    Last Updated Date: 02-September-2005
+URL for registration services: http://www.pir.org
+Whois Server (port 43): whois.pir.org
+
+Nameserver Information:
+    Nameserver: tld1.ultradns.net.
+    IP Address: 204.74.112.1 2001:502:d399:0:0:0:0:1
+    Nameserver: a0.org.afilias-nst.info.
+    IP Address: 199.19.56.1 2001:500:e:0:0:0:0:1
+    Nameserver: tld2.ultradns.net.
+    IP Address: 204.74.113.1
+    Nameserver: b0.org.afilias-nst.org.
+    IP Address: 199.19.54.1 2001:500:c::1
+    Nameserver: c0.org.afilias-nst.info.
+    IP Address: 199.19.53.1 2001:500:b::1
+    Nameserver: d0.org.afilias-nst.org.
+    IP Address: 199.19.57.1 2001:500:f::1
+
+Registration Date: 01-January-1985
+Last Updated Date: 17-March-2008

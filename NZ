@@ -1,0 +1,73 @@
+
+IANA Whois Service
+Domain: nz
+ID: nz
+
+Sponsoring Organization:
+    Name: 
+    Organization: InternetNZ
+    Address1: Level 9 Exchange Place
+    Address2: 5-7 Willeston Street
+    Address3: 
+    City: Wellington
+    State/Province: 
+    Country: New Zealand
+    Postal Code: 6001
+    Phone: 
+    Fax: 
+    Email: 
+    Registration Date: 01-January-1985
+    Last Updated Date: 22-July-2004
+
+Administrative Contact:
+    Name: Executive Director
+    Organization: InternetNZ
+    Address1: Level 9 Exchange Place
+    Address2: 5-7 Willeston Street
+    Address3: 
+    City: Wellington
+    State/Province: 
+    Country: New Zealand
+    Postal Code: 6001
+    Phone: +64 4 472 1600
+    Fax: +64 4 495 2115
+    Email: exe.dir@internetnz.net.nz
+    Registration Date: 01-January-1985
+    Last Updated Date: 22-July-2004
+
+Technical Contact:
+    Name: General Manager
+    Organization: .nz Registry Services
+    Address1: Level 9 Exchange Place
+    Address2: 5-7 Willeston Street
+    Address3: 
+    City: Wellington
+    State/Province: 
+    Country: New Zealand
+    Postal Code: 6001
+    Phone: +64 4 931 6976
+    Fax: +64 4 931 6979
+    Email: support@nzrs.net.nz
+    Registration Date: 01-January-1985
+    Last Updated Date: 26-July-2004
+URL for registration services: http://www.dnc.org.nz/
+Whois Server (port 43): whois.srs.net.nz
+
+Nameserver Information:
+    Nameserver: ns1.dns.net.nz.
+    IP Address: 202.46.190.130 2001:dce:2000:2:0:0:0:130
+    Nameserver: ns2.dns.net.nz.
+    IP Address: 202.46.191.130 2001:dce:4000:2:0:0:0:130
+    Nameserver: ns3.dns.net.nz.
+    IP Address: 203.97.8.250
+    Nameserver: ns4.dns.net.nz.
+    IP Address: 203.97.40.200
+    Nameserver: ns5.dns.net.nz.
+    IP Address: 204.74.112.253
+    Nameserver: ns6.dns.net.nz.
+    IP Address: 204.74.113.253
+    Nameserver: ns7.dns.net.nz.
+    IP Address: 202.27.158.34
+
+Registration Date: 19-January-1987
+Last Updated Date: 27-July-2007

@@ -1,0 +1,73 @@
+
+IANA Whois Service
+Domain: am
+ID: am
+
+Sponsoring Organization:
+    Name: 
+    Organization: Internet Society
+    Address1: Marshal Bagramian Avenue 40
+    Address2: 
+    Address3: 
+    City: Yerevan
+    State/Province: 
+    Country: Armenia
+    Postal Code: 375019
+    Phone: 
+    Fax: 
+    Email: 
+    Registration Date: 01-January-1985
+    Last Updated Date: 21-May-2003
+
+Administrative Contact:
+    Name: Dr. Igor Mkrtumyan
+    Organization: Internet Society
+    Address1: Marshal Bagramian Avenue 40
+    Address2: 
+    Address3: 
+    City: Yerevan
+    State/Province: 
+    Country: Armenia
+    Postal Code: 375019
+    Phone: +374 10 512653
+    Fax: +374 10 512512
+    Email: imkrtumyan@amnic.net
+    Registration Date: 01-January-1985
+    Last Updated Date: 16-June-2005
+
+Technical Contact:
+    Name: Hrant Dadivanyan
+    Organization: Arminco Limited
+    Address1: Isaakian Street 28
+    Address2: 3rd Floor
+    Address3: 
+    City: Yerevan
+    State/Province: 
+    Country: Armenia
+    Postal Code: 375009
+    Phone: +374 91 420214
+    Fax: +374 10 544590
+    Email: ran@psg.com
+    Registration Date: 01-January-1985
+    Last Updated Date: 16-June-2005
+URL for registration services: http://www.amnic.net
+Whois Server (port 43): whois.amnic.net
+
+Nameserver Information:
+    Nameserver: auth02.ns.uu.net.
+    IP Address: 198.6.1.82
+    Nameserver: ns.amnic.net.
+    IP Address: 195.250.64.90 2001:4d00:0:0:0:0:0:90
+    Nameserver: ns-am.ripe.net.
+    IP Address: 193.0.12.12 2001:610:240:0:53:cc:12:12
+    Nameserver: rip.psg.com.
+    IP Address: 147.28.0.39
+    Nameserver: sec3.apnic.net.
+    IP Address: 202.12.28.140 2001:dc0:1:0:4777:0:0:140
+    Nameserver: sunic.sunet.se.
+    IP Address: 192.36.125.2
+    Nameserver: aunic.aunic.net.
+    IP Address: 203.29.5.1
+
+Registration Date: 26-August-1994
+Last Updated Date: 02-May-2008

@@ -1,0 +1,74 @@
+
+IANA Whois Service
+Domain: af
+ID: af
+
+Sponsoring Organization:
+    Name: 
+    Organization: Ministry of Communications
+                  Islamic Transitional Government of Afghanistan
+    Address1: Mohammed Jan Khan Watt
+    Address2: 
+    Address3: 
+    City: Kabul
+    State/Province: 
+    Country: Afghanistan
+    Postal Code: 
+    Phone: 
+    Fax: 
+    Email: 
+    Registration Date: 01-January-1985
+    Last Updated Date: 24-February-2003
+
+Administrative Contact:
+    Name: Director of AFGNIC
+    Organization: Afghanistan Network Information Center
+    Address1: 7th floor, Mohammad Jan Khan
+    Address2: 
+    Address3: 
+    City: Kabul
+    State/Province: 
+    Country: Afghanistan
+    Postal Code: 
+    Phone: +93 20 210 2684
+    Fax: 
+    Email: adminc@nic.af
+    Registration Date: 01-January-1985
+    Last Updated Date: 21-March-2005
+
+Technical Contact:
+    Name: Muhammad Aslam
+    Organization: AFGNIC
+                  c/o Ministry of Communications
+    Address1: Mohammed Jan Khan Watt
+    Address2: 
+    Address3: 
+    City: Kabul
+    State/Province: 
+    Country: Afghanistan
+    Postal Code: 
+    Phone: +93 20 210 26 84
+    Fax: 
+    Email: hostmaster@nic.af
+    Registration Date: 21-February-2003
+    Last Updated Date: 12-August-2004
+URL for registration services: http://www.nic.af/
+
+Nameserver Information:
+    Nameserver: alpha.undp.org.
+    IP Address: 165.65.35.29
+    Nameserver: flag.ep.net.
+    IP Address: 198.32.4.13
+    Nameserver: ns.anycast.nic.af.
+    IP Address: 204.61.216.13
+    Nameserver: ns.undp.org.
+    IP Address: 165.65.6.8
+    Nameserver: ns2.undp.org.
+    IP Address: 192.124.42.15
+    Nameserver: ns3.nic.fr.
+    IP Address: 192.134.0.49
+    Nameserver: ns-af.ripe.net.
+    IP Address: 193.0.12.1 2001:610:240:0:53:cc:12:1
+
+Registration Date: 16-October-1997
+Last Updated Date: 26-July-2005

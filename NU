@@ -1,0 +1,77 @@
+
+IANA Whois Service
+Domain: nu
+ID: nu
+
+Sponsoring Organization:
+    Name: 
+    Organization: Internet Users Society - Niue
+    Address1: P.O. Box 91
+    Address2: 
+    Address3: 
+    City: Alofi
+    State/Province: 
+    Country: Niue
+    Postal Code: 
+    Phone: 
+    Fax: 
+    Email: 
+    Registration Date: 01-January-1985
+    Last Updated Date: 01-January-1985
+
+Administrative Contact:
+    Name: Stafford Guest
+    Organization: Internet Users Society - Niue
+    Address1: P.O. Box 91
+    Address2: 
+    Address3: 
+    City: Alofi
+    State/Province: 
+    Country: Niue
+    Postal Code: 
+    Phone: +683 4235
+    Fax: +683 4237
+    Email: hostmaster@mail.nic.nu
+    Registration Date: 01-January-1985
+    Last Updated Date: 10-February-2003
+
+Technical Contact:
+    Name: J. William Semich
+    Organization: .NU Domain Ltd/IUS-N
+    Address1: 266 Main St.
+    Address2: Suite 31
+    Address3: 
+    City: Medfield
+    State/Province: Massachusetts
+    Country: United States
+    Postal Code: 02052
+    Phone: +1 508 359 5600
+    Fax: +1 508 242 9707
+    Email: bill@mail.nic.nu
+    Registration Date: 01-January-1985
+    Last Updated Date: 01-January-1985
+URL for registration services: http://www.nunames.nu/
+Whois Server (port 43): whois.nic.nu
+
+Nameserver Information:
+    Nameserver: ns.nic.nu.
+    IP Address: 69.25.75.70
+    Nameserver: ns0.de.nic.nu.
+    IP Address: 62.4.64.120
+    Nameserver: ns0.telia.nic.nu.
+    IP Address: 212.181.91.4
+    Nameserver: tld1.ultradns.net.
+    IP Address: 204.74.112.1 2001:502:d399:0:0:0:0:1
+    Nameserver: tld2.ultradns.net.
+    IP Address: 204.74.113.1
+    Nameserver: tld3.ultradns.org.
+    IP Address: 199.7.66.1
+    Nameserver: tld4.ultradns.org.
+    IP Address: 199.7.67.1 2001:502:100e:0:0:0:0:1
+    Nameserver: tld5.ultradns.info.
+    IP Address: 192.100.59.11
+    Nameserver: tld6.ultradns.co.uk.
+    IP Address: 198.133.199.11
+
+Registration Date: 20-June-1997
+Last Updated Date: 24-July-2007

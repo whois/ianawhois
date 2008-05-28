@@ -1,0 +1,71 @@
+
+IANA Whois Service
+Domain: cz
+ID: cz
+
+Sponsoring Organization:
+    Name: 
+    Organization: CZ.NIC, z.s.p.o
+    Address1: Americka 23
+    Address2: 
+    Address3: 
+    City: Prague 2
+    State/Province: 
+    Country: Czech Republic
+    Postal Code: 120 00
+    Phone: 
+    Fax: 
+    Email: 
+    Registration Date: 01-January-1985
+    Last Updated Date: 04-December-2006
+
+Administrative Contact:
+    Name: Ondrej Filip
+    Organization: CZ.NIC, z.s.p.o.
+    Address1: Americka 23
+    Address2: 
+    Address3: 
+    City: Prague 2
+    State/Province: 
+    Country: Czech Republic
+    Postal Code: 120 00
+    Phone: +420 222745111
+    Fax: +420 222745112
+    Email: admin@nic.cz
+    Registration Date: 01-January-1985
+    Last Updated Date: 04-December-2006
+
+Technical Contact:
+    Name: Martin Peterka
+    Organization: CZ.NIC, z.s.p.o.
+    Address1: Americka 23
+    Address2: 
+    Address3: 
+    City: Prague 2
+    State/Province: 
+    Country: Czech Republic
+    Postal Code: 120 00
+    Phone: +420 222745111
+    Fax: +420 222745112
+    Email: tech@nic.cz
+    Registration Date: 01-January-1985
+    Last Updated Date: 04-December-2006
+URL for registration services: http://www.nic.cz/
+Whois Server (port 43): whois.nic.cz
+
+Nameserver Information:
+    Nameserver: a.ns.nic.cz.
+    IP Address: 217.31.205.180 2001:1488:dada:176:0:0:0:180
+    Nameserver: c.ns.nic.cz.
+    IP Address: 195.66.241.202 2a01:40:1000:0:0:0:0:2
+    Nameserver: e.ns.nic.cz.
+    IP Address: 194.146.105.38
+    Nameserver: b.ns.nic.cz.
+    IP Address: 217.31.205.188 2001:1488:dada:184:0:0:0:188
+    Nameserver: d.ns.nic.cz.
+    IP Address: 193.29.206.1 2001:678:1:0:0:0:0:1
+    Nameserver: f.ns.nic.cz.
+    IP Address: 193.171.255.48 2001:628:453:420::48
+
+Registration Date: 13-January-1993
+Last Updated Date: 12-July-2007

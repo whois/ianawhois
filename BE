@@ -1,0 +1,75 @@
+
+IANA Whois Service
+Domain: be
+ID: be
+
+Sponsoring Organization:
+    Name: 
+    Organization: DNS BE vzw/asbl
+    Address1: Ubicenter, Philipssite 5, bus 13
+    Address2: 
+    Address3: 
+    City: Leuven
+    State/Province: 
+    Country: Belgium
+    Postal Code: 3001
+    Phone: 
+    Fax: 
+    Email: 
+    Registration Date: 01-January-1985
+    Last Updated Date: 24-March-2006
+
+Administrative Contact:
+    Name: Marc Van Wesemael
+    Organization: DNS BE vzw/asbl
+    Address1: Ubicenter, Philipssite 5, bus 13
+    Address2: 
+    Address3: 
+    City: Leuven
+    State/Province: 
+    Country: Belgium
+    Postal Code: 3001
+    Phone: +32 16 22 93 73
+    Fax: +32 16 28 49 71
+    Email: admin@dns.be
+    Registration Date: 01-January-1985
+    Last Updated Date: 24-March-2006
+
+Technical Contact:
+    Name: Technical Staff - Peter Janssen
+    Organization: DNS BE vzw/asbl
+    Address1: Ubicenter, Philipssite 5, bus 13
+    Address2: 
+    Address3: 
+    City: Leuven
+    State/Province: 
+    Country: Belgium
+    Postal Code: 3001
+    Phone: +32 16 28 49 72
+    Fax: +32 16 28 49 71
+    Email: tech@dns.be
+    Registration Date: 01-January-1985
+    Last Updated Date: 24-March-2006
+URL for registration services: http://www.dns.be
+Whois Server (port 43): whois.dns.be
+
+Nameserver Information:
+    Nameserver: a.ns.dns.be.
+    IP Address: 193.109.126.140
+    Nameserver: amsterdam.ns.dns.be.
+    IP Address: 91.200.16.101
+    Nameserver: b.ns.dns.be.
+    IP Address: 193.109.126.12
+    Nameserver: brussels.ns.dns.be.
+    IP Address: 193.190.135.4 2001:6a8:3c60:0:0:0:0:be
+    Nameserver: c.ns.dns.be.
+    IP Address: 195.22.139.135
+    Nameserver: london.ns.dns.be.
+    IP Address: 195.66.241.90
+    Nameserver: milano.ns.dns.be.
+    IP Address: 217.29.76.10
+    Nameserver: prague.ns.dns.be.
+    IP Address: 195.47.235.138
+
+Registration Date: 05-August-1988
+Last Updated Date: 16-January-2008

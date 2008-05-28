@@ -1,0 +1,75 @@
+
+IANA Whois Service
+Domain: mu
+ID: mu
+
+Sponsoring Organization:
+    Name: 
+    Organization: Internet Direct Ltd
+    Address1: 48 Remy Ollier
+    Address2: 
+    Address3: 
+    City: Port Louis
+    State/Province: 
+    Country: Mauritius
+    Postal Code: 
+    Phone: 
+    Fax: 
+    Email: 
+    Registration Date: 01-January-1985
+    Last Updated Date: 01-January-1985
+
+Administrative Contact:
+    Name: Administrator
+    Organization: Internet Direct Ltd.
+    Address1: 48 Remy Ollier Street
+    Address2: 
+    Address3: 
+    City: Port-Louis
+    State/Province: 
+    Country: Mauritius
+    Postal Code: 
+    Phone: +230-216-8888
+    Fax: +230-216-6868
+    Email: admin@nic.mu
+    Registration Date: 01-January-1985
+    Last Updated Date: 05-August-2003
+
+Technical Contact:
+    Name: Tech Administrator
+    Organization: Internet Direct Ltd
+    Address1: 48 Remy Ollier Street
+    Address2: 
+    Address3: 
+    City: Port Louis
+    State/Province: 
+    Country: Mauritius
+    Postal Code: 
+    Phone: +230 216-8888
+    Fax: +230 216-6868
+    Email: tech@nic.mu
+    Registration Date: 01-January-1985
+    Last Updated Date: 04-October-2006
+URL for registration services: http://www.nic.mu/
+Whois Server (port 43): whois.nic.mu
+
+Nameserver Information:
+    Nameserver: ns3.iafrica.com.
+    IP Address: 196.7.0.137
+    Nameserver: udns1.tld.mu.
+    IP Address: 204.61.216.10
+    Nameserver: ns-mu.ripe.net.
+    IP Address: 193.0.12.140
+    Nameserver: ns1.cx-nic.org.
+    IP Address: 216.64.163.225
+    Nameserver: mu1.dyntld.net.
+    IP Address: 208.78.70.79
+    Nameserver: mu2.dyntld.net.
+    IP Address: 204.13.250.79
+    Nameserver: mu3.dyntld.net.
+    IP Address: 208.78.71.79
+    Nameserver: mu4.dyntld.net.
+    IP Address: 204.13.251.79
+
+Registration Date: 06-October-1995
+Last Updated Date: 25-February-2008

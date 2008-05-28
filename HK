@@ -1,0 +1,85 @@
+
+IANA Whois Service
+Domain: hk
+ID: hk
+
+Sponsoring Organization:
+    Name: 
+    Organization: Hong Kong Internet Registration Corporation Ltd.
+    Address1: Unit 2002-2005, 20/F, ING Tower
+    Address2: 308 Des Voeux Road Central
+    Address3: Sheung Wan
+    City: 
+    State/Province: 
+    Country: Hong Kong
+    Postal Code: 
+    Phone: 
+    Fax: 
+    Email: 
+    Registration Date: 01-January-1985
+    Last Updated Date: 22-September-2005
+
+Administrative Contact:
+    Name: Jonathan Shea
+    Organization: Hong Kong Internet Registration Corporation Ltd.
+    Address1: Unit 2002-2005, 20/F, ING Tower
+    Address2: 308 Des Voeux Road Central
+    Address3: Sheung Wan
+    City: 
+    State/Province: 
+    Country: Hong Kong
+    Postal Code: 
+    Phone: +852 2319 1313
+    Fax: +852 2319 2626
+    Email: ceo@hkirc.hk
+    Registration Date: 01-January-1985
+    Last Updated Date: 14-October-2005
+
+Technical Contact:
+    Name: Ben Lee
+    Organization: Hong Kong Internet Registration Corporation Ltd.
+    Address1: Unit 2002-2005, 20/F, ING Tower
+    Address2: 308 Des Voeux Road Central
+    Address3: Sheung Wan
+    City: 
+    State/Province: 
+    Country: Hong Kong
+    Postal Code: 
+    Phone: +852 2319 1313
+    Fax: +852 2319 2626
+    Email: hk.tech@hkirc.hk
+    Registration Date: 01-January-1985
+    Last Updated Date: 14-October-2005
+URL for registration services: http://www.hkirc.hk
+Whois Server (port 43): whois.hkirc.hk
+
+Nameserver Information:
+    Nameserver: adns1.berkeley.edu.
+    IP Address: 128.32.136.3
+    Nameserver: adns2.berkeley.edu.
+    IP Address: 128.32.136.14
+    Nameserver: b.dns.tw.
+    IP Address: 210.201.138.58
+    Nameserver: ns1.hkirc.net.hk.
+    IP Address: 203.119.2.18
+    Nameserver: ns2.cuhk.edu.hk.
+    IP Address: 137.189.6.21
+    Nameserver: ns2.hkirc.net.hk.
+    IP Address: 203.119.2.19
+    Nameserver: ns3.cuhk.edu.hk.
+    IP Address: 202.45.188.39
+    Nameserver: sec3.apnic.net.
+    IP Address: 202.12.28.140 2001:dc0:1:0:4777:0:0:140
+    Nameserver: ns-hk.ripe.net.
+    IP Address: 193.0.12.100
+    Nameserver: tld1.ultradns.net.
+    IP Address: 204.74.112.1 2001:502:d399:0:0:0:0:1
+    Nameserver: tld5.ultradns.info.
+    IP Address: 192.100.59.11
+    Nameserver: tld2.ultradns.net.
+    IP Address: 204.74.113.1
+    Nameserver: tld4.ultradns.org.
+    IP Address: 199.7.67.1 2001:502:100e:0:0:0:0:1
+
+Registration Date: 03-January-1990
+Last Updated Date: 02-May-2008

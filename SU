@@ -1,0 +1,68 @@
+
+IANA Whois Service
+Domain: su
+ID: su
+
+Sponsoring Organization:
+    Name: 
+    Organization: Russian Institute for Development of Public Networks
+                  (ROSNIIROS)
+    Address1: 1, Kurchatov Sq.
+    Address2: 
+    Address3: 
+    City: Moscow
+    State/Province: 
+    Country: Russian Federation
+    Postal Code: 123182
+    Phone: 
+    Fax: 
+    Email: 
+    Registration Date: 01-January-1985
+    Last Updated Date: 01-January-1985
+
+Administrative Contact:
+    Name: Alexei P. Platonov
+    Organization: Russian Institute for Public Networks
+    Address1: 1 Kurchatov Square
+    Address2: 
+    Address3: 
+    City: Moscow
+    State/Province: 
+    Country: Russian Federation
+    Postal Code: 123182
+    Phone: +7 095 196 9614 +7 095 196 7278
+    Fax: +7 095 196 4984
+    Email: plat@ripn.net
+    Registration Date: 01-January-1985
+    Last Updated Date: 09-February-2004
+
+Technical Contact:
+    Name: Network Coordination Centre
+    Organization: Russian Institute for Public Networks
+    Address1: 1 Kurchatov Square
+    Address2: 
+    Address3: 
+    City: Moscow
+    State/Province: 
+    Country: Russian Federation
+    Postal Code: 123182
+    Phone: +7 095 737 0601
+    Fax: +7 095 737 0602
+    Email: ru-ncc@ripn.net
+    Registration Date: 01-January-1985
+    Last Updated Date: 29-January-2003
+
+Nameserver Information:
+    Nameserver: auth60.ns.uu.net.
+    IP Address: 198.6.1.181
+    Nameserver: ns.ripn.net.
+    IP Address: 194.85.105.17
+    Nameserver: ns.spb.su.
+    IP Address: 193.124.83.69
+    Nameserver: ns2.ripn.net.
+    IP Address: 194.226.96.30
+    Nameserver: ns5.msk-ix.net.
+    IP Address: 193.232.128.6
+
+Registration Date: 19-September-1990
+Last Updated Date: 20-November-2006

@@ -1,0 +1,71 @@
+
+IANA Whois Service
+Domain: it
+ID: it
+
+Sponsoring Organization:
+    Name: 
+    Organization: IIT - CNR
+    Address1: Via Moruzzi, 1
+    Address2: 
+    Address3: 
+    City: Pisa
+    State/Province: 
+    Country: Italy
+    Postal Code: I-56124
+    Phone: 
+    Fax: 
+    Email: 
+    Registration Date: 01-January-1985
+    Last Updated Date: 04-November-2002
+
+Administrative Contact:
+    Name: Enrico Gregori
+    Organization: IIT - CNR
+    Address1: Via Moruzzi, 1
+    Address2: 
+    Address3: 
+    City: Pisa
+    State/Province: 
+    Country: Italy
+    Postal Code: I-56124
+    Phone: +39 050 315 2112
+    Fax: +39 050 315 2113
+    Email: direttore@iit.cnr.it
+    Registration Date: 01-January-1985
+    Last Updated Date: 20-July-2006
+
+Technical Contact:
+    Name: Maurizio Martinelli
+    Organization: IIT - CNR
+    Address1: Via Moruzzi, 1
+    Address2: 
+    Address3: 
+    City: Pisa
+    State/Province: 
+    Country: Italy
+    Postal Code: I-56124
+    Phone: +39 050 315 2087
+    Fax: +39 050 315 2113
+    Email: Maurizio.Martinelli@iit.cnr.it
+    Registration Date: 01-January-1985
+    Last Updated Date: 25-November-2002
+URL for registration services: http://www.nic.it/
+Whois Server (port 43): whois.nic.it
+
+Nameserver Information:
+    Nameserver: dns.nic.it.
+    IP Address: 193.205.245.5 2001:760:4000:1f5:0:0:0:5
+    Nameserver: nameserver.cnr.it.
+    IP Address: 194.119.192.34
+    Nameserver: m.dns.it.
+    IP Address: 217.29.76.4
+    Nameserver: j.dns.it.
+    IP Address: 202.11.16.57
+    Nameserver: r.dns.it.
+    IP Address: 193.206.141.46 2001:760:ffff:ffff::ca
+    Nameserver: s.dns.it.
+    IP Address: 194.146.106.30
+
+Registration Date: 23-December-1987
+Last Updated Date: 24-September-2007

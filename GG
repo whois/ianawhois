@@ -1,0 +1,73 @@
+
+IANA Whois Service
+Domain: gg
+ID: gg
+
+Sponsoring Organization:
+    Name: 
+    Organization: Island Networks Ltd.
+    Address1: 4 & 5 St. Anne's Walk
+    Address2: 
+    Address3: 
+    City: Alderney
+    State/Province: 
+    Country: Guernsey
+    Postal Code: GY9 3JZ
+    Phone: 
+    Fax: 
+    Email: 
+    Registration Date: 01-January-1985
+    Last Updated Date: 01-January-1985
+
+Administrative Contact:
+    Name: Nigel Roberts
+    Organization: Nigel Roberts, Chartered Engineer
+    Address1: 4 & 5 St. Anne's Walk
+    Address2: 
+    Address3: 
+    City: Alderney
+    State/Province: 
+    Country: Guernsey
+    Postal Code: GY9 3JZ
+    Phone: +44 1481 822800
+    Fax: +44 870 321 2289
+    Email: hostmaster@iana-contact.gg
+    Registration Date: 01-January-1985
+    Last Updated Date: 26-September-2006
+
+Technical Contact:
+    Name: GG-Hostmaster
+    Organization: Island Networks Limited
+    Address1: 4 & 5 St. Anne's Walk
+    Address2: 
+    Address3: 
+    City: Alderney
+    State/Province: Channel Islands
+    Country: Guernsey
+    Postal Code: GY9 3JZ
+    Phone: +44 1481 822800
+    Fax: +44 870 321 2289
+    Email: hostmaster@iana-contact.gg
+    Registration Date: 01-January-1985
+    Last Updated Date: 26-September-2006
+URL for registration services: http://www.channelisles.net/
+Whois Server (port 43): whois.channelisles.net
+
+Nameserver Information:
+    Nameserver: dns2.guernsey.net.
+    IP Address: 195.226.128.3
+    Nameserver: ns0.ja.net.
+    IP Address: 128.86.1.20  193.63.94.20  2001:630:0:8:0:0:0:14  2001:630:0:9:0:0:0:14
+    Nameserver: ns2.dns.net.nz.
+    IP Address: 202.46.191.130 2001:dce:4000:2:0:0:0:130
+    Nameserver: sec1.dns.uk.psi.net.
+    IP Address: 154.32.105.34
+    Nameserver: uucp-gw-1.pa.dec.com.
+    IP Address: 204.123.2.18
+    Nameserver: uucp-gw-2.pa.dec.com.
+    IP Address: 204.123.2.19
+    Nameserver: a.ci-servers.net.
+    IP Address: 87.117.196.245
+
+Registration Date: 07-August-1996
+Last Updated Date: 27-July-2007

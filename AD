@@ -1,0 +1,74 @@
+
+IANA Whois Service
+Domain: ad
+ID: ad
+
+Sponsoring Organization:
+    Name: 
+    Organization: STA Servei de Telecomunicacions d'Andorra
+    Address1: Av. Meritxell 112
+    Address2: 
+    Address3: 
+    City: Andorra la Vella
+    State/Province: 
+    Country: Andorra
+    Postal Code: AD500
+    Phone: 
+    Fax: 
+    Email: 
+    Registration Date: 01-January-1985
+    Last Updated Date: 28-December-2006
+
+Administrative Contact:
+    Name: Joan-Marc Lauga Courtil
+    Organization: STA Servei de Telecomunicacions d'Andorra
+    Address1: Av. Meritxell 112
+    Address2: 
+    Address3: 
+    City: Andorra la Vella
+    State/Province: 
+    Country: Andorra
+    Postal Code: AD500
+    Phone: +376 875274
+    Fax: +376.863667
+    Email: joan-marc.lauga@sta.ad
+    Registration Date: 01-January-1985
+    Last Updated Date: 28-December-2006
+
+Technical Contact:
+    Name: Sergi Lucas
+    Organization: STA Servei de Telecomunicacions d'Andorra
+    Address1: Av. Meritxell 112
+    Address2: 
+    Address3: 
+    City: Andorra la Vella
+    State/Province: AD500
+    Country: Andorra
+    Postal Code: 
+    Phone: +376 875069
+    Fax: +376 863667
+    Email: sergi.lucas@sta.ad
+    Registration Date: 01-January-1985
+    Last Updated Date: 28-December-2006
+URL for registration services: http://www.nic.ad
+
+Nameserver Information:
+    Nameserver: dinis.ad.
+    IP Address: 194.158.64.7
+    Nameserver: dns2.ad.
+    IP Address: 194.158.64.8
+    Nameserver: dns3.ad.
+    IP Address: 194.158.64.9
+    Nameserver: dns4.ad.
+    IP Address: 194.158.64.10
+    Nameserver: ns3.nic.fr.
+    IP Address: 192.134.0.49
+    Nameserver: ns-ad.ripe.net.
+    IP Address: 193.0.12.6
+    Nameserver: ns-ext.isc.org.
+    IP Address: 204.152.184.64 2001:4f8:0:2:0:0:0:13
+    Nameserver: ad.ns.nic.es.
+    IP Address: 194.69.254.15
+
+Registration Date: 09-January-1996
+Last Updated Date: 14-March-2007

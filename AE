@@ -1,0 +1,69 @@
+
+IANA Whois Service
+Domain: ae
+ID: ae
+
+Sponsoring Organization:
+    Name: 
+    Organization: Telecommunication Regulatory Authority (TRA)
+    Address1: P.O. Box 116688
+    Address2: 
+    Address3: 
+    City: Dubai
+    State/Province: 
+    Country: United Arab Emirates
+    Postal Code: 
+    Phone: 
+    Fax: 
+    Email: 
+    Registration Date: 01-January-1985
+    Last Updated Date: 06-March-2008
+
+Administrative Contact:
+    Name: Mohammed Gheyath, Director Technical Affairs
+    Organization: Telecommunication Regulatory Authority (TRA)
+    Address1: P.O. Box 116688
+    Address2: 
+    Address3: 
+    City: Dubai
+    State/Province: 
+    Country: United Arab Emirates
+    Postal Code: 
+    Phone: +971 4 362 6666
+    Fax: +971 4 362 6677
+    Email: iana@tra.ae
+    Registration Date: 01-January-1985
+    Last Updated Date: 06-March-2008
+
+Technical Contact:
+    Name: DNS Admin
+    Organization: Telecommunication Regulatory Authority (TRA)
+    Address1: P.O. Box 116688
+    Address2: 
+    Address3: 
+    City: Dubai
+    State/Province: 
+    Country: United Arab Emirates
+    Postal Code: 
+    Phone: +971 4 362 6666
+    Fax: +971 4 362 6677
+    Email: dnsadmin@tra.ae
+    Registration Date: 01-January-1985
+    Last Updated Date: 06-March-2008
+URL for registration services: http://www.nic.ae
+Whois Server (port 43): whois.nic.ae
+
+Nameserver Information:
+    Nameserver: ns1.uaenic.ae.
+    IP Address: 213.42.0.226
+    Nameserver: ns2.uaenic.ae.
+    IP Address: 195.229.0.186
+    Nameserver: sec3.apnic.net.
+    IP Address: 202.12.28.140 2001:dc0:1:0:4777:0:0:140
+    Nameserver: ns-ae.ripe.net.
+    IP Address: 193.0.12.233 2001:610:240:0:53:cc:12:233
+    Nameserver: ns-ext.isc.org.
+    IP Address: 204.152.184.64 2001:4f8:0:2:0:0:0:13
+
+Registration Date: 01-December-1992
+Last Updated Date: 02-May-2008

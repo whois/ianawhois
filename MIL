@@ -1,0 +1,69 @@
+
+IANA Whois Service
+Domain: mil
+ID: mil
+
+Sponsoring Organization:
+    Name: 
+    Organization: DoD Network Information Center
+    Address1: 3990 East Broad Street
+    Address2: 
+    Address3: 
+    City: Columbus
+    State/Province: Ohio
+    Country: United States
+    Postal Code: 43213
+    Phone: 
+    Fax: 
+    Email: 
+    Registration Date: 01-January-1985
+    Last Updated Date: 15-May-2006
+
+Administrative Contact:
+    Name: DoD NIC Registry Services
+    Organization: DoD Network Information Center
+    Address1: 3990 East Broad Street
+    Address2: 
+    Address3: 
+    City: Columbus
+    State/Province: Ohio
+    Country: United States
+    Postal Code: 43213
+    Phone: (800)365-3642
+    Fax: (614)692-3452
+    Email: networks@nic.mil
+    Registration Date: 23-January-2006
+    Last Updated Date: 15-May-2006
+
+Technical Contact:
+    Name: DoD NIC Registry Services
+    Organization: DoD Network Information Center
+    Address1: 3990 East Broad Street
+    Address2: 
+    Address3: 
+    City: Columbus
+    State/Province: Ohio
+    Country: United States
+    Postal Code: 43213
+    Phone: (800)365-3642
+    Fax: (614)692-3452
+    Email: networks@nic.mil
+    Registration Date: 23-January-2006
+    Last Updated Date: 15-May-2006
+
+Nameserver Information:
+    Nameserver: con1.nipr.mil.
+    IP Address: 207.132.116.25
+    Nameserver: con2.nipr.mil.
+    IP Address: 199.252.162.234
+    Nameserver: eur1.nipr.mil.
+    IP Address: 199.252.154.234
+    Nameserver: eur2.nipr.mil.
+    IP Address: 199.252.143.234
+    Nameserver: pac1.nipr.mil.
+    IP Address: 199.252.180.234
+    Nameserver: pac2.nipr.mil.
+    IP Address: 199.252.155.234
+
+Registration Date: 01-January-1985
+Last Updated Date: 04-April-2007

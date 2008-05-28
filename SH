@@ -1,0 +1,75 @@
+
+IANA Whois Service
+Domain: sh
+ID: sh
+
+Sponsoring Organization:
+    Name: 
+    Organization: Government of St. Helena
+    Address1: The Castle
+    Address2: 
+    Address3: 
+    City: Jamestown
+    State/Province: 
+    Country: St. Helena Island
+    Postal Code: 
+    Phone: 
+    Fax: 
+    Email: 
+    Registration Date: 01-January-1985
+    Last Updated Date: 01-January-1985
+
+Administrative Contact:
+    Name: Chief Secretary
+    Organization: Government of St. Helena
+    Address1: The Castle
+    Address2: 
+    Address3: 
+    City: Jamestown
+    State/Province: 
+    Country: St. Helena Island
+    Postal Code: 
+    Phone: 
+    Fax: +290 2598
+    Email: administrator@nic.sh
+    Registration Date: 01-January-1985
+    Last Updated Date: 01-January-1985
+
+Technical Contact:
+    Name: Administrator
+    Organization: ICB Plc.
+    Address1: 9 Queens Road
+    Address2: 
+    Address3: 
+    City: Bournemouth
+    State/Province: Dorset
+    Country: United Kingdom
+    Postal Code: BH2 6BA
+    Phone: 
+    Fax: +44 1202 430 580
+    Email: admin@icb.co.uk
+    Registration Date: 01-January-1985
+    Last Updated Date: 12-May-2005
+URL for registration services: http://www.nic.sh/
+Whois Server (port 43): whois.nic.sh
+
+Nameserver Information:
+    Nameserver: a.nic.sh.
+    IP Address: 64.251.31.178
+    Nameserver: b.nic.ac.
+    IP Address: 217.160.203.158
+    Nameserver: b.nic.io.
+    IP Address: 66.235.201.216
+    Nameserver: b.nic.sh.
+    IP Address: 216.117.156.206
+    Nameserver: ns3.icb.co.uk.
+    IP Address: 217.199.188.61
+    Nameserver: a.ns13.net.
+    IP Address: 202.181.97.168
+    Nameserver: b.ns13.net.
+    IP Address: 202.181.96.60
+    Nameserver: ns1.communitydns.net.
+    IP Address: 194.0.1.1
+
+Registration Date: 23-September-1997
+Last Updated Date: 22-May-2007

@@ -1,0 +1,72 @@
+
+IANA Whois Service
+Domain: pt
+ID: pt
+
+Sponsoring Organization:
+    Name: 
+    Organization: Fundacao para a Computacao Cientifica Nacional
+    Address1: Av. do Brasil 101
+    Address2: 
+    Address3: 
+    City: Lisboa
+    State/Province: 
+    Country: Portugal
+    Postal Code: 1700-066
+    Phone: 
+    Fax: 
+    Email: 
+    Registration Date: 01-January-1985
+    Last Updated Date: 01-January-1985
+
+Administrative Contact:
+    Name: Pedro Veiga
+    Organization: Fundacao para a Computacao Cientifica Nacional
+    Address1: Av. do Brasil 101
+    Address2: 
+    Address3: 
+    City: Lisboa
+    State/Province: 
+    Country: Portugal
+    Postal Code: 1700-066
+    Phone: +351 21 8440100
+    Fax: +351 21 8472167
+    Email: Pedro.Veiga@fccn.pt
+    Registration Date: 01-January-1985
+    Last Updated Date: 01-January-1985
+
+Technical Contact:
+    Name: Joao Nuno Ferreira
+    Organization: Fundacao para a Computacao Cientifica Nacional
+    Address1: Av. do Brasil 101
+    Address2: 
+    Address3: 
+    City: Lisboa
+    State/Province: 
+    Country: Portugal
+    Postal Code: 1700-066
+    Phone: +351 21 8440100
+    Fax: +351 21 8472167
+    Email: ferreira@fccn.pt
+    Registration Date: 01-January-1985
+    Last Updated Date: 01-January-1985
+URL for registration services: http://www.dns.pt/
+
+Nameserver Information:
+    Nameserver: ns.dns.br.
+    IP Address: 200.160.0.5
+    Nameserver: ns.dns.pt.
+    IP Address: 193.136.0.1
+    Nameserver: ns.uu.net.
+    IP Address: 137.39.1.3
+    Nameserver: ns2.dns.pt.
+    IP Address: 193.136.2.226 2001:690:a80:4001:0:0:0:100
+    Nameserver: ns2.nic.fr.
+    IP Address: 192.93.0.4
+    Nameserver: ns-ext.isc.org.
+    IP Address: 204.152.184.64 2001:4f8:0:2:0:0:0:13
+    Nameserver: sunic.sunet.se.
+    IP Address: 192.36.125.2
+
+Registration Date: 30-June-1988
+Last Updated Date: 16-August-2005

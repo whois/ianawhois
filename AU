@@ -1,0 +1,75 @@
+
+IANA Whois Service
+Domain: au
+ID: au
+
+Sponsoring Organization:
+    Name: 
+    Organization: .au Domain Administration (auDA)
+    Address1: 114 Cardigan Street
+    Address2: 
+    Address3: 
+    City: Carlton
+    State/Province: 
+    Country: Australia
+    Postal Code: VIC 3053
+    Phone: 
+    Fax: 
+    Email: 
+    Registration Date: 01-January-1985
+    Last Updated Date: 30-April-2007
+
+Administrative Contact:
+    Name: Chris Disspain, CEO
+    Organization: .au Domain Administration (auDA)
+    Address1: 114 Cardigan Street
+    Address2: 
+    Address3: 
+    City: Carlton
+    State/Province: 
+    Country: Australia
+    Postal Code: VIC 3053
+    Phone: + 61 03 8341 4111, + 61 1300 732 929
+    Fax: + 61 03 8341 4112
+    Email: ceo@auda.org.au
+    Registration Date: 01-January-1985
+    Last Updated Date: 30-April-2007
+
+Technical Contact:
+    Name: Chris Disspain, CEO
+    Organization: .au Domain Administration (auDA)
+    Address1: 114 Cardigan Street
+    Address2: 
+    Address3: 
+    City: Carlton
+    State/Province: 
+    Country: Australia
+    Postal Code: VIC 3053
+    Phone: + 61 03 8341 4111, + 61 1300 732 929
+    Fax: + 61 03 8341 4112
+    Email: ceo@auda.org.au
+    Registration Date: 01-January-1985
+    Last Updated Date: 30-April-2007
+URL for registration services: http://www.aunic.net
+Whois Server (port 43): whois.aunic.net
+
+Nameserver Information:
+    Nameserver: adns1.berkeley.edu.
+    IP Address: 128.32.136.3
+    Nameserver: adns2.berkeley.edu.
+    IP Address: 128.32.136.14
+    Nameserver: aunic.aunic.net.
+    IP Address: 203.29.5.1
+    Nameserver: sec1.apnic.net.
+    IP Address: 202.12.29.59 2001:dc0:2001:a:4608::59
+    Nameserver: sec3.apnic.net.
+    IP Address: 202.12.28.140 2001:dc0:1:0:4777:0:0:140
+    Nameserver: audns.optus.net.
+    IP Address: 211.29.133.32
+    Nameserver: dns1.telstra.net.
+    IP Address: 203.50.5.200
+    Nameserver: ns1.audns.net.au.
+    IP Address: 58.65.255.73
+
+Registration Date: 05-March-1986
+Last Updated Date: 02-May-2008

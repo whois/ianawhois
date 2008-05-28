@@ -1,0 +1,72 @@
+
+IANA Whois Service
+Domain: za
+ID: za
+
+Sponsoring Organization:
+    Name: 
+    Organization: ZA Domain Name Authority
+    Address1: The Business Centre
+    Address2: 377 Rivonia Boulevard
+    Address3: 
+    City: Rivonia
+    State/Province: Gauteng
+    Country: South Africa
+    Postal Code: 2191
+    Phone: 
+    Fax: 
+    Email: 
+    Registration Date: 01-January-1985
+    Last Updated Date: 24-March-2008
+
+Administrative Contact:
+    Name: Chairperson
+    Organization: ZA Domain Name Authority
+    Address1: The Business Centre
+    Address2: 377 Rivonia Boulevard
+    Address3: 
+    City: Rivonia
+    State/Province: Gauteng
+    Country: South Africa
+    Postal Code: 2191
+    Phone: +27 11 275 0082
+    Fax: +27 11 234 5022
+    Email: chair@zadna.org.za
+    Registration Date: 01-January-1985
+    Last Updated Date: 24-March-2008
+
+Technical Contact:
+    Name: Technical Committee
+    Organization: ZA Domain Name Authority
+    Address1: The Business Centre
+    Address2: 377 Rivonia Boulevard
+    Address3: 
+    City: Rivonia
+    State/Province: Gauteng
+    Country: South Africa
+    Postal Code: 2191
+    Phone: +27 11 275 0082
+    Fax: +27 11 234 5022
+    Email: dnsadmin@zadna.org.za
+    Registration Date: 01-January-1985
+    Last Updated Date: 24-March-2008
+URL for registration services: http://www.zadna.org.za/
+
+Nameserver Information:
+    Nameserver: nsza.is.co.za.
+    IP Address: 196.4.160.27
+    Nameserver: auth00.ns.uu.net.
+    IP Address: 198.6.1.65
+    Nameserver: hippo.ru.ac.za.
+    IP Address: 146.231.128.1 2001:4200:1010::1
+    Nameserver: ns-ext.isc.org.
+    IP Address: 204.152.184.64 2001:4f8:0:2:0:0:0:13
+    Nameserver: ucthpx.uct.ac.za.
+    IP Address: 137.158.128.1
+    Nameserver: ns-za.ripe.net.
+    IP Address: 193.0.12.205 2001:610:240:0:53:0:0:193
+    Nameserver: ns1.dns.aq.
+    IP Address: 198.32.71.12
+
+Registration Date: 07-November-1990
+Last Updated Date: 24-March-2008

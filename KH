@@ -1,0 +1,70 @@
+
+IANA Whois Service
+Domain: kh
+ID: kh
+
+Sponsoring Organization:
+    Name: 
+    Organization: Ministry of Post and Telecommunications
+    Address1: Corner of Street 13 & 102
+    Address2: 
+    Address3: 
+    City: Phnom Penh
+    State/Province: 
+    Country: Cambodia
+    Postal Code: 
+    Phone: 
+    Fax: 
+    Email: 
+    Registration Date: 01-January-1985
+    Last Updated Date: 01-January-1985
+
+Administrative Contact:
+    Name: Mrs. Lim Yatal
+    Organization: Ministry of Post and Telecommunications
+    Address1: Corner of Street 13 & 102
+    Address2: 
+    Address3: 
+    City: Wat Phnom, Phnom Penh
+    State/Province: 
+    Country: Cambodia
+    Postal Code: 
+    Phone: +855 23 725 384
+    Fax: +855 23 426 011
+    Email: dns-admin@dns.net.kh
+    Registration Date: 01-January-1985
+    Last Updated Date: 23-July-2002
+
+Technical Contact:
+    Name: Chakrya Moa
+    Organization: Ministry of Post and Telecommunications
+    Address1: Corner of Street 13 & 102
+    Address2: 
+    Address3: 
+    City: Phnom Penh
+    State/Province: 
+    Country: Cambodia
+    Postal Code: 
+    Phone: +855 23 724 223
+    Fax: +855 23 426 011
+    Email: chakrya@camnet.com.kh
+    Registration Date: 01-January-1985
+    Last Updated Date: 01-January-1985
+URL for registration services: http://www.camnet.com.kh/
+
+Nameserver Information:
+    Nameserver: dns1.online.com.kh.
+    IP Address: 203.189.128.1
+    Nameserver: ns.camnet.com.kh.
+    IP Address: 203.223.32.3
+    Nameserver: ns.telesurf.com.kh.
+    IP Address: 203.144.65.3
+    Nameserver: ns1.dns.net.kh.
+    IP Address: 203.223.32.21
+    Nameserver: sec3.apnic.net.
+    IP Address: 202.12.28.140 2001:dc0:1:0:4777:0:0:140
+    Nameserver: ns-kh.ripe.net.
+    IP Address: 193.0.12.37
+
+Registration Date: 20-February-1996
+Last Updated Date: 02-May-2008

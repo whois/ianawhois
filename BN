@@ -1,0 +1,68 @@
+
+IANA Whois Service
+Domain: bn
+ID: bn
+
+Sponsoring Organization:
+    Name: 
+    Organization: Jabatan Telekom Brunei
+    Address1: Old Airport Road
+    Address2: 
+    Address3: 
+    City: Bandar Seri Begawan
+    State/Province: 
+    Country: Brunei Darussalam
+    Postal Code: BB3510
+    Phone: 
+    Fax: 
+    Email: 
+    Registration Date: 01-January-1985
+    Last Updated Date: 01-January-1985
+
+Administrative Contact:
+    Name: Noor Azian Haji Abu Bakar
+    Organization: Jabatan Telekom Brunei
+    Address1: Old Airport Road
+    Address2: 
+    Address3: 
+    City: Berakas
+    State/Province: 
+    Country: Brunei Darussalam
+    Postal Code: BB3510
+    Phone: +673 2 322438
+    Fax: +673 2 383888
+    Email: dns@brunet.bn
+    Registration Date: 01-January-1985
+    Last Updated Date: 20-October-2004
+
+Technical Contact:
+    Name: Mohammad Zainulrijal bin Haji Adanan
+    Organization: Jabatan Telekom Brunei
+    Address1: Telephone House
+    Address2: 
+    Address3: 
+    City: Sumbiling
+    State/Province: Bandar Seri Begawan
+    Country: Brunei Darussalam
+    Postal Code: 
+    Phone: +673 2 321321
+    Fax: +673 2 221838
+    Email: dns@brunet.bn
+    Registration Date: 01-January-1985
+    Last Updated Date: 22-October-2004
+URL for registration services: http://www.brunet.bn
+
+Nameserver Information:
+    Nameserver: dns1-tl.brunet.bn.
+    IP Address: 202.160.9.9
+    Nameserver: dns2-tl.brunet.bn.
+    IP Address: 202.160.9.10
+    Nameserver: jtb.brunet.bn.
+    IP Address: 202.160.8.2
+    Nameserver: ns2.brunet.bn.
+    IP Address: 202.160.8.20
+    Nameserver: ns-bn.ripe.net.
+    IP Address: 193.0.12.33
+
+Registration Date: 03-June-1994
+Last Updated Date: 04-January-2006

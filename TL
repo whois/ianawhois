@@ -1,0 +1,73 @@
+
+IANA Whois Service
+Domain: tl
+ID: tl
+
+Sponsoring Organization:
+    Name: 
+    Organization: Timor-Leste NIC
+                  Department of Information Technology (DoIT)
+                  Ministry of Transport, Communications and Public Works
+    Address1: Telecom Building Room 9
+    Address2: Avenida Bispo de Medeiros
+    Address3: 
+    City: Dili
+    State/Province: 
+    Country: Timor-Leste
+    Postal Code: 
+    Phone: 
+    Fax: 
+    Email: 
+    Registration Date: 15-March-2005
+    Last Updated Date: 15-March-2005
+
+Administrative Contact:
+    Name: Director (Flavio Neves)
+    Organization: Department of Information Technology (DoIT)
+                  Ministry of Transport, Communications and Public Works
+    Address1: Telecom Building Room 9
+    Address2: Avenida Bispo de Medeiros
+    Address3: 
+    City: Dili
+    State/Province: 
+    Country: Timor-Leste
+    Postal Code: 
+    Phone: +670 3339354
+    Fax: +670 3339350
+    Email: doit@nic.tl
+    Registration Date: 15-March-2005
+    Last Updated Date: 12-May-2005
+
+Technical Contact:
+    Name: Technical Manager
+    Organization: Department of Information Technology (DoIT)
+                  Ministry of Transport, Communications and Public Works
+    Address1: Telecom Building Room 9
+    Address2: Avenida Bispo de Medeiros
+    Address3: 
+    City: Dili
+    State/Province: 
+    Country: Timor-Leste
+    Postal Code: 
+    Phone: +670 3339354
+    Fax: +670 3339350
+    Email: tlnic@nic.tl
+    Registration Date: 15-March-2005
+    Last Updated Date: 12-May-2005
+URL for registration services: http://www.nic.tl
+Whois Server (port 43): whois.nic.tl
+
+Nameserver Information:
+    Nameserver: ns-ext.isc.org.
+    IP Address: 204.152.184.64 2001:4f8:0:2:0:0:0:13
+    Nameserver: phloem.uoregon.edu.
+    IP Address: 128.223.32.35 2001:468:d01:20::80df:2023
+    Nameserver: sec3.apnic.net.
+    IP Address: 202.12.28.140 2001:dc0:1:0:4777:0:0:140
+    Nameserver: soa.nic.tl.
+    IP Address: 202.72.107.142
+    Nameserver: ns.anycast.nic.tl.
+    IP Address: 204.61.216.19
+
+Registration Date: None
+Last Updated Date: 02-May-2008

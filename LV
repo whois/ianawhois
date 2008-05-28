@@ -1,0 +1,77 @@
+
+IANA Whois Service
+Domain: lv
+ID: lv
+
+Sponsoring Organization:
+    Name: 
+    Organization: University of Latvia
+                  Institute of Mathematics and Computer Science
+                  Department of Network Solutions (DNS)
+    Address1: Rainis Boulevard 29
+    Address2: 
+    Address3: 
+    City: Riga
+    State/Province: 
+    Country: Latvia
+    Postal Code: LV-1459
+    Phone: 
+    Fax: 
+    Email: 
+    Registration Date: 01-January-1985
+    Last Updated Date: 01-January-1985
+
+Administrative Contact:
+    Name: Guntis Barzdins
+    Organization: Institute of Mathematics and Computer Science
+                  Department of Network Solutions (DNS)
+    Address1: Rainis Boulevard 29
+    Address2: 
+    Address3: 
+    City: Riga
+    State/Province: 
+    Country: Latvia
+    Postal Code: LV-1459
+    Phone: +371 721 1241
+    Fax: +371 782 0153
+    Email: guntis@latnet.lv
+    Registration Date: 01-January-1985
+    Last Updated Date: 01-January-1985
+
+Technical Contact:
+    Name: Martins Medens
+    Organization: Institute of Mathematics and Computer Science
+                  Department of Network Solutions (DNS)
+    Address1: Rainis Boulevard 29
+    Address2: 
+    Address3: 
+    City: Riga
+    State/Province: 
+    Country: Latvia
+    Postal Code: LV-1459
+    Phone: +371 7 211 241
+    Fax: +371 7 820 153
+    Email: hostmaster@latnet.lv
+    Registration Date: 01-January-1985
+    Last Updated Date: 30-May-2003
+URL for registration services: http://www.nic.lv/DNS/
+Whois Server (port 43): whois.nic.lv
+
+Nameserver Information:
+    Nameserver: ns.uu.net.
+    IP Address: 137.39.1.3
+    Nameserver: nsz.latnet.lv.
+    IP Address: 159.148.60.4
+    Nameserver: nsz2.latnet.lv.
+    IP Address: 159.148.108.2
+    Nameserver: sunic.sunet.se.
+    IP Address: 192.36.125.2
+    Nameserver: ns-lv.ripe.net.
+    IP Address: 193.0.12.121
+    Nameserver: nsz.nic.lv.
+    IP Address: 91.198.156.4
+    Nameserver: nsz2.nic.lv.
+    IP Address: 92.240.64.2
+
+Registration Date: 29-April-1993
+Last Updated Date: 01-February-2008

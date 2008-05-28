@@ -1,0 +1,80 @@
+
+IANA Whois Service
+Domain: at
+ID: at
+
+Sponsoring Organization:
+    Name: 
+    Organization: NIC.AT Internet Verwaltungs und Betriebsgesellschaft m.b.H
+    Address1: Jakob-Haringer-Strasse 8
+    Address2: 
+    Address3: 
+    City: Salzburg
+    State/Province: 
+    Country: Austria
+    Postal Code: A-5020
+    Phone: 
+    Fax: 
+    Email: 
+    Registration Date: 01-January-1985
+    Last Updated Date: 01-January-1985
+
+Administrative Contact:
+    Name: Geschaeftsfuehrer NIC.AT
+    Organization: NIC.AT Internet Verwaltungs und Betriebsgesellschaft m.b.H.
+    Address1: Jakob-Haringer-Strasse 8
+    Address2: 
+    Address3: 
+    City: Salzburg
+    State/Province: 
+    Country: Austria
+    Postal Code: A-5020
+    Phone: +43 662 4669-14
+    Fax: +43 662 4669-19
+    Email: gf@nic.at
+    Registration Date: 01-January-1985
+    Last Updated Date: 10-April-2003
+
+Technical Contact:
+    Name: Technik NIC.AT
+    Organization: NIC.AT Internet Verwaltungs und Betriebsgesellschaft m.b.H.
+                  c/o Vienna University Computer Center
+    Address1: Universitaetsstrasse 7
+    Address2: 
+    Address3: 
+    City: Vienna
+    State/Province: 
+    Country: Austria
+    Postal Code: A-1010
+    Phone: +43 1 4277 14035
+    Fax: +43 1 4277 9140
+    Email: tech-nic-at@nic.at
+    Registration Date: 01-January-1985
+    Last Updated Date: 10-September-2007
+URL for registration services: http://www.nic.at/
+Whois Server (port 43): whois.nic.at
+
+Nameserver Information:
+    Nameserver: ns1.univie.ac.at.
+    IP Address: 193.171.255.2
+    Nameserver: ns2.univie.ac.at.
+    IP Address: 192.92.125.2 2001:628:453:4302:0:0:0:53
+    Nameserver: ns9.univie.ac.at.
+    IP Address: 192.76.243.2
+    Nameserver: ns-uk.nic.at.
+    IP Address: 195.66.241.82
+    Nameserver: ns-us1.nic.at.
+    IP Address: 204.152.184.202 2001:4f8:4:b:0:0:0:202
+    Nameserver: sss-jp.nic.at.
+    IP Address: 210.81.13.181
+    Nameserver: sss-nl.nic.at.
+    IP Address: 87.233.175.130
+    Nameserver: sss-us2.nic.at.
+    IP Address: 206.65.170.101
+    Nameserver: d.nic.at.
+    IP Address: 81.91.161.98
+    Nameserver: j.nic.at.
+    IP Address: 194.146.106.50
+
+Registration Date: 20-January-1988
+Last Updated Date: 01-May-2008

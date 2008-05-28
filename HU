@@ -1,0 +1,70 @@
+
+IANA Whois Service
+Domain: hu
+ID: hu
+
+Sponsoring Organization:
+    Name: 
+    Organization: Council of Hungarian Internet Providers (CHIP)
+    Address1: Victor Hugo u. 18-22.
+    Address2: 
+    Address3: 
+    City: Budapest
+    State/Province: 
+    Country: Hungary
+    Postal Code: H-1132
+    Phone: 
+    Fax: 
+    Email: 
+    Registration Date: 01-January-1985
+    Last Updated Date: 06-February-2007
+
+Administrative Contact:
+    Name: Balazs Martos
+    Organization: Council of Hungarian Internet Providers (CHIP)
+    Address1: Victor Hugo u. 18-22.
+    Address2: 
+    Address3: 
+    City: Budapest
+    State/Province: 
+    Country: Hungary
+    Postal Code: H-1132
+    Phone: +36 1 238 0115
+    Fax: +36 1 238 0114
+    Email: iszt@nic.hu
+    Registration Date: 01-January-1985
+    Last Updated Date: 06-February-2007
+
+Technical Contact:
+    Name: CHIP Hostmaster
+    Organization: Council of Hungarian Internet Providers (CHIP)
+    Address1: Victor Hugo u. 18-22.
+    Address2: 
+    Address3: 
+    City: Budapest
+    State/Province: 
+    Country: Hungary
+    Postal Code: H-1132
+    Phone: +36 1 238 0115
+    Fax: +36 1 238 0114
+    Email: hostmaster@nic.hu
+    Registration Date: 01-January-1985
+    Last Updated Date: 06-February-2007
+URL for registration services: http://www.nic.hu
+
+Nameserver Information:
+    Nameserver: ns.nic.hu.
+    IP Address: 193.239.148.62 2001:738:4:8000:0:0:0:62
+    Nameserver: ns1.nic.hu.
+    IP Address: 193.239.149.3
+    Nameserver: ns2.nic.fr.
+    IP Address: 192.93.0.4
+    Nameserver: ns2.nic.hu.
+    IP Address: 193.6.16.1
+    Nameserver: ns3.nic.hu.
+    IP Address: 195.70.35.250
+    Nameserver: sunic.sunet.se.
+    IP Address: 192.36.125.2
+
+Registration Date: 07-November-1990
+Last Updated Date: 06-February-2007

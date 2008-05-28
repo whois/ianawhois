@@ -1,0 +1,73 @@
+
+IANA Whois Service
+Domain: ru
+ID: ru
+
+Sponsoring Organization:
+    Name: 
+    Organization: Coordination Center for TLD RU
+    Address1: #433, M-II, WTC, 12,
+    Address2: Krasnopresnenskaya nab.
+    Address3: 
+    City: Moscow
+    State/Province: 
+    Country: Russian Federation
+    Postal Code: 123610
+    Phone: 
+    Fax: 
+    Email: 
+    Registration Date: 01-January-1985
+    Last Updated Date: 04-January-2006
+
+Administrative Contact:
+    Name: .RU domain Administrative group
+    Organization: Coordination Center for TLD RU
+    Address1: #433, M-II, WTC, 12,
+    Address2: Krasnopresnenskaya nab.
+    Address3: 
+    City: Moscow
+    State/Province: 
+    Country: Russian Federation
+    Postal Code: 123610
+    Phone: +7 495 258 1320
+    Fax: +7 495 258 1321
+    Email: ru-adm@cctld.ru
+    Registration Date: 15-June-2005
+    Last Updated Date: 17-August-2007
+
+Technical Contact:
+    Name: .RU domain Technical Center
+    Organization: Russian Institute for Public Networks
+    Address1: 1 Kurchatov Square
+    Address2: 
+    Address3: 
+    City: Moscow
+    State/Province: 
+    Country: Russian Federation
+    Postal Code: 123182
+    Phone: +7 495 196 7278, +7 495 737 6976
+    Fax: +7 495 196 4984
+    Email: ru-tech@ripn.net
+    Registration Date: 15-June-2005
+    Last Updated Date: 04-January-2006
+URL for registration services: http://www.cctld.ru/en
+Whois Server (port 43): whois.ripn.net
+
+Nameserver Information:
+    Nameserver: auth60.ns.uu.net.
+    IP Address: 198.6.1.181
+    Nameserver: ns.ripn.net.
+    IP Address: 194.85.105.17
+    Nameserver: ns2.nic.fr.
+    IP Address: 192.93.0.4
+    Nameserver: ns2.ripn.net.
+    IP Address: 194.226.96.30
+    Nameserver: ns5.msk-ix.net.
+    IP Address: 193.232.128.6
+    Nameserver: ns9.ripn.net.
+    IP Address: 194.85.252.62
+    Nameserver: sunic.sunet.se.
+    IP Address: 192.36.125.2
+
+Registration Date: 07-April-1994
+Last Updated Date: 10-March-2008

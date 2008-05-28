@@ -1,0 +1,72 @@
+
+IANA Whois Service
+Domain: mt
+ID: mt
+
+Sponsoring Organization:
+    Name: 
+    Organization: NIC Malta
+    Address1: University Campus
+    Address2: 
+    Address3: 
+    City: Msida
+    State/Province: 
+    Country: Malta
+    Postal Code: MSD06
+    Phone: 
+    Fax: 
+    Email: 
+    Registration Date: 01-January-1985
+    Last Updated Date: 01-January-1985
+
+Administrative Contact:
+    Name: NIC (Malta) Administrative Contact - Victor Nezval
+    Organization: NIC (Malta)
+    Address1: University Campus
+    Address2: 
+    Address3: 
+    City: Msida
+    State/Province: 
+    Country: Malta
+    Postal Code: MSD06
+    Phone: +356 2340 2510
+    Fax: +356 21 343 397
+    Email: admin@nic.org.mt
+    Registration Date: 01-January-1985
+    Last Updated Date: 23-July-2002
+
+Technical Contact:
+    Name: NIC (Malta) Technical Contact - Robert Sultana
+    Organization: NIC (Malta)
+    Address1: University Campus
+    Address2: 
+    Address3: 
+    City: Msida
+    State/Province: 
+    Country: Malta
+    Postal Code: MSD06
+    Phone: +356 21 343 399
+    Fax: +356 21 343 397
+    Email: tech@nic.org.mt
+    Registration Date: 01-January-1985
+    Last Updated Date: 23-July-2002
+URL for registration services: http://www.nic.org.mt
+
+Nameserver Information:
+    Nameserver: ns.mt.
+    IP Address: 193.188.47.252
+    Nameserver: ns.uu.net.
+    IP Address: 137.39.1.3
+    Nameserver: ns1.mt.
+    IP Address: 193.188.34.241
+    Nameserver: sunic.sunet.se.
+    IP Address: 192.36.125.2
+    Nameserver: b.hosting.nic.fr.
+    IP Address: 192.93.0.4 2001:660:3005:1:0:0:1:2
+    Nameserver: ns-mt.ripe.net.
+    IP Address: 193.0.12.136 2001:610:240:0:53:cc:12:136
+    Nameserver: ns-ext.isc.org.
+    IP Address: 204.152.184.64 2001:4f8:0:2:0:0:0:13
+
+Registration Date: 02-December-1992
+Last Updated Date: 25-April-2006

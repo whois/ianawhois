@@ -1,0 +1,76 @@
+
+IANA Whois Service
+Domain: gr
+ID: gr
+
+Sponsoring Organization:
+    Name: 
+    Organization: ICS-FORTH GR
+    Address1: P.O. Box 1385
+    Address2: Heraklion
+    Address3: 
+    City: Crete
+    State/Province: 
+    Country: Greece
+    Postal Code: 71110
+    Phone: 
+    Fax: 
+    Email: 
+    Registration Date: 01-January-1985
+    Last Updated Date: 01-January-1985
+
+Administrative Contact:
+    Name: Vaggelis Segredakis
+    Organization: ICS-FORTH GR
+    Address1: P.O. Box 1385
+    Address2: Heraklion
+    Address3: 
+    City: Crete
+    State/Province: 
+    Country: Greece
+    Postal Code: 71110
+    Phone: +30 281 0391450
+    Fax: +30 281 0391451
+    Email: segred@ics.forth.gr ; noc@ics.forth.gr
+    Registration Date: 01-January-1985
+    Last Updated Date: 31-December-2002
+
+Technical Contact:
+    Name: Vaggelis Segredakis
+    Organization: ICS-FORTH GR
+    Address1: P.O. Box 1385
+    Address2: Heraklion
+    Address3: 
+    City: Crete
+    State/Province: 
+    Country: Greece
+    Postal Code: 71110
+    Phone: +30 281 0391450
+    Fax: +30 281 0391451
+    Email: segred@ics.forth.gr ; noc@ics.forth.gr
+    Registration Date: 01-January-1985
+    Last Updated Date: 31-December-2002
+URL for registration services: http://www.gr
+
+Nameserver Information:
+    Nameserver: estia.ics.forth.gr.
+    IP Address: 139.91.191.3 2001:648:2c30::191:3
+    Nameserver: grdns.ics.forth.gr.
+    IP Address: 139.91.1.1
+    Nameserver: grdns-aix.ics.forth.gr.
+    IP Address: 195.130.89.230
+    Nameserver: grdns-at.ics.forth.gr.
+    IP Address: 193.171.255.40
+    Nameserver: grdns-ath.ics.forth.gr.
+    IP Address: 139.91.250.41
+    Nameserver: grdns-br.ics.forth.gr.
+    IP Address: 200.160.7.163
+    Nameserver: grdns-de.denic.de.
+    IP Address: 81.91.161.80
+    Nameserver: grdns-us.ics.forth.gr.
+    IP Address: 208.77.191.232
+    Nameserver: grns-her.ics.forth.gr.
+    IP Address: 139.91.248.1
+
+Registration Date: 19-February-1989
+Last Updated Date: 09-October-2007

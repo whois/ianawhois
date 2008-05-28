@@ -1,0 +1,69 @@
+
+IANA Whois Service
+Domain: na
+ID: na
+
+Sponsoring Organization:
+    Name: 
+    Organization: Namibian Network Information Center
+    Address1: PO Box 1342
+    Address2: 
+    Address3: 
+    City: Swakopmund
+    State/Province: 
+    Country: Namibia
+    Postal Code: 
+    Phone: 
+    Fax: 
+    Email: 
+    Registration Date: 01-January-1985
+    Last Updated Date: 01-January-1985
+
+Administrative Contact:
+    Name: NA Domain Administrators
+    Organization: Namibian Network Information Center
+    Address1: PO Box 1342
+    Address2: 18, Strand Street
+    Address3: 
+    City: Swakopmund
+    State/Province: 
+    Country: Namibia
+    Postal Code: 
+    Phone: +264 81 124 6733
+    Fax: +264 61 232047
+    Email: dns-admin@na-nic.com.na
+    Registration Date: 01-January-1985
+    Last Updated Date: 01-November-2005
+
+Technical Contact:
+    Name: NA Domain Techs
+    Organization: Namibian Network Information Center
+    Address1: PO Box 1342
+    Address2: 
+    Address3: 
+    City: Swakopmund
+    State/Province: 
+    Country: Namibia
+    Postal Code: 
+    Phone: +264 64 463931
+    Fax: +264 64 463931
+    Email: dns-tech@na-nic.com.na
+    Registration Date: 01-January-1985
+    Last Updated Date: 01-January-1985
+URL for registration services: http://www.na-nic.com.na/
+Whois Server (port 43): whois.na-nic.com.na
+
+Nameserver Information:
+    Nameserver: merlin.net.na.
+    IP Address: 204.152.184.96
+    Nameserver: nasans4.nasa.gov.
+    IP Address: 198.116.144.33
+    Nameserver: ns-ext.isc.org.
+    IP Address: 204.152.184.64 2001:4f8:0:2:0:0:0:13
+    Nameserver: ns-na.ripe.net.
+    IP Address: 193.0.12.152
+    Nameserver: aunic.aunic.net.
+    IP Address: 203.29.5.1
+
+Registration Date: 08-May-1991
+Last Updated Date: 17-March-2008

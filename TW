@@ -1,0 +1,77 @@
+
+IANA Whois Service
+Domain: tw
+ID: tw
+
+Sponsoring Organization:
+    Name: 
+    Organization: Taiwan Network Information Center (TWNIC)
+    Address1: 4F-2, No. 9, Roosevelt Road, Section 2
+    Address2: 
+    Address3: 
+    City: Taipei
+    State/Province: 
+    Country: Taiwan
+    Postal Code: 100
+    Phone: 
+    Fax: 
+    Email: 
+    Registration Date: 01-January-1985
+    Last Updated Date: 05-June-2003
+
+Administrative Contact:
+    Name: Ai-Chin Lu
+    Organization: Taiwan Network Information Center (TWNIC)
+    Address1: 4F-2, No. 9, Roosevelt Road, Section 2
+    Address2: 
+    Address3: 
+    City: Taipei
+    State/Province: 
+    Country: Taiwan
+    Postal Code: 100
+    Phone: +886 2 2341 1313 ext. 126
+    Fax: +886 2 2396 8832
+    Email: tw-admin@twnic.net
+    Registration Date: 01-January-1985
+    Last Updated Date: 16-April-2004
+
+Technical Contact:
+    Name: Nai-Wen Hsu
+    Organization: Taiwan Network Information Center (TWNIC)
+    Address1: 4F-2, No. 9, Roosevelt Road, Section 2
+    Address2: 
+    Address3: 
+    City: Taipei
+    State/Province: 
+    Country: Taiwan
+    Postal Code: 100
+    Phone: +886 2 2341-1313 ext. 500
+    Fax: +886 2 2396-8832
+    Email: snw@twnic.net.tw
+    Registration Date: 01-January-1985
+    Last Updated Date: 05-June-2003
+URL for registration services: http://rs.twnic.net.tw
+Whois Server (port 43): whois.twnic.net.tw
+
+Nameserver Information:
+    Nameserver: a.dns.tw.
+    IP Address: 203.73.24.8 2001:cd8:800:0:0:0:0:8
+    Nameserver: b.dns.tw.
+    IP Address: 210.201.138.58
+    Nameserver: c.dns.tw.
+    IP Address: 61.220.48.1 2001:238:800:1:0:0:0:1
+    Nameserver: d.dns.tw.
+    IP Address: 210.17.9.230 2001:c50:ffff:1:0:0:0:230
+    Nameserver: e.dns.tw.
+    IP Address: 211.79.207.26
+    Nameserver: f.dns.tw.
+    IP Address: 163.28.1.10
+    Nameserver: ns.twnic.net.
+    IP Address: 192.83.166.11
+    Nameserver: g.dns.tw.
+    IP Address: 220.229.225.195
+    Nameserver: h.dns.tw.
+    IP Address: 61.31.216.3
+
+Registration Date: 31-July-1989
+Last Updated Date: 14-February-2007

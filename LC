@@ -1,0 +1,74 @@
+
+IANA Whois Service
+Domain: lc
+ID: lc
+
+Sponsoring Organization:
+    Name: 
+    Organization: University of Puerto Rico
+    Address1: Central Administration Building
+    Address2: P.O. Box 364984G
+    Address3: 
+    City: San Juan
+    State/Province: 
+    Country: Puerto Rico
+    Postal Code: 00936
+    Phone: 
+    Fax: 
+    Email: 
+    Registration Date: 01-January-1985
+    Last Updated Date: 01-January-1985
+
+Administrative Contact:
+    Name: Albert H. Daniels
+    Organization: ISIS World Corporation
+    Address1: #4 Colony House
+    Address2: John Compton Highway
+    Address3: 
+    City: Castries
+    State/Province: 
+    Country: Saint Lucia
+    Postal Code: 
+    Phone: 758 452-5444
+    Fax: 758 451-7599
+    Email: daniels@isisworld.lc
+    Registration Date: 01-January-1985
+    Last Updated Date: 03-August-2007
+
+Technical Contact:
+    Name: Patrick W. Lay
+    Organization: NIC LC
+    Address1: #4 Colony House
+    Address2: John Compton Highway
+    Address3: 
+    City: Castries
+    State/Province: 
+    Country: Saint Lucia
+    Postal Code: 
+    Phone: 758-452-0220
+    Fax: 758-452-0330
+    Email: technical@nic.lc
+    Registration Date: 19-September-2005
+    Last Updated Date: 03-August-2007
+URL for registration services: http://www.nic.lc
+
+Nameserver Information:
+    Nameserver: dns.server.ag.
+    IP Address: 64.239.9.180
+    Nameserver: ns.dnsserver.ag.
+    IP Address: 66.223.51.173
+    Nameserver: a9.lc.afilias-nst.info.
+    IP Address: 204.74.112.248 2001:502:d399:0:0:0:0:248
+    Nameserver: b9.lc.afilias-nst.org.
+    IP Address: 204.74.113.248 2001:502:100e:0:0:0:0:248
+    Nameserver: c9.lc.afilias-nst.info.
+    IP Address: 199.7.66.248
+    Nameserver: d9.lc.afilias-nst.org.
+    IP Address: 199.7.67.248
+    Nameserver: e9.lc.afilias-nst.info.
+    IP Address: 192.100.59.248
+    Nameserver: f9.lc.afilias-nst.org.
+    IP Address: 198.133.199.248
+
+Registration Date: 03-September-1991
+Last Updated Date: 22-October-2007

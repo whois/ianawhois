@@ -1,0 +1,71 @@
+
+IANA Whois Service
+Domain: ci
+ID: ci
+
+Sponsoring Organization:
+    Name: 
+    Organization: INP-HB Institut National Polytechnique Felix Houphouet Boigny
+    Address1: BP 1093
+    Address2: 
+    Address3: 
+    City: Yamoussoukro
+    State/Province: 
+    Country: Cote d'Ivoire
+    Postal Code: 
+    Phone: 
+    Fax: 
+    Email: 
+    Registration Date: 01-January-1985
+    Last Updated Date: 01-January-1985
+
+Administrative Contact:
+    Name: Bobouo Nakounou
+    Organization: INP-HB Institut National Polytechnique Felix Houphouet Boigny
+    Address1: BP 1093
+    Address2: 
+    Address3: 
+    City: Yamoussoukro
+    State/Province: 
+    Country: Cote d'Ivoire
+    Postal Code: 
+    Phone: +225 30 64 05 41
+    Fax: +225 22 44 66 00
+    Email: bobouo@nic.ci
+    Registration Date: 01-January-1985
+    Last Updated Date: 30-December-2004
+
+Technical Contact:
+    Name: Souleymane Oumtanaga
+    Organization: INP-HB Institut National Polytechnique Felix Houphouet Boigny
+    Address1: BP 1093
+    Address2: 
+    Address3: 
+    City: Yamoussoukro
+    State/Province: 
+    Country: Cote d'Ivoire
+    Postal Code: 
+    Phone: +225 07 90 02 31
+    Fax: +225 22 44 66 00
+    Email: oumtana@nic.ci
+    Registration Date: 01-January-1985
+    Last Updated Date: 30-December-2004
+URL for registration services: http://www.nic.ci
+Whois Server (port 43): whois.nic.ci
+
+Nameserver Information:
+    Nameserver: ci.hosting.nic.fr.
+    IP Address: 192.134.0.49 2001:660:3006:1:0:0:1:1
+    Nameserver: ns.nic.ci.
+    IP Address: 213.136.100.81
+    Nameserver: ns1.nic.ci.
+    IP Address: 213.136.106.214
+    Nameserver: phloem.uoregon.edu.
+    IP Address: 128.223.32.35 2001:468:d01:20::80df:2023
+    Nameserver: ns-ci.ripe.net.
+    IP Address: 193.0.12.56 2001:610:240:0:53:cc:12:56
+    Nameserver: ns1.ird.fr.
+    IP Address: 193.50.53.3
+
+Registration Date: 14-February-1995
+Last Updated Date: 21-April-2008

@@ -1,0 +1,79 @@
+
+IANA Whois Service
+Domain: tel
+ID: tel
+
+Sponsoring Organization:
+    Name: 
+    Organization: Telnic Ltd.
+    Address1: 8 Wilfred Street
+    Address2: 
+    Address3: 
+    City: London
+    State/Province: 
+    Country: United Kingdom
+    Postal Code: SW1E 6PL
+    Phone: 
+    Fax: 
+    Email: 
+    Registration Date: 01-March-2007
+    Last Updated Date: 01-March-2007
+
+Administrative Contact:
+    Name: TLD Administrative Contact
+    Organization: Telnic Ltd.
+    Address1: 8 Wilfred Street
+    Address2: 
+    Address3: 
+    City: London
+    State/Province: 
+    Country: United Kingdom
+    Postal Code: SW1E 6PL
+    Phone: +44 20 7828 0000
+    Fax: +44 20 7828 7007
+    Email: tld-admin-contact@nic.tel
+    Registration Date: 01-March-2007
+    Last Updated Date: 01-March-2007
+
+Technical Contact:
+    Name: TLD Technical Contact
+    Organization: Telnic Ltd.
+    Address1: 8 Wilfred Street
+    Address2: 
+    Address3: 
+    City: London
+    State/Province: 
+    Country: United Kingdom
+    Postal Code: SW1E 6PL
+    Phone: +44 20 7828 0000
+    Fax: +44 20 7828 7007
+    Email: tld-tech-contact@nic.tel
+    Registration Date: 01-March-2007
+    Last Updated Date: 01-March-2007
+URL for registration services: http://www.nic.tel
+Whois Server (port 43): whois.nic.tel
+
+Nameserver Information:
+    Nameserver: a.nic.tel.
+    IP Address: 194.146.106.38
+    Nameserver: b.nic.tel.
+    IP Address: 192.36.144.116
+    Nameserver: c.nic.tel.
+    IP Address: 209.173.53.162
+    Nameserver: d.nic.tel.
+    IP Address: 209.173.57.162
+    Nameserver: e.nic.tel.
+    IP Address: 209.173.60.65
+    Nameserver: f.nic.tel.
+    IP Address: 213.86.51.129
+    Nameserver: g.nic.tel.
+    IP Address: 209.173.58.65
+    Nameserver: h.nic.tel.
+    IP Address: 209.173.58.66
+    Nameserver: i.nic.tel.
+    IP Address: 199.7.64.126 2001:503:7bbb:ffff:ffff:ffff:ffff:ff7e
+    Nameserver: j.nic.tel.
+    IP Address: 199.7.77.126 2001:503:8028:ffff:ffff:ffff:ffff:ff7e
+
+Registration Date: 01-March-2007
+Last Updated Date: 02-March-2007

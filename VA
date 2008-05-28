@@ -1,0 +1,76 @@
+
+IANA Whois Service
+Domain: va
+ID: va
+
+Sponsoring Organization:
+    Name: 
+    Organization: Holy See Secretariat of State
+                  Internet Office of the Holy See
+    Address1: Cortile del Triangolo
+    Address2: 
+    Address3: 
+    City: Vatican City
+    State/Province: Vatican City State
+    Country: 
+    Postal Code: VA-00120
+    Phone: 
+    Fax: 
+    Email: 
+    Registration Date: 01-January-1985
+    Last Updated Date: 01-January-1985
+
+Administrative Contact:
+    Name: Stefano Pasquini
+    Organization: Internet Office of the Holy See
+    Address1: Cortile del Triangolo
+    Address2: 
+    Address3: 
+    City: Vatican City
+    State/Province: Vatican City State
+    Country: 
+    Postal Code: VA 00120
+    Phone: +39 (06) 69893461
+    Fax: +39 (06) 69882067
+    Email: pasquini@vatican.va
+    Registration Date: 01-January-1985
+    Last Updated Date: 14-January-2004
+
+Technical Contact:
+    Name: Stefano Pasquini
+    Organization: Internet Office of the Holy See
+    Address1: Cortile del Triangolo
+    Address2: 
+    Address3: 
+    City: Vatican City
+    State/Province: Vatican City State
+    Country: 
+    Postal Code: VA 00120
+    Phone: +39 (06) 69893461
+    Fax: +39 (06) 69882067
+    Email: pasquini@vatican.va
+    Registration Date: 01-January-1985
+    Last Updated Date: 14-January-2004
+
+Nameserver Information:
+    Nameserver: dns.nic.it.
+    IP Address: 193.205.245.5 2001:760:4000:1f5:0:0:0:5
+    Nameserver: dns2.it.net.
+    IP Address: 151.1.2.1
+    Nameserver: dxmon.cern.ch.
+    IP Address: 192.65.185.10
+    Nameserver: john.vatican.va.
+    IP Address: 212.77.0.110
+    Nameserver: michael.vatican.va.
+    IP Address: 212.77.0.2
+    Nameserver: ns.ripe.net.
+    IP Address: 193.0.0.193
+    Nameserver: ns.urbe.it.
+    IP Address: 193.43.128.2
+    Nameserver: osiris.namex.it.
+    IP Address: 193.201.40.6
+    Nameserver: seth.namex.it.
+    IP Address: 193.201.40.7
+
+Registration Date: 11-September-1995
+Last Updated Date: 07-November-2005

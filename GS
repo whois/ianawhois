@@ -1,0 +1,73 @@
+
+IANA Whois Service
+Domain: gs
+ID: gs
+
+Sponsoring Organization:
+    Name: 
+    Organization: Government of South Georgia and South Sandwich Islands (GSGSSI)
+    Address1: Government House
+    Address2: 
+    Address3: 
+    City: Stanley, Falkland Islands
+    State/Province: 
+    Country: South Georgia and the South Sandwich Islands
+    Postal Code: F1QQ 1ZZ
+    Phone: 
+    Fax: 
+    Email: 
+    Registration Date: 01-January-1985
+    Last Updated Date: 22-December-2005
+
+Administrative Contact:
+    Name: Marie Gallagher, Customer Support and Development Officer
+    Organization: Atlantis North Ltd
+    Address1: 23 Springfield (University of Dundee)
+    Address2: 
+    Address3: 
+    City: Dundee
+    State/Province: Tayside
+    Country: United Kingdom
+    Postal Code: DD1 4JE
+    Phone: +44 (0)1382 385837
+    Fax: +44 (0)1382 388159
+    Email: helpdesk@nic.gs
+    Registration Date: 22-December-2005
+    Last Updated Date: 27-February-2007
+
+Technical Contact:
+    Name: Paul Shafi, Technical Director
+    Organization: Atlantis North Ltd
+    Address1: 23 Springfield (University of Dundee)
+    Address2: 
+    Address3: 
+    City: Dundee
+    State/Province: Tayside
+    Country: United Kingdom
+    Postal Code: DD1 4JE
+    Phone: +44 (0)1382 385837
+    Fax: +44 (0)1382 348159
+    Email: paul.shafi@sgisland.org
+    Registration Date: 22-December-2005
+    Last Updated Date: 25-September-2006
+URL for registration services: http://secure.nic.gs
+Whois Server (port 43): whois.nic.gs
+
+Nameserver Information:
+    Nameserver: ns.sydney.cocca.gs.
+    IP Address: 203.119.12.244
+    Nameserver: ns-gs.ripe.net.
+    IP Address: 193.0.12.206
+    Nameserver: ns.anycast.nic.gs.
+    IP Address: 204.61.216.21
+    Nameserver: gs1.dyntld.net.
+    IP Address: 208.78.70.86
+    Nameserver: gs2.dyntld.net.
+    IP Address: 204.13.250.86
+    Nameserver: gs3.dyntld.net.
+    IP Address: 208.78.71.86
+    Nameserver: gs4.dyntld.net.
+    IP Address: 204.13.251.86
+
+Registration Date: 31-July-1997
+Last Updated Date: 15-May-2008

@@ -1,0 +1,41 @@
+#!/bin/sh
+
+# $Id: get-whois-and-commit,v 1.14 2006-10-14 21:05:20 bortzmeyer Exp $
+
+LIST=bortzmeyer@nic.fr,stephane@sources.org,Loic.Damilaville@nic.fr,iana-whois-changes@dk-hostmaster.dk,Mohsen.Souissi@nic.fr,farias@nic.mx
+MAINTAINER=Stephane.Bortzmeyer@nic.fr
+ROOTNAMESERVER=K
+date=`date +%Y-%m-%d`
+TLDS=`dig @${ROOTNAMESERVER}.root-servers.net AXFR . | awk -F. '/^[a-z][a-z]+\.\t.*NS/ {print $1}' | tr '[a-z]' '[A-Z]' | sort | uniq`
+
+PATH=${HOME}/bin:${PATH}
+LOG=/tmp/get-whois.$$.log
+DIFF=/tmp/get-whois.$$.diff
+trap  "rm -f $LOG $DIFF; exit 1" 1 2 3 15 
+trap  "rm -f $LOG $DIFF" EXIT
+
+for tld in $TLDS; do
+    new=0
+    if [ ! -e $tld ]; then # New Top Level Domain
+	touch $tld
+	cvs add $tld > $LOG 2>&1
+	new=1
+    fi
+    whois -h whois.iana.org $tld > $tld 2> $LOG
+    if [ $? != 0 ]; then
+        sendemail.py -t $MAINTAINER -f $MAINTAINER -s "Cannot retrieve IANA whois" < $LOG
+	exit 1
+    fi
+    if [ $new == 0 ]; then
+	cvs diff $tld > $DIFF 2>&1
+	if [ ! -z $DIFF ]; then
+	    sendemail.py -t $LIST -f $MAINTAINER -h "X-IANA-monitoring: whois" -s "New version of IANA whois for $tld" < $DIFF
+	    cvs commit -m "New copy of $date" $tld > $LOG 2>&1 
+	fi
+    else 
+	    sendemail.py -t $LIST -f $MAINTAINER -h "X-IANA-monitoring: whois" -s "New TLD in IANA whois: $tld" < $tld
+	    cvs commit -m "First version ($date)" $tld > $LOG 2>&1 	
+    fi
+    sleep 300
+done
+

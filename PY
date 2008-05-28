@@ -1,0 +1,74 @@
+
+IANA Whois Service
+Domain: py
+ID: py
+
+Sponsoring Organization:
+    Name: 
+    Organization: NIC-PY
+    Address1: Campus Universitario UNA
+    Address2: 
+    Address3: 
+    City: San Lorenzo
+    State/Province: Asuncion
+    Country: Paraguay
+    Postal Code: 
+    Phone: 
+    Fax: 
+    Email: 
+    Registration Date: 01-January-1985
+    Last Updated Date: 01-January-1985
+
+Administrative Contact:
+    Name: Administrative Contact TLD-PY
+    Organization: LED-UCA
+    Address1: Campus UCA
+    Address2: B. Sta. Librada
+    Address3: 
+    City: 
+    State/Province: Asuncion
+    Country: Paraguay
+    Postal Code: CC 1683
+    Phone: +595 21 334 650
+    Fax: +595 21 310 587
+    Email: admin-contact@nic.py
+    Registration Date: 01-January-1985
+    Last Updated Date: 01-January-1985
+
+Technical Contact:
+    Name: DNS Administrator TLD-PY
+    Organization: Centro Nacional de Computación (CNC-UNA)
+    Address1: Campus Universitario UNA
+    Address2: 
+    Address3: 
+    City: 
+    State/Province: San Lorenzo
+    Country: Paraguay
+    Postal Code: 1439
+    Phone: +595 21 585550
+    Fax: +595 21 585550 ; +595 21 585554
+    Email: dnsadmin@cnc.una.py
+    Registration Date: 01-January-1985
+    Last Updated Date: 28-September-2004
+URL for registration services: http://www.nic.py
+
+Nameserver Information:
+    Nameserver: auth00.ns.uu.net.
+    IP Address: 198.6.1.65
+    Nameserver: merapi.switch.ch.
+    IP Address: 130.59.211.10 2001:620:0:0:0:0:0:5
+    Nameserver: ns.cnc.una.py.
+    IP Address: 200.10.228.132
+    Nameserver: ns.dns.br.
+    IP Address: 200.160.0.5
+    Nameserver: sce.cnc.una.py.
+    IP Address: 200.10.228.133
+    Nameserver: sunic.sunet.se.
+    IP Address: 192.36.125.2
+    Nameserver: ns-py.ripe.net.
+    IP Address: 193.0.12.172  2001:610:240:0:53:cc:12:172
+    Nameserver: ns3.nic.mx.
+    IP Address: 200.33.111.1
+
+Registration Date: 09-September-1991
+Last Updated Date: 26-July-2005

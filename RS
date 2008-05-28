@@ -1,0 +1,79 @@
+
+IANA Whois Service
+Domain: rs
+ID: rs
+
+Sponsoring Organization:
+    Name: 
+    Organization: Serbian National Register of
+                  Internet Domain Names
+    Address1: Bulevar Kralja Aleksandra 73
+    Address2: 
+    Address3: 
+    City: Belgrade
+    State/Province: 
+    Country: Serbia
+    Postal Code: 11000
+    Phone: 
+    Fax: 
+    Email: 
+    Registration Date: 24-September-2007
+    Last Updated Date: 24-September-2007
+
+Administrative Contact:
+    Name: Mirjana Tasic
+    Organization: Registar Nacionalnog Internet Domena Srbije
+    Address1: Bulevar Kralja Aleksandra 73
+    Address2: 
+    Address3: 
+    City: Belgrade
+    State/Province: 
+    Country: Serbia
+    Postal Code: 11000
+    Phone: +381112637779
+    Fax: +381112630151
+    Email: mtasic@matf.bg.ac.yu
+    Registration Date: 21-September-2007
+    Last Updated Date: 24-September-2007
+
+Technical Contact:
+    Name: Nenad Krajnovic
+    Organization: Registar Nacionalnog Internet Domena Srbije
+    Address1: Bulevar Kralja Aleksandra 73
+    Address2: 
+    Address3: 
+    City: Belgrade
+    State/Province: 11000
+    Country: Serbia
+    Postal Code: 
+    Phone: +381113221419
+    Fax: +381113218399
+    Email: krajko@etf.bg.ac.yu
+    Registration Date: 21-September-2007
+    Last Updated Date: 24-September-2007
+URL for registration services: http://www.nic.rs
+
+Nameserver Information:
+    Nameserver: ns1.nic.rs.
+    IP Address: 147.91.8.6
+    Nameserver: odisej.telekom.yu.
+    IP Address: 195.178.32.2
+    Nameserver: avala.yubc.net.
+    IP Address: 212.124.160.1
+    Nameserver: ns1.nic.me.
+    IP Address: 89.188.44.44
+    Nameserver: ns-rs.ripe.net.
+    IP Address: 193.0.12.184
+    Nameserver: ns-ext.isc.org.
+    IP Address: 204.152.184.64 2001:4f8:0:2:0:0:0:13
+    Nameserver: ns-ext.lga1.isc.org.
+    IP Address: 192.228.91.19
+    Nameserver: ns-ext.nrt1.isc.org.
+    IP Address: 192.228.90.19
+    Nameserver: rs-ns.anycast.pch.net.
+    IP Address: 204.61.216.32
+    Nameserver: ns-ext.sth1.isc.org.
+    IP Address: 192.228.89.19
+
+Registration Date: 24-September-2007
+Last Updated Date: 01-April-2008

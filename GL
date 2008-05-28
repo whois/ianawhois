@@ -1,0 +1,66 @@
+
+IANA Whois Service
+Domain: gl
+ID: gl
+
+Sponsoring Organization:
+    Name: 
+    Organization: TELE Greenland A/S
+    Address1: Skolevej 8
+    Address2: PO Box 1002
+    Address3: 
+    City: Nuuk
+    State/Province: 
+    Country: Greenland
+    Postal Code: 3900
+    Phone: 
+    Fax: 
+    Email: 
+    Registration Date: 01-January-1985
+    Last Updated Date: 17-May-2002
+
+Administrative Contact:
+    Name: John Siegstad
+    Organization: TELE Greenland A/S
+    Address1: Skolevej 8
+    Address2: PO Box 1002
+    Address3: 
+    City: Nuuk
+    State/Province: 
+    Country: Greenland
+    Postal Code: 3900
+    Phone: +299 321 255
+    Fax: +299 323 312
+    Email: luk@tele.gl
+    Registration Date: 01-January-1985
+    Last Updated Date: 28-September-2004
+
+Technical Contact:
+    Name: Steffen Moeller
+    Organization: TELE Greenland A/S
+    Address1: Skolevej 8
+    Address2: PO Box 1002
+    Address3: 
+    City: Nuuk
+    State/Province: 
+    Country: Greenland
+    Postal Code: 3900
+    Phone: +299 321 255
+    Fax: +299 323 312
+    Email: stm@tele.gl
+    Registration Date: 01-January-1985
+    Last Updated Date: 28-September-2004
+URL for registration services: http://www.nic.gl/
+
+Nameserver Information:
+    Nameserver: ns.uu.net.
+    IP Address: 137.39.1.3
+    Nameserver: ns-soa.darenet.dk.
+    IP Address: 130.226.1.4
+    Nameserver: tgserv.tele.gl.
+    IP Address: 194.177.224.7
+    Nameserver: ns-gl.ripe.net.
+    IP Address: 193.0.12.88
+
+Registration Date: 08-April-1994
+Last Updated Date: 18-August-2005

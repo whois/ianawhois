@@ -1,0 +1,80 @@
+
+IANA Whois Service
+Domain: lk
+ID: lk
+
+Sponsoring Organization:
+    Name: 
+    Organization: Council for Information Technology
+                  LK Domain Registrar
+    Address1: 9 Clifford Avenue
+    Address2: 
+    Address3: 
+    City: Colombo
+    State/Province: 
+    Country: Sri Lanka
+    Postal Code: 00300
+    Phone: 
+    Fax: 
+    Email: 
+    Registration Date: 01-January-1985
+    Last Updated Date: 01-January-1985
+
+Administrative Contact:
+    Name: Gihan Dias
+    Organization: Department of Computer Science and Engineering
+                  University of Moratuwa
+    Address1: 
+    Address2: 
+    Address3: 
+    City: Moratuwa
+    State/Province: 
+    Country: Sri Lanka
+    Postal Code: 10400
+    Phone: +94 11 4 216 065
+    Fax: +94 11 2 650 912
+    Email: gihan@cse.mrt.ac.lk
+    Registration Date: 01-January-1985
+    Last Updated Date: 07-July-2005
+
+Technical Contact:
+    Name: 
+    Organization: LK Domain Hostmaster
+                  Department of Computer Science and Engineering
+                  University of Moratuwa
+    Address1: 
+    Address2: 
+    Address3: 
+    City: Moratuwa
+    State/Province: 
+    Country: Sri Lanka
+    Postal Code: 10400
+    Phone: +94 11 4 216 061
+    Fax: +94 11 2 650 912
+    Email: hostmaster@nic.lk
+    Registration Date: 01-January-1985
+    Last Updated Date: 07-July-2005
+URL for registration services: http://www.nic.lk/
+
+Nameserver Information:
+    Nameserver: ns.lankacom.net.
+    IP Address: 203.143.14.230
+    Nameserver: pendragon.cs.purdue.edu.
+    IP Address: 128.10.2.5
+    Nameserver: ns-t.nic.lk.
+    IP Address: 203.94.66.129
+    Nameserver: ns-c.nic.lk.
+    IP Address: 203.143.19.3
+    Nameserver: ns-l.ac.lk.
+    IP Address: 192.248.1.162
+    Nameserver: ns-l.nic.lk.
+    IP Address: 192.248.8.17
+    Nameserver: ns-lk.ripe.net.
+    IP Address: 193.0.12.208  2001:610:240:0:53:cc:12:208
+    Nameserver: ns-s.ac.lk.
+    IP Address: 202.124.166.178
+    Nameserver: nic.lk-anycast.pch.net.
+    IP Address: 204.61.216.27
+
+Registration Date: 15-June-1990
+Last Updated Date: 05-November-2007
