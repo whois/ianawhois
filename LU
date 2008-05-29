@@ -31,9 +31,9 @@ Administrative Contact:
     Postal Code: 1359
     Phone: +352 42 44 09 1
     Fax: +352 42 24 73
-    Email: barthel@restena.lu
+    Email: antoine.barthel@restena.lu
     Registration Date: 01-January-1985
-    Last Updated Date: 01-January-1985
+    Last Updated Date: 22-May-2008
 
 Technical Contact:
     Name: Gilles Massen
@@ -45,25 +45,23 @@ Technical Contact:
     State/Province: 
     Country: Luxembourg
     Postal Code: 1359
-    Phone: +352 42 44 09 1
-    Fax: +352 42 24 73
-    Email: gilles.massen@noc.restena.lu
+    Phone: +352 4244091
+    Fax: +352 422473
+    Email: gilles.massen@restena.lu
     Registration Date: 01-January-1985
-    Last Updated Date: 01-January-1985
+    Last Updated Date: 22-May-2008
 URL for registration services: http://www.dns.lu
 Whois Server (port 43): whois.dns.lu
 
 Nameserver Information:
     Nameserver: ns1.dns.lu.
-    IP Address: 158.64.229.2
+    IP Address: 158.64.229.2 2001:a18:4:0:0:0:0:2
     Nameserver: ns5.dns.lu.
     IP Address: 81.91.161.100
     Nameserver: dns.princeton.edu.
     IP Address: 128.112.129.15
     Nameserver: merapi.switch.ch.
     IP Address: 130.59.211.10 2001:620:0:0:0:0:0:5
-    Nameserver: sunic.sunet.se.
-    IP Address: 192.36.125.2
     Nameserver: a.dns.lu.
     IP Address: 204.74.112.251  2001:0502:D399::251
     Nameserver: b.dns.lu.
@@ -72,6 +70,8 @@ Nameserver Information:
     IP Address: 199.7.66.251
     Nameserver: d.dns.lu.
     IP Address: 199.7.67.251  2001:502:100e:0:0:0:0:251
+    Nameserver: k.dns.lu.
+    IP Address: 194.0.1.13
 
 Registration Date: 27-January-1995
-Last Updated Date: 15-May-2006
+Last Updated Date: 22-May-2008
