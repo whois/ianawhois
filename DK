@@ -55,7 +55,7 @@ Whois Server (port 43): whois.dk-hostmaster.dk
 
 Nameserver Information:
     Nameserver: b.nic.dk.
-    IP Address: 193.163.102.2
+    IP Address: 193.163.102.222 2a01:630:0:80:0:0:0:53
     Nameserver: a.nic.dk.
     IP Address: 212.88.78.122
     Nameserver: c.nic.dk.
@@ -63,9 +63,9 @@ Nameserver Information:
     Nameserver: l.nic.dk.
     IP Address: 192.38.7.242
     Nameserver: s.nic.dk.
-    IP Address: 192.36.144.116
+    IP Address: 77.72.229.252 2a01:3f0:0:303:0:0:0:53
     Nameserver: p.nic.dk.
     IP Address: 204.61.216.36
 
 Registration Date: 14-July-1987
-Last Updated Date: 15-April-2008
+Last Updated Date: 22-May-2008
