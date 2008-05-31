@@ -53,14 +53,14 @@ Technical Contact:
 URL for registration services: http://www.government.pn/PnRegistry/PnRegistry.htm
 
 Nameserver Information:
+    Nameserver: ns1.pitcairn.net.pn.
+    IP Address: 210.54.120.113
     Nameserver: flag.ep.net.
     IP Address: 198.32.4.13
-    Nameserver: ns1.pitcairn.net.pn.
-    IP Address: 64.62.148.212
-    Nameserver: ns-ext.vix.com.
-    IP Address: 204.152.184.64
     Nameserver: slave1.sth.netnod.se.
     IP Address: 192.36.144.116
+    Nameserver: ns-ext.isc.org.
+    IP Address: 204.152.184.64 2001:4f8:0:2:0:0:0:13
 
 Registration Date: 10-July-1997
-Last Updated Date: 29-May-2008
+Last Updated Date: 30-May-2008
