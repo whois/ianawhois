@@ -6,7 +6,7 @@ ID: hr
 Sponsoring Organization:
     Name: 
     Organization: CARNet - Croatian Academic and Research Network
-    Address1: Josipa Marohnica bb
+    Address1: Josipa Marohnica 5
     Address2: 
     Address3: 
     City: Zagreb
@@ -17,12 +17,12 @@ Sponsoring Organization:
     Fax: 
     Email: 
     Registration Date: 01-January-1985
-    Last Updated Date: 13-June-2002
+    Last Updated Date: 27-June-2008
 
 Administrative Contact:
     Name: Ivan Maric
     Organization: CARNet - Croatian Academic and Research Network
-    Address1: Josipa Marohnica bb
+    Address1: Josipa Marohnica 5
     Address2: 
     Address3: 
     City: Zagreb
@@ -31,14 +31,14 @@ Administrative Contact:
     Postal Code: 10000
     Phone: +385 1 616 55 11
     Fax: +385 1 616 55 59
-    Email: Ivan.Maric@SRCE.hr
+    Email: ivan.maric@srce.hr
     Registration Date: 01-January-1985
-    Last Updated Date: 13-June-2002
+    Last Updated Date: 27-June-2008
 
 Technical Contact:
     Name: Ivan Maric
     Organization: CARNet - Croatian Academic and Research Network
-    Address1: Josipa Marohnica bb
+    Address1: Josipa Marohnica 5
     Address2: 
     Address3: 
     City: Zagreb
@@ -47,9 +47,9 @@ Technical Contact:
     Postal Code: 10000
     Phone: +385 1 616 55 11
     Fax: +385 1 616 55 59
-    Email: Ivan.Maric@SRCE.hr
+    Email: ivan.maric@srce.hr
     Registration Date: 01-January-1985
-    Last Updated Date: 13-June-2002
+    Last Updated Date: 27-June-2008
 URL for registration services: http://www.dns.hr
 
 Nameserver Information:
@@ -59,10 +59,10 @@ Nameserver Information:
     IP Address: 137.39.1.3
     Nameserver: ns-ext.vix.com.
     IP Address: 204.152.184.64
-    Nameserver: sunic.sunet.se.
-    IP Address: 192.36.125.2
     Nameserver: ns5.univie.ac.at.
     IP Address: 193.171.255.77
+    Nameserver: n3ns.nic.es.
+    IP Address: 194.69.254.42
 
 Registration Date: 27-February-1993
-Last Updated Date: 29-May-2008
+Last Updated Date: 27-June-2008
