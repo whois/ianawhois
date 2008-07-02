@@ -53,10 +53,8 @@ Technical Contact:
 URL for registration services: http://www.isoc.sd
 
 Nameserver Information:
-    Nameserver: tld1.ultradns.net.
-    IP Address: 204.74.112.1 2001:502:d399:0:0:0:0:1
-    Nameserver: tld2.ultradns.net.
-    IP Address: 204.74.113.1
+    Nameserver: ans1.sis.sd.
+    IP Address: 196.29.166.134
     Nameserver: ns-sd.ripe.net.
     IP Address: 193.0.12.209
     Nameserver: ans1.canar.sd.
@@ -71,4 +69,4 @@ Nameserver Information:
     IP Address: 195.229.0.186
 
 Registration Date: 06-March-1997
-Last Updated Date: 03-January-2008
+Last Updated Date: 01-July-2008
