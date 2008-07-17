@@ -5,7 +5,7 @@ ID: sc
 
 Sponsoring Organization:
     Name: 
-    Organization: VCS (Pty) Limited
+    Organization: VCS Pty Ltd
     Address1: P.O. Box 1000
     Address2: 
     Address3: 
@@ -17,11 +17,11 @@ Sponsoring Organization:
     Fax: 
     Email: 
     Registration Date: 01-January-1985
-    Last Updated Date: 03-January-2006
+    Last Updated Date: 09-July-2008
 
 Administrative Contact:
-    Name: Kevin Larsen
-    Organization: VCS (Pty) Limited
+    Name: Arnold A. Chetty
+    Organization: VCS Pty Ltd
     Address1: P.O. Box 1000
     Address2: 
     Address3: 
@@ -29,15 +29,15 @@ Administrative Contact:
     State/Province: Mahe
     Country: Seychelles
     Postal Code: 
-    Phone: +248 28 00 00
-    Fax: +248 32 40 56
-    Email: admin@nic.sc
-    Registration Date: 01-January-1985
-    Last Updated Date: 03-January-2006
+    Phone: +248 521188
+    Fax: +248 324056
+    Email: arnold@seychelles.net
+    Registration Date: 09-July-2008
+    Last Updated Date: 09-July-2008
 
 Technical Contact:
-    Name: Kevin Larsen
-    Organization: VCS (Pty) Limited
+    Name: Marc Houareau
+    Organization: VCS Pty Ltd
     Address1: P.O. Box 1000
     Address2: 
     Address3: 
@@ -45,29 +45,29 @@ Technical Contact:
     State/Province: Mahe
     Country: Seychelles
     Postal Code: 
-    Phone: +248 28 00 00
-    Fax: +248 32 40 56
-    Email: admin@nic.sc
+    Phone: +248 513532
+    Fax: +248 324056
+    Email: marc@seychelles.net
     Registration Date: 01-January-1985
-    Last Updated Date: 03-January-2006
+    Last Updated Date: 09-July-2008
 URL for registration services: http://www.nic.sc
 Whois Server (port 43): whois2.afilias-grs.net
 
 Nameserver Information:
+    Nameserver: a0.cctld.afilias-nst.info.
+    IP Address: 199.254.59.1 2001:500:25:0:0:0:0:1
+    Nameserver: b0.cctld.afilias-nst.org.
+    IP Address: 199.254.60.1 2001:500:26:0:0:0:0:1
+    Nameserver: c0.cctld.afilias-nst.info.
+    IP Address: 199.254.61.1 2001:500:27:0:0:0:0:1
+    Nameserver: d0.cctld.afilias-nst.org.
+    IP Address: 199.254.62.1 2001:500:28:0:0:0:0:1
     Nameserver: ns1.nic.sc.
     IP Address: 202.72.100.47
     Nameserver: tld1.ultradns.net.
     IP Address: 204.74.112.1 2001:502:d399:0:0:0:0:1
     Nameserver: tld2.ultradns.net.
     IP Address: 204.74.113.1
-    Nameserver: tld3.ultradns.org.
-    IP Address: 199.7.66.1
-    Nameserver: tld4.ultradns.org.
-    IP Address: 199.7.67.1 2001:502:100e:0:0:0:0:1
-    Nameserver: tld5.ultradns.info.
-    IP Address: 192.100.59.11
-    Nameserver: tld6.ultradns.co.uk.
-    IP Address: 198.133.199.11
 
 Registration Date: 09-May-1997
-Last Updated Date: 24-July-2007
+Last Updated Date: 15-July-2008
