@@ -31,36 +31,45 @@ Administrative Contact:
     Postal Code: 96799
     Phone: +684 252 9742
     Fax: 
-    Email: domainmaster@NIC.AS
+    Email: domainmaster@nic.as
     Registration Date: 01-January-1985
-    Last Updated Date: 22-March-2006
+    Last Updated Date: 22-July-2008
 
 Technical Contact:
     Name: GDNS Hostmaster
-    Organization: GDNS, Inc.
-    Address1: 410 Broadway
-    Address2: Suite 2102
+    Organization: GDNS, LLC
+    Address1: PO Box 32
+    Address2: 
     Address3: 
-    City: New York
-    State/Province: New York
-    Country: 
-    Postal Code: 10013
+    City: Frenchtown
+    State/Province: New Jersey
+    Country: United States
+    Postal Code: 08825
     Phone: +1 212 334 3660
     Fax: +1 212 208 2674
     Email: hostmaster@gdns.com
     Registration Date: 01-January-1985
-    Last Updated Date: 22-July-2003
+    Last Updated Date: 22-July-2008
 URL for registration services: http://www.nic.as
+Whois Server (port 43): whois.nic.as
 
 Nameserver Information:
-    Nameserver: dca.ns.gdns.net.
-    IP Address: 130.94.25.65
-    Nameserver: lhr.ns.gdns.net.
-    IP Address: 213.130.50.65
+    Nameserver: dca.tld.gdns.net.
+    IP Address: 198.65.143.254
     Nameserver: tld1.ultradns.net.
     IP Address: 204.74.112.1 2001:502:d399:0:0:0:0:1
     Nameserver: tld2.ultradns.net.
     IP Address: 204.74.113.1
+    Nameserver: tld3.ultradns.org.
+    IP Address: 199.7.66.1
+    Nameserver: tld4.ultradns.org.
+    IP Address: 199.7.67.1 2001:502:100e:0:0:0:0:1
+    Nameserver: tld5.ultradns.info.
+    IP Address: 192.100.59.11
+    Nameserver: tld6.ultradns.co.uk.
+    IP Address: 198.133.199.11
+    Nameserver: lhr.tld.gdns.net.
+    IP Address: 213.130.50.78
 
 Registration Date: 12-June-1997
-Last Updated Date: 24-July-2007
+Last Updated Date: 22-July-2008
