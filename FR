@@ -54,8 +54,6 @@ URL for registration services: http://www.nic.fr/
 Whois Server (port 43): whois.nic.fr
 
 Nameserver Information:
-    Nameserver: a.ext.nic.fr.
-    IP Address: 193.51.208.14
     Nameserver: a.nic.fr.
     IP Address: 192.93.0.129 2001:660:3005:3::1:1
     Nameserver: c.nic.fr.
@@ -70,6 +68,8 @@ Nameserver Information:
     IP Address: 194.57.253.1
     Nameserver: f.ext.nic.fr.
     IP Address: 194.146.106.46
+    Nameserver: g.ext.nic.fr.
+    IP Address: 204.61.216.39
 
 Registration Date: 02-September-1986
-Last Updated Date: 24-March-2008
+Last Updated Date: 23-July-2008
