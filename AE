@@ -50,20 +50,24 @@ Technical Contact:
     Email: dns@aeda.ae
     Registration Date: 01-January-1985
     Last Updated Date: 11-July-2008
-URL for registration services: http://www.nic.ae
-Whois Server (port 43): whois.nic.ae
+URL for registration services: http://aeda.ae/
+Whois Server (port 43): whois.aeda.net.ae
 
 Nameserver Information:
-    Nameserver: ns1.uaenic.ae.
-    IP Address: 213.42.0.226
-    Nameserver: ns2.uaenic.ae.
-    IP Address: 195.229.0.186
     Nameserver: sec3.apnic.net.
     IP Address: 202.12.28.140 2001:dc0:1:0:4777:0:0:140
     Nameserver: ns-ae.ripe.net.
     IP Address: 193.0.12.233 2001:610:240:0:53:cc:12:233
     Nameserver: ns-ext.isc.org.
     IP Address: 204.152.184.64 2001:4f8:0:2:0:0:0:13
+    Nameserver: ns1.aedns.ae.
+    IP Address: 79.98.120.73
+    Nameserver: ns1.ausregistry.net.au.
+    IP Address: 202.65.12.73
+    Nameserver: ns2.aedns.ae.
+    IP Address: 79.98.121.73
+    Nameserver: ns2.ausregistry.net.au.
+    IP Address: 202.65.13.73
 
 Registration Date: 01-December-1992
-Last Updated Date: 11-July-2008
+Last Updated Date: 28-July-2008
