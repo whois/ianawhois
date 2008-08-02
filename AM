@@ -54,8 +54,6 @@ URL for registration services: http://www.amnic.net
 Whois Server (port 43): whois.amnic.net
 
 Nameserver Information:
-    Nameserver: auth02.ns.uu.net.
-    IP Address: 198.6.1.82
     Nameserver: ns.amnic.net.
     IP Address: 195.250.64.90 2001:4d00:0:0:0:0:0:90
     Nameserver: ns-am.ripe.net.
@@ -66,8 +64,8 @@ Nameserver Information:
     IP Address: 202.12.28.140 2001:dc0:1:0:4777:0:0:140
     Nameserver: sunic.sunet.se.
     IP Address: 192.36.125.2
-    Nameserver: aunic.aunic.net.
-    IP Address: 203.29.5.1
+    Nameserver: ns-ext.isc.org.
+    IP Address: 204.152.184.64 2001:4f8:0:2:0:0:0:13
 
 Registration Date: 26-August-1994
-Last Updated Date: 02-May-2008
+Last Updated Date: 01-August-2008
