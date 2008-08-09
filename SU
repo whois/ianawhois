@@ -30,11 +30,11 @@ Administrative Contact:
     State/Province: 
     Country: Russian Federation
     Postal Code: 123182
-    Phone: +7 095 196 9614 +7 095 196 7278
-    Fax: +7 095 196 4984
+    Phone: +7 499 196 9614, +7 499 196 7278
+    Fax: +7 499 196 4984
     Email: plat@ripn.net
     Registration Date: 01-January-1985
-    Last Updated Date: 09-February-2004
+    Last Updated Date: 08-August-2008
 
 Technical Contact:
     Name: Network Coordination Centre
@@ -46,23 +46,23 @@ Technical Contact:
     State/Province: 
     Country: Russian Federation
     Postal Code: 123182
-    Phone: +7 095 737 0601
-    Fax: +7 095 737 0602
-    Email: ru-ncc@ripn.net
+    Phone: +7 499 192 9179
+    Fax: +7 499 196 4984
+    Email: noc-dns@relarn.ru
     Registration Date: 01-January-1985
-    Last Updated Date: 29-January-2003
+    Last Updated Date: 08-August-2008
 
 Nameserver Information:
-    Nameserver: auth60.ns.uu.net.
-    IP Address: 198.6.1.181
     Nameserver: ns.ripn.net.
     IP Address: 194.85.105.17
-    Nameserver: ns.spb.su.
-    IP Address: 193.124.83.69
+    Nameserver: auth60.ns.uu.net.
+    IP Address: 198.6.1.181
     Nameserver: ns2.ripn.net.
     IP Address: 194.226.96.30
     Nameserver: ns5.msk-ix.net.
     IP Address: 193.232.128.6
+    Nameserver: ns9.ripn.net.
+    IP Address: 194.85.252.62
 
 Registration Date: 19-September-1990
-Last Updated Date: 20-November-2006
+Last Updated Date: 08-August-2008
