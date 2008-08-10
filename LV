@@ -58,20 +58,16 @@ URL for registration services: http://www.nic.lv/DNS/
 Whois Server (port 43): whois.nic.lv
 
 Nameserver Information:
+    Nameserver: nsz.nic.lv.
+    IP Address: 91.198.156.4
     Nameserver: ns.uu.net.
     IP Address: 137.39.1.3
-    Nameserver: nsz.latnet.lv.
-    IP Address: 159.148.60.4
-    Nameserver: nsz2.latnet.lv.
-    IP Address: 159.148.108.2
     Nameserver: sunic.sunet.se.
     IP Address: 192.36.125.2
     Nameserver: ns-lv.ripe.net.
-    IP Address: 193.0.12.121
-    Nameserver: nsz.nic.lv.
-    IP Address: 91.198.156.4
+    IP Address: 193.0.12.121 2001:610:240:0:53:cc:12:121
     Nameserver: nsz2.nic.lv.
     IP Address: 92.240.64.2
 
 Registration Date: 29-April-1993
-Last Updated Date: 01-February-2008
+Last Updated Date: 08-August-2008
