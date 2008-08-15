@@ -56,14 +56,14 @@ Whois Server (port 43): whois.na-nic.com.na
 Nameserver Information:
     Nameserver: merlin.net.na.
     IP Address: 204.152.184.96
-    Nameserver: nasans4.nasa.gov.
-    IP Address: 198.116.144.33
-    Nameserver: ns-ext.isc.org.
-    IP Address: 204.152.184.64 2001:4f8:0:2:0:0:0:13
-    Nameserver: ns-na.ripe.net.
-    IP Address: 193.0.12.152
-    Nameserver: aunic.aunic.net.
-    IP Address: 203.29.5.1
+    Nameserver: na-ns.anycast.pch.net.
+    IP Address: 204.61.216.35
+    Nameserver: na1.dyntld.net.
+    IP Address: 208.78.70.90
+    Nameserver: na2.dyntld.net.
+    IP Address: 204.13.250.90
+    Nameserver: sns-pb.isc.org.
+    IP Address: 192.5.4.1 2001:500:2e:0:0:0:0:1
 
 Registration Date: 08-May-1991
-Last Updated Date: 17-March-2008
+Last Updated Date: 14-August-2008
