@@ -54,12 +54,10 @@ URL for registration services: http://www.eenet.ee/services/subdomains.html
 Whois Server (port 43): whois.eenet.ee
 
 Nameserver Information:
-    Nameserver: dns.estpak.ee.
-    IP Address: 194.126.115.18
-    Nameserver: ns.eenet.ee.
-    IP Address: 193.40.56.245
     Nameserver: ns.kbfi.ee.
     IP Address: 193.40.133.222
+    Nameserver: ns.eenet.ee.
+    IP Address: 193.40.56.245
     Nameserver: ns.uninet.ee.
     IP Address: 194.204.0.1
     Nameserver: ns.ut.ee.
@@ -70,4 +68,4 @@ Nameserver Information:
     IP Address: 192.36.125.2
 
 Registration Date: 03-June-1992
-Last Updated Date: 12-December-2007
+Last Updated Date: 13-August-2008
