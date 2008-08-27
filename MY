@@ -50,12 +50,12 @@ Technical Contact:
     Email: dnsadmin@mynic.net.my
     Registration Date: 01-January-1985
     Last Updated Date: 30-April-2007
-URL for registration services: http://www.mynic.net.my
-Whois Server (port 43): whois.mynic.net.my
+URL for registration services: http://www.mynic.my
+Whois Server (port 43): whois.mynic.my
 
 Nameserver Information:
     Nameserver: dns.mynic.net.my.
-    IP Address: 192.228.180.5
+    IP Address: 192.228.180.52001:328:1000:3:0:0:0:5
     Nameserver: dns2.mynic.net.my.
     IP Address: 202.75.39.36
     Nameserver: ns.uu.net.
@@ -72,4 +72,4 @@ Nameserver Information:
     IP Address: 192.134.0.49 2001:660:3006:1::1:1
 
 Registration Date: 08-June-1987
-Last Updated Date: 13-March-2008
+Last Updated Date: 25-August-2008
