@@ -54,18 +54,22 @@ URL for registration services: http://www.registry.in
 Whois Server (port 43): whois.inregistry.net
 
 Nameserver Information:
+    Nameserver: a0.cctld.afilias-nst.info.
+    IP Address: 199.254.59.1 2001:500:25:0:0:0:0:1
+    Nameserver: a1.in.afilias-nst.in.
+    IP Address: 203.119.49.201
+    Nameserver: b0.cctld.afilias-nst.org.
+    IP Address: 199.254.60.1 2001:500:26:0:0:0:0:1
+    Nameserver: b1.in.afilias-nst.in.
+    IP Address: 220.226.205.253
+    Nameserver: c0.cctld.afilias-nst.info.
+    IP Address: 199.254.61.1 2001:500:27:0:0:0:0:1
+    Nameserver: d0.cctld.afilias-nst.org.
+    IP Address: 199.254.62.1 2001:500:28:0:0:0:0:1
     Nameserver: tld1.ultradns.net.
     IP Address: 204.74.112.1 2001:502:d399:0:0:0:0:1
     Nameserver: tld2.ultradns.net.
     IP Address: 204.74.113.1
-    Nameserver: tld3.ultradns.org.
-    IP Address: 199.7.66.1
-    Nameserver: tld4.ultradns.org.
-    IP Address: 199.7.67.1 2001:502:100e:0:0:0:0:1
-    Nameserver: tld5.ultradns.info.
-    IP Address: 192.100.59.11
-    Nameserver: tld6.ultradns.co.uk.
-    IP Address: 198.133.199.11
 
 Registration Date: 08-May-1989
-Last Updated Date: 24-July-2007
+Last Updated Date: 25-August-2008
