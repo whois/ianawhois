@@ -6,65 +6,63 @@ ID: mo
 Sponsoring Organization:
     Name: 
     Organization: University of Macau
-    Address1: University Drive
+    Address1: Av. Padre Tomas Pereira
     Address2: 
     Address3: 
     City: Taipa
-    State/Province: Macau
-    Country: China
-    Postal Code: 
+    State/Province: 
+    Country: Macao
+    Postal Code: 853
     Phone: 
     Fax: 
     Email: 
     Registration Date: 01-January-1985
-    Last Updated Date: 01-January-1985
+    Last Updated Date: 03-September-2008
 
 Administrative Contact:
-    Name: Tham Yiu Kwok
+    Name: Jason Ho
     Organization: University of Macau
-    Address1: University Drive
+    Address1: Av. Padre Tomas Pereira
     Address2: 
     Address3: 
     City: Taipa
-    State/Province: Macau
-    Country: China
-    Postal Code: 
-    Phone: +853 831 622 ext. 319
-    Fax: +853 831 694
-    Email: bykt@umac.mo
+    State/Province: 
+    Country: Macao
+    Postal Code: 853
+    Phone: +853 83978616
+    Fax: +853 28835606
+    Email: jasonho@umac.mo
     Registration Date: 01-January-1985
-    Last Updated Date: 01-January-1985
+    Last Updated Date: 03-September-2008
 
 Technical Contact:
-    Name: David Leong
+    Name: Fiona O
     Organization: University of Macau
-    Address1: University Drive
+    Address1: Av. Padre Tomas Pereira
     Address2: 
     Address3: 
     City: Taipa
-    State/Province: Macau
-    Country: China
-    Postal Code: 
-    Phone: +853 831 622 ext. 319
-    Fax: +853 831 694
-    Email: bdl@umac.mo
+    State/Province: 
+    Country: Macao
+    Postal Code: 853
+    Phone: +853 83978619
+    Fax: +853 28835606
+    Email: fionao@umac.mo
     Registration Date: 01-January-1985
-    Last Updated Date: 01-January-1985
+    Last Updated Date: 03-September-2008
 URL for registration services: http://www.monic.net.mo
 
 Nameserver Information:
-    Nameserver: ns1.umac.mo.
-    IP Address: 161.64.7.1
-    Nameserver: ns2.cuhk.edu.hk.
-    IP Address: 137.189.6.21
-    Nameserver: ns2.umac.mo.
-    IP Address: 161.64.7.2
-    Nameserver: ns3.umac.mo.
-    IP Address: 161.64.7.3
     Nameserver: umacsn1.umac.mo.
     IP Address: 161.64.3.1
     Nameserver: umacsn2.umac.mo.
     IP Address: 161.64.3.2
+    Nameserver: umacss1.umac.mo.
+    IP Address: 161.64.7.1
+    Nameserver: umacss2.umac.mo.
+    IP Address: 161.64.7.2
+    Nameserver: umacss3.umac.mo.
+    IP Address: 161.64.7.3
 
 Registration Date: 17-September-1992
-Last Updated Date: 26-July-2005
+Last Updated Date: 03-September-2008
