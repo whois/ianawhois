@@ -70,10 +70,10 @@ Nameserver Information:
     IP Address: 192.36.125.2
     Nameserver: ud1.ns.net.ua.
     IP Address: 204.74.112.1
-    Nameserver: aunic.aunic.net.
-    IP Address: 203.29.5.1
     Nameserver: ns-ua.ripe.net.
-    IP Address: 193.0.12.232
+    IP Address: 193.0.12.232 2001:610:240:0:53:cc:12:232
+    Nameserver: tld2.ultradns.net.
+    IP Address: 204.74.113.1
 
 Registration Date: 01-December-1992
-Last Updated Date: 08-December-2005
+Last Updated Date: 04-September-2008
