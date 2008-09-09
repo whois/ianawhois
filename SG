@@ -58,14 +58,14 @@ Nameserver Information:
     IP Address: 160.96.6.50
     Nameserver: auth02.ns.uu.net.
     IP Address: 198.6.1.82
-    Nameserver: dnssec6.singnet.com.sg.
-    IP Address: 195.13.10.224
     Nameserver: pridns.starhub.net.sg.
     IP Address: 203.116.1.78
     Nameserver: ns-sg.ripe.net.
     IP Address: 193.0.12.199
     Nameserver: sec3.apnic.net.
     IP Address: 202.12.28.140 2001:dc0:1:0:4777:0:0:140
+    Nameserver: dsany.sgnic.sg.
+    IP Address: 194.0.1.16 2001:678:4:0:0:0:0:10
 
 Registration Date: 19-October-1988
-Last Updated Date: 02-May-2008
+Last Updated Date: 08-September-2008
