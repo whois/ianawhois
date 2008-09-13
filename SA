@@ -62,6 +62,10 @@ Nameserver Information:
     IP Address: 86.111.192.9
     Nameserver: ns2.nic.net.sa.
     IP Address: 86.111.196.9
+    Nameserver: ns-sa.ripe.net.
+    IP Address: 193.0.12.193 2001:610:240:0:53:cc:12:193
+    Nameserver: sa-ns.anycast.pch.net.
+    IP Address: 204.61.216.41
 
 Registration Date: 17-May-1994
-Last Updated Date: 02-July-2007
+Last Updated Date: 12-September-2008
