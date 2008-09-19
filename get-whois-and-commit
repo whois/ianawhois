@@ -2,7 +2,7 @@
 
 # $Id: get-whois-and-commit,v 1.14 2006-10-14 21:05:20 bortzmeyer Exp $
 
-LIST=bortzmeyer@nic.fr,stephane@sources.org,Loic.Damilaville@nic.fr,iana-whois-changes@dk-hostmaster.dk,Mohsen.Souissi@nic.fr,farias@nic.mx
+LIST=bortzmeyer@nic.fr,stephane@sources.org,Loic.Damilaville@nic.fr,iana-whois-changes@dk-hostmaster.dk,Mohsen.Souissi@nic.fr
 MAINTAINER=Stephane.Bortzmeyer@nic.fr
 ROOTNAMESERVER=K
 date=`date +%Y-%m-%d`
