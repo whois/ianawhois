@@ -66,7 +66,7 @@ Nameserver Information:
     Nameserver: ns01-server.curinfo.an.
     IP Address: 65.208.122.36
     Nameserver: sunic.sunet.se.
-    IP Address: 192.36.125.2
+    IP Address: 192.36.125.2 2001:6b0:7:0:0:0:0:2
     Nameserver: engine3.una.an.
     IP Address: 200.26.199.102
     Nameserver: engine2.una.an.
@@ -75,4 +75,4 @@ Nameserver Information:
     IP Address: 200.26.226.6
 
 Registration Date: 09-September-1993
-Last Updated Date: 05-May-2008
+Last Updated Date: 24-September-2008
