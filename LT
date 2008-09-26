@@ -62,7 +62,7 @@ Nameserver Information:
     Nameserver: ns3.omnitel.net.
     IP Address: 194.176.32.147
     Nameserver: sunic.sunet.se.
-    IP Address: 192.36.125.2
+    IP Address: 192.36.125.2 2001:6b0:7:0:0:0:0:2
     Nameserver: a.tld.lt.
     IP Address: 193.219.32.13
     Nameserver: b.tld.lt.
@@ -73,4 +73,4 @@ Nameserver Information:
     IP Address: 194.0.3.1 2001:678:6::1
 
 Registration Date: 03-June-1992
-Last Updated Date: 15-April-2008
+Last Updated Date: 24-September-2008
