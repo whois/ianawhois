@@ -58,12 +58,14 @@ Nameserver Information:
     IP Address: 203.119.1.1 2001:dc4:0:0:0:0:0:1
     Nameserver: b.dns.jp.
     IP Address: 202.12.30.131
+    Nameserver: c.dns.jp.
+    IP Address: 204.74.112.245 2001:502:d399:0:0:0:0:245
     Nameserver: d.dns.jp.
     IP Address: 210.138.175.244 2001:240:0:0:0:0:0:53
     Nameserver: e.dns.jp.
-    IP Address: 192.50.43.53 2001:200:c000::35
+    IP Address: 192.50.43.53 2001:200:c000:0:0:0:0:35
     Nameserver: f.dns.jp.
     IP Address: 150.100.2.3 2001:2f8:0:100:0:0:0:153
 
 Registration Date: 05-August-1986
-Last Updated Date: 19-December-2007
+Last Updated Date: 13-October-2008
