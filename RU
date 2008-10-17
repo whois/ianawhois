@@ -54,8 +54,6 @@ URL for registration services: http://www.cctld.ru/en
 Whois Server (port 43): whois.ripn.net
 
 Nameserver Information:
-    Nameserver: auth60.ns.uu.net.
-    IP Address: 198.6.1.181
     Nameserver: ns.ripn.net.
     IP Address: 194.85.105.17
     Nameserver: ns2.nic.fr.
@@ -70,4 +68,4 @@ Nameserver Information:
     IP Address: 192.36.125.2 2001:6b0:7:0:0:0:0:2
 
 Registration Date: 07-April-1994
-Last Updated Date: 24-September-2008
+Last Updated Date: 16-October-2008
