@@ -55,18 +55,20 @@ URL for registration services: http://www.dns.pl/english/
 Nameserver Information:
     Nameserver: a-dns.pl.
     IP Address: 195.187.245.44
-    Nameserver: g-dns.pl.
-    IP Address: 149.156.1.6 2001:6d8:0:1:0:0:a:6
-    Nameserver: d-dns.pl.
-    IP Address: 213.172.174.70
     Nameserver: b-dns.pl.
     IP Address: 80.50.50.10
+    Nameserver: c-dns.pl.
+    IP Address: 195.47.235.226
+    Nameserver: d-dns.pl.
+    IP Address: 213.172.174.70
     Nameserver: e-dns.pl.
     IP Address: 213.218.118.26
     Nameserver: f-dns.pl.
     IP Address: 217.17.46.189 2001:1a68:0:10:0:0:0:189
+    Nameserver: g-dns.pl.
+    IP Address: 149.156.1.6 2001:6d8:0:1:0:0:a:6
     Nameserver: h-dns.pl.
     IP Address: 194.0.1.2
 
 Registration Date: 30-July-1990
-Last Updated Date: 19-August-2008
+Last Updated Date: 21-October-2008
