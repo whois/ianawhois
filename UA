@@ -68,12 +68,12 @@ Nameserver Information:
     IP Address: 204.61.216.12
     Nameserver: sunic.sunet.se.
     IP Address: 192.36.125.2 2001:6b0:7:0:0:0:0:2
-    Nameserver: ud1.ns.net.ua.
-    IP Address: 204.74.112.1
     Nameserver: ns-ua.ripe.net.
     IP Address: 193.0.12.232 2001:610:240:0:53:cc:12:232
     Nameserver: tld2.ultradns.net.
     IP Address: 204.74.113.1
+    Nameserver: tld1.ultradns.net.
+    IP Address: 204.74.112.1 2001:502:d399:0:0:0:0:1
 
 Registration Date: 01-December-1992
-Last Updated Date: 17-October-2008
+Last Updated Date: 27-October-2008
