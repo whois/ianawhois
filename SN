@@ -86,10 +86,9 @@ Technical Contact:
     Registration Date: 16-August-2005
     Last Updated Date: 16-August-2005
 URL for registration services: http://www.nic.sn
+Whois Server (port 43): whois.nic.sn
 
 Nameserver Information:
-    Nameserver: ns.ripe.net.
-    IP Address: 193.0.0.193
     Nameserver: ns.sentoo.sn.
     IP Address: 213.154.64.13
     Nameserver: ns.ucad.sn.
@@ -98,6 +97,8 @@ Nameserver Information:
     IP Address: 192.134.0.49
     Nameserver: ns1.ird.fr.
     IP Address: 193.50.53.3
+    Nameserver: ns-sn.ripe.net.
+    IP Address: 193.0.12.195
 
 Registration Date: 19-March-1993
-Last Updated Date: 13-June-2006
+Last Updated Date: 28-October-2008
