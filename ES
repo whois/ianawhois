@@ -62,7 +62,7 @@ Nameserver Information:
     Nameserver: ns2.nic.es.
     IP Address: 193.146.142.168
     Nameserver: ns3.nic.fr.
-    IP Address: 192.134.0.49
+    IP Address: 192.134.0.49 2001:660:3006:1:0:0:1:1
     Nameserver: sun.rediris.es.
     IP Address: 130.206.1.2
     Nameserver: sunic.sunet.se.
@@ -71,4 +71,4 @@ Nameserver Information:
     IP Address: 200.1.123.14
 
 Registration Date: 14-April-1988
-Last Updated Date: 24-September-2008
+Last Updated Date: 31-October-2008
