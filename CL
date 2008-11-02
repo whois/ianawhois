@@ -59,7 +59,7 @@ Nameserver Information:
     Nameserver: ns.nic.cl.
     IP Address: 200.1.123.4
     Nameserver: ns3.nic.fr.
-    IP Address: 192.134.0.49
+    IP Address: 192.134.0.49 2001:660:3006:1:0:0:1:1
     Nameserver: ns-ext.isc.org.
     IP Address: 204.152.184.64 2001:4f8:0:2:0:0:0:13
     Nameserver: sec3.apnic.net.
@@ -72,4 +72,4 @@ Nameserver Information:
     IP Address: 194.146.106.34
 
 Registration Date: 27-January-1995
-Last Updated Date: 02-May-2008
+Last Updated Date: 31-October-2008
