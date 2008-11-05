@@ -20,7 +20,7 @@ Sponsoring Organization:
     Last Updated Date: 18-August-2006
 
 Administrative Contact:
-    Name: Permanent Secretary - Tebwe Ietaake
+    Name: Secretary - Kietau Tabwebweiti
     Organization: Ministry of Communications, Transport, and Tourism Development
     Address1: Betio
     Address2: 
@@ -31,9 +31,9 @@ Administrative Contact:
     Postal Code: 
     Phone: +686 26003
     Fax: +686 26193
-    Email: secretary@mict.gov.ki
+    Email: secretary@mcttd.gov.ki
     Registration Date: 01-January-1985
-    Last Updated Date: 18-August-2006
+    Last Updated Date: 03-November-2008
 
 Technical Contact:
     Name: Manager Engineering - Bwanouia Aberaam
@@ -64,8 +64,14 @@ Nameserver Information:
     IP Address: 202.12.29.59 2001:dc0:2001:a:4608::59
     Nameserver: sec3.apnic.net.
     IP Address: 202.12.28.140 2001:dc0:1:0:4777:0:0:140
-    Nameserver: ns1.cx-nic.org.
-    IP Address: 216.64.163.225
+    Nameserver: ki1.dyntld.net.
+    IP Address: 208.78.70.87
+    Nameserver: ki2.dyntld.net.
+    IP Address: 204.13.250.87
+    Nameserver: ki3.dyntld.net.
+    IP Address: 208.78.71.87
+    Nameserver: ki4.dyntld.net.
+    IP Address: 204.13.251.87
 
 Registration Date: 19-April-1995
-Last Updated Date: 02-May-2008
+Last Updated Date: 03-November-2008
