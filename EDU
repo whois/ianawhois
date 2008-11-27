@@ -54,14 +54,8 @@ URL for registration services: http://www.educause.edu/edudomain
 Whois Server (port 43): whois.educause.edu
 
 Nameserver Information:
-    Nameserver: a3.nstld.com.
-    IP Address: 192.5.6.32
-    Nameserver: c3.nstld.com.
-    IP Address: 192.26.92.32
-    Nameserver: d3.nstld.com.
-    IP Address: 192.31.80.32
-    Nameserver: e3.nstld.com.
-    IP Address: 192.12.94.32
+    Nameserver: a.gtld-servers.net.
+    IP Address: 192.5.6.30 2001:503:a83e:0:0:0:2:30
     Nameserver: g3.nstld.com.
     IP Address: 192.42.93.32
     Nameserver: h3.nstld.com.
@@ -70,6 +64,12 @@ Nameserver Information:
     IP Address: 192.41.162.32
     Nameserver: m3.nstld.com.
     IP Address: 192.55.83.32
+    Nameserver: c.gtld-servers.net.
+    IP Address: 192.26.92.30
+    Nameserver: d.gtld-servers.net.
+    IP Address: 192.31.80.30
+    Nameserver: e.gtld-servers.net.
+    IP Address: 192.12.94.30
 
 Registration Date: 01-January-1985
-Last Updated Date: 26-July-2005
+Last Updated Date: 19-November-2008
