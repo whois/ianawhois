@@ -5,8 +5,7 @@ ID: af
 
 Sponsoring Organization:
     Name: 
-    Organization: Ministry of Communications
-                  Islamic Transitional Government of Afghanistan
+    Organization: Ministry of Communications and IT
     Address1: Mohammed Jan Khan Watt
     Address2: 
     Address3: 
@@ -18,28 +17,29 @@ Sponsoring Organization:
     Fax: 
     Email: 
     Registration Date: 01-January-1985
-    Last Updated Date: 24-February-2003
+    Last Updated Date: 02-December-2008
 
 Administrative Contact:
-    Name: Director of AFGNIC
-    Organization: Afghanistan Network Information Center
-    Address1: 7th floor, Mohammad Jan Khan
+    Name: Aimal Marjan, Director General ICT
+    Organization: ICT Directorate
+                  Ministry of Communications and IT
+    Address1: Mohammad Jan Khan Watt
     Address2: 
     Address3: 
     City: Kabul
     State/Province: 
     Country: Afghanistan
     Postal Code: 
-    Phone: +93 20 210 2684
-    Fax: 
-    Email: adminc@nic.af
+    Phone: +93 20 2103883
+    Fax: +93 20 2103700
+    Email: aimal.marjan@mcit.gov.af
     Registration Date: 01-January-1985
-    Last Updated Date: 21-March-2005
+    Last Updated Date: 02-December-2008
 
 Technical Contact:
-    Name: Muhammad Aslam
+    Name: Shah Maqsood
     Organization: AFGNIC
-                  c/o Ministry of Communications
+                  Ministry of Communications and IT
     Address1: Mohammed Jan Khan Watt
     Address2: 
     Address3: 
@@ -47,11 +47,11 @@ Technical Contact:
     State/Province: 
     Country: Afghanistan
     Postal Code: 
-    Phone: +93 20 210 26 84
-    Fax: 
-    Email: hostmaster@nic.af
+    Phone: +93 20 2102684
+    Fax: +93 20 2103700
+    Email: technical@nic.af
     Registration Date: 21-February-2003
-    Last Updated Date: 12-August-2004
+    Last Updated Date: 02-December-2008
 URL for registration services: http://www.nic.af/
 
 Nameserver Information:
@@ -71,4 +71,4 @@ Nameserver Information:
     IP Address: 193.0.12.1 2001:610:240:0:53:cc:12:1
 
 Registration Date: 16-October-1997
-Last Updated Date: 31-October-2008
+Last Updated Date: 02-December-2008
