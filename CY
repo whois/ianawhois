@@ -29,11 +29,11 @@ Administrative Contact:
     State/Province: 
     Country: Cyprus
     Postal Code: 1678
-    Phone: +357 2 756186
-    Fax: +357 2 756082
-    Email: agatho@ucy.ac.cy
+    Phone: +357 22 892131
+    Fax: +357 22 756082
+    Email: stylianou.agathoclis@ucy.ac.cy
     Registration Date: 01-January-1985
-    Last Updated Date: 01-January-1985
+    Last Updated Date: 09-December-2008
 
 Technical Contact:
     Name: Panaretou Sotiris
@@ -45,30 +45,30 @@ Technical Contact:
     State/Province: 
     Country: Cyprus
     Postal Code: 1678
-    Phone: +357 2 2892165
-    Fax: +357 2 2892155
-    Email: sotiris@ucy.ac.cy
+    Phone: +357 22 892165
+    Fax: +357 22 892155
+    Email: panaretou.sotiris@ucy.ac.cy
     Registration Date: 01-January-1985
-    Last Updated Date: 26-April-2004
+    Last Updated Date: 09-December-2008
 URL for registration services: http://www.nic.cy
 
 Nameserver Information:
     Nameserver: cynic.dns.cy.
     IP Address: 194.42.29.1
-    Nameserver: dns.cit.cornell.edu.
-    IP Address: 192.35.82.50
     Nameserver: estia.ics.forth.gr.
     IP Address: 139.91.191.3 2001:648:2c30::191:3
-    Nameserver: foo.grnet.gr.
-    IP Address: 194.177.210.211
-    Nameserver: nic.grnet.gr.
-    IP Address: 194.177.210.210
     Nameserver: ns02.savvis.net.
     IP Address: 204.70.57.242
     Nameserver: ns2.cc.ucy.ac.cy.
     IP Address: 194.42.1.5
     Nameserver: zeus.cc.ucy.ac.cy.
     IP Address: 194.42.1.1
+    Nameserver: ns1.mt.
+    IP Address: 193.188.34.241
+    Nameserver: sec3.apnic.net.
+    IP Address: 202.12.28.140 2001:dc0:1:0:4777:0:0:140
+    Nameserver: cy-ns.anycast.pch.net.
+    IP Address: 204.61.216.44
 
 Registration Date: 26-July-1994
-Last Updated Date: 23-April-2007
+Last Updated Date: 09-December-2008
