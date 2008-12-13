@@ -76,9 +76,9 @@ Nameserver Information:
     Nameserver: k.root-servers.net.
     IP Address: 193.0.14.129 2001:7fd:0:0:0:0:0:1
     Nameserver: l.root-servers.net.
-    IP Address: 199.7.83.42
+    IP Address: 199.7.83.42 2001:500:3::42
     Nameserver: m.root-servers.net.
     IP Address: 202.12.27.33 2001:dc3:0:0:0:0:0:35
 
 Registration Date: 01-January-1985
-Last Updated Date: 23-April-2008
+Last Updated Date: 12-December-2008
