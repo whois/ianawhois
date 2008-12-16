@@ -54,10 +54,6 @@ URL for registration services: http://www.mtld.mobi
 Whois Server (port 43): whois.dotmobiregistry.net
 
 Nameserver Information:
-    Nameserver: tld1.ultradns.net.
-    IP Address: 204.74.112.1 2001:502:d399:0:0:0:0:1
-    Nameserver: tld2.ultradns.net.
-    IP Address: 204.74.113.1
     Nameserver: a0.mobi.afilias-nst.info.
     IP Address: 199.254.55.1 2001:500:21:0:0:0:0:1
     Nameserver: b0.mobi.afilias-nst.org.
@@ -66,6 +62,10 @@ Nameserver Information:
     IP Address: 199.254.57.1 2001:500:23:0:0:0:0:1
     Nameserver: d0.mobi.afilias-nst.org.
     IP Address: 199.254.58.1 2001:500:24:0:0:0:0:1
+    Nameserver: a2.mobi.afilias-nst.info.
+    IP Address: 199.249.118.1 2001:500:46:0:0:0:0:1
+    Nameserver: b2.mobi.afilias-nst.org.
+    IP Address: 199.249.126.1 2001:500:4e:0:0:0:0:1
 
 Registration Date: 17-October-2005
-Last Updated Date: 04-August-2008
+Last Updated Date: 15-December-2008
