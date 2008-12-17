@@ -5,65 +5,68 @@ ID: ms
 
 Sponsoring Organization:
     Name: 
-    Organization: Lubimal (MS) Ltd.
-    Address1: c/o Kelsick & Kelsick,
-    Address2: P.O. Box 185
+    Organization: MNI Networks Ltd.
+    Address1: Olveston Drive
+    Address2: 
     Address3: 
-    City: Woodlands Road
-    State/Province: Woodlands
+    City: Olveston
+    State/Province: Salem
     Country: Montserrat
     Postal Code: 
     Phone: 
     Fax: 
     Email: 
     Registration Date: 01-January-1985
-    Last Updated Date: 31-August-2005
+    Last Updated Date: 16-December-2008
 
 Administrative Contact:
-    Name: Registrar
-    Organization: Lubimal MS Ltd.
-    Address1: c/o Kelsick & Kelsick,
-    Address2: P.O. Box 185
-    Address3: 
-    City: Woodlands Road
-    State/Province: Woodlands
-    Country: Montserrat
-    Postal Code: 
-    Phone: +44 1223 353203
-    Fax: 
-    Email: tldwhois@adamsnames.tc
-    Registration Date: 01-January-1985
-    Last Updated Date: 31-August-2005
-
-Technical Contact:
-    Name: Registrar
-    Organization: AdamsNames Ltd
-    Address1: c/o 3 Adams Road
+    Name: Denzil A. West
+    Organization: MNI Networks Ltd.
+    Address1: Olveston Drive
     Address2: 
     Address3: 
-    City: Cambridge
-    State/Province: 
-    Country: United Kingdom
-    Postal Code: CB3 9AD
-    Phone: +44 1223 353203
+    City: Olveston
+    State/Province: Salem
+    Country: Montserrat
+    Postal Code: 
+    Phone: +1 664 492 2745
     Fax: 
-    Email: tldwhois@adamsnames.tc
-    Registration Date: 05-August-2005
-    Last Updated Date: 31-August-2005
-URL for registration services: http://www.adamsnames.tc/
-Whois Server (port 43): whois.adamsnames.tc
+    Email: denzil.west@mninet.ms
+    Registration Date: 01-January-1985
+    Last Updated Date: 16-December-2008
+
+Technical Contact:
+    Name: Dave S. Williams
+    Organization: MNI Networks Ltd.
+    Address1: Olveston Drive
+    Address2: 
+    Address3: 
+    City: Olveston
+    State/Province: Salem
+    Country: Montserrat
+    Postal Code: 
+    Phone: +1 664 495 3283
+    Fax: 
+    Email: dave.williams@mninet.ms
+    Registration Date: 16-December-2008
+    Last Updated Date: 16-December-2008
+URL for registration services: http://www.mninet.ms
 
 Nameserver Information:
-    Nameserver: auth02.ns.uu.net.
-    IP Address: 198.6.1.82
-    Nameserver: sec1.dns.uk.psi.net.
-    IP Address: 154.32.105.34
-    Nameserver: euterpe.william.org.
-    IP Address: 195.153.6.27
-    Nameserver: sec2.dns.uk.psi.net.
-    IP Address: 154.32.107.34
-    Nameserver: ns-ms.ripe.net.
-    IP Address: 193.0.12.148
+    Nameserver: mnidns1.mninet.ms.
+    IP Address: 199.7.90.2
+    Nameserver: ms-ns.anycast.pch.net.
+    IP Address: 204.61.216.33
+    Nameserver: ms1.dyntld.net.
+    IP Address: 208.78.70.84
+    Nameserver: ms2.dyntld.net.
+    IP Address: 204.13.250.84
+    Nameserver: ms3.dyntld.net.
+    IP Address: 208.78.71.84
+    Nameserver: ms4.dyntld.net.
+    IP Address: 204.13.251.84
+    Nameserver: phloem.uoregon.edu.
+    IP Address: 128.223.32.35 2001:468:d01:20::80df:2023
 
 Registration Date: 06-March-1997
-Last Updated Date: 31-August-2005
+Last Updated Date: 16-December-2008
