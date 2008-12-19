@@ -55,7 +55,7 @@ URL for registration services: http://www.sispa.org.sz/
 
 Nameserver Information:
     Nameserver: rip.psg.com.
-    IP Address: 147.28.0.39
+    IP Address: 147.28.0.39 2001:418:1:0:0:0:0:39
     Nameserver: dns.sispa.org.sz.
     IP Address: 212.85.220.11
     Nameserver: ns.ripe.net.
@@ -64,4 +64,4 @@ Nameserver Information:
     IP Address: 193.0.12.212
 
 Registration Date: 19-July-1993
-Last Updated Date: 30-April-2008
+Last Updated Date: 18-December-2008
