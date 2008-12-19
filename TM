@@ -59,9 +59,7 @@ Nameserver Information:
     Nameserver: b.nic.ac.
     IP Address: 217.160.203.158
     Nameserver: b.nic.io.
-    IP Address: 66.235.201.216
-    Nameserver: b.nic.sh.
-    IP Address: 216.117.156.206
+    IP Address: 194.0.2.1
     Nameserver: ns3.icb.co.uk.
     IP Address: 217.199.188.61
     Nameserver: a.ns13.net.
@@ -69,7 +67,7 @@ Nameserver Information:
     Nameserver: b.ns13.net.
     IP Address: 202.181.96.60
     Nameserver: ns1.communitydns.net.
-    IP Address: 194.0.1.1
+    IP Address: 194.0.1.1 2001:678:4:0:0:0:0:1
 
 Registration Date: 30-May-1997
-Last Updated Date: 17-August-2007
+Last Updated Date: 18-December-2008
