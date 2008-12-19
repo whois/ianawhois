@@ -56,7 +56,7 @@ URL for registration services: http://www.aub.edu.lb/lbdr
 
 Nameserver Information:
     Nameserver: rip.psg.com.
-    IP Address: 147.28.0.39
+    IP Address: 147.28.0.39 2001:418:1:0:0:0:0:39
     Nameserver: zeina.aub.edu.lb.
     IP Address: 193.188.128.14
     Nameserver: sunic.sunet.se.
@@ -65,4 +65,4 @@ Nameserver Information:
     IP Address: 198.32.71.12
 
 Registration Date: 25-August-1993
-Last Updated Date: 24-September-2008
+Last Updated Date: 18-December-2008
