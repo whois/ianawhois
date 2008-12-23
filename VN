@@ -20,9 +20,9 @@ Sponsoring Organization:
     Last Updated Date: 22-January-2003
 
 Administrative Contact:
-    Name: Nguyen Le Thuy
+    Name: Nguyen Le Thuy, Director General
     Organization: Vietnam Internet Network Information Center (VNNIC)
-    Address1: 115 Tran Duy Hung
+    Address1: 18 Nguyen Du
     Address2: 
     Address3: 
     City: Hanoi
@@ -30,15 +30,15 @@ Administrative Contact:
     Country: Vietnam
     Postal Code: 10000
     Phone: +84 4 5564944 ext 505
-    Fax: +84 4 5564955
+    Fax: +84 4 7821462
     Email: nlthuy@vnnic.net.vn
     Registration Date: 01-January-1985
-    Last Updated Date: 16-November-2004
+    Last Updated Date: 22-December-2008
 
 Technical Contact:
-    Name: Hoang Minh Cuong
+    Name: Hoang Minh Cuong, Deputy Director General
     Organization: Vietnam Internet Network Information Center (VNNIC)
-    Address1: 115 Tran Duy Hung
+    Address1: 18 Nguyen Du
     Address2: 
     Address3: 
     City: Hanoi
@@ -46,27 +46,27 @@ Technical Contact:
     Country: Vietnam
     Postal Code: 10000
     Phone: +84 4 5564944 ext 310
-    Fax: +84 4 5564955
+    Fax: +84 4 7821462
     Email: hmcuong@vnnic.net.vn
     Registration Date: 01-January-1985
-    Last Updated Date: 16-November-2004
+    Last Updated Date: 22-December-2008
 URL for registration services: http://www.vnnic.net.vn
 
 Nameserver Information:
-    Nameserver: dns1.equant.net.
-    IP Address: 57.67.127.194
-    Nameserver: dns1.vnnic.net.vn.
+    Nameserver: a.dns-servers.vn.
+    IP Address: 194.0.1.18 2001:678:4:0:0:0:0:12
+    Nameserver: b.dns-servers.vn.
+    IP Address: 203.119.10.105
+    Nameserver: c.dns-servers.vn.
+    IP Address: 203.119.38.105
+    Nameserver: d.dns-servers.vn.
+    IP Address: 203.119.44.105
+    Nameserver: e.dns-servers.vn.
     IP Address: 203.162.57.105
-    Nameserver: dns2.equant.net.
-    IP Address: 57.73.127.194
-    Nameserver: dns3.equant.net.
-    IP Address: 204.59.152.207
-    Nameserver: dns-hcm01.vnnic.net.vn.
+    Nameserver: f.dns-servers.vn.
     IP Address: 203.162.87.66
     Nameserver: ns-vn.ripe.net.
     IP Address: 193.0.12.241
-    Nameserver: dns-hcm02.vnnic.net.vn.
-    IP Address: 203.119.38.105
 
 Registration Date: 14-April-1994
-Last Updated Date: 29-May-2008
+Last Updated Date: 22-December-2008
