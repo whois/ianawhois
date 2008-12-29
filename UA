@@ -54,18 +54,14 @@ URL for registration services: http://nic.net.ua/
 Whois Server (port 43): whois.net.ua
 
 Nameserver Information:
-    Nameserver: he1.ns.net.ua.
+    Nameserver: he1.ns.ua.
     IP Address: 216.218.215.27
-    Nameserver: ho1.ns.net.ua.
-    IP Address: 195.47.253.1
     Nameserver: ns.lucky.net.
     IP Address: 193.193.193.100
     Nameserver: ns.uu.net.
     IP Address: 137.39.1.3
     Nameserver: ns2.nic.fr.
     IP Address: 192.93.0.4
-    Nameserver: pch.ns.net.ua.
-    IP Address: 204.61.216.12
     Nameserver: sunic.sunet.se.
     IP Address: 192.36.125.2 2001:6b0:7:0:0:0:0:2
     Nameserver: ns-ua.ripe.net.
@@ -74,6 +70,10 @@ Nameserver Information:
     IP Address: 204.74.113.1
     Nameserver: tld1.ultradns.net.
     IP Address: 204.74.112.1 2001:502:d399:0:0:0:0:1
+    Nameserver: ho1.ns.ua.
+    IP Address: 195.47.253.1
+    Nameserver: pch.ns.ua.
+    IP Address: 204.61.216.12
 
 Registration Date: 01-December-1992
-Last Updated Date: 13-November-2008
+Last Updated Date: 28-December-2008
