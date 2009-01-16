@@ -53,14 +53,14 @@ Technical Contact:
 URL for registration services: http://www.omantel.net.om
 
 Nameserver Information:
-    Nameserver: ns.icann.org.
-    IP Address: 192.0.34.126
-    Nameserver: ns.ripe.net.
-    IP Address: 193.0.0.193
-    Nameserver: om14.omantel.net.om.
-    IP Address: 212.72.23.4
     Nameserver: om16.omantel.net.om.
     IP Address: 212.72.1.186
+    Nameserver: ns.icann.org.
+    IP Address: 192.0.34.126
+    Nameserver: om14.omantel.net.om.
+    IP Address: 212.72.23.4
+    Nameserver: ns-om.ripe.net.
+    IP Address: 193.0.12.166
 
 Registration Date: 11-April-1996
-Last Updated Date: 26-July-2005
+Last Updated Date: 15-January-2009
