@@ -54,14 +54,22 @@ Technical Contact:
 URL for registration services: http://www.nic.tt
 
 Nameserver Information:
+    Nameserver: ns0.nic.tt.
+    IP Address: 156.154.100.17
+    Nameserver: ns1.nic.tt.
+    IP Address: 156.154.101.17
+    Nameserver: ns2.nic.tt.
+    IP Address: 156.154.102.17
+    Nameserver: ns3.nic.tt.
+    IP Address: 156.154.103.17
+    Nameserver: ns4.nic.tt.
+    IP Address: 156.154.104.17
+    Nameserver: ns5.nic.tt.
+    IP Address: 156.154.105.17
     Nameserver: anyns.pch.net.
     IP Address: 204.61.216.4
-    Nameserver: dns.nic.tt.
-    IP Address: 66.27.54.138
     Nameserver: ns1.pch.net.
     IP Address: 206.220.231.1
-    Nameserver: upr1.upr.clu.edu.
-    IP Address: 136.145.1.4
 
 Registration Date: 03-September-1991
-Last Updated Date: 24-October-2006
+Last Updated Date: 15-January-2009
