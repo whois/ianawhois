@@ -55,26 +55,26 @@ URL for registration services: http://www.cira.ca/
 Whois Server (port 43): whois.cira.ca
 
 Nameserver Information:
-    Nameserver: ca01.cira.ca.
+    Nameserver: a.ca-servers.ca.
     IP Address: 192.228.27.11
-    Nameserver: ca02.cira.ca.
-    IP Address: 208.77.191.231
-    Nameserver: ca04.cira.ca.
+    Nameserver: b.ca-servers.ca.
+    IP Address: 192.228.25.45
+    Nameserver: c.ca-servers.ca.
     IP Address: 192.228.28.9
-    Nameserver: ca05.cira.ca.
+    Nameserver: d.ca-servers.ca.
     IP Address: 129.33.164.73
-    Nameserver: ca06.cira.ca.
+    Nameserver: e.ca-servers.ca.
     IP Address: 192.228.30.9
+    Nameserver: f.ca-servers.ca.
+    IP Address: 208.77.191.231
+    Nameserver: k.ca-servers.ca.
+    IP Address: 156.154.100.4
+    Nameserver: l.ca-servers.ca.
+    IP Address: 156.154.101.4
+    Nameserver: m.ca-servers.ca.
+    IP Address: 156.154.102.4
     Nameserver: ns-ext.isc.org.
     IP Address: 204.152.184.64 2001:4f8:0:2:0:0:0:13
-    Nameserver: ca03.cira.ca.
-    IP Address: 192.228.25.45
-    Nameserver: tld1.ultradns.net.
-    IP Address: 204.74.112.1 2001:502:d399:0:0:0:0:1
-    Nameserver: tld2.ultradns.net.
-    IP Address: 204.74.113.1
-    Nameserver: tld3.ultradns.org.
-    IP Address: 199.7.66.1
 
 Registration Date: 14-May-1987
-Last Updated Date: 18-September-2008
+Last Updated Date: 03-February-2009
