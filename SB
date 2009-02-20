@@ -58,12 +58,16 @@ Nameserver Information:
     IP Address: 202.1.169.15
     Nameserver: sb-ns.anycast.pch.net.
     IP Address: 204.61.216.31
-    Nameserver: ns5.communitydns.net.
-    IP Address: 194.0.1.5
     Nameserver: dns3.sb.cocca.org.au.
     IP Address: 203.119.12.243
     Nameserver: sb1.dyntld.net.
     IP Address: 208.78.70.83
+    Nameserver: sb2.dyntld.net.
+    IP Address: 204.13.250.83
+    Nameserver: sb3.dyntld.net.
+    IP Address: 208.78.71.83
+    Nameserver: sb4.dyntld.net.
+    IP Address: 204.13.251.83
 
 Registration Date: 19-April-1994
-Last Updated Date: 23-November-2007
+Last Updated Date: 18-February-2009
