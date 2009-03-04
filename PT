@@ -53,10 +53,10 @@ Technical Contact:
 URL for registration services: http://www.dns.pt/
 
 Nameserver Information:
-    Nameserver: ns.dns.br.
-    IP Address: 200.160.0.5
     Nameserver: ns.dns.pt.
     IP Address: 193.136.0.1
+    Nameserver: ns.dns.br.
+    IP Address: 200.160.0.5
     Nameserver: ns2.dns.pt.
     IP Address: 193.136.2.226 2001:690:a80:4001:0:0:0:100
     Nameserver: ns2.nic.fr.
@@ -67,4 +67,4 @@ Nameserver Information:
     IP Address: 192.36.125.2 2001:6b0:7:0:0:0:0:2
 
 Registration Date: 30-June-1988
-Last Updated Date: 19-February-2009
+Last Updated Date: 03-March-2009
