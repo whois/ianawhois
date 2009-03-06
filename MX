@@ -52,17 +52,21 @@ Technical Contact:
     Registration Date: 01-January-1985
     Last Updated Date: 24-September-2008
 URL for registration services: http://www.nic.mx/
-Whois Server (port 43): whois.nic.mx
+Whois Server (port 43): whois.mx
 
 Nameserver Information:
-    Nameserver: a.ns.mx.
+    Nameserver: o.mx-ns.mx.
     IP Address: 200.23.1.1
-    Nameserver: b.ns.mx.
-    IP Address: 200.23.179.1
-    Nameserver: c.ns.mx.
-    IP Address: 192.100.224.1
-    Nameserver: d.ns.mx.
-    IP Address: 207.248.64.1
+    Nameserver: c.mx-ns.mx.
+    IP Address: 192.100.224.1 2001:1258:0:0:0:0:0:1
+    Nameserver: m.mx-ns.mx.
+    IP Address: 200.94.176.1
+    Nameserver: e.mx-ns.mx.
+    IP Address: 189.201.244.1
+    Nameserver: x.mx-ns.mx.
+    IP Address: 201.131.252.1
+    Nameserver: i.mx-ns.mx.
+    IP Address: 207.248.68.1
 
 Registration Date: 01-February-1989
-Last Updated Date: 24-September-2008
+Last Updated Date: 05-March-2009
