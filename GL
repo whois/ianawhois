@@ -53,14 +53,14 @@ Technical Contact:
 URL for registration services: http://www.nic.gl/
 
 Nameserver Information:
-    Nameserver: ns.uu.net.
-    IP Address: 137.39.1.3
+    Nameserver: a.nuuk.nic.gl.
+    IP Address: 194.177.224.13
+    Nameserver: b.nuuk.nic.gl.
+    IP Address: 194.177.224.17
+    Nameserver: c.nuuk.nic.gl.
+    IP Address: 194.177.224.18
     Nameserver: ns-soa.darenet.dk.
     IP Address: 130.226.1.4
-    Nameserver: tgserv.tele.gl.
-    IP Address: 194.177.224.7
-    Nameserver: ns-gl.ripe.net.
-    IP Address: 193.0.12.88
 
 Registration Date: 08-April-1994
-Last Updated Date: 23-September-2008
+Last Updated Date: 17-March-2009
