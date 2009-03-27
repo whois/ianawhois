@@ -66,14 +66,14 @@ Nameserver Information:
     IP Address: 192.36.125.2 2001:6b0:7:0:0:0:0:2
     Nameserver: ns-ua.ripe.net.
     IP Address: 193.0.12.232 2001:610:240:0:53:cc:12:232
-    Nameserver: tld1.ultradns.net.
-    IP Address: 204.74.112.1 2001:502:d399:0:0:0:0:1
     Nameserver: ho1.ns.ua.
     IP Address: 195.47.253.1
     Nameserver: pch.ns.ua.
-    IP Address: 204.61.216.12
+    IP Address: 204.61.216.12 2001:500:14:6012:ad:0:0:1
     Nameserver: sns-pb.isc.org.
     IP Address: 192.5.4.1 2001:500:2e:0:0:0:0:1
+    Nameserver: cd1.ns.ua.
+    IP Address: 194.0.1.9 2001:678:4:0:0:0:0:9
 
 Registration Date: 01-December-1992
-Last Updated Date: 20-January-2009
+Last Updated Date: 27-March-2009
