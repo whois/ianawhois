@@ -60,7 +60,7 @@ Nameserver Information:
     Nameserver: flag.ep.net.
     IP Address: 198.32.4.13
     Nameserver: ns.anycast.nic.af.
-    IP Address: 204.61.216.13
+    IP Address: 204.61.216.13 2001:500:14:6013:ad:0:0:1
     Nameserver: ns.undp.org.
     IP Address: 165.65.6.8
     Nameserver: ns2.undp.org.
@@ -71,4 +71,4 @@ Nameserver Information:
     IP Address: 193.0.12.1 2001:610:240:0:53:cc:12:1
 
 Registration Date: 16-October-1997
-Last Updated Date: 02-December-2008
+Last Updated Date: 27-March-2009
