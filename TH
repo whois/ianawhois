@@ -54,8 +54,6 @@ URL for registration services: http://www.thnic.co.th
 Whois Server (port 43): whois.thnic.co.th
 
 Nameserver Information:
-    Nameserver: auth61.ns.uu.net.
-    IP Address: 198.6.1.182
     Nameserver: ns.thnic.net.
     IP Address: 202.28.0.1
     Nameserver: dns1.thnic.co.th.
@@ -64,6 +62,10 @@ Nameserver Information:
     IP Address: 193.0.12.219
     Nameserver: ns-a.thnic.co.th.
     IP Address: 61.19.242.38
+    Nameserver: ams.sns-pb.isc.org.
+    IP Address: 199.6.1.30
+    Nameserver: sfba.sns-pb.isc.org.
+    IP Address: 149.20.64.3 2001:4f8:0:2:0:0:0:19
 
 Registration Date: 07-September-1988
-Last Updated Date: 04-December-2007
+Last Updated Date: 27-March-2009
