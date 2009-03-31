@@ -58,22 +58,22 @@ Nameserver Information:
     IP Address: 194.146.106.38
     Nameserver: b.nic.tel.
     IP Address: 192.36.144.116
-    Nameserver: c.nic.tel.
-    IP Address: 209.173.53.162
-    Nameserver: d.nic.tel.
-    IP Address: 209.173.57.162
-    Nameserver: e.nic.tel.
-    IP Address: 209.173.60.65
-    Nameserver: f.nic.tel.
-    IP Address: 213.86.51.129
-    Nameserver: g.nic.tel.
-    IP Address: 209.173.58.65
-    Nameserver: h.nic.tel.
-    IP Address: 209.173.58.66
+    Nameserver: c.dns.nic.tel.
+    IP Address: 204.74.112.1 2001:502:d399:0:0:0:0:1
+    Nameserver: d.dns.nic.tel.
+    IP Address: 204.74.113.1
+    Nameserver: e.dns.nic.tel.
+    IP Address: 199.7.66.1
+    Nameserver: f.dns.nic.tel.
+    IP Address: 199.7.67.1 2001:502:100e:0:0:0:0:1
+    Nameserver: g.dns.nic.tel.
+    IP Address: 192.100.59.11
+    Nameserver: h.dns.nic.tel.
+    IP Address: 198.133.199.11
     Nameserver: i.nic.tel.
     IP Address: 199.7.64.126 2001:503:7bbb:ffff:ffff:ffff:ffff:ff7e
     Nameserver: j.nic.tel.
     IP Address: 199.7.77.126 2001:503:8028:ffff:ffff:ffff:ffff:ff7e
 
 Registration Date: 01-March-2007
-Last Updated Date: 23-March-2009
+Last Updated Date: 30-March-2009
