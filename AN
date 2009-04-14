@@ -53,18 +53,16 @@ Technical Contact:
 URL for registration services: http://www.una.an/an_domreg
 
 Nameserver Information:
+    Nameserver: ns01-server.curinfo.an.
+    IP Address: 65.208.122.36
     Nameserver: engine0.una.an.
     IP Address: 200.26.199.99
     Nameserver: engine1.una.net.
     IP Address: 198.93.177.21
     Nameserver: kadushi.curinfo.an.
     IP Address: 65.208.122.63
-    Nameserver: ns.ripe.net.
-    IP Address: 193.0.0.193
     Nameserver: ns0.ja.net.
     IP Address: 128.86.1.20  193.63.94.20  2001:630:0:8:0:0:0:14  2001:630:0:9:0:0:0:14
-    Nameserver: ns01-server.curinfo.an.
-    IP Address: 65.208.122.36
     Nameserver: sunic.sunet.se.
     IP Address: 192.36.125.2 2001:6b0:7:0:0:0:0:2
     Nameserver: engine3.una.an.
@@ -73,6 +71,8 @@ Nameserver Information:
     IP Address: 65.174.238.100
     Nameserver: ns3.cura.net.
     IP Address: 200.26.226.6
+    Nameserver: ns-an.ripe.net.
+    IP Address: 193.0.12.156
 
 Registration Date: 09-September-1993
-Last Updated Date: 24-September-2008
+Last Updated Date: 14-April-2009
