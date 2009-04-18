@@ -60,18 +60,18 @@ Nameserver Information:
     IP Address: 62.4.64.120
     Nameserver: ns0.telia.nic.nu.
     IP Address: 212.181.91.4
-    Nameserver: tld1.ultradns.net.
-    IP Address: 204.74.112.1 2001:502:d399:0:0:0:0:1
-    Nameserver: tld2.ultradns.net.
-    IP Address: 204.74.113.1
-    Nameserver: tld3.ultradns.org.
-    IP Address: 199.7.66.1
-    Nameserver: tld4.ultradns.org.
-    IP Address: 199.7.67.1 2001:502:100e:0:0:0:0:1
-    Nameserver: tld5.ultradns.info.
-    IP Address: 192.100.59.11
-    Nameserver: tld6.ultradns.co.uk.
-    IP Address: 198.133.199.11
+    Nameserver: ns0.nus.nic.nu.
+    IP Address: 156.154.100.13
+    Nameserver: ns1.nus.nic.nu.
+    IP Address: 156.154.101.13
+    Nameserver: ns2.nus.nic.nu.
+    IP Address: 156.154.102.13
+    Nameserver: ns3.nus.nic.nu.
+    IP Address: 156.154.103.13
+    Nameserver: ns4.nus.nic.nu.
+    IP Address: 156.154.104.13
+    Nameserver: ns5.nus.nic.nu.
+    IP Address: 156.154.105.13
 
 Registration Date: 20-June-1997
-Last Updated Date: 24-July-2007
+Last Updated Date: 17-April-2009
