@@ -54,19 +54,17 @@ Technical Contact:
 
 Nameserver Information:
     Nameserver: john.vatican.va.
-    IP Address: 212.77.0.110
+    IP Address: 212.77.0.110 2a01:b8:0:1:212:77:0:110
     Nameserver: dns.nic.it.
     IP Address: 193.205.245.5 2001:760:4000:1f5:0:0:0:5
     Nameserver: michael.vatican.va.
-    IP Address: 212.77.0.2
+    IP Address: 212.77.0.2 2a01:b8:0:1:212:77:0:2
     Nameserver: ns.ripe.net.
     IP Address: 193.0.0.193
-    Nameserver: ns.urbe.it.
-    IP Address: 193.43.128.2
     Nameserver: osiris.namex.it.
-    IP Address: 193.201.40.6
+    IP Address: 193.201.40.6 2001:7f8:10:f00a:0:0:0:6
     Nameserver: seth.namex.it.
-    IP Address: 193.201.40.7
+    IP Address: 193.201.40.7 2001:7f8:10:f00a:0:0:0:7
 
 Registration Date: 11-September-1995
-Last Updated Date: 17-March-2009
+Last Updated Date: 24-April-2009
