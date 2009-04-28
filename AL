@@ -20,7 +20,7 @@ Sponsoring Organization:
     Last Updated Date: 28-December-2008
 
 Administrative Contact:
-    Name: Bledar Lahi
+    Name: Technical Director
     Organization: Electronic and Postal Communications Authority - AKEP
     Address1: Rr. Reshit Collaku Nr. 43
     Address2: 
@@ -30,10 +30,10 @@ Administrative Contact:
     Country: Albania
     Postal Code: 1001
     Phone: +355 4 2250926
-    Fax: +355 4 2259 106
-    Email: nic@akep.gov.al
+    Fax: + 355 4 2259106
+    Email: domain@akep.gov.al
     Registration Date: 01-January-1985
-    Last Updated Date: 28-December-2008
+    Last Updated Date: 28-April-2009
 
 Technical Contact:
     Name: Adriatik Allamani
@@ -46,10 +46,10 @@ Technical Contact:
     Country: Albania
     Postal Code: 1001
     Phone: +355 4 2250926
-    Fax: +355 4 2259 106
-    Email: domain@akep.gov.al
+    Fax: +355 4 2259106
+    Email: nic@akep.gov.al
     Registration Date: 01-January-1985
-    Last Updated Date: 28-December-2008
+    Last Updated Date: 28-April-2009
 URL for registration services: http://www.nic.al/
 
 Nameserver Information:
@@ -57,14 +57,14 @@ Nameserver Information:
     IP Address: 194.1.149.230
     Nameserver: munnari.oz.au.
     IP Address: 202.28.99.196
-    Nameserver: ns.ripe.net.
-    IP Address: 193.0.0.193
     Nameserver: rip.psg.com.
     IP Address: 147.28.0.39 2001:418:1:0:0:0:0:39
     Nameserver: sunic.sunet.se.
     IP Address: 192.36.125.2 2001:6b0:7:0:0:0:0:2
     Nameserver: ns-al.isti.cnr.it.
     IP Address: 194.119.192.3 194.119.192.4
+    Nameserver: ns-al.ripe.net.
+    IP Address: 193.0.12.3 2001:610:240:0:53:cc:12:3
 
 Registration Date: 21-April-1992
-Last Updated Date: 28-December-2008
+Last Updated Date: 28-April-2009
