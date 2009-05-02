@@ -54,9 +54,9 @@ URL for registration services: http://www.nic.tel
 Whois Server (port 43): whois.nic.tel
 
 Nameserver Information:
-    Nameserver: a.nic.tel.
+    Nameserver: a.dns.nic.tel.
     IP Address: 194.146.106.38
-    Nameserver: b.nic.tel.
+    Nameserver: b.dns.nic.tel.
     IP Address: 192.36.144.116
     Nameserver: c.dns.nic.tel.
     IP Address: 204.74.112.1 2001:502:d399:0:0:0:0:1
@@ -70,10 +70,10 @@ Nameserver Information:
     IP Address: 192.100.59.11
     Nameserver: h.dns.nic.tel.
     IP Address: 198.133.199.11
-    Nameserver: i.nic.tel.
+    Nameserver: i.dns.nic.tel.
     IP Address: 199.7.64.126 2001:503:7bbb:ffff:ffff:ffff:ffff:ff7e
-    Nameserver: j.nic.tel.
+    Nameserver: j.dns.nic.tel.
     IP Address: 199.7.77.126 2001:503:8028:ffff:ffff:ffff:ffff:ff7e
 
 Registration Date: 01-March-2007
-Last Updated Date: 30-March-2009
+Last Updated Date: 01-May-2009
