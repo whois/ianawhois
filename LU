@@ -56,22 +56,22 @@ Whois Server (port 43): whois.dns.lu
 Nameserver Information:
     Nameserver: ns1.dns.lu.
     IP Address: 158.64.229.2 2001:a18:4:0:0:0:0:2
-    Nameserver: ns5.dns.lu.
-    IP Address: 81.91.161.100
+    Nameserver: a.dns.lu.
+    IP Address: 156.154.100.11 2001:502:ad09:0:0:0:0:11
+    Nameserver: b.dns.lu.
+    IP Address: 156.154.101.11
+    Nameserver: c.dns.lu.
+    IP Address: 156.154.102.11
+    Nameserver: d.dns.lu.
+    IP Address: 156.154.103.11 2001:502:2eda:0:0:0:0:11
     Nameserver: dns.princeton.edu.
     IP Address: 128.112.129.15
-    Nameserver: merapi.switch.ch.
-    IP Address: 130.59.211.10 2001:620:0:0:0:0:0:5
-    Nameserver: a.dns.lu.
-    IP Address: 204.74.112.251  2001:0502:D399::251
-    Nameserver: b.dns.lu.
-    IP Address: 204.74.113.251
-    Nameserver: c.dns.lu.
-    IP Address: 199.7.66.251
-    Nameserver: d.dns.lu.
-    IP Address: 199.7.67.251  2001:502:100e:0:0:0:0:251
     Nameserver: k.dns.lu.
     IP Address: 194.0.1.13 2001:678:4:0:0:0:0:d
+    Nameserver: merapi.switch.ch.
+    IP Address: 130.59.211.10 2001:620:0:0:0:0:0:5
+    Nameserver: ns5.dns.lu.
+    IP Address: 81.91.161.100
 
 Registration Date: 27-January-1995
-Last Updated Date: 26-September-2008
+Last Updated Date: 08-May-2009
