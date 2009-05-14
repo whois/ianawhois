@@ -5,64 +5,67 @@ ID: ng
 
 Sponsoring Organization:
     Name: 
-    Organization: Nigerian Government c/o National Information Technology
-                  Development Agency (NITDA)
-    Address1: Plot 695 Port-Harcourt
-    Address2: Off Gimbiya Street, Area 11
+    Organization: Nigeria Internet Registration Association
+    Address1: 8 Saka Tinbu Street
+    Address2: 
     Address3: 
-    City: Garki, Abuja
-    State/Province: FCT
+    City: Victoria Island
+    State/Province: Lagos
     Country: Nigeria
-    Postal Code: PMB 564 Garki, Abuja-Nigeria
+    Postal Code: 
     Phone: 
     Fax: 
     Email: 
     Registration Date: 01-January-1985
-    Last Updated Date: 09-June-2004
+    Last Updated Date: 13-May-2009
 
 Administrative Contact:
-    Name: Prof G.O. Ajayi
-    Organization: National Information Technology Development
-                  Agency (NITDA)
-    Address1: Port 695 Port-Harcourt
-    Address2: Off Gimbiya Street, Area 11
-    Address3: 
-    City: Garki, Abuja
-    State/Province: FCT
-    Country: Nigeria
-    Postal Code: PMB 564 Garki, Abuja-Nigeria
-    Phone: +234 9 3142926
-    Fax: +234 9 3142924
-    Email: gajayi@nitda.org
-    Registration Date: 01-January-1985
-    Last Updated Date: 09-June-2004
-
-Technical Contact:
-    Name: Randy Bush
-    Organization: 
-    Address1: PO Box 128
+    Name: President
+    Organization: Nigeria Internet Registration Association
+    Address1: 8 Saka Tinbu Street
     Address2: 
     Address3: 
-    City: Kapa`au
-    State/Province: Hawai`i
-    Country: United States
-    Postal Code: 96755
-    Phone: 
-    Fax: 
-    Email: randy@psg.com
-    Registration Date: 20-September-2005
-    Last Updated Date: 20-September-2005
-URL for registration services: http://psg.com/dns/ng
+    City: Victoria Island
+    State/Province: Lagos
+    Country: Nigeria
+    Postal Code: 
+    Phone: +234 7028184335
+    Fax: +234 7028184335
+    Email: president@nira.org.ng
+    Registration Date: 01-January-1985
+    Last Updated Date: 13-May-2009
+
+Technical Contact:
+    Name: DNS Administrator
+    Organization: Nigeria Internet Registration Association
+    Address1: 8 Saka Tinbu Street
+    Address2: 
+    Address3: 
+    City: Victoria Island
+    State/Province: Lagos
+    Country: Nigeria
+    Postal Code: 
+    Phone: +234 16635433
+    Fax: +234 16635433
+    Email: dnsadmin@nira.org.ng
+    Registration Date: 13-May-2009
+    Last Updated Date: 13-May-2009
+URL for registration services: http://www.nira.org.ng/
+Whois Server (port 43): whois.nic.net.ng
 
 Nameserver Information:
-    Nameserver: hippo.ru.ac.za.
-    IP Address: 146.231.128.1 2001:4200:1010::1
-    Nameserver: rip.psg.com.
-    IP Address: 147.28.0.39
-    Nameserver: sunic.sunet.se.
-    IP Address: 192.36.125.2 2001:6b0:7:0:0:0:0:2
-    Nameserver: ns1.dns.aq.
-    IP Address: 198.32.71.12
+    Nameserver: nsa.nic.net.ng.
+    IP Address: 41.222.79.3
+    Nameserver: ns1.nic.net.ng.
+    IP Address: 194.0.1.29 2001:678:4:0:0:0:0:1d
+    Nameserver: ns2.nic.net.ng.
+    IP Address: 204.61.216.40
+    Nameserver: ns3.nic.net.ng.
+    IP Address: 208.78.70.93
+    Nameserver: ns4.nic.net.ng.
+    IP Address: 204.13.250.93
+    Nameserver: nsb.nic.net.ng.
+    IP Address: 72.167.122.8
 
 Registration Date: 15-March-1995
-Last Updated Date: 30-April-2009
+Last Updated Date: 13-May-2009
