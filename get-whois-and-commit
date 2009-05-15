@@ -14,8 +14,7 @@ DIFF=/tmp/get-whois.$$.diff
 trap  "rm -f $LOG $DIFF; exit 1" 1 2 3 15 
 trap  "rm -f $LOG $DIFF" EXIT
 
-# Not automatic with Subversion...
-svn update
+svn update -q
 
 for tld in $TLDS; do
     new=0
