@@ -54,16 +54,14 @@ URL for registration services: http://www.nic.st
 Whois Server (port 43): whois.nic.st
 
 Nameserver Information:
-    Nameserver: auth61.ns.uu.net.
-    IP Address: 198.6.1.182
     Nameserver: ns1.bahnhof.net.
     IP Address: 195.178.160.2
+    Nameserver: auth61.ns.uu.net.
+    IP Address: 198.6.1.182
     Nameserver: ns2.bahnhof.net.
     IP Address: 212.85.64.4
     Nameserver: sunic.sunet.se.
     IP Address: 192.36.125.2 2001:6b0:7:0:0:0:0:2
-    Nameserver: aunic.aunic.net.
-    IP Address: 203.29.5.1
 
 Registration Date: 07-November-1997
-Last Updated Date: 24-September-2008
+Last Updated Date: 18-May-2009
