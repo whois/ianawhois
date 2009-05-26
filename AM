@@ -59,7 +59,7 @@ Nameserver Information:
     Nameserver: ns-am.ripe.net.
     IP Address: 193.0.12.12 2001:610:240:0:53:cc:12:12
     Nameserver: rip.psg.com.
-    IP Address: 147.28.0.39
+    IP Address: 147.28.0.39 2001:418:1:0:0:0:0:39
     Nameserver: sec3.apnic.net.
     IP Address: 202.12.28.140 2001:dc0:1:0:4777:0:0:140
     Nameserver: sunic.sunet.se.
@@ -70,4 +70,4 @@ Nameserver Information:
     IP Address: 202.12.29.59 2001:dc0:2001:a:4608::59
 
 Registration Date: 26-August-1994
-Last Updated Date: 30-April-2009
+Last Updated Date: 26-May-2009
