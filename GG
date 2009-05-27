@@ -58,6 +58,8 @@ Nameserver Information:
     IP Address: 87.117.196.245
     Nameserver: b.ci-servers.net.
     IP Address: 82.103.139.220
+    Nameserver: c.ci-servers.org.
+    IP Address: 64.34.165.135
     Nameserver: dns2.guernsey.net.
     IP Address: 195.226.128.3
     Nameserver: ns0.ja.net.
@@ -66,8 +68,6 @@ Nameserver Information:
     IP Address: 202.46.191.130
     Nameserver: sec1.dns.uk.psi.net.
     IP Address: 154.32.105.34
-    Nameserver: sec2.dns.uk.psi.net.
-    IP Address: 154.32.107.34
 
 Registration Date: 07-August-1996
-Last Updated Date: 24-April-2009
+Last Updated Date: 26-May-2009
