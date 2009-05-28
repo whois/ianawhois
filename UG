@@ -54,16 +54,16 @@ URL for registration services: http://www.registry.co.ug
 Whois Server (port 43): whois.co.ug
 
 Nameserver Information:
-    Nameserver: demon.mtn.co.ug.
-    IP Address: 212.88.97.20
-    Nameserver: ns.one2net.co.ug.
-    IP Address: 41.220.14.8
-    Nameserver: ns.ripe.net.
-    IP Address: 193.0.0.193
     Nameserver: web.eahd.or.ug.
     IP Address: 216.104.202.101
+    Nameserver: demon.mtn.co.ug.
+    IP Address: 212.88.97.20
+    Nameserver: ns-ext.vix.com.
+    IP Address: 204.152.184.64
+    Nameserver: ns-ug.ripe.net.
+    IP Address: 193.0.12.231 2001:610:240:0:53:cc:12:231
     Nameserver: ns1.auth.iana.org.
     IP Address: 192.0.34.126
 
 Registration Date: 08-March-1995
-Last Updated Date: 22-June-2006
+Last Updated Date: 28-May-2009
