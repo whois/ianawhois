@@ -55,10 +55,20 @@ Technical Contact:
 URL for registration services: http://www.nic.af/
 
 Nameserver Information:
+    Nameserver: af1.dyntld.net.
+    IP Address: 208.78.70.94
+    Nameserver: af2.dyntld.net.
+    IP Address: 204.13.250.94
+    Nameserver: af3.dyntld.net.
+    IP Address: 208.78.71.94
+    Nameserver: af4.dyntld.net.
+    IP Address: 204.13.251.94
     Nameserver: alpha.undp.org.
     IP Address: 165.65.35.29
     Nameserver: flag.ep.net.
     IP Address: 198.32.4.13
+    Nameserver: ns-af.ripe.net.
+    IP Address: 193.0.12.1 2001:610:240:0:53:cc:12:1
     Nameserver: ns.anycast.nic.af.
     IP Address: 204.61.216.13 2001:500:14:6013:ad:0:0:1
     Nameserver: ns.undp.org.
@@ -67,8 +77,6 @@ Nameserver Information:
     IP Address: 192.124.42.15
     Nameserver: ns3.nic.fr.
     IP Address: 192.134.0.49 2001:660:3006:1:0:0:1:1
-    Nameserver: ns-af.ripe.net.
-    IP Address: 193.0.12.1 2001:610:240:0:53:cc:12:1
 
 Registration Date: 16-October-1997
-Last Updated Date: 27-March-2009
+Last Updated Date: 09-June-2009
