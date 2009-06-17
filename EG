@@ -58,10 +58,10 @@ URL for registration services: http://www.egregistry.eg/
 Nameserver Information:
     Nameserver: frcu.eun.eg.
     IP Address: 193.227.1.1
-    Nameserver: ns1.univie.ac.at.
-    IP Address: 193.171.255.2
     Nameserver: rip.psg.com.
     IP Address: 147.28.0.39 2001:418:1:0:0:0:0:39
+    Nameserver: ns5.univie.ac.at.
+    IP Address: 193.171.255.77
 
 Registration Date: 30-November-1990
-Last Updated Date: 26-May-2009
+Last Updated Date: 16-June-2009
