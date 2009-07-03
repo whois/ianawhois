@@ -50,8 +50,8 @@ Technical Contact:
     Email: dna@nic.net.sg
     Registration Date: 01-January-1985
     Last Updated Date: 16-January-2003
-URL for registration services: http://www.nic.net.sg/
-Whois Server (port 43): whois.nic.net.sg
+URL for registration services: http://www.sgnic.sg
+Whois Server (port 43): whois.sgnic.sg
 
 Nameserver Information:
     Nameserver: ds.sgnic.sg.
@@ -60,6 +60,8 @@ Nameserver Information:
     IP Address: 202.12.28.140 2001:dc0:1:0:4777:0:0:140
     Nameserver: dsany.sgnic.sg.
     IP Address: 194.0.1.16 2001:678:4:0:0:0:0:10
+    Nameserver: ns2.cuhk.edu.hk.
+    IP Address: 137.189.6.21
 
 Registration Date: 19-October-1988
-Last Updated Date: 09-December-2008
+Last Updated Date: 02-July-2009
