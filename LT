@@ -59,8 +59,6 @@ Whois Server (port 43): whois.domreg.lt
 Nameserver Information:
     Nameserver: nn.uninett.no.
     IP Address: 158.38.0.181
-    Nameserver: ns3.omnitel.net.
-    IP Address: 194.176.32.147
     Nameserver: sunic.sunet.se.
     IP Address: 192.36.125.2 2001:6b0:7:0:0:0:0:2
     Nameserver: a.tld.lt.
@@ -71,6 +69,8 @@ Nameserver Information:
     IP Address: 194.0.1.4
     Nameserver: d.tld.lt.
     IP Address: 194.0.3.1 2001:678:6::1
+    Nameserver: e.tld.lt.
+    IP Address: 195.182.72.234
 
 Registration Date: 03-June-1992
-Last Updated Date: 24-September-2008
+Last Updated Date: 08-July-2009
