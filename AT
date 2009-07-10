@@ -60,7 +60,7 @@ Nameserver Information:
     Nameserver: ns2.univie.ac.at.
     IP Address: 192.92.125.2 2001:628:453:4302:0:0:0:53
     Nameserver: ns9.univie.ac.at.
-    IP Address: 192.76.243.2
+    IP Address: 194.0.10.100 2001:678:d:0:0:0:0:cafe
     Nameserver: ns-uk.nic.at.
     IP Address: 195.66.241.82
     Nameserver: ns-us1.nic.at.
@@ -77,4 +77,4 @@ Nameserver Information:
     IP Address: 194.146.106.50
 
 Registration Date: 20-January-1988
-Last Updated Date: 01-May-2008
+Last Updated Date: 09-July-2009
