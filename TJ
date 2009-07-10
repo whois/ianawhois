@@ -54,13 +54,13 @@ URL for registration services: http://www.nic.tj
 
 Nameserver Information:
     Nameserver: ns1.nic.tj.
-    IP Address: 82.198.5.18
+    IP Address: 62.122.137.16
     Nameserver: phloem.uoregon.edu.
     IP Address: 128.223.32.35 2001:468:d01:20::80df:2023
     Nameserver: ns-tj.ripe.net.
-    IP Address: 193.0.12.217
-    Nameserver: tjmirror.eastera.tj.
-    IP Address: 82.198.22.25
+    IP Address: 193.0.12.217 2001:610:240:0:53:cc:12:217
+    Nameserver: ns2.tojikiston.com.
+    IP Address: 193.111.11.4
 
 Registration Date: 11-December-1997
-Last Updated Date: 03-November-2008
+Last Updated Date: 09-July-2009
