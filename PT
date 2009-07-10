@@ -51,6 +51,7 @@ Technical Contact:
     Registration Date: 12-March-2009
     Last Updated Date: 12-March-2009
 URL for registration services: http://www.dns.pt/
+Whois Server (port 43): whois.dns.pt
 
 Nameserver Information:
     Nameserver: ns.dns.pt.
@@ -63,8 +64,10 @@ Nameserver Information:
     IP Address: 192.93.0.4
     Nameserver: ns-ext.isc.org.
     IP Address: 204.152.184.64 2001:4f8:0:2:0:0:0:13
-    Nameserver: sunic.sunet.se.
-    IP Address: 192.36.125.2 2001:6b0:7:0:0:0:0:2
+    Nameserver: auth200.ns.uu.net.
+    IP Address: 195.129.12.82
+    Nameserver: auth210.ns.uu.net.
+    IP Address: 195.129.12.74
 
 Registration Date: 30-June-1988
-Last Updated Date: 12-March-2009
+Last Updated Date: 09-July-2009
