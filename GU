@@ -31,11 +31,11 @@ Administrative Contact:
     State/Province: 
     Country: Guam
     Postal Code: 96923
-    Phone: +671 734 2645
+    Phone: +671 735 2635
     Fax: +671 734 9422
-    Email: admin@ns.edu.gu ; admin@uog.edu
+    Email: nguyen@uguam.uog.edu
     Registration Date: 01-January-1985
-    Last Updated Date: 01-January-1985
+    Last Updated Date: 09-July-2009
 
 Technical Contact:
     Name: Rudolph E. Villaverde
@@ -48,11 +48,11 @@ Technical Contact:
     State/Province: 
     Country: Guam
     Postal Code: 96923
-    Phone: +671 734 5540
+    Phone: +671 734 9314
     Fax: +671 734 9422
     Email: rev5@uog9.uog.edu
     Registration Date: 01-January-1985
-    Last Updated Date: 01-January-1985
+    Last Updated Date: 09-July-2009
 URL for registration services: http://gadao.gov.gu
 
 Nameserver Information:
@@ -60,8 +60,10 @@ Nameserver Information:
     IP Address: 168.123.2.50
     Nameserver: ns.gu.
     IP Address: 168.123.4.10
-    Nameserver: ns.ripe.net.
-    IP Address: 193.0.0.193
+    Nameserver: ns-gu.ripe.net.
+    IP Address: 193.0.12.91
+    Nameserver: nsuog.edu.gu	.
+    IP Address: 67.98.164.133
 
 Registration Date: 15-April-1994
-Last Updated Date: 26-July-2005
+Last Updated Date: 09-July-2009
