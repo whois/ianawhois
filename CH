@@ -58,18 +58,18 @@ Nameserver Information:
     IP Address: 194.42.48.120
     Nameserver: dns.princeton.edu.
     IP Address: 128.112.129.15
-    Nameserver: domreg.nic.ch.
-    IP Address: 130.59.1.80 2001:620:0:0:0:0:0:4
-    Nameserver: merapi.switch.ch.
-    IP Address: 130.59.211.10 2001:620:0:0:0:0:0:5
-    Nameserver: rip.psg.com.
-    IP Address: 147.28.0.39 2001:418:1:0:0:0:0:39
-    Nameserver: sec3.apnic.net.
-    IP Address: 202.12.28.140 2001:dc0:1:0:4777:0:0:140
     Nameserver: tulku.nic.ar.
     IP Address: 200.16.97.77
     Nameserver: ch1.dnsnode.net.
     IP Address: 194.146.106.10
+    Nameserver: a.nic.ch.
+    IP Address: 130.59.1.80 2001:620:0:0:0:0:0:4
+    Nameserver: b.nic.ch.
+    IP Address: 130.59.211.10 2001:620:0:0:0:0:0:5
+    Nameserver: c.nic.ch.
+    IP Address: 147.28.0.39 2001:418:1:0:0:0:0:39
+    Nameserver: d.nic.ch.
+    IP Address: 202.12.28.140 2001:dc0:1:0:4777:0:0:140
 
 Registration Date: 20-May-1987
-Last Updated Date: 26-May-2009
+Last Updated Date: 14-July-2009
