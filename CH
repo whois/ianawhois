@@ -54,14 +54,6 @@ URL for registration services: http://www.nic.ch/
 Whois Server (port 43): whois.nic.ch
 
 Nameserver Information:
-    Nameserver: cctld.tix.ch.
-    IP Address: 194.42.48.120
-    Nameserver: dns.princeton.edu.
-    IP Address: 128.112.129.15
-    Nameserver: tulku.nic.ar.
-    IP Address: 200.16.97.77
-    Nameserver: ch1.dnsnode.net.
-    IP Address: 194.146.106.10
     Nameserver: a.nic.ch.
     IP Address: 130.59.1.80 2001:620:0:0:0:0:0:4
     Nameserver: b.nic.ch.
@@ -70,6 +62,14 @@ Nameserver Information:
     IP Address: 147.28.0.39 2001:418:1:0:0:0:0:39
     Nameserver: d.nic.ch.
     IP Address: 202.12.28.140 2001:dc0:1:0:4777:0:0:140
+    Nameserver: e.nic.ch.
+    IP Address: 200.16.97.77
+    Nameserver: f.nic.ch.
+    IP Address: 194.146.106.10
+    Nameserver: g.nic.ch.
+    IP Address: 128.112.129.15
+    Nameserver: h.nic.ch.
+    IP Address: 194.42.48.120
 
 Registration Date: 20-May-1987
-Last Updated Date: 14-July-2009
+Last Updated Date: 16-July-2009
