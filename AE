@@ -54,20 +54,18 @@ URL for registration services: http://aeda.ae/
 Whois Server (port 43): whois.aeda.net.ae
 
 Nameserver Information:
-    Nameserver: sec3.apnic.net.
-    IP Address: 202.12.28.140 2001:dc0:1:0:4777:0:0:140
-    Nameserver: ns-ae.ripe.net.
-    IP Address: 193.0.12.233 2001:610:240:0:53:cc:12:233
-    Nameserver: ns-ext.isc.org.
-    IP Address: 204.152.184.64 2001:4f8:0:2:0:0:0:13
     Nameserver: ns1.aedns.ae.
     IP Address: 79.98.120.73
-    Nameserver: ns1.ausregistry.net.au.
-    IP Address: 202.65.12.73
     Nameserver: ns2.aedns.ae.
     IP Address: 79.98.121.73
-    Nameserver: ns2.ausregistry.net.au.
-    IP Address: 202.65.13.73
+    Nameserver: nsext-pch.aedns.ae.
+    IP Address: 199.4.137.1 2001:500:7d:0:0:0:0:1
+    Nameserver: ns-ae.ripe.net.
+    IP Address: 193.0.12.233 2001:610:240:0:53:cc:12:233
+    Nameserver: sec3.apnic.net.
+    IP Address: 202.12.28.140 2001:dc0:1:0:4777:0:0:140
+    Nameserver: sns-pb.isc.org.
+    IP Address: 192.5.4.1 2001:500:2e:0:0:0:0:1
 
 Registration Date: 01-December-1992
-Last Updated Date: 28-July-2008
+Last Updated Date: 28-July-2009
