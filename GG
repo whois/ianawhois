@@ -62,8 +62,10 @@ Nameserver Information:
     IP Address: 64.34.165.135
     Nameserver: d.ci-servers.je.
     IP Address: 193.201.42.178
+    Nameserver: e.ci-servers.je.
+    IP Address: 193.201.42.179
     Nameserver: f.ci-servers.gg.
-    IP Address: 195.226.128.3
+    IP Address: 195.226.128.13
     Nameserver: ns0.ja.net.
     IP Address: 128.86.1.20 193.63.94.20 2001:630:0:8:0:0:0:14 2001:630:0:9:0:0:0:14
     Nameserver: ns99.dns.net.nz.
@@ -72,4 +74,4 @@ Nameserver Information:
     IP Address: 154.32.105.34
 
 Registration Date: 07-August-1996
-Last Updated Date: 26-June-2009
+Last Updated Date: 31-August-2009
