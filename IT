@@ -55,15 +55,17 @@ Whois Server (port 43): whois.nic.it
 
 Nameserver Information:
     Nameserver: dns.nic.it.
-    IP Address: 193.205.245.5 2001:760:4000:1f5:0:0:0:5
-    Nameserver: nameserver.cnr.it.
-    IP Address: 194.119.192.34
+    IP Address: 192.12.192.5 2a00:d40:1:1:0:0:0:5
+    Nameserver: c.dns.it.
+    IP Address: 194.0.1.22 2001:678:4:0:0:0:0:16
     Nameserver: m.dns.it.
     IP Address: 217.29.76.4
+    Nameserver: nameserver.cnr.it.
+    IP Address: 194.119.192.34
     Nameserver: r.dns.it.
     IP Address: 193.206.141.46 2001:760:ffff:ffff:0:0:0:ca
     Nameserver: s.dns.it.
     IP Address: 194.146.106.30
 
 Registration Date: 23-December-1987
-Last Updated Date: 29-July-2008
+Last Updated Date: 14-September-2009
