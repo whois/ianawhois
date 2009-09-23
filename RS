@@ -56,8 +56,6 @@ URL for registration services: http://www.nic.rs
 Nameserver Information:
     Nameserver: ns1.nic.rs.
     IP Address: 147.91.8.6
-    Nameserver: odisej.telekom.yu.
-    IP Address: 195.178.32.2
     Nameserver: avala.yubc.net.
     IP Address: 212.124.160.1
     Nameserver: ns-rs.ripe.net.
@@ -72,6 +70,8 @@ Nameserver Information:
     IP Address: 204.61.216.32 2001:500:14:6032:ad:0:0:1
     Nameserver: ns-ext.sth1.isc.org.
     IP Address: 192.228.89.19
+    Nameserver: odisej.telekom.rs.
+    IP Address: 195.178.32.2
 
 Registration Date: 24-September-2007
-Last Updated Date: 24-February-2009
+Last Updated Date: 22-September-2009
