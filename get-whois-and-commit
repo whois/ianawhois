@@ -4,9 +4,9 @@
 
 LIST=bortzmeyer@nic.fr,stephane@sources.org,Loic.Damilaville@nic.fr,iana-whois-changes@dk-hostmaster.dk,Mohsen.Souissi@nic.fr
 MAINTAINER=Stephane.Bortzmeyer@nic.fr
-ROOTNAMESERVER=K
+ROOTNAMESERVER=F
 date=`date +%Y-%m-%d`
-TLDS=`dig @${ROOTNAMESERVER}.root-servers.net AXFR . | awk -F. '/^[a-z][a-z]+\.\t.*NS/ {print $1}' | tr '[a-z]' '[A-Z]' | sort | uniq`
+TLDS=`dig @${ROOTNAMESERVER}.root-servers.net AXFR . | awk -F. '/^[A-Z][A-Z]+\.\t.*NS/ {print $1}' | sort | uniq`
 
 PATH=${HOME}/bin:${PATH}
 LOG=/tmp/get-whois.$$.log
