@@ -16,7 +16,7 @@ if not os.path.exists(authfile):
     sys.exit(1)
 
 tld = sys.argv[1]
-msg = sys.argv[1]
+msg = sys.argv[2]
 auth = open(authfile)
 login = auth.readline()[:-1]
 passwd = auth.readline()[:-1]
