@@ -63,10 +63,10 @@ Nameserver Information:
     IP Address: 192.93.0.4 2001:660:3005:1:0:0:1:2
     Nameserver: ns-mt.ripe.net.
     IP Address: 193.0.12.136 2001:610:240:0:53:cc:12:136
-    Nameserver: ns-ext.isc.org.
-    IP Address: 204.152.184.64 2001:4f8:0:2:0:0:0:13
     Nameserver: mt-ns.anycast.pch.net.
     IP Address: 204.61.216.45
+    Nameserver: sns-pb.isc.org.
+    IP Address: 192.5.4.1 2001:500:2e:0:0:0:0:1
 
 Registration Date: 02-December-1992
-Last Updated Date: 22-October-2008
+Last Updated Date: 16-October-2009
