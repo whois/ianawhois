@@ -61,7 +61,7 @@ Nameserver Information:
     Nameserver: c.nic.ch.
     IP Address: 147.28.0.39 2001:418:1:0:0:0:0:39
     Nameserver: d.nic.ch.
-    IP Address: 200.160.0.5 2001:dc0:1:0:4777:0:0:140
+    IP Address: 200.160.0.5
     Nameserver: e.nic.ch.
     IP Address: 204.61.216.47 2001:500:14:6047:ad:0:0:1
     Nameserver: f.nic.ch.
@@ -70,4 +70,4 @@ Nameserver Information:
     IP Address: 194.42.48.120
 
 Registration Date: 20-May-1987
-Last Updated Date: 31-August-2009
+Last Updated Date: 20-October-2009
