@@ -6,7 +6,7 @@ ID: rs
 Sponsoring Organization:
     Name: 
     Organization: Serbian National Register of
-                  Internet Domain Names
+                  Internet Domain Names (RNIDS)
     Address1: Bulevar Kralja Aleksandra 73
     Address2: 
     Address3: 
@@ -18,11 +18,12 @@ Sponsoring Organization:
     Fax: 
     Email: 
     Registration Date: 24-September-2007
-    Last Updated Date: 24-September-2007
+    Last Updated Date: 21-October-2009
 
 Administrative Contact:
-    Name: Mirjana Tasic
-    Organization: Registar Nacionalnog Internet Domena Srbije
+    Name: RNIDS Admin Contact
+    Organization: Serbian National Register of
+                  Internet Domain Names (RNIDS)
     Address1: Bulevar Kralja Aleksandra 73
     Address2: 
     Address3: 
@@ -30,15 +31,16 @@ Administrative Contact:
     State/Province: 
     Country: Serbia
     Postal Code: 11000
-    Phone: +381112637779
-    Fax: +381112630151
-    Email: mtasic@rnids.rs
+    Phone: +381 113133101
+    Fax: +381 113133153
+    Email: tld-admin@rnids.rs
     Registration Date: 08-January-2009
-    Last Updated Date: 08-January-2009
+    Last Updated Date: 21-October-2009
 
 Technical Contact:
-    Name: Nenad Krajnovic
-    Organization: Registar Nacionalnog Internet Domena Srbije
+    Name: RNIDS Tech Contact
+    Organization: Serbian National Register of
+                  Internet Domain Names (RNIDS)
     Address1: Bulevar Kralja Aleksandra 73
     Address2: 
     Address3: 
@@ -46,11 +48,11 @@ Technical Contact:
     State/Province: 11000
     Country: Serbia
     Postal Code: 
-    Phone: +381113221419
-    Fax: +381113218399
-    Email: krajko@etf.rs
+    Phone: +381 113133101
+    Fax: +381 113133153
+    Email: tld-tech@rnids.rs
     Registration Date: 08-January-2009
-    Last Updated Date: 08-January-2009
+    Last Updated Date: 21-October-2009
 URL for registration services: http://www.nic.rs
 
 Nameserver Information:
@@ -74,4 +76,4 @@ Nameserver Information:
     IP Address: 195.178.32.2
 
 Registration Date: 24-September-2007
-Last Updated Date: 22-September-2009
+Last Updated Date: 21-October-2009
