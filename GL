@@ -56,10 +56,10 @@ Whois Server (port 43): whois.nic.gl
 Nameserver Information:
     Nameserver: a.nuuk.nic.gl.
     IP Address: 194.177.224.13
+    Nameserver: b.nic.gl.
+    IP Address: 213.173.243.228
     Nameserver: d.nic.gl.
-    IP Address: 204.61.216.49
-    Nameserver: ns-soa.darenet.dk.
-    IP Address: 130.226.1.4
+    IP Address: 204.61.216.49 2001:500:14:6049:ad:0:0:1
     Nameserver: gl1.dyntld.net.
     IP Address: 208.78.70.97
     Nameserver: gl2.dyntld.net.
@@ -70,4 +70,4 @@ Nameserver Information:
     IP Address: 204.13.251.97
 
 Registration Date: 08-April-1994
-Last Updated Date: 02-October-2009
+Last Updated Date: 15-December-2009
