@@ -5,7 +5,7 @@ ID: tg
 
 Sponsoring Organization:
     Name: 
-    Organization: CAFE INFORMATIQUE ET TELECOMMUNICATION
+    Organization: Cafe Informatique et Telecommunications
     Address1: B.P. 12596
     Address2: Cite Maman N'Danida
     Address3: 
@@ -17,11 +17,11 @@ Sponsoring Organization:
     Fax: 
     Email: 
     Registration Date: 01-January-1985
-    Last Updated Date: 07-June-2002
+    Last Updated Date: 17-December-2009
 
 Administrative Contact:
     Name: Naogbodji Yawo
-    Organization: CAFE INFORMATIQUE ET TELECOMMUNICATIONS
+    Organization: Cafe Informatique et Telecommunications
     Address1: B.P. 12596
     Address2: Cite Maman N'Danida
     Address3: 
@@ -33,23 +33,23 @@ Administrative Contact:
     Fax: +228 225 6666
     Email: jmnoagbo@cafe.tg
     Registration Date: 01-January-1985
-    Last Updated Date: 07-June-2002
+    Last Updated Date: 17-December-2009
 
 Technical Contact:
     Name: Dr. Francois Normant
-    Organization: Technologia Inc.
-    Address1: 440 Rene-Levesque Blvd West
-    Address2: Suite 500
+    Organization: Services informatiques NetADMIN ltee
+    Address1: CP 705, succ. B
+    Address2: 
     Address3: 
     City: Montreal
-    State/Province: 
+    State/Province: QC
     Country: Canada
-    Postal Code: QC H2Z 1V7
-    Phone: +514 990 1638
-    Fax: +514 380 8234
+    Postal Code: H3B-3K3
+    Phone: +1 514 990 1638
+    Fax: +1 514 990 1638
     Email: fn@admin.net
     Registration Date: 01-January-1985
-    Last Updated Date: 22-June-2006
+    Last Updated Date: 17-December-2009
 URL for registration services: http://www.nic.tg
 
 Nameserver Information:
@@ -58,7 +58,11 @@ Nameserver Information:
     Nameserver: ns1.admin.net.
     IP Address: 198.73.186.1
     Nameserver: ns2.admin.net.
-    IP Address: 216.113.38.83
+    IP Address: 67.202.107.93
+    Nameserver: ns3.admin.net.
+    IP Address: 87.98.180.44
+    Nameserver: ns4.admin.net.
+    IP Address: 202.190.180.244
 
 Registration Date: 05-September-1996
-Last Updated Date: 27-June-2006
+Last Updated Date: 17-December-2009
