@@ -57,21 +57,21 @@ Nameserver Information:
     Nameserver: a.dns.tw.
     IP Address: 203.73.24.8 2001:cd8:800:0:0:0:0:8
     Nameserver: b.dns.tw.
-    IP Address: 210.201.138.58
+    IP Address: 210.201.138.58 2404:0:10a0:0:0:0:0:58
     Nameserver: c.dns.tw.
-    IP Address: 61.220.48.1 2001:238:800:1:0:0:0:1
+    IP Address: 61.220.48.1 2001:b020:0:77:0:0:0:1
     Nameserver: d.dns.tw.
     IP Address: 210.17.9.230 2001:c50:ffff:1:0:0:0:230
     Nameserver: e.dns.tw.
     IP Address: 211.79.207.26
     Nameserver: f.dns.tw.
     IP Address: 163.28.1.10
-    Nameserver: ns.twnic.net.
-    IP Address: 192.83.166.11 2001:288:1:1006:0:0:0:11
     Nameserver: g.dns.tw.
     IP Address: 220.229.225.195
     Nameserver: h.dns.tw.
     IP Address: 203.119.3.1
+    Nameserver: ns.twnic.net.
+    IP Address: 192.83.166.11 2001:288:1:1006:0:0:0:11
 
 Registration Date: 31-July-1989
-Last Updated Date: 09-December-2009
+Last Updated Date: 11-January-2010
