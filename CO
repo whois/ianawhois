@@ -55,16 +55,22 @@ URL for registration services: http://www.nic.co
 Nameserver Information:
     Nameserver: ns1.nic.co.
     IP Address: 157.253.99.15
-    Nameserver: ns2.nic.co.
-    IP Address: 157.253.99.16
     Nameserver: ns3.nic.co.
     IP Address: 198.104.159.137
-    Nameserver: ns4.nic.co.
-    IP Address: 128.121.234.109
     Nameserver: ns5.nic.co.
     IP Address: 200.31.69.107
-    Nameserver: saell.cc.columbia.edu.
-    IP Address: 128.59.59.218
+    Nameserver: ns1.cctld.co.
+    IP Address: 156.154.100.25
+    Nameserver: ns2.cctld.co.
+    IP Address: 156.154.101.25
+    Nameserver: ns3.cctld.co.
+    IP Address: 156.154.102.25
+    Nameserver: ns4.cctld.co.
+    IP Address: 156.154.103.25
+    Nameserver: ns5.cctld.co.
+    IP Address: 156.154.104.25
+    Nameserver: ns6.cctld.co.
+    IP Address: 156.154.105.25
 
 Registration Date: 24-December-1991
-Last Updated Date: 23-December-2009
+Last Updated Date: 15-January-2010
