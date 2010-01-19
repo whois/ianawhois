@@ -64,12 +64,10 @@ Nameserver Information:
     IP Address: 202.12.28.140 2001:dc0:1:0:4777:0:0:140
     Nameserver: sunic.sunet.se.
     IP Address: 192.36.125.2 2001:6b0:7:0:0:0:0:2
+    Nameserver: ns-ext.isc.org.
+    IP Address: 204.152.184.64 2001:4f8:0:2:0:0:0:13
     Nameserver: sec1.apnic.net.
     IP Address: 202.12.29.59 2001:dc0:2001:a:4608::59
-    Nameserver: ns-cdn.amnic.net.
-    IP Address: 194.0.1.26 2001:678:4:0:0:0:0:1a
-    Nameserver: sns-pb.isc.org.
-    IP Address: 192.5.4.1 2001:500:2e:0:0:0:0:1
 
 Registration Date: 26-August-1994
-Last Updated Date: 16-December-2009
+Last Updated Date: 26-May-2009
