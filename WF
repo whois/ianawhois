@@ -55,21 +55,21 @@ Whois Server (port 43): whois.nic.wf
 
 Nameserver Information:
     Nameserver: a.nic.fr.
-    IP Address: 192.93.0.129 2001:660:3005:3::1:1
+    IP Address: 192.93.0.129 2001:660:3005:3:0:0:1:1
     Nameserver: b.ext.nic.fr.
     IP Address: 192.228.90.21
     Nameserver: c.nic.fr.
     IP Address: 192.134.0.129 2001:660:3006:4:0:0:1:1
     Nameserver: d.ext.nic.fr.
     IP Address: 204.152.184.85 2001:4f8:0:2:0:0:0:8
+    Nameserver: d.nic.fr.
+    IP Address: 194.0.9.1 2001:678:c:1:0:0:0:1
     Nameserver: e.ext.nic.fr.
     IP Address: 193.176.144.6
-    Nameserver: e.nic.fr.
-    IP Address: 194.57.253.1
     Nameserver: f.ext.nic.fr.
     IP Address: 194.146.106.46
     Nameserver: g.ext.nic.fr.
     IP Address: 204.61.216.39 2001:500:14:6039:ad:0:0:1
 
 Registration Date: 14-November-1997
-Last Updated Date: 24-February-2009
+Last Updated Date: 21-January-2010
