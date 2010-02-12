@@ -59,13 +59,19 @@ Nameserver Information:
     Nameserver: b.fi.
     IP Address: 194.146.106.26
     Nameserver: c.fi.
-    IP Address: 128.214.4.29
+    IP Address: 156.154.100.26 2001:502:ad09:0:0:0:0:26
     Nameserver: d.fi.
     IP Address: 77.72.229.253 2a01:3f0:0:302:0:0:0:53
     Nameserver: e.fi.
     IP Address: 194.0.1.14 2001:678:4:0:0:0:0:e
     Nameserver: f.fi.
     IP Address: 87.239.127.198
+    Nameserver: g.fi.
+    IP Address: 156.154.101.26
+    Nameserver: h.fi.
+    IP Address: 156.154.102.26
+    Nameserver: i.fi.
+    IP Address: 156.154.103.26 2001:502:2eda:0:0:0:0:26
 
 Registration Date: 17-December-1986
-Last Updated Date: 13-May-2009
+Last Updated Date: 11-February-2010
