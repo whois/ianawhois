@@ -55,18 +55,20 @@ URL for registration services: http://www.gr
 Nameserver Information:
     Nameserver: estia.ics.forth.gr.
     IP Address: 139.91.191.3 2001:648:2c30::191:3
-    Nameserver: grdns.ics.forth.gr.
-    IP Address: 139.91.1.1
+    Nameserver: gr-aix.ics.forth.gr.
+    IP Address: 83.212.8.130 2001:648:2100:0:0:0:0:130
+    Nameserver: gr-m.ics.forth.gr.
+    IP Address: 194.0.4.10 2001:678:7:0:0:0:4:10
+    Nameserver: gr-us.ics.forth.gr.
+    IP Address: 199.4.28.219 2620:0:22b0:4:221:9bff:fe97:dc44
     Nameserver: grdns-at.ics.forth.gr.
     IP Address: 193.171.255.40
-    Nameserver: grdns-ath.ics.forth.gr.
-    IP Address: 139.91.250.41
     Nameserver: grdns-br.ics.forth.gr.
     IP Address: 200.160.7.163
     Nameserver: grdns-de.denic.de.
     IP Address: 81.91.161.80
-    Nameserver: grns-her.ics.forth.gr.
-    IP Address: 139.91.248.1
+    Nameserver: grdns.ics.forth.gr.
+    IP Address: 139.91.1.1
 
 Registration Date: 19-February-1989
-Last Updated Date: 04-January-2010
+Last Updated Date: 11-February-2010
