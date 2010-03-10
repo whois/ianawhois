@@ -55,7 +55,7 @@ Whois Server (port 43): whois.domain-registry.nl
 
 Nameserver Information:
     Nameserver: ns1.nic.nl.
-    IP Address: 193.176.144.2
+    IP Address: 193.176.144.2 2a00:d78:0:102:193:176:144:2
     Nameserver: nl1.dnsnode.net.
     IP Address: 194.146.106.42
     Nameserver: ns3.nic.nl.
@@ -70,4 +70,4 @@ Nameserver Information:
     IP Address: 192.5.4.1 2001:500:2e:0:0:0:0:1
 
 Registration Date: 25-April-1986
-Last Updated Date: 21-May-2009
+Last Updated Date: 09-March-2010
