@@ -54,12 +54,12 @@ URL for registration services: http://www.nic.pe
 Whois Server (port 43): kero.yachay.pe
 
 Nameserver Information:
-    Nameserver: ichu.rcp.net.pe.
-    IP Address: 161.132.5.14
     Nameserver: ns-pe.ripe.net.
     IP Address: 193.0.12.173
     Nameserver: quipu.rcp.net.pe.
     IP Address: 200.1.176.4
+    Nameserver: pe1.dnsnode.net.
+    IP Address: 194.146.106.82
 
 Registration Date: 25-November-1991
-Last Updated Date: 10-March-2010
+Last Updated Date: 22-March-2010
