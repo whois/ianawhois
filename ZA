@@ -59,12 +59,12 @@ Nameserver Information:
     IP Address: 146.231.128.1 2001:4200:1010::1
     Nameserver: ns-ext.isc.org.
     IP Address: 204.152.184.64 2001:4f8:0:2:0:0:0:13
-    Nameserver: ucthpx.uct.ac.za.
-    IP Address: 137.158.128.1
     Nameserver: ns-za.ripe.net.
     IP Address: 193.0.12.205 2001:610:240:0:53:cc:12:205
     Nameserver: ns1.dns.aq.
     IP Address: 203.119.56.132
+    Nameserver: disa.tenet.ac.za.
+    IP Address: 196.21.79.50 2001:4200:ffff:a:0:0:0:1
 
 Registration Date: 07-November-1990
-Last Updated Date: 26-March-2010
+Last Updated Date: 01-April-2010
