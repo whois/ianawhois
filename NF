@@ -22,35 +22,36 @@ Sponsoring Organization:
 Administrative Contact:
     Name: Robert Ryan
     Organization: Norfolk Island Data Services
-    Address1: 909 Fletcher Christian Rd.
+    Address1: 706 Collins Head Rd.
     Address2: 
     Address3: 
     City: 
     State/Province: South Pacific
     Country: Norfolk Island
     Postal Code: 2899
-    Phone: +672 3 22427
-    Fax: +672 3 22027
-    Email: rob@nids.com.nf
+    Phone: +672 3 23850
+    Fax: 
+    Email: nf-admin@nic.net.nf
     Registration Date: 01-January-1985
-    Last Updated Date: 01-January-1985
+    Last Updated Date: 09-April-2010
 
 Technical Contact:
-    Name: Richard Laxton
-    Organization: Norfolk Island Data Services
-    Address1: 2/57 Moonya Rd
+    Name: NF Registry Customer Service
+    Organization: CoCCA Registry Services Limited
+    Address1: 6RCI Building, Nursery Road
     Address2: 
     Address3: 
-    City: Melbourne
-    State/Province: Victoria
-    Country: Australia
-    Postal Code: 3163
-    Phone: +61 414 928 011
-    Fax: +61 3 9568 7916
-    Email: richard@laxton.nf
+    City: Drum Site
+    State/Province: WA
+    Country: Christmas Island
+    Postal Code: 6798
+    Phone: +61 (0)2 94234614
+    Fax: +61 (0)2 94234620
+    Email: noc@nic.net.nf
     Registration Date: 01-January-1985
-    Last Updated Date: 14-February-2007
-URL for registration services: http://www.names.nf/
+    Last Updated Date: 09-April-2010
+URL for registration services: http://nic.net.nf/
+Whois Server (port 43): whois.nic.net.nf
 
 Nameserver Information:
     Nameserver: ns1.nf.
@@ -65,6 +66,8 @@ Nameserver Information:
     IP Address: 208.78.71.88
     Nameserver: nf4.dyntld.net.
     IP Address: 204.13.251.88
+    Nameserver: nf-ns.pch.net.
+    IP Address: 204.61.216.51 2001:500:14:6051:ad:0:0:1
 
 Registration Date: 18-March-1996
-Last Updated Date: 10-July-2009
+Last Updated Date: 09-April-2010
