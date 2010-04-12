@@ -31,8 +31,8 @@ for tld in $TLDS; do
     if [ $new == 0 ]; then
 	svn diff $tld > $DIFF 2>&1
 	if [ -s $DIFF ]; then
-	    sendemail.py -t $LIST -f $MAINTAINER -h "X-IANA-monitoring: whois" -s "New version of IANA whois for $tld" < $DIFF
-	    ./iana-twitter.py $tld "New version of IANA whois for $tld"
+	    sendemail.py -t $LIST -f $MAINTAINER -h "X-IANA-monitoring: whois" -s "IANA whois update for $tld" < $DIFF
+	    ./iana-twitter.py $tld "IANA whois update for $tld"
 	    svn commit -m "New copy of $date" $tld > $LOG 2>&1 
 	fi
     else 
