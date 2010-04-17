@@ -6,59 +6,61 @@ ID: mm
 Sponsoring Organization:
     Name: 
     Organization: Ministry of Communications, Posts & Telegraphs
-    Address1: No.361, Pyay Road,
-    Address2: Sanchaung Township
+    Address1: Office Building No. 2
+    Address2: 
     Address3: 
-    City: Yangon
+    City: Nay Pyi Taw
     State/Province: 
     Country: Myanmar
-    Postal Code: 11162
+    Postal Code: 150111
     Phone: 
     Fax: 
     Email: 
     Registration Date: 01-January-1985
-    Last Updated Date: 16-June-2005
+    Last Updated Date: 13-April-2010
 
 Administrative Contact:
-    Name: U Zaw Tint
+    Name: U Zaw Min Oo
     Organization: Ministry of Communications, Posts & Telegraphs
-    Address1: No.361, Pyay Road,
-    Address2: Sanchaung Township
+    Address1: Office Building No. 2
+    Address2: 
     Address3: 
-    City: Yangon
+    City: Nay Pyi Taw
     State/Province: 
     Country: Myanmar
-    Postal Code: 11162
-    Phone: 
-    Fax: 
-    Email: zawtint@mpt.net.mm
+    Postal Code: 150111
+    Phone: +95 67 420351
+    Fax: +95 67 420349
+    Email: zawminoo.zmo@mptmail.net.mm
     Registration Date: 01-January-1985
-    Last Updated Date: 16-June-2005
+    Last Updated Date: 13-April-2010
 
 Technical Contact:
     Name: Daw Khin Swe Htay
     Organization: Ministry of Communications, Posts & Telegraphs
-    Address1: No.361, Pyay Road,
-    Address2: Sanchaung Township
-    Address3: 
-    City: 
+    Address1: Overseas Communications Building,
+    Address2: Myanma Posts and Telecommunications,
+    Address3: Kabaraye Pagoda Road, Mayangone Township
+    City: Yangon
     State/Province: 
     Country: Myanmar
-    Postal Code: 11162
-    Phone: 
-    Fax: 
+    Postal Code: 11061
+    Phone: +95 1 652372
+    Fax: +95 1 662405
     Email: kshtay@mpt.net.mm
     Registration Date: 01-January-1985
-    Last Updated Date: 16-June-2005
+    Last Updated Date: 13-April-2010
 URL for registration services: http://www.nic.mm/
 
 Nameserver Information:
-    Nameserver: ns.net.mm.
-    IP Address: 202.153.125.17
-    Nameserver: ns0.mpt.net.mm.
+    Nameserver: ns0.nic.net.mm.
     IP Address: 203.81.64.20
+    Nameserver: ns1.nic.net.mm.
+    IP Address: 203.81.81.85
+    Nameserver: ns2.nic.net.mm.
+    IP Address: 203.81.92.10
     Nameserver: ns-mm.ripe.net.
     IP Address: 193.0.12.151
 
 Registration Date: 04-February-1997
-Last Updated Date: 26-July-2005
+Last Updated Date: 13-April-2010
