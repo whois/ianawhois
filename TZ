@@ -5,60 +5,61 @@ ID: tz
 
 Sponsoring Organization:
     Name: 
-    Organization: University of Dar Es Salaam
-    Address1: P.O. Box 35062
-    Address2: 
-    Address3: 
-    City: Dar Es Salaam
+    Organization: Tanzania Network Information Centre (tzNIC)
+    Address1: New Bagamoyo Road, LAPF Millennium Towers
+    Address2: Suite # 04, Ground floor
+    Address3: P.O. Box 34543
+    City: Dar es Salaam
     State/Province: 
-    Country: Tanzania
+    Country: The United Republic of Tanzania
     Postal Code: 
     Phone: 
     Fax: 
     Email: 
     Registration Date: 01-January-1985
-    Last Updated Date: 01-January-1985
+    Last Updated Date: 29-April-2010
 
 Administrative Contact:
-    Name: Beda Mutagahywa
-    Organization: University of Dar Es Salaam
-    Address1: P.O. Box 35062
-    Address2: 
-    Address3: 
-    City: Dar Es Salaam
+    Name: Manager
+    Organization: Tanzania Network Information Centre (tzNIC)
+    Address1: New Bagamoyo Road, LAPF Millennium Towers
+    Address2: Suite # 04, Ground floor
+    Address3: P.O. Box 34543
+    City: Dar es Salaam
     State/Province: 
-    Country: Tanzania
+    Country: The United Republic of Tanzania
     Postal Code: 
-    Phone: +255 51 43500 x2456
-    Fax: 
-    Email: bmutag@udsm.ac.tz
+    Phone: +255 22 277 2 659
+    Fax: +255 22 277 2 660
+    Email: manager@tznic.or.tz
     Registration Date: 01-January-1985
-    Last Updated Date: 04-February-2003
+    Last Updated Date: 29-April-2010
 
 Technical Contact:
-    Name: Randy Bush
-    Organization: 
-    Address1: PO Box 128
-    Address2: 
-    Address3: 
-    City: Kapa`au
-    State/Province: Hawai`i
-    Country: United States
-    Postal Code: 96755
-    Phone: 
-    Fax: 
-    Email: randy@psg.com
-    Registration Date: 20-September-2005
-    Last Updated Date: 20-September-2005
-URL for registration services: http://www.psg.com/dns/tz/
+    Name: Technical Officer
+    Organization: Tanzania Network Information Centre (tzNIC)
+    Address1: New Bagamoyo Road, LAPF Millennium Towers
+    Address2: Suite # 04, Ground floor
+    Address3: P.O. Box 34543
+    City: Dar es Salaam
+    State/Province: 
+    Country: The United Republic of Tanzania
+    Postal Code: 
+    Phone: +255 22 277 2 659
+    Fax: +255 22 277 2 660
+    Email: technical@tznic.or.tz
+    Registration Date: 29-April-2010
+    Last Updated Date: 29-April-2010
+URL for registration services: http://www.tznic.or.tz/
+Whois Server (port 43): whois.tznic.or.tz
 
 Nameserver Information:
+    Nameserver: ns2.tznic.or.tz.
+    IP Address: 196.216.162.67
     Nameserver: rip.psg.com.
     IP Address: 147.28.0.39 2001:418:1:0:0:0:0:39
     Nameserver: sunic.sunet.se.
     IP Address: 192.36.125.2 2001:6b0:7:0:0:0:0:2
-    Nameserver: ns2.tznic.or.tz.
-    IP Address: 196.216.162.67
 
 Registration Date: 14-July-1995
-Last Updated Date: 17-June-2009
+Last Updated Date: 29-April-2010
