@@ -55,17 +55,23 @@ Whois Server (port 43): whois.nic.us
 
 Nameserver Information:
     Nameserver: a.gtld.biz.
-    IP Address: 209.173.53.162
+    IP Address: 156.154.124.65
     Nameserver: b.gtld.biz.
-    IP Address: 209.173.57.162
+    IP Address: 156.154.125.65
     Nameserver: c.gtld.biz.
-    IP Address: 209.173.60.65
+    IP Address: 156.154.127.65
     Nameserver: i.gtld.biz.
     IP Address: 156.154.96.126 2001:503:d1ae:ffff:ffff:ffff:ffff:ff7e
     Nameserver: j.gtld.biz.
     IP Address: 2001:503:a124:ffff:ffff:ffff:ffff:ff7e
     Nameserver: k.gtld.biz.
-    IP Address: 156.154.72.65 2001:503:e239::3:1
+    IP Address: 156.154.72.65 2001:503:e239:0:0:0:3:1
+    Nameserver: a.cctld.us.
+    IP Address: 156.154.124.70
+    Nameserver: b.cctld.us.
+    IP Address: 156.154.125.70
+    Nameserver: c.cctld.us.
+    IP Address: 156.154.127.70
 
 Registration Date: 15-February-1985
-Last Updated Date: 07-July-2009
+Last Updated Date: 30-April-2010
