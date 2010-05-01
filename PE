@@ -54,12 +54,12 @@ URL for registration services: http://www.nic.pe
 Whois Server (port 43): kero.yachay.pe
 
 Nameserver Information:
-    Nameserver: ns-pe.ripe.net.
-    IP Address: 193.0.12.173
     Nameserver: quipu.rcp.net.pe.
     IP Address: 200.1.176.4
     Nameserver: pe1.dnsnode.net.
     IP Address: 194.146.106.82
+    Nameserver: sns-pb.isc.org.
+    IP Address: 192.5.4.1 2001:500:2e:0:0:0:0:1
 
 Registration Date: 25-November-1991
-Last Updated Date: 22-March-2010
+Last Updated Date: 30-April-2010
