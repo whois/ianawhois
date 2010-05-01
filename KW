@@ -59,10 +59,12 @@ Nameserver Information:
     IP Address: 161.252.48.150
     Nameserver: dns3.kw.
     IP Address: 161.252.48.145
-    Nameserver: dns1.kems.net.
-    IP Address: 196.1.69.98
+    Nameserver: kwns.kems.net.
+    IP Address: 168.187.5.12
     Nameserver: sec1.apnic.net.
     IP Address: 202.12.29.59 2001:dc0:2001:a:4608::59
+    Nameserver: sns-pb.isc.org.
+    IP Address: 192.5.4.1 2001:500:2e:0:0:0:0:1
 
 Registration Date: 26-October-1992
-Last Updated Date: 18-March-2010
+Last Updated Date: 30-April-2010
