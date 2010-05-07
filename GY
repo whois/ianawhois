@@ -36,7 +36,7 @@ Administrative Contact:
     Last Updated Date: 01-June-2007
 
 Technical Contact:
-    Name: Khemraj Narine
+    Name: DNS Admin
     Organization: University of Guyana, Centre for Information Technology
     Address1: Turkeyen Campus
     Address2: 
@@ -49,7 +49,7 @@ Technical Contact:
     Fax: +592 2225443
     Email: tech@registry.gy
     Registration Date: 30-January-2006
-    Last Updated Date: 01-June-2007
+    Last Updated Date: 05-May-2010
 URL for registration services: http://registry.gy/
 Whois Server (port 43): whois.registry.gy
 
@@ -60,16 +60,14 @@ Nameserver Information:
     IP Address: 137.39.1.3
     Nameserver: ns2.gtt.co.gy.
     IP Address: 190.80.0.42
-    Nameserver: gy-secondary.jm.
-    IP Address: 196.2.1.10
     Nameserver: ns-gy.ripe.net.
-    IP Address: 193.0.12.95
+    IP Address: 193.0.12.95 2001:610:240:0:53:cc:12:95
     Nameserver: phloem.uoregon.edu.
     IP Address: 128.223.32.35 2001:468:d01:20::80df:2023
-    Nameserver: ns-ext.isc.org.
-    IP Address: 204.152.184.64 2001:4f8:0:2:0:0:0:13
     Nameserver: gy-ns.anycast.pch.net.
     IP Address: 204.61.216.34 2001:500:14:6034:ad:0:0:1
+    Nameserver: sns-pb.isc.org.
+    IP Address: 192.5.4.1 2001:500:2e:0:0:0:0:1
 
 Registration Date: 13-September-1994
-Last Updated Date: 24-February-2009
+Last Updated Date: 05-May-2010
