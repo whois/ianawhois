@@ -59,7 +59,7 @@ Nameserver Information:
     Nameserver: c.nic.fr.
     IP Address: 192.134.0.129 2001:660:3006:4:0:0:1:1
     Nameserver: d.ext.nic.fr.
-    IP Address: 204.152.184.85 2001:4f8:0:2:0:0:0:8
+    IP Address: 192.5.4.2 2001:500:2e:0:0:0:0:2
     Nameserver: d.nic.fr.
     IP Address: 194.0.9.1 2001:678:c:1:0:0:0:1
     Nameserver: e.ext.nic.fr.
@@ -70,4 +70,4 @@ Nameserver Information:
     IP Address: 204.61.216.39 2001:500:14:6039:ad:0:0:1
 
 Registration Date: 26-August-1997
-Last Updated Date: 31-March-2010
+Last Updated Date: 07-May-2010
