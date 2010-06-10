@@ -54,24 +54,22 @@ URL for registration services: http://www.auda.org.au/domains/au-domains/
 Whois Server (port 43): whois.audns.net.au
 
 Nameserver Information:
-    Nameserver: ns1.audns.net.au.
-    IP Address: 58.65.255.73
-    Nameserver: a1.audns.net.au.
-    IP Address: 202.12.29.59 2001:dc0:2001:a:4608:0:0:59
+    Nameserver: a3.audns.net.au.
+    IP Address: 202.12.31.141
     Nameserver: b1.audns.net.au.
     IP Address: 128.32.136.3 2607:f140:ffff:fffe:0:0:0:3
+    Nameserver: b2.audns.net.au.
+    IP Address: 128.32.136.14 2607:f140:ffff:fffe:0:0:0:e
+    Nameserver: ns1.audns.net.au.
+    IP Address: 58.65.255.73
     Nameserver: ns2.audns.net.au.
     IP Address: 58.65.249.73
-    Nameserver: udns1.ausregistry.net.au.
-    IP Address: 156.154.100.18
-    Nameserver: udns2.ausregistry.net.au.
-    IP Address: 156.154.101.18
-    Nameserver: udns3.ausregistry.net.au.
-    IP Address: 156.154.102.18
-    Nameserver: udns4.ausregistry.net.au.
-    IP Address: 156.154.103.18
-    Nameserver: udns5.ausregistry.net.au.
-    IP Address: 156.154.104.18
+    Nameserver: ns3.audns.net.au.
+    IP Address: 58.65.251.73
+    Nameserver: ns4.audns.net.au.
+    IP Address: 58.65.250.73
+    Nameserver: o.audns.net.au.
+    IP Address: 211.29.133.32
 
 Registration Date: 05-March-1986
-Last Updated Date: 30-March-2009
+Last Updated Date: 09-June-2010
