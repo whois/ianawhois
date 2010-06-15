@@ -65,7 +65,7 @@ Nameserver Information:
     Nameserver: k.dns.lu.
     IP Address: 194.0.1.13 2001:678:4:0:0:0:0:d
     Nameserver: i.dns.lu.
-    IP Address: 194.146.106.66
+    IP Address: 194.146.106.66 2001:67c:1010:16:0:0:0:53
     Nameserver: merapi.switch.ch.
     IP Address: 130.59.211.10 2001:620:0:0:0:0:0:5
     Nameserver: ns1.dns.lu.
@@ -74,4 +74,4 @@ Nameserver Information:
     IP Address: 81.91.161.100
 
 Registration Date: 27-January-1995
-Last Updated Date: 06-July-2009
+Last Updated Date: 14-June-2010
