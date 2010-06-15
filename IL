@@ -6,34 +6,34 @@ ID: il
 Sponsoring Organization:
     Name: 
     Organization: Internet Society of Israel
-    Address1: Jabotinsky 7
+    Address1: Bareket 6, POB 7210
     Address2: 
     Address3: 
-    City: Ramat-Gan
+    City: Petach Tikva
     State/Province: 
     Country: Israel
-    Postal Code: 52520
+    Postal Code: 49517
     Phone: 
     Fax: 
     Email: 
     Registration Date: 01-January-1985
-    Last Updated Date: 03-June-2004
+    Last Updated Date: 14-June-2010
 
 Administrative Contact:
     Name: Doron Shikmoni
     Organization: Internet Society of Israel
-    Address1: Jabotinsky 7
+    Address1: Bareket 6, POB 7210
     Address2: 
     Address3: 
-    City: Ramat-Gan
+    City: Petach Tikva
     State/Province: 
     Country: Israel
-    Postal Code: 52520
-    Phone: +972 3 6114094
-    Fax: +972 3 6114095
+    Postal Code: 49517
+    Phone: +972 3 9700900
+    Fax: +972 3 9700901
     Email: doron@isoc.org.il
     Registration Date: 01-January-1985
-    Last Updated Date: 03-June-2004
+    Last Updated Date: 14-June-2010
 
 Technical Contact:
     Name: Simon Shickman
@@ -67,8 +67,12 @@ Nameserver Information:
     IP Address: 193.0.12.108
     Nameserver: nsb.ns.il.
     IP Address: 192.115.210.60
+    Nameserver: nsd.ns.il.
+    IP Address: 149.20.56.132 2001:4f8:3:37:0:0:0:11
+    Nameserver: nse.ns.il.
+    IP Address: 192.115.141.253
     Nameserver: rip.psg.com.
     IP Address: 147.28.0.39 2001:418:1:0:0:0:0:39
 
 Registration Date: 24-October-1985
-Last Updated Date: 10-August-2009
+Last Updated Date: 14-June-2010
