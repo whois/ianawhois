@@ -54,7 +54,7 @@ URL for registration services: http://www.nic.hu
 
 Nameserver Information:
     Nameserver: ns.nic.hu.
-    IP Address: 193.239.148.62 2001:738:4:8000:0:0:0:62
+    IP Address: 193.239.148.48 2001:738:4:8000:0:0:0:48
     Nameserver: ns1.nic.hu.
     IP Address: 193.239.149.3
     Nameserver: ns2.nic.fr.
@@ -64,9 +64,9 @@ Nameserver Information:
     Nameserver: ns3.nic.hu.
     IP Address: 195.70.35.250
     Nameserver: ns-se.nic.hu.
-    IP Address: 77.72.229.251
+    IP Address: 77.72.229.251 2a01:3f0:0:304:0:0:0:53
     Nameserver: ns-com.nic.hu.
-    IP Address: 194.0.1.12
+    IP Address: 194.0.1.12 2001:678:4:0:0:0:0:c
 
 Registration Date: 07-November-1990
-Last Updated Date: 16-June-2008
+Last Updated Date: 15-June-2010
