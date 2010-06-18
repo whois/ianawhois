@@ -72,7 +72,7 @@ Nameserver Information:
     Nameserver: h.root-servers.net.
     IP Address: 128.63.2.53 2001:500:1:0:0:0:803f:235
     Nameserver: i.root-servers.net.
-    IP Address: 192.36.148.17
+    IP Address: 192.36.148.17 2001:7fe::53
     Nameserver: k.root-servers.net.
     IP Address: 193.0.14.129 2001:7fd:0:0:0:0:0:1
     Nameserver: l.root-servers.net.
@@ -81,4 +81,4 @@ Nameserver Information:
     IP Address: 202.12.27.33 2001:dc3:0:0:0:0:0:35
 
 Registration Date: 01-January-1985
-Last Updated Date: 12-December-2008
+Last Updated Date: 18-June-2010
