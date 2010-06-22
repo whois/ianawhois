@@ -1,6 +1,68 @@
-% IANA WHOIS server
-% for more information on IANA, visit http://www.iana.org
-%
-% WHOIS server encountered an error.
-% Please report the issue to http://www.iana.org.
 
+IANA Whois Service
+Domain: tg
+ID: tg
+
+Sponsoring Organization:
+    Name: 
+    Organization: Cafe Informatique et Telecommunications
+    Address1: B.P. 12596
+    Address2: Cite Maman N'Danida
+    Address3: 
+    City: Lome
+    State/Province: 
+    Country: Togo
+    Postal Code: 
+    Phone: 
+    Fax: 
+    Email: 
+    Registration Date: 01-January-1985
+    Last Updated Date: 17-December-2009
+
+Administrative Contact:
+    Name: Naogbodji Yawo
+    Organization: Cafe Informatique et Telecommunications
+    Address1: B.P. 12596
+    Address2: Cite Maman N'Danida
+    Address3: 
+    City: Lome
+    State/Province: 
+    Country: Togo
+    Postal Code: 
+    Phone: +228 225 5555
+    Fax: +228 225 6666
+    Email: jmnoagbo@cafe.tg
+    Registration Date: 01-January-1985
+    Last Updated Date: 17-December-2009
+
+Technical Contact:
+    Name: Dr. Francois Normant
+    Organization: Services informatiques NetADMIN ltee
+    Address1: CP 705, succ. B
+    Address2: 
+    Address3: 
+    City: Montreal
+    State/Province: QC
+    Country: Canada
+    Postal Code: H3B-3K3
+    Phone: +1 514 990 1638
+    Fax: +1 514 990 1638
+    Email: fn@admin.net
+    Registration Date: 01-January-1985
+    Last Updated Date: 17-December-2009
+URL for registration services: http://www.nic.tg
+
+Nameserver Information:
+    Nameserver: tld.cafe.tg.
+    IP Address: 80.248.64.20
+    Nameserver: ns1.admin.net.
+    IP Address: 198.73.186.1
+    Nameserver: ns2.admin.net.
+    IP Address: 67.202.107.93
+    Nameserver: ns3.admin.net.
+    IP Address: 87.98.180.44
+    Nameserver: ns4.admin.net.
+    IP Address: 202.190.180.244
+
+Registration Date: 05-September-1996
+Last Updated Date: 17-December-2009
