@@ -1,75 +1,7 @@
 
-IANA Whois Service
-Domain: tt
-ID: tt
+Domain tt. not found.
 
-Sponsoring Organization:
-    Name: 
-    Organization: University of the West Indies
-                  Faculty of Engineering
-    Address1: 
-    Address2: 
-    Address3: 
-    City: St. Augustine
-    State/Province: 
-    Country: Trinidad and Tobago
-    Postal Code: 
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 01-January-1985
+This whois server only provides data for which IANA is authoritative,
+including ".int" domains, ".arpa" domains, top level domains, and
+some reserved names.
 
-Administrative Contact:
-    Name: Dr. Patrick Hosein
-    Organization: TTNIC
-    Address1: 77 Abercromby St.
-    Address2: 
-    Address3: 
-    City: Port of Spain
-    State/Province: 
-    Country: Trinidad and Tobago
-    Postal Code: 
-    Phone: +1 858 229 3651
-    Fax: +1 253 423 9508
-    Email: admin@nic.tt
-    Registration Date: 01-January-1985
-    Last Updated Date: 19-October-2006
-
-Technical Contact:
-    Name: Dr. Patrick Hosein
-    Organization: TTNIC
-    Address1: 77 Abercromby St.
-    Address2: 
-    Address3: 
-    City: Port of Spain
-    State/Province: 
-    Country: Trinidad and Tobago
-    Postal Code: 
-    Phone: +1 858 229 3651
-    Fax: +1 253 423 9508
-    Email: tech@nic.tt
-    Registration Date: 24-October-2006
-    Last Updated Date: 24-October-2006
-URL for registration services: http://www.nic.tt
-
-Nameserver Information:
-    Nameserver: ns0.nic.tt.
-    IP Address: 156.154.100.17
-    Nameserver: ns1.nic.tt.
-    IP Address: 156.154.101.17
-    Nameserver: ns2.nic.tt.
-    IP Address: 156.154.102.17
-    Nameserver: ns3.nic.tt.
-    IP Address: 156.154.103.17
-    Nameserver: ns4.nic.tt.
-    IP Address: 156.154.104.17
-    Nameserver: ns5.nic.tt.
-    IP Address: 156.154.105.17
-    Nameserver: anyns.pch.net.
-    IP Address: 204.61.216.4
-    Nameserver: ns1.pch.net.
-    IP Address: 206.220.231.1
-
-Registration Date: 03-September-1991
-Last Updated Date: 15-January-2009
