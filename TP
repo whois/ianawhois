@@ -1,70 +1,7 @@
 
-IANA Whois Service
-Domain: tp
-ID: tp
+Domain tp. not found.
 
-Sponsoring Organization:
-    Name: 
-    Organization: 
-    Address1: Laleia
-    Address2: 
-    Address3: 
-    City: Manatutu
-    State/Province: 
-    Country: East Timor
-    Postal Code: 
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 01-January-1985
+This whois server only provides data for which IANA is authoritative,
+including ".int" domains, ".arpa" domains, top level domains, and
+some reserved names.
 
-Administrative Contact:
-    Name: Xanana Gusmao
-    Organization: 
-    Address1: Laleia
-    Address2: 
-    Address3: 
-    City: Manatutu
-    State/Province: 
-    Country: East Timor
-    Postal Code: 
-    Phone: +670 390 311346
-    Fax: +670 390 311345
-    Email: xanana@minihub.org
-    Registration Date: 01-January-1985
-    Last Updated Date: 01-January-1985
-
-Technical Contact:
-    Name: Hostmaster
-    Organization: Connect-Ireland
-    Address1: 44 Westland Row
-    Address2: 
-    Address3: 
-    City: Dublin
-    State/Province: 
-    Country: Ireland
-    Postal Code: 2
-    Phone: +353 1 676 3456
-    Fax: +353 1 676 3555
-    Email: hostm-iana@connect.ie
-    Registration Date: 01-January-1985
-    Last Updated Date: 24-November-2008
-URL for registration services: http://www.nic.tp
-
-Nameserver Information:
-    Nameserver: auth01.connect.ie.
-    IP Address: 213.228.227.50
-    Nameserver: auth02.ns.uu.net.
-    IP Address: 198.6.1.82
-    Nameserver: ns3.ns.esat.net.
-    IP Address: 192.111.39.100 2001:7c8:2:a:0:0:0:64
-    Nameserver: uucp-gw-1.pa.dec.com.
-    IP Address: 204.123.2.18
-    Nameserver: uucp-gw-2.pa.dec.com.
-    IP Address: 204.123.2.19
-    Nameserver: ns-tp.ripe.net.
-    IP Address: 193.0.12.250 2001:610:240:0:53:cc:12:250
-
-Registration Date: 09-May-1997
-Last Updated Date: 09-July-2009
