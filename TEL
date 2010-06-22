@@ -1,48 +1,75 @@
-% IANA WHOIS server
-% for more information on IANA, visit http://www.iana.org
-% This query returned 1 object
 
-domain:       TEL
+IANA Whois Service
+Domain: tel
+ID: tel
 
-organisation: Telnic Ltd.
-address:      37 Percy Street
-address:      London  W1T 2DJ
-address:      United Kingdom
+Sponsoring Organization:
+    Name: 
+    Organization: Telnic Ltd.
+    Address1: 37 Percy Street
+    Address2: 
+    Address3: 
+    City: London
+    State/Province: 
+    Country: United Kingdom
+    Postal Code: W1T 2DJ
+    Phone: 
+    Fax: 
+    Email: 
+    Registration Date: 01-March-2007
+    Last Updated Date: 23-December-2008
 
-contact:      administrative
-name:         TLD Administrative Contact
-organisation: Telnic Ltd.
-address:      37 Percy Street
-address:      London  W1T 2DJ
-address:      United Kingdom
-phone:        +44 20 7467 6450
-fax-no:       +44 20 7467 6451
-e-mail:       tld-admin-contact@registry.nic.tel
+Administrative Contact:
+    Name: TLD Administrative Contact
+    Organization: Telnic Ltd.
+    Address1: 37 Percy Street
+    Address2: 
+    Address3: 
+    City: London
+    State/Province: 
+    Country: United Kingdom
+    Postal Code: W1T 2DJ
+    Phone: +44 20 7467 6450
+    Fax: +44 20 7467 6451
+    Email: tld-admin-contact@registry.nic.tel
+    Registration Date: 01-March-2007
+    Last Updated Date: 07-May-2009
 
-contact:      technical
-name:         TLD Technical Contact
-organisation: Telnic Limited
-address:      37 Percy Street
-address:      London  W1T 2DJ
-address:      United Kingdom
-phone:        +44 20 7467 6450
-fax-no:       +44 20 7467 6451
-e-mail:       tld-tech-contact@registry.nic.tel
+Technical Contact:
+    Name: TLD Technical Contact
+    Organization: Telnic Limited
+    Address1: 37 Percy Street
+    Address2: 
+    Address3: 
+    City: London
+    State/Province: 
+    Country: United Kingdom
+    Postal Code: W1T 2DJ
+    Phone: +44 20 7467 6450
+    Fax: +44 20 7467 6451
+    Email: tld-tech-contact@registry.nic.tel
+    Registration Date: 01-March-2007
+    Last Updated Date: 07-May-2009
+URL for registration services: http://www.nic.tel
+Whois Server (port 43): whois.nic.tel
 
-nserver:      A.DNS.NIC.TEL 194.146.106.38
-nserver:      B.DNS.NIC.TEL 192.36.144.116
-nserver:      C.DNS.NIC.TEL 2001:502:d399:0:0:0:0:1 204.74.112.1
-nserver:      D.DNS.NIC.TEL 204.74.113.1
-nserver:      E.DNS.NIC.TEL 199.7.66.1
-nserver:      F.DNS.NIC.TEL 199.7.67.1 2001:502:100e:0:0:0:0:1
-nserver:      G.DNS.NIC.TEL 192.100.59.11
-nserver:      H.DNS.NIC.TEL 198.133.199.11
+Nameserver Information:
+    Nameserver: a.dns.nic.tel.
+    IP Address: 194.146.106.38
+    Nameserver: b.dns.nic.tel.
+    IP Address: 192.36.144.116
+    Nameserver: c.dns.nic.tel.
+    IP Address: 204.74.112.1 2001:502:d399:0:0:0:0:1
+    Nameserver: d.dns.nic.tel.
+    IP Address: 204.74.113.1
+    Nameserver: e.dns.nic.tel.
+    IP Address: 199.7.66.1
+    Nameserver: f.dns.nic.tel.
+    IP Address: 199.7.67.1 2001:502:100e:0:0:0:0:1
+    Nameserver: g.dns.nic.tel.
+    IP Address: 192.100.59.11
+    Nameserver: h.dns.nic.tel.
+    IP Address: 198.133.199.11
 
-whois:        whois.nic.tel
-
-remarks:      Registration information: http://www.nic.tel
-
-created:      2007-03-01
-changed:      2010-03-24
-source:       IANA
-
+Registration Date: 01-March-2007
+Last Updated Date: 24-March-2010
