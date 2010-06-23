@@ -5,7 +5,7 @@ ID: pt
 
 Sponsoring Organization:
     Name: 
-    Organization: Fundacao para a Computacao Cientifica Nacional
+    Organization: Fundação para a Computação Científica Nacional
     Address1: Av. do Brasil 101
     Address2: 
     Address3: 
@@ -17,11 +17,11 @@ Sponsoring Organization:
     Fax: 
     Email: 
     Registration Date: 01-January-1985
-    Last Updated Date: 01-January-1985
+    Last Updated Date: 22-June-2010
 
 Administrative Contact:
     Name: Pedro Veiga
-    Organization: Fundacao para a Computacao Cientifica Nacional
+    Organization: Fundação para a Computação Científica Nacional
     Address1: Av. do Brasil 101
     Address2: 
     Address3: 
@@ -33,11 +33,11 @@ Administrative Contact:
     Fax: +351 21 8472167
     Email: Pedro.Veiga@fccn.pt
     Registration Date: 01-January-1985
-    Last Updated Date: 01-January-1985
+    Last Updated Date: 22-June-2010
 
 Technical Contact:
     Name: Assis Neves Guerreiro
-    Organization: Fundacao para a Computacao Cientifica Nacional
+    Organization: Fundação para a Computação Científica Nacional
     Address1: Av. do Brasil 101
     Address2: 
     Address3: 
@@ -49,7 +49,7 @@ Technical Contact:
     Fax: +351 21 844 0157
     Email: assis.guerreiro@fccn.pt
     Registration Date: 12-March-2009
-    Last Updated Date: 12-March-2009
+    Last Updated Date: 22-June-2010
 URL for registration services: http://www.dns.pt/
 Whois Server (port 43): whois.dns.pt
 
@@ -62,12 +62,14 @@ Nameserver Information:
     IP Address: 193.136.2.226 2001:690:a80:4001:0:0:0:100
     Nameserver: ns2.nic.fr.
     IP Address: 192.93.0.4
-    Nameserver: ns-ext.isc.org.
-    IP Address: 204.152.184.64 2001:4f8:0:2:0:0:0:13
     Nameserver: auth200.ns.uu.net.
     IP Address: 195.129.12.82
     Nameserver: auth210.ns.uu.net.
     IP Address: 195.129.12.74
+    Nameserver: ns-pt.nlnetlabs.nl.
+    IP Address: 213.154.224.141 2001:7b8:206:1:0:0:4:141
+    Nameserver: sns-pb.isc.org.
+    IP Address: 192.5.4.1 2001:500:2e:0:0:0:0:1
 
 Registration Date: 30-June-1988
-Last Updated Date: 09-July-2009
+Last Updated Date: 22-June-2010
