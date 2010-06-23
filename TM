@@ -1,7 +1,73 @@
 
-Domain tm. not found.
+IANA Whois Service
+Domain: tm
+ID: tm
 
-This whois server only provides data for which IANA is authoritative,
-including ".int" domains, ".arpa" domains, top level domains, and
-some reserved names.
+Sponsoring Organization:
+    Name: 
+    Organization: TM Domain Registry Ltd
+    Address1: 180-182 Tottenham Court Road
+    Address2: 
+    Address3: 
+    City: London
+    State/Province: 
+    Country: United Kingdom
+    Postal Code: W1T 7PD
+    Phone: 
+    Fax: 
+    Email: 
+    Registration Date: 01-January-1985
+    Last Updated Date: 17-August-2007
 
+Administrative Contact:
+    Name: Batyr Karryev
+    Organization: TM Domain Registry Ltd
+    Address1: 180-182 Tottenham Court Road
+    Address2: 
+    Address3: 
+    City: London
+    State/Province: 
+    Country: United Kingdom
+    Postal Code: W1T 7PD
+    Phone: +993 12 398729
+    Fax: +993 12 353692
+    Email: batyr@nic.tm
+    Registration Date: 01-January-1985
+    Last Updated Date: 17-August-2007
+
+Technical Contact:
+    Name: Hostmaster
+    Organization: TM Domain Registry Ltd
+    Address1: 180-182 Tottenham Court Road
+    Address2: 
+    Address3: 
+    City: London
+    State/Province: 
+    Country: United Kingdom
+    Postal Code: W1T 7PD
+    Phone: 
+    Fax: +44 1225 580 550
+    Email: hostmaster@nic.tm
+    Registration Date: 08-November-2005
+    Last Updated Date: 04-January-2010
+URL for registration services: http://www.nic.tm/
+Whois Server (port 43): whois.nic.tm
+
+Nameserver Information:
+    Nameserver: a.nic.tm.
+    IP Address: 64.251.31.180
+    Nameserver: b.nic.ac.
+    IP Address: 78.104.145.37
+    Nameserver: b.nic.io.
+    IP Address: 194.0.2.1
+    Nameserver: ns3.icb.co.uk.
+    IP Address: 91.208.95.130
+    Nameserver: a.ns13.net.
+    IP Address: 202.181.97.168
+    Nameserver: b.ns13.net.
+    IP Address: 202.181.96.60
+    Nameserver: ns1.communitydns.net.
+    IP Address: 194.0.1.1 2001:678:4:0:0:0:0:1
+
+Registration Date: 30-May-1997
+Last Updated Date: 04-January-2010
