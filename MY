@@ -6,9 +6,9 @@ ID: my
 Sponsoring Organization:
     Name: 
     Organization: MYNIC Berhad
-    Address1: Unit 3.2 & 4, Level 3, Block C,
+    Address1: Level 3, Block C,
     Address2: Mines Waterfront Business Park,
-    Address3: 3, Jalan Tasik, Mines Resort
+    Address3: 3, Jalan Tasik, Mines Resort City
     City: Seri Kembangan
     State/Province: Selangor
     Country: Malaysia
@@ -17,12 +17,12 @@ Sponsoring Organization:
     Fax: 
     Email: 
     Registration Date: 01-January-1985
-    Last Updated Date: 30-April-2007
+    Last Updated Date: 24-June-2010
 
 Administrative Contact:
     Name: Shariya Haniz Zulkifli, Director
     Organization: MYNIC Berhad
-    Address1: Unit 3.2 & 4, Level 3, Block C,
+    Address1: Level 3, Block C,
     Address2: Mines Waterfront Business Park,
     Address3: 3, Jalan Tasik, Mines Resort City
     City: Seri Kembangan
@@ -33,12 +33,12 @@ Administrative Contact:
     Fax: +603 8943 5520
     Email: dnsadmin@domainregistry.my
     Registration Date: 01-January-1985
-    Last Updated Date: 06-March-2009
+    Last Updated Date: 24-June-2010
 
 Technical Contact:
     Name: Shariya Haniz Zulkifli, Director
     Organization: MYNIC Berhad
-    Address1: Unit 3.2 & 4, Level 3, Block C,
+    Address1: Level 3, Block C,
     Address2: Mines Waterfront Business Park,
     Address3: 3, Jalan Tasik, Mines Resort City
     City: Seri Kembangan
@@ -49,7 +49,7 @@ Technical Contact:
     Fax: +603 8943 5520
     Email: dnsadmin@domainregistry.my
     Registration Date: 01-January-1985
-    Last Updated Date: 06-March-2009
+    Last Updated Date: 24-June-2010
 URL for registration services: http://www.domainregistry.my
 Whois Server (port 43): whois.domainregistry.my
 
@@ -57,7 +57,7 @@ Nameserver Information:
     Nameserver: dns.mynic.net.my.
     IP Address: 192.228.180.5 2001:328:1000:3:0:0:0:5
     Nameserver: dns2.mynic.net.my.
-    IP Address: 202.75.39.36
+    IP Address: 202.75.39.36 2401:b000:0:0:0:0:0:36
     Nameserver: ns.uu.net.
     IP Address: 137.39.1.3
     Nameserver: ns2.cuhk.edu.hk.
@@ -65,11 +65,11 @@ Nameserver Information:
     Nameserver: ns20.iij.ad.jp.
     IP Address: 202.232.2.161
     Nameserver: ns5.jaring.my.
-    IP Address: 61.6.38.139
+    IP Address: 61.6.38.139 2001:328:200:48:0:0:0:400
     Nameserver: ns-my.nic.fr.
-    IP Address: 192.134.0.49 2001:660:3006:1::1:1
+    IP Address: 192.134.0.49 2001:660:3006:1:0:0:1:1
     Nameserver: ns6.jaring.my.
     IP Address: 192.228.128.16
 
 Registration Date: 08-June-1987
-Last Updated Date: 10-July-2009
+Last Updated Date: 24-June-2010
