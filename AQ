@@ -6,60 +6,60 @@ ID: aq
 Sponsoring Organization:
     Name: 
     Organization: Mott and Associates
-    Address1: PO Box 36 502
+    Address1: 2116/26 Albert Street
     Address2: 
     Address3: 
-    City: North Shore City
+    City: Auckland Central
     State/Province: Auckland
     Country: New Zealand
-    Postal Code: 0748
+    Postal Code: 1010
     Phone: 
     Fax: 
     Email: 
     Registration Date: 01-January-1985
-    Last Updated Date: 19-June-2008
+    Last Updated Date: 25-June-2010
 
 Administrative Contact:
     Name: Peter Mott
     Organization: Mott & Associates
-    Address1: PO Box 36 502
+    Address1: 2116/26 Albert Street
     Address2: 
     Address3: 
-    City: North Shore City
+    City: Auckland Central
     State/Province: Auckland
     Country: New Zealand
-    Postal Code: 0748
+    Postal Code: 1010
     Phone: +64 21 279 4995
     Fax: 
     Email: info@icenic.aq
     Registration Date: 19-June-2008
-    Last Updated Date: 19-June-2008
+    Last Updated Date: 25-June-2010
 
 Technical Contact:
     Name: Network Operations Centre
     Organization: Swizzle Limited
-    Address1: PO Box 36 502
+    Address1: 2116/26 Albert Street
     Address2: 
     Address3: 
-    City: North Shore City
+    City: Auckland Central
     State/Province: Auckland
     Country: New Zealand
-    Postal Code: 0748
-    Phone: +64 9 488 9352
+    Postal Code: 1010
+    Phone: +64 21 279 4995
     Fax: 
     Email: noc@swizzle.co.nz
     Registration Date: 01-January-1985
-    Last Updated Date: 19-June-2008
+    Last Updated Date: 25-June-2010
 
 Nameserver Information:
     Nameserver: ns1.dns.aq.
     IP Address: 203.119.56.132
-    Nameserver: flag.ep.net.
-    IP Address: 198.32.4.13
-    Nameserver: ns-ext.isc.org.
-    IP Address: 204.152.184.64 2001:4f8:0:2:0:0:0:13
+    Nameserver: ns99.dns.net.nz.
+    IP Address: 202.46.191.130
     Nameserver: slave1.sth.netnod.se.
     IP Address: 192.36.144.116
+    Nameserver: sns-pb.isc.org.
+    IP Address: 192.5.4.1 2001:500:2e:0:0:0:0:1
 
 Registration Date: 26-February-1992
-Last Updated Date: 26-March-2010
+Last Updated Date: 25-June-2010
