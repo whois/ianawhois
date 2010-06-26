@@ -55,11 +55,15 @@ Whois Server (port 43): whois.tznic.or.tz
 
 Nameserver Information:
     Nameserver: ns2.tznic.or.tz.
-    IP Address: 196.216.162.67
+    IP Address: 196.216.162.67 2001:43f8:e0:1:0:0:0:67
     Nameserver: rip.psg.com.
     IP Address: 147.28.0.39 2001:418:1:0:0:0:0:39
     Nameserver: sunic.sunet.se.
     IP Address: 192.36.125.2 2001:6b0:7:0:0:0:0:2
+    Nameserver: d.ext.nic.cz.
+    IP Address: 193.29.206.2 2001:678:1:0:0:0:0:2
+    Nameserver: sns-pb.isc.org.
+    IP Address: 192.5.4.1 2001:500:2e:0:0:0:0:1
 
 Registration Date: 14-July-1995
-Last Updated Date: 29-April-2010
+Last Updated Date: 25-June-2010
