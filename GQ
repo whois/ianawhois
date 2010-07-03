@@ -55,8 +55,12 @@ URL for registration services: http://www.getesa.gq/
 Nameserver Information:
     Nameserver: bow.intnet.gq.
     IP Address: 193.251.153.78
-    Nameserver: bow.rain.fr.
-    IP Address: 194.51.3.49
+    Nameserver: dns.intnet.gq.
+    IP Address: 193.251.153.67
+    Nameserver: ns.ucad.sn.
+    IP Address: 196.1.95.1
+    Nameserver: phloem.uoregon.edu.
+    IP Address: 128.223.32.35 2001:468:d01:20::80df:2023
 
 Registration Date: 10-July-1997
-Last Updated Date: 24-June-2010
+Last Updated Date: 02-July-2010
