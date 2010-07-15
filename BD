@@ -1,65 +1,42 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: bd
-ID: bd
+domain:       BD
 
-Sponsoring Organization:
-    Name: 
-    Organization: Ministry of Post & Telecommunications
-                  Bangladesh Secretariate
-    Address1: 
-    Address2: 
-    Address3: 
-    City: Dhaka
-    State/Province: 
-    Country: Bangladesh
-    Postal Code: 1000
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 01-January-1985
+organisation: Ministry of Post & Telecommunications
+organisation: Bangladesh Secretariate
+address:      Dhaka  1000
+address:      Bangladesh
 
-Administrative Contact:
-    Name: Director Telecom
-    Organization: Ministry of Post & Telecommunications
-                  Bangladesh Secretariate
-    Address1: 
-    Address2: 
-    Address3: 
-    City: Dhaka
-    State/Province: 
-    Country: Bangladesh
-    Postal Code: 1000
-    Phone: +880-2-868497
-    Fax: +880-2-865775
-    Email: mopt@BTTB.NET
-    Registration Date: 01-January-1985
-    Last Updated Date: 01-January-1985
+contact:      administrative
+name:         Director Telecom
+organisation: Ministry of Post & Telecommunications
+organisation: Bangladesh Secretariate
+address:      Dhaka  1000
+address:      Bangladesh
+phone:        +880-2-868497
+fax-no:       +880-2-865775
+e-mail:       mopt@BTTB.NET
 
-Technical Contact:
-    Name: General Manager
-    Organization: Overseas Telecom
-                  Bangladesh Telegraph & Telephone Board
-    Address1: Mohakhali Satellite Earth Station
-    Address2: 
-    Address3: 
-    City: Dhaka
-    State/Province: 
-    Country: Bangladesh
-    Postal Code: 1213
-    Phone: +880-2-9871688
-    Fax: +880-2-9871455
-    Email: gmotr@BTTB.NET
-    Registration Date: 01-January-1985
-    Last Updated Date: 01-January-1985
-URL for registration services: http://www.bttb.net.bd/dotbd.html
+contact:      technical
+name:         General Manager
+organisation: Overseas Telecom
+organisation: Bangladesh Telegraph & Telephone Board
+address:      Mohakhali Satellite Earth Station
+address:      Dhaka  1213
+address:      Bangladesh
+phone:        +880-2-9871688
+fax-no:       +880-2-9871455
+e-mail:       gmotr@BTTB.NET
 
-Nameserver Information:
-    Nameserver: dns.bd.
-    IP Address: 209.58.24.3
-    Nameserver: slave.bttb.net.
-    IP Address: 203.112.194.243
+nserver:      DNS.BD 209.58.24.3
+nserver:      SLAVE.BTTB.NET 203.112.194.243
 
-Registration Date: 20-May-1999
-Last Updated Date: 26-July-2005
+remarks:      Registration information:
+remarks:      http://www.bttb.net.bd/dotbd.html
+
+created:      1999-05-20
+changed:      2005-07-26
+source:       IANA
+
