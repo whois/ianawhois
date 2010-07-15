@@ -1,82 +1,43 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: bf
-ID: bf
+domain:       BF
 
-Sponsoring Organization:
-    Name: 
-    Organization: DELGI Delegational Generale Informatique
-    Address1: BP 1332
-    Address2: 
-    Address3: 
-    City: Ouagadougou
-    State/Province: 
-    Country: Burkina Faso
-    Postal Code: 01
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 04-December-2006
+organisation: DELGI Delegational Generale Informatique
+address:      BP 1332
+address:      Ouagadougou  01
+address:      Burkina Faso
 
-Administrative Contact:
-    Name: Joachim Tankoano
-    Organization: DELGI Delegation Generale Informatique
-    Address1: BP 1332
-    Address2: 
-    Address3: 
-    City: Ouagadougou
-    State/Province: 
-    Country: Burkina Faso
-    Postal Code: 01
-    Phone: +226 50 31 48 88
-    Fax: +226 50 31 07 64
-    Email: joachim.tankoano@delgi.gov.bf
-    Registration Date: 01-January-1985
-    Last Updated Date: 04-December-2006
+contact:      administrative
+name:         Joachim Tankoano
+organisation: DELGI Delegation Generale Informatique
+address:      BP 1332
+address:      Ouagadougou  01
+address:      Burkina Faso
+phone:        +226 50 31 48 88
+fax-no:       +226 50 31 07 64
+e-mail:       joachim.tankoano@delgi.gov.bf
 
-Technical Contact:
-    Name: Pierre Ouedraogo
-    Organization: ONATEL (Office National des Telecommunications)
-    Address1: 01 BP 10000
-    Address2: 
-    Address3: 
-    City: Ouagadougou
-    State/Province: 
-    Country: Burkina Faso
-    Postal Code: 01
-    Phone: +226 50 33 88 71
-    Fax: +226 50 31 17 76
-    Email: po@ONATEL.BF
-    Registration Date: 01-January-1985
-    Last Updated Date: 04-December-2006
+contact:      technical
+name:         Ali Drissa Badiel
+organisation: ONATEL (Office National des Telecommunications)
+address:      01 BP 10000
+address:      Ouagadougou  01
+address:      Burkina Faso
+phone:        +226 50 33 88 71
+fax-no:       +226 50 31 17 76
+e-mail:       badiel@onatel.bf
 
-Technical Contact:
-    Name: Ali Drissa Badiel
-    Organization: ONATEL (Office National des Telecommunications)
-    Address1: 01 BP 10000
-    Address2: 
-    Address3: 
-    City: Ouagadougou
-    State/Province: 
-    Country: Burkina Faso
-    Postal Code: 01
-    Phone: +226 50 33 88 71
-    Fax: +226 50 31 17 76
-    Email: badiel@onatel.bf
-    Registration Date: 04-December-2006
-    Last Updated Date: 05-December-2006
-URL for registration services: http://www.onatel.bf/domaine.htm
+nserver:      NAHOURI.ONATEL.BF 206.82.130.196
+nserver:      NS1.AS6453.NET 66.198.145.55
+nserver:      NS1.IRD.FR 193.50.53.3
+nserver:      NS2.AS6453.NET 66.198.145.99
 
-Nameserver Information:
-    Nameserver: nahouri.onatel.bf.
-    IP Address: 206.82.130.196
-    Nameserver: ns1.ird.fr.
-    IP Address: 193.50.53.3
-    Nameserver: ns1.as6453.net.
-    IP Address: 66.198.145.55
-    Nameserver: ns2.as6453.net.
-    IP Address: 66.198.145.99
+remarks:      Registration information:
+remarks:      http://www.onatel.bf/domaine.htm
 
-Registration Date: 29-March-1993
-Last Updated Date: 19-April-2010
+created:      1993-03-29
+changed:      2010-04-19
+source:       IANA
+
