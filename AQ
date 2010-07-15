@@ -1,65 +1,38 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: aq
-ID: aq
+domain:       AQ
 
-Sponsoring Organization:
-    Name: 
-    Organization: Mott and Associates
-    Address1: 2116/26 Albert Street
-    Address2: 
-    Address3: 
-    City: Auckland Central
-    State/Province: Auckland
-    Country: New Zealand
-    Postal Code: 1010
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 25-June-2010
+organisation: Mott and Associates
+address:      2116/26 Albert Street
+address:      Auckland Central Auckland 1010
+address:      New Zealand
 
-Administrative Contact:
-    Name: Peter Mott
-    Organization: Mott & Associates
-    Address1: 2116/26 Albert Street
-    Address2: 
-    Address3: 
-    City: Auckland Central
-    State/Province: Auckland
-    Country: New Zealand
-    Postal Code: 1010
-    Phone: +64 21 279 4995
-    Fax: 
-    Email: info@icenic.aq
-    Registration Date: 19-June-2008
-    Last Updated Date: 25-June-2010
+contact:      administrative
+name:         Peter Mott
+organisation: Mott & Associates
+address:      2116/26 Albert Street
+address:      Auckland Central Auckland 1010
+address:      New Zealand
+phone:        +64 21 279 4995
+e-mail:       info@icenic.aq
 
-Technical Contact:
-    Name: Network Operations Centre
-    Organization: Swizzle Limited
-    Address1: 2116/26 Albert Street
-    Address2: 
-    Address3: 
-    City: Auckland Central
-    State/Province: Auckland
-    Country: New Zealand
-    Postal Code: 1010
-    Phone: +64 21 279 4995
-    Fax: 
-    Email: noc@swizzle.co.nz
-    Registration Date: 01-January-1985
-    Last Updated Date: 25-June-2010
+contact:      technical
+name:         Network Operations Centre
+organisation: Swizzle Limited
+address:      2116/26 Albert Street
+address:      Auckland Central Auckland 1010
+address:      New Zealand
+phone:        +64 21 279 4995
+e-mail:       noc@swizzle.co.nz
 
-Nameserver Information:
-    Nameserver: ns1.dns.aq.
-    IP Address: 203.119.56.132
-    Nameserver: ns99.dns.net.nz.
-    IP Address: 202.46.191.130
-    Nameserver: slave1.sth.netnod.se.
-    IP Address: 192.36.144.116
-    Nameserver: sns-pb.isc.org.
-    IP Address: 192.5.4.1 2001:500:2e:0:0:0:0:1
+nserver:      NS1.DNS.AQ 203.119.56.132
+nserver:      NS99.DNS.NET.NZ 202.46.191.130
+nserver:      SLAVE1.STH.NETNOD.SE 192.36.144.116
+nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e:0:0:0:0:1
 
-Registration Date: 26-February-1992
-Last Updated Date: 25-June-2010
+created:      1992-02-26
+changed:      2010-06-25
+source:       IANA
+
