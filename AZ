@@ -1,64 +1,40 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: az
-ID: az
+domain:       AZ
 
-Sponsoring Organization:
-    Name: 
-    Organization: IntraNS
-    Address1: 196, Dilara Aliyeva str
-    Address2: 
-    Address3: 
-    City: Baku
-    State/Province: 
-    Country: Azerbaijan
-    Postal Code: 1000
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 16-January-2008
+organisation: IntraNS
+address:      196, Dilara Aliyeva str
+address:      Baku  1000
+address:      Azerbaijan
 
-Administrative Contact:
-    Name: Faig Farmanov
-    Organization: IntraNS
-    Address1: 196, Dilara Aliyeva str
-    Address2: 
-    Address3: 
-    City: Baku
-    State/Province: 
-    Country: Azerbaijan
-    Postal Code: 1000
-    Phone: +994 12 4980522
-    Fax: +994 12 4980522
-    Email: fa@fa.az
-    Registration Date: 01-January-1985
-    Last Updated Date: 16-January-2008
+contact:      administrative
+name:         Faig Farmanov
+organisation: IntraNS
+address:      196, Dilara Aliyeva str
+address:      Baku  1000
+address:      Azerbaijan
+phone:        +994 12 4980522
+fax-no:       +994 12 4980522
+e-mail:       fa@fa.az
 
-Technical Contact:
-    Name: Timur Khanjanov
-    Organization: IntraNS
-    Address1: 196, Dilara Aliyeva str
-    Address2: 
-    Address3: 
-    City: Baku
-    State/Province: 
-    Country: Azerbaijan
-    Postal Code: 1000
-    Phone: +994 12 4939319
-    Fax: 
-    Email: intel@intrans.baku.az
-    Registration Date: 01-January-1985
-    Last Updated Date: 16-January-2008
-URL for registration services: http://www.whois.az/
+contact:      technical
+name:         Timur Khanjanov
+organisation: IntraNS
+address:      196, Dilara Aliyeva str
+address:      Baku  1000
+address:      Azerbaijan
+phone:        +994 12 4939319
+e-mail:       intel@intrans.baku.az
 
-Nameserver Information:
-    Nameserver: ns.demos.su.
-    IP Address: 194.87.0.8 194.87.0.9
-    Nameserver: rip.psg.com.
-    IP Address: 147.28.0.39 2001:418:1:0:0:0:0:39
-    Nameserver: az.hostmaster.net.ua.
-    IP Address: 217.12.194.26
+nserver:      AZ.HOSTMASTER.NET.UA 217.12.194.26
+nserver:      NS.DEMOS.SU 194.87.0.8 194.87.0.9
+nserver:      RIP.PSG.COM 147.28.0.39 2001:418:1:0:0:0:0:39
 
-Registration Date: 25-August-1993
-Last Updated Date: 26-May-2009
+remarks:      Registration information: http://www.whois.az/
+
+created:      1993-08-25
+changed:      2009-05-26
+source:       IANA
+
