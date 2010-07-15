@@ -1,71 +1,48 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: bg
-ID: bg
+domain:       BG
 
-Sponsoring Organization:
-    Name: 
-    Organization: Register.BG
-    Address1: 40, Slivnitsa blvd
-    Address2: 
-    Address3: 
-    City: Varna
-    State/Province: 
-    Country: Bulgaria
-    Postal Code: 9000
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 08-August-2006
+organisation: Register.BG
+address:      40, Slivnitsa blvd
+address:      Varna  9000
+address:      Bulgaria
 
-Administrative Contact:
-    Name: Dragomir Slavov
-    Organization: Register.BG
-    Address1: 40, Slivnitsa blvd
-    Address2: 
-    Address3: 
-    City: Varna
-    State/Province: 
-    Country: Bulgaria
-    Postal Code: 9000
-    Phone: +359 52 614179 or +359 52 603231
-    Fax: +359 52 614176 or +359 2 9806889
-    Email: dhs@digsys.bg
-    Registration Date: 01-January-1985
-    Last Updated Date: 08-August-2006
+contact:      administrative
+name:         Dragomir Slavov
+organisation: Register.BG
+address:      40, Slivnitsa blvd
+address:      Varna  9000
+address:      Bulgaria
+phone:        +359 52 614179 or +359 52 603231
+fax-no:       +359 52 614176 or +359 2 9806889
+e-mail:       dhs@digsys.bg
 
-Technical Contact:
-    Name: Daniel Kalchev
-    Organization: Register.BG
-    Address1: 40, Slivnitsa blvd
-    Address2: 
-    Address3: 
-    City: Varna
-    State/Province: 
-    Country: Bulgaria
-    Postal Code: 9000
-    Phone: +359 52 694060 or +359 52 603231
-    Fax: +359 52 614176 or +359 2 9806889
-    Email: daniel@digsys.bg
-    Registration Date: 01-January-1985
-    Last Updated Date: 08-August-2006
-URL for registration services: http://www.register.bg
-Whois Server (port 43): whois.register.bg
+contact:      technical
+name:         Daniel Kalchev
+organisation: Register.BG
+address:      40, Slivnitsa blvd
+address:      Varna  9000
+address:      Bulgaria
+phone:        +359 52 694060 or +359 52 603231
+fax-no:       +359 52 614176 or +359 2 9806889
+e-mail:       daniel@digsys.bg
 
-Nameserver Information:
-    Nameserver: ns.register.bg.
-    IP Address: 192.92.129.99
-    Nameserver: ns-ext.vix.com.
-    IP Address: 204.152.184.64
-    Nameserver: ns-bg.ripe.net.
-    IP Address: 193.0.12.34
-    Nameserver: ns2.register.bg.
-    IP Address: 193.68.3.232
-    Nameserver: ns3.register.bg.
-    IP Address: 94.155.14.10
-    Nameserver: sunic.sunet.se.
-    IP Address: 192.36.125.2 2001:6b0:7:0:0:0:0:2
+nserver:      NS-BG.RIPE.NET 193.0.12.34
+nserver:      NS-EXT.VIX.COM 204.152.184.64
+nserver:      NS.REGISTER.BG 192.92.129.99
+nserver:      NS2.REGISTER.BG 193.68.3.232
+nserver:      NS3.REGISTER.BG 94.155.14.10
+nserver:      SUNIC.SUNET.SE 192.36.125.2 2001:6b0:7:0:0:0:0:2
+ds-rdata:     46846 5 1 1D83F503CCED4A4B6F7F8DB1CF43D38F9133A3EA
+ds-rdata:     46846 5 2 26811E459C850F50A85D1EAF589E30DC14D09D1A6E6262E8D36B6BFFC605334C
 
-Registration Date: 03-January-1995
-Last Updated Date: 13-May-2009
+whois:        whois.register.bg
+
+remarks:      Registration information: http://www.register.bg
+
+created:      1995-01-03
+changed:      2010-07-03
+source:       IANA
+
