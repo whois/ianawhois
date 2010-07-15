@@ -1,74 +1,46 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: ad
-ID: ad
+domain:       AD
 
-Sponsoring Organization:
-    Name: 
-    Organization: Andorra Telecom
-    Address1: Carrer Mossèn Lluís Pujol, 8-14
-    Address2: 
-    Address3: 
-    City: Santa Coloma
-    State/Province: 
-    Country: Andorra
-    Postal Code: AD500
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 28-May-2009
+organisation: Andorra Telecom
+address:      Carrer MossÃ¨n LluÃ­s Pujol, 8-14
+address:      Santa Coloma  AD500
+address:      Andorra
 
-Administrative Contact:
-    Name: Joan-Marc Lauga Courtil
-    Organization: Andorra Telecom
-    Address1: Carrer Mossèn Lluís Pujol, 8-14
-    Address2: 
-    Address3: 
-    City: Santa Coloma
-    State/Province: 
-    Country: Andorra
-    Postal Code: AD500
-    Phone: +376 875274
-    Fax: +376 863667
-    Email: joan-marc.lauga@andorratelecom.ad
-    Registration Date: 01-January-1985
-    Last Updated Date: 28-May-2009
+contact:      administrative
+name:         Joan-Marc Lauga Courtil
+organisation: Andorra Telecom
+address:      Carrer MossÃ¨n LluÃ­s Pujol, 8-14
+address:      Santa Coloma  AD500
+address:      Andorra
+phone:        +376 875274
+fax-no:       +376 863667
+e-mail:       joan-marc.lauga@andorratelecom.ad
 
-Technical Contact:
-    Name: Sergi Lucas
-    Organization: Andorra Telecom
-    Address1: Carrer Mossèn Lluís Pujol, 8-14
-    Address2: 
-    Address3: 
-    City: Santa Coloma
-    State/Province: AD500
-    Country: Andorra
-    Postal Code: 
-    Phone: +376 875069
-    Fax: +376 863667
-    Email: sergi.lucas@andorratelecom.ad
-    Registration Date: 01-January-1985
-    Last Updated Date: 28-May-2009
-URL for registration services: http://www.nic.ad
+contact:      technical
+name:         Sergi Lucas
+organisation: Andorra Telecom
+address:      Carrer MossÃ¨n LluÃ­s Pujol, 8-14
+address:      Santa Coloma AD500
+address:      Andorra
+phone:        +376 875069
+fax-no:       +376 863667
+e-mail:       sergi.lucas@andorratelecom.ad
 
-Nameserver Information:
-    Nameserver: dinis.ad.
-    IP Address: 194.158.64.7
-    Nameserver: dns2.ad.
-    IP Address: 194.158.64.8
-    Nameserver: dns3.ad.
-    IP Address: 194.158.64.9
-    Nameserver: dns4.ad.
-    IP Address: 194.158.64.10
-    Nameserver: ns3.nic.fr.
-    IP Address: 192.134.0.49 2001:660:3006:1:0:0:1:1
-    Nameserver: ns-ad.ripe.net.
-    IP Address: 193.0.12.6
-    Nameserver: ns-ext.isc.org.
-    IP Address: 204.152.184.64 2001:4f8:0:2:0:0:0:13
-    Nameserver: ad.ns.nic.es.
-    IP Address: 194.69.254.15
+nserver:      AD.NS.NIC.ES 194.69.254.15
+nserver:      DINIS.AD 194.158.64.7
+nserver:      DNS2.AD 194.158.64.8
+nserver:      DNS3.AD 194.158.64.9
+nserver:      DNS4.AD 194.158.64.10
+nserver:      NS-AD.RIPE.NET 193.0.12.6
+nserver:      NS-EXT.ISC.ORG 2001:4f8:0:2:0:0:0:13 204.152.184.64
+nserver:      NS3.NIC.FR 192.134.0.49 2001:660:3006:1:0:0:1:1
 
-Registration Date: 09-January-1996
-Last Updated Date: 28-May-2009
+remarks:      Registration information: http://www.nic.ad
+
+created:      1996-01-09
+changed:      2009-05-28
+source:       IANA
+
