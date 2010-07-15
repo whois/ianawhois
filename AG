@@ -1,73 +1,48 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: ag
-ID: ag
+domain:       AG
 
-Sponsoring Organization:
-    Name: 
-    Organization: UHSA School of Medicine
-    Address1: P.O. Box 510
-    Address2: 
-    Address3: 
-    City: Saints Johns
-    State/Province: 
-    Country: Antigua
-    Postal Code: 
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 01-January-1985
+organisation: UHSA School of Medicine
+address:      P.O. Box 510
+address:      Saints Johns
+address:      Antigua
 
-Administrative Contact:
-    Name: George S. Daniel
-    Organization: UHSA School of Medicine
-    Address1: P.O. Box 510
-    Address2: 
-    Address3: 
-    City: Saints Johns
-    State/Province: 
-    Country: Antigua
-    Postal Code: 
-    Phone: +1 268 460 1391
-    Fax: +1 268 460 1477
-    Email: daniel@uhsa.edu.ag
-    Registration Date: 01-January-1985
-    Last Updated Date: 01-January-1985
+contact:      administrative
+name:         George S. Daniel
+organisation: UHSA School of Medicine
+address:      P.O. Box 510
+address:      Saints Johns
+address:      Antigua
+phone:        +1 268 460 1391
+fax-no:       +1 268 460 1477
+e-mail:       daniel@uhsa.edu.ag
 
-Technical Contact:
-    Name: Hostmaster
-    Organization: NetNames
-    Address1: Queens House
-    Address2: 180-182 Tottenham Court Road
-    Address3: 
-    City: London
-    State/Province: 
-    Country: United Kingdom
-    Postal Code: W1P 9LE
-    Phone: +44 171 291 3900
-    Fax: +44 171 291 3939
-    Email: corporate-services@netnames.com
-    Registration Date: 01-January-1985
-    Last Updated Date: 08-January-2009
-URL for registration services: http://www.nic.ag
-Whois Server (port 43): whois.nic.ag
+contact:      technical
+name:         Hostmaster
+organisation: NetNames
+address:      Queens House
+address:      180-182 Tottenham Court Road
+address:      London  W1P 9LE
+address:      United Kingdom
+phone:        +44 171 291 3900
+fax-no:       +44 171 291 3939
+e-mail:       corporate-services@netnames.com
 
-Nameserver Information:
-    Nameserver: a0.cctld.afilias-nst.info.
-    IP Address: 199.254.59.1 2001:500:25:0:0:0:0:1
-    Nameserver: b0.cctld.afilias-nst.org.
-    IP Address: 199.254.60.1 2001:500:26:0:0:0:0:1
-    Nameserver: c0.cctld.afilias-nst.info.
-    IP Address: 199.254.61.1 2001:500:27:0:0:0:0:1
-    Nameserver: d0.cctld.afilias-nst.org.
-    IP Address: 199.254.62.1 2001:500:28:0:0:0:0:1
-    Nameserver: dns.server.ag.
-    IP Address: 64.239.9.180
-    Nameserver: a2.cctld.afilias-nst.info.
-    IP Address: 199.249.116.1 2001:500:44:0:0:0:0:1
-    Nameserver: b2.cctld.afilias-nst.org.
-    IP Address: 199.249.124.1 2001:500:4c:0:0:0:0:1
+nserver:      A0.CCTLD.AFILIAS-NST.INFO 199.254.59.1 2001:500:25:0:0:0:0:1
+nserver:      A2.CCTLD.AFILIAS-NST.INFO 199.249.116.1 2001:500:44:0:0:0:0:1
+nserver:      B0.CCTLD.AFILIAS-NST.ORG 199.254.60.1 2001:500:26:0:0:0:0:1
+nserver:      B2.CCTLD.AFILIAS-NST.ORG 199.249.124.1 2001:500:4c:0:0:0:0:1
+nserver:      C0.CCTLD.AFILIAS-NST.INFO 199.254.61.1 2001:500:27:0:0:0:0:1
+nserver:      D0.CCTLD.AFILIAS-NST.ORG 199.254.62.1 2001:500:28:0:0:0:0:1
+nserver:      DNS.SERVER.AG 64.239.9.180
 
-Registration Date: 03-September-1991
-Last Updated Date: 08-January-2009
+whois:        whois.nic.ag
+
+remarks:      Registration information: http://www.nic.ag
+
+created:      1991-09-03
+changed:      2009-01-08
+source:       IANA
+
