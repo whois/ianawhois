@@ -1,84 +1,54 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: arpa
-ID: arpa
+domain:       ARPA
 
-Sponsoring Organization:
-    Name: 
-    Organization: Internet Assigned Numbers Authority
-    Address1: 4676 Admiralty Way
-    Address2: Suite 330
-    Address3: 
-    City: Marina del Rey
-    State/Province: California
-    Country: United States
-    Postal Code: 90292
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 18-June-2007
+organisation: Internet Assigned Numbers Authority
+address:      4676 Admiralty Way
+address:      Suite 330
+address:      Marina del Rey California 90292
+address:      United States
 
-Administrative Contact:
-    Name: 
-    Organization: Internet Architecture Board (IAB)
-                  c/o IETF Administrative Support Activity, ISOC
-    Address1: 1775 Wiehle Ave.
-    Address2: Suite 102
-    Address3: 
-    City: Reston
-    State/Province: Virginia
-    Country: US
-    Postal Code: 20190-5108
-    Phone: +1 703 326 9880
-    Fax: +1 703 326 9881
-    Email: iab@iab.org
-    Registration Date: 13-October-2001
-    Last Updated Date: 29-September-2006
+contact:      administrative
+organisation: Internet Architecture Board (IAB)
+organisation: c/o IETF Administrative Support Activity, ISOC
+address:      1775 Wiehle Ave.
+address:      Suite 102
+address:      Reston Virginia 20190-5108
+address:      US
+phone:        +1 703 326 9880
+fax-no:       +1 703 326 9881
+e-mail:       iab@iab.org
 
-Technical Contact:
-    Name: 
-    Organization: Internet Assigned Numbers Authority
-    Address1: 4676 Admiralty Way
-    Address2: Suite 330
-    Address3: 
-    City: Marina del Rey
-    State/Province: California
-    Country: United States
-    Postal Code: 90292
-    Phone: +1 310 823-9358
-    Fax: +1 310 823-8649
-    Email: iana@iana.org
-    Registration Date: 01-January-1985
-    Last Updated Date: 01-January-1985
-URL for registration services: http://www.iana.org/arpa-dom/
-Whois Server (port 43): whois.iana.org
+contact:      technical
+organisation: Internet Assigned Numbers Authority
+address:      4676 Admiralty Way
+address:      Suite 330
+address:      Marina del Rey California 90292
+address:      United States
+phone:        +1 310 823-9358
+fax-no:       +1 310 823-8649
+e-mail:       iana@iana.org
 
-Nameserver Information:
-    Nameserver: a.root-servers.net.
-    IP Address: 198.41.0.4 2001:503:ba3e:0:0:0:2:30
-    Nameserver: b.root-servers.net.
-    IP Address: 192.228.79.201
-    Nameserver: c.root-servers.net.
-    IP Address: 192.33.4.12
-    Nameserver: d.root-servers.net.
-    IP Address: 128.8.10.90
-    Nameserver: e.root-servers.net.
-    IP Address: 192.203.230.10
-    Nameserver: f.root-servers.net.
-    IP Address: 192.5.5.241 2001:500:2f:0:0:0:0:f
-    Nameserver: g.root-servers.net.
-    IP Address: 192.112.36.4
-    Nameserver: h.root-servers.net.
-    IP Address: 128.63.2.53 2001:500:1:0:0:0:803f:235
-    Nameserver: i.root-servers.net.
-    IP Address: 192.36.148.17 2001:7fe::53
-    Nameserver: k.root-servers.net.
-    IP Address: 193.0.14.129 2001:7fd:0:0:0:0:0:1
-    Nameserver: l.root-servers.net.
-    IP Address: 199.7.83.42 2001:500:3::42
-    Nameserver: m.root-servers.net.
-    IP Address: 202.12.27.33 2001:dc3:0:0:0:0:0:35
+nserver:      A.ROOT-SERVERS.NET 198.41.0.4 2001:503:ba3e:0:0:0:2:30
+nserver:      B.ROOT-SERVERS.NET 192.228.79.201
+nserver:      C.ROOT-SERVERS.NET 192.33.4.12
+nserver:      D.ROOT-SERVERS.NET 128.8.10.90
+nserver:      E.ROOT-SERVERS.NET 192.203.230.10
+nserver:      F.ROOT-SERVERS.NET 192.5.5.241 2001:500:2f:0:0:0:0:f
+nserver:      G.ROOT-SERVERS.NET 192.112.36.4
+nserver:      H.ROOT-SERVERS.NET 128.63.2.53 2001:500:1:0:0:0:803f:235
+nserver:      I.ROOT-SERVERS.NET 192.36.148.17 2001:7fe::53
+nserver:      K.ROOT-SERVERS.NET 193.0.14.129 2001:7fd:0:0:0:0:0:1
+nserver:      L.ROOT-SERVERS.NET 199.7.83.42 2001:500:3::42
+nserver:      M.ROOT-SERVERS.NET 2001:dc3:0:0:0:0:0:35 202.12.27.33
 
-Registration Date: 01-January-1985
-Last Updated Date: 18-June-2010
+whois:        whois.iana.org
+
+remarks:      Registration information: http://www.iana.org/arpa-dom/
+
+created:      1985-01-01
+changed:      2010-06-18
+source:       IANA
+
