@@ -1,78 +1,48 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: an
-ID: an
+domain:       AN
 
-Sponsoring Organization:
-    Name: 
-    Organization: University of The Netherlands Antilles
-    Address1: Jan Noorduynweg 111
-    Address2: 
-    Address3: 
-    City: Curacao
-    State/Province: 
-    Country: Netherlands Antilles
-    Postal Code: 
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 21-March-2005
+organisation: University of The Netherlands Antilles
+address:      Jan Noorduynweg 111
+address:      Curacao
+address:      Netherlands Antilles
 
-Administrative Contact:
-    Name: Leendert J.J. Pengel
-    Organization: University of The Netherlands Antilles
-    Address1: Jan Noorduynweg 111
-    Address2: 
-    Address3: 
-    City: Curacao
-    State/Province: 
-    Country: Netherlands Antilles
-    Postal Code: 
-    Phone: +599 9 8442248
-    Fax: +599 9 8442255
-    Email: ljpengel@una.an
-    Registration Date: 01-January-1985
-    Last Updated Date: 21-March-2005
+contact:      administrative
+name:         Leendert J.J. Pengel
+organisation: University of The Netherlands Antilles
+address:      Jan Noorduynweg 111
+address:      Curacao
+address:      Netherlands Antilles
+phone:        +599 9 8442248
+fax-no:       +599 9 8442255
+e-mail:       ljpengel@una.an
 
-Technical Contact:
-    Name: Leendert J.J. Pengel
-    Organization: University of The Netherlands Antilles
-    Address1: Jan Noorduynweg 111
-    Address2: 
-    Address3: 
-    City: Curacao
-    State/Province: 
-    Country: Netherlands Antilles
-    Postal Code: 
-    Phone: +599 9 8442222
-    Fax: +599 9 8442255
-    Email: lpengel@attglobal.net
-    Registration Date: 22-June-2004
-    Last Updated Date: 21-March-2005
-URL for registration services: http://www.una.an/an_domreg
+contact:      technical
+name:         Leendert J.J. Pengel
+organisation: University of The Netherlands Antilles
+address:      Jan Noorduynweg 111
+address:      Curacao
+address:      Netherlands Antilles
+phone:        +599 9 8442222
+fax-no:       +599 9 8442255
+e-mail:       lpengel@attglobal.net
 
-Nameserver Information:
-    Nameserver: ns01-server.curinfo.an.
-    IP Address: 65.208.122.36
-    Nameserver: engine0.una.an.
-    IP Address: 200.26.199.99
-    Nameserver: engine1.una.net.
-    IP Address: 198.93.177.21
-    Nameserver: kadushi.curinfo.an.
-    IP Address: 65.208.122.63
-    Nameserver: ns0.ja.net.
-    IP Address: 128.86.1.20 193.63.94.20 2001:630:0:8:0:0:0:14 2001:630:0:9:0:0:0:14
-    Nameserver: sunic.sunet.se.
-    IP Address: 192.36.125.2 2001:6b0:7:0:0:0:0:2
-    Nameserver: engine3.una.an.
-    IP Address: 200.26.199.102
-    Nameserver: engine2.una.an.
-    IP Address: 65.174.238.100
-    Nameserver: ns3.cura.net.
-    IP Address: 200.26.226.6
-    Nameserver: ns-an.ripe.net.
-    IP Address: 193.0.12.156
+nserver:      ENGINE0.UNA.AN 200.26.199.99
+nserver:      ENGINE1.UNA.NET 198.93.177.21
+nserver:      ENGINE2.UNA.AN 65.174.238.100
+nserver:      ENGINE3.UNA.AN 200.26.199.102
+nserver:      KADUSHI.CURINFO.AN 65.208.122.63
+nserver:      NS-AN.RIPE.NET 193.0.12.156
+nserver:      NS0.JA.NET 128.86.1.20 193.63.94.20 2001:630:0:8:0:0:0:14 2001:630:0:9:0:0:0:14
+nserver:      NS01-SERVER.CURINFO.AN 65.208.122.36
+nserver:      NS3.CURA.NET 200.26.226.6
+nserver:      SUNIC.SUNET.SE 192.36.125.2 2001:6b0:7:0:0:0:0:2
 
-Registration Date: 09-September-1993
-Last Updated Date: 26-June-2009
+remarks:      Registration information: http://www.una.an/an_domreg
+
+created:      1993-09-09
+changed:      2009-06-26
+source:       IANA
+
