@@ -1,64 +1,44 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: xn--jxalpdlp
-ID: xn--jxalpdlp
+domain:       ΔΟΚΙΜΉ
+domain-ace:   XN--JXALPDLP
 
-Sponsoring Organization:
-    Name: 
-    Organization: Internet Assigned Numbers Authority
-    Address1: 4676 Admiralty Way
-    Address2: Suite 330
-    Address3: 
-    City: Marina del Rey
-    State/Province: California
-    Country: United States
-    Postal Code: 90292
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 18-June-2007
+organisation: Internet Assigned Numbers Authority
+address:      4676 Admiralty Way
+address:      Suite 330
+address:      Marina del Rey California 90292
+address:      United States
 
-Administrative Contact:
-    Name: 
-    Organization: Internet Assigned Numbers Authority
-    Address1: 4676 Admiralty Way
-    Address2: Suite 330
-    Address3: 
-    City: Marina del Rey
-    State/Province: California
-    Country: United States
-    Postal Code: 90292
-    Phone: +1 310 823-9358
-    Fax: +1 310 823-8649
-    Email: iana@iana.org
-    Registration Date: 01-January-1985
-    Last Updated Date: 01-January-1985
+contact:      administrative
+organisation: Internet Assigned Numbers Authority
+address:      4676 Admiralty Way
+address:      Suite 330
+address:      Marina del Rey California 90292
+address:      United States
+phone:        +1 310 823-9358
+fax-no:       +1 310 823-8649
+e-mail:       iana@iana.org
 
-Technical Contact:
-    Name: 
-    Organization: Internet Assigned Numbers Authority
-    Address1: 4676 Admiralty Way
-    Address2: Suite 330
-    Address3: 
-    City: Marina del Rey
-    State/Province: California
-    Country: United States
-    Postal Code: 90292
-    Phone: +1 310 823-9358
-    Fax: +1 310 823-8649
-    Email: iana@iana.org
-    Registration Date: 01-January-1985
-    Last Updated Date: 01-January-1985
-URL for registration services: http://www.iana.org/domains/idn-test/
+contact:      technical
+organisation: Internet Assigned Numbers Authority
+address:      4676 Admiralty Way
+address:      Suite 330
+address:      Marina del Rey California 90292
+address:      United States
+phone:        +1 310 823-9358
+fax-no:       +1 310 823-8649
+e-mail:       iana@iana.org
 
-Nameserver Information:
-    Nameserver: a.iana-servers.net.
-    IP Address: 192.0.34.43
-    Nameserver: b.iana-servers.net.
-    IP Address: 193.0.0.236
-    Nameserver: c.iana-servers.net.
-    IP Address: 139.91.1.10 2001:648:2c30:0:0:0:1:10
+nserver:      A.IANA-SERVERS.NET 192.0.34.43
+nserver:      B.IANA-SERVERS.NET 193.0.0.236
+nserver:      C.IANA-SERVERS.NET 139.91.1.10 2001:648:2c30:0:0:0:1:10
 
-Registration Date: 19-October-2007
-Last Updated Date: 12-October-2009
+remarks:      Registration information:
+remarks:      http://www.iana.org/domains/idn-test/
+
+created:      2007-10-19
+changed:      2009-10-12
+source:       IANA
+
