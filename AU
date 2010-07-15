@@ -1,75 +1,49 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: au
-ID: au
+domain:       AU
 
-Sponsoring Organization:
-    Name: 
-    Organization: .au Domain Administration (auDA)
-    Address1: 114 Cardigan Street
-    Address2: 
-    Address3: 
-    City: Carlton
-    State/Province: 
-    Country: Australia
-    Postal Code: VIC 3053
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 30-April-2007
+organisation: .au Domain Administration (auDA)
+address:      114 Cardigan Street
+address:      Carlton  VIC 3053
+address:      Australia
 
-Administrative Contact:
-    Name: Chris Disspain, CEO
-    Organization: .au Domain Administration (auDA)
-    Address1: 114 Cardigan Street
-    Address2: 
-    Address3: 
-    City: Carlton
-    State/Province: 
-    Country: Australia
-    Postal Code: VIC 3053
-    Phone: + 61 03 8341 4111, + 61 1300 732 929
-    Fax: + 61 03 8341 4112
-    Email: ceo@auda.org.au
-    Registration Date: 01-January-1985
-    Last Updated Date: 30-April-2007
+contact:      administrative
+name:         Chris Disspain, CEO
+organisation: .au Domain Administration (auDA)
+address:      114 Cardigan Street
+address:      Carlton  VIC 3053
+address:      Australia
+phone:        + 61 03 8341 4111, + 61 1300 732 929
+fax-no:       + 61 03 8341 4112
+e-mail:       ceo@auda.org.au
 
-Technical Contact:
-    Name: Chris Disspain, CEO
-    Organization: .au Domain Administration (auDA)
-    Address1: 114 Cardigan Street
-    Address2: 
-    Address3: 
-    City: Carlton
-    State/Province: 
-    Country: Australia
-    Postal Code: VIC 3053
-    Phone: + 61 03 8341 4111, + 61 1300 732 929
-    Fax: + 61 03 8341 4112
-    Email: ceo@auda.org.au
-    Registration Date: 01-January-1985
-    Last Updated Date: 30-April-2007
-URL for registration services: http://www.auda.org.au/domains/au-domains/
-Whois Server (port 43): whois.audns.net.au
+contact:      technical
+name:         Chris Disspain, CEO
+organisation: .au Domain Administration (auDA)
+address:      114 Cardigan Street
+address:      Carlton  VIC 3053
+address:      Australia
+phone:        + 61 03 8341 4111, + 61 1300 732 929
+fax-no:       + 61 03 8341 4112
+e-mail:       ceo@auda.org.au
 
-Nameserver Information:
-    Nameserver: a3.audns.net.au.
-    IP Address: 202.12.31.141
-    Nameserver: b1.audns.net.au.
-    IP Address: 128.32.136.3 2607:f140:ffff:fffe:0:0:0:3
-    Nameserver: b2.audns.net.au.
-    IP Address: 128.32.136.14 2607:f140:ffff:fffe:0:0:0:e
-    Nameserver: ns1.audns.net.au.
-    IP Address: 58.65.255.73
-    Nameserver: ns2.audns.net.au.
-    IP Address: 58.65.249.73
-    Nameserver: ns3.audns.net.au.
-    IP Address: 58.65.251.73
-    Nameserver: ns4.audns.net.au.
-    IP Address: 58.65.250.73
-    Nameserver: o.audns.net.au.
-    IP Address: 211.29.133.32
+nserver:      A3.AUDNS.NET.AU 202.12.31.141
+nserver:      B1.AUDNS.NET.AU 128.32.136.3 2607:f140:ffff:fffe:0:0:0:3
+nserver:      B2.AUDNS.NET.AU 128.32.136.14 2607:f140:ffff:fffe:0:0:0:e
+nserver:      NS1.AUDNS.NET.AU 58.65.255.73
+nserver:      NS2.AUDNS.NET.AU 58.65.249.73
+nserver:      NS3.AUDNS.NET.AU 58.65.251.73
+nserver:      NS4.AUDNS.NET.AU 58.65.250.73
+nserver:      O.AUDNS.NET.AU 211.29.133.32
 
-Registration Date: 05-March-1986
-Last Updated Date: 09-June-2010
+whois:        whois.audns.net.au
+
+remarks:      Registration information:
+remarks:      http://www.auda.org.au/domains/au-domains/
+
+created:      1986-03-05
+changed:      2010-06-09
+source:       IANA
+
