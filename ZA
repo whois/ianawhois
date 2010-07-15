@@ -1,74 +1,49 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: za
-ID: za
+domain:       ZA
 
-Sponsoring Organization:
-    Name: 
-    Organization: ZA Domain Name Authority
-    Address1: The Business Centre
-    Address2: 377 Rivonia Boulevard
-    Address3: 
-    City: Rivonia
-    State/Province: Gauteng
-    Country: South Africa
-    Postal Code: 2191
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 24-March-2008
+organisation: ZA Domain Name Authority
+address:      The Business Centre
+address:      377 Rivonia Boulevard
+address:      Rivonia Gauteng 2191
+address:      South Africa
 
-Administrative Contact:
-    Name: Chairperson
-    Organization: ZA Domain Name Authority
-    Address1: The Business Centre
-    Address2: 377 Rivonia Boulevard
-    Address3: 
-    City: Rivonia
-    State/Province: Gauteng
-    Country: South Africa
-    Postal Code: 2191
-    Phone: +27 11 275 0082
-    Fax: +27 11 234 5022
-    Email: chair@zadna.org.za
-    Registration Date: 01-January-1985
-    Last Updated Date: 24-March-2008
+contact:      administrative
+name:         Chairperson
+organisation: ZA Domain Name Authority
+address:      The Business Centre
+address:      377 Rivonia Boulevard
+address:      Rivonia Gauteng 2191
+address:      South Africa
+phone:        +27 11 275 0082
+fax-no:       +27 11 234 5022
+e-mail:       chair@zadna.org.za
 
-Technical Contact:
-    Name: Technical Committee
-    Organization: ZA Domain Name Authority
-    Address1: The Business Centre
-    Address2: 377 Rivonia Boulevard
-    Address3: 
-    City: Rivonia
-    State/Province: Gauteng
-    Country: South Africa
-    Postal Code: 2191
-    Phone: +27 11 275 0082
-    Fax: +27 11 234 5022
-    Email: dnsadmin@zadna.org.za
-    Registration Date: 01-January-1985
-    Last Updated Date: 24-March-2008
-URL for registration services: http://www.zadna.org.za/
+contact:      technical
+name:         Technical Committee
+organisation: ZA Domain Name Authority
+address:      The Business Centre
+address:      377 Rivonia Boulevard
+address:      Rivonia Gauteng 2191
+address:      South Africa
+phone:        +27 11 275 0082
+fax-no:       +27 11 234 5022
+e-mail:       dnsadmin@zadna.org.za
 
-Nameserver Information:
-    Nameserver: nsza.is.co.za.
-    IP Address: 196.4.160.27
-    Nameserver: hippo.ru.ac.za.
-    IP Address: 146.231.128.1 2001:4200:1010::1
-    Nameserver: ns-ext.isc.org.
-    IP Address: 204.152.184.64 2001:4f8:0:2:0:0:0:13
-    Nameserver: ns-za.ripe.net.
-    IP Address: 193.0.12.205 2001:610:240:0:53:cc:12:205
-    Nameserver: ns1.dns.aq.
-    IP Address: 203.119.56.132
-    Nameserver: disa.tenet.ac.za.
-    IP Address: 196.21.79.50 2001:4200:ffff:a:0:0:0:1
-    Nameserver: za1.dnsnode.net.
-    IP Address: 194.146.106.78
-    Nameserver: za-ns.anycast.pch.net.
-    IP Address: 204.61.216.55 2001:500:14:6055:ad:0:0:1
+nserver:      DISA.TENET.AC.ZA 196.21.79.50 2001:4200:ffff:a:0:0:0:1
+nserver:      HIPPO.RU.AC.ZA 146.231.128.1 2001:4200:1010::1
+nserver:      NS-EXT.ISC.ORG 2001:4f8:0:2:0:0:0:13 204.152.184.64
+nserver:      NS-ZA.RIPE.NET 193.0.12.205 2001:610:240:0:53:cc:12:205
+nserver:      NS1.DNS.AQ 203.119.56.132
+nserver:      NSZA.IS.CO.ZA 196.4.160.27
+nserver:      ZA-NS.ANYCAST.PCH.NET 2001:500:14:6055:ad:0:0:1 204.61.216.55
+nserver:      ZA1.DNSNODE.NET 194.146.106.78
 
-Registration Date: 07-November-1990
-Last Updated Date: 09-June-2010
+remarks:      Registration information: http://www.zadna.org.za/
+
+created:      1990-11-07
+changed:      2010-06-09
+source:       IANA
+
