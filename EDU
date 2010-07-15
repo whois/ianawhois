@@ -54,14 +54,12 @@ URL for registration services: http://www.educause.edu/edudomain
 Whois Server (port 43): whois.educause.edu
 
 Nameserver Information:
-    Nameserver: a.gtld-servers.net.
-    IP Address: 192.5.6.30 2001:503:a83e:0:0:0:2:30
-    Nameserver: c.gtld-servers.net.
-    IP Address: 192.26.92.30
-    Nameserver: d.gtld-servers.net.
-    IP Address: 192.31.80.30
-    Nameserver: e.gtld-servers.net.
-    IP Address: 192.12.94.30
+    Nameserver: a.edu-servers.net.
+    IP Address: 192.5.6.36
+    Nameserver: c.edu-servers.net.
+    IP Address: 192.26.92.36
+    Nameserver: d.edu-servers.net.
+    IP Address: 192.31.80.36
     Nameserver: f.edu-servers.net.
     IP Address: 192.35.51.36
     Nameserver: g.edu-servers.net.
@@ -70,4 +68,4 @@ Nameserver Information:
     IP Address: 192.41.162.36
 
 Registration Date: 01-January-1985
-Last Updated Date: 07-July-2010
+Last Updated Date: 14-July-2010
