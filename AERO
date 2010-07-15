@@ -1,77 +1,52 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: aero
-ID: aero
+domain:       AERO
 
-Sponsoring Organization:
-    Name: 
-    Organization: Societe Internationale de Telecommunications Aeronautique (SITA INC USA)
-    Address1: 3100 Cumberland Boulevard
-    Address2: 
-    Address3: 
-    City: Atlanta
-    State/Province: Georgia
-    Country: United States
-    Postal Code: 30339
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 02-September-2009
+organisation: Societe Internationale de Telecommunications Aeronautique (SITA INC USA)
+address:      3100 Cumberland Boulevard
+address:      Atlanta Georgia 30339
+address:      United States
 
-Administrative Contact:
-    Name: .AERO Office
-    Organization: SITA SC
-    Address1: 26 Chemin de Joinville
-    Address2: Cointrin Geneva
-    Address3: 
-    City: Geneva
-    State/Province: 
-    Country: Switzerland
-    Postal Code: 1216
-    Phone: +41 22 747 60 00
-    Fax: +41 22 747 63 33
-    Email: aero.enquiries@sita.aero
-    Registration Date: 01-January-1985
-    Last Updated Date: 12-June-2008
+contact:      administrative
+name:         .AERO Office
+organisation: SITA SC
+address:      26 Chemin de Joinville
+address:      Cointrin Geneva
+address:      Geneva  1216
+address:      Switzerland
+phone:        +41 22 747 60 00
+fax-no:       +41 22 747 63 33
+e-mail:       aero.enquiries@sita.aero
 
-Technical Contact:
-    Name: .AERO Domain Technical Administrator
-    Organization: Afilias Limited
-    Address1: 300 Welsh Road
-    Address2: Building 3
-    Address3: Suite 105
-    City: Horsham
-    State/Province: Pennsylvania
-    Country: United States
-    Postal Code: 19044
-    Phone: +1 215 706 5700
-    Fax: +1 215 706 5701
-    Email: domaintech@afilias.info
-    Registration Date: 01-January-1985
-    Last Updated Date: 06-February-2006
-URL for registration services: http://www.information.aero
-Whois Server (port 43): whois.aero
+contact:      technical
+name:         .AERO Domain Technical Administrator
+organisation: Afilias Limited
+address:      300 Welsh Road
+address:      Building 3
+address:      Suite 105
+address:      Horsham Pennsylvania 19044
+address:      United States
+phone:        +1 215 706 5700
+fax-no:       +1 215 706 5701
+e-mail:       domaintech@afilias.info
 
-Nameserver Information:
-    Nameserver: dns7.denic.de.
-    IP Address: 81.91.161.68
-    Nameserver: merapi.switch.ch.
-    IP Address: 130.59.211.10 2001:620:0:0:0:0:0:5
-    Nameserver: ns5.knipp.de.
-    IP Address: 195.253.6.62 2a01:5b0:0:29:0:0:0:3e
-    Nameserver: a0.aero.afilias-nst.info.
-    IP Address: 199.254.51.1 2001:500:1d:0:0:0:0:1
-    Nameserver: b0.aero.afilias-nst.org.
-    IP Address: 199.254.52.1 2001:500:1e:0:0:0:0:1
-    Nameserver: c0.aero.afilias-nst.info.
-    IP Address: 199.254.53.1 2001:500:1f:0:0:0:0:1
-    Nameserver: d0.aero.afilias-nst.org.
-    IP Address: 199.254.54.1 2001:500:20:0:0:0:0:1
-    Nameserver: a2.aero.afilias-nst.info.
-    IP Address: 199.249.115.1 2001:500:43:0:0:0:0:1
-    Nameserver: b2.aero.afilias-nst.org.
-    IP Address: 199.249.123.1 2001:500:4b:0:0:0:0:1
+nserver:      A0.AERO.AFILIAS-NST.INFO 199.254.51.1 2001:500:1d:0:0:0:0:1
+nserver:      A2.AERO.AFILIAS-NST.INFO 199.249.115.1 2001:500:43:0:0:0:0:1
+nserver:      B0.AERO.AFILIAS-NST.ORG 199.254.52.1 2001:500:1e:0:0:0:0:1
+nserver:      B2.AERO.AFILIAS-NST.ORG 199.249.123.1 2001:500:4b:0:0:0:0:1
+nserver:      C0.AERO.AFILIAS-NST.INFO 199.254.53.1 2001:500:1f:0:0:0:0:1
+nserver:      D0.AERO.AFILIAS-NST.ORG 199.254.54.1 2001:500:20:0:0:0:0:1
+nserver:      DNS7.DENIC.DE 81.91.161.68
+nserver:      MERAPI.SWITCH.CH 130.59.211.10 2001:620:0:0:0:0:0:5
+nserver:      NS5.KNIPP.DE 195.253.6.62 2a01:5b0:0:29:0:0:0:3e
 
-Registration Date: 21-December-2001
-Last Updated Date: 02-September-2009
+whois:        whois.aero
+
+remarks:      Registration information: http://www.information.aero
+
+created:      2001-12-21
+changed:      2009-09-02
+source:       IANA
+
