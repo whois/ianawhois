@@ -1,64 +1,41 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: ax
-ID: ax
+domain:       AX
 
-Sponsoring Organization:
-    Name: 
-    Organization: Ålands landskapsregering
-    Address1: Strandgatan
-    Address2: 
-    Address3: 
-    City: Mariehamn
-    State/Province: 
-    Country: Aland Islands, Finland
-    Postal Code: 22100
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 27-April-2004
-    Last Updated Date: 04-January-2007
+organisation: Ã…lands landskapsregering
+address:      Strandgatan
+address:      Mariehamn  22100
+address:      Aland Islands, Finland
 
-Administrative Contact:
-    Name: Ronny Lundström
-    Organization: Ålands landskapsregering
-    Address1: PB 1060
-    Address2: 
-    Address3: 
-    City: Mariehamn
-    State/Province: 
-    Country: Aland Islands, Finland
-    Postal Code: AX-22111
-    Phone: +358 18 25000
-    Fax: +358 18 19155
-    Email: itsupport@regeringen.ax
-    Registration Date: 20-June-2006
-    Last Updated Date: 18-January-2007
+contact:      administrative
+name:         Ronny LundstrÃ¶m
+organisation: Ã…lands landskapsregering
+address:      PB 1060
+address:      Mariehamn  AX-22111
+address:      Aland Islands, Finland
+phone:        +358 18 25000
+fax-no:       +358 18 19155
+e-mail:       itsupport@regeringen.ax
 
-Technical Contact:
-    Name: Conny Rosenberg
-    Organization: Alands Datakommunikation AB
-    Address1: PB 233
-    Address2: 
-    Address3: 
-    City: Mariehamn
-    State/Province: 
-    Country: Aland Islands, Finland
-    Postal Code: AX-22101
-    Phone: +358 18 23500
-    Fax: +358 18 14643
-    Email: conny@alcom.ax
-    Registration Date: 20-June-2006
-    Last Updated Date: 18-January-2007
-URL for registration services: http://www.regeringen.ax/axreg/
+contact:      technical
+name:         Conny Rosenberg
+organisation: Alands Datakommunikation AB
+address:      PB 233
+address:      Mariehamn  AX-22101
+address:      Aland Islands, Finland
+phone:        +358 18 23500
+fax-no:       +358 18 14643
+e-mail:       conny@alcom.ax
 
-Nameserver Information:
-    Nameserver: ns1.aalnet.net.
-    IP Address: 194.112.0.1
-    Nameserver: ns2.aalnet.net.
-    IP Address: 194.112.0.5
-    Nameserver: ns3.aalnet.net.
-    IP Address: 82.199.186.130
+nserver:      NS1.AALNET.NET 194.112.0.1
+nserver:      NS2.AALNET.NET 194.112.0.5
+nserver:      NS3.AALNET.NET 82.199.186.130
 
-Registration Date: None
-Last Updated Date: 30-April-2008
+remarks:      Registration information:
+remarks:      http://www.regeringen.ax/axreg/
+
+changed:      2008-04-30
+source:       IANA
+
