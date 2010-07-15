@@ -1,82 +1,53 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: af
-ID: af
+domain:       AF
 
-Sponsoring Organization:
-    Name: 
-    Organization: Ministry of Communications and IT
-    Address1: Mohammad Jan Khan Watt
-    Address2: 
-    Address3: 
-    City: Kabul
-    State/Province: 
-    Country: Afghanistan
-    Postal Code: 
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 28-January-2010
+organisation: Ministry of Communications and IT
+address:      Mohammad Jan Khan Watt
+address:      Kabul
+address:      Afghanistan
 
-Administrative Contact:
-    Name: Aimal Marjan, Director General ICT
-    Organization: ICT Directorate
-                  Ministry of Communications and IT
-    Address1: Mohammad Jan Khan Watt
-    Address2: 
-    Address3: 
-    City: Kabul
-    State/Province: 
-    Country: Afghanistan
-    Postal Code: 
-    Phone: +93 20 2103883
-    Fax: +93 20 2103700
-    Email: aimal.marjan@mcit.gov.af
-    Registration Date: 01-January-1985
-    Last Updated Date: 02-December-2008
+contact:      administrative
+name:         Aimal Marjan, Director General ICT
+organisation: ICT Directorate
+organisation: Ministry of Communications and IT
+address:      Mohammad Jan Khan Watt
+address:      Kabul
+address:      Afghanistan
+phone:        +93 20 2103883
+fax-no:       +93 20 2103700
+e-mail:       aimal.marjan@mcit.gov.af
 
-Technical Contact:
-    Name: Wali Mohammad Berjasta, .af manager
-    Organization: Ministry of Communications and IT
-    Address1: Mohammad Jan Khan Watt
-    Address2: 
-    Address3: 
-    City: Kabul
-    State/Province: 
-    Country: Afghanistan
-    Postal Code: 
-    Phone: +93 799 30 26 53
-    Fax: +93 20 2102684
-    Email: technical@nic.af
-    Registration Date: 21-February-2003
-    Last Updated Date: 28-January-2010
-URL for registration services: https://afgnic.coccaregistry.net
-Whois Server (port 43): whois.nic.af
+contact:      technical
+name:         Wali Mohammad Berjasta, .af manager
+organisation: Ministry of Communications and IT
+address:      Mohammad Jan Khan Watt
+address:      Kabul
+address:      Afghanistan
+phone:        +93 799 30 26 53
+fax-no:       +93 20 2102684
+e-mail:       technical@nic.af
 
-Nameserver Information:
-    Nameserver: af1.dyntld.net.
-    IP Address: 208.78.70.94
-    Nameserver: af2.dyntld.net.
-    IP Address: 204.13.250.94
-    Nameserver: af3.dyntld.net.
-    IP Address: 208.78.71.94
-    Nameserver: af4.dyntld.net.
-    IP Address: 204.13.251.94
-    Nameserver: alpha.undp.org.
-    IP Address: 165.65.35.29
-    Nameserver: flag.ep.net.
-    IP Address: 198.32.4.13
-    Nameserver: ns-af.ripe.net.
-    IP Address: 193.0.12.1 2001:610:240:0:53:cc:12:1
-    Nameserver: ns.anycast.nic.af.
-    IP Address: 204.61.216.13 2001:500:14:6013:ad:0:0:1
-    Nameserver: ns.undp.org.
-    IP Address: 165.65.6.8
-    Nameserver: ns2.undp.org.
-    IP Address: 192.124.42.15
-    Nameserver: ns3.nic.fr.
-    IP Address: 192.134.0.49 2001:660:3006:1:0:0:1:1
+nserver:      AF1.DYNTLD.NET 208.78.70.94
+nserver:      AF2.DYNTLD.NET 204.13.250.94
+nserver:      AF3.DYNTLD.NET 208.78.71.94
+nserver:      AF4.DYNTLD.NET 204.13.251.94
+nserver:      ALPHA.UNDP.ORG 165.65.35.29
+nserver:      FLAG.EP.NET 198.32.4.13
+nserver:      NS-AF.RIPE.NET 193.0.12.1 2001:610:240:0:53:cc:12:1
+nserver:      NS.ANYCAST.NIC.AF 2001:500:14:6013:ad:0:0:1 204.61.216.13
+nserver:      NS.UNDP.ORG 165.65.6.8
+nserver:      NS2.UNDP.ORG 192.124.42.15
+nserver:      NS3.NIC.FR 192.134.0.49 2001:660:3006:1:0:0:1:1
 
-Registration Date: 16-October-1997
-Last Updated Date: 28-January-2010
+whois:        whois.nic.af
+
+remarks:      Registration information:
+remarks:      https://afgnic.coccaregistry.net
+
+created:      1997-10-16
+changed:      2010-01-28
+source:       IANA
+
