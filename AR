@@ -1,75 +1,47 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: ar
-ID: ar
+domain:       AR
 
-Sponsoring Organization:
-    Name: 
-    Organization: MRECIC (Ministerio de Relaciones Exteriores,
-                  Comercio Internacional y Culto)
-    Address1: Esmeralda 1212
-    Address2: 
-    Address3: 
-    City: Buenos Aires
-    State/Province: 
-    Country: Argentina
-    Postal Code: 1007
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 22-April-2004
+organisation: MRECIC (Ministerio de Relaciones Exteriores,
+organisation: Comercio Internacional y Culto)
+address:      Esmeralda 1212
+address:      Buenos Aires  1007
+address:      Argentina
 
-Administrative Contact:
-    Name: Gustavo Soliño
-    Organization: MRECIC (Ministerio de Relaciones Exteriores, Comercio Internacional y Culto)
-    Address1: Esmeralda 1212
-    Address2: 
-    Address3: 
-    City: Buenos Aires
-    State/Province: 
-    Country: Argentina
-    Postal Code: 1007
-    Phone: +54 11 4819-7372 / 7667
-    Fax: +54 11 4819-7360
-    Email: gas@cancilleria.gov.ar
-    Registration Date: 01-January-1985
-    Last Updated Date: 08-December-2009
+contact:      administrative
+name:         Gustavo SoliÃ±o
+organisation: MRECIC (Ministerio de Relaciones Exteriores, Comercio Internacional y Culto)
+address:      Esmeralda 1212
+address:      Buenos Aires  1007
+address:      Argentina
+phone:        +54 11 4819-7372 / 7667
+fax-no:       +54 11 4819-7360
+e-mail:       gas@cancilleria.gov.ar
 
-Technical Contact:
-    Name: Gustavo Zazkin
-    Organization: MRECIC (Ministerio de Relaciones Exteriores, Comercio Internacional y Culto)
-    Address1: Esmeralda 1212
-    Address2: 
-    Address3: 
-    City: Buenos Aires
-    State/Province: 
-    Country: Argentina
-    Postal Code: 1007
-    Phone: +54 11 4819-7262
-    Fax: +54 11 4819-7630
-    Email: gustavo@atina.ar
-    Registration Date: 01-January-1985
-    Last Updated Date: 08-December-2009
-URL for registration services: http://www.nic.ar
+contact:      technical
+name:         Gustavo Zazkin
+organisation: MRECIC (Ministerio de Relaciones Exteriores, Comercio Internacional y Culto)
+address:      Esmeralda 1212
+address:      Buenos Aires  1007
+address:      Argentina
+phone:        +54 11 4819-7262
+fax-no:       +54 11 4819-7630
+e-mail:       gustavo@atina.ar
 
-Nameserver Information:
-    Nameserver: athea.ar.
-    IP Address: 200.16.98.2
-    Nameserver: ctina.ar.
-    IP Address: 200.16.97.17
-    Nameserver: merapi.switch.ch.
-    IP Address: 130.59.211.10 2001:620:0:0:0:0:0:5
-    Nameserver: ns.uu.net.
-    IP Address: 137.39.1.3
-    Nameserver: ns1.retina.ar.
-    IP Address: 200.10.202.3
-    Nameserver: ns-ar.ripe.net.
-    IP Address: 193.0.12.11
-    Nameserver: uucp-gw-1.pa.dec.com.
-    IP Address: 204.123.2.18
-    Nameserver: uucp-gw-2.pa.dec.com.
-    IP Address: 204.123.2.19
+nserver:      ATHEA.AR 200.16.98.2
+nserver:      CTINA.AR 200.16.97.17
+nserver:      MERAPI.SWITCH.CH 130.59.211.10 2001:620:0:0:0:0:0:5
+nserver:      NS-AR.RIPE.NET 193.0.12.11
+nserver:      NS.UU.NET 137.39.1.3
+nserver:      NS1.RETINA.AR 200.10.202.3
+nserver:      UUCP-GW-1.PA.DEC.COM 204.123.2.18
+nserver:      UUCP-GW-2.PA.DEC.COM 204.123.2.19
 
-Registration Date: 23-September-1987
-Last Updated Date: 08-December-2009
+remarks:      Registration information: http://www.nic.ar
+
+created:      1987-09-23
+changed:      2009-12-08
+source:       IANA
+
