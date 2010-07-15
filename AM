@@ -1,75 +1,49 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: am
-ID: am
+domain:       AM
 
-Sponsoring Organization:
-    Name: 
-    Organization: Internet Society
-    Address1: Marshal Bagramian Avenue 40
-    Address2: 
-    Address3: 
-    City: Yerevan
-    State/Province: 
-    Country: Armenia
-    Postal Code: 375019
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 21-May-2003
+organisation: Internet Society
+address:      Marshal Bagramian Avenue 40
+address:      Yerevan  375019
+address:      Armenia
 
-Administrative Contact:
-    Name: Dr. Igor Mkrtumyan
-    Organization: Internet Society
-    Address1: Marshal Bagramian Avenue 40
-    Address2: 
-    Address3: 
-    City: Yerevan
-    State/Province: 
-    Country: Armenia
-    Postal Code: 375019
-    Phone: +374 10 512653
-    Fax: +374 10 512512
-    Email: imkrtumyan@amnic.net
-    Registration Date: 01-January-1985
-    Last Updated Date: 16-June-2005
+contact:      administrative
+name:         Dr. Igor Mkrtumyan
+organisation: Internet Society
+address:      Marshal Bagramian Avenue 40
+address:      Yerevan  375019
+address:      Armenia
+phone:        +374 10 512653
+fax-no:       +374 10 512512
+e-mail:       imkrtumyan@amnic.net
 
-Technical Contact:
-    Name: Hrant Dadivanyan
-    Organization: Arminco Limited
-    Address1: Isaakian Street 28
-    Address2: 3rd Floor
-    Address3: 
-    City: Yerevan
-    State/Province: 
-    Country: Armenia
-    Postal Code: 375009
-    Phone: +374 91 420214
-    Fax: +374 10 544590
-    Email: ran@psg.com
-    Registration Date: 01-January-1985
-    Last Updated Date: 16-June-2005
-URL for registration services: http://www.amnic.net
-Whois Server (port 43): whois.amnic.net
+contact:      technical
+name:         Hrant Dadivanyan
+organisation: Arminco Limited
+address:      Isaakian Street 28
+address:      3rd Floor
+address:      Yerevan  375009
+address:      Armenia
+phone:        +374 91 420214
+fax-no:       +374 10 544590
+e-mail:       ran@psg.com
 
-Nameserver Information:
-    Nameserver: ns.amnic.net.
-    IP Address: 195.250.64.90 2001:4d00:0:0:0:0:0:90
-    Nameserver: ns-am.ripe.net.
-    IP Address: 193.0.12.12 2001:610:240:0:53:cc:12:12
-    Nameserver: rip.psg.com.
-    IP Address: 147.28.0.39 2001:418:1:0:0:0:0:39
-    Nameserver: sec3.apnic.net.
-    IP Address: 202.12.28.140 2001:dc0:1:0:4777:0:0:140
-    Nameserver: sunic.sunet.se.
-    IP Address: 192.36.125.2 2001:6b0:7:0:0:0:0:2
-    Nameserver: sec1.apnic.net.
-    IP Address: 202.12.29.59 2001:dc0:2001:a:4608::59
-    Nameserver: ns-cdn.amnic.net.
-    IP Address: 194.0.1.26 2001:678:4:0:0:0:0:1a
-    Nameserver: sns-pb.isc.org.
-    IP Address: 192.5.4.1 2001:500:2e:0:0:0:0:1
+nserver:      NS-AM.RIPE.NET 193.0.12.12 2001:610:240:0:53:cc:12:12
+nserver:      NS-CDN.AMNIC.NET 194.0.1.26 2001:678:4:0:0:0:0:1a
+nserver:      NS.AMNIC.NET 195.250.64.90 2001:4d00:0:0:0:0:0:90
+nserver:      RIP.PSG.COM 147.28.0.39 2001:418:1:0:0:0:0:39
+nserver:      SEC1.APNIC.NET 2001:dc0:2001:a:4608::59 202.12.29.59
+nserver:      SEC3.APNIC.NET 2001:dc0:1:0:4777:0:0:140 202.12.28.140
+nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e:0:0:0:0:1
+nserver:      SUNIC.SUNET.SE 192.36.125.2 2001:6b0:7:0:0:0:0:2
 
-Registration Date: 26-August-1994
-Last Updated Date: 16-December-2009
+whois:        whois.amnic.net
+
+remarks:      Registration information: http://www.amnic.net
+
+created:      1994-08-26
+changed:      2009-12-16
+source:       IANA
+
