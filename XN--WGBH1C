@@ -1,63 +1,42 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: xn--wgbh1c
-ID: xn--wgbh1c
+domain:       مصر
+domain-ace:   XN--WGBH1C
 
-Sponsoring Organization:
-    Name: 
-    Organization: National Telecommunication Regulatory Authority - NTRA
-    Address1: Smart Village, B4 K28
-    Address2: Cairo-Alex Desert Rd.
-    Address3: 
-    City: 6th October
-    State/Province: 
-    Country: Egypt
-    Postal Code: 12577
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 05-May-2010
-    Last Updated Date: 05-May-2010
+organisation: National Telecommunication Regulatory Authority - NTRA
+address:      Smart Village, B4 K28
+address:      Cairo-Alex Desert Rd.
+address:      6th October  12577
+address:      Egypt
 
-Administrative Contact:
-    Name: Manal Ismail
-    Organization: National Telecommunication Regulatory Authority - NTRA
-    Address1: Smart Village, B4 K28
-    Address2: Cairo-Alex Desert Rd.
-    Address3: 
-    City: 6th October
-    State/Province: 
-    Country: Egypt
-    Postal Code: 12577
-    Phone: +202 3534 1115
-    Fax: +202 3534 7000
-    Email: manal@tra.gov.eg
-    Registration Date: 05-May-2010
-    Last Updated Date: 05-May-2010
+contact:      administrative
+name:         Manal Ismail
+organisation: National Telecommunication Regulatory Authority - NTRA
+address:      Smart Village, B4 K28
+address:      Cairo-Alex Desert Rd.
+address:      6th October  12577
+address:      Egypt
+phone:        +202 3534 1115
+fax-no:       +202 3534 7000
+e-mail:       manal@tra.gov.eg
 
-Technical Contact:
-    Name: Christine Arida
-    Organization: National Telecommunication Regulatory Authority - NTRA
-    Address1: Smart Village, B4 K28
-    Address2: Cairo-Alex Desert Rd.
-    Address3: 
-    City: 6th October
-    State/Province: 
-    Country: Egypt
-    Postal Code: 12577
-    Phone: +202 3534 1116
-    Fax: +202 3534 7000
-    Email: chris@tra.gov.eg
-    Registration Date: 05-May-2010
-    Last Updated Date: 05-May-2010
+contact:      technical
+name:         Christine Arida
+organisation: National Telecommunication Regulatory Authority - NTRA
+address:      Smart Village, B4 K28
+address:      Cairo-Alex Desert Rd.
+address:      6th October  12577
+address:      Egypt
+phone:        +202 3534 1116
+fax-no:       +202 3534 7000
+e-mail:       chris@tra.gov.eg
 
-Nameserver Information:
-    Nameserver: ns1.dotmasr.eg.
-    IP Address: 81.21.97.155
-    Nameserver: ns2.dotmasr.eg.
-    IP Address: 81.21.99.11
-    Nameserver: ns3.dotmasr.eg.
-    IP Address: 81.10.38.11
+nserver:      NS1.DOTMASR.EG 81.21.97.155
+nserver:      NS2.DOTMASR.EG 81.21.99.11
+nserver:      NS3.DOTMASR.EG 81.10.38.11
 
-Registration Date: 05-May-2010
-Last Updated Date: 05-May-2010
+created:      2010-05-05
+source:       IANA
+
