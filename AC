@@ -1,75 +1,45 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: ac
-ID: ac
+domain:       AC
 
-Sponsoring Organization:
-    Name: 
-    Organization: Network Information Center (AC Domain Registry)
-                  c/o Cable and Wireless (Ascension Island)
-    Address1: South Atlantic Ocean
-    Address2: 
-    Address3: 
-    City: 
-    State/Province: 
-    Country: Ascension Island
-    Postal Code: 
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 01-January-1985
+organisation: Network Information Center (AC Domain Registry)
+organisation: c/o Cable and Wireless (Ascension Island)
+address:      South Atlantic Ocean
+address:      Ascension Island
 
-Administrative Contact:
-    Name: Internet Manager
-    Organization: Network Information Center (AC Domain Registry)
-                  c/o Cable and Wireless (Ascension Island)
-    Address1: South Atlantic Ocean
-    Address2: 
-    Address3: 
-    City: 
-    State/Province: 
-    Country: Ascension Island
-    Postal Code: 
-    Phone: 
-    Fax: +247 6464
-    Email: administrator@NIC.AC
-    Registration Date: 01-January-1985
-    Last Updated Date: 01-January-1985
+contact:      administrative
+name:         Internet Manager
+organisation: Network Information Center (AC Domain Registry)
+organisation: c/o Cable and Wireless (Ascension Island)
+address:      South Atlantic Ocean
+address:      Ascension Island
+fax-no:       +247 6464
+e-mail:       administrator@NIC.AC
 
-Technical Contact:
-    Name: Administrator
-    Organization: ICB Plc.
-    Address1: 9 Queens Road
-    Address2: 
-    Address3: 
-    City: Bournemouth
-    State/Province: Dorset
-    Country: United Kingdom
-    Postal Code: BH2 6BA
-    Phone: 
-    Fax: +44 1225 580 550
-    Email: admin@icb.co.uk
-    Registration Date: 01-January-1985
-    Last Updated Date: 04-January-2010
-URL for registration services: http://www.nic.ac/
-Whois Server (port 43): whois.nic.ac
+contact:      technical
+name:         Administrator
+organisation: ICB Plc.
+address:      9 Queens Road
+address:      Bournemouth Dorset BH2 6BA
+address:      United Kingdom
+fax-no:       +44 1225 580 550
+e-mail:       admin@icb.co.uk
 
-Nameserver Information:
-    Nameserver: a.nic.ac.
-    IP Address: 64.251.31.177
-    Nameserver: b.nic.ac.
-    IP Address: 78.104.145.37
-    Nameserver: b.nic.io.
-    IP Address: 194.0.2.1
-    Nameserver: ns3.icb.co.uk.
-    IP Address: 91.208.95.130
-    Nameserver: a.ns13.net.
-    IP Address: 202.181.97.168
-    Nameserver: b.ns13.net.
-    IP Address: 202.181.96.60
-    Nameserver: ns1.communitydns.net.
-    IP Address: 194.0.1.1 2001:678:4:0:0:0:0:1
+nserver:      A.NIC.AC 64.251.31.177
+nserver:      A.NS13.NET 202.181.97.168
+nserver:      B.NIC.AC 78.104.145.37
+nserver:      B.NIC.IO 194.0.2.1
+nserver:      B.NS13.NET 202.181.96.60
+nserver:      NS1.COMMUNITYDNS.NET 194.0.1.1 2001:678:4:0:0:0:0:1
+nserver:      NS3.ICB.CO.UK 91.208.95.130
 
-Registration Date: 19-December-1997
-Last Updated Date: 04-January-2010
+whois:        whois.nic.ac
+
+remarks:      Registration information: http://www.nic.ac/
+
+created:      1997-12-19
+changed:      2010-01-04
+source:       IANA
+
