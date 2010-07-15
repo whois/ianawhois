@@ -1,68 +1,49 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: bb
-ID: bb
+domain:       BB
 
-Sponsoring Organization:
-    Name: 
-    Organization: Government of Barbados
-                  Ministry of Economic Affairs and Development
-                  Telecommunications Unit
-    Address1: 3rd Floor East
-    Address2: Warrens Complex
-    Address3: 
-    City: Warrens
-    State/Province: St. Michael
-    Country: Barbados
-    Postal Code: BB12001
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 19-February-2008
+organisation: Government of Barbados
+organisation: Ministry of Economic Affairs and Development
+organisation: Telecommunications Unit
+address:      3rd Floor East
+address:      Warrens Complex
+address:      Warrens St. Michael BB12001
+address:      Barbados
 
-Administrative Contact:
-    Name: Mr. Reginald Bourne, Chief Telecommunications Officer
-    Organization: Government of Barbados
-                  Ministry of Economic Affairs and Development
-                  Telecommunications Unit
-    Address1: 3rd Floor East
-    Address2: Warrens Complex
-    Address3: 
-    City: Warrens
-    State/Province: St. Michael
-    Country: Barbados
-    Postal Code: BB12001
-    Phone: +1 246 310 2251
-    Fax: +1 246 620 0960
-    Email: Reginald.Bourne@telecoms.gov.bb
-    Registration Date: 01-January-1985
-    Last Updated Date: 08-July-2010
+contact:      administrative
+name:         Mr. Reginald Bourne, Chief Telecommunications Officer
+organisation: Government of Barbados
+organisation: Ministry of Economic Affairs and Development
+organisation: Telecommunications Unit
+address:      3rd Floor East
+address:      Warrens Complex
+address:      Warrens St. Michael BB12001
+address:      Barbados
+phone:        +1 246 310 2251
+fax-no:       +1 246 620 0960
+e-mail:       Reginald.Bourne@telecoms.gov.bb
 
-Technical Contact:
-    Name: Mr. Winston Devonish, Senior Telecommunications Officer
-    Organization: Government of Barbados
-                  Ministry of Economic Affairs and Development
-                  Telecommunications Unit
-    Address1: 3rd Floor East
-    Address2: Warrens Complex
-    Address3: 
-    City: Warrens
-    State/Province: St. Michael
-    Country: Barbados
-    Postal Code: BB12001
-    Phone: +1 246 310 2220
-    Fax: +1 246 620 0960
-    Email: Winston.devonish@telecoms.gov.bb
-    Registration Date: 01-January-1985
-    Last Updated Date: 08-July-2010
-URL for registration services: http://www.barbadosdomain.net
+contact:      technical
+name:         Mr. Winston Devonish, Senior Telecommunications Officer
+organisation: Government of Barbados
+organisation: Ministry of Economic Affairs and Development
+organisation: Telecommunications Unit
+address:      3rd Floor East
+address:      Warrens Complex
+address:      Warrens St. Michael BB12001
+address:      Barbados
+phone:        +1 246 310 2220
+fax-no:       +1 246 620 0960
+e-mail:       Winston.devonish@telecoms.gov.bb
 
-Nameserver Information:
-    Nameserver: ns1.barbadosdomains.net.
-    IP Address: 200.50.92.195
-    Nameserver: ns2.barbadosdomain.net.
-    IP Address: 204.212.242.113
+nserver:      NS1.BARBADOSDOMAINS.NET 200.50.92.195
+nserver:      NS2.BARBADOSDOMAIN.NET 204.212.242.113
 
-Registration Date: 03-September-1991
-Last Updated Date: 08-July-2010
+remarks:      Registration information: http://www.barbadosdomain.net
+
+created:      1991-09-03
+changed:      2010-07-08
+source:       IANA
+
