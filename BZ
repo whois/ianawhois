@@ -1,70 +1,47 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: bz
-ID: bz
+domain:       BZ
 
-Sponsoring Organization:
-    Name: 
-    Organization: University of Belize
-    Address1: Stann Creek Street Extension
-    Address2: P.O. Box 340
-    Address3: 
-    City: Belmopan
-    State/Province: 
-    Country: Belize
-    Postal Code: 
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 14-September-2009
+organisation: University of Belize
+address:      Stann Creek Street Extension
+address:      P.O. Box 340
+address:      Belmopan
+address:      Belize
 
-Administrative Contact:
-    Name: Juan Carlos Namis
-    Organization: University Management Ltd
-    Address1: 115 Barrack Road
-    Address2: Third Floor
-    Address3: 
-    City: Belize City
-    State/Province: 
-    Country: Belize
-    Postal Code: 
-    Phone: +501 223 1607
-    Fax: +501 223 2242
-    Email: hostmaster@belizenic.bz
-    Registration Date: 01-January-1985
-    Last Updated Date: 14-September-2009
+contact:      administrative
+name:         Juan Carlos Namis
+organisation: University Management Ltd
+address:      115 Barrack Road
+address:      Third Floor
+address:      Belize City
+address:      Belize
+phone:        +501 223 1607
+fax-no:       +501 223 2242
+e-mail:       hostmaster@belizenic.bz
 
-Technical Contact:
-    Name: Juan Carlos Namis
-    Organization: University Management Ltd
-    Address1: 115 Barrack Road
-    Address2: Third Floor
-    Address3: 
-    City: Belize City
-    State/Province: 
-    Country: Belize
-    Postal Code: 
-    Phone: +501 610 5124
-    Fax: +501 223 2242
-    Email: jcnamis@belizenic.bz
-    Registration Date: 01-January-1985
-    Last Updated Date: 14-September-2009
-URL for registration services: http://www.belizenic.bz
+contact:      technical
+name:         Juan Carlos Namis
+organisation: University Management Ltd
+address:      115 Barrack Road
+address:      Third Floor
+address:      Belize City
+address:      Belize
+phone:        +501 610 5124
+fax-no:       +501 223 2242
+e-mail:       jcnamis@belizenic.bz
 
-Nameserver Information:
-    Nameserver: a0.cctld.afilias-nst.info.
-    IP Address: 199.254.59.1 2001:500:25:0:0:0:0:1
-    Nameserver: b0.cctld.afilias-nst.org.
-    IP Address: 199.254.60.1 2001:500:26:0:0:0:0:1
-    Nameserver: c0.cctld.afilias-nst.info.
-    IP Address: 199.254.61.1 2001:500:27:0:0:0:0:1
-    Nameserver: d0.cctld.afilias-nst.org.
-    IP Address: 199.254.62.1 2001:500:28:0:0:0:0:1
-    Nameserver: a2.cctld.afilias-nst.info.
-    IP Address: 199.249.116.1 2001:500:44:0:0:0:0:1
-    Nameserver: b2.cctld.afilias-nst.org.
-    IP Address: 199.249.124.1 2001:500:4c:0:0:0:0:1
+nserver:      A0.CCTLD.AFILIAS-NST.INFO 199.254.59.1 2001:500:25:0:0:0:0:1
+nserver:      A2.CCTLD.AFILIAS-NST.INFO 199.249.116.1 2001:500:44:0:0:0:0:1
+nserver:      B0.CCTLD.AFILIAS-NST.ORG 199.254.60.1 2001:500:26:0:0:0:0:1
+nserver:      B2.CCTLD.AFILIAS-NST.ORG 199.249.124.1 2001:500:4c:0:0:0:0:1
+nserver:      C0.CCTLD.AFILIAS-NST.INFO 199.254.61.1 2001:500:27:0:0:0:0:1
+nserver:      D0.CCTLD.AFILIAS-NST.ORG 199.254.62.1 2001:500:28:0:0:0:0:1
 
-Registration Date: 03-September-1991
-Last Updated Date: 14-September-2009
+remarks:      Registration information: http://www.belizenic.bz
+
+created:      1991-09-03
+changed:      2009-09-14
+source:       IANA
+
