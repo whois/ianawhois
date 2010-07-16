@@ -1,77 +1,49 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: pl
-ID: pl
+domain:       PL
 
-Sponsoring Organization:
-    Name: 
-    Organization: Research and Academic Computer Network
-    Address1: Wawozowa 18
-    Address2: 
-    Address3: 
-    City: Warsaw
-    State/Province: 
-    Country: Poland
-    Postal Code: 02-796
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 14-May-2002
+organisation: Research and Academic Computer Network
+address:      Wawozowa 18
+address:      Warsaw  02-796
+address:      Poland
 
-Administrative Contact:
-    Name: NASK Admin-C
-    Organization: Research and Academic Computer Network
-    Address1: Wawozowa 18
-    Address2: 
-    Address3: 
-    City: Warsaw
-    State/Province: 
-    Country: Poland
-    Postal Code: 02-796
-    Phone: +48 22 380 8200
-    Fax: +48 22 380 8201
-    Email: pl-admin@dns.pl
-    Registration Date: 01-January-1985
-    Last Updated Date: 18-January-2006
+contact:      administrative
+name:         NASK Admin-C
+organisation: Research and Academic Computer Network
+address:      Wawozowa 18
+address:      Warsaw  02-796
+address:      Poland
+phone:        +48 22 380 8200
+fax-no:       +48 22 380 8201
+e-mail:       pl-admin@dns.pl
 
-Technical Contact:
-    Name: NASK Tech-C
-    Organization: Research and Academic Computer Network
-    Address1: Wawozowa 18
-    Address2: 
-    Address3: 
-    City: Warsaw
-    State/Province: 
-    Country: Poland
-    Postal Code: 02-796
-    Phone: +48 22 380 8200
-    Fax: +48 22 380 8201
-    Email: pl-tech@dns.pl
-    Registration Date: 01-January-1985
-    Last Updated Date: 18-January-2006
-URL for registration services: http://www.dns.pl/english/
-Whois Server (port 43): whois.dns.pl
+contact:      technical
+name:         NASK Tech-C
+organisation: Research and Academic Computer Network
+address:      Wawozowa 18
+address:      Warsaw  02-796
+address:      Poland
+phone:        +48 22 380 8200
+fax-no:       +48 22 380 8201
+e-mail:       pl-tech@dns.pl
 
-Nameserver Information:
-    Nameserver: a-dns.pl.
-    IP Address: 195.187.245.44
-    Nameserver: b-dns.pl.
-    IP Address: 80.50.50.10
-    Nameserver: c-dns.pl.
-    IP Address: 195.47.235.226
-    Nameserver: d-dns.pl.
-    IP Address: 213.172.174.70
-    Nameserver: e-dns.pl.
-    IP Address: 195.80.237.162
-    Nameserver: f-dns.pl.
-    IP Address: 217.17.46.189 2001:1a68:0:10:0:0:0:189
-    Nameserver: g-dns.pl.
-    IP Address: 149.156.1.6 2001:6d8:0:1:0:0:a:6
-    Nameserver: h-dns.pl.
-    IP Address: 194.0.1.2 2001:678:4:0:0:0:0:2
-    Nameserver: i-dns.pl.
-    IP Address: 156.154.100.15
+nserver:      A-DNS.PL 195.187.245.44
+nserver:      B-DNS.PL 80.50.50.10
+nserver:      C-DNS.PL 195.47.235.226
+nserver:      D-DNS.PL 213.172.174.70
+nserver:      E-DNS.PL 195.80.237.162
+nserver:      F-DNS.PL 2001:1a68:0:10:0:0:0:189 217.17.46.189
+nserver:      G-DNS.PL 149.156.1.6 2001:6d8:0:1:0:0:a:6
+nserver:      H-DNS.PL 194.0.1.2 2001:678:4:0:0:0:0:2
+nserver:      I-DNS.PL 156.154.100.15
 
-Registration Date: 30-July-1990
-Last Updated Date: 23-November-2009
+whois:        whois.dns.pl
+
+remarks:      Registration information: http://www.dns.pl/english/
+
+created:      1990-07-30
+changed:      2009-11-23
+source:       IANA
+
