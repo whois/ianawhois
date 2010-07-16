@@ -1,70 +1,47 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: gt
-ID: gt
+domain:       GT
 
-Sponsoring Organization:
-    Name: 
-    Organization: Universidad del Valle de Guatemala
-    Address1: 18 Avenida 11-95,
-    Address2: zona 15 Vista Hermosa 3
-    Address3: 
-    City: Guatemala
-    State/Province: 
-    Country: Guatemala
-    Postal Code: 01015
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 11-October-2002
+organisation: Universidad del Valle de Guatemala
+address:      18 Avenida 11-95,
+address:      zona 15 Vista Hermosa 3
+address:      Guatemala  01015
+address:      Guatemala
 
-Administrative Contact:
-    Name: Luis Furlan
-    Organization: Universidad del Valle de Guatemala
-    Address1: 18 avenida 11-95,
-    Address2: zona 15 Vista Hermosa 3
-    Address3: 
-    City: Guatemala
-    State/Province: 
-    Country: Guatemala
-    Postal Code: 01015
-    Phone: (502) 2368-8300
-    Fax: (502) 2369-3452
-    Email: furlan@uvg.edu.gt
-    Registration Date: 01-January-1985
-    Last Updated Date: 09-June-2005
+contact:      administrative
+name:         Luis Furlan
+organisation: Universidad del Valle de Guatemala
+address:      18 avenida 11-95,
+address:      zona 15 Vista Hermosa 3
+address:      Guatemala  01015
+address:      Guatemala
+phone:        (502) 2368-8300
+fax-no:       (502) 2369-3452
+e-mail:       furlan@uvg.edu.gt
 
-Technical Contact:
-    Name: Steve Ortiz
-    Organization: Universidad del Valle de Guatemala
-    Address1: 18 Avenida 11-95,
-    Address2: zona 15 Vista Hermosa 3
-    Address3: 
-    City: Guatemala
-    State/Province: 
-    Country: Guatemala
-    Postal Code: 01015
-    Phone: (502) 2364-0336 through 40
-    Fax: (502) 2369-3452
-    Email: steve@uvg.edu.gt
-    Registration Date: 01-January-1985
-    Last Updated Date: 30-December-2004
-URL for registration services: http://www.gt
+contact:      technical
+name:         Steve Ortiz
+organisation: Universidad del Valle de Guatemala
+address:      18 Avenida 11-95,
+address:      zona 15 Vista Hermosa 3
+address:      Guatemala  01015
+address:      Guatemala
+phone:        (502) 2364-0336 through 40
+fax-no:       (502) 2369-3452
+e-mail:       steve@uvg.edu.gt
 
-Nameserver Information:
-    Nameserver: ns.dns.br.
-    IP Address: 200.160.0.5
-    Nameserver: ns.uvg.edu.gt.
-    IP Address: 200.9.74.2 168.234.68.2 200.35.167.65
-    Nameserver: ns-gt.ripe.net.
-    IP Address: 193.0.12.92 2001:610:240:0:53:cc:12:92
-    Nameserver: osi2.gua.net.
-    IP Address: 205.161.188.3
-    Nameserver: ns3.nic.mx.
-    IP Address: 200.33.111.1
-    Nameserver: dns2.gt.amnetdatos.net.
-    IP Address: 200.30.145.4
+nserver:      DNS2.GT.AMNETDATOS.NET 200.30.145.4
+nserver:      NS-GT.RIPE.NET 193.0.12.92 2001:610:240:0:53:cc:12:92
+nserver:      NS.DNS.BR 200.160.0.5
+nserver:      NS.UVG.EDU.GT 168.234.68.2 200.35.167.65 200.9.74.2
+nserver:      NS3.NIC.MX 200.33.111.1
+nserver:      OSI2.GUA.NET 205.161.188.3
 
-Registration Date: 14-August-1992
-Last Updated Date: 11-August-2008
+remarks:      Registration information: http://www.gt
+
+created:      1992-08-14
+changed:      2008-08-11
+source:       IANA
+
