@@ -1,71 +1,48 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: kz
-ID: kz
+domain:       KZ
 
-Sponsoring Organization:
-    Name: 
-    Organization: Association of IT Companies of Kazakhstan
-    Address1: 6/5 Kabanbai Batyra
-    Address2: Office 3
-    Address3: 
-    City: Astana
-    State/Province: AST
-    Country: Kazakhstan
-    Postal Code: 010000
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 28-February-2008
+organisation: Association of IT Companies of Kazakhstan
+address:      6/5 Kabanbai Batyra
+address:      Office 3
+address:      Astana AST 010000
+address:      Kazakhstan
 
-Administrative Contact:
-    Name: Nurlan Issin
-    Organization: Association of IT Companies of Kazakhstan
-    Address1: 6/5 Kabanbai Batyra
-    Address2: Office 3
-    Address3: 
-    City: Astana
-    State/Province: AST
-    Country: Kazakhstan
-    Postal Code: 010000
-    Phone: +7 (7172) 92-55-52
-    Fax: +7 (7172) 92 54 11
-    Email: info@itk.kz, isin@nit.kz
-    Registration Date: 29-July-2005
-    Last Updated Date: 28-February-2008
+contact:      administrative
+name:         Nurlan Issin
+organisation: Association of IT Companies of Kazakhstan
+address:      6/5 Kabanbai Batyra
+address:      Office 3
+address:      Astana AST 010000
+address:      Kazakhstan
+phone:        +7 (7172) 92-55-52
+fax-no:       +7 (7172) 92 54 11
+e-mail:       info@itk.kz, isin@nit.kz
 
-Technical Contact:
-    Name: Pavel Gusev
-    Organization: KazNIC Organization
-    Address1: Momyshuly, 22
-    Address2: 
-    Address3: 
-    City: Semey
-    State/Province: VKO
-    Country: Kazakhstan
-    Postal Code: 071400
-    Phone: +7 (7222) 52-58-00
-    Fax: +7 (7222) 56-33-64
-    Email: pg@nic.kz
-    Registration Date: 01-January-1985
-    Last Updated Date: 28-February-2008
-URL for registration services: http://www.nic.kz
-Whois Server (port 43): whois.nic.kz
+contact:      technical
+name:         Pavel Gusev
+organisation: KazNIC Organization
+address:      Momyshuly, 22
+address:      Semey VKO 071400
+address:      Kazakhstan
+phone:        +7 (7222) 52-58-00
+fax-no:       +7 (7222) 56-33-64
+e-mail:       pg@nic.kz
 
-Nameserver Information:
-    Nameserver: auth00.ns.uu.net.
-    IP Address: 198.6.1.65
-    Nameserver: ns.nic.kz.
-    IP Address: 75.126.233.106
-    Nameserver: ns.nursat.net.
-    IP Address: 195.82.0.1
-    Nameserver: ns.ru.net.
-    IP Address: 193.124.22.65
-    Nameserver: ns-kz.ripe.net.
-    IP Address: 193.0.12.113 2001:610:240:0:53:cc:12:113
-    Nameserver: ns.spb.ru.
-    IP Address: 193.124.83.69
+nserver:      AUTH00.NS.UU.NET 198.6.1.65
+nserver:      NS-KZ.RIPE.NET 193.0.12.113 2001:610:240:0:53:cc:12:113
+nserver:      NS.NIC.KZ 75.126.233.106
+nserver:      NS.NURSAT.NET 195.82.0.1
+nserver:      NS.RU.NET 193.124.22.65
+nserver:      NS.SPB.RU 193.124.83.69
 
-Registration Date: 19-September-1994
-Last Updated Date: 03-May-2010
+whois:        whois.nic.kz
+
+remarks:      Registration information: http://www.nic.kz
+
+created:      1994-09-19
+changed:      2010-05-03
+source:       IANA
+
