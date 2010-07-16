@@ -1,75 +1,48 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: gg
-ID: gg
+domain:       GG
 
-Sponsoring Organization:
-    Name: 
-    Organization: Island Networks Ltd.
-    Address1: 4 & 5 St. Anne's Walk
-    Address2: 
-    Address3: 
-    City: Alderney
-    State/Province: 
-    Country: Guernsey
-    Postal Code: GY9 3JZ
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 01-January-1985
+organisation: Island Networks Ltd.
+address:      4 & 5 St. Anne's Walk
+address:      Alderney  GY9 3JZ
+address:      Guernsey
 
-Administrative Contact:
-    Name: Nigel Roberts
-    Organization: Nigel Roberts, Chartered Engineer
-    Address1: 4 & 5 St. Anne's Walk
-    Address2: 
-    Address3: 
-    City: Alderney
-    State/Province: 
-    Country: Guernsey
-    Postal Code: GY9 3JZ
-    Phone: +44 1481 822800
-    Fax: +44 870 321 2289
-    Email: hostmaster@iana-contact.gg
-    Registration Date: 01-January-1985
-    Last Updated Date: 26-September-2006
+contact:      administrative
+name:         Nigel Roberts
+organisation: Nigel Roberts, Chartered Engineer
+address:      4 & 5 St. Anne's Walk
+address:      Alderney  GY9 3JZ
+address:      Guernsey
+phone:        +44 1481 822800
+fax-no:       +44 870 321 2289
+e-mail:       hostmaster@iana-contact.gg
 
-Technical Contact:
-    Name: GG-Hostmaster
-    Organization: Island Networks Limited
-    Address1: 4 & 5 St. Anne's Walk
-    Address2: 
-    Address3: 
-    City: Alderney
-    State/Province: Channel Islands
-    Country: Guernsey
-    Postal Code: GY9 3JZ
-    Phone: +44 1481 822800
-    Fax: +44 870 321 2289
-    Email: hostmaster@iana-contact.gg
-    Registration Date: 01-January-1985
-    Last Updated Date: 26-September-2006
-URL for registration services: http://www.channelisles.net/
-Whois Server (port 43): whois.gg
+contact:      technical
+name:         GG-Hostmaster
+organisation: Island Networks Limited
+address:      4 & 5 St. Anne's Walk
+address:      Alderney Channel Islands GY9 3JZ
+address:      Guernsey
+phone:        +44 1481 822800
+fax-no:       +44 870 321 2289
+e-mail:       hostmaster@iana-contact.gg
 
-Nameserver Information:
-    Nameserver: a.ci-servers.net.
-    IP Address: 87.117.196.245
-    Nameserver: b.ci-servers.org.
-    IP Address: 82.103.139.220
-    Nameserver: c.ci-servers.org.
-    IP Address: 194.146.106.86 2001:67c:1010:22:0:0:0:53
-    Nameserver: d.ci-servers.je.
-    IP Address: 193.201.42.178
-    Nameserver: e.ci-servers.je.
-    IP Address: 193.201.42.179
-    Nameserver: f.ci-servers.gg.
-    IP Address: 195.226.128.13
-    Nameserver: ns0.ja.net.
-    IP Address: 128.86.1.20 193.63.94.20 2001:630:0:8:0:0:0:14 2001:630:0:9:0:0:0:14
-    Nameserver: ns99.dns.net.nz.
-    IP Address: 202.46.191.130
+nserver:      A.CI-SERVERS.NET 87.117.196.245
+nserver:      B.CI-SERVERS.ORG 82.103.139.220
+nserver:      C.CI-SERVERS.ORG 194.146.106.86 2001:67c:1010:22:0:0:0:53
+nserver:      D.CI-SERVERS.JE 193.201.42.178
+nserver:      E.CI-SERVERS.JE 193.201.42.179
+nserver:      F.CI-SERVERS.GG 195.226.128.13
+nserver:      NS0.JA.NET 128.86.1.20 193.63.94.20 2001:630:0:8:0:0:0:14 2001:630:0:9:0:0:0:14
+nserver:      NS99.DNS.NET.NZ 202.46.191.130
 
-Registration Date: 07-August-1996
-Last Updated Date: 02-July-2010
+whois:        whois.gg
+
+remarks:      Registration information: http://www.channelisles.net/
+
+created:      1996-08-07
+changed:      2010-07-02
+source:       IANA
+
