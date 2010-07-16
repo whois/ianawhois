@@ -1,66 +1,43 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: mc
-ID: mc
+domain:       MC
 
-Sponsoring Organization:
-    Name: 
-    Organization: Gouvernement de Monaco
-                  Direction des Communications Electroniques
-    Address1: 23, Avenue Albert II
-    Address2: 
-    Address3: 
-    City: Principaute de Monaco
-    State/Province: 
-    Country: Monaco
-    Postal Code: 98000
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 07-June-2010
+organisation: Gouvernement de Monaco
+organisation: Direction des Communications Electroniques
+address:      23, Avenue Albert II
+address:      Principaute de Monaco  98000
+address:      Monaco
 
-Administrative Contact:
-    Name: Laurie Cottalorda
-    Organization: Gouvernement de Monaco
-                  Direction des Communications Electroniques
-    Address1: 23, Avenue Albert II
-    Address2: 
-    Address3: 
-    City: Principaute de Monaco
-    State/Province: 
-    Country: Monaco
-    Postal Code: 98000
-    Phone: +377 98 98 84 39
-    Fax: +377 97 98 56 57
-    Email: lcottalorda@gouv.mc
-    Registration Date: 01-January-1985
-    Last Updated Date: 07-June-2010
+contact:      administrative
+name:         Laurie Cottalorda
+organisation: Gouvernement de Monaco
+organisation: Direction des Communications Electroniques
+address:      23, Avenue Albert II
+address:      Principaute de Monaco  98000
+address:      Monaco
+phone:        +377 98 98 84 39
+fax-no:       +377 97 98 56 57
+e-mail:       lcottalorda@gouv.mc
 
-Technical Contact:
-    Name: Stephane Frasconi
-    Organization: Monaco Telecom
-    Address1: 25, Boulevard de Suisse
-    Address2: 
-    Address3: 
-    City: Principaute de Monaco
-    State/Province: 
-    Country: Monaco
-    Postal Code: 98000
-    Phone: +377 99 66 63 00
-    Fax: +377 99 66 63 01
-    Email: dns@monaco-telecom.mc
-    Registration Date: 01-January-1985
-    Last Updated Date: 07-June-2010
-URL for registration services: http://www.nic.mc/
+contact:      technical
+name:         Stephane Frasconi
+organisation: Monaco Telecom
+address:      25, Boulevard de Suisse
+address:      Principaute de Monaco  98000
+address:      Monaco
+phone:        +377 99 66 63 00
+fax-no:       +377 99 66 63 01
+e-mail:       dns@monaco-telecom.mc
 
-Nameserver Information:
-    Nameserver: ns.nic.mc.
-    IP Address: 195.78.6.131
-    Nameserver: ns-mc.ripe.net.
-    IP Address: 193.0.12.145 2001:610:240:0:53:cc:12:145
-    Nameserver: bow.rain.fr.
-    IP Address: 194.51.3.49
+nserver:      BOW.RAIN.FR 194.51.3.49
+nserver:      NS-MC.RIPE.NET 193.0.12.145 2001:610:240:0:53:cc:12:145
+nserver:      NS.NIC.MC 195.78.6.131
 
-Registration Date: 20-January-1995
-Last Updated Date: 07-June-2010
+remarks:      Registration information: http://www.nic.mc/
+
+created:      1995-01-20
+changed:      2010-06-07
+source:       IANA
+
