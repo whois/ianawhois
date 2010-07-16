@@ -1,68 +1,43 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: lb
-ID: lb
+domain:       LB
 
-Sponsoring Organization:
-    Name: 
-    Organization: American University of Beirut
-                  Computing and Networking Services
-    Address1: Bliss Street
-    Address2: P.O. Box 11.0236
-    Address3: 
-    City: Beirut
-    State/Province: 
-    Country: Lebanon
-    Postal Code: 
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 10-June-2003
+organisation: American University of Beirut
+organisation: Computing and Networking Services
+address:      Bliss Street
+address:      P.O. Box 11.0236
+address:      Beirut
+address:      Lebanon
 
-Administrative Contact:
-    Name: Nabil Bukhalid
-    Organization: American University of Beirut
-                  Computing and Networking Services
-    Address1: Bliss Street
-    Address2: P.O. Box 11.0236
-    Address3: 
-    City: Beirut
-    State/Province: 
-    Country: Lebanon
-    Postal Code: 
-    Phone: +961 1 744 473
-    Fax: +961 1 351 706
-    Email: nabil@aub.edu.lb
-    Registration Date: 01-January-1985
-    Last Updated Date: 10-June-2003
+contact:      administrative
+name:         Nabil Bukhalid
+organisation: American University of Beirut
+organisation: Computing and Networking Services
+address:      Bliss Street
+address:      P.O. Box 11.0236
+address:      Beirut
+address:      Lebanon
+phone:        +961 1 744 473
+fax-no:       +961 1 351 706
+e-mail:       nabil@aub.edu.lb
 
-Technical Contact:
-    Name: Randy Bush
-    Organization: 
-    Address1: PO Box 128
-    Address2: 
-    Address3: 
-    City: Kapa`au
-    State/Province: Hawai`i
-    Country: United States
-    Postal Code: 96755
-    Phone: 
-    Fax: 
-    Email: randy@psg.com
-    Registration Date: 20-September-2005
-    Last Updated Date: 20-September-2005
-URL for registration services: http://www.aub.edu.lb/lbdr
+contact:      technical
+name:         Randy Bush
+address:      PO Box 128
+address:      Kapa`au Hawai`i 96755
+address:      United States
+e-mail:       randy@psg.com
 
-Nameserver Information:
-    Nameserver: rip.psg.com.
-    IP Address: 147.28.0.39 2001:418:1:0:0:0:0:39
-    Nameserver: zeina.aub.edu.lb.
-    IP Address: 193.188.128.14
-    Nameserver: sunic.sunet.se.
-    IP Address: 192.36.125.2 2001:6b0:7:0:0:0:0:2
-    Nameserver: ns1.dns.aq.
-    IP Address: 203.119.56.132
+nserver:      NS1.DNS.AQ 203.119.56.132
+nserver:      RIP.PSG.COM 147.28.0.39 2001:418:1:0:0:0:0:39
+nserver:      SUNIC.SUNET.SE 192.36.125.2 2001:6b0:7:0:0:0:0:2
+nserver:      ZEINA.AUB.EDU.LB 193.188.128.14
 
-Registration Date: 25-August-1993
-Last Updated Date: 26-March-2010
+remarks:      Registration information: http://www.aub.edu.lb/lbdr
+
+created:      1993-08-25
+changed:      2010-03-26
+source:       IANA
+
