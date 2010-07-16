@@ -1,68 +1,46 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: ph
-ID: ph
+domain:       PH
 
-Sponsoring Organization:
-    Name: 
-    Organization: PH Domain Foundation
-    Address1: 27/F Jollibee Plaza
-    Address2: Emerald Ave. Ortigas Center
-    Address3: 
-    City: Pasig
-    State/Province: Metro Manila
-    Country: Philippines
-    Postal Code: 1600
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 02-April-2009
+organisation: PH Domain Foundation
+address:      27/F Jollibee Plaza
+address:      Emerald Ave. Ortigas Center
+address:      Pasig Metro Manila 1600
+address:      Philippines
 
-Administrative Contact:
-    Name: Jose Emmanuel Disini
-    Organization: DotPH
-    Address1: 27/F Jollibee Plaza
-    Address2: Emerald Ave. Ortigas Center
-    Address3: 
-    City: Pasig
-    State/Province: Metro Manila
-    Country: Philippines
-    Postal Code: 1600
-    Phone: +63 (2) 631 2909
-    Fax: +63 (2) 632 7319
-    Email: jed@dot.ph
-    Registration Date: 01-January-1985
-    Last Updated Date: 02-April-2009
+contact:      administrative
+name:         Jose Emmanuel Disini
+organisation: DotPH
+address:      27/F Jollibee Plaza
+address:      Emerald Ave. Ortigas Center
+address:      Pasig Metro Manila 1600
+address:      Philippines
+phone:        +63 (2) 631 2909
+fax-no:       +63 (2) 632 7319
+e-mail:       jed@dot.ph
 
-Technical Contact:
-    Name: Ian Sison
-    Organization: DotPH
-    Address1: 27/F Jollibee Plaza
-    Address2: Emerald Ave. Ortigas Center
-    Address3: 
-    City: Pasig
-    State/Province: Metro Manila
-    Country: Philippines
-    Postal Code: 1600
-    Phone: +63 (2) 637 2104
-    Fax: +63 (2) 632 7319
-    Email: ians@qsr.com.ph
-    Registration Date: 31-March-2009
-    Last Updated Date: 31-March-2009
-URL for registration services: http://dot.ph
+contact:      technical
+name:         Ian Sison
+organisation: DotPH
+address:      27/F Jollibee Plaza
+address:      Emerald Ave. Ortigas Center
+address:      Pasig Metro Manila 1600
+address:      Philippines
+phone:        +63 (2) 637 2104
+fax-no:       +63 (2) 632 7319
+e-mail:       ians@qsr.com.ph
 
-Nameserver Information:
-    Nameserver: sns-pb.isc.org.
-    IP Address: 192.5.4.1 2001:500:2e:0:0:0:0:1
-    Nameserver: ns-ph.ripe.net.
-    IP Address: 193.0.12.174 2001:610:240:0:53:cc:12:174
-    Nameserver: ns2.cuhk.edu.hk.
-    IP Address: 137.189.6.21 2405:3000:3:60:0:0:0:21
-    Nameserver: ph.communitydns.net.
-    IP Address: 194.0.1.23
-    Nameserver: sec3.apnic.net.
-    IP Address: 202.12.28.140 2001:dc0:1:0:4777:0:0:140
+nserver:      NS-PH.RIPE.NET 193.0.12.174 2001:610:240:0:53:cc:12:174
+nserver:      NS2.CUHK.EDU.HK 137.189.6.21 2405:3000:3:60:0:0:0:21
+nserver:      PH.COMMUNITYDNS.NET 194.0.1.23
+nserver:      SEC3.APNIC.NET 2001:dc0:1:0:4777:0:0:140 202.12.28.140
+nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e:0:0:0:0:1
 
-Registration Date: 14-September-1990
-Last Updated Date: 16-December-2009
+remarks:      Registration information: http://dot.ph
+
+created:      1990-09-14
+changed:      2009-12-16
+source:       IANA
+
