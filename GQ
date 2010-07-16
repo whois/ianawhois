@@ -1,66 +1,40 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: gq
-ID: gq
+domain:       GQ
 
-Sponsoring Organization:
-    Name: 
-    Organization: GETESA
-    Address1: A.P. 494
-    Address2: 
-    Address3: 
-    City: Malabo
-    State/Province: 
-    Country: Equatorial Guinea
-    Postal Code: 
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 01-January-1985
+organisation: GETESA
+address:      A.P. 494
+address:      Malabo
+address:      Equatorial Guinea
 
-Administrative Contact:
-    Name: Sebastien Kappel
-    Organization: GETESA
-    Address1: A.P. 494
-    Address2: 
-    Address3: 
-    City: Malabo
-    State/Province: 
-    Country: Equatorial Guinea
-    Postal Code: 
-    Phone: +240222752037
-    Fax: 
-    Email: sebastien.kappel@orange-getesa.gq
-    Registration Date: 01-January-1985
-    Last Updated Date: 24-June-2010
+contact:      administrative
+name:         Sebastien Kappel
+organisation: GETESA
+address:      A.P. 494
+address:      Malabo
+address:      Equatorial Guinea
+phone:        +240222752037
+e-mail:       sebastien.kappel@orange-getesa.gq
 
-Technical Contact:
-    Name: Cedric Cauvel
-    Organization: GETESA
-    Address1: A.P. 494
-    Address2: 
-    Address3: 
-    City: Malabo
-    State/Province: 
-    Country: Equitorial Guinea
-    Postal Code: 
-    Phone: +240222604000
-    Fax: 
-    Email: cedric.cauvel@orange-getesa.gq
-    Registration Date: 01-January-1985
-    Last Updated Date: 24-June-2010
-URL for registration services: http://www.getesa.gq/
+contact:      technical
+name:         Cedric Cauvel
+organisation: GETESA
+address:      A.P. 494
+address:      Malabo
+address:      Equitorial Guinea
+phone:        +240222604000
+e-mail:       cedric.cauvel@orange-getesa.gq
 
-Nameserver Information:
-    Nameserver: bow.intnet.gq.
-    IP Address: 193.251.153.78
-    Nameserver: dns.intnet.gq.
-    IP Address: 193.251.153.67
-    Nameserver: ns.ucad.sn.
-    IP Address: 196.1.95.1
-    Nameserver: phloem.uoregon.edu.
-    IP Address: 128.223.32.35 2001:468:d01:20::80df:2023
+nserver:      BOW.INTNET.GQ 193.251.153.78
+nserver:      DNS.INTNET.GQ 193.251.153.67
+nserver:      NS.UCAD.SN 196.1.95.1
+nserver:      PHLOEM.UOREGON.EDU 128.223.32.35 2001:468:d01:20::80df:2023
 
-Registration Date: 10-July-1997
-Last Updated Date: 02-July-2010
+remarks:      Registration information: http://www.getesa.gq/
+
+created:      1997-07-10
+changed:      2010-07-02
+source:       IANA
+
