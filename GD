@@ -1,67 +1,43 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: gd
-ID: gd
+domain:       GD
 
-Sponsoring Organization:
-    Name: 
-    Organization: The National Telecommunications Regulatory Commission (NTRC)
-    Address1: P.O. Box 854
-    Address2: 
-    Address3: 
-    City: St George's
-    State/Province: 
-    Country: Grenada
-    Postal Code: 
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 21-August-2006
+organisation: The National Telecommunications Regulatory Commission (NTRC)
+address:      P.O. Box 854
+address:      St George's
+address:      Grenada
 
-Administrative Contact:
-    Name: Dr. Linus Spencer Thomas, Chairman
-    Organization: The National Telecommunications Regulatory Commission (NTRC)
-    Address1: P.O. Box 854
-    Address2: 
-    Address3: 
-    City: St. Georges's
-    State/Province: 
-    Country: Grenada
-    Postal Code: 
-    Phone: +1 473 435 6872
-    Fax: +1 473 435 2132
-    Email: sthomas@ectel.int
-    Registration Date: 01-January-1985
-    Last Updated Date: 21-August-2006
+contact:      administrative
+name:         Dr. Linus Spencer Thomas, Chairman
+organisation: The National Telecommunications Regulatory Commission (NTRC)
+address:      P.O. Box 854
+address:      St. Georges's
+address:      Grenada
+phone:        +1 473 435 6872
+fax-no:       +1 473 435 2132
+e-mail:       sthomas@ectel.int
 
-Technical Contact:
-    Name: Registrar
-    Organization: Amaryllis Investments Ltd
-    Address1: c/o 3 Adams Road
-    Address2: 
-    Address3: 
-    City: Cambridge
-    State/Province: 
-    Country: United Kingdom
-    Postal Code: CB3 9AD
-    Phone: +44 1223 353203
-    Fax: 
-    Email: tldwhois@adamsnames.tc
-    Registration Date: 21-August-2006
-    Last Updated Date: 21-August-2006
-URL for registration services: http://www.adamsnames.com
-Whois Server (port 43): whois.adamsnames.com
+contact:      technical
+name:         Registrar
+organisation: Amaryllis Investments Ltd
+address:      c/o 3 Adams Road
+address:      Cambridge  CB3 9AD
+address:      United Kingdom
+phone:        +44 1223 353203
+e-mail:       tldwhois@adamsnames.tc
 
-Nameserver Information:
-    Nameserver: chc1.adamsnames.com.
-    IP Address: 195.153.6.27
-    Nameserver: ns-gd.ripe.net.
-    IP Address: 193.0.12.38
-    Nameserver: qew1.adamsnames.com.
-    IP Address: 82.68.90.198
-    Nameserver: bcn1.adamsnames.com.
-    IP Address: 217.147.94.75
+nserver:      BCN1.ADAMSNAMES.COM 217.147.94.75
+nserver:      CHC1.ADAMSNAMES.COM 195.153.6.27
+nserver:      NS-GD.RIPE.NET 193.0.12.38
+nserver:      QEW1.ADAMSNAMES.COM 82.68.90.198
 
-Registration Date: 03-June-1992
-Last Updated Date: 22-May-2007
+whois:        whois.adamsnames.com
+
+remarks:      Registration information: http://www.adamsnames.com
+
+created:      1992-06-03
+changed:      2007-05-22
+source:       IANA
+
