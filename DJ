@@ -1,62 +1,43 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: dj
-ID: dj
+domain:       DJ
 
-Sponsoring Organization:
-    Name: 
-    Organization: Djibouti Telecom S.A
-    Address1: 3, BD Georges Pompidou
-    Address2: P.O. BOX 2105
-    Address3: 
-    City: Djibouti
-    State/Province: 
-    Country: Djibouti
-    Postal Code: 990000
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 08-March-2010
+organisation: Djibouti Telecom S.A
+address:      3, BD Georges Pompidou
+address:      P.O. BOX 2105
+address:      Djibouti  990000
+address:      Djibouti
 
-Administrative Contact:
-    Name: ADJIB Admin Contact
-    Organization: Djibouti Telecom S.A
-    Address1: 3, BD Georges Pompidou
-    Address2: P.O. BOX 2105
-    Address3: 
-    City: Djibouti
-    State/Province: 
-    Country: Djibouti
-    Postal Code: 990000
-    Phone: 00253 321100
-    Fax: 00253 355757
-    Email: dj-admin@nic.dj
-    Registration Date: 01-January-1985
-    Last Updated Date: 08-March-2010
+contact:      administrative
+name:         ADJIB Admin Contact
+organisation: Djibouti Telecom S.A
+address:      3, BD Georges Pompidou
+address:      P.O. BOX 2105
+address:      Djibouti  990000
+address:      Djibouti
+phone:        00253 321100
+fax-no:       00253 355757
+e-mail:       dj-admin@nic.dj
 
-Technical Contact:
-    Name: ADJIB Tech Contact
-    Organization: Djibouti Telecom S.A
-    Address1: 3, BD Georges Pompidou
-    Address2: P.O. BOX 2105
-    Address3: 
-    City: Djibouti
-    State/Province: 
-    Country: Djibouti
-    Postal Code: 990000
-    Phone: 00253 321306
-    Fax: 00253 300013
-    Email: dj-tech@nic.dj
-    Registration Date: 01-January-1985
-    Last Updated Date: 08-March-2010
-URL for registration services: http://www.nic.dj
+contact:      technical
+name:         ADJIB Tech Contact
+organisation: Djibouti Telecom S.A
+address:      3, BD Georges Pompidou
+address:      P.O. BOX 2105
+address:      Djibouti  990000
+address:      Djibouti
+phone:        00253 321306
+fax-no:       00253 300013
+e-mail:       dj-tech@nic.dj
 
-Nameserver Information:
-    Nameserver: bow.intnet.dj.
-    IP Address: 193.251.143.162
-    Nameserver: bow.rain.fr.
-    IP Address: 194.51.3.49
+nserver:      BOW.INTNET.DJ 193.251.143.162
+nserver:      BOW.RAIN.FR 194.51.3.49
 
-Registration Date: 22-May-1996
-Last Updated Date: 08-March-2010
+remarks:      Registration information: http://www.nic.dj
+
+created:      1996-05-22
+changed:      2010-03-08
+source:       IANA
+
