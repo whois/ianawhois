@@ -1,64 +1,41 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: cd
-ID: cd
+domain:       CD
 
-Sponsoring Organization:
-    Name: 
-    Organization: NIC Congo - Interpoint SARL
-    Address1: Boulevard du Trente Juin
-    Address2: B.P. 8854
-    Address3: 
-    City: Kinshasa
-    State/Province: 
-    Country: Congo
-    Postal Code: 
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 01-January-1985
+organisation: NIC Congo - Interpoint SARL
+address:      Boulevard du Trente Juin
+address:      B.P. 8854
+address:      Kinshasa
+address:      Congo
 
-Administrative Contact:
-    Name: David Kruger
-    Organization: NIC Congo - Interpoint SARL
-    Address1: Boulevard du Trente Juin
-    Address2: B.P. 8854
-    Address3: 
-    City: Kinshasa
-    State/Province: 
-    Country: Democratic Republic of Congo
-    Postal Code: 
-    Phone: +243 12 24 222
-    Fax: 
-    Email: cd-admin@dnsafrica.net
-    Registration Date: 01-January-1985
-    Last Updated Date: 31-October-2005
+contact:      administrative
+name:         David Kruger
+organisation: NIC Congo - Interpoint SARL
+address:      Boulevard du Trente Juin
+address:      B.P. 8854
+address:      Kinshasa
+address:      Democratic Republic of Congo
+phone:        +243 12 24 222
+e-mail:       cd-admin@dnsafrica.net
 
-Technical Contact:
-    Name: Frederic Gregoire
-    Organization: NIC Congo Liaison Office in Switzerland
-                  Interpoint SARL
-    Address1: Case Postale 1336
-    Address2: 
-    Address3: 
-    City: Lausanne
-    State/Province: 
-    Country: Switzerland
-    Postal Code: 1001
-    Phone: +41 44 274 23 80
-    Fax: +41 44 274 23 80
-    Email: frg@dnsafrica.net
-    Registration Date: 01-January-1985
-    Last Updated Date: 31-October-2005
+contact:      technical
+name:         Frederic Gregoire
+organisation: NIC Congo Liaison Office in Switzerland
+organisation: Interpoint SARL
+address:      Case Postale 1336
+address:      Lausanne  1001
+address:      Switzerland
+phone:        +41 44 274 23 80
+fax-no:       +41 44 274 23 80
+e-mail:       frg@dnsafrica.net
 
-Nameserver Information:
-    Nameserver: dns.dnsafrica.net.
-    IP Address: 213.193.157.30
-    Nameserver: dns.princeton.edu.
-    IP Address: 128.112.129.15
-    Nameserver: sunic.sunet.se.
-    IP Address: 192.36.125.2 2001:6b0:7:0:0:0:0:2
+nserver:      DNS.DNSAFRICA.NET 213.193.157.30
+nserver:      DNS.PRINCETON.EDU 128.112.129.15
+nserver:      SUNIC.SUNET.SE 192.36.125.2 2001:6b0:7:0:0:0:0:2
 
-Registration Date: 20-August-1997
-Last Updated Date: 24-September-2008
+created:      1997-08-20
+changed:      2008-09-24
+source:       IANA
+
