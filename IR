@@ -1,65 +1,43 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: ir
-ID: ir
+domain:       IR
 
-Sponsoring Organization:
-    Name: 
-    Organization: Institute for Studies in Theoretical Physics & Mathematics (IPM)
-    Address1: Shahid Bahonar Square
-    Address2: 
-    Address3: 
-    City: Tehran
-    State/Province: 
-    Country: Iran
-    Postal Code: 19548
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 05-September-2006
+organisation: Institute for Studies in Theoretical Physics & Mathematics (IPM)
+address:      Shahid Bahonar Square
+address:      Tehran  19548
+address:      Iran
 
-Administrative Contact:
-    Name: Siavash Shahshahani
-    Organization: Institute for Studies in Theoretical Physics & Mathematics (IPM)
-    Address1: Shahid Bahonar Square
-    Address2: 
-    Address3: 
-    City: Tehran
-    State/Province: 
-    Country: Iran
-    Postal Code: 19548
-    Phone: +98 21 22 82 80 81, ext.113
-    Fax: +98 21 22 29 57 00
-    Email: siavash.shahshahani@irnic.ir
-    Registration Date: 01-January-1985
-    Last Updated Date: 05-September-2006
+contact:      administrative
+name:         Siavash Shahshahani
+organisation: Institute for Studies in Theoretical Physics & Mathematics (IPM)
+address:      Shahid Bahonar Square
+address:      Tehran  19548
+address:      Iran
+phone:        +98 21 22 82 80 81, ext.113
+fax-no:       +98 21 22 29 57 00
+e-mail:       siavash.shahshahani@irnic.ir
 
-Technical Contact:
-    Name: Alireza Saleh
-    Organization: Institute for Studies in Theoretical Physics & Mathematics (IPM)
-    Address1: Shahid Bahonar Square
-    Address2: 
-    Address3: 
-    City: Tehran
-    State/Province: 
-    Country: Iran
-    Postal Code: 19548
-    Phone: +98 21 22 82 80 81, ext.115
-    Fax: +98 21 22 29 57 00
-    Email: alireza.saleh@irnic.ir
-    Registration Date: 01-January-1985
-    Last Updated Date: 05-September-2006
-URL for registration services: http://www.nic.ir
-Whois Server (port 43): whois.nic.ir
+contact:      technical
+name:         Alireza Saleh
+organisation: Institute for Studies in Theoretical Physics & Mathematics (IPM)
+address:      Shahid Bahonar Square
+address:      Tehran  19548
+address:      Iran
+phone:        +98 21 22 82 80 81, ext.115
+fax-no:       +98 21 22 29 57 00
+e-mail:       alireza.saleh@irnic.ir
 
-Nameserver Information:
-    Nameserver: auth02.ns.uu.net.
-    IP Address: 198.6.1.82
-    Nameserver: ns1.nic.ir.
-    IP Address: 194.225.70.83
-    Nameserver: ns5.univie.ac.at.
-    IP Address: 193.171.255.77
+nserver:      AUTH02.NS.UU.NET 198.6.1.82
+nserver:      NS1.NIC.IR 194.225.70.83
+nserver:      NS5.UNIVIE.AC.AT 193.171.255.77
 
-Registration Date: 06-April-1994
-Last Updated Date: 11-November-2008
+whois:        whois.nic.ir
+
+remarks:      Registration information: http://www.nic.ir
+
+created:      1994-04-06
+changed:      2008-11-11
+source:       IANA
+
