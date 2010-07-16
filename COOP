@@ -1,67 +1,47 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: coop
-ID: coop
+domain:       COOP
 
-Sponsoring Organization:
-    Name: 
-    Organization: DotCooperation LLC
-    Address1: 1401 New York Avenue, N.W.
-    Address2: Suite 1100
-    Address3: 
-    City: Washington
-    State/Province: DC
-    Country: United States
-    Postal Code: 20005
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 17-May-2005
+organisation: DotCooperation LLC
+address:      1401 New York Avenue, N.W.
+address:      Suite 1100
+address:      Washington DC 20005
+address:      United States
 
-Administrative Contact:
-    Name: Carolyn Hoover
-    Organization: DotCooperation LLC
-    Address1: 1401 New York Avenue, N.W.
-    Address2: Suite 1100
-    Address3: 
-    City: Washington
-    State/Province: DC
-    Country: United States
-    Postal Code: 20005
-    Phone: +1 202 383 5453
-    Fax: +1 202 347 1968
-    Email: choover@dotcoop.coop
-    Registration Date: 01-January-1985
-    Last Updated Date: 17-May-2005
+contact:      administrative
+name:         Carolyn Hoover
+organisation: DotCooperation LLC
+address:      1401 New York Avenue, N.W.
+address:      Suite 1100
+address:      Washington DC 20005
+address:      United States
+phone:        +1 202 383 5453
+fax-no:       +1 202 347 1968
+e-mail:       choover@dotcoop.coop
 
-Technical Contact:
-    Name: DotCoop Registry Operator
-    Organization: Midcounties Co-operative Domains Ltd
-    Address1: New Barclay House
-    Address2: 234 Botley Road
-    Address3: 
-    City: Oxford
-    State/Province: 
-    Country: United Kingdom
-    Postal Code: OX2 0HP
-    Phone: +44 1865 256 298
-    Fax: +44 1865 792 057
-    Email: epp@nic.coop
-    Registration Date: 01-January-1985
-    Last Updated Date: 10-January-2008
-URL for registration services: http://www.nic.coop
-Whois Server (port 43): whois.nic.coop
+contact:      technical
+name:         DotCoop Registry Operator
+organisation: Midcounties Co-operative Domains Ltd
+address:      New Barclay House
+address:      234 Botley Road
+address:      Oxford  OX2 0HP
+address:      United Kingdom
+phone:        +44 1865 256 298
+fax-no:       +44 1865 792 057
+e-mail:       epp@nic.coop
 
-Nameserver Information:
-    Nameserver: coop1.dyntld.net.
-    IP Address: 208.78.70.80
-    Nameserver: coop2.dyntld.net.
-    IP Address: 204.13.250.80
-    Nameserver: coop3.dyntld.net.
-    IP Address: 208.78.71.80
-    Nameserver: coop4.dyntld.net.
-    IP Address: 204.13.251.80
+nserver:      COOP1.DYNTLD.NET 208.78.70.80
+nserver:      COOP2.DYNTLD.NET 204.13.250.80
+nserver:      COOP3.DYNTLD.NET 208.78.71.80
+nserver:      COOP4.DYNTLD.NET 204.13.251.80
 
-Registration Date: 15-December-2001
-Last Updated Date: 10-January-2008
+whois:        whois.nic.coop
+
+remarks:      Registration information: http://www.nic.coop
+
+created:      2001-12-15
+changed:      2008-01-10
+source:       IANA
+
