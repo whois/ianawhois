@@ -1,69 +1,48 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: ly
-ID: ly
+domain:       LY
 
-Sponsoring Organization:
-    Name: 
-    Organization: General Post and Telecommunication Company
-    Address1: Al Zawia st.
-    Address2: GPTC Tower
-    Address3: 
-    City: Tripoli
-    State/Province: 
-    Country: Libya
-    Postal Code: 
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 22-April-2008
+organisation: General Post and Telecommunication Company
+address:      Al Zawia st.
+address:      GPTC Tower
+address:      Tripoli
+address:      Libya
 
-Administrative Contact:
-    Name: Marwan K. Maghur (LY ccTLD Director)
-    Organization: General Post and Telecommunication Company
-    Address1: Al Zawia st.
-    Address2: GPTC Tower
-    Address3: 
-    City: Tripoli
-    State/Province: 
-    Country: Libya
-    Postal Code: 
-    Phone: +218 91 2123880
-    Fax: +218 21 3614170
-    Email: Marwan@lttnet.com
-    Registration Date: 07-January-2005
-    Last Updated Date: 22-April-2008
+contact:      administrative
+name:         Marwan K. Maghur (LY ccTLD Director)
+organisation: General Post and Telecommunication Company
+address:      Al Zawia st.
+address:      GPTC Tower
+address:      Tripoli
+address:      Libya
+phone:        +218 91 2123880
+fax-no:       +218 21 3614170
+e-mail:       Marwan@lttnet.com
 
-Technical Contact:
-    Name: Khaled Esheh
-    Organization: Libya Telecom and Technology
-    Address1: Alshut Road
-    Address2: P.O. Box 91612
-    Address3: 
-    City: Tripoli
-    State/Province: 
-    Country: Libya
-    Postal Code: 
-    Phone: +218 21 3400020
-    Fax: +218 21 3400039
-    Email: khaleds@lttnet.net
-    Registration Date: 07-January-2005
-    Last Updated Date: 22-April-2008
-URL for registration services: http://www.nic.ly/
-Whois Server (port 43): whois.nic.ly
+contact:      technical
+name:         Khaled Esheh
+organisation: Libya Telecom and Technology
+address:      Alshut Road
+address:      P.O. Box 91612
+address:      Tripoli
+address:      Libya
+phone:        +218 21 3400020
+fax-no:       +218 21 3400039
+e-mail:       khaleds@lttnet.net
 
-Nameserver Information:
-    Nameserver: auth02.ns.uu.net.
-    IP Address: 198.6.1.82
-    Nameserver: dns.lttnet.net.
-    IP Address: 62.240.36.9
-    Nameserver: dns1.lttnet.net.
-    IP Address: 62.68.42.9
-    Nameserver: ns-ly.ripe.net.
-    IP Address: 193.0.12.125
-    Nameserver: phloem.uoregon.edu.
-    IP Address: 128.223.32.35 2001:468:d01:20::80df:2023
+nserver:      AUTH02.NS.UU.NET 198.6.1.82
+nserver:      DNS.LTTNET.NET 62.240.36.9
+nserver:      DNS1.LTTNET.NET 62.68.42.9
+nserver:      NS-LY.RIPE.NET 193.0.12.125
+nserver:      PHLOEM.UOREGON.EDU 128.223.32.35 2001:468:d01:20::80df:2023
 
-Registration Date: 23-April-1997
-Last Updated Date: 22-April-2008
+whois:        whois.nic.ly
+
+remarks:      Registration information: http://www.nic.ly/
+
+created:      1997-04-23
+changed:      2008-04-22
+source:       IANA
+
