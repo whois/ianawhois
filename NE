@@ -1,64 +1,41 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: ne
-ID: ne
+domain:       NE
 
-Sponsoring Organization:
-    Name: 
-    Organization: SONITEL
-    Address1: Rue de l'Uranium
-    Address2: 
-    Address3: 
-    City: Niamey
-    State/Province: 
-    Country: Niger
-    Postal Code: 208
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 08-March-2010
+organisation: SONITEL
+address:      Rue de l'Uranium
+address:      Niamey  208
+address:      Niger
 
-Administrative Contact:
-    Name: Kimba YAYE
-    Organization: SONITEL
-    Address1: Avenue du Général De Gaulle
-    Address2: 
-    Address3: 
-    City: Niamey
-    State/Province: 
-    Country: Niger
-    Postal Code: 208
-    Phone: +227 20 72 21 80
-    Fax: +227 20 73 58 12
-    Email: kimba.yaye@sonitel.ne
-    Registration Date: 01-January-1985
-    Last Updated Date: 08-March-2010
+contact:      administrative
+name:         Kimba YAYE
+organisation: SONITEL
+address:      Avenue du GÃ©nÃ©ral De Gaulle
+address:      Niamey  208
+address:      Niger
+phone:        +227 20 72 21 80
+fax-no:       +227 20 73 58 12
+e-mail:       kimba.yaye@sonitel.ne
 
-Technical Contact:
-    Name: Sadou SOLOKE
-    Organization: SONITEL
-    Address1: Avenue du Général De Gaulle
-    Address2: 
-    Address3: 
-    City: Niamey
-    State/Province: 
-    Country: Niger
-    Postal Code: 208
-    Phone: +227 20 72 69 67
-    Fax: +227 20 72 58 12
-    Email: sadou.soloke@sonitel.ne
-    Registration Date: 01-January-1985
-    Last Updated Date: 08-March-2010
-URL for registration services: http://www.intnet.ne
+contact:      technical
+name:         Sadou SOLOKE
+organisation: SONITEL
+address:      Avenue du GÃ©nÃ©ral De Gaulle
+address:      Niamey  208
+address:      Niger
+phone:        +227 20 72 69 67
+fax-no:       +227 20 72 58 12
+e-mail:       sadou.soloke@sonitel.ne
 
-Nameserver Information:
-    Nameserver: bow.rain.fr.
-    IP Address: 194.51.3.49
-    Nameserver: ns.intnet.ne.
-    IP Address: 193.251.228.10
-    Nameserver: ns-ne.ripe.net.
-    IP Address: 193.0.12.160
+nserver:      BOW.RAIN.FR 194.51.3.49
+nserver:      NS-NE.RIPE.NET 193.0.12.160
+nserver:      NS.INTNET.NE 193.251.228.10
 
-Registration Date: 24-April-1996
-Last Updated Date: 08-March-2010
+remarks:      Registration information: http://www.intnet.ne
+
+created:      1996-04-24
+changed:      2010-03-08
+source:       IANA
+
