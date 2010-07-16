@@ -1,70 +1,43 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: ky
-ID: ky
+domain:       KY
 
-Sponsoring Organization:
-    Name: 
-    Organization: The Information and Communications Technology Authority
-    Address1: P.O. Box 2502
-    Address2: 
-    Address3: 
-    City: Grand Cayman
-    State/Province: 
-    Country: Cayman Islands
-    Postal Code: KY1-1104
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 15-May-2008
+organisation: The Information and Communications Technology Authority
+address:      P.O. Box 2502
+address:      Grand Cayman  KY1-1104
+address:      Cayman Islands
 
-Administrative Contact:
-    Name: David A. Archbold
-    Organization: The Information and Communications Technology Authority
-    Address1: P.O. Box 2502
-    Address2: 
-    Address3: 
-    City: Grand Cayman
-    State/Province: 
-    Country: Cayman Islands
-    Postal Code: KY1-1104
-    Phone: +1 345 946 4282
-    Fax: +1 345 945 8284
-    Email: david.archbold@icta.ky
-    Registration Date: 01-January-1985
-    Last Updated Date: 15-May-2008
+contact:      administrative
+name:         David A. Archbold
+organisation: The Information and Communications Technology Authority
+address:      P.O. Box 2502
+address:      Grand Cayman  KY1-1104
+address:      Cayman Islands
+phone:        +1 345 946 4282
+fax-no:       +1 345 945 8284
+e-mail:       david.archbold@icta.ky
 
-Technical Contact:
-    Name: Stephen Bernacki
-    Organization: Perimeter eSecurity
-    Address1: 440 Wheelers Farms Road #202
-    Address2: 
-    Address3: 
-    City: Milford
-    State/Province: Connecticut
-    Country: United States
-    Postal Code: 06461
-    Phone: +1 800 234 2175
-    Fax: 
-    Email: kysupport@perimeterusa.com
-    Registration Date: 01-January-1985
-    Last Updated Date: 15-May-2008
-URL for registration services: http://www.nic.ky
+contact:      technical
+name:         Stephen Bernacki
+organisation: Perimeter eSecurity
+address:      440 Wheelers Farms Road #202
+address:      Milford Connecticut 06461
+address:      United States
+phone:        +1 800 234 2175
+e-mail:       kysupport@perimeterusa.com
 
-Nameserver Information:
-    Nameserver: kynse01.perimeterusa.com.
-    IP Address: 216.54.168.26
-    Nameserver: kynsw01.perimeterusa.com.
-    IP Address: 165.212.160.15
-    Nameserver: kynse02.perimeterusa.com.
-    IP Address: 216.54.168.27
-    Nameserver: kynsw02.perimeterusa.com.
-    IP Address: 165.212.160.16
-    Nameserver: kynse03.perimeterusa.com.
-    IP Address: 216.54.168.28
-    Nameserver: kynsw03.perimeterusa.com.
-    IP Address: 165.212.160.17
+nserver:      KYNSE01.PERIMETERUSA.COM 216.54.168.26
+nserver:      KYNSE02.PERIMETERUSA.COM 216.54.168.27
+nserver:      KYNSE03.PERIMETERUSA.COM 216.54.168.28
+nserver:      KYNSW01.PERIMETERUSA.COM 165.212.160.15
+nserver:      KYNSW02.PERIMETERUSA.COM 165.212.160.16
+nserver:      KYNSW03.PERIMETERUSA.COM 165.212.160.17
 
-Registration Date: 03-May-1995
-Last Updated Date: 19-May-2008
+remarks:      Registration information: http://www.nic.ky
+
+created:      1995-05-03
+changed:      2008-05-19
+source:       IANA
+
