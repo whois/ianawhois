@@ -1,70 +1,44 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: by
-ID: by
+domain:       BY
 
-Sponsoring Organization:
-    Name: 
-    Organization: Open Contact Ltd.
-    Address1: 17 Kalvarijskaja Str.
-    Address2: 
-    Address3: 
-    City: Minsk
-    State/Province: 
-    Country: Belarus
-    Postal Code: 220004
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 20-March-2009
+organisation: Open Contact Ltd.
+address:      17 Kalvarijskaja Str.
+address:      Minsk  220004
+address:      Belarus
 
-Administrative Contact:
-    Name: Sergey Prokopov
-    Organization: The Operative Analytical Center of the Republic of Belarus
-    Address1: 17 Kalvarijskaja Str.
-    Address2: 
-    Address3: 
-    City: Minsk
-    State/Province: 
-    Country: Belarus
-    Postal Code: 220004
-    Phone: +375 17 2035967
-    Fax: +375 17 2893180
-    Email: admin-c@tld.by
-    Registration Date: 01-January-1985
-    Last Updated Date: 20-March-2009
+contact:      administrative
+name:         Sergey Prokopov
+organisation: The Operative Analytical Center of the Republic of Belarus
+address:      17 Kalvarijskaja Str.
+address:      Minsk  220004
+address:      Belarus
+phone:        +375 17 2035967
+fax-no:       +375 17 2893180
+e-mail:       admin-c@tld.by
 
-Technical Contact:
-    Name: Andrey Ivanov
-    Organization: Open Contact Ltd.
-    Address1: 17 Kalvarijskaja Str.
-    Address2: 
-    Address3: 
-    City: Minsk
-    State/Province: 
-    Country: Belarus
-    Postal Code: 220004
-    Phone: +375 17 211 0121
-    Fax: +375 17 211 0122
-    Email: tech-c@tld.by
-    Registration Date: 01-January-1985
-    Last Updated Date: 20-March-2009
-URL for registration services: http://cctld.by
+contact:      technical
+name:         Andrey Ivanov
+organisation: Open Contact Ltd.
+address:      17 Kalvarijskaja Str.
+address:      Minsk  220004
+address:      Belarus
+phone:        +375 17 211 0121
+fax-no:       +375 17 211 0122
+e-mail:       tech-c@tld.by
 
-Nameserver Information:
-    Nameserver: arwena.nask.waw.pl.
-    IP Address: 193.59.201.28
-    Nameserver: dns.belpak.by.
-    IP Address: 193.232.248.45
-    Nameserver: ns.ru.net.
-    IP Address: 193.124.22.65
-    Nameserver: ns1.open.by.
-    IP Address: 193.232.92.1
-    Nameserver: ns2.free.net.
-    IP Address: 193.233.1.67 2001:640:1:1:0:0:0:67
-    Nameserver: ns-by.ripe.net.
-    IP Address: 193.0.12.21
+nserver:      ARWENA.NASK.WAW.PL 193.59.201.28
+nserver:      DNS.BELPAK.BY 193.232.248.45
+nserver:      NS-BY.RIPE.NET 193.0.12.21
+nserver:      NS.RU.NET 193.124.22.65
+nserver:      NS1.OPEN.BY 193.232.92.1
+nserver:      NS2.FREE.NET 193.233.1.67 2001:640:1:1:0:0:0:67
 
-Registration Date: 10-May-1994
-Last Updated Date: 15-February-2010
+remarks:      Registration information: http://cctld.by
+
+created:      1994-05-10
+changed:      2010-02-15
+source:       IANA
+
