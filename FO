@@ -1,62 +1,40 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: fo
-ID: fo
+domain:       FO
 
-Sponsoring Organization:
-    Name: 
-    Organization: FO Council
-    Address1: Hoydalsvegur 19
-    Address2: 
-    Address3: 
-    City: Torshavn
-    State/Province: FO
-    Country: Faroe Islands
-    Postal Code: 100
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 04-December-2009
+organisation: FO Council
+address:      Hoydalsvegur 19
+address:      Torshavn FO 100
+address:      Faroe Islands
 
-Administrative Contact:
-    Name: Isak N. Jacobsen
-    Organization: FO Council
-    Address1: Hoydalsvegur 19, P.O. Box 1255
-    Address2: 
-    Address3: 
-    City: Torshavn
-    State/Province: FO
-    Country: Faroe Islands
-    Postal Code: 110
-    Phone: +298 322 400
-    Fax: +298 322 401
-    Email: nic@nic.fo
-    Registration Date: 01-January-1985
-    Last Updated Date: 04-December-2009
+contact:      administrative
+name:         Isak N. Jacobsen
+organisation: FO Council
+address:      Hoydalsvegur 19, P.O. Box 1255
+address:      Torshavn FO 110
+address:      Faroe Islands
+phone:        +298 322 400
+fax-no:       +298 322 401
+e-mail:       nic@nic.fo
 
-Technical Contact:
-    Name: FO-Umsitingin
-    Organization: FO-Umsitingin
-    Address1: Hoydalsvegur 19, P.O. Box 1255
-    Address2: 
-    Address3: 
-    City: Torshavn
-    State/Province: FO
-    Country: Faroe Islands
-    Postal Code: 110
-    Phone: +298 322 400
-    Fax: +298 322 401
-    Email: nic@nic.fo
-    Registration Date: 01-January-1985
-    Last Updated Date: 04-December-2009
-URL for registration services: http://www.nic.fo/
+contact:      technical
+name:         FO-Umsitingin
+organisation: FO-Umsitingin
+address:      Hoydalsvegur 19, P.O. Box 1255
+address:      Torshavn FO 110
+address:      Faroe Islands
+phone:        +298 322 400
+fax-no:       +298 322 401
+e-mail:       nic@nic.fo
 
-Nameserver Information:
-    Nameserver: copenhagen.nic.fo.
-    IP Address: 193.163.102.12
-    Nameserver: frankfurt.nic.fo.
-    IP Address: 81.91.161.88
+nserver:      COPENHAGEN.NIC.FO 193.163.102.12
+nserver:      FRANKFURT.NIC.FO 81.91.161.88
 
-Registration Date: 14-May-1993
-Last Updated Date: 04-December-2009
+remarks:      Registration information: http://www.nic.fo/
+
+created:      1993-05-14
+changed:      2009-12-04
+source:       IANA
+
