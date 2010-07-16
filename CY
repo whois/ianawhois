@@ -1,74 +1,46 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: cy
-ID: cy
+domain:       CY
 
-Sponsoring Organization:
-    Name: 
-    Organization: University of Cyprus
-    Address1: 75 Kallipoleos Street
-    Address2: 
-    Address3: 
-    City: Nicosia
-    State/Province: 
-    Country: Cyprus
-    Postal Code: 1678
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 01-January-1985
+organisation: University of Cyprus
+address:      75 Kallipoleos Street
+address:      Nicosia  1678
+address:      Cyprus
 
-Administrative Contact:
-    Name: Agathoclis Stylianou
-    Organization: University of Cyprus
-    Address1: 75 Kallipoleos Street
-    Address2: 
-    Address3: 
-    City: Nicosia
-    State/Province: 
-    Country: Cyprus
-    Postal Code: 1678
-    Phone: +357 22 892131
-    Fax: +357 22 756082
-    Email: stylianou.agathoclis@ucy.ac.cy
-    Registration Date: 01-January-1985
-    Last Updated Date: 09-December-2008
+contact:      administrative
+name:         Agathoclis Stylianou
+organisation: University of Cyprus
+address:      75 Kallipoleos Street
+address:      Nicosia  1678
+address:      Cyprus
+phone:        +357 22 892131
+fax-no:       +357 22 756082
+e-mail:       stylianou.agathoclis@ucy.ac.cy
 
-Technical Contact:
-    Name: Panaretou Sotiris
-    Organization: University of Cyprus
-    Address1: 75 Kallipoleos Street
-    Address2: 
-    Address3: 
-    City: Nicosia
-    State/Province: 
-    Country: Cyprus
-    Postal Code: 1678
-    Phone: +357 22 892165
-    Fax: +357 22 892155
-    Email: panaretou.sotiris@ucy.ac.cy
-    Registration Date: 01-January-1985
-    Last Updated Date: 09-December-2008
-URL for registration services: http://www.nic.cy
+contact:      technical
+name:         Panaretou Sotiris
+organisation: University of Cyprus
+address:      75 Kallipoleos Street
+address:      Nicosia  1678
+address:      Cyprus
+phone:        +357 22 892165
+fax-no:       +357 22 892155
+e-mail:       panaretou.sotiris@ucy.ac.cy
 
-Nameserver Information:
-    Nameserver: cynic.dns.cy.
-    IP Address: 194.42.29.1
-    Nameserver: estia.ics.forth.gr.
-    IP Address: 139.91.191.3 2001:648:2c30::191:3
-    Nameserver: ns02.savvis.net.
-    IP Address: 204.70.57.242
-    Nameserver: ns2.cc.ucy.ac.cy.
-    IP Address: 194.42.1.5
-    Nameserver: zeus.cc.ucy.ac.cy.
-    IP Address: 194.42.1.1
-    Nameserver: ns1.mt.
-    IP Address: 193.188.34.241
-    Nameserver: sec3.apnic.net.
-    IP Address: 202.12.28.140 2001:dc0:1:0:4777:0:0:140
-    Nameserver: cy-ns.anycast.pch.net.
-    IP Address: 204.61.216.44
+nserver:      CY-NS.ANYCAST.PCH.NET 204.61.216.44
+nserver:      CYNIC.DNS.CY 194.42.29.1
+nserver:      ESTIA.ICS.FORTH.GR 139.91.191.3 2001:648:2c30::191:3
+nserver:      NS02.SAVVIS.NET 204.70.57.242
+nserver:      NS1.MT 193.188.34.241
+nserver:      NS2.CC.UCY.AC.CY 194.42.1.5
+nserver:      SEC3.APNIC.NET 2001:dc0:1:0:4777:0:0:140 202.12.28.140
+nserver:      ZEUS.CC.UCY.AC.CY 194.42.1.1
 
-Registration Date: 26-July-1994
-Last Updated Date: 09-December-2008
+remarks:      Registration information: http://www.nic.cy
+
+created:      1994-07-26
+changed:      2008-12-09
+source:       IANA
+
