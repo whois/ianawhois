@@ -1,74 +1,49 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: lt
-ID: lt
+domain:       LT
 
-Sponsoring Organization:
-    Name: 
-    Organization: Kaunas University of Technology
-                  Information Technology Development Institute
-    Address1: Studentu 48a
-    Address2: 
-    Address3: 
-    City: Kaunas
-    State/Province: 
-    Country: Lithuania
-    Postal Code: LT-51367
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 12-May-2005
+organisation: Kaunas University of Technology
+organisation: Information Technology Development Institute
+address:      Studentu 48a
+address:      Kaunas  LT-51367
+address:      Lithuania
 
-Administrative Contact:
-    Name: Daiva Tamulioniene
-    Organization: Kaunas University of Technology
-                  Information Technology Development Institute
-    Address1: Studentu 48a
-    Address2: 
-    Address3: 
-    City: Kaunas
-    State/Province: 
-    Country: Lithuania
-    Postal Code: LT-51367
-    Phone: +370 37 300736
-    Fax: +370 37 300643
-    Email: daiva@litnet.lt
-    Registration Date: 01-January-1985
-    Last Updated Date: 12-May-2005
+contact:      administrative
+name:         Daiva Tamulioniene
+organisation: Kaunas University of Technology
+organisation: Information Technology Development Institute
+address:      Studentu 48a
+address:      Kaunas  LT-51367
+address:      Lithuania
+phone:        +370 37 300736
+fax-no:       +370 37 300643
+e-mail:       daiva@litnet.lt
 
-Technical Contact:
-    Name: Tomas Mackus
-    Organization: Kaunas University of Technology
-                  Information Technology Development Institute
-    Address1: Studentu 48a
-    Address2: 
-    Address3: 
-    City: Kaunas
-    State/Province: 
-    Country: Lithuania
-    Postal Code: LT-51367
-    Phone: +370 37 353325
-    Fax: +370 37300643
-    Email: hostmaster@litnet.lt
-    Registration Date: 01-January-1985
-    Last Updated Date: 12-May-2005
-URL for registration services: http://www.domreg.lt
-Whois Server (port 43): whois.domreg.lt
+contact:      technical
+name:         Tomas Mackus
+organisation: Kaunas University of Technology
+organisation: Information Technology Development Institute
+address:      Studentu 48a
+address:      Kaunas  LT-51367
+address:      Lithuania
+phone:        +370 37 353325
+fax-no:       +370 37300643
+e-mail:       hostmaster@litnet.lt
 
-Nameserver Information:
-    Nameserver: nn.uninett.no.
-    IP Address: 158.38.0.181
-    Nameserver: sunic.sunet.se.
-    IP Address: 192.36.125.2 2001:6b0:7:0:0:0:0:2
-    Nameserver: a.tld.lt.
-    IP Address: 193.219.32.13
-    Nameserver: c.tld.lt.
-    IP Address: 194.0.1.4
-    Nameserver: d.tld.lt.
-    IP Address: 194.0.3.1 2001:678:6::1
-    Nameserver: e.tld.lt.
-    IP Address: 195.182.72.234
+nserver:      A.TLD.LT 193.219.32.13
+nserver:      C.TLD.LT 194.0.1.4
+nserver:      D.TLD.LT 194.0.3.1 2001:678:6::1
+nserver:      E.TLD.LT 195.182.72.234
+nserver:      NN.UNINETT.NO 158.38.0.181
+nserver:      SUNIC.SUNET.SE 192.36.125.2 2001:6b0:7:0:0:0:0:2
 
-Registration Date: 03-June-1992
-Last Updated Date: 31-August-2009
+whois:        whois.domreg.lt
+
+remarks:      Registration information: http://www.domreg.lt
+
+created:      1992-06-03
+changed:      2009-08-31
+source:       IANA
+
