@@ -1,73 +1,47 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: nl
-ID: nl
+domain:       NL
 
-Sponsoring Organization:
-    Name: 
-    Organization: Stichting Internet Domeinregistratie Nederland
-    Address1: P.O. Box 5022
-    Address2: 
-    Address3: 
-    City: Arnhem
-    State/Province: 
-    Country: The Netherlands
-    Postal Code: 6802 EA
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 02-December-2003
+organisation: Stichting Internet Domeinregistratie Nederland
+address:      P.O. Box 5022
+address:      Arnhem  6802 EA
+address:      The Netherlands
 
-Administrative Contact:
-    Name: Managing Director
-    Organization: Stichting Internet Domeinregistratie Nederland
-    Address1: P.O. Box 5022
-    Address2: 
-    Address3: 
-    City: Arnhem
-    State/Province: 
-    Country: The Netherlands
-    Postal Code: 6802 EA
-    Phone: +31 26 3525500
-    Fax: +31 26 3525505
-    Email: admin@sidn.nl
-    Registration Date: 01-January-1985
-    Last Updated Date: 05-April-2007
+contact:      administrative
+name:         Managing Director
+organisation: Stichting Internet Domeinregistratie Nederland
+address:      P.O. Box 5022
+address:      Arnhem  6802 EA
+address:      The Netherlands
+phone:        +31 26 3525500
+fax-no:       +31 26 3525505
+e-mail:       admin@sidn.nl
 
-Technical Contact:
-    Name: Manager ICT
-    Organization: Stichting Internet Domeinregistratie Nederland
-    Address1: P.O. Box 5022
-    Address2: 
-    Address3: 
-    City: Arnhem
-    State/Province: 
-    Country: The Netherlands
-    Postal Code: 6802 EA
-    Phone: +31 26 3525599
-    Fax: +31 26 3525550
-    Email: tech@sidn.nl
-    Registration Date: 01-January-1985
-    Last Updated Date: 05-April-2007
-URL for registration services: http://www.domain-registry.nl/
-Whois Server (port 43): whois.domain-registry.nl
+contact:      technical
+name:         Manager ICT
+organisation: Stichting Internet Domeinregistratie Nederland
+address:      P.O. Box 5022
+address:      Arnhem  6802 EA
+address:      The Netherlands
+phone:        +31 26 3525599
+fax-no:       +31 26 3525550
+e-mail:       tech@sidn.nl
 
-Nameserver Information:
-    Nameserver: ns1.nic.nl.
-    IP Address: 193.176.144.2 2a00:d78:0:102:193:176:144:2
-    Nameserver: nl1.dnsnode.net.
-    IP Address: 194.146.106.42
-    Nameserver: ns3.nic.nl.
-    IP Address: 194.171.17.2 2001:610:0:800d:0:0:0:2
-    Nameserver: ns2.nic.nl.
-    IP Address: 213.154.241.28 2001:7b8:606:0:0:0:0:28
-    Nameserver: ns-nl.nic.fr.
-    IP Address: 192.93.0.4 2001:660:3005:1:0:0:1:2
-    Nameserver: ns4.nic.nl.
-    IP Address: 62.4.86.232
-    Nameserver: sns-pb.isc.org.
-    IP Address: 192.5.4.1 2001:500:2e:0:0:0:0:1
+nserver:      NL1.DNSNODE.NET 194.146.106.42
+nserver:      NS-NL.NIC.FR 192.93.0.4 2001:660:3005:1:0:0:1:2
+nserver:      NS1.NIC.NL 193.176.144.2 2a00:d78:0:102:193:176:144:2
+nserver:      NS2.NIC.NL 2001:7b8:606:0:0:0:0:28 213.154.241.28
+nserver:      NS3.NIC.NL 194.171.17.2 2001:610:0:800d:0:0:0:2
+nserver:      NS4.NIC.NL 62.4.86.232
+nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e:0:0:0:0:1
 
-Registration Date: 25-April-1986
-Last Updated Date: 09-March-2010
+whois:        whois.domain-registry.nl
+
+remarks:      Registration information: http://www.domain-registry.nl/
+
+created:      1986-04-25
+changed:      2010-03-09
+source:       IANA
+
