@@ -1,71 +1,49 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: hn
-ID: hn
+domain:       HN
 
-Sponsoring Organization:
-    Name: 
-    Organization: Red de Desarrollo Sostenible Honduras
-    Address1: Col. Las Colinas, Bloque RR, Casa 2016
-    Address2: Boulevard Francia
-    Address3: 
-    City: Tegucigalpa
-    State/Province: Francisco Moraz·n
-    Country: Honduras
-    Postal Code: 4959
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 27-January-2010
+organisation: Red de Desarrollo Sostenible Honduras
+address:      Col. Las Colinas, Bloque RR, Casa 2016
+address:      Boulevard Francia
+address:      Tegucigalpa Francisco Moraz√°n 4959
+address:      Honduras
 
-Administrative Contact:
-    Name: Maria Raquel Isaula Peralta
-    Organization: Red de Desarrollo Sostenible Honduras
-    Address1: Col. Las Colinas, Bloque RR, Casa 2016
-    Address2: Boulevard Francia
-    Address3: 
-    City: Tegucigalpa
-    State/Province: Francisco Moraz·n
-    Country: Honduras
-    Postal Code: 4959
-    Phone: +504 2235 4141/42/43/44/45
-    Fax: +504 235 5721
-    Email: raquel@rds.org.hn
-    Registration Date: 01-January-1985
-    Last Updated Date: 27-January-2010
+contact:      administrative
+name:         Maria Raquel Isaula Peralta
+organisation: Red de Desarrollo Sostenible Honduras
+address:      Col. Las Colinas, Bloque RR, Casa 2016
+address:      Boulevard Francia
+address:      Tegucigalpa Francisco Moraz√°n 4959
+address:      Honduras
+phone:        +504 2235 4141/42/43/44/45
+fax-no:       +504 235 5721
+e-mail:       raquel@rds.org.hn
 
-Technical Contact:
-    Name: Diana Lezama
-    Organization: Red de Desarrollo Sostenible Honduras
-    Address1: Col. Las Colinas, Bloque RR, Casa 2016
-    Address2: Boulevard Francia
-    Address3: 
-    City: Tegucigalpa
-    State/Province: Francisco Moraz·n
-    Country: Honduras
-    Postal Code: 4959
-    Phone: +504 2235 4141/42/43/44/45
-    Fax: +504 235 5721
-    Email: diana@rds.org.hn
-    Registration Date: 01-January-1985
-    Last Updated Date: 27-January-2010
-URL for registration services: http://www.nic.hn
-Whois Server (port 43): whois2.afilias-grs.net
+contact:      technical
+name:         Diana Lezama
+organisation: Red de Desarrollo Sostenible Honduras
+address:      Col. Las Colinas, Bloque RR, Casa 2016
+address:      Boulevard Francia
+address:      Tegucigalpa Francisco Moraz√°n 4959
+address:      Honduras
+phone:        +504 2235 4141/42/43/44/45
+fax-no:       +504 235 5721
+e-mail:       diana@rds.org.hn
 
-Nameserver Information:
-    Nameserver: a0.cctld.afilias-nst.info.
-    IP Address: 199.254.59.1 2001:500:25:0:0:0:0:1
-    Nameserver: b0.cctld.afilias-nst.org.
-    IP Address: 199.254.60.1 2001:500:26:0:0:0:0:1
-    Nameserver: c0.cctld.afilias-nst.info.
-    IP Address: 199.254.61.1 2001:500:27:0:0:0:0:1
-    Nameserver: d0.cctld.afilias-nst.org.
-    IP Address: 199.254.62.1 2001:500:28:0:0:0:0:1
-    Nameserver: a2.cctld.afilias-nst.info.
-    IP Address: 199.249.116.1 2001:500:44:0:0:0:0:1
-    Nameserver: b2.cctld.afilias-nst.org.
-    IP Address: 199.249.124.1 2001:500:4c:0:0:0:0:1
+nserver:      A0.CCTLD.AFILIAS-NST.INFO 199.254.59.1 2001:500:25:0:0:0:0:1
+nserver:      A2.CCTLD.AFILIAS-NST.INFO 199.249.116.1 2001:500:44:0:0:0:0:1
+nserver:      B0.CCTLD.AFILIAS-NST.ORG 199.254.60.1 2001:500:26:0:0:0:0:1
+nserver:      B2.CCTLD.AFILIAS-NST.ORG 199.249.124.1 2001:500:4c:0:0:0:0:1
+nserver:      C0.CCTLD.AFILIAS-NST.INFO 199.254.61.1 2001:500:27:0:0:0:0:1
+nserver:      D0.CCTLD.AFILIAS-NST.ORG 199.254.62.1 2001:500:28:0:0:0:0:1
 
-Registration Date: 16-April-1993
-Last Updated Date: 27-January-2010
+whois:        whois2.afilias-grs.net
+
+remarks:      Registration information: http://www.nic.hn
+
+created:      1993-04-16
+changed:      2010-01-27
+source:       IANA
+
