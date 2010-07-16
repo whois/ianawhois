@@ -1,71 +1,49 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: ma
-ID: ma
+domain:       MA
 
-Sponsoring Organization:
-    Name: 
-    Organization: Agence Nationale de Réglementation des Télécommunications (ANRT)
-    Address1: Avenue Ennakhil, Complexe d'Affaires
-    Address2: Aile Sud , Hay Ryad
-    Address3: 
-    City: Rabat
-    State/Province: 
-    Country: Morocco
-    Postal Code: 10100
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 04-December-2006
+organisation: Agence Nationale de RÃ©glementation des TÃ©lÃ©communications (ANRT)
+address:      Avenue Ennakhil, Complexe d'Affaires
+address:      Aile Sud , Hay Ryad
+address:      Rabat  10100
+address:      Morocco
 
-Administrative Contact:
-    Name: General Director
-    Organization: Agence Nationale de Réglementation des Télécommunications (ANRT)
-    Address1: Avenue Ennakhil, Complexe d'Affaires
-    Address2: Aile Sud , Hay Ryad
-    Address3: 
-    City: Rabat
-    State/Province: 
-    Country: Morocco
-    Postal Code: 10100
-    Phone: +212 537 71 84 00
-    Fax: +212 537 71 64 89
-    Email: ma@anrt.ma
-    Registration Date: 01-January-1985
-    Last Updated Date: 07-December-2009
+contact:      administrative
+name:         General Director
+organisation: Agence Nationale de RÃ©glementation des TÃ©lÃ©communications (ANRT)
+address:      Avenue Ennakhil, Complexe d'Affaires
+address:      Aile Sud , Hay Ryad
+address:      Rabat  10100
+address:      Morocco
+phone:        +212 537 71 84 00
+fax-no:       +212 537 71 64 89
+e-mail:       ma@anrt.ma
 
-Technical Contact:
-    Name: General Director
-    Organization: Agence Nationale de Réglementation des Télécommunications (ANRT)
-    Address1: Avenue Ennakhil, Complexe d'Affaires
-    Address2: Aile Sud , Hay Ryad
-    Address3: 
-    City: Rabat
-    State/Province: 
-    Country: Morocco
-    Postal Code: 10100
-    Phone: +212 537 71 84 00
-    Fax: +212 537 71 64 89
-    Email: ma@anrt.ma
-    Registration Date: 01-January-1985
-    Last Updated Date: 07-December-2009
-URL for registration services: http://www.nic.ma/
-Whois Server (port 43): whois.iam.net.ma
+contact:      technical
+name:         General Director
+organisation: Agence Nationale de RÃ©glementation des TÃ©lÃ©communications (ANRT)
+address:      Avenue Ennakhil, Complexe d'Affaires
+address:      Aile Sud , Hay Ryad
+address:      Rabat  10100
+address:      Morocco
+phone:        +212 537 71 84 00
+fax-no:       +212 537 71 64 89
+e-mail:       ma@anrt.ma
 
-Nameserver Information:
-    Nameserver: dns.inria.fr.
-    IP Address: 193.51.208.13
-    Nameserver: ns1.iam.net.ma.
-    IP Address: 212.217.0.10
-    Nameserver: ns2.iam.net.ma.
-    IP Address: 81.192.53.23
-    Nameserver: ns2.nic.fr.
-    IP Address: 192.93.0.4
-    Nameserver: ns3.iam.net.ma.
-    IP Address: 212.217.1.13
-    Nameserver: ns-ma.ripe.net.
-    IP Address: 193.0.12.149
+nserver:      DNS.INRIA.FR 193.51.208.13
+nserver:      NS-MA.RIPE.NET 193.0.12.149
+nserver:      NS1.IAM.NET.MA 212.217.0.10
+nserver:      NS2.IAM.NET.MA 81.192.53.23
+nserver:      NS2.NIC.FR 192.93.0.4
+nserver:      NS3.IAM.NET.MA 212.217.1.13
 
-Registration Date: 26-November-1993
-Last Updated Date: 07-December-2009
+whois:        whois.iam.net.ma
+
+remarks:      Registration information: http://www.nic.ma/
+
+created:      1993-11-26
+changed:      2009-12-07
+source:       IANA
+
