@@ -1,64 +1,40 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: lr
-ID: lr
+domain:       LR
 
-Sponsoring Organization:
-    Name: 
-    Organization: Data Technology Solutions, Inc.
-    Address1: First National Merchant Bank Plaza
-    Address2: Broadstreet
-    Address3: 
-    City: Monrovia
-    State/Province: 
-    Country: Liberia
-    Postal Code: 10-6053
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 01-January-1985
+organisation: Data Technology Solutions, Inc.
+address:      First National Merchant Bank Plaza
+address:      Broadstreet
+address:      Monrovia  10-6053
+address:      Liberia
 
-Administrative Contact:
-    Name: Mai Bright Urey
-    Organization: Data Technology Solutions, Inc.
-    Address1: First National Merchant Bank Plaza
-    Address2: Broadstreet
-    Address3: 
-    City: Monrovia
-    State/Province: 
-    Country: Liberia
-    Postal Code: 10-6053
-    Phone: +231 227083
-    Fax: +231 227083
-    Email: murey@liberia.net
-    Registration Date: 01-January-1985
-    Last Updated Date: 01-January-1985
+contact:      administrative
+name:         Mai Bright Urey
+organisation: Data Technology Solutions, Inc.
+address:      First National Merchant Bank Plaza
+address:      Broadstreet
+address:      Monrovia  10-6053
+address:      Liberia
+phone:        +231 227083
+fax-no:       +231 227083
+e-mail:       murey@liberia.net
 
-Technical Contact:
-    Name: Randy Bush
-    Organization: 
-    Address1: PO Box 128
-    Address2: 
-    Address3: 
-    City: Kapa`au
-    State/Province: Hawai`i
-    Country: United States
-    Postal Code: 96755
-    Phone: 
-    Fax: 
-    Email: randy@psg.com
-    Registration Date: 20-September-2005
-    Last Updated Date: 20-September-2005
-URL for registration services: http://psg.com/dns/lr
+contact:      technical
+name:         Randy Bush
+address:      PO Box 128
+address:      Kapa`au Hawai`i 96755
+address:      United States
+e-mail:       randy@psg.com
 
-Nameserver Information:
-    Nameserver: hippo.ru.ac.za.
-    IP Address: 146.231.128.1 2001:4200:1010::1
-    Nameserver: rip.psg.com.
-    IP Address: 147.28.0.39 2001:418:1:0:0:0:0:39
-    Nameserver: sunic.sunet.se.
-    IP Address: 192.36.125.2 2001:6b0:7:0:0:0:0:2
+nserver:      HIPPO.RU.AC.ZA 146.231.128.1 2001:4200:1010::1
+nserver:      RIP.PSG.COM 147.28.0.39 2001:418:1:0:0:0:0:39
+nserver:      SUNIC.SUNET.SE 192.36.125.2 2001:6b0:7:0:0:0:0:2
 
-Registration Date: 09-April-1997
-Last Updated Date: 26-May-2009
+remarks:      Registration information: http://psg.com/dns/lr
+
+created:      1997-04-09
+changed:      2009-05-26
+source:       IANA
+
