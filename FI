@@ -1,77 +1,49 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: fi
-ID: fi
+domain:       FI
 
-Sponsoring Organization:
-    Name: 
-    Organization: Finnish Communications Regulatory Authority
-    Address1: PO Box 313
-    Address2: 
-    Address3: 
-    City: Helsinki
-    State/Province: 
-    Country: Finland
-    Postal Code: FI-00181
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 21-March-2005
+organisation: Finnish Communications Regulatory Authority
+address:      PO Box 313
+address:      Helsinki  FI-00181
+address:      Finland
 
-Administrative Contact:
-    Name: Domain Names
-    Organization: Finnish Communications Regulatory Authority
-    Address1: PO Box 313
-    Address2: 
-    Address3: 
-    City: Helsinki
-    State/Province: 
-    Country: Finland
-    Postal Code: FI-00181
-    Phone: +358 9 69661
-    Fax: +358 9 6966410
-    Email: firootadmin@ficora.fi
-    Registration Date: 01-January-1985
-    Last Updated Date: 21-March-2005
+contact:      administrative
+name:         Domain Names
+organisation: Finnish Communications Regulatory Authority
+address:      PO Box 313
+address:      Helsinki  FI-00181
+address:      Finland
+phone:        +358 9 69661
+fax-no:       +358 9 6966410
+e-mail:       firootadmin@ficora.fi
 
-Technical Contact:
-    Name: Domain Names / Technical
-    Organization: Finnish Communications Regulatory Authority
-    Address1: P.O. Box 313
-    Address2: 
-    Address3: 
-    City: Helsinki
-    State/Province: 
-    Country: Finland
-    Postal Code: FI-00181
-    Phone: +358 9 69661
-    Fax: +358 9 6966410
-    Email: firootadmin@ficora.fi
-    Registration Date: 01-January-1985
-    Last Updated Date: 21-March-2005
-URL for registration services: https://domain.ficora.fi
-Whois Server (port 43): whois.ficora.fi
+contact:      technical
+name:         Domain Names / Technical
+organisation: Finnish Communications Regulatory Authority
+address:      P.O. Box 313
+address:      Helsinki  FI-00181
+address:      Finland
+phone:        +358 9 69661
+fax-no:       +358 9 6966410
+e-mail:       firootadmin@ficora.fi
 
-Nameserver Information:
-    Nameserver: a.fi.
-    IP Address: 193.166.4.1 2001:708:10:53:0:0:0:53
-    Nameserver: b.fi.
-    IP Address: 194.146.106.26 2001:67c:1010:6:0:0:0:53
-    Nameserver: c.fi.
-    IP Address: 156.154.100.26 2001:502:ad09:0:0:0:0:26
-    Nameserver: d.fi.
-    IP Address: 77.72.229.253 2a01:3f0:0:302:0:0:0:53
-    Nameserver: e.fi.
-    IP Address: 194.0.1.14 2001:678:4:0:0:0:0:e
-    Nameserver: f.fi.
-    IP Address: 87.239.127.198
-    Nameserver: g.fi.
-    IP Address: 156.154.101.26
-    Nameserver: h.fi.
-    IP Address: 156.154.102.26
-    Nameserver: i.fi.
-    IP Address: 156.154.103.26 2001:502:2eda:0:0:0:0:26
+nserver:      A.FI 193.166.4.1 2001:708:10:53:0:0:0:53
+nserver:      B.FI 194.146.106.26 2001:67c:1010:6:0:0:0:53
+nserver:      C.FI 156.154.100.26 2001:502:ad09:0:0:0:0:26
+nserver:      D.FI 2a01:3f0:0:302:0:0:0:53 77.72.229.253
+nserver:      E.FI 194.0.1.14 2001:678:4:0:0:0:0:e
+nserver:      F.FI 87.239.127.198
+nserver:      G.FI 156.154.101.26
+nserver:      H.FI 156.154.102.26
+nserver:      I.FI 156.154.103.26 2001:502:2eda:0:0:0:0:26
 
-Registration Date: 17-December-1986
-Last Updated Date: 14-June-2010
+whois:        whois.ficora.fi
+
+remarks:      Registration information: https://domain.ficora.fi
+
+created:      1986-12-17
+changed:      2010-06-14
+source:       IANA
+
