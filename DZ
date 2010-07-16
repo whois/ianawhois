@@ -1,67 +1,44 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: dz
-ID: dz
+domain:       DZ
 
-Sponsoring Organization:
-    Name: 
-    Organization: CERIST
-    Address1: Rue des Trois Feres Aissiou, Ben-Aknoun
-    Address2: 
-    Address3: 
-    City: Algiers
-    State/Province: 
-    Country: Algeria
-    Postal Code: 16035
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 13-May-2010
+organisation: CERIST
+address:      Rue des Trois Feres Aissiou, Ben-Aknoun
+address:      Algiers  16035
+address:      Algeria
 
-Administrative Contact:
-    Name: Moussa Benhamadi
-    Organization: CERIST
-    Address1: Rue des Trois Feres Aissiou, Ben-Aknoun
-    Address2: 
-    Address3: 
-    City: Algiers
-    State/Province: 
-    Country: Algeria
-    Postal Code: 16035
-    Phone: +213 21 91 54 34
-    Fax: +213 21 91 62 10
-    Email: mbenhamadi@wissal.dz
-    Registration Date: 01-January-1985
-    Last Updated Date: 13-May-2010
+contact:      administrative
+name:         Moussa Benhamadi
+organisation: CERIST
+address:      Rue des Trois Feres Aissiou, Ben-Aknoun
+address:      Algiers  16035
+address:      Algeria
+phone:        +213 21 91 54 34
+fax-no:       +213 21 91 62 10
+e-mail:       mbenhamadi@wissal.dz
 
-Technical Contact:
-    Name: Aouaouche El-Maouhab
-    Organization: CERIST
-    Address1: Rue des Trois Freres Aissiou, Ben-Aknoun
-    Address2: 
-    Address3: 
-    City: Algiers
-    State/Province: 
-    Country: Algeria
-    Postal Code: 16035
-    Phone: +213 21 91 54 34
-    Fax: +213 21 91 62 10
-    Email: elmaouhab@wissal.dz
-    Registration Date: 01-January-1985
-    Last Updated Date: 13-May-2010
-URL for registration services: http://www.nic.dz
-Whois Server (port 43): whois.nic.dz
+contact:      technical
+name:         Aouaouche El-Maouhab
+organisation: CERIST
+address:      Rue des Trois Freres Aissiou, Ben-Aknoun
+address:      Algiers  16035
+address:      Algeria
+phone:        +213 21 91 54 34
+fax-no:       +213 21 91 62 10
+e-mail:       elmaouhab@wissal.dz
 
-Nameserver Information:
-    Nameserver: ns1.nic.dz.
-    IP Address: 193.194.64.242
-    Nameserver: ns2.nic.dz.
-    IP Address: 213.179.160.66
-    Nameserver: ns3.nic.fr.
-    IP Address: 192.134.0.49 2001:660:3006:1:0:0:1:1
-    Nameserver: ns-dz.ripe.net.
-    IP Address: 193.0.12.4 2001:610:240:0:53:cc:12:4
+nserver:      NS-DZ.RIPE.NET 193.0.12.4 2001:610:240:0:53:cc:12:4
+nserver:      NS1.NIC.DZ 193.194.64.242
+nserver:      NS2.NIC.DZ 213.179.160.66
+nserver:      NS3.NIC.FR 192.134.0.49 2001:660:3006:1:0:0:1:1
 
-Registration Date: 03-January-1994
-Last Updated Date: 13-May-2010
+whois:        whois.nic.dz
+
+remarks:      Registration information: http://www.nic.dz
+
+created:      1994-01-03
+changed:      2010-05-13
+source:       IANA
+
