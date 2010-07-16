@@ -1,75 +1,49 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: in
-ID: in
+domain:       IN
 
-Sponsoring Organization:
-    Name: 
-    Organization: National Internet Exchange of India
-    Address1: 5th Floor, Incube Business Centre, 18, Nehru Place
-    Address2: 
-    Address3: 
-    City: New Delhi
-    State/Province: Delhi
-    Country: India
-    Postal Code: 110 019
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 04-March-2010
+organisation: National Internet Exchange of India
+address:      5th Floor, Incube Business Centre, 18, Nehru Place
+address:      New Delhi Delhi 110 019
+address:      India
 
-Administrative Contact:
-    Name: .IN Registry
-    Organization: National Internet Exchange of India
-    Address1: 612-A, Chiranjiv Tower,43 Nehru Place
-    Address2: 
-    Address3: 
-    City: New Delhi
-    State/Province: Delhi
-    Country: India
-    Postal Code: 110 019
-    Phone: +91 11 26424001/02
-    Fax: +91 11 51608472
-    Email: info@nixi.in
-    Registration Date: 01-January-1985
-    Last Updated Date: 04-March-2010
+contact:      administrative
+name:         .IN Registry
+organisation: National Internet Exchange of India
+address:      612-A, Chiranjiv Tower,43 Nehru Place
+address:      New Delhi Delhi 110 019
+address:      India
+phone:        +91 11 26424001/02
+fax-no:       +91 11 51608472
+e-mail:       info@nixi.in
 
-Technical Contact:
-    Name: Domain Name Services Technical Administrator
-    Organization: National Internet Exchange of India
-    Address1: C/O STPI Block -IV, 2nd floor
-    Address2: Ganga Shopping Complex, Sector 29
-    Address3: 
-    City: Noida
-    State/Province: DE
-    Country: India
-    Postal Code: 201 303
-    Phone: +91 120 2450411 ext. 348
-    Fax: +91 120 5318082
-    Email: domaintech@registry.in
-    Registration Date: 01-January-1985
-    Last Updated Date: 04-August-2006
-URL for registration services: http://www.registry.in
-Whois Server (port 43): whois.inregistry.net
+contact:      technical
+name:         Domain Name Services Technical Administrator
+organisation: National Internet Exchange of India
+address:      C/O STPI Block -IV, 2nd floor
+address:      Ganga Shopping Complex, Sector 29
+address:      Noida DE 201 303
+address:      India
+phone:        +91 120 2450411 ext. 348
+fax-no:       +91 120 5318082
+e-mail:       domaintech@registry.in
 
-Nameserver Information:
-    Nameserver: a0.cctld.afilias-nst.info.
-    IP Address: 199.254.59.1 2001:500:25:0:0:0:0:1
-    Nameserver: a1.in.afilias-nst.in.
-    IP Address: 203.119.49.201
-    Nameserver: b0.cctld.afilias-nst.org.
-    IP Address: 199.254.60.1 2001:500:26:0:0:0:0:1
-    Nameserver: b1.in.afilias-nst.in.
-    IP Address: 203.119.50.201
-    Nameserver: c0.cctld.afilias-nst.info.
-    IP Address: 199.254.61.1 2001:500:27:0:0:0:0:1
-    Nameserver: d0.cctld.afilias-nst.org.
-    IP Address: 199.254.62.1 2001:500:28:0:0:0:0:1
-    Nameserver: a2.in.afilias-nst.info.
-    IP Address: 199.249.117.1 2001:500:45:0:0:0:0:1
-    Nameserver: b2.in.afilias-nst.org.
-    IP Address: 199.249.125.1 2001:500:4d:0:0:0:0:1
+nserver:      A0.CCTLD.AFILIAS-NST.INFO 199.254.59.1 2001:500:25:0:0:0:0:1
+nserver:      A1.IN.AFILIAS-NST.IN 203.119.49.201
+nserver:      A2.IN.AFILIAS-NST.INFO 199.249.117.1 2001:500:45:0:0:0:0:1
+nserver:      B0.CCTLD.AFILIAS-NST.ORG 199.254.60.1 2001:500:26:0:0:0:0:1
+nserver:      B1.IN.AFILIAS-NST.IN 203.119.50.201
+nserver:      B2.IN.AFILIAS-NST.ORG 199.249.125.1 2001:500:4d:0:0:0:0:1
+nserver:      C0.CCTLD.AFILIAS-NST.INFO 199.254.61.1 2001:500:27:0:0:0:0:1
+nserver:      D0.CCTLD.AFILIAS-NST.ORG 199.254.62.1 2001:500:28:0:0:0:0:1
 
-Registration Date: 08-May-1989
-Last Updated Date: 04-March-2010
+whois:        whois.inregistry.net
+
+remarks:      Registration information: http://www.registry.in
+
+created:      1989-05-08
+changed:      2010-03-04
+source:       IANA
+
