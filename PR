@@ -1,69 +1,43 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: pr
-ID: pr
+domain:       PR
 
-Sponsoring Organization:
-    Name: 
-    Organization: Gauss Research Laboratory Inc.
-    Address1: Calle Vesta 801
-    Address2: 
-    Address3: 
-    City: San Juan
-    State/Province: 
-    Country: Puerto Rico
-    Postal Code: 00923
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 21-December-2006
+organisation: Gauss Research Laboratory Inc.
+address:      Calle Vesta 801
+address:      San Juan  00923
+address:      Puerto Rico
 
-Administrative Contact:
-    Name: Oscar Moreno
-    Organization: Gauss Research Laboratory Inc.
-    Address1: Calle Vesta 801
-    Address2: 
-    Address3: 
-    City: San Juan
-    State/Province: 
-    Country: Puerto Rico
-    Postal Code: 00923
-    Phone: 787-372-3803
-    Fax: 
-    Email: moreno@nic.pr
-    Registration Date: 01-January-1985
-    Last Updated Date: 13-August-2007
+contact:      administrative
+name:         Oscar Moreno
+organisation: Gauss Research Laboratory Inc.
+address:      Calle Vesta 801
+address:      San Juan  00923
+address:      Puerto Rico
+phone:        787-372-3803
+e-mail:       moreno@nic.pr
 
-Technical Contact:
-    Name: Registry Technical Contact
-    Organization: Gauss Research Laboratory Inc.
-    Address1: Calle Vesta 801
-    Address2: 
-    Address3: 
-    City: San Juan
-    State/Province: 
-    Country: Puerto Rico
-    Postal Code: 00923
-    Phone: 787-372-3804
-    Fax: 
-    Email: tech@nic.pr
-    Registration Date: 01-January-1985
-    Last Updated Date: 13-August-2007
-URL for registration services: http://www.nic.pr
-Whois Server (port 43): whois.nic.pr
+contact:      technical
+name:         Registry Technical Contact
+organisation: Gauss Research Laboratory Inc.
+address:      Calle Vesta 801
+address:      San Juan  00923
+address:      Puerto Rico
+phone:        787-372-3804
+e-mail:       tech@nic.pr
 
-Nameserver Information:
-    Nameserver: pascal.nic.pr.
-    IP Address: 134.202.0.120
-    Nameserver: pr-dns.denic.de.
-    IP Address: 81.91.161.82
-    Nameserver: pr-ns.anycast.pch.net.
-    IP Address: 204.61.216.23
-    Nameserver: descartes.nic.pr.
-    IP Address: 134.202.1.120
-    Nameserver: golomb.nic.pr.
-    IP Address: 134.202.6.100
+nserver:      DESCARTES.NIC.PR 134.202.1.120
+nserver:      GOLOMB.NIC.PR 134.202.6.100
+nserver:      PASCAL.NIC.PR 134.202.0.120
+nserver:      PR-DNS.DENIC.DE 81.91.161.82
+nserver:      PR-NS.ANYCAST.PCH.NET 204.61.216.23
 
-Registration Date: 27-August-1989
-Last Updated Date: 06-June-2008
+whois:        whois.nic.pr
+
+remarks:      Registration information: http://www.nic.pr
+
+created:      1989-08-27
+changed:      2008-06-06
+source:       IANA
+
