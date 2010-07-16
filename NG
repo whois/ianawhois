@@ -1,69 +1,45 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: ng
-ID: ng
+domain:       NG
 
-Sponsoring Organization:
-    Name: 
-    Organization: Nigeria Internet Registration Association
-    Address1: 8 Saka Tinbu Street
-    Address2: 
-    Address3: 
-    City: Victoria Island
-    State/Province: Lagos
-    Country: Nigeria
-    Postal Code: 
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 13-May-2009
+organisation: Nigeria Internet Registration Association
+address:      8 Saka Tinbu Street
+address:      Victoria Island Lagos
+address:      Nigeria
 
-Administrative Contact:
-    Name: President
-    Organization: Nigeria Internet Registration Association
-    Address1: 8 Saka Tinbu Street
-    Address2: 
-    Address3: 
-    City: Victoria Island
-    State/Province: Lagos
-    Country: Nigeria
-    Postal Code: 
-    Phone: +234 7028184335
-    Fax: +234 7028184335
-    Email: president@nira.org.ng
-    Registration Date: 01-January-1985
-    Last Updated Date: 13-May-2009
+contact:      administrative
+name:         President
+organisation: Nigeria Internet Registration Association
+address:      8 Saka Tinbu Street
+address:      Victoria Island Lagos
+address:      Nigeria
+phone:        +234 7028184335
+fax-no:       +234 7028184335
+e-mail:       president@nira.org.ng
 
-Technical Contact:
-    Name: DNS Administrator
-    Organization: Nigeria Internet Registration Association
-    Address1: 8 Saka Tinbu Street
-    Address2: 
-    Address3: 
-    City: Victoria Island
-    State/Province: Lagos
-    Country: Nigeria
-    Postal Code: 
-    Phone: +234 16635433
-    Fax: +234 16635433
-    Email: dnsadmin@nira.org.ng
-    Registration Date: 13-May-2009
-    Last Updated Date: 13-May-2009
-URL for registration services: http://www.nira.org.ng/
-Whois Server (port 43): whois.nic.net.ng
+contact:      technical
+name:         DNS Administrator
+organisation: Nigeria Internet Registration Association
+address:      8 Saka Tinbu Street
+address:      Victoria Island Lagos
+address:      Nigeria
+phone:        +234 16635433
+fax-no:       +234 16635433
+e-mail:       dnsadmin@nira.org.ng
 
-Nameserver Information:
-    Nameserver: nsa.nic.net.ng.
-    IP Address: 41.222.79.3
-    Nameserver: ns1.nic.net.ng.
-    IP Address: 194.0.1.29 2001:678:4:0:0:0:0:1d
-    Nameserver: ns2.nic.net.ng.
-    IP Address: 204.61.216.40
-    Nameserver: ns3.nic.net.ng.
-    IP Address: 208.78.70.93
-    Nameserver: ns4.nic.net.ng.
-    IP Address: 204.13.250.93
+nserver:      NS1.NIC.NET.NG 194.0.1.29 2001:678:4:0:0:0:0:1d
+nserver:      NS2.NIC.NET.NG 204.61.216.40
+nserver:      NS3.NIC.NET.NG 208.78.70.93
+nserver:      NS4.NIC.NET.NG 204.13.250.93
+nserver:      NSA.NIC.NET.NG 41.222.79.3
 
-Registration Date: 15-March-1995
-Last Updated Date: 17-May-2010
+whois:        whois.nic.net.ng
+
+remarks:      Registration information: http://www.nira.org.ng/
+
+created:      1995-03-15
+changed:      2010-05-17
+source:       IANA
+
