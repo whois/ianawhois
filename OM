@@ -1,68 +1,43 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: om
-ID: om
+domain:       OM
 
-Sponsoring Organization:
-    Name: 
-    Organization: Oman Telecommunications Company
-    Address1: 789 Ruwi
-    Address2: 
-    Address3: 
-    City: Muscat
-    State/Province: 
-    Country: Oman
-    Postal Code: 112
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 01-January-1985
+organisation: Oman Telecommunications Company
+address:      789 Ruwi
+address:      Muscat  112
+address:      Oman
 
-Administrative Contact:
-    Name: Ali Abduwani
-    Organization: Oman Telecommunications Company
-    Address1: 789 Ruwi
-    Address2: 
-    Address3: 
-    City: Muscat
-    State/Province: 
-    Country: Oman
-    Postal Code: 112
-    Phone: +968 24 631 881
-    Fax: +968 24 695 482
-    Email: abduwani@omantel.net.om
-    Registration Date: 01-January-1985
-    Last Updated Date: 07-December-2009
+contact:      administrative
+name:         Ali Abduwani
+organisation: Oman Telecommunications Company
+address:      789 Ruwi
+address:      Muscat  112
+address:      Oman
+phone:        +968 24 631 881
+fax-no:       +968 24 695 482
+e-mail:       abduwani@omantel.net.om
 
-Technical Contact:
-    Name: Salim Bader Al-Mazrui
-    Organization: Oman Telecommunications Company
-    Address1: 789 Ruwi
-    Address2: 
-    Address3: 
-    City: Muscat
-    State/Province: 
-    Country: Oman
-    Postal Code: 112
-    Phone: +968 24 632 846
-    Fax: +968 24 695 482
-    Email: salim@omantel.om
-    Registration Date: 01-January-1985
-    Last Updated Date: 07-December-2009
-URL for registration services: http://www.omantel.net.om
+contact:      technical
+name:         Salim Bader Al-Mazrui
+organisation: Oman Telecommunications Company
+address:      789 Ruwi
+address:      Muscat  112
+address:      Oman
+phone:        +968 24 632 846
+fax-no:       +968 24 695 482
+e-mail:       salim@omantel.om
 
-Nameserver Information:
-    Nameserver: om16.omantel.net.om.
-    IP Address: 212.72.1.186
-    Nameserver: ns.icann.org.
-    IP Address: 192.0.34.126
-    Nameserver: om14.omantel.net.om.
-    IP Address: 212.72.23.4
-    Nameserver: ns-om.ripe.net.
-    IP Address: 193.0.12.166
-    Nameserver: om41.omantel.net.om.
-    IP Address: 62.231.243.249
+nserver:      NS-OM.RIPE.NET 193.0.12.166
+nserver:      NS.ICANN.ORG 192.0.34.126
+nserver:      OM14.OMANTEL.NET.OM 212.72.23.4
+nserver:      OM16.OMANTEL.NET.OM 212.72.1.186
+nserver:      OM41.OMANTEL.NET.OM 62.231.243.249
 
-Registration Date: 11-April-1996
-Last Updated Date: 07-December-2009
+remarks:      Registration information: http://www.omantel.net.om
+
+created:      1996-04-11
+changed:      2009-12-07
+source:       IANA
+
