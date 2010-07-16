@@ -1,71 +1,49 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: org
-ID: org
+domain:       ORG
 
-Sponsoring Organization:
-    Name: 
-    Organization: Public Interest Registry (PIR)
-    Address1: 1775 Wiehle Avenue
-    Address2: Suite 102A
-    Address3: 
-    City: Reston
-    State/Province: Virginia
-    Country: United States
-    Postal Code: 20190
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 31-December-2002
-    Last Updated Date: 31-December-2002
+organisation: Public Interest Registry (PIR)
+address:      1775 Wiehle Avenue
+address:      Suite 102A
+address:      Reston Virginia 20190
+address:      United States
 
-Administrative Contact:
-    Name: Michelle Coon
-    Organization: Public Interest Registry (PIR)
-    Address1: 1775 Wiehle Avenue
-    Address2: Suite 200
-    Address3: 
-    City: Reston
-    State/Province: Virginia
-    Country: United States
-    Postal Code: 20190
-    Phone: +1 703 889 5762
-    Fax: +1 703 889 5779
-    Email: mcoon@pir.org
-    Registration Date: 31-December-2002
-    Last Updated Date: 19-December-2008
+contact:      administrative
+name:         Michelle Coon
+organisation: Public Interest Registry (PIR)
+address:      1775 Wiehle Avenue
+address:      Suite 200
+address:      Reston Virginia 20190
+address:      United States
+phone:        +1 703 889 5762
+fax-no:       +1 703 889 5779
+e-mail:       mcoon@pir.org
 
-Technical Contact:
-    Name: Michelle Coon
-    Organization: Public Interest Registry (PIR)
-    Address1: 1775 Wiehle Avenue
-    Address2: Suite 200
-    Address3: 
-    City: Reston
-    State/Province: Virginia
-    Country: United States
-    Postal Code: 20190
-    Phone: +1 703 889 5762
-    Fax: +1 703 889 5779
-    Email: mcoon@pir.org
-    Registration Date: 31-December-2002
-    Last Updated Date: 19-December-2008
-URL for registration services: http://www.pir.org
-Whois Server (port 43): whois.pir.org
+contact:      technical
+name:         Michelle Coon
+organisation: Public Interest Registry (PIR)
+address:      1775 Wiehle Avenue
+address:      Suite 200
+address:      Reston Virginia 20190
+address:      United States
+phone:        +1 703 889 5762
+fax-no:       +1 703 889 5779
+e-mail:       mcoon@pir.org
 
-Nameserver Information:
-    Nameserver: a0.org.afilias-nst.info.
-    IP Address: 199.19.56.1 2001:500:e:0:0:0:0:1
-    Nameserver: b0.org.afilias-nst.org.
-    IP Address: 199.19.54.1 2001:500:c:0:0:0:0:1
-    Nameserver: c0.org.afilias-nst.info.
-    IP Address: 199.19.53.1 2001:500:b:0:0:0:0:1
-    Nameserver: d0.org.afilias-nst.org.
-    IP Address: 199.19.57.1 2001:500:f:0:0:0:0:1
-    Nameserver: a2.org.afilias-nst.info.
-    IP Address: 199.249.112.1 2001:500:40:0:0:0:0:1
-    Nameserver: b2.org.afilias-nst.org.
-    IP Address: 199.249.120.1 2001:500:48:0:0:0:0:1
+nserver:      A0.ORG.AFILIAS-NST.INFO 199.19.56.1 2001:500:e:0:0:0:0:1
+nserver:      A2.ORG.AFILIAS-NST.INFO 199.249.112.1 2001:500:40:0:0:0:0:1
+nserver:      B0.ORG.AFILIAS-NST.ORG 199.19.54.1 2001:500:c:0:0:0:0:1
+nserver:      B2.ORG.AFILIAS-NST.ORG 199.249.120.1 2001:500:48:0:0:0:0:1
+nserver:      C0.ORG.AFILIAS-NST.INFO 199.19.53.1 2001:500:b:0:0:0:0:1
+nserver:      D0.ORG.AFILIAS-NST.ORG 199.19.57.1 2001:500:f:0:0:0:0:1
 
-Registration Date: 01-January-1985
-Last Updated Date: 22-December-2008
+whois:        whois.pir.org
+
+remarks:      Registration information: http://www.pir.org
+
+created:      1985-01-01
+changed:      2008-12-22
+source:       IANA
+
