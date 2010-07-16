@@ -1,71 +1,47 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: ee
-ID: ee
+domain:       EE
 
-Sponsoring Organization:
-    Name: 
-    Organization: National Institute of Chemical Physics and Biophysics
-    Address1: 10 Ravala Blvd.
-    Address2: 
-    Address3: 
-    City: Tallinn
-    State/Province: 
-    Country: Estonia
-    Postal Code: 10143
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 01-January-1985
+organisation: National Institute of Chemical Physics and Biophysics
+address:      10 Ravala Blvd.
+address:      Tallinn  10143
+address:      Estonia
 
-Administrative Contact:
-    Name: Endel Lippmaa
-    Organization: Estonian Academy of Sciences
-    Address1: Kohtu 6
-    Address2: 
-    Address3: 
-    City: Tallinn
-    State/Province: 
-    Country: Estonia
-    Postal Code: 10130
-    Phone: +372 5659096
-    Fax: +372 6999001
-    Email: endel.lippmaa@nicpb.ee
-    Registration Date: 01-January-1985
-    Last Updated Date: 12-December-2007
+contact:      administrative
+name:         Endel Lippmaa
+organisation: Estonian Academy of Sciences
+address:      Kohtu 6
+address:      Tallinn  10130
+address:      Estonia
+phone:        +372 5659096
+fax-no:       +372 6999001
+e-mail:       endel.lippmaa@nicpb.ee
 
-Technical Contact:
-    Name: Jaak Lippmaa
-    Organization: Quantum Fugue Ltd
-    Address1: Tahe 20
-    Address2: 
-    Address3: 
-    City: Tallinn
-    State/Province: 
-    Country: Estonia
-    Postal Code: 11619
-    Phone: +372 5659003
-    Fax: +372 6999001
-    Email: jaak.lippmaa@nicpb.ee
-    Registration Date: 01-January-1985
-    Last Updated Date: 12-December-2007
-URL for registration services: http://www.eenet.ee/services/subdomains.html
-Whois Server (port 43): whois.eenet.ee
+contact:      technical
+name:         Jaak Lippmaa
+organisation: Quantum Fugue Ltd
+address:      Tahe 20
+address:      Tallinn  11619
+address:      Estonia
+phone:        +372 5659003
+fax-no:       +372 6999001
+e-mail:       jaak.lippmaa@nicpb.ee
 
-Nameserver Information:
-    Nameserver: ns.kbfi.ee.
-    IP Address: 193.40.133.222
-    Nameserver: ns.eenet.ee.
-    IP Address: 193.40.56.245
-    Nameserver: ns.uninet.ee.
-    IP Address: 194.204.0.1
-    Nameserver: ns.ut.ee.
-    IP Address: 193.40.5.99
-    Nameserver: ns.uu.net.
-    IP Address: 137.39.1.3
-    Nameserver: sunic.sunet.se.
-    IP Address: 192.36.125.2 2001:6b0:7:0:0:0:0:2
+nserver:      NS.EENET.EE 193.40.56.245
+nserver:      NS.KBFI.EE 193.40.133.222
+nserver:      NS.UNINET.EE 194.204.0.1
+nserver:      NS.UT.EE 193.40.5.99
+nserver:      NS.UU.NET 137.39.1.3
+nserver:      SUNIC.SUNET.SE 192.36.125.2 2001:6b0:7:0:0:0:0:2
 
-Registration Date: 03-June-1992
-Last Updated Date: 24-September-2008
+whois:        whois.eenet.ee
+
+remarks:      Registration information:
+remarks:      http://www.eenet.ee/services/subdomains.html
+
+created:      1992-06-03
+changed:      2008-09-24
+source:       IANA
+
