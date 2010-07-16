@@ -1,67 +1,40 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: er
-ID: er
+domain:       ER
 
-Sponsoring Organization:
-    Name: 
-    Organization: Eritrea Telecommunication Services Corporation (EriTel)
-    Address1: 11 sematat street
-    Address2: 
-    Address3: 
-    City: Asmara
-    State/Province: Central Zone
-    Country: Eritrea
-    Postal Code: 234
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 17-April-2009
+organisation: Eritrea Telecommunication Services Corporation (EriTel)
+address:      11 sematat street
+address:      Asmara Central Zone 234
+address:      Eritrea
 
-Administrative Contact:
-    Name: Teclemariam Ghebreyonas
-    Organization: Eritrea Telecommunication Services Corporation (EriTel)
-    Address1: 11 sematat street
-    Address2: 
-    Address3: 
-    City: Asmara
-    State/Province: Central Zone
-    Country: Eritrea
-    Postal Code: 234
-    Phone: +291 1 200339
-    Fax: +291 1 120938
-    Email: tecleg@noc.net.er
-    Registration Date: 01-January-1985
-    Last Updated Date: 17-April-2009
+contact:      administrative
+name:         Teclemariam Ghebreyonas
+organisation: Eritrea Telecommunication Services Corporation (EriTel)
+address:      11 sematat street
+address:      Asmara Central Zone 234
+address:      Eritrea
+phone:        +291 1 200339
+fax-no:       +291 1 120938
+e-mail:       tecleg@noc.net.er
 
-Technical Contact:
-    Name: Craig Harmer
-    Organization: Punchdown Vintners
-    Address1: 110 Clayton Street
-    Address2: 
-    Address3: 
-    City: San Francisco
-    State/Province: California
-    Country: United States
-    Postal Code: 94117
-    Phone: +415 668 3564
-    Fax: 
-    Email: er-techcontact@punchdown.org
-    Registration Date: 01-January-1985
-    Last Updated Date: 11-April-2002
+contact:      technical
+name:         Craig Harmer
+organisation: Punchdown Vintners
+address:      110 Clayton Street
+address:      San Francisco California 94117
+address:      United States
+phone:        +415 668 3564
+e-mail:       er-techcontact@punchdown.org
 
-Nameserver Information:
-    Nameserver: sawanew.noc.net.er.
-    IP Address: 196.200.96.1
-    Nameserver: ns0.punchdown.org.
-    IP Address: 64.90.188.42
-    Nameserver: ns1.punchdown.net.
-    IP Address: 66.92.19.36
-    Nameserver: ns-er.ripe.net.
-    IP Address: 193.0.12.69
-    Nameserver: zaranew.noc.net.er.
-    IP Address: 196.200.96.2
+nserver:      NS-ER.RIPE.NET 193.0.12.69
+nserver:      NS0.PUNCHDOWN.ORG 64.90.188.42
+nserver:      NS1.PUNCHDOWN.NET 66.92.19.36
+nserver:      SAWANEW.NOC.NET.ER 196.200.96.1
+nserver:      ZARANEW.NOC.NET.ER 196.200.96.2
 
-Registration Date: 24-September-1996
-Last Updated Date: 26-June-2009
+created:      1996-09-24
+changed:      2009-06-26
+source:       IANA
+
