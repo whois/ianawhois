@@ -1,68 +1,43 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: bi
-ID: bi
+domain:       BI
 
-Sponsoring Organization:
-    Name: 
-    Organization: Centre National de l'Informatique
-    Address1: 155 - 161 Chaussee P. L. Rwagasore
-    Address2: 
-    Address3: 
-    City: Bujumbura
-    State/Province: 
-    Country: Burundi
-    Postal Code: BP 2270
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 17-July-2002
+organisation: Centre National de l'Informatique
+address:      155 - 161 Chaussee P. L. Rwagasore
+address:      Bujumbura  BP 2270
+address:      Burundi
 
-Administrative Contact:
-    Name: Victor Ciza
-    Organization: Centre National de l'Informatique
-    Address1: 157 Chaussee P. L. Rwagasore
-    Address2: 
-    Address3: 
-    City: Bujumbura
-    State/Province: 
-    Country: Burundi
-    Postal Code: BP 2270
-    Phone: +257 22 5005
-    Fax: +257 22 8764
-    Email: victor@cbinf.com or admin@nic.bi
-    Registration Date: 01-January-1985
-    Last Updated Date: 23-July-2002
+contact:      administrative
+name:         Victor Ciza
+organisation: Centre National de l'Informatique
+address:      157 Chaussee P. L. Rwagasore
+address:      Bujumbura  BP 2270
+address:      Burundi
+phone:        +257 22 5005
+fax-no:       +257 22 8764
+e-mail:       victor@cbinf.com or admin@nic.bi
 
-Technical Contact:
-    Name: Felix Ndayirukiye
-    Organization: CBINET s.a.
-    Address1: 157 Chaussee P. L. Rwagasore
-    Address2: 
-    Address3: 
-    City: Bujumbura
-    State/Province: 
-    Country: Burundi
-    Postal Code: BP 2270
-    Phone: + 257-21-9229
-    Fax: + 257-22-8764
-    Email: admin@cbinf.com
-    Registration Date: 01-January-1985
-    Last Updated Date: 17-July-2002
-URL for registration services: http://www.nic.bi
+contact:      technical
+name:         Felix Ndayirukiye
+organisation: CBINET s.a.
+address:      157 Chaussee P. L. Rwagasore
+address:      Bujumbura  BP 2270
+address:      Burundi
+phone:        + 257-21-9229
+fax-no:       + 257-22-8764
+e-mail:       admin@cbinf.com
 
-Nameserver Information:
-    Nameserver: dns.princeton.edu.
-    IP Address: 128.112.129.15
-    Nameserver: ns.nic.bi.
-    IP Address: 196.2.8.205
-    Nameserver: ns-bi.ripe.net.
-    IP Address: 193.0.12.36 2001:610:240:0:53:cc:12:36
-    Nameserver: sunic.sunet.se.
-    IP Address: 192.36.125.2 2001:6b0:7:0:0:0:0:2
-    Nameserver: ns1.nic.bi.
-    IP Address: 196.2.12.205
+nserver:      DNS.PRINCETON.EDU 128.112.129.15
+nserver:      NS-BI.RIPE.NET 193.0.12.36 2001:610:240:0:53:cc:12:36
+nserver:      NS.NIC.BI 196.2.8.205
+nserver:      NS1.NIC.BI 196.2.12.205
+nserver:      SUNIC.SUNET.SE 192.36.125.2 2001:6b0:7:0:0:0:0:2
 
-Registration Date: 21-October-1996
-Last Updated Date: 24-September-2008
+remarks:      Registration information: http://www.nic.bi
+
+created:      1996-10-21
+changed:      2008-09-24
+source:       IANA
+
