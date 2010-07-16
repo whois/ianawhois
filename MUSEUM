@@ -1,69 +1,48 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: museum
-ID: museum
+domain:       MUSEUM
 
-Sponsoring Organization:
-    Name: 
-    Organization: Museum Domain Management Association
-    Address1: Frescativaegen 40
-    Address2: Box 50007
-    Address3: 
-    City: Stockholm
-    State/Province: 
-    Country: Sweden
-    Postal Code: 10405
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 01-January-1985
+organisation: Museum Domain Management Association
+address:      Frescativaegen 40
+address:      Box 50007
+address:      Stockholm  10405
+address:      Sweden
 
-Administrative Contact:
-    Name: Cary Karp
-    Organization: Museum Domain Management Association
-    Address1: Frescativaegen 40
-    Address2: Box 50007
-    Address3: 
-    City: Stockholm
-    State/Province: 
-    Country: Sweden
-    Postal Code: 10405
-    Phone: +46 70 629 8176
-    Fax: +46 70 384 3246
-    Email: admin@musedoma.museum
-    Registration Date: 01-January-1985
-    Last Updated Date: 01-January-1985
+contact:      administrative
+name:         Cary Karp
+organisation: Museum Domain Management Association
+address:      Frescativaegen 40
+address:      Box 50007
+address:      Stockholm  10405
+address:      Sweden
+phone:        +46 70 629 8176
+fax-no:       +46 70 384 3246
+e-mail:       admin@musedoma.museum
 
-Technical Contact:
-    Name: Cary Karp
-    Organization: Museum Domain Management Association
-    Address1: Frescativaegen 40
-    Address2: Box 50007
-    Address3: 
-    City: Stockholm
-    State/Province: 
-    Country: Sweden
-    Postal Code: 10405
-    Phone: +46 70 629 8176
-    Fax: +46 70 384 3246
-    Email: tech@musedoma.museum
-    Registration Date: 01-January-1985
-    Last Updated Date: 01-January-1985
-URL for registration services: http://musedoma.museum
-Whois Server (port 43): whois.museum
+contact:      technical
+name:         Cary Karp
+organisation: Museum Domain Management Association
+address:      Frescativaegen 40
+address:      Box 50007
+address:      Stockholm  10405
+address:      Sweden
+phone:        +46 70 629 8176
+fax-no:       +46 70 384 3246
+e-mail:       tech@musedoma.museum
 
-Nameserver Information:
-    Nameserver: nic.icom.org.
-    IP Address: 195.7.65.253
-    Nameserver: nic.museum.
-    IP Address: 130.242.24.5
-    Nameserver: ns.icann.org.
-    IP Address: 192.0.34.126
-    Nameserver: ns-ext.vix.com.
-    IP Address: 204.152.184.64
-    Nameserver: ns5.knipp.de.
-    IP Address: 195.253.6.62 2a01:5b0:0:29:0:0:0:3e
+nserver:      NIC.ICOM.ORG 195.7.65.253
+nserver:      NIC.MUSEUM 130.242.24.5
+nserver:      NS-EXT.VIX.COM 204.152.184.64
+nserver:      NS.ICANN.ORG 192.0.34.126
+nserver:      NS5.KNIPP.DE 195.253.6.62 2a01:5b0:0:29:0:0:0:3e
 
-Registration Date: 20-October-2001
-Last Updated Date: 22-October-2008
+whois:        whois.museum
+
+remarks:      Registration information: http://musedoma.museum
+
+created:      2001-10-20
+changed:      2008-10-22
+source:       IANA
+
