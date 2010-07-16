@@ -1,72 +1,45 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: hu
-ID: hu
+domain:       HU
 
-Sponsoring Organization:
-    Name: 
-    Organization: Council of Hungarian Internet Providers (CHIP)
-    Address1: Victor Hugo u. 18-22.
-    Address2: 
-    Address3: 
-    City: Budapest
-    State/Province: 
-    Country: Hungary
-    Postal Code: H-1132
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 06-February-2007
+organisation: Council of Hungarian Internet Providers (CHIP)
+address:      Victor Hugo u. 18-22.
+address:      Budapest  H-1132
+address:      Hungary
 
-Administrative Contact:
-    Name: Balazs Martos
-    Organization: Council of Hungarian Internet Providers (CHIP)
-    Address1: Victor Hugo u. 18-22.
-    Address2: 
-    Address3: 
-    City: Budapest
-    State/Province: 
-    Country: Hungary
-    Postal Code: H-1132
-    Phone: +36 1 238 0115
-    Fax: +36 1 238 0114
-    Email: iszt@nic.hu
-    Registration Date: 01-January-1985
-    Last Updated Date: 06-February-2007
+contact:      administrative
+name:         Balazs Martos
+organisation: Council of Hungarian Internet Providers (CHIP)
+address:      Victor Hugo u. 18-22.
+address:      Budapest  H-1132
+address:      Hungary
+phone:        +36 1 238 0115
+fax-no:       +36 1 238 0114
+e-mail:       iszt@nic.hu
 
-Technical Contact:
-    Name: CHIP Hostmaster
-    Organization: Council of Hungarian Internet Providers (CHIP)
-    Address1: Victor Hugo u. 18-22.
-    Address2: 
-    Address3: 
-    City: Budapest
-    State/Province: 
-    Country: Hungary
-    Postal Code: H-1132
-    Phone: +36 1 238 0115
-    Fax: +36 1 238 0114
-    Email: hostmaster@nic.hu
-    Registration Date: 01-January-1985
-    Last Updated Date: 06-February-2007
-URL for registration services: http://www.nic.hu
+contact:      technical
+name:         CHIP Hostmaster
+organisation: Council of Hungarian Internet Providers (CHIP)
+address:      Victor Hugo u. 18-22.
+address:      Budapest  H-1132
+address:      Hungary
+phone:        +36 1 238 0115
+fax-no:       +36 1 238 0114
+e-mail:       hostmaster@nic.hu
 
-Nameserver Information:
-    Nameserver: ns.nic.hu.
-    IP Address: 193.239.148.48 2001:738:4:8000:0:0:0:48
-    Nameserver: ns1.nic.hu.
-    IP Address: 193.239.149.3
-    Nameserver: ns2.nic.fr.
-    IP Address: 192.93.0.4
-    Nameserver: ns2.nic.hu.
-    IP Address: 193.6.16.1
-    Nameserver: ns3.nic.hu.
-    IP Address: 195.70.35.250
-    Nameserver: ns-se.nic.hu.
-    IP Address: 77.72.229.251 2a01:3f0:0:304:0:0:0:53
-    Nameserver: ns-com.nic.hu.
-    IP Address: 194.0.1.12 2001:678:4:0:0:0:0:c
+nserver:      NS-COM.NIC.HU 194.0.1.12 2001:678:4:0:0:0:0:c
+nserver:      NS-SE.NIC.HU 2a01:3f0:0:304:0:0:0:53 77.72.229.251
+nserver:      NS.NIC.HU 193.239.148.48 2001:738:4:8000:0:0:0:48
+nserver:      NS1.NIC.HU 193.239.149.3
+nserver:      NS2.NIC.FR 192.93.0.4
+nserver:      NS2.NIC.HU 193.6.16.1
+nserver:      NS3.NIC.HU 195.70.35.250
 
-Registration Date: 07-November-1990
-Last Updated Date: 15-June-2010
+remarks:      Registration information: http://www.nic.hu
+
+created:      1990-11-07
+changed:      2010-06-15
+source:       IANA
+
