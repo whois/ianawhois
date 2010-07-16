@@ -1,82 +1,55 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: ca
-ID: ca
+domain:       CA
 
-Sponsoring Organization:
-    Name: 
-    Organization: Canadian Internet Registration Authority (CIRA)
-                  Autorite Canadienne pour les Enregistrements Internet (ACEI)
-    Address1: 350 Sparks Street
-    Address2: Suite 306
-    Address3: 
-    City: Ottawa
-    State/Province: Ontario
-    Country: Canada
-    Postal Code: K1R 7S8
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 18-September-2008
+organisation: Canadian Internet Registration Authority (CIRA)
+organisation: Autorite Canadienne pour les Enregistrements Internet (ACEI)
+address:      350 Sparks Street
+address:      Suite 306
+address:      Ottawa Ontario K1R 7S8
+address:      Canada
 
-Administrative Contact:
-    Name: Chief Information Officer
-    Organization: CIRA
-    Address1: 350 Sparks Street
-    Address2: Suite 306
-    Address3: 
-    City: Ottawa
-    State/Province: Ontario
-    Country: Canada
-    Postal Code: K1R 7S8
-    Phone: +1 613 237 5335
-    Fax: +1 613 237 0534
-    Email: chief.information.officer@cira.ca
-    Registration Date: 01-January-1985
-    Last Updated Date: 18-September-2008
+contact:      administrative
+name:         Chief Information Officer
+organisation: CIRA
+address:      350 Sparks Street
+address:      Suite 306
+address:      Ottawa Ontario K1R 7S8
+address:      Canada
+phone:        +1 613 237 5335
+fax-no:       +1 613 237 0534
+e-mail:       chief.information.officer@cira.ca
 
-Technical Contact:
-    Name: DNS Admin
-    Organization: CIRA
-    Address1: 350 Sparks Street
-    Address2: Suite 306
-    Address3: 
-    City: Ottawa
-    State/Province: Ontario
-    Country: Canada
-    Postal Code: K1R 7S8
-    Phone: +1 613 237 5335
-    Fax: +1 613 237 0534
-    Email: admin-dns@cira.ca
-    Registration Date: 01-January-1985
-    Last Updated Date: 18-September-2008
-URL for registration services: http://www.cira.ca/
-Whois Server (port 43): whois.cira.ca
+contact:      technical
+name:         DNS Admin
+organisation: CIRA
+address:      350 Sparks Street
+address:      Suite 306
+address:      Ottawa Ontario K1R 7S8
+address:      Canada
+phone:        +1 613 237 5335
+fax-no:       +1 613 237 0534
+e-mail:       admin-dns@cira.ca
 
-Nameserver Information:
-    Nameserver: a.ca-servers.ca.
-    IP Address: 192.228.27.11
-    Nameserver: b.ca-servers.ca.
-    IP Address: 192.228.25.45
-    Nameserver: c.ca-servers.ca.
-    IP Address: 192.228.28.9
-    Nameserver: d.ca-servers.ca.
-    IP Address: 129.33.164.73
-    Nameserver: e.ca-servers.ca.
-    IP Address: 192.228.30.9
-    Nameserver: f.ca-servers.ca.
-    IP Address: 199.4.28.220
-    Nameserver: j.ca-servers.ca.
-    IP Address: 198.182.167.1 2001:500:83:0:0:0:0:1
-    Nameserver: k.ca-servers.ca.
-    IP Address: 156.154.100.4
-    Nameserver: l.ca-servers.ca.
-    IP Address: 156.154.101.4
-    Nameserver: m.ca-servers.ca.
-    IP Address: 156.154.102.4
-    Nameserver: sns-pb.isc.org.
-    IP Address: 192.5.4.1 2001:500:2e:0:0:0:0:1
+nserver:      A.CA-SERVERS.CA 192.228.27.11
+nserver:      B.CA-SERVERS.CA 192.228.25.45
+nserver:      C.CA-SERVERS.CA 192.228.28.9
+nserver:      D.CA-SERVERS.CA 129.33.164.73
+nserver:      E.CA-SERVERS.CA 192.228.30.9
+nserver:      F.CA-SERVERS.CA 199.4.28.220
+nserver:      J.CA-SERVERS.CA 198.182.167.1 2001:500:83:0:0:0:0:1
+nserver:      K.CA-SERVERS.CA 156.154.100.4
+nserver:      L.CA-SERVERS.CA 156.154.101.4
+nserver:      M.CA-SERVERS.CA 156.154.102.4
+nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e:0:0:0:0:1
 
-Registration Date: 14-May-1987
-Last Updated Date: 07-January-2010
+whois:        whois.cira.ca
+
+remarks:      Registration information: http://www.cira.ca/
+
+created:      1987-05-14
+changed:      2010-01-07
+source:       IANA
+
