@@ -1,63 +1,42 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: kg
-ID: kg
+domain:       KG
 
-Sponsoring Organization:
-    Name: 
-    Organization: AsiaInfo Telecommunication Enterprise
-    Address1: Abdrahmanova, 175
-    Address2: 
-    Address3: 
-    City: Bishkek
-    State/Province: 
-    Country: Kyrgyzstan
-    Postal Code: 720011
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 06-April-2010
+organisation: AsiaInfo Telecommunication Enterprise
+address:      Abdrahmanova, 175
+address:      Bishkek  720011
+address:      Kyrgyzstan
 
-Administrative Contact:
-    Name: Alexander P. Kovalev
-    Organization: AsiaInfo Telecommunication Enterprise
-    Address1: Abdrahmanova, 175
-    Address2: 
-    Address3: 
-    City: Bishkek
-    State/Province: 
-    Country: Kyrgyzstan
-    Postal Code: 720011
-    Phone: +996 312 964488
-    Fax: +996 312 963434
-    Email: admin@domain.kg
-    Registration Date: 01-January-1985
-    Last Updated Date: 06-April-2010
+contact:      administrative
+name:         Alexander P. Kovalev
+organisation: AsiaInfo Telecommunication Enterprise
+address:      Abdrahmanova, 175
+address:      Bishkek  720011
+address:      Kyrgyzstan
+phone:        +996 312 964488
+fax-no:       +996 312 963434
+e-mail:       admin@domain.kg
 
-Technical Contact:
-    Name: Anton N. Goncharov
-    Organization: AsiaInfo Telecommunication Enterprise
-    Address1: Abdrahmanova, 175
-    Address2: 
-    Address3: 
-    City: Bishkek
-    State/Province: 
-    Country: Kyrgyzstan
-    Postal Code: 720011
-    Phone: +996 312 961112
-    Fax: +996 312 963434
-    Email: wazaari70@mail.ru
-    Registration Date: 01-January-1985
-    Last Updated Date: 06-April-2010
-URL for registration services: http://www.domain.kg/
-Whois Server (port 43): whois.domain.kg
+contact:      technical
+name:         Anton N. Goncharov
+organisation: AsiaInfo Telecommunication Enterprise
+address:      Abdrahmanova, 175
+address:      Bishkek  720011
+address:      Kyrgyzstan
+phone:        +996 312 961112
+fax-no:       +996 312 963434
+e-mail:       wazaari70@mail.ru
 
-Nameserver Information:
-    Nameserver: ns.kg.
-    IP Address: 195.38.160.36
-    Nameserver: ns-kg.ripe.net.
-    IP Address: 193.0.12.119  2001:610:240:0:53:cc:12:119
+nserver:      NS-KG.RIPE.NET  193.0.12.119 2001:610:240:0:53:cc:12:119
+nserver:      NS.KG 195.38.160.36
 
-Registration Date: 12-July-1995
-Last Updated Date: 06-April-2010
+whois:        whois.domain.kg
+
+remarks:      Registration information: http://www.domain.kg/
+
+created:      1995-07-12
+changed:      2010-04-06
+source:       IANA
+
