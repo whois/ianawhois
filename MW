@@ -1,69 +1,47 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: mw
-ID: mw
+domain:       MW
 
-Sponsoring Organization:
-    Name: 
-    Organization: Malawi Sustainable Development Network Programme
-                  (Malawi SDNP)
-    Address1: Room 51, Polytechnic
-    Address2: P.O. Box 31762
-    Address3: 
-    City: Chichiri
-    State/Province: Blantyre
-    Country: Malawi
-    Postal Code: 3
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 29-May-2009
+organisation: Malawi Sustainable Development Network Programme
+organisation: (Malawi SDNP)
+address:      Room 51, Polytechnic
+address:      P.O. Box 31762
+address:      Chichiri Blantyre 3
+address:      Malawi
 
-Administrative Contact:
-    Name: The Coordinator (Dr. Paulos B. Nyirenda)
-    Organization: Malawi SDNP
-    Address1: Room 51, Polytechnic
-    Address2: P.O. Box 31762
-    Address3: 
-    City: Chichiri
-    State/Province: Blantyre
-    Country: Malawi
-    Postal Code: 3
-    Phone: +265 (0) 1 874979, +265 (0) 8 824787
-    Fax: +265 (0) 1 873944
-    Email: paulos@sdnp.org.mw
-    Registration Date: 01-January-1985
-    Last Updated Date: 29-May-2009
+contact:      administrative
+name:         The Coordinator (Dr. Paulos B. Nyirenda)
+organisation: Malawi SDNP
+address:      Room 51, Polytechnic
+address:      P.O. Box 31762
+address:      Chichiri Blantyre 3
+address:      Malawi
+phone:        +265 (0) 1 874979, +265 (0) 8 824787
+fax-no:       +265 (0) 1 873944
+e-mail:       paulos@sdnp.org.mw
 
-Technical Contact:
-    Name: The Information Specialist (Mr. Blessings Msowoya)
-    Organization: Malawi SDNP
-    Address1: Room 51, Polytechnic
-    Address2: P.O. Box 31762
-    Address3: 
-    City: Chichiri
-    State/Province: Blantyre
-    Country: Malawi
-    Postal Code: 3
-    Phone: +265 (0) 1 874979, +264 (0) 8 844657
-    Fax: +265 (0) 1 873944
-    Email: mwsdnptech@sdnp.org.mw
-    Registration Date: 01-January-1985
-    Last Updated Date: 29-May-2009
-URL for registration services: http://www.registrar.mw
+contact:      technical
+name:         The Information Specialist (Mr. Blessings Msowoya)
+organisation: Malawi SDNP
+address:      Room 51, Polytechnic
+address:      P.O. Box 31762
+address:      Chichiri Blantyre 3
+address:      Malawi
+phone:        +265 (0) 1 874979, +264 (0) 8 844657
+fax-no:       +265 (0) 1 873944
+e-mail:       mwsdnptech@sdnp.org.mw
 
-Nameserver Information:
-    Nameserver: chambo.sdnp.org.mw.
-    IP Address: 196.45.188.5
-    Nameserver: domwe.sdn.mw.
-    IP Address: 196.45.190.9
-    Nameserver: ns-mw.ripe.net.
-    IP Address: 193.0.12.132
-    Nameserver: rip.psg.com.
-    IP Address: 147.28.0.39 2001:418:1:0:0:0:0:39
-    Nameserver: sec3.apnic.net.
-    IP Address: 202.12.28.140 2001:dc0:1:0:4777:0:0:140
+nserver:      CHAMBO.SDNP.ORG.MW 196.45.188.5
+nserver:      DOMWE.SDN.MW 196.45.190.9
+nserver:      NS-MW.RIPE.NET 193.0.12.132
+nserver:      RIP.PSG.COM 147.28.0.39 2001:418:1:0:0:0:0:39
+nserver:      SEC3.APNIC.NET 2001:dc0:1:0:4777:0:0:140 202.12.28.140
 
-Registration Date: 03-January-1997
-Last Updated Date: 29-May-2009
+remarks:      Registration information: http://www.registrar.mw
+
+created:      1997-01-03
+changed:      2009-05-29
+source:       IANA
+
