@@ -1,71 +1,52 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: info
-ID: info
+domain:       INFO
 
-Sponsoring Organization:
-    Name: 
-    Organization: Afilias Limited
-    Address1: Office 107
-    Address2: 3013 Lake Drive
-    Address3: CityWest
-    City: Dublin 24
-    State/Province: 
-    Country: Ireland
-    Postal Code: 
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 17-November-2009
+organisation: Afilias Limited
+address:      Office 107
+address:      3013 Lake Drive
+address:      CityWest
+address:      Dublin 24
+address:      Ireland
 
-Administrative Contact:
-    Name: Ram Mohan
-    Organization: Afilias Limited
-    Address1: C/O Afilias USA, Inc.
-    Address2: 300 Welsh Road, Building 3
-    Address3: Suite 105
-    City: Horsham
-    State/Province: Pennsylvania
-    Country: United States
-    Postal Code: 19044
-    Phone: +1 215 706 5700
-    Fax: +1 215 706 5701
-    Email: domainadmin@afilias.info
-    Registration Date: 01-January-1985
-    Last Updated Date: 17-November-2009
+contact:      administrative
+name:         Ram Mohan
+organisation: Afilias Limited
+address:      C/O Afilias USA, Inc.
+address:      300 Welsh Road, Building 3
+address:      Suite 105
+address:      Horsham Pennsylvania 19044
+address:      United States
+phone:        +1 215 706 5700
+fax-no:       +1 215 706 5701
+e-mail:       domainadmin@afilias.info
 
-Technical Contact:
-    Name: Howard Eland
-    Organization: Afilias Limited
-    Address1: C/O Afilias USA, Inc.
-    Address2: 300 Welsh Road, Building 3
-    Address3: Suite 105
-    City: Horsham
-    State/Province: Pennsylvania
-    Country: United States
-    Postal Code: 19044
-    Phone: +1 215 706 5700
-    Fax: +1 215 706 5701
-    Email: domaintech@afilias.info
-    Registration Date: 01-January-1985
-    Last Updated Date: 17-November-2009
-URL for registration services: http://www.nic.info
-Whois Server (port 43): whois.afilias.net
+contact:      technical
+name:         Howard Eland
+organisation: Afilias Limited
+address:      C/O Afilias USA, Inc.
+address:      300 Welsh Road, Building 3
+address:      Suite 105
+address:      Horsham Pennsylvania 19044
+address:      United States
+phone:        +1 215 706 5700
+fax-no:       +1 215 706 5701
+e-mail:       domaintech@afilias.info
 
-Nameserver Information:
-    Nameserver: a0.info.afilias-nst.info.
-    IP Address: 199.254.31.1 2001:500:19:0:0:0:0:1
-    Nameserver: b0.info.afilias-nst.org.
-    IP Address: 199.254.48.1 2001:500:1a:0:0:0:0:1
-    Nameserver: c0.info.afilias-nst.info.
-    IP Address: 199.254.49.1 2001:500:1b:0:0:0:0:1
-    Nameserver: d0.info.afilias-nst.org.
-    IP Address: 199.254.50.1 2001:500:1c:0:0:0:0:1
-    Nameserver: a2.info.afilias-nst.info.
-    IP Address: 199.249.113.1 2001:500:41:0:0:0:0:1
-    Nameserver: b2.info.afilias-nst.org.
-    IP Address: 199.249.121.1 2001:500:49:0:0:0:0:1
+nserver:      A0.INFO.AFILIAS-NST.INFO 199.254.31.1 2001:500:19:0:0:0:0:1
+nserver:      A2.INFO.AFILIAS-NST.INFO 199.249.113.1 2001:500:41:0:0:0:0:1
+nserver:      B0.INFO.AFILIAS-NST.ORG 199.254.48.1 2001:500:1a:0:0:0:0:1
+nserver:      B2.INFO.AFILIAS-NST.ORG 199.249.121.1 2001:500:49:0:0:0:0:1
+nserver:      C0.INFO.AFILIAS-NST.INFO 199.254.49.1 2001:500:1b:0:0:0:0:1
+nserver:      D0.INFO.AFILIAS-NST.ORG 199.254.50.1 2001:500:1c:0:0:0:0:1
 
-Registration Date: 26-June-2001
-Last Updated Date: 17-November-2009
+whois:        whois.afilias.net
+
+remarks:      Registration information: http://www.nic.info
+
+created:      2001-06-26
+changed:      2009-11-17
+source:       IANA
+
