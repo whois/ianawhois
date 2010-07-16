@@ -1,71 +1,46 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: it
-ID: it
+domain:       IT
 
-Sponsoring Organization:
-    Name: 
-    Organization: IIT - CNR
-    Address1: Via Moruzzi, 1
-    Address2: 
-    Address3: 
-    City: Pisa
-    State/Province: 
-    Country: Italy
-    Postal Code: I-56124
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 04-November-2002
+organisation: IIT - CNR
+address:      Via Moruzzi, 1
+address:      Pisa  I-56124
+address:      Italy
 
-Administrative Contact:
-    Name: Domenico Laforenza
-    Organization: IIT - CNR
-    Address1: Via Moruzzi, 1
-    Address2: 
-    Address3: 
-    City: Pisa
-    State/Province: 
-    Country: Italy
-    Postal Code: I-56124
-    Phone: +39 050 315 2112
-    Fax: +39 050 315 2113
-    Email: direttore@iit.cnr.it
-    Registration Date: 01-January-1985
-    Last Updated Date: 29-July-2008
+contact:      administrative
+name:         Domenico Laforenza
+organisation: IIT - CNR
+address:      Via Moruzzi, 1
+address:      Pisa  I-56124
+address:      Italy
+phone:        +39 050 315 2112
+fax-no:       +39 050 315 2113
+e-mail:       direttore@iit.cnr.it
 
-Technical Contact:
-    Name: Maurizio Martinelli
-    Organization: IIT - CNR
-    Address1: Via Moruzzi, 1
-    Address2: 
-    Address3: 
-    City: Pisa
-    State/Province: 
-    Country: Italy
-    Postal Code: I-56124
-    Phone: +39 050 315 2087
-    Fax: +39 050 315 2113
-    Email: Maurizio.Martinelli@iit.cnr.it
-    Registration Date: 01-January-1985
-    Last Updated Date: 25-November-2002
-URL for registration services: http://www.nic.it/
-Whois Server (port 43): whois.nic.it
+contact:      technical
+name:         Maurizio Martinelli
+organisation: IIT - CNR
+address:      Via Moruzzi, 1
+address:      Pisa  I-56124
+address:      Italy
+phone:        +39 050 315 2087
+fax-no:       +39 050 315 2113
+e-mail:       Maurizio.Martinelli@iit.cnr.it
 
-Nameserver Information:
-    Nameserver: dns.nic.it.
-    IP Address: 192.12.192.5 2a00:d40:1:1:0:0:0:5
-    Nameserver: c.dns.it.
-    IP Address: 194.0.1.22 2001:678:4:0:0:0:0:16
-    Nameserver: m.dns.it.
-    IP Address: 217.29.76.4
-    Nameserver: nameserver.cnr.it.
-    IP Address: 194.119.192.34
-    Nameserver: r.dns.it.
-    IP Address: 193.206.141.46 2001:760:ffff:ffff:0:0:0:ca
-    Nameserver: s.dns.it.
-    IP Address: 194.146.106.30
+nserver:      C.DNS.IT 194.0.1.22 2001:678:4:0:0:0:0:16
+nserver:      DNS.NIC.IT 192.12.192.5 2a00:d40:1:1:0:0:0:5
+nserver:      M.DNS.IT 217.29.76.4
+nserver:      NAMESERVER.CNR.IT 194.119.192.34
+nserver:      R.DNS.IT 193.206.141.46 2001:760:ffff:ffff:0:0:0:ca
+nserver:      S.DNS.IT 194.146.106.30
 
-Registration Date: 23-December-1987
-Last Updated Date: 14-September-2009
+whois:        whois.nic.it
+
+remarks:      Registration information: http://www.nic.it/
+
+created:      1987-12-23
+changed:      2009-09-14
+source:       IANA
+
