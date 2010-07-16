@@ -1,78 +1,49 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: il
-ID: il
+domain:       IL
 
-Sponsoring Organization:
-    Name: 
-    Organization: Internet Society of Israel
-    Address1: Bareket 6, POB 7210
-    Address2: 
-    Address3: 
-    City: Petach Tikva
-    State/Province: 
-    Country: Israel
-    Postal Code: 49517
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 14-June-2010
+organisation: Internet Society of Israel
+address:      Bareket 6, POB 7210
+address:      Petach Tikva  49517
+address:      Israel
 
-Administrative Contact:
-    Name: Doron Shikmoni
-    Organization: Internet Society of Israel
-    Address1: Bareket 6, POB 7210
-    Address2: 
-    Address3: 
-    City: Petach Tikva
-    State/Province: 
-    Country: Israel
-    Postal Code: 49517
-    Phone: +972 3 9700900
-    Fax: +972 3 9700901
-    Email: doron@isoc.org.il
-    Registration Date: 01-January-1985
-    Last Updated Date: 14-June-2010
+contact:      administrative
+name:         Doron Shikmoni
+organisation: Internet Society of Israel
+address:      Bareket 6, POB 7210
+address:      Petach Tikva  49517
+address:      Israel
+phone:        +972 3 9700900
+fax-no:       +972 3 9700901
+e-mail:       doron@isoc.org.il
 
-Technical Contact:
-    Name: Simon Shickman
-    Organization: The Hebrew University of Jerusalem
-                  Computation Center
-    Address1: Givat-Ram
-    Address2: 
-    Address3: 
-    City: Jerusalem
-    State/Province: 
-    Country: Israel
-    Postal Code: 91904
-    Phone: +972 2 658 4138
-    Fax: 
-    Email: simon@cc.huji.ac.il
-    Registration Date: 01-January-1985
-    Last Updated Date: 01-January-1985
-URL for registration services: http://www.isoc.org.il/domains
-Whois Server (port 43): whois.isoc.org.il
+contact:      technical
+name:         Simon Shickman
+organisation: The Hebrew University of Jerusalem
+organisation: Computation Center
+address:      Givat-Ram
+address:      Jerusalem  91904
+address:      Israel
+phone:        +972 2 658 4138
+e-mail:       simon@cc.huji.ac.il
 
-Nameserver Information:
-    Nameserver: dns8.denic.de.
-    IP Address: 81.91.161.69
-    Nameserver: ildns.huji.ac.il.
-    IP Address: 128.139.6.66
-    Nameserver: lookup.iucc.ac.il.
-    IP Address: 128.139.34.240
-    Nameserver: ns-ext.isc.org.
-    IP Address: 204.152.184.64 2001:4f8:0:2:0:0:0:13
-    Nameserver: ns-il.ripe.net.
-    IP Address: 193.0.12.108
-    Nameserver: nsb.ns.il.
-    IP Address: 192.115.210.60
-    Nameserver: nsd.ns.il.
-    IP Address: 149.20.56.132 2001:4f8:3:37:0:0:0:11
-    Nameserver: nse.ns.il.
-    IP Address: 192.115.141.253
-    Nameserver: rip.psg.com.
-    IP Address: 147.28.0.39 2001:418:1:0:0:0:0:39
+nserver:      DNS8.DENIC.DE 81.91.161.69
+nserver:      ILDNS.HUJI.AC.IL 128.139.6.66
+nserver:      LOOKUP.IUCC.AC.IL 128.139.34.240
+nserver:      NS-EXT.ISC.ORG 2001:4f8:0:2:0:0:0:13 204.152.184.64
+nserver:      NS-IL.RIPE.NET 193.0.12.108
+nserver:      NSB.NS.IL 192.115.210.60
+nserver:      NSD.NS.IL 149.20.56.132 2001:4f8:3:37:0:0:0:11
+nserver:      NSE.NS.IL 192.115.141.253
+nserver:      RIP.PSG.COM 147.28.0.39 2001:418:1:0:0:0:0:39
 
-Registration Date: 24-October-1985
-Last Updated Date: 14-June-2010
+whois:        whois.isoc.org.il
+
+remarks:      Registration information: http://www.isoc.org.il/domains
+
+created:      1985-10-24
+changed:      2010-06-14
+source:       IANA
+
