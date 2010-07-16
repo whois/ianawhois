@@ -1,68 +1,45 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: im
-ID: im
+domain:       IM
 
-Sponsoring Organization:
-    Name: 
-    Organization: Isle of Man Government
-    Address1: Bucks Road
-    Address2: 
-    Address3: 
-    City: Douglas
-    State/Province: Isle of Man
-    Country: United Kingdom
-    Postal Code: IM1
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 01-January-1985
+organisation: Isle of Man Government
+address:      Bucks Road
+address:      Douglas Isle of Man IM1
+address:      United Kingdom
 
-Administrative Contact:
-    Name: Brian Osborn
-    Organization: Information Systems Division,
-                  Isle of Man Government
-    Address1: St Andrew's House
-    Address2: Finch Road
-    Address3: 
-    City: Douglas
-    State/Province: Isle of Man
-    Country: United Kingdom
-    Postal Code: IM1 3PX
-    Phone: +44 1624 685685
-    Fax: 
-    Email: imdomainadmin@nic.im
-    Registration Date: 01-January-1985
-    Last Updated Date: 07-January-2010
+contact:      administrative
+name:         Brian Osborn
+organisation: Information Systems Division,
+organisation: Isle of Man Government
+address:      St Andrew's House
+address:      Finch Road
+address:      Douglas Isle of Man IM1 3PX
+address:      United Kingdom
+phone:        +44 1624 685685
+e-mail:       imdomainadmin@nic.im
 
-Technical Contact:
-    Name: Phil Adcock
-    Organization: Domicilium (IoM) Ltd
-    Address1: Isle of Man Datacentre
-    Address2: 
-    Address3: 
-    City: Ronaldsway
-    State/Province: Isle of Man
-    Country: United Kingdom
-    Postal Code: IM9 2RS
-    Phone: +44 1624 825278
-    Fax: +44 1624 829525
-    Email: padcock@domicilium.com
-    Registration Date: 01-January-1985
-    Last Updated Date: 07-January-2010
-URL for registration services: http://www.nic.im
-Whois Server (port 43): whois.nic.im
+contact:      technical
+name:         Phil Adcock
+organisation: Domicilium (IoM) Ltd
+address:      Isle of Man Datacentre
+address:      Ronaldsway Isle of Man IM9 2RS
+address:      United Kingdom
+phone:        +44 1624 825278
+fax-no:       +44 1624 829525
+e-mail:       padcock@domicilium.com
 
-Nameserver Information:
-    Nameserver: barney.advsys.co.uk.
-    IP Address: 217.23.160.50
-    Nameserver: pebbles.iom.com.
-    IP Address: 80.168.83.242
-    Nameserver: hoppy.iom.com.
-    IP Address: 217.23.163.140
-    Nameserver: ns4.ja.net.
-    IP Address: 193.62.157.66 2001:630:0:47:0:0:0:42
+nserver:      BARNEY.ADVSYS.CO.UK 217.23.160.50
+nserver:      HOPPY.IOM.COM 217.23.163.140
+nserver:      NS4.JA.NET 193.62.157.66 2001:630:0:47:0:0:0:42
+nserver:      PEBBLES.IOM.COM 80.168.83.242
 
-Registration Date: 11-September-1996
-Last Updated Date: 07-January-2010
+whois:        whois.nic.im
+
+remarks:      Registration information: http://www.nic.im
+
+created:      1996-09-11
+changed:      2010-01-07
+source:       IANA
+
