@@ -1,67 +1,44 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: dm
-ID: dm
+domain:       DM
 
-Sponsoring Organization:
-    Name: 
-    Organization: DotDM Corporation
-    Address1: P.O. Box 2102
-    Address2: 
-    Address3: 
-    City: Roseau
-    State/Province: 
-    Country: Dominica
-    Postal Code: 
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 22-August-2007
-    Last Updated Date: 22-August-2007
+organisation: DotDM Corporation
+address:      P.O. Box 2102
+address:      Roseau
+address:      Dominica
 
-Administrative Contact:
-    Name: Jennifer Aird, Chief Executive Officer
-    Organization: DotDM Corporation
-    Address1: P.O. Box 2102
-    Address2: 
-    Address3: 
-    City: Roseau
-    State/Province: 
-    Country: Dominica
-    Postal Code: 
-    Phone: +1 (767) 448-1531
-    Fax: +1 (767) 448-5015
-    Email: admin@dotdm.dm
-    Registration Date: 22-August-2007
-    Last Updated Date: 22-August-2007
+contact:      administrative
+name:         Jennifer Aird, Chief Executive Officer
+organisation: DotDM Corporation
+address:      P.O. Box 2102
+address:      Roseau
+address:      Dominica
+phone:        +1 (767) 448-1531
+fax-no:       +1 (767) 448-5015
+e-mail:       admin@dotdm.dm
 
-Technical Contact:
-    Name: Hilkiah Lavinier, Chief Technical Officer
-    Organization: DotDM Corporation
-    Address1: P.O. Box 2102
-    Address2: 
-    Address3: 
-    City: Roseau
-    State/Province: 
-    Country: Dominica
-    Postal Code: 
-    Phone: +1 (767) 448-1531
-    Fax: +1 (767) 448-5015
-    Email: cto@dotdm.dm
-    Registration Date: 22-August-2007
-    Last Updated Date: 22-August-2007
-URL for registration services: http://www.nic.dm
-Whois Server (port 43): whois.nic.dm
+contact:      technical
+name:         Hilkiah Lavinier, Chief Technical Officer
+organisation: DotDM Corporation
+address:      P.O. Box 2102
+address:      Roseau
+address:      Dominica
+phone:        +1 (767) 448-1531
+fax-no:       +1 (767) 448-5015
+e-mail:       cto@dotdm.dm
 
-Nameserver Information:
-    Nameserver: ns1.nic.dm.
-    IP Address: 208.0.224.114
-    Nameserver: ns2.nic.dm.
-    IP Address: 208.0.224.115
-    Nameserver: ns.anycast.nic.dm.
-    IP Address: 204.61.216.18
-    Nameserver: ns.cx-nic.org.nz.
-    IP Address: 203.119.12.245
+nserver:      NS.ANYCAST.NIC.DM 204.61.216.18
+nserver:      NS.CX-NIC.ORG.NZ 203.119.12.245
+nserver:      NS1.NIC.DM 208.0.224.114
+nserver:      NS2.NIC.DM 208.0.224.115
 
-Registration Date: 03-September-1991
-Last Updated Date: 23-August-2007
+whois:        whois.nic.dm
+
+remarks:      Registration information: http://www.nic.dm
+
+created:      1991-09-03
+changed:      2007-08-23
+source:       IANA
+
