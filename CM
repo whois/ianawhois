@@ -1,86 +1,44 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: cm
-ID: cm
+domain:       CM
 
-Sponsoring Organization:
-    Name: 
-    Organization: Cameroon Telecommunications (CAMTEL)
-    Address1: Boulevard du 20 mai
-    Address2: 
-    Address3: 
-    City: Yaounde
-    State/Province: 
-    Country: Cameroon
-    Postal Code: P.O Box 1571
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 31-March-2005
+organisation: Cameroon Telecommunications (CAMTEL)
+address:      Boulevard du 20 mai
+address:      Yaounde  P.O Box 1571
+address:      Cameroon
 
-Administrative Contact:
-    Name: NGUIAMBA NLOUTSIRI Emmanuel
-    Organization: CAMTEL
-    Address1: Boulevard du 20 mai
-    Address2: 
-    Address3: 
-    City: Yaounde
-    State/Province: 
-    Country: Cameroon
-    Postal Code: P.O Box 1571
-    Phone: +237 223 4065
-    Fax: +237 223 0303
-    Email: camtel@camnet.cm
-    Registration Date: 01-January-1985
-    Last Updated Date: 31-March-2005
+contact:      administrative
+name:         NGUIAMBA NLOUTSIRI Emmanuel
+organisation: CAMTEL
+address:      Boulevard du 20 mai
+address:      Yaounde  P.O Box 1571
+address:      Cameroon
+phone:        +237 223 4065
+fax-no:       +237 223 0303
+e-mail:       camtel@camnet.cm
 
-Technical Contact:
-    Name: TCHOULACK Jean-Claude
-    Organization: CAMTEL
-    Address1: Boulevard du 20 mai
-    Address2: 
-    Address3: 
-    City: Yaounde
-    State/Province: 
-    Country: Cameroon
-    Postal Code: P.O Box 1571
-    Phone: +237 223 4065
-    Fax: +237 223 0303
-    Email: jean-claude.tchoulack@camnet.cm
-    Registration Date: 01-January-1985
-    Last Updated Date: 31-March-2005
+contact:      technical
+name:         BIKOE Jean-Ernest
+organisation: CAMTEL
+address:      Boulevard du 20 mai
+address:      Yaounde  P.O Box 1571
+address:      Cameroon
+phone:        +237 223 4065
+fax-no:       +237 223 0303
+e-mail:       jean-ernest.bikoe@camnet.cm
 
-Technical Contact:
-    Name: BIKOE Jean-Ernest
-    Organization: CAMTEL
-    Address1: Boulevard du 20 mai
-    Address2: 
-    Address3: 
-    City: Yaounde
-    State/Province: 
-    Country: Cameroon
-    Postal Code: P.O Box 1571
-    Phone: +237 223 4065
-    Fax: +237 223 0303
-    Email: jean-ernest.bikoe@camnet.cm
-    Registration Date: 30-March-2005
-    Last Updated Date: 31-March-2005
-URL for registration services: http://www.info.camnet.cm
+nserver:      AUTH02.NS.UU.NET 198.6.1.82
+nserver:      KIM.CAMNET.CM 195.24.192.35
+nserver:      LOM.CAMNET.CM 195.24.192.34
+nserver:      NS.ITU.CH 156.106.192.121
+nserver:      NS.RIPE.NET 193.0.0.193
+nserver:      SANAGA.CAMNET.CM 195.24.192.17
 
-Nameserver Information:
-    Nameserver: auth02.ns.uu.net.
-    IP Address: 198.6.1.82
-    Nameserver: kim.camnet.cm.
-    IP Address: 195.24.192.35
-    Nameserver: lom.camnet.cm.
-    IP Address: 195.24.192.34
-    Nameserver: ns.itu.ch.
-    IP Address: 156.106.192.121
-    Nameserver: ns.ripe.net.
-    IP Address: 193.0.0.193
-    Nameserver: sanaga.camnet.cm.
-    IP Address: 195.24.192.17
+remarks:      Registration information: http://www.info.camnet.cm
 
-Registration Date: 29-April-1995
-Last Updated Date: 26-July-2005
+created:      1995-04-29
+changed:      2005-07-26
+source:       IANA
+
