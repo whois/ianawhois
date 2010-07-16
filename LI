@@ -1,73 +1,47 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: li
-ID: li
+domain:       LI
 
-Sponsoring Organization:
-    Name: 
-    Organization: Hochschule Liechtenstein
-    Address1: Fuerst-Franz-Josef-Strasse
-    Address2: 
-    Address3: 
-    City: Vaduz
-    State/Province: 
-    Country: Liechtenstein
-    Postal Code: LI-9490
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 29-August-2005
+organisation: Hochschule Liechtenstein
+address:      Fuerst-Franz-Josef-Strasse
+address:      Vaduz  LI-9490
+address:      Liechtenstein
 
-Administrative Contact:
-    Name: Markus Graf
-    Organization: Hochschule Liechtenstein
-    Address1: Fuerst-Franz-Josef-Strasse
-    Address2: 
-    Address3: 
-    City: Vaduz
-    State/Province: 
-    Country: Liechtenstein
-    Postal Code: LI-9490
-    Phone: +423 265 1212
-    Fax: +423 265 1201
-    Email: markus.graf@hochschule.li
-    Registration Date: 01-January-1985
-    Last Updated Date: 29-August-2005
+contact:      administrative
+name:         Markus Graf
+organisation: Hochschule Liechtenstein
+address:      Fuerst-Franz-Josef-Strasse
+address:      Vaduz  LI-9490
+address:      Liechtenstein
+phone:        +423 265 1212
+fax-no:       +423 265 1201
+e-mail:       markus.graf@hochschule.li
 
-Technical Contact:
-    Name: Marcel Schneider
-    Organization: SWITCH The Swiss Education & Research Network
-    Address1: Werdstrasse 2
-    Address2: 
-    Address3: 
-    City: Zurich
-    State/Province: 
-    Country: Switzerland
-    Postal Code: CH-8004
-    Phone: +41 44 253 98 07
-    Fax: +41 44 268 15 68
-    Email: schneider@switch.ch
-    Registration Date: 01-January-1985
-    Last Updated Date: 24-April-2007
-URL for registration services: http://www.nic.li
-Whois Server (port 43): whois.nic.li
+contact:      technical
+name:         Marcel Schneider
+organisation: SWITCH The Swiss Education & Research Network
+address:      Werdstrasse 2
+address:      Zurich  CH-8004
+address:      Switzerland
+phone:        +41 44 253 98 07
+fax-no:       +41 44 268 15 68
+e-mail:       schneider@switch.ch
 
-Nameserver Information:
-    Nameserver: a.nic.li.
-    IP Address: 130.59.1.80 2001:620:0:0:0:0:0:4
-    Nameserver: b.nic.li.
-    IP Address: 130.59.211.10 2001:620:0:0:0:0:0:5
-    Nameserver: c.nic.li.
-    IP Address: 147.28.0.39 2001:418:1:0:0:0:0:39
-    Nameserver: d.nic.li.
-    IP Address: 200.160.0.5
-    Nameserver: e.nic.li.
-    IP Address: 204.61.216.48 2001:500:14:6048:ad:0:0:1
-    Nameserver: f.nic.li.
-    IP Address: 194.146.106.14
-    Nameserver: h.nic.li.
-    IP Address: 194.42.48.120
+nserver:      A.NIC.LI 130.59.1.80 2001:620:0:0:0:0:0:4
+nserver:      B.NIC.LI 130.59.211.10 2001:620:0:0:0:0:0:5
+nserver:      C.NIC.LI 147.28.0.39 2001:418:1:0:0:0:0:39
+nserver:      D.NIC.LI 200.160.0.5
+nserver:      E.NIC.LI 2001:500:14:6048:ad:0:0:1 204.61.216.48
+nserver:      F.NIC.LI 194.146.106.14
+nserver:      H.NIC.LI 194.42.48.120
 
-Registration Date: 26-February-1993
-Last Updated Date: 20-October-2009
+whois:        whois.nic.li
+
+remarks:      Registration information: http://www.nic.li
+
+created:      1993-02-26
+changed:      2009-10-20
+source:       IANA
+
