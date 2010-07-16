@@ -1,72 +1,43 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: cr
-ID: cr
+domain:       CR
 
-Sponsoring Organization:
-    Name: 
-    Organization: National Academy of Sciences
-                  Academia Nacional de Ciencias
-    Address1: 
-    Address2: 
-    Address3: 
-    City: San JosÈ
-    State/Province: 
-    Country: Costa Rica
-    Postal Code: 1367-2050
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 08-August-2006
+organisation: National Academy of Sciences
+organisation: Academia Nacional de Ciencias
+address:      San Jos√©  1367-2050
+address:      Costa Rica
 
-Administrative Contact:
-    Name: Guy F. de Teramond
-    Organization: National Academy of Sciences
-                  Academia Nacional de Ciencias
-    Address1: 
-    Address2: 
-    Address3: 
-    City: San JosÈ
-    State/Province: 
-    Country: Costa Rica
-    Postal Code: 1367-2050
-    Phone: +506 283-4814
-    Fax: +506 283-4101
-    Email: gdt@ns.cr
-    Registration Date: 01-January-1985
-    Last Updated Date: 08-August-2006
+contact:      administrative
+name:         Guy F. de Teramond
+organisation: National Academy of Sciences
+organisation: Academia Nacional de Ciencias
+address:      San Jos√©  1367-2050
+address:      Costa Rica
+phone:        +506 283-4814
+fax-no:       +506 283-4101
+e-mail:       gdt@ns.cr
 
-Technical Contact:
-    Name: Abel Brenes
-    Organization: Centro de Inform·tica, Universidad de Costa Rica
-    Address1: 
-    Address2: 
-    Address3: 
-    City: San JosÈ
-    State/Province: 
-    Country: Costa Rica
-    Postal Code: 2060-1000
-    Phone: +506 207-5422
-    Fax: +506 253-6075
-    Email: abrenes@ns.cr
-    Registration Date: 01-January-1985
-    Last Updated Date: 08-August-2006
-URL for registration services: http://www.nic.cr/
+contact:      technical
+name:         Abel Brenes
+organisation: Centro de Inform√°tica, Universidad de Costa Rica
+address:      San Jos√©  2060-1000
+address:      Costa Rica
+phone:        +506 207-5422
+fax-no:       +506 253-6075
+e-mail:       abrenes@ns.cr
 
-Nameserver Information:
-    Nameserver: ns.cr.
-    IP Address: 163.178.8.2
-    Nameserver: ns.ucr.ac.cr.
-    IP Address: 163.178.88.2
-    Nameserver: ns1-auth.sprintlink.net.
-    IP Address: 206.228.179.10
-    Nameserver: ns3-auth.sprintlink.net.
-    IP Address: 144.228.255.10
-    Nameserver: ns3.nic.mx.
-    IP Address: 200.33.111.1
-    Nameserver: ns-cr.ripe.net.
-    IP Address: 193.0.12.55
+nserver:      NS-CR.RIPE.NET 193.0.12.55
+nserver:      NS.CR 163.178.8.2
+nserver:      NS.UCR.AC.CR 163.178.88.2
+nserver:      NS1-AUTH.SPRINTLINK.NET 206.228.179.10
+nserver:      NS3-AUTH.SPRINTLINK.NET 144.228.255.10
+nserver:      NS3.NIC.MX 200.33.111.1
 
-Registration Date: 10-September-1990
-Last Updated Date: 05-April-2007
+remarks:      Registration information: http://www.nic.cr/
+
+created:      1990-09-10
+changed:      2007-04-05
+source:       IANA
+
