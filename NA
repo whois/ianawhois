@@ -1,69 +1,47 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: na
-ID: na
+domain:       NA
 
-Sponsoring Organization:
-    Name: 
-    Organization: Namibian Network Information Center
-    Address1: PO Box 1342
-    Address2: 
-    Address3: 
-    City: Swakopmund
-    State/Province: 
-    Country: Namibia
-    Postal Code: 
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 01-January-1985
+organisation: Namibian Network Information Center
+address:      PO Box 1342
+address:      Swakopmund
+address:      Namibia
 
-Administrative Contact:
-    Name: NA Domain Administrators
-    Organization: Namibian Network Information Center
-    Address1: PO Box 1342
-    Address2: 2, Woker Street
-    Address3: 
-    City: Swakopmund
-    State/Province: 
-    Country: Namibia
-    Postal Code: 
-    Phone: +264 81 124 6733
-    Fax: +264 61 232047
-    Email: dns-admin@na-nic.com.na
-    Registration Date: 01-January-1985
-    Last Updated Date: 09-February-2010
+contact:      administrative
+name:         NA Domain Administrators
+organisation: Namibian Network Information Center
+address:      PO Box 1342
+address:      2, Woker Street
+address:      Swakopmund
+address:      Namibia
+phone:        +264 81 124 6733
+fax-no:       +264 61 232047
+e-mail:       dns-admin@na-nic.com.na
 
-Technical Contact:
-    Name: NA Domain Techs
-    Organization: Namibian Network Information Center
-    Address1: PO Box 1342
-    Address2: 
-    Address3: 
-    City: Swakopmund
-    State/Province: 
-    Country: Namibia
-    Postal Code: 
-    Phone: +264 64 463931
-    Fax: +264 64 463931
-    Email: dns-tech@na-nic.com.na
-    Registration Date: 01-January-1985
-    Last Updated Date: 01-January-1985
-URL for registration services: http://www.na-nic.com.na/
-Whois Server (port 43): whois.na-nic.com.na
+contact:      technical
+name:         NA Domain Techs
+organisation: Namibian Network Information Center
+address:      PO Box 1342
+address:      Swakopmund
+address:      Namibia
+phone:        +264 64 463931
+fax-no:       +264 64 463931
+e-mail:       dns-tech@na-nic.com.na
 
-Nameserver Information:
-    Nameserver: merlin.net.na.
-    IP Address: 204.152.184.96
-    Nameserver: na-ns.anycast.pch.net.
-    IP Address: 204.61.216.35
-    Nameserver: na1.dyntld.net.
-    IP Address: 208.78.70.90
-    Nameserver: na2.dyntld.net.
-    IP Address: 204.13.250.90
-    Nameserver: sns-pb.isc.org.
-    IP Address: 192.5.4.1 2001:500:2e:0:0:0:0:1
+nserver:      MERLIN.NET.NA 204.152.184.96
+nserver:      NA-NS.ANYCAST.PCH.NET 204.61.216.35
+nserver:      NA1.DYNTLD.NET 208.78.70.90
+nserver:      NA2.DYNTLD.NET 204.13.250.90
+nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e:0:0:0:0:1
+ds-rdata:     24484 5 1 EFC19D4685751FF8E11F96142A083DCB9C708912
 
-Registration Date: 08-May-1991
-Last Updated Date: 09-February-2010
+whois:        whois.na-nic.com.na
+
+remarks:      Registration information: http://www.na-nic.com.na/
+
+created:      1991-05-08
+changed:      2010-07-10
+source:       IANA
+
