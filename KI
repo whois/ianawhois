@@ -1,77 +1,48 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: ki
-ID: ki
+domain:       KI
 
-Sponsoring Organization:
-    Name: 
-    Organization: Ministry of Communications, Transport, and Tourism Development
-    Address1: Betio
-    Address2: 
-    Address3: 
-    City: Tarawa
-    State/Province: 
-    Country: Kiribati
-    Postal Code: 
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 18-August-2006
+organisation: Ministry of Communications, Transport, and Tourism Development
+address:      Betio
+address:      Tarawa
+address:      Kiribati
 
-Administrative Contact:
-    Name: Secretary - Kietau Tabwebweiti
-    Organization: Ministry of Communications, Transport, and Tourism Development
-    Address1: Betio
-    Address2: 
-    Address3: 
-    City: Tarawa
-    State/Province: 
-    Country: Kiribati
-    Postal Code: 
-    Phone: +686 26003
-    Fax: +686 26193
-    Email: secretary@mcttd.gov.ki
-    Registration Date: 01-January-1985
-    Last Updated Date: 03-November-2008
+contact:      administrative
+name:         Secretary - Kietau Tabwebweiti
+organisation: Ministry of Communications, Transport, and Tourism Development
+address:      Betio
+address:      Tarawa
+address:      Kiribati
+phone:        +686 26003
+fax-no:       +686 26193
+e-mail:       secretary@mcttd.gov.ki
 
-Technical Contact:
-    Name: Manager Engineering - Bwanouia Aberaam
-    Organization: Telecommunications Authority of Kiribati
-    Address1: 
-    Address2: 
-    Address3: 
-    City: Betio
-    State/Province: Tarawa
-    Country: Kiribati
-    Postal Code: 
-    Phone: +686 25431
-    Fax: +686 25432
-    Email: bwanouia.aberaam@nic.ki
-    Registration Date: 01-January-1985
-    Last Updated Date: 18-August-2006
-URL for registration services: http://www.nic.ki
-Whois Server (port 43): whois.nic.ki
+contact:      technical
+name:         Manager Engineering - Bwanouia Aberaam
+organisation: Telecommunications Authority of Kiribati
+address:      Betio Tarawa
+address:      Kiribati
+phone:        +686 25431
+fax-no:       +686 25432
+e-mail:       bwanouia.aberaam@nic.ki
 
-Nameserver Information:
-    Nameserver: ns.sydney.nic.ki.
-    IP Address: 203.119.12.246
-    Nameserver: ns-ki.ripe.net.
-    IP Address: 193.0.12.115
-    Nameserver: ns.anycast.nic.ki.
-    IP Address: 204.61.216.26
-    Nameserver: sec1.apnic.net.
-    IP Address: 202.12.29.59 2001:dc0:2001:a:4608::59
-    Nameserver: sec3.apnic.net.
-    IP Address: 202.12.28.140 2001:dc0:1:0:4777:0:0:140
-    Nameserver: ki1.dyntld.net.
-    IP Address: 208.78.70.87
-    Nameserver: ki2.dyntld.net.
-    IP Address: 204.13.250.87
-    Nameserver: ki3.dyntld.net.
-    IP Address: 208.78.71.87
-    Nameserver: ki4.dyntld.net.
-    IP Address: 204.13.251.87
+nserver:      KI1.DYNTLD.NET 208.78.70.87
+nserver:      KI2.DYNTLD.NET 204.13.250.87
+nserver:      KI3.DYNTLD.NET 208.78.71.87
+nserver:      KI4.DYNTLD.NET 204.13.251.87
+nserver:      NS-KI.RIPE.NET 193.0.12.115
+nserver:      NS.ANYCAST.NIC.KI 204.61.216.26
+nserver:      NS.SYDNEY.NIC.KI 203.119.12.246
+nserver:      SEC1.APNIC.NET 2001:dc0:2001:a:4608::59 202.12.29.59
+nserver:      SEC3.APNIC.NET 2001:dc0:1:0:4777:0:0:140 202.12.28.140
 
-Registration Date: 19-April-1995
-Last Updated Date: 03-November-2008
+whois:        whois.nic.ki
+
+remarks:      Registration information: http://www.nic.ki
+
+created:      1995-04-19
+changed:      2008-11-03
+source:       IANA
+
