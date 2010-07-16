@@ -1,73 +1,45 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: ms
-ID: ms
+domain:       MS
 
-Sponsoring Organization:
-    Name: 
-    Organization: MNI Networks Ltd.
-    Address1: Olveston Drive
-    Address2: 
-    Address3: 
-    City: Olveston
-    State/Province: Salem
-    Country: Montserrat
-    Postal Code: 
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 16-December-2008
+organisation: MNI Networks Ltd.
+address:      Olveston Drive
+address:      Olveston Salem
+address:      Montserrat
 
-Administrative Contact:
-    Name: Director, Marketing and Development
-    Organization: MNI Networks Ltd.
-    Address1: Olveston Drive
-    Address2: 
-    Address3: 
-    City: Olveston
-    State/Province: Salem
-    Country: Montserrat
-    Postal Code: 
-    Phone: +1 664 491 6386
-    Fax: 
-    Email: info@mninet.ms
-    Registration Date: 01-January-1985
-    Last Updated Date: 23-December-2008
+contact:      administrative
+name:         Director, Marketing and Development
+organisation: MNI Networks Ltd.
+address:      Olveston Drive
+address:      Olveston Salem
+address:      Montserrat
+phone:        +1 664 491 6386
+e-mail:       info@mninet.ms
 
-Technical Contact:
-    Name: Chief Technical Officer
-    Organization: MNI Networks Ltd.
-    Address1: Olveston Drive
-    Address2: 
-    Address3: 
-    City: Olveston
-    State/Province: Salem
-    Country: Montserrat
-    Postal Code: 
-    Phone: +1 664 491 6386
-    Fax: 
-    Email: regsupport@mninet.ms
-    Registration Date: 16-December-2008
-    Last Updated Date: 23-December-2008
-URL for registration services: http://www.nic.ms
-Whois Server (port 43): whois.nic.ms
+contact:      technical
+name:         Chief Technical Officer
+organisation: MNI Networks Ltd.
+address:      Olveston Drive
+address:      Olveston Salem
+address:      Montserrat
+phone:        +1 664 491 6386
+e-mail:       regsupport@mninet.ms
 
-Nameserver Information:
-    Nameserver: mnidns1.mninet.ms.
-    IP Address: 199.7.90.2
-    Nameserver: ms-ns.anycast.pch.net.
-    IP Address: 204.61.216.33
-    Nameserver: ms1.dyntld.net.
-    IP Address: 208.78.70.84
-    Nameserver: ms2.dyntld.net.
-    IP Address: 204.13.250.84
-    Nameserver: ms3.dyntld.net.
-    IP Address: 208.78.71.84
-    Nameserver: ms4.dyntld.net.
-    IP Address: 204.13.251.84
-    Nameserver: phloem.uoregon.edu.
-    IP Address: 128.223.32.35 2001:468:d01:20::80df:2023
+nserver:      MNIDNS1.MNINET.MS 199.7.90.2
+nserver:      MS-NS.ANYCAST.PCH.NET 204.61.216.33
+nserver:      MS1.DYNTLD.NET 208.78.70.84
+nserver:      MS2.DYNTLD.NET 204.13.250.84
+nserver:      MS3.DYNTLD.NET 208.78.71.84
+nserver:      MS4.DYNTLD.NET 204.13.251.84
+nserver:      PHLOEM.UOREGON.EDU 128.223.32.35 2001:468:d01:20::80df:2023
 
-Registration Date: 06-March-1997
-Last Updated Date: 23-December-2008
+whois:        whois.nic.ms
+
+remarks:      Registration information: http://www.nic.ms
+
+created:      1997-03-06
+changed:      2008-12-23
+source:       IANA
+
