@@ -1,66 +1,42 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: ck
-ID: ck
+domain:       CK
 
-Sponsoring Organization:
-    Name: 
-    Organization: Telecom Cook Islands Ltd.
-    Address1: Parekura
-    Address2: 
-    Address3: 
-    City: Avarua
-    State/Province: Rarotonga
-    Country: Cook Islands
-    Postal Code: 
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 07-October-2005
+organisation: Telecom Cook Islands Ltd.
+address:      Parekura
+address:      Avarua Rarotonga
+address:      Cook Islands
 
-Administrative Contact:
-    Name: Joseph Wichman
-    Organization: Telecom Cook Islands Ltd.
-    Address1: Parekura
-    Address2: 
-    Address3: 
-    City: Avarua
-    State/Province: Rarotonga
-    Country: Cook Islands
-    Postal Code: 
-    Phone: +682 26171
-    Fax: +682 26174
-    Email: joe@telecom.co.ck
-    Registration Date: 01-January-1985
-    Last Updated Date: 07-October-2005
+contact:      administrative
+name:         Joseph Wichman
+organisation: Telecom Cook Islands Ltd.
+address:      Parekura
+address:      Avarua Rarotonga
+address:      Cook Islands
+phone:        +682 26171
+fax-no:       +682 26174
+e-mail:       joe@telecom.co.ck
 
-Technical Contact:
-    Name: Robert McFadzien
-    Organization: Telecom Cook Islands Ltd.
-    Address1: Parekura
-    Address2: 
-    Address3: 
-    City: Avarua
-    State/Province: Rarotonga
-    Country: Cook Islands
-    Postal Code: 
-    Phone: +682 26171 x225
-    Fax: +682 26174
-    Email: robert@telecom.co.ck
-    Registration Date: 01-January-1985
-    Last Updated Date: 07-October-2005
-URL for registration services: http://www.oyster.net.ck
+contact:      technical
+name:         Robert McFadzien
+organisation: Telecom Cook Islands Ltd.
+address:      Parekura
+address:      Avarua Rarotonga
+address:      Cook Islands
+phone:        +682 26171 x225
+fax-no:       +682 26174
+e-mail:       robert@telecom.co.ck
 
-Nameserver Information:
-    Nameserver: circa.mcs.vuw.ac.nz.
-    IP Address: 130.195.5.12
-    Nameserver: downstage.mcs.vuw.ac.nz.
-    IP Address: 130.195.6.10
-    Nameserver: parau.oyster.net.ck.
-    IP Address: 202.65.32.128
-    Nameserver: poiparau.oyster.net.ck.
-    IP Address: 202.65.32.127
+nserver:      CIRCA.MCS.VUW.AC.NZ 130.195.5.12
+nserver:      DOWNSTAGE.MCS.VUW.AC.NZ 130.195.6.10
+nserver:      PARAU.OYSTER.NET.CK 202.65.32.128
+nserver:      POIPARAU.OYSTER.NET.CK 202.65.32.127
 
-Registration Date: 08-August-1995
-Last Updated Date: 07-October-2005
+remarks:      Registration information: http://www.oyster.net.ck
+
+created:      1995-08-08
+changed:      2005-10-07
+source:       IANA
+
