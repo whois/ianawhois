@@ -1,74 +1,51 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: la
-ID: la
+domain:       LA
 
-Sponsoring Organization:
-    Name: 
-    Organization: Lao National Internet Committee (LANIC)
-                  Science Technology and Environment Agency
-    Address1: Prime Minister's Office
-    Address2: P. O. Box 2279
-    Address3: 
-    City: Vientiane
-    State/Province: 
-    Country: Laos
-    Postal Code: Lao PDR
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 13-December-2002
+organisation: Lao National Internet Committee (LANIC)
+organisation: Science Technology and Environment Agency
+address:      Prime Minister's Office
+address:      P. O. Box 2279
+address:      Vientiane  Lao PDR
+address:      Laos
 
-Administrative Contact:
-    Name: Mr. Noulinh SINBANDHIT
-    Organization: Lao National Internet Committee (LANIC)
-    Address1: Prime Minister's Office
-    Address2: P.O. Box 2279
-    Address3: 
-    City: Vientiane
-    State/Province: 
-    Country: Laos
-    Postal Code: Lao PDR
-    Phone: +856 21 213470
-    Fax: +856 21 213472
-    Email: admincontact@lanic.net
-    Registration Date: 01-January-1985
-    Last Updated Date: 13-December-2002
+contact:      administrative
+name:         Mr. Noulinh SINBANDHIT
+organisation: Lao National Internet Committee (LANIC)
+address:      Prime Minister's Office
+address:      P.O. Box 2279
+address:      Vientiane  Lao PDR
+address:      Laos
+phone:        +856 21 213470
+fax-no:       +856 21 213472
+e-mail:       admincontact@lanic.net
 
-Technical Contact:
-    Name: Mr. Maydom CHANTHANASINH
-    Organization: Lao National Internet Committee (LANIC)
-    Address1: Prime Minister's Office
-    Address2: P.O. Box 2279
-    Address3: 
-    City: Vientiane
-    State/Province: 
-    Country: Laos
-    Postal Code: Lao PDR
-    Phone: +856 21 213470
-    Fax: +856 21 213472
-    Email: technicalcontact@lanic.net
-    Registration Date: 01-January-1985
-    Last Updated Date: 13-December-2002
-URL for registration services: http://www.la
-Whois Server (port 43): whois.nic.la
+contact:      technical
+name:         Mr. Maydom CHANTHANASINH
+organisation: Lao National Internet Committee (LANIC)
+address:      Prime Minister's Office
+address:      P.O. Box 2279
+address:      Vientiane  Lao PDR
+address:      Laos
+phone:        +856 21 213470
+fax-no:       +856 21 213472
+e-mail:       technicalcontact@lanic.net
 
-Nameserver Information:
-    Nameserver: ns1.centralnic.net.
-    IP Address: 89.151.83.36
-    Nameserver: ns2.centralnic.net.
-    IP Address: 72.3.240.16
-    Nameserver: ns3.centralnic.net.
-    IP Address: 62.197.40.234
-    Nameserver: ns4.centralnic.net.
-    IP Address: 194.169.218.16
-    Nameserver: ns5.centralnic.net.
-    IP Address: 217.151.106.82 2001:ac8:2:1:0:0:0:20
-    Nameserver: ns6.centralnic.net.
-    IP Address: 194.0.2.2 2001:678:5:0:0:0:0:2
-    Nameserver: ns7.centralnic.net.
-    IP Address: 193.105.170.169
+nserver:      NS1.CENTRALNIC.NET 89.151.83.36
+nserver:      NS2.CENTRALNIC.NET 72.3.240.16
+nserver:      NS3.CENTRALNIC.NET 62.197.40.234
+nserver:      NS4.CENTRALNIC.NET 194.169.218.16
+nserver:      NS5.CENTRALNIC.NET 2001:ac8:2:1:0:0:0:20 217.151.106.82
+nserver:      NS6.CENTRALNIC.NET 194.0.2.2 2001:678:5:0:0:0:0:2
+nserver:      NS7.CENTRALNIC.NET 193.105.170.169
 
-Registration Date: 14-May-1996
-Last Updated Date: 12-May-2010
+whois:        whois.nic.la
+
+remarks:      Registration information: http://www.la
+
+created:      1996-05-14
+changed:      2010-05-12
+source:       IANA
+
