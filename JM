@@ -1,69 +1,44 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: jm
-ID: jm
+domain:       JM
 
-Sponsoring Organization:
-    Name: 
-    Organization: University of West Indies
-    Address1: 7 Gibraltar Road
-    Address2: 
-    Address3: 
-    City: Kingston
-    State/Province: 
-    Country: Jamaica W.I.
-    Postal Code: 7
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 01-January-1985
+organisation: University of West Indies
+address:      7 Gibraltar Road
+address:      Kingston  7
+address:      Jamaica W.I.
 
-Administrative Contact:
-    Name: Jeremy M. Whyte
-    Organization: Mona Information Technology Services
-                  University of the West Indies
-    Address1: 7 Gibraltar Road
-    Address2: 
-    Address3: 
-    City: Kingston
-    State/Province: 
-    Country: Jamaica W.I.
-    Postal Code: 7
-    Phone: +1 876 927 2148
-    Fax: +1 876 927 0997
-    Email: jeremy.whyte@uwimona.edu.jm
-    Registration Date: 01-January-1985
-    Last Updated Date: 29-March-2004
+contact:      administrative
+name:         Jeremy M. Whyte
+organisation: Mona Information Technology Services
+organisation: University of the West Indies
+address:      7 Gibraltar Road
+address:      Kingston  7
+address:      Jamaica W.I.
+phone:        +1 876 927 2148
+fax-no:       +1 876 927 0997
+e-mail:       jeremy.whyte@uwimona.edu.jm
 
-Technical Contact:
-    Name: Domain Master
-    Organization: Mona Information Technology Services
-                  University of the West Indies
-    Address1: 7 Gilbraltar Road
-    Address2: Mona
-    Address3: 
-    City: Kingston
-    State/Province: 
-    Country: Jamaica W.I.
-    Postal Code: 7
-    Phone: +1 876 927 2148
-    Fax: +1 876 927 0997
-    Email: dmaster@ns.jm
-    Registration Date: 01-January-1985
-    Last Updated Date: 29-March-2004
+contact:      technical
+name:         Domain Master
+organisation: Mona Information Technology Services
+organisation: University of the West Indies
+address:      7 Gilbraltar Road
+address:      Mona
+address:      Kingston  7
+address:      Jamaica W.I.
+phone:        +1 876 927 2148
+fax-no:       +1 876 927 0997
+e-mail:       dmaster@ns.jm
 
-Nameserver Information:
-    Nameserver: ns.jm.
-    IP Address: 196.2.1.6
-    Nameserver: ns-jm.ripe.net.
-    IP Address: 193.0.12.110
-    Nameserver: ns.utechjamaica.edu.jm.
-    IP Address: 200.9.115.2
-    Nameserver: ns3-jm.fsl.org.jm.
-    IP Address: 196.3.191.66
-    Nameserver: phloem.uoregon.edu.
-    IP Address: 128.223.32.35 2001:468:d01:20::80df:2023
+nserver:      NS-JM.RIPE.NET 193.0.12.110
+nserver:      NS.JM 196.2.1.6
+nserver:      NS.UTECHJAMAICA.EDU.JM 200.9.115.2
+nserver:      NS3-JM.FSL.ORG.JM 196.3.191.66
+nserver:      PHLOEM.UOREGON.EDU 128.223.32.35 2001:468:d01:20::80df:2023
 
-Registration Date: 24-September-1991
-Last Updated Date: 21-April-2008
+created:      1991-09-24
+changed:      2008-04-21
+source:       IANA
+
