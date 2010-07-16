@@ -1,64 +1,41 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: pk
-ID: pk
+domain:       PK
 
-Sponsoring Organization:
-    Name: 
-    Organization: PKNIC
-    Address1: 7-Aurangzeb Block
-    Address2: 
-    Address3: 
-    City: New Garden Town
-    State/Province: Lahore
-    Country: Pakistan
-    Postal Code: 
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 01-January-1985
+organisation: PKNIC
+address:      7-Aurangzeb Block
+address:      New Garden Town Lahore
+address:      Pakistan
 
-Administrative Contact:
-    Name: Ashar Nisar
-    Organization: PKNIC
-    Address1: 7-Aurangzeb Block
-    Address2: 
-    Address3: 
-    City: New Garden Town
-    State/Province: Lahore
-    Country: Pakistan
-    Postal Code: 
-    Phone: + 408-437-8953
-    Fax: + 92-42-583-6602
-    Email: ashar@pknic.net.pk / staff@pknic.net.pk
-    Registration Date: 01-January-1985
-    Last Updated Date: 24-June-2002
+contact:      administrative
+name:         Ashar Nisar
+organisation: PKNIC
+address:      7-Aurangzeb Block
+address:      New Garden Town Lahore
+address:      Pakistan
+phone:        + 408-437-8953
+fax-no:       + 92-42-583-6602
+e-mail:       ashar@pknic.net.pk / staff@pknic.net.pk
 
-Technical Contact:
-    Name: Ashar Nisar
-    Organization: PKNIC
-    Address1: 7-Aurangzeb Block
-    Address2: 
-    Address3: 
-    City: New Garden Town
-    State/Province: Lahore
-    Country: Pakistan
-    Postal Code: 
-    Phone: + 408-437-8953
-    Fax: + 92-42-583-6602
-    Email: ashar@pknic.net.pk / staff@pknic.net.pk
-    Registration Date: 01-January-1985
-    Last Updated Date: 24-June-2002
-URL for registration services: http://www.pknic.net.pk/
+contact:      technical
+name:         Ashar Nisar
+organisation: PKNIC
+address:      7-Aurangzeb Block
+address:      New Garden Town Lahore
+address:      Pakistan
+phone:        + 408-437-8953
+fax-no:       + 92-42-583-6602
+e-mail:       ashar@pknic.net.pk / staff@pknic.net.pk
 
-Nameserver Information:
-    Nameserver: auth101.ns.uu.net.
-    IP Address: 198.6.1.210
-    Nameserver: auth51.ns.uu.net.
-    IP Address: 198.6.1.162
-    Nameserver: m-2.pknic.net.pk.
-    IP Address: 203.128.7.123
+nserver:      AUTH101.NS.UU.NET 198.6.1.210
+nserver:      AUTH51.NS.UU.NET 198.6.1.162
+nserver:      M-2.PKNIC.NET.PK 203.128.7.123
 
-Registration Date: 03-June-1992
-Last Updated Date: 09-July-2009
+remarks:      Registration information: http://www.pknic.net.pk/
+
+created:      1992-06-03
+changed:      2009-07-09
+source:       IANA
+
