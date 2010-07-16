@@ -1,64 +1,44 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: mq
-ID: mq
+domain:       MQ
 
-Sponsoring Organization:
-    Name: 
-    Organization: SYSTEL
-    Address1: Rue Alfred Lumiere
-    Address2: Z.I. Jarry
-    Address3: 
-    City: Baie-Mahault
-    State/Province: F.W.I.
-    Country: Guadeloupe
-    Postal Code: 97122
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 01-January-1985
+organisation: SYSTEL
+address:      Rue Alfred Lumiere
+address:      Z.I. Jarry
+address:      Baie-Mahault F.W.I. 97122
+address:      Guadeloupe
 
-Administrative Contact:
-    Name: Claude Blandin
-    Organization: SYSTEL
-    Address1: Rue Alfred Lumiere
-    Address2: Z.I. Jarry
-    Address3: 
-    City: Baie-Mahault
-    State/Province: F.W.I.
-    Country: Guadeloupe
-    Postal Code: 97122
-    Phone: +596 506 850
-    Fax: +596 506 366
-    Email: claude@outremer.com
-    Registration Date: 01-January-1985
-    Last Updated Date: 01-January-1985
+contact:      administrative
+name:         Claude Blandin
+organisation: SYSTEL
+address:      Rue Alfred Lumiere
+address:      Z.I. Jarry
+address:      Baie-Mahault F.W.I. 97122
+address:      Guadeloupe
+phone:        +596 506 850
+fax-no:       +596 506 366
+e-mail:       claude@outremer.com
 
-Technical Contact:
-    Name: John Charles Broomfield
-    Organization: Antilles Internet Services
-    Address1: Rue Alfred Lumiere
-    Address2: Z.I. Jarry
-    Address3: 
-    City: Baie-Mahault
-    State/Province: F.W.I.
-    Country: Guadeloupe
-    Postal Code: 97122
-    Phone: +590 326767
-    Fax: +590 326194
-    Email: jbroom@ais.gp
-    Registration Date: 01-January-1985
-    Last Updated Date: 23-June-2002
-URL for registration services: http://www.nic.mq/
+contact:      technical
+name:         John Charles Broomfield
+organisation: Antilles Internet Services
+address:      Rue Alfred Lumiere
+address:      Z.I. Jarry
+address:      Baie-Mahault F.W.I. 97122
+address:      Guadeloupe
+phone:        +590 326767
+fax-no:       +590 326194
+e-mail:       jbroom@ais.gp
 
-Nameserver Information:
-    Nameserver: biguine.mediaserv.net.
-    IP Address: 213.188.164.16
-    Nameserver: fado.mediaserv.net.
-    IP Address: 213.188.160.10
-    Nameserver: manta.outremer.com.
-    IP Address: 213.16.1.106
+nserver:      BIGUINE.MEDIASERV.NET 213.188.164.16
+nserver:      FADO.MEDIASERV.NET 213.188.160.10
+nserver:      MANTA.OUTREMER.COM 213.16.1.106
 
-Registration Date: 28-March-1997
-Last Updated Date: 26-July-2005
+remarks:      Registration information: http://www.nic.mq/
+
+created:      1997-03-28
+changed:      2005-07-26
+source:       IANA
+
