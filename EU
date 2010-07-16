@@ -1,71 +1,49 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: eu
-ID: eu
+domain:       EU
 
-Sponsoring Organization:
-    Name: 
-    Organization: EURid vzw/asbl
-    Address1: Parkstation
-    Address2: Woluwelaan 150
-    Address3: 
-    City: Diegem
-    State/Province: Vlaams Brabant
-    Country: Belgium
-    Postal Code: 1831
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 28-April-2005
-    Last Updated Date: 04-February-2010
+organisation: EURid vzw/asbl
+address:      Parkstation
+address:      Woluwelaan 150
+address:      Diegem Vlaams Brabant 1831
+address:      Belgium
 
-Administrative Contact:
-    Name: Marc Van Wesemael
-    Organization: EURid vzw/asbl
-    Address1: Parkstation
-    Address2: Woluwelaan 150
-    Address3: 
-    City: Diegem
-    State/Province: Vlaams Brabant
-    Country: Belgium
-    Postal Code: 1831
-    Phone: +32 2 401 27 50
-    Fax: +32 2 401 27 51
-    Email: domain-admin@eurid.eu
-    Registration Date: 28-April-2005
-    Last Updated Date: 04-February-2010
+contact:      administrative
+name:         Marc Van Wesemael
+organisation: EURid vzw/asbl
+address:      Parkstation
+address:      Woluwelaan 150
+address:      Diegem Vlaams Brabant 1831
+address:      Belgium
+phone:        +32 2 401 27 50
+fax-no:       +32 2 401 27 51
+e-mail:       domain-admin@eurid.eu
 
-Technical Contact:
-    Name: Peter Janssen
-    Organization: EURid vzw/asbl
-    Address1: Parkstation
-    Address2: Woluwelaan 150
-    Address3: 
-    City: Diegem
-    State/Province: Vlaams Brabant
-    Country: Belgium
-    Postal Code: 1831
-    Phone: +32 2 401 27 50
-    Fax: +32 2 401 27 51
-    Email: domain-tech@eurid.eu
-    Registration Date: 28-April-2005
-    Last Updated Date: 04-February-2010
-URL for registration services: http://www.eurid.eu
-Whois Server (port 43): whois.eu
+contact:      technical
+name:         Peter Janssen
+organisation: EURid vzw/asbl
+address:      Parkstation
+address:      Woluwelaan 150
+address:      Diegem Vlaams Brabant 1831
+address:      Belgium
+phone:        +32 2 401 27 50
+fax-no:       +32 2 401 27 51
+e-mail:       domain-tech@eurid.eu
 
-Nameserver Information:
-    Nameserver: a.nic.eu.
-    IP Address: 91.200.16.100
-    Nameserver: l.eu.dns.be.
-    IP Address: 193.2.221.60 2001:1470:8000:100:0:0:0:1
-    Nameserver: l.nic.eu.
-    IP Address: 195.66.241.178
-    Nameserver: m.nic.eu.
-    IP Address: 217.29.76.13
-    Nameserver: p.nic.eu.
-    IP Address: 195.47.235.130
-    Nameserver: x.nic.eu.
-    IP Address: 194.0.1.19
+nserver:      A.NIC.EU 91.200.16.100
+nserver:      L.EU.DNS.BE 193.2.221.60 2001:1470:8000:100:0:0:0:1
+nserver:      L.NIC.EU 195.66.241.178
+nserver:      M.NIC.EU 217.29.76.13
+nserver:      P.NIC.EU 195.47.235.130
+nserver:      X.NIC.EU 194.0.1.19
 
-Registration Date: 28-April-2005
-Last Updated Date: 14-June-2010
+whois:        whois.eu
+
+remarks:      Registration information: http://www.eurid.eu
+
+created:      2005-04-28
+changed:      2010-06-14
+source:       IANA
+
