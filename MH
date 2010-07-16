@@ -1,62 +1,38 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: mh
-ID: mh
+domain:       MH
 
-Sponsoring Organization:
-    Name: 
-    Organization: Cabinet Office
-    Address1: 
-    Address2: 
-    Address3: 
-    City: 
-    State/Province: 
-    Country: Republic of the Marshall Islands
-    Postal Code: 96960
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 01-January-1985
+organisation: Cabinet Office
+address:      96960
+address:      Republic of the Marshall Islands
 
-Administrative Contact:
-    Name: Amata Kabua
-    Organization: Cabinet Office
-    Address1: 
-    Address2: 
-    Address3: 
-    City: 
-    State/Province: 
-    Country: Republic of the Marshall Islands
-    Postal Code: 96960
-    Phone: +1 414 476 4266
-    Fax: 
-    Email: steve@inc.net
-    Registration Date: 01-January-1985
-    Last Updated Date: 01-January-1985
+contact:      administrative
+name:         Amata Kabua
+organisation: Cabinet Office
+address:      96960
+address:      Republic of the Marshall Islands
+phone:        +1 414 476 4266
+e-mail:       steve@inc.net
 
-Technical Contact:
-    Name: Steve R. Kaczkowski
-    Organization: Internet Connect Inc.
-    Address1: 10437 Innovation Dr.
-    Address2: Suite 307
-    Address3: 
-    City: Wauwatosa
-    State/Province: Wisconsin
-    Country: United States
-    Postal Code: 53226
-    Phone: +1 414 476 ICON x.12 / +1 414 476 4266 x.12
-    Fax: +1 414 476 2403
-    Email: steve@inc.net
-    Registration Date: 01-January-1985
-    Last Updated Date: 01-January-1985
-URL for registration services: http://www.nic.net.mh/
+contact:      technical
+name:         Steve R. Kaczkowski
+organisation: Internet Connect Inc.
+address:      10437 Innovation Dr.
+address:      Suite 307
+address:      Wauwatosa Wisconsin 53226
+address:      United States
+phone:        +1 414 476 ICON x.12 / +1 414 476 4266 x.12
+fax-no:       +1 414 476 2403
+e-mail:       steve@inc.net
 
-Nameserver Information:
-    Nameserver: ins2.tosa.twtelecom.net.
-    IP Address: 204.95.160.4
-    Nameserver: ns1.tosa.twtelecom.net.
-    IP Address: 204.95.160.2
+nserver:      INS2.TOSA.TWTELECOM.NET 204.95.160.4
+nserver:      NS1.TOSA.TWTELECOM.NET 204.95.160.2
 
-Registration Date: 16-August-1996
-Last Updated Date: 26-July-2005
+remarks:      Registration information: http://www.nic.net.mh/
+
+created:      1996-08-16
+changed:      2005-07-26
+source:       IANA
+
