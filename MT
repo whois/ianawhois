@@ -1,72 +1,45 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: mt
-ID: mt
+domain:       MT
 
-Sponsoring Organization:
-    Name: 
-    Organization: NIC (Malta)
-    Address1: University Campus
-    Address2: 
-    Address3: 
-    City: Msida
-    State/Province: 
-    Country: Malta
-    Postal Code: MSD 2080
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 22-October-2008
+organisation: NIC (Malta)
+address:      University Campus
+address:      Msida  MSD 2080
+address:      Malta
 
-Administrative Contact:
-    Name: NIC (Malta) Administrative Contact - Victor Nezval
-    Organization: NIC (Malta)
-    Address1: University Campus
-    Address2: 
-    Address3: 
-    City: Msida
-    State/Province: 
-    Country: Malta
-    Postal Code: MSD 2080
-    Phone: +356 2340 3004
-    Fax: +356 21 343 397
-    Email: admin@nic.org.mt
-    Registration Date: 01-January-1985
-    Last Updated Date: 22-October-2008
+contact:      administrative
+name:         NIC (Malta) Administrative Contact - Victor Nezval
+organisation: NIC (Malta)
+address:      University Campus
+address:      Msida  MSD 2080
+address:      Malta
+phone:        +356 2340 3004
+fax-no:       +356 21 343 397
+e-mail:       admin@nic.org.mt
 
-Technical Contact:
-    Name: NIC (Malta) Technical Contact - Robert Sultana
-    Organization: NIC (Malta)
-    Address1: University Campus
-    Address2: 
-    Address3: 
-    City: Msida
-    State/Province: 
-    Country: Malta
-    Postal Code: MSD 2080
-    Phone: +356 21 343 399
-    Fax: +356 21 343 397
-    Email: tech@nic.org.mt
-    Registration Date: 01-January-1985
-    Last Updated Date: 22-October-2008
-URL for registration services: https://www.nic.org.mt/
+contact:      technical
+name:         NIC (Malta) Technical Contact - Robert Sultana
+organisation: NIC (Malta)
+address:      University Campus
+address:      Msida  MSD 2080
+address:      Malta
+phone:        +356 21 343 399
+fax-no:       +356 21 343 397
+e-mail:       tech@nic.org.mt
 
-Nameserver Information:
-    Nameserver: ns.mt.
-    IP Address: 193.188.47.252
-    Nameserver: ns1.mt.
-    IP Address: 193.188.34.241
-    Nameserver: sunic.sunet.se.
-    IP Address: 192.36.125.2 2001:6b0:7:0:0:0:0:2
-    Nameserver: b.hosting.nic.fr.
-    IP Address: 192.93.0.4 2001:660:3005:1:0:0:1:2
-    Nameserver: ns-mt.ripe.net.
-    IP Address: 193.0.12.136 2001:610:240:0:53:cc:12:136
-    Nameserver: mt-ns.anycast.pch.net.
-    IP Address: 204.61.216.45
-    Nameserver: sns-pb.isc.org.
-    IP Address: 192.5.4.1 2001:500:2e:0:0:0:0:1
+nserver:      B.HOSTING.NIC.FR 192.93.0.4 2001:660:3005:1:0:0:1:2
+nserver:      MT-NS.ANYCAST.PCH.NET 204.61.216.45
+nserver:      NS-MT.RIPE.NET 193.0.12.136 2001:610:240:0:53:cc:12:136
+nserver:      NS.MT 193.188.47.252
+nserver:      NS1.MT 193.188.34.241
+nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e:0:0:0:0:1
+nserver:      SUNIC.SUNET.SE 192.36.125.2 2001:6b0:7:0:0:0:0:2
 
-Registration Date: 02-December-1992
-Last Updated Date: 16-October-2009
+remarks:      Registration information: https://www.nic.org.mt/
+
+created:      1992-12-02
+changed:      2009-10-16
+source:       IANA
+
