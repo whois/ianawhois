@@ -1,62 +1,40 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: km
-ID: km
+domain:       KM
 
-Sponsoring Organization:
-    Name: 
-    Organization: Comores Telecom
-    Address1: BP 7000 Place de France
-    Address2: 
-    Address3: 
-    City: Moroni
-    State/Province: 
-    Country: Comoros
-    Postal Code: 
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 16-September-2005
+organisation: Comores Telecom
+address:      BP 7000 Place de France
+address:      Moroni
+address:      Comoros
 
-Administrative Contact:
-    Name: Directeur Général - Charikane Bouchrane
-    Organization: Comores Telecom
-    Address1: BP 7000 Place de France
-    Address2: 
-    Address3: 
-    City: Moroni
-    State/Province: 
-    Country: Comoros
-    Postal Code: 
-    Phone: +269744300
-    Fax: +269731079
-    Email: charikane.bouchrane@comorestelecom.km
-    Registration Date: 01-January-1985
-    Last Updated Date: 04-July-2007
+contact:      administrative
+name:         Directeur GÃ©nÃ©ral - Charikane Bouchrane
+organisation: Comores Telecom
+address:      BP 7000 Place de France
+address:      Moroni
+address:      Comoros
+phone:        +269744300
+fax-no:       +269731079
+e-mail:       charikane.bouchrane@comorestelecom.km
 
-Technical Contact:
-    Name: ALI Hadji Mmadi
-    Organization: Comores Telecom
-    Address1: BP 7000 Place de France
-    Address2: 
-    Address3: 
-    City: Moroni
-    State/Province: 
-    Country: Comoros
-    Postal Code: 
-    Phone: +269323001
-    Fax: +269731079
-    Email: alihadji@comorestelecom.km
-    Registration Date: 01-January-1985
-    Last Updated Date: 03-July-2007
-URL for registration services: http://www.domaine.km/
+contact:      technical
+name:         ALI Hadji Mmadi
+organisation: Comores Telecom
+address:      BP 7000 Place de France
+address:      Moroni
+address:      Comoros
+phone:        +269323001
+fax-no:       +269731079
+e-mail:       alihadji@comorestelecom.km
 
-Nameserver Information:
-    Nameserver: dns1.km.
-    IP Address: 80.231.195.18
-    Nameserver: phloem.uoregon.edu.
-    IP Address: 128.223.32.35 2001:468:d01:20::80df:2023
+nserver:      DNS1.KM 80.231.195.18
+nserver:      PHLOEM.UOREGON.EDU 128.223.32.35 2001:468:d01:20::80df:2023
 
-Registration Date: 08-June-1998
-Last Updated Date: 21-April-2008
+remarks:      Registration information: http://www.domaine.km/
+
+created:      1998-06-08
+changed:      2008-04-21
+source:       IANA
+
