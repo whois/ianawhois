@@ -1,66 +1,44 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: mm
-ID: mm
+domain:       MM
 
-Sponsoring Organization:
-    Name: 
-    Organization: Ministry of Communications, Posts & Telegraphs
-    Address1: Office Building No. 2
-    Address2: 
-    Address3: 
-    City: Nay Pyi Taw
-    State/Province: 
-    Country: Myanmar
-    Postal Code: 150111
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 13-April-2010
+organisation: Ministry of Communications, Posts & Telegraphs
+address:      Office Building No. 2
+address:      Nay Pyi Taw  150111
+address:      Myanmar
 
-Administrative Contact:
-    Name: U Zaw Min Oo
-    Organization: Ministry of Communications, Posts & Telegraphs
-    Address1: Office Building No. 2
-    Address2: 
-    Address3: 
-    City: Nay Pyi Taw
-    State/Province: 
-    Country: Myanmar
-    Postal Code: 150111
-    Phone: +95 67 420351
-    Fax: +95 67 420349
-    Email: zawminoo.zmo@mptmail.net.mm
-    Registration Date: 01-January-1985
-    Last Updated Date: 13-April-2010
+contact:      administrative
+name:         U Zaw Min Oo
+organisation: Ministry of Communications, Posts & Telegraphs
+address:      Office Building No. 2
+address:      Nay Pyi Taw  150111
+address:      Myanmar
+phone:        +95 67 420351
+fax-no:       +95 67 420349
+e-mail:       zawminoo.zmo@mptmail.net.mm
 
-Technical Contact:
-    Name: Daw Khin Swe Htay
-    Organization: Ministry of Communications, Posts & Telegraphs
-    Address1: Overseas Communications Building,
-    Address2: Myanma Posts and Telecommunications,
-    Address3: Kabaraye Pagoda Road, Mayangone Township
-    City: Yangon
-    State/Province: 
-    Country: Myanmar
-    Postal Code: 11061
-    Phone: +95 1 652372
-    Fax: +95 1 662405
-    Email: kshtay@mpt.net.mm
-    Registration Date: 01-January-1985
-    Last Updated Date: 13-April-2010
-URL for registration services: http://www.nic.mm/
+contact:      technical
+name:         Daw Khin Swe Htay
+organisation: Ministry of Communications, Posts & Telegraphs
+address:      Overseas Communications Building,
+address:      Myanma Posts and Telecommunications,
+address:      Kabaraye Pagoda Road, Mayangone Township
+address:      Yangon  11061
+address:      Myanmar
+phone:        +95 1 652372
+fax-no:       +95 1 662405
+e-mail:       kshtay@mpt.net.mm
 
-Nameserver Information:
-    Nameserver: ns0.nic.net.mm.
-    IP Address: 203.81.64.20
-    Nameserver: ns1.nic.net.mm.
-    IP Address: 203.81.81.85
-    Nameserver: ns2.nic.net.mm.
-    IP Address: 203.81.92.10
-    Nameserver: ns-mm.ripe.net.
-    IP Address: 193.0.12.151
+nserver:      NS-MM.RIPE.NET 193.0.12.151
+nserver:      NS0.NIC.NET.MM 203.81.64.20
+nserver:      NS1.NIC.NET.MM 203.81.81.85
+nserver:      NS2.NIC.NET.MM 203.81.92.10
 
-Registration Date: 04-February-1997
-Last Updated Date: 13-April-2010
+remarks:      Registration information: http://www.nic.mm/
+
+created:      1997-02-04
+changed:      2010-04-13
+source:       IANA
+
