@@ -1,71 +1,49 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: co
-ID: co
+domain:       CO
 
-Sponsoring Organization:
-    Name: 
-    Organization: .CO Internet S.A.S.
-    Address1: Calle 100 8 A - 49
-    Address2: Torre B of 507
-    Address3: 
-    City: Bogot·
-    State/Province: 
-    Country: Colombia
-    Postal Code: 
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 09-July-2010
+organisation: .CO Internet S.A.S.
+address:      Calle 100 8 A - 49
+address:      Torre B of 507
+address:      Bogot√°
+address:      Colombia
 
-Administrative Contact:
-    Name: Eduardo Santoyo
-    Organization: .CO Internet S.A.S.
-    Address1: Calle 100 8 A - 49
-    Address2: Torre B of 507
-    Address3: 
-    City: Bogot·
-    State/Province: 
-    Country: Colombia
-    Postal Code: 
-    Phone: +571 616 9961
-    Fax: +571 616 9961
-    Email: eduardo@cointernet.com.co
-    Registration Date: 01-January-1985
-    Last Updated Date: 09-July-2010
+contact:      administrative
+name:         Eduardo Santoyo
+organisation: .CO Internet S.A.S.
+address:      Calle 100 8 A - 49
+address:      Torre B of 507
+address:      Bogot√°
+address:      Colombia
+phone:        +571 616 9961
+fax-no:       +571 616 9961
+e-mail:       eduardo@cointernet.com.co
 
-Technical Contact:
-    Name: Ronald Ferraro
-    Organization: .CO Internet S.A.S.
-    Address1: Calle 100 8 A - 49
-    Address2: Torre B of 507
-    Address3: 
-    City: Bogot·
-    State/Province: 
-    Country: Colombia
-    Postal Code: 
-    Phone: +571 616 9961
-    Fax: +571 616 9961
-    Email: ron@cointernet.com.co
-    Registration Date: 10-April-2003
-    Last Updated Date: 09-July-2010
-URL for registration services: http://www.cointernet.co/
-Whois Server (port 43): whois.nic.co
+contact:      technical
+name:         Ronald Ferraro
+organisation: .CO Internet S.A.S.
+address:      Calle 100 8 A - 49
+address:      Torre B of 507
+address:      Bogot√°
+address:      Colombia
+phone:        +571 616 9961
+fax-no:       +571 616 9961
+e-mail:       ron@cointernet.com.co
 
-Nameserver Information:
-    Nameserver: ns1.cctld.co.
-    IP Address: 156.154.100.25
-    Nameserver: ns2.cctld.co.
-    IP Address: 156.154.101.25
-    Nameserver: ns3.cctld.co.
-    IP Address: 156.154.102.25
-    Nameserver: ns4.cctld.co.
-    IP Address: 156.154.103.25
-    Nameserver: ns5.cctld.co.
-    IP Address: 156.154.104.25
-    Nameserver: ns6.cctld.co.
-    IP Address: 156.154.105.25
+nserver:      NS1.CCTLD.CO 156.154.100.25
+nserver:      NS2.CCTLD.CO 156.154.101.25
+nserver:      NS3.CCTLD.CO 156.154.102.25
+nserver:      NS4.CCTLD.CO 156.154.103.25
+nserver:      NS5.CCTLD.CO 156.154.104.25
+nserver:      NS6.CCTLD.CO 156.154.105.25
 
-Registration Date: 24-December-1991
-Last Updated Date: 14-July-2010
+whois:        whois.nic.co
+
+remarks:      Registration information: http://www.cointernet.co/
+
+created:      1991-12-24
+changed:      2010-07-14
+source:       IANA
+
