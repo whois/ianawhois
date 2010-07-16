@@ -1,64 +1,41 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: mr
-ID: mr
+domain:       MR
 
-Sponsoring Organization:
-    Name: 
-    Organization: University of Nouakchott
-    Address1: BP 5026
-    Address2: 
-    Address3: 
-    City: Nouakchott
-    State/Province: 
-    Country: Mauritanie
-    Postal Code: 
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 01-August-2005
+organisation: University of Nouakchott
+address:      BP 5026
+address:      Nouakchott
+address:      Mauritanie
 
-Administrative Contact:
-    Name: Ahmedou Ould Haouba
-    Organization: Faculté des Sciences et Techniques
-    Address1: BP 5026
-    Address2: 
-    Address3: 
-    City: Nouakchott
-    State/Province: 
-    Country: Mauritanie
-    Postal Code: 
-    Phone: +222 646 83 17
-    Fax: +222 525 39 97
-    Email: haouba@univ-nkc.mr
-    Registration Date: 01-January-1985
-    Last Updated Date: 03-September-2009
+contact:      administrative
+name:         Ahmedou Ould Haouba
+organisation: FacultÃ© des Sciences et Techniques
+address:      BP 5026
+address:      Nouakchott
+address:      Mauritanie
+phone:        +222 646 83 17
+fax-no:       +222 525 39 97
+e-mail:       haouba@univ-nkc.mr
 
-Technical Contact:
-    Name: Ahmed Salem Ould Cheikh
-    Organization: Faculte de Sciences et Techniques
-    Address1: BP 5026
-    Address2: 
-    Address3: 
-    City: Nouakchott
-    State/Province: 
-    Country: Mauritanie
-    Postal Code: 
-    Phone: +222 630 76 01
-    Fax: +222 525 39 97
-    Email: ahdsalem@univ-nkc.mr
-    Registration Date: 28-July-2005
-    Last Updated Date: 03-September-2009
-URL for registration services: http://www.nic.mr
+contact:      technical
+name:         Ahmed Salem Ould Cheikh
+organisation: Faculte de Sciences et Techniques
+address:      BP 5026
+address:      Nouakchott
+address:      Mauritanie
+phone:        +222 630 76 01
+fax-no:       +222 525 39 97
+e-mail:       ahdsalem@univ-nkc.mr
 
-Nameserver Information:
-    Nameserver: ns.univ-nkc.mr.
-    IP Address: 82.151.64.1
-    Nameserver: ns3.nic.fr.
-    IP Address: 192.134.0.49 2001:660:3006:1:0:0:1:1
-    Nameserver: ns1.ird.fr.
-    IP Address: 193.50.53.3
+nserver:      NS.UNIV-NKC.MR 82.151.64.1
+nserver:      NS1.IRD.FR 193.50.53.3
+nserver:      NS3.NIC.FR 192.134.0.49 2001:660:3006:1:0:0:1:1
 
-Registration Date: 24-April-1996
-Last Updated Date: 03-September-2009
+remarks:      Registration information: http://www.nic.mr
+
+created:      1996-04-24
+changed:      2009-09-03
+source:       IANA
+
