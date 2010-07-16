@@ -1,64 +1,44 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: bs
-ID: bs
+domain:       BS
 
-Sponsoring Organization:
-    Name: 
-    Organization: The College of the Bahamas
-    Address1: Thompson Blvd.
-    Address2: P.O. Box N4912
-    Address3: 
-    City: Nassau
-    State/Province: New Providence
-    Country: Bahamas
-    Postal Code: 
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 14-January-2004
+organisation: The College of the Bahamas
+address:      Thompson Blvd.
+address:      P.O. Box N4912
+address:      Nassau New Providence
+address:      Bahamas
 
-Administrative Contact:
-    Name: Administrator, BSNIC - Carla Glinton
-    Organization: The College of the Bahamas
-    Address1: Thompson Blvd.
-    Address2: P.O. Box N 4912
-    Address3: 
-    City: Nassau
-    State/Province: New Providence
-    Country: Bahamas
-    Postal Code: 
-    Phone: +1 242 302 4549
-    Fax: +1 242 356 0241
-    Email: bsadmin@cob.edu.bs
-    Registration Date: 01-January-1985
-    Last Updated Date: 14-January-2004
+contact:      administrative
+name:         Administrator, BSNIC - Carla Glinton
+organisation: The College of the Bahamas
+address:      Thompson Blvd.
+address:      P.O. Box N 4912
+address:      Nassau New Providence
+address:      Bahamas
+phone:        +1 242 302 4549
+fax-no:       +1 242 356 0241
+e-mail:       bsadmin@cob.edu.bs
 
-Technical Contact:
-    Name: Technical Contact, BSNIC - Rudyard Burton
-    Organization: The College of The Bahamas
-    Address1: Thompson Blvd.
-    Address2: P.O. Box N4912
-    Address3: 
-    City: Nassau
-    State/Province: New Providence
-    Country: Bahamas
-    Postal Code: 
-    Phone: +1 242 302 4528
-    Fax: +1 242 356 0241
-    Email: bstech@cob.edu.bs
-    Registration Date: 18-December-2006
-    Last Updated Date: 18-December-2006
-URL for registration services: http://www.register.bs
+contact:      technical
+name:         Technical Contact, BSNIC - Rudyard Burton
+organisation: The College of The Bahamas
+address:      Thompson Blvd.
+address:      P.O. Box N4912
+address:      Nassau New Providence
+address:      Bahamas
+phone:        +1 242 302 4528
+fax-no:       +1 242 356 0241
+e-mail:       bstech@cob.edu.bs
 
-Nameserver Information:
-    Nameserver: anyns.pch.net.
-    IP Address: 204.61.216.4
-    Nameserver: dns.nic.bs.
-    IP Address: 206.48.3.168
-    Nameserver: upr1.upr.clu.edu.
-    IP Address: 136.145.1.4
+nserver:      ANYNS.PCH.NET 204.61.216.4
+nserver:      DNS.NIC.BS 206.48.3.168
+nserver:      UPR1.UPR.CLU.EDU 136.145.1.4
 
-Registration Date: 03-September-1991
-Last Updated Date: 18-December-2006
+remarks:      Registration information: http://www.register.bs
+
+created:      1991-09-03
+changed:      2006-12-18
+source:       IANA
+
