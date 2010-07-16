@@ -1,71 +1,47 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: edu
-ID: edu
+domain:       EDU
 
-Sponsoring Organization:
-    Name: 
-    Organization: EDUCAUSE
-    Address1: 4772 Walnut Street, Suite 206
-    Address2: 
-    Address3: 
-    City: Boulder
-    State/Province: Colorado
-    Country: United States
-    Postal Code: 80301
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 24-September-2002
+organisation: EDUCAUSE
+address:      4772 Walnut Street, Suite 206
+address:      Boulder Colorado 80301
+address:      United States
 
-Administrative Contact:
-    Name: Information Services Administration
-    Organization: EDUCAUSE
-    Address1: 4772 Walnut Street, Suite 206
-    Address2: 
-    Address3: 
-    City: Boulder
-    State/Province: Colorado
-    Country: United States
-    Postal Code: 80301
-    Phone: +1-303-449-4430
-    Fax: +1-303-440-0461
-    Email: netadmin@educause.edu
-    Registration Date: 24-September-2002
-    Last Updated Date: 19-May-2005
+contact:      administrative
+name:         Information Services Administration
+organisation: EDUCAUSE
+address:      4772 Walnut Street, Suite 206
+address:      Boulder Colorado 80301
+address:      United States
+phone:        +1-303-449-4430
+fax-no:       +1-303-440-0461
+e-mail:       netadmin@educause.edu
 
-Technical Contact:
-    Name: Registry Customer Service
-    Organization: VeriSign Global Registry
-    Address1: 21345 Ridgetop Circle
-    Address2: 
-    Address3: 
-    City: Dulles
-    State/Province: Virginia
-    Country: United States
-    Postal Code: 20166
-    Phone: +1-703-925-6999
-    Fax: +1-703-421-5828
-    Email: info@verisign-grs.com
-    Registration Date: 01-January-1985
-    Last Updated Date: 14-April-2004
-URL for registration services: http://www.educause.edu/edudomain
-Whois Server (port 43): whois.educause.edu
+contact:      technical
+name:         Registry Customer Service
+organisation: VeriSign Global Registry
+address:      21345 Ridgetop Circle
+address:      Dulles Virginia 20166
+address:      United States
+phone:        +1-703-925-6999
+fax-no:       +1-703-421-5828
+e-mail:       info@verisign-grs.com
 
-Nameserver Information:
-    Nameserver: a.edu-servers.net.
-    IP Address: 192.5.6.36
-    Nameserver: c.edu-servers.net.
-    IP Address: 192.26.92.36
-    Nameserver: d.edu-servers.net.
-    IP Address: 192.31.80.36
-    Nameserver: f.edu-servers.net.
-    IP Address: 192.35.51.36
-    Nameserver: g.edu-servers.net.
-    IP Address: 192.42.93.36 2001:503:cc2c:0:0:0:2:36
-    Nameserver: l.edu-servers.net.
-    IP Address: 192.41.162.36
+nserver:      A.EDU-SERVERS.NET 192.5.6.36
+nserver:      C.EDU-SERVERS.NET 192.26.92.36
+nserver:      D.EDU-SERVERS.NET 192.31.80.36
+nserver:      F.EDU-SERVERS.NET 192.35.51.36
+nserver:      G.EDU-SERVERS.NET 192.42.93.36 2001:503:cc2c:0:0:0:2:36
+nserver:      L.EDU-SERVERS.NET 192.41.162.36
 
-Registration Date: 01-January-1985
-Last Updated Date: 14-July-2010
+whois:        whois.educause.edu
+
+remarks:      Registration information:
+remarks:      http://www.educause.edu/edudomain
+
+created:      1985-01-01
+changed:      2010-07-14
+source:       IANA
+
