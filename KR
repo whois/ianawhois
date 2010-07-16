@@ -1,71 +1,46 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: kr
-ID: kr
+domain:       KR
 
-Sponsoring Organization:
-    Name: 
-    Organization: Korea Internet & Security Agency (KISA)
-    Address1: 12F, Daedong Bldg, 109 Jungdae-ro, Songpa-gu
-    Address2: 
-    Address3: 
-    City: Seoul
-    State/Province: 
-    Country: South Korea
-    Postal Code: 138-950
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 25-February-2010
+organisation: Korea Internet & Security Agency (KISA)
+address:      12F, Daedong Bldg, 109 Jungdae-ro, Songpa-gu
+address:      Seoul  138-950
+address:      South Korea
 
-Administrative Contact:
-    Name: Kilnam Chon
-    Organization: Korea Network Information Center (KRNIC)
-    Address1: 12F, Daedong Bldg, 109 Jungdae-ro, Songpa-gu
-    Address2: 
-    Address3: 
-    City: Seoul
-    State/Province: 
-    Country: South Korea
-    Postal Code: 138-950
-    Phone: +82 10 8581 3514
-    Fax: +82 2 405 5419
-    Email: chonkn@gmail.com
-    Registration Date: 01-January-1985
-    Last Updated Date: 25-February-2010
+contact:      administrative
+name:         Kilnam Chon
+organisation: Korea Network Information Center (KRNIC)
+address:      12F, Daedong Bldg, 109 Jungdae-ro, Songpa-gu
+address:      Seoul  138-950
+address:      South Korea
+phone:        +82 10 8581 3514
+fax-no:       +82 2 405 5419
+e-mail:       chonkn@gmail.com
 
-Technical Contact:
-    Name: Chanki Park
-    Organization: Korea Network Information Center (KRNIC)
-    Address1: 12F, Daedong Bldg, 109 Jungdae-ro, Songpa-gu
-    Address2: 
-    Address3: 
-    City: Seoul
-    State/Province: 
-    Country: South Korea
-    Postal Code: 138-950
-    Phone: +82 2 405 6710
-    Fax: +82 2 405 5419
-    Email: ckp@nic.or.kr
-    Registration Date: 01-January-1985
-    Last Updated Date: 25-February-2010
-URL for registration services: http://www.nic.or.kr/
-Whois Server (port 43): whois.kr
+contact:      technical
+name:         Chanki Park
+organisation: Korea Network Information Center (KRNIC)
+address:      12F, Daedong Bldg, 109 Jungdae-ro, Songpa-gu
+address:      Seoul  138-950
+address:      South Korea
+phone:        +82 2 405 6710
+fax-no:       +82 2 405 5419
+e-mail:       ckp@nic.or.kr
 
-Nameserver Information:
-    Nameserver: b.dns.kr.
-    IP Address: 61.74.75.1
-    Nameserver: c.dns.kr.
-    IP Address: 203.248.246.220
-    Nameserver: d.dns.kr.
-    IP Address: 203.83.159.1
-    Nameserver: e.dns.kr.
-    IP Address: 202.30.124.100 2001:dcc:5:0:0:0:0:100
-    Nameserver: f.dns.kr.
-    IP Address: 218.38.181.90
-    Nameserver: g.dns.kr.
-    IP Address: 202.31.190.1 2001:dc5:a:0:0:0:0:1
+nserver:      B.DNS.KR 61.74.75.1
+nserver:      C.DNS.KR 203.248.246.220
+nserver:      D.DNS.KR 203.83.159.1
+nserver:      E.DNS.KR 2001:dcc:5:0:0:0:0:100 202.30.124.100
+nserver:      F.DNS.KR 218.38.181.90
+nserver:      G.DNS.KR 2001:dc5:a:0:0:0:0:1 202.31.190.1
 
-Registration Date: 29-September-1986
-Last Updated Date: 25-February-2010
+whois:        whois.kr
+
+remarks:      Registration information: http://www.nic.or.kr/
+
+created:      1986-09-29
+changed:      2010-02-25
+source:       IANA
+
