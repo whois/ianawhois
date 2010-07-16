@@ -3,6 +3,8 @@
 # $Id: get-whois-and-commit,v 1.14 2006-10-14 21:05:20 bortzmeyer Exp $
 
 LIST=bortzmeyer@nic.fr,stephane@sources.org,Loic.Damilaville@nic.fr,iana-whois-changes@dk-hostmaster.dk,Mohsen.Souissi@nic.fr
+# 2010-07-16: IANA whois now sends UTF-8
+ENCODING=UTF-8
 MAINTAINER=Stephane.Bortzmeyer@nic.fr
 ROOTNAMESERVER=F
 date=`date +%Y-%m-%d`
@@ -31,12 +33,13 @@ for tld in $TLDS; do
     if [ $new == 0 ]; then
 	svn diff $tld > $DIFF 2>&1
 	if [ -s $DIFF ]; then
-	    sendemail.py -t $LIST -f $MAINTAINER -h "X-IANA-monitoring: whois" -s "IANA whois update for $tld" < $DIFF
-	    ./iana-twitter.py $tld "update for $tld"
+	    sendemail.py -t $LIST -f $MAINTAINER -e $ENCODING -h "X-IANA-monitoring: whois" -s "IANA whois update for $tld" < $DIFF
+	    # Temporary switched off 2010-07-16 since IANA is changing its output format
+	    #./iana-twitter.py $tld "update for $tld"
 	    svn commit -m "New copy of $date" $tld > $LOG 2>&1 
 	fi
     else 
-	    sendemail.py -t $LIST -f $MAINTAINER -h "X-IANA-monitoring: whois" -s "New TLD in IANA whois: $tld" < $tld
+	    sendemail.py -t $LIST -f $MAINTAINER -e $ENCODING -h "X-IANA-monitoring: whois" -s "New TLD in IANA whois: $tld" < $tld
 	    ./iana-twitter.py $tld "new TLD $tld"
 	    svn commit -m "First version ($date)" $tld > $LOG 2>&1 	
     fi
