@@ -1,73 +1,47 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: ch
-ID: ch
+domain:       CH
 
-Sponsoring Organization:
-    Name: 
-    Organization: SWITCH The Swiss Education & Research Network
-    Address1: Werdstrasse 2
-    Address2: 
-    Address3: 
-    City: Zurich
-    State/Province: 
-    Country: Switzerland
-    Postal Code: CH-8004
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 24-April-2007
+organisation: SWITCH The Swiss Education & Research Network
+address:      Werdstrasse 2
+address:      Zurich  CH-8004
+address:      Switzerland
 
-Administrative Contact:
-    Name: Marcel Schneider
-    Organization: SWITCH The Swiss Education & Research Network
-    Address1: Werdstrasse 2
-    Address2: 
-    Address3: 
-    City: Zurich
-    State/Province: 
-    Country: Switzerland
-    Postal Code: CH-8004
-    Phone: +41 44 253 98 07
-    Fax: +41 44 268 15 68
-    Email: schneider@switch.ch
-    Registration Date: 01-January-1985
-    Last Updated Date: 24-April-2007
+contact:      administrative
+name:         Marcel Schneider
+organisation: SWITCH The Swiss Education & Research Network
+address:      Werdstrasse 2
+address:      Zurich  CH-8004
+address:      Switzerland
+phone:        +41 44 253 98 07
+fax-no:       +41 44 268 15 68
+e-mail:       schneider@switch.ch
 
-Technical Contact:
-    Name: Switch Network Operation Center CCTLD Manager
-    Organization: SWITCH The Swiss Education & Research Network
-    Address1: Werdstrasse 2
-    Address2: 
-    Address3: 
-    City: Zurich
-    State/Province: 
-    Country: Switzerland
-    Postal Code: CH-8004
-    Phone: +41 44 268 15 30
-    Fax: +41 44 268 15 68
-    Email: noc@switch.ch
-    Registration Date: 01-January-1985
-    Last Updated Date: 24-April-2007
-URL for registration services: http://www.nic.ch/
-Whois Server (port 43): whois.nic.ch
+contact:      technical
+name:         Switch Network Operation Center CCTLD Manager
+organisation: SWITCH The Swiss Education & Research Network
+address:      Werdstrasse 2
+address:      Zurich  CH-8004
+address:      Switzerland
+phone:        +41 44 268 15 30
+fax-no:       +41 44 268 15 68
+e-mail:       noc@switch.ch
 
-Nameserver Information:
-    Nameserver: a.nic.ch.
-    IP Address: 130.59.1.80 2001:620:0:0:0:0:0:4
-    Nameserver: b.nic.ch.
-    IP Address: 130.59.211.10 2001:620:0:0:0:0:0:5
-    Nameserver: c.nic.ch.
-    IP Address: 147.28.0.39 2001:418:1:0:0:0:0:39
-    Nameserver: d.nic.ch.
-    IP Address: 200.160.0.5
-    Nameserver: e.nic.ch.
-    IP Address: 204.61.216.47 2001:500:14:6047:ad:0:0:1
-    Nameserver: f.nic.ch.
-    IP Address: 194.146.106.10
-    Nameserver: h.nic.ch.
-    IP Address: 194.42.48.120
+nserver:      A.NIC.CH 130.59.1.80 2001:620:0:0:0:0:0:4
+nserver:      B.NIC.CH 130.59.211.10 2001:620:0:0:0:0:0:5
+nserver:      C.NIC.CH 147.28.0.39 2001:418:1:0:0:0:0:39
+nserver:      D.NIC.CH 200.160.0.5
+nserver:      E.NIC.CH 2001:500:14:6047:ad:0:0:1 204.61.216.47
+nserver:      F.NIC.CH 194.146.106.10
+nserver:      H.NIC.CH 194.42.48.120
 
-Registration Date: 20-May-1987
-Last Updated Date: 20-October-2009
+whois:        whois.nic.ch
+
+remarks:      Registration information: http://www.nic.ch/
+
+created:      1987-05-20
+changed:      2009-10-20
+source:       IANA
+
