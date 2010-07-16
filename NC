@@ -1,66 +1,42 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: nc
-ID: nc
+domain:       NC
 
-Sponsoring Organization:
-    Name: 
-    Organization: Office des Postes et Telecommunications
-    Address1: 2 Rue Monchovet - Port Plaisance
-    Address2: 
-    Address3: 
-    City: Noumea
-    State/Province: 
-    Country: Nouvelle-Caledonie
-    Postal Code: 98841
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 09-May-2006
+organisation: Office des Postes et Telecommunications
+address:      2 Rue Monchovet - Port Plaisance
+address:      Noumea  98841
+address:      Nouvelle-Caledonie
 
-Administrative Contact:
-    Name: Pascal Schiavo
-    Organization: Office des Postes et Telecommunications
-    Address1: 2 Rue Monchovet - Port Plaisance
-    Address2: 
-    Address3: 
-    City: Noumea
-    State/Province: 
-    Country: Nouvelle-Caledonie
-    Postal Code: 98841
-    Phone: +687 278 201
-    Fax: +687 278 203
-    Email: contact@domaine.nc
-    Registration Date: 01-January-1985
-    Last Updated Date: 25-January-2010
+contact:      administrative
+name:         Pascal Schiavo
+organisation: Office des Postes et Telecommunications
+address:      2 Rue Monchovet - Port Plaisance
+address:      Noumea  98841
+address:      Nouvelle-Caledonie
+phone:        +687 278 201
+fax-no:       +687 278 203
+e-mail:       contact@domaine.nc
 
-Technical Contact:
-    Name: Nicolas Soulard
-    Organization: Office des Postes et Telecommunications
-    Address1: 2 Rue Monchovet - Port Plaisance
-    Address2: 
-    Address3: 
-    City: Noumea
-    State/Province: 
-    Country: Nouvelle-Caledonie
-    Postal Code: 98841
-    Phone: +687 267 645
-    Fax: +687 287 172
-    Email: nicolas.soulard@opt.nc
-    Registration Date: 01-January-1985
-    Last Updated Date: 09-May-2006
-URL for registration services: http://www.domaine.nc
+contact:      technical
+name:         Nicolas Soulard
+organisation: Office des Postes et Telecommunications
+address:      2 Rue Monchovet - Port Plaisance
+address:      Noumea  98841
+address:      Nouvelle-Caledonie
+phone:        +687 267 645
+fax-no:       +687 287 172
+e-mail:       nicolas.soulard@opt.nc
 
-Nameserver Information:
-    Nameserver: triton.opt.nc.
-    IP Address: 202.87.129.60
-    Nameserver: ns-nc.ripe.net.
-    IP Address: 193.0.12.157
-    Nameserver: ns1.ird.fr.
-    IP Address: 193.50.53.3
-    Nameserver: python.opt.nc.
-    IP Address: 202.87.129.43
+nserver:      NS-NC.RIPE.NET 193.0.12.157
+nserver:      NS1.IRD.FR 193.50.53.3
+nserver:      PYTHON.OPT.NC 202.87.129.43
+nserver:      TRITON.OPT.NC 202.87.129.60
 
-Registration Date: 13-October-1993
-Last Updated Date: 25-January-2010
+remarks:      Registration information: http://www.domaine.nc
+
+created:      1993-10-13
+changed:      2010-01-25
+source:       IANA
+
