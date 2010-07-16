@@ -1,71 +1,47 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: br
-ID: br
+domain:       BR
 
-Sponsoring Organization:
-    Name: 
-    Organization: Comite Gestor da Internet no Brasil
-    Address1: Av. das Nações Unidas, 11541, 7° andar
-    Address2: 
-    Address3: 
-    City: São Paulo
-    State/Province: 
-    Country: Brazil
-    Postal Code: SP 04578-000
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 28-October-2003
+organisation: Comite Gestor da Internet no Brasil
+address:      Av. das NaÃ§Ãµes Unidas, 11541, 7Â° andar
+address:      SÃ£o Paulo  SP 04578-000
+address:      Brazil
 
-Administrative Contact:
-    Name: Demi Getschko
-    Organization: Comite Gestor da Internet no Brasil
-    Address1: Av. das Nações Unidas, 11541, 7° andar
-    Address2: 
-    Address3: 
-    City: São Paulo
-    State/Province: 
-    Country: Brazil
-    Postal Code: SP 04578-000
-    Phone: +55 11 5509 3505
-    Fax: +55 11 5509 3501
-    Email: demi@registro.br
-    Registration Date: 01-January-1985
-    Last Updated Date: 15-April-2010
+contact:      administrative
+name:         Demi Getschko
+organisation: Comite Gestor da Internet no Brasil
+address:      Av. das NaÃ§Ãµes Unidas, 11541, 7Â° andar
+address:      SÃ£o Paulo  SP 04578-000
+address:      Brazil
+phone:        +55 11 5509 3505
+fax-no:       +55 11 5509 3501
+e-mail:       demi@registro.br
 
-Technical Contact:
-    Name: Frederico Augusto de Carvalho Neves
-    Organization: Registro .br
-    Address1: Av. das Nações Unidas, 11541, 7° andar
-    Address2: 
-    Address3: 
-    City: São Paulo
-    State/Province: 
-    Country: Brazil
-    Postal Code: SP 04578-000
-    Phone: +55 11 5509 3505
-    Fax: +55 11 5509 3501
-    Email: fneves@registro.br
-    Registration Date: 01-January-1985
-    Last Updated Date: 15-April-2010
-URL for registration services: http://registro.br/
-Whois Server (port 43): whois.registro.br
+contact:      technical
+name:         Frederico Augusto de Carvalho Neves
+organisation: Registro .br
+address:      Av. das NaÃ§Ãµes Unidas, 11541, 7Â° andar
+address:      SÃ£o Paulo  SP 04578-000
+address:      Brazil
+phone:        +55 11 5509 3505
+fax-no:       +55 11 5509 3501
+e-mail:       fneves@registro.br
 
-Nameserver Information:
-    Nameserver: a.dns.br.
-    IP Address: 200.160.0.10 2001:12ff:0:0:0:0:0:10
-    Nameserver: b.dns.br.
-    IP Address: 200.189.40.10
-    Nameserver: c.dns.br.
-    IP Address: 200.192.232.10
-    Nameserver: d.dns.br.
-    IP Address: 200.219.154.10
-    Nameserver: e.dns.br.
-    IP Address: 200.229.248.10 2001:12f8:1:0:0:0:0:10
-    Nameserver: f.dns.br.
-    IP Address: 200.219.159.10
+nserver:      A.DNS.BR 200.160.0.10 2001:12ff:0:0:0:0:0:10
+nserver:      B.DNS.BR 200.189.40.10
+nserver:      C.DNS.BR 200.192.232.10
+nserver:      D.DNS.BR 200.219.154.10
+nserver:      E.DNS.BR 200.229.248.10 2001:12f8:1:0:0:0:0:10
+nserver:      F.DNS.BR 200.219.159.10
+ds-rdata:     41674 5 1 EAA0978F38879DB70A53F9FF1ACF21D046A98B5C
 
-Registration Date: 18-April-1989
-Last Updated Date: 15-April-2010
+whois:        whois.registro.br
+
+remarks:      Registration information: http://registro.br/
+
+created:      1989-04-18
+changed:      2010-06-22
+source:       IANA
+
