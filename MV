@@ -1,63 +1,39 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: mv
-ID: mv
+domain:       MV
 
-Sponsoring Organization:
-    Name: 
-    Organization: Dhiraagu Pvt. Ltd. (DHIVEHINET)
-    Address1: 19 Medhuziyaaraiy Magu
-    Address2: 
-    Address3: 
-    City: Male
-    State/Province: 
-    Country: Republic of Maldives
-    Postal Code: 20-02
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 15-September-2005
+organisation: Dhiraagu Pvt. Ltd. (DHIVEHINET)
+address:      19 Medhuziyaaraiy Magu
+address:      Male  20-02
+address:      Republic of Maldives
 
-Administrative Contact:
-    Name: NOC Engineer
-    Organization: Dhiraagu Pvt. Ltd. (DHIVEHINET)
-    Address1: 19 Medhuziyaaraiy Magu
-    Address2: 
-    Address3: 
-    City: Male
-    State/Province: 
-    Country: Republic of Maldives
-    Postal Code: 20-02
-    Phone: +960 771803
-    Fax: +960 3343088
-    Email: noc@dhiraagu.com.mv
-    Registration Date: 25-August-2005
-    Last Updated Date: 31-March-2006
+contact:      administrative
+name:         NOC Engineer
+organisation: Dhiraagu Pvt. Ltd. (DHIVEHINET)
+address:      19 Medhuziyaaraiy Magu
+address:      Male  20-02
+address:      Republic of Maldives
+phone:        +960 771803
+fax-no:       +960 3343088
+e-mail:       noc@dhiraagu.com.mv
 
-Technical Contact:
-    Name: Network Administrator - NOC
-    Organization: Dhiraagu Pvt. Ltd. (DHIVEHINET)
-    Address1: 19 Medhuziyaaraiy Magu
-    Address2: 
-    Address3: 
-    City: Male
-    State/Province: 
-    Country: Republic of Maldives
-    Postal Code: 20-02
-    Phone: +960 311222
-    Fax: +960 3343088
-    Email: noc@dhiraagu.com.mv
-    Registration Date: 25-August-2005
-    Last Updated Date: 31-March-2006
+contact:      technical
+name:         Network Administrator - NOC
+organisation: Dhiraagu Pvt. Ltd. (DHIVEHINET)
+address:      19 Medhuziyaaraiy Magu
+address:      Male  20-02
+address:      Republic of Maldives
+phone:        +960 311222
+fax-no:       +960 3343088
+e-mail:       noc@dhiraagu.com.mv
 
-Nameserver Information:
-    Nameserver: ns.dhivehinet.net.mv.
-    IP Address: 202.1.192.196
-    Nameserver: ns2.dhivehinet.net.mv.
-    IP Address: 202.1.201.201
-    Nameserver: mv-ns.anycast.pch.net.
-    IP Address: 204.61.216.24
+nserver:      MV-NS.ANYCAST.PCH.NET 204.61.216.24
+nserver:      NS.DHIVEHINET.NET.MV 202.1.192.196
+nserver:      NS2.DHIVEHINET.NET.MV 202.1.201.201
 
-Registration Date: 25-September-1996
-Last Updated Date: 31-March-2006
+created:      1996-09-25
+changed:      2006-03-31
+source:       IANA
+
