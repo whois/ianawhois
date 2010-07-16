@@ -1,67 +1,42 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: bj
-ID: bj
+domain:       BJ
 
-Sponsoring Organization:
-    Name: 
-    Organization: Offices des Postes et Telecommunications
-    Address1: P.O. Box 5656
-    Address2: 
-    Address3: 
-    City: Cotonou
-    State/Province: 
-    Country: Benin
-    Postal Code: 
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 01-January-1985
+organisation: Offices des Postes et Telecommunications
+address:      P.O. Box 5656
+address:      Cotonou
+address:      Benin
 
-Administrative Contact:
-    Name: Louis Agbaholou
-    Organization: Office des Postes et Telecommunications
-    Address1: P.O. Box 5656
-    Address2: 
-    Address3: 
-    City: Cotonou
-    State/Province: 
-    Country: Benin
-    Postal Code: 
-    Phone: +229 318 787
-    Fax: 
-    Email: agbaholou@intnet.bj
-    Registration Date: 01-January-1985
-    Last Updated Date: 01-January-1985
+contact:      administrative
+name:         Louis Agbaholou
+organisation: Office des Postes et Telecommunications
+address:      P.O. Box 5656
+address:      Cotonou
+address:      Benin
+phone:        +229 318 787
+e-mail:       agbaholou@intnet.bj
 
-Technical Contact:
-    Name: Franck Lucky Dossou
-    Organization: Office des Postes et Telecommunications du Benin
-    Address1: 
-    Address2: 
-    Address3: 
-    City: Cotonou
-    State/Province: 
-    Country: Benin
-    Postal Code: B.P. 5959
-    Phone: +229 318 787
-    Fax: +229 313 843
-    Email: dosfrk@intnet.bj
-    Registration Date: 01-January-1985
-    Last Updated Date: 11-May-2004
-URL for registration services: http://www.nic.bj
-Whois Server (port 43): whois.nic.bj
+contact:      technical
+name:         Franck Lucky Dossou
+organisation: Office des Postes et Telecommunications du Benin
+address:      Cotonou  B.P. 5959
+address:      Benin
+phone:        +229 318 787
+fax-no:       +229 313 843
+e-mail:       dosfrk@intnet.bj
 
-Nameserver Information:
-    Nameserver: ns1.intnet.bj.
-    IP Address: 81.91.225.18
-    Nameserver: bow.rain.fr.
-    IP Address: 194.51.3.49
-    Nameserver: nakayo.leland.bj.
-    IP Address: 81.91.225.1
-    Nameserver: ns-bj.ripe.net.
-    IP Address: 193.0.12.24
+nserver:      BOW.RAIN.FR 194.51.3.49
+nserver:      NAKAYO.LELAND.BJ 81.91.225.1
+nserver:      NS-BJ.RIPE.NET 193.0.12.24
+nserver:      NS1.INTNET.BJ 81.91.225.18
 
-Registration Date: 18-January-1996
-Last Updated Date: 06-October-2005
+whois:        whois.nic.bj
+
+remarks:      Registration information: http://www.nic.bj
+
+created:      1996-01-18
+changed:      2005-10-06
+source:       IANA
+
