@@ -1,68 +1,46 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: jo
-ID: jo
+domain:       JO
 
-Sponsoring Organization:
-    Name: 
-    Organization: National Information Technology Centre
-    Address1: Al-Jubiaha
-    Address2: P.O. Box 259
-    Address3: 
-    City: Amman
-    State/Province: 
-    Country: Jordan
-    Postal Code: 11941
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 27-March-2006
+organisation: National Information Technology Centre
+address:      Al-Jubiaha
+address:      P.O. Box 259
+address:      Amman  11941
+address:      Jordan
 
-Administrative Contact:
-    Name: Director General
-    Organization: National Information Technology Centre
-    Address1: Al-Jubiaha
-    Address2: P.O. Box 259
-    Address3: 
-    City: Amman
-    State/Province: 
-    Country: Jordan
-    Postal Code: 11941
-    Phone: +962 6 5300222
-    Fax: +962 6 5300277
-    Email: dg@nitc.gov.jo
-    Registration Date: 01-January-1985
-    Last Updated Date: 04-January-2010
+contact:      administrative
+name:         Director General
+organisation: National Information Technology Centre
+address:      Al-Jubiaha
+address:      P.O. Box 259
+address:      Amman  11941
+address:      Jordan
+phone:        +962 6 5300222
+fax-no:       +962 6 5300277
+e-mail:       dg@nitc.gov.jo
 
-Technical Contact:
-    Name: DNS Administrator
-    Organization: National Information Technology Centre
-    Address1: Al-Jubiaha
-    Address2: P.O. Box 259
-    Address3: 
-    City: Amman
-    State/Province: 
-    Country: Jordan
-    Postal Code: 11941
-    Phone: +962 6 5300222
-    Fax: +962 6 5300277
-    Email: dns@nitc.gov.jo
-    Registration Date: 01-January-1985
-    Last Updated Date: 04-January-2010
-URL for registration services: https://www.dns.jo/login.aspx
+contact:      technical
+name:         DNS Administrator
+organisation: National Information Technology Centre
+address:      Al-Jubiaha
+address:      P.O. Box 259
+address:      Amman  11941
+address:      Jordan
+phone:        +962 6 5300222
+fax-no:       +962 6 5300277
+e-mail:       dns@nitc.gov.jo
 
-Nameserver Information:
-    Nameserver: amra.nic.gov.jo.
-    IP Address: 193.188.66.103
-    Nameserver: petra.nic.gov.jo.
-    IP Address: 193.188.66.2
-    Nameserver: ns-jo.ripe.net.
-    IP Address: 193.0.12.112
-    Nameserver: dns.er.usgs.gov.
-    IP Address: 137.227.240.32
-    Nameserver: dns.wr.usgs.gov.
-    IP Address: 137.227.232.9
+nserver:      AMRA.NIC.GOV.JO 193.188.66.103
+nserver:      DNS.ER.USGS.GOV 137.227.240.32
+nserver:      DNS.WR.USGS.GOV 137.227.232.9
+nserver:      NS-JO.RIPE.NET 193.0.12.112
+nserver:      PETRA.NIC.GOV.JO 193.188.66.2
 
-Registration Date: 23-November-1994
-Last Updated Date: 04-January-2010
+remarks:      Registration information: https://www.dns.jo/login.aspx
+
+created:      1994-11-23
+changed:      2010-01-04
+source:       IANA
+
