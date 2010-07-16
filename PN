@@ -1,66 +1,46 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: pn
-ID: pn
+domain:       PN
 
-Sponsoring Organization:
-    Name: 
-    Organization: Pitcairn Island Administration
-    Address1: 17th Floor, IAG House
-    Address2: 151 Queen Street
-    Address3: 
-    City: Auckland
-    State/Province: 
-    Country: New Zealand
-    Postal Code: 1010
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 21-May-2010
+organisation: Pitcairn Island Administration
+address:      17th Floor, IAG House
+address:      151 Queen Street
+address:      Auckland  1010
+address:      New Zealand
 
-Administrative Contact:
-    Name: William Haigh
-    Organization: Pitcairn Island Administration
-    Address1: 17th Floor, IAG House
-    Address2: 151 Queen Street
-    Address3: 
-    City: Auckland
-    State/Province: 
-    Country: New Zealand
-    Postal Code: 1010
-    Phone: +64 9 3660186
-    Fax: +64 9 3660187
-    Email: admin@pitcairn.gov.pn
-    Registration Date: 01-January-1985
-    Last Updated Date: 21-May-2010
+contact:      administrative
+name:         William Haigh
+organisation: Pitcairn Island Administration
+address:      17th Floor, IAG House
+address:      151 Queen Street
+address:      Auckland  1010
+address:      New Zealand
+phone:        +64 9 3660186
+fax-no:       +64 9 3660187
+e-mail:       admin@pitcairn.gov.pn
 
-Technical Contact:
-    Name: William Haigh
-    Organization: Pitcairn Island Administration
-    Address1: 17th Floor, IAG House
-    Address2: 151 Queen Street
-    Address3: 
-    City: Auckland
-    State/Province: 
-    Country: New Zealand
-    Postal Code: 1010
-    Phone: +64 9 3660186
-    Fax: +64 9 3660187
-    Email: registrations@pitcairn.gov.pn
-    Registration Date: 20-November-2003
-    Last Updated Date: 21-May-2010
-URL for registration services: http://www.government.pn/PnRegistry/PnRegistry.htm
+contact:      technical
+name:         William Haigh
+organisation: Pitcairn Island Administration
+address:      17th Floor, IAG House
+address:      151 Queen Street
+address:      Auckland  1010
+address:      New Zealand
+phone:        +64 9 3660186
+fax-no:       +64 9 3660187
+e-mail:       registrations@pitcairn.gov.pn
 
-Nameserver Information:
-    Nameserver: ns1.pitcairn.net.pn.
-    IP Address: 210.54.120.113
-    Nameserver: flag.ep.net.
-    IP Address: 198.32.4.13
-    Nameserver: slave1.sth.netnod.se.
-    IP Address: 192.36.144.116
-    Nameserver: ns-ext.isc.org.
-    IP Address: 204.152.184.64 2001:4f8:0:2:0:0:0:13
+nserver:      FLAG.EP.NET 198.32.4.13
+nserver:      NS-EXT.ISC.ORG 2001:4f8:0:2:0:0:0:13 204.152.184.64
+nserver:      NS1.PITCAIRN.NET.PN 210.54.120.113
+nserver:      SLAVE1.STH.NETNOD.SE 192.36.144.116
 
-Registration Date: 10-July-1997
-Last Updated Date: 21-May-2010
+remarks:      Registration information:
+remarks:      http://www.government.pn/PnRegistry/PnRegistry.htm
+
+created:      1997-07-10
+changed:      2010-05-21
+source:       IANA
+
