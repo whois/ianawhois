@@ -1,66 +1,39 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: gn
-ID: gn
+domain:       GN
 
-Sponsoring Organization:
-    Name: 
-    Organization: Centre National des Sciences Halieutiques de Boussoura
-    Address1: BP1984
-    Address2: 
-    Address3: 
-    City: Conakry
-    State/Province: 
-    Country: Guinea
-    Postal Code: 
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 01-January-1985
+organisation: Centre National des Sciences Halieutiques de Boussoura
+address:      BP1984
+address:      Conakry
+address:      Guinea
 
-Administrative Contact:
-    Name: Mamoudou Keita
-    Organization: UNICEF Conakry
-    Address1: BP 222
-    Address2: 
-    Address3: 
-    City: Conakry
-    State/Province: 
-    Country: Guinea
-    Postal Code: 
-    Phone: +37798 66 25 15 / +37798 66 34 10
-    Fax: +224 46 27 07
-    Email: mkeita@unicef.org
-    Registration Date: 01-January-1985
-    Last Updated Date: 01-January-1985
+contact:      administrative
+name:         Mamoudou Keita
+organisation: UNICEF Conakry
+address:      BP 222
+address:      Conakry
+address:      Guinea
+phone:        +37798 66 25 15 / +37798 66 34 10
+fax-no:       +224 46 27 07
+e-mail:       mkeita@unicef.org
 
-Technical Contact:
-    Name: Randy Bush
-    Organization: 
-    Address1: PO Box 128
-    Address2: 
-    Address3: 
-    City: Kapa`au
-    State/Province: Hawai`i
-    Country: United States
-    Postal Code: 96755
-    Phone: 
-    Fax: 
-    Email: randy@psg.com
-    Registration Date: 20-September-2005
-    Last Updated Date: 20-September-2005
-URL for registration services: http://psg.com/dns/gn
+contact:      technical
+name:         Randy Bush
+address:      PO Box 128
+address:      Kapa`au Hawai`i 96755
+address:      United States
+e-mail:       randy@psg.com
 
-Nameserver Information:
-    Nameserver: hippo.ru.ac.za.
-    IP Address: 146.231.128.1 2001:4200:1010::1
-    Nameserver: rip.psg.com.
-    IP Address: 147.28.0.39 2001:418:1:0:0:0:0:39
-    Nameserver: sunic.sunet.se.
-    IP Address: 192.36.125.2 2001:6b0:7:0:0:0:0:2
-    Nameserver: ns1.dns.aq.
-    IP Address: 203.119.56.132
+nserver:      HIPPO.RU.AC.ZA 146.231.128.1 2001:4200:1010::1
+nserver:      NS1.DNS.AQ 203.119.56.132
+nserver:      RIP.PSG.COM 147.28.0.39 2001:418:1:0:0:0:0:39
+nserver:      SUNIC.SUNET.SE 192.36.125.2 2001:6b0:7:0:0:0:0:2
 
-Registration Date: 09-August-1994
-Last Updated Date: 29-April-2010
+remarks:      Registration information: http://psg.com/dns/gn
+
+created:      1994-08-09
+changed:      2010-04-29
+source:       IANA
+
