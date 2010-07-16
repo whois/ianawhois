@@ -1,73 +1,50 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: is
-ID: is
+domain:       IS
 
-Sponsoring Organization:
-    Name: 
-    Organization: ISNIC - Internet Iceland ltd.
-    Address1: Taeknigardi
-    Address2: Dunhagi 5
-    Address3: 
-    City: Reykjavik
-    State/Province: 
-    Country: Iceland
-    Postal Code: 107
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 01-January-1985
+organisation: ISNIC - Internet Iceland ltd.
+address:      Taeknigardi
+address:      Dunhagi 5
+address:      Reykjavik  107
+address:      Iceland
 
-Administrative Contact:
-    Name: Jens Pétur Jensen
-    Organization: ISNIC - Internet Iceland, Inc.
-    Address1: Taeknigardi
-    Address2: Dunhagi 5
-    Address3: 
-    City: Reykjavik
-    State/Province: 
-    Country: Iceland
-    Postal Code: 107
-    Phone: +354 578 2030
-    Fax: + 354 578 2031
-    Email: jens@isnic.is
-    Registration Date: 01-January-1985
-    Last Updated Date: 02-December-2008
+contact:      administrative
+name:         Jens PÃ©tur Jensen
+organisation: ISNIC - Internet Iceland, Inc.
+address:      Taeknigardi
+address:      Dunhagi 5
+address:      Reykjavik  107
+address:      Iceland
+phone:        +354 578 2030
+fax-no:       + 354 578 2031
+e-mail:       jens@isnic.is
 
-Technical Contact:
-    Name: Marius Olafsson
-    Organization: ISNIC - Internet Iceland Inc.
-    Address1: Taeknigardi
-    Address2: Dunhagi 5
-    Address3: 
-    City: Reykjavik
-    State/Province: 
-    Country: Iceland
-    Postal Code: 107
-    Phone: +354 525 4747
-    Fax: +354 561 0999
-    Email: marius@isgate.is
-    Registration Date: 01-January-1985
-    Last Updated Date: 01-January-1985
-URL for registration services: http://www.isnic.is/
-Whois Server (port 43): whois.isnic.is
+contact:      technical
+name:         Marius Olafsson
+organisation: ISNIC - Internet Iceland Inc.
+address:      Taeknigardi
+address:      Dunhagi 5
+address:      Reykjavik  107
+address:      Iceland
+phone:        +354 525 4747
+fax-no:       +354 561 0999
+e-mail:       marius@isgate.is
 
-Nameserver Information:
-    Nameserver: durinn.rhnet.is.
-    IP Address: 130.208.16.20
-    Nameserver: isgate.is.
-    IP Address: 193.4.58.51
-    Nameserver: ns4.tele.dk.
-    IP Address: 195.41.46.78
-    Nameserver: ns-is.ripe.net.
-    IP Address: 193.0.12.102
-    Nameserver: sunic.sunet.se.
-    IP Address: 192.36.125.2 2001:6b0:7:0:0:0:0:2
-    Nameserver: sns-pb.isc.org.
-    IP Address: 192.5.4.1 2001:500:2e:0:0:0:0:1
-    Nameserver: sab.isnic.is.
-    IP Address: 194.146.106.58
+nserver:      DURINN.RHNET.IS 130.208.16.20
+nserver:      ISGATE.IS 193.4.58.51
+nserver:      NS-IS.RIPE.NET 193.0.12.102
+nserver:      NS4.TELE.DK 195.41.46.78
+nserver:      SAB.ISNIC.IS 194.146.106.58
+nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e:0:0:0:0:1
+nserver:      SUNIC.SUNET.SE 192.36.125.2 2001:6b0:7:0:0:0:0:2
 
-Registration Date: 18-November-1987
-Last Updated Date: 09-April-2009
+whois:        whois.isnic.is
+
+remarks:      Registration information: http://www.isnic.is/
+
+created:      1987-11-18
+changed:      2009-04-09
+source:       IANA
+
