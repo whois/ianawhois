@@ -1,67 +1,44 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: mp
-ID: mp
+domain:       MP
 
-Sponsoring Organization:
-    Name: 
-    Organization: Saipan Datacom, Inc.
-    Address1: P.O. Box 504053
-    Address2: 
-    Address3: 
-    City: Saipan
-    State/Province: 
-    Country: Northern Mariana Islands
-    Postal Code: MP 96950
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 30-July-2007
+organisation: Saipan Datacom, Inc.
+address:      P.O. Box 504053
+address:      Saipan  MP 96950
+address:      Northern Mariana Islands
 
-Administrative Contact:
-    Name: Daniel Camacho
-    Organization: Saipan Datacom, Inc.
-    Address1: P.O. Box 504177
-    Address2: 
-    Address3: 
-    City: Saipan
-    State/Province: 
-    Country: Northern Mariana Islands
-    Postal Code: MP 96950
-    Phone: +1 670 483 3264
-    Fax: +1 670 235 0965
-    Email: dcamacho@saipan.com
-    Registration Date: 01-January-1985
-    Last Updated Date: 13-October-2008
+contact:      administrative
+name:         Daniel Camacho
+organisation: Saipan Datacom, Inc.
+address:      P.O. Box 504177
+address:      Saipan  MP 96950
+address:      Northern Mariana Islands
+phone:        +1 670 483 3264
+fax-no:       +1 670 235 0965
+e-mail:       dcamacho@saipan.com
 
-Technical Contact:
-    Name: Daniel Camacho
-    Organization: Saipan Datacom, Inc.
-    Address1: P.O. Box 504177
-    Address2: 
-    Address3: 
-    City: Saipan
-    State/Province: 
-    Country: Northern Mariana Islands
-    Postal Code: MP 96950
-    Phone: +1 670 483 3264
-    Fax: +1 670 235 0965
-    Email: dcamacho@saipan.com
-    Registration Date: 01-January-1985
-    Last Updated Date: 13-October-2008
-URL for registration services: https://get.mp/
-Whois Server (port 43): whois.nic.mp
+contact:      technical
+name:         Daniel Camacho
+organisation: Saipan Datacom, Inc.
+address:      P.O. Box 504177
+address:      Saipan  MP 96950
+address:      Northern Mariana Islands
+phone:        +1 670 483 3264
+fax-no:       +1 670 235 0965
+e-mail:       dcamacho@saipan.com
 
-Nameserver Information:
-    Nameserver: ns1.nic.mp.
-    IP Address: 202.128.29.2
-    Nameserver: ns2.nic.mp.
-    IP Address: 202.128.29.135
-    Nameserver: ns3.nic.mp.
-    IP Address: 75.101.129.89
-    Nameserver: ns4.nic.mp.
-    IP Address: 75.101.133.101
+nserver:      NS1.NIC.MP 202.128.29.2
+nserver:      NS2.NIC.MP 202.128.29.135
+nserver:      NS3.NIC.MP 75.101.129.89
+nserver:      NS4.NIC.MP 75.101.133.101
 
-Registration Date: 22-October-1996
-Last Updated Date: 21-May-2009
+whois:        whois.nic.mp
+
+remarks:      Registration information: https://get.mp/
+
+created:      1996-10-22
+changed:      2009-05-21
+source:       IANA
+
