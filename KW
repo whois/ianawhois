@@ -1,70 +1,44 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: kw
-ID: kw
+domain:       KW
 
-Sponsoring Organization:
-    Name: 
-    Organization: Ministry of Communications
-    Address1: P.O. Box No. 318
-    Address2: 
-    Address3: 
-    City: Safat
-    State/Province: 
-    Country: Kuwait
-    Postal Code: 11111
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 01-January-1985
+organisation: Ministry of Communications
+address:      P.O. Box No. 318
+address:      Safat  11111
+address:      Kuwait
 
-Administrative Contact:
-    Name: Saud Alshomer
-    Organization: Ministry of Communications
-    Address1: P.O. Box No. 318
-    Address2: 
-    Address3: 
-    City: Safat
-    State/Province: 
-    Country: Kuwait
-    Postal Code: 11111
-    Phone: +965 24843577
-    Fax: +965 24998493
-    Email: saud@moc.kw
-    Registration Date: 01-January-1985
-    Last Updated Date: 04-November-2009
+contact:      administrative
+name:         Saud Alshomer
+organisation: Ministry of Communications
+address:      P.O. Box No. 318
+address:      Safat  11111
+address:      Kuwait
+phone:        +965 24843577
+fax-no:       +965 24998493
+e-mail:       saud@moc.kw
 
-Technical Contact:
-    Name: Youssef Al-Mesfer
-    Organization: Kuwait Institute for Scientific Research
-    Address1: P.O. Box 24885
-    Address2: 
-    Address3: 
-    City: Kuwait
-    State/Province: Safat
-    Country: Kuwait
-    Postal Code: 13109
-    Phone: +965 2498 9774
-    Fax: +965 2498 9699
-    Email: ymesfer@kisr.edu.kw
-    Registration Date: 01-January-1985
-    Last Updated Date: 03-September-2009
-URL for registration services: http://www.kw/
+contact:      technical
+name:         Youssef Al-Mesfer
+organisation: Kuwait Institute for Scientific Research
+address:      P.O. Box 24885
+address:      Kuwait Safat 13109
+address:      Kuwait
+phone:        +965 2498 9774
+fax-no:       +965 2498 9699
+e-mail:       ymesfer@kisr.edu.kw
 
-Nameserver Information:
-    Nameserver: dns1.kw.
-    IP Address: 161.252.48.140
-    Nameserver: dns2.kw.
-    IP Address: 161.252.48.150
-    Nameserver: dns3.kw.
-    IP Address: 161.252.48.145
-    Nameserver: kwns.kems.net.
-    IP Address: 168.187.5.12
-    Nameserver: sec1.apnic.net.
-    IP Address: 202.12.29.59 2001:dc0:2001:a:4608::59
-    Nameserver: sns-pb.isc.org.
-    IP Address: 192.5.4.1 2001:500:2e:0:0:0:0:1
+nserver:      DNS1.KW 161.252.48.140
+nserver:      DNS2.KW 161.252.48.150
+nserver:      DNS3.KW 161.252.48.145
+nserver:      KWNS.KEMS.NET 168.187.5.12
+nserver:      SEC1.APNIC.NET 2001:dc0:2001:a:4608::59 202.12.29.59
+nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e:0:0:0:0:1
 
-Registration Date: 26-October-1992
-Last Updated Date: 30-April-2010
+remarks:      Registration information: http://www.kw/
+
+created:      1992-10-26
+changed:      2010-04-30
+source:       IANA
+
