@@ -1,70 +1,44 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: kh
-ID: kh
+domain:       KH
 
-Sponsoring Organization:
-    Name: 
-    Organization: Ministry of Post and Telecommunications
-    Address1: Corner of Street 13 & 102
-    Address2: 
-    Address3: 
-    City: Phnom Penh
-    State/Province: 
-    Country: Cambodia
-    Postal Code: 
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 01-January-1985
+organisation: Ministry of Post and Telecommunications
+address:      Corner of Street 13 & 102
+address:      Phnom Penh
+address:      Cambodia
 
-Administrative Contact:
-    Name: Mrs. Lim Yatal
-    Organization: Ministry of Post and Telecommunications
-    Address1: Corner of Street 13 & 102
-    Address2: 
-    Address3: 
-    City: Wat Phnom, Phnom Penh
-    State/Province: 
-    Country: Cambodia
-    Postal Code: 
-    Phone: +855 23 725 384
-    Fax: +855 23 426 011
-    Email: dns-admin@dns.net.kh
-    Registration Date: 01-January-1985
-    Last Updated Date: 23-July-2002
+contact:      administrative
+name:         Mrs. Lim Yatal
+organisation: Ministry of Post and Telecommunications
+address:      Corner of Street 13 & 102
+address:      Wat Phnom, Phnom Penh
+address:      Cambodia
+phone:        +855 23 725 384
+fax-no:       +855 23 426 011
+e-mail:       dns-admin@dns.net.kh
 
-Technical Contact:
-    Name: Chakrya Moa
-    Organization: Ministry of Post and Telecommunications
-    Address1: Corner of Street 13 & 102
-    Address2: 
-    Address3: 
-    City: Phnom Penh
-    State/Province: 
-    Country: Cambodia
-    Postal Code: 
-    Phone: +855 23 724 223
-    Fax: +855 23 426 011
-    Email: chakrya@camnet.com.kh
-    Registration Date: 01-January-1985
-    Last Updated Date: 01-January-1985
-URL for registration services: http://www.camnet.com.kh/
+contact:      technical
+name:         Chakrya Moa
+organisation: Ministry of Post and Telecommunications
+address:      Corner of Street 13 & 102
+address:      Phnom Penh
+address:      Cambodia
+phone:        +855 23 724 223
+fax-no:       +855 23 426 011
+e-mail:       chakrya@camnet.com.kh
 
-Nameserver Information:
-    Nameserver: dns1.online.com.kh.
-    IP Address: 203.189.128.1
-    Nameserver: ns.camnet.com.kh.
-    IP Address: 203.223.32.3
-    Nameserver: ns.telesurf.com.kh.
-    IP Address: 203.144.65.3
-    Nameserver: ns1.dns.net.kh.
-    IP Address: 203.223.32.21
-    Nameserver: sec3.apnic.net.
-    IP Address: 202.12.28.140 2001:dc0:1:0:4777:0:0:140
-    Nameserver: ns-kh.ripe.net.
-    IP Address: 193.0.12.37
+nserver:      DNS1.ONLINE.COM.KH 203.189.128.1
+nserver:      NS-KH.RIPE.NET 193.0.12.37
+nserver:      NS.CAMNET.COM.KH 203.223.32.3
+nserver:      NS.TELESURF.COM.KH 203.144.65.3
+nserver:      NS1.DNS.NET.KH 203.223.32.21
+nserver:      SEC3.APNIC.NET 2001:dc0:1:0:4777:0:0:140 202.12.28.140
 
-Registration Date: 20-February-1996
-Last Updated Date: 02-May-2008
+remarks:      Registration information: http://www.camnet.com.kh/
+
+created:      1996-02-20
+changed:      2008-05-02
+source:       IANA
+
