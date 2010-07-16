@@ -1,71 +1,49 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: cx
-ID: cx
+domain:       CX
 
-Sponsoring Organization:
-    Name: 
-    Organization: Christmas Island Internet Administration Limited
-    Address1: Christmas Island Technology Centre (6RCI),
-    Address2: Nursery Road, Drumsite
-    Address3: 
-    City: Christmas Island
-    State/Province: Indian Ocean
-    Country: Christmas Island
-    Postal Code: 6798
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 03-February-2006
+organisation: Christmas Island Internet Administration Limited
+address:      Christmas Island Technology Centre (6RCI),
+address:      Nursery Road, Drumsite
+address:      Christmas Island Indian Ocean 6798
+address:      Christmas Island
 
-Administrative Contact:
-    Name: Director (Garth Miller)
-    Organization: Christmas Island Internet Administration Limited
-    Address1: Christmas Island Technology Centre (6RCI),
-    Address2: Nursery Road, Drumsite
-    Address3: 
-    City: Christmas Island
-    State/Province: Indian Ocean
-    Country: Christmas Island
-    Postal Code: 6798
-    Phone: +61 8 9164 8808
-    Fax: +61 8 9164 8879
-    Email: garth.miller@nic.cx
-    Registration Date: 01-January-1985
-    Last Updated Date: 26-June-2006
+contact:      administrative
+name:         Director (Garth Miller)
+organisation: Christmas Island Internet Administration Limited
+address:      Christmas Island Technology Centre (6RCI),
+address:      Nursery Road, Drumsite
+address:      Christmas Island Indian Ocean 6798
+address:      Christmas Island
+phone:        +61 8 9164 8808
+fax-no:       +61 8 9164 8879
+e-mail:       garth.miller@nic.cx
 
-Technical Contact:
-    Name: Brad Waugh
-    Organization: CoCCA Registry Services Limited
-    Address1: 6RCI Building
-    Address2: Nursery Road
-    Address3: 
-    City: Christmas Island
-    State/Province: Indian Ocean
-    Country: Christmas Island
-    Postal Code: WA 6798
-    Phone: +61 (0)8 9164 7334
-    Fax: +61 (0)2 8324 6336
-    Email: brad.waugh@coccaregistry.net
-    Registration Date: 01-January-1985
-    Last Updated Date: 29-January-2009
-URL for registration services: http://www.nic.cx
-Whois Server (port 43): whois.nic.cx
+contact:      technical
+name:         Brad Waugh
+organisation: CoCCA Registry Services Limited
+address:      6RCI Building
+address:      Nursery Road
+address:      Christmas Island Indian Ocean WA 6798
+address:      Christmas Island
+phone:        +61 (0)8 9164 7334
+fax-no:       +61 (0)2 8324 6336
+e-mail:       brad.waugh@coccaregistry.net
 
-Nameserver Information:
-    Nameserver: ns.cx-nic.org.nz.
-    IP Address: 203.119.12.245
-    Nameserver: ns.anycast.nic.cx.
-    IP Address: 204.61.216.16
-    Nameserver: cx1.dyntld.net.
-    IP Address: 208.78.70.77
-    Nameserver: cx2.dyntld.net.
-    IP Address: 204.13.250.77
-    Nameserver: cx3.dyntld.net.
-    IP Address: 208.78.71.77
-    Nameserver: cx4.dyntld.net.
-    IP Address: 204.13.251.77
+nserver:      CX1.DYNTLD.NET 208.78.70.77
+nserver:      CX2.DYNTLD.NET 204.13.250.77
+nserver:      CX3.DYNTLD.NET 208.78.71.77
+nserver:      CX4.DYNTLD.NET 204.13.251.77
+nserver:      NS.ANYCAST.NIC.CX 204.61.216.16
+nserver:      NS.CX-NIC.ORG.NZ 203.119.12.245
 
-Registration Date: 24-April-1997
-Last Updated Date: 29-January-2009
+whois:        whois.nic.cx
+
+remarks:      Registration information: http://www.nic.cx
+
+created:      1997-04-24
+changed:      2009-01-29
+source:       IANA
+
