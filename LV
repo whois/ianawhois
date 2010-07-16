@@ -1,75 +1,50 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: lv
-ID: lv
+domain:       LV
 
-Sponsoring Organization:
-    Name: 
-    Organization: University of Latvia
-                  Institute of Mathematics and Computer Science
-                  Department of Network Solutions (DNS)
-    Address1: Rainis Boulevard 29
-    Address2: 
-    Address3: 
-    City: Riga
-    State/Province: 
-    Country: Latvia
-    Postal Code: LV-1459
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 01-January-1985
+organisation: University of Latvia
+organisation: Institute of Mathematics and Computer Science
+organisation: Department of Network Solutions (DNS)
+address:      Rainis Boulevard 29
+address:      Riga  LV-1459
+address:      Latvia
 
-Administrative Contact:
-    Name: Guntis Barzdins
-    Organization: Institute of Mathematics and Computer Science
-                  Department of Network Solutions (DNS)
-    Address1: Rainis Boulevard 29
-    Address2: 
-    Address3: 
-    City: Riga
-    State/Province: 
-    Country: Latvia
-    Postal Code: LV-1459
-    Phone: +371 721 1241
-    Fax: +371 782 0153
-    Email: guntis@latnet.lv
-    Registration Date: 01-January-1985
-    Last Updated Date: 01-January-1985
+contact:      administrative
+name:         Guntis Barzdins
+organisation: Institute of Mathematics and Computer Science
+organisation: Department of Network Solutions (DNS)
+address:      Rainis Boulevard 29
+address:      Riga  LV-1459
+address:      Latvia
+phone:        +371 721 1241
+fax-no:       +371 782 0153
+e-mail:       guntis@latnet.lv
 
-Technical Contact:
-    Name: Martins Medens
-    Organization: Institute of Mathematics and Computer Science
-                  Department of Network Solutions (DNS)
-    Address1: Rainis Boulevard 29
-    Address2: 
-    Address3: 
-    City: Riga
-    State/Province: 
-    Country: Latvia
-    Postal Code: LV-1459
-    Phone: +371 7 211 241
-    Fax: +371 7 820 153
-    Email: hostmaster@latnet.lv
-    Registration Date: 01-January-1985
-    Last Updated Date: 30-May-2003
-URL for registration services: http://www.nic.lv/
-Whois Server (port 43): whois.nic.lv
+contact:      technical
+name:         Martins Medens
+organisation: Institute of Mathematics and Computer Science
+organisation: Department of Network Solutions (DNS)
+address:      Rainis Boulevard 29
+address:      Riga  LV-1459
+address:      Latvia
+phone:        +371 7 211 241
+fax-no:       +371 7 820 153
+e-mail:       hostmaster@latnet.lv
 
-Nameserver Information:
-    Nameserver: a.nic.lv.
-    IP Address: 91.198.156.99 2a02:500:4400:700::4
-    Nameserver: b.nic.lv.
-    IP Address: 92.240.70.1
-    Nameserver: c.nic.lv.
-    IP Address: 194.0.1.24 2001:678:4:0:0:0:0:18
-    Nameserver: lt.nic.lv.
-    IP Address: 83.171.8.137
-    Nameserver: ns-lv.ripe.net.
-    IP Address: 193.0.12.121 2001:610:240:0:53:cc:12:121
-    Nameserver: sunic.sunet.se.
-    IP Address: 192.36.125.2 2001:6b0:7:0:0:0:0:2
+nserver:      A.NIC.LV 2a02:500:4400:700::4 91.198.156.99
+nserver:      B.NIC.LV 92.240.70.1
+nserver:      C.NIC.LV 194.0.1.24 2001:678:4:0:0:0:0:18
+nserver:      LT.NIC.LV 83.171.8.137
+nserver:      NS-LV.RIPE.NET 193.0.12.121 2001:610:240:0:53:cc:12:121
+nserver:      SUNIC.SUNET.SE 192.36.125.2 2001:6b0:7:0:0:0:0:2
 
-Registration Date: 29-April-1993
-Last Updated Date: 17-June-2009
+whois:        whois.nic.lv
+
+remarks:      Registration information: http://www.nic.lv/
+
+created:      1993-04-29
+changed:      2009-06-17
+source:       IANA
+
