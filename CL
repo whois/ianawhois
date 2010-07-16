@@ -1,73 +1,48 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: cl
-ID: cl
+domain:       CL
 
-Sponsoring Organization:
-    Name: 
-    Organization: NIC Chile (University of Chile)
-    Address1: Miraflores 222, Piso 14
-    Address2: 
-    Address3: 
-    City: Santiago
-    State/Province: RM
-    Country: Chile
-    Postal Code: 832-0198
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 30-January-2007
+organisation: NIC Chile (University of Chile)
+address:      Miraflores 222, Piso 14
+address:      Santiago RM 832-0198
+address:      Chile
 
-Administrative Contact:
-    Name: Patricio V. Poblete
-    Organization: NIC Chile
-                  University of Chile
-    Address1: Miraflores 222, Piso 14
-    Address2: 
-    Address3: 
-    City: Santiago
-    State/Province: RM
-    Country: Chile
-    Postal Code: 832-0198
-    Phone: +56 2 940 7700
-    Fax: +56 2 940 7701
-    Email: ppoblete@nic.cl
-    Registration Date: 01-January-1985
-    Last Updated Date: 30-January-2007
+contact:      administrative
+name:         Patricio V. Poblete
+organisation: NIC Chile
+organisation: University of Chile
+address:      Miraflores 222, Piso 14
+address:      Santiago RM 832-0198
+address:      Chile
+phone:        +56 2 940 7700
+fax-no:       +56 2 940 7701
+e-mail:       ppoblete@nic.cl
 
-Technical Contact:
-    Name: Jose M. Piquer
-    Organization: NIC Chile
-                  University of Chile
-    Address1: Miraflores 222, Piso 14
-    Address2: 
-    Address3: 
-    City: Santiago
-    State/Province: RM
-    Country: Chile
-    Postal Code: 832-0198
-    Phone: +56 2 940 7700
-    Fax: +56 2 940 7701
-    Email: jpiquer@nic.cl
-    Registration Date: 01-January-1985
-    Last Updated Date: 30-January-2007
-URL for registration services: http://www.nic.cl/
-Whois Server (port 43): whois.nic.cl
+contact:      technical
+name:         Jose M. Piquer
+organisation: NIC Chile
+organisation: University of Chile
+address:      Miraflores 222, Piso 14
+address:      Santiago RM 832-0198
+address:      Chile
+phone:        +56 2 940 7700
+fax-no:       +56 2 940 7701
+e-mail:       jpiquer@nic.cl
 
-Nameserver Information:
-    Nameserver: ns.nic.cl.
-    IP Address: 200.1.123.4
-    Nameserver: ns3.nic.fr.
-    IP Address: 192.134.0.49 2001:660:3006:1:0:0:1:1
-    Nameserver: a.nic.cl.
-    IP Address: 200.1.121.10
-    Nameserver: slave.sth.netnod.se.
-    IP Address: 192.36.144.116
-    Nameserver: cl1.dnsnode.net.
-    IP Address: 194.146.106.34
-    Nameserver: sns-pb.isc.org.
-    IP Address: 192.5.4.1 2001:500:2e:0:0:0:0:1
+nserver:      A.NIC.CL 200.1.121.10
+nserver:      CL1.DNSNODE.NET 194.146.106.34
+nserver:      NS.NIC.CL 200.1.123.4
+nserver:      NS3.NIC.FR 192.134.0.49 2001:660:3006:1:0:0:1:1
+nserver:      SLAVE.STH.NETNOD.SE 192.36.144.116
+nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e:0:0:0:0:1
 
-Registration Date: 27-January-1995
-Last Updated Date: 04-January-2010
+whois:        whois.nic.cl
+
+remarks:      Registration information: http://www.nic.cl/
+
+created:      1995-01-27
+changed:      2010-01-04
+source:       IANA
+
