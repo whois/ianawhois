@@ -1,71 +1,46 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: dk
-ID: dk
+domain:       DK
 
-Sponsoring Organization:
-    Name: 
-    Organization: Dansk Internet Forum
-    Address1: Kalvebod Brygge 43, 4th Floor
-    Address2: 
-    Address3: 
-    City: Copenhagen V
-    State/Province: 
-    Country: Denmark
-    Postal Code: DK-1560
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 21-April-2003
+organisation: Dansk Internet Forum
+address:      Kalvebod Brygge 43, 4th Floor
+address:      Copenhagen V  DK-1560
+address:      Denmark
 
-Administrative Contact:
-    Name: DK Hostmaster Administrative Contact
-    Organization: DK Hostmaster A/S
-    Address1: Kalvebod Brygge 43, 4th Floor
-    Address2: 
-    Address3: 
-    City: Copenhagen V
-    State/Province: 
-    Country: Denmark
-    Postal Code: DK-1560
-    Phone: +45 33 64 60 60
-    Fax: +45 33 64 60 66
-    Email: tld2009admin@dk-hostmaster.dk
-    Registration Date: 01-January-1985
-    Last Updated Date: 03-September-2009
+contact:      administrative
+name:         DK Hostmaster Administrative Contact
+organisation: DK Hostmaster A/S
+address:      Kalvebod Brygge 43, 4th Floor
+address:      Copenhagen V  DK-1560
+address:      Denmark
+phone:        +45 33 64 60 60
+fax-no:       +45 33 64 60 66
+e-mail:       tld2009admin@dk-hostmaster.dk
 
-Technical Contact:
-    Name: DK Hostmaster Technical Contact
-    Organization: DK Hostmaster A/S
-    Address1: Kalvebod Brygge 43, 4th Floor
-    Address2: 
-    Address3: 
-    City: Copenhagen V
-    State/Province: 
-    Country: Denmark
-    Postal Code: DK-1560
-    Phone: +45 33 64 60 60
-    Fax: +45 33 64 60 66
-    Email: tld2009tech@dk-hostmaster.dk
-    Registration Date: 01-January-1985
-    Last Updated Date: 03-September-2009
-URL for registration services: http://www.dk-hostmaster.dk/
-Whois Server (port 43): whois.dk-hostmaster.dk
+contact:      technical
+name:         DK Hostmaster Technical Contact
+organisation: DK Hostmaster A/S
+address:      Kalvebod Brygge 43, 4th Floor
+address:      Copenhagen V  DK-1560
+address:      Denmark
+phone:        +45 33 64 60 60
+fax-no:       +45 33 64 60 66
+e-mail:       tld2009tech@dk-hostmaster.dk
 
-Nameserver Information:
-    Nameserver: b.nic.dk.
-    IP Address: 193.163.102.222 2a01:630:0:80:0:0:0:53
-    Nameserver: a.nic.dk.
-    IP Address: 212.88.78.122
-    Nameserver: c.nic.dk.
-    IP Address: 208.76.168.244
-    Nameserver: l.nic.dk.
-    IP Address: 192.38.7.242
-    Nameserver: s.nic.dk.
-    IP Address: 77.72.229.252 2a01:3f0:0:303:0:0:0:53
-    Nameserver: p.nic.dk.
-    IP Address: 204.61.216.36 2001:500:14:6036:ad:0:0:1
+nserver:      A.NIC.DK 212.88.78.122
+nserver:      B.NIC.DK 193.163.102.222 2a01:630:0:80:0:0:0:53
+nserver:      C.NIC.DK 208.76.168.244
+nserver:      L.NIC.DK 192.38.7.242
+nserver:      P.NIC.DK 2001:500:14:6036:ad:0:0:1 204.61.216.36
+nserver:      S.NIC.DK 2a01:3f0:0:303:0:0:0:53 77.72.229.252
 
-Registration Date: 14-July-1987
-Last Updated Date: 21-June-2010
+whois:        whois.dk-hostmaster.dk
+
+remarks:      Registration information: http://www.dk-hostmaster.dk/
+
+created:      1987-07-14
+changed:      2010-06-21
+source:       IANA
+
