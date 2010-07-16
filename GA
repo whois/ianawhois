@@ -1,81 +1,40 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: ga
-ID: ga
+domain:       GA
 
-Sponsoring Organization:
-    Name: 
-    Organization: Gabon Telecom
-    Address1: Immeuble Delta Postal
-    Address2: 
-    Address3: 
-    City: Libreville
-    State/Province: 
-    Country: Gabon
-    Postal Code: BP:40000
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 23-April-2004
+organisation: Gabon Telecom
+address:      Immeuble Delta Postal
+address:      Libreville  BP:40000
+address:      Gabon
 
-Administrative Contact:
-    Name: Emmanuel Idoundou
-    Organization: Gabon Telecom
-    Address1: Immeuble Delta Postal
-    Address2: 
-    Address3: 
-    City: Libreville
-    State/Province: 
-    Country: Gabon
-    Postal Code: BP:40000
-    Phone: +241 78 78 37
-    Fax: +241 78 78 87
-    Email: e.idoundou@gabontelecom.ga
-    Registration Date: 01-January-1985
-    Last Updated Date: 23-April-2004
+contact:      administrative
+name:         Emmanuel Idoundou
+organisation: Gabon Telecom
+address:      Immeuble Delta Postal
+address:      Libreville  BP:40000
+address:      Gabon
+phone:        +241 78 78 37
+fax-no:       +241 78 78 87
+e-mail:       e.idoundou@gabontelecom.ga
 
-Technical Contact:
-    Name: Gaetan Bouraga
-    Organization: Gabon Telecom
-    Address1: Immeuble Delta Postal
-    Address2: 
-    Address3: 
-    City: Libreville
-    State/Province: 
-    Country: Gabon
-    Postal Code: BP:40000
-    Phone: +241 78 78 49
-    Fax: +241 78 78 87
-    Email: gbouraga@gabontelecom.ga
-    Registration Date: 01-January-1985
-    Last Updated Date: 26-April-2004
+contact:      technical
+name:         Francois Mbomeyo Ona
+organisation: Gabon Telecom
+address:      Cenacom
+address:      Libreville  BP:40000
+address:      Gabon
+phone:        +241 76 42 31
+fax-no:       +241 74 19 34
+e-mail:       mbomeyo@inet.ga
 
-Technical Contact:
-    Name: Francois Mbomeyo Ona
-    Organization: Gabon Telecom
-    Address1: Cenacom
-    Address2: 
-    Address3: 
-    City: Libreville
-    State/Province: 
-    Country: Gabon
-    Postal Code: BP:40000
-    Phone: +241 76 42 31
-    Fax: +241 74 19 34
-    Email: mbomeyo@inet.ga
-    Registration Date: 26-April-2004
-    Last Updated Date: 27-April-2004
+nserver:      B.HOSTING.NIC.FR 192.93.0.4 2001:660:3005:1:0:0:1:2
+nserver:      NS-GA.RIPE.NET 193.0.12.81 2001:610:240:0:53:cc:12:81
+nserver:      NYALI.INET.GA 217.77.71.33
+nserver:      OGOOUE.INET.GA 217.77.71.1
 
-Nameserver Information:
-    Nameserver: nyali.inet.ga.
-    IP Address: 217.77.71.33
-    Nameserver: ogooue.inet.ga.
-    IP Address: 217.77.71.1
-    Nameserver: b.hosting.nic.fr.
-    IP Address: 192.93.0.4 2001:660:3005:1:0:0:1:2
-    Nameserver: ns-ga.ripe.net.
-    IP Address: 193.0.12.81 2001:610:240:0:53:cc:12:81
+created:      1994-12-12
+changed:      2005-08-29
+source:       IANA
 
-Registration Date: 12-December-1994
-Last Updated Date: 29-August-2005
