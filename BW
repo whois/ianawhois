@@ -1,73 +1,43 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: bw
-ID: bw
+domain:       BW
 
-Sponsoring Organization:
-    Name: 
-    Organization: University of Botswana
-    Address1: Private Bag 0022
-    Address2: 
-    Address3: 
-    City: Gaberonr
-    State/Province: 
-    Country: Republic of Botswana
-    Postal Code: 
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 01-January-1985
+organisation: University of Botswana
+address:      Private Bag 0022
+address:      Gaberonr
+address:      Republic of Botswana
 
-Administrative Contact:
-    Name: Gary Northfield
-    Organization: Megaleng
-                  Government Enclave
-    Address1: 
-    Address2: 
-    Address3: 
-    City: Gaborone
-    State/Province: 
-    Country: Botswana
-    Postal Code: 
-    Phone: +267 358 492
-    Fax: +267 353 526
-    Email: garyn@btc.bw
-    Registration Date: 01-January-1985
-    Last Updated Date: 01-January-1985
+contact:      administrative
+name:         Gary Northfield
+organisation: Megaleng
+organisation: Government Enclave
+address:      Gaborone
+address:      Botswana
+phone:        +267 358 492
+fax-no:       +267 353 526
+e-mail:       garyn@btc.bw
 
-Technical Contact:
-    Name: Gary Northfield
-    Organization: Megaleng
-                  Government Enclave
-    Address1: 
-    Address2: 
-    Address3: 
-    City: Gaborone
-    State/Province: 
-    Country: Botswana
-    Postal Code: 
-    Phone: +267 358 492
-    Fax: +267 353 526
-    Email: garyn@btc.bw
-    Registration Date: 01-January-1985
-    Last Updated Date: 01-January-1985
+contact:      technical
+name:         Gary Northfield
+organisation: Megaleng
+organisation: Government Enclave
+address:      Gaborone
+address:      Botswana
+phone:        +267 358 492
+fax-no:       +267 353 526
+e-mail:       garyn@btc.bw
 
-Nameserver Information:
-    Nameserver: daisy.ee.und.ac.za.
-    IP Address: 146.230.192.18
-    Nameserver: hippo.ru.ac.za.
-    IP Address: 146.231.128.1 2001:4200:1010::1
-    Nameserver: ns.uu.net.
-    IP Address: 137.39.1.3
-    Nameserver: rain.psg.com.
-    IP Address: 147.28.0.34
-    Nameserver: ns1.btc.bw.
-    IP Address: 168.167.168.34
-    Nameserver: ns4.btc.bw.
-    IP Address: 168.167.253.20
-    Nameserver: vpsm.btc.bw.
-    IP Address: 168.167.253.21
+nserver:      DAISY.EE.UND.AC.ZA 146.230.192.18
+nserver:      HIPPO.RU.AC.ZA 146.231.128.1 2001:4200:1010::1
+nserver:      NS.UU.NET 137.39.1.3
+nserver:      NS1.BTC.BW 168.167.168.34
+nserver:      NS4.BTC.BW 168.167.253.20
+nserver:      RAIN.PSG.COM 147.28.0.34
+nserver:      VPSM.BTC.BW 168.167.253.21
 
-Registration Date: 19-March-1993
-Last Updated Date: 17-March-2008
+created:      1993-03-19
+changed:      2008-03-17
+source:       IANA
+
