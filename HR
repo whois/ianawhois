@@ -1,68 +1,43 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: hr
-ID: hr
+domain:       HR
 
-Sponsoring Organization:
-    Name: 
-    Organization: CARNet - Croatian Academic and Research Network
-    Address1: Josipa Marohnica 5
-    Address2: 
-    Address3: 
-    City: Zagreb
-    State/Province: 
-    Country: Croatia/Hrvatska
-    Postal Code: 10000
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 27-June-2008
+organisation: CARNet - Croatian Academic and Research Network
+address:      Josipa Marohnica 5
+address:      Zagreb  10000
+address:      Croatia/Hrvatska
 
-Administrative Contact:
-    Name: Ivan Maric
-    Organization: CARNet - Croatian Academic and Research Network
-    Address1: Josipa Marohnica 5
-    Address2: 
-    Address3: 
-    City: Zagreb
-    State/Province: 
-    Country: Croatia/Hrvatska
-    Postal Code: 10000
-    Phone: +385 1 616 55 11
-    Fax: +385 1 616 55 59
-    Email: ivan.maric@srce.hr
-    Registration Date: 01-January-1985
-    Last Updated Date: 27-June-2008
+contact:      administrative
+name:         Ivan Maric
+organisation: CARNet - Croatian Academic and Research Network
+address:      Josipa Marohnica 5
+address:      Zagreb  10000
+address:      Croatia/Hrvatska
+phone:        +385 1 616 55 11
+fax-no:       +385 1 616 55 59
+e-mail:       ivan.maric@srce.hr
 
-Technical Contact:
-    Name: Ivan Maric
-    Organization: CARNet - Croatian Academic and Research Network
-    Address1: Josipa Marohnica 5
-    Address2: 
-    Address3: 
-    City: Zagreb
-    State/Province: 
-    Country: Croatia/Hrvatska
-    Postal Code: 10000
-    Phone: +385 1 616 55 11
-    Fax: +385 1 616 55 59
-    Email: ivan.maric@srce.hr
-    Registration Date: 01-January-1985
-    Last Updated Date: 27-June-2008
-URL for registration services: http://www.dns.hr
+contact:      technical
+name:         Ivan Maric
+organisation: CARNet - Croatian Academic and Research Network
+address:      Josipa Marohnica 5
+address:      Zagreb  10000
+address:      Croatia/Hrvatska
+phone:        +385 1 616 55 11
+fax-no:       +385 1 616 55 59
+e-mail:       ivan.maric@srce.hr
 
-Nameserver Information:
-    Nameserver: dns.srce.hr.
-    IP Address: 161.53.3.7
-    Nameserver: ns.uu.net.
-    IP Address: 137.39.1.3
-    Nameserver: ns-ext.vix.com.
-    IP Address: 204.152.184.64
-    Nameserver: ns5.univie.ac.at.
-    IP Address: 193.171.255.77
-    Nameserver: n3ns.nic.es.
-    IP Address: 194.69.254.42
+nserver:      DNS.SRCE.HR 161.53.3.7
+nserver:      N3NS.NIC.ES 194.69.254.42
+nserver:      NS-EXT.VIX.COM 204.152.184.64
+nserver:      NS.UU.NET 137.39.1.3
+nserver:      NS5.UNIVIE.AC.AT 193.171.255.77
 
-Registration Date: 27-February-1993
-Last Updated Date: 27-June-2008
+remarks:      Registration information: http://www.dns.hr
+
+created:      1993-02-27
+changed:      2008-06-27
+source:       IANA
+
