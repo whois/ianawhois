@@ -1,67 +1,41 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: mz
-ID: mz
+domain:       MZ
 
-Sponsoring Organization:
-    Name: 
-    Organization: Centro de Informatica de Universidade Eduardo Mondlane
-    Address1: Av. Julius Nyerere, Campus Universitario
-    Address2: 
-    Address3: 
-    City: Maputo
-    State/Province: 
-    Country: Mozambique
-    Postal Code: 1000
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 16-June-2005
+organisation: Centro de Informatica de Universidade Eduardo Mondlane
+address:      Av. Julius Nyerere, Campus Universitario
+address:      Maputo  1000
+address:      Mozambique
 
-Administrative Contact:
-    Name: David Bila
-    Organization: Centro de Informatica da Universidade Eduardo Mondlane
-    Address1: Av. Julius Nyerere, Campus Universitario
-    Address2: 
-    Address3: 
-    City: Maputo
-    State/Province: 
-    Country: Mozambique
-    Postal Code: 1000
-    Phone: +258 1 492601
-    Fax: +258 1 494755
-    Email: david@zebra.uem.mz
-    Registration Date: 01-January-1985
-    Last Updated Date: 23-November-2005
+contact:      administrative
+name:         David Bila
+organisation: Centro de Informatica da Universidade Eduardo Mondlane
+address:      Av. Julius Nyerere, Campus Universitario
+address:      Maputo  1000
+address:      Mozambique
+phone:        +258 1 492601
+fax-no:       +258 1 494755
+e-mail:       david@zebra.uem.mz
 
-Technical Contact:
-    Name: Antonio Godinho
-    Organization: Centro de Informatica da Universidade Eduardo Mondlane
-    Address1: Av. Julius Nyerere, Campus Universitario
-    Address2: 
-    Address3: 
-    City: Maputo
-    State/Province: 
-    Country: Mozambique
-    Postal Code: 1000
-    Phone: +258 823 003920
-    Fax: +258 1 494755
-    Email: antonio@uem.mz
-    Registration Date: 01-January-1985
-    Last Updated Date: 16-June-2005
+contact:      technical
+name:         Antonio Godinho
+organisation: Centro de Informatica da Universidade Eduardo Mondlane
+address:      Av. Julius Nyerere, Campus Universitario
+address:      Maputo  1000
+address:      Mozambique
+phone:        +258 823 003920
+fax-no:       +258 1 494755
+e-mail:       antonio@uem.mz
 
-Nameserver Information:
-    Nameserver: anyns.uem.mz.
-    IP Address: 204.61.216.14
-    Nameserver: dzowo.uem.mz.
-    IP Address: 196.3.96.66
-    Nameserver: oceano.uem.mz.
-    IP Address: 196.3.96.69
-    Nameserver: phloem.uoregon.edu.
-    IP Address: 128.223.32.35 2001:468:d01:20::80df:2023
-    Nameserver: zebra.uem.mz.
-    IP Address: 196.3.96.67
+nserver:      ANYNS.UEM.MZ 204.61.216.14
+nserver:      DZOWO.UEM.MZ 196.3.96.66
+nserver:      OCEANO.UEM.MZ 196.3.96.69
+nserver:      PHLOEM.UOREGON.EDU 128.223.32.35 2001:468:d01:20::80df:2023
+nserver:      ZEBRA.UEM.MZ 196.3.96.67
 
-Registration Date: 04-September-1992
-Last Updated Date: 21-April-2008
+created:      1992-09-04
+changed:      2008-04-21
+source:       IANA
+
