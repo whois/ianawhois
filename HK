@@ -1,77 +1,52 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: hk
-ID: hk
+domain:       HK
 
-Sponsoring Organization:
-    Name: 
-    Organization: Hong Kong Internet Registration Corporation Ltd.
-    Address1: Unit 2002-2005, 20/F, ING Tower
-    Address2: 308 Des Voeux Road Central
-    Address3: Sheung Wan
-    City: 
-    State/Province: 
-    Country: Hong Kong
-    Postal Code: 
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 22-September-2005
+organisation: Hong Kong Internet Registration Corporation Ltd.
+address:      Unit 2002-2005, 20/F, ING Tower
+address:      308 Des Voeux Road Central
+address:      Sheung Wan
+address:      Hong Kong
 
-Administrative Contact:
-    Name: Jonathan Shea
-    Organization: Hong Kong Internet Registration Corporation Ltd.
-    Address1: Unit 2002-2005, 20/F, ING Tower
-    Address2: 308 Des Voeux Road Central
-    Address3: Sheung Wan
-    City: 
-    State/Province: 
-    Country: Hong Kong
-    Postal Code: 
-    Phone: +852 2319 1313
-    Fax: +852 2319 2626
-    Email: ceo@hkirc.hk
-    Registration Date: 01-January-1985
-    Last Updated Date: 14-October-2005
+contact:      administrative
+name:         Jonathan Shea
+organisation: Hong Kong Internet Registration Corporation Ltd.
+address:      Unit 2002-2005, 20/F, ING Tower
+address:      308 Des Voeux Road Central
+address:      Sheung Wan
+address:      Hong Kong
+phone:        +852 2319 1313
+fax-no:       +852 2319 2626
+e-mail:       ceo@hkirc.hk
 
-Technical Contact:
-    Name: Ben Lee
-    Organization: Hong Kong Internet Registration Corporation Ltd.
-    Address1: Unit 2002-2005, 20/F, ING Tower
-    Address2: 308 Des Voeux Road Central
-    Address3: Sheung Wan
-    City: 
-    State/Province: 
-    Country: Hong Kong
-    Postal Code: 
-    Phone: +852 2319 1313
-    Fax: +852 2319 2626
-    Email: hk.tech@hkirc.hk
-    Registration Date: 01-January-1985
-    Last Updated Date: 14-October-2005
-URL for registration services: http://www.hkirc.hk
-Whois Server (port 43): whois.hkirc.hk
+contact:      technical
+name:         Ben Lee
+organisation: Hong Kong Internet Registration Corporation Ltd.
+address:      Unit 2002-2005, 20/F, ING Tower
+address:      308 Des Voeux Road Central
+address:      Sheung Wan
+address:      Hong Kong
+phone:        +852 2319 1313
+fax-no:       +852 2319 2626
+e-mail:       hk.tech@hkirc.hk
 
-Nameserver Information:
-    Nameserver: adns1.berkeley.edu.
-    IP Address: 128.32.136.3
-    Nameserver: adns2.berkeley.edu.
-    IP Address: 128.32.136.14
-    Nameserver: b.dns.tw.
-    IP Address: 210.201.138.58 2404:0:10a0:0:0:0:0:58
-    Nameserver: ns1.hkirc.net.hk.
-    IP Address: 203.119.2.18
-    Nameserver: ns2.cuhk.edu.hk.
-    IP Address: 137.189.6.21 2405:3000:3:60:0:0:0:21
-    Nameserver: ns2.hkirc.net.hk.
-    IP Address: 203.119.2.19
-    Nameserver: ns3.cuhk.edu.hk.
-    IP Address: 202.45.188.39
-    Nameserver: sec3.apnic.net.
-    IP Address: 202.12.28.140 2001:dc0:1:0:4777:0:0:140
-    Nameserver: hk-ns.pch.net.
-    IP Address: 204.61.216.46
+nserver:      ADNS1.BERKELEY.EDU 128.32.136.3
+nserver:      ADNS2.BERKELEY.EDU 128.32.136.14
+nserver:      B.DNS.TW 210.201.138.58 2404:0:10a0:0:0:0:0:58
+nserver:      HK-NS.PCH.NET 204.61.216.46
+nserver:      NS1.HKIRC.NET.HK 203.119.2.18
+nserver:      NS2.CUHK.EDU.HK 137.189.6.21 2405:3000:3:60:0:0:0:21
+nserver:      NS2.HKIRC.NET.HK 203.119.2.19
+nserver:      NS3.CUHK.EDU.HK 202.45.188.39
+nserver:      SEC3.APNIC.NET 2001:dc0:1:0:4777:0:0:140 202.12.28.140
 
-Registration Date: 03-January-1990
-Last Updated Date: 11-January-2010
+whois:        whois.hkirc.hk
+
+remarks:      Registration information: http://www.hkirc.hk
+
+created:      1990-01-03
+changed:      2010-01-11
+source:       IANA
+
