@@ -1,83 +1,55 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: ie
-ID: ie
+domain:       IE
 
-Sponsoring Organization:
-    Name: 
-    Organization: University College Dublin
-                  Computing Services
-                  Computer Centre
-    Address1: Belfield
-    Address2: 
-    Address3: 
-    City: Dublin City,
-    State/Province: 
-    Country: Ireland
-    Postal Code: Dublin 4
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 01-January-1985
+organisation: University College Dublin
+organisation: Computing Services
+organisation: Computer Centre
+address:      Belfield
+address:      Dublin City,  Dublin 4
+address:      Ireland
 
-Administrative Contact:
-    Name: Hostmaster Team at University College Dublin
-    Organization: University College Dublin
-                  Computing Services
-                  Computer Centre
-    Address1: Belfield
-    Address2: 
-    Address3: 
-    City: Dublin City,
-    State/Province: 
-    Country: Ireland
-    Postal Code: Dublin 4
-    Phone: +353 1 706 2375
-    Fax: +353 1 283 7077
-    Email: hostmaster@ucd.ie
-    Registration Date: 01-January-1985
-    Last Updated Date: 01-January-1985
+contact:      administrative
+name:         Hostmaster Team at University College Dublin
+organisation: University College Dublin
+organisation: Computing Services
+organisation: Computer Centre
+address:      Belfield
+address:      Dublin City,  Dublin 4
+address:      Ireland
+phone:        +353 1 706 2375
+fax-no:       +353 1 283 7077
+e-mail:       hostmaster@ucd.ie
 
-Technical Contact:
-    Name: Hostmaster Team at University College Dublin
-    Organization: University College Dublin
-                  Computing Services
-                  Computer Centre
-    Address1: Belfield
-    Address2: 
-    Address3: 
-    City: Dublin City,
-    State/Province: 
-    Country: Ireland
-    Postal Code: Dublin 4
-    Phone: +353 1 706 2375
-    Fax: +353 1 283 7077
-    Email: hostmaster@ucd.ie
-    Registration Date: 01-January-1985
-    Last Updated Date: 01-January-1985
-URL for registration services: http://www.domainregistry.ie
-Whois Server (port 43): whois.domainregistry.ie
+contact:      technical
+name:         Hostmaster Team at University College Dublin
+organisation: University College Dublin
+organisation: Computing Services
+organisation: Computer Centre
+address:      Belfield
+address:      Dublin City,  Dublin 4
+address:      Ireland
+phone:        +353 1 706 2375
+fax-no:       +353 1 283 7077
+e-mail:       hostmaster@ucd.ie
 
-Nameserver Information:
-    Nameserver: banba.domainregistry.ie.
-    IP Address: 193.1.142.2
-    Nameserver: gns1.domainregistry.ie.
-    IP Address: 198.133.199.102
-    Nameserver: gns2.domainregistry.ie.
-    IP Address: 198.133.199.103
-    Nameserver: ice.netsource.ie.
-    IP Address: 212.17.32.2
-    Nameserver: ns2.nic.fr.
-    IP Address: 192.93.0.4
-    Nameserver: ns3.ns.esat.net.
-    IP Address: 192.111.39.100 2001:7c8:2:a:0:0:0:64
-    Nameserver: uucp-gw-1.pa.dec.com.
-    IP Address: 204.123.2.18
-    Nameserver: uucp-gw-2.pa.dec.com.
-    IP Address: 204.123.2.19
-    Nameserver: b.iedr.ie.
-    IP Address: 77.72.72.34 2a01:4b0::2
+nserver:      B.IEDR.IE 2a01:4b0::2 77.72.72.34
+nserver:      BANBA.DOMAINREGISTRY.IE 193.1.142.2
+nserver:      GNS1.DOMAINREGISTRY.IE 198.133.199.102
+nserver:      GNS2.DOMAINREGISTRY.IE 198.133.199.103
+nserver:      ICE.NETSOURCE.IE 212.17.32.2
+nserver:      NS2.NIC.FR 192.93.0.4
+nserver:      NS3.NS.ESAT.NET 192.111.39.100 2001:7c8:2:a:0:0:0:64
+nserver:      UUCP-GW-1.PA.DEC.COM 204.123.2.18
+nserver:      UUCP-GW-2.PA.DEC.COM 204.123.2.19
 
-Registration Date: 27-January-1988
-Last Updated Date: 03-November-2008
+whois:        whois.domainregistry.ie
+
+remarks:      Registration information: http://www.domainregistry.ie
+
+created:      1988-01-27
+changed:      2008-11-03
+source:       IANA
+
