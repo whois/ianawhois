@@ -1,73 +1,53 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: nz
-ID: nz
+domain:       NZ
 
-Sponsoring Organization:
-    Name: 
-    Organization: InternetNZ
-    Address1: Level 9
-    Address2: Grand Arcade Tower
-    Address3: 16 Willis Street
-    City: Wellington
-    State/Province: 
-    Country: New Zealand
-    Postal Code: 6011
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 17-November-2009
+organisation: InternetNZ
+address:      Level 9
+address:      Grand Arcade Tower
+address:      16 Willis Street
+address:      Wellington  6011
+address:      New Zealand
 
-Administrative Contact:
-    Name: IANA Administrator
-    Organization: InternetNZ
-    Address1: Level 9
-    Address2: Grand Arcade Tower
-    Address3: 16 Willis Street
-    City: Wellington
-    State/Province: 
-    Country: New Zealand
-    Postal Code: 6011
-    Phone: +64 4 472 1600
-    Fax: +64 4 495 2115
-    Email: iana@internetnz.net.nz
-    Registration Date: 01-January-1985
-    Last Updated Date: 01-June-2010
+contact:      administrative
+name:         IANA Administrator
+organisation: InternetNZ
+address:      Level 9
+address:      Grand Arcade Tower
+address:      16 Willis Street
+address:      Wellington  6011
+address:      New Zealand
+phone:        +64 4 472 1600
+fax-no:       +64 4 495 2115
+e-mail:       iana@internetnz.net.nz
 
-Technical Contact:
-    Name: IANA Administrator
-    Organization: .nz Registry Services
-    Address1: Level 9
-    Address2: Grand Arcade Tower
-    Address3: 16 Willis Street
-    City: Wellington
-    State/Province: 
-    Country: New Zealand
-    Postal Code: 6011
-    Phone: +64 4 931 6970
-    Fax: +64 4 931 6979
-    Email: iana@nzrs.net.nz
-    Registration Date: 01-January-1985
-    Last Updated Date: 01-June-2010
-URL for registration services: http://www.dnc.org.nz/
-Whois Server (port 43): whois.srs.net.nz
+contact:      technical
+name:         IANA Administrator
+organisation: .nz Registry Services
+address:      Level 9
+address:      Grand Arcade Tower
+address:      16 Willis Street
+address:      Wellington  6011
+address:      New Zealand
+phone:        +64 4 931 6970
+fax-no:       +64 4 931 6979
+e-mail:       iana@nzrs.net.nz
 
-Nameserver Information:
-    Nameserver: ns1.dns.net.nz.
-    IP Address: 202.46.190.130 2001:dce:2000:2:0:0:0:130
-    Nameserver: ns2.dns.net.nz.
-    IP Address: 202.46.187.130 2001:dce:4000:2:0:0:0:130
-    Nameserver: ns3.dns.net.nz.
-    IP Address: 202.46.188.130
-    Nameserver: ns4.dns.net.nz.
-    IP Address: 202.46.189.130
-    Nameserver: ns5.dns.net.nz.
-    IP Address: 156.154.100.14 2001:502:ad09:0:0:0:0:14
-    Nameserver: ns6.dns.net.nz.
-    IP Address: 156.154.101.14 2001:502:2eda:0:0:0:0:14
-    Nameserver: ns7.dns.net.nz.
-    IP Address: 194.146.106.54 2001:67c:1010:13:0:0:0:53
+nserver:      NS1.DNS.NET.NZ 2001:dce:2000:2:0:0:0:130 202.46.190.130
+nserver:      NS2.DNS.NET.NZ 2001:dce:4000:2:0:0:0:130 202.46.187.130
+nserver:      NS3.DNS.NET.NZ 202.46.188.130
+nserver:      NS4.DNS.NET.NZ 202.46.189.130
+nserver:      NS5.DNS.NET.NZ 156.154.100.14 2001:502:ad09:0:0:0:0:14
+nserver:      NS6.DNS.NET.NZ 156.154.101.14 2001:502:2eda:0:0:0:0:14
+nserver:      NS7.DNS.NET.NZ 194.146.106.54 2001:67c:1010:13:0:0:0:53
 
-Registration Date: 19-January-1987
-Last Updated Date: 12-July-2010
+whois:        whois.srs.net.nz
+
+remarks:      Registration information: http://www.dnc.org.nz/
+
+created:      1987-01-19
+changed:      2010-07-12
+source:       IANA
+
