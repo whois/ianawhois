@@ -1,77 +1,49 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: lu
-ID: lu
+domain:       LU
 
-Sponsoring Organization:
-    Name: 
-    Organization: RESTENA
-    Address1: 6, rue Coudenhove-Kalergi
-    Address2: 
-    Address3: 
-    City: Luxembourg
-    State/Province: 
-    Country: Luxembourg
-    Postal Code: 1359
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 01-January-1985
+organisation: RESTENA
+address:      6, rue Coudenhove-Kalergi
+address:      Luxembourg  1359
+address:      Luxembourg
 
-Administrative Contact:
-    Name: Antoine Barthel
-    Organization: RESTENA
-    Address1: 6, rue Coudenhove-Kalergi
-    Address2: 
-    Address3: 
-    City: Luxembourg
-    State/Province: 
-    Country: Luxembourg
-    Postal Code: 1359
-    Phone: +352 42 44 09 1
-    Fax: +352 42 24 73
-    Email: antoine.barthel@restena.lu
-    Registration Date: 01-January-1985
-    Last Updated Date: 22-May-2008
+contact:      administrative
+name:         Antoine Barthel
+organisation: RESTENA
+address:      6, rue Coudenhove-Kalergi
+address:      Luxembourg  1359
+address:      Luxembourg
+phone:        +352 42 44 09 1
+fax-no:       +352 42 24 73
+e-mail:       antoine.barthel@restena.lu
 
-Technical Contact:
-    Name: Gilles Massen
-    Organization: RESTENA
-    Address1: 6, rue Coudenhove-Kalergi
-    Address2: 
-    Address3: 
-    City: Luxembourg
-    State/Province: 
-    Country: Luxembourg
-    Postal Code: 1359
-    Phone: +352 4244091
-    Fax: +352 422473
-    Email: gilles.massen@restena.lu
-    Registration Date: 01-January-1985
-    Last Updated Date: 22-May-2008
-URL for registration services: http://www.dns.lu
-Whois Server (port 43): whois.dns.lu
+contact:      technical
+name:         Gilles Massen
+organisation: RESTENA
+address:      6, rue Coudenhove-Kalergi
+address:      Luxembourg  1359
+address:      Luxembourg
+phone:        +352 4244091
+fax-no:       +352 422473
+e-mail:       gilles.massen@restena.lu
 
-Nameserver Information:
-    Nameserver: a.dns.lu.
-    IP Address: 156.154.100.11 2001:502:ad09:0:0:0:0:11
-    Nameserver: b.dns.lu.
-    IP Address: 156.154.101.11
-    Nameserver: c.dns.lu.
-    IP Address: 156.154.102.11
-    Nameserver: d.dns.lu.
-    IP Address: 156.154.103.11 2001:502:2eda:0:0:0:0:11
-    Nameserver: k.dns.lu.
-    IP Address: 194.0.1.13 2001:678:4:0:0:0:0:d
-    Nameserver: i.dns.lu.
-    IP Address: 194.146.106.66 2001:67c:1010:16:0:0:0:53
-    Nameserver: merapi.switch.ch.
-    IP Address: 130.59.211.10 2001:620:0:0:0:0:0:5
-    Nameserver: ns1.dns.lu.
-    IP Address: 158.64.229.2 2001:a18:4:0:0:0:0:2
-    Nameserver: ns5.dns.lu.
-    IP Address: 81.91.161.100
+nserver:      A.DNS.LU 156.154.100.11 2001:502:ad09:0:0:0:0:11
+nserver:      B.DNS.LU 156.154.101.11
+nserver:      C.DNS.LU 156.154.102.11
+nserver:      D.DNS.LU 156.154.103.11 2001:502:2eda:0:0:0:0:11
+nserver:      I.DNS.LU 194.146.106.66 2001:67c:1010:16:0:0:0:53
+nserver:      K.DNS.LU 194.0.1.13 2001:678:4:0:0:0:0:d
+nserver:      MERAPI.SWITCH.CH 130.59.211.10 2001:620:0:0:0:0:0:5
+nserver:      NS1.DNS.LU 158.64.229.2 2001:a18:4:0:0:0:0:2
+nserver:      NS5.DNS.LU 81.91.161.100
 
-Registration Date: 27-January-1995
-Last Updated Date: 14-June-2010
+whois:        whois.dns.lu
+
+remarks:      Registration information: http://www.dns.lu
+
+created:      1995-01-27
+changed:      2010-06-14
+source:       IANA
+
