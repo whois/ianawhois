@@ -1,79 +1,53 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: mn
-ID: mn
+domain:       MN
 
-Sponsoring Organization:
-    Name: 
-    Organization: Datacom Co., Ltd.
-    Address1: IT Park Building, Baga Toiruu-49
-    Address2: UlaanBaatar-46
-    Address3: 
-    City: 
-    State/Province: 
-    Country: Mongolia
-    Postal Code: 210646
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 10-December-2004
+organisation: Datacom Co., Ltd.
+address:      IT Park Building, Baga Toiruu-49
+address:      UlaanBaatar-46
+address:      210646
+address:      Mongolia
 
-Administrative Contact:
-    Name: Enkhbat Dangaasuren
-    Organization: Datacom Co., Ltd.
-    Address1: IT Park Building, Baga Toiruu-49
-    Address2: UlaanBaatar-46
-    Address3: 
-    City: 
-    State/Province: 
-    Country: Mongolia
-    Postal Code: 210646
-    Phone: +976 11 318 048
-    Fax: +976 11 320 210
-    Email: enkhbat@datacom.mn
-    Registration Date: 01-January-1985
-    Last Updated Date: 10-December-2004
+contact:      administrative
+name:         Enkhbat Dangaasuren
+organisation: Datacom Co., Ltd.
+address:      IT Park Building, Baga Toiruu-49
+address:      UlaanBaatar-46
+address:      210646
+address:      Mongolia
+phone:        +976 11 318 048
+fax-no:       +976 11 320 210
+e-mail:       enkhbat@datacom.mn
 
-Technical Contact:
-    Name: Enkhbold Gombo
-    Organization: Datacom Co. Ltd.
-    Address1: IT Park Building, Baga Toiruu-49
-    Address2: UlaanBaatar-46
-    Address3: 
-    City: 
-    State/Province: 
-    Country: Mongolia
-    Postal Code: 210646
-    Phone: +976 11 329 688
-    Fax: +976 11 320 210
-    Email: hostmaster@datacom.mn
-    Registration Date: 01-January-1985
-    Last Updated Date: 24-June-2006
-URL for registration services: http://www.nic.mn
-Whois Server (port 43): whois.nic.mn
+contact:      technical
+name:         Enkhbold Gombo
+organisation: Datacom Co. Ltd.
+address:      IT Park Building, Baga Toiruu-49
+address:      UlaanBaatar-46
+address:      210646
+address:      Mongolia
+phone:        +976 11 329 688
+fax-no:       +976 11 320 210
+e-mail:       hostmaster@datacom.mn
 
-Nameserver Information:
-    Nameserver: a0.cctld.afilias-nst.info.
-    IP Address: 199.254.59.1 2001:500:25:0:0:0:0:1
-    Nameserver: b0.cctld.afilias-nst.org.
-    IP Address: 199.254.60.1 2001:500:26:0:0:0:0:1
-    Nameserver: c0.cctld.afilias-nst.info.
-    IP Address: 199.254.61.1 2001:500:27:0:0:0:0:1
-    Nameserver: d0.cctld.afilias-nst.org.
-    IP Address: 199.254.62.1 2001:500:28:0:0:0:0:1
-    Nameserver: a2.cctld.afilias-nst.info.
-    IP Address: 199.249.116.1 2001:500:44:0:0:0:0:1
-    Nameserver: b2.cctld.afilias-nst.org.
-    IP Address: 199.249.124.1 2001:500:4c:0:0:0:0:1
-    Nameserver: ns1.magic.mn.
-    IP Address: 202.131.0.10
-    Nameserver: ns2.magic.mn.
-    IP Address: 202.131.0.11
-    Nameserver: ns3.magic.mn.
-    IP Address: 202.131.224.80
-    Nameserver: ns4.magic.mn.
-    IP Address: 202.55.176.12
+nserver:      A0.CCTLD.AFILIAS-NST.INFO 199.254.59.1 2001:500:25:0:0:0:0:1
+nserver:      A2.CCTLD.AFILIAS-NST.INFO 199.249.116.1 2001:500:44:0:0:0:0:1
+nserver:      B0.CCTLD.AFILIAS-NST.ORG 199.254.60.1 2001:500:26:0:0:0:0:1
+nserver:      B2.CCTLD.AFILIAS-NST.ORG 199.249.124.1 2001:500:4c:0:0:0:0:1
+nserver:      C0.CCTLD.AFILIAS-NST.INFO 199.254.61.1 2001:500:27:0:0:0:0:1
+nserver:      D0.CCTLD.AFILIAS-NST.ORG 199.254.62.1 2001:500:28:0:0:0:0:1
+nserver:      NS1.MAGIC.MN 202.131.0.10
+nserver:      NS2.MAGIC.MN 202.131.0.11
+nserver:      NS3.MAGIC.MN 202.131.224.80
+nserver:      NS4.MAGIC.MN 202.55.176.12
 
-Registration Date: 02-March-1995
-Last Updated Date: 15-December-2008
+whois:        whois.nic.mn
+
+remarks:      Registration information: http://www.nic.mn
+
+created:      1995-03-02
+changed:      2008-12-15
+source:       IANA
+
