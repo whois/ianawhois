@@ -1,65 +1,43 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: pe
-ID: pe
+domain:       PE
 
-Sponsoring Organization:
-    Name: 
-    Organization: Red Cientifica Peruana
-    Address1: Pablo Carriquirry 410
-    Address2: 
-    Address3: 
-    City: Lima
-    State/Province: 
-    Country: Peru
-    Postal Code: 27
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 22-August-2007
+organisation: Red Cientifica Peruana
+address:      Pablo Carriquirry 410
+address:      Lima  27
+address:      Peru
 
-Administrative Contact:
-    Name: Rolando Toledo
-    Organization: Red Cientifica Peruana
-    Address1: Pablo Carriquirry 410
-    Address2: 
-    Address3: 
-    City: Lima
-    State/Province: 
-    Country: Peru
-    Postal Code: 27
-    Phone: +51 1 7020000
-    Fax: +51 1 7020148
-    Email: tld-admin@nic.pe
-    Registration Date: 01-January-1985
-    Last Updated Date: 22-August-2007
+contact:      administrative
+name:         Rolando Toledo
+organisation: Red Cientifica Peruana
+address:      Pablo Carriquirry 410
+address:      Lima  27
+address:      Peru
+phone:        +51 1 7020000
+fax-no:       +51 1 7020148
+e-mail:       tld-admin@nic.pe
 
-Technical Contact:
-    Name: Oscar Valdez
-    Organization: Red Cientifica Peruana
-    Address1: Pablo Carriquirry 410
-    Address2: 
-    Address3: 
-    City: Lima
-    State/Province: 
-    Country: Peru
-    Postal Code: 27
-    Phone: +51 1 7020000
-    Fax: +51 1 7020148
-    Email: tld-tech@nic.pe
-    Registration Date: 01-January-1985
-    Last Updated Date: 22-August-2007
-URL for registration services: http://www.nic.pe
-Whois Server (port 43): kero.yachay.pe
+contact:      technical
+name:         Oscar Valdez
+organisation: Red Cientifica Peruana
+address:      Pablo Carriquirry 410
+address:      Lima  27
+address:      Peru
+phone:        +51 1 7020000
+fax-no:       +51 1 7020148
+e-mail:       tld-tech@nic.pe
 
-Nameserver Information:
-    Nameserver: quipu.rcp.net.pe.
-    IP Address: 200.1.176.4
-    Nameserver: pe1.dnsnode.net.
-    IP Address: 194.146.106.82
-    Nameserver: sns-pb.isc.org.
-    IP Address: 192.5.4.1 2001:500:2e:0:0:0:0:1
+nserver:      PE1.DNSNODE.NET 194.146.106.82
+nserver:      QUIPU.RCP.NET.PE 200.1.176.4
+nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e:0:0:0:0:1
 
-Registration Date: 25-November-1991
-Last Updated Date: 30-April-2010
+whois:        kero.yachay.pe
+
+remarks:      Registration information: http://www.nic.pe
+
+created:      1991-11-25
+changed:      2010-04-30
+source:       IANA
+
