@@ -1,70 +1,47 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: gh
-ID: gh
+domain:       GH
 
-Sponsoring Organization:
-    Name: 
-    Organization: Network Computer Systems Limited
-    Address1: 7 Sixth Avenue, Ridge
-    Address2: Private Mail Bag - Osu
-    Address3: 
-    City: Accra
-    State/Province: 
-    Country: Ghana
-    Postal Code: 
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 01-January-1985
+organisation: Network Computer Systems Limited
+address:      7 Sixth Avenue, Ridge
+address:      Private Mail Bag - Osu
+address:      Accra
+address:      Ghana
 
-Administrative Contact:
-    Name: Dr. Nii Narku Quaynor
-    Organization: Network Computer Systems Limited
-    Address1: 7 Sixth Avenue, Ridge
-    Address2: Private Mail Bag - Osu
-    Address3: 
-    City: Accra
-    State/Province: 
-    Country: Ghana
-    Postal Code: 
-    Phone: +233 21220622
-    Fax: +233 21762173
-    Email: quaynor@ghana.com
-    Registration Date: 01-January-1985
-    Last Updated Date: 01-January-1985
+contact:      administrative
+name:         Dr. Nii Narku Quaynor
+organisation: Network Computer Systems Limited
+address:      7 Sixth Avenue, Ridge
+address:      Private Mail Bag - Osu
+address:      Accra
+address:      Ghana
+phone:        +233 21220622
+fax-no:       +233 21762173
+e-mail:       quaynor@ghana.com
 
-Technical Contact:
-    Name: William Tevie
-    Organization: Network Computer Systems
-    Address1: 7 Sixth Avenue, Ridge
-    Address2: Private Mail Bag - Osu
-    Address3: 
-    City: Accra
-    State/Province: 
-    Country: Ghana
-    Postal Code: 
-    Phone: +233 21220622
-    Fax: +233 21762173
-    Email: tevie@ghana.com
-    Registration Date: 01-January-1985
-    Last Updated Date: 01-January-1985
-URL for registration services: http://www.ghana.com.gh/
+contact:      technical
+name:         William Tevie
+organisation: Network Computer Systems
+address:      7 Sixth Avenue, Ridge
+address:      Private Mail Bag - Osu
+address:      Accra
+address:      Ghana
+phone:        +233 21220622
+fax-no:       +233 21762173
+e-mail:       tevie@ghana.com
 
-Nameserver Information:
-    Nameserver: austin.gh.com.
-    IP Address: 196.3.64.1
-    Nameserver: hippo.ru.ac.za.
-    IP Address: 146.231.128.1 2001:4200:1010::1
-    Nameserver: mantse.gh.com.
-    IP Address: 193.194.185.2
-    Nameserver: rip.psg.com.
-    IP Address: 147.28.0.39 2001:418:1:0:0:0:0:39
-    Nameserver: slave.sth.netnod.se.
-    IP Address: 192.36.144.116
-    Nameserver: ns1.dns.aq.
-    IP Address: 203.119.56.132
+nserver:      AUSTIN.GH.COM 196.3.64.1
+nserver:      HIPPO.RU.AC.ZA 146.231.128.1 2001:4200:1010::1
+nserver:      MANTSE.GH.COM 193.194.185.2
+nserver:      NS1.DNS.AQ 203.119.56.132
+nserver:      RIP.PSG.COM 147.28.0.39 2001:418:1:0:0:0:0:39
+nserver:      SLAVE.STH.NETNOD.SE 192.36.144.116
 
-Registration Date: 19-January-1995
-Last Updated Date: 26-March-2010
+remarks:      Registration information: http://www.ghana.com.gh/
+
+created:      1995-01-19
+changed:      2010-03-26
+source:       IANA
+
