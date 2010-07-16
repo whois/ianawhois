@@ -1,71 +1,47 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: mobi
-ID: mobi
+domain:       MOBI
 
-Sponsoring Organization:
-    Name: 
-    Organization: mTLD Top Level Domain Limited dba dotMobi
-    Address1: 2 La Touche House
-    Address2: IFSC
-    Address3: 
-    City: Dublin
-    State/Province: 
-    Country: Ireland
-    Postal Code: 1
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 17-October-2005
-    Last Updated Date: 04-August-2008
+organisation: mTLD Top Level Domain Limited dba dotMobi
+address:      2 La Touche House
+address:      IFSC
+address:      Dublin  1
+address:      Ireland
 
-Administrative Contact:
-    Name: MOBI Domain Administrator
-    Organization: mTLD Top Level Domain Limited dba dotMobi
-    Address1: 2 La Touche House
-    Address2: IFSC
-    Address3: 
-    City: Dublin
-    State/Province: 
-    Country: Ireland
-    Postal Code: 1
-    Phone: +353 (0) 1 85 41 100
-    Fax: 
-    Email: domainadmin@mtld.mobi
-    Registration Date: 17-October-2005
-    Last Updated Date: 04-August-2008
+contact:      administrative
+name:         MOBI Domain Administrator
+organisation: mTLD Top Level Domain Limited dba dotMobi
+address:      2 La Touche House
+address:      IFSC
+address:      Dublin  1
+address:      Ireland
+phone:        +353 (0) 1 85 41 100
+e-mail:       domainadmin@mtld.mobi
 
-Technical Contact:
-    Name: MOBI Domain Technical Administrator
-    Organization: mTLD Top Level Domain Limited dba dotMobi
-    Address1: 2 La Touche House
-    Address2: IFSC
-    Address3: 
-    City: Dublin
-    State/Province: 
-    Country: Ireland
-    Postal Code: 1
-    Phone: +353 (0) 1 85 41 100
-    Fax: 
-    Email: domaintech@mobitld.info
-    Registration Date: 17-October-2005
-    Last Updated Date: 04-August-2008
-URL for registration services: http://www.mtld.mobi
-Whois Server (port 43): whois.dotmobiregistry.net
+contact:      technical
+name:         MOBI Domain Technical Administrator
+organisation: mTLD Top Level Domain Limited dba dotMobi
+address:      2 La Touche House
+address:      IFSC
+address:      Dublin  1
+address:      Ireland
+phone:        +353 (0) 1 85 41 100
+e-mail:       domaintech@mobitld.info
 
-Nameserver Information:
-    Nameserver: a0.mobi.afilias-nst.info.
-    IP Address: 199.254.55.1 2001:500:21:0:0:0:0:1
-    Nameserver: b0.mobi.afilias-nst.org.
-    IP Address: 199.254.56.1 2001:500:22:0:0:0:0:1
-    Nameserver: c0.mobi.afilias-nst.info.
-    IP Address: 199.254.57.1 2001:500:23:0:0:0:0:1
-    Nameserver: d0.mobi.afilias-nst.org.
-    IP Address: 199.254.58.1 2001:500:24:0:0:0:0:1
-    Nameserver: a2.mobi.afilias-nst.info.
-    IP Address: 199.249.118.1 2001:500:46:0:0:0:0:1
-    Nameserver: b2.mobi.afilias-nst.org.
-    IP Address: 199.249.126.1 2001:500:4e:0:0:0:0:1
+nserver:      A0.MOBI.AFILIAS-NST.INFO 199.254.55.1 2001:500:21:0:0:0:0:1
+nserver:      A2.MOBI.AFILIAS-NST.INFO 199.249.118.1 2001:500:46:0:0:0:0:1
+nserver:      B0.MOBI.AFILIAS-NST.ORG 199.254.56.1 2001:500:22:0:0:0:0:1
+nserver:      B2.MOBI.AFILIAS-NST.ORG 199.249.126.1 2001:500:4e:0:0:0:0:1
+nserver:      C0.MOBI.AFILIAS-NST.INFO 199.254.57.1 2001:500:23:0:0:0:0:1
+nserver:      D0.MOBI.AFILIAS-NST.ORG 199.254.58.1 2001:500:24:0:0:0:0:1
 
-Registration Date: 17-October-2005
-Last Updated Date: 15-December-2008
+whois:        whois.dotmobiregistry.net
+
+remarks:      Registration information: http://www.mtld.mobi
+
+created:      2005-10-17
+changed:      2008-12-15
+source:       IANA
+
