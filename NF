@@ -1,73 +1,46 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: nf
-ID: nf
+domain:       NF
 
-Sponsoring Organization:
-    Name: 
-    Organization: Norfolk Island Data Services
-    Address1: 617 Fletcher Christian Rd.
-    Address2: 
-    Address3: 
-    City: 
-    State/Province: South Pacific
-    Country: Norfolk Island
-    Postal Code: 2899
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 01-January-1985
+organisation: Norfolk Island Data Services
+address:      617 Fletcher Christian Rd.
+address:      South Pacific 2899
+address:      Norfolk Island
 
-Administrative Contact:
-    Name: Robert Ryan
-    Organization: Norfolk Island Data Services
-    Address1: 706 Collins Head Rd.
-    Address2: 
-    Address3: 
-    City: 
-    State/Province: South Pacific
-    Country: Norfolk Island
-    Postal Code: 2899
-    Phone: +672 3 23850
-    Fax: 
-    Email: nf-admin@nic.net.nf
-    Registration Date: 01-January-1985
-    Last Updated Date: 09-April-2010
+contact:      administrative
+name:         Robert Ryan
+organisation: Norfolk Island Data Services
+address:      706 Collins Head Rd.
+address:      South Pacific 2899
+address:      Norfolk Island
+phone:        +672 3 23850
+e-mail:       nf-admin@nic.net.nf
 
-Technical Contact:
-    Name: NF Registry Customer Service
-    Organization: CoCCA Registry Services Limited
-    Address1: 6RCI Building, Nursery Road
-    Address2: 
-    Address3: 
-    City: Drum Site
-    State/Province: WA
-    Country: Christmas Island
-    Postal Code: 6798
-    Phone: +61 (0)2 94234614
-    Fax: +61 (0)2 94234620
-    Email: noc@nic.net.nf
-    Registration Date: 01-January-1985
-    Last Updated Date: 09-April-2010
-URL for registration services: http://nic.net.nf/
-Whois Server (port 43): whois.nic.net.nf
+contact:      technical
+name:         NF Registry Customer Service
+organisation: CoCCA Registry Services Limited
+address:      6RCI Building, Nursery Road
+address:      Drum Site WA 6798
+address:      Christmas Island
+phone:        +61 (0)2 94234614
+fax-no:       +61 (0)2 94234620
+e-mail:       noc@nic.net.nf
 
-Nameserver Information:
-    Nameserver: ns1.nf.
-    IP Address: 203.12.249.100
-    Nameserver: ns2.nf.
-    IP Address: 203.119.12.66
-    Nameserver: nf1.dyntld.net.
-    IP Address: 208.78.70.88
-    Nameserver: nf2.dyntld.net.
-    IP Address: 204.13.250.88
-    Nameserver: nf3.dyntld.net.
-    IP Address: 208.78.71.88
-    Nameserver: nf4.dyntld.net.
-    IP Address: 204.13.251.88
-    Nameserver: nf-ns.pch.net.
-    IP Address: 204.61.216.51 2001:500:14:6051:ad:0:0:1
+nserver:      NF-NS.PCH.NET 2001:500:14:6051:ad:0:0:1 204.61.216.51
+nserver:      NF1.DYNTLD.NET 208.78.70.88
+nserver:      NF2.DYNTLD.NET 204.13.250.88
+nserver:      NF3.DYNTLD.NET 208.78.71.88
+nserver:      NF4.DYNTLD.NET 204.13.251.88
+nserver:      NS1.NF 203.12.249.100
+nserver:      NS2.NF 203.119.12.66
 
-Registration Date: 18-March-1996
-Last Updated Date: 09-April-2010
+whois:        whois.nic.net.nf
+
+remarks:      Registration information: http://nic.net.nf/
+
+created:      1996-03-18
+changed:      2010-04-09
+source:       IANA
+
