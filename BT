@@ -1,72 +1,47 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: bt
-ID: bt
+domain:       BT
 
-Sponsoring Organization:
-    Name: 
-    Organization: Ministry of Information and Communications
-    Address1: Old DrukAir Office, Thimphu
-    Address2: 
-    Address3: 
-    City: Thimphu
-    State/Province: 
-    Country: Bhutan
-    Postal Code: 
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 11-August-2005
+organisation: Ministry of Information and Communications
+address:      Old DrukAir Office, Thimphu
+address:      Thimphu
+address:      Bhutan
 
-Administrative Contact:
-    Name: Tshering Norbu, General Manager
-    Organization: Bhutan Telecom Ltd.
-    Address1: 2/28 Drophen Lam
-    Address2: PO Box 134
-    Address3: 
-    City: Thimphu
-    State/Province: 
-    Country: Bhutan
-    Postal Code: 
-    Phone: +975 2 320118
-    Fax: +975 2 328160
-    Email: tshering.norbu@bt.bt
-    Registration Date: 01-January-1985
-    Last Updated Date: 31-March-2010
+contact:      administrative
+name:         Tshering Norbu, General Manager
+organisation: Bhutan Telecom Ltd.
+address:      2/28 Drophen Lam
+address:      PO Box 134
+address:      Thimphu
+address:      Bhutan
+phone:        +975 2 320118
+fax-no:       +975 2 328160
+e-mail:       tshering.norbu@bt.bt
 
-Technical Contact:
-    Name: Tshering Norbu, General Manager
-    Organization: Bhutan Telecom Ltd.
-    Address1: 2/28 Drophen Lam
-    Address2: PO Box 134
-    Address3: 
-    City: Thimphu
-    State/Province: 
-    Country: Bhutan
-    Postal Code: 
-    Phone: +975 2 320118
-    Fax: +975 2 328160
-    Email: tshering.norbu@bt.bt
-    Registration Date: 01-January-1985
-    Last Updated Date: 31-March-2010
-URL for registration services: http://www.nic.bt
+contact:      technical
+name:         Tshering Norbu, General Manager
+organisation: Bhutan Telecom Ltd.
+address:      2/28 Drophen Lam
+address:      PO Box 134
+address:      Thimphu
+address:      Bhutan
+phone:        +975 2 320118
+fax-no:       +975 2 328160
+e-mail:       tshering.norbu@bt.bt
 
-Nameserver Information:
-    Nameserver: auth00.ns.uu.net.
-    IP Address: 198.6.1.65
-    Nameserver: auth61.ns.uu.net.
-    IP Address: 198.6.1.182
-    Nameserver: ns.itu.ch.
-    IP Address: 156.106.192.121
-    Nameserver: ns1.druknet.bt.
-    IP Address: 202.144.128.200
-    Nameserver: ns2.druknet.bt.
-    IP Address: 202.144.128.210
-    Nameserver: ns3.druknet.bt.
-    IP Address: 204.61.216.17
-    Nameserver: ns-bt.ripe.net.
-    IP Address: 193.0.12.26 2001:610:240:0:53:CC:12:26
+nserver:      AUTH00.NS.UU.NET 198.6.1.65
+nserver:      AUTH61.NS.UU.NET 198.6.1.182
+nserver:      NS-BT.RIPE.NET 193.0.12.26 2001:610:240:0:53:CC:12:26
+nserver:      NS.ITU.CH 156.106.192.121
+nserver:      NS1.DRUKNET.BT 202.144.128.200
+nserver:      NS2.DRUKNET.BT 202.144.128.210
+nserver:      NS3.DRUKNET.BT 204.61.216.17
 
-Registration Date: 16-July-1997
-Last Updated Date: 31-March-2010
+remarks:      Registration information: http://www.nic.bt
+
+created:      1997-07-16
+changed:      2010-03-31
+source:       IANA
+
