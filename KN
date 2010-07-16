@@ -1,63 +1,40 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: kn
-ID: kn
+domain:       KN
 
-Sponsoring Organization:
-    Name: 
-    Organization: Ministry of Finance, Sustainable Development Information & Technology
-    Address1: Church Street
-    Address2: P.O. Box 186
-    Address3: 
-    City: 
-    State/Province: 
-    Country: Saint Kitts and Nevis
-    Postal Code: 
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 08-May-2008
-    Last Updated Date: 08-May-2008
+organisation: Ministry of Finance, Sustainable Development Information & Technology
+address:      Church Street
+address:      P.O. Box 186
+address:      Saint Kitts and Nevis
 
-Administrative Contact:
-    Name: Adviser of National ICT Center
-    Organization: National ICT Center
-    Address1: No. 3 C.A. Paul Southwell Industrial Site
-    Address2: 
-    Address3: 
-    City: 
-    State/Province: 
-    Country: Saint Kitts and Nevis
-    Postal Code: 
-    Phone: +1 869 4658582
-    Fax: +1 869 4650610
-    Email: admin@knnic.kn
-    Registration Date: 01-January-1985
-    Last Updated Date: 17-July-2008
+contact:      administrative
+name:         Adviser of National ICT Center
+organisation: National ICT Center
+address:      No. 3 C.A. Paul Southwell Industrial Site
+address:      Saint Kitts and Nevis
+phone:        +1 869 4658582
+fax-no:       +1 869 4650610
+e-mail:       admin@knnic.kn
 
-Technical Contact:
-    Name: Nai-Wen Hsu
-    Organization: Taiwan Network Information Center (TWNIC)
-    Address1: 4F-2, No. 9
-    Address2: Roosevelt Road
-    Address3: Section 2
-    City: Taipei
-    State/Province: 
-    Country: Taiwan
-    Postal Code: 100
-    Phone: +886 2 2341 1313 ext. 500
-    Fax: +886 2 2396 8832
-    Email: snw@twnic.net.tw
-    Registration Date: 01-January-1985
-    Last Updated Date: 08-May-2008
+contact:      technical
+name:         Nai-Wen Hsu
+organisation: Taiwan Network Information Center (TWNIC)
+address:      4F-2, No. 9
+address:      Roosevelt Road
+address:      Section 2
+address:      Taipei  100
+address:      Taiwan
+phone:        +886 2 2341 1313 ext. 500
+fax-no:       +886 2 2396 8832
+e-mail:       snw@twnic.net.tw
 
-Nameserver Information:
-    Nameserver: a.dns.tw.
-    IP Address: 203.73.24.8 2001:cd8:800:0:0:0:0:8
-    Nameserver: b.dns.tw.
-    IP Address: 210.201.138.58 2404:0:10a0:0:0:0:0:58
-    Nameserver: c.dns.tw.
-    IP Address: 61.220.48.1 2001:b020:0:77:0:0:0:1
+nserver:      A.DNS.TW 2001:cd8:800:0:0:0:0:8 203.73.24.8
+nserver:      B.DNS.TW 210.201.138.58 2404:0:10a0:0:0:0:0:58
+nserver:      C.DNS.TW 2001:b020:0:77:0:0:0:1 61.220.48.1
 
-Registration Date: 03-September-1991
-Last Updated Date: 11-January-2010
+created:      1991-09-03
+changed:      2010-01-11
+source:       IANA
+
