@@ -1,72 +1,48 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: lc
-ID: lc
+domain:       LC
 
-Sponsoring Organization:
-    Name: 
-    Organization: University of Puerto Rico
-    Address1: Central Administration Building
-    Address2: P.O. Box 364984G
-    Address3: 
-    City: San Juan
-    State/Province: 
-    Country: Puerto Rico
-    Postal Code: 00936
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 01-January-1985
+organisation: University of Puerto Rico
+address:      Central Administration Building
+address:      P.O. Box 364984G
+address:      San Juan  00936
+address:      Puerto Rico
 
-Administrative Contact:
-    Name: Albert H. Daniels
-    Organization: ISIS World Corporation
-    Address1: #4 Colony House
-    Address2: John Compton Highway
-    Address3: 
-    City: Castries
-    State/Province: 
-    Country: Saint Lucia
-    Postal Code: 
-    Phone: 758 452 5444
-    Fax: 758 451 7599
-    Email: daniels@isisworld.lc
-    Registration Date: 01-January-1985
-    Last Updated Date: 23-February-2010
+contact:      administrative
+name:         Albert H. Daniels
+organisation: ISIS World Corporation
+address:      #4 Colony House
+address:      John Compton Highway
+address:      Castries
+address:      Saint Lucia
+phone:        758 452 5444
+fax-no:       758 451 7599
+e-mail:       daniels@isisworld.lc
 
-Technical Contact:
-    Name: Patrick W. Lay
-    Organization: NIC LC
-    Address1: #4 Colony House
-    Address2: John Compton Highway
-    Address3: 
-    City: Castries
-    State/Province: 
-    Country: Saint Lucia
-    Postal Code: 
-    Phone: 758 452 0220
-    Fax: 758 452 0330
-    Email: drlay@nic.ag
-    Registration Date: 19-September-2005
-    Last Updated Date: 23-February-2010
-URL for registration services: http://www.nic.lc
+contact:      technical
+name:         Patrick W. Lay
+organisation: NIC LC
+address:      #4 Colony House
+address:      John Compton Highway
+address:      Castries
+address:      Saint Lucia
+phone:        758 452 0220
+fax-no:       758 452 0330
+e-mail:       drlay@nic.ag
 
-Nameserver Information:
-    Nameserver: dns.server.ag.
-    IP Address: 64.239.9.180
-    Nameserver: a0.cctld.afilias-nst.info.
-    IP Address: 199.254.59.1 2001:500:25:0:0:0:0:1
-    Nameserver: b0.cctld.afilias-nst.org.
-    IP Address: 199.254.60.1 2001:500:26:0:0:0:0:1
-    Nameserver: c0.cctld.afilias-nst.info.
-    IP Address: 199.254.61.1 2001:500:27:0:0:0:0:1
-    Nameserver: d0.cctld.afilias-nst.org.
-    IP Address: 199.254.62.1 2001:500:28:0:0:0:0:1
-    Nameserver: a2.cctld.afilias-nst.info.
-    IP Address: 199.249.116.1 2001:500:44:0:0:0:0:1
-    Nameserver: b2.cctld.afilias-nst.org.
-    IP Address: 199.249.124.1 2001:500:4c:0:0:0:0:1
+nserver:      A0.CCTLD.AFILIAS-NST.INFO 199.254.59.1 2001:500:25:0:0:0:0:1
+nserver:      A2.CCTLD.AFILIAS-NST.INFO 199.249.116.1 2001:500:44:0:0:0:0:1
+nserver:      B0.CCTLD.AFILIAS-NST.ORG 199.254.60.1 2001:500:26:0:0:0:0:1
+nserver:      B2.CCTLD.AFILIAS-NST.ORG 199.249.124.1 2001:500:4c:0:0:0:0:1
+nserver:      C0.CCTLD.AFILIAS-NST.INFO 199.254.61.1 2001:500:27:0:0:0:0:1
+nserver:      D0.CCTLD.AFILIAS-NST.ORG 199.254.62.1 2001:500:28:0:0:0:0:1
+nserver:      DNS.SERVER.AG 64.239.9.180
 
-Registration Date: 03-September-1991
-Last Updated Date: 23-February-2010
+remarks:      Registration information: http://www.nic.lc
+
+created:      1991-09-03
+changed:      2010-02-23
+source:       IANA
+
