@@ -1,72 +1,47 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: mx
-ID: mx
+domain:       MX
 
-Sponsoring Organization:
-    Name: 
-    Organization: NIC-Mexico
-                  ITESM - Campus Monterrey
-    Address1: Av. Eugenio Garza Sada 427 Loc. 4, 5, 6
-    Address2: 
-    Address3: 
-    City: Monterrey
-    State/Province: Nuevo Leon
-    Country: Mexico
-    Postal Code: 64840
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 28-January-2004
+organisation: NIC-Mexico
+organisation: ITESM - Campus Monterrey
+address:      Av. Eugenio Garza Sada 427 Loc. 4, 5, 6
+address:      Monterrey Nuevo Leon 64840
+address:      Mexico
 
-Administrative Contact:
-    Name: Oscar Alejandro Robles-Garay
-    Organization: NIC-Mexico, ITESM - Campus Monterrey
-    Address1: Av. Eugenio Garza Sada 427 Loc. 4, 5, 6
-    Address2: 
-    Address3: 
-    City: Monterrey
-    State/Province: Nuevo Leon
-    Country: Mexico
-    Postal Code: 64840
-    Phone: +52 (81) 8387 5346
-    Fax: +52 (81) 8387 5346 x.111
-    Email: orobles@nic.mx
-    Registration Date: 01-January-1985
-    Last Updated Date: 28-January-2004
+contact:      administrative
+name:         Oscar Alejandro Robles-Garay
+organisation: NIC-Mexico, ITESM - Campus Monterrey
+address:      Av. Eugenio Garza Sada 427 Loc. 4, 5, 6
+address:      Monterrey Nuevo Leon 64840
+address:      Mexico
+phone:        +52 (81) 8387 5346
+fax-no:       +52 (81) 8387 5346 x.111
+e-mail:       orobles@nic.mx
 
-Technical Contact:
-    Name: POC TECH IANA
-    Organization: NIC-Mexico, ITESM - Campus Monterrey
-    Address1: Av. Eugenio Garza Sada 427 Loc. 4, 5, 6
-    Address2: 
-    Address3: 
-    City: Monterrey
-    State/Province: Nuevo Leon
-    Country: Mexico
-    Postal Code: 64840
-    Phone: +52 (81) 8387 5346
-    Fax: +52 (81) 8387 5346 ext. 111
-    Email: tech-iana@nic.mx
-    Registration Date: 01-January-1985
-    Last Updated Date: 24-September-2008
-URL for registration services: http://www.nic.mx/
-Whois Server (port 43): whois.mx
+contact:      technical
+name:         POC TECH IANA
+organisation: NIC-Mexico, ITESM - Campus Monterrey
+address:      Av. Eugenio Garza Sada 427 Loc. 4, 5, 6
+address:      Monterrey Nuevo Leon 64840
+address:      Mexico
+phone:        +52 (81) 8387 5346
+fax-no:       +52 (81) 8387 5346 ext. 111
+e-mail:       tech-iana@nic.mx
 
-Nameserver Information:
-    Nameserver: o.mx-ns.mx.
-    IP Address: 200.23.1.1
-    Nameserver: c.mx-ns.mx.
-    IP Address: 192.100.224.1 2001:1258:0:0:0:0:0:1
-    Nameserver: m.mx-ns.mx.
-    IP Address: 200.94.176.1
-    Nameserver: e.mx-ns.mx.
-    IP Address: 189.201.244.1
-    Nameserver: x.mx-ns.mx.
-    IP Address: 201.131.252.1
-    Nameserver: i.mx-ns.mx.
-    IP Address: 207.248.68.1
+nserver:      C.MX-NS.MX 192.100.224.1 2001:1258:0:0:0:0:0:1
+nserver:      E.MX-NS.MX 189.201.244.1
+nserver:      I.MX-NS.MX 207.248.68.1
+nserver:      M.MX-NS.MX 200.94.176.1
+nserver:      O.MX-NS.MX 200.23.1.1
+nserver:      X.MX-NS.MX 201.131.252.1
 
-Registration Date: 01-February-1989
-Last Updated Date: 05-March-2009
+whois:        whois.mx
+
+remarks:      Registration information: http://www.nic.mx/
+
+created:      1989-02-01
+changed:      2009-03-05
+source:       IANA
+
