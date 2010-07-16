@@ -1,63 +1,43 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: kp
-ID: kp
+domain:       KP
 
-Sponsoring Organization:
-    Name: 
-    Organization: Korea Computer Center
-    Address1: Mangyongdae District
-    Address2: Sonnaedong
-    Address3: 
-    City: Pyongyang
-    State/Province: 
-    Country: Democratic People's Republic of Korea
-    Postal Code: 
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 21-September-2007
-    Last Updated Date: 21-September-2007
+organisation: Korea Computer Center
+address:      Mangyongdae District
+address:      Sonnaedong
+address:      Pyongyang
+address:      Democratic People's Republic of Korea
 
-Administrative Contact:
-    Name: Kim Chang Ryop
-    Organization: Korea Computer Center
-    Address1: Mangyondae District
-    Address2: Sonnaedong
-    Address3: 
-    City: Pyongyang
-    State/Province: 
-    Country: Democratic People's Republic of Korea
-    Postal Code: 
-    Phone: +850-2-3818456
-    Fax: +850-2-3814598
-    Email: Kim.Chang.Ryop@kcckp.net
-    Registration Date: 21-September-2007
-    Last Updated Date: 21-September-2007
+contact:      administrative
+name:         Kim Chang Ryop
+organisation: Korea Computer Center
+address:      Mangyondae District
+address:      Sonnaedong
+address:      Pyongyang
+address:      Democratic People's Republic of Korea
+phone:        +850-2-3818456
+fax-no:       +850-2-3814598
+e-mail:       Kim.Chang.Ryop@kcckp.net
 
-Technical Contact:
-    Name: Jan Holtermann
-    Organization: KCC Europe GmbH
-    Address1: Glinkastrasse 5-7
-    Address2: 
-    Address3: 
-    City: Berlin
-    State/Province: 
-    Country: Germany
-    Postal Code: 10117
-    Phone: +49-30-78913567
-    Fax: +49-30-78913568
-    Email: tld@kcce.net
-    Registration Date: 21-September-2007
-    Last Updated Date: 21-September-2007
-URL for registration services: http://www.kcce.kp
-Whois Server (port 43): whois.kcce.kp
+contact:      technical
+name:         Jan Holtermann
+organisation: KCC Europe GmbH
+address:      Glinkastrasse 5-7
+address:      Berlin  10117
+address:      Germany
+phone:        +49-30-78913567
+fax-no:       +49-30-78913568
+e-mail:       tld@kcce.net
 
-Nameserver Information:
-    Nameserver: ns1.kcce.net.
-    IP Address: 194.29.232.18
-    Nameserver: ns2.kcce.net.
-    IP Address: 194.29.232.30
+nserver:      NS1.KCCE.NET 194.29.232.18
+nserver:      NS2.KCCE.NET 194.29.232.30
 
-Registration Date: 24-September-2007
-Last Updated Date: 24-September-2007
+whois:        whois.kcce.kp
+
+remarks:      Registration information: http://www.kcce.kp
+
+created:      2007-09-24
+source:       IANA
+
