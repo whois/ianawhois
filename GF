@@ -1,62 +1,44 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: gf
-ID: gf
+domain:       GF
 
-Sponsoring Organization:
-    Name: 
-    Organization: Net Plus
-    Address1: Boulevard de la Republique 2
-    Address2: BP 125
-    Address3: 97 323 Cayenne cedex
-    City: 
-    State/Province: 
-    Country: Guyane Francaise
-    Postal Code: 97300
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 23-April-2004
+organisation: Net Plus
+address:      Boulevard de la Republique 2
+address:      BP 125
+address:      97 323 Cayenne cedex
+address:      97300
+address:      Guyane Francaise
 
-Administrative Contact:
-    Name: Frederic Trichet
-    Organization: Net Plus
-    Address1: Boulevard de la Republique 2
-    Address2: BP 125
-    Address3: 97 323 Cayenne cedex
-    City: 
-    State/Province: 
-    Country: Guyane Francaise
-    Postal Code: 97300
-    Phone: +594 29 13 31
-    Fax: +594 29 13 27
-    Email: admin@nic.gf
-    Registration Date: 01-January-1985
-    Last Updated Date: 23-April-2004
+contact:      administrative
+name:         Frederic Trichet
+organisation: Net Plus
+address:      Boulevard de la Republique 2
+address:      BP 125
+address:      97 323 Cayenne cedex
+address:      97300
+address:      Guyane Francaise
+phone:        +594 29 13 31
+fax-no:       +594 29 13 27
+e-mail:       admin@nic.gf
 
-Technical Contact:
-    Name: David Cyrille
-    Organization: Mediaserv
-    Address1: ZI Champigny
-    Address2: 
-    Address3: 
-    City: Ducos
-    State/Province: 
-    Country: MQ
-    Postal Code: 97224
-    Phone: +596 596 77 25 11
-    Fax: +596 596 56 41 29
-    Email: tech@nic.gf
-    Registration Date: 01-January-1985
-    Last Updated Date: 23-April-2004
-URL for registration services: http://www.nplus.gf/
+contact:      technical
+name:         David Cyrille
+organisation: Mediaserv
+address:      ZI Champigny
+address:      Ducos  97224
+address:      MQ
+phone:        +596 596 77 25 11
+fax-no:       +596 596 56 41 29
+e-mail:       tech@nic.gf
 
-Nameserver Information:
-    Nameserver: ns1-gp.mediaserv.net.
-    IP Address: 213.188.172.1
-    Nameserver: ns1-mq.mediaserv.net.
-    IP Address: 213.16.20.3
+nserver:      NS1-GP.MEDIASERV.NET 213.188.172.1
+nserver:      NS1-MQ.MEDIASERV.NET 213.16.20.3
 
-Registration Date: 25-July-1996
-Last Updated Date: 14-April-2009
+remarks:      Registration information: http://www.nplus.gf/
+
+created:      1996-07-25
+changed:      2009-04-14
+source:       IANA
+
