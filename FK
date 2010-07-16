@@ -1,66 +1,42 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: fk
-ID: fk
+domain:       FK
 
-Sponsoring Organization:
-    Name: 
-    Organization: Falkland Islands Government
-    Address1: Ross Road
-    Address2: 
-    Address3: 
-    City: Stanley
-    State/Province: 
-    Country: Falkland Islands
-    Postal Code: FIQQ 1ZZ
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 03-May-2005
+organisation: Falkland Islands Government
+address:      Ross Road
+address:      Stanley  FIQQ 1ZZ
+address:      Falkland Islands
 
-Administrative Contact:
-    Name: Tim Cotter
-    Organization: Falkland Islands Development Corporation
-    Address1: West Hillside
-    Address2: 
-    Address3: 
-    City: Stanley
-    State/Province: 
-    Country: Falkland Islands
-    Postal Code: FIQQ 1ZZ
-    Phone: +500 27211
-    Fax: +500 27210
-    Email: tcotter@fidc.co.fk
-    Registration Date: 01-January-1985
-    Last Updated Date: 03-May-2005
+contact:      administrative
+name:         Tim Cotter
+organisation: Falkland Islands Development Corporation
+address:      West Hillside
+address:      Stanley  FIQQ 1ZZ
+address:      Falkland Islands
+phone:        +500 27211
+fax-no:       +500 27210
+e-mail:       tcotter@fidc.co.fk
 
-Technical Contact:
-    Name: Mike McLeod
-    Organization: Cable and Wireless
-    Address1: Ross Road
-    Address2: 
-    Address3: 
-    City: Stanley
-    State/Province: 
-    Country: Falkland Islands
-    Postal Code: FIQQ 1ZZ
-    Phone: + 500 20830
-    Fax: + 500 22207
-    Email: mike.mcleod@cwfi.co.fk
-    Registration Date: 01-January-1985
-    Last Updated Date: 03-May-2005
-URL for registration services: http://www.fidc.co.fk/
+contact:      technical
+name:         Mike McLeod
+organisation: Cable and Wireless
+address:      Ross Road
+address:      Stanley  FIQQ 1ZZ
+address:      Falkland Islands
+phone:        + 500 20830
+fax-no:       + 500 22207
+e-mail:       mike.mcleod@cwfi.co.fk
 
-Nameserver Information:
-    Nameserver: euro-ns1.cw.net.
-    IP Address: 141.1.27.248
-    Nameserver: euro-ns2.cw.net.
-    IP Address: 212.80.175.2
-    Nameserver: euro-ns3.cw.net.
-    IP Address: 141.1.27.251
-    Nameserver: ns.horizon.net.fk.
-    IP Address: 195.248.193.250
+nserver:      EURO-NS1.CW.NET 141.1.27.248
+nserver:      EURO-NS2.CW.NET 212.80.175.2
+nserver:      EURO-NS3.CW.NET 141.1.27.251
+nserver:      NS.HORIZON.NET.FK 195.248.193.250
 
-Registration Date: 26-March-1997
-Last Updated Date: 30-April-2008
+remarks:      Registration information: http://www.fidc.co.fk/
+
+created:      1997-03-26
+changed:      2008-04-30
+source:       IANA
+
