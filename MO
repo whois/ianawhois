@@ -1,70 +1,44 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: mo
-ID: mo
+domain:       MO
 
-Sponsoring Organization:
-    Name: 
-    Organization: University of Macau
-    Address1: Av. Padre Tomas Pereira
-    Address2: 
-    Address3: 
-    City: Taipa
-    State/Province: 
-    Country: Macao
-    Postal Code: 853
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 03-September-2008
+organisation: University of Macau
+address:      Av. Padre Tomas Pereira
+address:      Taipa  853
+address:      Macao
 
-Administrative Contact:
-    Name: Jason Ho
-    Organization: University of Macau
-    Address1: Av. Padre Tomas Pereira
-    Address2: 
-    Address3: 
-    City: Taipa
-    State/Province: 
-    Country: Macao
-    Postal Code: 853
-    Phone: +853 83978616
-    Fax: +853 28835606
-    Email: jasonho@umac.mo
-    Registration Date: 01-January-1985
-    Last Updated Date: 03-September-2008
+contact:      administrative
+name:         Jason Ho
+organisation: University of Macau
+address:      Av. Padre Tomas Pereira
+address:      Taipa  853
+address:      Macao
+phone:        +853 83978616
+fax-no:       +853 28835606
+e-mail:       jasonho@umac.mo
 
-Technical Contact:
-    Name: Fiona O
-    Organization: University of Macau
-    Address1: Av. Padre Tomas Pereira
-    Address2: 
-    Address3: 
-    City: Taipa
-    State/Province: 
-    Country: Macao
-    Postal Code: 853
-    Phone: +853 83978619
-    Fax: +853 28835606
-    Email: fionao@umac.mo
-    Registration Date: 01-January-1985
-    Last Updated Date: 03-September-2008
-URL for registration services: http://www.monic.net.mo
+contact:      technical
+name:         Fiona O
+organisation: University of Macau
+address:      Av. Padre Tomas Pereira
+address:      Taipa  853
+address:      Macao
+phone:        +853 83978619
+fax-no:       +853 28835606
+e-mail:       fionao@umac.mo
 
-Nameserver Information:
-    Nameserver: umacsn1.umac.mo.
-    IP Address: 161.64.3.1
-    Nameserver: umacsn2.umac.mo.
-    IP Address: 161.64.3.2
-    Nameserver: umacss1.umac.mo.
-    IP Address: 161.64.7.1
-    Nameserver: umacss2.umac.mo.
-    IP Address: 161.64.7.2
-    Nameserver: umacss3.umac.mo.
-    IP Address: 161.64.7.3
-    Nameserver: ns2.cuhk.edu.hk.
-    IP Address: 137.189.6.21 2405:3000:3:60:0:0:0:21
+nserver:      NS2.CUHK.EDU.HK 137.189.6.21 2405:3000:3:60:0:0:0:21
+nserver:      UMACSN1.UMAC.MO 161.64.3.1
+nserver:      UMACSN2.UMAC.MO 161.64.3.2
+nserver:      UMACSS1.UMAC.MO 161.64.7.1
+nserver:      UMACSS2.UMAC.MO 161.64.7.2
+nserver:      UMACSS3.UMAC.MO 161.64.7.3
 
-Registration Date: 17-September-1992
-Last Updated Date: 10-July-2009
+remarks:      Registration information: http://www.monic.net.mo
+
+created:      1992-09-17
+changed:      2009-07-10
+source:       IANA
+
