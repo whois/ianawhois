@@ -1,69 +1,45 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: iq
-ID: iq
+domain:       IQ
 
-Sponsoring Organization:
-    Name: 
-    Organization: Communications and Media Commission (CMC)
-    Address1: Al-Masbah Hay Babel
-    Address2: Dist.929 St.32 House 18
-    Address3: 
-    City: Baghdad
-    State/Province: 
-    Country: Iraq
-    Postal Code: 
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 12-May-2009
+organisation: Communications and Media Commission (CMC)
+address:      Al-Masbah Hay Babel
+address:      Dist.929 St.32 House 18
+address:      Baghdad
+address:      Iraq
 
-Administrative Contact:
-    Name: Administrative Role Account
-    Organization: Communications and Media Commission (CMC)
-    Address1: Al-Masbah Hay Babel
-    Address2: Dist.929 St.32 House 18
-    Address3: 
-    City: Baghdad
-    State/Province: 
-    Country: Iraq
-    Postal Code: 
-    Phone: +964 7904318951
-    Fax: +964 17195839
-    Email: enquiries@cmc.iq
-    Registration Date: 01-January-1985
-    Last Updated Date: 12-May-2009
+contact:      administrative
+name:         Administrative Role Account
+organisation: Communications and Media Commission (CMC)
+address:      Al-Masbah Hay Babel
+address:      Dist.929 St.32 House 18
+address:      Baghdad
+address:      Iraq
+phone:        +964 7904318951
+fax-no:       +964 17195839
+e-mail:       enquiries@cmc.iq
 
-Technical Contact:
-    Name: Technical Role Account
-    Organization: Communications and Media Commission (CMC)
-    Address1: Al-Masbah Hay Babel
-    Address2: Dist.929 St.32 House 18
-    Address3: 
-    City: Baghdad
-    State/Province: 
-    Country: Iraq
-    Postal Code: 
-    Phone: +964 7904318957
-    Fax: +964 17195839
-    Email: it.iq@cmc.iq
-    Registration Date: 01-January-1985
-    Last Updated Date: 12-May-2009
+contact:      technical
+name:         Technical Role Account
+organisation: Communications and Media Commission (CMC)
+address:      Al-Masbah Hay Babel
+address:      Dist.929 St.32 House 18
+address:      Baghdad
+address:      Iraq
+phone:        +964 7904318957
+fax-no:       +964 17195839
+e-mail:       it.iq@cmc.iq
 
-Nameserver Information:
-    Nameserver: a.dns-server.iq.
-    IP Address: 194.117.56.1
-    Nameserver: b.dns-server.iq.
-    IP Address: 194.117.57.1
-    Nameserver: c.dns-server.iq.
-    IP Address: 194.117.58.1
-    Nameserver: d.dns-server.iq.
-    IP Address: 194.117.59.1
-    Nameserver: e.dns-server.iq.
-    IP Address: 194.117.60.1
-    Nameserver: f.dns-server.iq.
-    IP Address: 194.117.61.1
+nserver:      A.DNS-SERVER.IQ 194.117.56.1
+nserver:      B.DNS-SERVER.IQ 194.117.57.1
+nserver:      C.DNS-SERVER.IQ 194.117.58.1
+nserver:      D.DNS-SERVER.IQ 194.117.59.1
+nserver:      E.DNS-SERVER.IQ 194.117.60.1
+nserver:      F.DNS-SERVER.IQ 194.117.61.1
 
-Registration Date: 09-May-1997
-Last Updated Date: 12-May-2009
+created:      1997-05-09
+changed:      2009-05-12
+source:       IANA
+
