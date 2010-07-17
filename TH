@@ -1,71 +1,49 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: th
-ID: th
+domain:       TH
 
-Sponsoring Organization:
-    Name: 
-    Organization: Thai Network Information Center Foundation
-    Address1: 159, Thanon Phichai,
-    Address2: Khwaeng Thanon Nakhon Chaisi
-    Address3: 
-    City: Khet Dusit, Bangkok
-    State/Province: 
-    Country: Thailand
-    Postal Code: 10300
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 04-December-2007
+organisation: Thai Network Information Center Foundation
+address:      159, Thanon Phichai,
+address:      Khwaeng Thanon Nakhon Chaisi
+address:      Khet Dusit, Bangkok  10300
+address:      Thailand
 
-Administrative Contact:
-    Name: Kanchana Kanchanasut
-    Organization: Thai Network Information Center Foundation
-    Address1: 159, Thanon Phichai,
-    Address2: Khwaeng Thanon Nakhon Chaisi
-    Address3: 
-    City: Khet Dusit, Bangkok
-    State/Province: 
-    Country: Thailand
-    Postal Code: 10300
-    Phone: +66-2-244-8261
-    Fax: +66-2-244-8264
-    Email: kk@cs.ait.ac.th
-    Registration Date: 01-January-1985
-    Last Updated Date: 04-December-2007
+contact:      administrative
+name:         Kanchana Kanchanasut
+organisation: Thai Network Information Center Foundation
+address:      159, Thanon Phichai,
+address:      Khwaeng Thanon Nakhon Chaisi
+address:      Khet Dusit, Bangkok  10300
+address:      Thailand
+phone:        +66-2-244-8261
+fax-no:       +66-2-244-8264
+e-mail:       kk@cs.ait.ac.th
 
-Technical Contact:
-    Name: Pensri Arunwatanamongkol
-    Organization: Thai Network Information Center Foundation
-    Address1: 159, Thanon Phichai,
-    Address2: Khwaeng Thanon Nakhon Chaisi
-    Address3: 
-    City: Khet Dusit, Bangkok
-    State/Province: 
-    Country: Thailand
-    Postal Code: 10300
-    Phone: +66-2-564-8040
-    Fax: +66-2-564-8039
-    Email: pensri@thnic.or.th
-    Registration Date: 01-January-1985
-    Last Updated Date: 04-December-2007
-URL for registration services: http://www.thnic.co.th
-Whois Server (port 43): whois.thnic.co.th
+contact:      technical
+name:         Pensri Arunwatanamongkol
+organisation: Thai Network Information Center Foundation
+address:      159, Thanon Phichai,
+address:      Khwaeng Thanon Nakhon Chaisi
+address:      Khet Dusit, Bangkok  10300
+address:      Thailand
+phone:        +66-2-564-8040
+fax-no:       +66-2-564-8039
+e-mail:       pensri@thnic.or.th
 
-Nameserver Information:
-    Nameserver: ns.thnic.net.
-    IP Address: 202.28.0.1
-    Nameserver: dns1.thnic.co.th.
-    IP Address: 202.28.1.22 2001:3c8:1209:1:0:0:0:22
-    Nameserver: ns-th.ripe.net.
-    IP Address: 193.0.12.219
-    Nameserver: ns-a.thnic.co.th.
-    IP Address: 61.19.242.38
-    Nameserver: ams.sns-pb.isc.org.
-    IP Address: 199.6.1.30
-    Nameserver: sfba.sns-pb.isc.org.
-    IP Address: 149.20.64.3 2001:4f8:0:2:0:0:0:19
+nserver:      AMS.SNS-PB.ISC.ORG 199.6.1.30
+nserver:      DNS1.THNIC.CO.TH 2001:3c8:1209:1:0:0:0:22 202.28.1.22
+nserver:      NS-A.THNIC.CO.TH 61.19.242.38
+nserver:      NS-TH.RIPE.NET 193.0.12.219
+nserver:      NS.THNIC.NET 202.28.0.1
+nserver:      SFBA.SNS-PB.ISC.ORG 149.20.64.3 2001:4f8:0:2:0:0:0:19
 
-Registration Date: 07-September-1988
-Last Updated Date: 27-March-2009
+whois:        whois.thnic.co.th
+
+remarks:      Registration information: http://www.thnic.co.th
+
+created:      1988-09-07
+changed:      2009-03-27
+source:       IANA
+
