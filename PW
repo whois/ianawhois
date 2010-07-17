@@ -1,66 +1,42 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: pw
-ID: pw
+domain:       PW
 
-Sponsoring Organization:
-    Name: 
-    Organization: Micronesia Investment and Development Corporation
-    Address1: P.O. Box 1256
-    Address2: 
-    Address3: 
-    City: Koror
-    State/Province: 
-    Country: Palau
-    Postal Code: 96940
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 02-July-2003
+organisation: Micronesia Investment and Development Corporation
+address:      P.O. Box 1256
+address:      Koror  96940
+address:      Palau
 
-Administrative Contact:
-    Name: .pw Admin Contact
-    Organization: PW Registry Corporation
-    Address1: P.O. Box 1106
-    Address2: 
-    Address3: 
-    City: Koror
-    State/Province: 
-    Country: Palau
-    Postal Code: 96940
-    Phone: +680.488.3414
-    Fax: +680.488.3415
-    Email: admin-iana@pwregistry.pw
-    Registration Date: 01-January-1985
-    Last Updated Date: 23-April-2007
+contact:      administrative
+name:         .pw Admin Contact
+organisation: PW Registry Corporation
+address:      P.O. Box 1106
+address:      Koror  96940
+address:      Palau
+phone:        +680.488.3414
+fax-no:       +680.488.3415
+e-mail:       admin-iana@pwregistry.pw
 
-Technical Contact:
-    Name: .pw Technical Contact
-    Organization: EnCirca Inc.
-    Address1: P.O. Box 164
-    Address2: 
-    Address3: 
-    City: Reading
-    State/Province: Massachusetts
-    Country: United States
-    Postal Code: 01867
-    Phone: +1 781 942 9975
-    Fax: +1 781 823 8911
-    Email: pwtech@encirca.com
-    Registration Date: 02-July-2003
-    Last Updated Date: 18-December-2009
-URL for registration services: http://www.pwregistry.pw
+contact:      technical
+name:         .pw Technical Contact
+organisation: EnCirca Inc.
+address:      P.O. Box 164
+address:      Reading Massachusetts 01867
+address:      United States
+phone:        +1 781 942 9975
+fax-no:       +1 781 823 8911
+e-mail:       pwtech@encirca.com
 
-Nameserver Information:
-    Nameserver: ns1.registry.pw.
-    IP Address: 67.15.184.175 67.15.184.193
-    Nameserver: ns2.registry.pw.
-    IP Address: 67.15.184.183 67.15.184.191
-    Nameserver: ns3.registry.pw.
-    IP Address: 67.15.238.65 67.15.47.36
-    Nameserver: ns4.registry.pw.
-    IP Address: 75.125.56.249 75.125.56.33
+nserver:      NS1.REGISTRY.PW 67.15.184.175 67.15.184.193
+nserver:      NS2.REGISTRY.PW 67.15.184.183 67.15.184.191
+nserver:      NS3.REGISTRY.PW 67.15.238.65 67.15.47.36
+nserver:      NS4.REGISTRY.PW 75.125.56.249 75.125.56.33
 
-Registration Date: 12-June-1997
-Last Updated Date: 18-December-2009
+remarks:      Registration information: http://www.pwregistry.pw
+
+created:      1997-06-12
+changed:      2009-12-18
+source:       IANA
+
