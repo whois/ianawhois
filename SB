@@ -1,73 +1,50 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: sb
-ID: sb
+domain:       SB
 
-Sponsoring Organization:
-    Name: 
-    Organization: Solomon Telekom Company Limited
-    Address1: Telekom Haus
-    Address2: Mendana Avenue
-    Address3: 
-    City: Honiara
-    State/Province: 
-    Country: Solomon Islands
-    Postal Code: 
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 17-July-2007
+organisation: Solomon Telekom Company Limited
+address:      Telekom Haus
+address:      Mendana Avenue
+address:      Honiara
+address:      Solomon Islands
 
-Administrative Contact:
-    Name: Mr. Lee HUMPHRIES
-    Organization: Solomon Telekom Company Limited
-    Address1: Telekom Haus
-    Address2: Mendana Avenue
-    Address3: 
-    City: Honiara
-    State/Province: 
-    Country: Solomon Islands
-    Postal Code: 
-    Phone: +677 38561
-    Fax: +677 20195
-    Email: lee.humphries@telekom.com.sb
-    Registration Date: 17-July-2007
-    Last Updated Date: 17-July-2007
+contact:      administrative
+name:         Mr. Lee HUMPHRIES
+organisation: Solomon Telekom Company Limited
+address:      Telekom Haus
+address:      Mendana Avenue
+address:      Honiara
+address:      Solomon Islands
+phone:        +677 38561
+fax-no:       +677 20195
+e-mail:       lee.humphries@telekom.com.sb
 
-Technical Contact:
-    Name: Mr. Andrew RARUMAE
-    Organization: Solomon Telekom Company Limited
-    Address1: Telekom Haus
-    Address2: Mendana Avenue
-    Address3: 
-    City: Honiara
-    State/Province: 
-    Country: Solomon Islands
-    Postal Code: 
-    Phone: +677 20199 x371
-    Fax: +677 20195
-    Email: andrew.rarumae@telekom.com.sb
-    Registration Date: 01-January-1985
-    Last Updated Date: 17-July-2007
-URL for registration services: http://www.nic.net.sb/
-Whois Server (port 43): whois.nic.net.sb
+contact:      technical
+name:         Mr. Andrew RARUMAE
+organisation: Solomon Telekom Company Limited
+address:      Telekom Haus
+address:      Mendana Avenue
+address:      Honiara
+address:      Solomon Islands
+phone:        +677 20199 x371
+fax-no:       +677 20195
+e-mail:       andrew.rarumae@telekom.com.sb
 
-Nameserver Information:
-    Nameserver: dns1.telekom.net.sb.
-    IP Address: 202.1.169.15
-    Nameserver: sb-ns.anycast.pch.net.
-    IP Address: 204.61.216.31
-    Nameserver: dns3.sb.cocca.org.au.
-    IP Address: 203.119.12.243
-    Nameserver: sb1.dyntld.net.
-    IP Address: 208.78.70.83
-    Nameserver: sb2.dyntld.net.
-    IP Address: 204.13.250.83
-    Nameserver: sb3.dyntld.net.
-    IP Address: 208.78.71.83
-    Nameserver: sb4.dyntld.net.
-    IP Address: 204.13.251.83
+nserver:      DNS1.TELEKOM.NET.SB 202.1.169.15
+nserver:      DNS3.SB.COCCA.ORG.AU 203.119.12.243
+nserver:      SB-NS.ANYCAST.PCH.NET 204.61.216.31
+nserver:      SB1.DYNTLD.NET 208.78.70.83
+nserver:      SB2.DYNTLD.NET 204.13.250.83
+nserver:      SB3.DYNTLD.NET 208.78.71.83
+nserver:      SB4.DYNTLD.NET 204.13.251.83
 
-Registration Date: 19-April-1994
-Last Updated Date: 18-February-2009
+whois:        whois.nic.net.sb
+
+remarks:      Registration information: http://www.nic.net.sb/
+
+created:      1994-04-19
+changed:      2009-02-18
+source:       IANA
+
