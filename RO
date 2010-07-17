@@ -1,71 +1,48 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: ro
-ID: ro
+domain:       RO
 
-Sponsoring Organization:
-    Name: 
-    Organization: National Institute for R&D in Informatics
-    Address1: Bd. Averescu 8-10
-    Address2: 
-    Address3: 
-    City: Bucharest
-    State/Province: 
-    Country: Romania
-    Postal Code: 011454
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 14-January-2008
+organisation: National Institute for R&D in Informatics
+address:      Bd. Averescu 8-10
+address:      Bucharest  011454
+address:      Romania
 
-Administrative Contact:
-    Name: Eugenie Staicut
-    Organization: National Institute for R&D in Informatics
-    Address1: Bd. Averescu 8-10
-    Address2: Sector 1
-    Address3: 
-    City: Bucharest
-    State/Province: 
-    Country: Romania
-    Postal Code: 011454
-    Phone: +40 21 316 0762
-    Fax: +40 21 316 1084
-    Email: eugenie@staicut.name
-    Registration Date: 01-January-1985
-    Last Updated Date: 14-January-2008
+contact:      administrative
+name:         Eugenie Staicut
+organisation: National Institute for R&D in Informatics
+address:      Bd. Averescu 8-10
+address:      Sector 1
+address:      Bucharest  011454
+address:      Romania
+phone:        +40 21 316 0762
+fax-no:       +40 21 316 1084
+e-mail:       eugenie@staicut.name
 
-Technical Contact:
-    Name: Victor Ciuperca
-    Organization: National Institute for R&D in Informatics
-    Address1: Bd. Averescu 8-10
-    Address2: Sector 1
-    Address3: 
-    City: Bucharest
-    State/Province: 
-    Country: Romania
-    Postal Code: 011454
-    Phone: +40 21 316 2618
-    Fax: +40 21 316 1084
-    Email: victor@rnc.ro
-    Registration Date: 01-January-1985
-    Last Updated Date: 11-January-2008
-URL for registration services: http://www.rotld.ro/
-Whois Server (port 43): whois.rotld.ro
+contact:      technical
+name:         Victor Ciuperca
+organisation: National Institute for R&D in Informatics
+address:      Bd. Averescu 8-10
+address:      Sector 1
+address:      Bucharest  011454
+address:      Romania
+phone:        +40 21 316 2618
+fax-no:       +40 21 316 1084
+e-mail:       victor@rnc.ro
 
-Nameserver Information:
-    Nameserver: dns-ro.denic.de.
-    IP Address: 81.91.161.99
-    Nameserver: ns.uu.net.
-    IP Address: 137.39.1.3
-    Nameserver: ns-ext.vix.com.
-    IP Address: 204.152.184.64
-    Nameserver: primary.rotld.ro.
-    IP Address: 192.162.16.18
-    Nameserver: secondary.rotld.ro.
-    IP Address: 193.230.31.225
-    Nameserver: dns-at.rotld.ro.
-    IP Address: 193.171.255.54 2001:628:453:4001:0:0:0:53
+nserver:      DNS-AT.ROTLD.RO 193.171.255.54 2001:628:453:4001:0:0:0:53
+nserver:      DNS-RO.DENIC.DE 81.91.161.99
+nserver:      NS-EXT.VIX.COM 204.152.184.64
+nserver:      NS.UU.NET 137.39.1.3
+nserver:      PRIMARY.ROTLD.RO 192.162.16.18
+nserver:      SECONDARY.ROTLD.RO 193.230.31.225
 
-Registration Date: 26-February-1993
-Last Updated Date: 26-June-2008
+whois:        whois.rotld.ro
+
+remarks:      Registration information: http://www.rotld.ro/
+
+created:      1993-02-26
+changed:      2008-06-26
+source:       IANA
+
