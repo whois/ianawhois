@@ -1,69 +1,45 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: vg
-ID: vg
+domain:       VG
 
-Sponsoring Organization:
-    Name: 
-    Organization: Pinebrook Developments Ltd
-    Address1: Craigmuir Chambers
-    Address2: P.O. Box 71
-    Address3: 
-    City: Road Town
-    State/Province: 
-    Country: Tortola British Virgin Islands
-    Postal Code: 
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 01-January-1985
+organisation: Pinebrook Developments Ltd
+address:      Craigmuir Chambers
+address:      P.O. Box 71
+address:      Road Town
+address:      Tortola British Virgin Islands
 
-Administrative Contact:
-    Name: Registrar
-    Organization: Pinebrook Developments Ltd.
-    Address1: Craigmuir Chambers
-    Address2: P.O. Box 71
-    Address3: 
-    City: Road Town
-    State/Province: Tortola
-    Country: British Virgin Islands
-    Postal Code: 
-    Phone: +44 1223 353
-    Fax: 
-    Email: tldwhois@adamsnames.tc
-    Registration Date: 01-January-1985
-    Last Updated Date: 31-August-2005
+contact:      administrative
+name:         Registrar
+organisation: Pinebrook Developments Ltd.
+address:      Craigmuir Chambers
+address:      P.O. Box 71
+address:      Road Town Tortola
+address:      British Virgin Islands
+phone:        +44 1223 353
+e-mail:       tldwhois@adamsnames.tc
 
-Technical Contact:
-    Name: Registrar
-    Organization: AdamsNames Ltd
-    Address1: c/o 3 Adams Road
-    Address2: 
-    Address3: 
-    City: Cambridge
-    State/Province: 
-    Country: United Kingdom
-    Postal Code: CB3 9AD
-    Phone: +44 1223 353203
-    Fax: 
-    Email: tldwhois@adamsnames.tc
-    Registration Date: 05-August-2005
-    Last Updated Date: 31-August-2005
-URL for registration services: http://www.adamsnames.tc/
-Whois Server (port 43): whois.adamsnames.tc
+contact:      technical
+name:         Registrar
+organisation: AdamsNames Ltd
+address:      c/o 3 Adams Road
+address:      Cambridge  CB3 9AD
+address:      United Kingdom
+phone:        +44 1223 353203
+e-mail:       tldwhois@adamsnames.tc
 
-Nameserver Information:
-    Nameserver: auth02.ns.uu.net.
-    IP Address: 198.6.1.82
-    Nameserver: sec1.dns.uk.psi.net.
-    IP Address: 154.32.105.34
-    Nameserver: euterpe.william.org.
-    IP Address: 195.153.6.27
-    Nameserver: sec2.dns.uk.psi.net.
-    IP Address: 154.32.107.34
-    Nameserver: ns-vg.ripe.net.
-    IP Address: 193.0.12.242
+nserver:      AUTH02.NS.UU.NET 198.6.1.82
+nserver:      EUTERPE.WILLIAM.ORG 195.153.6.27
+nserver:      NS-VG.RIPE.NET 193.0.12.242
+nserver:      SEC1.DNS.UK.PSI.NET 154.32.105.34
+nserver:      SEC2.DNS.UK.PSI.NET 154.32.107.34
 
-Registration Date: 20-February-1997
-Last Updated Date: 31-August-2005
+whois:        whois.adamsnames.tc
+
+remarks:      Registration information: http://www.adamsnames.tc/
+
+created:      1997-02-20
+changed:      2005-08-31
+source:       IANA
+
