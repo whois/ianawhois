@@ -1,71 +1,47 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: sn
-ID: sn
+domain:       SN
 
-Sponsoring Organization:
-    Name: 
-    Organization: Universite Cheikh Anta Diop
-                  NIC Senegal
-    Address1: B.P. 5005
-    Address2: 
-    Address3: 
-    City: Dakar-Fann
-    State/Province: 
-    Country: Senegal
-    Postal Code: 
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 29-April-2004
+organisation: Universite Cheikh Anta Diop
+organisation: NIC Senegal
+address:      B.P. 5005
+address:      Dakar-Fann
+address:      Senegal
 
-Administrative Contact:
-    Name: Alex Corenthin
-    Organization: Ecole Superieure Polytechnique
-                  Departement Genie Informatique
-    Address1: BP 11542
-    Address2: 
-    Address3: 
-    City: Dakar-Peytavin
-    State/Province: 
-    Country: Senegal
-    Postal Code: 
-    Phone: +221 667 07 75
-    Fax: +221 825 65 76
-    Email: corenthin@ucad.sn
-    Registration Date: 01-January-1985
-    Last Updated Date: 16-August-2005
+contact:      administrative
+name:         Alex Corenthin
+organisation: Ecole Superieure Polytechnique
+organisation: Departement Genie Informatique
+address:      BP 11542
+address:      Dakar-Peytavin
+address:      Senegal
+phone:        +221 667 07 75
+fax-no:       +221 825 65 76
+e-mail:       corenthin@ucad.sn
 
-Technical Contact:
-    Name: Alioune Thioune
-    Organization: Bibliotheque Universitaire
-    Address1: BP 16370
-    Address2: 
-    Address3: 
-    City: Dakar-Fann
-    State/Province: 
-    Country: Senegal
-    Postal Code: 
-    Phone: +221 824 13 73
-    Fax: +221 825 65 76
-    Email: thioune@ucad.sn
-    Registration Date: 16-August-2005
-    Last Updated Date: 16-August-2005
-URL for registration services: http://www.nic.sn
-Whois Server (port 43): whois.nic.sn
+contact:      technical
+name:         Alioune Thioune
+organisation: Bibliotheque Universitaire
+address:      BP 16370
+address:      Dakar-Fann
+address:      Senegal
+phone:        +221 824 13 73
+fax-no:       +221 825 65 76
+e-mail:       thioune@ucad.sn
 
-Nameserver Information:
-    Nameserver: ns.sentoo.sn.
-    IP Address: 213.154.64.13
-    Nameserver: ns.ucad.sn.
-    IP Address: 196.1.95.1
-    Nameserver: ns3.nic.fr.
-    IP Address: 192.134.0.49 2001:660:3006:1:0:0:1:1
-    Nameserver: ns1.ird.fr.
-    IP Address: 193.50.53.3
-    Nameserver: ns-sn.ripe.net.
-    IP Address: 193.0.12.195
+nserver:      NS-SN.RIPE.NET 193.0.12.195
+nserver:      NS.SENTOO.SN 213.154.64.13
+nserver:      NS.UCAD.SN 196.1.95.1
+nserver:      NS1.IRD.FR 193.50.53.3
+nserver:      NS3.NIC.FR 192.134.0.49 2001:660:3006:1:0:0:1:1
 
-Registration Date: 19-March-1993
-Last Updated Date: 31-October-2008
+whois:        whois.nic.sn
+
+remarks:      Registration information: http://www.nic.sn
+
+created:      1993-03-19
+changed:      2008-10-31
+source:       IANA
+
