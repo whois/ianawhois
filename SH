@@ -1,73 +1,45 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: sh
-ID: sh
+domain:       SH
 
-Sponsoring Organization:
-    Name: 
-    Organization: Government of St. Helena
-    Address1: The Castle
-    Address2: 
-    Address3: 
-    City: Jamestown
-    State/Province: 
-    Country: St. Helena Island
-    Postal Code: 
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 01-January-1985
+organisation: Government of St. Helena
+address:      The Castle
+address:      Jamestown
+address:      St. Helena Island
 
-Administrative Contact:
-    Name: Chief Secretary
-    Organization: Government of St. Helena
-    Address1: The Castle
-    Address2: 
-    Address3: 
-    City: Jamestown
-    State/Province: 
-    Country: St. Helena Island
-    Postal Code: 
-    Phone: 
-    Fax: +290 2598
-    Email: administrator@nic.sh
-    Registration Date: 01-January-1985
-    Last Updated Date: 01-January-1985
+contact:      administrative
+name:         Chief Secretary
+organisation: Government of St. Helena
+address:      The Castle
+address:      Jamestown
+address:      St. Helena Island
+fax-no:       +290 2598
+e-mail:       administrator@nic.sh
 
-Technical Contact:
-    Name: Administrator
-    Organization: ICB Plc.
-    Address1: 9 Queens Road
-    Address2: 
-    Address3: 
-    City: Bournemouth
-    State/Province: Dorset
-    Country: United Kingdom
-    Postal Code: BH2 6BA
-    Phone: 
-    Fax: +44 1225 580 550
-    Email: admin@icb.co.uk
-    Registration Date: 01-January-1985
-    Last Updated Date: 04-January-2010
-URL for registration services: http://www.nic.sh/
-Whois Server (port 43): whois.nic.sh
+contact:      technical
+name:         Administrator
+organisation: ICB Plc.
+address:      9 Queens Road
+address:      Bournemouth Dorset BH2 6BA
+address:      United Kingdom
+fax-no:       +44 1225 580 550
+e-mail:       admin@icb.co.uk
 
-Nameserver Information:
-    Nameserver: a.nic.sh.
-    IP Address: 64.251.31.178
-    Nameserver: b.nic.ac.
-    IP Address: 78.104.145.37
-    Nameserver: b.nic.io.
-    IP Address: 194.0.2.1
-    Nameserver: ns3.icb.co.uk.
-    IP Address: 91.208.95.130
-    Nameserver: a.ns13.net.
-    IP Address: 202.181.97.168
-    Nameserver: b.ns13.net.
-    IP Address: 202.181.96.60
-    Nameserver: ns1.communitydns.net.
-    IP Address: 194.0.1.1 2001:678:4:0:0:0:0:1
+nserver:      A.NIC.SH 64.251.31.178
+nserver:      A.NS13.NET 202.181.97.168
+nserver:      B.NIC.AC 78.104.145.37
+nserver:      B.NIC.IO 194.0.2.1
+nserver:      B.NS13.NET 202.181.96.60
+nserver:      NS1.COMMUNITYDNS.NET 194.0.1.1 2001:678:4:0:0:0:0:1
+nserver:      NS3.ICB.CO.UK 91.208.95.130
 
-Registration Date: 23-September-1997
-Last Updated Date: 08-March-2010
+whois:        whois.nic.sh
+
+remarks:      Registration information: http://www.nic.sh/
+
+created:      1997-09-23
+changed:      2010-03-08
+source:       IANA
+
