@@ -1,79 +1,50 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: rs
-ID: rs
+domain:       RS
 
-Sponsoring Organization:
-    Name: 
-    Organization: Serbian National Register of
-                  Internet Domain Names (RNIDS)
-    Address1: Bulevar Kralja Aleksandra 73
-    Address2: 
-    Address3: 
-    City: Belgrade
-    State/Province: 
-    Country: Serbia
-    Postal Code: 11000
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 24-September-2007
-    Last Updated Date: 21-October-2009
+organisation: Serbian National Register of
+organisation: Internet Domain Names (RNIDS)
+address:      Bulevar Kralja Aleksandra 73
+address:      Belgrade  11000
+address:      Serbia
 
-Administrative Contact:
-    Name: RNIDS Admin Contact
-    Organization: Serbian National Register of
-                  Internet Domain Names (RNIDS)
-    Address1: Bulevar Kralja Aleksandra 73
-    Address2: 
-    Address3: 
-    City: Belgrade
-    State/Province: 
-    Country: Serbia
-    Postal Code: 11000
-    Phone: +381 113133101
-    Fax: +381 113133153
-    Email: tld-admin@rnids.rs
-    Registration Date: 08-January-2009
-    Last Updated Date: 21-October-2009
+contact:      administrative
+name:         RNIDS Admin Contact
+organisation: Serbian National Register of
+organisation: Internet Domain Names (RNIDS)
+address:      Bulevar Kralja Aleksandra 73
+address:      Belgrade  11000
+address:      Serbia
+phone:        +381 113133101
+fax-no:       +381 113133153
+e-mail:       tld-admin@rnids.rs
 
-Technical Contact:
-    Name: RNIDS Tech Contact
-    Organization: Serbian National Register of
-                  Internet Domain Names (RNIDS)
-    Address1: Bulevar Kralja Aleksandra 73
-    Address2: 
-    Address3: 
-    City: Belgrade
-    State/Province: 11000
-    Country: Serbia
-    Postal Code: 
-    Phone: +381 113133101
-    Fax: +381 113133153
-    Email: tld-tech@rnids.rs
-    Registration Date: 08-January-2009
-    Last Updated Date: 21-October-2009
-URL for registration services: http://www.nic.rs
+contact:      technical
+name:         RNIDS Tech Contact
+organisation: Serbian National Register of
+organisation: Internet Domain Names (RNIDS)
+address:      Bulevar Kralja Aleksandra 73
+address:      Belgrade 11000
+address:      Serbia
+phone:        +381 113133101
+fax-no:       +381 113133153
+e-mail:       tld-tech@rnids.rs
 
-Nameserver Information:
-    Nameserver: ns1.nic.rs.
-    IP Address: 147.91.8.6
-    Nameserver: avala.yubc.net.
-    IP Address: 212.124.160.1
-    Nameserver: ns-rs.ripe.net.
-    IP Address: 193.0.12.184 2001:610:240:0:53:cc:12:184
-    Nameserver: ns-ext.isc.org.
-    IP Address: 204.152.184.64 2001:4f8:0:2:0:0:0:13
-    Nameserver: ns-ext.lga1.isc.org.
-    IP Address: 192.228.91.19
-    Nameserver: ns-ext.nrt1.isc.org.
-    IP Address: 192.228.90.19
-    Nameserver: rs-ns.anycast.pch.net.
-    IP Address: 204.61.216.32 2001:500:14:6032:ad:0:0:1
-    Nameserver: ns-ext.sth1.isc.org.
-    IP Address: 192.228.89.19
-    Nameserver: odisej.telekom.rs.
-    IP Address: 195.178.32.2
+nserver:      AVALA.YUBC.NET 212.124.160.1
+nserver:      NS-EXT.ISC.ORG 2001:4f8:0:2:0:0:0:13 204.152.184.64
+nserver:      NS-EXT.LGA1.ISC.ORG 192.228.91.19
+nserver:      NS-EXT.NRT1.ISC.ORG 192.228.90.19
+nserver:      NS-EXT.STH1.ISC.ORG 192.228.89.19
+nserver:      NS-RS.RIPE.NET 193.0.12.184 2001:610:240:0:53:cc:12:184
+nserver:      NS1.NIC.RS 147.91.8.6
+nserver:      ODISEJ.TELEKOM.RS 195.178.32.2
+nserver:      RS-NS.ANYCAST.PCH.NET 2001:500:14:6032:ad:0:0:1 204.61.216.32
 
-Registration Date: 24-September-2007
-Last Updated Date: 21-October-2009
+remarks:      Registration information: http://www.nic.rs
+
+created:      2007-09-24
+changed:      2009-10-21
+source:       IANA
+
