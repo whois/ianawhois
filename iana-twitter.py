@@ -2,9 +2,13 @@
 
 import os
 import sys
-import twitter
+import string
+import encodings.idna
 
-authfile = "/home/bortzmeyer/.twitter/auth"
+# http://github.com/joshthecoder/tweepy
+import tweepy
+
+authfile = "/home/bortzmeyer/.twitter/auth-ianawhois"
 base_url = "http://www.iana.org/domains/root/db"
 
 if len(sys.argv) != 3:
@@ -17,10 +21,21 @@ if not os.path.exists(authfile):
 
 tld = sys.argv[1]
 msg = sys.argv[2]
-auth = open(authfile)
-login = auth.readline()[:-1]
-passwd = auth.readline()[:-1]
-api = twitter.Api(username=login, password=passwd) 
-url = "%s/%s.html" % (base_url, tld.lower())
-status = api.PostUpdate("IANA whois: %s %s" % (msg, url))
+authdata = open(authfile)
+consumer_key = authdata.readline()[:-1]
+consumer_secret = authdata.readline()[:-1]
+auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
+access_key = authdata.readline()[:-1]
+access_secret = authdata.readline()[:-1]
+authdata.close()
+auth.set_access_token(access_key, access_secret)
+api = tweepy.API(auth)
+ltld = tld.lower()
+url = "%s/%s.html" % (base_url, ltld)
+if ltld[0:4] == "xn--":
+    utld = encodings.idna.ToUnicode(ltld)
+    tld = "%s (%s)" % (utld, tld)
+tmpl = string.Template(msg)
+expanded_msg = tmpl.substitute(tld=tld)
+status = api.update_status("IANA whois: %s %s" % (expanded_msg, url))
 
