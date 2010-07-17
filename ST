@@ -1,67 +1,43 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: st
-ID: st
+domain:       ST
 
-Sponsoring Organization:
-    Name: 
-    Organization: Tecnisys
-    Address1: Travessa Joa de Deus
-    Address2: 
-    Address3: 
-    City: 
-    State/Province: 
-    Country: Sao Tome
-    Postal Code: CP 709
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 01-January-1985
+organisation: Tecnisys
+address:      Travessa Joa de Deus
+address:      CP 709
+address:      Sao Tome
 
-Administrative Contact:
-    Name: Aguinaldo Salvaterra
-    Organization: Tecnisys
-    Address1: Travessa Joa de Deus
-    Address2: 
-    Address3: 
-    City: 
-    State/Province: 
-    Country: Sao Tome
-    Postal Code: CP 709
-    Phone: +239 12 22753
-    Fax: 
-    Email: info@tecnisys.net
-    Registration Date: 01-January-1985
-    Last Updated Date: 01-January-1985
+contact:      administrative
+name:         Aguinaldo Salvaterra
+organisation: Tecnisys
+address:      Travessa Joa de Deus
+address:      CP 709
+address:      Sao Tome
+phone:        +239 12 22753
+e-mail:       info@tecnisys.net
 
-Technical Contact:
-    Name: ST Registry
-    Organization: Bahnhof Internet
-    Address1: Box 6220
-    Address2: 
-    Address3: 
-    City: Stockholm
-    State/Province: 
-    Country: Sweden
-    Postal Code: 10234
-    Phone: +46-8-55577100
-    Fax: +46-8-55577199
-    Email: st-registry@BAHNHOF.NET
-    Registration Date: 01-January-1985
-    Last Updated Date: 16-August-2005
-URL for registration services: http://www.nic.st
-Whois Server (port 43): whois.nic.st
+contact:      technical
+name:         ST Registry
+organisation: Bahnhof Internet
+address:      Box 6220
+address:      Stockholm  10234
+address:      Sweden
+phone:        +46-8-55577100
+fax-no:       +46-8-55577199
+e-mail:       st-registry@BAHNHOF.NET
 
-Nameserver Information:
-    Nameserver: ns1.bahnhof.net.
-    IP Address: 195.178.160.2
-    Nameserver: auth61.ns.uu.net.
-    IP Address: 198.6.1.182
-    Nameserver: ns2.bahnhof.net.
-    IP Address: 212.85.64.4
-    Nameserver: dns-au.st.
-    IP Address: 203.19.59.140
+nserver:      AUTH61.NS.UU.NET 198.6.1.182
+nserver:      DNS-AU.ST 203.19.59.140
+nserver:      NS1.BAHNHOF.NET 195.178.160.2
+nserver:      NS2.BAHNHOF.NET 212.85.64.4
 
-Registration Date: 07-November-1997
-Last Updated Date: 25-September-2009
+whois:        whois.nic.st
+
+remarks:      Registration information: http://www.nic.st
+
+created:      1997-11-07
+changed:      2009-09-25
+source:       IANA
+
