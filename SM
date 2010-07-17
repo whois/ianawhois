@@ -1,67 +1,44 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: sm
-ID: sm
+domain:       SM
 
-Sponsoring Organization:
-    Name: 
-    Organization: Telecom Italia San Marino S.p.A.
-    Address1: Strada degli Angariari, 3
-    Address2: 
-    Address3: 
-    City: Rovereta
-    State/Province: Falciano
-    Country: San Marino
-    Postal Code: 47891
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 08-May-2008
+organisation: Telecom Italia San Marino S.p.A.
+address:      Strada degli Angariari, 3
+address:      Rovereta Falciano 47891
+address:      San Marino
 
-Administrative Contact:
-    Name: TISM Hostmaster
-    Organization: Telecom Italia San Marino S.p.A.
-    Address1: Strada degli Angariari, 3
-    Address2: 
-    Address3: 
-    City: Rovereta
-    State/Province: Falciano
-    Country: San Marino
-    Postal Code: 47891
-    Phone: +378 0549 886111
-    Fax: +378 0549 886188
-    Email: hostmaster@telecomitalia.sm
-    Registration Date: 01-January-1985
-    Last Updated Date: 08-May-2008
+contact:      administrative
+name:         TISM Hostmaster
+organisation: Telecom Italia San Marino S.p.A.
+address:      Strada degli Angariari, 3
+address:      Rovereta Falciano 47891
+address:      San Marino
+phone:        +378 0549 886111
+fax-no:       +378 0549 886188
+e-mail:       hostmaster@telecomitalia.sm
 
-Technical Contact:
-    Name: TISM Hostmaster
-    Organization: Telecom Italia San Marino S.p.A.
-    Address1: Strada degli Angariari, 3
-    Address2: 
-    Address3: 
-    City: Rovereta
-    State/Province: Falciano
-    Country: San Marino
-    Postal Code: 47891
-    Phone: +378 0549 886111
-    Fax: +378 0549 886188
-    Email: hostmaster@telecomitalia.sm
-    Registration Date: 01-January-1985
-    Last Updated Date: 08-May-2008
-URL for registration services: http://www.nic.sm
-Whois Server (port 43): whois.ripe.net
+contact:      technical
+name:         TISM Hostmaster
+organisation: Telecom Italia San Marino S.p.A.
+address:      Strada degli Angariari, 3
+address:      Rovereta Falciano 47891
+address:      San Marino
+phone:        +378 0549 886111
+fax-no:       +378 0549 886188
+e-mail:       hostmaster@telecomitalia.sm
 
-Nameserver Information:
-    Nameserver: dns.intelcom.sm.
-    IP Address: 194.183.64.11
-    Nameserver: dns.nettuno.it.
-    IP Address: 193.43.2.1
-    Nameserver: dns.omniway.sm.
-    IP Address: 194.183.64.10
-    Nameserver: ns-sm.ripe.net.
-    IP Address: 193.0.12.191
+nserver:      DNS.INTELCOM.SM 194.183.64.11
+nserver:      DNS.NETTUNO.IT 193.43.2.1
+nserver:      DNS.OMNIWAY.SM 194.183.64.10
+nserver:      NS-SM.RIPE.NET 193.0.12.191
 
-Registration Date: 16-August-1995
-Last Updated Date: 08-May-2008
+whois:        whois.ripe.net
+
+remarks:      Registration information: http://www.nic.sm
+
+created:      1995-08-16
+changed:      2008-05-08
+source:       IANA
+
