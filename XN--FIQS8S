@@ -1,69 +1,48 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: xn--fiqs8s
-ID: xn--fiqs8s
+domain:       中国
+domain-ace:   XN--FIQS8S
 
-Sponsoring Organization:
-    Name: 
-    Organization: China Internet Network Information Center
-    Address1: No.4, South 4th Street
-    Address2: Zhong Guan Cun
-    Address3: 
-    City: Beijing
-    State/Province: 
-    Country: China
-    Postal Code: 100190
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 09-July-2010
-    Last Updated Date: 09-July-2010
+organisation: China Internet Network Information Center
+address:      No.4, South 4th Street
+address:      Zhong Guan Cun
+address:      Beijing  100190
+address:      China
 
-Administrative Contact:
-    Name: Wei Mao
-    Organization: China Internet Network Information Center
-    Address1: No.4, South 4th Street
-    Address2: Zhong Guan Cun
-    Address3: 
-    City: Beijing
-    State/Province: 
-    Country: China
-    Postal Code: 100190
-    Phone: +86 10 58813000
-    Fax: +86 10 58812666
-    Email: mao@cnnic.cn
-    Registration Date: 09-July-2010
-    Last Updated Date: 09-July-2010
+contact:      administrative
+name:         Wei Mao
+organisation: China Internet Network Information Center
+address:      No.4, South 4th Street
+address:      Zhong Guan Cun
+address:      Beijing  100190
+address:      China
+phone:        +86 10 58813000
+fax-no:       +86 10 58812666
+e-mail:       mao@cnnic.cn
 
-Technical Contact:
-    Name: Xiaodong Lee
-    Organization: China Internet Network Information Center
-    Address1: No.4, South 4th Street
-    Address2: Zhong Guan Cun
-    Address3: 
-    City: Beijing
-    State/Province: 
-    Country: China
-    Postal Code: 100190
-    Phone: +86 10 58813020
-    Fax: +86 10 58813277
-    Email: lee@cnnic.cn
-    Registration Date: 09-July-2010
-    Last Updated Date: 09-July-2010
-URL for registration services: http://www.cnnic.cn
-Whois Server (port 43): cwhois.cnnic.cn
+contact:      technical
+name:         Xiaodong Lee
+organisation: China Internet Network Information Center
+address:      No.4, South 4th Street
+address:      Zhong Guan Cun
+address:      Beijing  100190
+address:      China
+phone:        +86 10 58813020
+fax-no:       +86 10 58813277
+e-mail:       lee@cnnic.cn
 
-Nameserver Information:
-    Nameserver: h.dns.cn.
-    IP Address: 125.208.32.1 2001:dc7:fffe:0:0:0:0:1
-    Nameserver: i.dns.cn.
-    IP Address: 125.208.33.1 2001:dc7:ffff:0:0:0:0:1
-    Nameserver: j.dns.cn.
-    IP Address: 125.208.34.1
-    Nameserver: k.dns.cn.
-    IP Address: 125.208.35.1
-    Nameserver: l.dns.cn.
-    IP Address: 125.208.36.1
+nserver:      H.DNS.CN 125.208.32.1 2001:dc7:fffe:0:0:0:0:1
+nserver:      I.DNS.CN 125.208.33.1 2001:dc7:ffff:0:0:0:0:1
+nserver:      J.DNS.CN 125.208.34.1
+nserver:      K.DNS.CN 125.208.35.1
+nserver:      L.DNS.CN 125.208.36.1
 
-Registration Date: 09-July-2010
-Last Updated Date: 09-July-2010
+whois:        cwhois.cnnic.cn
+
+remarks:      Registration information: http://www.cnnic.cn
+
+created:      2010-07-09
+source:       IANA
+
