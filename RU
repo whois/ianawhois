@@ -1,73 +1,49 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: ru
-ID: ru
+domain:       RU
 
-Sponsoring Organization:
-    Name: 
-    Organization: Coordination Center for TLD RU
-    Address1: #433, M-II, WTC, 12,
-    Address2: Krasnopresnenskaya nab.
-    Address3: 
-    City: Moscow
-    State/Province: 
-    Country: Russian Federation
-    Postal Code: 123610
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 04-January-2006
+organisation: Coordination Center for TLD RU
+address:      #433, M-II, WTC, 12,
+address:      Krasnopresnenskaya nab.
+address:      Moscow  123610
+address:      Russian Federation
 
-Administrative Contact:
-    Name: .RU domain Administrative group
-    Organization: Coordination Center for TLD RU
-    Address1: #433, M-II, WTC, 12,
-    Address2: Krasnopresnenskaya nab.
-    Address3: 
-    City: Moscow
-    State/Province: 
-    Country: Russian Federation
-    Postal Code: 123610
-    Phone: +7 495 258 1320
-    Fax: +7 495 258 1321
-    Email: ru-adm@cctld.ru
-    Registration Date: 15-June-2005
-    Last Updated Date: 17-August-2007
+contact:      administrative
+name:         .RU domain Administrative group
+organisation: Coordination Center for TLD RU
+address:      #433, M-II, WTC, 12,
+address:      Krasnopresnenskaya nab.
+address:      Moscow  123610
+address:      Russian Federation
+phone:        +7 495 258 1320
+fax-no:       +7 495 258 1321
+e-mail:       ru-adm@cctld.ru
 
-Technical Contact:
-    Name: .RU domain Technical Center
-    Organization: Russian Institute for Public Networks
-    Address1: 1 Kurchatov Square
-    Address2: 
-    Address3: 
-    City: Moscow
-    State/Province: 
-    Country: Russian Federation
-    Postal Code: 123182
-    Phone: +7 495 196 7278, +7 495 737 6976
-    Fax: +7 495 196 4984
-    Email: ru-tech@ripn.net
-    Registration Date: 15-June-2005
-    Last Updated Date: 04-January-2006
-URL for registration services: http://www.cctld.ru/en
-Whois Server (port 43): whois.ripn.net
+contact:      technical
+name:         .RU domain Technical Center
+organisation: Russian Institute for Public Networks
+address:      1 Kurchatov Square
+address:      Moscow  123182
+address:      Russian Federation
+phone:        +7 495 196 7278, +7 495 737 6976
+fax-no:       +7 495 196 4984
+e-mail:       ru-tech@ripn.net
 
-Nameserver Information:
-    Nameserver: ns.ripn.net.
-    IP Address: 194.85.105.17 2001:678:13:0:194:85:105:17
-    Nameserver: ns2.nic.fr.
-    IP Address: 192.93.0.4
-    Nameserver: ns2.ripn.net.
-    IP Address: 194.226.96.30
-    Nameserver: ns5.msk-ix.net.
-    IP Address: 193.232.128.6 2001:678:17:0:193:232:128:6
-    Nameserver: ns9.ripn.net.
-    IP Address: 194.85.252.62 2001:678:16:0:194:85:252:62
-    Nameserver: e.dns.ripn.net.
-    IP Address: 193.232.142.17 2001:678:15:0:193:232:142:17
-    Nameserver: f.dns.ripn.net.
-    IP Address: 193.232.156.17 2001:678:14:0:193:232:156:17
+nserver:      E.DNS.RIPN.NET 193.232.142.17 2001:678:15:0:193:232:142:17
+nserver:      F.DNS.RIPN.NET 193.232.156.17 2001:678:14:0:193:232:156:17
+nserver:      NS.RIPN.NET 194.85.105.17 2001:678:13:0:194:85:105:17
+nserver:      NS2.NIC.FR 192.93.0.4
+nserver:      NS2.RIPN.NET 194.226.96.30
+nserver:      NS5.MSK-IX.NET 193.232.128.6 2001:678:17:0:193:232:128:6
+nserver:      NS9.RIPN.NET 194.85.252.62 2001:678:16:0:194:85:252:62
 
-Registration Date: 07-April-1994
-Last Updated Date: 21-June-2010
+whois:        whois.ripn.net
+
+remarks:      Registration information: http://www.cctld.ru/en
+
+created:      1994-04-07
+changed:      2010-06-21
+source:       IANA
+
