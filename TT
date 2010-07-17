@@ -1,75 +1,46 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: tt
-ID: tt
+domain:       TT
 
-Sponsoring Organization:
-    Name: 
-    Organization: University of the West Indies
-                  Faculty of Engineering
-    Address1: 
-    Address2: 
-    Address3: 
-    City: St. Augustine
-    State/Province: 
-    Country: Trinidad and Tobago
-    Postal Code: 
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 01-January-1985
+organisation: University of the West Indies
+organisation: Faculty of Engineering
+address:      St. Augustine
+address:      Trinidad and Tobago
 
-Administrative Contact:
-    Name: Dr. Patrick Hosein
-    Organization: TTNIC
-    Address1: 77 Abercromby St.
-    Address2: 
-    Address3: 
-    City: Port of Spain
-    State/Province: 
-    Country: Trinidad and Tobago
-    Postal Code: 
-    Phone: +1 858 229 3651
-    Fax: +1 253 423 9508
-    Email: admin@nic.tt
-    Registration Date: 01-January-1985
-    Last Updated Date: 19-October-2006
+contact:      administrative
+name:         Dr. Patrick Hosein
+organisation: TTNIC
+address:      77 Abercromby St.
+address:      Port of Spain
+address:      Trinidad and Tobago
+phone:        +1 858 229 3651
+fax-no:       +1 253 423 9508
+e-mail:       admin@nic.tt
 
-Technical Contact:
-    Name: Dr. Patrick Hosein
-    Organization: TTNIC
-    Address1: 77 Abercromby St.
-    Address2: 
-    Address3: 
-    City: Port of Spain
-    State/Province: 
-    Country: Trinidad and Tobago
-    Postal Code: 
-    Phone: +1 858 229 3651
-    Fax: +1 253 423 9508
-    Email: tech@nic.tt
-    Registration Date: 24-October-2006
-    Last Updated Date: 24-October-2006
-URL for registration services: http://www.nic.tt
+contact:      technical
+name:         Dr. Patrick Hosein
+organisation: TTNIC
+address:      77 Abercromby St.
+address:      Port of Spain
+address:      Trinidad and Tobago
+phone:        +1 858 229 3651
+fax-no:       +1 253 423 9508
+e-mail:       tech@nic.tt
 
-Nameserver Information:
-    Nameserver: ns0.nic.tt.
-    IP Address: 156.154.100.17
-    Nameserver: ns1.nic.tt.
-    IP Address: 156.154.101.17
-    Nameserver: ns2.nic.tt.
-    IP Address: 156.154.102.17
-    Nameserver: ns3.nic.tt.
-    IP Address: 156.154.103.17
-    Nameserver: ns4.nic.tt.
-    IP Address: 156.154.104.17
-    Nameserver: ns5.nic.tt.
-    IP Address: 156.154.105.17
-    Nameserver: anyns.pch.net.
-    IP Address: 204.61.216.4
-    Nameserver: ns1.pch.net.
-    IP Address: 206.220.231.1
+nserver:      ANYNS.PCH.NET 204.61.216.4
+nserver:      NS0.NIC.TT 156.154.100.17
+nserver:      NS1.NIC.TT 156.154.101.17
+nserver:      NS1.PCH.NET 206.220.231.1
+nserver:      NS2.NIC.TT 156.154.102.17
+nserver:      NS3.NIC.TT 156.154.103.17
+nserver:      NS4.NIC.TT 156.154.104.17
+nserver:      NS5.NIC.TT 156.154.105.17
 
-Registration Date: 03-September-1991
-Last Updated Date: 15-January-2009
+remarks:      Registration information: http://www.nic.tt
+
+created:      1991-09-03
+changed:      2009-01-15
+source:       IANA
+
