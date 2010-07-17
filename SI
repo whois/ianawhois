@@ -1,75 +1,48 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: si
-ID: si
+domain:       SI
 
-Sponsoring Organization:
-    Name: 
-    Organization: Academic and Research Network of Slovenia (ARNES)
-    Address1: Jamova 39
-    Address2: 
-    Address3: 
-    City: Ljubljana
-    State/Province: 
-    Country: Slovenia
-    Postal Code: 1000
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 01-January-1985
+organisation: Academic and Research Network of Slovenia (ARNES)
+address:      Jamova 39
+address:      Ljubljana  1000
+address:      Slovenia
 
-Administrative Contact:
-    Name: Marko Bonac
-    Organization: Academic and Research Network of Slovenia (ARNES)
-    Address1: Jamova 39
-    Address2: 
-    Address3: 
-    City: Ljubljana
-    State/Province: 
-    Country: Slovenia
-    Postal Code: 1000
-    Phone: +386 1 4798800
-    Fax: +386 1 4798899
-    Email: bonac@arnes.si
-    Registration Date: 01-January-1985
-    Last Updated Date: 09-August-2006
+contact:      administrative
+name:         Marko Bonac
+organisation: Academic and Research Network of Slovenia (ARNES)
+address:      Jamova 39
+address:      Ljubljana  1000
+address:      Slovenia
+phone:        +386 1 4798800
+fax-no:       +386 1 4798899
+e-mail:       bonac@arnes.si
 
-Technical Contact:
-    Name: Avgust Jauk
-    Organization: Academic and Research Network of Slovenia (ARNES)
-    Address1: Jamova 39
-    Address2: 
-    Address3: 
-    City: Ljubljana
-    State/Province: 
-    Country: Slovenia
-    Postal Code: 1000
-    Phone: +386 1 4798800
-    Fax: +386 1 4798899
-    Email: jauk@arnes.si
-    Registration Date: 01-January-1985
-    Last Updated Date: 09-August-2006
-URL for registration services: http://www.arnes.si/si-domene/
-Whois Server (port 43): whois.arnes.si
+contact:      technical
+name:         Avgust Jauk
+organisation: Academic and Research Network of Slovenia (ARNES)
+address:      Jamova 39
+address:      Ljubljana  1000
+address:      Slovenia
+phone:        +386 1 4798800
+fax-no:       +386 1 4798899
+e-mail:       jauk@arnes.si
 
-Nameserver Information:
-    Nameserver: ns1.arnes.si.
-    IP Address: 193.2.1.86
-    Nameserver: ns-ext.vix.com.
-    IP Address: 204.152.184.64
-    Nameserver: sss.arnes.si.
-    IP Address: 81.91.161.101
-    Nameserver: ns2.arnes.si.
-    IP Address: 193.2.1.91
-    Nameserver: ns3.arnes.eu.
-    IP Address: 192.93.0.4 2001:660:3005:1:0:0:1:2
-    Nameserver: ns4.arnes.eu.
-    IP Address: 130.59.1.30 130.59.10.30 2001:620:0:0:0:0:0:1
-    Nameserver: ns7.arnes.eu.
-    IP Address: 194.146.106.62
-    Nameserver: ns8.arnes.si.
-    IP Address: 194.0.1.20 2001:678:4:0:0:0:0:14
+nserver:      NS-EXT.VIX.COM 204.152.184.64
+nserver:      NS1.ARNES.SI 193.2.1.86
+nserver:      NS2.ARNES.SI 193.2.1.91
+nserver:      NS3.ARNES.EU 192.93.0.4 2001:660:3005:1:0:0:1:2
+nserver:      NS4.ARNES.EU 130.59.1.30 130.59.10.30 2001:620:0:0:0:0:0:1
+nserver:      NS7.ARNES.EU 194.146.106.62
+nserver:      NS8.ARNES.SI 194.0.1.20 2001:678:4:0:0:0:0:14
+nserver:      SSS.ARNES.SI 81.91.161.101
 
-Registration Date: 01-April-1992
-Last Updated Date: 22-September-2009
+whois:        whois.arnes.si
+
+remarks:      Registration information: http://www.arnes.si/si-domene/
+
+created:      1992-04-01
+changed:      2009-09-22
+source:       IANA
+
