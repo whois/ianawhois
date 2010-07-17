@@ -1,71 +1,49 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: us
-ID: us
+domain:       US
 
-Sponsoring Organization:
-    Name: 
-    Organization: NeuStar, Inc.
-    Address1: Loudoun Tech Center
-    Address2: 46000 Center Oak Plaza
-    Address3: 
-    City: Sterling
-    State/Province: Virginia
-    Country: United States
-    Postal Code: 20166
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 07-July-2009
+organisation: NeuStar, Inc.
+address:      Loudoun Tech Center
+address:      46000 Center Oak Plaza
+address:      Sterling Virginia 20166
+address:      United States
 
-Administrative Contact:
-    Name: Director of Customer Service
-    Organization: NeuStar, Inc.
-    Address1: Loudoun Tech Center
-    Address2: 46000 Center Oak Plaza
-    Address3: 
-    City: Sterling
-    State/Province: Virginia
-    Country: United States
-    Postal Code: 20166
-    Phone: +1 571 434 5728
-    Fax: +1 571 434 5758
-    Email: usdomreg@nic.us
-    Registration Date: 01-January-1985
-    Last Updated Date: 07-July-2009
+contact:      administrative
+name:         Director of Customer Service
+organisation: NeuStar, Inc.
+address:      Loudoun Tech Center
+address:      46000 Center Oak Plaza
+address:      Sterling Virginia 20166
+address:      United States
+phone:        +1 571 434 5728
+fax-no:       +1 571 434 5758
+e-mail:       usdomreg@nic.us
 
-Technical Contact:
-    Name: NeuStar Operations Center
-    Organization: NeuStar, Inc.
-    Address1: Loudoun Tech Center
-    Address2: 46000 Center Oak Plaza
-    Address3: 
-    City: Sterling
-    State/Province: Virginia
-    Country: United States
-    Postal Code: 20166
-    Phone: +1 866 638 6622
-    Fax: +1 571 434 5742
-    Email: usdomreg@nic.us
-    Registration Date: 07-July-2009
-    Last Updated Date: 21-May-2010
-URL for registration services: http://www.nic.us
-Whois Server (port 43): whois.nic.us
+contact:      technical
+name:         NeuStar Operations Center
+organisation: NeuStar, Inc.
+address:      Loudoun Tech Center
+address:      46000 Center Oak Plaza
+address:      Sterling Virginia 20166
+address:      United States
+phone:        +1 866 638 6622
+fax-no:       +1 571 434 5742
+e-mail:       usdomreg@nic.us
 
-Nameserver Information:
-    Nameserver: a.cctld.us.
-    IP Address: 156.154.124.70
-    Nameserver: b.cctld.us.
-    IP Address: 156.154.125.70
-    Nameserver: c.cctld.us.
-    IP Address: 156.154.127.70
-    Nameserver: i.cctld.us.
-    IP Address: 156.154.96.126 2001:503:d1ae:ffff:ffff:ffff:ffff:ff7e
-    Nameserver: j.cctld.us.
-    IP Address: 2001:503:a124:ffff:ffff:ffff:ffff:ff7e
-    Nameserver: k.cctld.us.
-    IP Address: 156.154.128.70 2001:503:e239:0:0:0:3:1
+nserver:      A.CCTLD.US 156.154.124.70
+nserver:      B.CCTLD.US 156.154.125.70
+nserver:      C.CCTLD.US 156.154.127.70
+nserver:      I.CCTLD.US 156.154.96.126 2001:503:d1ae:ffff:ffff:ffff:ffff:ff7e
+nserver:      J.CCTLD.US 2001:503:a124:ffff:ffff:ffff:ffff:ff7e
+nserver:      K.CCTLD.US 156.154.128.70 2001:503:e239:0:0:0:3:1
 
-Registration Date: 15-February-1985
-Last Updated Date: 21-May-2010
+whois:        whois.nic.us
+
+remarks:      Registration information: http://www.nic.us
+
+created:      1985-02-15
+changed:      2010-05-21
+source:       IANA
+
