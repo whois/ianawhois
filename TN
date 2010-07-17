@@ -1,68 +1,43 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: tn
-ID: tn
+domain:       TN
 
-Sponsoring Organization:
-    Name: 
-    Organization: Agence Tunisienne d'Internet
-    Address1: 13 rue Jugurtha Mutuelle-ville
-    Address2: 
-    Address3: 
-    City: Tunis
-    State/Province: 
-    Country: Tunisia
-    Postal Code: 1002
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 02-July-2002
+organisation: Agence Tunisienne d'Internet
+address:      13 rue Jugurtha Mutuelle-ville
+address:      Tunis  1002
+address:      Tunisia
 
-Administrative Contact:
-    Name: Mr. Kamel Saadaoui - CEO
-    Organization: Agence Tunisienne d'Internet
-    Address1: 13 rue Jugurtha Mutuelle-ville
-    Address2: 
-    Address3: 
-    City: Tunis
-    State/Province: 
-    Country: Tunisia
-    Postal Code: 1002
-    Phone: +216 71 846 100
-    Fax: +216 71 846 600
-    Email: pdg@ati.tn
-    Registration Date: 01-January-1985
-    Last Updated Date: 13-March-2008
+contact:      administrative
+name:         Mr. Kamel Saadaoui - CEO
+organisation: Agence Tunisienne d'Internet
+address:      13 rue Jugurtha Mutuelle-ville
+address:      Tunis  1002
+address:      Tunisia
+phone:        +216 71 846 100
+fax-no:       +216 71 846 600
+e-mail:       pdg@ati.tn
 
-Technical Contact:
-    Name: Network Information Center Departement - NIC
-    Organization: Agence Tunisienne d'Internet
-    Address1: 13 rue Jugurtha Mutuelle-ville
-    Address2: 
-    Address3: 
-    City: Tunis
-    State/Province: 
-    Country: Tunisia
-    Postal Code: 1002
-    Phone: +216 71 846 100
-    Fax: +216 71 846 600
-    Email: nic@ati.tn
-    Registration Date: 13-March-2008
-    Last Updated Date: 13-March-2008
-URL for registration services: http://whois.ati.tn
+contact:      technical
+name:         Network Information Center Departement - NIC
+organisation: Agence Tunisienne d'Internet
+address:      13 rue Jugurtha Mutuelle-ville
+address:      Tunis  1002
+address:      Tunisia
+phone:        +216 71 846 100
+fax-no:       +216 71 846 600
+e-mail:       nic@ati.tn
 
-Nameserver Information:
-    Nameserver: ns.ati.tn.
-    IP Address: 193.95.66.10 2001:4350:1:1::10
-    Nameserver: ns2.ati.tn.
-    IP Address: 193.95.67.22
-    Nameserver: ns2.nic.fr.
-    IP Address: 192.93.0.4
-    Nameserver: rip.psg.com.
-    IP Address: 147.28.0.39 2001:418:1:0:0:0:0:39
-    Nameserver: sunic.sunet.se.
-    IP Address: 192.36.125.2 2001:6b0:7:0:0:0:0:2
+nserver:      NS.ATI.TN 193.95.66.10 2001:4350:1:1::10
+nserver:      NS2.ATI.TN 193.95.67.22
+nserver:      NS2.NIC.FR 192.93.0.4
+nserver:      RIP.PSG.COM 147.28.0.39 2001:418:1:0:0:0:0:39
+nserver:      SUNIC.SUNET.SE 192.36.125.2 2001:6b0:7:0:0:0:0:2
 
-Registration Date: 17-May-1991
-Last Updated Date: 26-May-2009
+remarks:      Registration information: http://whois.ati.tn
+
+created:      1991-05-17
+changed:      2009-05-26
+source:       IANA
+
