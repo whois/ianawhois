@@ -1,74 +1,52 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: uz
-ID: uz
+domain:       UZ
 
-Sponsoring Organization:
-    Name: 
-    Organization: Computerization and Information Technologies Developing Center
-                  UZINFOCOM
-    Address1: 28-B
-    Address2: Navoi street
-    Address3: 
-    City: Tashkent
-    State/Province: 
-    Country: Uzbekistan
-    Postal Code: 100011
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 22-January-2007
+organisation: Computerization and Information Technologies Developing Center
+organisation: UZINFOCOM
+address:      28-B
+address:      Navoi street
+address:      Tashkent  100011
+address:      Uzbekistan
 
-Administrative Contact:
-    Name: Mr. Ibrohim D. Djuraev
-    Organization: Computerization and Information Technologies Developing Center
-                  UZINFOCOM
-    Address1: 28-B
-    Address2: Navoi street
-    Address3: 
-    City: Tashkent
-    State/Province: 
-    Country: Uzbekistan
-    Postal Code: 100011
-    Phone: +998 71 2384148
-    Fax: +998 71 2384248
-    Email: i.djuraev@uzinfocom.uz
-    Registration Date: 10-April-2003
-    Last Updated Date: 17-October-2008
+contact:      administrative
+name:         Mr. Ibrohim D. Djuraev
+organisation: Computerization and Information Technologies Developing Center
+organisation: UZINFOCOM
+address:      28-B
+address:      Navoi street
+address:      Tashkent  100011
+address:      Uzbekistan
+phone:        +998 71 2384148
+fax-no:       +998 71 2384248
+e-mail:       i.djuraev@uzinfocom.uz
 
-Technical Contact:
-    Name: Anatoliy V. Pelepets
-    Organization: Computerization and Information Technologies Developing Center
-                  UZINFOCOM
-    Address1: 28-B
-    Address2: Navoi street
-    Address3: 
-    City: Tashkent
-    State/Province: 
-    Country: Uzbekistan
-    Postal Code: 100011
-    Phone: +998 71 2384148
-    Fax: +998 71 2384248
-    Email: cctld@uzinfocom.uz
-    Registration Date: 10-April-2003
-    Last Updated Date: 17-October-2008
-URL for registration services: http://www.cctld.uz/
-Whois Server (port 43): whois.cctld.uz
+contact:      technical
+name:         Anatoliy V. Pelepets
+organisation: Computerization and Information Technologies Developing Center
+organisation: UZINFOCOM
+address:      28-B
+address:      Navoi street
+address:      Tashkent  100011
+address:      Uzbekistan
+phone:        +998 71 2384148
+fax-no:       +998 71 2384248
+e-mail:       cctld@uzinfocom.uz
 
-Nameserver Information:
-    Nameserver: ns.uz.
-    IP Address: 91.212.89.8
-    Nameserver: ns2.uz.
-    IP Address: 81.95.224.158
-    Nameserver: ns3.uz.
-    IP Address: 195.158.1.22
-    Nameserver: ns4.uz.
-    IP Address: 87.139.124.237
-    Nameserver: ns5.uz.
-    IP Address: 217.12.81.129
-    Nameserver: ns6.uz.
-    IP Address: 83.69.129.4
+nserver:      NS.UZ 91.212.89.8
+nserver:      NS2.UZ 81.95.224.158
+nserver:      NS3.UZ 195.158.1.22
+nserver:      NS4.UZ 87.139.124.237
+nserver:      NS5.UZ 217.12.81.129
+nserver:      NS6.UZ 83.69.129.4
 
-Registration Date: 29-April-1995
-Last Updated Date: 16-November-2009
+whois:        whois.cctld.uz
+
+remarks:      Registration information: http://www.cctld.uz/
+
+created:      1995-04-29
+changed:      2009-11-16
+source:       IANA
+
