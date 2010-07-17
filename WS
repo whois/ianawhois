@@ -1,72 +1,47 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: ws
-ID: ws
+domain:       WS
 
-Sponsoring Organization:
-    Name: 
-    Organization: Government of Samoa
-                  Ministry of Foreign Affairs
-    Address1: P.O. Box 1861
-    Address2: 
-    Address3: 
-    City: Apia
-    State/Province: 
-    Country: Samoa
-    Postal Code: 
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 05-June-2006
+organisation: Government of Samoa
+organisation: Ministry of Foreign Affairs
+address:      P.O. Box 1861
+address:      Apia
+address:      Samoa
 
-Administrative Contact:
-    Name: Dave Main
-    Organization: Computer Services Ltd.
-    Address1: Lotemau Centre
-    Address2: 
-    Address3: 
-    City: Apia
-    State/Province: 
-    Country: Samoa
-    Postal Code: 
-    Phone: +685 20926
-    Fax: +685 20932
-    Email: Dave@samoa.ws
-    Registration Date: 01-January-1985
-    Last Updated Date: 05-June-2006
+contact:      administrative
+name:         Dave Main
+organisation: Computer Services Ltd.
+address:      Lotemau Centre
+address:      Apia
+address:      Samoa
+phone:        +685 20926
+fax-no:       +685 20932
+e-mail:       Dave@samoa.ws
 
-Technical Contact:
-    Name: Technical Director
-    Organization: Computer Services Ltd.
-    Address1: Lotemau Centre
-    Address2: 
-    Address3: 
-    City: Apia
-    State/Province: 
-    Country: Samoa
-    Postal Code: 
-    Phone: +685 20926
-    Fax: +685 20932
-    Email: technical@csl.ws
-    Registration Date: 01-January-1985
-    Last Updated Date: 06-September-2007
-URL for registration services: http://www.website.ws
-Whois Server (port 43): whois.website.ws
+contact:      technical
+name:         Technical Director
+organisation: Computer Services Ltd.
+address:      Lotemau Centre
+address:      Apia
+address:      Samoa
+phone:        +685 20926
+fax-no:       +685 20932
+e-mail:       technical@csl.ws
 
-Nameserver Information:
-    Nameserver: ns2.dns.ws.
-    IP Address: 64.70.19.80
-    Nameserver: ns3.dns.ws.
-    IP Address: 67.221.178.52
-    Nameserver: ns4.dns.ws.
-    IP Address: 67.221.178.53
-    Nameserver: ns5.dns.ws.
-    IP Address: 64.70.19.70
-    Nameserver: ns6.dns.ws.
-    IP Address: 77.92.65.172
-    Nameserver: ns7.dns.ws.
-    IP Address: 77.92.65.174
+nserver:      NS2.DNS.WS 64.70.19.80
+nserver:      NS3.DNS.WS 67.221.178.52
+nserver:      NS4.DNS.WS 67.221.178.53
+nserver:      NS5.DNS.WS 64.70.19.70
+nserver:      NS6.DNS.WS 77.92.65.172
+nserver:      NS7.DNS.WS 77.92.65.174
 
-Registration Date: 14-July-1995
-Last Updated Date: 25-November-2009
+whois:        whois.website.ws
+
+remarks:      Registration information: http://www.website.ws
+
+created:      1995-07-14
+changed:      2009-11-25
+source:       IANA
+
