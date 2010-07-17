@@ -1,62 +1,43 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: sr
-ID: sr
+domain:       SR
 
-Sponsoring Organization:
-    Name: 
-    Organization: Telesur
-    Address1: Heiligenweg 14
-    Address2: P.O. Box 1839
-    Address3: 
-    City: Paramaribo
-    State/Province: 
-    Country: Suriname
-    Postal Code: 
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 14-October-2009
+organisation: Telesur
+address:      Heiligenweg 14
+address:      P.O. Box 1839
+address:      Paramaribo
+address:      Suriname
 
-Administrative Contact:
-    Name: Henry M. Nobibux
-    Organization: Telesur
-    Address1: Heiligenweg 14
-    Address2: P.O. Box 1839
-    Address3: 
-    City: Paramaribo
-    State/Province: 
-    Country: Suriname
-    Postal Code: 
-    Phone: +597 8811699
-    Fax: +597 425333
-    Email: henry.nobibux@telesur.sr
-    Registration Date: 01-January-1985
-    Last Updated Date: 14-October-2009
+contact:      administrative
+name:         Henry M. Nobibux
+organisation: Telesur
+address:      Heiligenweg 14
+address:      P.O. Box 1839
+address:      Paramaribo
+address:      Suriname
+phone:        +597 8811699
+fax-no:       +597 425333
+e-mail:       henry.nobibux@telesur.sr
 
-Technical Contact:
-    Name: August Imang
-    Organization: Telesur
-    Address1: Heiligenweg 14
-    Address2: P.O. Box 1839
-    Address3: 
-    City: Paramaribo
-    State/Province: 
-    Country: Suriname
-    Postal Code: 
-    Phone: +597 8809299
-    Fax: +597 404992
-    Email: august.imang@telesur.sr
-    Registration Date: 01-January-1985
-    Last Updated Date: 14-October-2009
-URL for registration services: http://www.register.sr/
+contact:      technical
+name:         August Imang
+organisation: Telesur
+address:      Heiligenweg 14
+address:      P.O. Box 1839
+address:      Paramaribo
+address:      Suriname
+phone:        +597 8809299
+fax-no:       +597 404992
+e-mail:       august.imang@telesur.sr
 
-Nameserver Information:
-    Nameserver: ns1.sr.net.
-    IP Address: 200.1.159.148
-    Nameserver: ns2.sr.net.
-    IP Address: 200.2.162.30
+nserver:      NS1.SR.NET 200.1.159.148
+nserver:      NS2.SR.NET 200.2.162.30
 
-Registration Date: 03-September-1991
-Last Updated Date: 06-July-2010
+remarks:      Registration information: http://www.register.sr/
+
+created:      1991-09-03
+changed:      2010-07-06
+source:       IANA
+
