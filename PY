@@ -1,74 +1,47 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: py
-ID: py
+domain:       PY
 
-Sponsoring Organization:
-    Name: 
-    Organization: NIC-PY
-    Address1: Campus Universitario UNA
-    Address2: 
-    Address3: 
-    City: San Lorenzo
-    State/Province: Asuncion
-    Country: Paraguay
-    Postal Code: 
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 01-January-1985
+organisation: NIC-PY
+address:      Campus Universitario UNA
+address:      San Lorenzo Asuncion
+address:      Paraguay
 
-Administrative Contact:
-    Name: Administrative Contact TLD-PY
-    Organization: LED-UCA
-    Address1: Campus UCA
-    Address2: B. Sta. Librada
-    Address3: 
-    City: 
-    State/Province: Asuncion
-    Country: Paraguay
-    Postal Code: CC 1683
-    Phone: +595 21 334 650
-    Fax: +595 21 310 587
-    Email: admin-contact@nic.py
-    Registration Date: 01-January-1985
-    Last Updated Date: 01-January-1985
+contact:      administrative
+name:         Administrative Contact TLD-PY
+organisation: LED-UCA
+address:      Campus UCA
+address:      B. Sta. Librada
+address:      Asuncion CC 1683
+address:      Paraguay
+phone:        +595 21 334 650
+fax-no:       +595 21 310 587
+e-mail:       admin-contact@nic.py
 
-Technical Contact:
-    Name: DNS Administrator TLD-PY
-    Organization: Centro Nacional de Computación (CNC-UNA)
-    Address1: Campus Universitario UNA
-    Address2: 
-    Address3: 
-    City: 
-    State/Province: San Lorenzo
-    Country: Paraguay
-    Postal Code: 1439
-    Phone: +595 21 585550
-    Fax: +595 21 585550 ; +595 21 585554
-    Email: dnsadmin@cnc.una.py
-    Registration Date: 01-January-1985
-    Last Updated Date: 28-September-2004
-URL for registration services: http://www.nic.py
+contact:      technical
+name:         DNS Administrator TLD-PY
+organisation: Centro Nacional de ComputaciÃ³n (CNC-UNA)
+address:      Campus Universitario UNA
+address:      San Lorenzo 1439
+address:      Paraguay
+phone:        +595 21 585550
+fax-no:       +595 21 585550 ; +595 21 585554
+e-mail:       dnsadmin@cnc.una.py
 
-Nameserver Information:
-    Nameserver: auth00.ns.uu.net.
-    IP Address: 198.6.1.65
-    Nameserver: merapi.switch.ch.
-    IP Address: 130.59.211.10 2001:620:0:0:0:0:0:5
-    Nameserver: ns.cnc.una.py.
-    IP Address: 200.10.228.132
-    Nameserver: ns.dns.br.
-    IP Address: 200.160.0.5
-    Nameserver: sce.cnc.una.py.
-    IP Address: 200.10.228.133
-    Nameserver: sunic.sunet.se.
-    IP Address: 192.36.125.2 2001:6b0:7:0:0:0:0:2
-    Nameserver: ns-py.ripe.net.
-    IP Address: 193.0.12.172  2001:610:240:0:53:cc:12:172
-    Nameserver: ns3.nic.mx.
-    IP Address: 200.33.111.1
+nserver:      AUTH00.NS.UU.NET 198.6.1.65
+nserver:      MERAPI.SWITCH.CH 130.59.211.10 2001:620:0:0:0:0:0:5
+nserver:      NS-PY.RIPE.NET  193.0.12.172 2001:610:240:0:53:cc:12:172
+nserver:      NS.CNC.UNA.PY 200.10.228.132
+nserver:      NS.DNS.BR 200.160.0.5
+nserver:      NS3.NIC.MX 200.33.111.1
+nserver:      SCE.CNC.UNA.PY 200.10.228.133
+nserver:      SUNIC.SUNET.SE 192.36.125.2 2001:6b0:7:0:0:0:0:2
 
-Registration Date: 09-September-1991
-Last Updated Date: 24-September-2008
+remarks:      Registration information: http://www.nic.py
+
+created:      1991-09-09
+changed:      2008-09-24
+source:       IANA
+
