@@ -1,72 +1,48 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: vi
-ID: vi
+domain:       VI
 
-Sponsoring Organization:
-    Name: 
-    Organization: Virgin Islands Public Telcommunications System
-                  c/o COBEX Internet Services
-    Address1: Corporate Place
-    Address2: Royal Dane Mall
-    Address3: 
-    City: St. Thomas
-    State/Province: 
-    Country: US Virgin Islands
-    Postal Code: 00802
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 01-January-1985
+organisation: Virgin Islands Public Telcommunications System
+organisation: c/o COBEX Internet Services
+address:      Corporate Place
+address:      Royal Dane Mall
+address:      St. Thomas  00802
+address:      US Virgin Islands
 
-Administrative Contact:
-    Name: Mrs. Peter de Blanc (caretaker)
-    Organization: Virgin Islands Public Telecommunication System
-                  c/o COBEX Internet Services
-    Address1: Corporate Place
-    Address2: Royal Dane Mall
-    Address3: 
-    City: St. Thomas
-    State/Province: 
-    Country: US Virgin Islands
-    Postal Code: 00802
-    Phone: +1 340 776-4800
-    Fax: +1 340 776-2666
-    Email: dsparks@usvi.net
-    Registration Date: 01-January-1985
-    Last Updated Date: 07-May-2003
+contact:      administrative
+name:         Mrs. Peter de Blanc (caretaker)
+organisation: Virgin Islands Public Telecommunication System
+organisation: c/o COBEX Internet Services
+address:      Corporate Place
+address:      Royal Dane Mall
+address:      St. Thomas  00802
+address:      US Virgin Islands
+phone:        +1 340 776-4800
+fax-no:       +1 340 776-2666
+e-mail:       dsparks@usvi.net
 
-Technical Contact:
-    Name: Cobex DNS Administrator
-    Organization: Cobex Internet Services
-    Address1: Box 1678
-    Address2: 
-    Address3: 
-    City: Charlotte Amalie
-    State/Province: 
-    Country: United States Virgin Islands
-    Postal Code: 00804
-    Phone: +1 340 776-4800
-    Fax: +1 340 776-2666
-    Email: dnsadmin@usvi.net
-    Registration Date: 01-January-1985
-    Last Updated Date: 30-May-2003
-URL for registration services: http://www.nic.vi
+contact:      technical
+name:         Cobex DNS Administrator
+organisation: Cobex Internet Services
+address:      Box 1678
+address:      Charlotte Amalie  00804
+address:      United States Virgin Islands
+phone:        +1 340 776-4800
+fax-no:       +1 340 776-2666
+e-mail:       dnsadmin@usvi.net
 
-Nameserver Information:
-    Nameserver: auth100.ns.uu.net.
-    IP Address: 198.6.1.202
-    Nameserver: auth110.ns.uu.net.
-    IP Address: 198.6.1.114
-    Nameserver: ns1.cobex.net.
-    IP Address: 216.152.192.71
-    Nameserver: ns1.krnic.net.
-    IP Address: 202.30.50.51
-    Nameserver: ns2.cobex.net.
-    IP Address: 216.152.192.72
-    Nameserver: ns-vi.ripe.net.
-    IP Address: 193.0.12.243
+nserver:      AUTH100.NS.UU.NET 198.6.1.202
+nserver:      AUTH110.NS.UU.NET 198.6.1.114
+nserver:      NS-VI.RIPE.NET 193.0.12.243
+nserver:      NS1.COBEX.NET 216.152.192.71
+nserver:      NS1.KRNIC.NET 202.30.50.51
+nserver:      NS2.COBEX.NET 216.152.192.72
 
-Registration Date: 31-August-1995
-Last Updated Date: 28-August-2006
+remarks:      Registration information: http://www.nic.vi
+
+created:      1995-08-31
+changed:      2006-08-28
+source:       IANA
+
