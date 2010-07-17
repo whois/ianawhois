@@ -1,73 +1,47 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: sc
-ID: sc
+domain:       SC
 
-Sponsoring Organization:
-    Name: 
-    Organization: VCS Pty Ltd
-    Address1: P.O. Box 1000
-    Address2: 
-    Address3: 
-    City: Victoria
-    State/Province: Mahe
-    Country: Seychelles
-    Postal Code: 
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 09-July-2008
+organisation: VCS Pty Ltd
+address:      P.O. Box 1000
+address:      Victoria Mahe
+address:      Seychelles
 
-Administrative Contact:
-    Name: Arnold A. Chetty
-    Organization: VCS Pty Ltd
-    Address1: P.O. Box 1000
-    Address2: 
-    Address3: 
-    City: Victoria
-    State/Province: Mahe
-    Country: Seychelles
-    Postal Code: 
-    Phone: +248 521188
-    Fax: +248 324056
-    Email: arnold@seychelles.net
-    Registration Date: 09-July-2008
-    Last Updated Date: 09-July-2008
+contact:      administrative
+name:         Arnold A. Chetty
+organisation: VCS Pty Ltd
+address:      P.O. Box 1000
+address:      Victoria Mahe
+address:      Seychelles
+phone:        +248 521188
+fax-no:       +248 324056
+e-mail:       arnold@seychelles.net
 
-Technical Contact:
-    Name: Marc Houareau
-    Organization: VCS Pty Ltd
-    Address1: P.O. Box 1000
-    Address2: 
-    Address3: 
-    City: Victoria
-    State/Province: Mahe
-    Country: Seychelles
-    Postal Code: 
-    Phone: +248 513532
-    Fax: +248 324056
-    Email: marc@seychelles.net
-    Registration Date: 01-January-1985
-    Last Updated Date: 09-July-2008
-URL for registration services: http://www.nic.sc
-Whois Server (port 43): whois2.afilias-grs.net
+contact:      technical
+name:         Marc Houareau
+organisation: VCS Pty Ltd
+address:      P.O. Box 1000
+address:      Victoria Mahe
+address:      Seychelles
+phone:        +248 513532
+fax-no:       +248 324056
+e-mail:       marc@seychelles.net
 
-Nameserver Information:
-    Nameserver: a0.cctld.afilias-nst.info.
-    IP Address: 199.254.59.1 2001:500:25:0:0:0:0:1
-    Nameserver: b0.cctld.afilias-nst.org.
-    IP Address: 199.254.60.1 2001:500:26:0:0:0:0:1
-    Nameserver: c0.cctld.afilias-nst.info.
-    IP Address: 199.254.61.1 2001:500:27:0:0:0:0:1
-    Nameserver: d0.cctld.afilias-nst.org.
-    IP Address: 199.254.62.1 2001:500:28:0:0:0:0:1
-    Nameserver: ns1.nic.sc.
-    IP Address: 202.72.100.47
-    Nameserver: a2.cctld.afilias-nst.info.
-    IP Address: 199.249.116.1 2001:500:44:0:0:0:0:1
-    Nameserver: b2.cctld.afilias-nst.org.
-    IP Address: 199.249.124.1 2001:500:4c:0:0:0:0:1
+nserver:      A0.CCTLD.AFILIAS-NST.INFO 199.254.59.1 2001:500:25:0:0:0:0:1
+nserver:      A2.CCTLD.AFILIAS-NST.INFO 199.249.116.1 2001:500:44:0:0:0:0:1
+nserver:      B0.CCTLD.AFILIAS-NST.ORG 199.254.60.1 2001:500:26:0:0:0:0:1
+nserver:      B2.CCTLD.AFILIAS-NST.ORG 199.249.124.1 2001:500:4c:0:0:0:0:1
+nserver:      C0.CCTLD.AFILIAS-NST.INFO 199.254.61.1 2001:500:27:0:0:0:0:1
+nserver:      D0.CCTLD.AFILIAS-NST.ORG 199.254.62.1 2001:500:28:0:0:0:0:1
+nserver:      NS1.NIC.SC 202.72.100.47
 
-Registration Date: 09-May-1997
-Last Updated Date: 15-December-2008
+whois:        whois2.afilias-grs.net
+
+remarks:      Registration information: http://www.nic.sc
+
+created:      1997-05-09
+changed:      2008-12-15
+source:       IANA
+
