@@ -1,71 +1,46 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: sa
-ID: sa
+domain:       SA
 
-Sponsoring Organization:
-    Name: 
-    Organization: Communications and Information Technology Commission
-    Address1: P. O. Box 75606
-    Address2: 
-    Address3: 
-    City: Riyadh
-    State/Province: 
-    Country: Saudi Arabia
-    Postal Code: 11588
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 02-July-2007
+organisation: Communications and Information Technology Commission
+address:      P. O. Box 75606
+address:      Riyadh  11588
+address:      Saudi Arabia
 
-Administrative Contact:
-    Name: Head of Saudi Network Information Center
-    Organization: Communications and Information Technology Commission
-    Address1: P. O. Box 75606
-    Address2: 
-    Address3: 
-    City: Riyadh
-    State/Province: 
-    Country: Saudi Arabia
-    Postal Code: 11588
-    Phone: +966 1 263 9233
-    Fax: +966 1 263 9393
-    Email: sa-tld-admin-contact@nic.net.sa
-    Registration Date: 01-January-1985
-    Last Updated Date: 20-February-2007
+contact:      administrative
+name:         Head of Saudi Network Information Center
+organisation: Communications and Information Technology Commission
+address:      P. O. Box 75606
+address:      Riyadh  11588
+address:      Saudi Arabia
+phone:        +966 1 263 9233
+fax-no:       +966 1 263 9393
+e-mail:       sa-tld-admin-contact@nic.net.sa
 
-Technical Contact:
-    Name: SA-TLD Technical Contact
-    Organization: Communications and Information Technology Commission
-    Address1: P. O. Box 75606
-    Address2: 
-    Address3: 
-    City: Riyadh
-    State/Province: 
-    Country: Saudi Arabia
-    Postal Code: 11588
-    Phone: +966 1 263 9235
-    Fax: +966 1 263 9228
-    Email: sa-tld-tech-contact@nic.net.sa
-    Registration Date: 01-January-1985
-    Last Updated Date: 20-February-2007
-URL for registration services: http://www.nic.net.sa/
-Whois Server (port 43): whois.nic.net.sa
+contact:      technical
+name:         SA-TLD Technical Contact
+organisation: Communications and Information Technology Commission
+address:      P. O. Box 75606
+address:      Riyadh  11588
+address:      Saudi Arabia
+phone:        +966 1 263 9235
+fax-no:       +966 1 263 9228
+e-mail:       sa-tld-tech-contact@nic.net.sa
 
-Nameserver Information:
-    Nameserver: ns1.nic.net.sa.
-    IP Address: 86.111.192.9 2001:67c:130:410:0:0:0:9
-    Nameserver: ns2.nic.net.sa.
-    IP Address: 86.111.196.9 2001:67c:130:10:0:0:0:9
-    Nameserver: ns1.isu.net.sa.
-    IP Address: 212.26.18.3
-    Nameserver: ns-sa.ripe.net.
-    IP Address: 193.0.12.193 2001:610:240:0:53:cc:12:193
-    Nameserver: rip.psg.com.
-    IP Address: 147.28.0.39 2001:418:1:0:0:0:0:39
-    Nameserver: sa-ns.anycast.pch.net.
-    IP Address: 204.61.216.41 2001:500:14:6041:ad:0:0:1
+nserver:      NS-SA.RIPE.NET 193.0.12.193 2001:610:240:0:53:cc:12:193
+nserver:      NS1.ISU.NET.SA 212.26.18.3
+nserver:      NS1.NIC.NET.SA 2001:67c:130:410:0:0:0:9 86.111.192.9
+nserver:      NS2.NIC.NET.SA 2001:67c:130:10:0:0:0:9 86.111.196.9
+nserver:      RIP.PSG.COM 147.28.0.39 2001:418:1:0:0:0:0:39
+nserver:      SA-NS.ANYCAST.PCH.NET 2001:500:14:6041:ad:0:0:1 204.61.216.41
 
-Registration Date: 17-May-1994
-Last Updated Date: 27-May-2010
+whois:        whois.nic.net.sa
+
+remarks:      Registration information: http://www.nic.net.sa/
+
+created:      1994-05-17
+changed:      2010-05-27
+source:       IANA
+
