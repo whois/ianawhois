@@ -1,69 +1,51 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: tz
-ID: tz
+domain:       TZ
 
-Sponsoring Organization:
-    Name: 
-    Organization: Tanzania Network Information Centre (tzNIC)
-    Address1: New Bagamoyo Road, LAPF Millennium Towers
-    Address2: Suite # 04, Ground floor
-    Address3: P.O. Box 34543
-    City: Dar es Salaam
-    State/Province: 
-    Country: The United Republic of Tanzania
-    Postal Code: 
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 29-April-2010
+organisation: Tanzania Network Information Centre (tzNIC)
+address:      New Bagamoyo Road, LAPF Millennium Towers
+address:      Suite # 04, Ground floor
+address:      P.O. Box 34543
+address:      Dar es Salaam
+address:      The United Republic of Tanzania
 
-Administrative Contact:
-    Name: Manager
-    Organization: Tanzania Network Information Centre (tzNIC)
-    Address1: New Bagamoyo Road, LAPF Millennium Towers
-    Address2: Suite # 04, Ground floor
-    Address3: P.O. Box 34543
-    City: Dar es Salaam
-    State/Province: 
-    Country: The United Republic of Tanzania
-    Postal Code: 
-    Phone: +255 22 277 2 659
-    Fax: +255 22 277 2 660
-    Email: manager@tznic.or.tz
-    Registration Date: 01-January-1985
-    Last Updated Date: 29-April-2010
+contact:      administrative
+name:         Manager
+organisation: Tanzania Network Information Centre (tzNIC)
+address:      New Bagamoyo Road, LAPF Millennium Towers
+address:      Suite # 04, Ground floor
+address:      P.O. Box 34543
+address:      Dar es Salaam
+address:      The United Republic of Tanzania
+phone:        +255 22 277 2 659
+fax-no:       +255 22 277 2 660
+e-mail:       manager@tznic.or.tz
 
-Technical Contact:
-    Name: Technical Officer
-    Organization: Tanzania Network Information Centre (tzNIC)
-    Address1: New Bagamoyo Road, LAPF Millennium Towers
-    Address2: Suite # 04, Ground floor
-    Address3: P.O. Box 34543
-    City: Dar es Salaam
-    State/Province: 
-    Country: The United Republic of Tanzania
-    Postal Code: 
-    Phone: +255 22 277 2 659
-    Fax: +255 22 277 2 660
-    Email: technical@tznic.or.tz
-    Registration Date: 29-April-2010
-    Last Updated Date: 29-April-2010
-URL for registration services: http://www.tznic.or.tz/
-Whois Server (port 43): whois.tznic.or.tz
+contact:      technical
+name:         Technical Officer
+organisation: Tanzania Network Information Centre (tzNIC)
+address:      New Bagamoyo Road, LAPF Millennium Towers
+address:      Suite # 04, Ground floor
+address:      P.O. Box 34543
+address:      Dar es Salaam
+address:      The United Republic of Tanzania
+phone:        +255 22 277 2 659
+fax-no:       +255 22 277 2 660
+e-mail:       technical@tznic.or.tz
 
-Nameserver Information:
-    Nameserver: ns2.tznic.or.tz.
-    IP Address: 196.216.162.67 2001:43f8:e0:1:0:0:0:67
-    Nameserver: rip.psg.com.
-    IP Address: 147.28.0.39 2001:418:1:0:0:0:0:39
-    Nameserver: sunic.sunet.se.
-    IP Address: 192.36.125.2 2001:6b0:7:0:0:0:0:2
-    Nameserver: d.ext.nic.cz.
-    IP Address: 193.29.206.2 2001:678:1:0:0:0:0:2
-    Nameserver: sns-pb.isc.org.
-    IP Address: 192.5.4.1 2001:500:2e:0:0:0:0:1
+nserver:      D.EXT.NIC.CZ 193.29.206.2 2001:678:1:0:0:0:0:2
+nserver:      NS2.TZNIC.OR.TZ 196.216.162.67 2001:43f8:e0:1:0:0:0:67
+nserver:      RIP.PSG.COM 147.28.0.39 2001:418:1:0:0:0:0:39
+nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e:0:0:0:0:1
+nserver:      SUNIC.SUNET.SE 192.36.125.2 2001:6b0:7:0:0:0:0:2
 
-Registration Date: 14-July-1995
-Last Updated Date: 25-June-2010
+whois:        whois.tznic.or.tz
+
+remarks:      Registration information: http://www.tznic.or.tz/
+
+created:      1995-07-14
+changed:      2010-06-25
+source:       IANA
+
