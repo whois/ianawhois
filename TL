@@ -1,73 +1,50 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: tl
-ID: tl
+domain:       TL
 
-Sponsoring Organization:
-    Name: 
-    Organization: Ministry of Infrastructure
-                  Information and Technology Division
-    Address1: Telecom Building Room 9
-    Address2: Avenida Bispo de Medeiros
-    Address3: 
-    City: Dili
-    State/Province: 
-    Country: Timor-Leste
-    Postal Code: 
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 15-March-2005
-    Last Updated Date: 28-December-2008
+organisation: Ministry of Infrastructure
+organisation: Information and Technology Division
+address:      Telecom Building Room 9
+address:      Avenida Bispo de Medeiros
+address:      Dili
+address:      Timor-Leste
 
-Administrative Contact:
-    Name: Director (Flavio Neves)
-    Organization: Ministry of Infrastructure
-                  Information and Technology Division
-    Address1: Telecom Building Room 9
-    Address2: Avenida Bispo de Medeiros
-    Address3: 
-    City: Dili
-    State/Province: 
-    Country: Timor-Leste
-    Postal Code: 
-    Phone: +670 3339354
-    Fax: +670 3339350
-    Email: doit@nic.tl
-    Registration Date: 15-March-2005
-    Last Updated Date: 28-December-2008
+contact:      administrative
+name:         Director (Flavio Neves)
+organisation: Ministry of Infrastructure
+organisation: Information and Technology Division
+address:      Telecom Building Room 9
+address:      Avenida Bispo de Medeiros
+address:      Dili
+address:      Timor-Leste
+phone:        +670 3339354
+fax-no:       +670 3339350
+e-mail:       doit@nic.tl
 
-Technical Contact:
-    Name: TLD Registry Support
-    Organization: CoCCA Registry Services Limited
-    Address1: 6RCI Building
-    Address2: Nursery Road
-    Address3: 
-    City: Christmas Island
-    State/Province: WA, Indian Ocean
-    Country: Christmas Island
-    Postal Code: 6798
-    Phone: +61 (0)8 9164 7334
-    Fax: +61 (0)2 8324 6336
-    Email: tlnic@coccaregistry.net
-    Registration Date: 15-March-2005
-    Last Updated Date: 28-December-2008
-URL for registration services: http://www.nic.tl
-Whois Server (port 43): whois.nic.tl
+contact:      technical
+name:         TLD Registry Support
+organisation: CoCCA Registry Services Limited
+address:      6RCI Building
+address:      Nursery Road
+address:      Christmas Island WA, Indian Ocean 6798
+address:      Christmas Island
+phone:        +61 (0)8 9164 7334
+fax-no:       +61 (0)2 8324 6336
+e-mail:       tlnic@coccaregistry.net
 
-Nameserver Information:
-    Nameserver: soa.nic.tl.
-    IP Address: 203.119.12.247
-    Nameserver: ns.anycast.nic.tl.
-    IP Address: 204.61.216.19
-    Nameserver: tl1.dyntld.net.
-    IP Address: 208.78.70.78
-    Nameserver: tl2.dyntld.net.
-    IP Address: 204.13.250.78
-    Nameserver: tl3.dyntld.net.
-    IP Address: 208.78.71.78
-    Nameserver: tl4.dyntld.net.
-    IP Address: 204.13.251.78
+nserver:      NS.ANYCAST.NIC.TL 204.61.216.19
+nserver:      SOA.NIC.TL 203.119.12.247
+nserver:      TL1.DYNTLD.NET 208.78.70.78
+nserver:      TL2.DYNTLD.NET 204.13.250.78
+nserver:      TL3.DYNTLD.NET 208.78.71.78
+nserver:      TL4.DYNTLD.NET 204.13.251.78
 
-Registration Date: None
-Last Updated Date: 28-December-2008
+whois:        whois.nic.tl
+
+remarks:      Registration information: http://www.nic.tl
+
+changed:      2008-12-28
+source:       IANA
+
