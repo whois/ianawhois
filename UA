@@ -1,75 +1,49 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: ua
-ID: ua
+domain:       UA
 
-Sponsoring Organization:
-    Name: 
-    Organization: Communication Systems Ltd
-    Address1: P.O.Box 99
-    Address2: 
-    Address3: 
-    City: Kyiv
-    State/Province: 
-    Country: Ukraine
-    Postal Code: 01033
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 13-November-2008
+organisation: Communication Systems Ltd
+address:      P.O.Box 99
+address:      Kyiv  01033
+address:      Ukraine
 
-Administrative Contact:
-    Name: Dmitry Kohmanyuk
-    Organization: Communication Systems Ltd.
-    Address1: P.O.Box 99
-    Address2: 
-    Address3: 
-    City: Kyiv
-    State/Province: 
-    Country: Ukraine
-    Postal Code: 01033
-    Phone: +380 50 381 4604, +1 415 462 1513
-    Fax: +380 44 455 8542
-    Email: dk@nic.net.ua
-    Registration Date: 01-January-1985
-    Last Updated Date: 25-November-2009
+contact:      administrative
+name:         Dmitry Kohmanyuk
+organisation: Communication Systems Ltd.
+address:      P.O.Box 99
+address:      Kyiv  01033
+address:      Ukraine
+phone:        +380 50 381 4604, +1 415 462 1513
+fax-no:       +380 44 455 8542
+e-mail:       dk@nic.net.ua
 
-Technical Contact:
-    Name: Igor Sviridov
-    Organization: CS/MONOLIT Network Centre
-    Address1: 650 Castro Street
-    Address2: #120-335
-    Address3: 
-    City: Mountain View
-    State/Province: California
-    Country: United States
-    Postal Code: 94041-2055
-    Phone: +1 877 570 5414, +1 415 672 3654
-    Fax: +1 978 359 5830
-    Email: sia@nest.org
-    Registration Date: 01-January-1985
-    Last Updated Date: 25-November-2009
-URL for registration services: http://nic.net.ua/
-Whois Server (port 43): whois.ua
+contact:      technical
+name:         Igor Sviridov
+organisation: CS/MONOLIT Network Centre
+address:      650 Castro Street
+address:      #120-335
+address:      Mountain View California 94041-2055
+address:      United States
+phone:        +1 877 570 5414, +1 415 672 3654
+fax-no:       +1 978 359 5830
+e-mail:       sia@nest.org
 
-Nameserver Information:
-    Nameserver: he1.ns.ua.
-    IP Address: 216.218.215.27
-    Nameserver: sunic.sunet.se.
-    IP Address: 192.36.125.2 2001:6b0:7:0:0:0:0:2
-    Nameserver: ns-ua.ripe.net.
-    IP Address: 193.0.12.232 2001:610:240:0:53:cc:12:232
-    Nameserver: ho1.ns.ua.
-    IP Address: 195.47.253.1
-    Nameserver: pch.ns.ua.
-    IP Address: 204.61.216.12 2001:500:14:6012:ad:0:0:1
-    Nameserver: sns-pb.isc.org.
-    IP Address: 192.5.4.1 2001:500:2e:0:0:0:0:1
-    Nameserver: cd1.ns.ua.
-    IP Address: 194.0.1.9 2001:678:4:0:0:0:0:9
-    Nameserver: ya1.ns.ua.
-    IP Address: 77.88.210.88 2a01:758:ffff:0:0:0:0:88
+nserver:      CD1.NS.UA 194.0.1.9 2001:678:4:0:0:0:0:9
+nserver:      HE1.NS.UA 216.218.215.27
+nserver:      HO1.NS.UA 195.47.253.1
+nserver:      NS-UA.RIPE.NET 193.0.12.232 2001:610:240:0:53:cc:12:232
+nserver:      PCH.NS.UA 2001:500:14:6012:ad:0:0:1 204.61.216.12
+nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e:0:0:0:0:1
+nserver:      SUNIC.SUNET.SE 192.36.125.2 2001:6b0:7:0:0:0:0:2
+nserver:      YA1.NS.UA 2a01:758:ffff:0:0:0:0:88 77.88.210.88
 
-Registration Date: 01-December-1992
-Last Updated Date: 21-January-2010
+whois:        whois.ua
+
+remarks:      Registration information: http://nic.net.ua/
+
+created:      1992-12-01
+changed:      2010-01-21
+source:       IANA
+
