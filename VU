@@ -1,68 +1,43 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: vu
-ID: vu
+domain:       VU
 
-Sponsoring Organization:
-    Name: 
-    Organization: Telecom Vanuatu Limited
-    Address1: Lini Highway
-    Address2: 
-    Address3: 
-    City: Port Vila
-    State/Province: 
-    Country: Vanuatu
-    Postal Code: 
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 07-June-2005
+organisation: Telecom Vanuatu Limited
+address:      Lini Highway
+address:      Port Vila
+address:      Vanuatu
 
-Administrative Contact:
-    Name: Gérard Metsan
-    Organization: Telecom Vanuatu Ltd.
-    Address1: Lini Highway
-    Address2: 
-    Address3: 
-    City: Port Vila
-    State/Province: 
-    Country: Vanuatu
-    Postal Code: 
-    Phone: +678 22015
-    Fax: +678 24319
-    Email: gerard.metsan@tvl.net.vu
-    Registration Date: 01-January-1985
-    Last Updated Date: 16-April-2008
+contact:      administrative
+name:         GÃ©rard Metsan
+organisation: Telecom Vanuatu Ltd.
+address:      Lini Highway
+address:      Port Vila
+address:      Vanuatu
+phone:        +678 22015
+fax-no:       +678 24319
+e-mail:       gerard.metsan@tvl.net.vu
 
-Technical Contact:
-    Name: Technical Manager
-    Organization: Telecom Vanuatu Ltd.
-    Address1: Lini Highway
-    Address2: 
-    Address3: 
-    City: Port Vila
-    State/Province: 
-    Country: Vanuatu
-    Postal Code: 
-    Phone: +678 22015
-    Fax: +678 24319
-    Email: robertson.sarki@tvl.net.vu
-    Registration Date: 01-January-1985
-    Last Updated Date: 20-July-2009
-URL for registration services: http://www.vunic.vu
+contact:      technical
+name:         Technical Manager
+organisation: Telecom Vanuatu Ltd.
+address:      Lini Highway
+address:      Port Vila
+address:      Vanuatu
+phone:        +678 22015
+fax-no:       +678 24319
+e-mail:       robertson.sarki@tvl.net.vu
 
-Nameserver Information:
-    Nameserver: efate.vanuatu.com.vu.
-    IP Address: 202.80.32.5
-    Nameserver: futuna.vanuatu.com.vu.
-    IP Address: 202.80.32.3
-    Nameserver: santo.vanuatu.com.vu.
-    IP Address: 202.80.32.7
-    Nameserver: havannah.harbourmsp.com.
-    IP Address: 203.111.102.146
-    Nameserver: maringo.vanuatu.com.vu.
-    IP Address: 125.255.96.208
+nserver:      EFATE.VANUATU.COM.VU 202.80.32.5
+nserver:      FUTUNA.VANUATU.COM.VU 202.80.32.3
+nserver:      HAVANNAH.HARBOURMSP.COM 203.111.102.146
+nserver:      MARINGO.VANUATU.COM.VU 125.255.96.208
+nserver:      SANTO.VANUATU.COM.VU 202.80.32.7
 
-Registration Date: 10-April-1995
-Last Updated Date: 20-July-2009
+remarks:      Registration information: http://www.vunic.vu
+
+created:      1995-04-10
+changed:      2009-07-20
+source:       IANA
+
