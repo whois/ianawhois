@@ -1,72 +1,45 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: vn
-ID: vn
+domain:       VN
 
-Sponsoring Organization:
-    Name: 
-    Organization: Ministry of Information and Communications of Socialist Republic of Viet Nam
-    Address1: 18 Nguyen Du
-    Address2: 
-    Address3: 
-    City: Hanoi
-    State/Province: 
-    Country: Vietnam
-    Postal Code: 10000
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 08-June-2009
+organisation: Ministry of Information and Communications of Socialist Republic of Viet Nam
+address:      18 Nguyen Du
+address:      Hanoi  10000
+address:      Vietnam
 
-Administrative Contact:
-    Name: Nguyen Le Thuy, Director General
-    Organization: Vietnam Internet Network Information Center (VNNIC)
-    Address1: 18 Nguyen Du
-    Address2: 
-    Address3: 
-    City: Hanoi
-    State/Province: 
-    Country: Vietnam
-    Postal Code: 10000
-    Phone: +84 4 35564944 ext 510
-    Fax: +84 4 37821462
-    Email: nlthuy@vnnic.net.vn
-    Registration Date: 01-January-1985
-    Last Updated Date: 08-June-2009
+contact:      administrative
+name:         Nguyen Le Thuy, Director General
+organisation: Vietnam Internet Network Information Center (VNNIC)
+address:      18 Nguyen Du
+address:      Hanoi  10000
+address:      Vietnam
+phone:        +84 4 35564944 ext 510
+fax-no:       +84 4 37821462
+e-mail:       nlthuy@vnnic.net.vn
 
-Technical Contact:
-    Name: Hoang Minh Cuong, Deputy Director General
-    Organization: Vietnam Internet Network Information Center (VNNIC)
-    Address1: 18 Nguyen Du
-    Address2: 
-    Address3: 
-    City: Hanoi
-    State/Province: 
-    Country: Vietnam
-    Postal Code: 10000
-    Phone: +84 4 35564944 ext 511
-    Fax: +84 4 37821462
-    Email: hmcuong@vnnic.net.vn
-    Registration Date: 01-January-1985
-    Last Updated Date: 08-June-2009
-URL for registration services: http://www.vnnic.net.vn
+contact:      technical
+name:         Hoang Minh Cuong, Deputy Director General
+organisation: Vietnam Internet Network Information Center (VNNIC)
+address:      18 Nguyen Du
+address:      Hanoi  10000
+address:      Vietnam
+phone:        +84 4 35564944 ext 511
+fax-no:       +84 4 37821462
+e-mail:       hmcuong@vnnic.net.vn
 
-Nameserver Information:
-    Nameserver: a.dns-servers.vn.
-    IP Address: 194.0.1.18 2001:678:4:0:0:0:0:12
-    Nameserver: b.dns-servers.vn.
-    IP Address: 203.119.10.105
-    Nameserver: c.dns-servers.vn.
-    IP Address: 203.119.38.105
-    Nameserver: d.dns-servers.vn.
-    IP Address: 203.119.44.105
-    Nameserver: e.dns-servers.vn.
-    IP Address: 203.119.60.105
-    Nameserver: f.dns-servers.vn.
-    IP Address: 203.119.68.105
-    Nameserver: ns-vn.ripe.net.
-    IP Address: 193.0.12.241
+nserver:      A.DNS-SERVERS.VN 194.0.1.18 2001:678:4:0:0:0:0:12
+nserver:      B.DNS-SERVERS.VN 203.119.10.105
+nserver:      C.DNS-SERVERS.VN 203.119.38.105
+nserver:      D.DNS-SERVERS.VN 203.119.44.105
+nserver:      E.DNS-SERVERS.VN 203.119.60.105
+nserver:      F.DNS-SERVERS.VN 203.119.68.105
+nserver:      NS-VN.RIPE.NET 193.0.12.241
 
-Registration Date: 14-April-1994
-Last Updated Date: 08-June-2009
+remarks:      Registration information: http://www.vnnic.net.vn
+
+created:      1994-04-14
+changed:      2009-06-08
+source:       IANA
+
