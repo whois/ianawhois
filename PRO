@@ -1,70 +1,50 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: pro
-ID: pro
+domain:       PRO
 
-Sponsoring Organization:
-    Name: 
-    Organization: Registry Services Corporation
-                  dba RegistryPro
-    Address1: 425 West Randolph
-    Address2: 8th Floor
-    Address3: 
-    City: Chicago
-    State/Province: Illinois
-    Country: United States
-    Postal Code: 60606
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 27-May-2004
-    Last Updated Date: 18-June-2008
+organisation: Registry Services Corporation
+organisation: dba RegistryPro
+address:      425 West Randolph
+address:      8th Floor
+address:      Chicago Illinois 60606
+address:      United States
 
-Administrative Contact:
-    Name: Matt Buckland
-    Organization: Registry Services Corporation
-                  dba RegistryPro
-    Address1: 425 West Randolph
-    Address2: 8th Floor
-    Address3: 
-    City: Chicago
-    State/Province: Illinois
-    Country: United States
-    Postal Code: 60606
-    Phone: +1 312 994 7652
-    Fax: +1 312 575 9916
-    Email: matt.buckland@registrypro.pro
-    Registration Date: 27-May-2004
-    Last Updated Date: 18-June-2008
+contact:      administrative
+name:         Matt Buckland
+organisation: Registry Services Corporation
+organisation: dba RegistryPro
+address:      425 West Randolph
+address:      8th Floor
+address:      Chicago Illinois 60606
+address:      United States
+phone:        +1 312 994 7652
+fax-no:       +1 312 575 9916
+e-mail:       matt.buckland@registrypro.pro
 
-Technical Contact:
-    Name: Phillip Vandenbergh
-    Organization: Registry Services Corporation
-                  dba RegistryPro
-    Address1: 425 West Randolph
-    Address2: 8th Floor
-    Address3: 
-    City: Chicago
-    State/Province: Illinois
-    Country: United States
-    Postal Code: 60606
-    Phone: +1 312 994 7652
-    Fax: +1 312 575 9916
-    Email: phillip.vandenbergh@registrypro.pro
-    Registration Date: 27-May-2004
-    Last Updated Date: 18-June-2008
-URL for registration services: http://www.registrypro.pro/
-Whois Server (port 43): whois.registrypro.pro
+contact:      technical
+name:         Phillip Vandenbergh
+organisation: Registry Services Corporation
+organisation: dba RegistryPro
+address:      425 West Randolph
+address:      8th Floor
+address:      Chicago Illinois 60606
+address:      United States
+phone:        +1 312 994 7652
+fax-no:       +1 312 575 9916
+e-mail:       phillip.vandenbergh@registrypro.pro
 
-Nameserver Information:
-    Nameserver: a.gtld.pro.
-    IP Address: 192.149.62.10
-    Nameserver: b.gtld.pro.
-    IP Address: 192.149.63.10
-    Nameserver: c.gtld.pro.
-    IP Address: 192.149.64.10
-    Nameserver: d.gtld.pro.
-    IP Address: 192.149.66.10
+nserver:      A.GTLD.PRO 192.149.62.10
+nserver:      B.GTLD.PRO 192.149.63.10
+nserver:      C.GTLD.PRO 192.149.64.10
+nserver:      D.GTLD.PRO 192.149.66.10
 
-Registration Date: 08-May-2002
-Last Updated Date: 28-December-2008
+whois:        whois.registrypro.pro
+
+remarks:      Registration information: http://www.registrypro.pro/
+
+created:      2002-05-08
+changed:      2008-12-28
+source:       IANA
+
