@@ -1,73 +1,48 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: tm
-ID: tm
+domain:       TM
 
-Sponsoring Organization:
-    Name: 
-    Organization: TM Domain Registry Ltd
-    Address1: 180-182 Tottenham Court Road
-    Address2: 
-    Address3: 
-    City: London
-    State/Province: 
-    Country: United Kingdom
-    Postal Code: W1T 7PD
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 17-August-2007
+organisation: TM Domain Registry Ltd
+address:      180-182 Tottenham Court Road
+address:      London  W1T 7PD
+address:      United Kingdom
 
-Administrative Contact:
-    Name: Batyr Karryev
-    Organization: TM Domain Registry Ltd
-    Address1: 180-182 Tottenham Court Road
-    Address2: 
-    Address3: 
-    City: London
-    State/Province: 
-    Country: United Kingdom
-    Postal Code: W1T 7PD
-    Phone: +993 12 398729
-    Fax: +993 12 353692
-    Email: batyr@nic.tm
-    Registration Date: 01-January-1985
-    Last Updated Date: 17-August-2007
+contact:      administrative
+name:         Batyr Karryev
+organisation: TM Domain Registry Ltd
+address:      180-182 Tottenham Court Road
+address:      London  W1T 7PD
+address:      United Kingdom
+phone:        +993 12 398729
+fax-no:       +993 12 353692
+e-mail:       batyr@nic.tm
 
-Technical Contact:
-    Name: Hostmaster
-    Organization: TM Domain Registry Ltd
-    Address1: 180-182 Tottenham Court Road
-    Address2: 
-    Address3: 
-    City: London
-    State/Province: 
-    Country: United Kingdom
-    Postal Code: W1T 7PD
-    Phone: 
-    Fax: +44 1225 580 550
-    Email: hostmaster@nic.tm
-    Registration Date: 08-November-2005
-    Last Updated Date: 04-January-2010
-URL for registration services: http://www.nic.tm/
-Whois Server (port 43): whois.nic.tm
+contact:      technical
+name:         Hostmaster
+organisation: TM Domain Registry Ltd
+address:      180-182 Tottenham Court Road
+address:      London  W1T 7PD
+address:      United Kingdom
+fax-no:       +44 1225 580 550
+e-mail:       hostmaster@nic.tm
 
-Nameserver Information:
-    Nameserver: a.nic.tm.
-    IP Address: 64.251.31.180
-    Nameserver: b.nic.ac.
-    IP Address: 78.104.145.37
-    Nameserver: b.nic.io.
-    IP Address: 194.0.2.1
-    Nameserver: ns3.icb.co.uk.
-    IP Address: 91.208.95.130
-    Nameserver: a.ns13.net.
-    IP Address: 202.181.97.168
-    Nameserver: b.ns13.net.
-    IP Address: 202.181.96.60
-    Nameserver: ns1.communitydns.net.
-    IP Address: 194.0.1.1 2001:678:4:0:0:0:0:1
+nserver:      A.NIC.TM 64.251.31.180
+nserver:      A.NS13.NET 202.181.97.168
+nserver:      B.NIC.AC 78.104.145.37
+nserver:      B.NIC.IO 194.0.2.1
+nserver:      B.NS13.NET 202.181.96.60
+nserver:      NS1.COMMUNITYDNS.NET 194.0.1.1 2001:678:4:0:0:0:0:1
+nserver:      NS3.ICB.CO.UK 91.208.95.130
+ds-rdata:     28945 7 1 C9660594EFA1DCCCCA1B6B7359262F2E11052403
+ds-rdata:     28945 7 2 0C30AA64DF5149B0237F0CAD8E6AB22825BDC8CADBD7CC108F6FFC74AC428709
 
-Registration Date: 30-May-1997
-Last Updated Date: 04-January-2010
+whois:        whois.nic.tm
+
+remarks:      Registration information: http://www.nic.tm/
+
+created:      1997-05-30
+changed:      2010-06-29
+source:       IANA
+
