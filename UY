@@ -1,69 +1,48 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: uy
-ID: uy
+domain:       UY
 
-Sponsoring Organization:
-    Name: 
-    Organization: SeCIU - Universidad de la Republica
-    Address1: Colonia 2066
-    Address2: C.P. 11200
-    Address3: 
-    City: Montevideo
-    State/Province: 
-    Country: Uruguay
-    Postal Code: 
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 01-January-1985
+organisation: SeCIU - Universidad de la Republica
+address:      Colonia 2066
+address:      C.P. 11200
+address:      Montevideo
+address:      Uruguay
 
-Administrative Contact:
-    Name: Ida Holz
-    Organization: Servicio Central de Informatica (SECIU)
-    Address1: Colonia 2066
-    Address2: C.P. 11200
-    Address3: 
-    City: Montevideo
-    State/Province: 
-    Country: Uruguay
-    Postal Code: 
-    Phone: +598 2 408 3901
-    Fax: +598 2 401 5843
-    Email: holz@seciu.edu.uy
-    Registration Date: 01-January-1985
-    Last Updated Date: 01-January-1985
+contact:      administrative
+name:         Ida Holz
+organisation: Servicio Central de Informatica (SECIU)
+address:      Colonia 2066
+address:      C.P. 11200
+address:      Montevideo
+address:      Uruguay
+phone:        +598 2 408 3901
+fax-no:       +598 2 401 5843
+e-mail:       holz@seciu.edu.uy
 
-Technical Contact:
-    Name: Sergio Ramirez
-    Organization: Servicio Central de Informatica (SECIU)
-    Address1: Colonia 2066
-    Address2: C.P. 11200
-    Address3: 
-    City: Montevideo
-    State/Province: 
-    Country: Uruguay
-    Postal Code: 
-    Phone: +598 2 408 3901
-    Fax: +598 2 401 5843
-    Email: sramirez@seciu.edu.uy
-    Registration Date: 01-January-1985
-    Last Updated Date: 01-January-1985
-URL for registration services: http://www.nic.org.uy/
-Whois Server (port 43): whois.nic.org.uy
+contact:      technical
+name:         Sergio Ramirez
+organisation: Servicio Central de Informatica (SECIU)
+address:      Colonia 2066
+address:      C.P. 11200
+address:      Montevideo
+address:      Uruguay
+phone:        +598 2 408 3901
+fax-no:       +598 2 401 5843
+e-mail:       sramirez@seciu.edu.uy
 
-Nameserver Information:
-    Nameserver: seciu.edu.uy.
-    IP Address: 164.73.128.5
-    Nameserver: ns-ext.isc.org.
-    IP Address: 204.152.184.64 2001:4f8:0:2:0:0:0:13
-    Nameserver: ns-uy.ripe.net.
-    IP Address: 193.0.12.237
-    Nameserver: ns.dns.br.
-    IP Address: 200.160.0.5
-    Nameserver: ns3.nic.mx.
-    IP Address: 200.33.111.1
+nserver:      NS-EXT.ISC.ORG 2001:4f8:0:2:0:0:0:13 204.152.184.64
+nserver:      NS-UY.RIPE.NET 193.0.12.237
+nserver:      NS.DNS.BR 200.160.0.5
+nserver:      NS3.NIC.MX 200.33.111.1
+nserver:      SECIU.EDU.UY 164.73.128.5
 
-Registration Date: 10-September-1990
-Last Updated Date: 20-October-2008
+whois:        whois.nic.org.uy
+
+remarks:      Registration information: http://www.nic.org.uy/
+
+created:      1990-09-10
+changed:      2008-10-20
+source:       IANA
+
