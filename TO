@@ -1,75 +1,54 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: to
-ID: to
+domain:       TO
 
-Sponsoring Organization:
-    Name: 
-    Organization: Government of the Kingdom of Tonga
-                  H.R.H. Crown Prince Tupouto'a
-                  c/o Consulate of Tonga
-    Address1: 360 Post Street
-    Address2: Suite 604
-    Address3: 
-    City: San Francisco
-    State/Province: California
-    Country: United States
-    Postal Code: 94108
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 01-January-1985
+organisation: Government of the Kingdom of Tonga
+organisation: H.R.H. Crown Prince Tupouto'a
+organisation: c/o Consulate of Tonga
+address:      360 Post Street
+address:      Suite 604
+address:      San Francisco California 94108
+address:      United States
 
-Administrative Contact:
-    Name: Eric Gullichsen
-    Organization: Government of the Kingdom of Tonga
-                  H.R.H. Crown Prince Tupouto'a
-                  c/o Consulate of Tonga
-    Address1: 360 Post Street
-    Address2: Suite 604
-    Address3: 
-    City: San Francisco
-    State/Province: California
-    Country: United States
-    Postal Code: 94108
-    Phone: +1 415 462 3014
-    Fax: +1 415 789 0522
-    Email: egullich@colo.to
-    Registration Date: 01-January-1985
-    Last Updated Date: 26-June-2009
+contact:      administrative
+name:         Eric Gullichsen
+organisation: Government of the Kingdom of Tonga
+organisation: H.R.H. Crown Prince Tupouto'a
+organisation: c/o Consulate of Tonga
+address:      360 Post Street
+address:      Suite 604
+address:      San Francisco California 94108
+address:      United States
+phone:        +1 415 462 3014
+fax-no:       +1 415 789 0522
+e-mail:       egullich@colo.to
 
-Technical Contact:
-    Name: Eric Gullichsen
-    Organization: Government of the Kingdom of Tonga
-                  H.R.H. Crown Prince Tupouto'a
-                  c/o Consulate of Tonga
-    Address1: 360 Post Street
-    Address2: Suite 604
-    Address3: 
-    City: San Francisco
-    State/Province: California
-    Country: United States
-    Postal Code: 94108
-    Phone: +1 415 462 3014
-    Fax: +1 415 789 0522
-    Email: egullich@colo.to
-    Registration Date: 01-January-1985
-    Last Updated Date: 26-June-2009
-URL for registration services: http://www.tonic.to/
-Whois Server (port 43): whois.tonic.to
+contact:      technical
+name:         Eric Gullichsen
+organisation: Government of the Kingdom of Tonga
+organisation: H.R.H. Crown Prince Tupouto'a
+organisation: c/o Consulate of Tonga
+address:      360 Post Street
+address:      Suite 604
+address:      San Francisco California 94108
+address:      United States
+phone:        +1 415 462 3014
+fax-no:       +1 415 789 0522
+e-mail:       egullich@colo.to
 
-Nameserver Information:
-    Nameserver: tonic.to.
-    IP Address: 216.74.32.100
-    Nameserver: auth02.ns.uu.net.
-    IP Address: 198.6.1.82
-    Nameserver: colo.to.
-    IP Address: 216.74.32.104
-    Nameserver: ns1.iafrica.com.
-    IP Address: 196.7.0.139
-    Nameserver: ns-to.ripe.net.
-    IP Address: 193.0.12.224
+nserver:      AUTH02.NS.UU.NET 198.6.1.82
+nserver:      COLO.TO 216.74.32.104
+nserver:      NS-TO.RIPE.NET 193.0.12.224
+nserver:      NS1.IAFRICA.COM 196.7.0.139
+nserver:      TONIC.TO 216.74.32.100
 
-Registration Date: 18-December-1995
-Last Updated Date: 26-June-2009
+whois:        whois.tonic.to
+
+remarks:      Registration information: http://www.tonic.to/
+
+created:      1995-12-18
+changed:      2009-06-26
+source:       IANA
+
