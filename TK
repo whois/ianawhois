@@ -1,73 +1,47 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: tk
-ID: tk
+domain:       TK
 
-Sponsoring Organization:
-    Name: 
-    Organization: Telecommunication Tokelau Corporation (Teletok)
-    Address1: Fenuafala
-    Address2: 
-    Address3: 
-    City: Fakaofo
-    State/Province: 
-    Country: Tokelau
-    Postal Code: 
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 10-April-2003
-    Last Updated Date: 31-October-2005
+organisation: Telecommunication Tokelau Corporation (Teletok)
+address:      Fenuafala
+address:      Fakaofo
+address:      Tokelau
 
-Administrative Contact:
-    Name: Tino Vitale
-    Organization: Telecommunication Tokelau Corporation (Teletok)
-    Address1: Fenuafala
-    Address2: 
-    Address3: 
-    City: Fakaofo
-    State/Province: 
-    Country: Tokelau
-    Postal Code: 
-    Phone: +690 3101
-    Fax: +690 3103
-    Email: tino.vitale@tokelau.tk
-    Registration Date: 10-April-2003
-    Last Updated Date: 22-July-2008
+contact:      administrative
+name:         Tino Vitale
+organisation: Telecommunication Tokelau Corporation (Teletok)
+address:      Fenuafala
+address:      Fakaofo
+address:      Tokelau
+phone:        +690 3101
+fax-no:       +690 3103
+e-mail:       tino.vitale@tokelau.tk
 
-Technical Contact:
-    Name: Joost Zuurbier
-    Organization: BV Dot TK
-    Address1: Keizersgracht 213
-    Address2: 
-    Address3: 
-    City: Amsterdam
-    State/Province: NH
-    Country: The Netherlands
-    Postal Code: 1016 DT
-    Phone: +31 20 531 5725
-    Fax: +31 20 531 5721
-    Email: joost.zuurbier@dot.tk
-    Registration Date: 01-January-1985
-    Last Updated Date: 28-April-2009
-URL for registration services: http://www.dot.tk
-Whois Server (port 43): whois.dot.tk
+contact:      technical
+name:         Joost Zuurbier
+organisation: BV Dot TK
+address:      Keizersgracht 213
+address:      Amsterdam NH 1016 DT
+address:      The Netherlands
+phone:        +31 20 531 5725
+fax-no:       +31 20 531 5721
+e-mail:       joost.zuurbier@dot.tk
 
-Nameserver Information:
-    Nameserver: root-a.taloha.tk.
-    IP Address: 194.109.152.138
-    Nameserver: root-b.taloha.tk.
-    IP Address: 85.214.136.249
-    Nameserver: root-c.taloha.tk.
-    IP Address: 207.36.228.217
-    Nameserver: root-d.taloha.tk.
-    IP Address: 217.199.176.121
-    Nameserver: root-e.taloha.tk.
-    IP Address: 66.36.231.236
-    Nameserver: root-f.taloha.tk.
-    IP Address: 202.125.44.173
-    Nameserver: root-g.taloha.tk.
-    IP Address: 217.68.243.17
+nserver:      ROOT-A.TALOHA.TK 194.109.152.138
+nserver:      ROOT-B.TALOHA.TK 85.214.136.249
+nserver:      ROOT-C.TALOHA.TK 207.36.228.217
+nserver:      ROOT-D.TALOHA.TK 217.199.176.121
+nserver:      ROOT-E.TALOHA.TK 66.36.231.236
+nserver:      ROOT-F.TALOHA.TK 202.125.44.173
+nserver:      ROOT-G.TALOHA.TK 217.68.243.17
 
-Registration Date: 07-November-1997
-Last Updated Date: 28-April-2009
+whois:        whois.dot.tk
+
+remarks:      Registration information: http://www.dot.tk
+
+created:      1997-11-07
+changed:      2009-04-28
+source:       IANA
+
