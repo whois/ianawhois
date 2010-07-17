@@ -1,70 +1,45 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: sy
-ID: sy
+domain:       SY
 
-Sponsoring Organization:
-    Name: 
-    Organization: Syrian Telecommunications Establishment (STE)
-    Address1: Mazza Street
-    Address2: STE building
-    Address3: 
-    City: Damascus
-    State/Province: 
-    Country: Syrian Arab Republic
-    Postal Code: 34217
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 13-February-2007
+organisation: Syrian Telecommunications Establishment (STE)
+address:      Mazza Street
+address:      STE building
+address:      Damascus  34217
+address:      Syrian Arab Republic
 
-Administrative Contact:
-    Name: syTLD Administrator - Rouda AlAmir Ali
-    Organization: STE- Directorate of Data Communications
-    Address1: Baghdad Street
-    Address2: 
-    Address3: 
-    City: Damascus
-    State/Province: 
-    Country: Syrian Arab Republic
-    Postal Code: 34217
-    Phone: +963 11 4466126
-    Fax: +963 11 4465833
-    Email: sytld-admin@net.sy
-    Registration Date: 01-January-1985
-    Last Updated Date: 19-December-2007
+contact:      administrative
+name:         syTLD Administrator - Rouda AlAmir Ali
+organisation: STE- Directorate of Data Communications
+address:      Baghdad Street
+address:      Damascus  34217
+address:      Syrian Arab Republic
+phone:        +963 11 4466126
+fax-no:       +963 11 4465833
+e-mail:       sytld-admin@net.sy
 
-Technical Contact:
-    Name: syTLD Technical - Manal Saleh
-    Organization: STE- Directorate of Data Communications
-    Address1: AlThawra Street
-    Address2: 
-    Address3: 
-    City: Damascus
-    State/Province: 
-    Country: Syrian Arab Republic
-    Postal Code: 34217
-    Phone: +963 11 2324375
-    Fax: +963 11 2324820
-    Email: sytld-tech@net.sy
-    Registration Date: 01-January-1985
-    Last Updated Date: 19-December-2007
-URL for registration services: http://www.ste.gov.sy
+contact:      technical
+name:         syTLD Technical - Manal Saleh
+organisation: STE- Directorate of Data Communications
+address:      AlThawra Street
+address:      Damascus  34217
+address:      Syrian Arab Republic
+phone:        +963 11 2324375
+fax-no:       +963 11 2324820
+e-mail:       sytld-tech@net.sy
 
-Nameserver Information:
-    Nameserver: castor.teleglobe.net.
-    IP Address: 199.202.55.2
-    Nameserver: dns1.net.sy.
-    IP Address: 66.198.41.9
-    Nameserver: dns2.net.sy.
-    IP Address: 66.198.41.14
-    Nameserver: pollux.teleglobe.net.
-    IP Address: 199.202.55.10
-    Nameserver: ns1.pdn.sy.
-    IP Address: 82.137.192.141
-    Nameserver: ns2.pdn.sy.
-    IP Address: 82.137.192.142
+nserver:      CASTOR.TELEGLOBE.NET 199.202.55.2
+nserver:      DNS1.NET.SY 66.198.41.9
+nserver:      DNS2.NET.SY 66.198.41.14
+nserver:      NS1.PDN.SY 82.137.192.141
+nserver:      NS2.PDN.SY 82.137.192.142
+nserver:      POLLUX.TELEGLOBE.NET 199.202.55.10
 
-Registration Date: 20-February-1996
-Last Updated Date: 19-December-2007
+remarks:      Registration information: http://www.ste.gov.sy
+
+created:      1996-02-20
+changed:      2007-12-19
+source:       IANA
+
