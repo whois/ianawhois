@@ -1,62 +1,40 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: td
-ID: td
+domain:       TD
 
-Sponsoring Organization:
-    Name: 
-    Organization: Société des télécommunications du Tchad (SOTEL TCHAD)
-    Address1: P.O. Horse-box 1132
-    Address2: 
-    Address3: 
-    City: N'djamena
-    State/Province: 
-    Country: Chad
-    Postal Code: 
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 25-March-2004
+organisation: SociÃ©tÃ© des tÃ©lÃ©communications du Tchad (SOTEL TCHAD)
+address:      P.O. Horse-box 1132
+address:      N'djamena
+address:      Chad
 
-Administrative Contact:
-    Name: Yamta Noel
-    Organization: Société des télécommunications du Tchad (SOTEL TCHAD)
-    Address1: P.O. Horse-box 1132
-    Address2: 
-    Address3: 
-    City: N'djamena
-    State/Province: 
-    Country: Chad
-    Postal Code: 
-    Phone: +235 252 14 66
-    Fax: +235 252 13 77
-    Email: yamta@intnet.td
-    Registration Date: 01-January-1985
-    Last Updated Date: 21-January-2010
+contact:      administrative
+name:         Yamta Noel
+organisation: SociÃ©tÃ© des tÃ©lÃ©communications du Tchad (SOTEL TCHAD)
+address:      P.O. Horse-box 1132
+address:      N'djamena
+address:      Chad
+phone:        +235 252 14 66
+fax-no:       +235 252 13 77
+e-mail:       yamta@intnet.td
 
-Technical Contact:
-    Name: Mahamat Charfadine Salim
-    Organization: Société des télécommunications du Tchad (SOTEL TCHAD)
-    Address1: P.O. Horse-box 1132
-    Address2: 
-    Address3: 
-    City: N'djamena
-    State/Province: 
-    Country: Chad
-    Postal Code: 
-    Phone: +235 270 37 39
-    Fax: +235 252 14 54
-    Email: mahamat.charfadine@groupe-soteltchad.td
-    Registration Date: 01-January-1985
-    Last Updated Date: 21-January-2010
-URL for registration services: http://www.sotel.td
+contact:      technical
+name:         Mahamat Charfadine Salim
+organisation: SociÃ©tÃ© des tÃ©lÃ©communications du Tchad (SOTEL TCHAD)
+address:      P.O. Horse-box 1132
+address:      N'djamena
+address:      Chad
+phone:        +235 270 37 39
+fax-no:       +235 252 14 54
+e-mail:       mahamat.charfadine@groupe-soteltchad.td
 
-Nameserver Information:
-    Nameserver: bow.intnet.td.
-    IP Address: 193.251.147.253
-    Nameserver: bow.rain.fr.
-    IP Address: 194.51.3.49
+nserver:      BOW.INTNET.TD 193.251.147.253
+nserver:      BOW.RAIN.FR 194.51.3.49
 
-Registration Date: 03-November-1997
-Last Updated Date: 21-January-2010
+remarks:      Registration information: http://www.sotel.td
+
+created:      1997-11-03
+changed:      2010-01-21
+source:       IANA
+
