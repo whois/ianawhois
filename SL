@@ -1,62 +1,40 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: sl
-ID: sl
+domain:       SL
 
-Sponsoring Organization:
-    Name: 
-    Organization: Sierratel
-    Address1: 7 Wallace Johnson Street
-    Address2: 
-    Address3: 
-    City: Freetown
-    State/Province: 
-    Country: Sierra Leone
-    Postal Code: 
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 23-October-2002
+organisation: Sierratel
+address:      7 Wallace Johnson Street
+address:      Freetown
+address:      Sierra Leone
 
-Administrative Contact:
-    Name: Adel Suliman, Administrative Head
-    Organization: Sierratel
-    Address1: 7 Wallace Johnson Street
-    Address2: 
-    Address3: 
-    City: Freetown
-    State/Province: 
-    Country: Sierra Leone
-    Postal Code: 
-    Phone: +232 22 235981
-    Fax: +232 22 224439
-    Email: adel@afcomnetwork.net
-    Registration Date: 01-January-1985
-    Last Updated Date: 29-March-2007
+contact:      administrative
+name:         Adel Suliman, Administrative Head
+organisation: Sierratel
+address:      7 Wallace Johnson Street
+address:      Freetown
+address:      Sierra Leone
+phone:        +232 22 235981
+fax-no:       +232 22 224439
+e-mail:       adel@afcomnetwork.net
 
-Technical Contact:
-    Name: Adam Ben-Gur, Network Consultant
-    Organization: Sierratel
-    Address1: 7 Wallace Johnson Street
-    Address2: 
-    Address3: 
-    City: Freetown
-    State/Province: 
-    Country: Sierra Leone
-    Postal Code: 
-    Phone: +232 22 235981
-    Fax: +232 22 224439
-    Email: adam@neoip.com
-    Registration Date: 20-May-2005
-    Last Updated Date: 29-March-2007
-URL for registration services: http://www.nic.sl
+contact:      technical
+name:         Adam Ben-Gur, Network Consultant
+organisation: Sierratel
+address:      7 Wallace Johnson Street
+address:      Freetown
+address:      Sierra Leone
+phone:        +232 22 235981
+fax-no:       +232 22 224439
+e-mail:       adam@neoip.com
 
-Nameserver Information:
-    Nameserver: ns1.neoip.com.
-    IP Address: 212.150.236.206
-    Nameserver: ns2.neoip.com.
-    IP Address: 208.109.17.150
+nserver:      NS1.NEOIP.COM 212.150.236.206
+nserver:      NS2.NEOIP.COM 208.109.17.150
 
-Registration Date: 09-May-1997
-Last Updated Date: 30-November-2009
+remarks:      Registration information: http://www.nic.sl
+
+created:      1997-05-09
+changed:      2009-11-30
+source:       IANA
+
