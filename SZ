@@ -1,65 +1,41 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: sz
-ID: sz
+domain:       SZ
 
-Sponsoring Organization:
-    Name: 
-    Organization: University of Swaziland
-                  Department of Computer Science
-    Address1: P/Bag Kwaluseni
-    Address2: 
-    Address3: 
-    City: 
-    State/Province: 
-    Country: Swaziland
-    Postal Code: 
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 01-January-1985
+organisation: University of Swaziland
+organisation: Department of Computer Science
+address:      P/Bag Kwaluseni
+address:      Swaziland
 
-Administrative Contact:
-    Name: Ralph Nkambule
-    Organization: Swaziland ISP Association
-    Address1: P.O. Box A59, Swazi Plaza
-    Address2: 
-    Address3: 
-    City: Mbabane
-    State/Province: Hhohho
-    Country: Swaziland
-    Postal Code: H101
-    Phone: +268 404 0627
-    Fax: +268 404 0627
-    Email: dns@sispa.org.sz
-    Registration Date: 01-January-1985
-    Last Updated Date: 05-October-2005
+contact:      administrative
+name:         Ralph Nkambule
+organisation: Swaziland ISP Association
+address:      P.O. Box A59, Swazi Plaza
+address:      Mbabane Hhohho H101
+address:      Swaziland
+phone:        +268 404 0627
+fax-no:       +268 404 0627
+e-mail:       dns@sispa.org.sz
 
-Technical Contact:
-    Name: Ralph Nkambule
-    Organization: Swaziland ISP Association
-    Address1: P.O. Box A59, Swazi Plaza
-    Address2: 
-    Address3: 
-    City: Mbabane
-    State/Province: Hhohho
-    Country: Swaziland
-    Postal Code: H101
-    Phone: +268 404 0627
-    Fax: +268 404 0627
-    Email: dns@sispa.org.sz
-    Registration Date: 01-January-1985
-    Last Updated Date: 05-October-2005
-URL for registration services: http://www.sispa.org.sz/
+contact:      technical
+name:         Ralph Nkambule
+organisation: Swaziland ISP Association
+address:      P.O. Box A59, Swazi Plaza
+address:      Mbabane Hhohho H101
+address:      Swaziland
+phone:        +268 404 0627
+fax-no:       +268 404 0627
+e-mail:       dns@sispa.org.sz
 
-Nameserver Information:
-    Nameserver: rip.psg.com.
-    IP Address: 147.28.0.39 2001:418:1:0:0:0:0:39
-    Nameserver: dns.sispa.org.sz.
-    IP Address: 212.85.220.11
-    Nameserver: ns-sz.ripe.net.
-    IP Address: 193.0.12.212
+nserver:      DNS.SISPA.ORG.SZ 212.85.220.11
+nserver:      NS-SZ.RIPE.NET 193.0.12.212
+nserver:      RIP.PSG.COM 147.28.0.39 2001:418:1:0:0:0:0:39
 
-Registration Date: 19-July-1993
-Last Updated Date: 26-May-2009
+remarks:      Registration information: http://www.sispa.org.sz/
+
+created:      1993-07-19
+changed:      2009-05-26
+source:       IANA
+
