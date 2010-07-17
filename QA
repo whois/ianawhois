@@ -1,64 +1,41 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
 
-IANA Whois Service
-Domain: qa
-ID: qa
+domain:       QA
 
-Sponsoring Organization:
-    Name: 
-    Organization: Qatar Telecom (Q-Tel) Q.S.C.
-    Address1: P.O. Box 217
-    Address2: 
-    Address3: 
-    City: Doha
-    State/Province: 
-    Country: Qatar
-    Postal Code: 
-    Phone: 
-    Fax: 
-    Email: 
-    Registration Date: 01-January-1985
-    Last Updated Date: 01-January-1985
+organisation: Qatar Telecom (Q-Tel) Q.S.C.
+address:      P.O. Box 217
+address:      Doha
+address:      Qatar
 
-Administrative Contact:
-    Name: Manager, Internet Services
-    Organization: Qatar Telecom (Q-Tel) Q.S.C.
-    Address1: P.O. Box 217
-    Address2: 
-    Address3: 
-    City: Doha
-    State/Province: 
-    Country: Qatar
-    Postal Code: 
-    Phone: +974 4400598
-    Fax: +974 4320176
-    Email: qa-tld-admin@qatar.net.qa
-    Registration Date: 01-January-1985
-    Last Updated Date: 25-March-2009
+contact:      administrative
+name:         Manager, Internet Services
+organisation: Qatar Telecom (Q-Tel) Q.S.C.
+address:      P.O. Box 217
+address:      Doha
+address:      Qatar
+phone:        +974 4400598
+fax-no:       +974 4320176
+e-mail:       qa-tld-admin@qatar.net.qa
 
-Technical Contact:
-    Name: DNS Administrator, Internet Services
-    Organization: Qatar Telecom (Q-Tel) Q.S.C.
-    Address1: P.O. Box 217
-    Address2: 
-    Address3: 
-    City: Doha
-    State/Province: 
-    Country: Qatar
-    Postal Code: 
-    Phone: +974 4400280
-    Fax: +974 4320176
-    Email: qa-tld-tec@qatar.net.qa
-    Registration Date: 01-January-1985
-    Last Updated Date: 25-March-2009
-URL for registration services: http://www.qtel.com.qa
+contact:      technical
+name:         DNS Administrator, Internet Services
+organisation: Qatar Telecom (Q-Tel) Q.S.C.
+address:      P.O. Box 217
+address:      Doha
+address:      Qatar
+phone:        +974 4400280
+fax-no:       +974 4320176
+e-mail:       qa-tld-tec@qatar.net.qa
 
-Nameserver Information:
-    Nameserver: ns1.qatar.net.qa.
-    IP Address: 212.77.192.10
-    Nameserver: ns2.qatar.net.qa.
-    IP Address: 212.77.192.13
-    Nameserver: ns3.qatar.net.qa.
-    IP Address: 212.77.192.15
+nserver:      NS1.QATAR.NET.QA 212.77.192.10
+nserver:      NS2.QATAR.NET.QA 212.77.192.13
+nserver:      NS3.QATAR.NET.QA 212.77.192.15
 
-Registration Date: 12-June-1996
-Last Updated Date: 25-March-2009
+remarks:      Registration information: http://www.qtel.com.qa
+
+created:      1996-06-12
+changed:      2009-03-25
+source:       IANA
+
