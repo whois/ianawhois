@@ -38,12 +38,14 @@ nserver:      B0.ORG.AFILIAS-NST.ORG 199.19.54.1 2001:500:c:0:0:0:0:1
 nserver:      B2.ORG.AFILIAS-NST.ORG 199.249.120.1 2001:500:48:0:0:0:0:1
 nserver:      C0.ORG.AFILIAS-NST.INFO 199.19.53.1 2001:500:b:0:0:0:0:1
 nserver:      D0.ORG.AFILIAS-NST.ORG 199.19.57.1 2001:500:f:0:0:0:0:1
+ds-rdata:     21366 7 1 e6c1716cfb6bdc84e84ce1ab5510dac69173b5b2
+ds-rdata:     21366 7 2 96eeb2ffd9b00cd4694e78278b5efdab0a80446567b69f634da078f0d90f01ba
 
 whois:        whois.pir.org
 
 remarks:      Registration information: http://www.pir.org
 
 created:      1985-01-01
-changed:      2008-12-22
+changed:      2010-07-23
 source:       IANA
 
