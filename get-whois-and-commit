@@ -1,22 +1,34 @@
 #!/bin/sh
 
-# $Id: get-whois-and-commit,v 1.14 2006-10-14 21:05:20 bortzmeyer Exp $
+# $Id$
 
 LIST=bortzmeyer@nic.fr,stephane@sources.org,Loic.Damilaville@nic.fr,iana-whois-changes@dk-hostmaster.dk,Mohsen.Souissi@nic.fr
-# 2010-07-16: IANA whois now sends UTF-8
 ENCODING=UTF-8
 MAINTAINER=Stephane.Bortzmeyer@nic.fr
 ROOTNAMESERVER=F
 date=`date +%Y-%m-%d`
-TLDS=`dig @${ROOTNAMESERVER}.root-servers.net AXFR . | awk -F. '/^[A-Za-z][A-Za-z0-9-]+\.\t.*NS/ {print toupper($1)}' | sort | uniq`
+PREVIOUS_TLDS=$(ls [A-Z][A-Z0-9\-]*)
 
 PATH=${HOME}/bin:${PATH}
 LOG=/tmp/get-whois.$$.log
 DIFF=/tmp/get-whois.$$.diff
-trap  "rm -f $LOG $DIFF; exit 1" 1 2 3 15 
-trap  "rm -f $LOG $DIFF" EXIT
+TLDFILE=/tmp/get-whois.$$.tlds
+trap  "rm -f $LOG $DIFF $TLDFILE; exit 1" 1 2 3 15 
+trap  "rm -f $LOG $DIFF $TLDFILE" EXIT
+
+dig @${ROOTNAMESERVER}.root-servers.net AXFR . | awk -F. '/^[A-Za-z][A-Za-z0-9-]+\.\t.*NS/ {print toupper($1)}' | sort | uniq > $TLDFILE
+
+TLDS=$(cat $TLDFILE)
 
 svn update -q
+
+for tld in $PREVIOUS_TLDS; do
+    if ! grep "^$tld" $TLDFILE > /dev/null; then
+	./iana-twitter.py $tld "deleted TLD \$tld"
+	svn delete $tld > $LOG 2>&1
+	svn commit -m "Last version ($date)" $tld >> $LOG 2>&1 	
+    fi
+done
 
 for tld in $TLDS; do
     new=0
