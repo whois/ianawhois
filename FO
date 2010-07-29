@@ -32,9 +32,11 @@ e-mail:       nic@nic.fo
 nserver:      COPENHAGEN.NIC.FO 193.163.102.12
 nserver:      FRANKFURT.NIC.FO 81.91.161.88
 
+whois:        whois.nic.fo
+
 remarks:      Registration information: http://www.nic.fo/
 
 created:      1993-05-14
-changed:      2009-12-04
+changed:      2010-07-28
 source:       IANA
 
