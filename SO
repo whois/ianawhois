@@ -29,15 +29,13 @@ e-mail:       so-tech@itu.int
 
 nserver:      A.NIC.SO 202.12.29.59
 nserver:      B.NIC.SO 2001:dc0:1:0:4777:0:0:140 202.12.28.140
-nserver:      C.NIC.SO 2001:4f8:0:2:0:0:0:13 204.152.184.64
-nserver:      D.NIC.SO 77.72.229.254
-nserver:      E.NIC.SO 204.61.215.62
+nserver:      C.NIC.SO 2001:5a0:10:0:0:0:0:4 63.243.194.4
 
 whois:        whois.nic.so
 
 remarks:      Registration information: http://www.nic.so/
 
 created:      1997-08-28
-changed:      2009-04-17
+changed:      2010-07-29
 source:       IANA
 
