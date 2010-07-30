@@ -35,7 +35,7 @@ nserver:      NS-PT.NLNETLABS.NL 2001:7b8:206:1:0:0:4:141 213.154.224.141
 nserver:      NS.DNS.BR 200.160.0.5
 nserver:      NS.DNS.PT 193.136.0.1
 nserver:      NS2.DNS.PT 193.136.2.226 2001:690:a80:4001:0:0:0:100
-nserver:      NS2.NIC.FR 192.93.0.4
+nserver:      NS2.NIC.FR 192.93.0.4 2001:660:3005:1:0:0:1:2
 nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e:0:0:0:0:1
 
 whois:        whois.dns.pt
@@ -43,6 +43,6 @@ whois:        whois.dns.pt
 remarks:      Registration information: http://www.dns.pt/
 
 created:      1988-06-30
-changed:      2010-06-22
+changed:      2010-07-29
 source:       IANA
 
