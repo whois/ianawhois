@@ -10,24 +10,23 @@ address:      New Delhi Delhi 110 019
 address:      India
 
 contact:      administrative
-name:         .IN Registry
+name:         Systems Analyst
 organisation: National Internet Exchange of India
-address:      612-A, Chiranjiv Tower,43 Nehru Place
-address:      New Delhi Delhi 110 019
+address:      5th Floor, Incube Business Centre, 18, Nehru Place
+address:      New Delhi Delhi 110019
 address:      India
-phone:        +91 11 26424001/02
-fax-no:       +91 11 51608472
-e-mail:       info@nixi.in
+phone:        +91 11 3061 4627
+fax-no:       +91 11 3061 4629
+e-mail:       registry@nixi.in
 
 contact:      technical
-name:         Domain Name Services Technical Administrator
+name:         Systems Analyst
 organisation: National Internet Exchange of India
-address:      C/O STPI Block -IV, 2nd floor
-address:      Ganga Shopping Complex, Sector 29
-address:      Noida DE 201 303
+address:      5th Floor, Incube Business Centre, 18, Nehru Place
+address:      New Delhi Delhi 110019
 address:      India
-phone:        +91 120 2450411 ext. 348
-fax-no:       +91 120 5318082
+phone:        +91 11 3061 4627
+fax-no:       +91 11 3061 4629
 e-mail:       domaintech@registry.in
 
 nserver:      A0.CCTLD.AFILIAS-NST.INFO 199.254.59.1 2001:500:25:0:0:0:0:1
@@ -44,6 +43,6 @@ whois:        whois.inregistry.net
 remarks:      Registration information: http://www.registry.in
 
 created:      1989-05-08
-changed:      2010-03-04
+changed:      2010-08-02
 source:       IANA
 
