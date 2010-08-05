@@ -32,15 +32,15 @@ phone:        +64 9 3660186
 fax-no:       +64 9 3660187
 e-mail:       registrations@pitcairn.gov.pn
 
-nserver:      FLAG.EP.NET 198.32.4.13
 nserver:      NS-EXT.ISC.ORG 2001:4f8:0:2:0:0:0:13 204.152.184.64
-nserver:      NS1.PITCAIRN.NET.PN 210.54.120.113
+nserver:      NS0.PITCAIRN.NET.PN 173.230.153.180
+nserver:      NS2.PITCAIRN.NET.PN 80.68.93.100
 nserver:      SLAVE1.STH.NETNOD.SE 192.36.144.116
 
 remarks:      Registration information:
 remarks:      http://www.government.pn/PnRegistry/PnRegistry.htm
 
 created:      1997-07-10
-changed:      2010-05-21
+changed:      2010-08-04
 source:       IANA
 
