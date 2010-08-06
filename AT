@@ -34,7 +34,6 @@ nserver:      D.NIC.AT 81.91.161.98
 nserver:      J.NIC.AT 194.146.106.50 2001:67c:1010:12:0:0:0:53
 nserver:      N.NIC.AT 87.233.175.130
 nserver:      NS-UK.NIC.AT 195.66.241.82
-nserver:      NS-US1.NIC.AT 2001:4f8:4:b:0:0:0:202 204.152.184.202
 nserver:      NS1.UNIVIE.AC.AT 193.171.255.2
 nserver:      NS2.UNIVIE.AC.AT 192.92.125.2 2001:628:453:4302:0:0:0:53
 nserver:      NS9.UNIVIE.AC.AT 194.0.10.100 2001:678:d:0:0:0:0:cafe
@@ -44,6 +43,6 @@ whois:        whois.nic.at
 remarks:      Registration information: http://www.nic.at/
 
 created:      1988-01-20
-changed:      2010-07-02
+changed:      2010-08-06
 source:       IANA
 
