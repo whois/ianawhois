@@ -27,8 +27,8 @@ phone:        +41 22 730 5554
 fax-no:       +41 22 730 5337
 e-mail:       so-tech@itu.int
 
-nserver:      A.NIC.SO 202.12.29.59
-nserver:      B.NIC.SO 2001:dc0:1:0:4777:0:0:140 202.12.28.140
+nserver:      A.NIC.SO 2001:470:1a:0:0:0:0:4 72.52.71.4
+nserver:      B.NIC.SO 38.103.2.4
 nserver:      C.NIC.SO 2001:5a0:10:0:0:0:0:4 63.243.194.4
 
 whois:        whois.nic.so
@@ -36,6 +36,6 @@ whois:        whois.nic.so
 remarks:      Registration information: http://www.nic.so/
 
 created:      1997-08-28
-changed:      2010-07-29
+changed:      2010-08-06
 source:       IANA
 
