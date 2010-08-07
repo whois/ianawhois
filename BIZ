@@ -39,12 +39,14 @@ nserver:      E.GTLD.BIZ 156.154.126.65
 nserver:      F.GTLD.BIZ 209.173.58.66
 nserver:      G.GTLD.BIZ 199.7.64.126 2001:503:7bbb:ffff:ffff:ffff:ffff:ff7e
 nserver:      H.GTLD.BIZ 199.7.77.126 2001:503:8028:ffff:ffff:ffff:ffff:ff7e
+ds-rdata:     36724 8 1 E427598046D839DE9F8A8B381D5A2C0609AFE4BC
+ds-rdata:     36724 8 2 0CD268577B02095808CCF1F77B8B76796038F42F5602748566ECC9034440F430
 
 whois:        whois.biz
 
 remarks:      Registration information: http://www.nic.biz
 
 created:      2001-06-26
-changed:      2010-04-30
+changed:      2010-08-06
 source:       IANA
 
