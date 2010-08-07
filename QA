@@ -15,8 +15,8 @@ organisation: Qatar Telecom (Q-Tel) Q.S.C.
 address:      P.O. Box 217
 address:      Doha
 address:      Qatar
-phone:        +974 4400598
-fax-no:       +974 4320176
+phone:        +974 4440 0598
+fax-no:       +974 4432 0176
 e-mail:       qa-tld-admin@qatar.net.qa
 
 contact:      technical
@@ -25,8 +25,8 @@ organisation: Qatar Telecom (Q-Tel) Q.S.C.
 address:      P.O. Box 217
 address:      Doha
 address:      Qatar
-phone:        +974 4400280
-fax-no:       +974 4320176
+phone:        +974 4440 0280
+fax-no:       +974 4432 0176
 e-mail:       qa-tld-tec@qatar.net.qa
 
 nserver:      NS1.QATAR.NET.QA 212.77.192.10
@@ -36,6 +36,6 @@ nserver:      NS3.QATAR.NET.QA 212.77.192.15
 remarks:      Registration information: http://www.qtel.com.qa
 
 created:      1996-06-12
-changed:      2009-03-25
+changed:      2010-08-06
 source:       IANA
 
