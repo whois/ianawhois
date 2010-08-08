@@ -34,14 +34,13 @@ nserver:      B.NS.NIC.CZ 194.0.13.1 2001:678:10:0:0:0:0:1
 nserver:      C.NS.NIC.CZ 194.0.14.1 2001:678:11:0:0:0:0:1
 nserver:      D.NS.NIC.CZ 193.29.206.1 2001:678:1:0:0:0:0:1
 nserver:      F.NS.NIC.CZ 193.171.255.48 2001:628:453:420:0:0:0:48
-ds-rdata:     7978 5 1 9B6C3898470914CDDA98D0CC001688CB32C17A09
-ds-rdata:     9988 5 1 AA94DEC91A18ECAFB85797AEA1031703FC9A6E73
+ds-rdata:     14568 10 2 342afb8ba56277ec54f17ed007937f794b9f8257bf6cd544137b10df5d2910ef
 
 whois:        whois.nic.cz
 
 remarks:      Registration information: http://www.nic.cz/
 
 created:      1993-01-13
-changed:      2010-06-23
+changed:      2010-08-06
 source:       IANA
 
