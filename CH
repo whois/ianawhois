@@ -6,24 +6,24 @@ domain:       CH
 
 organisation: SWITCH The Swiss Education & Research Network
 address:      Werdstrasse 2
-address:      Zurich  CH-8004
+address:      Zurich  CH-8021
 address:      Switzerland
 
 contact:      administrative
-name:         Marcel Schneider
+name:         SWITCH TLD Administration
 organisation: SWITCH The Swiss Education & Research Network
 address:      Werdstrasse 2
-address:      Zurich  CH-8004
+address:      Zurich  CH-8021
 address:      Switzerland
-phone:        +41 44 253 98 07
+phone:        +41 44 268 15 30
 fax-no:       +41 44 268 15 68
-e-mail:       schneider@switch.ch
+e-mail:       tld-admin@switch.ch
 
 contact:      technical
-name:         Switch Network Operation Center CCTLD Manager
+name:         SWITCH Network Operation Center TLD Manager
 organisation: SWITCH The Swiss Education & Research Network
 address:      Werdstrasse 2
-address:      Zurich  CH-8004
+address:      Zurich  CH-8021
 address:      Switzerland
 phone:        +41 44 268 15 30
 fax-no:       +41 44 268 15 68
@@ -42,6 +42,6 @@ whois:        whois.nic.ch
 remarks:      Registration information: http://www.nic.ch/
 
 created:      1987-05-20
-changed:      2009-10-20
+changed:      2010-08-11
 source:       IANA
 
