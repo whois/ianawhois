@@ -33,17 +33,16 @@ fax-no:       +370 37300643
 e-mail:       hostmaster@litnet.lt
 
 nserver:      A.TLD.LT 193.219.32.13
+nserver:      B.TLD.LT 194.0.20.1 2001:678:19:0:0:0:0:1
 nserver:      C.TLD.LT 194.0.1.4
-nserver:      D.TLD.LT 194.0.3.1 2001:678:6::1
+nserver:      D.TLD.LT 194.0.3.1 2001:678:6:0:0:0:0:1
 nserver:      E.TLD.LT 195.182.72.234
-nserver:      NN.UNINETT.NO 158.38.0.181
-nserver:      SUNIC.SUNET.SE 192.36.125.2 2001:6b0:7:0:0:0:0:2
 
 whois:        whois.domreg.lt
 
 remarks:      Registration information: http://www.domreg.lt
 
 created:      1992-06-03
-changed:      2009-08-31
+changed:      2010-08-16
 source:       IANA
 
