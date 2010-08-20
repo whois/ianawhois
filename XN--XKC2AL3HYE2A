@@ -1,10 +1,46 @@
 % IANA WHOIS server
 % for more information on IANA, visit http://www.iana.org
-% This query returned 0 objects.
-%
-% You queried for XN--XKC2AL3HYE2A but this server does not have
-% any data for XN--XKC2AL3HYE2A.
-%
-% If you need further information please check the web site
-% or use -h for help
+% This query returned 1 object
+
+domain:       இலங்கை
+domain-ace:   XN--XKC2AL3HYE2A
+
+organisation: LK Domain Registry
+address:      c/o Computer Science and Engineering Department, University of Moratuwa
+address:      Moratuwa  10400
+address:      Sri Lanka
+
+contact:      administrative
+name:         Prof. Gihan Dias
+organisation: LK Domain Registry
+address:      c/o Computer Science and Engineering Department, University of Moratuwa
+address:      Moratuwa  10400
+address:      Sri Lanka
+phone:        +94 11 4216065
+fax-no:       +94 11 2650912
+e-mail:       gihan@cse.mrt.ac.lk
+
+contact:      technical
+name:         Hostmaster
+organisation: LK Domain Registry
+address:      c/o Computer Science and Engineering Department, University of Moratuwa
+address:      Moratuwa  10400
+address:      Sri Lanka
+phone:        +94 11 4216061
+fax-no:       +94 11 2650912
+e-mail:       hostmaster@nic.lk
+
+nserver:      LK.COMMUNITYDNS.NET 194.0.1.27
+nserver:      NIC.LK-ANYCAST.PCH.NET 204.61.216.27
+nserver:      NS-C.NIC.LK 203.143.19.3
+nserver:      NS-D.NIC.LK 123.231.6.18
+nserver:      NS-L.NIC.LK 192.248.8.17
+nserver:      NS-T.NIC.LK 203.94.66.129
+nserver:      NS1.AC.LK 192.248.1.162 2001:df0:17:1:0:0:0:162
+nserver:      NS3.AC.LK 202.124.166.178
+
+remarks:      Registration information: http://www.nic.lk
+
+created:      2010-08-19
+source:       IANA
 
