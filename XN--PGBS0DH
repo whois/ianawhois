@@ -1,10 +1,41 @@
 % IANA WHOIS server
 % for more information on IANA, visit http://www.iana.org
-% This query returned 0 objects.
-%
-% You queried for XN--PGBS0DH but this server does not have
-% any data for XN--PGBS0DH.
-%
-% If you need further information please check the web site
-% or use -h for help
+% This query returned 1 object
+
+domain:       تونس
+domain-ace:   XN--PGBS0DH
+
+organisation: Agence Tunisienne d'Internet
+address:      13, rue Jugurtha Mutuelle-ville
+address:      Tunis  1002
+address:      Tunisia
+
+contact:      administrative
+name:         Mr. Kamel Saadaoui - CEO
+organisation: Agence Tunisienne d'Internet
+address:      13, rue Jugurtha Mutuelle-ville
+address:      Tunis  1002
+address:      Tunisia
+phone:        +216 71 846 100
+fax-no:       +216 71 846 600
+e-mail:       pdg@ati.tn
+
+contact:      technical
+name:         Network Information Center - NIC
+organisation: Agence Tunisienne d'Internet
+address:      13, rue Jugurtha Mutuelle-ville
+address:      Tunis  1002
+address:      Tunisia
+phone:        +216 71 846 100
+fax-no:       +216 71 846 600
+e-mail:       nic@ati.tn
+
+nserver:      NS2.NIC.FR 192.93.0.4 2001:660:3005:1:0:0:1:2
+nserver:      NS8.ATI.TN 193.95.66.6 2001:4350:1:1:0:0:0:6
+nserver:      NS9.ATI.TN 193.95.67.26 2001:4350:2048:0:0:0:0:26
+
+remarks:      Registration information: http://www.ati.tn
+
+created:      2010-08-19
+source:       IANA
 
