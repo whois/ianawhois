@@ -1,0 +1,45 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       الاردن
+domain-ace:   XN--MGBAYH7GPA
+
+organisation: National Information Technology Center (NITC)
+address:      Al-Jubeiha
+address:      P.O.Box 259
+address:      Amman  11941
+address:      Jordan
+
+contact:      administrative
+name:         Nasser Khalaf, NITC Director General
+organisation: National Information Technology Center (NITC)
+address:      Al-Jubeiha
+address:      P.O.Box 259
+address:      Amman  11937
+address:      Jordan
+phone:        + 962 6 5300260
+fax-no:       + 962 6 5300265
+e-mail:       info@nitc.gov.jo
+
+contact:      technical
+name:         Fahd A. Batayneh, DNS/IDN Team
+organisation: National Information Technology Center (NITC)
+address:      Royal Scientific Society
+address:      Al-Jubeiha
+address:      P.O. Box 259
+address:      Amman  11937
+address:      Jordan
+phone:        + 962 6 5300222
+fax-no:       + 962 6 5300277
+e-mail:       fahd.b@nitc.gov.jo
+
+nserver:      AMRA.NIC.GOV.JO 193.188.66.103
+nserver:      NS-JO.RIPE.NET 193.0.12.112
+nserver:      PETRA.NIC.GOV.JO 193.188.66.2
+
+remarks:      Registration information: https://www.dns.jo/login.aspx
+
+created:      2010-08-20
+source:       IANA
+
