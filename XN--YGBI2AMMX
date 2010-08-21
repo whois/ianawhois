@@ -1,0 +1,46 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       فلسطين
+domain-ace:   XN--YGBI2AMMX
+
+organisation: Ministry of Telecom & Information Technology (MTIT)
+address:      Al-Irsal Street
+address:      Ramallah West Bank 674
+address:      Occupied Palestinian Territory
+
+contact:      administrative
+name:         PNINA Chairman
+organisation: Palestinian National Internet Naming Authority (PNINA)
+address:      Al-Amal Building
+address:      Al-Wehda Street
+address:      Gaza Gaza Strip
+address:      Occupied Palestinian Territory
+phone:        + 970 8 2861617
+fax-no:       + 970 8 2861618
+e-mail:       chairman@pnina.ps
+
+contact:      technical
+name:         Technical Contact
+organisation: Palestinian National Internet Naming Authority (PNINA)
+address:      Al-Amal Building
+address:      Al-Wehda Street
+address:      Gaza Gaza Strip
+address:      Occupied Palestinian Territory
+phone:        + 970 8 2861617
+fax-no:       + 970 8 2861617
+e-mail:       technical@pnina.ps
+
+nserver:      DNS1.GOV.PS 213.244.82.147
+nserver:      DNS3.GOV.PS 212.14.253.242
+nserver:      IDN.PNINA.PS 208.64.68.4
+nserver:      NS1.PNINA.PS 194.6.225.20
+
+whois:        whois.pnina.ps
+
+remarks:      Registration information: http://www.pnina.ps
+
+created:      2010-08-20
+source:       IANA
+
