@@ -34,6 +34,8 @@ for tld in $TLDS; do
     new=0
     if [ ! -e $tld ]; then # New Top Level Domain
 	touch $tld
+	# TODO: add a text to explain that, since IANA database is
+	# always *behind* the actual root, we may not have info. yet?
 	svn add $tld > $LOG 2>&1
 	new=1
     fi
