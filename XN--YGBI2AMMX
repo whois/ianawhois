@@ -17,8 +17,8 @@ address:      Al-Amal Building
 address:      Al-Wehda Street
 address:      Gaza Gaza Strip
 address:      Occupied Palestinian Territory
-phone:        + 970 8 2861617
-fax-no:       + 970 8 2861618
+phone:        +970 8 2861617
+fax-no:       +970 8 2861618
 e-mail:       chairman@pnina.ps
 
 contact:      technical
@@ -28,8 +28,8 @@ address:      Al-Amal Building
 address:      Al-Wehda Street
 address:      Gaza Gaza Strip
 address:      Occupied Palestinian Territory
-phone:        + 970 8 2861617
-fax-no:       + 970 8 2861617
+phone:        +970 8 2861617
+fax-no:       +970 8 2861617
 e-mail:       technical@pnina.ps
 
 nserver:      DNS1.GOV.PS 213.244.82.147
@@ -42,5 +42,6 @@ whois:        whois.pnina.ps
 remarks:      Registration information: http://www.pnina.ps
 
 created:      2010-08-20
+changed:      2010-08-24
 source:       IANA
 
