@@ -18,8 +18,8 @@ address:      Al-Jubeiha
 address:      P.O.Box 259
 address:      Amman  11937
 address:      Jordan
-phone:        + 962 6 5300260
-fax-no:       + 962 6 5300265
+phone:        +962 6 5300260
+fax-no:       +962 6 5300265
 e-mail:       info@nitc.gov.jo
 
 contact:      technical
@@ -30,8 +30,8 @@ address:      Al-Jubeiha
 address:      P.O. Box 259
 address:      Amman  11937
 address:      Jordan
-phone:        + 962 6 5300222
-fax-no:       + 962 6 5300277
+phone:        +962 6 5300222
+fax-no:       +962 6 5300277
 e-mail:       fahd.b@nitc.gov.jo
 
 nserver:      AMRA.NIC.GOV.JO 193.188.66.103
@@ -41,5 +41,6 @@ nserver:      PETRA.NIC.GOV.JO 193.188.66.2
 remarks:      Registration information: https://www.dns.jo/login.aspx
 
 created:      2010-08-20
+changed:      2010-08-24
 source:       IANA
 
