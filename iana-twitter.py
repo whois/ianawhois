@@ -10,7 +10,7 @@ import tweepy
 
 authfile = "/home/bortzmeyer/.twitter/auth-ianawhois"
 base_url = "http://www.iana.org/domains/root/db"
-vcs_url = "https://viewvc.generic-nic.net/viewvc.cgi/NIC-generique/iana/whois/%s?root=R%%26D&r1=%i&r2=%i"
+vcs_url = "Change: https://viewvc.generic-nic.net/viewvc.cgi/NIC-generique/iana/whois/%s?root=R%%26D&r1=%i&r2=%i"
 debug = False
 
 if len(sys.argv) != 3:
@@ -42,7 +42,7 @@ if string.split(msg)[0] == "update":
     revision1 = int(log[0]['revision'].number)
     revision2 = int(log[1]['revision'].number)
     url = (vcs_url % (btld, revision1, revision2)) + "\n" + \
-          ("%s/%s.html" % (base_url, ltld))
+          ("New stats: %s/%s.html" % (base_url, ltld))
 else:
     url = "%s/%s.html" % (base_url, ltld)
 if ltld[0:4] == "xn--":
