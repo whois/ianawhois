@@ -4,16 +4,14 @@
 
 domain:       NAME
 
-organisation: The Global Name Registry Ltd.
-address:      2nd Floor Water Front
-address:      Chancellors Road
-address:      Hammersmith Embankment
-address:      London  W6 9RU
-address:      United Kingdom
+organisation: VeriSign Information Services, Inc.
+address:      21345 Ridgetop Circle
+address:      Dulles Virginia 20166
+address:      United States
 
 contact:      administrative
 name:         Registry Customer Service
-organisation: The Global Name Registry Ltd.
+organisation: VeriSign Information Services, Inc.
 address:      21345 Ridgetop Circle
 address:      Dulles Virginia 20166
 address:      United States
@@ -23,7 +21,7 @@ e-mail:       info@verisign-grs.com
 
 contact:      technical
 name:         Registry Customer Service
-organisation: The Global Name Registry Ltd.
+organisation: VeriSign Information Services, Inc.
 address:      21345 Ridgetop Circle
 address:      Dulles Virginia 20166
 address:      United States
@@ -47,6 +45,6 @@ whois:        whois.nic.name
 remarks:      Registration information: http://www.name
 
 created:      2001-08-17
-changed:      2009-04-14
+changed:      2010-08-24
 source:       IANA
 
