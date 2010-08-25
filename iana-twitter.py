@@ -42,7 +42,7 @@ if string.split(msg)[0] == "update":
     revision1 = int(log[0]['revision'].number)
     revision2 = int(log[1]['revision'].number)
     url = (vcs_url % (btld, revision1, revision2)) + "\n" + \
-          ("New stats: %s/%s.html" % (base_url, ltld))
+          ("New state: %s/%s.html" % (base_url, ltld))
 else:
     url = "%s/%s.html" % (base_url, ltld)
 if ltld[0:4] == "xn--":
