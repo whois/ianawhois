@@ -32,13 +32,15 @@ fax-no:       +1 310 823-8649
 e-mail:       iana@iana.org
 
 nserver:      A.IANA-SERVERS.NET 192.0.34.43
-nserver:      B.IANA-SERVERS.NET 193.0.0.236
+nserver:      B.IANA-SERVERS.NET 193.0.0.236 2001:610:240:2:0:0:c100:ec
 nserver:      C.IANA-SERVERS.NET 139.91.1.10 2001:648:2c30:0:0:0:1:10
+ds-rdata:     9373 5 1 41DA40A2D18DD43F2C4551F86A803CC33A9E511E
+ds-rdata:     35626 5 2 4CFA6E6C228172C4781B75CA591B76A7A93F76954C7E1921B41088C839F28336
 
 remarks:      Registration information:
 remarks:      http://www.iana.org/domains/idn-test/
 
 created:      2007-10-19
-changed:      2009-10-12
+changed:      2010-08-26
 source:       IANA
 
