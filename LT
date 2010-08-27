@@ -32,7 +32,7 @@ phone:        +370 37 353325
 fax-no:       +370 37300643
 e-mail:       hostmaster@litnet.lt
 
-nserver:      A.TLD.LT 193.219.32.13
+nserver:      A.TLD.LT 195.8.218.131
 nserver:      B.TLD.LT 194.0.20.1 2001:678:19:0:0:0:0:1
 nserver:      C.TLD.LT 194.0.1.4
 nserver:      D.TLD.LT 194.0.3.1 2001:678:6:0:0:0:0:1
@@ -43,6 +43,6 @@ whois:        whois.domreg.lt
 remarks:      Registration information: http://www.domreg.lt
 
 created:      1992-06-03
-changed:      2010-08-16
+changed:      2010-08-26
 source:       IANA
 
