@@ -27,16 +27,15 @@ phone:        +353 1 676 3456
 fax-no:       +353 1 676 3555
 e-mail:       hostm-iana@connect.ie
 
-nserver:      AUTH01.CONNECT.IE 213.228.227.50
+nserver:      AUTH01.CONNECT.IE 87.198.184.50
 nserver:      AUTH02.NS.UU.NET 198.6.1.82
 nserver:      NS-TP.RIPE.NET 193.0.12.250 2001:610:240:0:53:cc:12:250
-nserver:      NS3.NS.ESAT.NET 192.111.39.100 2001:7c8:2:a:0:0:0:64
 nserver:      UUCP-GW-1.PA.DEC.COM 204.123.2.18
 nserver:      UUCP-GW-2.PA.DEC.COM 204.123.2.19
 
 remarks:      Registration information: http://www.nic.tp
 
 created:      1997-05-09
-changed:      2009-07-09
+changed:      2010-08-26
 source:       IANA
 
