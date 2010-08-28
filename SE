@@ -39,12 +39,14 @@ nserver:      G.NS.SE 130.239.5.114 2001:6b0:e:3:0:0:0:1
 nserver:      H.NS.SE 199.7.49.30
 nserver:      I.NS.SE 194.146.106.22
 nserver:      J.NS.SE 199.254.63.1 2001:500:2c:0:0:0:0:1
+ds-rdata:     8779 5 2 f2860d6d21f5b10cd4d0f9ef018812869c2addf4b1fa94f71ebee0ea7a3883a8
+ds-rdata:     39547 5 2 57d1927113224d7fbb9fc2f68394a717263ddae5f883ee461aaf8f4ed4f39e23
 
 whois:        whois.iis.se
 
 remarks:      Registration information: http://www.iis.se
 
 created:      1986-09-04
-changed:      2008-09-02
+changed:      2010-08-27
 source:       IANA
 
