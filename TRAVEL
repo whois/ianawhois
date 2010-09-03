@@ -21,18 +21,18 @@ fax-no:       +1-954-769-5930
 e-mail:       bhenderson@travel.travel
 
 contact:      technical
-name:         Director of IT&S IP Services
-organisation: NeuLevel, Inc.
-address:      45980 Center Oak Plaza
+name:         NeuStar Operations Center
+organisation: Neustar, Inc.
+address:      46000 Center Oak Plaza
 address:      Sterling Virginia 20166
 address:      United States
-phone:        +1-888-437-4328
-fax-no:       +1-571-434-5401
-e-mail:       nocteam@neulevel.biz
+phone:        +1 866 638 6622
+fax-no:       +1 571 434 5742
+e-mail:       nocteam@neustar.biz
 
-nserver:      TLD1.ULTRADNS.NET 2001:502:d399:0:0:0:0:1 204.74.112.1
-nserver:      TLD2.ULTRADNS.NET 204.74.113.1
-nserver:      TLD3.ULTRADNS.ORG 199.7.66.1
+nserver:      A.GTLD.TRAVEL 156.154.100.1 2001:502:ad09:0:0:0:0:1
+nserver:      B.GTLD.TRAVEL 156.154.101.1
+nserver:      C.GTLD.TRAVEL 156.154.102.1
 nserver:      TLD4.ULTRADNS.ORG 199.7.67.1 2001:502:100e:0:0:0:0:1
 nserver:      TLD5.ULTRADNS.INFO 192.100.59.11
 nserver:      TLD6.ULTRADNS.CO.UK 198.133.199.11
@@ -42,6 +42,6 @@ whois:        whois.nic.travel
 remarks:      Registration information: http://www.travel.travel/
 
 created:      2005-07-27
-changed:      2009-01-06
+changed:      2010-09-02
 source:       IANA
 
