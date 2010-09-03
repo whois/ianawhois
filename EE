@@ -30,18 +30,18 @@ fax-no:       +372 6999001
 e-mail:       jaak.lippmaa@nicpb.ee
 
 nserver:      NS.EENET.EE 193.40.56.245
-nserver:      NS.KBFI.EE 193.40.133.222
+nserver:      NS.TLD.EE 195.43.87.10
 nserver:      NS.UNINET.EE 194.204.0.1
 nserver:      NS.UT.EE 193.40.5.99
 nserver:      NS.UU.NET 137.39.1.3
+nserver:      NS2.ELION.EE 195.50.193.163
 nserver:      SUNIC.SUNET.SE 192.36.125.2 2001:6b0:7:0:0:0:0:2
 
-whois:        whois.eenet.ee
+whois:        whois.tld.ee
 
-remarks:      Registration information:
-remarks:      http://www.eenet.ee/services/subdomains.html
+remarks:      Registration information: http://www.eestiinternet.ee
 
 created:      1992-06-03
-changed:      2008-09-24
+changed:      2010-09-02
 source:       IANA
 
