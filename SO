@@ -18,14 +18,14 @@ fax-no:       +252 1 231 599
 e-mail:       minpostel_somalia@hotmail.com
 
 contact:      technical
-name:         SO-Tech Support
-organisation: International Telecommunication Union
-address:      Place des Nations
-address:      Geneva  1211
-address:      Switzerland
-phone:        +41 22 730 5554
-fax-no:       +41 22 730 5337
-e-mail:       so-tech@itu.int
+name:         Technical Administrator
+organisation: GMO Registry, Inc.
+address:      26-1 Sakuragaokacho
+address:      Tokyo  150-8512
+address:      Japan
+phone:        +81 3 5456 1601
+fax-no:       +81 3 3780 5239
+e-mail:       system@gmoregistry.com
 
 nserver:      A.NIC.SO 2001:470:1a:0:0:0:0:4 72.52.71.4
 nserver:      B.NIC.SO 38.103.2.4
@@ -36,6 +36,6 @@ whois:        whois.nic.so
 remarks:      Registration information: http://www.nic.so/
 
 created:      1997-08-28
-changed:      2010-08-06
+changed:      2010-09-03
 source:       IANA
 
