@@ -39,12 +39,14 @@ nserver:      M.NIC.EU 217.29.76.13
 nserver:      P.NIC.EU 195.47.235.130
 nserver:      X.NIC.EU 194.0.1.19
 nserver:      Y.NIC.EU 194.146.106.90 2001:67c:1010:23:0:0:0:53
+ds-rdata:     61179 7 1 87E2B3544884B45F36A0DA72DADCB0239C4D73D4
+ds-rdata:     61179 7 2 3B526BCC354AE085AD9984C9BE73D271411023EFF421EF184BCE41ACE3DE9F8B
 
 whois:        whois.eu
 
 remarks:      Registration information: http://www.eurid.eu
 
 created:      2005-04-28
-changed:      2010-08-20
+changed:      2010-09-07
 source:       IANA
 
