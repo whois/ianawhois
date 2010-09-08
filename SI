@@ -29,20 +29,19 @@ phone:        +386 1 4798800
 fax-no:       +386 1 4798899
 e-mail:       jauk@arnes.si
 
-nserver:      NS-EXT.VIX.COM 204.152.184.64
-nserver:      NS1.ARNES.SI 193.2.1.86
-nserver:      NS2.ARNES.SI 193.2.1.91
+nserver:      NS2.ARNES.SI 193.2.1.91 2001:1470:8000:0:0:0:0:91
 nserver:      NS3.ARNES.EU 192.93.0.4 2001:660:3005:1:0:0:1:2
 nserver:      NS4.ARNES.EU 130.59.1.30 130.59.10.30 2001:620:0:0:0:0:0:1
-nserver:      NS7.ARNES.EU 194.146.106.62
+nserver:      NS7.ARNES.EU 194.146.106.62 2001:67c:1010:15:0:0:0:53
 nserver:      NS8.ARNES.SI 194.0.1.20 2001:678:4:0:0:0:0:14
+nserver:      NS9.ARNES.SI 2001:500:14:6054:ad:0:0:1 204.61.216.54
 nserver:      SSS.ARNES.SI 81.91.161.101
 
 whois:        whois.arnes.si
 
-remarks:      Registration information: http://www.arnes.si/si-domene/
+remarks:      Registration information: http://www.registry.si/
 
 created:      1992-04-01
-changed:      2009-09-22
+changed:      2010-09-07
 source:       IANA
 
