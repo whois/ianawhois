@@ -4,24 +4,24 @@
 
 domain:       NU
 
-organisation: Internet Users Society - Niue
+organisation: The IUSN Foundation
 address:      P.O. Box 91
-address:      Alofi
+address:      Alofi  1010
 address:      Niue
 
 contact:      administrative
-name:         Stafford Guest
-organisation: Internet Users Society - Niue
+name:         NU Administrative Contact
+organisation: The IUSN Foundation
 address:      P.O. Box 91
-address:      Alofi
+address:      Alofi  1010
 address:      Niue
 phone:        +683 4235
 fax-no:       +683 4237
 e-mail:       hostmaster@mail.nic.nu
 
 contact:      technical
-name:         J. William Semich
-organisation: .NU Domain Ltd/IUS-N
+name:         NU Technical Contact
+organisation: WorldNames, Inc/IUSN
 address:      266 Main St.
 address:      Suite 31
 address:      Medfield Massachusetts 02052
@@ -45,6 +45,6 @@ whois:        whois.nic.nu
 remarks:      Registration information: http://www.nunames.nu/
 
 created:      1997-06-20
-changed:      2009-04-17
+changed:      2010-09-09
 source:       IANA
 
