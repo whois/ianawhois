@@ -4,22 +4,22 @@
 
 domain:       CC
 
-organisation: eNIC Cocos (Keeling) Islands Ltd.
-organisation: Pty, d/b/a Island Internet Services
-address:      Lvl 5/6-10 O'Connell St.
-address:      Sydney New South Wales 2000
+organisation: eNIC Cocos (Keeling) Islands Pty.
+organisation: Ltd. d/b/a Island Internet Services
+address:      134 Moray Street
+address:      South Melbourne Victoria 3205
 address:      Australia
 
 contact:      administrative
-name:         Managing Director
-organisation: eNIC Cocos (Keeling) Islands Ltd.
-organisation: Pty., d/b/a Island Internet Services
-address:      Lvl 5/6-10 O'Connell St.
-address:      Sydney New South Wales 2000
+name:         Mario West, Managing Director
+organisation: eNIC Cocos (Keeling) Islands Pty.
+organisation: Ltd. d/b/a Island Internet Services
+address:      134 Moray Street
+address:      South Melbourne Victoria 3205
 address:      Australia
-phone:        +61 2 9236 0509
-fax-no:       +61 2 9236 0532
-e-mail:       info@verisign-grs.com
+phone:        +613 9926 6700
+fax-no:       +613 9926 6788
+e-mail:       cc-administration@verisign.com
 
 contact:      technical
 name:         Registry Customer Service
@@ -44,6 +44,6 @@ whois:        ccwhois.verisign-grs.com
 remarks:      Registration information: http://www.nic.cc/
 
 created:      1997-10-13
-changed:      2007-12-04
+changed:      2010-09-14
 source:       IANA
 
