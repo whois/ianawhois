@@ -34,7 +34,7 @@ e-mail:       tech-admin@jprs.jp
 
 nserver:      A.DNS.JP 2001:dc4:0:0:0:0:0:1 203.119.1.1
 nserver:      B.DNS.JP 2001:dc2:0:0:0:0:0:1 202.12.30.131
-nserver:      C.DNS.JP 2001:502:d399:0:0:0:0:245 204.74.112.245
+nserver:      C.DNS.JP 156.154.100.5 2001:502:ad09:0:0:0:0:5
 nserver:      D.DNS.JP 2001:240:0:0:0:0:0:53 210.138.175.244
 nserver:      E.DNS.JP 192.50.43.53 2001:200:c000:0:0:0:0:35
 nserver:      F.DNS.JP 150.100.2.3 2001:2f8:0:100:0:0:0:153
@@ -45,6 +45,6 @@ whois:        whois.jprs.jp
 remarks:      Registration information: http://jprs.jp/
 
 created:      1986-08-05
-changed:      2008-11-17
+changed:      2010-09-16
 source:       IANA
 
