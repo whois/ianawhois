@@ -32,7 +32,7 @@ e-mail:       sia@nest.org
 
 nserver:      CD1.NS.UA 194.0.1.9 2001:678:4:0:0:0:0:9
 nserver:      HE1.NS.UA 216.218.215.27
-nserver:      HO1.NS.UA 195.47.253.1
+nserver:      HO1.NS.UA 195.47.253.1 2001:67c:258::1
 nserver:      NS-UA.RIPE.NET 193.0.12.232 2001:610:240:0:53:cc:12:232
 nserver:      PCH.NS.UA 2001:500:14:6012:ad:0:0:1 204.61.216.12
 nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e:0:0:0:0:1
@@ -44,6 +44,6 @@ whois:        whois.ua
 remarks:      Registration information: http://nic.net.ua/
 
 created:      1992-12-01
-changed:      2010-01-21
+changed:      2010-09-22
 source:       IANA
 
