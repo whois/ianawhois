@@ -5,17 +5,17 @@
 domain:       TH
 
 organisation: Thai Network Information Center Foundation
-address:      159, Thanon Phichai,
-address:      Khwaeng Thanon Nakhon Chaisi
-address:      Khet Dusit, Bangkok  10300
+address:      159 Thanon Phichai
+address:      Khwaeng Thanon Nakhon Chaisi, Khet Dusit
+address:      Bangkok  10300
 address:      Thailand
 
 contact:      administrative
 name:         Kanchana Kanchanasut
 organisation: Thai Network Information Center Foundation
-address:      159, Thanon Phichai,
-address:      Khwaeng Thanon Nakhon Chaisi
-address:      Khet Dusit, Bangkok  10300
+address:      159 Thanon Phichai
+address:      Khwaeng Thanon Nakhon Chaisi, Khet Dusit
+address:      Bangkok  10300
 address:      Thailand
 phone:        +66-2-244-8261
 fax-no:       +66-2-244-8264
@@ -24,12 +24,12 @@ e-mail:       kk@cs.ait.ac.th
 contact:      technical
 name:         Pensri Arunwatanamongkol
 organisation: Thai Network Information Center Foundation
-address:      159, Thanon Phichai,
-address:      Khwaeng Thanon Nakhon Chaisi
-address:      Khet Dusit, Bangkok  10300
+address:      159 Thanon Phichai
+address:      Khwaeng Thanon Nakhon Chaisi, Khet Dusit
+address:      Bangkok  10300
 address:      Thailand
-phone:        +66-2-564-8040
-fax-no:       +66-2-564-8039
+phone:        +66 2 564 8039
+fax-no:       +66 2 564 8040
 e-mail:       pensri@thnic.or.th
 
 nserver:      AMS.SNS-PB.ISC.ORG 199.6.1.30
@@ -44,6 +44,6 @@ whois:        whois.thnic.co.th
 remarks:      Registration information: http://www.thnic.co.th
 
 created:      1988-09-07
-changed:      2009-03-27
+changed:      2010-09-23
 source:       IANA
 
