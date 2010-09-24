@@ -32,12 +32,13 @@ nserver:      GOLOMB.NIC.PR 134.202.6.100
 nserver:      PASCAL.NIC.PR 134.202.0.120
 nserver:      PR-DNS.DENIC.DE 81.91.161.82
 nserver:      PR-NS.ANYCAST.PCH.NET 204.61.216.23
+ds-rdata:     33253 5 1 6119CAE74A6EC411FE0B3260FC5C20ABD68A485A
 
 whois:        whois.nic.pr
 
 remarks:      Registration information: http://www.nic.pr
 
 created:      1989-08-27
-changed:      2008-06-06
+changed:      2010-09-23
 source:       IANA
 
