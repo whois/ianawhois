@@ -44,6 +44,13 @@ for tld in $TLDS; do
         sendemail.py -t $MAINTAINER -f $MAINTAINER -s "Cannot retrieve IANA whois" < $LOG
 	exit 1
     fi
+    if [ -z "`cat $tld`" ]; then 
+	# Disk full or some other problem
+	svn revert $tld >> $LOG 2>&1 
+	sendemail.py -t $MAINTAINER -f $MAINTAINER -s "Cannot retrieve or store IANA whois: empty file" < $LOG
+	sleep 300
+	continue
+    fi
     if [ $new == 0 ]; then
 	svn diff $tld > $DIFF 2>&1
 	if [ -s $DIFF ]; then
