@@ -30,7 +30,7 @@ phone:        +43 1 4277 14035
 fax-no:       +43 1 4277 9140
 e-mail:       tech-nic-at@nic.at
 
-nserver:      D.NIC.AT 81.91.161.98
+nserver:      D.NIC.AT 2a02:568:20:1:0:0:0:d 81.91.161.98
 nserver:      J.NIC.AT 194.146.106.50 2001:67c:1010:12:0:0:0:53
 nserver:      N.NIC.AT 87.233.175.130
 nserver:      NS-UK.NIC.AT 195.66.241.82
@@ -43,6 +43,6 @@ whois:        whois.nic.at
 remarks:      Registration information: http://www.nic.at/
 
 created:      1988-01-20
-changed:      2010-08-06
+changed:      2010-09-27
 source:       IANA
 
