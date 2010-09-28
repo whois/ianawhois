@@ -39,12 +39,13 @@ nserver:      D.NIC.FR 194.0.9.1 2001:678:c:1:0:0:0:1
 nserver:      E.EXT.NIC.FR 193.176.144.6 2a00:d78:0:102:193:176:144:6
 nserver:      F.EXT.NIC.FR 194.146.106.46
 nserver:      G.EXT.NIC.FR 2001:500:14:6039:ad:0:0:1 204.61.216.39
+ds-rdata:     45706 8 2 fb2bb4925ba253fc13cfb1e341db0dfd8541fe27b4c6373d7d180aec19bc1471
 
 whois:        whois.nic.re
 
 remarks:      Registration information: http://www.nic.re/
 
 created:      1997-04-07
-changed:      2010-05-07
+changed:      2010-09-27
 source:       IANA
 
