@@ -33,15 +33,15 @@ e-mail:       nocteam@neustar.biz
 nserver:      A.GTLD.TRAVEL 156.154.100.1 2001:502:ad09:0:0:0:0:1
 nserver:      B.GTLD.TRAVEL 156.154.101.1
 nserver:      C.GTLD.TRAVEL 156.154.102.1
-nserver:      TLD4.ULTRADNS.ORG 199.7.67.1 2001:502:100e:0:0:0:0:1
-nserver:      TLD5.ULTRADNS.INFO 192.100.59.11
-nserver:      TLD6.ULTRADNS.CO.UK 198.133.199.11
+nserver:      D.GTLD.TRAVEL 156.154.103.1 2001:502:2eda:0:0:0:0:1
+nserver:      E.GTLD.TRAVEL 156.154.104.1
+nserver:      F.GTLD.TRAVEL 156.154.105.1
 
 whois:        whois.nic.travel
 
 remarks:      Registration information: http://www.travel.travel/
 
 created:      2005-07-27
-changed:      2010-09-02
+changed:      2010-09-27
 source:       IANA
 
