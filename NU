@@ -39,12 +39,13 @@ nserver:      NS2.NUS.NIC.NU 156.154.102.13
 nserver:      NS3.NUS.NIC.NU 156.154.103.13
 nserver:      NS4.NUS.NIC.NU 156.154.104.13
 nserver:      NS5.NUS.NIC.NU 156.154.105.13
+ds-rdata:     13925 7 1 1C407A48DA11EA76F04E95FC518C1010B2C92BD1
 
 whois:        whois.nic.nu
 
 remarks:      Registration information: http://www.nunames.nu/
 
 created:      1997-06-20
-changed:      2010-09-09
+changed:      2010-09-29
 source:       IANA
 
