@@ -55,7 +55,7 @@ if string.split(msg)[0] == "update":
     urls = "Changes: %s New states: %s" % \
         (actual_vcs_url_short, actual_iana_url_short)
 else:
-    urls = "%s/%s.html" % (base_url, ltld)
+    urls = "%s/%s.html" % (iana_base_url, ltld)
     # No need to shorten it
 if ltld[0:4] == "xn--":
     utld = encodings.idna.ToUnicode(ltld)
