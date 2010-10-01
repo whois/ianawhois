@@ -30,7 +30,7 @@ fax-no:       +49 69 27235 234
 e-mail:       dbs@denic.de
 
 nserver:      A.NIC.DE 194.0.0.53 2001:678:2:0:0:0:0:53
-nserver:      F.NIC.DE 2001:608:6:6:0:0:0:10 81.91.164.5
+nserver:      F.NIC.DE 2a02:568:0:2:0:0:0:53 81.91.164.5
 nserver:      L.DE.NET 2001:668:1f:11:0:0:0:105 77.67.63.105
 nserver:      S.DE.NET 195.243.137.26
 nserver:      Z.NIC.DE 194.246.96.1
@@ -40,6 +40,6 @@ whois:        whois.denic.de
 remarks:      Registration information: http://www.denic.de/
 
 created:      1986-11-05
-changed:      2010-06-01
+changed:      2010-09-30
 source:       IANA
 
