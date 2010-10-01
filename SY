@@ -12,7 +12,7 @@ address:      Syrian Arab Republic
 
 contact:      administrative
 name:         syTLD Administrator - Rouda AlAmir Ali
-organisation: STE- Directorate of Data Communications
+organisation: Syrian Telecommunications
 address:      Baghdad Street
 address:      Damascus  34217
 address:      Syrian Arab Republic
@@ -22,7 +22,7 @@ e-mail:       sytld-admin@net.sy
 
 contact:      technical
 name:         syTLD Technical - Manal Saleh
-organisation: STE- Directorate of Data Communications
+organisation: Syrian Telecommunications
 address:      AlThawra Street
 address:      Damascus  34217
 address:      Syrian Arab Republic
@@ -30,16 +30,17 @@ phone:        +963 11 2324375
 fax-no:       +963 11 2324820
 e-mail:       sytld-tech@net.sy
 
-nserver:      CASTOR.TELEGLOBE.NET 199.202.55.2
 nserver:      DNS1.NET.SY 66.198.41.9
 nserver:      DNS2.NET.SY 66.198.41.14
+nserver:      NS-SY.RIPE.NET 193.0.12.215
 nserver:      NS1.PDN.SY 82.137.192.141
+nserver:      NS1.TLD.SY 82.137.200.85
 nserver:      NS2.PDN.SY 82.137.192.142
-nserver:      POLLUX.TELEGLOBE.NET 199.202.55.10
+nserver:      NS2.TLD.SY 82.137.192.145
 
 remarks:      Registration information: http://www.ste.gov.sy
 
 created:      1996-02-20
-changed:      2007-12-19
+changed:      2010-09-30
 source:       IANA
 
