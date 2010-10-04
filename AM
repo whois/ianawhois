@@ -5,18 +5,17 @@
 domain:       AM
 
 organisation: Internet Society
-address:      Marshal Bagramian Avenue 40
-address:      Yerevan  375019
-address:      Armenia
+address:      Nikol Duman 62/1 N1
+address:      Yerevan  0028
+address:      AM
 
 contact:      administrative
 name:         Dr. Igor Mkrtumyan
 organisation: Internet Society
-address:      Marshal Bagramian Avenue 40
-address:      Yerevan  375019
-address:      Armenia
-phone:        +374 10 512653
-fax-no:       +374 10 512512
+address:      1/3 P.Byuzand
+address:      Yerevan  0010
+address:      AM
+phone:        +374 91 415539
 e-mail:       imkrtumyan@amnic.net
 
 contact:      technical
@@ -24,26 +23,23 @@ name:         Hrant Dadivanyan
 organisation: Arminco Limited
 address:      Isaakian Street 28
 address:      3rd Floor
-address:      Yerevan  375009
-address:      Armenia
+address:      Yerevan  0009
+address:      AM
 phone:        +374 91 420214
 fax-no:       +374 10 544590
 e-mail:       ran@psg.com
 
-nserver:      NS-AM.RIPE.NET 193.0.12.12 2001:610:240:0:53:cc:12:12
+nserver:      FORK.STH.DNSNODE.NET 77.72.229.254
 nserver:      NS-CDN.AMNIC.NET 194.0.1.26 2001:678:4:0:0:0:0:1a
-nserver:      NS.AMNIC.NET 195.250.64.90 2001:4d00:0:0:0:0:0:90
+nserver:      NS-PRI.AMNIC.NET 195.43.74.90 2001:67c:21c:10::90
 nserver:      RIP.PSG.COM 147.28.0.39 2001:418:1:0:0:0:0:39
-nserver:      SEC1.APNIC.NET 2001:dc0:2001:a:4608::59 202.12.29.59
-nserver:      SEC3.APNIC.NET 2001:dc0:1:0:4777:0:0:140 202.12.28.140
 nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e:0:0:0:0:1
-nserver:      SUNIC.SUNET.SE 192.36.125.2 2001:6b0:7:0:0:0:0:2
 
 whois:        whois.amnic.net
 
 remarks:      Registration information: http://www.amnic.net
 
 created:      1994-08-26
-changed:      2009-12-16
+changed:      2010-10-04
 source:       IANA
 
