@@ -11,8 +11,8 @@ address:      Damascus  34217
 address:      Syrian Arab Republic
 
 contact:      administrative
-name:         STE- Directorate of Data - Rouda AlAmir Ali
-organisation: Syrian Telecommunications
+name:         Rouda AlAmir Ali, STE - Directorate of Data
+organisation: Syrian Telecommunications Establishment (STE)
 address:      Baghdad Street
 address:      Damascus  34217
 address:      Syrian Arab Republic
@@ -21,8 +21,8 @@ fax-no:       +963 11 4465833
 e-mail:       sytld-admin@net.sy
 
 contact:      technical
-name:         STE- Directorate of Data - Manal Saleh
-organisation: Syrian Telecommunications
+name:         Manal Saleh, STE - Directorate of Data
+organisation: Syrian Telecommunications Establishment (STE)
 address:      AlThawra Street
 address:      Damascus  34217
 address:      Syrian Arab Republic
@@ -36,9 +36,9 @@ nserver:      NS-SY.RIPE.NET 193.0.12.215
 nserver:      NS1.TLD.SY 82.137.200.85
 nserver:      NS2.TLD.SY 82.137.192.145
 
-remarks:      Registration information: http://www.ste.gov.sy
+remarks:      Registration information: https://reg.tld.sy
 
 created:      1996-02-20
-changed:      2010-10-01
+changed:      2010-10-04
 source:       IANA
 
