@@ -30,7 +30,6 @@ fax-no:       +48 22 380 8201
 e-mail:       pl-tech@dns.pl
 
 nserver:      A-DNS.PL 195.187.245.44
-nserver:      B-DNS.PL 80.50.50.10
 nserver:      C-DNS.PL 195.47.235.226
 nserver:      D-DNS.PL 213.172.174.70
 nserver:      E-DNS.PL 195.80.237.162
@@ -44,6 +43,6 @@ whois:        whois.dns.pl
 remarks:      Registration information: http://www.dns.pl/english/
 
 created:      1990-07-30
-changed:      2009-11-23
+changed:      2010-10-04
 source:       IANA
 
