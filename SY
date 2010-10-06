@@ -30,8 +30,6 @@ phone:        +963 11 2324375
 fax-no:       +963 11 2324820
 e-mail:       sytld-tech@net.sy
 
-nserver:      DNS1.NET.SY 66.198.41.9
-nserver:      DNS2.NET.SY 66.198.41.14
 nserver:      NS-SY.RIPE.NET 193.0.12.215
 nserver:      NS1.TLD.SY 82.137.200.85
 nserver:      NS2.TLD.SY 82.137.192.145
@@ -39,6 +37,6 @@ nserver:      NS2.TLD.SY 82.137.192.145
 remarks:      Registration information: https://reg.tld.sy
 
 created:      1996-02-20
-changed:      2010-10-04
+changed:      2010-10-05
 source:       IANA
 
