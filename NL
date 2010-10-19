@@ -29,7 +29,7 @@ phone:        +31 26 3525599
 fax-no:       +31 26 3525550
 e-mail:       tech@sidn.nl
 
-nserver:      NL1.DNSNODE.NET 194.146.106.42
+nserver:      NL1.DNSNODE.NET 194.146.106.42 2001:67c:1010:10::53
 nserver:      NS-NL.NIC.FR 192.93.0.4 2001:660:3005:1:0:0:1:2
 nserver:      NS1.NIC.NL 193.176.144.2 2a00:d78:0:102:193:176:144:2
 nserver:      NS2.NIC.NL 2001:7b8:606:0:0:0:0:28 213.154.241.28
@@ -42,6 +42,6 @@ whois:        whois.domain-registry.nl
 remarks:      Registration information: http://www.domain-registry.nl/
 
 created:      1986-04-25
-changed:      2010-03-09
+changed:      2010-10-18
 source:       IANA
 
