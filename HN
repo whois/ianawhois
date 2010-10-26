@@ -38,12 +38,16 @@ nserver:      B0.CCTLD.AFILIAS-NST.ORG 199.254.60.1 2001:500:26:0:0:0:0:1
 nserver:      B2.CCTLD.AFILIAS-NST.ORG 199.249.124.1 2001:500:4c:0:0:0:0:1
 nserver:      C0.CCTLD.AFILIAS-NST.INFO 199.254.61.1 2001:500:27:0:0:0:0:1
 nserver:      D0.CCTLD.AFILIAS-NST.ORG 199.254.62.1 2001:500:28:0:0:0:0:1
+nserver:      TLD1.RDS.ORG.HN 200.107.121.97
+nserver:      TLD2.RDS.ORG.HN 200.107.121.98
+ds-rdata:     55831 7 1 dae1ea20f52187fde18dc294baf08d36f57420b2
+ds-rdata:     55831 7 2 2cf61f8351db41c190c8e58364b786eef0201d89f709f997541bc3c7668d76ea
 
 whois:        whois2.afilias-grs.net
 
 remarks:      Registration information: http://www.nic.hn
 
 created:      1993-04-16
-changed:      2010-01-27
+changed:      2010-10-25
 source:       IANA
 
