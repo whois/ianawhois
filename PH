@@ -11,7 +11,7 @@ address:      Pasig Metro Manila 1600
 address:      Philippines
 
 contact:      administrative
-name:         Jose Emmanuel Disini
+name:         DOTPH Administrative Contact
 organisation: DotPH
 address:      27/F Jollibee Plaza
 address:      Emerald Ave. Ortigas Center
@@ -19,10 +19,10 @@ address:      Pasig Metro Manila 1600
 address:      Philippines
 phone:        +63 (2) 631 2909
 fax-no:       +63 (2) 632 7319
-e-mail:       jed@dot.ph
+e-mail:       admin@dot.ph
 
 contact:      technical
-name:         Ian Sison
+name:         DOTPH Technical Contact
 organisation: DotPH
 address:      27/F Jollibee Plaza
 address:      Emerald Ave. Ortigas Center
@@ -30,7 +30,7 @@ address:      Pasig Metro Manila 1600
 address:      Philippines
 phone:        +63 (2) 637 2104
 fax-no:       +63 (2) 632 7319
-e-mail:       ians@qsr.com.ph
+e-mail:       sysadmin@dot.ph
 
 nserver:      NS-PH.RIPE.NET 193.0.12.174 2001:610:240:0:53:cc:12:174
 nserver:      NS1.DOMAINS.PH 203.119.6.78
@@ -42,6 +42,6 @@ nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e:0:0:0:0:1
 remarks:      Registration information: http://dot.ph
 
 created:      1990-09-14
-changed:      2010-08-12
+changed:      2010-10-26
 source:       IANA
 
