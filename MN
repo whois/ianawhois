@@ -39,7 +39,7 @@ nserver:      B2.CCTLD.AFILIAS-NST.ORG 199.249.124.1 2001:500:4c:0:0:0:0:1
 nserver:      C0.CCTLD.AFILIAS-NST.INFO 199.254.61.1 2001:500:27:0:0:0:0:1
 nserver:      D0.CCTLD.AFILIAS-NST.ORG 199.254.62.1 2001:500:28:0:0:0:0:1
 nserver:      NS1.MAGIC.MN 202.131.0.10
-nserver:      NS2.MAGIC.MN 202.131.0.11
+nserver:      NS2.MAGIC.MN 202.72.241.5
 nserver:      NS3.MAGIC.MN 202.131.224.80
 nserver:      NS4.MAGIC.MN 202.55.176.12
 
@@ -48,6 +48,6 @@ whois:        whois.nic.mn
 remarks:      Registration information: http://www.nic.mn
 
 created:      1995-03-02
-changed:      2008-12-15
+changed:      2010-10-26
 source:       IANA
 
