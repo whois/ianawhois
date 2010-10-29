@@ -38,17 +38,16 @@ e-mail:       dnsadmin@domainregistry.my
 nserver:      DNS.MYNIC.NET.MY 192.228.180.5 2001:328:1000:3:0:0:0:5
 nserver:      DNS2.MYNIC.NET.MY 202.75.39.36 2401:b000:0:0:0:0:0:36
 nserver:      NS-MY.NIC.FR 192.134.0.49 2001:660:3006:1:0:0:1:1
-nserver:      NS.UU.NET 137.39.1.3
 nserver:      NS2.CUHK.EDU.HK 137.189.6.21 2405:3000:3:60:0:0:0:21
 nserver:      NS20.IIJ.AD.JP 202.232.2.161
 nserver:      NS5.JARING.MY 2001:328:200:48:0:0:0:400 61.6.38.139
-nserver:      NS6.JARING.MY 192.228.128.16
+nserver:      NS6.JARING.MY 192.228.128.16 2001:328:200:ab:0:0:0:600
 
 whois:        whois.domainregistry.my
 
 remarks:      Registration information: http://www.domainregistry.my
 
 created:      1987-06-08
-changed:      2010-06-24
+changed:      2010-10-28
 source:       IANA
 
