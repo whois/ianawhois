@@ -34,7 +34,7 @@ nserver:      NS-NL.NIC.FR 192.93.0.4 2001:660:3005:1:0:0:1:2
 nserver:      NS1.NIC.NL 193.176.144.2 2a00:d78:0:102:193:176:144:2
 nserver:      NS2.NIC.NL 2001:7b8:606:0:0:0:0:28 213.154.241.28
 nserver:      NS3.NIC.NL 194.171.17.2 2001:610:0:800d:0:0:0:2
-nserver:      NS4.NIC.NL 62.4.86.232
+nserver:      NS4.NIC.NL 2a00:1188:5:0:0:0:0:212 95.142.99.212
 nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e:0:0:0:0:1
 
 whois:        whois.domain-registry.nl
@@ -42,6 +42,6 @@ whois:        whois.domain-registry.nl
 remarks:      Registration information: http://www.domain-registry.nl/
 
 created:      1986-04-25
-changed:      2010-10-18
+changed:      2010-10-29
 source:       IANA
 
