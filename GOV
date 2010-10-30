@@ -41,12 +41,14 @@ nserver:      D.USADOTGOV.NET 204.168.112.71
 nserver:      E.USADOTGOV.NET 213.165.80.240
 nserver:      F.USADOTGOV.NET 66.207.175.172
 nserver:      G.USADOTGOV.NET 64.62.200.134
+ds-rdata:     26079 7 1 7096CE8097F65F5E93A184AA0C711BBC23FD516E
+ds-rdata:     26079 7 2 4ED5FFBC8A40262B56E1232135B929192804ACC006930D087AAB38A611C89041
 
 whois:        whois.dotgov.gov
 
 remarks:      Registration information: http://www.dotgov.gov
 
 created:      1985-01-01
-changed:      2009-11-04
+changed:      2010-10-29
 source:       IANA
 
