@@ -4,43 +4,42 @@
 
 domain:       JO
 
-organisation: National Information Technology Centre
-address:      Al-Jubiaha
+organisation: National Information Technology Center (NITC)
+address:      Al-Jubeiha
 address:      P.O. Box 259
 address:      Amman  11941
 address:      Jordan
 
 contact:      administrative
-name:         Director General
-organisation: National Information Technology Centre
-address:      Al-Jubiaha
+name:         Nabeel Al-Fayoumi, NITC Director General
+organisation: National Information Technology Center (NITC)
+address:      Al-Jubeiha
 address:      P.O. Box 259
-address:      Amman  11941
+address:      Amman  11937
 address:      Jordan
-phone:        +962 6 5300222
-fax-no:       +962 6 5300277
-e-mail:       dg@nitc.gov.jo
+phone:        +962 6 5300260
+fax-no:       +962 6 5300265
+e-mail:       nabeel.fayoumi@nitc.gov.jo
 
 contact:      technical
-name:         DNS Administrator
-organisation: National Information Technology Centre
-address:      Al-Jubiaha
+name:         Internet Management and Domain Names Division
+organisation: National Information Technology Center (NITC)
+address:      Royal Scientific Society, Al-Jubeiha
 address:      P.O. Box 259
-address:      Amman  11941
+address:      Amman  11937
 address:      Jordan
 phone:        +962 6 5300222
 fax-no:       +962 6 5300277
 e-mail:       dns@nitc.gov.jo
 
 nserver:      AMRA.NIC.GOV.JO 193.188.66.103
-nserver:      DNS.ER.USGS.GOV 137.227.240.32
-nserver:      DNS.WR.USGS.GOV 137.227.232.9
-nserver:      NS-JO.RIPE.NET 193.0.12.112
+nserver:      NS-JO.RIPE.NET 193.0.12.112 2001:610:240:0:53:cc:12:112
 nserver:      PETRA.NIC.GOV.JO 193.188.66.2
+nserver:      RIP.PSG.COM 147.28.0.39 2001:418:1:0:0:0:0:39
 
 remarks:      Registration information: https://www.dns.jo/login.aspx
 
 created:      1994-11-23
-changed:      2010-01-04
+changed:      2010-11-08
 source:       IANA
 
