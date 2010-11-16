@@ -4,38 +4,36 @@
 
 domain:       QA
 
-organisation: Qatar Telecom (Q-Tel) Q.S.C.
-address:      P.O. Box 217
-address:      Doha
+organisation: The Supreme Council of Information and Communication Technology (ictQATAR)
+address:      Al Nasr Tower B., 18th Floor, Corniche Road
+address:      Doha  23264
 address:      Qatar
 
 contact:      administrative
-name:         Manager, Internet Services
-organisation: Qatar Telecom (Q-Tel) Q.S.C.
-address:      P.O. Box 217
-address:      Doha
+name:         Saleh Al-Kuwari
+organisation: The Supreme Council of Information and Communication Technology (ictQATAR)
+address:      Al Nasr Tower B., 18th Floor, Corniche Road
+address:      Doha  23264
 address:      Qatar
-phone:        +974 4440 0598
-fax-no:       +974 4432 0176
-e-mail:       qa-tld-admin@qatar.net.qa
+phone:        +9744995344
+e-mail:       salkuwari@ict.gov.qa
 
 contact:      technical
-name:         DNS Administrator, Internet Services
-organisation: Qatar Telecom (Q-Tel) Q.S.C.
-address:      P.O. Box 217
-address:      Doha
+name:         Mohamed El Bashir
+organisation: The Supreme Council of Information and Communication Technology (ictQATAR)
+address:      Al Nasr Tower B., 18th Floor, Corniche Road
+address:      Doha  23264
 address:      Qatar
-phone:        +974 4440 0280
-fax-no:       +974 4432 0176
-e-mail:       qa-tld-tec@qatar.net.qa
+phone:        +9744995427
+e-mail:       mbashir@ict.gov.qa
 
 nserver:      NS1.QATAR.NET.QA 212.77.192.10
 nserver:      NS2.QATAR.NET.QA 212.77.192.13
 nserver:      NS3.QATAR.NET.QA 212.77.192.15
 
-remarks:      Registration information: http://www.qtel.com.qa
+remarks:      Registration information: http://www.ictqatar.qa
 
 created:      1996-06-12
-changed:      2010-08-06
+changed:      2010-11-15
 source:       IANA
 
