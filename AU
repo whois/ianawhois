@@ -20,14 +20,14 @@ fax-no:       + 61 03 8341 4112
 e-mail:       ceo@auda.org.au
 
 contact:      technical
-name:         Chris Disspain, CEO
+name:         Adam King, Technical Officer
 organisation: .au Domain Administration (auDA)
 address:      114 Cardigan Street
 address:      Carlton  VIC 3053
 address:      Australia
-phone:        + 61 03 8341 4111, + 61 1300 732 929
-fax-no:       + 61 03 8341 4112
-e-mail:       ceo@auda.org.au
+phone:        +61 (0)3 8341 4111
+fax-no:       +61 (0)3 8341 4112
+e-mail:       adam.king@auda.org.au
 
 nserver:      A3.AUDNS.NET.AU 202.12.31.141
 nserver:      B1.AUDNS.NET.AU 128.32.136.3 2607:f140:ffff:fffe:0:0:0:3
@@ -44,6 +44,6 @@ remarks:      Registration information:
 remarks:      http://www.auda.org.au/domains/au-domains/
 
 created:      1986-03-05
-changed:      2010-06-09
+changed:      2010-11-17
 source:       IANA
 
