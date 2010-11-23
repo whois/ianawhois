@@ -21,14 +21,14 @@ fax-no:       +54 11 4819-7360
 e-mail:       gas@cancilleria.gov.ar
 
 contact:      technical
-name:         Gustavo Zazkin
+name:         Mr. José Luis de Oliveira Santana
 organisation: MRECIC (Ministerio de Relaciones Exteriores, Comercio Internacional y Culto)
 address:      Esmeralda 1212
 address:      Buenos Aires  1007
 address:      Argentina
-phone:        +54 11 4819-7262
-fax-no:       +54 11 4819-7630
-e-mail:       gustavo@atina.ar
+phone:        +54 11 4328 9941
+fax-no:       +54 11 4819 7630
+e-mail:       osj@mrecic.gob.ar
 
 nserver:      ATHEA.AR 200.16.98.2
 nserver:      CTINA.AR 200.16.97.17
@@ -42,6 +42,6 @@ nserver:      UUCP-GW-2.PA.DEC.COM 204.123.2.19
 remarks:      Registration information: http://www.nic.ar
 
 created:      1987-09-23
-changed:      2009-12-08
+changed:      2010-11-23
 source:       IANA
 
