@@ -5,48 +5,47 @@
 domain:       PA
 
 organisation: Universidad Tecnologica de Panama
-organisation: Panamanian Academic National Network
+address:      Panamanian Academic National Network
 address:      Campus Victor Levi S.
-address:      Avenida Universidad Tecnologica de Panama
-address:      PANNet
+address:      Avenida Universidad Tecnologica de Panama, PANNet
 address:      Panama  0819-07289
 address:      Panama
 
 contact:      administrative
-name:         Armando Jipsion
+name:         Armando Jipsion, General Manager
 organisation: Universidad Tecnologica de Panama
-organisation: Panamanian Academic National Network
+address:      Panamanian Academic National Network
 address:      Campus Victor Levi S.
-address:      Avenida Universidad Tecnologica de Panama
-address:      PANNet
+address:      Avenida Universidad Tecnologica de Panama, PANNet
 address:      Panama  0819-07289
 address:      Panama
-phone:        +507 223 2388
-fax-no:       +507 223 2388
-e-mail:       armando.jipsion@utp.ac.pa, ajipsion@pannet.pa
+phone:        +507 560 3309
+fax-no:       +507 560 3148
+e-mail:       armando.jipsion@utp.ac.pa
 
 contact:      technical
-name:         Edna Samudio de Jaen
+name:         Edna Samudio de Jaen, Manager
 organisation: Universidad Tecnologica de Panama
-organisation: Panamanian Academic National Network
+address:      Panamanian Academic National Network
 address:      Campus Victor Levi S.
-address:      Avenida Universidad Tecnologica de Panama
-address:      PANNet
+address:      Avenida Universidad Tecnologica de Panama, PANNet
 address:      Panama  0819-07289
 address:      Panama
-phone:        +507 223 2388
-fax-no:       +507 223 2388
-e-mail:       edna.samudio@utp.ac.pa, ednasj@pannet.pa
+phone:        +507 560 3400
+fax-no:       +507 560 3148
+e-mail:       edna.samudio@utp.ac.pa
 
 nserver:      NS-EXT.NIC.CL 200.1.123.14
 nserver:      NS.CR 163.178.8.2
 nserver:      NS.DNS.BR 200.160.0.5
 nserver:      NS.NIC.PA 168.77.8.4
 nserver:      NS.PA 168.77.8.2
+nserver:      NS2.PA 168.77.8.7
+nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e:0:0:0:0:1
 
 remarks:      Registration information: http://www.nic.pa/
 
 created:      1994-05-25
-changed:      2006-09-18
+changed:      2010-12-02
 source:       IANA
 
