@@ -43,12 +43,14 @@ nserver:      I.ROOT-SERVERS.NET 192.36.148.17 2001:7fe::53
 nserver:      K.ROOT-SERVERS.NET 193.0.14.129 2001:7fd:0:0:0:0:0:1
 nserver:      L.ROOT-SERVERS.NET 199.7.83.42 2001:500:3::42
 nserver:      M.ROOT-SERVERS.NET 2001:dc3:0:0:0:0:0:35 202.12.27.33
+ds-rdata:     42581 8 1 778606D9623F843F156E7D11ACBF815EB67AB516
+ds-rdata:     42581 8 2 F28391C1ED4DC0F151EDD251A3103DCE0B9A5A251ACF6E24073771D71F3C40F9
 
 whois:        whois.iana.org
 
 remarks:      Registration information: http://www.iana.org/arpa-dom/
 
 created:      1985-01-01
-changed:      2010-06-18
+changed:      2010-12-09
 source:       IANA
 
