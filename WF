@@ -39,12 +39,13 @@ nserver:      D.NIC.FR 194.0.9.1 2001:678:c:1:0:0:0:1
 nserver:      E.EXT.NIC.FR 193.176.144.6 2a00:d78:0:102:193:176:144:6
 nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
 nserver:      G.EXT.NIC.FR 2001:500:14:6039:ad:0:0:1 204.61.216.39
+ds-rdata:     47327 8 2 8bf50862b453e6674b141329948c2d2d2eb28b57ed59c230cfd61294144044aa
 
 whois:        whois.nic.wf
 
 remarks:      Registration information: http://www.nic.wf/
 
 created:      1997-11-14
-changed:      2010-10-13
+changed:      2010-12-09
 source:       IANA
 
