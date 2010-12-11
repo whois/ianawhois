@@ -33,7 +33,6 @@ e-mail:       ru-tech@ripn.net
 nserver:      E.DNS.RIPN.NET 193.232.142.17 2001:678:15:0:193:232:142:17
 nserver:      F.DNS.RIPN.NET 193.232.156.17 2001:678:14:0:193:232:156:17
 nserver:      NS.RIPN.NET 194.85.105.17 2001:678:13:0:194:85:105:17
-nserver:      NS2.RIPN.NET 194.226.96.30
 nserver:      NS5.MSK-IX.NET 193.232.128.6 2001:678:17:0:193:232:128:6
 nserver:      NS9.RIPN.NET 194.85.252.62 2001:678:16:0:194:85:252:62
 
@@ -42,6 +41,6 @@ whois:        whois.ripn.net
 remarks:      Registration information: http://cctld.ru/
 
 created:      2010-05-12
-changed:      2010-06-21
+changed:      2010-12-10
 source:       IANA
 
