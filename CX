@@ -28,7 +28,7 @@ address:      6RCI Building
 address:      Nursery Road
 address:      Christmas Island Indian Ocean WA 6798
 address:      Christmas Island
-phone:        +61 (0)8 9164 7334
+phone:        +64 (0)9 446 6370
 fax-no:       +61 (0)2 8324 6336
 e-mail:       brad.waugh@coccaregistry.net
 
@@ -37,13 +37,13 @@ nserver:      CX2.DYNTLD.NET 204.13.250.77
 nserver:      CX3.DYNTLD.NET 208.78.71.77
 nserver:      CX4.DYNTLD.NET 204.13.251.77
 nserver:      NS.ANYCAST.NIC.CX 204.61.216.16
-nserver:      NS.CX-NIC.ORG.NZ 203.119.12.245
+nserver:      NSA.CX.COCCAREGISTRY.NET 203.119.84.245
 
 whois:        whois.nic.cx
 
 remarks:      Registration information: http://www.nic.cx
 
 created:      1997-04-24
-changed:      2009-01-29
+changed:      2010-12-10
 source:       IANA
 
