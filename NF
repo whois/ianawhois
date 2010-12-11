@@ -24,7 +24,7 @@ organisation: CoCCA Registry Services Limited
 address:      6RCI Building, Nursery Road
 address:      Drum Site WA 6798
 address:      Christmas Island
-phone:        +61 (0)2 94234614
+phone:        64 9 446 6370
 fax-no:       +61 (0)2 94234620
 e-mail:       noc@nic.net.nf
 
@@ -33,14 +33,13 @@ nserver:      NF1.DYNTLD.NET 208.78.70.88
 nserver:      NF2.DYNTLD.NET 204.13.250.88
 nserver:      NF3.DYNTLD.NET 208.78.71.88
 nserver:      NF4.DYNTLD.NET 204.13.251.88
-nserver:      NS1.NF 203.12.249.100
-nserver:      NS2.NF 203.119.12.66
+nserver:      NSA.NIC.NF 203.119.84.239
 
 whois:        whois.nic.net.nf
 
 remarks:      Registration information: http://nic.net.nf/
 
 created:      1996-03-18
-changed:      2010-04-09
+changed:      2010-12-10
 source:       IANA
 
