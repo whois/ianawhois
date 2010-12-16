@@ -40,10 +40,11 @@ nserver:      GRDNS-AT.ICS.FORTH.GR 193.171.255.40
 nserver:      GRDNS-BR.ICS.FORTH.GR 200.160.7.163
 nserver:      GRDNS-DE.DENIC.DE 81.91.161.80
 nserver:      GRDNS.ICS.FORTH.GR 139.91.1.1
+ds-rdata:     41118 7 2 CB6DAEEF5AE0DB7CDFA54766F560D393A6A6B24A857E78C51D53C1B50D2EB175
 
 remarks:      Registration information: http://www.gr
 
 created:      1989-02-19
-changed:      2010-02-11
+changed:      2010-12-15
 source:       IANA
 
