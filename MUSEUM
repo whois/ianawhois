@@ -22,15 +22,15 @@ fax-no:       +46 70 384 3246
 e-mail:       admin@musedoma.museum
 
 contact:      technical
-name:         Cary Karp
-organisation: Museum Domain Management Association
-address:      Frescativaegen 40
-address:      Box 50007
-address:      Stockholm  10405
-address:      Sweden
-phone:        +46 70 629 8176
-fax-no:       +46 70 384 3246
-e-mail:       tech@musedoma.museum
+name:         MUSEUM TLD Technical Contact
+organisation: CORE Internet Council of Registrars
+address:      World Trade Center II
+address:      29 route de Pre-Bois
+address:      Geneva  1215
+address:      Switzerland
+phone:        +41229295744
+fax-no:       +41229295745
+e-mail:       dnsmaster@corenic.org
 
 nserver:      NIC.ICOM.ORG 195.7.65.253
 nserver:      NIC.MUSEUM 130.242.24.5
@@ -44,6 +44,6 @@ whois:        whois.museum
 remarks:      Registration information: http://musedoma.museum
 
 created:      2001-10-20
-changed:      2010-08-06
+changed:      2010-12-16
 source:       IANA
 
