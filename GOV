@@ -23,16 +23,14 @@ fax-no:       +1 540 301 0160
 e-mail:       donna.samblanet@gsa.gov
 
 contact:      technical
-name:         Donna Samblanet (Contract Officer Technical Representative)
-organisation: General Services Administration
-organisation: Federal Acquisition Service (FAS)
-organisation: Office of Planning & Strategic Solutions (QTD)
-address:      10304 Eaton Place
-address:      Fairfax Virginia 22030
+name:         Registry Customer Service
+organisation: VeriSign Global Registry Services
+address:      21345 Ridgetop Circle
+address:      Dulles Virginia 20166
 address:      United States
-phone:        +1 703 306 6702
-fax-no:       +1 540 301 0160
-e-mail:       donna.samblanet@gsa.gov
+phone:        +1 703 925 6999
+fax-no:       +1 703 421 5828
+e-mail:       info@verisign-grs.com
 
 nserver:      A.USADOTGOV.NET 74.208.172.129
 nserver:      B.USADOTGOV.NET 206.204.217.151
@@ -49,6 +47,6 @@ whois:        whois.dotgov.gov
 remarks:      Registration information: http://www.dotgov.gov
 
 created:      1985-01-01
-changed:      2010-10-29
+changed:      2010-12-16
 source:       IANA
 
