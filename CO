@@ -22,7 +22,7 @@ fax-no:       +571 616 9961
 e-mail:       eduardo@cointernet.com.co
 
 contact:      technical
-name:         Ronald Ferraro
+name:         Trung Tran
 organisation: .CO Internet S.A.S.
 address:      Calle 100 8 A - 49
 address:      Torre B of 507
@@ -30,7 +30,7 @@ address:      Bogotá
 address:      Colombia
 phone:        +571 616 9961
 fax-no:       +571 616 9961
-e-mail:       ron@cointernet.com.co
+e-mail:       trung@cointernet.com.co
 
 nserver:      NS1.CCTLD.CO 156.154.100.25
 nserver:      NS2.CCTLD.CO 156.154.101.25
@@ -44,6 +44,6 @@ whois:        whois.nic.co
 remarks:      Registration information: http://www.cointernet.co/
 
 created:      1991-12-24
-changed:      2010-07-14
+changed:      2010-12-21
 source:       IANA
 
