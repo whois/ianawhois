@@ -32,7 +32,7 @@ phone:        +41229295744
 fax-no:       +41229295745
 e-mail:       dnsmaster@corenic.org
 
-nserver:      NIC.ICOM.ORG 195.7.65.253
+nserver:      ANYC1.IRONDNS.NET 195.253.64.4 2a01:5b0:4:0:0:0:0:4
 nserver:      NIC.MUSEUM 130.242.24.5
 nserver:      NS-EXT.VIX.COM 204.152.184.64
 nserver:      NS.ICANN.ORG 192.0.34.126
@@ -44,6 +44,6 @@ whois:        whois.museum
 remarks:      Registration information: http://musedoma.museum
 
 created:      2001-10-20
-changed:      2010-12-16
+changed:      2010-12-24
 source:       IANA
 
