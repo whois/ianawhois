@@ -2,7 +2,7 @@
 
 # $Id$
 
-LIST=bortzmeyer@nic.fr,stephane@sources.org,Loic.Damilaville@nic.fr,robert@martin-legene.dk,Mohsen.Souissi@nic.fr
+LIST=bortzmeyer@nic.fr,stephane@sources.org,Loic.Damilaville@nic.fr,robert@martin-legene.dk,pk@isoc.de,Mohsen.Souissi@nic.fr
 ENCODING=UTF-8
 MAINTAINER=Stephane.Bortzmeyer@nic.fr
 ROOTNAMESERVER=F
