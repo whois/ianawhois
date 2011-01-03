@@ -1,10 +1,46 @@
 % IANA WHOIS server
 % for more information on IANA, visit http://www.iana.org
-% This query returned 0 objects.
-%
-% You queried for XN--WGBL6A but this server does not have
-% any data for XN--WGBL6A.
-%
-% If you need further information please check the web site
-% or use -h for help
+% This query returned 1 object
+
+domain:       قطر
+domain-ace:   XN--WGBL6A
+
+organisation: Supreme Council for Communications and Information Technology (ictQATAR)
+address:      Al Nasr Tower B.
+address:      Corniche Road
+address:      Doha  23264
+address:      Qatar
+
+contact:      administrative
+name:         Saleh Al-Kuwari
+organisation: Supreme Council for Communications and Information Technology (ictQATAR)
+address:      Al Nasr Tower B.
+address:      Corniche Road
+address:      Doha  23264
+address:      Qatar
+phone:        +974 44995344
+fax-no:       +974 44830630
+e-mail:       salkuwari@ict.gov.qa
+
+contact:      technical
+name:         Mohamed El Bashir
+organisation: Supreme Council for Communications and Information Technology (ictQATAR)
+address:      Al Nasr Tower B.
+address:      Corniche Road
+address:      Doha  23264
+address:      Qatar
+phone:        +974 44995427
+fax-no:       +974 44830630
+e-mail:       mbashir@ict.gov.qa
+
+nserver:      ANS0.QAREGISTRY.QA 178.23.18.5
+nserver:      ANS1.QAREGISTRY.QA 178.23.18.6
+nserver:      NS1.QATAR.NET.QA 212.77.192.10
+nserver:      NS2.QATAR.NET.QA 212.77.192.13
+
+remarks:      Registration information: http://www.ictqatar.qa
+
+created:      2010-12-24
+changed:      2011-01-03
+source:       IANA
 
