@@ -31,13 +31,14 @@ phone:        +49-30-78913567
 fax-no:       +49-30-78913568
 e-mail:       tld@kcce.net
 
-nserver:      NS1.KCCE.NET 194.29.232.18
-nserver:      NS2.KCCE.NET 194.29.232.30
+nserver:      NS1.KPTC.KP 175.45.176.15
+nserver:      NS2.KPTC.KP 175.45.176.16
 
 whois:        whois.kcce.kp
 
 remarks:      Registration information: http://www.kcce.kp
 
 created:      2007-09-24
+changed:      2011-01-03
 source:       IANA
 
