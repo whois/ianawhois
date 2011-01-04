@@ -36,12 +36,14 @@ nserver:      B0.CCTLD.AFILIAS-NST.ORG 199.254.60.1 2001:500:26:0:0:0:0:1
 nserver:      B2.CCTLD.AFILIAS-NST.ORG 199.249.124.1 2001:500:4c:0:0:0:0:1
 nserver:      C0.CCTLD.AFILIAS-NST.INFO 199.254.61.1 2001:500:27:0:0:0:0:1
 nserver:      D0.CCTLD.AFILIAS-NST.ORG 199.254.62.1 2001:500:28:0:0:0:0:1
+ds-rdata:     55656 7 1 57F9FF89CE3A02AE33EC017A7C83ED54D925AA13
+ds-rdata:     55656 7 2 B8DC00C070D5BFC5C1C3BA08E5205A1E7F15EABFBFD6359D11E0E62D2FFFA57F
 
 whois:        whois.nic.ag
 
 remarks:      Registration information: http://www.nic.ag
 
 created:      1991-09-03
-changed:      2010-11-30
+changed:      2011-01-03
 source:       IANA
 
