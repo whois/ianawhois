@@ -2,7 +2,7 @@
 
 # $Id$
 
-LIST=bortzmeyer@nic.fr,stephane@sources.org,Loic.Damilaville@nic.fr,robert@martin-legene.dk,pk@isoc.de,Mohsen.Souissi@nic.fr
+LIST=${HOME}/.ianawhois-list 
 ENCODING=UTF-8
 MAINTAINER=Stephane.Bortzmeyer@nic.fr
 ROOTNAMESERVER=F
@@ -15,6 +15,10 @@ DIFF=/tmp/get-whois.$$.diff
 TLDFILE=/tmp/get-whois.$$.tlds
 trap  "rm -f $LOG $DIFF $TLDFILE; exit 1" 1 2 3 15 
 trap  "rm -f $LOG $DIFF $TLDFILE" EXIT
+
+if [ ! -e $LIST ]; then
+    sendemail.py -t $MAINTAINER -f $MAINTAINER -s "Cannot find $LIST" < /dev/null
+fi
 
 dig @${ROOTNAMESERVER}.root-servers.net AXFR . | awk -F. '/^[A-Za-z][A-Za-z0-9-]+\.\t.*NS/ {print toupper($1)}' | sort | uniq > $TLDFILE
 
@@ -54,12 +58,12 @@ for tld in $TLDS; do
     if [ $new == 0 ]; then
 	svn diff $tld > $DIFF 2>&1
 	if [ -s $DIFF ]; then
-	    sendemail.py -t $LIST -f $MAINTAINER -e $ENCODING -h "X-IANA-monitoring: whois" -s "IANA whois update for $tld" < $DIFF
+	    sendemail.py -t $(cat $LIST) -f $MAINTAINER -e $ENCODING -h "X-IANA-monitoring: whois" -s "IANA whois update for $tld" < $DIFF
 	    svn commit -m "New copy of $date" $tld > $LOG 2>&1 
 	    ./iana-twitter.py $tld "update for \$tld"
 	fi
     else 
-	    sendemail.py -t $LIST -f $MAINTAINER -e $ENCODING -h "X-IANA-monitoring: whois" -s "New TLD in IANA whois: $tld" < $tld
+	    sendemail.py -t $(cat $LIST) -f $MAINTAINER -e $ENCODING -h "X-IANA-monitoring: whois" -s "New TLD in IANA whois: $tld" < $tld
 	    svn commit -m "First version ($date)" $tld > $LOG 2>&1 	
 	    ./iana-twitter.py $tld "new TLD \$tld"
     fi
