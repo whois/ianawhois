@@ -11,25 +11,25 @@ address:      Sana'a
 address:      Yemen
 
 contact:      administrative
-name:         GMCOM - M. Abdulkader
+name:         M. Abdulkader, Manager Enhanced Services
 organisation: TeleYemen
 address:      P.O.Box 168
 address:      26th September Street
 address:      Sana'a
 address:      Yemen
-phone:        +967 1 271435 or +967 1 752 2221
-fax-no:       +967 1 271436 or +967 1 752 2228
-e-mail:       teleyemen@y.net.ye or ghaily@y.net.ye
+phone:        +967 777009416
+fax-no:       +967 1 7523222
+e-mail:       ghaily@y.net.ye
 
 contact:      technical
-name:         Ahmed Al-Qaifi
+name:         Ahmed Al-Qaifi, IT & Data Network Mgr.
 organisation: TeleYemen
 address:      P.O.Box 168
 address:      26th September Street
 address:      Sana'a
 address:      Yemen
-phone:        +967 1 752 2125 or +967 777009486
-fax-no:       +967 1 280 334
+phone:        +967 777290146
+fax-no:       +967 1 7521406
 e-mail:       a.alqaifi@teleyemen.com.ye
 
 nserver:      NS1.YEMEN.NET.YE 65.162.184.33
@@ -38,6 +38,6 @@ nserver:      SAH1.YE 195.94.0.34
 nserver:      SAH2.YE 195.94.0.35
 
 created:      1996-08-19
-changed:      2007-07-24
+changed:      2011-01-12
 source:       IANA
 
