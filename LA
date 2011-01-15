@@ -9,7 +9,7 @@ organisation: Science Technology and Environment Agency
 address:      Prime Minister's Office
 address:      P. O. Box 2279
 address:      Vientiane  Lao PDR
-address:      Laos
+address:      Lao People's Democratic Republic
 
 contact:      administrative
 name:         Mr. Noulinh SINBANDHIT
@@ -17,7 +17,7 @@ organisation: Lao National Internet Committee (LANIC)
 address:      Prime Minister's Office
 address:      P.O. Box 2279
 address:      Vientiane  Lao PDR
-address:      Laos
+address:      Lao People's Democratic Republic
 phone:        +856 21 213470
 fax-no:       +856 21 213472
 e-mail:       admincontact@lanic.net
@@ -28,7 +28,7 @@ organisation: Lao National Internet Committee (LANIC)
 address:      Prime Minister's Office
 address:      P.O. Box 2279
 address:      Vientiane  Lao PDR
-address:      Laos
+address:      Lao People's Democratic Republic
 phone:        +856 21 213470
 fax-no:       +856 21 213472
 e-mail:       technicalcontact@lanic.net
@@ -40,12 +40,13 @@ nserver:      NS4.CENTRALNIC.NET 194.169.218.16
 nserver:      NS5.CENTRALNIC.NET 2001:ac8:2:1:0:0:0:20 217.151.106.82
 nserver:      NS6.CENTRALNIC.NET 194.0.2.2 2001:678:5:0:0:0:0:2
 nserver:      NS7.CENTRALNIC.NET 193.105.170.169
+nserver:      NS8.CENTRALNIC.NET 64.131.83.34
 
 whois:        whois.nic.la
 
 remarks:      Registration information: http://www.la
 
 created:      1996-05-14
-changed:      2010-05-12
+changed:      2011-01-14
 source:       IANA
 
