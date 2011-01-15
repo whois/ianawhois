@@ -32,19 +32,22 @@ phone:        +381 113133101
 fax-no:       +381 113133153
 e-mail:       tld-tech@rnids.rs
 
-nserver:      AVALA.YUBC.NET 212.124.160.1
-nserver:      NS-EXT.ISC.ORG 2001:4f8:0:2:0:0:0:13 204.152.184.64
-nserver:      NS-EXT.LGA1.ISC.ORG 192.228.91.19
-nserver:      NS-EXT.NRT1.ISC.ORG 192.228.90.19
-nserver:      NS-EXT.STH1.ISC.ORG 192.228.89.19
-nserver:      NS-RS.RIPE.NET 193.0.12.184 2001:610:240:0:53:cc:12:184
-nserver:      NS1.NIC.RS 147.91.8.6
-nserver:      ODISEJ.TELEKOM.RS 195.178.32.2
-nserver:      RS-NS.ANYCAST.PCH.NET 2001:500:14:6032:ad:0:0:1 204.61.216.32
+nserver:      A.NIC.RS 91.199.17.59
+nserver:      B.NIC.RS 195.178.32.2
+nserver:      C.NIC.RS 212.124.160.1
+nserver:      D.NIC.RS 193.0.12.184 2001:610:240:0:53:cc:12:184
+nserver:      E.NIC.RS 2001:4f8:0:2:0:0:0:13 204.152.184.64
+nserver:      F.NIC.RS 2001:500:14:6032:ad:0:0:1 204.61.216.32
+nserver:      G.NIC.RS 147.91.8.6
+nserver:      H.NIC.RS 91.199.17.60
+nserver:      I.NIC.RS 192.228.90.19
+nserver:      J.NIC.RS 192.228.89.19
 
-remarks:      Registration information: http://www.nic.rs
+whois:        whois.rnids.rs
+
+remarks:      Registration information: http://www.rnids.rs
 
 created:      2007-09-24
-changed:      2009-10-21
+changed:      2011-01-14
 source:       IANA
 
