@@ -41,12 +41,14 @@ nserver:      NS5.CENTRALNIC.NET 2001:ac8:2:1:0:0:0:20 217.151.106.82
 nserver:      NS6.CENTRALNIC.NET 194.0.2.2 2001:678:5:0:0:0:0:2
 nserver:      NS7.CENTRALNIC.NET 193.105.170.169
 nserver:      NS8.CENTRALNIC.NET 64.131.83.34
+ds-rdata:     30572 7 1 A12A07A7177CB77520C6CAAC9BC464C70E60727C
+ds-rdata:     30572 7 2 3803839384A30E61F5C070693AD25D7F51957A0042502E7AF3EF172DA1815B3F
 
 whois:        whois.nic.la
 
 remarks:      Registration information: http://www.la
 
 created:      1996-05-14
-changed:      2011-01-14
+changed:      2011-01-18
 source:       IANA
 
