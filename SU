@@ -21,14 +21,14 @@ fax-no:       +7 499 196 4984
 e-mail:       plat@ripn.net
 
 contact:      technical
-name:         Network Coordination Centre
-organisation: Russian Institute for Public Networks
-address:      1 Kurchatov Square
-address:      Moscow  123182
+name:         Technical Center of Internet
+organisation: Technical Center of Internet
+address:      Bolshoy Golovin pereulok, 23
+address:      Moscow  107045
 address:      Russian Federation
-phone:        +7 499 192 9179
+phone:        +7 495 737 6976
 fax-no:       +7 499 196 4984
-e-mail:       noc-dns@relarn.ru
+e-mail:       ru-tech@ripn.net
 
 nserver:      E.DNS.RIPN.NET 193.232.142.17 2001:678:15:0:193:232:142:17
 nserver:      F.DNS.RIPN.NET 193.232.156.17 2001:678:14:0:193:232:156:17
@@ -37,6 +37,6 @@ nserver:      NS5.MSK-IX.NET 193.232.128.6 2001:678:17:0:193:232:128:6
 nserver:      NS9.RIPN.NET 194.85.252.62 2001:678:16:0:194:85:252:62
 
 created:      1990-09-19
-changed:      2010-11-30
+changed:      2011-01-24
 source:       IANA
 
