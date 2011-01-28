@@ -32,7 +32,9 @@ phone:        +1 703 925 6999
 fax-no:       +1 703 421 5828
 e-mail:       info@verisign-grs.com
 
+nserver:      A.GOV-SERVERS.NET 69.36.157.30
 nserver:      A.USADOTGOV.NET 76.73.18.236
+nserver:      B.GOV-SERVERS.NET 209.112.123.30
 nserver:      B.USADOTGOV.NET 206.204.217.151
 nserver:      C.USADOTGOV.NET 69.72.142.35
 nserver:      D.USADOTGOV.NET 204.168.112.71
@@ -49,6 +51,6 @@ whois:        whois.dotgov.gov
 remarks:      Registration information: http://www.dotgov.gov
 
 created:      1985-01-01
-changed:      2011-01-03
+changed:      2011-01-27
 source:       IANA
 
