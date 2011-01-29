@@ -22,13 +22,13 @@ fax-no:       +7 495 258 1321
 e-mail:       ru-adm@cctld.ru
 
 contact:      technical
-name:         .RU domain Technical Center
-organisation: Russian Institute for Public Networks
-address:      1 Kurchatov Square
-address:      Moscow  123182
+name:         Technical Center of Internet
+organisation: Technical Center of Internet
+address:      Bolshoy Golovin pereulok, 23
+address:      Moscow  107045
 address:      Russian Federation
-phone:        +7 495 196 7278, +7 495 737 6976
-fax-no:       +7 495 196 4984
+phone:        +7 495 737 6976
+fax-no:       +7 499 196 4984
 e-mail:       ru-tech@ripn.net
 
 nserver:      E.DNS.RIPN.NET 193.232.142.17 2001:678:15:0:193:232:142:17
@@ -43,6 +43,6 @@ whois:        whois.ripn.net
 remarks:      Registration information: http://www.cctld.ru/en
 
 created:      1994-04-07
-changed:      2010-12-10
+changed:      2011-01-28
 source:       IANA
 
