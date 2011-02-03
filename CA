@@ -36,7 +36,6 @@ e-mail:       admin-dns@cira.ca
 nserver:      A.CA-SERVERS.CA 192.228.27.11
 nserver:      B.CA-SERVERS.CA 192.228.25.45
 nserver:      C.CA-SERVERS.CA 192.228.28.9
-nserver:      D.CA-SERVERS.CA 129.33.164.73
 nserver:      E.CA-SERVERS.CA 192.228.30.9
 nserver:      F.CA-SERVERS.CA 199.4.28.220
 nserver:      J.CA-SERVERS.CA 198.182.167.1 2001:500:83:0:0:0:0:1
@@ -50,6 +49,6 @@ whois:        whois.cira.ca
 remarks:      Registration information: http://www.cira.ca/
 
 created:      1987-05-14
-changed:      2010-01-07
+changed:      2011-02-02
 source:       IANA
 
