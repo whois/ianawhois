@@ -1,0 +1,48 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       భారత్
+domain-ace:   XN--FPCRJ9C3D
+
+organisation: National Internet Exchange of India
+address:      5th Floor, Incube Business Centre
+address:      18, Nehru Place
+address:      New Delhi Delhi 110 019
+address:      India
+
+contact:      administrative
+name:         Rajiv Kumar, Systems Analyst
+organisation: National Internet Exchange of India
+address:      5th Floor, Incube Business Centre
+address:      18, Nehru Place
+address:      New Delhi Delhi 110 019
+address:      India
+phone:        +91 11 3061 4627
+fax-no:       +91 11 3061 4629
+e-mail:       registry@nixi.in
+
+contact:      technical
+name:         Rajiv Kumar, Systems Analyst
+organisation: National Internet Exchange of India
+address:      5th Floor, Incube Business Centre
+address:      18, Nehru Place
+address:      New Delhi Delhi 110 019
+address:      India
+phone:        +91 11 3061 4627
+fax-no:       +91 11 3061 4629
+e-mail:       domaintech@registry.in
+
+nserver:      A0.CCTLD.AFILIAS-NST.INFO 199.254.59.1 2001:500:25:0:0:0:0:1
+nserver:      A1.IN.AFILIAS-NST.IN 203.119.49.201
+nserver:      A2.IN.AFILIAS-NST.INFO 199.249.117.1 2001:500:45:0:0:0:0:1
+nserver:      B0.CCTLD.AFILIAS-NST.ORG 199.254.60.1 2001:500:26:0:0:0:0:1
+nserver:      B1.IN.AFILIAS-NST.IN 203.119.50.201
+nserver:      B2.IN.AFILIAS-NST.ORG 199.249.125.1 2001:500:4d:0:0:0:0:1
+nserver:      C0.CCTLD.AFILIAS-NST.INFO 199.254.61.1 2001:500:27:0:0:0:0:1
+nserver:      D0.CCTLD.AFILIAS-NST.ORG 199.254.62.1 2001:500:28:0:0:0:0:1
+
+created:      2011-02-05
+changed:      2011-02-07
+source:       IANA
+
