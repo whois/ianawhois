@@ -1,0 +1,47 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       한국
+domain-ace:   XN--3E0B707E
+
+organisation: KISA (Korea Internet & Security Agency)
+address:      78 Garak-dong Songpa-gu
+address:      Seoul  138-950
+address:      The Republic of Korea
+
+contact:      administrative
+name:         Vice President of Internet Promotion Division
+organisation: KISA (Korea Internet & Security Agency)
+address:      78 Garak-dong Songpa-gu
+address:      Seoul  138-950
+address:      The Republic of Korea
+phone:        +02 405 5360
+fax-no:       +02 405 5119
+e-mail:       adminc@kisa.or.kr
+
+contact:      technical
+name:         Director of System Management Team
+organisation: KISA (Korea Internet & Security Agency)
+address:      78 Garak-dong Songpa-gu
+address:      Seoul  138-950
+address:      The Republic of Korea
+phone:        +02 405 6470
+fax-no:       +02 405 5119
+e-mail:       techc@kisa.or.kr
+
+nserver:      B.DNS.KR 61.74.75.1
+nserver:      C.DNS.KR 203.248.246.220
+nserver:      D.DNS.KR 203.83.159.1
+nserver:      E.DNS.KR 2001:dcc:5:0:0:0:0:100 202.30.124.100
+nserver:      F.DNS.KR 218.38.181.90
+nserver:      G.DNS.KR 2001:dc5:a:0:0:0:0:1 202.31.190.1
+
+whois:        whois.kr
+
+remarks:      Registration information: http://domain.kisa.or.kr
+
+created:      2011-02-05
+changed:      2011-02-07
+source:       IANA
+
