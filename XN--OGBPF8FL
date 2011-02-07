@@ -1,0 +1,45 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       سورية
+domain-ace:   XN--OGBPF8FL
+
+organisation: National Agency for Network Services (NANS)
+address:      Sahara-Sabboura crossroads
+address:      P.O. Box 47/Kudsaya
+address:      Damascus
+address:      Syrian Arab Republic
+
+contact:      administrative
+name:         Weam Salem, Engineer
+organisation: National Agency for Network Services (NANS)
+address:      Sahara-Sabboura crossroads
+address:      P.O. Box 47/Kudsaya
+address:      Damascus
+address:      Syrian Arab Republic
+phone:        +963 11 3937047
+fax-no:       +963 11 3937079
+e-mail:       w.salem@tld.sy
+
+contact:      technical
+name:         Mustafa Alrifaee, Engineer
+organisation: National Agency for Network Services (NANS)
+address:      Sahara-Sabboura crossroads
+address:      P.O. Box 47/Kudsaya
+address:      Damascus
+address:      Syrian Arab Republic
+phone:        +963 11 3937047
+fax-no:       +963 11 3937079
+e-mail:       mustafa@tld.sy
+
+nserver:      NS-SY.RIPE.NET 193.0.12.215
+nserver:      NS1.TLD.SY 82.137.200.85
+nserver:      NS2.TLD.SY 82.137.192.145
+
+remarks:      Registration information: https://reg.tld.sy
+
+created:      2011-02-05
+changed:      2011-02-07
+source:       IANA
+
