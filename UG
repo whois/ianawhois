@@ -35,7 +35,7 @@ e-mail:       ksemat@eahd.or.ug
 nserver:      DEMON.MTN.CO.UG 212.88.97.20
 nserver:      NS-EXT.VIX.COM 204.152.184.64
 nserver:      NS-UG.RIPE.NET 193.0.12.231 2001:610:240:0:53:cc:12:231
-nserver:      NS1.AUTH.IANA.ORG 192.0.34.126
+nserver:      NS.ICANN.ORG 199.4.138.53 2001:500:89:0:0:0:0:53
 nserver:      WEB.EAHD.OR.UG 216.104.202.101
 
 whois:        whois.co.ug
@@ -43,6 +43,6 @@ whois:        whois.co.ug
 remarks:      Registration information: http://www.registry.co.ug
 
 created:      1995-03-08
-changed:      2009-05-28
+changed:      2011-02-07
 source:       IANA
 
