@@ -7,14 +7,14 @@ domain:       MR
 organisation: University of Nouakchott
 address:      BP 5026
 address:      Nouakchott
-address:      Mauritanie
+address:      Mauritania
 
 contact:      administrative
 name:         Ahmedou Ould Haouba
 organisation: Faculté des Sciences et Techniques
 address:      BP 5026
 address:      Nouakchott
-address:      Mauritanie
+address:      Mauritania
 phone:        +222 646 83 17
 fax-no:       +222 525 39 97
 e-mail:       haouba@univ-nkc.mr
@@ -24,18 +24,18 @@ name:         Ahmed Salem Ould Cheikh
 organisation: Faculte de Sciences et Techniques
 address:      BP 5026
 address:      Nouakchott
-address:      Mauritanie
+address:      Mauritania
 phone:        +222 630 76 01
 fax-no:       +222 525 39 97
 e-mail:       ahdsalem@univ-nkc.mr
 
+nserver:      CENSVRNS0001.IRD.FR 91.203.32.147
 nserver:      NS.UNIV-NKC.MR 82.151.64.1
-nserver:      NS1.IRD.FR 193.50.53.3
 nserver:      NS3.NIC.FR 192.134.0.49 2001:660:3006:1:0:0:1:1
 
 remarks:      Registration information: http://www.nic.mr
 
 created:      1996-04-24
-changed:      2009-09-03
+changed:      2011-02-10
 source:       IANA
 
