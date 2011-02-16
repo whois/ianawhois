@@ -34,8 +34,6 @@ e-mail:       info@verisign-grs.com
 
 nserver:      A.GOV-SERVERS.NET 69.36.157.30
 nserver:      B.GOV-SERVERS.NET 209.112.123.30
-ds-rdata:     26079 7 1 7096CE8097F65F5E93A184AA0C711BBC23FD516E
-ds-rdata:     26079 7 2 4ED5FFBC8A40262B56E1232135B929192804ACC006930D087AAB38A611C89041
 ds-rdata:     53138 7 1 35D81501CC594683875872282FE73054CFE619DE
 ds-rdata:     53138 7 2 5AEC256412BC1FEC92B8FDDB4493B585E9406541CF8C952BFE6E27ACB3A20766
 
@@ -44,6 +42,6 @@ whois:        whois.dotgov.gov
 remarks:      Registration information: http://www.dotgov.gov
 
 created:      1985-01-01
-changed:      2011-02-01
+changed:      2011-02-14
 source:       IANA
 
