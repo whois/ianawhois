@@ -33,6 +33,7 @@ fax-no:       +299 322966
 e-mail:       gl-admin@tele.gl
 
 nserver:      A.NUUK.NIC.GL 194.177.224.13
+nserver:      B.NIC.GL 91.221.196.228
 nserver:      D.NIC.GL 2001:500:14:6049:ad:0:0:1 204.61.216.49
 nserver:      GL1.DYNTLD.NET 208.78.70.97
 nserver:      GL2.DYNTLD.NET 204.13.250.97
@@ -44,6 +45,6 @@ whois:        whois.nic.gl
 remarks:      Registration information: http://www.nic.gl/
 
 created:      1994-04-08
-changed:      2011-01-11
+changed:      2011-02-14
 source:       IANA
 
