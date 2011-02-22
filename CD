@@ -4,38 +4,43 @@
 
 domain:       CD
 
-organisation: NIC Congo - Interpoint SARL
-address:      Boulevard du Trente Juin
-address:      B.P. 8854
-address:      Kinshasa
-address:      Congo
+organisation: Office Congolais des Postes et Télécommunications - OCPT
+address:      95, Boulevard du 30 Juin
+address:      Immeuble INSS, 1ier Etage
+address:      Gombe
+address:      Kinshasa  7070 Kin 1
+address:      The Democratic Republic of the Congo
 
 contact:      administrative
-name:         David Kruger
-organisation: NIC Congo - Interpoint SARL
-address:      Boulevard du Trente Juin
-address:      B.P. 8854
-address:      Kinshasa
-address:      Democratic Republic of Congo
-phone:        +243 12 24 222
-e-mail:       cd-admin@dnsafrica.net
+name:         Chris Tshimanga Kamukoko
+organisation: Office Congolais des Postes et Télécommunications - OCPT
+address:      95, Boulevard du 30 Juin
+address:      Immeuble INSS, 1ier Etage
+address:      Gombe
+address:      Kinshasa  7070 Kin 1
+address:      The Democratic Republic of the Congo
+phone:        +243 81 806 88 00
+e-mail:       christshimka@nic.cd
 
 contact:      technical
-name:         Frederic Gregoire
-organisation: NIC Congo Liaison Office in Switzerland
-organisation: Interpoint SARL
-address:      Case Postale 1336
-address:      Lausanne  1001
-address:      Switzerland
-phone:        +41 44 274 23 80
-fax-no:       +41 44 274 23 80
-e-mail:       frg@dnsafrica.net
+name:         Jaco Lesch
+organisation: Office Congolais des Postes et Télécommunications - OCPT
+address:      95, Boulevard du 30 Juin
+address:      Immeuble INSS, 1ier Etage
+address:      Gombe
+address:      Kinshasa  7070 Kin 1
+address:      The Democratic Republic of the Congo
+phone:        +243 81 806 88 89
+e-mail:       dnsadmin@nic.cd
 
-nserver:      DNS.DNSAFRICA.NET 213.193.157.30
 nserver:      DNS.PRINCETON.EDU 128.112.129.15
+nserver:      IGUBU.SAIX.NET 196.25.1.1
+nserver:      SABELA.SAIX.NET 196.43.1.9
 nserver:      SUNIC.SUNET.SE 192.36.125.2 2001:6b0:7:0:0:0:0:2
 
+remarks:      Registration information: http://www.nic.cd/
+
 created:      1997-08-20
-changed:      2008-09-24
+changed:      2011-02-21
 source:       IANA
 
