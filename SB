@@ -7,29 +7,32 @@ domain:       SB
 organisation: Solomon Telekom Company Limited
 address:      Telekom Haus
 address:      Mendana Avenue
-address:      Honiara
+address:      P.O. Box 148
+address:      Honiara Honiara City Council
 address:      Solomon Islands
 
 contact:      administrative
-name:         Mr. Lee HUMPHRIES
+name:         Mr. Loyley Ngira, Chief Executive
 organisation: Solomon Telekom Company Limited
 address:      Telekom Haus
 address:      Mendana Avenue
-address:      Honiara
+address:      P.O. Box 148
+address:      Honiara Honiara City Council
 address:      Solomon Islands
-phone:        +677 38561
-fax-no:       +677 20195
-e-mail:       lee.humphries@telekom.com.sb
+phone:        +677 23358
+fax-no:       +677 23642
+e-mail:       loyley.ngira@telekom.com.sb
 
 contact:      technical
-name:         Mr. Andrew RARUMAE
+name:         Mr. Andrew Rarumae
 organisation: Solomon Telekom Company Limited
 address:      Telekom Haus
 address:      Mendana Avenue
-address:      Honiara
+address:      P.O. Box 148
+address:      Honiara Honiara City Council
 address:      Solomon Islands
-phone:        +677 20199 x371
-fax-no:       +677 20195
+phone:        +677 24832
+fax-no:       +677 38815
 e-mail:       andrew.rarumae@telekom.com.sb
 
 nserver:      NSA.NIC.SB 203.119.84.243
@@ -44,6 +47,6 @@ whois:        whois.nic.net.sb
 remarks:      Registration information: http://www.nic.net.sb/
 
 created:      1994-04-19
-changed:      2011-02-08
+changed:      2011-02-28
 source:       IANA
 
