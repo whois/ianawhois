@@ -21,15 +21,15 @@ fax-no:       +40 21 316 1084
 e-mail:       eugenie@staicut.eu
 
 contact:      technical
-name:         Victor Ciuperca
+name:         Ionut Sandu, Scientific Researcher
 organisation: National Institute for R&D in Informatics
 address:      Bd. Averescu 8-10
 address:      Sector 1
 address:      Bucharest  011454
 address:      Romania
-phone:        +40 21 316 2618
-fax-no:       +40 21 316 1084
-e-mail:       victor@rnc.ro
+phone:        +40 21 316 0762
+fax-no:       +40 21 316 5340
+e-mail:       ionut@rotld.ro
 
 nserver:      DNS-AT.ROTLD.RO 193.171.255.54 2001:628:453:4001:0:0:0:53
 nserver:      DNS-RO.DENIC.DE 81.91.161.99
@@ -43,6 +43,6 @@ whois:        whois.rotld.ro
 remarks:      Registration information: http://www.rotld.ro/
 
 created:      1993-02-26
-changed:      2010-09-24
+changed:      2011-02-28
 source:       IANA
 
