@@ -35,13 +35,13 @@ nserver:      NS-SN.RIPE.NET 193.0.12.195
 nserver:      NS.SENTOO.SN 213.154.64.13
 nserver:      NS.UCAD.SN 196.1.95.1
 nserver:      NS1.IRD.FR 193.50.53.3
-nserver:      NS3.NIC.FR 192.134.0.49 2001:660:3006:1:0:0:1:1
+nserver:      NS3.NIC.FR 192.134.0.49 2001:660:3006:1::1:1
 
 whois:        whois.nic.sn
 
 remarks:      Registration information: http://www.nic.sn
 
 created:      1993-03-19
-changed:      2008-10-31
+changed:      2011-03-04
 source:       IANA
 
