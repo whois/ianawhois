@@ -34,7 +34,7 @@ e-mail:       dna@nic.net.sg
 
 nserver:      DSANY.SGNIC.SG 194.0.1.16 2001:678:4:0:0:0:0:10
 nserver:      NS2.CUHK.EDU.HK 137.189.6.21 2405:3000:3:60:0:0:0:21
-nserver:      SEC3.APNIC.NET 2001:dc0:1:0:4777:0:0:140 202.12.28.140
+nserver:      SEC3.APNIC.NET 2001:dc0:1:0:4777::140 202.12.28.140
 nserver:      SG-NS.ANYCAST.PCH.NET 2001:500:14:6057:ad:0:0:1 204.61.216.57
 
 whois:        whois.sgnic.sg
@@ -42,6 +42,6 @@ whois:        whois.sgnic.sg
 remarks:      Registration information: http://www.sgnic.sg
 
 created:      1988-10-19
-changed:      2010-07-29
+changed:      2011-03-04
 source:       IANA
 
