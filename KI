@@ -36,13 +36,13 @@ nserver:      NS-KI.RIPE.NET 193.0.12.115
 nserver:      NS.ANYCAST.NIC.KI 204.61.216.26
 nserver:      NS.SYDNEY.NIC.KI 203.119.12.246
 nserver:      SEC1.APNIC.NET 2001:dc0:2001:a:4608::59 202.12.29.59
-nserver:      SEC3.APNIC.NET 2001:dc0:1:0:4777:0:0:140 202.12.28.140
+nserver:      SEC3.APNIC.NET 2001:dc0:1:0:4777::140 202.12.28.140
 
 whois:        whois.nic.ki
 
 remarks:      Registration information: http://www.nic.ki
 
 created:      1995-04-19
-changed:      2008-11-03
+changed:      2011-03-04
 source:       IANA
 
