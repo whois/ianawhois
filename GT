@@ -37,11 +37,11 @@ nserver:      NS.DNS.BR 200.160.0.5
 nserver:      NS.UVG.EDU.GT 168.234.68.2 200.9.74.2
 nserver:      NS3.NIC.MX 200.33.111.1
 nserver:      OSI2.GUA.NET 205.161.188.3
-nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e:0:0:0:0:1
+nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e::1
 
 remarks:      Registration information: http://www.gt
 
 created:      1992-08-14
-changed:      2010-09-16
+changed:      2011-03-04
 source:       IANA
 
