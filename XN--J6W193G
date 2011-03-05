@@ -41,12 +41,13 @@ nserver:      NS1.HKIRC.NET.HK 203.119.2.18
 nserver:      NS2.CUHK.EDU.HK 137.189.6.21 2405:3000:3:60:0:0:0:21
 nserver:      NS2.HKIRC.NET.HK 203.119.2.19
 nserver:      NS3.CUHK.EDU.HK 202.45.188.39
-nserver:      SEC3.APNIC.NET 2001:dc0:1:0:4777:0:0:140 202.12.28.140
+nserver:      SEC3.APNIC.NET 2001:dc0:1:0:4777::140 202.12.28.140
 
 whois:        whois.hkirc.hk
 
 remarks:      Registration information: http://www.hkirc.hk
 
 created:      2010-07-12
+changed:      2011-03-04
 source:       IANA
 
