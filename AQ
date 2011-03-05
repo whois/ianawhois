@@ -30,9 +30,9 @@ e-mail:       noc@swizzle.co.nz
 nserver:      NS1.DNS.AQ 203.119.56.132
 nserver:      NS99.DNS.NET.NZ 202.46.191.130
 nserver:      SLAVE1.STH.NETNOD.SE 192.36.144.116
-nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e:0:0:0:0:1
+nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e::1
 
 created:      1992-02-26
-changed:      2010-06-25
+changed:      2011-03-04
 source:       IANA
 
