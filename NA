@@ -34,7 +34,7 @@ nserver:      MERLIN.NET.NA 204.152.184.96
 nserver:      NA-NS.ANYCAST.PCH.NET 204.61.216.35
 nserver:      NA1.DYNTLD.NET 208.78.70.90
 nserver:      NA2.DYNTLD.NET 204.13.250.90
-nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e:0:0:0:0:1
+nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e::1
 ds-rdata:     24484 5 1 EFC19D4685751FF8E11F96142A083DCB9C708912
 
 whois:        whois.na-nic.com.na
@@ -42,6 +42,6 @@ whois:        whois.na-nic.com.na
 remarks:      Registration information: http://www.na-nic.com.na/
 
 created:      1991-05-08
-changed:      2010-07-10
+changed:      2011-03-04
 source:       IANA
 
