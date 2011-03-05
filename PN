@@ -35,12 +35,12 @@ e-mail:       registrations@pitcairn.gov.pn
 nserver:      NS0.PITCAIRN.NET.PN 173.230.153.180
 nserver:      NS2.PITCAIRN.NET.PN 80.68.93.100
 nserver:      SLAVE1.STH.NETNOD.SE 192.36.144.116
-nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e:0:0:0:0:1
+nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e::1
 
 remarks:      Registration information:
 remarks:      http://www.government.pn/PnRegistry/PnRegistry.htm
 
 created:      1997-07-10
-changed:      2011-01-20
+changed:      2011-03-04
 source:       IANA
 
