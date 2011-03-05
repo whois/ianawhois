@@ -34,11 +34,11 @@ e-mail:       toto@iptek.net.id
 nserver:      NS1.ID 202.155.30.227
 nserver:      NS1.INDO.NET.ID 202.159.32.2
 nserver:      NS1.RAD.NET.ID 202.154.1.2
-nserver:      SEC3.APNIC.NET 2001:dc0:1:0:4777:0:0:140 202.12.28.140
+nserver:      SEC3.APNIC.NET 2001:dc0:1:0:4777::140 202.12.28.140
 
 remarks:      Registration information: https://register.net.id/
 
 created:      1993-02-27
-changed:      2008-05-02
+changed:      2011-03-04
 source:       IANA
 
