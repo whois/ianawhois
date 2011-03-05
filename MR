@@ -31,11 +31,11 @@ e-mail:       ahdsalem@univ-nkc.mr
 
 nserver:      CENSVRNS0001.IRD.FR 91.203.32.147
 nserver:      NS.UNIV-NKC.MR 82.151.64.1
-nserver:      NS3.NIC.FR 192.134.0.49 2001:660:3006:1:0:0:1:1
+nserver:      NS3.NIC.FR 192.134.0.49 2001:660:3006:1::1:1
 
 remarks:      Registration information: http://www.nic.mr
 
 created:      1996-04-24
-changed:      2011-02-10
+changed:      2011-03-04
 source:       IANA
 
