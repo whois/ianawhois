@@ -34,13 +34,13 @@ e-mail:       dnsadmin@zadna.org.za
 
 nserver:      DISA.TENET.AC.ZA 196.21.79.50 2001:4200:ffff:a:0:0:0:1
 nserver:      NSZA.IS.CO.ZA 196.4.160.27
-nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e:0:0:0:0:1
+nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e::1
 nserver:      ZA-NS.ANYCAST.PCH.NET 2001:500:14:6055:ad:0:0:1 204.61.216.55
 nserver:      ZA1.DNSNODE.NET 194.146.106.78 2001:67c:1010:19:0:0:0:53
 
 remarks:      Registration information: http://www.zadna.org.za/
 
 created:      1990-11-07
-changed:      2010-10-04
+changed:      2011-03-04
 source:       IANA
 
