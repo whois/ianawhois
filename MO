@@ -29,6 +29,10 @@ phone:        +853 83978619
 fax-no:       +853 28835606
 e-mail:       fionao@umac.mo
 
+nserver:      A.MONIC.MO 202.175.87.47
+nserver:      B.MONIC.MO 202.175.87.48
+nserver:      C.MONIC.MO 202.175.87.49
+nserver:      D.MONIC.MO 202.175.51.115
 nserver:      NS2.CUHK.EDU.HK 137.189.6.21 2405:3000:3:60:0:0:0:21
 nserver:      UMACSN1.UMAC.MO 161.64.3.1
 nserver:      UMACSN2.UMAC.MO 161.64.3.2
@@ -39,6 +43,6 @@ nserver:      UMACSS3.UMAC.MO 161.64.7.3
 remarks:      Registration information: http://www.monic.net.mo
 
 created:      1992-09-17
-changed:      2009-07-10
+changed:      2011-03-07
 source:       IANA
 
