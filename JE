@@ -35,7 +35,6 @@ nserver:      A.CI-SERVERS.NET 87.117.194.160
 nserver:      B.CI-SERVERS.ORG 82.103.139.220
 nserver:      C.CI-SERVERS.ORG 194.146.106.86 2001:67c:1010:22:0:0:0:53
 nserver:      D.CI-SERVERS.JE 193.201.42.178
-nserver:      E.CI-SERVERS.JE 193.201.42.179
 nserver:      F.CI-SERVERS.GG 195.226.128.13
 nserver:      NS0.JA.NET 128.86.1.20 193.63.94.20 2001:630:0:8:0:0:0:14 2001:630:0:9:0:0:0:14
 nserver:      NS99.DNS.NET.NZ 202.46.191.130
@@ -45,6 +44,6 @@ whois:        whois.je
 remarks:      Registration information: http://www.channelisles.net/
 
 created:      1996-08-08
-changed:      2010-09-23
+changed:      2011-03-08
 source:       IANA
 
