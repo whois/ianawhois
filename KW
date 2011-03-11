@@ -34,11 +34,11 @@ nserver:      DNS2.KW 161.252.48.150
 nserver:      DNS3.KW 161.252.48.145
 nserver:      KWNS.KEMS.NET 168.187.5.12
 nserver:      SEC1.APNIC.NET 2001:dc0:2001:a:4608::59 202.12.29.59
-nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e::1
+nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e:0:0:0:0:1
 
 remarks:      Registration information: http://www.kw/
 
 created:      1992-10-26
-changed:      2011-03-04
+changed:      2011-03-10
 source:       IANA
 
