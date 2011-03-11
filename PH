@@ -37,11 +37,11 @@ nserver:      NS1.DOMAINS.PH 203.119.6.78
 nserver:      NS2.CUHK.EDU.HK 137.189.6.21 2405:3000:3:60:0:0:0:21
 nserver:      PH.COMMUNITYDNS.NET 194.0.1.23
 nserver:      SEC4.APNIC.NET 2001:dc0:4001:1:0:1836:0:141 202.12.31.141
-nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e::1
+nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e:0:0:0:0:1
 
 remarks:      Registration information: http://dot.ph
 
 created:      1990-09-14
-changed:      2011-03-04
+changed:      2011-03-10
 source:       IANA
 
