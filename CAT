@@ -37,7 +37,7 @@ nserver:      DNS4.AD 194.158.64.10
 nserver:      NS.NIC.CAT 2001:40b0:1:3:0:0:0:2 84.88.0.162
 nserver:      NS1.NIC.ES 194.69.254.1
 nserver:      NSC.NIC.DE 81.91.161.84
-nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e::1
+nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e:0:0:0:0:1
 ds-rdata:     33436 10 2 e1a0fc89b87f5e7f6b354d364cf704855a2e9a52b7f39bbe4e2bea443b81b18e
 
 whois:        whois.cat
@@ -45,6 +45,6 @@ whois:        whois.cat
 remarks:      Registration information: http://www.domini.cat
 
 created:      2005-12-19
-changed:      2011-03-04
+changed:      2011-03-10
 source:       IANA
 
