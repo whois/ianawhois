@@ -38,12 +38,13 @@ nserver:      K.DNS.LU 194.0.1.13 2001:678:4:0:0:0:0:d
 nserver:      MERAPI.SWITCH.CH 130.59.211.10 2001:620:0:0:0:0:0:5
 nserver:      NS1.DNS.LU 158.64.229.2 2001:a18:4:0:0:0:0:2
 nserver:      NS5.DNS.LU 81.91.161.100
+ds-rdata:     52045 8 2 2434678B7D6615DB86E5830839ECD828B369DD048BF36638F1676DFF0A9E226E
 
 whois:        whois.dns.lu
 
 remarks:      Registration information: http://www.dns.lu
 
 created:      1995-01-27
-changed:      2011-03-10
+changed:      2011-03-11
 source:       IANA
 
