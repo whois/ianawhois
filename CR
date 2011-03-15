@@ -6,6 +6,7 @@ domain:       CR
 
 organisation: National Academy of Sciences
 organisation: Academia Nacional de Ciencias
+address:      San Pedro Montes de Oca
 address:      San José  1367-2050
 address:      Costa Rica
 
@@ -13,31 +14,35 @@ contact:      administrative
 name:         Guy F. de Teramond
 organisation: National Academy of Sciences
 organisation: Academia Nacional de Ciencias
+address:      San Pedro Montes de Oca
 address:      San José  1367-2050
 address:      Costa Rica
-phone:        +506 283-4814
-fax-no:       +506 283-4101
+phone:        +506 2283 4814
+fax-no:       +506 2283 4101
 e-mail:       gdt@ns.cr
 
 contact:      technical
 name:         Abel Brenes
 organisation: Centro de Informática, Universidad de Costa Rica
+address:      San Pedro Montes de Oca
 address:      San José  2060-1000
 address:      Costa Rica
-phone:        +506 207-5422
-fax-no:       +506 253-6075
+phone:        +506 2511 1800
+fax-no:       +506 2511 1899
 e-mail:       abrenes@ns.cr
 
-nserver:      NS-CR.RIPE.NET 193.0.12.55
+nserver:      NS-CR.RIPE.NET 193.0.12.55 2001:610:240:0:53:cc:12:55
+nserver:      NS-EXT.NIC.CL 200.1.123.14
 nserver:      NS.CR 163.178.8.2
-nserver:      NS.UCR.AC.CR 163.178.88.2
-nserver:      NS1-AUTH.SPRINTLINK.NET 206.228.179.10
-nserver:      NS3-AUTH.SPRINTLINK.NET 144.228.255.10
+nserver:      NS.UCR.CR 163.178.8.3
 nserver:      NS3.NIC.MX 200.33.111.1
+nserver:      TLD.ISC-SNS.COM 38.103.2.3
+nserver:      TLD.ISC-SNS.INFO 2001:470:1a:0:0:0:0:3 72.52.71.3
+nserver:      TLD.ISC-SNS.NET 2001:5a0:10:0:0:0:0:3 63.243.194.3
 
 remarks:      Registration information: http://www.nic.cr/
 
 created:      1990-09-10
-changed:      2007-04-05
+changed:      2011-03-14
 source:       IANA
 
