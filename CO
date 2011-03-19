@@ -38,12 +38,14 @@ nserver:      NS3.CCTLD.CO 156.154.102.25
 nserver:      NS4.CCTLD.CO 156.154.103.25
 nserver:      NS5.CCTLD.CO 156.154.104.25
 nserver:      NS6.CCTLD.CO 156.154.105.25
+ds-rdata:     55111 8 1 AC8D08D79423C80DAB8CAD953AD721798A27BC82
+ds-rdata:     55111 8 1 947394AB46BEC7F3B518EB699CF04B3076B8F1DB609A7F365E4215EF1C362983
 
 whois:        whois.nic.co
 
 remarks:      Registration information: http://www.cointernet.co/
 
 created:      1991-12-24
-changed:      2010-12-21
+changed:      2011-03-17
 source:       IANA
 
