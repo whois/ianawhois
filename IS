@@ -5,17 +5,15 @@
 domain:       IS
 
 organisation: ISNIC - Internet Iceland ltd.
-address:      Taeknigardi
-address:      Dunhagi 5
-address:      Reykjavik  107
+address:      Hofdatun 2
+address:      Reykjavik  105
 address:      Iceland
 
 contact:      administrative
 name:         Jens Pétur Jensen
 organisation: ISNIC - Internet Iceland, Inc.
-address:      Taeknigardi
-address:      Dunhagi 5
-address:      Reykjavik  107
+address:      Hofdatun 2
+address:      Reykjavik  105
 address:      Iceland
 phone:        +354 578 2030
 fax-no:       + 354 578 2031
@@ -24,9 +22,8 @@ e-mail:       jens@isnic.is
 contact:      technical
 name:         Marius Olafsson
 organisation: ISNIC - Internet Iceland Inc.
-address:      Taeknigardi
-address:      Dunhagi 5
-address:      Reykjavik  107
+address:      Hofdatun 2
+address:      Reykjavik  105
 address:      Iceland
 phone:        +354 525 4747
 fax-no:       +354 561 0999
@@ -34,9 +31,9 @@ e-mail:       marius@isgate.is
 
 nserver:      DURINN.RHNET.IS 130.208.16.20
 nserver:      ISGATE.IS 193.4.58.51
-nserver:      NS-IS.RIPE.NET 193.0.12.102
+nserver:      NS-IS.RIPE.NET 193.0.12.102 2001:610:240:0:53:cc:12:102
 nserver:      NS4.TELE.DK 195.41.46.78
-nserver:      SAB.ISNIC.IS 194.146.106.58
+nserver:      SAB.ISNIC.IS 194.146.106.58 2001:67c:1010:14:0:0:0:53
 nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e:0:0:0:0:1
 nserver:      SUNIC.SUNET.SE 192.36.125.2 2001:6b0:7:0:0:0:0:2
 
@@ -45,6 +42,6 @@ whois:        whois.isnic.is
 remarks:      Registration information: http://www.isnic.is/
 
 created:      1987-11-18
-changed:      2011-03-10
+changed:      2011-03-24
 source:       IANA
 
