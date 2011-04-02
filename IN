@@ -37,6 +37,7 @@ nserver:      B1.IN.AFILIAS-NST.IN 203.119.50.201
 nserver:      B2.IN.AFILIAS-NST.ORG 199.249.125.1 2001:500:4d:0:0:0:0:1
 nserver:      C0.CCTLD.AFILIAS-NST.INFO 199.254.61.1 2001:500:27:0:0:0:0:1
 nserver:      D0.CCTLD.AFILIAS-NST.ORG 199.254.62.1 2001:500:28:0:0:0:0:1
+nserver:      NS7.CDNS.NET 194.0.1.7 2001:678:4:0:0:0:0:7
 ds-rdata:     64788 7 1 82E4E46622B646086C1051A6093DEB897BD1C022
 ds-rdata:     64788 7 2 4021B67522D8935C8D8D7CE32900ACB382F55E3D1A8DE920233CBE70A13DA85B
 
@@ -45,6 +46,6 @@ whois:        whois.inregistry.net
 remarks:      Registration information: http://www.registry.in
 
 created:      1989-05-08
-changed:      2010-11-24
+changed:      2011-04-01
 source:       IANA
 
