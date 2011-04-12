@@ -32,14 +32,14 @@ phone:        +964 7904318957
 fax-no:       +964 17195839
 e-mail:       it.iq@cmc.iq
 
-nserver:      A.DNS-SERVER.IQ 194.117.56.1
-nserver:      B.DNS-SERVER.IQ 194.117.57.1
-nserver:      C.DNS-SERVER.IQ 194.117.58.1
-nserver:      D.DNS-SERVER.IQ 194.117.59.1
-nserver:      E.DNS-SERVER.IQ 194.117.60.1
-nserver:      F.DNS-SERVER.IQ 194.117.61.1
+nserver:      A.DNS-SERVER.IQ 156.154.100.28
+nserver:      B.DNS-SERVER.IQ 156.154.101.28
+nserver:      C.DNS-SERVER.IQ 156.154.102.28
+nserver:      D.DNS-SERVER.IQ 156.154.103.28
+nserver:      E.DNS-SERVER.IQ 156.154.104.28
+nserver:      F.DNS-SERVER.IQ 156.154.105.28
 
 created:      1997-05-09
-changed:      2009-05-12
+changed:      2011-04-11
 source:       IANA
 
