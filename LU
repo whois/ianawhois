@@ -29,11 +29,9 @@ phone:        +352 4244091
 fax-no:       +352 422473
 e-mail:       gilles.massen@restena.lu
 
-nserver:      A.DNS.LU 156.154.100.11 2001:502:ad09:0:0:0:0:11
-nserver:      B.DNS.LU 156.154.101.11
-nserver:      C.DNS.LU 156.154.102.11
-nserver:      D.DNS.LU 156.154.103.11 2001:502:2eda:0:0:0:0:11
+nserver:      G.DNS.LU 194.0.23.5 2001:678:1b:5:0:0:0:5
 nserver:      I.DNS.LU 194.146.106.66 2001:67c:1010:16:0:0:0:53
+nserver:      J.DNS.LU 2a01:3f0:0:307:0:0:0:53 77.72.229.247
 nserver:      K.DNS.LU 194.0.1.13 2001:678:4:0:0:0:0:d
 nserver:      MERAPI.SWITCH.CH 130.59.211.10 2001:620:0:0:0:0:0:5
 nserver:      NS1.DNS.LU 158.64.229.2 2001:a18:4:0:0:0:0:2
@@ -45,6 +43,6 @@ whois:        whois.dns.lu
 remarks:      Registration information: http://www.dns.lu
 
 created:      1995-01-27
-changed:      2011-03-11
+changed:      2011-04-19
 source:       IANA
 
