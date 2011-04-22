@@ -19,7 +19,7 @@ address:      Crete  71110
 address:      Greece
 phone:        +30 281 0391450
 fax-no:       +30 281 0391451
-e-mail:       segred@ics.forth.gr ; noc@ics.forth.gr
+e-mail:       noc@ics.forth.gr
 
 contact:      technical
 name:         Vaggelis Segredakis
@@ -30,7 +30,7 @@ address:      Crete  71110
 address:      Greece
 phone:        +30 281 0391450
 fax-no:       +30 281 0391451
-e-mail:       segred@ics.forth.gr ; noc@ics.forth.gr
+e-mail:       noc@ics.forth.gr
 
 nserver:      ESTIA.ICS.FORTH.GR 139.91.191.3 2001:648:2c30::191:3
 nserver:      GR-AIX.ICS.FORTH.GR 2001:648:2100:0:0:0:0:130 83.212.8.130
@@ -45,6 +45,6 @@ ds-rdata:     41118 7 2 CB6DAEEF5AE0DB7CDFA54766F560D393A6A6B24A857E78C51D53C1B5
 remarks:      Registration information: http://www.gr
 
 created:      1989-02-19
-changed:      2010-12-15
+changed:      2011-04-21
 source:       IANA
 
