@@ -37,12 +37,13 @@ nserver:      C.NIC.CL 200.16.112.16
 nserver:      CL-NS.ANYCAST.PCH.NET 2001:500:14:6030:ad:0:0:1 204.61.216.30
 nserver:      CL1.DNSNODE.NET 194.146.106.34 2001:67c:1010:8:0:0:0:53
 nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e:0:0:0:0:1
+ds-rdata:     21199 8 2 7D756DFFAB6D3CD9C786FF5C659954C22944FAEF9433EEE26F1D84EB5370B394
 
 whois:        whois.nic.cl
 
 remarks:      Registration information: http://www.nic.cl/
 
 created:      1995-01-27
-changed:      2011-03-10
+changed:      2011-04-21
 source:       IANA
 
