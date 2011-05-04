@@ -1,0 +1,46 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       الجزائر
+domain-ace:   XN--LGBBAT1AD8J
+
+organisation: CERIST
+address:      Rue des Trois Freres Aissiou
+address:      Ben-Aknoun
+address:      Algiers  16035
+address:      Algeria
+
+contact:      administrative
+name:         DZ-NIC Manager
+organisation: CERIST
+address:      Rue des Trois Freres Aissiou
+address:      Ben-Aknou
+address:      Algiers  16035
+address:      Algeria
+phone:        +213 21 91 54 34
+fax-no:       +213 21 91 62 10
+e-mail:       dznicman@nic.dz
+
+contact:      technical
+name:         Aouaouche El-Maouhab
+organisation: CERIST
+address:      Rue des Trois Freres Aissiou
+address:      Ben-Aknou
+address:      Algiers  16035
+address:      Algeria
+phone:        +213 21 91 54 34
+fax-no:       +213 21 91 62 10
+e-mail:       elmaouhab@wissal.dz
+
+nserver:      IDN1.NIC.DZ 193.194.64.243
+nserver:      IDN2.NIC.DZ 213.179.160.68
+
+whois:        whois.nic.dz
+
+remarks:      Registration information: http://www.nic.dz
+
+created:      2011-02-05
+changed:      2011-05-03
+source:       IANA
+
