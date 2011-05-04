@@ -1,0 +1,42 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       СРБ
+domain-ace:   XN--90A3AC
+
+organisation: Serbian National Register of Internet Domain Names (RNIDS)
+address:      Bulevar Kralja Aleksandra 73
+address:      Belgrade  11000
+address:      Serbia
+
+contact:      administrative
+name:         RNIDS Admin Contact
+organisation: Serbian National Register of Internet Domain Names (RNIDS)
+address:      Bulevar Kralja Aleksandra 73
+address:      Belgrade  11000
+address:      Serbia
+phone:        +381 117281281
+fax-no:       +381 117281282
+e-mail:       tld-admin@rnids.rs
+
+contact:      technical
+name:         RNIDS Tech Contact
+organisation: Serbian National Register of Internet Domain Names (RNIDS)
+address:      Bulevar Kralja Aleksandra 73
+address:      Belgrade  11000
+address:      Serbia
+phone:        +381 117281281
+fax-no:       +381 117281282
+e-mail:       tld-tech@rnids.rs
+
+nserver:      A.NIC.RS 91.199.17.59
+nserver:      G.NIC.RS 147.91.8.6
+nserver:      H.NIC.RS 91.199.17.60
+
+remarks:      Registration information: http://www.rnids.rs/
+
+created:      2011-02-05
+changed:      2011-05-03
+source:       IANA
+
