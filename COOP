@@ -24,12 +24,12 @@ e-mail:       choover@dotcoop.coop
 contact:      technical
 name:         DotCoop Registry Operator
 organisation: Midcounties Co-operative Domains Ltd
-address:      New Barclay House
-address:      234 Botley Road
-address:      Oxford  OX2 0HP
+address:      Warwick Technology Park
+address:      Gallows Hill
+address:      Warwick  CV34 6DA
 address:      United Kingdom
-phone:        +44 1865 256 298
-fax-no:       +44 1865 792 057
+phone:        +44 1926 516 391
+fax-no:       +44 1926 516 151
 e-mail:       epp@nic.coop
 
 nserver:      COOP1.DYNTLD.NET 208.78.70.80
@@ -42,6 +42,6 @@ whois:        whois.nic.coop
 remarks:      Registration information: http://www.nic.coop
 
 created:      2001-12-15
-changed:      2008-01-10
+changed:      2011-05-04
 source:       IANA
 
