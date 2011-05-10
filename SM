@@ -34,11 +34,11 @@ nserver:      DNS.NETTUNO.IT 193.43.2.1
 nserver:      DNS.OMNIWAY.SM 194.183.64.10
 nserver:      NS-SM.RIPE.NET 193.0.12.191
 
-whois:        whois.ripe.net
+whois:        whois.nic.sm
 
 remarks:      Registration information: http://www.nic.sm
 
 created:      1995-08-16
-changed:      2008-05-08
+changed:      2011-05-09
 source:       IANA
 
