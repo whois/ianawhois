@@ -1,0 +1,51 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       BIZ
+
+organisation: NeuStar, Inc.
+address:      Loudoun Tech Center
+address:      46000 Center Oak Plaza
+address:      Sterling Virginia 20166
+address:      United States
+
+contact:      administrative
+name:         Director of Customer Service
+organisation: NeuStar, Inc.
+address:      Loudoun Tech Center
+address:      46000 Center Oak Plaza
+address:      Sterling Virginia 20166
+address:      United States
+phone:        +1 571 434-5757
+fax-no:       +1 571 434-5758
+e-mail:       support@neustar.biz
+
+contact:      technical
+name:         NeuStar Operations Center
+organisation: NeuStar, Inc.
+address:      Loudoun Tech Center
+address:      46000 Center Oak Plaza
+address:      Sterling Virginia 20166
+address:      United States
+phone:        +1 866 638-6622
+fax-no:       +1 571 434-5742
+e-mail:       nocteam@neustar.biz
+
+nserver:      A.GTLD.BIZ 156.154.124.65 2001:503:7bbb:ffff:ffff:ffff:ffff:ff7e
+nserver:      B.GTLD.BIZ 156.154.125.65
+nserver:      C.GTLD.BIZ 156.154.127.65
+nserver:      E.GTLD.BIZ 156.154.126.65
+nserver:      F.GTLD.BIZ 2001:500:3682:0:0:0:0:12 209.173.58.66
+nserver:      K.GTLD.BIZ 156.154.128.65 2001:503:e239:0:0:0:3:2
+ds-rdata:     36724 8 1 E427598046D839DE9F8A8B381D5A2C0609AFE4BC
+ds-rdata:     36724 8 2 0CD268577B02095808CCF1F77B8B76796038F42F5602748566ECC9034440F430
+
+whois:        whois.biz
+
+remarks:      Registration information: http://www.nic.biz
+
+created:      2001-06-26
+changed:      2011-03-01
+source:       IANA
+
