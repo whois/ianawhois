@@ -1,0 +1,44 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       BY
+
+organisation: Open Contact Ltd.
+address:      17 Kalvarijskaja Str.
+address:      Minsk  220004
+address:      Belarus
+
+contact:      administrative
+name:         Sergey Prokopov
+organisation: The Operative Analytical Center of the Republic of Belarus
+address:      17 Kalvarijskaja Str.
+address:      Minsk  220004
+address:      Belarus
+phone:        +375 17 2035967
+fax-no:       +375 17 2893180
+e-mail:       admin-c@tld.by
+
+contact:      technical
+name:         Andrey Ivanov
+organisation: Open Contact Ltd.
+address:      17 Kalvarijskaja Str.
+address:      Minsk  220004
+address:      Belarus
+phone:        +375 17 211 0121
+fax-no:       +375 17 211 0122
+e-mail:       tech-c@tld.by
+
+nserver:      ARWENA.NASK.WAW.PL 193.59.201.28
+nserver:      DNS.BELPAK.BY 193.232.248.45
+nserver:      NS-BY.RIPE.NET 193.0.12.21
+nserver:      NS.RU.NET 193.124.22.65
+nserver:      NS1.OPEN.BY 193.232.92.1
+nserver:      NS2.FREE.NET 193.233.1.67 2001:640:1:1:0:0:0:67
+
+remarks:      Registration information: http://cctld.by
+
+created:      1994-05-10
+changed:      2010-02-15
+source:       IANA
+
