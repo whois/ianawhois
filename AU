@@ -1,0 +1,49 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       AU
+
+organisation: .au Domain Administration (auDA)
+address:      114 Cardigan Street
+address:      Carlton  VIC 3053
+address:      Australia
+
+contact:      administrative
+name:         Chris Disspain, CEO
+organisation: .au Domain Administration (auDA)
+address:      114 Cardigan Street
+address:      Carlton  VIC 3053
+address:      Australia
+phone:        + 61 03 8341 4111, + 61 1300 732 929
+fax-no:       + 61 03 8341 4112
+e-mail:       ceo@auda.org.au
+
+contact:      technical
+name:         Adam King, Technical Officer
+organisation: .au Domain Administration (auDA)
+address:      114 Cardigan Street
+address:      Carlton  VIC 3053
+address:      Australia
+phone:        +61 (0)3 8341 4111
+fax-no:       +61 (0)3 8341 4112
+e-mail:       adam.king@auda.org.au
+
+nserver:      A.AU 58.65.254.73
+nserver:      A3.AUDNS.NET.AU 2001:dc0:4001:1:0:1836:0:141 202.12.31.141
+nserver:      B.AU 58.65.253.73
+nserver:      B1.AUDNS.NET.AU 128.32.136.3 2607:f140:ffff:fffe:0:0:0:3
+nserver:      B2.AUDNS.NET.AU 128.32.136.14 2607:f140:ffff:fffe:0:0:0:e
+nserver:      NS1.AUDNS.NET.AU 58.65.255.73
+nserver:      NS3.AUDNS.NET.AU 58.65.251.73
+nserver:      O.AUDNS.NET.AU 211.29.133.32
+
+whois:        whois.audns.net.au
+
+remarks:      Registration information:
+remarks:      http://www.auda.org.au/domains/au-domains/
+
+created:      1986-03-05
+changed:      2011-05-05
+source:       IANA
+
