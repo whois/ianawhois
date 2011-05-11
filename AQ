@@ -1,0 +1,38 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       AQ
+
+organisation: Mott and Associates
+address:      2116/26 Albert Street
+address:      Auckland Central Auckland 1010
+address:      New Zealand
+
+contact:      administrative
+name:         Peter Mott
+organisation: Mott & Associates
+address:      2116/26 Albert Street
+address:      Auckland Central Auckland 1010
+address:      New Zealand
+phone:        +64 21 279 4995
+e-mail:       info@icenic.aq
+
+contact:      technical
+name:         Network Operations Centre
+organisation: Swizzle Limited
+address:      2116/26 Albert Street
+address:      Auckland Central Auckland 1010
+address:      New Zealand
+phone:        +64 21 279 4995
+e-mail:       noc@swizzle.co.nz
+
+nserver:      NS1.DNS.AQ 203.119.56.132
+nserver:      NS99.DNS.NET.NZ 202.46.191.130
+nserver:      SLAVE1.STH.NETNOD.SE 192.36.144.116
+nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e:0:0:0:0:1
+
+created:      1992-02-26
+changed:      2011-03-10
+source:       IANA
+
