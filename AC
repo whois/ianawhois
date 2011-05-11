@@ -1,0 +1,47 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       AC
+
+organisation: Network Information Center (AC Domain Registry)
+organisation: c/o Cable and Wireless (Ascension Island)
+address:      South Atlantic Ocean
+address:      Ascension Island
+
+contact:      administrative
+name:         Internet Manager
+organisation: Network Information Center (AC Domain Registry)
+organisation: c/o Cable and Wireless (Ascension Island)
+address:      South Atlantic Ocean
+address:      Ascension Island
+fax-no:       +247 6464
+e-mail:       administrator@NIC.AC
+
+contact:      technical
+name:         Administrator
+organisation: ICB Plc.
+address:      9 Queens Road
+address:      Bournemouth Dorset BH2 6BA
+address:      United Kingdom
+fax-no:       +44 1225 580 550
+e-mail:       admin@icb.co.uk
+
+nserver:      A.NIC.AC 64.251.31.177
+nserver:      A.NS13.NET 202.181.97.168
+nserver:      B.NIC.AC 78.104.145.37
+nserver:      B.NIC.IO 194.0.2.1
+nserver:      B.NS13.NET 202.181.96.60
+nserver:      NS1.COMMUNITYDNS.NET 194.0.1.1 2001:678:4:0:0:0:0:1
+nserver:      NS3.ICB.CO.UK 91.208.95.130
+ds-rdata:     14403 7 1 3884DE2E920F38E01B659CC5F37B6749BB0DC818
+ds-rdata:     14403 7 2 584BCEE9B917FC92AFBDD0FC8AF12AB31B3A7B0754894688DA3C57F5CA7D8E56
+
+whois:        whois.nic.ac
+
+remarks:      Registration information: http://www.nic.ac/
+
+created:      1997-12-19
+changed:      2011-05-01
+source:       IANA
+
