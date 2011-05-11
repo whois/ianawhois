@@ -1,0 +1,45 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       BO
+
+organisation: Agencia para el Desarrollo de la Información de la Sociedad en Bolivia
+address:      Calle Ayacucho y Mercado No. 308 Piso 3
+address:      Edificio de la Vicepresidencia
+address:      La Paz  13097
+address:      Bolivia
+
+contact:      administrative
+name:         Jorge Alejandro Patiño Córdova (Director Ejecutivo a.i.)
+organisation: Agencia para el Desarrollo de la Información de la Sociedad en Bolivia
+address:      Calle Ayacucho y Mercado No. 308 Piso 3
+address:      Edificio de la Vicepresidencia
+address:      La Paz  13097
+address:      Bolivia
+phone:        +591 2 2200720
+fax-no:       +591 2 2200720
+e-mail:       jpatino@adsib.gob.bo
+
+contact:      technical
+name:         José Luís Machicado (Jefe de Unidad Técnica)
+organisation: Agencia para el Desarrollo de la Información de la Sociedad en Bolivia
+address:      Calle Ayacucho y Mercado No. 308 Piso 3
+address:      Edificio de la Vicepresidencia
+address:      La Paz  13097
+address:      Bolivia
+phone:        +591 2 2200720
+fax-no:       +591 2 2200720
+e-mail:       jmachicado@adsib.gob.bo
+
+nserver:      AUTH100.NS.UU.NET 198.6.1.202
+nserver:      UTAMA.BOLNET.BO 166.114.1.40
+
+whois:        whois.nic.bo
+
+remarks:      Registration information: http://www.nic.bo
+
+created:      1991-02-26
+changed:      2008-08-13
+source:       IANA
+
