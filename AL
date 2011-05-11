@@ -1,0 +1,44 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       AL
+
+organisation: Electronic and Postal Communications Authority - AKEP
+address:      Rr. Reshit Collaku Nr. 43
+address:      Tirana  1001
+address:      Albania
+
+contact:      administrative
+name:         Technical Director
+organisation: Electronic and Postal Communications Authority - AKEP
+address:      Rr. Reshit Collaku Nr. 43
+address:      Tirana  1001
+address:      Albania
+phone:        +355 4 2250926
+fax-no:       + 355 4 2259106
+e-mail:       domain@akep.al
+
+contact:      technical
+name:         Adriatik Allamani
+organisation: Electronic and Postal Communications Authority - AKEP
+address:      Rr. Reshit Collaku Nr. 43
+address:      Tirana  1001
+address:      Albania
+phone:        +355 4 2250926
+fax-no:       +355 4 2259106
+e-mail:       nic@akep.al
+
+nserver:      MUNNARI.OZ.AU 202.29.151.3
+nserver:      NS-AL.ISTI.CNR.IT 194.119.192.3 194.119.192.4
+nserver:      NS-AL.RIPE.NET 193.0.12.3 2001:610:240:0:53:cc:12:3
+nserver:      NS1.NIC.AL 194.1.149.230
+nserver:      RIP.PSG.COM 147.28.0.39 2001:418:1:0:0:0:0:39
+nserver:      SUNIC.SUNET.SE 192.36.125.2 2001:6b0:7:0:0:0:0:2
+
+remarks:      Registration information: http://www.nic.al/
+
+created:      1992-04-21
+changed:      2010-07-09
+source:       IANA
+
