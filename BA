@@ -1,0 +1,43 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       BA
+
+organisation: Universtiy Telinformatic Centre (UTIC)
+address:      Zmaja od Bosne 8 (objekat 33)
+address:      Sarajevo  71000
+address:      Bosnia-Hercegovina
+
+contact:      administrative
+name:         Aida Radielovic
+organisation: University Teleinformatic Centre (UTIC)
+address:      Zmaja od Bosne 8 (objekat 33)
+address:      Sarajevo  71000
+address:      Bosnia-Hercegovina
+phone:        +387 33 560 240
+fax-no:       +387 33 213 773
+e-mail:       dnsadmin@utic.net.ba
+
+contact:      technical
+name:         Senad Burak
+organisation: University Teleinformatic Centre (UTIC)
+address:      Zmaja od Bosne 8 (objekat 33)
+address:      Sarajevo  71000
+address:      Bosnia-Hercegovina
+phone:        +387 33 560 240
+fax-no:       +387 33 213 773
+e-mail:       dnstech@utic.net.ba
+
+nserver:      AUTH03.NS.UU.NET 198.6.1.83
+nserver:      MUNNARI.OZ.AU 202.29.151.3
+nserver:      NS-BA.RIPE.NET 193.0.12.28
+nserver:      NS.BA 195.130.35.5
+nserver:      SAVA.UTIC.NET.BA 195.130.35.3
+
+remarks:      Registration information: http://www.nic.ba
+
+created:      1996-08-14
+changed:      2010-07-09
+source:       IANA
+
