@@ -1,0 +1,48 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       BG
+
+organisation: Register.BG
+address:      40, Slivnitsa blvd
+address:      Varna  9000
+address:      Bulgaria
+
+contact:      administrative
+name:         Dragomir Slavov
+organisation: Register.BG
+address:      40, Slivnitsa blvd
+address:      Varna  9000
+address:      Bulgaria
+phone:        +359 52 614179 or +359 52 603231
+fax-no:       +359 52 614176 or +359 2 9806889
+e-mail:       dhs@digsys.bg
+
+contact:      technical
+name:         Daniel Kalchev
+organisation: Register.BG
+address:      40, Slivnitsa blvd
+address:      Varna  9000
+address:      Bulgaria
+phone:        +359 52 694060 or +359 52 603231
+fax-no:       +359 52 614176 or +359 2 9806889
+e-mail:       daniel@digsys.bg
+
+nserver:      NS-BG.RIPE.NET 193.0.12.34
+nserver:      NS-EXT.VIX.COM 204.152.184.64
+nserver:      NS.REGISTER.BG 192.92.129.99
+nserver:      NS2.REGISTER.BG 193.68.3.232
+nserver:      NS3.REGISTER.BG 94.155.14.10
+nserver:      SUNIC.SUNET.SE 192.36.125.2 2001:6b0:7:0:0:0:0:2
+ds-rdata:     46846 5 1 1D83F503CCED4A4B6F7F8DB1CF43D38F9133A3EA
+ds-rdata:     46846 5 2 26811E459C850F50A85D1EAF589E30DC14D09D1A6E6262E8D36B6BFFC605334C
+
+whois:        whois.register.bg
+
+remarks:      Registration information: http://www.register.bg
+
+created:      1995-01-03
+changed:      2010-07-03
+source:       IANA
+
