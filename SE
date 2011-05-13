@@ -37,7 +37,7 @@ nserver:      E.NS.SE 81.228.10.57
 nserver:      F.NS.SE 192.71.53.53
 nserver:      G.NS.SE 130.239.5.114 2001:6b0:e:3:0:0:0:1
 nserver:      H.NS.SE 199.7.49.30
-nserver:      I.NS.SE 194.146.106.22
+nserver:      I.NS.SE 194.146.106.22 2001:67c:1010:5:0:0:0:53
 nserver:      J.NS.SE 199.254.63.1 2001:500:2c:0:0:0:0:1
 ds-rdata:     7649 5 2 EE7C340D6636CA50DB126DBBF69CE4A79A76D3DF830F4A6BA207CAEFDA32F443
 ds-rdata:     39547 5 2 57d1927113224d7fbb9fc2f68394a717263ddae5f883ee461aaf8f4ed4f39e23
@@ -47,6 +47,6 @@ whois:        whois.iis.se
 remarks:      Registration information: http://www.iis.se
 
 created:      1986-09-04
-changed:      2011-01-20
+changed:      2011-05-10
 source:       IANA
 
