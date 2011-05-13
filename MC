@@ -11,7 +11,7 @@ address:      Principaute de Monaco  98000
 address:      Monaco
 
 contact:      administrative
-name:         Laurie Cottalorda
+name:         Contact administratif
 organisation: Gouvernement de Monaco
 organisation: Direction des Communications Electroniques
 address:      23, Avenue Albert II
@@ -19,25 +19,26 @@ address:      Principaute de Monaco  98000
 address:      Monaco
 phone:        +377 98 98 84 39
 fax-no:       +377 97 98 56 57
-e-mail:       lcottalorda@gouv.mc
+e-mail:       nic@gouv.mc
 
 contact:      technical
-name:         Stephane Frasconi
-organisation: Monaco Telecom
-address:      25, Boulevard de Suisse
+name:         Contact technique
+organisation: Gouvernement de Monaco
+organisation: Direction des Communications Electroniques
+address:      23, Avenue Albert II
 address:      Principaute de Monaco  98000
 address:      Monaco
-phone:        +377 99 66 63 00
-fax-no:       +377 99 66 63 01
-e-mail:       dns@monaco-telecom.mc
+phone:        +377 98 98 84 39
+fax-no:       +377 97 98 56 57
+e-mail:       root@nic.mc
 
-nserver:      BOW.RAIN.FR 194.51.3.49
 nserver:      NS-MC.RIPE.NET 193.0.12.145 2001:610:240:0:53:cc:12:145
-nserver:      NS.NIC.MC 195.78.6.131
+nserver:      NS1.NIC.MC 195.78.19.216
+nserver:      NS2.NIC.MC 85.31.217.131
 
 remarks:      Registration information: http://www.nic.mc/
 
 created:      1995-01-20
-changed:      2010-06-07
+changed:      2011-05-10
 source:       IANA
 
