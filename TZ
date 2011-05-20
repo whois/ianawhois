@@ -36,6 +36,7 @@ fax-no:       +255 22 277 2 660
 e-mail:       technical@tznic.or.tz
 
 nserver:      D.EXT.NIC.CZ 193.29.206.2 2001:678:1:0:0:0:0:2
+nserver:      NS.ANYCAST.CO.TZ 204.61.216.15
 nserver:      NS2.AFRINIC.NET 196.216.168.10 2001:43f8:120:0:0:0:0:10
 nserver:      NS2.TZNIC.OR.TZ 196.216.162.67 2001:43f8:e0:1:0:0:0:67
 nserver:      RIP.PSG.COM 147.28.0.39 2001:418:1:0:0:0:0:39
@@ -47,6 +48,6 @@ whois:        whois.tznic.or.tz
 remarks:      Registration information: http://www.tznic.or.tz/
 
 created:      1995-07-14
-changed:      2011-03-10
+changed:      2011-05-19
 source:       IANA
 
