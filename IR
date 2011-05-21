@@ -31,13 +31,13 @@ e-mail:       alireza.saleh@irnic.ir
 
 nserver:      AUTH02.NS.UU.NET 198.6.1.82
 nserver:      NS1.NIC.IR 194.225.70.83
-nserver:      NS5.UNIVIE.AC.AT 193.171.255.77
+nserver:      NS5.UNIVIE.AC.AT 193.171.255.77 2001:628:453:4305:0:0:0:53
 
 whois:        whois.nic.ir
 
 remarks:      Registration information: http://www.nic.ir
 
 created:      1994-04-06
-changed:      2010-07-28
+changed:      2011-05-20
 source:       IANA
 
