@@ -36,14 +36,16 @@ phone:        +966 1 263 9235
 fax-no:       +966 1 263 9228
 e-mail:       sa-tld-tech-contact@nic.net.sa
 
+nserver:      NS1.ISU.NET.SA 212.26.18.3
 nserver:      NS1.NIC.NET.SA 2001:67c:130:410:0:0:0:9 86.111.192.9
 nserver:      NS2.NIC.NET.SA 2001:67c:130:10:0:0:0:9 86.111.196.9
+nserver:      SA-NS.ANYCAST.PCH.NET 2001:500:14:6041:ad:0:0:1 204.61.216.41
 
 whois:        whois.nic.net.sa
 
 remarks:      Registration information: http://www.nic.net.sa/
 
 created:      2010-05-05
-changed:      2010-05-27
+changed:      2011-05-20
 source:       IANA
 
