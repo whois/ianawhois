@@ -33,10 +33,11 @@ e-mail:       tld-tech@rnids.rs
 nserver:      A.NIC.RS 91.199.17.59
 nserver:      G.NIC.RS 147.91.8.6
 nserver:      H.NIC.RS 91.199.17.60
+nserver:      K.NIC.RS 192.5.4.1 2001:500:2e:0:0:0:0:1
 
 remarks:      Registration information: http://www.rnids.rs/
 
 created:      2011-02-05
-changed:      2011-05-03
+changed:      2011-05-20
 source:       IANA
 
