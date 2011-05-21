@@ -31,12 +31,12 @@ e-mail:       gone@ukim.edu.mk
 
 nserver:      KITKA.MARNET.NET.MK 194.149.131.2
 nserver:      NS1.ARNES.SI 193.2.1.86
-nserver:      NS5.UNIVIE.AC.AT 193.171.255.77
+nserver:      NS5.UNIVIE.AC.AT 193.171.255.77 2001:628:453:4305:0:0:0:53
 nserver:      RIP.PSG.COM 147.28.0.39 2001:418:1:0:0:0:0:39
 
 remarks:      Registration information: http://www.mpt.com.mk/
 
 created:      1993-09-23
-changed:      2009-07-16
+changed:      2011-05-20
 source:       IANA
 
