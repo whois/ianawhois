@@ -30,7 +30,7 @@ fax-no:       +966 1 263 9228
 e-mail:       sa-tld-tech-contact@nic.net.sa
 
 nserver:      NS-SA.RIPE.NET 193.0.12.193 2001:610:240:0:53:cc:12:193
-nserver:      NS1.ISU.NET.SA 212.26.18.3
+nserver:      NS1.ISU.NET.SA 2001:1490:0:800:0:0:0:3 212.26.18.3
 nserver:      NS1.NIC.NET.SA 2001:67c:130:410:0:0:0:9 86.111.192.9
 nserver:      NS2.NIC.NET.SA 2001:67c:130:10:0:0:0:9 86.111.196.9
 nserver:      RIP.PSG.COM 147.28.0.39 2001:418:1:0:0:0:0:39
@@ -41,6 +41,6 @@ whois:        whois.nic.net.sa
 remarks:      Registration information: http://www.nic.net.sa/
 
 created:      1994-05-17
-changed:      2010-05-27
+changed:      2011-05-27
 source:       IANA
 
