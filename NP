@@ -5,29 +5,29 @@
 domain:       NP
 
 organisation: Mercantile Communications Pvt. Ltd.
-address:      1429 DurbarMarg ,Kathmandu
-address:      Kathmandu Bagmati P.O.Box 876
+address:      Hitti Pokhari, DurbarMarg, Kathmandu
+address:      Kathmandu Bagmati 876
 address:      Nepal
 
 contact:      administrative
-name:         Sanjib Raj Bhandari
+name:         Sanjib Raj Bhandari, CEO
 organisation: Mercantile Communications Pvt. Ltd.
-address:      1429 DurbarMarg ,Kathmandu
-address:      Kathmandu Bagmati P.O.Box 876
+address:      Hitti Pokhari, DurbarMarg, Kathmandu
+address:      Kathmandu Bagmati 876
 address:      Nepal
-phone:        +977 1 4240920
-fax-no:       +977 1 4225407
+phone:        +977 1 4445920
+fax-no:       +977 1 4439360
 e-mail:       sanjib@mos.com.np
 
 contact:      technical
-name:         Eswari Prasad Sharma
+name:         Rajiv Bastola, System Administrator
 organisation: Mercantile Communications Pvt. Ltd.
-address:      1429 DurbarMarg
-address:      Kathmandu Bagmati P.O.Box 876
+address:      Hitti Pokhari, DurbarMarg, Kathmandu
+address:      Kathmandu Bagmati 876
 address:      Nepal
-phone:        +977 1 4240920
-fax-no:       +977 1 4225407
-e-mail:       eswaris@mos.com.np
+phone:        +977 1 4445920
+fax-no:       +977 1 4439360
+e-mail:       brajiv@mercantile.com.np
 
 nserver:      NP-NS.ANYCAST.PCH.NET 204.61.216.11
 nserver:      NP-NS.NPIX.NET.NP 198.32.126.50
@@ -40,6 +40,6 @@ nserver:      YARRINA.CONNECT.COM.AU 192.189.54.17
 remarks:      Registration information: http://www.mos.com.np
 
 created:      1995-01-25
-changed:      2011-03-04
+changed:      2011-06-08
 source:       IANA
 
