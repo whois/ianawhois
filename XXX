@@ -36,8 +36,11 @@ nserver:      B2.XXX.AFILIAS-NST.ORG 199.115.157.1
 nserver:      C0.XXX.AFILIAS-NST.INFO 199.115.154.1
 nserver:      D0.XXX.AFILIAS-NST.ORG 199.115.155.1
 
+whois:        whois.nic.xxx
+
 remarks:      Registration information: http://www.icmregistry.com/
 
 created:      2011-04-15
+changed:      2011-06-10
 source:       IANA
 
