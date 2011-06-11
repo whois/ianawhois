@@ -24,13 +24,13 @@ e-mail:       donna.samblanet@gsa.gov
 
 contact:      technical
 name:         Registry Customer Service
-organisation: VeriSign Global Registry Services
+organisation: Verisign, Inc.
 address:      21345 Ridgetop Circle
 address:      Dulles Virginia 20166
 address:      United States
-phone:        +1 703 925 6999
-fax-no:       +1 703 421 5828
-e-mail:       info@verisign-grs.com
+phone:        +1 877 734 4688
+fax-no:       +1 540 301 0160
+e-mail:       registrar@dotgov.gov
 
 nserver:      A.GOV-SERVERS.NET 2001:500:4431:0:0:0:2:30 69.36.157.30
 nserver:      B.GOV-SERVERS.NET 209.112.123.30
@@ -42,6 +42,6 @@ whois:        whois.dotgov.gov
 remarks:      Registration information: http://www.dotgov.gov
 
 created:      1985-01-01
-changed:      2011-06-07
+changed:      2011-06-10
 source:       IANA
 
