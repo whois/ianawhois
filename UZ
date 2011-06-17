@@ -12,7 +12,7 @@ address:      Tashkent  100011
 address:      Uzbekistan
 
 contact:      administrative
-name:         Mr. Ibrohim D. Djuraev
+name:         Mr. Ibrohim D. Djuraev, First deputy Director
 organisation: Computerization and Information Technologies Developing Center
 organisation: UZINFOCOM
 address:      28-B
@@ -24,7 +24,7 @@ fax-no:       +998 71 2384248
 e-mail:       i.djuraev@uzinfocom.uz
 
 contact:      technical
-name:         Anatoliy V. Pelepets
+name:         Anatoliy V. Pelepets, Chief Specialist of National Domain "UZ" Development Group
 organisation: Computerization and Information Technologies Developing Center
 organisation: UZINFOCOM
 address:      28-B
@@ -38,7 +38,7 @@ e-mail:       cctld@uzinfocom.uz
 nserver:      NS.UZ 91.212.89.8
 nserver:      NS2.UZ 81.95.224.158
 nserver:      NS3.UZ 195.158.1.22
-nserver:      NS4.UZ 87.139.124.237
+nserver:      NS4.UZ 87.139.46.51
 nserver:      NS5.UZ 217.12.81.129
 nserver:      NS6.UZ 83.69.129.4
 
@@ -47,6 +47,6 @@ whois:        whois.cctld.uz
 remarks:      Registration information: http://www.cctld.uz/
 
 created:      1995-04-29
-changed:      2009-11-16
+changed:      2011-06-16
 source:       IANA
 
