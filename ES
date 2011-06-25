@@ -32,7 +32,7 @@ phone:        +34 91 212 76 20
 fax-no:       + 34 91 556 88 64
 e-mail:       esnic-tech@red.es
 
-nserver:      A.NIC.ES 194.69.254.1
+nserver:      A.NIC.ES 194.69.254.1 2001:67c:21cc:2000:0:0:64:41
 nserver:      F.NIC.ES 130.206.1.2 2001:720:418:caf1:0:0:0:2
 nserver:      NS-EXT.NIC.CL 200.1.123.14
 nserver:      NS1.CESCA.ES 84.88.0.3
@@ -45,6 +45,6 @@ whois:        whois.nic.es
 remarks:      Registration information: http://www.nic.es/
 
 created:      1988-04-14
-changed:      2011-06-07
+changed:      2011-06-24
 source:       IANA
 
