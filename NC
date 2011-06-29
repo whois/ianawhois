@@ -29,14 +29,16 @@ phone:        +687 267 645
 fax-no:       +687 287 172
 e-mail:       nicolas.soulard@opt.nc
 
-nserver:      NS-NC.RIPE.NET 193.0.12.157
-nserver:      NS1.IRD.FR 193.50.53.3
-nserver:      PYTHON.OPT.NC 202.87.129.43
-nserver:      TRITON.OPT.NC 202.87.129.60
+nserver:      ANY-NS1.NC 114.69.222.1 2001:500:14:8000:7245:de00:0:1
+nserver:      NS-NC.RIPE.NET 193.0.12.157 2001:610:240:0:53:cc:12:157
+nserver:      NS1.NC 202.87.129.16
+nserver:      NS2.NC 202.87.129.17
+
+whois:        whois.nc
 
 remarks:      Registration information: http://www.domaine.nc
 
 created:      1993-10-13
-changed:      2010-01-25
+changed:      2011-06-28
 source:       IANA
 
