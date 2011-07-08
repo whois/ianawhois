@@ -30,7 +30,7 @@ fax-no:       +1 978 359 5830
 e-mail:       sia@nest.org
 
 nserver:      CD1.NS.UA 194.0.1.9 2001:678:4:0:0:0:0:9
-nserver:      HE1.NS.UA 216.218.215.27
+nserver:      HE1.NS.UA 2001:470:2e:1:0:0:0:27 216.218.215.27
 nserver:      HO1.NS.UA 195.47.253.1 2001:67c:258::1
 nserver:      NS-UA.RIPE.NET 193.0.12.232 2001:610:240:0:53:cc:12:232
 nserver:      PCH.NS.UA 2001:500:14:6012:ad:0:0:1 204.61.216.12
@@ -43,6 +43,6 @@ whois:        whois.ua
 remarks:      Registration information: http://hostmaster.ua/
 
 created:      1992-12-01
-changed:      2011-03-10
+changed:      2011-07-07
 source:       IANA
 
