@@ -32,9 +32,9 @@ e-mail:       info@verisign-grs.com
 nserver:      A.EDU-SERVERS.NET 192.5.6.30
 nserver:      C.EDU-SERVERS.NET 192.26.92.30
 nserver:      D.EDU-SERVERS.NET 192.31.80.30
-nserver:      F.EDU-SERVERS.NET 192.35.51.36
-nserver:      G.EDU-SERVERS.NET 192.42.93.36 2001:503:cc2c:0:0:0:2:36
-nserver:      L.EDU-SERVERS.NET 192.41.162.36
+nserver:      F.EDU-SERVERS.NET 192.35.51.30
+nserver:      G.EDU-SERVERS.NET 192.42.93.30 2001:503:cc2c:0:0:0:2:36
+nserver:      L.EDU-SERVERS.NET 192.41.162.30
 ds-rdata:     5330 7 2 B235260ABF0877B65647D46B60AA3DDFE5F4F37F3915EC8D90615BF8AA603808
 
 whois:        whois.educause.edu
@@ -43,6 +43,6 @@ remarks:      Registration information:
 remarks:      http://www.educause.edu/edudomain
 
 created:      1985-01-01
-changed:      2011-07-06
+changed:      2011-07-13
 source:       IANA
 
