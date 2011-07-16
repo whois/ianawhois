@@ -33,12 +33,13 @@ nserver:      ANY-NS1.NC 114.69.222.1 2001:500:14:8000:7245:de00:0:1
 nserver:      NS-NC.RIPE.NET 193.0.12.157 2001:610:240:0:53:cc:12:157
 nserver:      NS1.NC 202.87.129.16
 nserver:      NS2.NC 202.87.129.17
+ds-rdata:     49057 8 2 5957AB66CF4871C8C39EDEBC78DFAB2B6DCBB3EA5E97278EA27190539410B753
 
 whois:        whois.nc
 
 remarks:      Registration information: http://www.domaine.nc
 
 created:      1993-10-13
-changed:      2011-06-28
+changed:      2011-07-15
 source:       IANA
 
