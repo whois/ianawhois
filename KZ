@@ -33,7 +33,7 @@ e-mail:       pg@nic.kz
 
 nserver:      AUTH00.NS.UU.NET 198.6.1.65
 nserver:      NS-KZ.RIPE.NET 193.0.12.113 2001:610:240:0:53:cc:12:113
-nserver:      NS.NIC.KZ 75.126.233.106
+nserver:      NS.NIC.KZ 194.0.21.5
 nserver:      NS.NURSAT.NET 195.82.0.1
 nserver:      NS.RU.NET 193.124.22.65
 nserver:      NS.SPB.RU 193.124.83.69
@@ -43,6 +43,6 @@ whois:        whois.nic.kz
 remarks:      Registration information: http://www.nic.kz
 
 created:      1994-09-19
-changed:      2011-04-21
+changed:      2011-07-15
 source:       IANA
 
