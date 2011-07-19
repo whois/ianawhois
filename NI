@@ -21,7 +21,7 @@ address:      Managua  MR110
 address:      Nicaragua
 phone:        +505 278 3142
 fax-no:       +505 278 3141
-e-mail:       admni@nic.ni ; marvin@nic.ni
+e-mail:       marvin@nic.ni
 
 contact:      technical
 name:         Alfonso Boza
@@ -33,7 +33,7 @@ address:      Managua  MR110
 address:      Nicaragua
 phone:        +505 278 3142
 fax-no:       +505 278 3141
-e-mail:       tecni@nic.ni ; boza@nic.ni
+e-mail:       boza@nic.ni
 
 nserver:      NS.CR 163.178.8.2
 nserver:      NS.IBW.COM.NI 200.85.160.2
@@ -46,6 +46,6 @@ nserver:      NS2.NI 200.9.187.2
 remarks:      Registration information: http://www.nic.ni
 
 created:      1989-10-13
-changed:      2008-01-09
+changed:      2011-07-18
 source:       IANA
 
