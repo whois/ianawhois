@@ -40,6 +40,7 @@ nserver:      NS2.BATELCO.COM.BH 193.188.97.212
 nserver:      NS3.BATELCO.COM.BH 193.188.97.193
 nserver:      NS4.BATELCO.COM.BH 193.188.97.209
 
+status:       ACTIVE
 remarks:      Registration information: http://www.inet.com.bh
 
 created:      1994-02-01
