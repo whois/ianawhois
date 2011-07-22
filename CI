@@ -7,14 +7,14 @@ domain:       CI
 organisation: INP-HB Institut National Polytechnique Felix Houphouet Boigny
 address:      BP 1093
 address:      Yamoussoukro
-address:      Cote d'Ivoire
+address:      Côte D'ivoire
 
 contact:      administrative
 name:         Bobouo Nakounou
 organisation: INP-HB Institut National Polytechnique Felix Houphouet Boigny
 address:      BP 1093
 address:      Yamoussoukro
-address:      Cote d'Ivoire
+address:      Côte D'ivoire
 phone:        +225 30 64 05 41
 fax-no:       +225 22 44 66 00
 e-mail:       bobouo@nic.ci
@@ -24,7 +24,7 @@ name:         Souleymane Oumtanaga
 organisation: INP-HB Institut National Polytechnique Felix Houphouet Boigny
 address:      BP 1093
 address:      Yamoussoukro
-address:      Cote d'Ivoire
+address:      Côte D'ivoire
 phone:        +225 07 90 02 31
 fax-no:       +225 22 44 66 00
 e-mail:       oumtana@nic.ci
@@ -34,10 +34,11 @@ nserver:      NS-CI.RIPE.NET 193.0.12.56 2001:610:240:0:53:cc:12:56
 nserver:      NS.NIC.CI 213.136.100.81
 nserver:      NS1.IRD.FR 193.50.53.3
 nserver:      NS1.NIC.CI 213.136.106.214
-nserver:      PHLOEM.UOREGON.EDU 128.223.32.35 2001:468:d01:20::80df:2023
+nserver:      PHLOEM.UOREGON.EDU 128.223.32.35 2001:468:d01:20:0:0:80df:2023
 
 whois:        whois.nic.ci
 
+status:       ACTIVE
 remarks:      Registration information: http://www.nic.ci
 
 created:      1995-02-14
