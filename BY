@@ -36,6 +36,7 @@ nserver:      NS.RU.NET 193.124.22.65
 nserver:      NS1.OPEN.BY 193.232.92.1
 nserver:      NS2.FREE.NET 193.233.1.67 2001:640:1:1:0:0:0:67
 
+status:       ACTIVE
 remarks:      Registration information: http://cctld.by
 
 created:      1994-05-10
