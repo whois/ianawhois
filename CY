@@ -31,13 +31,14 @@ e-mail:       panaretou.sotiris@ucy.ac.cy
 
 nserver:      CY-NS.ANYCAST.PCH.NET 204.61.216.44
 nserver:      CYNIC.DNS.CY 194.42.29.1
-nserver:      ESTIA.ICS.FORTH.GR 139.91.191.3 2001:648:2c30::191:3
+nserver:      ESTIA.ICS.FORTH.GR 139.91.191.3 2001:648:2c30:0:0:0:191:3
 nserver:      NS02.SAVVIS.NET 204.70.57.242
 nserver:      NS1.MT 193.188.34.241
 nserver:      NS2.CC.UCY.AC.CY 194.42.1.5
-nserver:      SEC3.APNIC.NET 2001:dc0:1:0:4777::140 202.12.28.140
+nserver:      SEC3.APNIC.NET 2001:dc0:1:0:4777:0:0:140 202.12.28.140
 nserver:      ZEUS.CC.UCY.AC.CY 194.42.1.1
 
+status:       ACTIVE
 remarks:      Registration information: http://www.nic.cy
 
 created:      1994-07-26
