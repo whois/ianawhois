@@ -30,8 +30,9 @@ fax-no:       +269731079
 e-mail:       alihadji@comorestelecom.km
 
 nserver:      DNS1.KM 80.231.195.18
-nserver:      PHLOEM.UOREGON.EDU 128.223.32.35 2001:468:d01:20::80df:2023
+nserver:      PHLOEM.UOREGON.EDU 128.223.32.35 2001:468:d01:20:0:0:80df:2023
 
+status:       ACTIVE
 remarks:      Registration information: http://www.domaine.km/
 
 created:      1998-06-08
