@@ -8,7 +8,7 @@ organisation: Melrex TC
 address:      Richmond House
 address:      PO Box 127
 address:      Leeward Highway Providenciales
-address:      Turks and Caicos Islands
+address:      Turks And Caicos Islands
 
 contact:      administrative
 name:         Registrar
@@ -16,7 +16,7 @@ organisation: Melrex TC
 address:      Richmond House
 address:      P.O. Box 127
 address:      Leeward Highway Providenciales
-address:      Turks and Caicos Islands
+address:      Turks And Caicos Islands
 phone:        +44 1223 353203
 e-mail:       tldwhois@adamsnames.tc
 
@@ -37,6 +37,7 @@ nserver:      SEC2.DNS.UK.PSI.NET 154.32.107.34
 
 whois:        whois.adamsnames.tc
 
+status:       ACTIVE
 remarks:      Registration information: http://www.adamsnames.tc/
 
 created:      1997-01-27
