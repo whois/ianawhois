@@ -43,6 +43,7 @@ nserver:      NS.TMX.COM.NI 200.62.64.1
 nserver:      NS.UU.NET 137.39.1.3
 nserver:      NS2.NI 200.9.187.2
 
+status:       ACTIVE
 remarks:      Registration information: http://www.nic.ni
 
 created:      1989-10-13
