@@ -18,7 +18,7 @@ address:      Apia
 address:      Samoa
 phone:        +685 20926
 fax-no:       +685 20932
-e-mail:       Dave@samoa.ws
+e-mail:       dave@samoa.ws
 
 contact:      technical
 name:         Technical Director
@@ -39,6 +39,7 @@ nserver:      NS7.DNS.WS 77.92.65.174
 
 whois:        whois.website.ws
 
+status:       ACTIVE
 remarks:      Registration information: http://www.website.ws
 
 created:      1995-07-14
