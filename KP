@@ -7,14 +7,14 @@ domain:       KP
 organisation: Star Joint Venture Company
 address:      Potonggang2-dong, Potonggang District
 address:      Pyongyang
-address:      Democratic People's Republic of Korea
+address:      Korea, Democratic People's Republic Of
 
 contact:      administrative
 name:         President
 organisation: Star Joint Venture Company
 address:      Potonggang2-dong, Potonggang District
 address:      Pyongyang
-address:      Democratic People's Republic of Korea
+address:      Korea, Democratic People's Republic Of
 phone:        +8502 381 3180
 fax-no:       +8502 381 4418
 e-mail:       mptird@star-co.net.kp
@@ -24,7 +24,7 @@ name:         President
 organisation: Star Joint Venture Company
 address:      Potonggang2-dong, Potonggang District
 address:      Pyongyang
-address:      Democratic People's Republic of Korea
+address:      Korea, Democratic People's Republic Of
 phone:        +8502 381 3180
 fax-no:       +8502 381 4418
 e-mail:       mptird@star-co.net.kp
@@ -32,6 +32,7 @@ e-mail:       mptird@star-co.net.kp
 nserver:      NS1.KPTC.KP 175.45.176.15
 nserver:      NS2.KPTC.KP 175.45.176.16
 
+status:       ACTIVE
 remarks:      Registration information: http://www.star.co.kp
 
 created:      2007-09-24
