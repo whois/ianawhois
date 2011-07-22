@@ -36,6 +36,7 @@ nserver:      NS.ITU.CH 156.106.192.121
 nserver:      NS.RIPE.NET 193.0.0.193
 nserver:      SANAGA.CAMNET.CM 195.24.192.17
 
+status:       ACTIVE
 remarks:      Registration information: http://www.info.camnet.cm
 
 created:      1995-04-29
