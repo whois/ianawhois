@@ -34,6 +34,7 @@ nserver:      DNS.DNSAFRICA.NET 213.193.157.30
 nserver:      DNS.PRINCETON.EDU 128.112.129.15
 nserver:      SUNIC.SUNET.SE 192.36.125.2 2001:6b0:7:0:0:0:0:2
 
+status:       ACTIVE
 remarks:      Registration information: http://www.nic.rw
 
 created:      1996-10-21
