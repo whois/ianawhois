@@ -34,6 +34,8 @@ nserver:      NS1.PUNCHDOWN.NET 66.92.19.36
 nserver:      SAWANEW.NOC.NET.ER 196.200.96.1
 nserver:      ZARANEW.NOC.NET.ER 196.200.96.2
 
+status:       ACTIVE
+
 created:      1996-09-24
 changed:      2009-06-26
 source:       IANA
