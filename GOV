@@ -15,7 +15,7 @@ name:         Program Manager
 organisation: General Services Administration, Office of Governmentwide Policy
 address:      One Constitution Square
 address:      1275 First Street,NE
-address:      Washington DC 20417
+address:      Washington, DC 20417
 address:      United States
 phone:        +1 202 501 0282
 e-mail:       lee.ellis@gsa.gov
@@ -37,6 +37,7 @@ ds-rdata:     53138 7 2 5AEC256412BC1FEC92B8FDDB4493B585E9406541CF8C952BFE6E27AC
 
 whois:        whois.dotgov.gov
 
+status:       ACTIVE
 remarks:      Registration information: http://www.dotgov.gov
 
 created:      1985-01-01
