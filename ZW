@@ -41,6 +41,8 @@ nserver:      NS1.TELONE.CO.ZW 194.133.122.47
 nserver:      NS2.GIP.NET 204.59.1.222
 nserver:      NS2.TELONE.CO.ZW 194.133.122.42
 
+status:       ACTIVE
+
 created:      1991-11-06
 changed:      2006-08-08
 source:       IANA
