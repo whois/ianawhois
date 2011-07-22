@@ -32,11 +32,13 @@ phone:        +260 211224149
 fax-no:       +260 211224775
 e-mail:       hostmaster@zamnet.zm
 
-nserver:      HIPPO.RU.AC.ZA 146.231.128.1 2001:4200:1010::1
+nserver:      HIPPO.RU.AC.ZA 146.231.128.1 2001:4200:1010:0:0:0:0:1
 nserver:      NS1.COPPERNET.ZM 41.222.240.15
 nserver:      NS1.ZAMNET.ZM 196.46.192.26
 nserver:      NS2.ZAMNET.ZM 196.46.192.21
 nserver:      NS3.ZAMNET.ZM 196.46.213.15
+
+status:       ACTIVE
 
 created:      1994-03-25
 changed:      2010-04-01
