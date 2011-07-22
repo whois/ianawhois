@@ -34,8 +34,9 @@ nserver:      NS-KH.RIPE.NET 193.0.12.37
 nserver:      NS.CAMNET.COM.KH 203.223.32.3
 nserver:      NS.TELESURF.COM.KH 203.144.65.3
 nserver:      NS1.DNS.NET.KH 203.223.32.21
-nserver:      SEC3.APNIC.NET 2001:dc0:1:0:4777::140 202.12.28.140
+nserver:      SEC3.APNIC.NET 2001:dc0:1:0:4777:0:0:140 202.12.28.140
 
+status:       ACTIVE
 remarks:      Registration information: http://www.camnet.com.kh/
 
 created:      1996-02-20
