@@ -37,8 +37,9 @@ nserver:      CHAMBO.SDNP.ORG.MW 196.45.188.5
 nserver:      DOMWE.SDN.MW 196.45.190.9
 nserver:      NS-MW.RIPE.NET 193.0.12.132
 nserver:      RIP.PSG.COM 147.28.0.39 2001:418:1:0:0:0:0:39
-nserver:      SEC3.APNIC.NET 2001:dc0:1:0:4777::140 202.12.28.140
+nserver:      SEC3.APNIC.NET 2001:dc0:1:0:4777:0:0:140 202.12.28.140
 
+status:       ACTIVE
 remarks:      Registration information: http://www.registrar.mw
 
 created:      1997-01-03
