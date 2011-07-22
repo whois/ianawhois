@@ -33,6 +33,7 @@ nserver:      NS1.REGISTRY.HM 208.70.79.25
 nserver:      NS2.REGISTRY.HM 208.70.79.24
 nserver:      NS3.REGISTRY.HM 202.169.96.24
 
+status:       ACTIVE
 remarks:      Registration information: http://www.registry.hm
 
 created:      1997-07-24
