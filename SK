@@ -7,14 +7,14 @@ domain:       SK
 organisation: SK-NIC, a.s.
 address:      Borska 6
 address:      Bratislava  84104
-address:      Slovak Republic
+address:      Slovakia
 
 contact:      administrative
 name:         GAC delegate
 organisation: Ministry of Finance of the Slovak Republic
 address:      Stefanovicova 5
 address:      Bratislava  81782
-address:      Slovak Republic
+address:      Slovakia
 phone:        +421/2/595 82 426
 fax-no:       +421/2/595 82 498
 e-mail:       gac@mfsr.sk
@@ -24,7 +24,7 @@ name:         Technical Director
 organisation: SK-NIC, a.s.
 address:      Borska 6
 address:      Bratislava  84104
-address:      Slovak Republic
+address:      Slovakia
 phone:        +421 2 350 350 30
 fax-no:       +421 2 350 350 39
 e-mail:       tech-c@sk-nic.sk
@@ -40,6 +40,7 @@ nserver:      SUNIC.SUNET.SE 192.36.125.2 2001:6b0:7:0:0:0:0:2
 
 whois:        whois.sk-nic.sk
 
+status:       ACTIVE
 remarks:      Registration information: http://www.sk-nic.sk
 
 created:      1993-03-29
