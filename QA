@@ -31,6 +31,7 @@ nserver:      NS1.QATAR.NET.QA 212.77.192.10
 nserver:      NS2.QATAR.NET.QA 212.77.192.13
 nserver:      NS3.QATAR.NET.QA 212.77.192.15
 
+status:       ACTIVE
 remarks:      Registration information: http://www.ictqatar.qa
 
 created:      1996-06-12
