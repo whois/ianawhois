@@ -35,6 +35,7 @@ nserver:      NS-EXT.VIX.COM 204.152.184.64
 nserver:      PHOBOS.FCCN.PT 193.136.7.17
 nserver:      SUNIC.SUNET.SE 192.36.125.2 2001:6b0:7:0:0:0:0:2
 
+status:       ACTIVE
 remarks:      Registration information: http://www.dns.ao/
 
 created:      1995-11-15
