@@ -23,8 +23,7 @@ e-mail:       nic@gouv.mc
 
 contact:      technical
 name:         Contact technique
-organisation: Gouvernement de Monaco
-organisation: Direction des Communications Electroniques
+organisation: Gouvernement de Monaco Direction  des Communications Electroniques
 address:      23, Avenue Albert II
 address:      Principaute de Monaco  98000
 address:      Monaco
@@ -36,6 +35,7 @@ nserver:      NS-MC.RIPE.NET 193.0.12.145 2001:610:240:0:53:cc:12:145
 nserver:      NS1.NIC.MC 195.78.19.216
 nserver:      NS2.NIC.MC 85.31.217.131
 
+status:       ACTIVE
 remarks:      Registration information: http://www.nic.mc/
 
 created:      1995-01-20
