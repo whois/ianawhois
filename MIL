@@ -36,6 +36,8 @@ nserver:      EUR2.NIPR.MIL 199.252.143.234
 nserver:      PAC1.NIPR.MIL 199.252.180.234
 nserver:      PAC2.NIPR.MIL 199.252.155.234
 
+status:       ACTIVE
+
 created:      1985-01-01
 changed:      2008-10-23
 source:       IANA
