@@ -37,6 +37,8 @@ nserver:      NS1.DOTMASR.EG 81.21.97.155
 nserver:      NS2.DOTMASR.EG 81.21.99.11
 nserver:      NS3.DOTMASR.EG 81.10.38.11
 
+status:       ACTIVE
+
 created:      2010-05-05
 source:       IANA
 
