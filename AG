@@ -7,14 +7,14 @@ domain:       AG
 organisation: UHSA School of Medicine
 address:      P.O. Box 510
 address:      Saints Johns
-address:      Antigua
+address:      Antigua And Barbuda
 
 contact:      administrative
 name:         George S. Daniel
 organisation: UHSA School of Medicine
 address:      P.O. Box 510
 address:      Saints Johns
-address:      Antigua
+address:      Antigua And Barbuda
 phone:        +1 268 460 1391
 fax-no:       +1 268 460 1477
 e-mail:       daniel@uhsa.edu.ag
@@ -41,6 +41,7 @@ ds-rdata:     55656 7 2 B8DC00C070D5BFC5C1C3BA08E5205A1E7F15EABFBFD6359D11E0E62D
 
 whois:        whois.nic.ag
 
+status:       ACTIVE
 remarks:      Registration information: http://www.nic.ag
 
 created:      1991-09-03
