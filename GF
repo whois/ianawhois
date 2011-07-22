@@ -9,7 +9,7 @@ address:      Boulevard de la Republique 2
 address:      BP 125
 address:      97 323 Cayenne cedex
 address:      97300
-address:      Guyane Francaise
+address:      French Guiana
 
 contact:      administrative
 name:         Frederic Trichet
@@ -18,7 +18,7 @@ address:      Boulevard de la Republique 2
 address:      BP 125
 address:      97 323 Cayenne cedex
 address:      97300
-address:      Guyane Francaise
+address:      French Guiana
 phone:        +594 29 13 31
 fax-no:       +594 29 13 27
 e-mail:       admin@nic.gf
@@ -36,6 +36,7 @@ e-mail:       tech@nic.gf
 nserver:      NS1-GP.MEDIASERV.NET 213.188.172.1
 nserver:      NS1-MQ.MEDIASERV.NET 213.16.20.3
 
+status:       ACTIVE
 remarks:      Registration information: http://www.nplus.gf/
 
 created:      1996-07-25
