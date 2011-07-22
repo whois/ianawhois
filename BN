@@ -35,6 +35,7 @@ nserver:      JTB.BRUNET.BN 202.160.8.2
 nserver:      NS-BN.RIPE.NET 193.0.12.33
 nserver:      NS2.BRUNET.BN 202.160.8.20
 
+status:       ACTIVE
 remarks:      Registration information: http://www.brunet.bn
 
 created:      1994-06-03
