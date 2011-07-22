@@ -9,7 +9,7 @@ address:      Av. Universidad esquina el Chorro
 address:      Torre MPPCT
 address:      Piso 12
 address:      Caracas Distrito Federal 1010
-address:      Venezuela
+address:      Venezuela, Bolivarian Republic Of
 
 contact:      administrative
 name:         Mrs. Dayerlin Y. Gil Bello
@@ -18,7 +18,7 @@ address:      Av. Universidad esquina el Chorro
 address:      Torre MPPCT
 address:      Piso 12
 address:      Caracas Distrito Federal 1010
-address:      Venezuela
+address:      Venezuela, Bolivarian Republic Of
 phone:        +582127718596
 fax-no:       +582125646116
 e-mail:       dgil@cnti.gob.ve
@@ -30,7 +30,7 @@ address:      Av. Universidad esquina el Chorro
 address:      Torre MPPCT
 address:      Piso 12
 address:      Caracas Distrito Capital 1010
-address:      Venezuela
+address:      Venezuela, Bolivarian Republic Of
 phone:        +582127718596
 fax-no:       +582125646116
 e-mail:       dmorales@cnti.gob.ve
@@ -38,11 +38,12 @@ e-mail:       dmorales@cnti.gob.ve
 nserver:      AZMODAN.ULA.VE 150.185.130.16
 nserver:      NS-EXT.ISC.ORG 2001:4f8:0:2:0:0:0:13 204.152.184.64
 nserver:      NS-EXT.NIC.CL 200.1.123.14
-nserver:      NS1.NIC.VE 150.188.228.4 2001:1338::2
-nserver:      NS2.NIC.VE 150.188.228.5 2001:1338::3
+nserver:      NS1.NIC.VE 150.188.228.4 2001:1338:0:0:0:0:0:2
+nserver:      NS2.NIC.VE 150.188.228.5 2001:1338:0:0:0:0:0:3
 
 whois:        whois.nic.ve
 
+status:       ACTIVE
 remarks:      Registration information: http://www.nic.ve/
 
 created:      1991-03-07
