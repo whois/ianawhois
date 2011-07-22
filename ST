@@ -7,14 +7,14 @@ domain:       ST
 organisation: Tecnisys
 address:      Travessa Joa de Deus
 address:      CP 709
-address:      Sao Tome
+address:      Sao Tome And Principe
 
 contact:      administrative
 name:         Aguinaldo Salvaterra
 organisation: Tecnisys
 address:      Travessa Joa de Deus
 address:      CP 709
-address:      Sao Tome
+address:      Sao Tome And Principe
 phone:        +239 12 22753
 e-mail:       info@tecnisys.net
 
@@ -26,7 +26,7 @@ address:      Stockholm  10234
 address:      Sweden
 phone:        +46-8-55577100
 fax-no:       +46-8-55577199
-e-mail:       st-registry@BAHNHOF.NET
+e-mail:       st-registry@bahnhof.net
 
 nserver:      AUTH61.NS.UU.NET 198.6.1.182
 nserver:      DNS-AU.ST 203.19.59.140
@@ -35,6 +35,7 @@ nserver:      NS2.BAHNHOF.NET 212.85.64.4
 
 whois:        whois.nic.st
 
+status:       ACTIVE
 remarks:      Registration information: http://www.nic.st
 
 created:      1997-11-07
