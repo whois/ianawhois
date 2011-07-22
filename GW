@@ -7,14 +7,14 @@ domain:       GW
 organisation: Fundação IT & MEDIA Universidade de Bissao
 address:      Rua No. 3, 17B
 address:      Bissau  806
-address:      Guinea-Bissau
+address:      Guinea-bissau
 
 contact:      administrative
 name:         Antonio da Silva
 organisation: Fundação IT & MEDIA Universidade de Bissao
 address:      Rua No. 3, 17B
 address:      Bissau  806
-address:      Guinea-Bissau
+address:      Guinea-bissau
 phone:        +(245) 720 12 44
 fax-no:       +(245) 201 665
 e-mail:       admin@register.gw
@@ -33,6 +33,7 @@ nserver:      NS1.NIC.GW 2001:608:6:0:0:0:0:3 81.91.170.10
 nserver:      NS2.NIC.GW 87.233.175.20
 nserver:      NS3.NIC.GW 193.171.255.35
 
+status:       ACTIVE
 remarks:      Registration information: http://www.register.gw
 
 created:      1997-02-04
