@@ -14,7 +14,7 @@ name:         Monsieur Akouala
 organisation: ONPT Congo and Interpoint Switzerland
 address:      Avenue Patrice Lumumba
 address:      Brazzaville
-address:      Republic of Congo
+address:      Congo
 phone:        +242 81 00 24
 fax-no:       +242 81 07 52
 e-mail:       cg-admin@dnsafrica.net
@@ -34,6 +34,7 @@ nserver:      DNS.DNSAFRICA.NET 213.193.157.30
 nserver:      DNS.PRINCETON.EDU 128.112.129.15
 nserver:      SUNIC.SUNET.SE 192.36.125.2 2001:6b0:7:0:0:0:0:2
 
+status:       ACTIVE
 remarks:      Registration information: http://www.nic.cg
 
 created:      1997-01-14
