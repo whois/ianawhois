@@ -33,6 +33,7 @@ nserver:      DNS.SISPA.ORG.SZ 212.85.220.11
 nserver:      NS-SZ.RIPE.NET 193.0.12.212
 nserver:      RIP.PSG.COM 147.28.0.39 2001:418:1:0:0:0:0:39
 
+status:       ACTIVE
 remarks:      Registration information: http://www.sispa.org.sz/
 
 created:      1993-07-19
