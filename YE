@@ -37,6 +37,8 @@ nserver:      NS2.YEMEN.NET.YE 65.162.184.34
 nserver:      SAH1.YE 195.94.0.34
 nserver:      SAH2.YE 195.94.0.35
 
+status:       ACTIVE
+
 created:      1996-08-19
 changed:      2011-01-12
 source:       IANA
