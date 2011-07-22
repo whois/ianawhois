@@ -28,9 +28,11 @@ phone:        +27.46.603.8279
 fax-no:       +27.46.603.8012
 e-mail:       hostmaster@ru.ac.za
 
-nserver:      HIPPO.RU.AC.ZA 146.231.128.1 2001:4200:1010::1
+nserver:      HIPPO.RU.AC.ZA 146.231.128.1 2001:4200:1010:0:0:0:0:1
 nserver:      LS-NS.ANYCAST.PCH.NET 204.61.216.28
 nserver:      RAIN.PSG.COM 147.28.0.34
+
+status:       ACTIVE
 
 created:      1993-01-13
 changed:      2007-09-24
