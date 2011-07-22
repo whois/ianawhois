@@ -33,12 +33,13 @@ e-mail:       tshering.norbu@bt.bt
 
 nserver:      AUTH00.NS.UU.NET 198.6.1.65
 nserver:      AUTH61.NS.UU.NET 198.6.1.182
-nserver:      NS-BT.RIPE.NET 193.0.12.26 2001:610:240:0:53:CC:12:26
+nserver:      NS-BT.RIPE.NET 193.0.12.26 2001:610:240:0:53:cc:12:26
 nserver:      NS.ITU.CH 156.106.192.121
 nserver:      NS1.DRUKNET.BT 202.144.128.200
 nserver:      NS2.DRUKNET.BT 202.144.128.210
 nserver:      NS3.DRUKNET.BT 204.61.216.17
 
+status:       ACTIVE
 remarks:      Registration information: http://www.nic.bt
 
 created:      1997-07-16
