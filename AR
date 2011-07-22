@@ -36,6 +36,7 @@ nserver:      MERAPI.SWITCH.CH 130.59.211.10 2001:620:0:0:0:0:0:5
 nserver:      NS-AR.RIPE.NET 193.0.12.11 2001:610:240:0:53:cc:12:11
 nserver:      RELAY1.MECON.GOV.AR 168.101.16.10
 
+status:       ACTIVE
 remarks:      Registration information: http://www.nic.ar
 
 created:      1987-09-23
