@@ -32,6 +32,8 @@ e-mail:       kohilaire@socatel.cf
 nserver:      BOW.INTNET.CF 196.32.200.10
 nserver:      RIP.PSG.COM 147.28.0.39 2001:418:1:0:0:0:0:39
 
+status:       ACTIVE
+
 created:      1996-04-24
 changed:      2010-11-05
 source:       IANA
