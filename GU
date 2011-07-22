@@ -37,6 +37,7 @@ nserver:      NS.EDU.GU 168.123.2.50
 nserver:      NS.GU 168.123.4.10
 nserver:      NSUOG.EDU.GU 67.98.164.133
 
+status:       ACTIVE
 remarks:      Registration information: http://gadao.gov.gu
 
 created:      1994-04-15
