@@ -7,8 +7,8 @@ domain:       VG
 organisation: Pinebrook Developments Ltd
 address:      Craigmuir Chambers
 address:      P.O. Box 71
-address:      Road Town
-address:      Tortola British Virgin Islands
+address:      Road Town Tortola
+address:      Virgin Islands, British
 
 contact:      administrative
 name:         Registrar
@@ -16,7 +16,7 @@ organisation: Pinebrook Developments Ltd.
 address:      Craigmuir Chambers
 address:      P.O. Box 71
 address:      Road Town Tortola
-address:      British Virgin Islands
+address:      Virgin Islands, British
 phone:        +44 1223 353
 e-mail:       tldwhois@adamsnames.tc
 
@@ -37,6 +37,7 @@ nserver:      SEC2.DNS.UK.PSI.NET 154.32.107.34
 
 whois:        whois.adamsnames.tc
 
+status:       ACTIVE
 remarks:      Registration information: http://www.adamsnames.tc/
 
 created:      1997-02-20
