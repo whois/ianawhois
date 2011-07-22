@@ -7,14 +7,14 @@ domain:       NR
 organisation: CENPAC NET
 address:      Civic Centre
 address:      Aiwo District
-address:      Nauru Island
+address:      Nauru
 
 contact:      administrative
 name:         Criden Appi
 organisation: CENPAC NET
 address:      Civic Centre
 address:      Aiwo District
-address:      Nauru Island
+address:      Nauru
 phone:        +674 444 3132
 fax-no:       +674 444 3111
 e-mail:       cappi@cenpac.net.nr
@@ -34,6 +34,7 @@ nserver:      NRWEB.CENPAC.NET.NR 203.98.224.66
 nserver:      NS1.NET.REACH.COM 134.159.2.140
 nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e:0:0:0:0:1
 
+status:       ACTIVE
 remarks:      Registration information: http://www.cenpac.net.nr
 
 created:      1998-03-30
