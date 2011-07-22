@@ -36,6 +36,7 @@ nserver:      ANYNS.PCH.NET 204.61.216.4
 nserver:      DNS.NIC.BS 206.48.3.168
 nserver:      UPR1.UPR.CLU.EDU 136.145.1.4
 
+status:       ACTIVE
 remarks:      Registration information: http://www.register.bs
 
 created:      1991-09-03
