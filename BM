@@ -29,7 +29,7 @@ address:      Channel House St Georges DD03
 address:      Bermuda
 phone:        +1 441 295 5151 ext 1101
 fax-no:       +1 441 295 2948
-e-mail:       TLDDNSADMIN@gov.bm
+e-mail:       tlddnsadmin@gov.bm
 
 nserver:      AUTH02.NS.UU.NET 198.6.1.82
 nserver:      NS.UU.NET 137.39.1.3
@@ -40,6 +40,7 @@ nserver:      NS2.IBL.BM 199.172.192.2
 nserver:      NS3.BM 207.228.134.10
 nserver:      SUNIC.SUNET.SE 192.36.125.2 2001:6b0:7:0:0:0:0:2
 
+status:       ACTIVE
 remarks:      Registration information: http://www.bermudanic.bm
 
 created:      1993-03-31
