@@ -9,7 +9,7 @@ address:      New Bagamoyo Road, LAPF Millennium Towers
 address:      Suite # 04, Ground floor
 address:      P.O. Box 34543
 address:      Dar es Salaam
-address:      The United Republic of Tanzania
+address:      Tanzania, United Republic Of
 
 contact:      administrative
 name:         Manager
@@ -18,7 +18,7 @@ address:      New Bagamoyo Road, LAPF Millennium Towers
 address:      Suite # 04, Ground floor
 address:      P.O. Box 34543
 address:      Dar es Salaam
-address:      The United Republic of Tanzania
+address:      Tanzania, United Republic Of
 phone:        +255 22 277 2 659
 fax-no:       +255 22 277 2 660
 e-mail:       manager@tznic.or.tz
@@ -30,7 +30,7 @@ address:      New Bagamoyo Road, LAPF Millennium Towers
 address:      Suite # 04, Ground floor
 address:      P.O. Box 34543
 address:      Dar es Salaam
-address:      The United Republic of Tanzania
+address:      Tanzania, United Republic Of
 phone:        +255 22 277 2 659
 fax-no:       +255 22 277 2 660
 e-mail:       technical@tznic.or.tz
@@ -45,6 +45,7 @@ nserver:      SUNIC.SUNET.SE 192.36.125.2 2001:6b0:7:0:0:0:0:2
 
 whois:        whois.tznic.or.tz
 
+status:       ACTIVE
 remarks:      Registration information: http://www.tznic.or.tz/
 
 created:      1995-07-14
