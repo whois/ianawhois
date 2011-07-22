@@ -12,6 +12,7 @@ address:      Marina del Rey California 90292
 address:      United States
 
 contact:      administrative
+name:         Internet Assigned Numbers Authority
 organisation: Internet Assigned Numbers Authority
 address:      4676 Admiralty Way
 address:      Suite 330
@@ -22,6 +23,7 @@ fax-no:       +1 310 823-8649
 e-mail:       iana@iana.org
 
 contact:      technical
+name:         Internet Assigned Numbers Authority
 organisation: Internet Assigned Numbers Authority
 address:      4676 Admiralty Way
 address:      Suite 330
@@ -37,6 +39,7 @@ nserver:      C.IANA-SERVERS.NET 139.91.1.10 2001:648:2c30:0:0:0:1:10
 ds-rdata:     56231 8 1 A4F7756C0B5E82D9E31E8649F097B81F4E28F683
 ds-rdata:     56231 8 2 D569A173FA0099A428A4B5E0EAF6ED445309C9D76F2D8FB4CE83AEF5AE79D593
 
+status:       ACTIVE
 remarks:      Registration information:
 remarks:      http://www.iana.org/domains/idn-test/
 
