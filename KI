@@ -35,11 +35,12 @@ nserver:      KI4.DYNTLD.NET 204.13.251.87
 nserver:      NS-KI.RIPE.NET 193.0.12.115
 nserver:      NS.ANYCAST.NIC.KI 204.61.216.26
 nserver:      NS.SYDNEY.NIC.KI 203.119.12.246
-nserver:      SEC1.APNIC.NET 2001:dc0:2001:a:4608::59 202.12.29.59
-nserver:      SEC3.APNIC.NET 2001:dc0:1:0:4777::140 202.12.28.140
+nserver:      SEC1.APNIC.NET 2001:dc0:2001:a:4608:0:0:59 202.12.29.59
+nserver:      SEC3.APNIC.NET 2001:dc0:1:0:4777:0:0:140 202.12.28.140
 
 whois:        whois.nic.ki
 
+status:       ACTIVE
 remarks:      Registration information: http://www.nic.ki
 
 created:      1995-04-19
