@@ -9,7 +9,7 @@ organisation: Information and Technology Division
 address:      Telecom Building Room 9
 address:      Avenida Bispo de Medeiros
 address:      Dili
-address:      Timor-Leste
+address:      Timor-leste
 
 contact:      administrative
 name:         Director (Flavio Neves)
@@ -18,7 +18,7 @@ organisation: Information and Technology Division
 address:      Telecom Building Room 9
 address:      Avenida Bispo de Medeiros
 address:      Dili
-address:      Timor-Leste
+address:      Timor-leste
 phone:        +670 3339354
 fax-no:       +670 3339350
 e-mail:       doit@nic.tl
@@ -43,6 +43,7 @@ nserver:      TL4.DYNTLD.NET 204.13.251.78
 
 whois:        whois.nic.tl
 
+status:       ACTIVE
 remarks:      Registration information: http://www.nic.tl
 
 created:      2005-03-23
