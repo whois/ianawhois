@@ -36,6 +36,7 @@ nserver:      NS0.NIC.NET.MM 203.81.64.20
 nserver:      NS1.NIC.NET.MM 203.81.81.85
 nserver:      NS2.NIC.NET.MM 203.81.92.10
 
+status:       ACTIVE
 remarks:      Registration information: http://www.nic.mm/
 
 created:      1997-02-04
