@@ -26,7 +26,7 @@ name:         DotCoop Registry Operator
 organisation: Midcounties Co-operative Domains Ltd
 address:      Warwick Technology Park
 address:      Gallows Hill
-address:      Warwick  CV34 6DA
+address:      Warwick CV34 6DA
 address:      United Kingdom
 phone:        +44 1926 516 391
 fax-no:       +44 1926 516 151
@@ -39,6 +39,7 @@ nserver:      COOP4.DYNTLD.NET 204.13.251.80
 
 whois:        whois.nic.coop
 
+status:       ACTIVE
 remarks:      Registration information: http://www.nic.coop
 
 created:      2001-12-15
