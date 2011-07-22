@@ -28,10 +28,11 @@ address:      Kapa`au Hawai`i 96755
 address:      United States
 e-mail:       randy@psg.com
 
-nserver:      HIPPO.RU.AC.ZA 146.231.128.1 2001:4200:1010::1
+nserver:      HIPPO.RU.AC.ZA 146.231.128.1 2001:4200:1010:0:0:0:0:1
 nserver:      RIP.PSG.COM 147.28.0.39 2001:418:1:0:0:0:0:39
 nserver:      SUNIC.SUNET.SE 192.36.125.2 2001:6b0:7:0:0:0:0:2
 
+status:       ACTIVE
 remarks:      Registration information: http://psg.com/dns/lr
 
 created:      1997-04-09
