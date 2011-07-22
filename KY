@@ -35,6 +35,7 @@ nserver:      KYNSW01.PERIMETERUSA.COM 165.212.160.15
 nserver:      KYNSW02.PERIMETERUSA.COM 165.212.160.16
 nserver:      KYNSW03.PERIMETERUSA.COM 165.212.160.17
 
+status:       ACTIVE
 remarks:      Registration information: http://www.nic.ky
 
 created:      1995-05-03
