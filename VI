@@ -9,7 +9,7 @@ organisation: c/o COBEX Internet Services
 address:      Corporate Place
 address:      Royal Dane Mall
 address:      St. Thomas  00802
-address:      US Virgin Islands
+address:      Virgin Islands, U.s.
 
 contact:      administrative
 name:         Mrs. Peter de Blanc (caretaker)
@@ -18,7 +18,7 @@ organisation: c/o COBEX Internet Services
 address:      Corporate Place
 address:      Royal Dane Mall
 address:      St. Thomas  00802
-address:      US Virgin Islands
+address:      Virgin Islands, U.s.
 phone:        +1 340 776-4800
 fax-no:       +1 340 776-2666
 e-mail:       dsparks@usvi.net
@@ -28,7 +28,7 @@ name:         Cobex DNS Administrator
 organisation: Cobex Internet Services
 address:      Box 1678
 address:      Charlotte Amalie  00804
-address:      United States Virgin Islands
+address:      Virgin Islands, U.s.
 phone:        +1 340 776-4800
 fax-no:       +1 340 776-2666
 e-mail:       dnsadmin@usvi.net
@@ -40,6 +40,7 @@ nserver:      NS1.COBEX.NET 216.152.192.71
 nserver:      NS1.KRNIC.NET 202.30.50.51
 nserver:      NS2.COBEX.NET 216.152.192.72
 
+status:       ACTIVE
 remarks:      Registration information: http://www.nic.vi
 
 created:      1995-08-31
