@@ -39,6 +39,7 @@ nserver:      NS-T.NIC.LK 203.94.66.129
 nserver:      NS1.AC.LK 192.248.1.162 2001:df0:17:1:0:0:0:162
 nserver:      NS3.AC.LK 202.124.166.178
 
+status:       ACTIVE
 remarks:      Registration information: http://www.nic.lk
 
 created:      2010-08-19
