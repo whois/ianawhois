@@ -7,14 +7,14 @@ domain:       IR
 organisation: Institute for Research in Fundamental Sciences
 address:      Shahid Bahonar (Niavaran) Square
 address:      Tehran  1954851167
-address:      Iran
+address:      Iran, Islamic Republic Of
 
 contact:      administrative
 name:         Siavash Shahshahani
 organisation: Institute for Research in Fundamental Sciences
 address:      Shahid Bahonar (Niavaran) Square
 address:      Tehran  1954851167
-address:      Iran
+address:      Iran, Islamic Republic Of
 phone:        +98 21 22 82 80 81, ext.113
 fax-no:       +98 21 22 29 57 00
 e-mail:       siavash.shahshahani@irnic.ir
@@ -24,7 +24,7 @@ name:         Alireza Saleh
 organisation: Institute for Research in Fundamental Sciences
 address:      Shahid Bahonar (Niavaran) Square
 address:      Tehran  1954851167
-address:      Iran
+address:      Iran, Islamic Republic Of
 phone:        +98 21 22 82 80 80
 fax-no:       +98 21 22 29 57 00
 e-mail:       alireza.saleh@irnic.ir
@@ -35,6 +35,7 @@ nserver:      NS5.UNIVIE.AC.AT 193.171.255.77 2001:628:453:4305:0:0:0:53
 
 whois:        whois.nic.ir
 
+status:       ACTIVE
 remarks:      Registration information: http://www.nic.ir
 
 created:      1994-04-06
