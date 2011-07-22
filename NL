@@ -7,14 +7,14 @@ domain:       NL
 organisation: Stichting Internet Domeinregistratie Nederland
 address:      P.O. Box 5022
 address:      Arnhem  6802 EA
-address:      The Netherlands
+address:      Netherlands
 
 contact:      administrative
 name:         Managing Director
 organisation: Stichting Internet Domeinregistratie Nederland
 address:      P.O. Box 5022
 address:      Arnhem  6802 EA
-address:      The Netherlands
+address:      Netherlands
 phone:        +31 26 3525500
 fax-no:       +31 26 3525505
 e-mail:       admin@sidn.nl
@@ -24,12 +24,12 @@ name:         Manager ICT
 organisation: Stichting Internet Domeinregistratie Nederland
 address:      P.O. Box 5022
 address:      Arnhem  6802 EA
-address:      The Netherlands
+address:      Netherlands
 phone:        +31 26 3525599
 fax-no:       +31 26 3525550
 e-mail:       tech@sidn.nl
 
-nserver:      NL1.DNSNODE.NET 194.146.106.42 2001:67c:1010:10::53
+nserver:      NL1.DNSNODE.NET 194.146.106.42 2001:67c:1010:10:0:0:0:53
 nserver:      NS-NL.NIC.FR 192.93.0.4 2001:660:3005:1:0:0:1:2
 nserver:      NS1.NIC.NL 193.176.144.2 2a00:d78:0:102:193:176:144:2
 nserver:      NS2.NIC.NL 2001:7b8:606:0:0:0:0:28 213.154.241.28
@@ -40,6 +40,7 @@ ds-rdata:     21362 8 2 881D17ECCD7FD67F1086247611CCB7FB8646E82D0074AA91E980B016
 
 whois:        whois.domain-registry.nl
 
+status:       ACTIVE
 remarks:      Registration information: http://www.domain-registry.nl/
 
 created:      1986-04-25
