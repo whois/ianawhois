@@ -9,7 +9,7 @@ address:      95, Boulevard du 30 Juin
 address:      Immeuble INSS, 1ier Etage
 address:      Gombe
 address:      Kinshasa  7070 Kin 1
-address:      The Democratic Republic of the Congo
+address:      Congo, The Democratic Republic Of The
 
 contact:      administrative
 name:         Chris Tshimanga Kamukoko
@@ -18,7 +18,7 @@ address:      95, Boulevard du 30 Juin
 address:      Immeuble INSS, 1ier Etage
 address:      Gombe
 address:      Kinshasa  7070 Kin 1
-address:      The Democratic Republic of the Congo
+address:      Congo, The Democratic Republic Of The
 phone:        +243 81 806 88 00
 e-mail:       christshimka@nic.cd
 
@@ -29,7 +29,7 @@ address:      95, Boulevard du 30 Juin
 address:      Immeuble INSS, 1ier Etage
 address:      Gombe
 address:      Kinshasa  7070 Kin 1
-address:      The Democratic Republic of the Congo
+address:      Congo, The Democratic Republic Of The
 phone:        +243 81 806 88 89
 e-mail:       dnsadmin@nic.cd
 
@@ -38,6 +38,7 @@ nserver:      IGUBU.SAIX.NET 196.25.1.1
 nserver:      SABELA.SAIX.NET 196.43.1.9
 nserver:      SUNIC.SUNET.SE 192.36.125.2 2001:6b0:7:0:0:0:0:2
 
+status:       ACTIVE
 remarks:      Registration information: http://www.nic.cd/
 
 created:      1997-08-20
