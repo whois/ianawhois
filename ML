@@ -8,14 +8,14 @@ organisation: SOTELMA
 address:      Route de Koulikoro
 address:      BP 740
 address:      Bamako
-address:      Republic of Mali
+address:      Mali
 
 contact:      administrative
 name:         TRAORE Alioune Badara
 organisation: Societe des Telecommunications du Mali (SOTELMA)
 address:      Route de Koulikoro
 address:      Bamako  BP 740
-address:      Republic of Mali
+address:      Mali
 phone:        +00223 221 09 05
 fax-no:       +00223 221 09 05
 e-mail:       alioune@sotelma.ml
@@ -25,7 +25,7 @@ name:         CISSE Aboubacar Koly
 organisation: Societe des Telecommunications du Mali (SOTELMA)
 address:      Route de Koulikoro
 address:      Bamako  BP 740
-address:      Republic of Mali
+address:      Mali
 phone:        +00223 222 73 65
 fax-no:       +00223 223 83 10
 e-mail:       akcisse@sotelma.ml
@@ -36,6 +36,7 @@ nserver:      DOGON.SOTELMA.ML 217.64.98.75
 nserver:      NS-EXT.ISC.ORG 2001:4f8:0:2:0:0:0:13 204.152.184.64
 nserver:      NS-ML.RIPE.NET 193.0.12.135
 
+status:       ACTIVE
 remarks:      Registration information: http://www.sotelma.ml
 
 created:      1993-09-29
