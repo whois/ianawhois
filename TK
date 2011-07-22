@@ -24,7 +24,7 @@ name:         Joost Zuurbier
 organisation: BV Dot TK
 address:      Keizersgracht 213
 address:      Amsterdam NH 1016 DT
-address:      The Netherlands
+address:      Netherlands
 phone:        +31 20 531 5725
 fax-no:       +31 20 531 5721
 e-mail:       joost.zuurbier@dot.tk
@@ -39,6 +39,7 @@ nserver:      ROOT-G.TALOHA.TK 217.68.243.17
 
 whois:        whois.dot.tk
 
+status:       ACTIVE
 remarks:      Registration information: http://www.dot.tk
 
 created:      1997-11-07
