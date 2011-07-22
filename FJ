@@ -17,7 +17,7 @@ address:      Suva
 address:      Fiji
 phone:        +679 321 2114
 fax-no:       +679 330 4089
-e-mail:       DomReg@usp.ac.fj
+e-mail:       domreg@usp.ac.fj
 
 contact:      technical
 name:         Manager Systems & Networks
@@ -27,7 +27,7 @@ address:      Suva
 address:      Fiji
 phone:        +679 321 2114
 fax-no:       +679 330 4089
-e-mail:       DomReg@usp.ac.fj
+e-mail:       domreg@usp.ac.fj
 
 nserver:      ADNS1.BERKELEY.EDU 128.32.136.3
 nserver:      ADNS2.BERKELEY.EDU 128.32.136.14
@@ -36,6 +36,7 @@ nserver:      MANU.USP.AC.FJ 144.120.8.10
 nserver:      RIP.PSG.COM 147.28.0.39 2001:418:1:0:0:0:0:39
 nserver:      TERI.USP.AC.FJ 144.120.8.1
 
+status:       ACTIVE
 remarks:      Registration information: http://domains.fj/
 
 created:      1992-06-03
