@@ -39,6 +39,8 @@ nserver:      D.DNS-SERVER.IQ 156.154.103.28
 nserver:      E.DNS-SERVER.IQ 156.154.104.28
 nserver:      F.DNS-SERVER.IQ 156.154.105.28
 
+status:       ACTIVE
+
 created:      1997-05-09
 changed:      2011-04-11
 source:       IANA
