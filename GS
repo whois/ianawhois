@@ -7,7 +7,7 @@ domain:       GS
 organisation: Government of South Georgia and South Sandwich Islands (GSGSSI)
 address:      Government House
 address:      Stanley, Falkland Islands  F1QQ 1ZZ
-address:      South Georgia and the South Sandwich Islands
+address:      South Georgia And The South Sandwich Islands
 
 contact:      administrative
 name:         Marie Gallagher, Customer Support and Development Officer
@@ -39,6 +39,7 @@ nserver:      NSA.NIC.GS 203.119.84.244
 
 whois:        whois.nic.gs
 
+status:       ACTIVE
 remarks:      Registration information: http://secure.nic.gs
 
 created:      1997-07-31
