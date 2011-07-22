@@ -41,6 +41,7 @@ nserver:      R.NIC.AT 192.174.68.10 2001:67c:1bc:0:0:0:0:10
 
 whois:        whois.nic.at
 
+status:       ACTIVE
 remarks:      Registration information: http://www.nic.at/
 
 created:      1988-01-20
