@@ -6,13 +6,13 @@ domain:       MH
 
 organisation: Cabinet Office
 address:      96960
-address:      Republic of the Marshall Islands
+address:      Marshall Islands
 
 contact:      administrative
 name:         Amata Kabua
 organisation: Cabinet Office
 address:      96960
-address:      Republic of the Marshall Islands
+address:      Marshall Islands
 phone:        +1 414 476 4266
 e-mail:       steve@inc.net
 
@@ -30,6 +30,7 @@ e-mail:       steve@inc.net
 nserver:      INS2.TOSA.TWTELECOM.NET 204.95.160.4
 nserver:      NS1.TOSA.TWTELECOM.NET 204.95.160.2
 
+status:       ACTIVE
 remarks:      Registration information: http://www.nic.net.mh/
 
 created:      1996-08-16
