@@ -7,14 +7,14 @@ domain:       AN
 organisation: University of The Netherlands Antilles
 address:      Jan Noorduynweg 111
 address:      Curacao
-address:      Netherlands Antilles
+address:      Curaçao
 
 contact:      administrative
 name:         Leendert J.J. Pengel
 organisation: University of The Netherlands Antilles
 address:      Jan Noorduynweg 111
 address:      Curacao
-address:      Netherlands Antilles
+address:      Curaçao
 phone:        +599 9 8442248
 fax-no:       +599 9 8442255
 e-mail:       ljpengel@una.an
@@ -24,7 +24,7 @@ name:         Leendert J.J. Pengel
 organisation: University of The Netherlands Antilles
 address:      Jan Noorduynweg 111
 address:      Curacao
-address:      Netherlands Antilles
+address:      Curaçao
 phone:        +599 9 8442222
 fax-no:       +599 9 8442255
 e-mail:       lpengel@attglobal.net
@@ -40,9 +40,10 @@ nserver:      NS01-SERVER.CURINFO.AN 65.208.122.36
 nserver:      NS3.CURA.NET 200.26.226.6
 nserver:      SUNIC.SUNET.SE 192.36.125.2 2001:6b0:7:0:0:0:0:2
 
+status:       ACTIVE
 remarks:      Registration information: http://www.una.an/an_domreg
 
 created:      1993-09-09
-changed:      2009-06-26
+changed:      2011-07-21
 source:       IANA
 
