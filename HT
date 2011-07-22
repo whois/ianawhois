@@ -32,10 +32,11 @@ nserver:      DNS.PRINCETON.EDU 128.112.129.15
 nserver:      HT-NS.ANYCAST.PCH.NET 204.61.216.38
 nserver:      NS1.NIC.HT 64.86.226.26
 nserver:      NS2.NIC.HT 64.86.226.30
-nserver:      NS3.NIC.FR 192.134.0.49 2001:660:3006:1::1:1
+nserver:      NS3.NIC.FR 192.134.0.49 2001:660:3006:1:0:0:1:1
 
 whois:        whois.nic.ht
 
+status:       ACTIVE
 remarks:      Registration information: http://www.nic.ht
 
 created:      1997-03-06
