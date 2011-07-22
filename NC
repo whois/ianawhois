@@ -7,14 +7,14 @@ domain:       NC
 organisation: Office des Postes et Telecommunications
 address:      2 Rue Monchovet - Port Plaisance
 address:      Noumea  98841
-address:      Nouvelle-Caledonie
+address:      New Caledonia
 
 contact:      administrative
 name:         Pascal Schiavo
 organisation: Office des Postes et Telecommunications
 address:      2 Rue Monchovet - Port Plaisance
 address:      Noumea  98841
-address:      Nouvelle-Caledonie
+address:      New Caledonia
 phone:        +687 278 201
 fax-no:       +687 278 203
 e-mail:       contact@domaine.nc
@@ -24,7 +24,7 @@ name:         Nicolas Soulard
 organisation: Office des Postes et Telecommunications
 address:      2 Rue Monchovet - Port Plaisance
 address:      Noumea  98841
-address:      Nouvelle-Caledonie
+address:      New Caledonia
 phone:        +687 267 645
 fax-no:       +687 287 172
 e-mail:       nicolas.soulard@opt.nc
@@ -37,6 +37,7 @@ ds-rdata:     49057 8 2 5957AB66CF4871C8C39EDEBC78DFAB2B6DCBB3EA5E97278EA2719053
 
 whois:        whois.nc
 
+status:       ACTIVE
 remarks:      Registration information: http://www.domaine.nc
 
 created:      1993-10-13
