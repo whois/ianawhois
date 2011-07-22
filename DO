@@ -8,7 +8,7 @@ organisation: Pontificia Universidad Catolica Madre y Maestra
 organisation: Recinto Santo Tomas de Aquino
 address:      Ave. Abraham Lincoln Esq. Romulo Betancourt
 address:      Santo Domingo  2748
-address:      Republica Dominicana
+address:      Dominican Republic
 
 contact:      administrative
 name:         Radhames Mejia
@@ -16,7 +16,7 @@ organisation: Pontificia Universidad Catolica Madre y Maestra
 organisation: Recinto Santo Tomas de Aquino
 address:      Ave. Abraham Lincoln Esq. Romulo Betancourt
 address:      Santo Domingo  2748
-address:      Republica Dominicana
+address:      Dominican Republic
 phone:        809 535-0111 EXT. 2426
 fax-no:       809 534-7060, 809 535-8326
 e-mail:       radhamesmejia@pucmm.edu.do
@@ -26,7 +26,7 @@ name:         Clara Collado
 organisation: Pontificia Universidad Catolica Madre y Maestra
 address:      Ave. Abraham Lincoln Esq. Romulo Betancourt
 address:      Santo Domingo  2748
-address:      Republica Dominicana
+address:      Dominican Republic
 phone:        809 535-0111 EXT. 2461
 fax-no:       809 534-7060, 809 535-8326
 e-mail:       claracollado@pucmm.edu.do
@@ -34,10 +34,11 @@ e-mail:       claracollado@pucmm.edu.do
 nserver:      DO-DNS.NIC.PR 134.202.1.121
 nserver:      NS.NIC.DO 66.98.65.146
 nserver:      NS3.NIC.MX 200.33.111.1
-nserver:      PHLOEM.UOREGON.EDU 128.223.32.35 2001:468:d01:20::80df:2023
+nserver:      PHLOEM.UOREGON.EDU 128.223.32.35 2001:468:d01:20:0:0:80df:2023
 nserver:      SERVER1.PUCMM.EDU.DO 66.98.65.147
 nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e:0:0:0:0:1
 
+status:       ACTIVE
 remarks:      Registration information: http://www.nic.do
 
 created:      1991-08-25
