@@ -32,7 +32,7 @@ phone:        +30 281 0391450
 fax-no:       +30 281 0391451
 e-mail:       noc@ics.forth.gr
 
-nserver:      ESTIA.ICS.FORTH.GR 139.91.191.3 2001:648:2c30::191:3
+nserver:      ESTIA.ICS.FORTH.GR 139.91.191.3 2001:648:2c30:0:0:0:191:3
 nserver:      GR-AIX.ICS.FORTH.GR 2001:648:2100:0:0:0:0:130 83.212.8.130
 nserver:      GR-M.ICS.FORTH.GR 194.0.4.10 2001:678:7:0:0:0:4:10
 nserver:      GR-US.ICS.FORTH.GR 199.4.28.219 2620:0:22b0:4:221:9bff:fe97:dc44
@@ -42,6 +42,7 @@ nserver:      GRDNS-DE.DENIC.DE 81.91.161.80
 nserver:      GRDNS.ICS.FORTH.GR 139.91.1.1
 ds-rdata:     41118 7 2 CB6DAEEF5AE0DB7CDFA54766F560D393A6A6B24A857E78C51D53C1B50D2EB175
 
+status:       ACTIVE
 remarks:      Registration information: http://www.gr
 
 created:      1989-02-19
