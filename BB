@@ -23,7 +23,7 @@ address:      Warrens St. Michael BB12001
 address:      Barbados
 phone:        +1 246 310 2251
 fax-no:       +1 246 620 0960
-e-mail:       Reginald.Bourne@telecoms.gov.bb
+e-mail:       reginald.bourne@telecoms.gov.bb
 
 contact:      technical
 name:         Mr. Winston Devonish, Senior Telecommunications Officer
@@ -36,11 +36,12 @@ address:      Warrens St. Michael BB12001
 address:      Barbados
 phone:        +1 246 310 2220
 fax-no:       +1 246 620 0960
-e-mail:       Winston.devonish@telecoms.gov.bb
+e-mail:       winston.devonish@telecoms.gov.bb
 
 nserver:      NS1.BARBADOSDOMAIN.NET 200.50.92.195
 nserver:      NS2.BARBADOSDOMAIN.NET 204.212.242.113
 
+status:       ACTIVE
 remarks:      Registration information: http://www.barbadosdomain.net
 
 created:      1991-09-03
