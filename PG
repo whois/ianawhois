@@ -39,6 +39,8 @@ nserver:      NS1.TIARE.NET.PG 202.165.192.23
 nserver:      NS1.UNITECH.AC.PG 202.1.32.49
 nserver:      NS2.TIARE.NET.PG 202.165.192.24
 
+status:       ACTIVE
+
 created:      1991-09-26
 changed:      2010-07-09
 source:       IANA
