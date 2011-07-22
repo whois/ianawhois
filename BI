@@ -17,7 +17,7 @@ address:      Bujumbura  BP 2270
 address:      Burundi
 phone:        +257 22 5005
 fax-no:       +257 22 8764
-e-mail:       victor@cbinf.com or admin@nic.bi
+e-mail:       admin@nic.bi
 
 contact:      technical
 name:         Felix Ndayirukiye
@@ -35,6 +35,7 @@ nserver:      NS.NIC.BI 196.2.8.205
 nserver:      NS1.NIC.BI 196.2.12.205
 nserver:      SUNIC.SUNET.SE 192.36.125.2 2001:6b0:7:0:0:0:0:2
 
+status:       ACTIVE
 remarks:      Registration information: http://www.nic.bi
 
 created:      1996-10-21
