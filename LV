@@ -33,7 +33,7 @@ phone:        +371 7 211 241
 fax-no:       +371 7 820 153
 e-mail:       hostmaster@latnet.lv
 
-nserver:      A.NIC.LV 2a02:500:4400:700::4 91.198.156.99
+nserver:      A.NIC.LV 2a02:500:4400:700:0:0:0:4 91.198.156.99
 nserver:      B.NIC.LV 92.240.70.1
 nserver:      C.NIC.LV 194.0.1.24 2001:678:4:0:0:0:0:18
 nserver:      LT.NIC.LV 83.171.8.137
@@ -42,6 +42,7 @@ nserver:      SUNIC.SUNET.SE 192.36.125.2 2001:6b0:7:0:0:0:0:2
 
 whois:        whois.nic.lv
 
+status:       ACTIVE
 remarks:      Registration information: http://www.nic.lv/
 
 created:      1993-04-29
