@@ -7,14 +7,14 @@ domain:       GM
 organisation: GM-NIC
 address:      P.O. Box 2647
 address:      Serrekunda
-address:      The Gambia
+address:      Gambia
 
 contact:      administrative
 name:         Jorn Grotnes
 organisation: GM-NIC
 address:      P.O. Box 2647
 address:      Serrekunda
-address:      The Gambia
+address:      Gambia
 phone:        +220 392728
 fax-no:       +220 391020
 e-mail:       admin@nic.gm
@@ -24,7 +24,7 @@ name:         Jorn Grotnes
 organisation: GM-NIC
 address:      P.O. Box 2647
 address:      Serrekunda
-address:      The Gambia
+address:      Gambia
 phone:        +220 392728
 fax-no:       +220 3911020
 e-mail:       technical@nic.gm
@@ -33,6 +33,7 @@ nserver:      NS1.ASAP-ASP.NET 195.225.3.100
 nserver:      NS1.NIC.GM 194.63.250.217
 nserver:      NS2.NIC.GM 212.60.72.93
 
+status:       ACTIVE
 remarks:      Registration information: http://www.nic.gm
 
 created:      1997-03-28
