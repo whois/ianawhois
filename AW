@@ -36,6 +36,8 @@ nserver:      NS1.SETARNET.AW 209.88.128.25
 nserver:      NS2.SETARNET.AW 209.88.128.26
 nserver:      NS3.DOMAIN-REGISTRY.NL 193.176.144.6
 
+status:       ACTIVE
+
 created:      1996-02-20
 changed:      2009-07-23
 source:       IANA
