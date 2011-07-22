@@ -4,15 +4,17 @@
 
 domain:       TP
 
+organisation: -
 address:      Laleia
 address:      Manatutu
 address:      East Timor
+address:      Timor-leste
 
 contact:      administrative
 name:         Xanana Gusmao
 address:      Laleia
 address:      Manatutu
-address:      East Timor
+address:      Timor-leste
 phone:        +670 390 311346
 fax-no:       +670 390 311345
 e-mail:       xanana@minihub.org
@@ -33,9 +35,10 @@ nserver:      NS-TP.RIPE.NET 193.0.12.250 2001:610:240:0:53:cc:12:250
 nserver:      UUCP-GW-1.PA.DEC.COM 204.123.2.18
 nserver:      UUCP-GW-2.PA.DEC.COM 204.123.2.19
 
+status:       ACTIVE
 remarks:      Registration information: http://www.nic.tp
 
 created:      1997-05-09
-changed:      2010-08-26
+changed:      2011-07-21
 source:       IANA
 
