@@ -32,6 +32,7 @@ nserver:      AZ.HOSTMASTER.NET.UA 217.12.194.26
 nserver:      NS.DEMOS.SU 194.87.0.8 194.87.0.9
 nserver:      RIP.PSG.COM 147.28.0.39 2001:418:1:0:0:0:0:39
 
+status:       ACTIVE
 remarks:      Registration information: http://www.whois.az/
 
 created:      1993-08-25
