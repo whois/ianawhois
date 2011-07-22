@@ -7,14 +7,14 @@ domain:       KR
 organisation: Korea Internet & Security Agency (KISA)
 address:      12F, Daedong Bldg, 109 Jungdae-ro, Songpa-gu
 address:      Seoul  138-950
-address:      South Korea
+address:      Korea, Republic Of
 
 contact:      administrative
 name:         Kilnam Chon
 organisation: Korea Network Information Center (KRNIC)
 address:      12F, Daedong Bldg, 109 Jungdae-ro, Songpa-gu
 address:      Seoul  138-950
-address:      South Korea
+address:      Korea, Republic Of
 phone:        +82 10 8581 3514
 fax-no:       +82 2 405 5419
 e-mail:       chonkn@gmail.com
@@ -24,7 +24,7 @@ name:         Chanki Park
 organisation: Korea Network Information Center (KRNIC)
 address:      12F, Daedong Bldg, 109 Jungdae-ro, Songpa-gu
 address:      Seoul  138-950
-address:      South Korea
+address:      Korea, Republic Of
 phone:        +82 2 405 6710
 fax-no:       +82 2 405 5419
 e-mail:       ckp@nic.or.kr
@@ -38,6 +38,7 @@ nserver:      G.DNS.KR 2001:dc5:a:0:0:0:0:1 202.31.190.1
 
 whois:        whois.kr
 
+status:       ACTIVE
 remarks:      Registration information: http://www.nic.or.kr/
 
 created:      1986-09-29
