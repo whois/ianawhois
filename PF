@@ -36,6 +36,8 @@ e-mail:       pierre@mana.pf
 nserver:      NS1.MANA.PF 202.3.225.10
 nserver:      NS2.MANA.PF 202.3.225.20
 
+status:       ACTIVE
+
 created:      1996-03-19
 changed:      2005-08-31
 source:       IANA
