@@ -36,6 +36,7 @@ nserver:      NS1.NIC.AL 194.1.149.230
 nserver:      RIP.PSG.COM 147.28.0.39 2001:418:1:0:0:0:0:39
 nserver:      SUNIC.SUNET.SE 192.36.125.2 2001:6b0:7:0:0:0:0:2
 
+status:       ACTIVE
 remarks:      Registration information: http://www.nic.al/
 
 created:      1992-04-21
