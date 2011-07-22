@@ -33,10 +33,11 @@ nserver:      MS1.DYNTLD.NET 208.78.70.84
 nserver:      MS2.DYNTLD.NET 204.13.250.84
 nserver:      MS3.DYNTLD.NET 208.78.71.84
 nserver:      MS4.DYNTLD.NET 204.13.251.84
-nserver:      PHLOEM.UOREGON.EDU 128.223.32.35 2001:468:d01:20::80df:2023
+nserver:      PHLOEM.UOREGON.EDU 128.223.32.35 2001:468:d01:20:0:0:80df:2023
 
 whois:        whois.nic.ms
 
+status:       ACTIVE
 remarks:      Registration information: http://www.nic.ms
 
 created:      1997-03-06
