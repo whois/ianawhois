@@ -8,7 +8,7 @@ organisation: Agencia para el Desarrollo de la Información de la Sociedad en Bo
 address:      Calle Ayacucho y Mercado No. 308 Piso 3
 address:      Edificio de la Vicepresidencia
 address:      La Paz  13097
-address:      Bolivia
+address:      Bolivia, Plurinational State Of
 
 contact:      administrative
 name:         Jorge Alejandro Patiño Córdova (Director Ejecutivo a.i.)
@@ -16,7 +16,7 @@ organisation: Agencia para el Desarrollo de la Información de la Sociedad en Bo
 address:      Calle Ayacucho y Mercado No. 308 Piso 3
 address:      Edificio de la Vicepresidencia
 address:      La Paz  13097
-address:      Bolivia
+address:      Bolivia, Plurinational State Of
 phone:        +591 2 2200720
 fax-no:       +591 2 2200720
 e-mail:       jpatino@adsib.gob.bo
@@ -27,7 +27,7 @@ organisation: Agencia para el Desarrollo de la Información de la Sociedad en Bo
 address:      Calle Ayacucho y Mercado No. 308 Piso 3
 address:      Edificio de la Vicepresidencia
 address:      La Paz  13097
-address:      Bolivia
+address:      Bolivia, Plurinational State Of
 phone:        +591 2 2200720
 fax-no:       +591 2 2200720
 e-mail:       jmachicado@adsib.gob.bo
@@ -37,6 +37,7 @@ nserver:      UTAMA.BOLNET.BO 166.114.1.40
 
 whois:        whois.nic.bo
 
+status:       ACTIVE
 remarks:      Registration information: http://www.nic.bo
 
 created:      1991-02-26
