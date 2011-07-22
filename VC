@@ -7,14 +7,14 @@ domain:       VC
 organisation: Ministry of Telecommunications, Science, Technology and Industry
 address:      Egmont Street
 address:      Kingstown
-address:      St. Vincent & the Grenadines
+address:      Saint Vincent And The Grenadines
 
 contact:      administrative
 name:         Andre Bailey
 organisation: Ministry of Telecommunications, Science, Technology and Industry
 address:      Egmont Steet
 address:      Kingstown
-address:      St. Vincent & the Grenadines
+address:      Saint Vincent And The Grenadines
 phone:        +1 784 457 1007
 fax-no:       +1 784 457 2880
 e-mail:       abailey.itsd@mail.gov.vc
@@ -38,6 +38,8 @@ nserver:      C0.CCTLD.AFILIAS-NST.INFO 199.254.61.1 2001:500:27:0:0:0:0:1
 nserver:      D0.CCTLD.AFILIAS-NST.ORG 199.254.62.1 2001:500:28:0:0:0:0:1
 
 whois:        whois2.afilias-grs.net
+
+status:       ACTIVE
 
 created:      1991-09-03
 changed:      2008-12-30
