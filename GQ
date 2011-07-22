@@ -23,15 +23,16 @@ name:         Cedric Cauvel
 organisation: GETESA
 address:      A.P. 494
 address:      Malabo
-address:      Equitorial Guinea
+address:      Equatorial Guinea
 phone:        +240222604000
 e-mail:       cedric.cauvel@orange-getesa.gq
 
 nserver:      BOW.INTNET.GQ 193.251.153.78
 nserver:      DNS.INTNET.GQ 193.251.153.67
 nserver:      NS.UCAD.SN 196.1.95.1
-nserver:      PHLOEM.UOREGON.EDU 128.223.32.35 2001:468:d01:20::80df:2023
+nserver:      PHLOEM.UOREGON.EDU 128.223.32.35 2001:468:d01:20:0:0:80df:2023
 
+status:       ACTIVE
 remarks:      Registration information: http://www.getesa.gq/
 
 created:      1997-07-10
