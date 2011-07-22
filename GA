@@ -34,6 +34,8 @@ nserver:      NS-GA.RIPE.NET 193.0.12.81 2001:610:240:0:53:cc:12:81
 nserver:      NYALI.INET.GA 217.77.71.33
 nserver:      OGOOUE.INET.GA 217.77.71.1
 
+status:       ACTIVE
+
 created:      1994-12-12
 changed:      2005-08-29
 source:       IANA
