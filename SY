@@ -36,6 +36,7 @@ nserver:      NS-SY.RIPE.NET 193.0.12.215
 nserver:      NS1.TLD.SY 82.137.200.85
 nserver:      NS2.TLD.SY 82.137.192.145
 
+status:       ACTIVE
 remarks:      Registration information: https://reg.tld.sy
 
 created:      1996-02-20
