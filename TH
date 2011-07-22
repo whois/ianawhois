@@ -39,11 +39,12 @@ nserver:      NS-E.THNIC.CO.TH 194.0.1.28 2001:678:4:0:0:0:0:1c
 nserver:      NS-TH.RIPE.NET 193.0.12.219
 nserver:      NS.THNIC.NET 202.28.0.1
 nserver:      SFBA.SNS-PB.ISC.ORG 149.20.64.3 2001:4f8:0:2:0:0:0:19
-ds-rdata:     62374 5 1 1D485835253485075D70658BE9EF89E42314A0B2
 ds-rdata:     51601 5 1 0D0CD17B3ED3F60ED687F90FF9C795BBE9C67E62
+ds-rdata:     62374 5 1 1D485835253485075D70658BE9EF89E42314A0B2
 
 whois:        whois.thnic.co.th
 
+status:       ACTIVE
 remarks:      Registration information: http://www.thnic.co.th
 
 created:      1988-09-07
