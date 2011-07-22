@@ -38,6 +38,8 @@ nserver:      NS9.RIPN.NET 194.85.252.62 2001:678:16:0:194:85:252:62
 
 whois:        whois.tcinet.ru
 
+status:       ACTIVE
+
 created:      1990-09-19
 changed:      2011-03-10
 source:       IANA
