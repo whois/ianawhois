@@ -41,6 +41,7 @@ nserver:      NS.DNS.BR 200.160.0.5
 nserver:      NS.TELEFONICA-CA.NET 216.184.96.4
 nserver:      NS.UU.NET 137.39.1.3
 
+status:       ACTIVE
 remarks:      Registration information: http://www.svnet.org.sv
 
 created:      1994-11-04
