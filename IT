@@ -27,7 +27,7 @@ address:      Pisa  I-56124
 address:      Italy
 phone:        +39 050 315 2087
 fax-no:       +39 050 315 2113
-e-mail:       Maurizio.Martinelli@iit.cnr.it
+e-mail:       maurizio.martinelli@iit.cnr.it
 
 nserver:      C.DNS.IT 194.0.1.22 2001:678:4:0:0:0:0:16
 nserver:      DNS.NIC.IT 192.12.192.5 2a00:d40:1:1:0:0:0:5
@@ -38,6 +38,7 @@ nserver:      S.DNS.IT 194.146.106.30
 
 whois:        whois.nic.it
 
+status:       ACTIVE
 remarks:      Registration information: http://www.nic.it/
 
 created:      1987-12-23
