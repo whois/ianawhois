@@ -35,6 +35,7 @@ nserver:      RIP.PSG.COM 147.28.0.39 2001:418:1:0:0:0:0:39
 nserver:      SUNIC.SUNET.SE 192.36.125.2 2001:6b0:7:0:0:0:0:2
 nserver:      ZEINA.AUB.EDU.LB 193.188.128.14
 
+status:       ACTIVE
 remarks:      Registration information: http://www.aub.edu.lb/lbdr
 
 created:      1993-08-25
