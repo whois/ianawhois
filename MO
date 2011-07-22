@@ -37,6 +37,7 @@ nserver:      E.MONIC.MO 202.175.51.116
 nserver:      NS17.CDNS.NET 194.0.1.17 2001:678:4:0:0:0:0:11
 nserver:      NS2.CUHK.EDU.HK 137.189.6.21 2405:3000:3:60:0:0:0:21
 
+status:       ACTIVE
 remarks:      Registration information: http://www.monic.net.mo
 
 created:      1992-09-17
