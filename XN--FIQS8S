@@ -41,6 +41,7 @@ nserver:      L.DNS.CN 125.208.36.1
 
 whois:        cwhois.cnnic.cn
 
+status:       ACTIVE
 remarks:      Registration information: http://www.cnnic.cn
 
 created:      2010-07-09
