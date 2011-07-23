@@ -7,14 +7,14 @@ domain:       AX
 organisation: Ålands landskapsregering
 address:      Strandgatan
 address:      Mariehamn  22100
-address:      Aland Islands, Finland
+address:      Åland Islands
 
 contact:      administrative
 name:         Ronny Lundström
 organisation: Ålands landskapsregering
 address:      PB 1060
 address:      Mariehamn  AX-22111
-address:      Aland Islands, Finland
+address:      Åland Islands
 phone:        +358 18 25000
 fax-no:       +358 18 19155
 e-mail:       itsupport@regeringen.ax
@@ -24,7 +24,7 @@ name:         Conny Rosenberg
 organisation: Alands Datakommunikation AB
 address:      PB 233
 address:      Mariehamn  AX-22101
-address:      Aland Islands, Finland
+address:      Åland Islands
 phone:        +358 18 23500
 fax-no:       +358 18 14643
 e-mail:       conny@alcom.ax
@@ -33,6 +33,7 @@ nserver:      NS1.AALNET.NET 194.112.0.1
 nserver:      NS2.AALNET.NET 194.112.0.5
 nserver:      NS3.AALNET.NET 82.199.186.130
 
+status:       ACTIVE
 remarks:      Registration information:
 remarks:      http://www.regeringen.ax/axreg/
 
