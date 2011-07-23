@@ -32,10 +32,10 @@ e-mail:       adam.king@auda.org.au
 nserver:      A.AU 58.65.254.73
 nserver:      B.AU 58.65.253.73
 nserver:      H.AU 202.65.13.73
-nserver:      L.AU 156.154.100.18 2001:502:ad09:0:0:0:0:18
+nserver:      L.AU 156.154.100.18 2001:0502:ad09:0:0:0:0:18
 nserver:      M.AU 156.154.101.18
 nserver:      N.AU 156.154.102.18
-nserver:      O.AU 156.154.103.18 2001:502:2eda:0:0:0:0:18
+nserver:      O.AU 156.154.103.18 2001:0502:2eda:0:0:0:0:18
 nserver:      P.AU 156.154.104.18
 nserver:      R.AU 128.32.136.3 2607:f140:ffff:fffe:0:0:0:3
 nserver:      S.AU 128.32.136.14 2607:f140:ffff:fffe:0:0:0:e
@@ -44,6 +44,7 @@ nserver:      V.AU 2001:dc0:4001:1:0:1836:0:141 202.12.31.141
 
 whois:        whois.audns.net.au
 
+status:       ACTIVE
 remarks:      Registration information:
 remarks:      http://www.auda.org.au/domains/au-domains/
 
