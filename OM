@@ -4,30 +4,30 @@
 
 domain:       OM
 
-organisation: Oman Telecommunications Company
-address:      789 Ruwi
-address:      Muscat  112
+organisation: Telecommunications Regulatory Authority (TRA)
+address:      P.O. Box 579, P.C 112, Ruwi
+address:      Muscat
 address:      Oman
 
 contact:      administrative
-name:         Ali Abduwani
-organisation: Oman Telecommunications Company
-address:      789 Ruwi
-address:      Muscat  112
+name:         Domain Name Manager
+organisation: Telecommunications Regulatory Authority (TRA)
+address:      P.O. Box 579, P.C 112, Ruwi
+address:      Muscat
 address:      Oman
-phone:        +968 24 631 881
-fax-no:       +968 24 695 482
-e-mail:       abduwani@omantel.net.om
+phone:        +96824574383
+fax-no:       +96824563640
+e-mail:       dnsmanager@tra.gov.om
 
 contact:      technical
-name:         Salim Bader Al-Mazrui
-organisation: Oman Telecommunications Company
-address:      789 Ruwi
-address:      Muscat  112
+name:         Domain Name Technical Head
+organisation: Telecommunications Regulatory Authority (TRA)
+address:      P.O. Box 579, P.C 112, Ruwi
+address:      Muscat
 address:      Oman
-phone:        +968 24 632 846
-fax-no:       +968 24 695 482
-e-mail:       salim@omantel.om
+phone:        +96824574358
+fax-no:       +96824563640
+e-mail:       dnsadmin@tra.gov.om
 
 nserver:      NS-OM.RIPE.NET 193.0.12.166
 nserver:      NS.ICANN.ORG 199.4.138.53 2001:500:89:0:0:0:0:53
@@ -39,6 +39,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.omantel.net.om
 
 created:      1996-04-11
-changed:      2011-01-28
+changed:      2011-08-04
 source:       IANA
 
