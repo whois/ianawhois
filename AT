@@ -37,7 +37,7 @@ nserver:      NS-UK.NIC.AT 195.66.241.82
 nserver:      NS1.UNIVIE.AC.AT 2001:628:2030:4301:0:0:0:2 78.104.144.2
 nserver:      NS2.UNIVIE.AC.AT 192.92.125.2 2001:678:1c:0:0:0:0:2
 nserver:      NS9.UNIVIE.AC.AT 194.0.10.100 2001:678:d:0:0:0:0:cafe
-nserver:      R.NIC.AT 192.174.68.10 2001:67c:1bc:0:0:0:0:10
+nserver:      R.NIC.AT 194.0.25.10 2001:67c:1bc:0:0:0:0:10
 
 whois:        whois.nic.at
 
