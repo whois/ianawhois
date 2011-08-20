@@ -31,17 +31,14 @@ e-mail:       tech@nic.tt
 
 nserver:      ANYNS.PCH.NET 204.61.216.4
 nserver:      NS0.NIC.TT 156.154.100.17
-nserver:      NS1.NIC.TT 156.154.101.17
-nserver:      NS1.PCH.NET 206.220.231.1
-nserver:      NS2.NIC.TT 156.154.102.17
-nserver:      NS3.NIC.TT 156.154.103.17
-nserver:      NS4.NIC.TT 156.154.104.17
-nserver:      NS5.NIC.TT 156.154.105.17
+nserver:      NS3.NIC.MX 200.33.111.1
+nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e:0:0:0:0:1
+nserver:      TT.CCTLD.AUTHDNS.RIPE.NET 193.0.9.50 2001:67c:e0:0:0:0:0:50
 
 status:       ACTIVE
 remarks:      Registration information: http://www.nic.tt
 
 created:      1991-09-03
-changed:      2009-01-15
+changed:      2011-08-20
 source:       IANA
 
