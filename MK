@@ -21,7 +21,7 @@ e-mail:       dimitrijoski@marnet.mk
 
 contact:      technical
 name:         Goran Muratovski
-organisation: MARNet "Ss. Cyril & Methodius" University
+organisation: Ss. Cyril and Methodius University  in Skopje
 address:      Krste Misirkov b.b.
 address:      Skopje  1000
 address:      Macedonia, The Former Yugoslav Republic Of
@@ -29,8 +29,8 @@ phone:        +389 2 3 293 294
 fax-no:       +389 2 3 293 299
 e-mail:       gone@ukim.edu.mk
 
-nserver:      KITKA.MARNET.NET.MK 194.149.131.2
-nserver:      NS1.ARNES.SI 193.2.1.86
+nserver:      KITKA.MARNET.NET.MK 194.149.131.2 2a02:e48:0:3:0:0:0:2
+nserver:      NS2.ARNES.SI 193.2.1.91 2001:1470:8000:0:0:0:0:91
 nserver:      NS5.UNIVIE.AC.AT 193.171.255.77 2001:628:453:4305:0:0:0:53
 nserver:      RIP.PSG.COM 147.28.0.39 2001:418:1:0:0:0:0:39
 
@@ -38,6 +38,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.mpt.com.mk/
 
 created:      1993-09-23
-changed:      2011-08-01
+changed:      2011-08-19
 source:       IANA
 
