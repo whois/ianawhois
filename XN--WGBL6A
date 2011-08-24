@@ -33,15 +33,21 @@ phone:        +974 44995427
 fax-no:       +974 44830630
 e-mail:       mbashir@ict.gov.qa
 
-nserver:      ANS0.QAREGISTRY.QA 178.23.18.5
-nserver:      ANS1.QAREGISTRY.QA 178.23.18.6
+nserver:      NS1.AUSREGISTRY.NET.AU 202.65.12.73
 nserver:      NS1.QATAR.NET.QA 212.77.192.10
+nserver:      NS1.REGISTRY.QA 178.23.16.104
+nserver:      NS2.AUSREGISTRY.NET.AU 202.65.13.73
 nserver:      NS2.QATAR.NET.QA 212.77.192.13
+nserver:      NS2.REGISTRY.QA 178.23.17.104
+nserver:      NS3.QATAR.NET.QA 212.77.192.15
+nserver:      QA.CCTLD.AUTHDNS.RIPE.NET 193.0.9.51 2001:67c:e0:0:0:0:0:51
+
+whois:        whois.registry.qa
 
 status:       ACTIVE
-remarks:      Registration information: http://www.ictqatar.qa
+remarks:      Registration information: http://domains.qa
 
 created:      2010-12-24
-changed:      2011-01-03
+changed:      2011-08-24
 source:       IANA
 
