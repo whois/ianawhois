@@ -27,14 +27,21 @@ address:      Qatar
 phone:        +9744995427
 e-mail:       mbashir@ict.gov.qa
 
+nserver:      NS1.AUSREGISTRY.NET.AU 202.65.12.73
 nserver:      NS1.QATAR.NET.QA 212.77.192.10
+nserver:      NS1.REGISTRY.QA 178.23.16.104
+nserver:      NS2.AUSREGISTRY.NET.AU 202.65.13.73
 nserver:      NS2.QATAR.NET.QA 212.77.192.13
+nserver:      NS2.REGISTRY.QA 178.23.17.104
 nserver:      NS3.QATAR.NET.QA 212.77.192.15
+nserver:      QA.CCTLD.AUTHDNS.RIPE.NET 193.0.9.51 2001:67c:e0:0:0:0:0:51
+
+whois:        whois.registry.qa
 
 status:       ACTIVE
-remarks:      Registration information: http://www.ictqatar.qa
+remarks:      Registration information: http://domains.qa
 
 created:      1996-06-12
-changed:      2010-11-15
+changed:      2011-08-24
 source:       IANA
 
