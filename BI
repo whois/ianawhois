@@ -27,6 +27,7 @@ address:      Burundi
 phone:        +257 22 219230
 e-mail:       tech@nic.bi
 
+nserver:      ANYNS.NIC.BI 2001:500:14:6061:ad:0:0:1 204.61.216.61
 nserver:      DNS.PRINCETON.EDU 128.112.129.15
 nserver:      NS-BI.AFRINIC.NET 196.216.168.23 2001:43f8:120:0:0:0:0:23
 nserver:      NS-BI.RIPE.NET 193.0.12.36 2001:610:240:0:53:cc:12:36
@@ -40,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.bi
 
 created:      1996-10-21
-changed:      2011-08-20
+changed:      2011-08-24
 source:       IANA
 
