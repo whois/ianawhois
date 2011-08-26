@@ -20,14 +20,14 @@ fax-no:       +357 22 756082
 e-mail:       stylianou.agathoclis@ucy.ac.cy
 
 contact:      technical
-name:         Panaretou Sotiris
+name:         Panayiotou Fotia
 organisation: University of Cyprus
 address:      75 Kallipoleos Street
 address:      Nicosia  1678
 address:      Cyprus
 phone:        +357 22 892165
 fax-no:       +357 22 892155
-e-mail:       panaretou.sotiris@ucy.ac.cy
+e-mail:       panayiotou.fotia@ucy.ac.cy
 
 nserver:      CY-NS.ANYCAST.PCH.NET 204.61.216.44
 nserver:      CYNIC.DNS.CY 194.42.29.1
@@ -42,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.cy
 
 created:      1994-07-26
-changed:      2011-03-04
+changed:      2011-08-25
 source:       IANA
 
