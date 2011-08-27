@@ -15,19 +15,18 @@ organisation: ICM Registry LLC
 address:      PO Box 30129
 address:      Palm Beach Gardens Florida 33420
 address:      United States
-phone:        +1 561 290 0624
-fax-no:       +1 561 658 8144
-e-mail:       rking@icmregistry.com
+phone:        +1 877 809 3182
+fax-no:       +1 877 809 3183
+e-mail:       tfarrow@icmregistry.com
 
 contact:      technical
-name:         Domain Technical Contact
+name:         CTO
 organisation: ICM Registry LLC
 address:      PO Box 30129
 address:      Palm Beach Gardens Florida 33420
 address:      United States
 phone:        +1 801 647 1705
-fax-no:       +1 801 542 8084
-e-mail:       domaintech@afilias.info
+e-mail:       lbay@icmregistry.com
 
 nserver:      A0.XXX.AFILIAS-NST.INFO 199.115.152.1
 nserver:      A2.XXX.AFILIAS-NST.INFO 199.115.156.1
@@ -42,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.icmregistry.com/
 
 created:      2011-04-15
-changed:      2011-06-10
+changed:      2011-08-27
 source:       IANA
 
