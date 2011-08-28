@@ -35,12 +35,12 @@ nserver:      NS.NIC.BI 196.2.8.205
 nserver:      NS1.NIC.BI 196.2.12.205
 nserver:      SUNIC.SUNET.SE 192.36.125.2 2001:6b0:7:0:0:0:0:2
 
-whois:        whois.nic.bi
+whois:        whois1.nic.bi
 
 status:       ACTIVE
 remarks:      Registration information: http://www.nic.bi
 
 created:      1996-10-21
-changed:      2011-08-24
+changed:      2011-08-27
 source:       IANA
 
