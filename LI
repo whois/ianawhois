@@ -4,20 +4,20 @@
 
 domain:       LI
 
-organisation: Hochschule Liechtenstein
+organisation: Universitaet Liechtenstein
 address:      Fuerst-Franz-Josef-Strasse
 address:      Vaduz  LI-9490
 address:      Liechtenstein
 
 contact:      administrative
 name:         Markus Graf
-organisation: Hochschule Liechtenstein
+organisation: Universitaet Liechtenstein
 address:      Fuerst-Franz-Josef-Strasse
 address:      Vaduz  LI-9490
 address:      Liechtenstein
 phone:        +423 265 1212
 fax-no:       +423 265 1201
-e-mail:       markus.graf@hochschule.li
+e-mail:       markus.graf@uni.li
 
 contact:      technical
 name:         Marcel Schneider
@@ -44,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.li
 
 created:      1993-02-26
-changed:      2010-12-09
+changed:      2011-08-30
 source:       IANA
 
