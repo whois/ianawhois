@@ -20,12 +20,12 @@ e-mail:       nf-admin@nic.net.nf
 
 contact:      technical
 name:         NF Registry Customer Service
-organisation: CoCCA Registry Services Limited
-address:      6RCI Building, Nursery Road
-address:      Drum Site WA 6798
-address:      Christmas Island
+organisation: CoCCA Registry Services(NZ) Limited
+address:      11a Wynyard Street
+address:      Devonport Auckland 0744
+address:      New Zealand
 phone:        64 9 446 6370
-fax-no:       +61 (0)2 94234620
+fax-no:       +61 (0)2 8324 6336
 e-mail:       noc@nic.net.nf
 
 nserver:      NF-NS.PCH.NET 2001:500:14:6051:ad:0:0:1 204.61.216.51
@@ -41,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.net.nf/
 
 created:      1996-03-18
-changed:      2010-12-10
+changed:      2011-08-30
 source:       IANA
 
