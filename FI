@@ -39,7 +39,7 @@ nserver:      G.FI 156.154.101.26
 nserver:      H.FI 156.154.102.26
 nserver:      I.FI 156.154.103.26 2001:502:2eda:0:0:0:0:26
 ds-rdata:     37481 8 2 348035176474a7247e7593d2ced09873f42e72fbf823b27328980a1236e75678
-ds-rdata:     45899 8 2 afba4008b1357bf140e601e44052e13396d656627dbc163d67a2afdee241018d
+ds-rdata:     13531 8 2 1ad0faa0ce264327deeb8301732881bf303cc5ca6e0c1fabecd0d26836881359
 
 whois:        whois.ficora.fi
 
@@ -47,6 +47,6 @@ status:       ACTIVE
 remarks:      Registration information: https://domain.ficora.fi
 
 created:      1986-12-17
-changed:      2010-11-09
+changed:      2011-08-31
 source:       IANA
 
