@@ -31,12 +31,12 @@ e-mail:       technical@nic.gm
 
 nserver:      NS1.ASAP-ASP.NET 195.225.3.100
 nserver:      NS1.NIC.GM 194.63.250.217
-nserver:      NS2.NIC.GM 212.60.72.93
+nserver:      NS2.NIC.GM 212.60.81.100
 
 status:       ACTIVE
 remarks:      Registration information: http://www.nic.gm
 
 created:      1997-03-28
-changed:      2005-07-26
+changed:      2011-09-11
 source:       IANA
 
