@@ -26,8 +26,8 @@ organisation: Namibian Network Information Center
 address:      PO Box 1342
 address:      Swakopmund
 address:      Namibia
-phone:        +264 64 463931
-fax-no:       +264 64 463931
+phone:        +264 81 124 6733
+fax-no:       +264 88 624273
 e-mail:       dns-tech@na-nic.com.na
 
 nserver:      ANYC2.IRONDNS.NET 195.253.64.7 2a01:5b0:4:0:0:0:0:7
@@ -46,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.na-nic.com.na/
 
 created:      1991-05-08
-changed:      2011-06-15
+changed:      2011-09-16
 source:       IANA
 
