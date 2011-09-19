@@ -37,9 +37,10 @@ nserver:      RIP.PSG.COM 147.28.0.39 2001:418:1:0:0:0:0:39
 nserver:      SUNIC.SUNET.SE 192.36.125.2 2001:6b0:7:0:0:0:0:2
 
 status:       ACTIVE
-remarks:      Registration information: http://www.nic.al/
+remarks:      Registration information:
+remarks:      http://www.akep.al/sq/formulare-domain
 
 created:      1992-04-21
-changed:      2010-07-09
+changed:      2011-09-19
 source:       IANA
 
