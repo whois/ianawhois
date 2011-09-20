@@ -36,7 +36,7 @@ e-mail:       hk.tech@hkirc.hk
 nserver:      ADNS1.BERKELEY.EDU 128.32.136.3
 nserver:      ADNS2.BERKELEY.EDU 128.32.136.14
 nserver:      B.DNS.TW 210.201.138.58 2404:0:10a0:0:0:0:0:58
-nserver:      HK-NS.PCH.NET 204.61.216.46
+nserver:      HK-NS.PCH.NET 2001:500:14:6046:ad:0:0:1 204.61.216.46
 nserver:      NS1.HKIRC.NET.HK 203.119.2.18
 nserver:      NS2.CUHK.EDU.HK 137.189.6.21 2405:3000:3:60:0:0:0:21
 nserver:      NS2.HKIRC.NET.HK 203.119.2.19
