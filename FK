@@ -20,14 +20,14 @@ fax-no:       +500 27210
 e-mail:       tcotter@fidc.co.fk
 
 contact:      technical
-name:         Mike McLeod
+name:         Mark Street
 organisation: Cable and Wireless
 address:      Ross Road
 address:      Stanley  FIQQ 1ZZ
 address:      Falkland Islands (malvinas)
-phone:        + 500 20830
-fax-no:       + 500 22207
-e-mail:       mike.mcleod@cwfi.co.fk
+phone:        + 500 20800
+fax-no:       + 500 20890
+e-mail:       ipn.support@cwfi.co.fk
 
 nserver:      EURO-NS1.CW.NET 141.1.27.248
 nserver:      EURO-NS2.CW.NET 212.80.175.2
@@ -38,6 +38,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.fidc.co.fk/
 
 created:      1997-03-26
-changed:      2008-04-30
+changed:      2011-09-24
 source:       IANA
 
