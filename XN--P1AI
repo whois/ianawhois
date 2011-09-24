@@ -6,28 +6,28 @@ domain:       РФ
 domain-ace:   XN--P1AI
 
 organisation: Coordination Center for TLD RU
-address:      Bolshoy Golovin pereulok, 23
-address:      Moscow  107045
+address:      8, Zoologicheskaya str.
+address:      Moscow  123242
 address:      Russian Federation
 
 contact:      administrative
 name:         .xn--p1ai domain Administrative group
 organisation: Coordination Center for TLD RU
-address:      Bolshoy Golovin pereulok, 23
-address:      Moscow  107045
+address:      8, Zoologicheskaya str.
+address:      Moscow  123242
 address:      Russian Federation
-phone:        +7 495 737 58 98
-fax-no:       +7 495 737 58 89
+phone:        +7 499 254 88 94
+fax-no:       +7 499 254 89 63
 e-mail:       ru-adm@cctld.ru
 
 contact:      technical
 name:         Technical Center of Internet
 organisation: Technical Center of Internet
-address:      Bolshoy Golovin pereulok, 23
-address:      Moscow  107045
+address:      8, Zoologicheskaya str.
+address:      Moscow  123242
 address:      Russian Federation
-phone:        +7 495 737 69 76
-fax-no:       +7 499 196 49 84
+phone:        +7 495 737 92 95
+fax-no:       +7 495 737 06 84
 e-mail:       ru-tech@tcinet.ru
 
 nserver:      E.DNS.RIPN.NET 193.232.142.17 2001:678:15:0:193:232:142:17
@@ -42,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://cctld.ru/
 
 created:      2010-05-12
-changed:      2011-03-15
+changed:      2011-09-24
 source:       IANA
 
