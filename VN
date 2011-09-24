@@ -10,17 +10,7 @@ address:      Hanoi  10000
 address:      Viet Nam
 
 contact:      administrative
-name:         Nguyen Le Thuy, Director General
-organisation: Vietnam Internet Network Information Center (VNNIC)
-address:      18 Nguyen Du
-address:      Hanoi  10000
-address:      Viet Nam
-phone:        +84 4 35564944 ext 510
-fax-no:       +84 4 37821462
-e-mail:       nlthuy@vnnic.net.vn
-
-contact:      technical
-name:         Hoang Minh Cuong, Deputy Director General
+name:         Hoang Minh Cuong
 organisation: Vietnam Internet Network Information Center (VNNIC)
 address:      18 Nguyen Du
 address:      Hanoi  10000
@@ -28,6 +18,16 @@ address:      Viet Nam
 phone:        +84 4 35564944 ext 511
 fax-no:       +84 4 37821462
 e-mail:       hmcuong@vnnic.net.vn
+
+contact:      technical
+name:         Nguyen Hong Thang
+organisation: Vietnam Internet Network Information Center (VNNIC)
+address:      18 Nguyen Du
+address:      Hanoi  10000
+address:      Viet Nam
+phone:        +84 4 35564944 ext 301
+fax-no:       +84 4 37821462
+e-mail:       nhthang@vnnic.net.vn
 
 nserver:      A.DNS-SERVERS.VN 194.0.1.18 2001:678:4:0:0:0:0:12
 nserver:      B.DNS-SERVERS.VN 203.119.10.105
@@ -41,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.vnnic.net.vn
 
 created:      1994-04-14
-changed:      2009-06-08
+changed:      2011-09-24
 source:       IANA
 
