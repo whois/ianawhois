@@ -12,7 +12,7 @@ address:      Amman  11941
 address:      Jordan
 
 contact:      administrative
-name:         Nabeel Al-Fayoumi, NITC Director General
+name:         Nabeel Al-Fayoumi
 organisation: National Information Technology Center (NITC)
 address:      Al-Jubeiha
 address:      P.O.Box 259
@@ -23,7 +23,7 @@ fax-no:       +962 6 5300265
 e-mail:       nabeel.fayoumi@nitc.gov.jo
 
 contact:      technical
-name:         Internet Management and Domain Names Division
+name:         National Domain Names Division
 organisation: National Information Technology Center (NITC)
 address:      Royal Scientific Society, Al-Jubeiha
 address:      P.O. Box 259
@@ -42,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.idn.jo/
 
 created:      2010-08-20
-changed:      2011-03-21
+changed:      2011-09-28
 source:       IANA
 
