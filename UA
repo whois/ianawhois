@@ -12,11 +12,10 @@ address:      Ukraine
 contact:      administrative
 name:         Dmitry Kohmanyuk
 organisation: Communication Systems Ltd.
-address:      P.O.Box 99
-address:      Kyiv  01033
+address:      P.O.Box 96
+address:      Kyiv  04053
 address:      Ukraine
-phone:        +380 50 381 4604, +1 415 462 1513
-fax-no:       +380 44 455 8542
+phone:        +380 50 381 4604
 e-mail:       dk@nic.net.ua
 
 contact:      technical
@@ -44,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://hostmaster.ua/
 
 created:      1992-12-01
-changed:      2011-07-14
+changed:      2011-09-29
 source:       IANA
 
