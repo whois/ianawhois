@@ -4,8 +4,7 @@
 
 domain:       CN
 
-organisation: Chinese Academy of Sciences
-organisation: The Computer Network Center
+organisation: Computer Network Information Center, Chinese Academy of Sciences
 address:      No.4, South 4th Street
 address:      Zhong Guan Cun
 address:      Beijing  100080
@@ -47,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.cnnic.cn/
 
 created:      1990-11-28
-changed:      2007-10-08
+changed:      2011-10-03
 source:       IANA
 
