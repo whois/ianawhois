@@ -42,9 +42,10 @@ nserver:      NS1.BARBADOSDOMAIN.NET 200.50.92.195
 nserver:      NS2.BARBADOSDOMAIN.NET 204.212.242.113
 
 status:       ACTIVE
-remarks:      Registration information: http://www.barbadosdomain.net
+remarks:      Registration information:
+remarks:      http://www.whois.telecoms.gov.bb/
 
 created:      1991-09-03
-changed:      2010-11-23
+changed:      2011-10-06
 source:       IANA
 
