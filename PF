@@ -4,34 +4,30 @@
 
 domain:       PF
 
-organisation: Ministère des Postes et Télécommunications et des sports, chargé
-organisation: des nouvelles technologies de l'information
-address:      24 avenue Dupetit-Thouars - BP 2551
-address:      PAPEETE TAHITI 98713
+organisation: Gouvernement de la Polynésie française
+address:      Avenue POUVANAA A OOPA
+address:      PAPEETE TAHITI 98714
 address:      French Polynesia
 
 contact:      administrative
-name:         Department Manager - Moetai Brotherson
+name:         Chef de Service
 organisation: Service des Postes et Télécommunications
-address:      Immeuble Fariipiti Iti
-address:      Rue Marcq-Blond de Saint-Hilaire
 address:      BP 5019
-address:      PAPEETE TAHITI 98713
+address:      PIRAE TAHITI 98716
 address:      French Polynesia
-phone:        +689 501 777
-fax-no:       +689 582 301
-e-mail:       service.spt@spt.gov.pf
+phone:        +689 501777
+fax-no:       +689 582301
+e-mail:       service.spt@poste.gov.pf
 
 contact:      technical
-name:         Marketing Director - Pierre Perrey
+name:         Chargé de cellule systèmes et LAN
 organisation: MANA
 address:      immeuble jissang - BP 40001
-address:      Fare TONY
 address:      PAPEETE TAHITI 98713
 address:      French Polynesia
-phone:        +689 479 923
+phone:        +689 479958
 fax-no:       +689 479 915
-e-mail:       pierre@mana.pf
+e-mail:       production@mana.pf
 
 nserver:      NS1.MANA.PF 202.3.225.10
 nserver:      NS2.MANA.PF 202.3.225.20
@@ -39,6 +35,6 @@ nserver:      NS2.MANA.PF 202.3.225.20
 status:       ACTIVE
 
 created:      1996-03-19
-changed:      2005-08-31
+changed:      2011-10-07
 source:       IANA
 
