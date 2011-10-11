@@ -29,7 +29,6 @@ phone:        +1 858 229 3651
 fax-no:       +1 253 423 9508
 e-mail:       tech@nic.tt
 
-nserver:      NS0.NIC.TT 156.154.100.17
 nserver:      NS3.NIC.MX 200.33.111.1
 nserver:      PCH.NIC.TT 2001:500:14:6063:ad:0:0:1 204.61.216.63
 nserver:      RIPE.NIC.TT 193.0.9.50 2001:67c:e0:0:0:0:0:50
@@ -39,6 +38,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.tt
 
 created:      1991-09-03
-changed:      2011-08-31
+changed:      2011-10-10
 source:       IANA
 
