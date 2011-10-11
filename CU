@@ -32,7 +32,7 @@ phone:        +537 8620377
 fax-no:       +537 2048202
 e-mail:       cu-tech@ceniai.inf.cu
 
-nserver:      NS-CU.RIPE.NET 193.0.12.58 2001:610:240:0:53:cc:12:58
+nserver:      CU.CCTLD.AUTHDNS.RIPE.NET 193.0.9.70 2001:67c:e0:0:0:0:0:70
 nserver:      NS.CENIAI.NET.CU 169.158.128.136 2001:1340:1:128:0:0:0:136
 nserver:      NS.DNS.BR 200.160.0.5
 nserver:      NS2.CENIAI.NET.CU 169.158.128.88
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.cu
 
 created:      1992-06-03
-changed:      2011-09-30
+changed:      2011-10-10
 source:       IANA
 
