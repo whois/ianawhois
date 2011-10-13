@@ -29,8 +29,8 @@ phone:        +225 07 90 02 31
 fax-no:       +225 22 44 66 00
 e-mail:       oumtana@nic.ci
 
+nserver:      CI.CCTLD.AUTHDNS.RIPE.NET 193.0.9.67 2001:67c:e0:0:0:0:0:67
 nserver:      CI.HOSTING.NIC.FR 192.134.0.49 2001:660:3006:1:0:0:1:1
-nserver:      NS-CI.RIPE.NET 193.0.12.56 2001:610:240:0:53:cc:12:56
 nserver:      NS.NIC.CI 213.136.100.81
 nserver:      NS1.IRD.FR 193.50.53.3
 nserver:      NS1.NIC.CI 213.136.106.214
@@ -42,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.ci
 
 created:      1995-02-14
-changed:      2008-04-21
+changed:      2011-10-12
 source:       IANA
 
