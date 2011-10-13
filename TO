@@ -40,8 +40,8 @@ e-mail:       egullich@colo.to
 
 nserver:      AUTH02.NS.UU.NET 198.6.1.82
 nserver:      COLO.TO 216.74.32.104
-nserver:      NS-TO.RIPE.NET 193.0.12.224
 nserver:      NS1.IAFRICA.COM 196.7.0.139
+nserver:      TO.CCTLD.AUTHDNS.RIPE.NET 193.0.9.118 2001:67c:e0:0:0:0:0:118
 nserver:      TONIC.TO 216.74.32.100
 
 whois:        whois.tonic.to
@@ -50,6 +50,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.tonic.to/
 
 created:      1995-12-18
-changed:      2009-06-26
+changed:      2011-10-12
 source:       IANA
 
