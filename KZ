@@ -31,12 +31,8 @@ phone:        +7 (7222) 52-58-00
 fax-no:       +7 (7222) 56-33-64
 e-mail:       pg@nic.kz
 
-nserver:      AUTH00.NS.UU.NET 198.6.1.65
-nserver:      NS-KZ.RIPE.NET 193.0.12.113 2001:610:240:0:53:cc:12:113
+nserver:      KZ.CCTLD.AUTHDNS.RIPE.NET 193.0.9.87 2001:67c:e0:0:0:0:0:87
 nserver:      NS.NIC.KZ 194.0.21.5
-nserver:      NS.NURSAT.NET 195.82.0.1
-nserver:      NS.RU.NET 193.124.22.65
-nserver:      NS.SPB.RU 193.124.83.69
 
 whois:        whois.nic.kz
 
@@ -44,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.kz
 
 created:      1994-09-19
-changed:      2011-07-15
+changed:      2011-10-12
 source:       IANA
 
