@@ -31,7 +31,7 @@ phone:        +377 98 98 84 39
 fax-no:       +377 97 98 56 57
 e-mail:       root@nic.mc
 
-nserver:      NS-MC.RIPE.NET 193.0.12.145 2001:610:240:0:53:cc:12:145
+nserver:      MC.CCTLD.AUTHDNS.RIPE.NET 193.0.9.92 2001:67c:e0:0:0:0:0:92
 nserver:      NS1.NIC.MC 195.78.19.216
 nserver:      NS2.NIC.MC 85.31.217.131
 
@@ -39,6 +39,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.mc/
 
 created:      1995-01-20
-changed:      2011-05-10
+changed:      2011-10-13
 source:       IANA
 
