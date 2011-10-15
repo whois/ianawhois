@@ -29,15 +29,15 @@ phone:        +992 372 231178
 fax-no:       +992 372 231178
 e-mail:       rkh@mail.ru
 
-nserver:      NS-TJ.RIPE.NET 193.0.12.217 2001:610:240:0:53:cc:12:217
 nserver:      NS1.NIC.TJ 62.122.137.16
 nserver:      NS2.TOJIKISTON.COM 193.111.11.4
 nserver:      PHLOEM.UOREGON.EDU 128.223.32.35 2001:468:d01:20:0:0:80df:2023
+nserver:      TJ.CCTLD.AUTHDNS.RIPE.NET 193.0.9.117 2001:67c:e0:0:0:0:0:117
 
 status:       ACTIVE
 remarks:      Registration information: http://www.nic.tj
 
 created:      1997-12-11
-changed:      2009-07-09
+changed:      2011-10-13
 source:       IANA
 
