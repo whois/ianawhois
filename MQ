@@ -4,42 +4,37 @@
 
 domain:       MQ
 
-organisation: SYSTEL
-address:      Rue Alfred Lumiere
-address:      Z.I. Jarry
-address:      Baie-Mahault F.W.I. 97122
-address:      Guadeloupe
+organisation: MEDIASERV
+address:      Tour SECID 6 eme Etage
+address:      Pointe à Pitre 97110
+address:      France
 
 contact:      administrative
-name:         Claude Blandin
-organisation: SYSTEL
-address:      Rue Alfred Lumiere
-address:      Z.I. Jarry
-address:      Baie-Mahault F.W.I. 97122
-address:      Guadeloupe
-phone:        +596 506 850
-fax-no:       +596 506 366
-e-mail:       claude@outremer.com
+name:         System Administrator
+organisation: MEDIASERV
+address:      Tour SECID 6 eme Etage
+address:      Pointe à Pitre 97110
+address:      France
+phone:        +33 590 571131
+e-mail:       exploit-sys@mediaserv.com
 
 contact:      technical
-name:         John Charles Broomfield
-organisation: Antilles Internet Services
-address:      Rue Alfred Lumiere
-address:      Z.I. Jarry
-address:      Baie-Mahault F.W.I. 97122
-address:      Guadeloupe
-phone:        +590 326767
-fax-no:       +590 326194
-e-mail:       jbroom@ais.gp
+name:         System Administrator
+organisation: MEDIASERV
+address:      Tour SECID 6 eme Etage
+address:      Pointe à Pitre 97110
+address:      France
+phone:        +33 590 571131
+e-mail:       exploit-sys@mediaserv.com
 
-nserver:      BIGUINE.MEDIASERV.NET 213.188.164.16
-nserver:      FADO.MEDIASERV.NET 213.188.160.10
-nserver:      MANTA.OUTREMER.COM 213.16.1.106
+nserver:      NS1-FR.MEDIASERV.NET 188.165.38.14
+nserver:      NS1-GP.MEDIASERV.NET 213.188.172.1
+nserver:      NS1-MQ.MEDIASERV.NET 213.16.20.3
 
 status:       ACTIVE
 remarks:      Registration information: http://www.nic.mq/
 
 created:      1997-03-28
-changed:      2005-07-26
+changed:      2011-10-13
 source:       IANA
 
