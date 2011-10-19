@@ -31,8 +31,8 @@ e-mail:       hostmaster@telecomitalia.sm
 
 nserver:      DNS.INTELCOM.SM 194.183.64.11
 nserver:      DNS.OMNIWAY.SM 194.183.64.10
-nserver:      NS-SM.RIPE.NET 193.0.12.191 2001:610:240:0:53:cc:12:191
 nserver:      NS3.TELECOMITALIA.SM 194.0.27.12 2001:678:28:0:c2:b7:40:12
+nserver:      SM.CCTLD.AUTHDNS.RIPE.NET 193.0.9.110 2001:67c:e0:0:0:0:0:110
 
 whois:        whois.nic.sm
 
@@ -40,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.sm
 
 created:      1995-08-16
-changed:      2011-06-13
+changed:      2011-10-18
 source:       IANA
 
