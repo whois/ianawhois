@@ -29,7 +29,7 @@ phone:        +971 4 230 0018
 fax-no:       +971 4 230 0011
 e-mail:       dns@aeda.ae
 
-nserver:      NS-AE.RIPE.NET 193.0.12.233 2001:610:240:0:53:cc:12:233
+nserver:      AE.CCTLD.AUTHDNS.RIPE.NET 193.0.9.54 2001:67c:e0:0:0:0:0:54
 nserver:      NS1.AEDNS.AE 79.98.120.73
 nserver:      NS2.AEDNS.AE 79.98.121.73
 nserver:      NSEXT-PCH.AEDNS.AE 199.4.137.1 2001:500:7d:0:0:0:0:1
@@ -42,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://aeda.ae/
 
 created:      1992-12-01
-changed:      2011-09-20
+changed:      2011-10-20
 source:       IANA
 
