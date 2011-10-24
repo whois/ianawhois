@@ -28,8 +28,7 @@ phone:        +374 91 420214
 fax-no:       +374 10 544590
 e-mail:       ran@psg.com
 
-nserver:      FORK.STH.DNSNODE.NET 77.72.229.254
-nserver:      NS-AM.RIPE.NET 193.0.12.12 2001:610:240:0:53:cc:12:12
+nserver:      AM.CCTLD.AUTHDNS.RIPE.NET 193.0.9.57 2001:67c:e0:0:0:0:0:57
 nserver:      NS-CDN.AMNIC.NET 194.0.1.26 2001:678:4:0:0:0:0:1a
 nserver:      NS-PRI.AMNIC.NET 195.43.74.90 2001:67c:21c:10:0:0:0:90
 nserver:      RIP.PSG.COM 147.28.0.39 2001:418:1:0:0:0:0:39
@@ -42,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.amnic.net/
 
 created:      1994-08-26
-changed:      2011-03-10
+changed:      2011-10-24
 source:       IANA
 
