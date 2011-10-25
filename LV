@@ -38,7 +38,7 @@ nserver:      B.NIC.LV 92.240.70.1
 nserver:      C.NIC.LV 194.0.1.24 2001:678:4:0:0:0:0:18
 nserver:      D.NIC.LV 194.0.8.1 2001:678:b:1:0:0:0:1
 nserver:      LT.NIC.LV 83.171.8.137
-nserver:      NS-LV.RIPE.NET 193.0.12.121 2001:610:240:0:53:cc:12:121
+nserver:      LV.CCTLD.AUTHDNS.RIPE.NET 193.0.9.89 2001:67c:e0:0:0:0:0:89
 nserver:      SUNIC.SUNET.SE 192.36.125.2 2001:6b0:7:0:0:0:0:2
 
 whois:        whois.nic.lv
@@ -47,6 +47,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.lv/
 
 created:      1993-04-29
-changed:      2011-09-22
+changed:      2011-10-24
 source:       IANA
 
