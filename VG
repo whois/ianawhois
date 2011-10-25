@@ -31,9 +31,9 @@ e-mail:       tldwhois@adamsnames.tc
 
 nserver:      AUTH02.NS.UU.NET 198.6.1.82
 nserver:      EUTERPE.WILLIAM.ORG 195.153.6.27
-nserver:      NS-VG.RIPE.NET 193.0.12.242
 nserver:      SEC1.DNS.UK.PSI.NET 154.32.105.34
 nserver:      SEC2.DNS.UK.PSI.NET 154.32.107.34
+nserver:      VG.CCTLD.AUTHDNS.RIPE.NET 193.0.9.124 2001:67c:e0:0:0:0:0:124
 
 whois:        whois.adamsnames.tc
 
@@ -41,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.adamsnames.tc/
 
 created:      1997-02-20
-changed:      2005-08-31
+changed:      2011-10-24
 source:       IANA
 
