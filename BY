@@ -30,8 +30,8 @@ fax-no:       +375 17 211 0122
 e-mail:       tech-c@tld.by
 
 nserver:      ARWENA.NASK.WAW.PL 193.59.201.28
+nserver:      BY.CCTLD.AUTHDNS.RIPE.NET 193.0.9.66 2001:67c:e0:0:0:0:0:66
 nserver:      DNS.BELPAK.BY 193.232.248.45
-nserver:      NS-BY.RIPE.NET 193.0.12.21
 nserver:      NS.RU.NET 193.124.22.65
 nserver:      NS1.OPEN.BY 193.232.92.1
 nserver:      NS2.FREE.NET 193.233.1.67 2001:640:1:1:0:0:0:67
@@ -40,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://cctld.by
 
 created:      1994-05-10
-changed:      2010-02-15
+changed:      2011-10-26
 source:       IANA
 
