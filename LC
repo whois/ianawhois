@@ -17,8 +17,8 @@ address:      #4 Colony House
 address:      John Compton Highway
 address:      Castries
 address:      Saint Lucia
-phone:        758 452 5444
-fax-no:       758 451 7599
+phone:        758 572-8188
+fax-no:       758 452-0065
 e-mail:       daniels@isisworld.lc
 
 contact:      technical
@@ -28,8 +28,8 @@ address:      #4 Colony House
 address:      John Compton Highway
 address:      Castries
 address:      Saint Lucia
-phone:        758 452 0220
-fax-no:       758 452 0330
+phone:        758 572 8188
+fax-no:       758 452 0065
 e-mail:       drlay@nic.ag
 
 nserver:      A0.CCTLD.AFILIAS-NST.INFO 199.254.59.1 2001:500:25:0:0:0:0:1
@@ -45,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.lc
 
 created:      1991-09-03
-changed:      2010-11-02
+changed:      2011-10-26
 source:       IANA
 
