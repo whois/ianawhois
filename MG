@@ -29,12 +29,12 @@ phone:        +261 33 12 043 40
 fax-no:       +261 20 22 299 57
 e-mail:       raft@nic.mg
 
+nserver:      MG.CCTLD.AUTHDNS.RIPE.NET 193.0.9.94 2001:67c:e0:0:0:0:0:94
 nserver:      MG1.DYNTLD.NET 208.78.70.96
 nserver:      MG2.DYNTLD.NET 204.13.250.96
 nserver:      MG3.DYNTLD.NET 208.78.71.96
 nserver:      MG4.DYNTLD.NET 204.13.251.96
 nserver:      NS-MG.MALAGASY.COM 87.98.132.231
-nserver:      NS-MG.RIPE.NET 193.0.12.131
 nserver:      NS.DTS.MG 196.192.32.2
 nserver:      NS.NIC.MG 196.192.42.153
 nserver:      NS1.IRD.FR 193.50.53.3
@@ -45,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.mg
 
 created:      1995-07-25
-changed:      2009-07-02
+changed:      2011-10-27
 source:       IANA
 
