@@ -32,10 +32,10 @@ e-mail:       dnsadmin@cnc.una.py
 
 nserver:      AUTH00.NS.UU.NET 198.6.1.65
 nserver:      MERAPI.SWITCH.CH 130.59.211.10 2001:620:0:0:0:0:0:5
-nserver:      NS-PY.RIPE.NET 193.0.12.172 2001:610:240:0:53:cc:12:172
 nserver:      NS.CNC.UNA.PY 200.10.228.132
 nserver:      NS.DNS.BR 200.160.0.5
 nserver:      NS3.NIC.MX 200.33.111.1
+nserver:      PY.CCTLD.AUTHDNS.RIPE.NET 193.0.9.106 2001:67c:e0:0:0:0:0:106
 nserver:      SCE.CNC.UNA.PY 200.10.228.133
 nserver:      SUNIC.SUNET.SE 192.36.125.2 2001:6b0:7:0:0:0:0:2
 
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.py
 
 created:      1991-09-09
-changed:      2008-09-24
+changed:      2011-10-28
 source:       IANA
 
