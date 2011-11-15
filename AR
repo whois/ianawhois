@@ -28,7 +28,7 @@ address:      Buenos Aires  1007
 address:      Argentina
 phone:        +54 11 4328 9941
 fax-no:       +54 11 4819 7630
-e-mail:       osj@mrecic.gob.ar
+e-mail:       osj@mrecic.gov.ar
 
 nserver:      AR.CCTLD.AUTHDNS.RIPE.NET 193.0.9.59 2001:67c:e0:0:0:0:0:59
 nserver:      ATHEA.AR 200.16.98.2
@@ -40,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.ar
 
 created:      1987-09-23
-changed:      2011-10-27
+changed:      2011-10-31
 source:       IANA
 
