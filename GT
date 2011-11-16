@@ -32,7 +32,6 @@ phone:        +502 2364 0336 through 40
 fax-no:       +502 2369 3452
 e-mail:       steve@uvg.edu.gt
 
-nserver:      DNS2.GT.AMNETDATOS.NET 200.30.145.4
 nserver:      NS.DNS.BR 200.160.0.5
 nserver:      NS.UVG.EDU.GT 168.234.68.2 200.9.74.2
 nserver:      NS3.NIC.MX 200.33.111.1
@@ -43,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.gt
 
 created:      1992-08-14
-changed:      2011-03-10
+changed:      2011-11-03
 source:       IANA
 
