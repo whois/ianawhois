@@ -37,6 +37,7 @@ nserver:      NS-EXT.ISC.ORG 2001:4f8:0:2:0:0:0:13 204.152.184.64
 nserver:      NS.ICANN.ORG 199.4.138.53 2001:500:89:0:0:0:0:53
 nserver:      ROOT.EAHD.OR.UG 212.88.97.132
 nserver:      UG.CCTLD.AUTHDNS.RIPE.NET 193.0.9.52 2001:67c:e0:0:0:0:0:52
+ds-rdata:     2767 8 2 4278d7c4b2b45738a39f310eac36558411bd547812517bdf23f95fcbb4796b2e
 
 whois:        whois.co.ug
 
@@ -44,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.registry.co.ug
 
 created:      1995-03-08
-changed:      2011-09-29
+changed:      2011-11-12
 source:       IANA
 
