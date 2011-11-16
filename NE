@@ -15,28 +15,28 @@ organisation: SONITEL
 address:      Avenue du Général De Gaulle
 address:      Niamey  208
 address:      Niger
-phone:        +227 20 72 21 80
+phone:        +227 20 72 27 75
 fax-no:       +227 20 73 58 12
 e-mail:       kimba.yaye@sonitel.ne
 
 contact:      technical
 name:         Sadou SOLOKE
 organisation: SONITEL
-address:      Avenue du Général De Gaulle
+address:      64 Rue du Stade
 address:      Niamey  208
 address:      Niger
-phone:        +227 20 72 69 67
+phone:        +227 20 72 21 80
 fax-no:       +227 20 72 58 12
 e-mail:       sadou.soloke@sonitel.ne
 
 nserver:      BOW.RAIN.FR 194.51.3.49
-nserver:      NS-NE.RIPE.NET 193.0.12.160
+nserver:      NE.CCTLD.AUTHDNS.RIPE.NET 193.0.9.101 2001:67c:e0:0:0:0:0:101
 nserver:      NS.INTNET.NE 193.251.228.10
 
 status:       ACTIVE
 remarks:      Registration information: http://www.intnet.ne
 
 created:      1996-04-24
-changed:      2010-03-08
+changed:      2011-11-12
 source:       IANA
 
