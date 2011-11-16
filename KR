@@ -20,14 +20,15 @@ fax-no:       +82 2 405 5419
 e-mail:       chonkn@gmail.com
 
 contact:      technical
-name:         Chanki Park
-organisation: Korea Network Information Center (KRNIC)
-address:      12F, Daedong Bldg, 109 Jungdae-ro, Songpa-gu
-address:      Seoul  138-950
+name:         Director of Internet Technology Team
+organisation: Korea Internet & Security Agency (KISA)
+address:      12F, Daedong Bldg
+address:      109 Jungdae-ro, Songpa-gu
+address:      Seoul 138-950
 address:      Korea, Republic Of
-phone:        +82 2 405 6710
-fax-no:       +82 2 405 5419
-e-mail:       ckp@nic.or.kr
+phone:        +82 2 405 6470
+fax-no:       +82 2 405 5119
+e-mail:       techc@kisa.or.kr
 
 nserver:      B.DNS.KR 61.74.75.1
 nserver:      C.DNS.KR 203.248.246.220
@@ -42,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.or.kr/
 
 created:      1986-09-29
-changed:      2010-02-25
+changed:      2011-11-01
 source:       IANA
 
