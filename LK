@@ -33,14 +33,14 @@ phone:        +94 11 4 216 061
 fax-no:       +94 11 2 650 912
 e-mail:       hostmaster@nic.lk
 
-nserver:      C.NIC.LK 203.143.29.3
+nserver:      C.NIC.LK 203.143.29.3 2405:5400:3:1:203:143:29:3
 nserver:      D.NIC.LK 123.231.6.18
 nserver:      L.NIC.LK 192.248.8.17
 nserver:      M.NIC.LK 202.129.235.229
-nserver:      NS-LK.RIPE.NET 193.0.12.208 2001:610:240:0:53:cc:12:208
 nserver:      NS1.AC.LK 192.248.1.162 2001:df0:17:1:0:0:0:162
 nserver:      P.NIC.LK 2001:500:14:6027:ad:0:0:1 204.61.216.27
 nserver:      PENDRAGON.CS.PURDUE.EDU 128.10.2.5
+nserver:      RIPE.NIC.LK 193.0.9.88 2001:67c:e0:0:0:0:0:88
 nserver:      T.NIC.LK 203.94.66.129
 ds-rdata:     181 5 1 A1907F85D49081239389C216912B8937D0ECEB3D
 ds-rdata:     181 5 2 87516D56B697CB3F7A7C3EB594EE0E16AE509D16A503089F4FBD4F347B336F93
@@ -49,6 +49,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.lk/
 
 created:      1990-06-15
-changed:      2011-09-22
+changed:      2011-11-03
 source:       IANA
 
