@@ -33,10 +33,11 @@ fax-no:       +598 2 401 5843
 e-mail:       sramirez@seciu.edu.uy
 
 nserver:      NS-EXT.ISC.ORG 2001:4f8:0:2:0:0:0:13 204.152.184.64
-nserver:      NS-UY.RIPE.NET 193.0.12.237
 nserver:      NS.DNS.BR 200.160.0.5
 nserver:      NS3.NIC.MX 200.33.111.1
-nserver:      SECIU.EDU.UY 164.73.128.5
+nserver:      SECIU.EDU.UY 164.73.128.5 2001:1328:6:0:0:0:0:5
+nserver:      ULTRA.SECIU.UY 164.73.128.70
+nserver:      UY.CCTLD.AUTHDNS.RIPE.NET 193.0.9.122 2001:67c:e0:0:0:0:0:122
 
 whois:        whois.nic.org.uy
 
@@ -44,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.org.uy/
 
 created:      1990-09-10
-changed:      2008-10-20
+changed:      2011-11-01
 source:       IANA
 
