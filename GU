@@ -32,7 +32,7 @@ phone:        +671 734 9314
 fax-no:       +671 734 9422
 e-mail:       rev5@uog9.uog.edu
 
-nserver:      NS-GU.RIPE.NET 193.0.12.91
+nserver:      GU.CCTLD.AUTHDNS.RIPE.NET 193.0.9.78 2001:67c:e0:0:0:0:0:78
 nserver:      NS.EDU.GU 168.123.2.50
 nserver:      NS.GU 168.123.4.10
 nserver:      NSUOG.EDU.GU 67.98.164.133
@@ -41,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://gadao.gov.gu
 
 created:      1994-04-15
-changed:      2010-08-25
+changed:      2011-11-09
 source:       IANA
 
