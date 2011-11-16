@@ -30,8 +30,7 @@ address:      Spain
 phone:        +34 675404304
 e-mail:       jbroom@nic.gp
 
-nserver:      NS-GP.RIPE.NET 193.0.12.90
-nserver:      NS.PIXAR.ES 194.143.196.3
+nserver:      GP.CCTLD.AUTHDNS.RIPE.NET 193.0.9.76 2001:67c:e0:0:0:0:0:76
 nserver:      NS1.NIC.GP 193.218.114.2
 nserver:      NS1.ORANGECARAIBE.COM 193.251.160.222
 
@@ -39,6 +38,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.gp/
 
 created:      1996-10-21
-changed:      2007-11-01
+changed:      2011-11-14
 source:       IANA
 
