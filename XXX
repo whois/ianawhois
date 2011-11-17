@@ -28,12 +28,12 @@ address:      United States
 phone:        +1 801 647 1705
 e-mail:       lbay@icmregistry.com
 
-nserver:      A0.XXX.AFILIAS-NST.INFO 199.115.152.1
-nserver:      A2.XXX.AFILIAS-NST.INFO 199.115.156.1
-nserver:      B0.XXX.AFILIAS-NST.ORG 199.115.153.1
-nserver:      B2.XXX.AFILIAS-NST.ORG 199.115.157.1
-nserver:      C0.XXX.AFILIAS-NST.INFO 199.115.154.1
-nserver:      D0.XXX.AFILIAS-NST.ORG 199.115.155.1
+nserver:      A0.XXX.AFILIAS-NST.INFO 199.115.152.1 2001:500:a0:0:0:0:0:1
+nserver:      A2.XXX.AFILIAS-NST.INFO 199.115.156.1 2001:500:a4:0:0:0:0:1
+nserver:      B0.XXX.AFILIAS-NST.ORG 199.115.153.1 2001:500:a1:0:0:0:0:1
+nserver:      B2.XXX.AFILIAS-NST.ORG 199.115.157.1 2001:500:a5:0:0:0:0:1
+nserver:      C0.XXX.AFILIAS-NST.INFO 199.115.154.1 2001:500:a2:0:0:0:0:1
+nserver:      D0.XXX.AFILIAS-NST.ORG 199.115.155.1 2001:500:a3:0:0:0:0:1
 
 whois:        whois.nic.xxx
 
@@ -41,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.icmregistry.com/
 
 created:      2011-04-15
-changed:      2011-08-27
+changed:      2011-11-16
 source:       IANA
 
