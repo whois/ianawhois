@@ -32,14 +32,14 @@ phone:        +963 11 3937047
 fax-no:       +963 11 3937079
 e-mail:       mustafa@tld.sy
 
-nserver:      NS-SY.RIPE.NET 193.0.12.215
 nserver:      NS1.TLD.SY 82.137.200.85
 nserver:      NS2.TLD.SY 82.137.192.145
+nserver:      SY.CCTLD.AUTHDNS.RIPE.NET 193.0.9.113 2001:67c:e0:0:0:0:0:113
 
 status:       ACTIVE
 remarks:      Registration information: https://reg.tld.sy
 
 created:      1996-02-20
-changed:      2011-02-07
+changed:      2011-11-18
 source:       IANA
 
