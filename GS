@@ -29,11 +29,11 @@ phone:        +44 (0)1382 385837
 fax-no:       +44 (0)1382 348159
 e-mail:       paul.shafi@sgisland.org
 
+nserver:      GS.CCTLD.AUTHDNS.RIPE.NET 193.0.9.77 2001:67c:e0:0:0:0:0:77
 nserver:      GS1.DYNTLD.NET 208.78.70.86
 nserver:      GS2.DYNTLD.NET 204.13.250.86
 nserver:      GS3.DYNTLD.NET 208.78.71.86
 nserver:      GS4.DYNTLD.NET 204.13.251.86
-nserver:      NS-GS.RIPE.NET 193.0.12.206 2001:610:240:0:53:cc:12:206
 nserver:      NS.ANYCAST.NIC.GS 204.61.216.21
 nserver:      NSA.NIC.GS 203.119.84.244
 
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://secure.nic.gs
 
 created:      1997-07-31
-changed:      2011-01-11
+changed:      2011-11-18
 source:       IANA
 
