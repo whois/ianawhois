@@ -6,14 +6,14 @@ domain:       СРБ
 domain-ace:   XN--90A3AC
 
 organisation: Serbian National Register of Internet Domain Names (RNIDS)
-address:      Bulevar Kralja Aleksandra 73
+address:      Zorza Klemansoa 18a
 address:      Belgrade 11000
 address:      Serbia
 
 contact:      administrative
 name:         RNIDS Admin Contact
 organisation: Serbian National Register of Internet Domain Names (RNIDS)
-address:      Bulevar Kralja Aleksandra 73
+address:      Zorza Klemansoa 18a
 address:      Belgrade 11000
 address:      Serbia
 phone:        +381 117281281
@@ -23,7 +23,7 @@ e-mail:       tld-admin@rnids.rs
 contact:      technical
 name:         RNIDS Tech Contact
 organisation: Serbian National Register of Internet Domain Names (RNIDS)
-address:      Bulevar Kralja Aleksandra 73
+address:      Zorza Klemansoa 18a
 address:      Belgrade 11000
 address:      Serbia
 phone:        +381 117281281
@@ -40,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.rnids.rs/
 
 created:      2011-02-05
-changed:      2011-06-09
+changed:      2011-11-21
 source:       IANA
 
