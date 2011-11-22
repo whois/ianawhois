@@ -5,33 +5,32 @@
 domain:       SV
 
 organisation: SVNet
-organisation: Col. Medica
-organisation: Dr. Emilio Alvarez
-address:      Pasaje Dr. Guillermo Rodriquez Pacas
-address:      Edif. Espinoza No. 51
-address:      San Salvador
+address:      Universidad Centroamericana José Simeón Cañas
+address:      Bulevar Los Próceres
+address:      Antiguo Cuscatlán, La Libertad
 address:      El Salvador
 
 contact:      administrative
 name:         Rafael Ibarra
-organisation: UCA José Simeón Cañas
+organisation: SVNet
+address:      Universidad Centroamericana José Simeón Cañas
 address:      Boulevard Los Próceres
-address:      San Salvador
+address:      Antiguo Cuscatlán, La Libertad
 address:      El Salvador
 phone:        (503) 2210-6636
 fax-no:       (503) 2210-6636
 e-mail:       ribarra@di.uca.edu.sv
 
 contact:      technical
-name:         René Torres
+name:         Enrique Fernández
 organisation: SVNet
 address:      UCA José Simeón Cañas
 address:      Boulevard Los Próceres
-address:      San Salvador
+address:      Antiguo Cuscatlán, La Libertad
 address:      El Salvador
-phone:        (503) 2263-3335
-fax-no:       (503) 2263-3335
-e-mail:       rtorres@tse.gob.sv
+phone:        (503) 2210-6915
+fax-no:       (503) 2210-6636
+e-mail:       efernandez@uca.edu.sv
 
 nserver:      AUTH02.NS.UU.NET 198.6.1.82
 nserver:      CIR.RED.SV 168.243.254.1
@@ -45,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.svnet.org.sv
 
 created:      1994-11-04
-changed:      2006-07-27
+changed:      2011-11-21
 source:       IANA
 
