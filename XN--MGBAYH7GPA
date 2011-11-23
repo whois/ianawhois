@@ -33,10 +33,10 @@ phone:        +962 6 5300222
 fax-no:       +962 6 5300277
 e-mail:       dns@nitc.gov.jo
 
-nserver:      AMRA.NIC.GOV.JO 193.188.66.103 2a02:9c0:0:408:0:0:0:103
+nserver:      AMRA.NIC.GOV.JO 193.188.66.103
 nserver:      JO.CCTLD.AUTHDNS.RIPE.NET 193.0.9.83 2001:67c:e0:0:0:0:0:83
 nserver:      JORDAN1ST.NIC.GOV.JO 193.188.69.19
-nserver:      PETRA.NIC.GOV.JO 193.188.66.2 2a02:9c0:0:407:0:0:0:2
+nserver:      PETRA.NIC.GOV.JO 193.188.66.2
 nserver:      RIP.PSG.COM 147.28.0.39 2001:418:1:0:0:0:0:39
 
 status:       ACTIVE
