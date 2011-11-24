@@ -33,7 +33,7 @@ fax-no:       +212 537 71 64 89
 e-mail:       ma@anrt.ma
 
 nserver:      DNS.INRIA.FR 193.51.208.13
-nserver:      NS-MA.RIPE.NET 193.0.12.149
+nserver:      MA.CCTLD.AUTHDNS.RIPE.NET 193.0.9.91 2001:67c:e0:0:0:0:0:91
 nserver:      NS1.IAM.NET.MA 212.217.0.10
 nserver:      NS2.IAM.NET.MA 81.192.53.23
 nserver:      NS2.NIC.FR 192.93.0.4 2001:660:3005:1:0:0:1:2
@@ -45,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.ma/
 
 created:      1993-11-26
-changed:      2010-07-29
+changed:      2011-11-23
 source:       IANA
 
