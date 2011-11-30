@@ -32,7 +32,7 @@ e-mail:       simon@cc.huji.ac.il
 nserver:      DNS8.DENIC.DE 81.91.161.69
 nserver:      ILDNS.HUJI.AC.IL 128.139.6.66
 nserver:      LOOKUP.IUCC.AC.IL 128.139.34.240
-nserver:      NS-IL.RIPE.NET 193.0.12.108
+nserver:      NSA.NS.IL 192.115.210.58
 nserver:      NSB.NS.IL 192.115.210.60
 nserver:      NSD.NS.IL 149.20.56.132 2001:4f8:3:37:0:0:0:11
 nserver:      NSE.NS.IL 192.115.141.253
@@ -44,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.isoc.org.il/domains
 
 created:      1985-10-24
-changed:      2011-03-10
+changed:      2011-11-29
 source:       IANA
 
