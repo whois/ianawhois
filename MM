@@ -35,11 +35,12 @@ nserver:      MM.CCTLD.AUTHDNS.RIPE.NET 193.0.9.96 2001:67c:e0:0:0:0:0:96
 nserver:      NS0.NIC.NET.MM 203.81.64.20
 nserver:      NS1.NIC.NET.MM 203.81.81.85
 nserver:      NS2.NIC.NET.MM 203.81.92.10
+ds-rdata:     14581 8 1 8B0ED592A997E801DAFADA2CD4CC31999BDA8782
 
 status:       ACTIVE
 remarks:      Registration information: http://www.nic.mm/
 
 created:      1997-02-04
-changed:      2011-10-26
+changed:      2011-11-29
 source:       IANA
 
