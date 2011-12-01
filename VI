@@ -35,7 +35,6 @@ e-mail:       dnsadmin@usvi.net
 
 nserver:      AUTH100.NS.UU.NET 198.6.1.202
 nserver:      AUTH110.NS.UU.NET 198.6.1.114
-nserver:      NS-VI.RIPE.NET 193.0.12.243
 nserver:      NS1.COBEX.NET 216.152.192.71
 nserver:      NS1.KRNIC.NET 202.30.50.51
 nserver:      NS2.COBEX.NET 216.152.192.72
@@ -44,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.vi
 
 created:      1995-08-31
-changed:      2006-08-28
+changed:      2011-12-01
 source:       IANA
 
