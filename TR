@@ -32,12 +32,12 @@ phone:        +90 312 210 3683
 fax-no:       +90 312 210 1227
 e-mail:       kursat@metu.edu.tr
 
-nserver:      NS-TR.RIPE.NET 193.0.12.227
-nserver:      NS1.NIC.TR 144.122.95.51
-nserver:      NS2.NIC.TR 144.122.95.52
+nserver:      NS1.NIC.TR 144.122.95.51 2001:a98:30:ad:0:0:0:11
+nserver:      NS2.NIC.TR 144.122.95.52 2001:a98:30:ad:0:0:0:12
 nserver:      NS3.NIC.TR 213.248.162.131
 nserver:      NS4.NIC.TR 193.140.100.200
 nserver:      NS5.NIC.TR 213.139.255.18
+nserver:      TR.CCTLD.AUTHDNS.RIPE.NET 193.0.9.120 2001:67c:e0:0:0:0:0:120
 
 whois:        whois.nic.tr
 
@@ -45,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.tr
 
 created:      1990-09-17
-changed:      2006-11-06
+changed:      2011-12-01
 source:       IANA
 
