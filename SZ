@@ -30,13 +30,13 @@ fax-no:       +268 404 0627
 e-mail:       dns@sispa.org.sz
 
 nserver:      DNS.SISPA.ORG.SZ 212.85.220.11
-nserver:      NS-SZ.RIPE.NET 193.0.12.212
 nserver:      RIP.PSG.COM 147.28.0.39 2001:418:1:0:0:0:0:39
+nserver:      SZ.CCTLD.AUTHDNS.RIPE.NET 193.0.9.114 2001:67c:e0:0:0:0:0:114
 
 status:       ACTIVE
 remarks:      Registration information: http://www.sispa.org.sz/
 
 created:      1993-07-19
-changed:      2009-05-26
+changed:      2011-12-02
 source:       IANA
 
