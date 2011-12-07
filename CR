@@ -31,7 +31,7 @@ phone:        +506 2511 1800
 fax-no:       +506 2511 1899
 e-mail:       abrenes@ns.cr
 
-nserver:      NS-CR.RIPE.NET 193.0.12.55 2001:610:240:0:53:cc:12:55
+nserver:      CR.CCTLD.AUTHDNS.RIPE.NET 193.0.9.69 2001:67c:e0:0:0:0:0:69
 nserver:      NS-EXT.NIC.CL 200.1.123.14
 nserver:      NS.CR 163.178.8.2
 nserver:      NS.UCR.CR 163.178.8.3
@@ -44,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.cr/
 
 created:      1990-09-10
-changed:      2011-03-14
+changed:      2011-12-06
 source:       IANA
 
