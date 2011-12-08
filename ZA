@@ -5,31 +5,31 @@
 domain:       ZA
 
 organisation: ZA Domain Name Authority
-address:      The Business Centre
-address:      377 Rivonia Boulevard
-address:      Rivonia Gauteng 2191
+address:      COZA House, Gazelle Close
+address:      Corporate Park South, Old Pretoria Road
+address:      Midrand Gauteng 1685
 address:      South Africa
 
 contact:      administrative
 name:         Chairperson
 organisation: ZA Domain Name Authority
-address:      The Business Centre
-address:      377 Rivonia Boulevard
-address:      Rivonia Gauteng 2191
+address:      COZA House, Gazelle Close
+address:      Corporate Park South, Old Pretoria Road
+address:      Midrand Gauteng 1685
 address:      South Africa
-phone:        +27 11 275 0082
-fax-no:       +27 11 234 5022
+phone:        +27 11 314 0077
+fax-no:       +27 11 314 0088
 e-mail:       chair@zadna.org.za
 
 contact:      technical
 name:         Technical Committee
 organisation: ZA Domain Name Authority
-address:      The Business Centre
-address:      377 Rivonia Boulevard
-address:      Rivonia Gauteng 2191
+address:      COZA House, Gazelle Close
+address:      Corporate Park South, Old Pretoria Road
+address:      Midrand Gauteng 1685
 address:      South Africa
-phone:        +27 11 275 0082
-fax-no:       +27 11 234 5022
+phone:        +27 11 314 0077
+fax-no:       +27 11 314 0088
 e-mail:       dnsadmin@zadna.org.za
 
 nserver:      DISA.TENET.AC.ZA 196.21.79.50 2001:4200:ffff:a:0:0:0:1
@@ -42,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.zadna.org.za/
 
 created:      1990-11-07
-changed:      2011-03-10
+changed:      2011-12-07
 source:       IANA
 
