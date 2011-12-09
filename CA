@@ -33,7 +33,6 @@ phone:        +1 613 237 5335
 fax-no:       +1 613 237 0534
 e-mail:       admin-dns@cira.ca
 
-nserver:      A.CA-SERVERS.CA 192.228.27.11
 nserver:      C.CA-SERVERS.CA 192.228.28.9
 nserver:      E.CA-SERVERS.CA 192.228.30.9
 nserver:      F.CA-SERVERS.CA 199.4.28.220
@@ -50,6 +49,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.cira.ca/
 
 created:      1987-05-14
-changed:      2011-11-12
+changed:      2011-12-08
 source:       IANA
 
