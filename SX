@@ -1,0 +1,46 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       SX
+
+organisation: SX Registry SA B.V.
+address:      Kudu Drive # 2
+address:      Belair
+address:      Sint Maarten (dutch Part)
+
+contact:      administrative
+name:         Rudia Mezas
+organisation: SX Registry SA B.V.
+address:      Kudu Drive # 2
+address:      Belair
+address:      Sint Maarten (dutch Part)
+phone:        +599 520 29 26
+fax-no:       +599 520 29 36
+e-mail:       admin@sxregistry.org
+
+contact:      technical
+name:         CTO
+organisation: Open Registry SA
+address:      2, rue Leon Laval
+address:      Leudelange L3372
+address:      Luxembourg
+phone:        +32 475780594
+fax-no:       +32 2 894 59 01
+e-mail:       jan@openregistry.com
+
+nserver:      A.NS.SX 2a02:2790:0:0:0:0:600d:deed 89.207.184.65
+nserver:      B.NS.SX 80.92.90.160
+nserver:      C.NS.SX 70.38.21.233
+ds-rdata:     59259 7 1 7D8C002AC87627953A66C8145C2EBBEB13B8AE64
+ds-rdata:     59259 7 2 81CE2B07704CD91951A7AD5A7E88B4426AE57952AE9511521169800FEA137869
+
+whois:        whois.sx
+
+status:       ACTIVE
+remarks:      Registration information: http://registry.sx
+
+created:      2010-12-20
+changed:      2011-12-09
+source:       IANA
+
