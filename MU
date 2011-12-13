@@ -29,11 +29,11 @@ phone:        +230 216-8888
 fax-no:       +230 216-6868
 e-mail:       tech@nic.mu
 
+nserver:      MU.CCTLD.AUTHDNS.RIPE.NET 193.0.9.98 2001:67c:e0:0:0:0:0:98
 nserver:      MU1.DYNTLD.NET 208.78.70.79
 nserver:      MU2.DYNTLD.NET 204.13.250.79
 nserver:      MU3.DYNTLD.NET 208.78.71.79
 nserver:      MU4.DYNTLD.NET 204.13.251.79
-nserver:      NS-MU.RIPE.NET 193.0.12.140
 nserver:      NS3.IAFRICA.COM 196.7.0.137
 nserver:      UDNS1.TLD.MU 204.61.216.10
 
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.mu/
 
 created:      1995-10-06
-changed:      2008-08-18
+changed:      2011-12-12
 source:       IANA
 
