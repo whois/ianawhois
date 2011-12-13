@@ -42,6 +42,8 @@ nserver:      NS4.DNS.NET.NZ 202.46.189.130
 nserver:      NS5.DNS.NET.NZ 156.154.100.14 2001:502:ad09:0:0:0:0:14
 nserver:      NS6.DNS.NET.NZ 156.154.101.14 2001:502:2eda:0:0:0:0:14
 nserver:      NS7.DNS.NET.NZ 194.146.106.54 2001:67c:1010:13:0:0:0:53
+ds-rdata:     2517 8 1 cb5f686cb7a500b344e33dbc5ca8183a4e5579ec
+ds-rdata:     2517 8 2 02240b41dfddaeca2d6227d75a3575d5ba2fd07e21577f1c506d98be491d6ff3
 
 whois:        whois.srs.net.nz
 
@@ -49,6 +51,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.dnc.org.nz/
 
 created:      1987-01-19
-changed:      2010-07-12
+changed:      2011-12-12
 source:       IANA
 
