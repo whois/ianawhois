@@ -25,7 +25,8 @@ organisation: ICM Registry LLC
 address:      PO Box 30129
 address:      Palm Beach Gardens Florida 33420
 address:      United States
-phone:        +1 801 647 1705
+phone:        +1 877 809 3182
+fax-no:       +1 877 809 3183
 e-mail:       lbay@icmregistry.com
 
 nserver:      A0.XXX.AFILIAS-NST.INFO 199.115.152.1 2001:500:a0:0:0:0:0:1
@@ -41,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.icmregistry.com/
 
 created:      2011-04-15
-changed:      2011-11-16
+changed:      2011-12-14
 source:       IANA
 
