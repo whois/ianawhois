@@ -18,24 +18,24 @@ address:      Room 51, Polytechnic
 address:      P.O. Box 31762
 address:      Chichiri Blantyre 3
 address:      Malawi
-phone:        +265 (0) 1 874979, +265 (0) 8 824787
+phone:        +265 (0) 1 874979 or +265 (0) 888 824787
 fax-no:       +265 (0) 1 873944
 e-mail:       paulos@sdnp.org.mw
 
 contact:      technical
-name:         The Information Specialist (Mr. Blessings Msowoya)
+name:         The Information Specialist
 organisation: Malawi SDNP
 address:      Room 51, Polytechnic
 address:      P.O. Box 31762
 address:      Chichiri Blantyre 3
 address:      Malawi
-phone:        +265 (0) 1 874979, +264 (0) 8 844657
+phone:        +265 (0) 1 874979, +265 (0) 888 844657
 fax-no:       +265 (0) 1 873944
 e-mail:       mwsdnptech@sdnp.org.mw
 
-nserver:      CHAMBO.SDNP.ORG.MW 196.45.188.5
-nserver:      DOMWE.SDN.MW 196.45.190.9
-nserver:      NS-MW.RIPE.NET 193.0.12.132
+nserver:      CHAMBO.SDNP.ORG.MW 196.45.188.5 41.221.99.135
+nserver:      DOMWE.SDN.MW 196.45.190.9 41.221.99.149
+nserver:      MW.CCTLD.AUTHDNS.RIPE.NET 193.0.9.99 2001:67c:e0:0:0:0:0:99
 nserver:      RIP.PSG.COM 147.28.0.39 2001:418:1:0:0:0:0:39
 nserver:      SEC3.APNIC.NET 2001:dc0:1:0:4777:0:0:140 202.12.28.140
 
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.registrar.mw
 
 created:      1997-01-03
-changed:      2011-03-04
+changed:      2011-12-14
 source:       IANA
 
