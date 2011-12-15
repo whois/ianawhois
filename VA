@@ -30,13 +30,13 @@ e-mail:       pasquini@vatican.va
 nserver:      DNS.NIC.IT 192.12.192.5 2a00:d40:1:1:0:0:0:5
 nserver:      JOHN.VATICAN.VA 212.77.0.110 2a01:b8:0:1:212:77:0:110
 nserver:      MICHAEL.VATICAN.VA 212.77.0.2 2a01:b8:0:1:212:77:0:2
-nserver:      NS-VA.RIPE.NET 193.0.12.98 2001:610:240:0:53:cc:12:98
 nserver:      OSIRIS.NAMEX.IT 193.201.40.6 2001:7f8:10:f00a:0:0:0:6
 nserver:      SETH.NAMEX.IT 193.201.40.7 2001:7f8:10:f00a:0:0:0:7
+nserver:      VA.CCTLD.AUTHDNS.RIPE.NET 193.0.9.123 2001:67c:e0:0:0:0:0:123
 
 status:       ACTIVE
 
 created:      1995-09-11
-changed:      2009-09-14
+changed:      2011-12-14
 source:       IANA
 
