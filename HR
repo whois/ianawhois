@@ -15,7 +15,7 @@ organisation: CARNet - Croatian Academic and Research Network
 address:      Josipa Marohnica 5
 address:      Zagreb  10000
 address:      Croatia
-phone:        +385 1 66 61 789
+phone:        +385 1 66 61 686
 fax-no:       +385 1 66 61 615
 e-mail:       dns-admin@carnet.hr
 
@@ -42,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.dns.hr
 
 created:      1993-02-27
-changed:      2011-05-20
+changed:      2011-12-15
 source:       IANA
 
