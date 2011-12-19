@@ -10,14 +10,14 @@ address:      PAPEETE TAHITI 98714
 address:      French Polynesia
 
 contact:      administrative
-name:         Chef de Service
-organisation: Service des Postes et Télécommunications
+name:         Directeur
+organisation: Agence de Réglementation du Numérique (ARN)
 address:      BP 5019
 address:      PIRAE TAHITI 98716
 address:      French Polynesia
-phone:        +689 501777
+phone:        +689 544835
 fax-no:       +689 582301
-e-mail:       service.spt@poste.gov.pf
+e-mail:       direction@arn.gov.pf
 
 contact:      technical
 name:         Chargé de cellule systèmes et LAN
@@ -35,6 +35,6 @@ nserver:      NS2.MANA.PF 202.3.225.20
 status:       ACTIVE
 
 created:      1996-03-19
-changed:      2011-10-07
+changed:      2011-12-19
 source:       IANA
 
