@@ -29,13 +29,16 @@ phone:        +386 1 4798800
 fax-no:       +386 1 4798899
 e-mail:       jauk@arnes.si
 
-nserver:      NS2.ARNES.SI 193.2.1.91 2001:1470:8000:0:0:0:0:91
-nserver:      NS3.ARNES.EU 192.93.0.4 2001:660:3005:1:0:0:1:2
-nserver:      NS4.ARNES.EU 130.59.1.30 130.59.10.30 2001:620:0:0:0:0:0:1
-nserver:      NS7.ARNES.EU 194.146.106.62 2001:67c:1010:15:0:0:0:53
-nserver:      NS8.ARNES.SI 194.0.1.20 2001:678:4:0:0:0:0:14
-nserver:      NS9.ARNES.SI 2001:500:14:6054:ad:0:0:1 204.61.216.54
-nserver:      SSS.ARNES.SI 81.91.161.101
+nserver:      B.DNS.SI 193.2.1.91 2001:1470:8000:0:0:0:0:91
+nserver:      C.DNS.SI 192.93.0.4 2001:660:3005:1:0:0:1:2
+nserver:      D.DNS.SI 130.59.1.30 130.59.10.30 2001:620:0:0:0:0:0:1
+nserver:      E.DNS.SI 2001:5a0:10:0:0:0:0:3 63.243.194.3
+nserver:      F.DNS.SI 194.146.106.62 2001:67c:1010:15:0:0:0:53
+nserver:      G.DNS.SI 194.0.1.20 2001:678:4:0:0:0:0:14
+nserver:      H.DNS.SI 2001:500:14:6054:ad:0:0:1 204.61.216.54
+nserver:      SSS.DNS.SI 81.91.161.101
+ds-rdata:     8510 8 2 2cbc5d8d86f59a9d2299548959856bc5f2cebfe2af8c807b9ba4ede5e4bcbeaa
+ds-rdata:     8510 8 1 c0de53423d0e444122a965b0aad64ccb19c48651
 
 whois:        whois.arnes.si
 
@@ -43,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.registry.si/
 
 created:      1992-04-01
-changed:      2010-09-07
+changed:      2011-12-23
 source:       IANA
 
