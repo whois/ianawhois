@@ -36,6 +36,7 @@ nserver:      AUTH02.NS.UU.NET 198.6.1.82
 nserver:      DNS.LTTNET.NET 62.240.36.9
 nserver:      DNS1.LTTNET.NET 62.68.42.9
 nserver:      LY.CCTLD.AUTHDNS.RIPE.NET 193.0.9.90 2001:67c:e0:0:0:0:0:90
+nserver:      NS-LY.AFRINIC.NET 196.216.168.24 2001:43f8:120:0:0:0:0:24
 nserver:      PHLOEM.UOREGON.EDU 128.223.32.35 2001:468:d01:20:0:0:80df:2023
 
 whois:        whois.nic.ly
@@ -44,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.ly/
 
 created:      1997-04-23
-changed:      2011-10-27
+changed:      2011-12-29
 source:       IANA
 
