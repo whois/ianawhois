@@ -29,14 +29,14 @@ phone:        +91 11 3061 4627
 fax-no:       +91 11 3061 4629
 e-mail:       domaintech@registry.in
 
-nserver:      A0.CCTLD.AFILIAS-NST.INFO 199.254.59.1 2001:500:25:0:0:0:0:1
+nserver:      A0.IN.AFILIAS-NST.INFO 199.7.87.1 2001:500:29:0:0:0:0:1
 nserver:      A1.IN.AFILIAS-NST.IN 220.226.100.30
 nserver:      A2.IN.AFILIAS-NST.INFO 199.249.117.1 2001:500:45:0:0:0:0:1
-nserver:      B0.CCTLD.AFILIAS-NST.ORG 199.254.60.1 2001:500:26:0:0:0:0:1
+nserver:      B0.IN.AFILIAS-NST.ORG 199.253.56.1 2001:500:50:0:0:0:0:1
 nserver:      B1.IN.AFILIAS-NST.IN 125.19.40.90
 nserver:      B2.IN.AFILIAS-NST.ORG 199.249.125.1 2001:500:4d:0:0:0:0:1
-nserver:      C0.CCTLD.AFILIAS-NST.INFO 199.254.61.1 2001:500:27:0:0:0:0:1
-nserver:      D0.CCTLD.AFILIAS-NST.ORG 199.254.62.1 2001:500:28:0:0:0:0:1
+nserver:      C0.IN.AFILIAS-NST.INFO 199.253.57.1 2001:500:51:0:0:0:0:1
+nserver:      D0.IN.AFILIAS-NST.ORG 199.253.58.1 2001:500:52:0:0:0:0:1
 nserver:      NS7.CDNS.NET 194.0.1.7 2001:678:4:0:0:0:0:7
 ds-rdata:     64788 7 1 82E4E46622B646086C1051A6093DEB897BD1C022
 ds-rdata:     64788 7 2 4021B67522D8935C8D8D7CE32900ACB382F55E3D1A8DE920233CBE70A13DA85B
@@ -47,6 +47,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.registry.in
 
 created:      1989-05-08
-changed:      2011-08-31
+changed:      2012-01-05
 source:       IANA
 
