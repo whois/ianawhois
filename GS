@@ -10,23 +10,25 @@ address:      Stanley, Falkland Islands  F1QQ 1ZZ
 address:      South Georgia And The South Sandwich Islands
 
 contact:      administrative
-name:         Marie Gallagher, Customer Support and Development Officer
+name:         Customer Support and Development Officer
 organisation: Atlantis North Ltd
-address:      23 Springfield (University of Dundee)
-address:      Dundee Tayside DD1 4JE
+address:      Marketgait Business Centre
+address:      152 West Marketgait
+address:      Dundee Tayside DD1 1NZ
 address:      United Kingdom
-phone:        +44 (0)1382 385837
-fax-no:       +44 (0)1382 388159
+phone:        +44 141 416 2239
+fax-no:       +44 141 416 2239
 e-mail:       helpdesk@nic.gs
 
 contact:      technical
-name:         Paul Shafi, Technical Director
+name:         Technical Director
 organisation: Atlantis North Ltd
-address:      23 Springfield (University of Dundee)
-address:      Dundee Tayside DD1 4JE
+address:      Marketgait Business Centre
+address:      152 West Marketgait
+address:      Dundee Tayside DD1 1NZ
 address:      United Kingdom
-phone:        +44 (0)1382 385837
-fax-no:       +44 (0)1382 348159
+phone:        +44 141 416 2239
+fax-no:       +44 141 416 2239
 e-mail:       paul.shafi@sgisland.org
 
 nserver:      GS.CCTLD.AUTHDNS.RIPE.NET 193.0.9.77 2001:67c:e0:0:0:0:0:77
@@ -43,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://secure.nic.gs
 
 created:      1997-07-31
-changed:      2011-11-18
+changed:      2012-01-05
 source:       IANA
 
