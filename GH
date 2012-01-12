@@ -33,7 +33,7 @@ fax-no:       +233302762173
 e-mail:       tevie@ghana.com
 
 nserver:      AUSTIN.GH.COM 196.3.64.1
-nserver:      FORK.STH.DNSNODE.NET 77.72.229.254
+nserver:      FORK.STH.DNSNODE.NET 2a01:3f0:0:306:0:0:0:53 77.72.229.254
 nserver:      HIPPO.RU.AC.ZA 146.231.128.1 2001:4200:1010:0:0:0:0:1
 nserver:      MANTSE.GH.COM 193.194.185.2
 nserver:      NS1.DNS.AQ 203.119.56.132
