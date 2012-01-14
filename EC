@@ -32,7 +32,6 @@ phone:        +5934 2515355
 fax-no:       +5934 2515434
 e-mail:       dnsadmin@nic.ec
 
-nserver:      DNS1.NIC.EC 157.100.1.44
 nserver:      DNS2.NIC.EC 200.6.84.2
 nserver:      DNS3.NIC.EC 200.1.6.51
 nserver:      N1.NIC.EC 200.12.198.1
@@ -45,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.ec
 
 created:      1991-02-01
-changed:      2012-01-05
+changed:      2012-01-12
 source:       IANA
 
