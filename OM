@@ -29,8 +29,8 @@ phone:        +96824574358
 fax-no:       +96824563640
 e-mail:       dnsadmin@tra.gov.om
 
-nserver:      NS-OM.RIPE.NET 193.0.12.166
 nserver:      NS.ICANN.ORG 199.4.138.53 2001:500:89:0:0:0:0:53
+nserver:      OM.CCTLD.AUTHDNS.RIPE.NET 193.0.9.103 2001:67c:e0:0:0:0:0:103
 nserver:      OM14.OMANTEL.NET.OM 212.72.23.4
 nserver:      OM16.OMANTEL.NET.OM 212.72.1.186
 nserver:      OM41.OMANTEL.NET.OM 62.231.243.249
@@ -39,6 +39,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.omantel.net.om
 
 created:      1996-04-11
-changed:      2011-08-04
+changed:      2012-01-17
 source:       IANA
 
