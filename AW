@@ -1,44 +1,6 @@
 % IANA WHOIS server
 % for more information on IANA, visit http://www.iana.org
-% This query returned 1 object
-
-domain:       AW
-
-organisation: SETAR
-address:      P.O. Box 13
-address:      Seroe Blanco
-address:      Oranjestad
-address:      Aruba
-
-contact:      administrative
-name:         Joaquin Kelkboom
-organisation: SETAR
-address:      P.O. Box 13
-address:      Seroe Blanco
-address:      Oranjestad
-address:      Aruba
-phone:        +297 582 5264
-fax-no:       +297 582 5505
-e-mail:       jjmkelkboom@setarnet.aw
-
-contact:      technical
-name:         SetarNet Operations
-organisation: SETAR
-address:      P.O. Box 13
-address:      Seroe Blanco
-address:      Oranjestad
-address:      Aruba
-phone:        +297 583 4000
-fax-no:       +297 583 4030
-e-mail:       hostmaster@setarnet.aw
-
-nserver:      NS1.SETARNET.AW 209.88.128.25
-nserver:      NS2.SETARNET.AW 209.88.128.26
-nserver:      NS3.DOMAIN-REGISTRY.NL 193.176.144.6
-
-status:       ACTIVE
-
-created:      1996-02-20
-changed:      2009-07-23
-source:       IANA
+%
+% WHOIS server encountered an error.
+% Please report the issue to http://www.iana.org.
 
