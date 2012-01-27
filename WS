@@ -4,31 +4,30 @@
 
 domain:       WS
 
-organisation: Government of Samoa
-organisation: Ministry of Foreign Affairs
+organisation: Government of Samoa Ministry of Foreign Affairs & Trade
 address:      P.O. Box 1861
 address:      Apia
 address:      Samoa
 
 contact:      administrative
-name:         Dave Main
+name:         CEO
 organisation: Computer Services Ltd.
 address:      Lotemau Centre
 address:      Apia
 address:      Samoa
 phone:        +685 20926
 fax-no:       +685 20932
-e-mail:       dave@samoa.ws
+e-mail:       admin.contact@csl.ws
 
 contact:      technical
-name:         Technical Director
-organisation: Computer Services Ltd.
-address:      Lotemau Centre
-address:      Apia
-address:      Samoa
-phone:        +685 20926
-fax-no:       +685 20932
-e-mail:       technical@csl.ws
+name:         CEO
+organisation: Global Domains International
+address:      701 Palomar Airport Road #300
+address:      Carlsbad, CA 92011
+address:      United States
+phone:        +1 760 602 3000
+fax-no:       +1 760 602 3099
+e-mail:       tech.contact@csl.ws
 
 nserver:      NS2.DNS.WS 64.70.19.80
 nserver:      NS3.DNS.WS 67.221.178.52
@@ -43,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.website.ws
 
 created:      1995-07-14
-changed:      2009-11-25
+changed:      2012-01-21
 source:       IANA
 
