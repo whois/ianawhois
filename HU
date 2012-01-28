@@ -32,7 +32,7 @@ e-mail:       hostmaster@nic.hu
 nserver:      B.HU 193.239.149.3
 nserver:      C.HU 193.6.16.1
 nserver:      D.HU 195.70.35.250
-nserver:      E.HU 192.174.68.11 2001:67c:1bc:0:0:0:0:11
+nserver:      E.HU 194.0.25.11 2001:67c:1bc:0:0:0:0:11
 nserver:      NS-COM.NIC.HU 194.0.1.12 2001:678:4:0:0:0:0:c
 nserver:      NS-SE.NIC.HU 2a01:3f0:0:304:0:0:0:53 77.72.229.251
 nserver:      NS.NIC.HU 193.239.148.48 2001:738:4:8000:0:0:0:48
@@ -44,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.hu
 
 created:      1990-11-07
-changed:      2011-06-02
+changed:      2012-01-25
 source:       IANA
 
