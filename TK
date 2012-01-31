@@ -33,12 +33,6 @@ nserver:      A.NS.TK 194.0.38.1 2001:678:50:0:0:0:0:1
 nserver:      B.NS.TK 194.0.39.1 2001:678:54:0:0:0:0:1
 nserver:      C.NS.TK 194.0.40.1 2001:678:58:0:0:0:0:1
 nserver:      D.NS.TK 194.0.41.1 2001:678:5c:0:0:0:0:1
-nserver:      ROOT-A.TALOHA.TK 194.109.152.138
-nserver:      ROOT-B.TALOHA.TK 85.214.136.249
-nserver:      ROOT-C.TALOHA.TK 207.36.228.217
-nserver:      ROOT-D.TALOHA.TK 217.199.176.121
-nserver:      ROOT-E.TALOHA.TK 66.36.231.236
-nserver:      ROOT-F.TALOHA.TK 202.125.44.173
 
 whois:        whois.dot.tk
 
@@ -46,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.dot.tk
 
 created:      1997-11-07
-changed:      2012-01-18
+changed:      2012-01-30
 source:       IANA
 
