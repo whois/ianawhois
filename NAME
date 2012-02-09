@@ -5,28 +5,28 @@
 domain:       NAME
 
 organisation: VeriSign Information Services, Inc.
-address:      21345 Ridgetop Circle
-address:      Dulles Virginia 20166
+address:      12061 Bluemont Way
+address:      Reston Virginia 20190
 address:      United States
 
 contact:      administrative
 name:         Registry Customer Service
 organisation: VeriSign Information Services, Inc.
-address:      21345 Ridgetop Circle
-address:      Dulles Virginia 20166
+address:      12061 Bluemont Way
+address:      Reston Virginia 20190
 address:      United States
 phone:        +1 703 925 6999
-fax-no:       +1 703 421 5828
+fax-no:       +1-703-948-3978
 e-mail:       info@verisign-grs.com
 
 contact:      technical
 name:         Registry Customer Service
 organisation: VeriSign Information Services, Inc.
-address:      21345 Ridgetop Circle
-address:      Dulles Virginia 20166
+address:      12061 Bluemont Way
+address:      Reston Virginia 20190
 address:      United States
 phone:        +1 703 925 6999
-fax-no:       +1 703 421 5828
+fax-no:       +1 703 948 3978
 e-mail:       info@verisign-grs.com
 
 nserver:      A6.NSTLD.COM 192.5.6.35
@@ -46,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.name
 
 created:      2001-08-17
-changed:      2010-08-24
+changed:      2012-02-08
 source:       IANA
 
