@@ -22,11 +22,11 @@ e-mail:       netadmin@educause.edu
 contact:      technical
 name:         Registry Customer Service
 organisation: VeriSign Global Registry
-address:      21345 Ridgetop Circle
-address:      Dulles Virginia 20166
+address:      12061 Bluemont Way
+address:      Reston Virginia 20190
 address:      United States
 phone:        +1-703-925-6999
-fax-no:       +1-703-421-5828
+fax-no:       +1-703-948-3978
 e-mail:       info@verisign-grs.com
 
 nserver:      A.EDU-SERVERS.NET 192.5.6.30
@@ -44,6 +44,6 @@ remarks:      Registration information:
 remarks:      http://www.educause.edu/edudomain
 
 created:      1985-01-01
-changed:      2011-12-09
+changed:      2012-02-14
 source:       IANA
 
