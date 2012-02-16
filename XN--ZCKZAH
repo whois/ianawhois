@@ -1,50 +1,6 @@
 % IANA WHOIS server
 % for more information on IANA, visit http://www.iana.org
-% This query returned 1 object
-
-domain:       テスト
-domain-ace:   XN--ZCKZAH
-
-organisation: Internet Assigned Numbers Authority
-address:      4676 Admiralty Way
-address:      Suite 330
-address:      Marina del Rey California 90292
-address:      United States
-
-contact:      administrative
-name:         Internet Assigned Numbers Authority
-organisation: Internet Assigned Numbers Authority
-address:      4676 Admiralty Way
-address:      Suite 330
-address:      Marina del Rey California 90292
-address:      United States
-phone:        +1 310 823-9358
-fax-no:       +1 310 823-8649
-e-mail:       iana@iana.org
-
-contact:      technical
-name:         Internet Assigned Numbers Authority
-organisation: Internet Assigned Numbers Authority
-address:      4676 Admiralty Way
-address:      Suite 330
-address:      Marina del Rey California 90292
-address:      United States
-phone:        +1 310 823-9358
-fax-no:       +1 310 823-8649
-e-mail:       iana@iana.org
-
-nserver:      A.IANA-SERVERS.NET 199.43.132.53 2001:500:8c:0:0:0:0:53
-nserver:      B.IANA-SERVERS.NET 199.43.133.53 2001:500:8d:0:0:0:0:53
-nserver:      C.IANA-SERVERS.NET 139.91.1.10 2001:648:2c30:0:0:0:1:10
-nserver:      TEST-NS.IANA-SERVERS.NET 2001:4900:1:393:0:0:0:45
-ds-rdata:     56231 8 1 D2C46F1B7A4F83D99C5133671167D083243A3F48
-ds-rdata:     56231 8 2 34F6E274294D84E62C132117208BB64BC31CC0A8D81287DD7A7E65DCB760BD19
-
-status:       ACTIVE
-remarks:      Registration information:
-remarks:      http://www.iana.org/domains/idn-test/
-
-created:      2007-10-19
-changed:      2011-06-20
-source:       IANA
+%
+% WHOIS server encountered an error.
+% Please report the issue to http://www.iana.org.
 
