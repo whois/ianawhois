@@ -34,7 +34,6 @@ nserver:      C.HU 193.6.16.1
 nserver:      D.HU 195.70.35.250
 nserver:      E.HU 194.0.25.11 2001:67c:1bc:0:0:0:0:11
 nserver:      NS-COM.NIC.HU 194.0.1.12 2001:678:4:0:0:0:0:c
-nserver:      NS-SE.NIC.HU 2a01:3f0:0:304:0:0:0:53 77.72.229.251
 nserver:      NS.NIC.HU 193.239.148.48 2001:738:4:8000:0:0:0:48
 nserver:      NS2.NIC.FR 192.93.0.4 2001:660:3005:1:0:0:1:2
 
@@ -44,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.hu
 
 created:      1990-11-07
-changed:      2012-01-25
+changed:      2012-02-20
 source:       IANA
 
