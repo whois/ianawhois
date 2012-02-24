@@ -4,42 +4,43 @@
 
 domain:       BY
 
-organisation: Open Contact Ltd.
-address:      17 Kalvarijskaja Str.
-address:      Minsk  220004
+organisation: Reliable Software Inc.
+address:      1A Khoruzhey Str., 6th Floor
+address:      Minsk 220005
 address:      Belarus
 
 contact:      administrative
-name:         Sergey Prokopov
+name:         Head of department
 organisation: The Operative Analytical Center of the Republic of Belarus
 address:      17 Kalvarijskaja Str.
 address:      Minsk  220004
 address:      Belarus
-phone:        +375 17 2035967
-fax-no:       +375 17 2893180
+phone:        +375 17 3060567
+fax-no:       +375 17 3060810
 e-mail:       admin-c@tld.by
 
 contact:      technical
-name:         Andrey Ivanov
-organisation: Open Contact Ltd.
-address:      17 Kalvarijskaja Str.
-address:      Minsk  220004
+name:         Director General
+organisation: Reliable Software Inc.
+address:      1A Khoruzhey Str., 6th Floor
+address:      Minsk  220005
 address:      Belarus
-phone:        +375 17 211 0121
-fax-no:       +375 17 211 0122
-e-mail:       tech-c@tld.by
+phone:        +375 17 2395703
+fax-no:       +375 17 2395720
+e-mail:       tech@cctld.by
 
-nserver:      ARWENA.NASK.WAW.PL 193.59.201.28
-nserver:      BY.CCTLD.AUTHDNS.RIPE.NET 193.0.9.66 2001:67c:e0:0:0:0:0:66
-nserver:      DNS.BELPAK.BY 193.232.248.45
-nserver:      NS.RU.NET 193.124.22.65
-nserver:      NS1.OPEN.BY 193.232.92.1
-nserver:      NS2.FREE.NET 193.233.1.67 2001:640:1:1:0:0:0:67
+nserver:      DNS1.TLD.TUTBY.COM 178.124.133.53
+nserver:      DNS2.TLD.TUTBY.COM 93.125.30.44
+nserver:      DNS3.TLD.TUTBY.COM 195.137.160.10 2a01:d8:2:1:0:0:0:2
+nserver:      DNS4.TLD.TUTBY.COM 85.17.148.67
+nserver:      DNS5.TLD.TUTBY.COM 82.208.35.204
+
+whois:        whois.cctld.by
 
 status:       ACTIVE
 remarks:      Registration information: http://cctld.by
 
 created:      1994-05-10
-changed:      2011-10-26
+changed:      2012-02-23
 source:       IANA
 
