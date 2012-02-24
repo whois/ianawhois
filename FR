@@ -32,7 +32,6 @@ phone:        +33 1 39 30 83 81
 fax-no:       +33 1 39 30 83 01
 e-mail:       tld-tech@nic.fr
 
-nserver:      C.NIC.FR 192.134.0.129 2001:660:3006:4:0:0:1:1
 nserver:      D.EXT.NIC.FR 192.5.4.2 2001:500:2e:0:0:0:0:2
 nserver:      D.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
 nserver:      E.EXT.NIC.FR 193.176.144.6 2a00:d78:0:102:193:176:144:6
@@ -46,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.fr/
 
 created:      1986-09-02
-changed:      2011-12-05
+changed:      2012-02-23
 source:       IANA
 
