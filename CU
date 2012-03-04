@@ -34,7 +34,7 @@ e-mail:       cu-tech@ceniai.inf.cu
 
 nserver:      CU.CCTLD.AUTHDNS.RIPE.NET 193.0.9.70 2001:67c:e0:0:0:0:0:70
 nserver:      NS.CENIAI.NET.CU 169.158.128.136 2001:1340:1:128:0:0:0:136
-nserver:      NS.DNS.BR 200.160.0.5
+nserver:      NS.DNS.BR 200.160.0.5 2001:12ff:0:a20:0:0:0:5
 nserver:      NS2.CENIAI.NET.CU 169.158.128.88
 nserver:      NS2.GIP.NET 204.59.1.222
 nserver:      RIP.PSG.COM 147.28.0.39 2001:418:1:0:0:0:0:39
