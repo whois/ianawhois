@@ -32,7 +32,7 @@ e-mail:       assis.guerreiro@fccn.pt
 nserver:      AUTH200.NS.UU.NET 195.129.12.82
 nserver:      AUTH210.NS.UU.NET 195.129.12.74
 nserver:      NS-PT.NLNETLABS.NL 2001:7b8:206:1:0:0:4:141 213.154.224.141
-nserver:      NS.DNS.BR 200.160.0.5
+nserver:      NS.DNS.BR 200.160.0.5 2001:12ff:0:a20:0:0:0:5
 nserver:      NS.DNS.PT 193.136.0.1
 nserver:      NS2.DNS.PT 193.136.2.226 2001:690:a80:4001:0:0:0:100
 nserver:      NS2.NIC.FR 192.93.0.4 2001:660:3005:1:0:0:1:2
