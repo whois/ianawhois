@@ -32,7 +32,7 @@ phone:        +502 2364 0336 through 40
 fax-no:       +502 2369 3452
 e-mail:       steve@uvg.edu.gt
 
-nserver:      NS.DNS.BR 200.160.0.5
+nserver:      NS.DNS.BR 200.160.0.5 2001:12ff:0:a20:0:0:0:5
 nserver:      NS.UVG.EDU.GT 168.234.68.2 200.9.74.2
 nserver:      NS3.NIC.MX 200.33.111.1
 nserver:      OSI2.GUA.NET 205.161.188.3
