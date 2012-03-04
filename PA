@@ -37,7 +37,7 @@ e-mail:       edna.samudio@utp.ac.pa
 
 nserver:      NS-EXT.NIC.CL 200.1.123.14
 nserver:      NS.CR 163.178.8.2
-nserver:      NS.DNS.BR 200.160.0.5
+nserver:      NS.DNS.BR 200.160.0.5 2001:12ff:0:a20:0:0:0:5
 nserver:      NS.NIC.PA 168.77.8.4
 nserver:      NS.PA 168.77.8.2
 nserver:      NS2.PA 168.77.8.7
