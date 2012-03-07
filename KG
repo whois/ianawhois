@@ -10,24 +10,24 @@ address:      Bishkek  720011
 address:      Kyrgyzstan
 
 contact:      administrative
-name:         Alexander P. Kovalev
-organisation: AsiaInfo Telecommunication Enterprise
-address:      Abdrahmanova, 175
-address:      Bishkek  720011
-address:      Kyrgyzstan
-phone:        +996 312 964488
-fax-no:       +996 312 963434
-e-mail:       admin@domain.kg
-
-contact:      technical
 name:         Anton N. Goncharov
 organisation: AsiaInfo Telecommunication Enterprise
 address:      Abdrahmanova, 175
 address:      Bishkek  720011
 address:      Kyrgyzstan
-phone:        +996 312 961112
-fax-no:       +996 312 963434
-e-mail:       wazaari70@mail.ru
+phone:        +996 312 961111
+fax-no:       +996 312 961122
+e-mail:       admin@domain.kg
+
+contact:      technical
+name:         Sergey D. Piryazev
+organisation: AsiaInfo Telecommunication Enterprise
+address:      Abdrahmanova, 175
+address:      Bishkek  720011
+address:      Kyrgyzstan
+phone:        +996 312 961111
+fax-no:       +996 312 961122
+e-mail:       adm@infotel.kg
 
 nserver:      KG.CCTLD.AUTHDNS.RIPE.NET 193.0.9.84 2001:67c:e0:0:0:0:0:84
 nserver:      NS.KG 195.38.160.36
@@ -40,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.domain.kg/
 
 created:      1995-07-12
-changed:      2011-12-09
+changed:      2012-03-06
 source:       IANA
 
