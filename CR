@@ -39,11 +39,12 @@ nserver:      NS3.NIC.MX 200.33.111.1
 nserver:      TLD.ISC-SNS.COM 38.103.2.3
 nserver:      TLD.ISC-SNS.INFO 2001:470:1a:0:0:0:0:3 72.52.71.3
 nserver:      TLD.ISC-SNS.NET 2001:5a0:10:0:0:0:0:3 63.243.194.3
+ds-rdata:     29890 8 2 0DD32D91CBBBA6890E1AF399519A7AD3646EDF238C7FBFB8C5B500165FBB9299
 
 status:       ACTIVE
 remarks:      Registration information: http://www.nic.cr/
 
 created:      1990-09-10
-changed:      2011-12-06
+changed:      2012-03-09
 source:       IANA
 
