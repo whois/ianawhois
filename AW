@@ -34,11 +34,11 @@ e-mail:       hostmaster@setarnet.aw
 
 nserver:      NS1.SETARNET.AW 209.88.128.25
 nserver:      NS2.SETARNET.AW 209.88.128.26
-nserver:      NS3.DOMAIN-REGISTRY.NL 193.176.144.6
+nserver:      NS3.DOMAIN-REGISTRY.NL 193.176.144.6 2a00:d78:0:102:193:176:144:6
 
 status:       ACTIVE
 
 created:      1996-02-20
-changed:      2009-07-23
+changed:      2012-03-24
 source:       IANA
 
