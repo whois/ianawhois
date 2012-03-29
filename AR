@@ -4,31 +4,30 @@
 
 domain:       AR
 
-organisation: MRECIC (Ministerio de Relaciones Exteriores,
-organisation: Comercio Internacional y Culto)
-address:      Esmeralda 1212
-address:      Buenos Aires  1007
+organisation: Presidencia de la Nación – Secretaría Legal y Técnica
+address:      Balcarse N°50 – Planta Baja
+address:      Buenos Aires C1064AAB
 address:      Argentina
 
 contact:      administrative
-name:         Gustavo Soliño
-organisation: MRECIC (Ministerio de Relaciones Exteriores, Comercio Internacional y Culto)
-address:      Esmeralda 1212
-address:      Buenos Aires  1007
+name:         Director Nacional del Registro de Dominios de Internet
+organisation: Presidencia de la Nación – Secretaría Legal y Técnica
+address:      juncal N°847 – Planta Baja
+address:      Buenos Aires C1064AAB
 address:      Argentina
-phone:        +54 11 4819-7372 / 7667
-fax-no:       +54 11 4819-7360
-e-mail:       gas@cancilleria.gov.ar
+phone:        +54 11 4328 9941 /43
+fax-no:       +54 11 4328 9946
+e-mail:       justichg@slyt.gov.ar
 
 contact:      technical
-name:         Mr. José Luis de Oliveira Santana, Departamento Técnico de NIC.AR
-organisation: MRECIC (Ministerio de Relaciones Exteriores, Comercio Internacional y Culto)
-address:      Esmeralda 1212
-address:      Buenos Aires  1007
+name:         Departamento Técnico de la Dirección del Registro de Dominios de Internet
+organisation: Presidencia de la Nación – Secretaría Legal y Técnica
+address:      juncal N°847 – Planta Baja
+address:      Buenos Aires C1064AAB
 address:      Argentina
-phone:        +54 11 4328 9941
-fax-no:       +54 11 4819 7630
-e-mail:       osj@mrecic.gov.ar
+phone:        +54 11 4328 9941 /43
+fax-no:       +54 11 4328 9946
+e-mail:       gas@mrecic.gov.ar
 
 nserver:      AR.CCTLD.AUTHDNS.RIPE.NET 193.0.9.59 2001:67c:e0:0:0:0:0:59
 nserver:      ATHEA.AR 200.16.98.2
@@ -40,6 +39,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.ar
 
 created:      1987-09-23
-changed:      2011-10-31
+changed:      2012-03-29
 source:       IANA
 
