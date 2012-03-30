@@ -4,36 +4,30 @@
 
 domain:       BH
 
-organisation: BATELCO
-address:      Telegraph House
-address:      Lulu Avenue, Salmaniya
-address:      PO Box 14
+organisation: Telecommunications Regulatory Authority (TRA)
+address:      PO Box 10353
 address:      Manama
 address:      Bahrain
 
 contact:      administrative
-name:         Hisham Al-Saad
-organisation: Bahrain Telecommunications Company (BATELCO)
-address:      Telegraph House
-address:      Lulu Avenue, Salmaniya
-address:      PO Box 14
+name:         Technical Affairs Specialist
+organisation: Telecommunications Regulatory Authority (TRA)
+address:      PO Box 10353
 address:      Manama
 address:      Bahrain
-phone:        +973 17883973
-fax-no:       +973 19713973
-e-mail:       hisham@batelco.com.bh
+phone:        +973 17520000
+fax-no:       +973 17532125
+e-mail:       malnoaimi@tra.org.bh
 
 contact:      technical
-name:         Hussain Makhlooq
-organisation: Bahrain Telecommunications Company (BATELCO)
-address:      Telegraph House
-address:      Lulu Avenue, Salmaniya
-address:      PO Box 14
+name:         Technical Affairs Specialist
+organisation: Telecommunications Regulatory Authority (TRA)
+address:      PO Box 10353
 address:      Manama
 address:      Bahrain
-phone:        +973 17883063
-fax-no:       +973 17913063
-e-mail:       makhlooq@batelco.com.bh
+phone:        +973 17520000
+fax-no:       +973 17532125
+e-mail:       malnoaimi@tra.org.bh
 
 nserver:      NS.BATELCO.COM.BH 193.188.97.197
 nserver:      NS2.BATELCO.COM.BH 193.188.97.212
@@ -41,9 +35,8 @@ nserver:      NS3.BATELCO.COM.BH 193.188.97.193
 nserver:      NS4.BATELCO.COM.BH 193.188.97.209
 
 status:       ACTIVE
-remarks:      Registration information: http://www.inet.com.bh
 
 created:      1994-02-01
-changed:      2008-07-17
+changed:      2012-03-30
 source:       IANA
 
