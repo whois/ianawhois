@@ -5,14 +5,14 @@
 domain:       DK
 
 organisation: Dansk Internet Forum
-address:      Kalvebod Brygge 43, 4th Floor
+address:      Kalvebod Brygge 45, 3rd Floor
 address:      Copenhagen V  DK-1560
 address:      Denmark
 
 contact:      administrative
 name:         DK Hostmaster Administrative Contact
 organisation: DK Hostmaster A/S
-address:      Kalvebod Brygge 43, 4th Floor
+address:      Kalvebod Brygge 45, 3rd Floor
 address:      Copenhagen V  DK-1560
 address:      Denmark
 phone:        +45 33 64 60 60
@@ -22,7 +22,7 @@ e-mail:       tld2009admin@dk-hostmaster.dk
 contact:      technical
 name:         DK Hostmaster Technical Contact
 organisation: DK Hostmaster A/S
-address:      Kalvebod Brygge 43, 4th Floor
+address:      Kalvebod Brygge 45, 3rd Floor
 address:      Copenhagen V  DK-1560
 address:      Denmark
 phone:        +45 33 64 60 60
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.dk-hostmaster.dk/
 
 created:      1987-07-14
-changed:      2010-08-02
+changed:      2012-03-30
 source:       IANA
 
