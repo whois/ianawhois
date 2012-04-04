@@ -33,7 +33,7 @@ phone:        +852 2319 1313
 fax-no:       +852 2319 2626
 e-mail:       hk.tech@hkirc.hk
 
-nserver:      ADNS1.BERKELEY.EDU 128.32.136.3
+nserver:      ADNS1.BERKELEY.EDU 128.32.136.3 2607:f140:ffff:fffe:0:0:0:3
 nserver:      B.DNS.TW 210.201.138.58 2404:0:10a0:0:0:0:0:58
 nserver:      HK-NS.PCH.NET 2001:500:14:6046:ad:0:0:1 204.61.216.46
 nserver:      NS1.HKIRC.NET.HK 203.119.2.18
