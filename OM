@@ -10,12 +10,12 @@ address:      Muscat
 address:      Oman
 
 contact:      administrative
-name:         Senior Manager Technical Affairs Unit
+name:         Domain Name Manager
 organisation: Telecommunications Regulatory Authority (TRA)
 address:      P.O. Box 579, P.C 112, Ruwi
 address:      Muscat
 address:      Oman
-phone:        +96824574375
+phone:        +96824574357
 fax-no:       +96824563640
 e-mail:       dnsmanager@tra.gov.om
 
@@ -29,16 +29,17 @@ phone:        +96824574358
 fax-no:       +96824563640
 e-mail:       dnsadmin@tra.gov.om
 
-nserver:      NS.ICANN.ORG 199.4.138.53 2001:500:89:0:0:0:0:53
-nserver:      OM.CCTLD.AUTHDNS.RIPE.NET 193.0.9.103 2001:67c:e0:0:0:0:0:103
-nserver:      OM14.OMANTEL.NET.OM 212.72.23.4
-nserver:      OM16.OMANTEL.NET.OM 212.72.1.186
-nserver:      OM41.OMANTEL.NET.OM 62.231.243.249
+nserver:      NS1.AUSREGISTRY.NET.AU 202.65.12.73
+nserver:      NS1.REGISTRY.OM 212.72.15.101
+nserver:      NS2.AUSREGISTRY.NET.AU 202.65.13.73
+nserver:      NS2.REGISTRY.OM 188.135.6.231
+
+whois:        whois.registry.om
 
 status:       ACTIVE
 remarks:      Registration information: http://www.omantel.net.om
 
 created:      1996-04-11
-changed:      2012-01-24
+changed:      2012-04-05
 source:       IANA
 
