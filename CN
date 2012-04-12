@@ -11,27 +11,27 @@ address:      Beijing  100080
 address:      China
 
 contact:      administrative
-name:         Hualin Qian
+name:         Xiangyang Huang
 organisation: Computer Network Information Center,
 organisation: Chinese Academy of Sciences
 address:      No.4, South 4th Street
 address:      Zhong Guan Cun
-address:      Beijing  100080
+address:      Beijing 100190
 address:      China
-phone:        +86 10 58812270
-fax-no:       +86 10 58812290
-e-mail:       hlqian@cnic.cn
+phone:        +86 10 58812210
+fax-no:       +86 10 58812666
+e-mail:       huangxy@cnnic.cn
 
 contact:      technical
-name:         Xiaodong LEE
+name:         Wang Wei
 organisation: China Internet Network Information Center
 address:      No.4, South 4th Street
 address:      Zhong Guan Cun
-address:      Beijing  100080
+address:      Beijing 100190
 address:      China
-phone:        +86 10 58813020
-fax-no:       +86 10 58812666 103
-e-mail:       lee@cnnic.cn
+phone:        +86 10 58813101
+fax-no:       +86 10 58812666
+e-mail:       wangwei@cnnic.cn
 
 nserver:      A.DNS.CN 2001:dc7:0:0:0:0:0:1 203.119.25.1
 nserver:      B.DNS.CN 203.119.26.1
@@ -46,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.cnnic.cn/
 
 created:      1990-11-28
-changed:      2011-10-03
+changed:      2012-04-11
 source:       IANA
 
