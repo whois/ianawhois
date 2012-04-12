@@ -12,26 +12,26 @@ address:      Beijing  100190
 address:      China
 
 contact:      administrative
-name:         Wei Mao
+name:         Xiangyang Huang
 organisation: China Internet Network Information Center
 address:      No.4, South 4th Street
 address:      Zhong Guan Cun
 address:      Beijing  100190
 address:      China
-phone:        +86 10 58813000
+phone:        +86 10 58812210
 fax-no:       +86 10 58812666
-e-mail:       mao@cnnic.cn
+e-mail:       huangxy@cnnic.cn
 
 contact:      technical
-name:         Xiaodong Lee
+name:         Wang Wei
 organisation: China Internet Network Information Center
 address:      No.4, South 4th Street
 address:      Zhong Guan Cun
 address:      Beijing  100190
 address:      China
-phone:        +86 10 58813020
-fax-no:       +86 10 58813277
-e-mail:       lee@cnnic.cn
+phone:        +86 10 58813101
+fax-no:       +86 10 58812666
+e-mail:       wangwei@cnnic.cn
 
 nserver:      H.DNS.CN 125.208.32.1 2001:dc7:fffe:0:0:0:0:1
 nserver:      I.DNS.CN 125.208.33.1 2001:dc7:ffff:0:0:0:0:1
@@ -45,5 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.cnnic.cn
 
 created:      2010-07-09
+changed:      2012-04-11
 source:       IANA
 
