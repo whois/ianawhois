@@ -29,7 +29,7 @@ fax-no:       +1 264 497 8470
 e-mail:       vince@offshore.ai
 
 nserver:      NS1.PAIR.COM 209.68.1.11
-nserver:      NS2.OFFSHORE.AI 208.75.85.241
+nserver:      NS2.OFFSHORE.AI 108.166.113.245
 nserver:      WHOIS.AI 209.59.119.1
 
 whois:        whois.ai
@@ -38,6 +38,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.com.ai
 
 created:      1995-02-16
-changed:      2007-11-21
+changed:      2012-04-17
 source:       IANA
 
