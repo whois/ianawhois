@@ -33,7 +33,6 @@ nserver:      DNS.PRINCETON.EDU 128.112.129.15
 nserver:      NS-BI.AFRINIC.NET 196.216.168.23 2001:43f8:120:0:0:0:0:23
 nserver:      NS.NIC.BI 196.2.8.205
 nserver:      NS1.NIC.BI 196.2.12.205
-nserver:      SUNIC.SUNET.SE 192.36.125.2 2001:6b0:7:0:0:0:0:2
 
 whois:        whois1.nic.bi
 
@@ -41,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.bi
 
 created:      1996-10-21
-changed:      2011-11-03
+changed:      2012-04-21
 source:       IANA
 
