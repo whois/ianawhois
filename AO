@@ -10,14 +10,14 @@ address:      Luanda  CP 815
 address:      Angola
 
 contact:      administrative
-name:         Joao S. Teta
+name:         João Sebastião Teta
 organisation: Faculdade de Engenharia da Universidade Agostinho Neto
-address:      Av. 4 de Fevereiro, nº 7, 2º Andar
-address:      Luanda  CP 815
+address:      Casa A09, Rua do Dande, Condomínio Caju, Talatona, Luanda
+address:      Postal code: 1556
 address:      Angola
-phone:        +244 222 311125 / 310296
-fax-no:       +244 222 310283
-e-mail:       reitor@uan-angola.org
+phone:        +244 222 331500
+fax-no:       +244 222 331500
+e-mail:       joao.teta@uan.ao
 
 contact:      technical
 name:         Assis Guerreiro
@@ -39,6 +39,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.dns.ao/
 
 created:      1995-11-15
-changed:      2011-07-18
+changed:      2012-04-24
 source:       IANA
 
