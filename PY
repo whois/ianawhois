@@ -37,12 +37,11 @@ nserver:      NS.DNS.BR 200.160.0.5 2001:12ff:0:a20:0:0:0:5
 nserver:      NS3.NIC.MX 200.33.111.1
 nserver:      PY.CCTLD.AUTHDNS.RIPE.NET 193.0.9.106 2001:67c:e0:0:0:0:0:106
 nserver:      SCE.CNC.UNA.PY 200.10.228.133
-nserver:      SUNIC.SUNET.SE 192.36.125.2 2001:6b0:7:0:0:0:0:2
 
 status:       ACTIVE
 remarks:      Registration information: http://www.nic.py
 
 created:      1991-09-09
-changed:      2011-10-28
+changed:      2012-04-24
 source:       IANA
 
