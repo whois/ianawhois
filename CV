@@ -32,16 +32,16 @@ fax-no:       +351 21 844 0157
 e-mail:       assis.guerreiro@fccn.pt
 
 nserver:      AUTH02.NS.UU.NET 198.6.1.82
-nserver:      DNS.FCCN.PT 193.136.192.10
 nserver:      NS-EXT.ISC.ORG 2001:4f8:0:2:0:0:0:13 204.152.184.64
 nserver:      NS.DNS.CV 41.221.192.220
+nserver:      NS01.FCCN.PT 193.136.192.40 2001:690:a00:4001:0:0:0:200
 nserver:      PHOBOS.FCCN.PT 193.136.7.17
-nserver:      SUNIC.SUNET.SE 192.36.125.2 2001:6b0:7:0:0:0:0:2
+nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e:0:0:0:0:1
 
 status:       ACTIVE
 remarks:      Registration information: http://www.dns.cv/
 
 created:      1996-10-21
-changed:      2011-11-09
+changed:      2012-04-28
 source:       IANA
 
