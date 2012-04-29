@@ -30,8 +30,8 @@ fax-no:       +55 11 5509 3501
 e-mail:       fneves@registro.br
 
 nserver:      A.DNS.BR 200.160.0.10 2001:12ff:0:0:0:0:0:10
-nserver:      B.DNS.BR 200.189.40.10
-nserver:      C.DNS.BR 200.192.232.10
+nserver:      B.DNS.BR 200.189.41.10
+nserver:      C.DNS.BR 200.192.233.10
 nserver:      D.DNS.BR 200.219.154.10
 nserver:      E.DNS.BR 200.229.248.10 2001:12f8:1:0:0:0:0:10
 nserver:      F.DNS.BR 200.219.159.10
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://registro.br/
 
 created:      1989-04-18
-changed:      2010-06-22
+changed:      2012-04-28
 source:       IANA
 
