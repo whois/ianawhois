@@ -36,7 +36,7 @@ nserver:      NS-C.NIC.LK 203.143.19.3
 nserver:      NS-D.NIC.LK 123.231.6.18
 nserver:      NS-L.NIC.LK 192.248.8.17
 nserver:      NS-T.NIC.LK 203.94.66.129
-nserver:      NS1.AC.LK 192.248.1.162 2001:df0:17:1:0:0:0:162
+nserver:      NS1.AC.LK 192.248.1.162 2401:dd00:1:0:0:0:0:162
 nserver:      NS3.AC.LK 202.124.166.178
 
 status:       ACTIVE
