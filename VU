@@ -10,24 +10,24 @@ address:      Port Vila
 address:      Vanuatu
 
 contact:      administrative
-name:         Gérard Metsan
+name:         CAUVEL Cedric
 organisation: Telecom Vanuatu Ltd.
 address:      Lini Highway
 address:      Port Vila
 address:      Vanuatu
-phone:        +678 22015
+phone:        +678 7788744
 fax-no:       +678 24319
-e-mail:       gerard.metsan@tvl.net.vu
+e-mail:       cedric.cauvel@tvl.net.vu
 
 contact:      technical
-name:         Technical Manager
+name:         TCHIEN Tari
 organisation: Telecom Vanuatu Ltd.
 address:      Lini Highway
 address:      Port Vila
 address:      Vanuatu
-phone:        +678 22015
+phone:        +678 7744333
 fax-no:       +678 24319
-e-mail:       robertson.sarki@tvl.net.vu
+e-mail:       tari.tchien@tvl.net.vu
 
 nserver:      EFATE.VANUATU.COM.VU 202.80.32.5
 nserver:      FUTUNA.VANUATU.COM.VU 202.80.32.3
@@ -39,6 +39,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.vunic.vu
 
 created:      1995-04-10
-changed:      2009-07-20
+changed:      2012-05-14
 source:       IANA
 
