@@ -34,6 +34,8 @@ nserver:      NS2.ATI.TN 193.95.67.22
 nserver:      NS2.NIC.FR 192.93.0.4 2001:660:3005:1:0:0:1:2
 nserver:      RIP.PSG.COM 147.28.0.39 2001:418:1:0:0:0:0:39
 
+whois:        whois.ati.tn
+
 status:       ACTIVE
 remarks:      Registration information: http://whois.ati.tn
 
