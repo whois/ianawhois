@@ -37,12 +37,12 @@ e-mail:       hostmaster@ucd.ie
 
 nserver:      B.IEDR.IE 2a01:4b0:0:0:0:0:0:2 77.72.72.34
 nserver:      BANBA.DOMAINREGISTRY.IE 193.1.142.2
+nserver:      C.IEDR.IE 194.146.106.98
+nserver:      D.IEDR.IE 77.72.229.245
 nserver:      GNS1.DOMAINREGISTRY.IE 198.133.199.102
 nserver:      GNS2.DOMAINREGISTRY.IE 198.133.199.103
 nserver:      NS-IE.NIC.FR 192.93.0.4
 nserver:      NS3.NS.ESAT.NET 192.111.39.100 2001:7c8:2:a:0:0:0:64
-nserver:      UUCP-GW-1.PA.DEC.COM 204.123.2.18
-nserver:      UUCP-GW-2.PA.DEC.COM 204.123.2.19
 
 whois:        whois.domainregistry.ie
 
@@ -50,6 +50,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.domainregistry.ie
 
 created:      1988-01-27
-changed:      2011-12-21
+changed:      2012-05-16
 source:       IANA
 
