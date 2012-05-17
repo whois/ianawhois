@@ -15,8 +15,8 @@ organisation: SWITCH The Swiss Education & Research Network
 address:      Werdstrasse 2
 address:      Zurich  CH-8021
 address:      Switzerland
-phone:        +41 44 268 15 30
-fax-no:       +41 44 268 15 68
+phone:        +41 44 268 15 40
+fax-no:       +41 44 268 15 78
 e-mail:       tld-admin@switch.ch
 
 contact:      technical
@@ -25,9 +25,9 @@ organisation: SWITCH The Swiss Education & Research Network
 address:      Werdstrasse 2
 address:      Zurich  CH-8021
 address:      Switzerland
-phone:        +41 44 268 15 30
-fax-no:       +41 44 268 15 68
-e-mail:       noc@switch.ch
+phone:        +41 44 268 15 40
+fax-no:       +41 44 268 15 78
+e-mail:       dns-operation@switch.ch
 
 nserver:      A.NIC.CH 130.59.1.80 2001:620:0:0:0:0:0:4
 nserver:      B.NIC.CH 130.59.211.10 2001:620:0:0:0:0:0:5
@@ -44,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.ch/
 
 created:      1987-05-20
-changed:      2012-05-10
+changed:      2012-05-16
 source:       IANA
 
