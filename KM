@@ -6,36 +6,37 @@ domain:       KM
 
 organisation: Comores Telecom
 address:      BP 7000 Place de France
-address:      Moroni
+address:      Moroni 98123
 address:      Comoros
 
 contact:      administrative
-name:         Directeur Général - Charikane Bouchrane
+name:         Abiamri Mahamoud
 organisation: Comores Telecom
 address:      BP 7000 Place de France
-address:      Moroni
+address:      Moroni 98123
 address:      Comoros
-phone:        +269744300
-fax-no:       +269731079
-e-mail:       charikane.bouchrane@comorestelecom.km
+phone:        +269 7634300
+fax-no:       +269 7731079
+e-mail:       abiamri.mahamoud@comorestelecom.km
 
 contact:      technical
 name:         ALI Hadji Mmadi
 organisation: Comores Telecom
 address:      BP 7000 Place de France
-address:      Moroni
+address:      Moroni 98123
 address:      Comoros
 phone:        +269323001
 fax-no:       +269731079
 e-mail:       alihadji@comorestelecom.km
 
 nserver:      DNS1.KM 80.231.195.18
+nserver:      DNS2.KM 80.231.195.4
 nserver:      PHLOEM.UOREGON.EDU 128.223.32.35 2001:468:d01:20:0:0:80df:2023
 
 status:       ACTIVE
 remarks:      Registration information: http://www.domaine.km/
 
 created:      1998-06-08
-changed:      2008-04-21
+changed:      2012-05-16
 source:       IANA
 
