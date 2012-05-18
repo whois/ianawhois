@@ -29,13 +29,11 @@ phone:        +7 495 737 92 95
 fax-no:       +7 495 737 06 84
 e-mail:       ru-tech@tcinet.ru
 
+nserver:      A.DNS.RIPN.NET 193.232.128.6 2001:678:17:0:193:232:128:6
+nserver:      B.DNS.RIPN.NET 194.85.252.62 2001:678:16:0:194:85:252:62
 nserver:      D.DNS.RIPN.NET 194.190.124.17 2001:678:18:0:194:190:124:17
 nserver:      E.DNS.RIPN.NET 193.232.142.17 2001:678:15:0:193:232:142:17
 nserver:      F.DNS.RIPN.NET 193.232.156.17 2001:678:14:0:193:232:156:17
-nserver:      NS.RIPN.NET 194.85.105.17 2001:678:13:0:194:85:105:17
-nserver:      NS2.NIC.FR 192.93.0.4 2001:660:3005:1:0:0:1:2
-nserver:      NS5.MSK-IX.NET 193.232.128.6 2001:678:17:0:193:232:128:6
-nserver:      NS9.RIPN.NET 194.85.252.62 2001:678:16:0:194:85:252:62
 
 whois:        whois.tcinet.ru
 
@@ -43,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.cctld.ru/en
 
 created:      1994-04-07
-changed:      2011-12-06
+changed:      2012-05-18
 source:       IANA
 
