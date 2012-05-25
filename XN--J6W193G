@@ -37,9 +37,9 @@ nserver:      ADNS1.BERKELEY.EDU 128.32.136.3 2607:f140:ffff:fffe:0:0:0:3
 nserver:      B.DNS.TW 210.201.138.58 2404:0:10a0:0:0:0:0:58
 nserver:      HK-NS.PCH.NET 2001:500:14:6046:ad:0:0:1 204.61.216.46
 nserver:      NS1.HKIRC.NET.HK 203.119.2.18
-nserver:      NS2.CUHK.EDU.HK 137.189.6.21 2405:3000:3:60:0:0:0:21
 nserver:      NS2.HKIRC.NET.HK 2001:dca:1000:0:0:0:cb77:5713 203.119.87.19
 nserver:      SEC3.APNIC.NET 2001:dc0:1:0:4777:0:0:140 202.12.28.140
+nserver:      Y.HKIRC.NET.HK 137.189.6.21 2405:3000:3:60:0:0:0:21
 nserver:      Z.HKIRC.NET.HK 194.146.106.70 2001:67c:1010:17:0:0:0:53
 
 whois:        whois.hkirc.hk
@@ -48,6 +48,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.hkirc.hk
 
 created:      2010-07-12
-changed:      2012-02-02
+changed:      2012-05-24
 source:       IANA
 
