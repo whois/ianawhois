@@ -10,14 +10,14 @@ address:      Tbilisi  0186
 address:      Georgia
 
 contact:      administrative
-name:         Mamia Sanadiradze
+name:         Ia Peradze
 organisation: Caucasus Online
 address:      71 Vazha-Pshavela Ave.
 address:      Tbilisi  0186
 address:      Georgia
-phone:        +995 32 922949
-fax-no:       +995 32 001 367
-e-mail:       mamia@sanet.ge
+phone:        +995 32 480000
+fax-no:       +995 32 001367
+e-mail:       info@nic.ge
 
 contact:      technical
 name:         Irakli Bakhtadze
@@ -38,6 +38,6 @@ status:       ACTIVE
 remarks:      Registration information: http://georgia.net.ge/domain/
 
 created:      1992-12-02
-changed:      2012-04-11
+changed:      2012-06-12
 source:       IANA
 
