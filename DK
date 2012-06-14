@@ -33,7 +33,7 @@ nserver:      A.NIC.DK 212.88.78.122
 nserver:      B.NIC.DK 193.163.102.222 2a01:630:0:80:0:0:0:53
 nserver:      C.NIC.DK 208.76.168.244
 nserver:      L.NIC.DK 192.38.7.242
-nserver:      P.NIC.DK 2001:500:14:6036:ad:0:0:1 204.61.216.36
+nserver:      P.NIC.DK 194.0.47.42 2001:678:78:42:ad:0:0:53
 nserver:      S.NIC.DK 2a01:3f0:0:303:0:0:0:53 77.72.229.252
 ds-rdata:     26887 8 2 a1ab8546b80e438a7dfe0ec559a7088ec5aed3c4e0d26b1b60ed3735f853dfd7
 
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.dk-hostmaster.dk/
 
 created:      1987-07-14
-changed:      2012-03-30
+changed:      2012-06-13
 source:       IANA
 
