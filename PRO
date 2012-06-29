@@ -31,23 +31,19 @@ phone:        +353 1 854 1100
 fax-no:       +353 1 791 8569
 e-mail:       tld-tech-poc@afilias.info
 
-nserver:      A.GTLD.PRO 192.149.62.10
 nserver:      A0.PRO.AFILIAS-NST.INFO 199.182.0.1 2001:500:c0:0:0:0:0:1
 nserver:      A2.PRO.AFILIAS-NST.INFO 199.182.32.1 2001:500:e0:0:0:0:0:1
-nserver:      B.GTLD.PRO 192.149.63.10
 nserver:      B0.PRO.AFILIAS-NST.ORG 199.182.1.1 2001:500:c1:0:0:0:0:1
 nserver:      B2.PRO.AFILIAS-NST.ORG 199.182.40.1 2001:500:e1:0:0:0:0:1
-nserver:      C.GTLD.PRO 192.149.64.10
 nserver:      C0.PRO.AFILIAS-NST.INFO 199.182.16.1 2001:500:d0:0:0:0:0:1
-nserver:      D.GTLD.PRO 192.149.66.10
 nserver:      D0.PRO.AFILIAS-NST.ORG 199.182.17.1 2001:500:d1:0:0:0:0:1
 
-whois:        whois.registrypro.pro
+whois:        whois.dotproregistry.net
 
 status:       ACTIVE
-remarks:      Registration information: http://www.registrypro.pro/
+remarks:      Registration information: http://www.registry.pro/
 
 created:      2002-05-08
-changed:      2012-06-22
+changed:      2012-06-27
 source:       IANA
 
