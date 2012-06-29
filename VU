@@ -31,7 +31,6 @@ e-mail:       tari.tchien@tvl.net.vu
 
 nserver:      EFATE.VANUATU.COM.VU 202.80.32.5
 nserver:      FUTUNA.VANUATU.COM.VU 202.80.32.3
-nserver:      HAVANNAH.HARBOURMSP.COM 203.111.102.146
 nserver:      MARINGO.VANUATU.COM.VU 125.255.96.208
 nserver:      SANTO.VANUATU.COM.VU 202.80.32.7
 
@@ -39,6 +38,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.vunic.vu
 
 created:      1995-04-10
-changed:      2012-05-14
+changed:      2012-06-28
 source:       IANA
 
