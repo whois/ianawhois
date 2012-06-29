@@ -12,14 +12,14 @@ address:      Hamilton Pembroke HM 12
 address:      Bermuda
 
 contact:      administrative
-name:         Marlene Christopher (Registrar General)
+name:         Thelma Trott (Acting Registrar General)
 organisation: Registry General
 address:      30 Parliament Street
 address:      Hamilton Pembroke HM 12
 address:      Bermuda
-phone:        +1 441 297 7705
+phone:        +1 441 297 7706
 fax-no:       +1 441 292 4568
-e-mail:       mchristopher@gov.bm
+e-mail:       tetrott@gov.bm
 
 contact:      technical
 name:         TLD DNS Administrator
@@ -44,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.bermudanic.bm
 
 created:      1993-03-31
-changed:      2010-09-16
+changed:      2012-06-27
 source:       IANA
 
