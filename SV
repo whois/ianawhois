@@ -34,16 +34,15 @@ e-mail:       efernandez@uca.edu.sv
 
 nserver:      AUTH02.NS.UU.NET 198.6.1.82
 nserver:      CIR.RED.SV 168.243.254.1
-nserver:      NS-SV.RIPE.NET 193.0.12.67
 nserver:      NS.CR 163.178.8.2
 nserver:      NS.DNS.BR 200.160.0.5 2001:12ff:0:a20:0:0:0:5
-nserver:      NS.TELEFONICA-CA.NET 216.184.96.4
 nserver:      NS.UU.NET 137.39.1.3
+nserver:      SV.CCTLD.AUTHDNS.RIPE.NET 193.0.9.112 2001:67c:e0:0:0:0:0:112
 
 status:       ACTIVE
 remarks:      Registration information: http://www.svnet.org.sv
 
 created:      1994-11-04
-changed:      2011-11-21
+changed:      2012-06-30
 source:       IANA
 
