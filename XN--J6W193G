@@ -33,9 +33,10 @@ phone:        +852 2319 1313
 fax-no:       +852 2319 2626
 e-mail:       hk.tech@hkirc.hk
 
-nserver:      ADNS1.BERKELEY.EDU 128.32.136.3 2607:f140:ffff:fffe:0:0:0:3
 nserver:      NS1.HKIRC.NET.HK 203.119.2.18
 nserver:      NS2.HKIRC.NET.HK 2001:dca:1000:0:0:0:cb77:5713 203.119.87.19
+nserver:      S.HKIRC.NET.HK 128.32.136.3 2607:f140:ffff:fffe:0:0:0:3
+nserver:      T.HKIRC.NET.HK 128.32.136.14 2607:f140:ffff:fffe:0:0:0:e
 nserver:      U.HKIRC.NET.HK 210.201.138.58 2404:0:10a0:0:0:0:0:58
 nserver:      V.HKIRC.NET.HK 2001:500:14:6046:ad:0:0:1 204.61.216.46
 nserver:      W.HKIRC.NET.HK 2001:dc0:1:0:4777:0:0:140 202.12.28.140
@@ -49,6 +50,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.hkirc.hk
 
 created:      2010-07-12
-changed:      2012-06-23
+changed:      2012-07-05
 source:       IANA
 
