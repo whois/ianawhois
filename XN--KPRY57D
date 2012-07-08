@@ -31,10 +31,10 @@ fax-no:       +886 2 23968832
 e-mail:       snw@twnic.net.tw
 
 nserver:      D.DNS.TW 2001:c50:ffff:1:0:0:0:230 210.17.9.230
-nserver:      E.DNS.TW 211.79.207.26
+nserver:      E.DNS.TW 2001:b000:1e0:c000:0:0:0:11 211.20.231.11
 nserver:      F.DNS.TW 163.28.1.10
-nserver:      G.DNS.TW 220.229.225.195
-nserver:      H.DNS.TW 203.119.3.1
+nserver:      G.DNS.TW 2001:cd8:400:0:0:0:0:195 220.229.225.195
+nserver:      H.DNS.TW 203.119.3.1 2405:7e00:1001:0:0:0:0:111
 nserver:      SEC4.APNIC.NET 2001:dc0:4001:1:0:1836:0:141 202.12.31.141
 ds-rdata:     57757 8 2 99EE3CDDCD2A85DB01D3A1E13D019821D30E3D4F6B49E4260B402FE7D8A3E85A
 
