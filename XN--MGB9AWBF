@@ -5,12 +5,42 @@
 domain:       عمان
 domain-ace:   XN--MGB9AWBF
 
+organisation: Telecommunications Regulatory Authority (TRA)
+address:      P.O. Box 579, P.C 112, Ruwi
+address:      Muscat
+address:      Oman
+
 contact:      administrative
+name:         Domain Name Manager
+organisation: Telecommunications Regulatory Authority (TRA)
+address:      P.O. Box 579, P.C 112, Ruwi
+address:      Muscat
+address:      Oman
+phone:        +96824574357
+fax-no:       +96824563640
+e-mail:       dnsmanager@tra.gov.om
 
 contact:      technical
+name:         Domain Name Technical Head
+organisation: Telecommunications Regulatory Authority (TRA)
+address:      P.O. Box 579, P.C 112, Ruwi
+address:      Muscat
+address:      Oman
+phone:        +96824574358
+fax-no:       +96824563640
+e-mail:       dnsadmin@tra.gov.om
+
+nserver:      NS1.AUSREGISTRY.NET.AU 202.65.12.73
+nserver:      NS1.REGISTRY.OM 212.72.15.101
+nserver:      NS2.AUSREGISTRY.NET.AU 202.65.13.73
+nserver:      NS2.REGISTRY.OM 188.135.6.231
+
+whois:        whois.registry.om
 
 status:       ACTIVE
+remarks:      Registration information: http://www.omantel.net.om
 
 created:      2011-02-05
+changed:      2012-07-09
 source:       IANA
 
