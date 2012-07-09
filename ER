@@ -29,14 +29,14 @@ phone:        +415 668 3564
 e-mail:       er-techcontact@punchdown.org
 
 nserver:      ER.CCTLD.AUTHDNS.RIPE.NET 193.0.9.72 2001:67c:e0:0:0:0:0:72
-nserver:      NS0.PUNCHDOWN.ORG 64.90.188.42
-nserver:      NS1.PUNCHDOWN.NET 66.92.19.36
+nserver:      NS0-ER.PUNCHDOWN.ORG 199.4.162.2
+nserver:      NS1-ER.PUNCHDOWN.NET 199.4.163.2
 nserver:      SAWANEW.NOC.NET.ER 196.200.96.1
 nserver:      ZARANEW.NOC.NET.ER 196.200.96.2
 
 status:       ACTIVE
 
 created:      1996-09-24
-changed:      2011-11-16
+changed:      2012-07-08
 source:       IANA
 
