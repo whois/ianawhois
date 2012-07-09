@@ -31,9 +31,9 @@ fax-no:       +595 21 585550 ; +595 21 585554
 e-mail:       dnsadmin@cnc.una.py
 
 nserver:      AUTH00.NS.UU.NET 198.6.1.65
-nserver:      MERAPI.SWITCH.CH 130.59.211.10 2001:620:0:0:0:0:0:5
 nserver:      NS.CNC.UNA.PY 200.10.228.132
 nserver:      NS.DNS.BR 200.160.0.5 2001:12ff:0:a20:0:0:0:5
+nserver:      NS2.SWITCH.CH 130.59.138.49 2001:620:0:1b:5054:ff:fe74:8780
 nserver:      NS3.NIC.MX 200.33.111.1
 nserver:      PY.CCTLD.AUTHDNS.RIPE.NET 193.0.9.106 2001:67c:e0:0:0:0:0:106
 nserver:      SCE.CNC.UNA.PY 200.10.228.133
@@ -42,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.py
 
 created:      1991-09-09
-changed:      2012-04-24
+changed:      2012-07-08
 source:       IANA
 
