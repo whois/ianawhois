@@ -59,7 +59,9 @@ else:
     # No need to shorten it
 if ltld[0:4] == "xn--":
     utld = encodings.idna.ToUnicode(ltld)
-    tld = "%s (%s)" % (utld, tld)
+    tld = "%s (%s)" % (utld, tld) # TODO: if utld is RTL (arabic), the
+                                  # display may be strange (the parenthesis
+                                  # has no directionality)
 tmpl = string.Template(msg)
 expanded_msg = tmpl.substitute(tld=tld)
 if not debug:
