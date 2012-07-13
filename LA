@@ -33,14 +33,14 @@ phone:        +856 21 213470
 fax-no:       +856 21 213472
 e-mail:       technicalcontact@lanic.net
 
-nserver:      NS1.CENTRALNIC.NET 89.151.83.36
-nserver:      NS2.CENTRALNIC.NET 72.3.240.16
-nserver:      NS3.CENTRALNIC.NET 62.197.40.234
-nserver:      NS4.CENTRALNIC.NET 89.151.83.34
-nserver:      NS5.CENTRALNIC.NET 2001:ac8:2:1:0:0:0:20 217.151.106.82
-nserver:      NS6.CENTRALNIC.NET 194.0.2.2 2001:678:5:0:0:0:0:2
-nserver:      NS7.CENTRALNIC.NET 193.105.170.169
-nserver:      NS8.CENTRALNIC.NET 64.131.83.34
+nserver:      NS1.NIC.LA 194.0.2.2 2001:678:5:0:0:0:0:2
+nserver:      NS2.NIC.LA 72.3.240.16
+nserver:      NS3.NIC.LA 62.197.40.234
+nserver:      NS4.NIC.LA 89.151.83.34
+nserver:      NS5.NIC.LA 2001:ac8:2:1:0:0:0:20 217.151.106.82
+nserver:      NS6.NIC.LA 89.151.83.36
+nserver:      NS7.NIC.LA 193.105.170.169
+nserver:      NS8.NIC.LA 64.131.83.34
 ds-rdata:     30572 7 1 A12A07A7177CB77520C6CAAC9BC464C70E60727C
 ds-rdata:     30572 7 2 3803839384A30E61F5C070693AD25D7F51957A0042502E7AF3EF172DA1815B3F
 
@@ -50,6 +50,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.la
 
 created:      1996-05-14
-changed:      2011-08-31
+changed:      2012-07-12
 source:       IANA
 
