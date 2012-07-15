@@ -20,13 +20,14 @@ fax-no:       +291 1 120938
 e-mail:       moa_tedros05@yahoo.com
 
 contact:      technical
-name:         Craig Harmer
-organisation: Punchdown Vintners
-address:      110 Clayton Street
-address:      San Francisco California 94117
-address:      United States
-phone:        +415 668 3564
-e-mail:       er-techcontact@punchdown.org
+name:         Eng. Mekonneen  Fessahazion
+organisation: Ministry of Transport and Communication
+address:      Egri Mekel Street
+address:      Asmara Central Zone 4918
+address:      Eritrea
+phone:        +291 1 189193
+fax-no:       +291 1 185019
+e-mail:       mokiefzn@gmail.com
 
 nserver:      ER.CCTLD.AUTHDNS.RIPE.NET 193.0.9.72 2001:67c:e0:0:0:0:0:72
 nserver:      NS0-ER.PUNCHDOWN.ORG 199.4.162.2
@@ -37,6 +38,6 @@ nserver:      ZARANEW.NOC.NET.ER 196.200.96.2
 status:       ACTIVE
 
 created:      1996-09-24
-changed:      2012-07-08
+changed:      2012-07-14
 source:       IANA
 
