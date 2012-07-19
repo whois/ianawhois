@@ -30,14 +30,12 @@ fax-no:       +291 1 185019
 e-mail:       mokiefzn@gmail.com
 
 nserver:      ER.CCTLD.AUTHDNS.RIPE.NET 193.0.9.72 2001:67c:e0:0:0:0:0:72
-nserver:      NS0-ER.PUNCHDOWN.ORG 199.4.162.2
-nserver:      NS1-ER.PUNCHDOWN.NET 199.4.163.2
 nserver:      SAWANEW.NOC.NET.ER 196.200.96.1
 nserver:      ZARANEW.NOC.NET.ER 196.200.96.2
 
 status:       ACTIVE
 
 created:      1996-09-24
-changed:      2012-07-14
+changed:      2012-07-18
 source:       IANA
 
