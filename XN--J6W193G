@@ -33,8 +33,8 @@ phone:        +852 2319 1313
 fax-no:       +852 2319 2626
 e-mail:       hk.tech@hkirc.hk
 
+nserver:      A.HKIRC.NET.HK 203.119.2.18
 nserver:      B.HKIRC.NET.HK 2001:dca:1000:0:0:0:cb77:5713 203.119.87.19
-nserver:      NS1.HKIRC.NET.HK 203.119.2.18
 nserver:      S.HKIRC.NET.HK 128.32.136.3 2607:f140:ffff:fffe:0:0:0:3
 nserver:      T.HKIRC.NET.HK 128.32.136.14 2607:f140:ffff:fffe:0:0:0:e
 nserver:      U.HKIRC.NET.HK 210.201.138.58 2404:0:10a0:0:0:0:0:58
@@ -50,6 +50,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.hkirc.hk
 
 created:      2010-07-12
-changed:      2012-07-12
+changed:      2012-07-21
 source:       IANA
 
