@@ -31,12 +31,13 @@ e-mail:       sadou.soloke@sonitel.ne
 
 nserver:      BOW.RAIN.FR 194.51.3.49
 nserver:      NE.CCTLD.AUTHDNS.RIPE.NET 193.0.9.101 2001:67c:e0:0:0:0:0:101
+nserver:      NS-NE.AFRINIC.NET 196.216.168.45 2001:43f8:120:0:0:0:0:45
 nserver:      NS.INTNET.NE 41.138.54.10
 
 status:       ACTIVE
 remarks:      Registration information: http://www.intnet.ne
 
 created:      1996-04-24
-changed:      2012-05-07
+changed:      2012-07-26
 source:       IANA
 
