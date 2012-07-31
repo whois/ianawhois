@@ -28,7 +28,7 @@ address:      Geneva  1215
 address:      Switzerland
 phone:        +41 22 929 57 44
 fax-no:       +41 22 929 57 45
-e-mail:       werner.staub@corenic.org
+e-mail:       dnsmaster@corenic.org
 
 nserver:      ANYC1.IRONDNS.NET 195.253.64.4 2a01:5b0:4:0:0:0:0:4
 nserver:      B.NIC.CH 130.59.211.10 2001:620:0:0:0:0:0:5
@@ -46,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.domini.cat
 
 created:      2005-12-19
-changed:      2011-03-10
+changed:      2012-07-30
 source:       IANA
 
