@@ -29,6 +29,7 @@ phone:        +216 71 846 100
 fax-no:       +216 71 846 600
 e-mail:       nic@ati.tn
 
+nserver:      NS-TN.AFRINIC.NET 196.216.168.25 2001:43f8:120:0:0:0:0:25
 nserver:      NS.ATI.TN 193.95.66.10 2001:4350:1:1:0:0:0:10
 nserver:      NS2.ATI.TN 193.95.67.22
 nserver:      NS2.NIC.FR 192.93.0.4 2001:660:3005:1:0:0:1:2
@@ -40,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://whois.ati.tn
 
 created:      1991-05-17
-changed:      2012-05-09
+changed:      2012-08-02
 source:       IANA
 
