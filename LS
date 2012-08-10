@@ -9,13 +9,14 @@ address:      P.O. Roma 180
 address:      Lesotho
 
 contact:      administrative
-name:         Sello Lebeko
-organisation: National University of Lesotho
-address:      P.O. Roma 180
+name:         ICT Manager
+organisation: Lesotho Communications Authority
+address:      6th Floor, Moposo House, Kingsway Road
+address:      Maseru 100
 address:      Lesotho
-phone:        +266 340 601
-fax-no:       +266 340 000
-e-mail:       lebeko@denver.co.ls
+phone:        +266 22224300
+fax-no:       +266 22310984
+e-mail:       lsadmin@lca.org.ls
 
 contact:      technical
 name:         Systems Manager
@@ -35,6 +36,6 @@ nserver:      RAIN.PSG.COM 147.28.0.34
 status:       ACTIVE
 
 created:      1993-01-13
-changed:      2007-09-24
+changed:      2012-08-09
 source:       IANA
 
