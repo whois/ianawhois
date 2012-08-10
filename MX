@@ -16,8 +16,8 @@ organisation: NIC-Mexico, ITESM - Campus Monterrey
 address:      Av. Eugenio Garza Sada 427 Loc. 4, 5, 6
 address:      Monterrey Nuevo Leon 64840
 address:      Mexico
-phone:        +52 (81) 8387 5346
-fax-no:       +52 (81) 8387 5346 x.111
+phone:        +52 (81) 8864 2600
+fax-no:       +52 (81) 8864 2600
 e-mail:       orobles@nic.mx
 
 contact:      technical
@@ -26,8 +26,8 @@ organisation: NIC-Mexico, ITESM - Campus Monterrey
 address:      Av. Eugenio Garza Sada 427 Loc. 4, 5, 6
 address:      Monterrey Nuevo Leon 64840
 address:      Mexico
-phone:        +52 (81) 8387 5346
-fax-no:       +52 (81) 8387 5346 ext. 111
+phone:        +52 (81) 8864 2600
+fax-no:       +52 (81) 8864 2600
 e-mail:       tech-iana@nic.mx
 
 nserver:      C.MX-NS.MX 192.100.224.1 2001:1258:0:0:0:0:0:1
@@ -40,9 +40,9 @@ nserver:      X.MX-NS.MX 201.131.252.1
 whois:        whois.mx
 
 status:       ACTIVE
-remarks:      Registration information: http://www.nic.mx/
+remarks:      Registration information: http://www.registry.mx/
 
 created:      1989-02-01
-changed:      2009-03-05
+changed:      2012-08-09
 source:       IANA
 
