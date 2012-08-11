@@ -30,7 +30,7 @@ phone:        +595 21 585550
 fax-no:       +595 21 585550 ; +595 21 585554
 e-mail:       dnsadmin@cnc.una.py
 
-nserver:      AUTH00.NS.UU.NET 198.6.1.65
+nserver:      AUTH00.NS.UU.NET 198.6.1.65 2600:803:408:2:0:0:0:10
 nserver:      NS.CNC.UNA.PY 200.10.228.132
 nserver:      NS.DNS.BR 200.160.0.5 2001:12ff:0:a20:0:0:0:5
 nserver:      NS2.SWITCH.CH 130.59.138.49 2001:620:0:1b:5054:ff:fe74:8780
