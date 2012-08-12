@@ -31,7 +31,7 @@ phone:        +975 2 320118
 fax-no:       +975 2 328160
 e-mail:       tshering.norbu@bt.bt
 
-nserver:      AUTH00.NS.UU.NET 198.6.1.65
+nserver:      AUTH00.NS.UU.NET 198.6.1.65 2600:803:408:2:0:0:0:10
 nserver:      AUTH61.NS.UU.NET 198.6.1.182
 nserver:      BT.CCTLD.AUTHDNS.RIPE.NET 193.0.9.65 2001:67c:e0:0:0:0:0:65
 nserver:      NS.ITU.CH 156.106.192.121
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.bt
 
 created:      1997-07-16
-changed:      2011-12-17
+changed:      2012-08-11
 source:       IANA
 
