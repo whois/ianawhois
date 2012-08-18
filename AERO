@@ -39,7 +39,7 @@ nserver:      B2.AERO.AFILIAS-NST.ORG 199.249.123.1 2001:500:4b:0:0:0:0:1
 nserver:      C0.AERO.AFILIAS-NST.INFO 199.254.53.1 2001:500:1f:0:0:0:0:1
 nserver:      D0.AERO.AFILIAS-NST.ORG 199.254.54.1 2001:500:20:0:0:0:0:1
 nserver:      DNS7.DENIC.DE 81.91.161.68
-nserver:      MERAPI.SWITCH.CH 130.59.211.10 2001:620:0:0:0:0:0:5
+nserver:      NS2.SWITCH.CH 130.59.138.49 2001:620:0:1b:5054:ff:fe74:8780
 nserver:      NS5.KNIPP.DE 195.253.6.62 2a01:5b0:0:29:0:0:0:3e
 
 whois:        whois.aero
@@ -48,6 +48,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.information.aero
 
 created:      2001-12-21
-changed:      2009-09-02
+changed:      2012-08-18
 source:       IANA
 
