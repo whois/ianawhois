@@ -16,7 +16,7 @@ address:      Weltpoststrasse 4
 address:      Bern 3015
 address:      Switzerland
 phone:        +41 31 350 34 50
-fax-no:       +41 31 350 33 10
+fax-no:       +41 31 350 31 10
 e-mail:       dotpost@upu.int
 
 contact:      technical
@@ -44,5 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.upu.int
 
 created:      2012-08-07
+changed:      2012-09-01
 source:       IANA
 
