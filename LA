@@ -41,8 +41,8 @@ nserver:      NS5.NIC.LA 2001:ac8:2:1:0:0:0:20 217.151.106.82
 nserver:      NS6.NIC.LA 89.151.83.36
 nserver:      NS7.NIC.LA 193.105.170.169
 nserver:      NS8.NIC.LA 64.131.83.34
-ds-rdata:     30572 7 1 A12A07A7177CB77520C6CAAC9BC464C70E60727C
-ds-rdata:     30572 7 2 3803839384A30E61F5C070693AD25D7F51957A0042502E7AF3EF172DA1815B3F
+ds-rdata:     54086 7 1 C468E20FD427F2EB5E4658B1E1D24840768DC8E1
+ds-rdata:     54086 7 2 28339FCEDF2C52583595DD1460A6B07D9FA5692A5BA8E6E5F34EE30635230541
 
 whois:        whois.nic.la
 
@@ -50,6 +50,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.la
 
 created:      1996-05-14
-changed:      2012-07-12
+changed:      2012-09-06
 source:       IANA
 
