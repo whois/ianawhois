@@ -11,15 +11,15 @@ address:      Lusaka  10101
 address:      Zambia
 
 contact:      administrative
-name:         Raphael Maseko
+name:         Annabel Kangombe
 organisation: ZAMNET Communication Systems Ltd.
 address:      COMESA Centre
 address:      Ben Bella Road
 address:      Lusaka  10101
 address:      Zambia
-phone:        +260 211220738
+phone:        +260 211224149
 fax-no:       +260 211224775
-e-mail:       maseko@zamnet.zm
+e-mail:       kangombe@zamnet.zm
 
 contact:      technical
 name:         Hostmaster
@@ -41,6 +41,6 @@ nserver:      NS2.ZAMNET.ZM 196.46.192.21
 status:       ACTIVE
 
 created:      1994-03-25
-changed:      2012-08-27
+changed:      2012-09-06
 source:       IANA
 
