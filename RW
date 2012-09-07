@@ -4,40 +4,40 @@
 
 domain:       RW
 
-organisation: NIC Congo - Interpoint SARL
-address:      Boulevard de la Revolution
+organisation: Rwanda information communication and technology association (RICTA)
+address:      Boulevard de L’Umuganda
+address:      Telecom House 5th floor
 address:      Kigali
 address:      Rwanda
 
 contact:      administrative
-name:         Albert Nsengiyumva
-organisation: Universite Nationale du Rwanda
-organisation: (cooperation with Interpoint SARL -Switzerland)
-address:      B.P. 117
+name:         CEO
+organisation: Rwanda information communication and technology association (RICTA)
+address:      P.O Box 5121
+address:      Telecom House 5th floor
+address:      Kigali
 address:      Rwanda
-phone:        +250 32 147 / +250 85 426
-fax-no:       +250 32 142
-e-mail:       rw-admin@dnsafrica.net
+phone:        +250783016417
+e-mail:       admin@ricta.org.rw
 
 contact:      technical
-name:         Frederic Gregoire
-organisation: NIC Congo Liaison Office in Switzerland
-organisation: Interpoint SARL
-address:      Case Postale 1336
-address:      Lausanne  1001
-address:      Switzerland
-phone:        +41 44 274 23 80
-fax-no:       +41 44 274 23 80
-e-mail:       frg@dnsafrica.net
+name:         ccTLD Coordinator
+organisation: Rwanda information communication and technology association (RICTA)
+address:      P.O Box 5121
+address:      Telecom House 5th floor
+address:      Kigali
+address:      Rwanda
+phone:        +250788470507
+e-mail:       cctldc@ricta.org.rw
 
-nserver:      DNS.DNSAFRICA.NET 213.193.157.30
-nserver:      DNS.PRINCETON.EDU 128.112.129.15
-nserver:      SUNIC.SUNET.SE 192.36.125.2 2001:6b0:7:0:0:0:0:2
+nserver:      FORK.STH.DNSNODE.NET 2a01:3f0:0:306:0:0:0:53 77.72.229.254
+nserver:      NS-RW.AFRINIC.NET 196.216.168.28 2001:43f8:120:0:0:0:0:28
+nserver:      NS1.RICTA.ORG.RW 41.74.173.250
 
 status:       ACTIVE
-remarks:      Registration information: http://www.nic.rw
+remarks:      Registration information: http://www.ricta.org.rw
 
 created:      1996-10-21
-changed:      2008-09-24
+changed:      2012-09-06
 source:       IANA
 
