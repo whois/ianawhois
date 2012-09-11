@@ -4,7 +4,7 @@
 
 domain:       RW
 
-organisation: Rwanda information communication and technology association (RICTA)
+organisation: Rwanda Information Communication and Technology Association (RICTA)
 address:      Boulevard de L’Umuganda
 address:      Telecom House 5th floor
 address:      Kigali
@@ -12,7 +12,7 @@ address:      Rwanda
 
 contact:      administrative
 name:         CEO
-organisation: Rwanda information communication and technology association (RICTA)
+organisation: Rwanda Information Communication and Technology Association (RICTA)
 address:      P.O Box 5121
 address:      Telecom House 5th floor
 address:      Kigali
@@ -22,7 +22,7 @@ e-mail:       admin@ricta.org.rw
 
 contact:      technical
 name:         ccTLD Coordinator
-organisation: Rwanda information communication and technology association (RICTA)
+organisation: Rwanda Information Communication and Technology Association (RICTA)
 address:      P.O Box 5121
 address:      Telecom House 5th floor
 address:      Kigali
@@ -38,6 +38,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.ricta.org.rw
 
 created:      1996-10-21
-changed:      2012-09-06
+changed:      2012-09-10
 source:       IANA
 
