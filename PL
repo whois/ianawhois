@@ -37,8 +37,8 @@ nserver:      F-DNS.PL 2001:1a68:0:10:0:0:0:189 217.17.46.189
 nserver:      G-DNS.PL 149.156.1.6 2001:6d8:0:1:0:0:a:6
 nserver:      H-DNS.PL 194.0.1.2 2001:678:4:0:0:0:0:2
 nserver:      I-DNS.PL 156.154.100.15
-ds-rdata:     29912 8 1 FB384908CD8663FFF481D5614CFB075C98DB3DFD
-ds-rdata:     29912 8 2 125C0455E2650AFFD6FDB221FFCDEF24BA3EC186CB7F0C59813DDF6B16F3BD01
+ds-rdata:     30146 8 1 1692BACC6F7FDECC4563E929066B4752A756D1D2
+ds-rdata:     30146 8 2 F406FA74E19EB332F36D82890A3A8FD2D6D7F990D045047847EAB9564B4AA19C
 
 whois:        whois.dns.pl
 
@@ -46,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.dns.pl/english/
 
 created:      1990-07-30
-changed:      2012-03-24
+changed:      2012-09-10
 source:       IANA
 
