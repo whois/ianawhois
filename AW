@@ -11,15 +11,15 @@ address:      Oranjestad
 address:      Aruba
 
 contact:      administrative
-name:         Joaquin Kelkboom
+name:         Indra Lampe
 organisation: SETAR
 address:      P.O. Box 13
 address:      Seroe Blanco
 address:      Oranjestad
 address:      Aruba
-phone:        +297 582 5264
+phone:        +297 5251742
 fax-no:       +297 582 5505
-e-mail:       jjmkelkboom@setarnet.aw
+e-mail:       indra.lampe@setarnet.aw
 
 contact:      technical
 name:         SetarNet Operations
@@ -39,6 +39,6 @@ nserver:      NS3.DOMAIN-REGISTRY.NL 193.176.144.6 2a00:d78:0:102:193:176:144:6
 status:       ACTIVE
 
 created:      1996-02-20
-changed:      2012-03-24
+changed:      2012-09-12
 source:       IANA
 
