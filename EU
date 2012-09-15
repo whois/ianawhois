@@ -32,15 +32,15 @@ phone:        +32 2 401 27 50
 fax-no:       +32 2 401 27 51
 e-mail:       domain-tech@eurid.eu
 
-nserver:      A.NIC.EU 91.200.16.100
 nserver:      CZ.DNS.EU 93.190.128.138
+nserver:      IT.DNS.EU 217.29.76.13
 nserver:      L.NIC.EU 195.66.241.178
 nserver:      M.NIC.EU 217.29.76.13
 nserver:      NL.DNS.EU 91.200.16.100
 nserver:      SI.DNS.EU 193.2.221.60 2001:1470:8000:100:0:0:0:1
+nserver:      UK.DNS.EU 195.66.241.178
 nserver:      X.DNS.EU 194.0.1.19 2001:678:4:0:0:0:0:13
 nserver:      Y.DNS.EU 194.146.106.90 2001:67c:1010:23:0:0:0:53
-nserver:      Y.NIC.EU 194.146.106.90 2001:67c:1010:23:0:0:0:53
 ds-rdata:     61179 7 1 87E2B3544884B45F36A0DA72DADCB0239C4D73D4
 ds-rdata:     61179 7 2 3B526BCC354AE085AD9984C9BE73D271411023EFF421EF184BCE41ACE3DE9F8B
 
@@ -50,6 +50,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.eurid.eu
 
 created:      2005-04-28
-changed:      2012-08-01
+changed:      2012-09-14
 source:       IANA
 
