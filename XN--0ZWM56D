@@ -35,7 +35,7 @@ e-mail:       iana@iana.org
 
 nserver:      A.IANA-SERVERS.NET 199.43.132.53 2001:500:8c:0:0:0:0:53
 nserver:      B.IANA-SERVERS.NET 199.43.133.53 2001:500:8d:0:0:0:0:53
-nserver:      C.IANA-SERVERS.NET 139.91.1.10 2001:648:2c30:0:0:0:1:10
+nserver:      C.IANA-SERVERS.NET 199.43.134.53 2001:500:8e:0:0:0:0:53
 ds-rdata:     56231 8 1 A4F7756C0B5E82D9E31E8649F097B81F4E28F683
 ds-rdata:     56231 8 2 D569A173FA0099A428A4B5E0EAF6ED445309C9D76F2D8FB4CE83AEF5AE79D593
 
@@ -44,6 +44,6 @@ remarks:      Registration information:
 remarks:      http://www.iana.org/domains/idn-test/
 
 created:      2007-10-19
-changed:      2011-06-13
+changed:      2012-09-17
 source:       IANA
 
