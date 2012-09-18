@@ -29,8 +29,11 @@ phone:        +298 322 400
 fax-no:       +298 322 401
 e-mail:       nic@nic.fo
 
-nserver:      COPENHAGEN.NIC.FO 193.163.102.12
+nserver:      ARNHEM.NIC.FO 193.176.144.6 2a00:d78:0:102:193:176:144:6
+nserver:      COPENHAGEN.NIC.FO 193.163.102.12 2a01:630:0:40:0:0:0:12
 nserver:      FRANKFURT.NIC.FO 81.91.161.88
+nserver:      PCH.NIC.FO 2001:500:14:6065:ad:0:0:1 204.61.216.65
+ds-rdata:     41527 8 2 6E7925D8D6F243EF35381231B955528F25087DBF3E61CC5FCBCFE72948D0470B
 
 whois:        whois.nic.fo
 
@@ -38,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.fo/
 
 created:      1993-05-14
-changed:      2010-07-28
+changed:      2012-09-17
 source:       IANA
 
