@@ -29,13 +29,14 @@ phone:        +235 270 37 39
 fax-no:       +235 252 14 54
 e-mail:       mahamat.charfadine@groupe-soteltchad.td
 
-nserver:      BOW.INTNET.TD 193.251.147.253
-nserver:      BOW.RAIN.FR 194.51.3.49
+nserver:      NS-TD.AFRINIC.NET 196.216.168.31 2001:43f8:120:0:0:0:0:31
+nserver:      NS-TD.NIC.FR 192.134.0.49 2001:660:3006:1:0:0:1:1
+nserver:      NS1.NIC.TD 41.74.44.43
 
 status:       ACTIVE
 remarks:      Registration information: http://www.sotel.td
 
 created:      1997-11-03
-changed:      2010-01-21
+changed:      2012-09-27
 source:       IANA
 
