@@ -32,14 +32,9 @@ phone:        +504 2235 4141/42/43/44/45
 fax-no:       +504 2235 5721
 e-mail:       janalvarado@rds.org.hn
 
-nserver:      A0.CCTLD.AFILIAS-NST.INFO 199.254.59.1 2001:500:25:0:0:0:0:1
-nserver:      A2.CCTLD.AFILIAS-NST.INFO 199.249.116.1 2001:500:44:0:0:0:0:1
-nserver:      B0.CCTLD.AFILIAS-NST.ORG 199.254.60.1 2001:500:26:0:0:0:0:1
-nserver:      B2.CCTLD.AFILIAS-NST.ORG 199.249.124.1 2001:500:4c:0:0:0:0:1
-nserver:      C0.CCTLD.AFILIAS-NST.INFO 199.254.61.1 2001:500:27:0:0:0:0:1
-nserver:      D0.CCTLD.AFILIAS-NST.ORG 199.254.62.1 2001:500:28:0:0:0:0:1
-nserver:      TLD1.RDS.ORG.HN 200.107.121.97
-nserver:      TLD2.RDS.ORG.HN 200.107.121.98
+nserver:      HN-NS.ANYCAST.PCH.NET 2001:500:14:6064:ad:0:0:1 204.61.216.64
+nserver:      HN.CCTLD.COCCA.ORG.NZ 203.119.84.237
+nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e:0:0:0:0:1
 
 whois:        whois2.afilias-grs.net
 
@@ -47,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.hn
 
 created:      1993-04-16
-changed:      2012-09-13
+changed:      2012-09-27
 source:       IANA
 
