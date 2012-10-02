@@ -11,14 +11,14 @@ address:      Tunis  1002
 address:      Tunisia
 
 contact:      administrative
-name:         Mr. Kamel Saadaoui - CEO
+name:         Mrs. Wafa Dahmani
 organisation: Agence Tunisienne d'Internet
 address:      13, rue Jugurtha Mutuelle-ville
 address:      Tunis  1002
 address:      Tunisia
 phone:        +216 71 846 100
 fax-no:       +216 71 846 600
-e-mail:       pdg@ati.tn
+e-mail:       nicadmin@ati.tn
 
 contact:      technical
 name:         Network Information Center - NIC
@@ -38,5 +38,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.ati.tn
 
 created:      2010-08-19
+changed:      2012-10-01
 source:       IANA
 
