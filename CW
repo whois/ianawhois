@@ -39,9 +39,9 @@ nserver:      NS01-SERVER.CURINFO.AN 65.208.122.36
 nserver:      NS3.CURA.NET 200.26.226.6
 
 status:       ACTIVE
-remarks:      Registration information: http://www.una.an/cw_domreg
+remarks:      Registration information: http://www.una.cw/cw_registry
 
 created:      2010-12-20
-changed:      2012-01-14
+changed:      2012-10-09
 source:       IANA
 
