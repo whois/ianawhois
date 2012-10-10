@@ -34,12 +34,12 @@ e-mail:       tld-tech@rnids.rs
 
 nserver:      A.NIC.RS 91.199.17.59
 nserver:      B.NIC.RS 195.178.32.2
-nserver:      C.NIC.RS 212.124.160.1
 nserver:      D.NIC.RS 193.0.9.107 2001:67c:e0:0:0:0:0:107
 nserver:      F.NIC.RS 2001:500:14:6032:ad:0:0:1 204.61.216.32
 nserver:      G.NIC.RS 147.91.8.6
 nserver:      H.NIC.RS 91.199.17.60
 nserver:      K.NIC.RS 192.5.4.1 2001:500:2e:0:0:0:0:1
+nserver:      L.NIC.RS 194.146.106.114 2001:67c:1010:29:0:0:0:53
 
 whois:        whois.rnids.rs
 
@@ -47,6 +47,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.rnids.rs
 
 created:      2007-09-24
-changed:      2012-01-25
+changed:      2012-10-09
 source:       IANA
 
