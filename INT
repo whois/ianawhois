@@ -5,32 +5,32 @@
 domain:       INT
 
 organisation: Internet Assigned Numbers Authority
-address:      4676 Admiralty Way
-address:      Suite 330
-address:      Marina del Rey California 90292
+address:      12025 Waterfront Drive
+address:      Suite 300
+address:      Los Angeles CA 90094
 address:      United States
 
 contact:      administrative
 name:         Internet Assigned Numbers Authority
-organisation: Internet Assigned Numbers Authority
-address:      4676 Admiralty Way
-address:      Suite 330
-address:      Marina del Rey California 90292
+organisation: ICANN
+address:      12025 Waterfront Drive
+address:      Suite 300
+address:      Los Angeles CA 90094
 address:      United States
-phone:        +1 310 823-9358
-fax-no:       +1 310 823-8649
-e-mail:       iana@iana.org
+phone:        +1 310 301 5800
+fax-no:       +1 310 823 8649
+e-mail:       tld-contact@iana.org
 
 contact:      technical
 name:         Internet Assigned Numbers Authority
-organisation: Internet Assigned Numbers Authority
-address:      4676 Admiralty Way
-address:      Suite 330
-address:      Marina del Rey California 90292
+organisation: ICANN
+address:      12025 Waterfront Drive
+address:      Suite 300
+address:      Los Angeles CA 90094
 address:      United States
-phone:        +1 310 823-9358
-fax-no:       +1 310 823-8649
-e-mail:       iana@iana.org
+phone:        +1 310 301 5800
+fax-no:       +1 310 823 8649
+e-mail:       tld-contact@iana.org
 
 nserver:      NS.ICANN.ORG 199.4.138.53 2001:500:89:0:0:0:0:53
 nserver:      NS.UU.NET 137.39.1.3
@@ -45,6 +45,6 @@ remarks:      Registration information:
 remarks:      http://www.iana.org/int-dom/int.htm
 
 created:      1988-11-03
-changed:      2011-01-28
+changed:      2012-10-10
 source:       IANA
 
