@@ -12,26 +12,26 @@ address:      Vientiane  Lao PDR
 address:      Lao People's Democratic Republic
 
 contact:      administrative
-name:         Mr. Noulinh SINBANDHIT
-organisation: Lao National Internet Committee (LANIC)
-address:      Prime Minister's Office
-address:      P.O. Box 2279
-address:      Vientiane  Lao PDR
+name:         Mr. Thansamay Kommasith
+organisation: Lao National Internet Committee
+address:      Lane Xang Avenue, Chanthaboury
+address:      Vientiane Capital
+address:      01000
 address:      Lao People's Democratic Republic
-phone:        +856 21 213470
-fax-no:       +856 21 213472
-e-mail:       admincontact@lanic.net
+phone:        +856 21 254150
+fax-no:       +856 21 254150
+e-mail:       admincontact@lanic.la
 
 contact:      technical
-name:         Mr. Maydom CHANTHANASINH
-organisation: Lao National Internet Committee (LANIC)
-address:      Prime Minister's Office
-address:      P.O. Box 2279
-address:      Vientiane  Lao PDR
+name:         Mr. Khamkit Saysongkham
+organisation: Lao National Internet Committee
+address:      Lane Xang Avenue, Chanthaboury
+address:      Vientiane Capital
+address:      01000
 address:      Lao People's Democratic Republic
-phone:        +856 21 213470
-fax-no:       +856 21 213472
-e-mail:       technicalcontact@lanic.net
+phone:        +856 21 254150
+fax-no:       +856 21 254150
+e-mail:       technicalcontact@lanic.la
 
 nserver:      NS1.NIC.LA 194.0.2.2 2001:678:5:0:0:0:0:2
 nserver:      NS2.NIC.LA 72.3.240.16
@@ -50,6 +50,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.la
 
 created:      1996-05-14
-changed:      2012-09-06
+changed:      2012-10-19
 source:       IANA
 
