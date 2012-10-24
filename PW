@@ -35,9 +35,9 @@ nserver:      NS3.REGISTRY.PW 67.15.238.65 67.15.47.36
 nserver:      NS4.REGISTRY.PW 75.125.56.249 75.125.56.33
 
 status:       ACTIVE
-remarks:      Registration information: http://www.pwregistry.pw
+remarks:      Registration information: http://www.registry.pw
 
 created:      1997-06-12
-changed:      2009-12-18
+changed:      2012-10-23
 source:       IANA
 
