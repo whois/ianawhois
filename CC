@@ -38,6 +38,8 @@ nserver:      F5.NSTLD.COM 192.35.51.34
 nserver:      G5.NSTLD.COM 192.42.93.34
 nserver:      H5.NSTLD.COM 192.54.112.34
 nserver:      L5.NSTLD.COM 192.41.162.34
+ds-rdata:     519 8 1 7285EF05E1B4E679D4F072EEA9B00953E01F3AE2
+ds-rdata:     519 8 2 E1EC6495ABD34562E6F433DEE201E6C6A52CB10AF69C04D675DA692D2D566897
 
 whois:        ccwhois.verisign-grs.com
 
@@ -45,6 +47,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.cc/
 
 created:      1997-10-13
-changed:      2012-02-08
+changed:      2012-10-24
 source:       IANA
 
