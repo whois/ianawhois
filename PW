@@ -29,15 +29,21 @@ phone:        +1 781 942 9975
 fax-no:       +1 781 823 8911
 e-mail:       pwtech@encirca.com
 
+nserver:      NS1.NIC.PW 89.151.83.36
 nserver:      NS1.REGISTRY.PW 67.15.184.175 67.15.184.193
+nserver:      NS2.NIC.PW 72.3.240.16
 nserver:      NS2.REGISTRY.PW 67.15.184.183 67.15.184.191
+nserver:      NS3.NIC.PW 62.197.40.234
 nserver:      NS3.REGISTRY.PW 67.15.238.65 67.15.47.36
+nserver:      NS4.NIC.PW 89.151.83.34
 nserver:      NS4.REGISTRY.PW 75.125.56.249 75.125.56.33
+nserver:      NS5.NIC.PW 2001:ac8:2:1:0:0:0:20 217.151.106.82
+nserver:      NS6.NIC.PW 194.0.2.2 2001:678:5:0:0:0:0:2
 
 status:       ACTIVE
 remarks:      Registration information: http://www.registry.pw
 
 created:      1997-06-12
-changed:      2012-10-23
+changed:      2012-10-27
 source:       IANA
 
