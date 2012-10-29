@@ -7,7 +7,7 @@ domain:       TR
 organisation: Middle East Technical University
 organisation: Department of Computer Engineering
 address:      Inonu Bulvari
-address:      Ankra  06531
+address:      Ankara  06531
 address:      Turkey
 
 contact:      administrative
@@ -15,7 +15,7 @@ name:         Attila Ozgit
 organisation: Middle East Technical University
 organisation: Department of Computer Engineering
 address:      Inonu Bulvari
-address:      Ankra  06531
+address:      Ankara  06531
 address:      Turkey
 phone:        +90 312 210 5555
 fax-no:       +90 312 210 5544
@@ -45,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.tr
 
 created:      1990-09-17
-changed:      2012-09-22
+changed:      2012-10-29
 source:       IANA
 
