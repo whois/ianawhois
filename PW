@@ -40,6 +40,8 @@ nserver:      NS4.REGISTRY.PW 75.125.56.249 75.125.56.33
 nserver:      NS5.NIC.PW 2001:ac8:2:1:0:0:0:20 217.151.106.82
 nserver:      NS6.NIC.PW 194.0.2.2 2001:678:5:0:0:0:0:2
 
+whois:        whois.nic.pw
+
 status:       ACTIVE
 remarks:      Registration information: http://www.registry.pw
 
