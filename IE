@@ -12,28 +12,26 @@ address:      Dublin City,  Dublin 4
 address:      Ireland
 
 contact:      administrative
-name:         Hostmaster Team at University College Dublin
-organisation: University College Dublin
-organisation: Computing Services
-organisation: Computer Centre
-address:      Belfield
-address:      Dublin City,  Dublin 4
+name:         Chief Executive
+organisation: IE Domain Registry Limited
+address:      2 Harbour Square
+address:      Dún Laoghaire
+address:      Co. Dublin
 address:      Ireland
-phone:        +353 1 706 2375
-fax-no:       +353 1 283 7077
-e-mail:       hostmaster@ucd.ie
+phone:        +353 1 236 5412
+fax-no:       +353 1 230 1273
+e-mail:       tld-admin@iedr.ie
 
 contact:      technical
-name:         Hostmaster Team at University College Dublin
-organisation: University College Dublin
-organisation: Computing Services
-organisation: Computer Centre
-address:      Belfield
-address:      Dublin City,  Dublin 4
+name:         Technical Services Manager
+organisation: IE Domain Registry Limited
+address:      2 Harbour Square
+address:      Dún Laoghaire
+address:      Co. Dublin
 address:      Ireland
-phone:        +353 1 706 2375
-fax-no:       +353 1 283 7077
-e-mail:       hostmaster@ucd.ie
+phone:        +353 1 236 5421
+fax-no:       +353 1 230 1273
+e-mail:       tld-tech@iedr.ie
 
 nserver:      B.IEDR.IE 2a01:4b0:0:0:0:0:0:2 77.72.72.34
 nserver:      BANBA.DOMAINREGISTRY.IE 193.1.142.2
@@ -50,6 +48,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.domainregistry.ie
 
 created:      1988-01-27
-changed:      2012-05-16
+changed:      2012-10-30
 source:       IANA
 
