@@ -5,17 +5,19 @@
 domain:       MN
 
 organisation: Datacom Co., Ltd.
-address:      IT Park Building, Baga Toiruu-49
-address:      UlaanBaatar-46
-address:      210646
+address:      San Business Center Building,
+address:      Sukhbaatar district, 8th khoroo,
+address:      Amar's street, 14200,
+address:      Ulaanbaatar, MONGOLIA
 address:      Mongolia
 
 contact:      administrative
 name:         Enkhbat Dangaasuren
 organisation: Datacom Co., Ltd.
-address:      IT Park Building, Baga Toiruu-49
-address:      UlaanBaatar-46
-address:      210646
+address:      San Business Center Bldg,
+address:      Sukhbaatar district, 8th khoroo,
+address:      Amar's street, 14200,
+address:      Ulaanbaatar, MONGOLIA
 address:      Mongolia
 phone:        +976 11 318 048
 fax-no:       +976 11 320 210
@@ -24,11 +26,12 @@ e-mail:       enkhbat@datacom.mn
 contact:      technical
 name:         Enkhbold Gombo
 organisation: Datacom Co. Ltd.
-address:      IT Park Building, Baga Toiruu-49
-address:      UlaanBaatar-46
-address:      210646
+address:      San Business Center Building,
+address:      Sukhbaatar district, 8th khoroo,
+address:      Amar's street, 14200,
+address:      Ulaanbaatar, MONGOLIA
 address:      Mongolia
-phone:        +976 11 329 688
+phone:        +976 11 318 048
 fax-no:       +976 11 320 210
 e-mail:       hostmaster@datacom.mn
 
@@ -51,6 +54,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.mn
 
 created:      1995-03-02
-changed:      2012-01-05
+changed:      2012-11-01
 source:       IANA
 
