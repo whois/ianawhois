@@ -4,27 +4,32 @@
 
 domain:       VA
 
-organisation: Holy See Secretariat of State
-organisation: Internet Office of the Holy See
-address:      Cortile del Triangolo
-address:      Vatican City Vatican City State VA-00120
+organisation: Holy See Secretariat of State Department of Telecommunications
+address:      Palazzo Belvedere
+address:      Vatican City
+address:      Vatican City State V-00120
+address:      Holy See (vatican City State)
 
 contact:      administrative
-name:         Stefano Pasquini
-organisation: Internet Office of the Holy See
-address:      Cortile del Triangolo
-address:      Vatican City Vatican City State VA 00120
-phone:        +39 (06) 69893461
-fax-no:       +39 (06) 69882067
-e-mail:       pasquini@vatican.va
+name:         P. Fernando Vergez
+organisation: Department of Telecommunications
+address:      Palazzo del Belvedere
+address:      Vatican City
+address:      Vatican City State V-00120
+address:      Holy See (vatican City State)
+phone:        +39 (06) 69871240
+fax-no:       +39 (06) 69882934
+e-mail:       direttore.tlc@scv.va
 
 contact:      technical
 name:         Stefano Pasquini
-organisation: Internet Office of the Holy See
+organisation: Department of Telecommunications - Vatican Internet Service
 address:      Cortile del Triangolo
-address:      Vatican City Vatican City State VA 00120
-phone:        +39 (06) 69893461
-fax-no:       +39 (06) 69882067
+address:      Vatican City
+address:      Vatican City State V-00120
+address:      Holy See (vatican City State)
+phone:        +39 (06) 69890504
+fax-no:       +39 (06) 69882934
 e-mail:       pasquini@vatican.va
 
 nserver:      DNS.NIC.IT 192.12.192.5 2a00:d40:1:1:0:0:0:5
@@ -37,6 +42,6 @@ nserver:      VA.CCTLD.AUTHDNS.RIPE.NET 193.0.9.123 2001:67c:e0:0:0:0:0:123
 status:       ACTIVE
 
 created:      1995-09-11
-changed:      2011-12-14
+changed:      2012-11-05
 source:       IANA
 
