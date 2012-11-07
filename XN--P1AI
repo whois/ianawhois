@@ -35,6 +35,7 @@ nserver:      B.DNS.RIPN.NET 194.85.252.62 2001:678:16:0:194:85:252:62
 nserver:      D.DNS.RIPN.NET 194.190.124.17 2001:678:18:0:194:190:124:17
 nserver:      E.DNS.RIPN.NET 193.232.142.17 2001:678:15:0:193:232:142:17
 nserver:      F.DNS.RIPN.NET 193.232.156.17 2001:678:14:0:193:232:156:17
+ds-rdata:     28781 8 2 BF0A4789A1EF36FDD86256835F33862F86213472AD3E2C2080703FA998718F3A
 
 whois:        whois.tcinet.ru
 
@@ -42,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://cctld.ru/
 
 created:      2010-05-12
-changed:      2012-05-18
+changed:      2012-11-07
 source:       IANA
 
