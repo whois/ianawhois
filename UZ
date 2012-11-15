@@ -41,6 +41,7 @@ nserver:      NS3.UZ 195.158.1.22
 nserver:      NS4.UZ 87.139.105.60
 nserver:      NS5.UZ 217.12.81.129
 nserver:      NS6.UZ 83.69.129.4
+nserver:      NS7.UZ 54.243.198.194
 
 whois:        whois.cctld.uz
 
@@ -48,6 +49,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.cctld.uz/
 
 created:      1995-04-29
-changed:      2011-10-18
+changed:      2012-11-15
 source:       IANA
 
