@@ -35,12 +35,13 @@ e-mail:       mustafa@tld.sy
 
 nserver:      NS1.TLD.SY 82.137.200.85
 nserver:      NS2.TLD.SY 82.137.192.145
+nserver:      PCH.ANYCAST.TLD.SY 2001:500:14:6071:ad:0:0:1 204.61.216.71
 nserver:      SY.CCTLD.AUTHDNS.RIPE.NET 193.0.9.113 2001:67c:e0:0:0:0:0:113
 
 status:       ACTIVE
 remarks:      Registration information: https://reg.tld.sy
 
 created:      2011-02-05
-changed:      2011-11-18
+changed:      2012-11-15
 source:       IANA
 
