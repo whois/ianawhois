@@ -28,8 +28,8 @@ phone:        +46-8-55577100
 fax-no:       +46-8-55577199
 e-mail:       st-registry@bahnhof.net
 
-nserver:      AUTH61.NS.UU.NET 198.6.1.182
 nserver:      DNS-AU.ST 203.19.59.140
+nserver:      DNS-US.ST 198.105.223.67
 nserver:      NS1.BAHNHOF.NET 195.178.160.2
 nserver:      NS2.BAHNHOF.NET 212.85.64.4
 
@@ -39,6 +39,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.st
 
 created:      1997-11-07
-changed:      2009-09-25
+changed:      2012-11-16
 source:       IANA
 
