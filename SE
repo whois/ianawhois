@@ -34,7 +34,7 @@ nserver:      B.NS.SE 192.36.133.107
 nserver:      C.NS.SE 192.36.135.107
 nserver:      D.NS.SE 81.228.8.16
 nserver:      E.NS.SE 81.228.10.57
-nserver:      F.NS.SE 192.71.53.53
+nserver:      F.NS.SE 192.71.53.53 2a01:3f0:0:305:0:0:0:53
 nserver:      G.NS.SE 130.239.5.114 2001:6b0:e:3:0:0:0:1
 nserver:      I.NS.SE 194.146.106.22 2001:67c:1010:5:0:0:0:53
 nserver:      J.NS.SE 199.254.63.1 2001:500:2c:0:0:0:0:1
@@ -46,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.iis.se
 
 created:      1986-09-04
-changed:      2012-03-28
+changed:      2012-11-20
 source:       IANA
 
