@@ -15,9 +15,9 @@ organisation: University of the Netherlands Antilles
 address:      Jan Noorduynweg 111
 address:      Willemstad
 address:      Curaçao
-phone:        +59998442248
+phone:        +59998442251
 fax-no:       +59998442255
-e-mail:       l.pengel@una.an
+e-mail:       registry@una.net
 
 contact:      technical
 name:         Manager ICT and Facility Services
@@ -42,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.una.cw/cw_registry
 
 created:      2010-12-20
-changed:      2012-10-09
+changed:      2012-11-27
 source:       IANA
 
