@@ -17,17 +17,18 @@ address:      Richmond House
 address:      P.O. Box 127
 address:      Leeward Highway Providenciales
 address:      Turks And Caicos Islands
-phone:        +44 1223 353203
-e-mail:       tldwhois@adamsnames.tc
+phone:        +44203 397 2738
+e-mail:       iana@adamsnames.tc
 
 contact:      technical
 name:         Registrar
 organisation: AdamsNames Ltd
-address:      c/o 3 Adams Road
-address:      Cambridge  CB3 9AD
+address:      22-24 Ely Place
+address:      London EC1N 6TE
 address:      United Kingdom
-phone:        +44 1223 353203
-e-mail:       tldwhois@adamsnames.tc
+phone:        +44203 397 2738
+fax-no:       +44203 397 3262
+e-mail:       iana@adamsnames.tc
 
 nserver:      CHC1.ADAMSNAMES.COM 195.153.6.27
 nserver:      NS1.ROOT-SERVERS.TC 194.0.11.101 2001:678:e:101:0:0:0:53
@@ -39,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.adamsnames.tc/
 
 created:      1997-01-27
-changed:      2012-08-22
+changed:      2012-11-30
 source:       IANA
 
