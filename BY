@@ -34,6 +34,7 @@ nserver:      DNS2.TLD.TUTBY.COM 93.125.30.44
 nserver:      DNS3.TLD.TUTBY.COM 195.137.160.10 2a01:d8:2:1:0:0:0:2
 nserver:      DNS4.TLD.TUTBY.COM 85.17.148.67
 nserver:      DNS5.TLD.TUTBY.COM 82.208.35.204
+nserver:      DNS6.TLD.TUTBY.COM 198.7.60.60
 
 whois:        whois.cctld.by
 
@@ -41,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://cctld.by
 
 created:      1994-05-10
-changed:      2012-11-26
+changed:      2012-12-05
 source:       IANA
 
