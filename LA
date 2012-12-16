@@ -4,11 +4,10 @@
 
 domain:       LA
 
-organisation: Lao National Internet Committee (LANIC)
-organisation: Science Technology and Environment Agency
-address:      Prime Minister's Office
-address:      P. O. Box 2279
-address:      Vientiane  Lao PDR
+organisation: Lao National Internet Committee (LANIC), Ministry of Posts and Telecommunications
+address:      Lane Xang Avenue, Chanthaboury
+address:      Vientiane Capital, Lao People's Democratic Republic (Lao PDR)
+address:      01000
 address:      Lao People's Democratic Republic
 
 contact:      administrative
@@ -50,6 +49,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.la
 
 created:      1996-05-14
-changed:      2012-10-19
+changed:      2012-12-15
 source:       IANA
 
