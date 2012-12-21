@@ -11,7 +11,7 @@ address:      Damascus
 address:      Syrian Arab Republic
 
 contact:      administrative
-name:         Weam Salem, Engineer
+name:         NANS DNS Department
 organisation: National Agency for Network Services (NANS)
 address:      Sahara-Sabboura crossroads
 address:      P.O. Box 47/Kudsaya
@@ -19,10 +19,10 @@ address:      Damascus
 address:      Syrian Arab Republic
 phone:        +963 11 3937047
 fax-no:       +963 11 3937079
-e-mail:       w.salem@tld.sy
+e-mail:       dns@tld.sy
 
 contact:      technical
-name:         Mustafa Alrifaee, Engineer
+name:         NANS DNS Technical Department
 organisation: National Agency for Network Services (NANS)
 address:      Sahara-Sabboura crossroads
 address:      P.O. Box 47/Kudsaya
@@ -30,17 +30,19 @@ address:      Damascus
 address:      Syrian Arab Republic
 phone:        +963 11 3937047
 fax-no:       +963 11 3937079
-e-mail:       mustafa@tld.sy
+e-mail:       dns@tld.sy
 
 nserver:      NS1.TLD.SY 82.137.200.85
 nserver:      NS2.TLD.SY 82.137.192.145
 nserver:      PCH.ANYCAST.TLD.SY 2001:500:14:6071:ad:0:0:1 204.61.216.71
 nserver:      SY.CCTLD.AUTHDNS.RIPE.NET 193.0.9.113 2001:67c:e0:0:0:0:0:113
 
+whois:        whois.tld.sy
+
 status:       ACTIVE
-remarks:      Registration information: https://reg.tld.sy
+remarks:      Registration information: http://tld.sy
 
 created:      1996-02-20
-changed:      2012-10-26
+changed:      2012-12-20
 source:       IANA
 
