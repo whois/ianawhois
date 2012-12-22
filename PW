@@ -37,6 +37,8 @@ nserver:      NS5.NIC.PW 2001:ac8:2:1:0:0:0:20 217.151.106.82
 nserver:      NS6.NIC.PW 194.0.2.2 2001:678:5:0:0:0:0:2
 nserver:      NS7.NIC.PW 193.105.170.169
 nserver:      NS8.NIC.PW 64.131.83.34
+ds-rdata:     62151 7 1 70F523DA371BFA679ECCAD9330E0E60B71E03A49
+ds-rdata:     62151 7 2 2714E3EF5CEB808301C5AE1D8F6E33B027CF33CB796B53ABAD0A92E5F4D5403C
 
 whois:        whois.nic.pw
 
@@ -44,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.registry.pw
 
 created:      1997-06-12
-changed:      2012-11-22
+changed:      2012-12-21
 source:       IANA
 
