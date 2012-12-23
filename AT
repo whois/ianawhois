@@ -4,7 +4,7 @@
 
 domain:       AT
 
-organisation: NIC.AT Internet Verwaltungs und Betriebsgesellschaft m.b.H
+organisation: nic.at GmbH
 address:      Jakob-Haringer-Strasse 8
 address:      Salzburg  A-5020
 address:      Austria
@@ -47,6 +47,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.at/
 
 created:      1988-01-20
-changed:      2012-11-30
+changed:      2012-12-22
 source:       IANA
 
