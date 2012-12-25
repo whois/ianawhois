@@ -30,8 +30,8 @@ fax-no:       +46 8 452 35 02
 e-mail:       hostmaster@iis.se
 
 nserver:      A.NS.SE 192.36.144.107 2a01:3f0:0:0301:0:0:0:53
-nserver:      B.NS.SE 192.36.133.107
-nserver:      C.NS.SE 192.36.135.107
+nserver:      B.NS.SE 192.36.133.107 2001:67c:254c:301:0:0:0:53
+nserver:      C.NS.SE 192.36.135.107 2001:67c:2554:301:0:0:0:53
 nserver:      D.NS.SE 81.228.8.16
 nserver:      E.NS.SE 81.228.10.57
 nserver:      F.NS.SE 192.71.53.53 2a01:3f0:0:305:0:0:0:53
@@ -46,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.iis.se
 
 created:      1986-09-04
-changed:      2012-11-20
+changed:      2012-12-25
 source:       IANA
 
