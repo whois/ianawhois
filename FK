@@ -10,14 +10,14 @@ address:      Stanley  FIQQ 1ZZ
 address:      Falkland Islands (malvinas)
 
 contact:      administrative
-name:         Tim Cotter
-organisation: Falkland Islands Development Corporation
-address:      West Hillside
+name:         Andrew Newman
+organisation: Falkland Islands Government
+address:      PO Box 705
 address:      Stanley  FIQQ 1ZZ
 address:      Falkland Islands (malvinas)
-phone:        +500 27211
-fax-no:       +500 27210
-e-mail:       tcotter@fidc.co.fk
+phone:        +500 27305
+fax-no:       +500 27306
+e-mail:       anewman.civilaviation@sec.gov.fk
 
 contact:      technical
 name:         Mark Street
@@ -38,6 +38,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.fidc.co.fk/
 
 created:      1997-03-26
-changed:      2011-09-24
+changed:      2012-12-27
 source:       IANA
 
