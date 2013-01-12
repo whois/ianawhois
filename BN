@@ -4,29 +4,29 @@
 
 domain:       BN
 
-organisation: Jabatan Telekom Brunei
+organisation: Telekom Brunei Berhad
 address:      Old Airport Road
-address:      Bandar Seri Begawan  BB3510
+address:      Berakas Bandar Seri Begawan BB3510
 address:      Brunei Darussalam
 
 contact:      administrative
-name:         Noor Azian Haji Abu Bakar
-organisation: Jabatan Telekom Brunei
+name:         Pm Sazali Ph Razali
+organisation: Telekom Brunei Berhad
 address:      Old Airport Road
-address:      Berakas  BB3510
+address:      Berakas Bandar Seri Begawan BB3510
 address:      Brunei Darussalam
-phone:        +673 2 322438
-fax-no:       +673 2 383888
+phone:        +673 2 222640
+fax-no:       +673 2 221330
 e-mail:       dns@brunet.bn
 
 contact:      technical
-name:         Mohammad Zainulrijal bin Haji Adanan
-organisation: Jabatan Telekom Brunei
-address:      Telephone House
-address:      Sumbiling Bandar Seri Begawan
+name:         Jeffrey Tan
+organisation: Telekom Brunei Berhad
+address:      Old Airport road
+address:      Berakas Bandar Seri Begawan BB3510
 address:      Brunei Darussalam
-phone:        +673 2 321321
-fax-no:       +673 2 221838
+phone:        +673 2 222640
+fax-no:       +673 2 221330
 e-mail:       dns@brunet.bn
 
 nserver:      DNS1-TL.BRUNET.BN 202.160.9.9
@@ -35,10 +35,12 @@ nserver:      JTB.BRUNET.BN 202.160.8.2
 nserver:      NS-BN.RIPE.NET 193.0.12.33
 nserver:      NS2.BRUNET.BN 202.160.8.20
 
+whois:        whois.bn
+
 status:       ACTIVE
-remarks:      Registration information: http://www.brunet.bn
+remarks:      Registration information: http://www.telbru.com.bn
 
 created:      1994-06-03
-changed:      2006-01-04
+changed:      2013-01-11
 source:       IANA
 
