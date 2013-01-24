@@ -10,24 +10,24 @@ address:      Manama
 address:      Bahrain
 
 contact:      administrative
-name:         Acting Manager, Information and Communication Services 
+name:         Manager, Information and Communication Technology
 organisation: Telecommunications Regulatory Authority (TRA)
 address:      PO Box 10353
 address:      Manama
 address:      Bahrain
 phone:        +973 17520000
 fax-no:       +973 17532125
-e-mail:       mabdulla@tra.org.bh
+e-mail:       malnoaimi@tra.org.bh
 
 contact:      technical
-name:         Acting Manager, Information and Communication Services 
+name:         Manager, Information and Communication Technology
 organisation: Telecommunications Regulatory Authority (TRA)
 address:      PO Box 10353
 address:      Manama
 address:      Bahrain
 phone:        +973 17520000
 fax-no:       +973 17532125
-e-mail:       mabdulla@tra.org.bh
+e-mail:       malnoaimi@tra.org.bh
 
 nserver:      NS.BATELCO.COM.BH 193.188.97.197
 nserver:      NS2.BATELCO.COM.BH 193.188.97.212
@@ -37,6 +37,6 @@ nserver:      NS4.BATELCO.COM.BH 193.188.97.209
 status:       ACTIVE
 
 created:      1994-02-01
-changed:      2012-08-01
+changed:      2013-01-24
 source:       IANA
 
