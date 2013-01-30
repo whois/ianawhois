@@ -17,7 +17,7 @@ address:      Torshavn FO 110
 address:      Faroe Islands
 phone:        +298 322 400
 fax-no:       +298 322 401
-e-mail:       nic@nic.fo
+e-mail:       inj@nic.fo
 
 contact:      technical
 name:         FO-Umsitingin
@@ -41,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.fo/
 
 created:      1993-05-14
-changed:      2012-09-17
+changed:      2013-01-29
 source:       IANA
 
