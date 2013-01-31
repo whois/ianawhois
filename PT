@@ -10,14 +10,14 @@ address:      Lisboa  1700-066
 address:      Portugal
 
 contact:      administrative
-name:         Pedro Veiga
+name:         Luisa Lopes Gueifão
 organisation: Fundação para a Computação Científica Nacional
 address:      Av. do Brasil 101
 address:      Lisboa  1700-066
 address:      Portugal
 phone:        +351 21 8440100
 fax-no:       +351 21 8472167
-e-mail:       pedro.veiga@fccn.pt
+e-mail:       lgueifao@fccn.pt
 
 contact:      technical
 name:         Assis Neves Guerreiro
@@ -46,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.dns.pt/
 
 created:      1988-06-30
-changed:      2011-03-10
+changed:      2013-01-31
 source:       IANA
 
