@@ -28,7 +28,7 @@ address:      London EC1N 6TE
 address:      United Kingdom
 phone:        +44203 397 2738
 fax-no:       +44203 397 3262
-e-mail:       iana@adamsnames.tc
+e-mail:       iana@dreamtec.de
 
 nserver:      CHC1.ADAMSNAMES.COM 195.153.6.27
 nserver:      NS1.ROOT-SERVERS.TC 194.0.11.101 2001:678:e:101:0:0:0:53
@@ -40,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.adamsnames.tc/
 
 created:      1997-01-27
-changed:      2013-01-31
+changed:      2013-02-01
 source:       IANA
 
