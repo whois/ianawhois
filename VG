@@ -29,7 +29,8 @@ address:      United Kingdom
 phone:        +44 1223 353203
 e-mail:       tldwhois@adamsnames.tc
 
-nserver:      CHC1.ADAMSNAMES.COM 195.153.6.27
+nserver:      ASIA.ZONE.VG 31.169.81.226
+nserver:      EUROPE.ZONE.VG 77.79.104.226
 nserver:      NS1.ROOT-SERVERS.VG 194.0.11.102 2001:678:e:102:0:0:0:53
 nserver:      VG.CCTLD.AUTHDNS.RIPE.NET 193.0.9.124 2001:67c:e0:0:0:0:0:124
 
@@ -39,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.adamsnames.tc/
 
 created:      1997-02-20
-changed:      2012-08-22
+changed:      2013-02-01
 source:       IANA
 
