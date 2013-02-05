@@ -10,25 +10,22 @@ address:      Kabul
 address:      Afghanistan
 
 contact:      administrative
-name:         Aimal Marjan, Director General ICT
-organisation: ICT Directorate
+name:         Director Information Security
 organisation: Ministry of Communications and IT
 address:      Mohammad Jan Khan Watt
-address:      Kabul
+address:      Kabul 26000
 address:      Afghanistan
-phone:        +93 20 2103883
-fax-no:       +93 20 2103700
-e-mail:       aimal.marjan@mcit.gov.af
+phone:        +93 70 0283868
+e-mail:       zmarialai.wafa@mcit.gov.af
 
 contact:      technical
-name:         Wali Mohammad Berjasta, .af manager
+name:         General Manager .AF
 organisation: Ministry of Communications and IT
 address:      Mohammad Jan Khan Watt
-address:      Kabul
+address:      Kabul 26000
 address:      Afghanistan
-phone:        +93 799 30 26 53
-fax-no:       +93 20 2102684
-e-mail:       technical@nic.af
+phone:        +93 70 6604794
+e-mail:       registry@nic.af
 
 nserver:      ADRAS.NIC.AF 203.119.84.241
 nserver:      AF1.DYNTLD.NET 208.78.70.94
@@ -44,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.af
 
 created:      1997-10-16
-changed:      2011-03-30
+changed:      2013-02-05
 source:       IANA
 
