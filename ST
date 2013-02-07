@@ -29,9 +29,9 @@ fax-no:       +46-8-55577199
 e-mail:       st-registry@bahnhof.net
 
 nserver:      DNS-AU.ST 119.252.188.97
+nserver:      DNS-ST.BAHNHOF.NET 79.136.119.20
 nserver:      DNS-US.ST 198.105.223.67
 nserver:      NS1.BAHNHOF.NET 195.178.160.2
-nserver:      NS2.BAHNHOF.NET 212.85.64.4
 
 whois:        whois.nic.st
 
@@ -39,6 +39,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.st
 
 created:      1997-11-07
-changed:      2012-11-24
+changed:      2013-02-06
 source:       IANA
 
