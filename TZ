@@ -41,6 +41,7 @@ nserver:      NS.ANYCAST.CO.TZ 2001:500:14:6015:ad:0:0:1 204.61.216.15
 nserver:      NS2.TZNIC.OR.TZ 196.216.162.67 2001:43f8:e0:1:0:0:0:67
 nserver:      RIP.PSG.COM 147.28.0.39 2001:418:1:0:0:0:0:39
 nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e:0:0:0:0:1
+ds-rdata:     19948 5 1 f8eece7181f56ea0c796df630e648698391f1d66
 
 whois:        whois.tznic.or.tz
 
@@ -48,6 +49,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.tznic.or.tz/
 
 created:      1995-07-14
-changed:      2012-03-31
+changed:      2013-02-08
 source:       IANA
 
