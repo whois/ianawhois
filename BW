@@ -6,7 +6,7 @@ domain:       BW
 
 organisation: University of Botswana
 address:      Private Bag 0022
-address:      Gaberonr
+address:      Gaborone
 address:      Botswana
 
 contact:      administrative
@@ -40,6 +40,6 @@ nserver:      VPSM.BTC.BW 168.167.253.21
 status:       ACTIVE
 
 created:      1993-03-19
-changed:      2008-03-17
+changed:      2013-02-13
 source:       IANA
 
