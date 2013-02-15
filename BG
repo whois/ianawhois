@@ -31,9 +31,9 @@ e-mail:       daniel@digsys.bg
 
 nserver:      BG.CCTLD.AUTHDNS.RIPE.NET 193.0.9.61 2001:67c:e0:0:0:0:0:61
 nserver:      NS-EXT.ISC.ORG 2001:4f8:0:2:0:0:0:13 204.152.184.64
-nserver:      NS.REGISTER.BG 192.92.129.99
-nserver:      NS2.REGISTER.BG 193.68.3.232
-nserver:      NS3.REGISTER.BG 94.155.14.10
+nserver:      NS.REGISTER.BG 192.92.129.99 2a02:6a80:0:0:192:92:129:99
+nserver:      NS2.REGISTER.BG 193.68.3.232 2a02:6a80:0:0:193:68:3:232
+nserver:      NS3.REGISTER.BG 193.68.99.99 2a02:6a80:0:0:193:68:99:99
 nserver:      NS4.REGISTER.BG 194.0.32.1 2001:678:3c:0:0:0:0:1
 ds-rdata:     46846 5 1 1D83F503CCED4A4B6F7F8DB1CF43D38F9133A3EA
 ds-rdata:     46846 5 2 26811E459C850F50A85D1EAF589E30DC14D09D1A6E6262E8D36B6BFFC605334C
@@ -44,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.register.bg
 
 created:      1995-01-03
-changed:      2012-04-27
+changed:      2013-02-14
 source:       IANA
 
