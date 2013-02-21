@@ -33,8 +33,8 @@ phone:        +353 1 236 5421
 fax-no:       +353 1 230 1273
 e-mail:       tld-tech@iedr.ie
 
+nserver:      A.IEDR.IE 2a01:4b0:0:0:0:0:0:3 77.72.72.44
 nserver:      B.IEDR.IE 2a01:4b0:0:0:0:0:0:2 77.72.72.34
-nserver:      BANBA.DOMAINREGISTRY.IE 193.1.142.2
 nserver:      C.IEDR.IE 194.146.106.98
 nserver:      D.IEDR.IE 77.72.229.245
 nserver:      GNS1.DOMAINREGISTRY.IE 198.133.199.102
@@ -48,6 +48,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.domainregistry.ie
 
 created:      1988-01-27
-changed:      2012-10-30
+changed:      2013-02-20
 source:       IANA
 
