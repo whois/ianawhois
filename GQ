@@ -10,22 +10,22 @@ address:      Malabo
 address:      Equatorial Guinea
 
 contact:      administrative
-name:         Sebastien Kappel
+name:         Jose Antonio Bibang Yembi
 organisation: GETESA
 address:      A.P. 494
 address:      Malabo
 address:      Equatorial Guinea
-phone:        +240222752037
-e-mail:       sebastien.kappel@orange-getesa.gq
+phone:        +240222268239
+e-mail:       bibang.yembi@orange-getesa.gq
 
 contact:      technical
-name:         Cedric Cauvel
+name:         Jose Luis Abeso
 organisation: GETESA
 address:      A.P. 494
 address:      Malabo
 address:      Equatorial Guinea
-phone:        +240222604000
-e-mail:       cedric.cauvel@orange-getesa.gq
+phone:        +240222034021
+e-mail:       joseluis.abeso@orange-getesa.gq
 
 nserver:      BOW.INTNET.GQ 193.251.153.78
 nserver:      DNS.INTNET.GQ 193.251.153.67
@@ -36,6 +36,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.getesa.gq/
 
 created:      1997-07-10
-changed:      2010-07-02
+changed:      2013-02-27
 source:       IANA
 
