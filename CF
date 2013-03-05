@@ -29,7 +29,6 @@ phone:        +236 21 61 41 11
 fax-no:       +236 21 61 84 64
 e-mail:       kohilaire@socatel.cf
 
-nserver:      BOW.INTNET.CF 196.32.200.10
 nserver:      ROOT1.NIC.CF 71.6.218.254
 nserver:      ROOT2.NIC.CF 85.10.201.202
 nserver:      ROOT3.NIC.CF 80.90.43.30
@@ -37,6 +36,6 @@ nserver:      ROOT3.NIC.CF 80.90.43.30
 status:       ACTIVE
 
 created:      1996-04-24
-changed:      2013-02-25
+changed:      2013-03-04
 source:       IANA
 
