@@ -32,13 +32,13 @@ phone:        +297 583 4000
 fax-no:       +297 583 4030
 e-mail:       hostmaster@setarnet.aw
 
+nserver:      NS-AW-EXT1.SIDN.NL 193.176.144.23 2a00:d78:0:102:193:176:144:23
 nserver:      NS1.SETARNET.AW 209.88.128.25
 nserver:      NS2.SETARNET.AW 209.88.128.26
-nserver:      NS3.DOMAIN-REGISTRY.NL 193.176.144.6 2a00:d78:0:102:193:176:144:6
 
 status:       ACTIVE
 
 created:      1996-02-20
-changed:      2012-09-12
+changed:      2013-03-08
 source:       IANA
 
