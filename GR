@@ -39,7 +39,6 @@ nserver:      ESTIA.ICS.FORTH.GR 139.91.191.3 2001:648:2c30:0:0:0:191:3
 nserver:      GR-AIX.ICS.FORTH.GR 2001:648:2100:0:0:0:0:130 83.212.8.130
 nserver:      GR-M.ICS.FORTH.GR 194.0.4.10 2001:678:7:0:0:0:4:10
 nserver:      GR-US.ICS.FORTH.GR 199.4.28.219 2620:0:22b0:4:221:9bff:fe97:dc44
-nserver:      GRDNS-AT.ICS.FORTH.GR 193.171.255.40
 nserver:      GRDNS-BR.ICS.FORTH.GR 200.160.7.163
 nserver:      GRDNS-DE.DENIC.DE 81.91.161.80
 nserver:      GRDNS.ICS.FORTH.GR 139.91.1.1
@@ -49,6 +48,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.gr
 
 created:      1989-02-19
-changed:      2011-10-24
+changed:      2013-03-13
 source:       IANA
 
