@@ -1,0 +1,48 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       укр
+domain-ace:   XN--J1AMH
+
+organisation: Ukrainian Network Information Centre (UANIC), Inc.
+address:      10, Volodymyrska str.
+address:      Kyiv 01025
+address:      Ukraine
+
+contact:      administrative
+name:         CEO
+organisation: Ukrainian Network Information Centre (UANIC), Inc.
+address:      10, Volodymyrska str.
+address:      Kyiv 01025
+address:      Ukraine
+phone:        +380442309344
+fax-no:       +380442309344
+e-mail:       ceo@uanic.net
+
+contact:      technical
+name:         Head of UANIC Technical Group
+organisation: Ukrainian Network Information Centre (UANIC), Inc.
+address:      73, Artema str., office #112
+address:      Kyiv 04053
+address:      Ukraine
+phone:        +380503538629
+fax-no:       +380442309344
+e-mail:       dotukr@uanic.net
+
+nserver:      DNS1.U-REGISTRY.COM 91.231.86.6
+nserver:      DNS2.U-REGISTRY.NET 188.40.51.250
+nserver:      DNS3.DOTUKR.COM 195.64.155.254
+nserver:      NSI.UANIC.NET 212.1.66.247
+nserver:      TIER1.NUM.NET.UA 193.110.163.134
+
+whois:        whois.dotukr.com
+
+status:       ACTIVE
+remarks:      Registration information:
+remarks:      https://namestore.u-registry.com
+
+created:      2011-03-01
+changed:      2013-03-20
+source:       IANA
+
