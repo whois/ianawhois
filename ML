@@ -20,14 +20,14 @@ fax-no:       +223 20 29 94 13
 e-mail:       hawa.diakite@agetic.gouv.ml
 
 contact:      technical
-name:         Ingénieur Système
-organisation: Agence des Technologies de l’Information et de la Communication
-address:      ACI 2000 Hamdallaye
-address:      Bamako BP E 5467
-address:      Mali
-phone:        +223 77 28 52 77
-fax-no:       +223 20 29 94 13
-e-mail:       ada@agetic.gouv.ml
+name:         Manager ICT
+organisation: Mali Dili B.V.
+address:      Keizersgracht 213
+address:      1016 DT  Amsterdam
+address:      Netherlands
+phone:        +31 20 5315726
+fax-no:       +31 20 5315721
+e-mail:       info@malidili.com
 
 nserver:      CAILCEDRA.NIC.ML 85.10.201.202
 nserver:      CIWARA.SOTELMA.ML 217.64.97.50
@@ -41,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.sotelma.ml
 
 created:      1993-09-29
-changed:      2013-03-10
+changed:      2013-03-18
 source:       IANA
 
