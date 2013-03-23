@@ -20,14 +20,15 @@ fax-no:       +236 61 05 19
 e-mail:       manga.gilles@socatel.cf
 
 contact:      technical
-name:         YAPENDE-KO Jean-Hilaire - Chef de Service des Réseaux Multimédia
-organisation: Societe Centrafricaine des Postes et Telecommunications (SOCATEL)
-address:      Rue guerillot
-address:      Bangui  BP 939
-address:      Central African Republic
-phone:        +236 21 61 41 11
-fax-no:       +236 21 61 84 64
-e-mail:       kohilaire@socatel.cf
+name:         Manager ICT
+organisation: Centrafrique TLD B.V.
+address:      Keizersgracht 213
+address:      Amsterdam
+address:      NH  1016 DT
+address:      Netherlands
+phone:        +31 20 5315726
+fax-no:       +31 20 5315721
+e-mail:       info@centrafriquetld.com
 
 nserver:      ROOT1.NIC.CF 71.6.218.254
 nserver:      ROOT2.NIC.CF 85.10.201.202
@@ -36,6 +37,6 @@ nserver:      ROOT3.NIC.CF 80.90.43.30
 status:       ACTIVE
 
 created:      1996-04-24
-changed:      2013-03-04
+changed:      2013-03-22
 source:       IANA
 
