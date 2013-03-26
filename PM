@@ -34,7 +34,7 @@ e-mail:       tld-tech@nic.fr
 
 nserver:      D.EXT.NIC.FR 192.5.4.2 2001:500:2e:0:0:0:0:2
 nserver:      D.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
-nserver:      E.EXT.NIC.FR 193.176.144.6 2a00:d78:0:102:193:176:144:6
+nserver:      E.EXT.NIC.FR 193.176.144.22 2a00:d78:0:102:193:176:144:22
 nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
 nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
 ds-rdata:     41402 8 2 a471ce5e038a05430c5b13ec457c272af48bcc12ef5b572cf2b87544b284a006
