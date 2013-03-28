@@ -30,17 +30,13 @@ fax-no:       +31 20 5315721
 e-mail:       info@malidili.com
 
 nserver:      CAILCEDRA.NIC.ML 85.10.201.202
-nserver:      CIWARA.SOTELMA.ML 217.64.97.50
-nserver:      DJAMAKO.NIC.ML 217.64.105.136
-nserver:      DOGON.SOTELMA.ML 217.64.98.75
 nserver:      KAPIOKA.NIC.ML 71.6.218.254
 nserver:      KARITE.NIC.ML 80.90.43.30
-nserver:      YELEEN.NIC.ML 217.64.100.112
 
 status:       ACTIVE
 remarks:      Registration information: http://www.sotelma.ml
 
 created:      1993-09-29
-changed:      2013-03-18
+changed:      2013-03-27
 source:       IANA
 
