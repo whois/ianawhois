@@ -5,14 +5,13 @@
 domain:       MO
 
 organisation: Bureau of Telecommunications Regulation (DSRT)
-address:      Av. da Praia Grande 789-795 3rd Floor
+address:      43 - 53A, Avenida do Infante D. Henrique, The Macau Square, 22/F
 address:      Macao
 
 contact:      administrative
 name:         MONIC Administrative Contact
 organisation: Macao Network Information Centre (MONIC) - HNET Asia
-address:      Avenida do Infante D.Henrique n.o 43-53A
-address:      Macau Square 22.o andar
+address:      43 - 53A, Avenida do Infante D. Henrique, The Macau Square, 22/F, A
 address:      Macao
 phone:        +853 28716636
 fax-no:       +853 28716606
@@ -21,8 +20,7 @@ e-mail:       hnet.asia-admin@monic.mo
 contact:      technical
 name:         MONIC Technical Contact
 organisation: Macao Network Information Centre (MONIC) - HNET Asia
-address:      Avenida do Infante D.Henrique n.o 43-53A
-address:      Macau Square, 22.o andar
+address:      43 - 53A, Avenida do Infante D. Henrique, The Macau Square, 22/F, A
 address:      Macao
 phone:        +853 28716636
 fax-no:       +853 28716606
@@ -42,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.monic.mo
 
 created:      1992-09-17
-changed:      2012-09-18
+changed:      2013-03-29
 source:       IANA
 
