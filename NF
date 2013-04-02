@@ -25,15 +25,11 @@ address:      11a Wynyard Street
 address:      Devonport Auckland 0744
 address:      New Zealand
 phone:        64 9 446 6370
-fax-no:       +61 (0)2 8324 6336
 e-mail:       noc@nic.net.nf
 
-nserver:      NF-NS.PCH.NET 2001:500:14:6051:ad:0:0:1 204.61.216.51
-nserver:      NF1.DYNTLD.NET 208.78.70.88
-nserver:      NF2.DYNTLD.NET 204.13.250.88
-nserver:      NF3.DYNTLD.NET 208.78.71.88
-nserver:      NF4.DYNTLD.NET 204.13.251.88
-nserver:      NSA.NIC.NF 203.119.84.239
+nserver:      NF1.DYNTLD.NET 2001:500:90:0:0:0:0:88 208.78.70.88
+nserver:      NF3.DYNTLD.NET 2001:500:94:0:0:0:0:88 208.78.71.88
+nserver:      NS.ANYCAST.NIC.NF 2001:500:14:6051:ad:0:0:1 204.61.216.51
 
 whois:        whois.nic.net.nf
 
@@ -41,6 +37,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.net.nf/
 
 created:      1996-03-18
-changed:      2011-08-30
+changed:      2013-04-01
 source:       IANA
 
