@@ -32,15 +32,12 @@ e-mail:       info@malidili.com
 nserver:      A.NS.ML 185.21.168.1 2a04:1b00:0:0:0:0:0:1
 nserver:      B.NS.ML 185.21.169.1 2a04:1b00:1:0:0:0:0:1
 nserver:      C.NS.ML 185.21.170.1 2a04:1b00:2:0:0:0:0:1
-nserver:      CAILCEDRA.NIC.ML 85.10.201.202
 nserver:      D.NS.ML 185.21.171.1 2a04:1b00:3:0:0:0:0:1
-nserver:      KAPIOKA.NIC.ML 71.6.218.254
-nserver:      KARITE.NIC.ML 80.90.43.30
 
 status:       ACTIVE
 remarks:      Registration information: http://www.sotelma.ml
 
 created:      1993-09-29
-changed:      2013-04-01
+changed:      2013-04-04
 source:       IANA
 
