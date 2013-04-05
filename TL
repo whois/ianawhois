@@ -30,16 +30,12 @@ address:      6RCI Building
 address:      Nursery Road
 address:      Christmas Island WA, Indian Ocean 6798
 address:      Christmas Island
-phone:        +61 (0)8 9164 7334
-fax-no:       +61 (0)2 8324 6336
+phone:        +64(0)94466370
 e-mail:       tlnic@coccaregistry.net
 
-nserver:      NS.ANYCAST.NIC.TL 204.61.216.19
-nserver:      SOA.NIC.TL 203.119.12.247
-nserver:      TL1.DYNTLD.NET 208.78.70.78
-nserver:      TL2.DYNTLD.NET 204.13.250.78
-nserver:      TL3.DYNTLD.NET 208.78.71.78
-nserver:      TL4.DYNTLD.NET 204.13.251.78
+nserver:      NS.ANYCAST.NIC.TL 2001:500:14:6019:ad:0:0:1 204.61.216.19
+nserver:      TL1.DYNTLD.NET 2001:500:90:0:0:0:0:78 208.78.70.78
+nserver:      TL3.DYNTLD.NET 2001:500:94:0:0:0:0:78 208.78.71.78
 
 whois:        whois.nic.tl
 
@@ -47,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.tl
 
 created:      2005-03-23
-changed:      2011-02-05
+changed:      2013-04-04
 source:       IANA
 
