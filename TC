@@ -34,7 +34,6 @@ nserver:      ASIA.ZONE.TC 31.169.81.225
 nserver:      ASIA.ZONE.VG 31.169.81.226
 nserver:      EUROPE.ZONE.TC 77.79.104.225
 nserver:      EUROPE.ZONE.VG 77.79.104.226
-nserver:      NS1.ROOT-SERVERS.TC 194.0.11.101 2001:678:e:101:0:0:0:53
 nserver:      TC.CCTLD.AUTHDNS.RIPE.NET 193.0.9.115 2001:67c:e0:0:0:0:0:115
 
 whois:        whois.adamsnames.tc
@@ -43,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.adamsnames.tc/
 
 created:      1997-01-27
-changed:      2013-02-11
+changed:      2013-04-09
 source:       IANA
 
