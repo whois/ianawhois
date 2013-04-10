@@ -28,8 +28,10 @@ address:      United Kingdom
 phone:        +44 1223 353203
 e-mail:       tldwhois@adamsnames.tc
 
+nserver:      ASIA.ZONE.GD 31.169.81.226
+nserver:      EUROPE.ZONE.GD 77.79.104.226
 nserver:      GD.CCTLD.AUTHDNS.RIPE.NET 193.0.9.75 2001:67c:e0:0:0:0:0:75
-nserver:      NS1.ROOT-SERVERS.GD 194.0.11.103 2001:678:e:103:0:0:0:53
+nserver:      GRENADA.ZONE.GD 63.245.66.83
 
 whois:        whois.adamsnames.com
 
@@ -37,6 +39,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.adamsnames.com
 
 created:      1992-06-03
-changed:      2013-02-20
+changed:      2013-04-09
 source:       IANA
 
