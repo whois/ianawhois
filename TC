@@ -22,12 +22,12 @@ e-mail:       iana@dreamtec.de
 
 contact:      technical
 name:         Registrar
-organisation: AdamsNames Ltd
-address:      22-24 Ely Place
-address:      London EC1N 6TE
-address:      United Kingdom
-phone:        +44203 397 2738
-fax-no:       +44203 397 3262
+organisation: TLD A.S.
+address:      Dereboyu Cad. 81
+address:      Sisli - Istanbul
+address:      Turkey
+phone:        +90 212 216 44 40
+fax-no:       +90 212 216 44 50
 e-mail:       iana@dreamtec.de
 
 nserver:      ASIA.ZONE.TC 31.169.81.225
@@ -36,12 +36,12 @@ nserver:      EUROPE.ZONE.TC 77.79.104.225
 nserver:      EUROPE.ZONE.VG 77.79.104.226
 nserver:      TC.CCTLD.AUTHDNS.RIPE.NET 193.0.9.115 2001:67c:e0:0:0:0:0:115
 
-whois:        whois.adamsnames.tc
+whois:        whois.meridiantld.net
 
 status:       ACTIVE
-remarks:      Registration information: http://www.adamsnames.tc/
+remarks:      Registration information: http://meridiantld.net
 
 created:      1997-01-27
-changed:      2013-04-09
+changed:      2013-04-10
 source:       IANA
 
