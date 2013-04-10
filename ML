@@ -34,10 +34,12 @@ nserver:      B.NS.ML 185.21.169.1 2a04:1b00:1:0:0:0:0:1
 nserver:      C.NS.ML 185.21.170.1 2a04:1b00:2:0:0:0:0:1
 nserver:      D.NS.ML 185.21.171.1 2a04:1b00:3:0:0:0:0:1
 
+whois:        whois.dot.ml
+
 status:       ACTIVE
-remarks:      Registration information: http://www.sotelma.ml
+remarks:      Registration information: http://www.dot.ml
 
 created:      1993-09-29
-changed:      2013-04-04
+changed:      2013-04-09
 source:       IANA
 
