@@ -17,8 +17,7 @@ address:      Christmas Island Technology Centre (6RCI),
 address:      Nursery Road, Drumsite
 address:      Christmas Island Indian Ocean 6798
 address:      Christmas Island
-phone:        +61 8 9164 8808
-fax-no:       +61 8 9164 8879
+phone:        +64 (0) 9 446 6370
 e-mail:       garth.miller@nic.cx
 
 contact:      technical
@@ -28,12 +27,12 @@ address:      11a Wynyard Street
 address:      Devonport Auckland 0744
 address:      New Zealand
 phone:        +64 (0)9 446 6370
-fax-no:       +61 (0)2 8324 6336
 e-mail:       brad.waugh@coccaregistry.net
 
 nserver:      CX1.DYNTLD.NET 2001:500:90:0:0:0:0:77 208.78.70.77
 nserver:      CX3.DYNTLD.NET 2001:500:94:0:0:0:0:77 208.78.71.77
 nserver:      NS.ANYCAST.NIC.CX 2001:500:14:6016:ad:0:0:1 204.61.216.16
+nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e:0:0:0:0:1
 
 whois:        whois.nic.cx
 
@@ -41,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.cx
 
 created:      1997-04-24
-changed:      2013-04-01
+changed:      2013-04-10
 source:       IANA
 
