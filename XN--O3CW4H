@@ -39,6 +39,7 @@ e-mail:       pensri@thnic.or.th
 nserver:      DNS1.THNIC.CO.TH 2001:3c8:1209:1:0:0:0:22 202.28.1.22
 nserver:      NS-A.THNIC.CO.TH 61.19.242.38
 nserver:      NS.THNIC.NET 202.28.0.1
+ds-rdata:     18280 8 2 1C51573C20577DCC978567C0F4F85056A0DDEFEF2DCF4919BAE35BB093EABA12
 
 whois:        whois.thnic.co.th
 
@@ -46,5 +47,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.thnic.co.th
 
 created:      2010-08-19
+changed:      2013-04-17
 source:       IANA
 
