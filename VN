@@ -30,7 +30,7 @@ fax-no:       +84 4 37821462
 e-mail:       nhthang@vnnic.net.vn
 
 nserver:      A.DNS-SERVERS.VN 194.0.1.18 2001:678:4:0:0:0:0:12
-nserver:      B.DNS-SERVERS.VN 203.119.10.105
+nserver:      B.DNS-SERVERS.VN 2001:dc8:0:7:0:0:0:105 203.119.10.105
 nserver:      C.DNS-SERVERS.VN 203.119.38.105
 nserver:      D.DNS-SERVERS.VN 203.119.44.105
 nserver:      E.DNS-SERVERS.VN 203.119.60.105
@@ -41,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.vnnic.net.vn
 
 created:      1994-04-14
-changed:      2011-11-09
+changed:      2013-04-24
 source:       IANA
 
