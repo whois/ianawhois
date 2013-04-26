@@ -29,7 +29,6 @@ phone:        +32 16 28 49 70
 fax-no:       +32 16 28 49 71
 e-mail:       tech@dns.be
 
-nserver:      AMSTERDAM.NS.DNS.BE 91.200.16.101
 nserver:      BRUSSELS.NS.DNS.BE 193.190.135.4 2001:6a8:3c60:0:0:0:0:be
 nserver:      LONDON.NS.DNS.BE 195.66.241.90
 nserver:      M.NS.DNS.BE 194.0.6.1
@@ -46,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.dns.be
 
 created:      1988-08-05
-changed:      2012-02-23
+changed:      2013-04-26
 source:       IANA
 
