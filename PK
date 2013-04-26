@@ -31,12 +31,14 @@ e-mail:       ashar@pknic.net.pk
 
 nserver:      AUTH101.NS.UU.NET 198.6.1.210
 nserver:      AUTH51.NS.UU.NET 198.6.1.162
-nserver:      M-2.PKNIC.NET.PK 203.128.7.123
+nserver:      ROOT-B.CLOUD9GLOBAL.NET 50.22.82.251
+nserver:      ROOT-P.PKNIC.PK 203.128.7.123
+nserver:      ROOT-S.PKNIC.PK 119.81.34.90
 
 status:       ACTIVE
 remarks:      Registration information: http://www.pknic.net.pk/
 
 created:      1992-06-03
-changed:      2011-04-21
+changed:      2013-04-25
 source:       IANA
 
