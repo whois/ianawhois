@@ -10,23 +10,26 @@ address:      Tarawa
 address:      Kiribati
 
 contact:      administrative
-name:         Secretary - Kietau Tabwebweiti
-organisation: Ministry of Communications, Transport, and Tourism Development
+name:         ICT Advisor
+organisation: Ministry of Communications, Transport and Tourism Development
 address:      Betio
 address:      Tarawa
 address:      Kiribati
+address:      Kiribati
 phone:        +686 26003
 fax-no:       +686 26193
-e-mail:       secretary@mcttd.gov.ki
+e-mail:       ictadvisor@mcttd.gov.ki
 
 contact:      technical
-name:         Manager Engineering - Bwanouia Aberaam
+name:         Manager Engineering
 organisation: Telecommunications Authority of Kiribati
-address:      Betio Tarawa
+address:      Betio
+address:      Tarawa
 address:      Kiribati
-phone:        +686 25431
+address:      Kiribati
+phone:        +686 25488
 fax-no:       +686 25432
-e-mail:       bwanouia.aberaam@nic.ki
+e-mail:       itaaka.tebaka@tak.gov.ki
 
 nserver:      KI1.DYNTLD.NET 208.78.70.87
 nserver:      KI2.DYNTLD.NET 204.13.250.87
@@ -44,6 +47,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.ki
 
 created:      1995-04-19
-changed:      2011-03-04
+changed:      2013-04-26
 source:       IANA
 
