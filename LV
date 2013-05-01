@@ -37,7 +37,6 @@ nserver:      A.NIC.LV 2a02:500:4400:700:0:0:0:4 91.198.156.99
 nserver:      B.NIC.LV 92.240.70.1
 nserver:      C.NIC.LV 194.0.1.24 2001:678:4:0:0:0:0:18
 nserver:      D.NIC.LV 194.0.8.1 2001:678:b:1:0:0:0:1
-nserver:      LT.NIC.LV 83.171.8.137
 nserver:      LV.CCTLD.AUTHDNS.RIPE.NET 193.0.9.89 2001:67c:e0:0:0:0:0:89
 nserver:      SUNIC.SUNET.SE 192.36.125.2 2001:6b0:7:0:0:0:0:2
 ds-rdata:     42018 8 2 7E932A4F9CF9B1CD047C277E3CD323A53D42347D47C7BF1DD6018FF4B344FC1C
@@ -48,6 +47,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.lv/
 
 created:      1993-04-29
-changed:      2012-08-13
+changed:      2013-05-01
 source:       IANA
 
