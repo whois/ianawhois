@@ -10,7 +10,7 @@ address:      St George's
 address:      Grenada
 
 contact:      administrative
-name:         Dr. Linus Spencer Thomas, Chairman
+name:         Dr. Spencer Thomas
 organisation: The National Telecommunications Regulatory Commission (NTRC)
 address:      P.O. Box 854
 address:      St. Georges's
@@ -20,25 +20,24 @@ fax-no:       +1 473 435 2132
 e-mail:       sthomas@ectel.int
 
 contact:      technical
-name:         Registrar
-organisation: Amaryllis Investments Ltd
-address:      c/o 3 Adams Road
-address:      Cambridge  CB3 9AD
-address:      United Kingdom
-phone:        +44 1223 353203
-e-mail:       tldwhois@adamsnames.tc
+name:         .GD Registry Support
+organisation: KSregistry GmbH
+address:      Im Oberen Werk 1
+address:      St. Ingbert 66386
+address:      Germany
+phone:        +49 6894 9396250
+fax-no:       +49 6894 9396251
+e-mail:       support@ksregistry.net
 
-nserver:      ASIA.ZONE.GD 31.169.81.226
-nserver:      EUROPE.ZONE.GD 77.79.104.226
-nserver:      GD.CCTLD.AUTHDNS.RIPE.NET 193.0.9.75 2001:67c:e0:0:0:0:0:75
-nserver:      GRENADA.ZONE.GD 63.245.66.83
+nserver:      GD-NS.ANYCAST.PCH.NET 2001:500:14:6047:ad:0:0:1 204.61.216.47
+nserver:      GD-NS.KSREGISTRY.NET 194.0.11.103 2001:678:e:103:0:0:0:53
 
-whois:        whois.adamsnames.com
+whois:        whois.nic.gd
 
 status:       ACTIVE
 remarks:      Registration information: http://www.adamsnames.com
 
 created:      1992-06-03
-changed:      2013-04-09
+changed:      2013-05-01
 source:       IANA
 
