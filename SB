@@ -35,12 +35,9 @@ phone:        +677 24832
 fax-no:       +677 38815
 e-mail:       andrew.rarumae@telekom.com.sb
 
-nserver:      NSA.NIC.SB 203.119.84.243
-nserver:      SB-NS.ANYCAST.PCH.NET 2001:500:14:6031:ad:0:0:1 204.61.216.31
-nserver:      SB1.DYNTLD.NET 208.78.70.83
-nserver:      SB2.DYNTLD.NET 204.13.250.83
-nserver:      SB3.DYNTLD.NET 208.78.71.83
-nserver:      SB4.DYNTLD.NET 204.13.251.83
+nserver:      PCH.NIC.SB 2001:500:14:6031:ad:0:0:1 204.61.216.31
+nserver:      SB1.DYNTLD.NET 2001:500:90:0:0:0:0:83 208.78.70.83
+nserver:      SB3.DYNTLD.NET 2001:500:94:0:0:0:0:83 208.78.71.83
 
 whois:        whois.nic.net.sb
 
@@ -48,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.net.sb/
 
 created:      1994-04-19
-changed:      2011-02-28
+changed:      2013-05-01
 source:       IANA
 
