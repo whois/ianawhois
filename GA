@@ -4,39 +4,40 @@
 
 domain:       GA
 
-organisation: Gabon Telecom
-address:      Immeuble Delta Postal
-address:      Libreville  BP:40000
+organisation: Agence Nationale des Infrastructures Numériques et des Fréquences (ANINF)
+address:      Cours Pasteur, (Immeuble de la Solde)
+address:      BP: 798
+address:      Libreville
 address:      Gabon
 
 contact:      administrative
-name:         Emmanuel Idoundou
-organisation: Gabon Telecom
-address:      Immeuble Delta Postal
-address:      Libreville  BP:40000
+name:         Cyriaque D. Kouma
+organisation: Agence Nationale des Infrastructures Numériques et des Fréquences (ANINF)
+address:      Cours Pasteur, (Immeuble de la Solde)
+address:      BP: 798
+address:      Libreville
 address:      Gabon
-phone:        +241 78 78 37
-fax-no:       +241 78 78 87
-e-mail:       e.idoundou@gabontelecom.ga
+phone:        +241 04 57 23 66
+e-mail:       cctldga-admin@nic.ga
 
 contact:      technical
-name:         Francois Mbomeyo Ona
-organisation: Gabon Telecom
-address:      Cenacom
-address:      Libreville  BP:40000
+name:         Manager ICT
+organisation: Agence Nationale des Infrastructures Numériques et des Fréquences (ANINF)
+address:      Cours Pasteur, (Immeuble de la Solde)
+address:      BP: 798
+address:      Libreville
 address:      Gabon
-phone:        +241 76 42 31
-fax-no:       +241 74 19 34
-e-mail:       mbomeyo@inet.ga
+phone:        +241 01 79 52 77
+e-mail:       cctldga-tech@nic.ga
 
-nserver:      B.HOSTING.NIC.FR 192.93.0.4 2001:660:3005:1:0:0:1:2
-nserver:      NS-GA.RIPE.NET 193.0.12.81 2001:610:240:0:53:cc:12:81
-nserver:      NYALI.INET.GA 217.77.71.33
-nserver:      OGOOUE.INET.GA 217.77.71.1
+nserver:      BELINGA.ANINF.GA 217.77.72.115
+nserver:      DOUKA.ANINF.GA 217.77.72.117
+nserver:      OKOUME.ANINF.GA 71.6.218.252
+nserver:      OZIGO.ANINF.GA 78.46.37.112
 
 status:       ACTIVE
 
 created:      1994-12-12
-changed:      2005-08-29
+changed:      2013-05-07
 source:       IANA
 
