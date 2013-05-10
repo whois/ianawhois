@@ -31,13 +31,14 @@ e-mail:       support@ksregistry.net
 
 nserver:      GD-NS.ANYCAST.PCH.NET 2001:500:14:6047:ad:0:0:1 204.61.216.47
 nserver:      GD-NS.KSREGISTRY.NET 194.0.11.103 2001:678:e:103:0:0:0:53
+nserver:      GD.CCTLD.AUTHDNS.RIPE.NET 193.0.9.75 2001:67c:e0:0:0:0:0:75
 
 whois:        whois.nic.gd
 
 status:       ACTIVE
-remarks:      Registration information: http://www.adamsnames.com
+remarks:      Registration information: http://nic.gd
 
 created:      1992-06-03
-changed:      2013-05-01
+changed:      2013-05-09
 source:       IANA
 
