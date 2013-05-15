@@ -5,17 +5,15 @@
 domain:       JE
 
 organisation: Island Networks (Jersey) Ltd.
-address:      Hilgrove House
-address:      10 Hilgrove Street
-address:      St. Helier  JE4 8SU
+address:      Templar House, Don Road
+address:      St. Helier  JE1 2TR
 address:      Jersey
 
 contact:      administrative
 name:         Managing Director
 organisation: Island Networks (Jersey) Ltd.
-address:      Hilgrove House
-address:      10 Hilgrove Street
-address:      St. Helier  JE4 8SU
+address:      Templar House, Don Road
+address:      St. Helier  JE1 2TR
 address:      Jersey
 phone:        +44 1534 759526
 fax-no:       +44 870 321 2289
@@ -45,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.channelisles.net/
 
 created:      1996-08-08
-changed:      2011-03-08
+changed:      2013-05-14
 source:       IANA
 
