@@ -33,6 +33,7 @@ phone:        +963 11 3937047
 fax-no:       +963 11 3937079
 e-mail:       dns@tld.sy
 
+nserver:      NS-SY.AFRINIC.NET 196.216.168.76 2001:43f8:120:0:0:0:0:76
 nserver:      NS1.TLD.SY 82.137.200.85
 nserver:      NS2.TLD.SY 82.137.192.145
 nserver:      PCH.ANYCAST.TLD.SY 2001:500:14:6071:ad:0:0:1 204.61.216.71
@@ -44,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://tld.sy
 
 created:      2011-02-05
-changed:      2012-12-20
+changed:      2013-05-16
 source:       IANA
 
