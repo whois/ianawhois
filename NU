@@ -17,7 +17,7 @@ address:      Alofi  1010
 address:      Niue
 phone:        +683 4235
 fax-no:       +683 4237
-e-mail:       hostmaster@nic.nu
+e-mail:       admin@iusn.org
 
 contact:      technical
 name:         NU Technical Contact
@@ -28,7 +28,7 @@ address:      Medfield Massachusetts 02052
 address:      United States
 phone:        +1 508 359 5600
 fax-no:       +1 508 242 9707
-e-mail:       bill@nic.nu
+e-mail:       noc@nic.nu
 
 nserver:      NS.DE.NIC.NU 195.253.65.9 2a01:5b0:5:0:0:0:0:9
 nserver:      NS.EU.NIC.NU 195.253.64.9 2a01:5b0:4:0:0:0:0:9
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nunames.nu/
 
 created:      1997-06-20
-changed:      2011-11-09
+changed:      2013-05-20
 source:       IANA
 
