@@ -12,28 +12,28 @@ address:      Panama  0819-07289
 address:      Panama
 
 contact:      administrative
-name:         Armando Jipsion, General Manager
+name:         Edna Samudio de Jaen
 organisation: Universidad Tecnologica de Panama
 address:      Panamanian Academic National Network
 address:      Campus Victor Levi S.
 address:      Avenida Universidad Tecnologica de Panama, PANNet
 address:      Panama  0819-07289
 address:      Panama
-phone:        +507 560 3309
-fax-no:       +507 560 3148
-e-mail:       armando.jipsion@utp.ac.pa
-
-contact:      technical
-name:         Edna Samudio de Jaen, Manager
-organisation: Universidad Tecnologica de Panama
-address:      Panamanian Academic National Network
-address:      Campus Victor Levi S.
-address:      Avenida Universidad Tecnologica de Panama, PANNet
-address:      Panama  0819-07289
-address:      Panama
-phone:        +507 560 3400
+phone:        +507 560 3401
 fax-no:       +507 560 3148
 e-mail:       edna.samudio@utp.ac.pa
+
+contact:      technical
+name:         Gustavo Martinez
+organisation: Universidad Tecnologica de Panama
+address:      Panamanian Academic National Network
+address:      Campus Victor Levi S.
+address:      Avenida Universidad Tecnologica de Panama, PANNet
+address:      Panama  0819-07289
+address:      Panama
+phone:        +507 560 3401
+fax-no:       +507 560 3148
+e-mail:       gustavo.martinez@utp.ac.pa
 
 nserver:      NS-EXT.NIC.CL 200.1.123.14
 nserver:      NS.CR 163.178.8.2
@@ -47,6 +47,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.pa/
 
 created:      1994-05-25
-changed:      2011-03-10
+changed:      2013-05-20
 source:       IANA
 
