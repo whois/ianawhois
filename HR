@@ -31,7 +31,6 @@ e-mail:       hostmaster@carnet.hr
 
 nserver:      HR-NS-1.CARNET.HR 161.53.160.100 2001:b68:ff:1:0:0:0:100
 nserver:      N3NS.NIC.ES 194.69.254.42 2001:67c:21cc:2000:0:0:64:42
-nserver:      NS.UU.NET 137.39.1.3
 nserver:      NS5.UNIVIE.AC.AT 193.171.255.77 2001:628:453:4305:0:0:0:53
 nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e:0:0:0:0:1
 
@@ -41,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.dns.hr
 
 created:      1993-02-27
-changed:      2011-12-22
+changed:      2013-05-24
 source:       IANA
 
