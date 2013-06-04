@@ -31,7 +31,7 @@ e-mail:       nic@ati.tn
 
 nserver:      NS-TN.AFRINIC.NET 196.216.168.25 2001:43f8:120:0:0:0:0:25
 nserver:      NS.ATI.TN 193.95.66.10 2001:4350:1:1:0:0:0:10
-nserver:      NS2.ATI.TN 193.95.67.22
+nserver:      NS2.ATI.TN 193.95.67.22 2001:4350:2048:1:0:0:0:22
 nserver:      NS2.NIC.FR 192.93.0.4 2001:660:3005:1:0:0:1:2
 nserver:      RIP.PSG.COM 147.28.0.39 2001:418:1:0:0:0:0:39
 
@@ -41,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://whois.ati.tn
 
 created:      1991-05-17
-changed:      2012-10-01
+changed:      2013-06-04
 source:       IANA
 
