@@ -36,7 +36,7 @@ fax-no:       +64 4 931 6979
 e-mail:       iana@nzrs.net.nz
 
 nserver:      NS1.DNS.NET.NZ 2001:dce:2000:2:0:0:0:130 202.46.190.130
-nserver:      NS2.DNS.NET.NZ 2001:dce:4000:2:0:0:0:130 202.46.187.130
+nserver:      NS2.DNS.NET.NZ 2001:dce:7000:2:0:0:0:130 202.46.187.130
 nserver:      NS3.DNS.NET.NZ 202.46.188.130
 nserver:      NS4.DNS.NET.NZ 202.46.189.130
 nserver:      NS5.DNS.NET.NZ 156.154.100.14 2001:502:ad09:0:0:0:0:14
@@ -51,6 +51,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.dnc.org.nz/
 
 created:      1987-01-19
-changed:      2013-01-25
+changed:      2013-06-10
 source:       IANA
 
