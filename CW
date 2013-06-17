@@ -36,12 +36,11 @@ nserver:      ENGINE3.UNA.AN 200.26.199.102
 nserver:      KADUSHI.CURINFO.AN 65.208.122.63
 nserver:      NS0.JA.NET 128.86.1.20 193.63.94.20 2001:630:0:8:0:0:0:14 2001:630:0:9:0:0:0:14
 nserver:      NS01-SERVER.CURINFO.AN 65.208.122.36
-nserver:      NS3.CURA.NET 200.26.226.6
 
 status:       ACTIVE
 remarks:      Registration information: http://www.una.cw/cw_registry
 
 created:      2010-12-20
-changed:      2012-11-27
+changed:      2013-06-16
 source:       IANA
 
