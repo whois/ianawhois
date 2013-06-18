@@ -29,7 +29,7 @@ phone:        +220 392728
 fax-no:       +220 3911020
 e-mail:       technical@nic.gm
 
-nserver:      NS1.ASAP-ASP.NET 195.225.3.100
+nserver:      NS-GM.AFRINIC.NET 196.216.168.29 2001:43f8:120:0:0:0:0:29
 nserver:      NS1.NIC.GM 194.63.250.217
 nserver:      NS2.NIC.GM 197.255.194.102
 
@@ -37,6 +37,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.gm
 
 created:      1997-03-28
-changed:      2013-02-06
+changed:      2013-06-17
 source:       IANA
 
