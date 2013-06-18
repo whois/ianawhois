@@ -34,12 +34,10 @@ nserver:      A.NS.GA 185.21.168.49 2a04:1b00:c:0:0:0:0:1
 nserver:      B.NS.GA 185.21.169.49 2a04:1b00:d:0:0:0:0:1
 nserver:      C.NS.GA 185.21.170.49 2a04:1b00:e:0:0:0:0:1
 nserver:      D.NS.GA 185.21.171.49 2a04:1b00:f:0:0:0:0:1
-nserver:      OKOUME.ANINF.GA 71.6.218.252
-nserver:      OZIGO.ANINF.GA 78.46.37.112
 
 status:       ACTIVE
 
 created:      1994-12-12
-changed:      2013-06-10
+changed:      2013-06-17
 source:       IANA
 
