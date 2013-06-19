@@ -32,9 +32,9 @@ e-mail:       info@verisign-grs.com
 nserver:      A5.NSTLD.COM 192.5.6.34
 nserver:      C5.NSTLD.COM 192.26.92.34
 nserver:      D5.NSTLD.COM 192.31.80.34
-nserver:      F5.NSTLD.COM 192.35.51.34
+nserver:      F5.NSTLD.COM 192.35.51.34 2001:503:d414:0:0:0:2:34
 nserver:      G5.NSTLD.COM 192.42.93.34
-nserver:      H5.NSTLD.COM 192.54.112.34
+nserver:      H5.NSTLD.COM 192.54.112.34 2001:502:08cc:0:0:0:2:34
 nserver:      L5.NSTLD.COM 192.41.162.34
 ds-rdata:     44904 8 1 3E447F7145888B3137E9D83EEC9FB77671A8647D
 ds-rdata:     44904 8 2 1CFE1309925B78F42C8B4862A670B0BAB9FC142ED8B4D41E24C65FE6A0D9DFB4
@@ -45,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.tv
 
 created:      1996-03-18
-changed:      2013-03-22
+changed:      2013-06-19
 source:       IANA
 
