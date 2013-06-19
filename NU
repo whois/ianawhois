@@ -30,6 +30,9 @@ phone:        +1 508 359 5600
 fax-no:       +1 508 242 9707
 e-mail:       noc@nic.nu
 
+nserver:      A.NIC.NU 194.146.106.22 2001:67c:1010:5:0:0:0:53
+nserver:      B.NIC.NU 2a01:8840:10:0:0:0:0:1 65.22.164.1
+nserver:      C.NIC.NU 192.36.144.107 2a01:3f0:0:301:0:0:0:53
 nserver:      NS.DE.NIC.NU 195.253.65.9 2a01:5b0:5:0:0:0:0:9
 nserver:      NS.EU.NIC.NU 195.253.64.9 2a01:5b0:4:0:0:0:0:9
 nserver:      NS.NIC.NU 69.25.75.70
@@ -43,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nunames.nu/
 
 created:      1997-06-20
-changed:      2013-05-20
+changed:      2013-06-18
 source:       IANA
 
