@@ -32,9 +32,9 @@ e-mail:       info@verisign-grs.com
 nserver:      A5.NSTLD.COM 192.5.6.34
 nserver:      C5.NSTLD.COM 192.26.92.34
 nserver:      D5.NSTLD.COM 192.31.80.34
-nserver:      F5.NSTLD.COM 192.35.51.34
+nserver:      F5.NSTLD.COM 192.35.51.34 2001:503:d414:0:0:0:2:34
 nserver:      G5.NSTLD.COM 192.42.93.34
-nserver:      H5.NSTLD.COM 192.54.112.34
+nserver:      H5.NSTLD.COM 192.54.112.34 2001:502:08cc:0:0:0:2:34
 nserver:      L5.NSTLD.COM 192.41.162.34
 
 whois:        jobswhois.verisign-grs.com
