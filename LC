@@ -11,7 +11,7 @@ address:      San Juan  00936
 address:      Puerto Rico
 
 contact:      administrative
-name:         Albert H. Daniels
+name:         Dr. Patrick W. Lay
 organisation: ISIS World Corporation
 address:      #4 Colony House
 address:      John Compton Highway
@@ -19,7 +19,7 @@ address:      Castries
 address:      Saint Lucia
 phone:        758 572-8188
 fax-no:       758 452-0065
-e-mail:       daniels@isisworld.lc
+e-mail:       drlay@nic.ag
 
 contact:      technical
 name:         Patrick W. Lay
@@ -45,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.lc
 
 created:      1991-09-03
-changed:      2011-10-26
+changed:      2013-06-24
 source:       IANA
 

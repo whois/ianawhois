@@ -6,32 +6,30 @@ domain:       테스트
 domain-ace:   XN--9T4B11YI5A
 
 organisation: Internet Assigned Numbers Authority
-address:      4676 Admiralty Way
-address:      Suite 330
-address:      Marina del Rey California 90292
+address:      ICANN
+address:      12025 Waterfront Drive, Suite 300
+address:      Los Angeles CA 90094
 address:      United States
 
 contact:      administrative
 name:         Internet Assigned Numbers Authority
-organisation: Internet Assigned Numbers Authority
-address:      4676 Admiralty Way
-address:      Suite 330
-address:      Marina del Rey California 90292
+organisation: ICANN
+address:      12025 Waterfront Drive, Suite 300
+address:      Los Angeles CA 90094
 address:      United States
-phone:        +1 310 823-9358
+phone:        +1 310 301-5800
 fax-no:       +1 310 823-8649
-e-mail:       iana@iana.org
+e-mail:       tld-contact@iana.org
 
 contact:      technical
 name:         Internet Assigned Numbers Authority
-organisation: Internet Assigned Numbers Authority
-address:      4676 Admiralty Way
-address:      Suite 330
-address:      Marina del Rey California 90292
+organisation: ICANN
+address:      12025 Waterfront Drive, Suite 300
+address:      Los Angeles CA 90094
 address:      United States
-phone:        +1 310 823-9358
+phone:        +1 310 301-5800
 fax-no:       +1 310 823-8649
-e-mail:       iana@iana.org
+e-mail:       tld-contact@iana.org
 
 nserver:      A.IANA-SERVERS.NET 199.43.132.53 2001:500:8c:0:0:0:0:53
 nserver:      B.IANA-SERVERS.NET 199.43.133.53 2001:500:8d:0:0:0:0:53
@@ -44,6 +42,6 @@ remarks:      Registration information:
 remarks:      http://www.iana.org/domains/idn-test/
 
 created:      2007-10-19
-changed:      2011-06-13
+changed:      2013-06-22
 source:       IANA
 
