@@ -30,9 +30,11 @@ phone:        +96824574358
 fax-no:       +96824563640
 e-mail:       dnsadmin@tra.gov.om
 
-nserver:      NS1.AUSREGISTRY.NET.AU 202.65.12.73
+nserver:      CCTLD.ALPHA.ARIDNS.NET.AU 2001:dcd:1:0:0:0:0:6 37.209.192.6
+nserver:      CCTLD.BETA.ARIDNS.NET.AU 2001:dcd:2:0:0:0:0:6 37.209.194.6
+nserver:      CCTLD.DELTA.ARIDNS.NET.AU 2001:dcd:4:0:0:0:0:6 37.209.198.6
+nserver:      CCTLD.GAMMA.ARIDNS.NET.AU 2001:dcd:3:0:0:0:0:6 37.209.196.6
 nserver:      NS1.REGISTRY.OM 212.72.15.101
-nserver:      NS2.AUSREGISTRY.NET.AU 202.65.13.73
 nserver:      NS2.REGISTRY.OM 188.135.6.231
 
 whois:        whois.registry.om
@@ -41,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.omantel.net.om
 
 created:      2011-02-05
-changed:      2012-07-09
+changed:      2013-06-28
 source:       IANA
 
