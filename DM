@@ -32,7 +32,7 @@ e-mail:       cto@dotdm.dm
 nserver:      NS.ANYCAST.NIC.DM 204.61.216.18
 nserver:      NS.BLACKNIGHTSOLUTIONS.COM 217.114.173.6 2a01:a8:fe00:0:0:0:0:2
 nserver:      NS2.BLACKNIGHTSOLUTIONS.COM 2001:1bc0:ab:3:0:0:0:2 82.96.97.64
-nserver:      NS2.NIC.DM 208.0.224.115
+nserver:      NS2.NIC.DM 199.127.197.69
 
 whois:        whois.nic.dm
 
@@ -40,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.dm
 
 created:      1991-09-03
-changed:      2011-07-01
+changed:      2013-07-02
 source:       IANA
 
