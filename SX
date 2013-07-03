@@ -33,7 +33,7 @@ e-mail:       jan@openregistry.com
 
 nserver:      A.NS.SX 2a02:2790:0:0:0:0:600d:deed 89.207.184.65
 nserver:      B.NS.SX 80.92.90.160
-nserver:      C.NS.SX 70.38.21.233
+nserver:      C.NS.SX 192.95.19.109
 ds-rdata:     59259 7 1 7D8C002AC87627953A66C8145C2EBBEB13B8AE64
 ds-rdata:     59259 7 2 81CE2B07704CD91951A7AD5A7E88B4426AE57952AE9511521169800FEA137869
 
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://registry.sx
 
 created:      2010-12-20
-changed:      2012-10-02
+changed:      2013-07-02
 source:       IANA
 
