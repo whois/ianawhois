@@ -33,10 +33,10 @@ fax-no:       +856 21 254150
 e-mail:       technicalcontact@lanic.la
 
 nserver:      NS1.NIC.LA 194.0.2.2 2001:678:5:0:0:0:0:2
-nserver:      NS2.NIC.LA 72.3.240.16
-nserver:      NS3.NIC.LA 62.197.40.234
-nserver:      NS4.NIC.LA 89.151.83.34
-nserver:      NS5.NIC.LA 2001:ac8:2:1:0:0:0:20 217.151.106.82
+nserver:      NS2.NIC.LA 194.169.218.14 2001:67c:13cc:0:0:0:1:14
+nserver:      NS3.NIC.LA 185.24.64.14 2a04:2b00:13cc:0:0:0:1:14
+nserver:      NS4.NIC.LA 194.169.218.15 2001:67c:13cc:0:0:0:1:15
+nserver:      NS5.NIC.LA 185.24.64.15 2a04:2b00:13cc:0:0:0:1:15
 nserver:      NS6.NIC.LA 89.151.83.36
 nserver:      NS7.NIC.LA 193.105.170.169
 nserver:      NS8.NIC.LA 64.131.83.34
@@ -49,6 +49,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.la
 
 created:      1996-05-14
-changed:      2012-12-15
+changed:      2013-07-05
 source:       IANA
 
