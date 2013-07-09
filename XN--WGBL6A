@@ -38,8 +38,8 @@ nserver:      B.REGISTRY.QA 178.23.17.104
 nserver:      C.REGISTRY.QA 212.77.192.10
 nserver:      D.REGISTRY.QA 212.77.192.13
 nserver:      E.REGISTRY.QA 212.77.192.15
-nserver:      F.REGISTRY.QA 202.65.12.73
-nserver:      G.REGISTRY.QA 202.65.13.73
+nserver:      F.REGISTRY.QA 2001:dcd:1:0:0:0:0:6 37.209.192.6
+nserver:      G.REGISTRY.QA 2001:dcd:2:0:0:0:0:6 37.209.194.6
 nserver:      H.REGISTRY.QA 193.0.9.51 2001:67c:e0:0:0:0:0:51
 nserver:      I.REGISTRY.QA 2001:500:14:6062:ad:0:0:1 204.61.216.62
 nserver:      J.REGISTRY.QA 38.103.2.3
