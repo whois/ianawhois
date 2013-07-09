@@ -32,7 +32,6 @@ e-mail:       tech@dns.be
 nserver:      BRUSSELS.NS.DNS.BE 193.190.135.4 2001:6a8:3c60:0:0:0:0:be
 nserver:      LONDON.NS.DNS.BE 195.66.241.90
 nserver:      M.NS.DNS.BE 194.0.6.1
-nserver:      PRAGUE.NS.DNS.BE 195.47.235.138
 nserver:      X.DNS.BE 194.0.1.10 2001:678:4:0:0:0:0:a
 ds-rdata:     26221 8 1 43D54590847710549993A3E7F98E30D769C766AF
 ds-rdata:     26221 8 2 C84F8184571FF4C60521F35A9FCF355EF0253370F8487F72D66A6F519AD16D19
@@ -45,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.dns.be
 
 created:      1988-08-05
-changed:      2013-04-26
+changed:      2013-07-09
 source:       IANA
 
