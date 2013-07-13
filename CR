@@ -22,17 +22,17 @@ fax-no:       +506 2283 4101
 e-mail:       gdt@ns.cr
 
 contact:      technical
-name:         Abel Brenes
-organisation: Centro de Informática, Universidad de Costa Rica
-address:      San Pedro Montes de Oca
-address:      San José  2060-1000
+name:         Mauricio Oviedo Calderón
+organisation: NIC Costa Rica, Academia Nacional de Ciencias
+address:      Barrio Francisco Peralta, de la Casa Italia 100 metros al oeste y 15 metros sur
+address:      San José  1367-2050
 address:      Costa Rica
-phone:        +506 2511 1800
-fax-no:       +506 2511 1899
-e-mail:       abrenes@ns.cr
+phone:        +506 2280.6453 ext.101
+fax-no:       +506 2280.5261
+e-mail:       moviedo@nic.cr
 
 nserver:      A.NS.CR 200.107.82.100 2001:13c7:7004:1:0:0:0:d100
-nserver:      B.NS.CR 75.125.255.162
+nserver:      B.NS.CR 198.57.204.98
 nserver:      C.NS.CR 193.0.9.69
 nserver:      D.NS.CR 38.103.2.3
 nserver:      E.NS.CR 2001:470:1a:0:0:0:0:3 72.52.71.3
@@ -45,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.cr/
 
 created:      1990-09-10
-changed:      2012-09-22
+changed:      2013-07-12
 source:       IANA
 
