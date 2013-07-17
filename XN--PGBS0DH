@@ -1,5 +1,44 @@
 % IANA WHOIS server
 % for more information on IANA, visit http://www.iana.org
-%
-% WHOIS server encountered an error.
-% Please report the issue to http://www.iana.org.
+% This query returned 1 object
+
+domain:       تونس
+domain-ace:   XN--PGBS0DH
+
+organisation: Agence Tunisienne d'Internet
+address:      13, rue Jugurtha Mutuelle-ville
+address:      Tunis  1002
+address:      Tunisia
+
+contact:      administrative
+name:         Mrs. Wafa Dahmani
+organisation: Agence Tunisienne d'Internet
+address:      13, rue Jugurtha Mutuelle-ville
+address:      Tunis  1002
+address:      Tunisia
+phone:        +216 71 846 100
+fax-no:       +216 71 846 600
+e-mail:       nicadmin@ati.tn
+
+contact:      technical
+name:         Network Information Center - NIC
+organisation: Agence Tunisienne d'Internet
+address:      13, rue Jugurtha Mutuelle-ville
+address:      Tunis  1002
+address:      Tunisia
+phone:        +216 71 846 100
+fax-no:       +216 71 846 600
+e-mail:       nic@ati.tn
+
+nserver:      NS-TN.AFRINIC.NET 196.216.168.25 2001:43f8:120:0:0:0:0:25
+nserver:      NS2.NIC.FR 192.93.0.4 2001:660:3005:1:0:0:1:2
+nserver:      NS8.ATI.TN 193.95.66.6 2001:4350:1:1:0:0:0:6
+nserver:      NS9.ATI.TN 193.95.67.26 2001:4350:2048:1:0:0:0:26
+
+status:       ACTIVE
+remarks:      Registration information: http://www.ati.tn
+
+created:      2010-08-19
+changed:      2013-06-08
+source:       IANA
+
