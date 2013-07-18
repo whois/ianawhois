@@ -33,11 +33,7 @@ e-mail:       noc@nic.nu
 nserver:      A.NIC.NU 194.146.106.22 2001:67c:1010:5:0:0:0:53
 nserver:      B.NIC.NU 2a01:8840:10:0:0:0:0:1 65.22.164.1
 nserver:      C.NIC.NU 192.36.144.107 2a01:3f0:0:301:0:0:0:53
-nserver:      NS.DE.NIC.NU 195.253.65.9 2a01:5b0:5:0:0:0:0:9
-nserver:      NS.EU.NIC.NU 195.253.64.9 2a01:5b0:4:0:0:0:0:9
 nserver:      NS.NIC.NU 69.25.75.70
-nserver:      NS.NL.NIC.NU 195.253.64.8 2a01:5b0:4:0:0:0:0:8
-nserver:      NS.SE.NIC.NU 195.253.65.8 2a01:5b0:5:0:0:0:0:8
 ds-rdata:     3156 7 2 F4E23FAA33D8C28EF8B1E3C0F2320DFABEB03551CF8DCAA4FC8E63455429912E
 
 whois:        whois.nic.nu
@@ -46,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nunames.nu/
 
 created:      1997-06-20
-changed:      2013-06-18
+changed:      2013-07-17
 source:       IANA
 
