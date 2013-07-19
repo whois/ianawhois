@@ -5,15 +5,15 @@
 domain:       AM
 
 organisation: Internet Society
-address:      Nikol Duman 62/1 N1
-address:      Yerevan  0028
+address:      17 A. Khachatryan str, apt 3
+address:      Yerevan 0012
 address:      Armenia
 
 contact:      administrative
 name:         Dr. Igor Mkrtumyan
 organisation: Internet Society
-address:      1/3 P.Byuzand
-address:      Yerevan  0010
+address:      17 A. Khachatryan str, apt 3
+address:      Yerevan 0012
 address:      Armenia
 phone:        +374 91 415539
 e-mail:       imkrtumyan@amnic.net
@@ -25,7 +25,6 @@ address:      Isaakian Street 28
 address:      Yerevan  0009
 address:      Armenia
 phone:        +374 91 420214
-fax-no:       +374 10 544590
 e-mail:       ran@psg.com
 
 nserver:      AM.CCTLD.AUTHDNS.RIPE.NET 193.0.9.57 2001:67c:e0:0:0:0:0:57
@@ -42,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.amnic.net/
 
 created:      1994-08-26
-changed:      2012-07-25
+changed:      2013-07-19
 source:       IANA
 
