@@ -4,30 +4,33 @@
 
 domain:       EE
 
-organisation: National Institute of Chemical Physics and Biophysics
-address:      10 Ravala Blvd.
-address:      Tallinn  10143
+organisation: Eesti Interneti Sihtasutus (EIS)
+address:      Silikaltsiidi 3a
+address:      11216 Tallinn
+address:      Harjumaa
 address:      Estonia
 
 contact:      administrative
-name:         Endel Lippmaa
-organisation: Estonian Academy of Sciences
-address:      Kohtu 6
-address:      Tallinn  10130
+name:         Member of the Management Board
+organisation: Eesti Interneti Sihtasutus (EIS)
+address:      Silikaltsiidi 3a
+address:      11216 Tallin
+address:      Harjumaa
 address:      Estonia
-phone:        +372 5659096
-fax-no:       +372 6999001
-e-mail:       endel.lippmaa@nicpb.ee
+phone:        +372 727 1000
+fax-no:       +372 727 1010
+e-mail:       info@internet.ee
 
 contact:      technical
-name:         Jaak Lippmaa
-organisation: Quantum Fugue Ltd
-address:      Tahe 20
-address:      Tallinn  11619
+name:         Head of Information Technology and Infrastructure Administration Dept.
+organisation: Eesti Interneti Sihtasutus (EIS)
+address:      Silikaltsiidi 3a
+address:      11216 Tallinn
+address:      Harjumaa
 address:      Estonia
-phone:        +372 5659003
-fax-no:       +372 6999001
-e-mail:       jaak.lippmaa@nicpb.ee
+phone:        +372 727 1000
+fax-no:       +372 727 1010
+e-mail:       info@internet.ee
 
 nserver:      B.TLD.EE 194.146.106.110 2001:67c:1010:28:0:0:0:53
 nserver:      EE.ASO.EE 213.184.51.122 2a02:88:0:21:0:0:0:2
@@ -41,9 +44,9 @@ nserver:      SUNIC.SUNET.SE 192.36.125.2 2001:6b0:7:0:0:0:0:2
 whois:        whois.tld.ee
 
 status:       ACTIVE
-remarks:      Registration information: http://www.eestiinternet.ee
+remarks:      Registration information: http://www.internet.ee
 
 created:      1992-06-03
-changed:      2012-08-27
+changed:      2013-07-18
 source:       IANA
 
