@@ -4,42 +4,45 @@
 
 domain:       ID
 
-organisation: IDNIC-PPAU Mikroelektronika
-address:      J1 Ganesha 10
-address:      Bandung
-address:      Jawa Barat  40132
+organisation: Perkumpulan Pengelola Nama Domain Internet Indonesia (PANDI)
+address:      Arthaloka Bld. 11th Floor, Jalan
+address:      Jendral Sudirman Kav. 2
+address:      Jakarta Pusat DKI Jakarta 10220
 address:      Indonesia
 
 contact:      administrative
-name:         Budi Rahardjo
-organisation: PPAU Mikroelektronika ITB
-address:      Jl. Ganesha 10
-address:      Bandung
-address:      Jawa Barat  40132
+name:         Muhammad Neil El Himam
+organisation: Ministry of Communication and Information Technology
+address:      Jalan Medan Merdeka Barat No.17
+address:      Jakarta Pusat DKI Jakarta 10110
 address:      Indonesia
-phone:        +62 22 250 6280
-fax-no:       +62 22 250 8763
-e-mail:       budi@alliance.globalnetlink.com
+phone:        +62 8179006366
+fax-no:       +62 21 3835845
+e-mail:       neil@pandi.or.id
 
 contact:      technical
-name:         Santoso
-organisation: Gedung I BPPT, Lt.16.
-address:      Jl. MH.Thamrin No.8
-address:      Jakarta Pusat 10340
+name:         Aidil Chendramata
+organisation: Ministry of Communication and Information Technology
+address:      Jalan Medan Merdeka Barat No.9
+address:      Jakarta Pusat DKI Jakarta 10110
 address:      Indonesia
-phone:        +62 21 316 8701/02
-fax-no:       +62 21 314 9058
-e-mail:       toto@iptek.net.id
+phone:        +62 817758377
+fax-no:       +62 21 3845786
+e-mail:       aidil@pandi.or.id
 
-nserver:      NS1.ID 202.155.30.227
+nserver:      G.DNS.ID 2001:dd8:1f:4:0:0:0:84 203.119.112.84
+nserver:      NS1.ID 2001:e00:1800:0:0:0:0:2 202.155.30.227
 nserver:      NS1.INDO.NET.ID 202.159.32.2
 nserver:      NS1.RAD.NET.ID 202.154.1.2
+nserver:      NS2.CBN.NET.ID 2001:d10:a:53:0:0:0:53 202.158.40.1
 nserver:      SEC3.APNIC.NET 2001:dc0:1:0:4777:0:0:140 202.12.28.140
 
+whois:        whois.pandi.or.id
+
 status:       ACTIVE
-remarks:      Registration information: https://register.net.id/
+remarks:      Registration information: https://register.pandi.or.id
 
 created:      1993-02-27
-changed:      2011-03-04
+changed:      2013-07-19
 source:       IANA
 
