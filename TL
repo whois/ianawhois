@@ -24,18 +24,19 @@ fax-no:       +670 3339350
 e-mail:       doit@nic.tl
 
 contact:      technical
-name:         TLD Registry Support
-organisation: CoCCA Registry Services Limited
-address:      6RCI Building
-address:      Nursery Road
-address:      Christmas Island WA, Indian Ocean 6798
-address:      Christmas Island
-phone:        +64(0)94466370
-e-mail:       tlnic@coccaregistry.net
+name:         Garth Miller
+organisation: CoCCA Registry Services (NZ) Limited
+address:      11a Wynyard Street, Devonport
+address:      Auckland
+address:      North Island 0744
+address:      New Zealand
+phone:        +64 9 446 6370
+e-mail:       garth.miller@cocca.org.nz
 
 nserver:      NS.ANYCAST.NIC.TL 2001:500:14:6019:ad:0:0:1 204.61.216.19
 nserver:      TL1.DYNTLD.NET 2001:500:90:0:0:0:0:78 208.78.70.78
 nserver:      TL3.DYNTLD.NET 2001:500:94:0:0:0:0:78 208.78.71.78
+ds-rdata:     25307 8 2 BC0412D59817424A34040676F1AE1205B1F33FC9510E7E30114711851FFCEDE4
 
 whois:        whois.nic.tl
 
@@ -43,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.tl
 
 created:      2005-03-23
-changed:      2013-04-04
+changed:      2013-08-01
 source:       IANA
 
