@@ -31,7 +31,7 @@ e-mail:       elmaouhab@wissal.dz
 
 nserver:      DZ.CCTLD.AUTHDNS.RIPE.NET 193.0.9.71 2001:67c:e0:0:0:0:0:71
 nserver:      NS-DZ.AFRINIC.NET 196.216.168.36 2001:43f8:120:0:0:0:0:36
-nserver:      NS1.NIC.DZ 193.194.64.242
+nserver:      NS1.NIC.DZ 193.194.64.242 2001:4340:1030:2:0:0:0:2
 nserver:      NS2.NIC.DZ 213.179.160.66
 nserver:      NS3.NIC.FR 192.134.0.49 2001:660:3006:1:0:0:1:1
 
@@ -41,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.dz
 
 created:      1994-01-03
-changed:      2012-07-25
+changed:      2013-08-01
 source:       IANA
 
