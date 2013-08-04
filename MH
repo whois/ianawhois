@@ -4,36 +4,38 @@
 
 domain:       MH
 
-organisation: Cabinet Office
-address:      96960
+organisation: Office of the Cabinet
+address:      P.O. Box 2
+address:      Majuro, MH 96960
 address:      Marshall Islands
 
 contact:      administrative
-name:         Amata Kabua
-organisation: Cabinet Office
-address:      96960
+name:         Secretary, Ministry of Transportation and Communications
+organisation: Ministry of Transportation and Communications
+address:      P.O. Box 1079
+address:      Majuro, MH 96960
 address:      Marshall Islands
-phone:        +1 414 476 4266
-e-mail:       steve@inc.net
+phone:        +692-625-6083, +692-625-8869, +692-625-8377
+fax-no:       +692-625-3486
+e-mail:       phil.philippo@gmail.com
 
 contact:      technical
-name:         Steve R. Kaczkowski
-organisation: Internet Connect Inc.
-address:      10437 Innovation Dr.
-address:      Suite 307
-address:      Wauwatosa Wisconsin 53226
-address:      United States
-phone:        +1 414 476 ICON x.12 / +1 414 476 4266 x.12
-fax-no:       +1 414 476 2403
-e-mail:       steve@inc.net
+name:         Chief Technical Officer
+organisation: National Telecommunications Authority
+address:      P.O. Box 1169
+address:      Majuro, MH 96960
+address:      Marshall Islands
+phone:        +692-625-3852
+fax-no:       +692-625-3952
+e-mail:       msawej@ntamar.net
 
-nserver:      INS2.TOSA.TWTELECOM.NET 204.95.160.4
-nserver:      NS1.TOSA.TWTELECOM.NET 204.95.160.2
+nserver:      NS.AMARSHALLINC.COM 71.163.249.97
+nserver:      NS.NTAMAR.NET 117.103.88.33
 
 status:       ACTIVE
 remarks:      Registration information: http://www.nic.net.mh/
 
 created:      1996-08-16
-changed:      2005-07-26
+changed:      2013-08-03
 source:       IANA
 
