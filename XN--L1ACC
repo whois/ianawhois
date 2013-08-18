@@ -1,0 +1,47 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       мон
+domain-ace:   XN--L1ACC
+
+organisation: Datacom Co.,Ltd
+address:      San Business Center Building,
+address:      Sukhbaatar district 8th khoroo, Amar's street
+address:      Ulaanbaatar 14200
+address:      Mongolia
+
+contact:      administrative
+name:         Enkhbat Dangaasuren
+organisation: Datacom Co.,Ltd
+address:      San Business Center Building,
+address:      Sukhbaatar district 8th khoroo, Amar's street
+address:      Ulaanbaatar 14200
+address:      Mongolia
+phone:        +976 11 318048
+fax-no:       +976 11 320210
+e-mail:       enkhbat@datacom.mn
+
+contact:      technical
+name:         CEO
+organisation: Datacom Co.,Ltd
+address:      San Business Center Building,
+address:      Sukhbaatar district 8th khoroo, Amar's street
+address:      Ulaanbaatar 14200
+address:      Mongolia
+phone:        +976 11 318048
+fax-no:       +976 11 320210
+e-mail:       hostmaster@datacom.mn
+
+nserver:      NS1.IDN.MN 202.170.80.40
+nserver:      NS2.IDN.MN 202.131.0.11
+nserver:      NS3.IDN.MN 202.180.216.18
+ds-rdata:     29566 5 1 07D52F8F36FECED48212940E021C28E40274CFC6
+ds-rdata:     29566 5 2 6029C4759FF53E279A93E13C146DC52BD7017291FDFE799C220C17B5EEE95ED6
+
+status:       ACTIVE
+
+created:      2012-06-21
+changed:      2013-08-17
+source:       IANA
+
