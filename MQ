@@ -1,5 +1,40 @@
 % IANA WHOIS server
 % for more information on IANA, visit http://www.iana.org
-%
-% WHOIS server encountered an error.
-% Please report the issue to http://www.iana.org.
+% This query returned 1 object
+
+domain:       MQ
+
+organisation: MEDIASERV
+address:      Tour SECID 6 eme Etage
+address:      Pointe à Pitre 97110
+address:      France
+
+contact:      administrative
+name:         System Administrator
+organisation: MEDIASERV
+address:      Tour SECID 6 eme Etage
+address:      Pointe à Pitre 97110
+address:      France
+phone:        +33 590 571131
+e-mail:       exploit-sys@mediaserv.com
+
+contact:      technical
+name:         System Administrator
+organisation: MEDIASERV
+address:      Tour SECID 6 eme Etage
+address:      Pointe à Pitre 97110
+address:      France
+phone:        +33 590 571131
+e-mail:       exploit-sys@mediaserv.com
+
+nserver:      NS1-FR.MEDIASERV.NET 188.165.38.14
+nserver:      NS1-GP.MEDIASERV.NET 213.188.172.1
+nserver:      NS1-MQ.MEDIASERV.NET 213.16.20.3
+
+status:       ACTIVE
+remarks:      Registration information: http://www.nic.mq/
+
+created:      1997-03-28
+changed:      2011-10-13
+source:       IANA
+
