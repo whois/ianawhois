@@ -4,30 +4,33 @@
 
 domain:       BW
 
-organisation: University of Botswana
-address:      Private Bag 0022
+organisation: Botswana Communications Regulatory Authority (BOCRA)
+address:      Plot 206/207 Independence Avenue
+address:      Private Bag 00495
 address:      Gaborone
 address:      Botswana
 
 contact:      administrative
-name:         Gary Northfield
-organisation: Megaleng
-organisation: Government Enclave
+name:         Snr Engineer ccTLD
+organisation: Botswana Communications Regulatory Authority (BOCRA)
+address:      Plot 206/207 Independence Avenue
+address:      Private Bag 00495
 address:      Gaborone
 address:      Botswana
-phone:        +267 358 492
-fax-no:       +267 353 526
-e-mail:       garyn@btc.bw
+phone:        +267 368 5557
+fax-no:       +267 395 7976
+e-mail:       kamanga@bocra.org.bw
 
 contact:      technical
-name:         Gary Northfield
-organisation: Megaleng
-organisation: Government Enclave
+name:         Snr Engineer ccTLD
+organisation: Botswana Communications Regulatory Authority (BOCRA)
+address:      Plot 206/207 Independence Avenue
+address:      Private Bag 00495
 address:      Gaborone
 address:      Botswana
-phone:        +267 358 492
-fax-no:       +267 353 526
-e-mail:       garyn@btc.bw
+phone:        +267 368 5557
+fax-no:       +267 395 7976
+e-mail:       kamanga@bocra.org.bw
 
 nserver:      DAISY.EE.UND.AC.ZA 146.230.192.18
 nserver:      HIPPO.RU.AC.ZA 146.231.128.1 2001:4200:1010:0:0:0:0:1
@@ -40,6 +43,6 @@ nserver:      VPSM.BTC.BW 168.167.253.21
 status:       ACTIVE
 
 created:      1993-03-19
-changed:      2013-02-13
+changed:      2013-08-24
 source:       IANA
 
