@@ -15,18 +15,18 @@ organisation: Finnish Communications Regulatory Authority
 address:      PO Box 313
 address:      Helsinki  FI-00181
 address:      Finland
-phone:        +358 9 69661
-fax-no:       +358 9 6966410
+phone:        +358 295 390 200
+fax-no:       +358 295 390 270
 e-mail:       firootadmin@ficora.fi
 
 contact:      technical
-name:         Domain Names / Technical
+name:         Sami Salmensuo
 organisation: Finnish Communications Regulatory Authority
 address:      P.O. Box 313
 address:      Helsinki  FI-00181
 address:      Finland
-phone:        +358 9 69661
-fax-no:       +358 9 6966410
+phone:        +358 295 390 200
+fax-no:       +358 295 390 270 
 e-mail:       firootadmin@ficora.fi
 
 nserver:      A.FI 193.166.4.1 2001:708:10:53:0:0:0:53
@@ -34,7 +34,7 @@ nserver:      B.FI 194.146.106.26 2001:67c:1010:6:0:0:0:53
 nserver:      C.FI 156.154.100.26 2001:502:ad09:0:0:0:0:26
 nserver:      D.FI 2a01:3f0:0:302:0:0:0:53 77.72.229.253
 nserver:      E.FI 194.0.1.14 2001:678:4:0:0:0:0:e
-nserver:      F.FI 87.239.127.198
+nserver:      F.FI 2a00:13f0:0:3:0:0:0:aaaa 87.239.127.198
 nserver:      G.FI 156.154.101.26
 nserver:      H.FI 156.154.102.26
 nserver:      I.FI 156.154.103.26 2001:502:2eda:0:0:0:0:26
@@ -47,6 +47,6 @@ status:       ACTIVE
 remarks:      Registration information: https://domain.fi
 
 created:      1986-12-17
-changed:      2012-10-02
+changed:      2013-08-30
 source:       IANA
 
