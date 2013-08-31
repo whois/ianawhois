@@ -38,6 +38,8 @@ e-mail:       andrew.rarumae@telekom.com.sb
 nserver:      PCH.NIC.SB 2001:500:14:6031:ad:0:0:1 204.61.216.31
 nserver:      SB1.DYNTLD.NET 2001:500:90:0:0:0:0:83 208.78.70.83
 nserver:      SB3.DYNTLD.NET 2001:500:94:0:0:0:0:83 208.78.71.83
+nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e:0:0:0:0:1
+ds-rdata:     17635 8 2 27F59686A15B09DC8293FAC9C31E5BE51ABF214E1E9CD5B21CBE50F0F311C780
 
 whois:        whois.nic.net.sb
 
@@ -45,6 +47,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.net.sb/
 
 created:      1994-04-19
-changed:      2013-05-01
+changed:      2013-08-30
 source:       IANA
 
