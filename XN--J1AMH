@@ -30,9 +30,9 @@ phone:        +380503538629
 fax-no:       +380442309344
 e-mail:       dotukr@uanic.net
 
-nserver:      DNS1.U-REGISTRY.COM 91.231.86.6
-nserver:      DNS2.U-REGISTRY.NET 188.40.51.250
-nserver:      DNS3.DOTUKR.COM 195.64.155.254
+nserver:      DNS1.U-REGISTRY.COM 184.22.82.74 2607:f878:3:39c:0:0:0:2
+nserver:      DNS2.U-REGISTRY.NET 195.123.1.7 2a02:128:2:0:0:0:0:5
+nserver:      DNS3.DOTUKR.COM 2001:41d0:a:2b1f:0:0:0:1 37.187.75.31
 nserver:      NSI.UANIC.NET 212.1.66.247
 nserver:      TIER1.NUM.NET.UA 193.110.163.134
 
@@ -43,6 +43,6 @@ remarks:      Registration information:
 remarks:      https://namestore.u-registry.com
 
 created:      2011-03-01
-changed:      2013-03-20
+changed:      2013-09-06
 source:       IANA
 
