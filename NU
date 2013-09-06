@@ -21,13 +21,12 @@ e-mail:       admin@iusn.org
 
 contact:      technical
 name:         NU Technical Contact
-organisation: WorldNames, Inc/IUSN
-address:      266 Main St.
-address:      Suite 31
-address:      Medfield Massachusetts 02052
-address:      United States
-phone:        +1 508 359 5600
-fax-no:       +1 508 242 9707
+organisation: The Internet Infrastructure Foundation
+address:      Box 7399
+address:      Stockholm SE-103 91
+address:      Sweden
+phone:        +46 8 452 35 00
+fax-no:       +46 8 452 35 02
 e-mail:       noc@nic.nu
 
 nserver:      A.NIC.NU 194.146.106.22 2001:67c:1010:5:0:0:0:53
@@ -41,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nunames.nu/
 
 created:      1997-06-20
-changed:      2013-08-11
+changed:      2013-09-05
 source:       IANA
 
