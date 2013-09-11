@@ -32,8 +32,8 @@ e-mail:       registrar@dotgov.gov
 
 nserver:      A.GOV-SERVERS.NET 2001:500:4431:0:0:0:2:30 69.36.157.30
 nserver:      B.GOV-SERVERS.NET 209.112.123.30
-ds-rdata:     53138 7 1 35D81501CC594683875872282FE73054CFE619DE
-ds-rdata:     53138 7 2 5AEC256412BC1FEC92B8FDDB4493B585E9406541CF8C952BFE6E27ACB3A20766
+ds-rdata:     7698 8 1 6F109B46A80CEA9613DC86D5A3E065520505AAFE
+ds-rdata:     7698 8 2 6BC949E638442EAD0BDAF0935763C8D003760384FF15EBBD5CE86BB5559561F0
 
 whois:        whois.dotgov.gov
 
@@ -41,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.dotgov.gov
 
 created:      1985-01-01
-changed:      2012-02-25
+changed:      2013-09-10
 source:       IANA
 
