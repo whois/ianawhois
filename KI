@@ -31,15 +31,10 @@ phone:        +686 25488
 fax-no:       +686 25432
 e-mail:       itaaka.tebaka@tak.gov.ki
 
-nserver:      KI1.DYNTLD.NET 208.78.70.87
-nserver:      KI2.DYNTLD.NET 204.13.250.87
-nserver:      KI3.DYNTLD.NET 208.78.71.87
-nserver:      KI4.DYNTLD.NET 204.13.251.87
-nserver:      NS-KI.RIPE.NET 193.0.12.115
-nserver:      NS.ANYCAST.NIC.KI 204.61.216.26
-nserver:      NS.SYDNEY.NIC.KI 203.119.12.246
-nserver:      SEC1.APNIC.NET 2001:dc0:2001:a:4608:0:0:59 202.12.29.59
-nserver:      SEC3.APNIC.NET 2001:dc0:1:0:4777:0:0:140 202.12.28.140
+nserver:      KI1.DYNTLD.NET 2001:500:90:0:0:0:0:87 208.78.70.87
+nserver:      KI3.DYNTLD.NET 2001:500:94:0:0:0:0:87 208.78.71.87
+nserver:      PCH.NIC.KI 2001:500:14:6026:ad:0:0:1 204.61.216.26
+nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e:0:0:0:0:1
 
 whois:        whois.nic.ki
 
@@ -47,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.ki
 
 created:      1995-04-19
-changed:      2013-04-26
+changed:      2013-09-26
 source:       IANA
 
