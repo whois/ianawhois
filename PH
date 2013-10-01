@@ -32,7 +32,6 @@ phone:        +63 (2) 637 2104
 fax-no:       +63 (2) 632 7319
 e-mail:       sysadmin@dot.ph
 
-nserver:      NS1.DOMAINS.PH 203.119.6.78
 nserver:      NS2.CUHK.EDU.HK 137.189.6.21 2405:3000:3:60:0:0:0:21
 nserver:      PH.CCTLD.AUTHDNS.RIPE.NET 193.0.9.104 2001:67c:e0:0:0:0:0:104
 nserver:      PH.COMMUNITYDNS.NET 194.0.1.23
@@ -43,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://dot.ph
 
 created:      1990-09-14
-changed:      2011-10-24
+changed:      2013-09-30
 source:       IANA
 
