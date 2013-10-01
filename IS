@@ -5,14 +5,14 @@
 domain:       IS
 
 organisation: ISNIC - Internet Iceland ltd.
-address:      Hofdatun 2
+address:      Katrinartun 2
 address:      Reykjavik  105
 address:      Iceland
 
 contact:      administrative
 name:         Jens Pétur Jensen
 organisation: ISNIC - Internet Iceland, Inc.
-address:      Hofdatun 2
+address:      Katrinartun 2
 address:      Reykjavik  105
 address:      Iceland
 phone:        +354 578 2030
@@ -22,7 +22,7 @@ e-mail:       jens@isnic.is
 contact:      technical
 name:         Marius Olafsson
 organisation: ISNIC - Internet Iceland Inc.
-address:      Hofdatun 2
+address:      Katrinartun 2
 address:      Reykjavik  105
 address:      Iceland
 phone:        +354 525 4747
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.isnic.is/
 
 created:      1987-11-18
-changed:      2012-08-13
+changed:      2013-09-30
 source:       IANA
 
