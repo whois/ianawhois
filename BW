@@ -38,7 +38,10 @@ nserver:      NS-BW.AFRINIC.NET 196.216.168.72 2001:43f8:120:0:0:0:0:72
 nserver:      NS1.BTC.BW 168.167.168.34
 nserver:      PCH.NIC.NET.BW 204.61.216.70
 
+whois:        whois.nic.net.bw
+
 status:       ACTIVE
+remarks:      Registration information: https://registry.nic.net.bw
 
 created:      1993-03-19
 changed:      2013-09-06
