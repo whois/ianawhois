@@ -1,0 +1,44 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       ایران
+domain-ace:   XN--MGBA3A4F16A
+
+organisation: Institute for Research in Fundamental Sciences (IPM)
+address:      Shahid Bahonar (Niavaran) Square
+address:      Tehran 1954851167
+address:      Iran, Islamic Republic Of
+
+contact:      administrative
+name:         Director
+organisation: Institute for Research in Fundamental Sciences (IPM)
+address:      Shahid Bahonar (Niavaran) Square
+address:      Tehran 1954851167
+address:      Iran, Islamic Republic Of
+phone:        +98 21 22828081 Ext. 115
+fax-no:       +98 21 22295700
+e-mail:       info@irnic.ir
+
+contact:      technical
+name:         CTO
+organisation: Institute for Research in Fundamental Sciences (IPM)
+address:      Shahid Bahonar (Niavaran) Square
+address:      Tehran 1954851167
+address:      Iran, Islamic Republic Of
+phone:        +98 21 22828081 Ext. 124
+fax-no:       +98 21 22295700
+e-mail:       tech-team@irnic.ir
+
+nserver:      A.NIC.IR 193.189.123.2
+nserver:      NS.IRNIC.IR 193.189.122.83
+
+whois:        whois.nic.ir
+
+status:       ACTIVE
+remarks:      Registration information: http://www.nic.ir
+
+created:      2011-02-05
+changed:      2013-10-09
+source:       IANA
+
