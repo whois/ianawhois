@@ -17,7 +17,7 @@ address:      Columbus Ohio 43213
 address:      United States
 phone:        (800)365-3642
 fax-no:       (614)692-3452
-e-mail:       networks@nic.mil
+e-mail:       disa.columbus.ns.mbx.nic-networks@mail.mil
 
 contact:      technical
 name:         DoD NIC Registry Services
@@ -41,6 +41,6 @@ ds-rdata:     33001 8 2 7BE472D58626F033479706F80DFBABBDFA3BE748C3E94B7D97E9DD53
 status:       ACTIVE
 
 created:      1985-01-01
-changed:      2013-10-04
+changed:      2013-10-11
 source:       IANA
 
