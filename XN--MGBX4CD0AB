@@ -38,6 +38,7 @@ nserver:      DNS2.MYNIC.NET.MY 202.75.39.36 2401:b000:0:0:0:0:0:36
 nserver:      NS-MY.NIC.FR 192.134.0.49 2001:660:3006:1:0:0:1:1
 nserver:      NS2.CUHK.EDU.HK 137.189.6.21 2405:3000:3:60:0:0:0:21
 nserver:      NS20.IIJ.AD.JP 2001:240:0:0:0:0:0:161 202.232.2.161
+nserver:      NS30.CDNS.NET 194.0.1.30 2001:678:4:0:0:0:0:1e
 nserver:      NS5.JARING.MY 2001:328:200:48:0:0:0:400 61.6.38.139
 nserver:      NS6.JARING.MY 192.228.128.16 2001:328:200:ab:0:0:0:600
 ds-rdata:     17106 8 1 95B6E1D09E818E13B8FBE777482C69109A614E4B
@@ -51,6 +52,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.domainregistry.my
 
 created:      2011-10-22
-changed:      2012-12-10
+changed:      2013-10-15
 source:       IANA
 
