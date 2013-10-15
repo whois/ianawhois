@@ -12,16 +12,15 @@ address:      Managua  MR110
 address:      Nicaragua
 
 contact:      administrative
-name:         Marvin Castañeda
-organisation: Universidad Nacional del Ingernieria
-organisation: Administration NIC.NI
-address:      Avenida Universitaria
-address:      Frente a la UCA
-address:      Managua  MR110
+name:         Director
+organisation: UNI (National University Engineering)
+address:      Avenida Universitaria Frente a la UCA
+address:      Managua
+address:      Rectoria UNI
 address:      Nicaragua
-phone:        +505 278 3142
-fax-no:       +505 278 3141
-e-mail:       marvin@nic.ni
+phone:        505-2278 3142,505-84267499
+fax-no:       505-2278 3141
+e-mail:       nelson.juarez@uni.edu.ni
 
 contact:      technical
 name:         Alfonso Boza
@@ -47,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.ni
 
 created:      1989-10-13
-changed:      2011-07-18
+changed:      2013-10-14
 source:       IANA
 
