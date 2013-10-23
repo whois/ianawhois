@@ -33,6 +33,7 @@ nserver:      A.NIC.NU 194.146.106.22 2001:67c:1010:5:0:0:0:53
 nserver:      B.NIC.NU 2a01:8840:10:0:0:0:0:1 65.22.164.1
 nserver:      C.NIC.NU 192.36.144.107 2a01:3f0:0:301:0:0:0:53
 ds-rdata:     3156 7 2 F4E23FAA33D8C28EF8B1E3C0F2320DFABEB03551CF8DCAA4FC8E63455429912E
+ds-rdata:     3453 7 2 270aad4fb6bc3af95cb66b2f9c61f615d4510c5702b54899c26ee2e37dbca6d8
 
 whois:        whois.iis.nu
 
@@ -40,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.iis.se
 
 created:      1997-06-20
-changed:      2013-09-10
+changed:      2013-10-22
 source:       IANA
 
