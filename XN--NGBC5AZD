@@ -1,0 +1,50 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       شبكة
+domain-ace:   XN--NGBC5AZD
+
+organisation: International Domain Registry Pty. Ltd.
+address:      Level 8, 10 Queens Road
+address:      Melbourne, Victoria 3004
+address:      Australia
+
+contact:      administrative
+name:         Yasmin Omer
+organisation: International Domain Registry Pty. Ltd.
+address:      Level 8, 10 Queens Road
+address:      Melbourne, Victoria 3004
+address:      Australia
+address:      Australia
+phone:        +971 4 453 2761
+fax-no:       +61 3 9866 1970
+e-mail:       generalmanager@dotshabaka.com
+
+contact:      technical
+name:         General Manager
+organisation: International Domain Registry Pty. Ltd.
+address:      Level 8, 10 Queens Road
+address:      Melbourne, Victoria 3004
+address:      Australia
+address:      Australia
+phone:        +971 4 453 2761
+fax-no:       +61 3 9866 1970
+e-mail:       generalmanager@dotshabaka.com
+
+nserver:      A.NIC.XN--NGBC5AZD 2001:dcd:1:0:0:0:0:3 37.209.192.3
+nserver:      B.NIC.XN--NGBC5AZD 2001:dcd:2:0:0:0:0:3 37.209.194.3
+nserver:      C.NIC.XN--NGBC5AZD 2001:dcd:3:0:0:0:0:3 37.209.196.3
+nserver:      D.NIC.XN--NGBC5AZD 2001:dcd:4:0:0:0:0:3 37.209.198.3
+ds-rdata:     20736 8 1 0AC95C7D70A0A3CCB3E8351F6416663B941230DD
+ds-rdata:     20736 8 2 851A2DD716C38C5325818FB56E53D8F2E340C098F8AE9DC531601F49F4D8B943
+
+whois:        whois.xn--ngbc5azd.aridnrs.net.au
+
+status:       ACTIVE
+remarks:      Registration information: http://www.dotshabaka.com
+
+created:      2013-10-21
+changed:      2013-10-23
+source:       IANA
+
