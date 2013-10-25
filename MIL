@@ -27,7 +27,7 @@ address:      Columbus Ohio 43213
 address:      United States
 phone:        (800)365-3642
 fax-no:       (614)692-3452
-e-mail:       networks@nic.mil
+e-mail:       disa.columbus.ns.mbx.nic-networks@mail.mil
 
 nserver:      CON1.NIPR.MIL 199.252.157.234
 nserver:      CON2.NIPR.MIL 199.252.162.234
@@ -41,6 +41,6 @@ ds-rdata:     33001 8 2 7BE472D58626F033479706F80DFBABBDFA3BE748C3E94B7D97E9DD53
 status:       ACTIVE
 
 created:      1985-01-01
-changed:      2013-10-11
+changed:      2013-10-24
 source:       IANA
 
