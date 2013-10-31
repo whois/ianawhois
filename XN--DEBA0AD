@@ -31,17 +31,11 @@ phone:        +1 310 301-5800
 fax-no:       +1 310 823-8649
 e-mail:       tld-contact@iana.org
 
-nserver:      A.IANA-SERVERS.NET 199.43.132.53 2001:500:8c:0:0:0:0:53
-nserver:      B.IANA-SERVERS.NET 199.43.133.53 2001:500:8d:0:0:0:0:53
-nserver:      C.IANA-SERVERS.NET 199.43.134.53 2001:500:8e:0:0:0:0:53
-ds-rdata:     56231 8 1 B62D6A035EC97E78692AB0026854A635A1F79777
-ds-rdata:     56231 8 2 FDD390379DE73265D77796341A2E38ACFCA116CF5BD04EBA5C164924D7C629C1
-
-status:       ACTIVE
+status:       INACTIVE
 remarks:      Registration information:
 remarks:      http://www.iana.org/domains/idn-test/
 
 created:      2007-10-19
-changed:      2013-06-22
+changed:      2013-10-31
 source:       IANA
 
