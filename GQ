@@ -27,7 +27,11 @@ address:      Equatorial Guinea
 phone:        +240222034021
 e-mail:       joseluis.abeso@orange-getesa.gq
 
+nserver:      A.GQ.GLOBALANYCASTCLOUD.FREENOM.NET 185.21.168.34 2a04:1b00:8:0:0:0:0:2
+nserver:      B.GQ.GLOBALANYCASTCLOUD.FREENOM.NET 185.21.169.34 2a04:1b00:9:0:0:0:0:2
 nserver:      BOW.INTNET.GQ 193.251.153.78
+nserver:      C.GQ.GLOBALANYCASTCLOUD.FREENOM.NET 185.21.170.34 2a04:1b00:a:0:0:0:0:2
+nserver:      D.GQ.GLOBALANYCASTCLOUD.FREENOM.NET 185.21.171.34 2a04:1b00:b:0:0:0:0:2
 nserver:      DNS.INTNET.GQ 193.251.153.67
 nserver:      NS.UCAD.SN 196.1.95.1
 nserver:      PHLOEM.UOREGON.EDU 128.223.32.35 2001:468:d01:20:0:0:80df:2023
@@ -36,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.getesa.gq/
 
 created:      1997-07-10
-changed:      2013-02-27
+changed:      2013-10-30
 source:       IANA
 
