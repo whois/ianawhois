@@ -37,6 +37,7 @@ nserver:      B.TLD.LT 194.0.20.1 2001:678:19:0:0:0:0:1
 nserver:      C.TLD.LT 194.0.1.4 2001:678:4:0:0:0:0:4
 nserver:      D.TLD.LT 194.0.3.1 2001:678:6:0:0:0:0:1
 nserver:      E.TLD.LT 194.0.18.1
+nserver:      F.TLD.LT 194.0.19.1 2001:678:8c:0:0:0:0:1
 ds-rdata:     24556 8 1 a9d06fa34f1c9d57062899824f5702041188de97
 ds-rdata:     24556 8 2 dea1e077d98ea2de8750281b40acebc14687aeb8fe49506333c903d501f6c620
 
@@ -46,6 +47,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.domreg.lt
 
 created:      1992-06-03
-changed:      2013-03-04
+changed:      2013-11-05
 source:       IANA
 
