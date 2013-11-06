@@ -39,12 +39,12 @@ nserver:      D.NIC.XN--NGBC5AZD 2001:dcd:4:0:0:0:0:3 37.209.198.3
 ds-rdata:     20736 8 1 0AC95C7D70A0A3CCB3E8351F6416663B941230DD
 ds-rdata:     20736 8 2 851A2DD716C38C5325818FB56E53D8F2E340C098F8AE9DC531601F49F4D8B943
 
-whois:        whois.xn--ngbc5azd.aridnrs.net.au
+whois:        whois.nic.xn--ngbc5azd
 
 status:       ACTIVE
 remarks:      Registration information: http://www.dotshabaka.com
 
 created:      2013-10-21
-changed:      2013-10-23
+changed:      2013-11-06
 source:       IANA
 
