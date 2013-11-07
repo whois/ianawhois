@@ -33,7 +33,7 @@ nserver:      A0.IN.AFILIAS-NST.INFO 199.7.87.1 2001:500:29:0:0:0:0:1
 nserver:      A1.IN.AFILIAS-NST.IN 220.226.100.30
 nserver:      A2.IN.AFILIAS-NST.INFO 199.249.117.1 2001:500:45:0:0:0:0:1
 nserver:      B0.IN.AFILIAS-NST.ORG 199.253.56.1 2001:500:50:0:0:0:0:1
-nserver:      B1.IN.AFILIAS-NST.IN 125.19.40.90
+nserver:      B1.IN.AFILIAS-NST.IN 125.19.40.90 2404:a800:2:1e:0:0:19:90
 nserver:      B2.IN.AFILIAS-NST.ORG 199.249.125.1 2001:500:4d:0:0:0:0:1
 nserver:      C0.IN.AFILIAS-NST.INFO 199.253.57.1 2001:500:51:0:0:0:0:1
 nserver:      NS7.CDNS.NET 194.0.1.7 2001:678:4:0:0:0:0:7
@@ -46,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.registry.in
 
 created:      1989-05-08
-changed:      2013-07-18
+changed:      2013-11-06
 source:       IANA
 
