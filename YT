@@ -38,6 +38,7 @@ nserver:      E.EXT.NIC.FR 193.176.144.22 2a00:d78:0:102:193:176:144:22
 nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
 nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
 ds-rdata:     23161 8 2 8740a538ffe8cbd010bdfac7cbaa24b7039d47e04dacbff5a9e5e81e8f3f45ab
+ds-rdata:     18257 8 2 8109f3831fe1714980a8bd00ac12b56a8f7c2556c6f9ff6c02dad2785d25b23f
 
 whois:        whois.nic.yt
 
@@ -45,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.yt/
 
 created:      1997-11-17
-changed:      2012-02-23
+changed:      2013-11-19
 source:       IANA
 
