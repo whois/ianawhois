@@ -38,6 +38,7 @@ nserver:      E.EXT.NIC.FR 193.176.144.22 2a00:d78:0:102:193:176:144:22
 nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
 nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
 ds-rdata:     41402 8 2 a471ce5e038a05430c5b13ec457c272af48bcc12ef5b572cf2b87544b284a006
+ds-rdata:     35911 8 2 bccb9bb0cab68d8c3c64a4ff4ecf3309743d14c5366738f54d4c031e74ea99f1
 
 whois:        whois.nic.pm
 
@@ -45,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.pm/
 
 created:      1997-08-20
-changed:      2012-02-23
+changed:      2013-11-19
 source:       IANA
 
