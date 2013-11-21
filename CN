@@ -23,15 +23,15 @@ fax-no:       +86 10 58812666
 e-mail:       huangxy@cnnic.cn
 
 contact:      technical
-name:         Wang Wei
+name:         Dr. Xiaodong Lee
 organisation: China Internet Network Information Center
 address:      No.4, South 4th Street
 address:      Zhong Guan Cun
 address:      Beijing 100190
 address:      China
-phone:        +86 10 58813101
+phone:        +86 10 58813020
 fax-no:       +86 10 58812666
-e-mail:       wangwei@cnnic.cn
+e-mail:       xl@cnnic.cn
 
 nserver:      A.DNS.CN 2001:dc7:0:0:0:0:0:1 203.119.25.1
 nserver:      B.DNS.CN 203.119.26.1
@@ -47,6 +47,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.cnnic.cn/
 
 created:      1990-11-28
-changed:      2013-11-12
+changed:      2013-11-21
 source:       IANA
 
