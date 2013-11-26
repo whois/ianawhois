@@ -38,6 +38,7 @@ nserver:      I.DNS.CN 125.208.33.1 2001:dc7:ffff:0:0:0:0:1
 nserver:      J.DNS.CN 125.208.34.1
 nserver:      K.DNS.CN 125.208.35.1
 nserver:      L.DNS.CN 125.208.36.1
+ds-rdata:     32812 8 2 F190213A4E48C2832B144487130AAB1B782F9B7AF978056C1BA4FB46302A1B4A
 
 whois:        cwhois.cnnic.cn
 
@@ -45,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.cnnic.cn
 
 created:      2010-07-09
-changed:      2012-04-11
+changed:      2013-11-25
 source:       IANA
 
