@@ -5,9 +5,39 @@
 domain:       MENU
 
 organisation: Wedding TLD2, LLC
+address:      427 North Camden Drive, Beverly Hills, CA 90210
+address:      United States
 
-status:       NEW
+contact:      administrative
+name:         Kenwei Chong
+organisation: Wedding TLD2, LLC
+address:      427 North Camden Drive, Beverly Hills, CA 90210
+address:      United States
+phone:        +01 310 247 2165
+fax-no:       +01 310 247 2190
+e-mail:       kenwei@dot-menu.com
+
+contact:      technical
+name:         Erik Ludwick
+organisation: Wedding TLD2, LLC
+address:      427 North Camden Drive, Beverly Hills, CA 90210
+address:      United States
+phone:        +01 310 247 2165
+fax-no:       +01 310 247 2190
+e-mail:       erik@dot-menu.com
+
+nserver:      A.NIC.MENU 2001:dcd:1:0:0:0:0:10 37.209.192.10
+nserver:      B.NIC.MENU 2001:dcd:2:0:0:0:0:10 37.209.194.10
+nserver:      C.NIC.MENU 2001:dcd:3:0:0:0:0:10 37.209.196.10
+nserver:      D.NIC.MENU 2001:dcd:4:0:0:0:0:10 37.209.198.10
+ds-rdata:     51916 8 2 AA3C98EE447CFA3BBF57D8A2899626324DE2097353FB5DBF031519A4FE6964E6
+
+whois:        whois.menu.aridnrs.net.au
+
+status:       ACTIVE
+remarks:      Registration information: http://www.dot-menu.com
 
 created:      2013-11-13
+changed:      2013-12-02
 source:       IANA
 
