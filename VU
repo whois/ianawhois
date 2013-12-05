@@ -10,14 +10,14 @@ address:      Port Vila
 address:      Vanuatu
 
 contact:      administrative
-name:         CAUVEL Cedric
+name:         David Larcher
 organisation: Telecom Vanuatu Ltd.
 address:      Lini Highway
 address:      Port Vila
 address:      Vanuatu
-phone:        +678 7788744
+phone:        +678 7732001
 fax-no:       +678 24319
-e-mail:       cedric.cauvel@tvl.net.vu
+e-mail:       david.larcher@tvl.net.vu
 
 contact:      technical
 name:         TCHIEN Tari
@@ -38,6 +38,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.vunic.vu
 
 created:      1995-04-10
-changed:      2012-06-28
+changed:      2013-12-03
 source:       IANA
 
