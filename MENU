@@ -32,12 +32,12 @@ nserver:      C.NIC.MENU 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      D.NIC.MENU 2001:dcd:4:0:0:0:0:10 37.209.198.10
 ds-rdata:     51916 8 2 AA3C98EE447CFA3BBF57D8A2899626324DE2097353FB5DBF031519A4FE6964E6
 
-whois:        whois.menu.aridnrs.net.au
+whois:        whois.nic.menu
 
 status:       ACTIVE
 remarks:      Registration information: http://www.dot-menu.com
 
 created:      2013-11-13
-changed:      2013-12-02
+changed:      2013-12-06
 source:       IANA
 
