@@ -32,7 +32,7 @@ phone:        +63 (2) 637 2104
 fax-no:       +63 (2) 632 7319
 e-mail:       sysadmin@dot.ph
 
-nserver:      NS2.CUHK.EDU.HK 137.189.6.21 2405:3000:3:60:0:0:0:21
+nserver:      NS2.CUHK.EDU.HK 137.189.6.21 2405:3000:3:6:0:0:0:15
 nserver:      PH.CCTLD.AUTHDNS.RIPE.NET 193.0.9.104 2001:67c:e0:0:0:0:0:104
 nserver:      PH.COMMUNITYDNS.NET 194.0.1.23
 nserver:      SEC4.APNIC.NET 2001:dc0:4001:1:0:1836:0:141 202.12.31.141
