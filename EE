@@ -37,7 +37,6 @@ nserver:      E.TLD.EE 2001:678:94:53:0:0:0:53 204.61.216.36
 nserver:      EE.ASO.EE 213.184.51.122 2a02:88:0:21:0:0:0:2
 nserver:      NS.EENET.EE 193.40.56.245 2001:bb8:0:0:0:0:0:1
 nserver:      NS.TLD.EE 195.43.87.10
-nserver:      NS.UNINET.EE 194.204.0.1 2001:1530:60:10:0:0:0:1
 nserver:      NS.UT.EE 193.40.5.99
 nserver:      SUNIC.SUNET.SE 192.36.125.2 2001:6b0:7:0:0:0:0:2
 
@@ -47,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.internet.ee
 
 created:      1992-06-03
-changed:      2013-09-10
+changed:      2013-12-10
 source:       IANA
 
