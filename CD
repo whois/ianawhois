@@ -12,15 +12,14 @@ address:      Kinshasa  7070 Kin 1
 address:      Congo, The Democratic Republic Of The
 
 contact:      administrative
-name:         Chris Tshimanga Kamukoko
-organisation: Office Congolais des Postes et Télécommunications - OCPT
+name:         David KINSAKA NDUENGA
+organisation: SCPT
 address:      95, Boulevard du 30 Juin
-address:      Immeuble INSS, 1ier Etage
-address:      Gombe
+address:      Commune de la Gombe
 address:      Kinshasa  7070 Kin 1
 address:      Congo, The Democratic Republic Of The
-phone:        +243 81 806 88 00
-e-mail:       christshimka@nic.cd
+phone:        +243 81 063 8578
+e-mail:       david.k@ocpt.cd
 
 contact:      technical
 name:         Jaco Lesch
@@ -42,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.cd/
 
 created:      1997-08-20
-changed:      2012-04-21
+changed:      2013-12-10
 source:       IANA
 
