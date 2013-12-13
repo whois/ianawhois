@@ -38,12 +38,12 @@ nserver:      ANYCAST24.IRONDNS.NET 195.253.65.12 2a01:5b0:5:0:0:0:0:c
 nserver:      ANYCAST9.IRONDNS.NET 195.253.64.11 2a01:5b0:4:0:0:0:0:b
 ds-rdata:     25131 10 2 EC453960C396742EFA2EF815FA9C9DBA146E838F86F11643704C1630424F4E78
 
-whois:        whois-fe1.pdt.ruhr.tango.knipp.de
+whois:        whois.nic.ruhr
 
 status:       ACTIVE
 remarks:      Registration information: http://regiodot.de
 
 created:      2013-11-25
-changed:      2013-12-10
+changed:      2013-12-12
 source:       IANA
 
