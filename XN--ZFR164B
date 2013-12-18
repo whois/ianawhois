@@ -1,0 +1,45 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       政务
+domain-ace:   XN--ZFR164B
+
+organisation: China Organizational Name Administration Center
+address:      Jia 31,  Guang Ximen Beili, Xibahe, Chaoyang District, Beijing, 100028
+address:      China
+
+contact:      administrative
+name:         Chief Executive Officer
+organisation: China Organizational Name Administration Center
+address:      Jia 31, Guangximen Beili, Xibahe, Chaoyang District, Beijing, China 100028
+address:      China
+phone:        +8610-5203 5263
+fax-no:       +8610-5203 5034
+e-mail:       conac-admin@conac.cn
+
+contact:      technical
+name:         Director of New gTLD Lab
+organisation: China Organizational Name Administration Center
+address:      Jia 31, Guangximen Beili, Xibahe, Chaoyang District, Beijing, China 100028
+address:      China
+phone:        +8610-5203 5025
+fax-no:       +8610-5203 5034
+e-mail:       tech@conac.cn
+
+nserver:      NS1.CONAC.CN 111.235.161.1 2401:b400:1:0:0:0:0:1
+nserver:      NS2.CONAC.CN 111.235.162.1 2401:b400:8:0:0:0:0:1
+nserver:      NS3.CONAC.CN 111.235.163.1 2401:b400:9:0:0:0:0:1
+nserver:      NS4.CONAC.CN 111.235.164.1
+nserver:      NS5.CONAC.CN 111.235.165.1
+ds-rdata:     51421 8 2 9d673623e84d7e10b2aa5b376a3f617665f8b38ef442e8a7e86f0f18161c7801
+
+whois:        whois.conac.cn
+
+status:       ACTIVE
+remarks:      Registration information: http://www.conac.cn
+
+created:      2013-12-12
+changed:      2013-12-17
+source:       IANA
+
