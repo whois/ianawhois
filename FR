@@ -37,7 +37,6 @@ nserver:      D.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
 nserver:      E.EXT.NIC.FR 193.176.144.22 2a00:d78:0:102:193:176:144:22
 nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
 nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
-ds-rdata:     1336 8 2 c7aee4d32904728741db270e72899673d7dfaf212e517f2400c9424b231cf56b
 ds-rdata:     20122 8 2 a4208b55ffb352edc816d9329283dd8bbdde44c585395af9aa7275abe3cf6795
 
 whois:        whois.nic.fr
@@ -46,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.fr/
 
 created:      1986-09-02
-changed:      2013-11-19
+changed:      2013-12-18
 source:       IANA
 
