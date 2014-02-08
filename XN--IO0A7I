@@ -1,0 +1,45 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       网络
+domain-ace:   XN--IO0A7I
+
+organisation: Computer Network Information Center of Chinese Academy of Sciences （China Internet Network Information Center）
+address:      Floor 1, Building 1, Software Park, Chinese Academy of Sciences, 4 South 4th Street, Zhongguancun, Beijing
+address:      China
+
+contact:      administrative
+name:         JIN Jian
+organisation: Computer Network Information Center of Chinese Academy of Sciences (China Internet Network Information Center)
+address:      Floor 1, Building 1, Software Park, Chinese Academy of Sciences, 4 South 4th Street, Zhongguancun, Beijing
+address:      China
+phone:        +86(0)10-58812624
+fax-no:       +86(0)10-58812666
+e-mail:       ng@cnnic.cn
+
+contact:      technical
+name:         HE Zheng
+organisation: Computer Network Information Center of Chinese Academy of Sciences （China Internet Network Information Center）
+address:      Floor 1, Building 1, Software Park, Chinese Academy of Sciences, 4 South 4th Street, Zhongguancun, Beijing
+address:      China
+phone:        +86(0)10-58813200
+fax-no:       +86(0)10-58812666
+e-mail:       ngtech@cnnic.cn
+
+nserver:      A.NGTLD.CN 125.208.40.1 2001:dc7:ffc1:0:0:0:0:1
+nserver:      B.NGTLD.CN 125.208.41.1 2001:dc7:ffc2:0:0:0:0:1
+nserver:      C.NGTLD.CN 125.208.42.1 2001:dc7:ffc3:0:0:0:0:1
+nserver:      D.NGTLD.CN 125.208.43.1
+nserver:      E.NGTLD.CN 125.208.44.1
+ds-rdata:     47359 8 2 426DB7D3FB8E6058BE42D379ECD7742B2EFAB5DD0A7A95494D3518604B715B1E
+
+whois:        whois.ngtld.cn
+
+status:       ACTIVE
+remarks:      Registration information: http://www.cnnic.cn
+
+created:      2014-01-09
+changed:      2014-01-20
+source:       IANA
+
