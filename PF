@@ -20,14 +20,14 @@ fax-no:       +689 582301
 e-mail:       direction@arn.gov.pf
 
 contact:      technical
-name:         Chargé de cellule systèmes et LAN
-organisation: MANA
+name:         Chef de section Systemes & Réseaux
+organisation: VINI SA
 address:      immeuble jissang - BP 40001
 address:      PAPEETE TAHITI 98713
 address:      French Polynesia
 phone:        +689 479958
 fax-no:       +689 479 915
-e-mail:       production@mana.pf
+e-mail:       support-technique@mana.pf
 
 nserver:      NS1.MANA.PF 202.3.225.10
 nserver:      NS2.MANA.PF 202.3.225.20
@@ -37,6 +37,6 @@ whois:        whois.registry.pf
 status:       ACTIVE
 
 created:      1996-03-19
-changed:      2011-12-19
+changed:      2014-01-02
 source:       IANA
 
