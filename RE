@@ -38,6 +38,7 @@ nserver:      E.EXT.NIC.FR 193.176.144.22 2a00:d78:0:102:193:176:144:22
 nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
 nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
 ds-rdata:     18007 8 2 91325eb53782eb94b7b6ea3b6fd5f05f86a0247858b160883af018667101aa1a
+ds-rdata:     27026 8 2 fc7f430d839fa81ce34fbbc3c687834184685e3312fa3284354b00aff6c9f2d2
 
 whois:        whois.nic.re
 
@@ -45,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.re/
 
 created:      1997-04-07
-changed:      2013-12-18
+changed:      2014-01-11
 source:       IANA
 
