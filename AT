@@ -31,13 +31,12 @@ e-mail:       tech-nic-at@nic.at
 
 nserver:      D.NS.AT 2a02:568:20:1:0:0:0:d 81.91.161.98
 nserver:      J.NS.AT 194.146.106.50 2001:67c:1010:12:0:0:0:53
-nserver:      N.NS.AT 87.233.175.130
+nserver:      N.NS.AT 81.91.173.130
 nserver:      NS1.UNIVIE.AC.AT 2001:628:2030:4301:0:0:0:2 78.104.144.2
 nserver:      NS2.UNIVIE.AC.AT 192.92.125.2 2001:678:1c:0:0:0:0:2
 nserver:      NS9.UNIVIE.AC.AT 194.0.10.100 2001:678:d:0:0:0:0:cafe
 nserver:      R.NS.AT 194.0.25.10 2001:678:20:0:0:0:0:10
 nserver:      U.NS.AT 195.66.241.82
-ds-rdata:     61234 8 2 616b10ebcf1947ff44c12552c1fa20fac46802359fbdf4dd6751799b8ed91610
 ds-rdata:     56489 8 2 2e48d4aae2f5d5022f156516846803a58f3b2f8a854aad238ec766de6ad98af2
 ds-rdata:     60836 8 2 6bb14ac9ab00b37afe0bb5570048dfd13b16c8bf3512846c627ce560f026ce39
 
@@ -47,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.at/
 
 created:      1988-01-20
-changed:      2013-12-08
+changed:      2014-01-10
 source:       IANA
 
