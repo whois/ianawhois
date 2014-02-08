@@ -1,0 +1,43 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       TOKYO
+
+organisation: GMO Registry, Inc.
+address:      26-1 Sakuragaoka-cho Shibuya-ku, Tokyo
+address:      Japan
+
+contact:      administrative
+name:         Representative Director and CEO
+organisation: GMO Registry, Inc.
+address:      Cerulean Tower, 26-1 Sakuragaoka-cho, Shibuya-ku, Tokyo
+address:      Japan
+phone:        +81 354561601
+fax-no:       +81 337805239
+e-mail:       tech@gmoregistry.com
+
+contact:      technical
+name:         Director
+organisation: GMO Registry, Inc.
+address:      Cerulean Tower, 26-1 Sakuragaoka-cho, Shibuya-ku, Tokyo
+address:      Japan
+phone:        +81 354561601
+fax-no:       +81 337805239
+e-mail:       tech@gmoregistry.com
+
+nserver:      A.GMOREGISTRY.NET 2001:470:1a:0:0:0:0:9 72.52.71.9
+nserver:      B.GMOREGISTRY.NET 38.103.2.9
+nserver:      C.GMOREGISTRY.NET 2001:5a0:10:0:0:0:0:9 63.243.194.9
+nserver:      D.GMOREGISTRY.NET 120.29.252.11 2001:dcd:5:0:0:0:0:11
+nserver:      E.GMOREGISTRY.NET 120.29.254.11 2001:dcd:6:0:0:0:0:11
+ds-rdata:     32771 8 2 19E0438B0E13DE780175E4BCEBE46432C5287FDB9DFE2B4440FA4E3BFBB20BC6
+
+status:       ACTIVE
+remarks:      Registration information:
+remarks:      http://www.gmo-registry.com/en/
+
+created:      2014-01-16
+changed:      2014-01-29
+source:       IANA
+
