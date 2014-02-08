@@ -1,0 +1,48 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       中信
+domain-ace:   XN--FIQ64B
+
+organisation: CITIC Group Corporation
+address:      Capital Mansion,6 Xinyuannanlu, Chaoyang District, Beijing 100004
+address:      China
+
+contact:      administrative
+name:         Qingfei Yang
+organisation: CITIC Group Corporation
+address:      Capital Mansion,6 Xinyuannanlu, Chaoyang District, Beijing 100004
+address:      China
+phone:        86 10 59661035
+fax-no:       86 10 59660035
+e-mail:       yangqf@citic.com
+
+contact:      technical
+name:         Xiaohui Ji
+organisation: CITIC Group Corporation
+address:      Capital Mansion,6 Xinyuannanlu, Chaoyang District, Beijing 100004
+address:      China
+phone:        86 10 59661016
+fax-no:       86 10 59660016
+e-mail:       jixh@citic.com
+
+nserver:      A.ZDNSCLOUD.COM 1.8.240.1
+nserver:      B.ZDNSCLOUD.COM 1.8.241.1
+nserver:      C.ZDNSCLOUD.COM 1.8.242.1
+nserver:      D.ZDNSCLOUD.COM 1.8.243.1
+nserver:      E.ZDNSCLOUD.COM 119.167.248.154
+nserver:      F.ZDNSCLOUD.COM 182.131.23.22
+nserver:      G.ZDNSCLOUD.COM 111.12.148.111
+nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
+nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
+ds-rdata:     50027 8 2 BABDE7E86DF1408E3AFB68043296A68DDC12ABBA6BFA341C7D06C764E042BEE6
+
+whois:        whois.gtld.knet.cn
+
+status:       ACTIVE
+
+created:      2014-01-09
+changed:      2014-01-22
+source:       IANA
+
