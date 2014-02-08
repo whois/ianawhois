@@ -32,13 +32,14 @@ e-mail:       info@verisign-grs.com
 nserver:      A6.NSTLD.COM 192.5.6.35
 nserver:      C6.NSTLD.COM 192.26.92.35
 nserver:      D6.NSTLD.COM 192.31.80.35
-nserver:      F6.NSTLD.COM 192.35.51.35
+nserver:      F6.NSTLD.COM 192.35.51.35 2001:503:d414:0:0:0:2:35
 nserver:      G6.NSTLD.COM 192.42.93.35
-nserver:      H6.NSTLD.COM 192.54.112.35
+nserver:      H6.NSTLD.COM 192.54.112.35 2001:502:8cc:0:0:0:2:35
 nserver:      J6.NSTLD.COM 192.48.79.35
 nserver:      K6.NSTLD.COM 192.52.178.35
 nserver:      L6.NSTLD.COM 192.41.162.35
 nserver:      M6.NSTLD.COM 192.55.83.35
+ds-rdata:     52563 8 2 4E2671F0DBC3927D842053044C6A0CBF8B21E1E657DE8BBA99A4835031A85A41
 
 whois:        whois.nic.name
 
@@ -46,6 +47,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.name
 
 created:      2001-08-17
-changed:      2012-02-08
+changed:      2014-01-24
 source:       IANA
 
