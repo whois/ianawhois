@@ -1,0 +1,44 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       WED
+
+organisation: Atgron, Inc.
+address:      9435 Lorton Market St #174
+address:      Lorton, VA 22079
+address:      United States
+
+contact:      administrative
+name:         CEO
+organisation: Atgron, Inc.
+address:      9435 Lorton Market St #174 Lorton, VA 22079
+address:      United States
+phone:        +1 301 375 0748
+e-mail:       info@atgron.com
+
+contact:      technical
+name:         Registry Technical Manager
+organisation: CoCCA Registry Services (NZ) Limited
+address:      11a Wynyard Street, Devonport
+address:      Auckland 0624
+address:      New Zealand
+phone:        +64 (0) 9 446 6370
+e-mail:       info@atgron.com
+
+nserver:      A.NS.NIC.WED 2620:171:a01:ad:0:0:0:1 72.0.49.1
+nserver:      B.NS.NIC.WED 2620:171:d01:dc:0:0:0:1 72.42.113.1
+nserver:      TLD.ISC-SNS.COM 38.103.2.3
+nserver:      TLD.ISC-SNS.INFO 2001:470:1a:0:0:0:0:3 72.52.71.3
+nserver:      TLD.ISC-SNS.NET 2001:5a0:10:0:0:0:0:3 63.243.194.3
+ds-rdata:     23807 8 2 A1453299115DB6CC44E33B102BDF276CB93A6A103F6502EA5EF1D4ECF2172640
+
+whois:        whois.coccaregistry.org
+
+status:       ACTIVE
+remarks:      Registration information: http://atgron.com
+
+created:      2013-12-12
+changed:      2014-01-23
+source:       IANA
+
