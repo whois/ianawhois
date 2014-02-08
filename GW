@@ -30,13 +30,12 @@ fax-no:       +49 69 27235 434
 e-mail:       nicgw@denic.de
 
 nserver:      NS1.NIC.GW 81.91.170.10
-nserver:      NS2.NIC.GW 87.233.175.20
 nserver:      NS3.NIC.GW 193.171.255.35
 
 status:       ACTIVE
 remarks:      Registration information: http://www.register.gw
 
 created:      1997-02-04
-changed:      2012-07-17
+changed:      2014-01-11
 source:       IANA
 
