@@ -24,7 +24,7 @@ TLDFILE = 'tlds.txt'
 DEBUG = true
 DATE = Time.now.strftime('%Y-%m-%d')
 
-File.write(TLDFILE, open('https://data.iana.org/TLD/tlds-alpha-by-domain.txt').read)
+File.open(TLDFILE, "w+") { |f| f.write(open('https://data.iana.org/TLD/tlds-alpha-by-domain.txt').read) }
 if File.read(TLDFILE).empty?
   abort("TLD list is empty")
 end
