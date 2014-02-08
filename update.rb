@@ -55,4 +55,4 @@ active_tlds.each do |tld|
   sleep(3)
 end
 
-# `git push origin master`
+sh "git push origin master"
