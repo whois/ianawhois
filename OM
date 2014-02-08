@@ -33,15 +33,16 @@ nserver:      CCTLD.ALPHA.ARIDNS.NET.AU 2001:dcd:1:0:0:0:0:6 37.209.192.6
 nserver:      CCTLD.BETA.ARIDNS.NET.AU 2001:dcd:2:0:0:0:0:6 37.209.194.6
 nserver:      CCTLD.DELTA.ARIDNS.NET.AU 2001:dcd:4:0:0:0:0:6 37.209.198.6
 nserver:      CCTLD.GAMMA.ARIDNS.NET.AU 2001:dcd:3:0:0:0:0:6 37.209.196.6
-nserver:      NS1.REGISTRY.OM 212.72.15.101
+nserver:      NS1.REGISTRY.OM 185.27.90.101
 nserver:      NS2.REGISTRY.OM 185.27.91.69
 
 whois:        whois.registry.om
 
 status:       ACTIVE
-remarks:      Registration information: http://www.omantel.net.om
+remarks:      Registration information:
+remarks:      http://www.registry.om/om/en/?page_id=197
 
 created:      1996-04-11
-changed:      2013-08-03
+changed:      2013-12-27
 source:       IANA
 
