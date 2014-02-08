@@ -1,0 +1,47 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       ONL
+
+organisation: I-REGISTRY Ltd., Niederlassung Deutschland
+address:      Friedrichstr. 90
+address:      10117 Berlin
+address:      Germany
+
+contact:      administrative
+name:         Executive Director
+organisation: I-REGISTRY Ltd., Niederlassung Deutschland
+address:      Friedrichstr. 90
+address:      10117 Berlin
+address:      Germany
+phone:        +49 180 5522744
+fax-no:       +49 180 5522944
+e-mail:       registry-onl@i-registry.com
+
+contact:      technical
+name:         Afilias TLD Technical Administrator
+organisation: Afilias Limited
+address:      2 La Touche House, IFSC
+address:      Dublin 1
+address:      Ireland
+phone:        +353 1 854 1100
+fax-no:       +353 1 791 8569
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.ONL 2a01:8840:86:0:0:0:0:1 65.22.136.1
+nserver:      A2.NIC.ONL 2a01:8840:89:0:0:0:0:1 65.22.139.1
+nserver:      B0.NIC.ONL 2a01:8840:87:0:0:0:0:1 65.22.137.1
+nserver:      C0.NIC.ONL 2a01:8840:88:0:0:0:0:1 65.22.138.1
+ds-rdata:     28830 7 1 43c8d1479e0457ead6020024017fdec8cce2260d
+ds-rdata:     28830 7 2 18eb9faa635692104783c62a7f6f51aa17365bb07689093a247183d39b88338d
+
+whois:        whois.afilias-srs.net
+
+status:       ACTIVE
+remarks:      Registration information: http://www.i-registry.com
+
+created:      2013-12-12
+changed:      2013-12-28
+source:       IANA
+
