@@ -5,15 +5,17 @@
 domain:       LT
 
 organisation: Kaunas University of Technology
-organisation: Information Technology Development Institute
+address:      Information Technology Department
+address:      Internet Service Centre
 address:      Studentu 48a
 address:      Kaunas  LT-51367
 address:      Lithuania
 
 contact:      administrative
-name:         Daiva Tamulioniene, Head of Department
+name:         Daiva Tamulioniene
 organisation: Kaunas University of Technology
-organisation: Information Technology Development Institute
+address:      Information Technology Department
+address:      Internet Service Centre
 address:      Studentu 48a
 address:      Kaunas  LT-51367
 address:      Lithuania
@@ -22,14 +24,15 @@ fax-no:       +370 37 300643
 e-mail:       daiva@litnet.lt
 
 contact:      technical
-name:         Tomas Mackus, Group Leader
+name:         Tomas Mackus
 organisation: Kaunas University of Technology
-organisation: Information Technology Development Institute
+address:      Information Technology Department
+address:      Internet Service Centre
 address:      Studentu 48a
 address:      Kaunas  LT-51367
 address:      Lithuania
 phone:        +370 37 353325
-fax-no:       +370 37300643
+fax-no:       +370 37 300643
 e-mail:       hostmaster@litnet.lt
 
 nserver:      A.TLD.LT 195.8.218.131
@@ -47,6 +50,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.domreg.lt
 
 created:      1992-06-03
-changed:      2013-11-05
+changed:      2014-02-04
 source:       IANA
 
