@@ -1,0 +1,55 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       我爱你
+domain-ace:   XN--6QQ986B3XL
+
+organisation: Tycoon Treasure Limited
+address:      Block B Unit 403, Horizon International Tower
+address:      No. 6 Zhichun Road, Haidian District
+address:      Beijing 100088  P.R. China
+address:      China
+
+contact:      administrative
+name:         Eugene Li
+organisation: Zodiac Holdings Ltd
+address:      Block B Unit 403, Horizon International Tower
+address:      No. 6 Zhichun Road, Haidian District
+address:      Beijing 100088  P.R. China
+address:      China
+phone:        +86.1082961219
+fax-no:       +86.1082961269
+e-mail:       eugene.li@zodiacregistry.com
+
+contact:      technical
+name:         Zhanyong Zhang
+organisation: Zodiac Holdings Ltd
+address:      Block B Unit 403, Horizon International Tower
+address:      No. 6 Zhichun Road, Haidian District
+address:      Beijing 100088  P.R. China
+address:      China
+phone:        +86.1082961219
+fax-no:       +86.1082961269
+e-mail:       zhangzhanyong@zodiacregistry.com
+
+nserver:      A.ZDNSCLOUD.COM 1.8.240.1
+nserver:      B.ZDNSCLOUD.COM 1.8.241.1
+nserver:      C.ZDNSCLOUD.COM 1.8.242.1
+nserver:      D.ZDNSCLOUD.COM 1.8.243.1
+nserver:      E.ZDNSCLOUD.COM 119.167.248.154
+nserver:      F.ZDNSCLOUD.COM 182.131.23.22
+nserver:      G.ZDNSCLOUD.COM 111.12.148.111
+nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
+nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
+ds-rdata:     37400 8 2 07C6728C4F51FFD6B1E829D5AFBDEE24A30E710EBEFC50C8D6AB7785223A0A0C
+
+whois:        whois.gtld.knet.cn
+
+status:       ACTIVE
+remarks:      Registration information: http://www.zodiacregistry.com
+
+created:      2013-12-12
+changed:      2014-01-09
+source:       IANA
+
