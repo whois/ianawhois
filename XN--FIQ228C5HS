@@ -1,0 +1,51 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       中文网
+domain-ace:   XN--FIQ228C5HS
+
+organisation: TLD REGISTRY LIMITED
+address:      1st. Floor, Fitzwilton House, Wilton Place
+address:      Dublin
+address:      Dublin 2
+address:      Ireland
+
+contact:      administrative
+name:         Arto Isokoski
+organisation: TLD Registry Ltd.
+address:      1st. Floor, Fitzwilton House, Wilton Place
+address:      Dublin
+address:      Dublin 2
+address:      Ireland
+phone:        +358 44 7301 607
+fax-no:       +358 20 155 8869
+e-mail:       arto.isokoski@internetregistry.info
+
+contact:      technical
+name:         Sr Director
+organisation: Afilias Limited
+address:      300 Welsh Road, Building 3, Suite 105
+address:      Horsham, Pennsylvania
+address:      19044
+address:      United States
+phone:        +1 215 706 5700
+fax-no:       +1 215 706 5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.XN--FIQ228C5HS 2a01:8840:b6:0:0:0:0:1 65.22.188.1
+nserver:      A2.NIC.XN--FIQ228C5HS 2a01:8840:b9:0:0:0:0:1 65.22.191.1
+nserver:      B0.NIC.XN--FIQ228C5HS 2a01:8840:b7:0:0:0:0:1 65.22.189.1
+nserver:      C0.NIC.XN--FIQ228C5HS 2a01:8840:b8:0:0:0:0:1 65.22.190.1
+ds-rdata:     39459 7 1 8cbcb513ff4387b8f6a006d414a50e1a5ea178ca
+ds-rdata:     39459 7 2 0cb316717e555d102a2e96d53d32eb0ab0ac73f10d3e66e2d225398c6a30b816
+
+whois:        whois.afilias-srs.net
+
+status:       ACTIVE
+remarks:      Registration information: http://internetregistry.info/
+
+created:      2013-12-19
+changed:      2014-01-11
+source:       IANA
+
