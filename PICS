@@ -1,0 +1,53 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       PICS
+
+organisation: Uniregistry, Corp.
+address:      Governors Square, Unit 3-110
+address:      23 Lime Tree Bay Avenue
+address:      Grand Cayman, Cayman Islands
+address:      PO Box 1361, George Town, KY1-1108
+address:      Cayman Islands
+
+contact:      administrative
+name:         Frank Schilling
+organisation: Uniregistry Corp.
+address:      Governors Square, Unit 3-110
+address:      23 Lime Tree Bay Avenue
+address:      Grand Cayman, Cayman Islands
+address:      PO Box 1361, George Town, KY1-1108
+address:      Cayman Islands
+phone:        +1.3457496263
+fax-no:       +1.3457466263
+e-mail:       contact@uniregistry.com
+
+contact:      technical
+name:         Francisco Obispo
+organisation: Uniregistry Inc.
+address:      Governors Square, Unit 3-110
+address:      23 Lime Tree Bay Avenue
+address:      Grand Cayman, Cayman Islands
+address:      PO Box 1361, George Town, KY1-1108
+address:      Cayman Islands
+phone:        +1.3457496263
+fax-no:       +1.3457466263
+e-mail:       ops@uniregistry.com
+
+nserver:      A.NS.UNIREGISTRY.NET 2001:470:a4:10:0:0:0:166 72.52.126.166
+nserver:      TLD.ISC-SNS.COM 38.103.2.3
+nserver:      TLD.ISC-SNS.INFO 2001:470:1a:0:0:0:0:3 72.52.71.3
+nserver:      TLD.ISC-SNS.NET 2001:5a0:10:0:0:0:0:3 63.243.194.3
+ds-rdata:     22037 5 1 128E4D7B181F80FBEF51811B5396FFE83E6517BD
+ds-rdata:     22037 5 2 FAA0D15E50168840E97AAA27E7D6F010ECE0C3BDCFD7F26827DA1B062AAD9291
+
+whois:        whois.uniregistry.net
+
+status:       ACTIVE
+remarks:      Registration information: http://www.uniregistry.com
+
+created:      2014-01-09
+changed:      2014-01-18
+source:       IANA
+
