@@ -32,12 +32,12 @@ nserver:      C.NIC.BUILD 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      D.NIC.BUILD 2001:dcd:4:0:0:0:0:10 37.209.198.10
 ds-rdata:     18634 8 2 97A275D8F2C987FB681D6E7C650FEFBF8EAE8ED9743822A3D9767F0DC3502938
 
-whois:        whois.build.aridnrs.net.au
+whois:        whois.nic.build
 
 status:       ACTIVE
 remarks:      Registration information: http://www.dotbuild.co
 
 created:      2014-01-09
-changed:      2014-01-20
+changed:      2014-02-09
 source:       IANA
 
