@@ -5,8 +5,9 @@
 domain:       GM
 
 organisation: GM-NIC
-address:      P.O. Box 2647
-address:      Serrekunda
+address:      NIC Gambia (GM-NIC) c/o Studio 361
+address:      P.O. Box 4080
+address:      Bakau, The Gambia
 address:      Gambia
 
 contact:      administrative
@@ -37,6 +38,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.gm
 
 created:      1997-03-28
-changed:      2013-06-17
+changed:      2014-02-12
 source:       IANA
 
