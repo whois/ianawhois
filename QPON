@@ -1,0 +1,52 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       QPON
+
+organisation: dotCOOL, Inc.
+address:      214 Plantation Blvd
+address:      Islamorada
+address:      Florida
+address:      33036
+address:      United States
+
+contact:      administrative
+name:         Tommy Stephenson
+organisation: Dot Cool, Inc.
+address:      911 Western Ave, Suite 565
+address:      Seattle
+address:      WA
+address:      98104
+address:      United States
+phone:        +1.4252104395
+fax-no:       +1.2062602895
+e-mail:       tld@heateddetails.com
+
+contact:      technical
+name:         Sean Kaine
+organisation: Neustar, Inc.
+address:      21575 Ridgetop Circle
+address:      Sterling, VA 20166
+address:      United States
+phone:        +1.5714345168
+fax-no:       +1.5714345401
+e-mail:       tldlaunch@neustar.biz
+
+nserver:      NS1.DNS.NIC.QPON 156.154.169.32 2610:a1:1071:0:0:0:1:20
+nserver:      NS2.DNS.NIC.QPON 156.154.170.32 2610:a1:1072:0:0:0:1:20
+nserver:      NS3.DNS.NIC.QPON 156.154.171.32 2610:a1:1073:0:0:0:1:20
+nserver:      NS4.DNS.NIC.QPON 156.154.172.32 2610:a1:1074:0:0:0:1:20
+nserver:      NS5.DNS.NIC.QPON 156.154.173.32 2610:a1:1075:0:0:0:1:20
+nserver:      NS6.DNS.NIC.QPON 156.154.174.32 2610:a1:1076:0:0:0:1:20
+nserver:      NS7.DNS.NIC.QPON 2001:503:7bbb:ffff:ffff:ffff:ffff:ff7e 207.34.5.10
+ds-rdata:     45064 8 1 9CEDBA9EF47AF7B7B5D86F79C7E9C5587CA3D3AE
+ds-rdata:     45064 8 2 F8EE0C2B01E4E2F5959100914C6018645897B8EEE26071C5E94910F7E10AC352
+
+status:       ACTIVE
+remarks:      Registration information: http://www.dotqpon.com/
+
+created:      2014-01-09
+changed:      2014-02-12
+source:       IANA
+
