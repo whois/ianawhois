@@ -20,7 +20,7 @@ address:      Seri Kembangan Selangor 43300
 address:      Malaysia
 phone:        +603 8943 5510
 fax-no:       +603 8943 5520
-e-mail:       dnsadmin@domainregistry.my
+e-mail:       dnsadmin@mynic.my
 
 contact:      technical
 name:         CEO
@@ -31,7 +31,7 @@ address:      Seri Kembangan Selangor 43300
 address:      Malaysia
 phone:        +603 8943 5510
 fax-no:       +603 8943 5520
-e-mail:       dnsadmin@domainregistry.my
+e-mail:       dnsadmin@mynic.my
 
 nserver:      DNS.MYNIC.NET.MY 192.228.180.5 2001:328:1000:3:0:0:0:5
 nserver:      DNS2.MYNIC.NET.MY 202.75.39.36 2401:b000:0:0:0:0:0:36
@@ -41,17 +41,17 @@ nserver:      NS20.IIJ.AD.JP 2001:240:0:0:0:0:0:161 202.232.2.161
 nserver:      NS30.CDNS.NET 194.0.1.30 2001:678:4:0:0:0:0:1e
 nserver:      NS5.JARING.MY 2001:328:200:48:0:0:0:400 61.6.38.139
 nserver:      NS6.JARING.MY 192.228.128.16 2001:328:200:ab:0:0:0:600
-ds-rdata:     17106 8 1 95B6E1D09E818E13B8FBE777482C69109A614E4B
-ds-rdata:     17106 8 2 BDB33EA391E14E2535C4F2E3770408D2139A892A1DC8B5CF5EB9DF42FFB6B1B4
 ds-rdata:     21138 8 1 B7B8D9E0586759075371771EC5FE4547438192AA
 ds-rdata:     21138 8 2 CD5A25C027734679E3701C7C51413C525CBA12EDECD006549F93CE9AB1AC47C5
+ds-rdata:     3498 8 2 0562723A20DF271476FE5595D42FCC3F1D5540E12648AC3144E45CCCAEE97735
+ds-rdata:     3498 8 1 57691C29051080421037C3F0F190FC56F6BB23D5
 
 whois:        whois.domainregistry.my
 
 status:       ACTIVE
-remarks:      Registration information: http://www.domainregistry.my
+remarks:      Registration information: http://www.mynic.my
 
 created:      2011-10-22
-changed:      2013-10-15
+changed:      2014-02-13
 source:       IANA
 
