@@ -36,12 +36,12 @@ nserver:      D.NIC.WIKI 194.0.1.45 2001:678:4:0:0:0:0:2d
 ds-rdata:     4724 8 1 D72E942861438BD3EBA50D75B9C0555E3D7A2AAD
 ds-rdata:     4724 8 2 E907372D79E6E67D3BE4703456BAE27F824A7678964808134FABD6106A7897D8
 
-whois:        whois.centralnic.com
+whois:        whois.nic.wiki
 
 status:       ACTIVE
 remarks:      Registration information: http://www.dotwiki.org
 
 created:      2014-02-06
-changed:      2014-02-19
+changed:      2014-02-25
 source:       IANA
 
