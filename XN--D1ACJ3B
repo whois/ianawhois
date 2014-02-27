@@ -1,0 +1,45 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       дети
+domain-ace:   XN--D1ACJ3B
+
+organisation: The Foundation for Network Initiatives “The Smart Internet”
+address:      123242, Moscow, Zoologicheskaya str., 8
+address:      Russian Federation
+
+contact:      administrative
+name:         Deputy Director
+organisation: The Foundation for Network Initiatives "The Smart Internet"
+address:      123242, Moscow, Zoologicheskaya str., 8
+address:      Russian Federation
+phone:        +7 499 254 8894
+fax-no:       +7 499 254 8963
+e-mail:       adm@dotdeti.ru
+
+contact:      technical
+name:         Network enginner
+organisation: Technical Center of Internet
+address:      123242, Moscow, Zoologicheskaya str., 8
+address:      Russian Federation
+phone:        +7 495 737 9295
+fax-no:       +7 495 737 0684
+e-mail:       gtld-tech@tcinet.ru
+
+nserver:      A.DNS.RIPN.NET 193.232.128.6 2001:678:17:0:193:232:128:6
+nserver:      B.DNS.RIPN.NET 194.85.252.62 2001:678:16:0:194:85:252:62
+nserver:      D.DNS.RIPN.NET 194.190.124.17 2001:678:18:0:194:190:124:17
+nserver:      E.DNS.RIPN.NET 193.232.142.17 2001:678:15:0:193:232:142:17
+nserver:      F.DNS.RIPN.NET 193.232.156.17 2001:678:14:0:193:232:156:17
+ds-rdata:     35444 8 2 2694CC8FD143378C5C15FEE79E3E72511B8A0E27A073A7E330A59ED1B85852E5
+
+whois:        212.193.111.2
+
+status:       ACTIVE
+remarks:      Registration information: http://www.dotdeti.ru
+
+created:      2014-02-13
+changed:      2014-02-26
+source:       IANA
+
