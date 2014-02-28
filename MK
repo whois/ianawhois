@@ -34,6 +34,8 @@ nserver:      NS2.ARNES.SI 193.2.1.91 2001:1470:8000:0:0:0:0:91
 nserver:      NS5.UNIVIE.AC.AT 193.171.255.77 2001:628:453:4305:0:0:0:53
 nserver:      RIP.PSG.COM 147.28.0.39 2001:418:1:0:0:0:0:39
 
+whois:        whois.marnet.mk
+
 status:       ACTIVE
 remarks:      Registration information: http://www.marnet.mk
 
