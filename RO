@@ -37,6 +37,7 @@ nserver:      NS-EXT.ISC.ORG 2001:4f8:0:2:0:0:0:13 204.152.184.64
 nserver:      PRIMARY.ROTLD.RO 192.162.16.18 2a03:5e80:0:4:192:162:16:18
 nserver:      SEC-DNS-A.ROTLD.RO 192.162.16.20 2a03:5e80:0:4:192:162:16:20
 nserver:      SEC-DNS-B.ROTLD.RO 193.230.31.230 2a03:5e80:0:5:193:230:31:230
+nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e:0:0:0:0:1
 
 whois:        whois.rotld.ro
 
@@ -44,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.rotld.ro/
 
 created:      1993-02-26
-changed:      2013-10-11
+changed:      2014-03-02
 source:       IANA
 
