@@ -33,7 +33,6 @@ e-mail:       ionut@rotld.ro
 
 nserver:      DNS-AT.ROTLD.RO 2001:628:453:bb:0:0:0:6 78.104.145.6
 nserver:      DNS-RO.DENIC.DE 81.91.161.99
-nserver:      NS-EXT.ISC.ORG 2001:4f8:0:2:0:0:0:13 204.152.184.64
 nserver:      PRIMARY.ROTLD.RO 192.162.16.18 2a03:5e80:0:4:192:162:16:18
 nserver:      SEC-DNS-A.ROTLD.RO 192.162.16.20 2a03:5e80:0:4:192:162:16:20
 nserver:      SEC-DNS-B.ROTLD.RO 193.230.31.230 2a03:5e80:0:5:193:230:31:230
@@ -45,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.rotld.ro/
 
 created:      1993-02-26
-changed:      2014-03-02
+changed:      2014-03-05
 source:       IANA
 
