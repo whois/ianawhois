@@ -1,0 +1,49 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       орг
+domain-ace:   XN--C1AVG
+
+organisation: Public Interest Registry
+address:      1775 Wiehle Avenue, Suite 100
+address:      Reston, VA 20190
+address:      United States
+
+contact:      administrative
+name:         Sr. Mgr., Operations and Compliance
+organisation: Public Interest Registry
+address:      1775 Wiehle Avenue, Suite 100
+address:      Reston, VA 20190
+address:      United States
+phone:        +1 703.889.5762
+fax-no:       +1 703.889.5779
+e-mail:       ops@pir.org
+
+contact:      technical
+name:         Director, DNS Infrastructure Group
+organisation: Afilias
+address:      Building 3, Suite 105
+address:      300 Welsh Road
+address:      Horsham, PA 19044
+address:      United States
+phone:        +1 215.706.5700
+fax-no:       +1 215.706.5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.XN--C1AVG 2a01:8840:b2:0:0:0:0:25 65.22.184.25
+nserver:      A2.NIC.XN--C1AVG 2a01:8840:b5:0:0:0:0:25 65.22.187.25
+nserver:      B0.NIC.XN--C1AVG 2a01:8840:b3:0:0:0:0:25 65.22.185.25
+nserver:      C0.NIC.XN--C1AVG 2a01:8840:b4:0:0:0:0:25 65.22.186.25
+ds-rdata:     29304 7 1 ad1b769293160beb9261f2875b9ef8ae6f4ec8ce
+ds-rdata:     29304 7 2 8e7c7add0480383f266c3a2a94097311ebaa6dc4f26610d5c4855a0dce567028
+
+whois:        whois.publicinterestregistry.net
+
+status:       ACTIVE
+remarks:      Registration information: http://www.pir.org
+
+created:      2014-02-27
+changed:      2014-03-05
+source:       IANA
+
