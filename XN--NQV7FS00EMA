@@ -6,9 +6,44 @@ domain:       组织机构
 domain-ace:   XN--NQV7FS00EMA
 
 organisation: Public Interest Registry
+address:      1775 Wiehle Avenue, Suite 100
+address:      Reston, VA 20190
+address:      United States
 
-status:       NEW
+contact:      administrative
+name:         Sr. Mgr., Operations and Compliance
+organisation: Public Interest Registry
+address:      1775 Wiehle Avenue, Suite 100
+address:      Reston, VA 20190
+address:      United States
+phone:        +1 703.889.5762
+fax-no:       +1 703.889.5779
+e-mail:       ops@pir.org
+
+contact:      technical
+name:         Director, DNS Infrastructure Group
+organisation: Afilias
+address:      Building 3, Suite 105
+address:      300 Welsh Road
+address:      Horsham, PA 19044
+address:      United States
+phone:        +1 215.706.5700
+fax-no:       +1 215.706.5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.XN--NQV7FS00EMA 2a01:8840:b2:0:0:0:0:9 65.22.184.9
+nserver:      A2.NIC.XN--NQV7FS00EMA 2a01:8840:b5:0:0:0:0:9 65.22.187.9
+nserver:      B0.NIC.XN--NQV7FS00EMA 2a01:8840:b3:0:0:0:0:9 65.22.185.9
+nserver:      C0.NIC.XN--NQV7FS00EMA 2a01:8840:b4:0:0:0:0:9 65.22.186.9
+ds-rdata:     106 7 1 0d5eb1936ce26f7b0a75b7fa933f20373cc15e8c
+ds-rdata:     106 7 2 aef34bc7fd52709036788d65dc65213dba93bb5f5a3d97655220dd30ec653d03
+
+whois:        whois.publicinterestregistry.net
+
+status:       ACTIVE
+remarks:      Registration information: http://www.pir.org
 
 created:      2014-02-27
+changed:      2014-03-10
 source:       IANA
 
