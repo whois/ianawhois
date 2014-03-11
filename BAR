@@ -36,12 +36,12 @@ nserver:      D.NIC.BAR 194.0.1.45 2001:678:4:0:0:0:0:2d
 ds-rdata:     55406 8 1 EECF54C6DAB2CF3FA76EFFCE97B78F432050DA9E
 ds-rdata:     55406 8 2 8E8E102E6751DA62E354BD322C9BDD42C29BF6A413B29DA5BDC579E2ED3C8DA1
 
-whois:        whois.centralnic.com
+whois:        whois.nic.bar
 
 status:       ACTIVE
-remarks:      Registration information: http://www.punto2012.com/
+remarks:      Registration information: http://nic.bar
 
 created:      2014-02-13
-changed:      2014-02-27
+changed:      2014-03-11
 source:       IANA
 
