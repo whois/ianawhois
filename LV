@@ -18,8 +18,8 @@ organisation: Department of Network Solutions (DNS)
 address:      Rainis Boulevard 29
 address:      Riga  LV-1459
 address:      Latvia
-phone:        +371 721 1241
-fax-no:       +371 782 0153
+phone:        +371 6721 1241
+fax-no:       +371 6782 0153
 e-mail:       guntis@latnet.lv
 
 contact:      technical
@@ -47,6 +47,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.lv/
 
 created:      1993-04-29
-changed:      2014-03-09
+changed:      2014-03-14
 source:       IANA
 
