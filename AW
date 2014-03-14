@@ -11,15 +11,15 @@ address:      Oranjestad
 address:      Aruba
 
 contact:      administrative
-name:         Indra Lampe
+name:         Legal Advisor
 organisation: SETAR
 address:      P.O. Box 13
-address:      Seroe Blanco
+address:      Seroe Blanco 29A
 address:      Oranjestad
 address:      Aruba
-phone:        +297 5251742
-fax-no:       +297 582 5505
-e-mail:       indra.lampe@setarnet.aw
+phone:        +297 5251000
+fax-no:       +297 5251001
+e-mail:       registrar@setar.aw
 
 contact:      technical
 name:         SetarNet Operations
@@ -39,9 +39,11 @@ nserver:      NS2.DNS.AW 2001:7b8:606:0:0:0:0:88 213.154.241.88
 nserver:      NS3.DNS.AW 194.171.17.13 2001:610:0:800d:0:0:0:13
 nserver:      NS5.DNS.AW 194.0.28.2 2001:678:2c:0:194:0:28:2
 
+whois:        whois.nic.aw
+
 status:       ACTIVE
 
 created:      1996-02-20
-changed:      2014-03-03
+changed:      2014-03-14
 source:       IANA
 
