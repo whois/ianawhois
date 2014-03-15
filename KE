@@ -33,7 +33,7 @@ fax-no:       +254 20 4450087
 e-mail:       tech@kenic.or.ke
 
 nserver:      MZIZI.KENIC.OR.KE 196.1.4.130 198.32.67.9
-nserver:      NS-KE.AFRINIC.NET 196.216.168.22
+nserver:      NS-KE.AFRINIC.NET 196.216.168.22 2001:43f8:120:0:0:0:0:22
 nserver:      NS.ANYCAST.KENIC.OR.KE 2001:500:14:6007:ad:0:0:1 204.61.216.7
 nserver:      NS1.COZA.NET.ZA 66.135.62.20
 
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.kenic.or.ke
 
 created:      1993-04-29
-changed:      2013-02-14
+changed:      2014-03-15
 source:       IANA
 
