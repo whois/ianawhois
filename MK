@@ -31,6 +31,7 @@ e-mail:       gone@ukim.edu.mk
 
 nserver:      D.EXT.NIC.CZ 193.29.206.2 2001:678:1:0:0:0:0:2
 nserver:      DNS-MK.UNIVIE.AC.AT 2001:628:453:bb:0:0:0:4 78.104.145.4
+nserver:      NS2.ARNES.SI 193.2.1.91 2001:1470:8000:0:0:0:0:91
 nserver:      TLD1.MARNET.MK 194.149.137.168
 
 whois:        whois.marnet.mk
@@ -39,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.marnet.mk
 
 created:      1993-09-23
-changed:      2014-03-05
+changed:      2014-03-19
 source:       IANA
 
