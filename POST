@@ -1,0 +1,49 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       POST
+
+organisation: Universal Postal Union
+address:      Weltpoststrasse 4
+address:      Bern 3015
+address:      Switzerland
+
+contact:      administrative
+name:         TLD Administrator
+organisation: Universal Postal Union
+address:      Weltpoststrasse 4
+address:      Bern 3015
+address:      Switzerland
+phone:        +41 31 350 34 50
+fax-no:       +41 31 350 31 10
+e-mail:       dotpost@upu.int
+
+contact:      technical
+name:         TLD Technical Administrator
+organisation: Afilias Limited
+address:      2 La Touche House, IFSC
+address:      Dublin 1
+address:      Ireland
+phone:        +353 1 854 1100
+fax-no:       +353 1 791 8569
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.POST.AFILIAS-NST.INFO 2a01:8840:0:0:0:0:0:1 65.22.0.1
+nserver:      A2.POST.AFILIAS-NST.INFO 2a01:8840:4:0:0:0:0:1 65.22.4.1
+nserver:      B0.POST.AFILIAS-NST.ORG 2a01:8840:1:0:0:0:0:1 65.22.1.1
+nserver:      B2.POST.AFILIAS-NST.ORG 2a01:8840:5:0:0:0:0:1 65.22.5.1
+nserver:      C0.POST.AFILIAS-NST.INFO 2a01:8840:2:0:0:0:0:1 65.22.2.1
+nserver:      D0.POST.AFILIAS-NST.ORG 2a01:8840:3:0:0:0:0:1 65.22.3.1
+ds-rdata:     32869 7 1 6bdf7f6e05265e97b88e44c56d86e686fdb75ac7
+ds-rdata:     32869 7 2 0333cb4618c912888f923f60e876ba9b160602cced7b3b8bf35c522289c84de7
+
+whois:        whois.dotpostregistry.net
+
+status:       ACTIVE
+remarks:      Registration information: http://www.upu.int
+
+created:      2012-08-07
+changed:      2012-09-01
+source:       IANA
+
