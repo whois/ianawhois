@@ -1,0 +1,45 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       SOHU
+
+organisation: Sohu.com Limited
+address:      SOHU.com Media Plaza, Block 3, No.2 Kexueyuan South Road, Haidian District, Beijing, China
+address:      China
+
+contact:      administrative
+name:         dns admin
+organisation: Sohu.com Limited
+address:      SOHU.com Media Plaza, Block 3, No.2 Kexueyuan South Road, Haidian District, Beijing, China
+address:      China
+phone:        +86-10-62726666
+fax-no:       +86-10-58722727
+e-mail:       dnsadmin@sohu-inc.com
+
+contact:      technical
+name:         technical support
+organisation: Sohu.com Limited
+address:      SOHU.com Media Plaza, Block 3, No.2 Kexueyuan South Road, Haidian District, Beijing, China
+address:      China
+phone:        +86-10-62728472
+fax-no:       +86-10-58722727
+e-mail:       dnsadmin@sohu-inc.com
+
+nserver:      A.ZDNSCLOUD.COM 1.8.240.1
+nserver:      B.ZDNSCLOUD.COM 1.8.241.1
+nserver:      C.ZDNSCLOUD.COM 1.8.242.1
+nserver:      D.ZDNSCLOUD.COM 1.8.243.1
+nserver:      E.ZDNSCLOUD.COM 119.167.248.154
+nserver:      F.ZDNSCLOUD.COM 182.131.23.22
+nserver:      G.ZDNSCLOUD.COM 111.12.148.111
+nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
+nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
+ds-rdata:     2036 8 2 9F56066DA3352034A1E3D7251D18127303A7509A8F4374ABD9AA18B8F3E8017B
+
+status:       ACTIVE
+
+created:      2014-02-27
+changed:      2014-03-25
+source:       IANA
+
