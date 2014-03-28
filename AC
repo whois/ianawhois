@@ -36,8 +36,6 @@ nserver:      B.NIC.IO 194.0.2.1 2001:678:5:0:0:0:0:1
 nserver:      B.NS13.NET 49.212.51.85
 nserver:      NS1.COMMUNITYDNS.NET 194.0.1.1 2001:678:4:0:0:0:0:1
 nserver:      NS3.ICB.CO.UK 91.208.95.130
-ds-rdata:     14403 7 2 584BCEE9B917FC92AFBDD0FC8AF12AB31B3A7B0754894688DA3C57F5CA7D8E56
-ds-rdata:     14403 7 1 3884DE2E920F38E01B659CC5F37B6749BB0DC818
 ds-rdata:     23014 8 2 9F135B4B4C69C92383B997632E821E3C8AB9699658674CC96FDE5405ACB68B65
 
 whois:        whois.nic.ac
@@ -46,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.ac/
 
 created:      1997-12-19
-changed:      2014-03-03
+changed:      2014-03-28
 source:       IANA
 
