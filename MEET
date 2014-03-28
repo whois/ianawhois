@@ -1,0 +1,50 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       MEET
+
+organisation: Afilias Limited
+address:      2 La Touche House
+address:      IFSC
+address:      Dublin 1
+address:      Ireland
+
+contact:      administrative
+name:         Senior Vice President
+organisation: Afilias
+address:      Building 3, Suite 105
+address:      300 Welsh Road
+address:      Horsham, PA 19044
+address:      United States
+phone:        +1 215.706.5700
+fax-no:       +1 215.706.5701
+e-mail:       tld-admin-poc@afilias.info
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      Building 3, Suite 105
+address:      300 Welsh Road
+address:      Horsham, PA 19044
+address:      United States
+phone:        +1 215.706.5700
+fax-no:       +1 215.706.5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.MEET 2a01:8840:42:0:0:0:0:25 65.22.68.25
+nserver:      A2.NIC.MEET 2a01:8840:45:0:0:0:0:25 65.22.71.25
+nserver:      B0.NIC.MEET 2a01:8840:43:0:0:0:0:25 65.22.69.25
+nserver:      C0.NIC.MEET 2a01:8840:44:0:0:0:0:25 65.22.70.25
+ds-rdata:     18298 7 1 36f9aeacd7bd3ad7d62ec0f7b3138abb73a28e96
+ds-rdata:     18298 7 2 62c67c8413a0d3db5c15b21d38e7765e301bd13853ea238597f7d623308d5979
+
+whois:        whois.afilias.net
+
+status:       ACTIVE
+remarks:      Registration information: http://afilias.info/contact-us
+
+created:      2014-03-20
+changed:      2014-03-27
+source:       IANA
+
