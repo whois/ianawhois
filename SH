@@ -34,8 +34,6 @@ nserver:      B.NIC.IO 194.0.2.1 2001:678:5:0:0:0:0:1
 nserver:      B.NS13.NET 49.212.51.85
 nserver:      NS1.COMMUNITYDNS.NET 194.0.1.1 2001:678:4:0:0:0:0:1
 nserver:      NS3.ICB.CO.UK 91.208.95.130
-ds-rdata:     3846 7 2 493B17DB412EBBA011AF0E596F2424B25C9379A9960586FFC9A2FB774536DE66
-ds-rdata:     3846 7 1 8E142703EAEABD49F84213E72015350CD3D28DF5
 ds-rdata:     6040 8 2 AB4FEB07A4A5C297A747B7C0CC0616401A3BF6D658AF8408F0207FFFD4B4A57B
 
 whois:        whois.nic.sh
@@ -44,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.sh/
 
 created:      1997-09-23
-changed:      2014-03-03
+changed:      2014-03-28
 source:       IANA
 
