@@ -35,8 +35,6 @@ nserver:      B.NIC.IO 194.0.2.1 2001:678:5:0:0:0:0:1
 nserver:      B.NS13.NET 49.212.51.85
 nserver:      NS1.COMMUNITYDNS.NET 194.0.1.1 2001:678:4:0:0:0:0:1
 nserver:      NS3.ICB.CO.UK 91.208.95.130
-ds-rdata:     13395 7 2 070BBE5BE5A4BE6271C543BDE99E9981E5D4191740E531AF2585C5D1619C83F0
-ds-rdata:     13395 7 1 C048489AEC2420E18F5F423192F132106C3691C1
 ds-rdata:     64744 8 2 2E7D661097A76EAC145858E4FF8F3DDAE5EAEDFD527725BC6F8A943E4FE23A29
 
 whois:        whois.nic.io
@@ -45,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.io/
 
 created:      1997-09-16
-changed:      2014-03-03
+changed:      2014-03-28
 source:       IANA
 
