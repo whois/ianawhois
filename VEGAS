@@ -1,0 +1,52 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       VEGAS
+
+organisation: Dot Vegas, Inc.
+address:      6325 S. Jones Blvd., Suite 500
+address:      Las Vegas
+address:      Nevada
+address:      89118
+address:      United States
+
+contact:      administrative
+name:         SVP, General Council
+organisation: Dot Vegas Inc.
+address:      6325 S. Jones Blvd., Suite 500
+address:      Las Vegas
+address:      Nevada
+address:      89118
+address:      United States
+phone:        +1.801.734.0263
+fax-no:       +1.702.947.3803
+e-mail:       bart@mackayventures.com
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      Building 3, Suite 105
+address:      300 Welsh Road
+address:      Horsham, PA 19044
+address:      United States
+phone:        +1.215.706.5700
+fax-no:       +1.215.706.5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.VEGAS 2a01:8840:42:0:0:0:0:17 65.22.68.17
+nserver:      A2.NIC.VEGAS 2a01:8840:45:0:0:0:0:17 65.22.71.17
+nserver:      B0.NIC.VEGAS 2a01:8840:43:0:0:0:0:17 65.22.69.17
+nserver:      C0.NIC.VEGAS 2a01:8840:44:0:0:0:0:17 65.22.70.17
+ds-rdata:     33606 7 1 e9d5d36b05c18a59a093ea2ffcb8d5c0a89e84d1
+ds-rdata:     33606 7 2 e9e9318a2607ef6645efd73a7c5dad01aaa2c506b9bbde38d65f4803ab4076e2
+
+whois:        whois.afilias-srs.net
+
+status:       ACTIVE
+remarks:      Registration information: http://www.dotvegasinc.com/
+
+created:      2014-03-20
+changed:      2014-03-31
+source:       IANA
+
