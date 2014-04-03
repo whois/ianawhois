@@ -37,7 +37,7 @@ e-mail:       iana@iana.org
 
 nserver:      A.ROOT-SERVERS.NET 198.41.0.4 2001:503:ba3e:0:0:0:2:30
 nserver:      B.ROOT-SERVERS.NET 192.228.79.201
-nserver:      C.ROOT-SERVERS.NET 192.33.4.12
+nserver:      C.ROOT-SERVERS.NET 192.33.4.12 2001:500:2:0:0:0:0:c
 nserver:      D.ROOT-SERVERS.NET 199.7.91.13 2001:500:2d:0:0:0:0:d
 nserver:      E.ROOT-SERVERS.NET 192.203.230.10
 nserver:      F.ROOT-SERVERS.NET 192.5.5.241 2001:500:2f:0:0:0:0:f
@@ -56,6 +56,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.iana.org/arpa-dom/
 
 created:      1985-01-01
-changed:      2013-01-08
+changed:      2014-04-02
 source:       IANA
 
