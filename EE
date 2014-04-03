@@ -5,8 +5,8 @@
 domain:       EE
 
 organisation: Eesti Interneti Sihtasutus (EIS)
-address:      Silikaltsiidi 3a
-address:      11216 Tallinn
+address:      Paldiski mnt. 80
+address:      10617 Tallinn
 address:      Harjumaa
 address:      Estonia
 
@@ -18,7 +18,6 @@ address:      11216 Tallin
 address:      Harjumaa
 address:      Estonia
 phone:        +372 727 1000
-fax-no:       +372 727 1010
 e-mail:       info@internet.ee
 
 contact:      technical
@@ -29,7 +28,6 @@ address:      11216 Tallinn
 address:      Harjumaa
 address:      Estonia
 phone:        +372 727 1000
-fax-no:       +372 727 1010
 e-mail:       info@internet.ee
 
 nserver:      B.TLD.EE 194.146.106.110 2001:67c:1010:28:0:0:0:53
@@ -47,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.internet.ee
 
 created:      1992-06-03
-changed:      2013-12-25
+changed:      2014-04-03
 source:       IANA
 
