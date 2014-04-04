@@ -4,33 +4,33 @@
 
 domain:       ZM
 
-organisation: ZAMNET Communication Systems Ltd.
-address:      COMESA Centre
-address:      Ben Bella Road
-address:      Lusaka  10101
+organisation: Zambia Information and Communications Technology Authority (ZICTA)
+address:      Stand 4909, Corner of Independence and United Nations Avenue
+address:      Lusaka 10101
+address:      Lusaka
 address:      Zambia
 
 contact:      administrative
-name:         Annabel Kangombe
-organisation: ZAMNET Communication Systems Ltd.
-address:      COMESA Centre
-address:      Ben Bella Road
+name:         Manager - Numbering and Naming
+organisation: Zambia Information and Communications Technology Authority (ZICTA)
+address:      Stand 4909, Corner of Independence and United Nations Avenue
 address:      Lusaka  10101
+address:      Lusaka
 address:      Zambia
-phone:        +260 211224149
-fax-no:       +260 211224775
-e-mail:       kangombe@zamnet.zm
+phone:        +260 (021) 1 378219
+fax-no:       +260 (021) 1 246 701
+e-mail:       cnalubamba@zicta.zm
 
 contact:      technical
-name:         Hostmaster
-organisation: ZAMNET Communication Systems Ltd.
-address:      COMESA Centre
-address:      Ben Bella Road
+name:         Manager - Numbering and Naming
+organisation: Zambia Information and Communications Technology Authority (ZICTA)
+address:      Stand 4909, Corner of Independence and United Nations Avenue
 address:      Lusaka  10101
+address:      Lusaka
 address:      Zambia
-phone:        +260 211224149
-fax-no:       +260 211224775
-e-mail:       hostmaster@zamnet.zm
+phone:        +260 (021) 1 378219
+fax-no:       +260 (021) 1 246 701
+e-mail:       cnalubamba@zicta.zm
 
 nserver:      HIPPO.RU.AC.ZA 146.231.128.1 2001:4200:1010:0:0:0:0:1
 nserver:      NS-ZM.AFRINIC.NET 196.216.168.44 2001:43f8:120:0:0:0:0:44
@@ -38,9 +38,12 @@ nserver:      NS1.COPPERNET.ZM 41.222.240.15
 nserver:      NS1.ZAMNET.ZM 196.46.192.26
 nserver:      NS2.ZAMNET.ZM 196.46.192.21
 
+whois:        whois.nic.zm
+
 status:       ACTIVE
+remarks:      Registration information: https://registry.zicta.zm
 
 created:      1994-03-25
-changed:      2012-09-06
+changed:      2014-04-04
 source:       IANA
 
