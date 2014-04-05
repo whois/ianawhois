@@ -10,7 +10,7 @@ address:      66386 St. Ingbert
 address:      Germany
 
 contact:      administrative
-name:         CEO
+name:         Registry Service
 organisation: dotSaarland GmbH
 address:      Im Oberen Werk 1
 address:      St. Ingbert  66386
@@ -18,17 +18,17 @@ address:      DE
 address:      Germany
 phone:        +49 6894 9396 250
 fax-no:       +49 6894 93 96 251
-e-mail:       icann@ksregistry.com
+e-mail:       info@nic.saarland
 
 contact:      technical
-name:         CTO
+name:         Registry Service
 organisation: KSregistry GmbH
 address:      Im Oberen Werk 1
 address:      66386 St. Ingbert
 address:      Germany
 phone:        +49 6894 9396 250
 fax-no:       +49 6894 93 96 251
-e-mail:       icann@ksregistry.com
+e-mail:       info@nic.saarland
 
 nserver:      NS1A.KSREGISTRY.NET 2001:dd8:7:6075:dc:0:0:1 203.119.88.75
 nserver:      NS1B.KSREGISTRY.NET 2620:0171:0a00:00ad:0:0:0:75 72.0.48.75
@@ -42,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic-saarland.de
 
 created:      2014-03-20
-changed:      2014-04-02
+changed:      2014-04-05
 source:       IANA
 
