@@ -6,13 +6,13 @@ domain:       商城
 domain-ace:   XN--CZRU2D
 
 organisation: Zodiac Capricorn Limited
-address:      Block B Unit 403, Horizon International Tower No. 6 Zhichun Road, Haidian District Beijing 100088 P.R. China
+address:      Block B Unit 403, Horizon International Tower No. 6 Zhichun Road, Haidian District Beijing 100088
 address:      China
 
 contact:      administrative
 name:         Eugene Li
 organisation: Zodiac Holdings Ltd
-address:      Block B Unit 403, Horizon International Tower No. 6 Zhichun Road, Haidian District Beijing 100088 P.R. China
+address:      Block B Unit 403, Horizon International Tower No. 6 Zhichun Road, Haidian District Beijing 100088
 address:      China
 phone:        +86.1082961219
 fax-no:       +86.1082961269
@@ -21,7 +21,7 @@ e-mail:       ceo@nic.wang
 contact:      technical
 name:         Zhanyong Zhang
 organisation: Zodiac Holdings Ltd
-address:      Block B Unit 403, Horizon International Tower No. 6 Zhichun Road, Haidian District Beijing 100088 P.R. China
+address:      Block B Unit 403, Horizon International Tower No. 6 Zhichun Road, Haidian District Beijing 100088
 address:      China
 phone:        +86.1082961219
 fax-no:       +86.1082961269
@@ -36,6 +36,7 @@ nserver:      F.ZDNSCLOUD.COM 182.131.23.22
 nserver:      G.ZDNSCLOUD.COM 111.12.148.111
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
+ds-rdata:     23405 8 2 AA34F0F8388AB5BEFABC0293CC9AE3AC376DC0109FF396C9E8A5C52A1E0474BD
 
 whois:        whois.gtld.knet.cn
 
@@ -43,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.zodiacregistry.com
 
 created:      2014-02-27
-changed:      2014-03-31
+changed:      2014-04-05
 source:       IANA
 
