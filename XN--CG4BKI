@@ -25,7 +25,7 @@ address:      #1101  Daerung Post Tower 3, 182-4 Guro 3-Dong Guro-Gu | Seoul Sou
 address:      Korea, Republic Of
 phone:        +82 70 4317 8217
 fax-no:       +82 2 2028 0011
-e-mail:       samsung@yesnic.com
+e-mail:       info@yesnic.com
 
 nserver:      B.DNS.KR 61.74.75.1
 nserver:      C.DNS.KR 203.248.246.220
@@ -41,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://samsungregistry.com
 
 created:      2013-12-12
-changed:      2014-02-21
+changed:      2014-04-08
 source:       IANA
 
