@@ -35,14 +35,15 @@ nserver:      NS3.DNS.NIC.CLUB 156.154.159.215 2610:a1:1073:0:0:0:0:d7
 nserver:      NS4.DNS.NIC.CLUB 156.154.156.215 2610:a1:1074:0:0:0:0:d7
 nserver:      NS5.DNS.NIC.CLUB 156.154.157.215 2610:a1:1075:0:0:0:0:d7
 nserver:      NS6.DNS.NIC.CLUB 156.154.158.215 2610:a1:1076:0:0:0:0:d7
-nserver:      NS7.DNS.NIC.CLUB 2001:503:7bbb:ffff:ffff:ffff:ffff:ff7e 207.34.5.10
 ds-rdata:     9346 8 1 3E247E0A6BC2660B58ABF34967A2EA60B7944568
 ds-rdata:     9346 8 2 3668A7F42E8BDCE70C17B8A8DE9F4505F8E10D4C1E95BBD3FB0DE6A488450C47
+
+whois:        whois.nic.club
 
 status:       ACTIVE
 remarks:      Registration information: http://dotclub.com
 
 created:      2014-01-09
-changed:      2014-01-18
+changed:      2014-04-08
 source:       IANA
 
