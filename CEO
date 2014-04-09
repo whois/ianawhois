@@ -33,14 +33,15 @@ nserver:      NS3.DNS.NIC.CEO 156.154.159.37 2610:a1:1073:0:0:0:0:25
 nserver:      NS4.DNS.NIC.CEO 156.154.156.37 2610:a1:1074:0:0:0:0:25
 nserver:      NS5.DNS.NIC.CEO 156.154.157.37 2610:a1:1075:0:0:0:0:25
 nserver:      NS6.DNS.NIC.CEO 156.154.158.37 2610:a1:1076:0:0:0:0:25
-nserver:      NS7.DNS.NIC.CEO 2001:503:7bbb:ffff:ffff:ffff:ffff:ff7e 207.34.5.10
 ds-rdata:     63689 8 1 DB7A8F6AADCEE147D241A9778857E94707234D4E
 ds-rdata:     63689 8 2 F2AB788C2802C3F219D53F37E7E1687ECF2E453E04BC5ABCC0B444FC0E35B1EE
+
+whois:        whois.nic.ceo
 
 status:       ACTIVE
 remarks:      Registration information: http://www.peoplebrowsr.com
 
 created:      2013-12-19
-changed:      2013-12-28
+changed:      2014-04-08
 source:       IANA
 
