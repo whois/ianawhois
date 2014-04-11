@@ -4,42 +4,39 @@
 
 domain:       VG
 
-organisation: Pinebrook Developments Ltd
-address:      Craigmuir Chambers
-address:      P.O. Box 71
-address:      Road Town Tortola
+organisation: Telecommunications Regulatory Commission of the Virgin Islands
+address:      27 Fish Lock Road, 3rd Floor
+address:      Road Town, Tortola VG1110
 address:      Virgin Islands, British
 
 contact:      administrative
-name:         Registrar
-organisation: Pinebrook Developments Ltd.
-address:      Craigmuir Chambers
-address:      P.O. Box 71
-address:      Road Town Tortola
+name:         Chief Technology Officer
+organisation: Telecommunications Regulatory Commission of the Virgin Islands
+address:      27 Fish Lock Road, 3rd Floor
+address:      Road Town, Tortola VG1110
 address:      Virgin Islands, British
-phone:        +442033972738
-e-mail:       iana@dreamtec.de
+phone:        284-468-4165
+fax-no:       284-494-6786
+e-mail:       rjones@trc.vg
 
 contact:      technical
-name:         Registrar
-organisation: AdamsNames Ltd
-address:      c/o 3 Adams Road
-address:      Cambridge  CB3 9AD
-address:      United Kingdom
-phone:        +442033972738
-e-mail:       iana@dreamtec.de
+name:         .VG Registry Support
+organisation: KSregistry GmbH
+address:      Im Oberen Werk 1
+address:      St. Ingbert, Germany 66386
+address:      Germany
+phone:        +49 6894 9396250
+fax-no:       +49 6894 9396251
+e-mail:       support@ksregistry.net
 
-nserver:      ASIA.ZONE.VG 31.169.81.226
-nserver:      EUROPE.ZONE.VG 77.79.104.226
-nserver:      NS1.ROOT-SERVERS.VG 194.0.11.102 2001:678:e:102:0:0:0:53
-nserver:      VG.CCTLD.AUTHDNS.RIPE.NET 193.0.9.124 2001:67c:e0:0:0:0:0:124
+nserver:      VG-NS.ANYCAST.PCH.NET 2001:500:14:6084:ad:0:0:1 204.61.216.84
+nserver:      VG-NS.KSREGISTRY.NET 194.0.11.102 2001:678:e:102:0:0:0:53
 
-whois:        whois.adamsnames.tc
+whois:        ccwhois.ksregistry.net
 
 status:       ACTIVE
-remarks:      Registration information: http://www.adamsnames.tc/
 
 created:      1997-02-20
-changed:      2013-02-05
+changed:      2014-04-10
 source:       IANA
 
