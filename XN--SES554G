@@ -1,0 +1,46 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       网址
+domain-ace:   XN--SES554G
+
+organisation: HU YI GLOBAL INFORMATION RESOURCES (HOLDING) COMPANY. HONGKONG LIMITED
+address:      4, South 4th Street, Zhongguancun, Haidian District, Beijing, China
+address:      China
+
+contact:      administrative
+name:         New gTLD Assistant
+organisation: HU YI GLOBAL INFORMATION RESOURCES (HOLDING) COMPANY. HONGKONG LIMITED
+address:      4, South 4th Street, Zhongguancun, Haidian District, Beijing, China
+address:      China
+phone:        86-10-58812426
+fax-no:       86-10-58813075
+e-mail:       wangzhi-admin@knet.cn
+
+contact:      technical
+name:         Technical Director
+organisation: HU YI GLOBAL INFORMATION RESOURCES (HOLDING) COMPANY. HONGKONG LIMITED
+address:      4, South 4th Street, Zhongguancun, Haidian District, Beijing, China
+address:      China
+phone:        86-10-58813165
+fax-no:       86-10-58813075
+e-mail:       wangzhi-tech@knet.cn
+
+nserver:      A.ZDNSCLOUD.COM 1.8.240.1
+nserver:      B.ZDNSCLOUD.COM 1.8.241.1
+nserver:      C.ZDNSCLOUD.COM 1.8.242.1
+nserver:      D.ZDNSCLOUD.COM 1.8.243.1
+nserver:      E.ZDNSCLOUD.COM 119.167.248.154
+nserver:      F.ZDNSCLOUD.COM 182.131.23.22
+nserver:      G.ZDNSCLOUD.COM 111.12.148.111
+nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
+nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
+ds-rdata:     149 8 2 93CBDE531ACEFE2D3C23F627E5A18B7E9F5E64CF5B1686597FAAA4512AD0DB41
+
+status:       ACTIVE
+
+created:      2014-03-13
+changed:      2014-04-10
+source:       IANA
+
