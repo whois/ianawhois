@@ -42,7 +42,7 @@ nserver:      F.ZDNSCLOUD.COM 182.131.23.22
 nserver:      G.ZDNSCLOUD.COM 111.12.148.111
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
-ds-rdata:     37400 8 2 07C6728C4F51FFD6B1E829D5AFBDEE24A30E710EBEFC50C8D6AB7785223A0A0C
+ds-rdata:     24064 8 2 92CEB14BA427F6C095AB300E2799685C2151EE5E3C87154E7E220E773AF29BAA
 
 whois:        whois.gtld.knet.cn
 
@@ -50,6 +50,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.zodiacregistry.com
 
 created:      2013-12-12
-changed:      2014-01-09
+changed:      2014-04-11
 source:       IANA
 
