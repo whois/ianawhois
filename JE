@@ -5,19 +5,22 @@
 domain:       JE
 
 organisation: Island Networks (Jersey) Ltd.
-address:      Templar House, Don Road
-address:      St. Helier  JE1 2TR
+address:      Fifth Floor
+address:      37 Esplanade
+address:      ST HELIER
+address:      JE1 1AW
 address:      Jersey
 
 contact:      administrative
 name:         Managing Director
 organisation: Island Networks (Jersey) Ltd.
-address:      Templar House, Don Road
-address:      St. Helier  JE1 2TR
+address:      Fifth Floor
+address:      37 Esplanade
+address:      ST HELIER
+address:      JE1 1AW
 address:      Jersey
-phone:        +44 1534 759526
-fax-no:       +44 870 321 2289
-e-mail:       hostmaster@iana-contact.je
+phone:        +44 1534 521713
+e-mail:       hostmaster2014@iana-contact.je
 
 contact:      technical
 name:         JE-Hostmaster
@@ -25,9 +28,9 @@ organisation: Island Networks Limited
 address:      4 & 5 St. Anne's Walk
 address:      Alderney  GY9 3JZ
 address:      Guernsey
-phone:        +44 1481 822800
-fax-no:       +44 870 321 2289
-e-mail:       hostmaster@iana-contact.je
+phone:        +44 1481 521713
+fax-no:       +44 870 321 228
+e-mail:       hostmaster2014@iana-contact.je
 
 nserver:      B.CI-SERVERS.ORG 82.103.139.220
 nserver:      C.CI-SERVERS.ORG 194.146.106.86 2001:67c:1010:22:0:0:0:53
@@ -42,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.channelisles.net/
 
 created:      1996-08-08
-changed:      2014-03-15
+changed:      2014-04-17
 source:       IANA
 
