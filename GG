@@ -15,19 +15,18 @@ organisation: Nigel Roberts, Chartered Engineer
 address:      4 & 5 St. Anne's Walk
 address:      Alderney  GY9 3JZ
 address:      Guernsey
-phone:        +44 1481 822800
-fax-no:       +44 870 321 2289
-e-mail:       hostmaster@iana-contact.gg
+phone:        +44 1481 521713
+e-mail:       hostmaster2014@iana-contact.gg
 
 contact:      technical
 name:         GG-Hostmaster
 organisation: Island Networks Limited
 address:      4 & 5 St. Anne's Walk
-address:      Alderney Channel Islands GY9 3JZ
+address:      Alderney
+address:      GY9 3JZ
 address:      Guernsey
-phone:        +44 1481 822800
-fax-no:       +44 870 321 2289
-e-mail:       hostmaster@iana-contact.gg
+phone:        +44 1481 521713
+e-mail:       hostmaster2014@iana-contact.gg
 
 nserver:      B.CI-SERVERS.ORG 82.103.139.220
 nserver:      C.CI-SERVERS.ORG 194.146.106.86 2001:67c:1010:22:0:0:0:53
@@ -42,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.channelisles.net/
 
 created:      1996-08-07
-changed:      2014-03-15
+changed:      2014-04-18
 source:       IANA
 
