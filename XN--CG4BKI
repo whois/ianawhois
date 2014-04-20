@@ -1,0 +1,46 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       삼성
+domain-ace:   XN--CG4BKI
+
+organisation: SAMSUNG SDS CO., LTD
+address:      #1101  Daerung Post Tower 3, 182-4 Guro 3-Dong Guro-Gu | Seoul South Korea 152-746
+address:      Korea, Republic Of
+
+contact:      administrative
+name:         Yujeong Shin
+organisation: Whois Corp.
+address:      #1101  Daerung Post Tower 3, 182-4 Guro 3-Dong Guro-Gu | Seoul South Korea 152-746
+address:      Korea, Republic Of
+phone:        +82 70 4317 8217
+fax-no:       +82 2 2028 0011
+e-mail:       samsung@yesnic.com
+
+contact:      technical
+name:         Domain Division
+organisation: Whois Corp.
+address:      #1101  Daerung Post Tower 3, 182-4 Guro 3-Dong Guro-Gu | Seoul South Korea 152-746
+address:      Korea, Republic Of
+phone:        +82 70 4317 8217
+fax-no:       +82 2 2028 0011
+e-mail:       info@yesnic.com
+
+nserver:      B.DNS.KR 61.74.75.1
+nserver:      C.DNS.KR 203.248.246.220
+nserver:      D.DNS.KR 203.83.159.1
+nserver:      E.DNS.KR 2001:dcc:5:0:0:0:0:100 202.30.124.100
+nserver:      F.DNS.KR 218.38.181.90
+nserver:      G.DNS.KR 2001:dc5:a:0:0:0:0:1 202.31.190.1
+ds-rdata:     4563 7 2 0E93A7A26450AF01D3ACB6088B38FF7F61F8B370E40C9FEE9DEB963528C4A811
+
+whois:        whois.kr
+
+status:       ACTIVE
+remarks:      Registration information: http://samsungregistry.com
+
+created:      2013-12-12
+changed:      2014-04-08
+source:       IANA
+
