@@ -5,9 +5,45 @@
 domain:       PARIS
 
 organisation: City of Paris
+address:      Ville de Paris
+address:      5 rue Lobau
+address:      Paris - 75004
+address:      France
 
-status:       NEW
+contact:      administrative
+name:         Account Manager
+organisation: AFNIC
+address:      1 rue Stephenson
+address:      immeuble Stephenson
+address:      78180 Montigny-Le-Bretonneux
+address:      France
+phone:        +33 643018487
+fax-no:       +33 139308301
+e-mail:       pocparis@afnic.fr
+
+contact:      technical
+name:         Project Manager
+organisation: AFNIC
+address:      1 rue Stephenson
+address:      immeuble Stephenson
+address:      78180 Montigny-Le-Bretonneux
+address:      France
+phone:        +33 672217740
+fax-no:       +33 139308301
+e-mail:       pocparis@afnic.fr
+
+nserver:      D.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
+nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
+nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
+ds-rdata:     10139 8 2 7050f8d7beecfdd06b05243182e340cf1d2f8959da78fb6fa7b568ce699f41c8
+ds-rdata:     29639 8 2 b714d5f0c4b2a353d83332893935a8666982a871c0103bca787895fbfcc7b143
+
+whois:        whois-paris.nic.fr
+
+status:       ACTIVE
+remarks:      Registration information: http://mondomaine.paris.fr/
 
 created:      2014-03-27
+changed:      2014-04-21
 source:       IANA
 
