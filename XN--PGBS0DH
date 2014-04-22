@@ -34,13 +34,11 @@ nserver:      NS-TN.AFRINIC.NET 196.216.168.25 2001:43f8:120:0:0:0:0:25
 nserver:      NS1.ATI.TN 193.95.66.10 2001:4350:1:1:0:0:0:10
 nserver:      NS2.ATI.TN 193.95.67.22 2001:4350:2048:1:0:0:0:22
 nserver:      NS2.NIC.FR 192.93.0.4 2001:660:3005:1:0:0:1:2
-nserver:      NS8.ATI.TN 193.95.66.6 2001:4350:1:1:0:0:0:6
-nserver:      NS9.ATI.TN 193.95.67.26 2001:4350:2048:1:0:0:0:26
 
 status:       ACTIVE
 remarks:      Registration information: http://www.ati.tn
 
 created:      2010-08-19
-changed:      2013-08-20
+changed:      2014-04-22
 source:       IANA
 
