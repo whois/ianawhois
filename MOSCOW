@@ -1,0 +1,44 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       MOSCOW
+
+organisation: Foundation for Assistance for Internet Technologies and Infrastructure Development (FAITID)
+address:      2 bld 1, 3rd Khoroshevskaya str. , 123308, Moscow
+address:      Russian Federation
+
+contact:      administrative
+name:         Alexander Panov
+organisation: Foundation for Assistance for Internet Technologies and Infrastructure Development (FAITID)
+address:      2 bld 1, 3rd Khoroshevskaya str., 123308, Moscow
+address:      Russian Federation
+phone:        7 495 7898207
+fax-no:       7 495 7375762
+e-mail:       adm.contact@faitid.org
+
+contact:      technical
+name:         Alexander Shcherbakov
+organisation: International Network Technical Center (INTC)
+address:      Marshala Rybalko str., 2,  building 6, 123060, Moscow
+address:      Russian Federation
+phone:        7 495 7377658
+fax-no:       7 495 7375762
+e-mail:       aes@intcreg.net
+
+nserver:      A.DNS.RIPN.NET 193.232.128.6 2001:678:17:0:193:232:128:6
+nserver:      B.DNS.RIPN.NET 194.85.252.62 2001:678:16:0:194:85:252:62
+nserver:      D.DNS.RIPN.NET 194.190.124.17 2001:678:18:0:194:190:124:17
+nserver:      E.DNS.RIPN.NET 193.232.142.17 2001:678:15:0:193:232:142:17
+nserver:      F.DNS.RIPN.NET 193.232.156.17 2001:678:14:0:193:232:156:17
+ds-rdata:     38389 8 2 4C3B146563C5FE90FDEC0AE59569983DAE8977A60D1EA710986EDE0A9E019BF1
+
+whois:        whois.nic.moscow
+
+status:       ACTIVE
+remarks:      Registration information: http://www.faitid.org
+
+created:      2014-04-17
+changed:      2014-04-24
+source:       IANA
+
