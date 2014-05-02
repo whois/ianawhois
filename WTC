@@ -10,7 +10,7 @@ address:      New York, NY 10271
 address:      United States
 
 contact:      administrative
-name:         Lindsay Kassof
+name:         Associate Counsel
 organisation: World Trade Centers Association, Inc.
 address:      120 Broadway, Suite 3350
 address:      New York, NY 10271
@@ -20,7 +20,7 @@ fax-no:       (212) 488-0065
 e-mail:       lkassof@wtca.org
 
 contact:      technical
-name:         Lindsay Kassof
+name:         Associate Counsel
 organisation: World Trade Centers Association, Inc.
 address:      120 Broadway, Suite 3350
 address:      New York, NY 10271
@@ -36,12 +36,12 @@ nserver:      D.NIC.WTC 2001:dcd:4:0:0:0:0:9 37.209.198.9
 ds-rdata:     27154 8 2 DADC5E564963636D1F5D7DA6F35C4138828FF24D00CB106EBA08C6D17788BDD0
 ds-rdata:     27154 8 1 8F68EC9C9367EA1AB82A510F145D33A9FD827A1F
 
-whois:        whois.aridnrs.net.au
+whois:        whois.nic.wtc
 
 status:       ACTIVE
-remarks:      Registration information: https://www.wtca.org/
+remarks:      Registration information: http://nic.wtc/
 
 created:      2014-04-17
-changed:      2014-04-29
+changed:      2014-05-02
 source:       IANA
 
