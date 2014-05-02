@@ -6,23 +6,23 @@ domain:       укр
 domain-ace:   XN--J1AMH
 
 organisation: Ukrainian Network Information Centre (UANIC), Inc.
-address:      10, Volodymyrska str.
-address:      Kyiv 01025
+address:      31-33, Smolenska str.
+address:      Kyiv 03005
 address:      Ukraine
 
 contact:      administrative
 name:         CEO
 organisation: Ukrainian Network Information Centre (UANIC), Inc.
-address:      10, Volodymyrska str.
-address:      Kyiv 01025
+address:      P.O.Box 45
+address:      Kyiv 04053
 address:      Ukraine
 phone:        +380442309344
 fax-no:       +380442309344
 e-mail:       ceo@uanic.net
 
 contact:      technical
-name:         Head of UANIC Technical Group
-organisation: Ukrainian Network Information Centre (UANIC), Inc.
+name:         CEO
+organisation: Technical Internet Center (TCI), LLC
 address:      73, Artema str., office #112
 address:      Kyiv 04053
 address:      Ukraine
@@ -43,6 +43,6 @@ remarks:      Registration information:
 remarks:      https://namestore.u-registry.com
 
 created:      2011-03-01
-changed:      2013-09-06
+changed:      2014-05-02
 source:       IANA
 
