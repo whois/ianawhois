@@ -5,14 +5,14 @@
 domain:       AL
 
 organisation: Electronic and Postal Communications Authority - AKEP
-address:      Rr. Reshit Collaku Nr. 43
+address:      Rr. "Abdi Toptani", Torre DRIN, Kt. IX
 address:      Tirana  1001
 address:      Albania
 
 contact:      administrative
 name:         Technical Director
 organisation: Electronic and Postal Communications Authority - AKEP
-address:      Rr. Reshit Collaku Nr. 43
+address:      Rr. "Abdi Toptani", Torre DRIN, Kt. IX
 address:      Tirana  1001
 address:      Albania
 phone:        +355 4 2250926
@@ -22,7 +22,7 @@ e-mail:       domain@akep.al
 contact:      technical
 name:         Adriatik Allamani
 organisation: Electronic and Postal Communications Authority - AKEP
-address:      Rr. Reshit Collaku Nr. 43
+address:      Rr. "Abdi Toptani", Torre DRIN, Kt. IX
 address:      Tirana  1001
 address:      Albania
 phone:        +355 4 2250926
@@ -37,9 +37,9 @@ nserver:      RIP.PSG.COM 147.28.0.39 2001:418:1:0:0:0:0:39
 
 status:       ACTIVE
 remarks:      Registration information:
-remarks:      http://www.akep.al/sq/formulare-domain
+remarks:      http://www.akep.al/sq/regjistrim-domain
 
 created:      1992-04-21
-changed:      2012-04-21
+changed:      2014-05-14
 source:       IANA
 
