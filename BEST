@@ -35,6 +35,8 @@ nserver:      NS6.DNS.NIC.BEST 156.154.158.24 2610:a1:1076:0:0:0:0:18
 ds-rdata:     13891 8 1 7BA8044052DD9EE3800258F6A74E2EA71758D63D
 ds-rdata:     13891 8 2 1EA72B6C84425B7BE18766B90CF3AFD3B8C410656B306D8D9134E905DDE6792B
 
+whois:        whois.nic.best
+
 status:       ACTIVE
 remarks:      Registration information: http://www.peoplebrowsr.com
 
