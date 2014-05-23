@@ -1,0 +1,54 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       MOTORCYCLES
+
+organisation: DERMotorcycles, LLC
+address:      150 Granby Street
+address:      Norfolk
+address:      VA
+address:      23510
+address:      United States
+
+contact:      administrative
+name:         Executive Vice President
+organisation: DERMotorcycles, LLC
+address:      150 Granby Street
+address:      Norfolk
+address:      VA
+address:      23510
+address:      United States
+phone:        757-351-8802
+fax-no:       757-664-2164
+e-mail:       gfridelltld@dominionenterprises.com
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      300 Welsh Road, Building 3, Suite 105
+address:      Horsham
+address:      PA
+address:      19044
+address:      United States
+phone:        +1 215.706.5700
+fax-no:       +1 215.706.5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.MOTORCYCLES 2a01:8840:66:0:0:0:0:1 65.22.104.1
+nserver:      A2.NIC.MOTORCYCLES 2a01:8840:69:0:0:0:0:1 65.22.107.1
+nserver:      B0.NIC.MOTORCYCLES 2a01:8840:67:0:0:0:0:1 65.22.105.1
+nserver:      C0.NIC.MOTORCYCLES 2a01:8840:68:0:0:0:0:1 65.22.106.1
+ds-rdata:     64395 7 1 1dd446fbce7ac93b30c0d391bd5bffe4ed1f3552
+ds-rdata:     64395 7 2 eaf5dd8adf1bd90a49589178df573b10b4971f34618861e546a075bb897ccd53
+
+whois:        whois.afilias-srs.net
+
+status:       ACTIVE
+remarks:      Registration information:
+remarks:      http://www.dominionenterprises.com
+
+created:      2014-05-01
+changed:      2014-05-22
+source:       IANA
+
