@@ -1,0 +1,46 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       REISE
+
+organisation: dotreise GmbH
+address:      Itzenbütteler Mühlenweg 35a
+address:      21227 Bendestorf
+address:      Germany
+
+contact:      administrative
+name:         Matthias Pfeifer
+organisation: dotreise GmbH
+address:      Itzenbütteler Mühlenweg 35a
+address:      21227 Bendestorf
+address:      Germany
+phone:        +49 4183 7748915 
+fax-no:       +49 4183 7748919
+e-mail:       info@dotreise.de
+
+contact:      technical
+name:         Matthias Pfeifer
+organisation: dotreise GmbH
+address:      Itzenbütteler Mühlenweg 35a
+address:      21227 Bendestorf
+address:      Germany
+phone:        +49 4183 7748915
+fax-no:       +49 4183 7748919
+e-mail:       info@dotreise.de
+
+nserver:      A.DNS.NIC.REISE 194.0.25.18 2001:678:20:0:0:0:0:18
+nserver:      B.DNS.NIC.REISE 193.170.61.7 2001:62a:a:2000:0:0:0:7
+nserver:      C.DNS.NIC.REISE 193.170.187.7 2001:62a:a:3000:0:0:0:7
+ds-rdata:     62014 8 1 51c1596e977ec71522e395b24f84b5db6654f5b9
+ds-rdata:     62014 8 2 c4b956e202c47ea68fdf3a937dd6ef69fe3ae043712545f1d49a0600771d6893
+
+whois:        whois.reise.tld-box.at
+
+status:       ACTIVE
+remarks:      Registration information: http://www.dotreise.de
+
+created:      2014-05-15
+changed:      2014-05-22
+source:       IANA
+
