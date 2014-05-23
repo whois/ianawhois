@@ -1,0 +1,46 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       VERSICHERUNG
+
+organisation: dotversicherung-registry GmbH
+address:      Itzenbütteler Mühlenweg 35a
+address:      21227 Bendestorf
+address:      Germany
+
+contact:      administrative
+name:         Matthias Pfeifer
+organisation: dotversicherung-registry GmbH
+address:      Itzenbütteler Mühlenweg 35a
+address:      21227 Bendestorf
+address:      Germany
+phone:        +49 4183 7748915 
+fax-no:       +49 4183 7748919
+e-mail:       info@dotversicherung.de
+
+contact:      technical
+name:         Matthias Pfeifer
+organisation: dotversicherung-registry GmbH
+address:      Itzenbütteler Mühlenweg 35a
+address:      21227 Bendestorf
+address:      Germany
+phone:        +49 4183 7748915
+fax-no:       +49 4183 7748919
+e-mail:       info@dotversicherung.de
+
+nserver:      A.DNS.NIC.VERSICHERUNG 194.0.25.13 2001:678:20:0:0:0:0:13
+nserver:      B.DNS.NIC.VERSICHERUNG 193.170.61.2 2001:62a:a:2000:0:0:0:2
+nserver:      C.DNS.NIC.VERSICHERUNG 193.170.187.2 2001:62a:a:3000:0:0:0:2
+ds-rdata:     59426 8 1 3a7e0ff95b77ea99cb3266ccd0e0dc9b743afa33
+ds-rdata:     59426 8 2 06b1e7b1c37254047a043fa877fb7bff88761d50b4e51eee063eec7b142418b9
+
+whois:        whois.versicherung.tld-box.at
+
+status:       ACTIVE
+remarks:      Registration information: http://www.dotversicherung.de
+
+created:      2014-05-15
+changed:      2014-05-22
+source:       IANA
+
