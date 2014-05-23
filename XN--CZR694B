@@ -1,0 +1,44 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       商标
+domain-ace:   XN--CZR694B
+
+organisation: HU YI GLOBAL INFORMATION RESOURCES(HOLDING) COMPANY.HONGKONG LIMITED
+address:      7/F, Chinachem Century Tower, No. 178 Gloucester Road, Wanchai,Hong Kong
+address:      China
+
+contact:      administrative
+name:         Director
+organisation: Huyi Global Information Resources (Holding) Company Hong Kong Limited
+address:      7/F, Chinachem Century Tower, No. 178 Gloucester Road, Wanchai,Hong Kong
+address:      China
+phone:        86 20 29112349
+e-mail:       dnsadmin@huyi.cn
+
+contact:      technical
+name:         Director
+organisation: Huyi Global Information Resources (Holding) Company Hong Kong Limited
+address:      7/F, Chinachem Century Tower, No. 178 Gloucester Road, Wanchai,Hong Kong
+address:      China
+phone:        86 20 29112349
+e-mail:       dnsadmin@huyi.cn
+
+nserver:      A.ZDNSCLOUD.COM 1.8.240.1
+nserver:      B.ZDNSCLOUD.COM 1.8.241.1
+nserver:      C.ZDNSCLOUD.COM 1.8.242.1
+nserver:      D.ZDNSCLOUD.COM 1.8.243.1
+nserver:      E.ZDNSCLOUD.COM 119.167.248.154
+nserver:      F.ZDNSCLOUD.COM 182.131.23.22
+nserver:      G.ZDNSCLOUD.COM 111.12.148.111
+nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
+nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
+ds-rdata:     41629 8 2 6EF0B4F0F27C13A9E4F4F30034654687CB79815F4F53FE75FB69F30E45B83DB2
+
+status:       ACTIVE
+
+created:      2014-05-08
+changed:      2014-05-22
+source:       IANA
+
