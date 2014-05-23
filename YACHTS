@@ -1,0 +1,48 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       YACHTS
+
+organisation: DERYachts, LLC
+address:      150 Granby Street
+address:      Norfolk, VA 23510
+address:      United States
+
+contact:      administrative
+name:         Executive Vice President
+organisation: DERYachts, LLC
+address:      150 Granby Street
+address:      Norfolk, VA 23510
+address:      United States
+phone:        757-351-8802
+fax-no:       757-664-2164
+e-mail:       gfridelltld@dominionenterprises.com
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      300 Welsh Road, Building 3, Suite 105
+address:      Horsham, PA 19044
+address:      United States
+phone:        +1 215.706.5700
+fax-no:       +1 215.706.5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.YACHTS 2a01:8840:62:0:0:0:0:1 65.22.100.1
+nserver:      A2.NIC.YACHTS 2a01:8840:65:0:0:0:0:1 65.22.103.1
+nserver:      B0.NIC.YACHTS 2a01:8840:63:0:0:0:0:1 65.22.101.1
+nserver:      C0.NIC.YACHTS 2a01:8840:64:0:0:0:0:1 65.22.102.1
+ds-rdata:     23151 7 1 5b7a603354db71fe12a8eb02c543870b9d32ca50
+ds-rdata:     23151 7 2 3274bf993895f56c64538047445c393fddc0c5b17bebb23d1b6f1842973c0abd
+
+whois:        whois.afilias-srs.net
+
+status:       ACTIVE
+remarks:      Registration information:
+remarks:      http://www.dominionenterprises.com
+
+created:      2014-05-01
+changed:      2014-05-22
+source:       IANA
+
