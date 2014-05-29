@@ -1,0 +1,49 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       موقع
+domain-ace:   XN--4GBRIM
+
+organisation: Suhub Electronic Establishment
+address:      Gulf Center, Corniche Street, Second floor
+address:      Khobar, Eastern 31952
+address:      Saudi Arabia
+
+contact:      administrative
+name:         Abdullah Mohamed Al Barrak
+organisation: Suhub Electronic Incorporation
+address:      Gulf Center, Corniche Street, Second floor
+address:      Khobar, Eastern 31952
+address:      Saudi Arabia
+phone:        +966.13.8980208
+fax-no:       +966.13.8980208
+e-mail:       gm@dotmawqe.com
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      Building 3, Suite 105
+address:      300 Welsh Road
+address:      Horsham, PA 19044
+address:      United States
+phone:        +1 215.706.5700
+fax-no:       +1 215.706.5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.XN--4GBRIM 2a01:8840:ee:0:0:0:0:33 65.22.244.33
+nserver:      A2.NIC.XN--4GBRIM 2a01:8840:f1:0:0:0:0:33 65.22.247.33
+nserver:      B0.NIC.XN--4GBRIM 2a01:8840:ef:0:0:0:0:33 65.22.245.33
+nserver:      C0.NIC.XN--4GBRIM 2a01:8840:f0:0:0:0:0:33 65.22.246.33
+ds-rdata:     21430 7 1 c4da13c32bdc30090e91ad6889d5137ef1097fff
+ds-rdata:     21430 7 2 10eb900d8a6d23890ef9200a8c149fdb0d412a7137e78c58f89b07c66dc50b25
+
+whois:        whois.afilias-srs.net
+
+status:       ACTIVE
+remarks:      Registration information: http://www.dotmawqe.com
+
+created:      2014-05-15
+changed:      2014-05-28
+source:       IANA
+
