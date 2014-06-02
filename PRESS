@@ -5,9 +5,51 @@
 domain:       PRESS
 
 organisation: DotPress Inc.
+address:      Directiplex
+address:      Next to Andheri Subway
+address:      Old Nagardas Road, Andheri (East)
+address:      Mumbai
+address:      Maharashtra
+address:      400069
+address:      India
 
-status:       NEW
+contact:      administrative
+name:         Manager
+organisation: DotPress Inc.
+address:      Directiplex
+address:      Next to Andheri Subway
+address:      Old Nagardas Road, Andheri (East)
+address:      Mumbai
+address:      Maharashtra
+address:      400069
+address:      India
+phone:        +14154494774x8522
+fax-no:       +912230797508
+e-mail:       admin@radixregistry.com
+
+contact:      technical
+name:         CTO
+organisation: CentralNic
+address:      35-39 Moorgate
+address:      London EC2R 6AR
+address:      United Kingdom
+phone:        +44.2033880600
+fax-no:       +44.2033880601
+e-mail:       tld.ops@centralnic.com
+
+nserver:      A.NIC.PRESS 194.169.218.34 2001:67c:13cc:0:0:0:1:34
+nserver:      B.NIC.PRESS 185.24.64.34 2a04:2b00:13cc:0:0:0:1:34
+nserver:      C.NIC.PRESS 194.0.2.2 2001:678:5:0:0:0:0:2
+nserver:      D.NIC.PRESS 194.0.1.45 2001:678:4:0:0:0:0:2d
+ds-rdata:     4289 8 1 2EFC540D13139B56FC1041247B275BC5CC6DE009
+ds-rdata:     4289 8 2 03A4602F454DD05E3EF2B7A9507F7E4EEB78BA9259E35DA7C3B20FD8DA43341A
+
+whois:        whois.centralnic.com
+
+status:       ACTIVE
+remarks:      Registration information: http://radixregistry.com/
 
 created:      2014-05-22
+changed:      2014-06-02
 source:       IANA
 
