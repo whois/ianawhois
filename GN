@@ -30,13 +30,12 @@ nserver:      FORK.STH.DNSNODE.NET 2a01:3f0:0:306:0:0:0:53 77.72.229.254
 nserver:      HIPPO.RU.AC.ZA 146.231.128.1 2001:4200:1010:0:0:0:0:1
 nserver:      NS1.DNS.AQ 203.119.56.132
 nserver:      RIP.PSG.COM 147.28.0.39 2001:418:1:0:0:0:0:39
-ds-rdata:     31346 8 2 65e9984147aaf1940df87b8dbb38190736999249de0f39b88419147fa4afd01a
 ds-rdata:     38486 8 2 4d9b33859b77bab1986ceaacc6e4a0534cdee69ac5e406c6d082c9314e0fce66
 
 status:       ACTIVE
 remarks:      Registration information: http://psg.com/dns/gn
 
 created:      1994-08-09
-changed:      2014-05-30
+changed:      2014-06-05
 source:       IANA
 
