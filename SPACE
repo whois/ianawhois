@@ -23,8 +23,8 @@ address:      Mumbai
 address:      Maharashtra
 address:      400069
 address:      India
-phone:        +14154494774x8522
-fax-no:       +912230797508
+phone:        +1.4154494774x8522
+fax-no:       +91.2230797508
 e-mail:       admin@radixregistry.com
 
 contact:      technical
@@ -44,12 +44,12 @@ nserver:      D.NIC.SPACE 194.0.1.45 2001:678:4:0:0:0:0:2d
 ds-rdata:     44251 8 1 36ACB68B734DFE465CC1112F9DAC08B8B66627CC
 ds-rdata:     44251 8 2 A82D8ED2B07D66D6E7AF375E0E44B22A82F4479AD45F5D8E1859DF6FC170E67C
 
-whois:        whois.centralnic.com
+whois:        whois.nic.space
 
 status:       ACTIVE
 remarks:      Registration information: http://radixregistry.com/
 
 created:      2014-05-22
-changed:      2014-05-30
+changed:      2014-06-06
 source:       IANA
 
