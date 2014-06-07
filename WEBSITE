@@ -5,6 +5,13 @@
 domain:       WEBSITE
 
 organisation: DotWebsite Inc.
+address:      Directiplex
+address:      Next to Andheri Subway
+address:      Old Nagardas Road, Andheri (East)
+address:      Mumbai
+address:      Maharashtra
+address:      400069
+address:      India
 
 contact:      administrative
 name:         Manager
@@ -16,8 +23,8 @@ address:      Mumbai
 address:      Maharashtra
 address:      400069
 address:      India
-phone:        +14154494774x8522
-fax-no:       +912230797508
+phone:        +1.4154494774x8522
+fax-no:       +91.2230797508
 e-mail:       admin@radixregistry.com
 
 contact:      technical
@@ -37,12 +44,12 @@ nserver:      D.NIC.WEBSITE 194.0.1.45 2001:678:4:0:0:0:0:2d
 ds-rdata:     47815 8 1 34C5E08B2F09248A85BE31CD465DB919AF06DA90
 ds-rdata:     47815 8 2 CB5F31743F17C1C1641D7ECC4C7DC40217363645E7AC25C509393C6709D933A8
 
-whois:        whois.centralnic.com
+whois:        whois.nic.website
 
 status:       ACTIVE
 remarks:      Registration information: http://radixregistry.com/
 
 created:      2014-05-22
-changed:      2014-05-30
+changed:      2014-06-06
 source:       IANA
 
