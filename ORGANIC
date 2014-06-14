@@ -1,0 +1,50 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       ORGANIC
+
+organisation: Afilias Limited
+address:      2 La Touche House
+address:      IFSC, Dublin 1
+address:      Ireland
+
+contact:      administrative
+name:         Senior Vice President
+organisation: Afilias
+address:      Building 3, Suite 105
+address:      300 Welsh Road
+address:      Horsham, PA 19044
+address:      United States
+phone:        +1 215 706 5700
+fax-no:       +1 215 706 5701
+e-mail:       tld-admin-poc@afilias.info
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      Building 3, Suite 105
+address:      300 Welsh Road
+address:      Horsham, PA 19044
+address:      United States
+phone:        +1 215 706 5700
+fax-no:       +1 215 706 5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.ORGANIC 2a01:8840:16:0:0:0:0:40 65.22.20.40
+nserver:      A2.NIC.ORGANIC 2a01:8840:19:0:0:0:0:40 65.22.23.40
+nserver:      B0.NIC.ORGANIC 2a01:8840:17:0:0:0:0:40 65.22.21.40
+nserver:      C0.NIC.ORGANIC 2a01:8840:18:0:0:0:0:40 65.22.22.40
+ds-rdata:     53418 7 1 ee9cb0590f8a62301d2e7d4db6d5e50405019146
+ds-rdata:     53418 7 2 158da177f06e185437cf0d4c7647206c89c9d6ea73a7f3fe5c5ec004bb0a21c7
+
+whois:        whois.afilias.net
+
+status:       ACTIVE
+remarks:      Registration information:
+remarks:      http://www.afilias.info/contact-us
+
+created:      2014-05-29
+changed:      2014-06-13
+source:       IANA
+
