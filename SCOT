@@ -1,0 +1,47 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       SCOT
+
+organisation: Dot Scot Registry Limited
+address:      Suite 119, 111 West George Street
+address:      Glasgow, Scotland G2 1QX
+address:      United Kingdom
+
+contact:      administrative
+name:         .scot Administrative Contact
+organisation: Dot Scot Registry Limited
+address:      Suite 119, 111 West George Street
+address:      Glasgow, Scotland G2 1QX
+address:      United Kingdom
+phone:        +44-141-225-6285
+fax-no:       +44-141-225-6271
+e-mail:       secretariat@dotscot.net
+
+contact:      technical
+name:         .scot Technical Contact
+organisation: CORE Association
+address:      World Trade Center II
+address:      29 route de Pre-Bois
+address:      Geneva 1215
+address:      Switzerland
+phone:        +41 22 929 57 44
+fax-no:       +41 22 929 57 45
+e-mail:       dnsmaster@corenic.org
+
+nserver:      ANYCAST10.IRONDNS.NET 195.253.64.12 2a01:5b0:4:0:0:0:0:c
+nserver:      ANYCAST23.IRONDNS.NET 195.253.65.11 2a01:5b0:5:0:0:0:0:b
+nserver:      ANYCAST24.IRONDNS.NET 195.253.65.12 2a01:5b0:5:0:0:0:0:c
+nserver:      ANYCAST9.IRONDNS.NET 195.253.64.11 2a01:5b0:4:0:0:0:0:b
+ds-rdata:     28873 10 2 A99FB1213FC07299A57251F57238BC0F796D7AA311624CF49DDCACAC08C1DC3D
+
+whois:        whois.scot.coreregistry.net
+
+status:       ACTIVE
+remarks:      Registration information: http://www.dotscot.net
+
+created:      2014-06-05
+changed:      2014-06-13
+source:       IANA
+
