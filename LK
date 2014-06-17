@@ -12,26 +12,24 @@ address:      Sri Lanka
 
 contact:      administrative
 name:         Gihan Dias
-organisation: Department of Computer Science and Engineering
-organisation: University of Moratuwa
-address:      Moratuwa  10400
+organisation: LK Domain Registry
+address:      545/4 de Soysa Rd.,
+address:      Molpe,
+address:      Moratuwa 10400
 address:      Sri Lanka
 phone:        +94 11 4 216 065
 fax-no:       +94 11 2 650 805
 e-mail:       gihan@cse.mrt.ac.lk
 
 contact:      technical
-name:         LK Domain Hostmaster
-Department of Computer Science and Engineering
-University of Moratuwa
-
-organisation: LK Domain Hostmaster
-organisation: Department of Computer Science and Engineering
-organisation: University of Moratuwa
-address:      Moratuwa  10400
+name:         Hostmaster
+organisation: LK Domain Registry
+address:      545/4 de Soysa Rd.,
+address:      Molpe,
+address:      Moratuwa 10400
 address:      Sri Lanka
 phone:        +94 11 4 216 061
-fax-no:       +94 11 2 650 912
+fax-no:       +94 112 650 805
 e-mail:       hostmaster@nic.lk
 
 nserver:      C.NIC.LK 203.143.29.3 2405:5400:3:1:203:143:29:3
@@ -50,6 +48,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.lk/
 
 created:      1990-06-15
-changed:      2012-05-09
+changed:      2014-06-17
 source:       IANA
 
