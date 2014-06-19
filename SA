@@ -15,8 +15,8 @@ organisation: Communications and Information Technology Commission
 address:      P. O. Box 75606
 address:      Riyadh  11588
 address:      Saudi Arabia
-phone:        +966 1 263 9233
-fax-no:       +966 1 263 9393
+phone:        +966114618024
+fax-no:       +966114619497 
 e-mail:       sa-tld-admin-contact@nic.net.sa
 
 contact:      technical
@@ -25,8 +25,8 @@ organisation: Communications and Information Technology Commission
 address:      P. O. Box 75606
 address:      Riyadh  11588
 address:      Saudi Arabia
-phone:        +966 1 263 9235
-fax-no:       +966 1 263 9228
+phone:        +966114618216
+fax-no:       +966114619497
 e-mail:       sa-tld-tech-contact@nic.net.sa
 
 nserver:      NS1.ISU.NET.SA 2001:1490:0:800:0:0:0:3 212.26.18.3
@@ -42,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.net.sa/
 
 created:      1994-05-17
-changed:      2011-10-31
+changed:      2014-06-18
 source:       IANA
 
