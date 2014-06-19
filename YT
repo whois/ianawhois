@@ -4,29 +4,29 @@
 
 domain:       YT
 
-organisation: AFNIC (NIC France) - Immeuble International
-address:      2 rue Stephenson - Montigny-le-Bretonneux
-address:      Saint-Quentin-en-Yvelines CEDEX
-address:      78181
+organisation: Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)
+address:      Immeuble Le Stephenson
+address:      1 rue Stephenson
+address:      78180 Montigny-le-Bretonneux
 address:      France
 
 contact:      administrative
-name:         AFNIC Admin Contact
-organisation: AFNIC (NIC France) - Immeuble International
-address:      2 rue Stephenson - Montigny-le-Bretonneux
-address:      Saint-Quentin-en-Yvelines CEDEX
-address:      78181
+name:         TLD Admin Contact
+organisation: Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)
+address:      Immeuble Le Stephenson
+address:      1 rue Stephenson
+address:      78180 Montigny-le-Bretonneux
 address:      France
 phone:        +33 1 39 30 83 05
 fax-no:       +33 1 39 30 83 01
 e-mail:       tld-admin@nic.fr
 
 contact:      technical
-name:         AFNIC Tech Contact
-organisation: AFNIC (NIC France) - Immeuble International
-address:      2 rue Stephenson - Montigny-le-Bretonneux
-address:      Saint-Quentin-en-Yvelines CEDEX
-address:      78181
+name:         TLD Tech Contact
+organisation: Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)
+address:      Immeuble Le Stephenson
+address:      1 rue Stephenson
+address:      78180 Montigny-le-Bretonneux
 address:      France
 phone:        +33 1 39 30 83 81
 fax-no:       +33 1 39 30 83 01
@@ -46,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.yt/
 
 created:      1997-11-17
-changed:      2014-01-11
+changed:      2014-06-18
 source:       IANA
 
