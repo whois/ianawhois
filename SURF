@@ -1,0 +1,39 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       SURF
+
+organisation: Top Level Domain Holdings Limited
+address:      Craigmuir Chambers, Road Town Tortola VG 1110
+address:      Virgin Islands, British
+
+contact:      administrative
+name:         Admin Contact
+organisation: Minds + Machines Ltd
+address:      32 Nassau St, Dublin 2
+address:      Ireland
+phone:        +353.14301689
+e-mail:       support@mm-registry.com
+
+contact:      technical
+name:         Tech Contact
+organisation: Minds + Machines Ltd
+address:      32 Nassau St, Dublin 2
+address:      Ireland
+phone:        +353.14301689
+e-mail:       support@mm-registry.com
+
+nserver:      A.NS.NIC.SURF 2620:0171:0a02:00ad:0:0:0:22 72.0.50.22
+nserver:      B.NS.NIC.SURF 2620:0171:0d02:00dc:0:0:0:22 72.42.114.22
+ds-rdata:     22267 8 2 FF380DFE44C94E3D3BA411B9E06EA482E550E3E5EEAB66B43D65E2CA75E7F377
+
+whois:        whois-dub.mm-registry.com
+
+status:       ACTIVE
+remarks:      Registration information: http://mm-registry.com
+
+created:      2014-03-13
+changed:      2014-06-18
+source:       IANA
+
