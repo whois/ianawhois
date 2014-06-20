@@ -31,7 +31,7 @@ e-mail:       pl-tech@dns.pl
 
 nserver:      A-DNS.PL 194.181.87.156
 nserver:      C-DNS.PL 195.47.235.226
-nserver:      D-DNS.PL 213.172.174.70
+nserver:      D-DNS.PL 81.15.133.186
 nserver:      E-DNS.PL 195.80.237.162
 nserver:      F-DNS.PL 2001:1a68:0:10:0:0:0:189 217.17.46.189
 nserver:      G-DNS.PL 149.156.1.6 2001:6d8:0:1:0:0:a:6
@@ -46,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.dns.pl/english/
 
 created:      1990-07-30
-changed:      2014-03-28
+changed:      2014-06-19
 source:       IANA
 
