@@ -1,0 +1,43 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       PHYSIO
+
+organisation: PhysBiz Pty Ltd
+address:      88 Rosedale Street, Floreat WA 6014
+address:      Australia
+
+contact:      administrative
+name:         Glenn Ruscoe
+organisation: Phys Biz Pty Ltd
+address:      88 Rosedale Street, Floreat WA 6014
+address:      Australia
+phone:        61892849684
+e-mail:       enquiries@registrydotphysio.com
+
+contact:      technical
+name:         Glenn Ruscoe
+organisation: Phys Biz Pty Ltd
+address:      88 Rosedale Street, Floreat WA 6014
+address:      Australia
+phone:        61892849684
+e-mail:       enquiries@registrydotphysio.com
+
+nserver:      A.NIC.PHYSIO 2001:dcd:1:0:0:0:0:10 37.209.192.10
+nserver:      B.NIC.PHYSIO 2001:dcd:2:0:0:0:0:10 37.209.194.10
+nserver:      C.NIC.PHYSIO 2001:dcd:3:0:0:0:0:10 37.209.196.10
+nserver:      D.NIC.PHYSIO 2001:dcd:4:0:0:0:0:10 37.209.198.10
+ds-rdata:     25090 8 1 0EEC54F13AA0649352AD288110DB809CAFB8A33F
+ds-rdata:     25090 8 2 54CD0DCAE95D0C7CBAF5C9640CA6601B526B4FE28740CFC66381A6BB4E51D8FD
+
+whois:        whois.aridnrs.net.au
+
+status:       ACTIVE
+remarks:      Registration information:
+remarks:      http://www.registrydotphysio.com/
+
+created:      2014-06-05
+changed:      2014-06-19
+source:       IANA
+
