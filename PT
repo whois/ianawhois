@@ -5,28 +5,28 @@
 domain:       PT
 
 organisation: Associação DNS.PT
-address:      Av. do Brasil 101
-address:      Lisboa  1700-066
+address:      Rua Latino Coelho, nº13, 5ºpiso
+address:      1050-132 Lisboa
 address:      Portugal
 
 contact:      administrative
 name:         Luisa Lopes Gueifão
 organisation: Associação DNS.PT
-address:      Av. do Brasil 101
-address:      Lisboa  1700-066
+address:      Rua Latino Coelho, nº13, 5ºpiso
+address:      1050-132 Lisboa
 address:      Portugal
-phone:        +351 21 8440100
-fax-no:       +351 21 8472167
+phone:        (+351) 211308200
+fax-no:       (+351) 211312720
 e-mail:       lgueifao@dns.pt
 
 contact:      technical
 name:         Assis Neves Guerreiro
 organisation: Associação DNS.PT
-address:      Av. do Brasil 101
-address:      Lisboa  1700-066
+address:      Rua Latino Coelho, nº13, 5ºpiso
+address:      1050-132 Lisboa
 address:      Portugal
-phone:        +351 21 8440100
-fax-no:       +351 21 844 0157
+phone:        (+351) 211308200
+fax-no:       (+351) 211312720
 e-mail:       assis.guerreiro@dns.pt
 
 nserver:      AUTH200.NS.UU.NET 195.129.12.82 2001:600:1c0:e000:0:0:35:2
@@ -46,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.dns.pt/
 
 created:      1988-06-30
-changed:      2013-08-24
+changed:      2014-06-19
 source:       IANA
 
