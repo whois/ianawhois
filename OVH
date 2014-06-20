@@ -1,0 +1,47 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       OVH
+
+organisation: OVH SAS
+address:      2, rue Kellermann
+address:      59100 ROUBAIX
+address:      France
+
+contact:      administrative
+name:         Technical Project Manager
+organisation: OVH SAS
+address:      2, rue Kellermann
+address:      59100 ROUBAIX
+address:      France
+phone:        +33 320827332
+fax-no:       +33 320839928
+e-mail:       whois@domain.ovh.net
+
+contact:      technical
+name:         Project Manager
+organisation: AFNIC
+address:      1 rue Stephenson
+address:      Immeuble Stephenson
+address:      78180 Montigny-Le-Bretonneux
+address:      France
+phone:        +33 672217740
+fax-no:       +33 139308301
+e-mail:       backend1dotovh@domain.ovh.net
+
+nserver:      D.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
+nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
+nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
+ds-rdata:     2660 8 2 83b6ef1665557977107e2d4e9415b6a6977edc4cc0cca68b12504ff326c39181
+ds-rdata:     4705 8 2 cc4575e3741879c344b3c77f4a92b8210a7c848495033fd954eefb83c2ab82ba
+
+whois:        whois-ovh.nic.fr
+
+status:       ACTIVE
+remarks:      Registration information: http://www.ovh.com
+
+created:      2014-05-01
+changed:      2014-06-19
+source:       IANA
+
