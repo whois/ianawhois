@@ -31,13 +31,13 @@ nserver:      D.NIC.PHYSIO 2001:dcd:4:0:0:0:0:10 37.209.198.10
 ds-rdata:     25090 8 1 0EEC54F13AA0649352AD288110DB809CAFB8A33F
 ds-rdata:     25090 8 2 54CD0DCAE95D0C7CBAF5C9640CA6601B526B4FE28740CFC66381A6BB4E51D8FD
 
-whois:        whois.aridnrs.net.au
+whois:        whois.nic.physio
 
 status:       ACTIVE
 remarks:      Registration information:
 remarks:      http://www.registrydotphysio.com/
 
 created:      2014-06-05
-changed:      2014-06-19
+changed:      2014-06-23
 source:       IANA
 
