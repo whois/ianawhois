@@ -23,13 +23,13 @@ e-mail:       suzete.centeio@anac.cv
 
 contact:      technical
 name:         Assis Neves Guerreiro
-organisation: Fundação para a Computação Científica Nacional
-address:      Av. do Brasil 101
-address:      Lisboa  1700-066
+organisation: Associação DNS.PT
+address:      Rua Latino Coelho, nº13, 5ºpiso
+address:      1050-132 Lisboa
 address:      Portugal
-phone:        +351 21 8440100
-fax-no:       +351 21 844 0157
-e-mail:       assis.guerreiro@fccn.pt
+phone:        (+351) 211308200
+fax-no:       (+351) 211312720
+e-mail:       assis.guerreiro@dns.pt
 
 nserver:      AUTH02.NS.UU.NET 198.6.1.82
 nserver:      NS-EXT.ISC.ORG 2001:4f8:0:2:0:0:0:13 204.152.184.64
@@ -42,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.dns.cv/
 
 created:      1996-10-21
-changed:      2012-04-28
+changed:      2014-06-23
 source:       IANA
 
