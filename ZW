@@ -35,15 +35,14 @@ phone:        +263 4 791701
 fax-no:       +263 4 708981
 e-mail:       support@telone.co.zw
 
-nserver:      NEWS-TOKYO.GIP.NET 204.59.64.222
-nserver:      NS-ZW.RIPE.NET 193.0.12.249
 nserver:      NS1.TELONE.CO.ZW 194.133.122.47
 nserver:      NS2.GIP.NET 204.59.1.222
 nserver:      NS2.TELONE.CO.ZW 194.133.122.42
+nserver:      NS3.TELONE.CO.ZW 194.133.122.34
 
 status:       ACTIVE
 
 created:      1991-11-06
-changed:      2006-08-08
+changed:      2014-06-23
 source:       IANA
 
