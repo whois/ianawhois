@@ -30,10 +30,10 @@ phone:        +44.2033880600
 fax-no:       +44.2033880601
 e-mail:       tld.ops@centralnic.com
 
-nserver:      GENERATIONXYZ.NIC.XYZ 194.0.1.45 2001:678:4:0:0:0:0:2d
+nserver:      GENERATIONXYZ.NIC.XYZ 185.24.67.230 2a04:2b03:13cc:0:0:0:0:230
 nserver:      X.NIC.XYZ 194.169.218.42 2001:67c:13cc:0:0:0:1:42
 nserver:      Y.NIC.XYZ 185.24.64.42 2a04:2b00:13cc:0:0:0:1:42
-nserver:      Z.NIC.XYZ 194.0.2.2 2001:678:5:0:0:0:0:2
+nserver:      Z.NIC.XYZ 212.18.251.230 2a04:2b03:14bb:0:0:0:0:230
 ds-rdata:     3599 8 1 3FA3B264F45DB5F38BEDEAF1A88B76AA318C2C7F
 ds-rdata:     3599 8 2 B9733869BC84C86BB59D102BA5DA6B27B2088552332A39DCD54BC4E8D66B0499
 
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.xyz
 
 created:      2014-02-06
-changed:      2014-02-25
+changed:      2014-06-24
 source:       IANA
 
