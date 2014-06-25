@@ -19,12 +19,12 @@ e-mail:       os@dothamburg.de
 
 contact:      technical
 name:         Martin Schlicksbier
-organisation: TLDBOX GmbH
+organisation: TLD-BOX Registrydienstleistungen GmbH
 address:      Jakob-Haringer-Strasse 8, 5020 Salzburg
 address:      Austria
 phone:        +43 662 2345 48730
 fax-no:       +43 662 2345 4829
-e-mail:       service@tld-box.at
+e-mail:       iana@tld-box.at
 
 nserver:      A.DNS.NIC.HAMBURG 194.0.25.21 2001:678:20:0:0:0:0:21
 nserver:      B.DNS.NIC.HAMBURG 193.170.61.10 2001:62a:a:2000:0:0:0:10
@@ -38,6 +38,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.dothamburg.de
 
 created:      2014-05-22
-changed:      2014-06-04
+changed:      2014-06-25
 source:       IANA
 
