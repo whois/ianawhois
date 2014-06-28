@@ -15,9 +15,9 @@ organisation: SVNet
 address:      Calle la Reforma No. 249, Colonia San Benito,
 address:      San Salvador
 address:      El Salvador
-phone:        (503) 2230-5075
-fax-no:       (503) 2210-6636
-e-mail:       ribarra@uca.edu.sv
+phone:        (503) 2223-5016
+fax-no:       (503) 2223-5016
+e-mail:       lito@ibarra.sv
 
 contact:      technical
 name:         Gilberto Lara
@@ -37,9 +37,9 @@ nserver:      NS.UU.NET 137.39.1.3
 nserver:      SV.CCTLD.AUTHDNS.RIPE.NET 193.0.9.112 2001:67c:e0:0:0:0:0:112
 
 status:       ACTIVE
-remarks:      Registration information: http://www.svnet.org.sv
+remarks:      Registration information: http://www.svnet.sv
 
 created:      1994-11-04
-changed:      2014-01-15
+changed:      2014-06-27
 source:       IANA
 
