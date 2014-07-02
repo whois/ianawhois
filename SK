@@ -30,11 +30,8 @@ fax-no:       +421 2 350 350 39
 e-mail:       tech-c@sk-nic.sk
 
 nserver:      A.TLD.SK 194.0.45.1 2001:678:70:0:0:0:0:1
+nserver:      B.TLD.SK 2001:678:90:0:0:0:0:1 84.245.96.1
 nserver:      C.TLD.SK 217.75.72.157 2a02:770:100:100:0:0:0:101
-nserver:      NS.EUNET.SK 217.75.73.242
-nserver:      NS.SK-NIC.SK 195.12.159.2
-nserver:      NS1.SK-NIC.SK 195.12.159.3
-nserver:      NS3.SK-NIC.SK 217.75.67.234
 nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e:0:0:0:0:1
 
 whois:        whois.sk-nic.sk
@@ -43,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.sk-nic.sk
 
 created:      1993-03-29
-changed:      2013-05-20
+changed:      2014-07-02
 source:       IANA
 
