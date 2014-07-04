@@ -1,0 +1,48 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       SCHMIDT
+
+organisation: SALM S.A.S.
+address:      5, rue Clemenceau
+address:      68660 LIEPVRE
+address:      France
+
+contact:      administrative
+name:         Francine Hattermann
+organisation: SALM S.A.S.
+address:      5, rue Clemenceau
+address:      68660 LIEPVRE
+address:      France
+phone:        +33389582524
+fax-no:       +33389582591
+e-mail:       administrative-contact-schmidt@salm.fr
+
+contact:      technical
+name:         Patrick Haist
+organisation: SALM S.A.S.
+address:      5, rue Clemenceau
+address:      68660 LIEPVRE
+address:      France
+phone:        +33389582376
+fax-no:       +33389582591
+e-mail:       technical-contact-schmidt@salm.fr
+
+nserver:      A.NIC.SCHMIDT 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.SCHMIDT 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.SCHMIDT 2001:dcd:3:0:0:0:0:9 37.209.196.9
+nserver:      D.NIC.SCHMIDT 2001:dcd:4:0:0:0:0:9 37.209.198.9
+ds-rdata:     12115 8 1 40BA045D5DBCB9AE760655CF9E090548C361D70D
+ds-rdata:     12115 8 2 D152A1A209E040CABFFAE75DD7F84C3D2544B6705B09489BA934D887B8E4D8F7
+
+whois:        whois.nic.schmidt
+
+status:       ACTIVE
+remarks:      Registration information:
+remarks:      http://www.schmidt-kitchens.com/
+
+created:      2014-06-19
+changed:      2014-07-03
+source:       IANA
+
