@@ -35,12 +35,12 @@ nserver:      C.DNS.NIC.REISE 193.170.187.7 2001:62a:a:3000:0:0:0:7
 ds-rdata:     62014 8 1 51c1596e977ec71522e395b24f84b5db6654f5b9
 ds-rdata:     62014 8 2 c4b956e202c47ea68fdf3a937dd6ef69fe3ae043712545f1d49a0600771d6893
 
-whois:        whois.reise.tld-box.at
+whois:        whois.nic.reise
 
 status:       ACTIVE
-remarks:      Registration information: http://www.dotreise.de
+remarks:      Registration information: http://nic.reise
 
 created:      2014-05-15
-changed:      2014-05-22
+changed:      2014-07-08
 source:       IANA
 
