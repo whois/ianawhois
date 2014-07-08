@@ -32,12 +32,12 @@ nserver:      C.DNS.NIC.HAMBURG 193.170.187.10 2001:62a:a:3000:0:0:0:10
 ds-rdata:     53866 8 1 d26808ae1e19086bcf5fc88d59066c3ad22f2e56
 ds-rdata:     53866 8 2 af2f53f6b523f31c04a741b3826d27cbae16f4ba6fbd47a7872f3051b83eb2ce
 
-whois:        whois.hamburg.tld-box.at
+whois:        whois.nic.hamburg
 
 status:       ACTIVE
 remarks:      Registration information: http://www.dothamburg.de
 
 created:      2014-05-22
-changed:      2014-06-25
+changed:      2014-07-08
 source:       IANA
 
