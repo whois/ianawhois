@@ -35,12 +35,12 @@ nserver:      C.DNS.NIC.VERSICHERUNG 193.170.187.2 2001:62a:a:3000:0:0:0:2
 ds-rdata:     59426 8 1 3a7e0ff95b77ea99cb3266ccd0e0dc9b743afa33
 ds-rdata:     59426 8 2 06b1e7b1c37254047a043fa877fb7bff88761d50b4e51eee063eec7b142418b9
 
-whois:        whois.versicherung.tld-box.at
+whois:        whois.nic.versicherung
 
 status:       ACTIVE
-remarks:      Registration information: http://www.dotversicherung.de
+remarks:      Registration information: http://nic.versicherung
 
 created:      2014-05-15
-changed:      2014-05-22
+changed:      2014-07-08
 source:       IANA
 
