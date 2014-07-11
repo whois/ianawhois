@@ -1,0 +1,53 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       MELBOURNE
+
+organisation: The Crown in right of the State of Victoria, represented by its Department of State Development, Business and Innovation
+address:      Level 20, 80 Collins Street
+address:      Melbourne
+address:      Victoria 3000
+address:      Australia
+
+contact:      administrative
+name:         Mark Delzoppo
+organisation: ARI Registry Services
+address:      Level 8, 10 Queens Road
+address:      Melbourne
+address:      Victoria
+address:      3004
+address:      Australia
+phone:        +61398663710
+fax-no:       +61398661970
+e-mail:       melbourne@ariservices.com
+
+contact:      technical
+name:         Ryan Miller
+organisation: ARI Registry Services
+address:      Level 8, 10 Queens Road
+address:      Melbourne
+address:      Victoria
+address:      3004
+address:      Australia
+phone:        +61398661700
+fax-no:       +61398661970
+e-mail:       gtldsupport@ariservices.com
+
+nserver:      A.NIC.MELBOURNE 2001:dcd:1:0:0:0:0:10 37.209.192.10
+nserver:      B.NIC.MELBOURNE 2001:dcd:2:0:0:0:0:10 37.209.194.10
+nserver:      C.NIC.MELBOURNE 2001:dcd:3:0:0:0:0:10 37.209.196.10
+nserver:      D.NIC.MELBOURNE 2001:dcd:4:0:0:0:0:10 37.209.198.10
+ds-rdata:     61204 8 1 6475B9D63E8A8F7DEE814804998946AA3A229D49
+ds-rdata:     61204 8 2 6D8F06B6AA4CD37041FA010F522E0A63F76F3C3761F866E35C444359913BC449
+
+whois:        whois.aridnrs.net.au
+
+status:       ACTIVE
+remarks:      Registration information:
+remarks:      http://www.ariservices.com/dotmelbourne
+
+created:      2014-07-03
+changed:      2014-07-10
+source:       IANA
+
