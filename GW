@@ -4,38 +4,40 @@
 
 domain:       GW
 
-organisation: Fundação IT & MEDIA Universidade de Bissao
-address:      Rua No. 3, 17B
-address:      Bissau  806
+organisation: Autoridade Reguladora Nacional - Tecnologias de Informação e Comunicação da Guiné-Bissau
+address:      Avenida Domingos Ramos
+address:      Praça Ernesto Che Guevara
+address:      Bissau  1372
 address:      Guinea-bissau
 
 contact:      administrative
-name:         Antonio da Silva
-organisation: Fundação IT & MEDIA Universidade de Bissao
-address:      Rua No. 3, 17B
-address:      Bissau  806
+name:         Frank Barbosa de Oliveira
+organisation: Autoridade Reguladora Nacional - Tecnologias de Informação e Comunicação da Guiné-Bissau
+address:      Avenida Domingos Ramos
+address:      Praça Ernesto Che Guevara
+address:      Bissau  1372
 address:      Guinea-bissau
-phone:        +(245) 720 12 44
-fax-no:       +(245) 201 665
-e-mail:       admin@register.gw
+phone:        +245 3204874
+fax-no:       +245 3204876
+e-mail:       frank.i.oliveira@arn-gb.com
 
 contact:      technical
-name:         DENIC Operations
-organisation: DENIC eG
-address:      Wiesenhuettenplatz 26
-address:      Frankfurt  60329
-address:      Germany
-phone:        +49 69 27235 433
-fax-no:       +49 69 27235 434
-e-mail:       nicgw@denic.de
+name:         Assis Neves Guerreiro
+organisation: Associação DNS.PT (DNS.PT)
+address:      Av. do Brasil 101
+address:      Lisboa  1700-066
+address:      Portugal
+phone:        +351 21 0493900
+fax-no:       +351 21 0493915
+e-mail:       assis.guerreiro@dns.pt
 
-nserver:      NS1.NIC.GW 81.91.170.10
-nserver:      NS3.NIC.GW 193.171.255.35
+nserver:      NS4.DNS.PT 193.136.3.129
+nserver:      PHOBOS.FCCN.PT 193.136.7.17
+nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e:0:0:0:0:1
 
 status:       ACTIVE
-remarks:      Registration information: http://www.register.gw
 
 created:      1997-02-04
-changed:      2014-01-11
+changed:      2014-07-10
 source:       IANA
 
