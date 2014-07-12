@@ -20,14 +20,16 @@ fax-no:       +49 4183 7748919
 e-mail:       info@dotversicherung.de
 
 contact:      technical
-name:         Matthias Pfeifer
-organisation: dotversicherung-registry GmbH
-address:      Itzenbütteler Mühlenweg 35a
-address:      21227 Bendestorf
-address:      Germany
-phone:        +49 4183 7748915
-fax-no:       +49 4183 7748919
-e-mail:       info@dotversicherung.de
+name:         CTO
+organisation: TLD-BOX Registrydienstleistungen GmbH
+address:      Technical Operations
+address:      TLD-BOX Registrydienstleistungen GmbH
+address:      Jakob-Haringer-Strasse 8/V
+address:      5020 Salzburg
+address:      Austria
+phone:        +43 662 234548 730
+fax-no:       +43 662 234548 29
+e-mail:       iana@tld-box.at
 
 nserver:      A.DNS.NIC.VERSICHERUNG 194.0.25.13 2001:678:20:0:0:0:0:13
 nserver:      B.DNS.NIC.VERSICHERUNG 193.170.61.2 2001:62a:a:2000:0:0:0:2
@@ -41,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.versicherung
 
 created:      2014-05-15
-changed:      2014-07-08
+changed:      2014-07-11
 source:       IANA
 
