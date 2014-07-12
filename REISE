@@ -20,14 +20,15 @@ fax-no:       +49 4183 7748919
 e-mail:       info@dotreise.de
 
 contact:      technical
-name:         Matthias Pfeifer
-organisation: dotreise GmbH
-address:      Itzenbütteler Mühlenweg 35a
-address:      21227 Bendestorf
-address:      Germany
-phone:        +49 4183 7748915
-fax-no:       +49 4183 7748919
-e-mail:       info@dotreise.de
+name:         CTO
+organisation: TLD-BOX Registrydienstleistungen GmbH
+address:      Jakob-Haringer-Strasse 8/V
+address:      5020 Salzburg
+address:      Austria
+address:      Austria
+phone:        +43 662 234548 730
+fax-no:       +43 662 234548 29
+e-mail:       iana@tld-box.at
 
 nserver:      A.DNS.NIC.REISE 194.0.25.18 2001:678:20:0:0:0:0:18
 nserver:      B.DNS.NIC.REISE 193.170.61.7 2001:62a:a:2000:0:0:0:7
@@ -41,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.reise
 
 created:      2014-05-15
-changed:      2014-07-08
+changed:      2014-07-11
 source:       IANA
 
