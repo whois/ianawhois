@@ -1,0 +1,46 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       NRW
+
+organisation: Minds + Machines GmbH
+address:      Antonienstr. 3
+address:      80802 Munich
+address:      Germany
+
+contact:      administrative
+name:         Caspar Veltheim
+organisation: Minds + Machines GmbH
+address:      Antonienstr. 3
+address:      80802 Munich
+address:      Germany
+phone:        +49 89 360 351 05
+fax-no:       +49 89 921 858 41
+e-mail:       caspar@mindsandmachines.com
+
+contact:      technical
+name:         ironDNS Support
+organisation: Knipp Medien und Kommunikation GmbH
+address:      Martin-Schmeisser-Weg 9
+address:      44227 Dortmund
+address:      Germany
+phone:        +49 231 9703 0
+fax-no:       +49 231 9703 200
+e-mail:       dnsmaster@irondns.net
+
+nserver:      ANYCAST10.IRONDNS.NET 195.253.64.12 2a01:5b0:4:0:0:0:0:c
+nserver:      ANYCAST23.IRONDNS.NET 195.253.65.11 2a01:5b0:5:0:0:0:0:b
+nserver:      ANYCAST24.IRONDNS.NET 195.253.65.12 2a01:5b0:5:0:0:0:0:c
+nserver:      ANYCAST9.IRONDNS.NET 195.253.64.11 2a01:5b0:4:0:0:0:0:b
+ds-rdata:     61012 10 2 03B1A9B2F537EEB6E16872FEF7971D7FC55A71B270952BD1E7BE44301F1CC245
+
+whois:        whois-fe1.pdt.nrw.tango.knipp.de
+
+status:       ACTIVE
+remarks:      Registration information: http://mindsandmachines.com
+
+created:      2014-05-29
+changed:      2014-07-11
+source:       IANA
+
