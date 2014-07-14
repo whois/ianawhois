@@ -35,6 +35,8 @@ nserver:      B.DNS.NIC.REISE 193.170.61.7 2001:62a:a:2000:0:0:0:7
 nserver:      C.DNS.NIC.REISE 193.170.187.7 2001:62a:a:3000:0:0:0:7
 ds-rdata:     62014 8 1 51c1596e977ec71522e395b24f84b5db6654f5b9
 ds-rdata:     62014 8 2 c4b956e202c47ea68fdf3a937dd6ef69fe3ae043712545f1d49a0600771d6893
+ds-rdata:     45280 8 2 d9254ebd139f78804dcfb9a352c7199d8e96d4a5074017302034545e4ca16b02
+ds-rdata:     45280 8 1 622554586857a9a37a179c8be19f6e46d51ef31e
 
 whois:        whois.nic.reise
 
@@ -42,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.reise
 
 created:      2014-05-15
-changed:      2014-07-11
+changed:      2014-07-14
 source:       IANA
 
