@@ -33,6 +33,8 @@ nserver:      DNS-HR.UNIVIE.AC.AT 2001:628:453:bb:0:0:0:7 78.104.145.7
 nserver:      HR-NS-1.CARNET.HR 161.53.160.100 2001:b68:ff:1:0:0:0:100
 nserver:      N3NS.NIC.ES 194.69.254.42 2001:67c:21cc:2000:0:0:64:42
 nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e:0:0:0:0:1
+ds-rdata:     53482 8 1 E7DE0B5B896EB7490EC31C423D070719F0CB776B
+ds-rdata:     53482 8 2 02D9770A4D8C5646E5EA0F4032638B4360E27D3455C83BCC95E6D2ED50D79F60
 
 whois:        whois.dns.hr
 
@@ -40,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.dns.hr
 
 created:      1993-02-27
-changed:      2014-04-01
+changed:      2014-07-16
 source:       IANA
 
