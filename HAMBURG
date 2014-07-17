@@ -31,6 +31,8 @@ nserver:      B.DNS.NIC.HAMBURG 193.170.61.10 2001:62a:a:2000:0:0:0:10
 nserver:      C.DNS.NIC.HAMBURG 193.170.187.10 2001:62a:a:3000:0:0:0:10
 ds-rdata:     53866 8 1 d26808ae1e19086bcf5fc88d59066c3ad22f2e56
 ds-rdata:     53866 8 2 af2f53f6b523f31c04a741b3826d27cbae16f4ba6fbd47a7872f3051b83eb2ce
+ds-rdata:     26479 8 1 1c9f5d68c413e8a9a2c8e1c1637b8a4da2ca6827
+ds-rdata:     26479 8 2 4a48334ef87d7fc156e886e5a2b2682fcf0679ed6fcab59c85deb0fc52468cb2
 
 whois:        whois.nic.hamburg
 
@@ -38,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.dothamburg.de
 
 created:      2014-05-22
-changed:      2014-07-08
+changed:      2014-07-16
 source:       IANA
 
