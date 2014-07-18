@@ -33,7 +33,7 @@ nserver:      NS-CDN.AMNIC.NET 194.0.1.26 2001:678:4:0:0:0:0:1a
 nserver:      NS-PRI.AMNIC.NET 195.43.74.53 2001:67c:21c:53:0:0:0:1
 nserver:      RIP.PSG.COM 147.28.0.39 2001:418:1:0:0:0:0:39
 nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e:0:0:0:0:1
-ds-rdata:     51141 7 2 F14D6ACFC410DE94D18F63A7EDC2779DE70C1D5E9AF0E0EFB4687CC3522E7F4F
+ds-rdata:     35415 7 2 56E1AC0DBB69569959A3064BD0A4E6562C8FE6AA6AEAAF4D260503D8B6828CC3
 
 whois:        whois.amnic.net
 
@@ -41,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.amnic.net/
 
 created:      1994-08-26
-changed:      2014-07-17
+changed:      2014-07-18
 source:       IANA
 
