@@ -1,0 +1,49 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       NRA
+
+organisation: NRA Holdings Company, INC.
+address:      11250 Waples Mill Road
+address:      Fairfax VA, 22030
+address:      United States
+
+contact:      administrative
+name:         Managing Director
+organisation: NRA Holdings Company, INC.
+address:      11250 Waples Mill Road
+address:      Fairfax VA, 22030
+address:      United States
+phone:        (703) 267-1518
+fax-no:       (703) 267-3835
+e-mail:       nraadmin@nrahq.org
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      Building 3, Suite 105
+address:      300 Welsh Road
+address:      Horsham, PA 19044
+address:      United States
+phone:        +1 215.706.5700
+fax-no:       +1 215.706.5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.NRA 2a01:8840:ea:0:0:0:0:25 65.22.240.25
+nserver:      A2.NIC.NRA 2a01:8840:ed:0:0:0:0:25 65.22.243.25
+nserver:      B0.NIC.NRA 2a01:8840:eb:0:0:0:0:25 65.22.241.25
+nserver:      C0.NIC.NRA 2a01:8840:ec:0:0:0:0:25 65.22.242.25
+ds-rdata:     48666 7 1 0948c42cfc7dc0a91bc1476fec1c66c0fb33bb47
+ds-rdata:     48666 7 2 cb465e0eb7e32e7035eeeba96e39410c7a6047d9677522c5af5f208ff9800413
+
+whois:        whois.afilias-srs.net
+
+status:       ACTIVE
+remarks:      Registration information:
+remarks:      http://contact.nra.org/contact-us.aspx
+
+created:      2014-07-10
+changed:      2014-07-18
+source:       IANA
+
