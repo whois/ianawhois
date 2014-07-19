@@ -1,0 +1,44 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       SPIEGEL
+
+organisation: SPIEGEL-Verlag Rudolf Augstein GmbH & Co. KG
+address:      Ericusspitze 1 20457 Hamburg
+address:      Germany
+
+contact:      administrative
+name:         IT Director
+organisation: SPIEGEL-Verlag Rudolf Augstein GmbH & Co. KG
+address:      Ericusspitze 1 20457 Hamburg
+address:      Germany
+phone:        +49.4030072557
+fax-no:       +49.4030072106
+e-mail:       mail@spiegelregistry.de
+
+contact:      technical
+name:         CTO
+organisation: KSregistry GmbH
+address:      Im Oberen Werk 1
+address:      66386 St. Ingbert
+address:      Germany
+phone:        +49.68949396250
+fax-no:       +49.68949396251
+e-mail:       icann@ksregistry.com
+
+nserver:      NS1A.KSREGISTRY.NET 2001:dd8:7:6075:dc:0:0:1 203.119.88.75
+nserver:      NS1B.KSREGISTRY.NET 2620:0171:0a00:00ad:0:0:0:75 72.0.48.75
+nserver:      NS2A.KSREGISTRY.COM 2001:dd8:7:6076:dc:0:0:1 203.119.88.76
+nserver:      NS2B.KSREGISTRY.COM 2620:0171:0a00:00ad:0:0:0:76 72.0.48.76
+ds-rdata:     6899 8 2 447831034f4f9f87d05a97ccd245499531e6993544453104e74cf1a4a6bd1efe
+
+whois:        whois.ksregistry.net
+
+status:       ACTIVE
+remarks:      Registration information: http://www.spiegelregistry.de
+
+created:      2014-06-19
+changed:      2014-07-18
+source:       IANA
+
