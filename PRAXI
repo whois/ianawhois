@@ -1,0 +1,47 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       PRAXI
+
+organisation: Praxi S.p.A.
+address:      C.so Vittorio Emanuele, 3
+address:      Torino, TO 10125
+address:      Italy
+
+contact:      administrative
+name:         Andrea Del Monte
+organisation: PRAXI S.p.A.
+address:      C.so Vittorio Emanuele, 3
+address:      Torino, TO 10125
+address:      Italy
+phone:        +39 02 43002
+fax-no:       +39 011 6502429
+e-mail:       andrea.delmonte@praxi.com
+
+contact:      technical
+name:         Sean Kaine
+organisation: Neustar, Inc.
+address:      21575 Ridgetop Circle
+address:      Sterling, VA 2o166
+address:      United States
+phone:        +1 571 434.5168
+fax-no:        +1 571 4345401
+e-mail:       tldlaunch@neustar.biz
+
+nserver:      NS1.DNS.NIC.PRAXI 156.154.144.139 2610:a1:1071:0:0:0:0:8b
+nserver:      NS2.DNS.NIC.PRAXI 156.154.145.139 2610:a1:1072:0:0:0:0:8b
+nserver:      NS3.DNS.NIC.PRAXI 156.154.159.139 2610:a1:1073:0:0:0:0:8b
+nserver:      NS4.DNS.NIC.PRAXI 156.154.156.139 2610:a1:1074:0:0:0:0:8b
+nserver:      NS5.DNS.NIC.PRAXI 156.154.157.139 2610:a1:1075:0:0:0:0:8b
+nserver:      NS6.DNS.NIC.PRAXI 156.154.158.139 2610:a1:1076:0:0:0:0:8b
+ds-rdata:     60529 8 1 EA70917A11FCB7E0C3ADBA19E0375376C816392C
+ds-rdata:     60529 8 2 329D21C63D4BF10E6AD4DF37A4A33FA1876F94C9FC0B78990E34182F99323043
+
+status:       ACTIVE
+remarks:      Registration information: http://www.praxi.com
+
+created:      2014-03-27
+changed:      2014-07-22
+source:       IANA
+
