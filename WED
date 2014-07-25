@@ -24,7 +24,7 @@ address:      11a Wynyard Street, Devonport
 address:      Auckland 0624
 address:      New Zealand
 phone:        +64 (0) 9 446 6370
-e-mail:       garth.miller@cocca.org.nz
+e-mail:       noc@cocca.org.nz
 
 nserver:      A.NS.NIC.WED 2620:171:a01:ad:0:0:0:1 72.0.49.1
 nserver:      B.NS.NIC.WED 2620:171:d01:dc:0:0:0:1 72.42.113.1
@@ -39,6 +39,6 @@ status:       ACTIVE
 remarks:      Registration information: http://atgron.com
 
 created:      2013-12-12
-changed:      2014-02-09
+changed:      2014-07-25
 source:       IANA
 
