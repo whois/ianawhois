@@ -31,7 +31,7 @@ e-mail:       assis.guerreiro@dns.pt
 
 nserver:      AUTH200.NS.UU.NET 195.129.12.82 2001:600:1c0:e000:0:0:35:2
 nserver:      AUTH210.NS.UU.NET 195.129.12.74 2001:600:1c0:e001:0:0:35:2
-nserver:      NS-PT.NLNETLABS.NL 2001:7b8:206:1:0:0:4:141 213.154.224.141
+nserver:      NS-PT.NLNETLABS.NL 185.49.140.61 2a04:b900:0:0:8:0:0:61
 nserver:      NS.DNS.BR 200.160.0.5 2001:12ff:0:a20:0:0:0:5
 nserver:      NS.DNS.PT 193.136.0.1 2001:690:a00:1016:905:0:0:1
 nserver:      NS2.DNS.PT 193.136.2.226 2001:690:a80:4001:0:0:0:100
@@ -46,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.dns.pt/
 
 created:      1988-06-30
-changed:      2014-06-19
+changed:      2014-07-25
 source:       IANA
 
