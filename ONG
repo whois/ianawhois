@@ -5,9 +5,51 @@
 domain:       ONG
 
 organisation: Public Interest Registry
+address:      1775 Wiehle Avenue, Suite 100
+address:      Reston
+address:      VA
+address:      20190
+address:      United States
 
-status:       NEW
+contact:      administrative
+name:         Sr. Mgr., Operations and Compliance
+organisation: Public Interest Registry
+address:      1775 Wiehle Avenue, Suite 100
+address:      Reston
+address:      VA
+address:      20190
+address:      United States
+phone:        +1 703.889.5762
+fax-no:       +1 703.889.5779
+e-mail:       ops@pir.org
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      Building 3, Suite 105, 300 Welsh Road
+address:      Horsham
+address:      PA
+address:      19044
+address:      United States
+phone:        +1 215.706.5700
+fax-no:        +1 215.706.5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.ONG 199.19.56.1 2001:500:e:0:0:0:0:1
+nserver:      A2.NIC.ONG 199.249.112.1 2001:500:40:0:0:0:0:1
+nserver:      B0.NIC.ONG 199.19.54.1 2001:500:c:0:0:0:0:1
+nserver:      B2.NIC.ONG 199.249.120.1 2001:500:48:0:0:0:0:1
+nserver:      C0.NIC.ONG 199.19.53.1 2001:500:b:0:0:0:0:1
+nserver:      D0.NIC.ONG 199.19.57.1 2001:500:f:0:0:0:0:1
+ds-rdata:     22881 7 1 d6ce07485c4abc7cb748c5906953ddcfb8d2c8b3
+ds-rdata:     22881 7 2 19396cd7a64748c0d35b483f8e7c4959a77f8435ccb41035d069659b8fafe1fd
+
+whois:        whois.publicinterestregistry.net
+
+status:       ACTIVE
+remarks:      Registration information: http://www.pir.org 
 
 created:      2014-07-10
+changed:      2014-07-28
 source:       IANA
 
