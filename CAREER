@@ -38,6 +38,8 @@ nserver:      H5.NSTLD.COM 192.54.112.34 2001:502:08cc:0:0:0:2:34
 nserver:      L5.NSTLD.COM 192.41.162.34
 ds-rdata:     39768 8 2 71C47D2FAAB90E2460AB6E7AF972993415D7426F3782A32AF438C681484CF6DA
 
+whois:        whois.nic.career
+
 status:       ACTIVE
 
 created:      2014-03-20
