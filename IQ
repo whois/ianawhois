@@ -32,7 +32,7 @@ phone:        +964 7904318957
 fax-no:       +964 17195839
 e-mail:       it.iq@cmc.iq
 
-nserver:      IQ.DNS.COCCA.ORG.NZ 203.119.84.235
+nserver:      IQ.DNS.COCCA.ORG.NZ 185.17.236.235
 nserver:      NS1.CMC.IQ 194.117.57.100
 nserver:      NSP-ANYCAST.CMC.IQ 194.117.58.42 2001:500:14:8001:ad:0:0:42
 nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e:0:0:0:0:1
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: https://registrar.cmc.iq
 
 created:      1997-05-09
-changed:      2012-06-04
+changed:      2014-07-30
 source:       IANA
 
