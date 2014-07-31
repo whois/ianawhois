@@ -4,30 +4,30 @@
 
 domain:       BE
 
-organisation: DNS BE vzw/asbl
+organisation: DNS Belgium vzw/asbl
 address:      Ubicenter, Philipssite 5, bus 13
 address:      Leuven  3001
 address:      Belgium
 
 contact:      administrative
 name:         Philip Du Bois
-organisation: DNS BE vzw/asbl
+organisation: DNS Belgium vzw/asbl
 address:      Ubicenter, Philipssite 5, bus 13
 address:      Leuven  3001
 address:      Belgium
 phone:        +32 16 28 49 70
 fax-no:       +32 16 28 49 71
-e-mail:       legal@dns.be
+e-mail:       legal@dnsbelgium.be
 
 contact:      technical
-name:         Maarten Bosteels
-organisation: DNS BE vzw/asbl
+name:         David Goelen
+organisation: DNS Belgium vzw/asbl
 address:      Ubicenter, Philipssite 5, bus 13
 address:      Leuven  3001
 address:      Belgium
 phone:        +32 16 28 49 70
 fax-no:       +32 16 28 49 71
-e-mail:       tech@dns.be
+e-mail:       tech@dnsbelgium.be
 
 nserver:      A.NS.DNS.BE 194.0.6.1 2001:678:9:0:0:0:0:1
 nserver:      B.NS.DNS.BE 194.0.37.1 2001:678:64:0:0:0:0:1
@@ -46,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.dns.be
 
 created:      1988-08-05
-changed:      2014-01-16
+changed:      2014-07-30
 source:       IANA
 
