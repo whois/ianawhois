@@ -36,7 +36,6 @@ fax-no:       +603 8943 5520
 e-mail:       dnsadmin@mynic.my
 
 nserver:      DNS.MYNIC.NET.MY 192.228.180.5 2001:328:1000:3:0:0:0:5
-nserver:      DNS2.MYNIC.NET.MY 202.75.39.36 2401:b000:0:0:0:0:0:36
 nserver:      NS-MY.NIC.FR 192.134.0.49 2001:660:3006:1:0:0:1:1
 nserver:      NS2.CUHK.EDU.HK 137.189.6.21 2405:3000:3:6:0:0:0:15
 nserver:      NS30.CDNS.NET 194.0.1.30 2001:678:4:0:0:0:0:1e
@@ -47,12 +46,12 @@ ds-rdata:     49551 8 2 906FB28961CD5A3D1D90782507C471C9F80870E727B9504076BF5288
 ds-rdata:     56937 8 1 48A57004990714CA096B7D6FC9B58968C0BE37DB
 ds-rdata:     56937 8 2 885B9FAA1749CB502589E0DCF047849013ADA126ABF557D33C704F8CE97C9058
 
-whois:        whois.domainregistry.my
+whois:        whois.mynic.my
 
 status:       ACTIVE
 remarks:      Registration information: http://www.mynic.my
 
 created:      1987-06-08
-changed:      2014-03-27
+changed:      2014-07-30
 source:       IANA
 
