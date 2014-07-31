@@ -4,8 +4,7 @@
 
 domain:       RS
 
-organisation: Serbian National Register of
-organisation: Internet Domain Names (RNIDS)
+organisation: Register of National Internet Domain Names of Serbia
 address:      Zorza Klemansoa 18a
 address:      Belgrade  11008
 address:      Serbia
@@ -47,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.rnids.rs
 
 created:      2007-09-24
-changed:      2012-10-09
+changed:      2014-07-30
 source:       IANA
 
