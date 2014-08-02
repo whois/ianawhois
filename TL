@@ -31,7 +31,7 @@ address:      Auckland
 address:      North Island 0744
 address:      New Zealand
 phone:        +64 9 446 6370
-e-mail:       garth.miller@cocca.org.nz
+e-mail:       noc@cocca.org.nz
 
 nserver:      NS.ANYCAST.NIC.TL 2001:500:14:6019:ad:0:0:1 204.61.216.19
 nserver:      TL1.DYNTLD.NET 2001:500:90:0:0:0:0:78 208.78.70.78
@@ -44,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.tl
 
 created:      2005-03-23
-changed:      2013-08-01
+changed:      2014-08-01
 source:       IANA
 
