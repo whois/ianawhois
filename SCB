@@ -36,9 +36,10 @@ ds-rdata:     36341 8 2 33E5279F1FB14B6DE7B528238ACBCD7B139AFDFD2D3E5D0C27AE5A14
 whois:        whois.nic.scb
 
 status:       ACTIVE
-remarks:      Registration information: http://scb.dotarai.com
+remarks:      Registration information:
+remarks:      http://www.scb.co.th/top-level-domain/index.html
 
 created:      2014-06-26
-changed:      2014-07-11
+changed:      2014-08-01
 source:       IANA
 
