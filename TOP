@@ -5,9 +5,44 @@
 domain:       TOP
 
 organisation: Jiangsu Bangning Science & Technology Co.,Ltd.
+address:      3th Floor, BangNing Technology Park, 2 YuHua Avenue, Yuhuatai District, Nanjing City, Jiangsu Province.
+address:      China
 
-status:       NEW
+contact:      administrative
+name:         Xiangli Li
+organisation: Jiangsu Bangning Science & technology Co.,Ltd.
+address:      3th Floor, BangNing Technology Park, 2 YuHua Avenue, Yuhuatai District, Nanjing City, Jiangsu Province.
+address:      China
+phone:        +86 13915996396
+fax-no:       +86 02586883476
+e-mail:       newgtld@55hl.com
+
+contact:      technical
+name:         Lin Dong
+organisation: Jiangsu Bangning Science & technology Co.,Ltd.
+address:      3th Floor, BangNing Technology Park, 2 YuHua Avenue, Yuhuatai District, Nanjing City, Jiangsu Province
+address:      China
+phone:        +86 15261877642
+fax-no:       +86 02586883476
+e-mail:       kf@55hl.com
+
+nserver:      A.ZDNSCLOUD.COM 1.8.240.1
+nserver:      B.ZDNSCLOUD.COM 1.8.241.1
+nserver:      C.ZDNSCLOUD.COM 1.8.242.1
+nserver:      D.ZDNSCLOUD.COM 1.8.243.1
+nserver:      E.ZDNSCLOUD.COM 119.167.248.154
+nserver:      F.ZDNSCLOUD.COM 182.131.23.22
+nserver:      G.ZDNSCLOUD.COM 111.12.148.111
+nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
+nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
+ds-rdata:     21986 8 2 545BCCC79833FF19134CF0F84102D6FCEB6518745B6333FB584FC3C87F61248B
+
+whois:        whois.nic.top
+
+status:       ACTIVE
+remarks:      Registration information: http://www.55hl.com
 
 created:      2014-07-24
+changed:      2014-08-04
 source:       IANA
 
