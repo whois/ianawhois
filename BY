@@ -5,8 +5,7 @@
 domain:       BY
 
 organisation: Reliable Software Inc.
-address:      1A Khoruzhey Str., 6th Floor
-address:      Minsk 220005
+address:      57, Dzerzhinskogo Ave., 8th floor, office 38-2, Minsk, Belarus, 220089
 address:      Belarus
 
 contact:      administrative
@@ -22,8 +21,7 @@ e-mail:       admin-c@oac.gov.by
 contact:      technical
 name:         Director General
 organisation: Reliable Software Inc.
-address:      1A Khoruzhey Str., 6th Floor
-address:      Minsk  220005
+address:      57, Dzerzhinskogo Ave., 8th floor, office 38-2, Minsk, Belarus, 220089
 address:      Belarus
 phone:        +375 17 2395703
 fax-no:       +375 17 2395720
@@ -45,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://cctld.by
 
 created:      1994-05-10
-changed:      2014-01-11
+changed:      2014-08-05
 source:       IANA
 
