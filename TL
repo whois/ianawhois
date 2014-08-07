@@ -4,24 +4,20 @@
 
 domain:       TL
 
-organisation: Ministry of Infrastructure
-organisation: Information and Technology Division
-address:      Telecom Building Room 9
-address:      Avenida Bispo de Medeiros
-address:      Dili
+organisation: Ministry of Transport and  Communications; National Division of  Information and Technology
+address:      Av. Bispo de Modeiros 8
+address:      Dili 10000
 address:      Timor-leste
 
 contact:      administrative
-name:         Director (Flavio Neves)
-organisation: Ministry of Infrastructure
-organisation: Information and Technology Division
-address:      Telecom Building Room 9
-address:      Avenida Bispo de Medeiros
-address:      Dili
+name:         Director of Information and Technology
+organisation: National Division of Information and  Technology (Ministry of Transport and  Communications)
+address:      Av. Bispo de Modeiros 8
+address:      Dili 10000
 address:      Timor-leste
-phone:        +670 3339354
+phone:        +670 3339330
 fax-no:       +670 3339350
-e-mail:       doit@nic.tl
+e-mail:       nicolau.celestino@sapo.tl
 
 contact:      technical
 name:         Garth Miller
@@ -44,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.tl
 
 created:      2005-03-23
-changed:      2014-08-01
+changed:      2014-08-07
 source:       IANA
 
