@@ -1,0 +1,44 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       TATAR
+
+organisation: Limited Liability Company "Coordination Center of Regional Domain of Tatarstan Republic"
+address:      52, Peterburgskaya St., Kazan, Republic of Tatarstan, 420107
+address:      Russian Federation
+
+contact:      administrative
+name:         Head of External Relations
+organisation: Limited Liability Company "Coordination Center of Regional Domain of Tatarstan Republic"
+address:      52, Peterburgskaya St., Kazan, Republic of Tatarstan, 420107
+address:      Russian Federation
+phone:        +7-499-2548894
+fax-no:       +7-499-2548963
+e-mail:       gtld-tatar@tcinet.ru
+
+contact:      technical
+name:         Peter Andreev
+organisation: Technical Center of Internet
+address:      123242, Moscow, Zoologicheskaya str., 8
+address:      Russian Federation
+phone:        +7 495 737 9295
+fax-no:       +7 495 737 0684
+e-mail:       gtld-tech@tcinet.ru
+
+nserver:      A.DNS.RIPN.NET 193.232.128.6 2001:678:17:0:193:232:128:6
+nserver:      B.DNS.RIPN.NET 194.85.252.62 2001:678:16:0:194:85:252:62
+nserver:      D.DNS.RIPN.NET 194.190.124.17 2001:678:18:0:194:190:124:17
+nserver:      E.DNS.RIPN.NET 193.232.142.17 2001:678:15:0:193:232:142:17
+nserver:      F.DNS.RIPN.NET 193.232.156.17 2001:678:14:0:193:232:156:17
+ds-rdata:     34294 8 2 97C76BD73C2293E4B4DB894E14EACE2695F23413C06EBC3AA8FA9165F94FDC30
+
+whois:        212.193.111.5
+
+status:       ACTIVE
+remarks:      Registration information: http://www.dottatar.ru
+
+created:      2014-07-03
+changed:      2014-08-07
+source:       IANA
+
