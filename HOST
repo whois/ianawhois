@@ -44,12 +44,12 @@ nserver:      D.NIC.HOST 194.0.1.45 2001:678:4:0:0:0:0:2d
 ds-rdata:     61142 8 1 86B9716C2E5DAADC785ADA27D4E8BFB190947D14
 ds-rdata:     61142 8 2 D15742398F5291B0E2642BEE5DA6ED6EF3F4497C65BAC0F5A6C9C8FF495CF286
 
-whois:        whois.centralnic.com
+whois:        whois.nic.host
 
 status:       ACTIVE
 remarks:      Registration information: http://radixregistry.com/
 
 created:      2014-05-22
-changed:      2014-06-06
+changed:      2014-08-12
 source:       IANA
 
