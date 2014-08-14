@@ -18,7 +18,7 @@ fax-no:       +7-499-2548963
 e-mail:       gtld-tatar@tcinet.ru
 
 contact:      technical
-name:         Peter Andreev
+name:         Network enginner
 organisation: Technical Center of Internet
 address:      123242, Moscow, Zoologicheskaya str., 8
 address:      Russian Federation
@@ -33,12 +33,12 @@ nserver:      E.DNS.RIPN.NET 193.232.142.17 2001:678:15:0:193:232:142:17
 nserver:      F.DNS.RIPN.NET 193.232.156.17 2001:678:14:0:193:232:156:17
 ds-rdata:     34294 8 2 97C76BD73C2293E4B4DB894E14EACE2695F23413C06EBC3AA8FA9165F94FDC30
 
-whois:        212.193.111.5
+whois:        whois.nic.tatar
 
 status:       ACTIVE
 remarks:      Registration information: http://www.dottatar.ru
 
 created:      2014-07-03
-changed:      2014-08-07
+changed:      2014-08-14
 source:       IANA
 
