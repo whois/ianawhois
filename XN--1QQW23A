@@ -1,0 +1,45 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       佛山
+domain-ace:   XN--1QQW23A
+
+organisation: Guangzhou YU Wei Information Technology Co., Ltd.
+address:      3302 International Trade Center, No.1 Linhe Xi Road, Guangzhou, Guangdong
+address:      China
+
+contact:      administrative
+name:         Ai Xin
+organisation: Guangzhou YU Wei Information Technology Co., Ltd.
+address:      3302 International Trade Center, No.1 Linhe Xi Road, Guangzhou, Guangdong
+address:      China
+phone:        +86.2066222543
+fax-no:       +86.2066222864
+e-mail:       alice@yu-wei.cn
+
+contact:      technical
+name:         Jacky Luo
+organisation: Guangzhou YU Wei Information Technology Co., Ltd.
+address:      3302 International Trade Center, No.1 Linhe Xi Road, Guangzhou, Guangdong
+address:      China
+phone:        +86.2066222543
+fax-no:       +86.2066222864
+e-mail:       technology@yu-wei.cn
+
+nserver:      TA.NGTLD.CN 2001:dc7:ffd1:0:0:0:0:1 42.83.130.1
+nserver:      TB.NGTLD.CN 2001:dc7:ffd2:0:0:0:0:1 42.83.131.1
+nserver:      TC.NGTLD.CN 2001:dc7:ffd3:0:0:0:0:1 42.83.132.1
+nserver:      TD.NGTLD.CN 42.83.133.1
+nserver:      TE.NGTLD.CN 42.83.134.1
+ds-rdata:     2506 8 2 A379E36D05FEAFA4A5DAB25F518B9F62DF2FD2BA659BD8DA1A3EA48E677DA5F9
+
+whois:        whois.ngtld.cn
+
+status:       ACTIVE
+remarks:      Registration information: http://www.yu-wei.cn/
+
+created:      2014-07-17
+changed:      2014-08-14
+source:       IANA
+
