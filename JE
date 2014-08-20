@@ -32,7 +32,6 @@ phone:        +44 1481 521713
 fax-no:       +44 870 321 228
 e-mail:       hostmaster2014@iana-contact.je
 
-nserver:      B.CI-SERVERS.ORG 82.103.139.220
 nserver:      C.CI-SERVERS.ORG 194.146.106.86 2001:67c:1010:22:0:0:0:53
 nserver:      D.CI-SERVERS.JE 193.201.42.178
 nserver:      E.CI-SERVERS.GG 2001:500:14:6074:ad:0:0:1 204.61.216.74
@@ -45,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.channelisles.net/
 
 created:      1996-08-08
-changed:      2014-04-17
+changed:      2014-08-20
 source:       IANA
 
