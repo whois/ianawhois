@@ -29,7 +29,7 @@ address:      Israel
 phone:        +972 2 658 4138
 e-mail:       simon@cc.huji.ac.il
 
-nserver:      ILDNS.HUJI.AC.IL 128.139.6.66
+nserver:      ILNS.ILAN.NET.IL 128.139.35.5
 nserver:      LOOKUP.IUCC.AC.IL 128.139.34.240 2001:bf8:900:6:0:0:808b:22f0
 nserver:      NSA.NS.IL 192.115.210.58
 nserver:      NSB.NS.IL 192.115.210.60
@@ -44,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.isoc.org.il/domains
 
 created:      1985-10-24
-changed:      2013-04-24
+changed:      2014-08-20
 source:       IANA
 
