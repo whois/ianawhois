@@ -33,7 +33,7 @@ e-mail:       tech-iana@nic.mx
 nserver:      C.MX-NS.MX 192.100.224.1 2001:1258:0:0:0:0:0:1
 nserver:      E.MX-NS.MX 189.201.244.1
 nserver:      I.MX-NS.MX 207.248.68.1
-nserver:      M.MX-NS.MX 200.94.176.1
+nserver:      M.MX-NS.MX 200.94.176.1 2001:13c7:7000:0:0:0:0:1
 nserver:      O.MX-NS.MX 200.23.1.1
 nserver:      X.MX-NS.MX 201.131.252.1
 
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.registry.mx/
 
 created:      1989-02-01
-changed:      2012-08-09
+changed:      2014-08-21
 source:       IANA
 
