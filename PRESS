@@ -39,17 +39,17 @@ e-mail:       tld.ops@centralnic.com
 
 nserver:      A.NIC.PRESS 194.169.218.34 2001:67c:13cc:0:0:0:1:34
 nserver:      B.NIC.PRESS 185.24.64.34 2a04:2b00:13cc:0:0:0:1:34
-nserver:      C.NIC.PRESS 194.0.2.2 2001:678:5:0:0:0:0:2
-nserver:      D.NIC.PRESS 194.0.1.45 2001:678:4:0:0:0:0:2d
+nserver:      C.NIC.PRESS 185.24.67.34 2a04:2b03:13cc:0:0:0:0:34
+nserver:      D.NIC.PRESS 212.18.251.34 2a04:2b03:14bb:0:0:0:0:34
 ds-rdata:     4289 8 1 2EFC540D13139B56FC1041247B275BC5CC6DE009
 ds-rdata:     4289 8 2 03A4602F454DD05E3EF2B7A9507F7E4EEB78BA9259E35DA7C3B20FD8DA43341A
 
-whois:        whois.centralnic.com
+whois:        whois.nic.press
 
 status:       ACTIVE
 remarks:      Registration information: http://radixregistry.com/
 
 created:      2014-05-22
-changed:      2014-06-06
+changed:      2014-08-22
 source:       IANA
 
