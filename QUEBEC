@@ -16,8 +16,8 @@ address:      1440, rue Sainte-Catherine Ouest, 11E
 address:      Montréal (Québec) H3G 1R8
 address:      Canada
 phone:        +1.514-972-7777
-fax-no:       +1.877-788-8077
-e-mail:       fortier@pointquebec.org
+fax-no:       +1.877-917-9904
+e-mail:       normand@registre.quebec
 
 contact:      technical
 name:         TLD Technical Contact
@@ -39,9 +39,9 @@ ds-rdata:     46012 10 2 5916001FFF3DC261A7F1B5D81BDC63312697F8B672AE1C8AC7677F6
 whois:        whois.quebec.rs.corenic.net
 
 status:       ACTIVE
-remarks:      Registration information: http://www.pointquebec.org
+remarks:      Registration information: http://www.registre.quebec
 
 created:      2014-03-13
-changed:      2014-04-16
+changed:      2014-08-26
 source:       IANA
 
