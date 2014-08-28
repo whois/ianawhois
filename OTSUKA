@@ -1,0 +1,42 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       OTSUKA
+
+organisation: Otsuka Holdings Co., Ltd.
+address:      2-9 Kanda-Tsukasamachi, Chiyoda-ku, Tokyo
+address:      Japan
+
+contact:      administrative
+name:         Representative Director and CEO
+organisation: GMO Registry, Inc.
+address:      Cerulean Tower, 26-1 Sakuragaoka-cho, Shibuya-ku Tokyo
+address:      Japan
+phone:        +81 354561601
+fax-no:       +81 337805239
+e-mail:       tech@gmoregistry.com
+
+contact:      technical
+name:         Director
+organisation: GMO Registry, Inc.
+address:      Cerulean Tower, 26-1 Sakuragaoka-cho, Shibuya-ku Tokyo
+address:      Japan
+phone:        +81 354561601
+fax-no:       +81 337805239
+e-mail:       tech@gmoregistry.com
+
+nserver:      A.GMOREGISTRY.NET 2001:470:1a:0:0:0:0:9 72.52.71.9
+nserver:      B.GMOREGISTRY.NET 38.103.2.9
+nserver:      C.GMOREGISTRY.NET 2001:5a0:10:0:0:0:0:9 63.243.194.9
+nserver:      D.GMOREGISTRY.NET 120.29.252.11 2001:dcd:5:0:0:0:0:11
+nserver:      E.GMOREGISTRY.NET 120.29.254.11 2001:dcd:6:0:0:0:0:11
+ds-rdata:     28529 8 2 A0E0E024360430A0FD7239933495F65963BCB7C61A4CBAFCB72CA33486030655
+
+status:       ACTIVE
+remarks:      Registration information: http://www.gmoregistry.com/en/
+
+created:      2014-06-26
+changed:      2014-08-27
+source:       IANA
+
