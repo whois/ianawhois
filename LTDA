@@ -4,11 +4,10 @@
 
 domain:       LTDA
 
-organisation: DOMAIN ROBOT SERVICOS DE HOSPEDAGEM NA INTERNET LTDA
-address:      Maximilianstr. 6,
-address:      Regensburg,
-address:      93047
-address:      Germany
+organisation: InterNetX Corp.
+address:      601 Brickell Key Drive, Suite 1020
+address:      Miami, FL 33131
+address:      United States
 
 contact:      administrative
 name:         CEO
@@ -45,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.myltda.com.br
 
 created:      2014-07-03
-changed:      2014-08-18
+changed:      2014-08-29
 source:       IANA
 
