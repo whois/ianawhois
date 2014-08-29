@@ -4,30 +4,28 @@
 
 domain:       AUCTION
 
-organisation: Sand Galley, LLC
-address:      c/o Donuts Inc., 10500 NE 8th Street, Suite 350
-address:      Bellevue, Washington 98004
-address:      United States
+organisation: United TLD HoldCo, Ltd.
+address:      One Claredon Row
+address:      Dublin 2, Co. Dublin
+address:      Ireland
 
 contact:      administrative
-name:         Richard Tindal
-organisation: Donuts Inc.
-address:      c/o Donuts Inc., 10500 NE 8th Street, Suite 350
-address:      Bellevue, Washington 98004
+name:         Jeff Eckhaus
+organisation: United TLD HoldCo, Ltd.
+address:      5808 Lake Washington Blvd. NE
+address:      Kirkland, WA 98033
 address:      United States
-phone:        +1.425.283.8248
-fax-no:       +1.425.671.0020
-e-mail:       richard@donuts.co
+phone:        +1 425 298 2607
+e-mail:       jeff@unitedtld.com
 
 contact:      technical
-name:         Chris Cowherd
-organisation: Donuts Inc.
-address:      c/o Donuts Inc., 10500 NE 8th Street, Suite 350
-address:      Bellevue, Washington 98004
+name:         Wayne MacLaurin
+organisation: United TLD HoldCo, Ltd.
+address:      5808 Lake Washington Blvd. NE
+address:      Kirkland, WA 98033
 address:      United States
-phone:        +1.425.296.6802
-fax-no:       +1.425.671.0020
-e-mail:       chris@donuts.co
+phone:        +1 425 298 2260
+e-mail:       wayne@unitedtld.com
 
 nserver:      DEMAND.ALPHA.ARIDNS.NET.AU 2001:dcd:1:0:0:0:0:7 37.209.192.7
 nserver:      DEMAND.BETA.ARIDNS.NET.AU 2001:dcd:2:0:0:0:0:7 37.209.194.7
@@ -35,12 +33,13 @@ nserver:      DEMAND.DELTA.ARIDNS.NET.AU 2001:dcd:4:0:0:0:0:7 37.209.198.7
 nserver:      DEMAND.GAMMA.ARIDNS.NET.AU 2001:dcd:3:0:0:0:0:7 37.209.196.7
 ds-rdata:     41224 8 2 9924731747EE1917FC329483D0F9C0E3456C0285BC5D4907FFDA8D767D311049
 
-whois:        whois.donuts.co
+whois:        whois.unitedtld.com
 
 status:       ACTIVE
-remarks:      Registration information: http://donuts.co
+remarks:      Registration information:
+remarks:      http://rightside.co/rightside-registry/
 
 created:      2014-04-24
-changed:      2014-07-18
+changed:      2014-08-29
 source:       IANA
 
