@@ -9,13 +9,13 @@ address:      Mogadishu
 address:      Somalia
 
 contact:      administrative
-name:         Mr. Ahmed M Aden
+name:         Administrator
 organisation: Ministry of Post and Telecommunications
 address:      Mogadishu
 address:      Somalia
 phone:        +252 1 587 1200
 fax-no:       +252 1 231 599
-e-mail:       minpostel_somalia@hotmail.com
+e-mail:       admin@mipt.gov.so
 
 contact:      technical
 name:         Technical Administrator
@@ -37,6 +37,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.so/
 
 created:      1997-08-28
-changed:      2010-09-03
+changed:      2014-08-29
 source:       IANA
 
