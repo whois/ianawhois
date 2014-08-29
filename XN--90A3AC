@@ -5,14 +5,14 @@
 domain:       срб
 domain-ace:   XN--90A3AC
 
-organisation: Serbian National Register of Internet Domain Names (RNIDS)
+organisation: Serbian National Internet Domain Registry (RNIDS)
 address:      Zorza Klemansoa 18a
 address:      Belgrade 11000
 address:      Serbia
 
 contact:      administrative
 name:         RNIDS Admin Contact
-organisation: Serbian National Register of Internet Domain Names (RNIDS)
+organisation: Serbian National Internet Domain Registry (RNIDS)
 address:      Zorza Klemansoa 18a
 address:      Belgrade 11000
 address:      Serbia
@@ -22,7 +22,7 @@ e-mail:       tld-admin@rnids.rs
 
 contact:      technical
 name:         RNIDS Tech Contact
-organisation: Serbian National Register of Internet Domain Names (RNIDS)
+organisation: Serbian National Internet Domain Registry (RNIDS)
 address:      Zorza Klemansoa 18a
 address:      Belgrade 11000
 address:      Serbia
@@ -41,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.rnids.rs/
 
 created:      2011-02-05
-changed:      2012-10-10
+changed:      2014-08-29
 source:       IANA
 
