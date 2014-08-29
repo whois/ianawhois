@@ -19,14 +19,14 @@ phone:        +239 12 22753
 e-mail:       info@tecnisys.net
 
 contact:      technical
-name:         ST Registry
-organisation: Bahnhof Internet
-address:      Box 6220
-address:      Stockholm  10234
+name:         Andreas Norman
+organisation: Bahnhof AB
+address:      Box 930
+address:      78129 Borlänge
 address:      Sweden
 phone:        +46-8-55577100
-fax-no:       +46-8-55577199
-e-mail:       st-registry@bahnhof.net
+fax-no:       +46-8-55577197
+e-mail:       bahnhof@registry.st
 
 nserver:      DNS-AU.ST 119.252.188.97
 nserver:      DNS-ST.BAHNHOF.NET 79.136.119.20
@@ -39,6 +39,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.st
 
 created:      1997-11-07
-changed:      2013-02-06
+changed:      2014-08-29
 source:       IANA
 
