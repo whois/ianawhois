@@ -16,8 +16,8 @@ address:      25 Massachusetts Ave., N.W.
 address:      9th Floor
 address:      Washington, D.C. 20001
 address:      United States
-phone:        2023461230
-fax-no:       202 346 1101
+phone:        +1 2023461230
+fax-no:       +1 202 346 1101
 e-mail:       tas-contact9@google.com
 
 contact:      technical
@@ -26,8 +26,8 @@ organisation: Google Inc.
 address:      76 9th Avenue, 4th Floor
 address:      New York, NY 10011
 address:      United States
-phone:        650 253 2181
-fax-no:       202 346 1101
+phone:        +1 650 253 2181
+fax-no:       +1 202 346 1101
 e-mail:       crr-tech@google.com
 
 nserver:      NS-TLD1.CHARLESTONROADREGISTRY.COM 2001:4860:4802:32:0:0:0:69 216.239.32.105
@@ -44,6 +44,6 @@ remarks:      Registration information:
 remarks:      http://www.charlestonroadregistry.com
 
 created:      2014-06-12
-changed:      2014-08-31
+changed:      2014-09-02
 source:       IANA
 
