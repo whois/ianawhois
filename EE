@@ -13,9 +13,10 @@ address:      Estonia
 contact:      administrative
 name:         Member of the Management Board
 organisation: Eesti Interneti Sihtasutus (EIS)
-address:      Silikaltsiidi 3a
-address:      11216 Tallin
+address:      Paldiski mnt. 80
+address:      10617 Tallinn
 address:      Harjumaa
+address:      Estonia (EE)
 address:      Estonia
 phone:        +372 727 1000
 e-mail:       info@internet.ee
@@ -23,9 +24,10 @@ e-mail:       info@internet.ee
 contact:      technical
 name:         Head of Information Technology and Infrastructure Administration Dept.
 organisation: Eesti Interneti Sihtasutus (EIS)
-address:      Silikaltsiidi 3a
-address:      11216 Tallinn
+address:      Paldiski mnt. 80
+address:      10617 Tallinn
 address:      Harjumaa
+address:      Estonia (EE)
 address:      Estonia
 phone:        +372 727 1000
 e-mail:       info@internet.ee
@@ -45,6 +47,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.internet.ee
 
 created:      1992-06-03
-changed:      2014-04-03
+changed:      2014-09-03
 source:       IANA
 
