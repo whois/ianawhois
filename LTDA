@@ -12,13 +12,12 @@ address:      United States
 contact:      administrative
 name:         CEO
 organisation: InterNetX
-address:      Maximilianstr. 6,
-address:      Regensburg,
-address:      93047
+address:      Maximilianstr. 6
+address:      93047 Regensburg
 address:      Germany
 phone:        +49 941 595590
 fax-no:       +49 941 5955959
-e-mail:       ceo@internetx.com
+e-mail:       ltda@internetx.com
 
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
@@ -44,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.myltda.com.br
 
 created:      2014-07-03
-changed:      2014-08-29
+changed:      2014-09-03
 source:       IANA
 
