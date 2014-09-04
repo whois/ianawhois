@@ -39,10 +39,9 @@ ds-rdata:     12115 8 2 D152A1A209E040CABFFAE75DD7F84C3D2544B6705B09489BA934D887
 whois:        whois.nic.schmidt
 
 status:       ACTIVE
-remarks:      Registration information:
-remarks:      http://www.schmidt-kitchens.com/
+remarks:      Registration information: http://nic.schmidt/
 
 created:      2014-06-19
-changed:      2014-07-03
+changed:      2014-09-03
 source:       IANA
 
