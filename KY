@@ -10,14 +10,14 @@ address:      Grand Cayman  KY1-1104
 address:      Cayman Islands
 
 contact:      administrative
-name:         David A. Archbold
+name:         Managing Director
 organisation: The Information and Communications Technology Authority
 address:      P.O. Box 2502
 address:      Grand Cayman  KY1-1104
 address:      Cayman Islands
-phone:        +1 345 946 4282
-fax-no:       +1 345 945 8284
-e-mail:       david.archbold@icta.ky
+phone:        1-345-946-4282
+fax-no:       1-345-945-8284
+e-mail:       md@icta.ky
 
 contact:      technical
 name:         Stephen Bernacki
@@ -39,6 +39,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.ky
 
 created:      1995-05-03
-changed:      2008-05-19
+changed:      2014-09-04
 source:       IANA
 
