@@ -31,11 +31,12 @@ phone:        +90 212 216 44 45
 fax-no:       +90 212 216 44 50
 e-mail:       iana@dreamtec.de
 
-nserver:      ASIA.ZONE.TC 31.169.81.225
-nserver:      ASIA.ZONE.VG 31.169.81.226
-nserver:      EUROPE.ZONE.TC 77.79.104.225
-nserver:      EUROPE.ZONE.VG 77.79.104.226
 nserver:      NORTHAMERICA.ZONE.TC 166.78.254.145
+nserver:      ROOT1.ZONE.TC 31.169.81.225
+nserver:      ROOT2.ZONE.TC 77.79.104.226
+nserver:      ROOT3.ZONE.TC 77.79.104.225
+nserver:      ROOT4.ZONE.TC 31.169.81.226
+nserver:      ROOT5.ZONE.TC 95.173.188.6
 
 whois:        whois.meridiantld.net
 
@@ -43,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://meridiantld.net
 
 created:      1997-01-27
-changed:      2013-09-18
+changed:      2014-09-08
 source:       IANA
 
