@@ -35,10 +35,12 @@ nserver:      X.NS.NIC.FRL 195.253.64.4 2a01:5b0:4:0:0:0:0:4
 nserver:      Y.NS.NIC.FRL 195.253.64.7 2a01:5b0:4:0:0:0:0:7
 ds-rdata:     61803 7 2 6101027B61B7A1E6434BAFDAFF9A5D7DBB2E5EFA1BE76D85B031BCD601D1A54C
 
+whois:        whois.nic.frl
+
 status:       ACTIVE
-remarks:      Registration information: http://www.puntfrl.nl
+remarks:      Registration information: https://nic.frl
 
 created:      2014-08-22
-changed:      2014-09-02
+changed:      2014-09-09
 source:       IANA
 
