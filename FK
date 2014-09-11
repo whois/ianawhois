@@ -10,24 +10,24 @@ address:      Stanley  FIQQ 1ZZ
 address:      Falkland Islands (malvinas)
 
 contact:      administrative
-name:         Andrew Newman
+name:         Head of Regulatory Services & Director of Civil Aviation
 organisation: Falkland Islands Government
-address:      PO Box 705
+address:      Secretariat
 address:      Stanley  FIQQ 1ZZ
 address:      Falkland Islands (malvinas)
 phone:        +500 27305
 fax-no:       +500 27306
-e-mail:       anewman.civilaviation@sec.gov.fk
+e-mail:       bwilks.civilaviation@sec.gov.fk
 
 contact:      technical
-name:         Mark Street
-organisation: Cable and Wireless
+name:         IP Networks Manager
+organisation: Sure South Atlantic Ltd.
 address:      Ross Road
 address:      Stanley  FIQQ 1ZZ
 address:      Falkland Islands (malvinas)
 phone:        + 500 20800
 fax-no:       + 500 20890
-e-mail:       ipn.support@cwfi.co.fk
+e-mail:       ipn.support@sure.co.fk
 
 nserver:      EURO-NS1.CW.NET 141.1.27.248
 nserver:      EURO-NS2.CW.NET 212.80.175.2
@@ -38,6 +38,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.fidc.co.fk/
 
 created:      1997-03-26
-changed:      2012-12-27
+changed:      2014-09-10
 source:       IANA
 
