@@ -1,0 +1,48 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       WME
+
+organisation: William Morris Endeavor Entertainment, LLC
+address:      9601 Wilshire Blvd 3rd Floor
+address:      Beverly Hills, California 90212
+address:      United States
+
+contact:      administrative
+name:         TLD Manager
+organisation: CentralNic
+address:      35-39 Moorgate
+address:      London EC2R 6AR
+address:      United Kingdom
+phone:        +44.2033880600
+fax-no:       +44.2033880601
+e-mail:       wme.admin@centralnic.com
+
+contact:      technical
+name:         CTO
+organisation: CentralNic
+address:      35-39 Moorgate
+address:      London EC2R 6AR
+address:      United Kingdom
+phone:        +44.2033880600
+fax-no:       +44.2033880601
+e-mail:       tld.ops@centralnic.com
+
+nserver:      A.NIC.WME 194.169.218.31 2001:67c:13cc:0:0:0:1:31
+nserver:      B.NIC.WME 185.24.64.31 2a04:2b00:13cc:0:0:0:1:31
+nserver:      C.NIC.WME 194.0.2.2 2001:678:5:0:0:0:0:2
+nserver:      D.NIC.WME 194.0.1.45 2001:678:4:0:0:0:0:2d
+ds-rdata:     7259 8 1 f4ccd846a0b86daf9ce33371fb93362d4dc4addf
+ds-rdata:     7259 8 2 e7cb7561099040db08978f7696320ddaf323f52ddbf951fa5f4c44b2f34e38bd
+
+whois:        whois.centralnic.com
+
+status:       ACTIVE
+remarks:      Registration information:
+remarks:      http://www.wmeentertainment.com
+
+created:      2014-08-22
+changed:      2014-09-10
+source:       IANA
+
