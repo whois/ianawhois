@@ -19,13 +19,14 @@ phone:        +240222268239
 e-mail:       bibang.yembi@orange-getesa.gq
 
 contact:      technical
-name:         Jose Luis Abeso
-organisation: GETESA
-address:      A.P. 494
-address:      Malabo
-address:      Equatorial Guinea
-phone:        +240222034021
-e-mail:       joseluis.abeso@orange-getesa.gq
+name:         Manager ICT
+organisation: Equatorial Guinea Domains B.V.
+address:      Keizersgracht 213
+address:      1016 DT  Amsterdam
+address:      Netherlands
+phone:        +31205315726
+fax-no:       +31205315721
+e-mail:       info@equatorialguineadomains.com
 
 nserver:      A.GQ.GLOBALANYCASTCLOUD.FREENOM.NET 185.21.168.34 2a04:1b00:8:0:0:0:0:2
 nserver:      B.GQ.GLOBALANYCASTCLOUD.FREENOM.NET 185.21.169.34 2a04:1b00:9:0:0:0:0:2
@@ -40,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.getesa.gq/
 
 created:      1997-07-10
-changed:      2013-10-30
+changed:      2014-09-15
 source:       IANA
 
