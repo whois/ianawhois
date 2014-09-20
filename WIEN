@@ -15,9 +15,9 @@ organisation: punkt.wien GmbH
 address:      Matznergasse 17
 address:      1140 Wien
 address:      Austria
-phone:        +4368120895522
-fax-no:       +43198116118
-e-mail:       ronald.schwaerzler@punktwien.at
+phone:        +431981160
+fax-no:       +43198116111
+e-mail:       ronald.schwaerzler@nic.wien
 
 contact:      technical
 name:         Technical Operations
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.wien
 
 created:      2013-12-19
-changed:      2014-01-22
+changed:      2014-09-20
 source:       IANA
 
