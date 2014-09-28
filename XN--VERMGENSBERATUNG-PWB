@@ -1,0 +1,14 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       vermögensberatung
+domain-ace:   XN--VERMGENSBERATUNG-PWB
+
+organisation: Deutsche Vermögensberatung Aktiengesellschaft DVAG
+
+status:       NEW
+
+created:      2014-09-18
+source:       IANA
+
