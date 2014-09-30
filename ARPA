@@ -4,36 +4,35 @@
 
 domain:       ARPA
 
-organisation: Internet Assigned Numbers Authority
-address:      4676 Admiralty Way
-address:      Suite 330
-address:      Marina del Rey California 90292
+organisation: Internet Architecture Board (IAB)
+address:      c/o IETF Administrative Support Activity, ISOC
+address:      1775 Wiehle Ave.
+address:      Suite 102
+address:      Reston, Virginia 20190-5108
 address:      United States
 
 contact:      administrative
 name:         Internet Architecture Board (IAB)
-c/o IETF Administrative Support Activity, ISOC
-
 organisation: Internet Architecture Board (IAB)
-organisation: c/o IETF Administrative Support Activity, ISOC
+address:      c/o IETF Administrative Support Activity, ISOC
 address:      1775 Wiehle Ave.
 address:      Suite 102
-address:      Reston Virginia 20190-5108
+address:      Reston, Virginia 20190-5108
 address:      United States
 phone:        +1 703 326 9880
 fax-no:       +1 703 326 9881
 e-mail:       iab@iab.org
 
 contact:      technical
-name:         Internet Assigned Numbers Authority
-organisation: Internet Assigned Numbers Authority
-address:      4676 Admiralty Way
-address:      Suite 330
-address:      Marina del Rey California 90292
+name:         Internet Assigned Numbers Authority (IANA)
+organisation: Internet Corporation for Assigned Names and Numbers (ICANN)
+address:      12025 Waterfront Drive
+address:      Suite 300
+address:      Los Angeles, California 90094
 address:      United States
-phone:        +1 310 823-9358
+phone:        +1 310 301 5800
 fax-no:       +1 310 823-8649
-e-mail:       iana@iana.org
+e-mail:       tld-contact@iana.org
 
 nserver:      A.ROOT-SERVERS.NET 198.41.0.4 2001:503:ba3e:0:0:0:2:30
 nserver:      B.ROOT-SERVERS.NET 192.228.79.201 2001:500:84:0:0:0:0:b
@@ -56,6 +55,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.iana.org/arpa-dom/
 
 created:      1985-01-01
-changed:      2014-06-03
+changed:      2014-09-30
 source:       IANA
 
