@@ -33,10 +33,12 @@ nserver:      B.NS.GQ 185.21.169.65 2a04:1b00:11:0:0:0:0:1
 nserver:      C.NS.GQ 185.21.170.65 2a04:1b00:12:0:0:0:0:1
 nserver:      D.NS.GQ 185.21.171.65 2a04:1b00:13:0:0:0:0:1
 
+whois:        whois.dominio.gq
+
 status:       ACTIVE
-remarks:      Registration information: http://www.getesa.gq/
+remarks:      Registration information: http://www.dominio.gq
 
 created:      1997-07-10
-changed:      2014-10-01
+changed:      2014-10-03
 source:       IANA
 
