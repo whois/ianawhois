@@ -35,7 +35,7 @@ e-mail:       hostmaster@datacom.mn
 
 nserver:      NS1.IDN.MN 218.100.84.27
 nserver:      NS2.IDN.MN 202.170.80.40
-nserver:      NS3.IDN.MN 202.180.216.18
+nserver:      NS3.IDN.MN 180.149.98.78
 ds-rdata:     45112 5 2 1CBBA9081B31B12FA98F5B7FEE95751BD16676E41A2ABC0B25BD0C0031474492
 ds-rdata:     45112 5 1 1F4351261342FC31DAA8D5E4F1D4FBF6EE0D9857
 
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.mon.mn/
 
 created:      2012-06-21
-changed:      2014-09-19
+changed:      2014-10-06
 source:       IANA
 
