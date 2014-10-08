@@ -1,0 +1,51 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       WF
+
+organisation: Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)
+address:      Immeuble Le Stephenson
+address:      1 rue Stephenson
+address:      78180 Montigny-le-Bretonneux
+address:      France
+
+contact:      administrative
+name:         TLD Admin Contact
+organisation: Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)
+address:      Immeuble Le Stephenson
+address:      1 rue Stephenson
+address:      78180 Montigny-le-Bretonneux
+address:      France
+phone:        +33 1 39 30 83 05
+fax-no:       +33 1 39 30 83 01
+e-mail:       tld-admin@nic.fr
+
+contact:      technical
+name:         TLD Tech Contact
+organisation: Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)
+address:      Immeuble Le Stephenson
+address:      1 rue Stephenson
+address:      78180 Montigny-le-Bretonneux
+address:      France
+phone:        +33 1 39 30 83 81
+fax-no:       +33 1 39 30 83 01
+e-mail:       tld-tech@nic.fr
+
+nserver:      D.EXT.NIC.FR 192.5.4.2 2001:500:2e:0:0:0:0:2
+nserver:      D.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
+nserver:      E.EXT.NIC.FR 193.176.144.22 2a00:d78:0:102:193:176:144:22
+nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
+nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
+ds-rdata:     14407 8 2 7da5f1ebda6ddca8b41f753d9c30c36b8d7d21c362819883d0f402a0484a6036
+ds-rdata:     33562 8 2 8fc2e75050231829a3468f447d14d28c3cb6a7a1de814fdc6287180b06d23111
+
+whois:        whois.nic.wf
+
+status:       ACTIVE
+remarks:      Registration information: http://www.nic.wf/
+
+created:      1997-11-14
+changed:      2014-06-18
+source:       IANA
+
