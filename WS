@@ -1,0 +1,47 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       WS
+
+organisation: Government of Samoa Ministry of Foreign Affairs & Trade
+address:      P.O. Box 1861
+address:      Apia
+address:      Samoa
+
+contact:      administrative
+name:         CEO
+organisation: Computer Services Ltd.
+address:      Lotemau Centre
+address:      Apia
+address:      Samoa
+phone:        +685 20926
+fax-no:       +685 20932
+e-mail:       admin.contact@csl.ws
+
+contact:      technical
+name:         CEO
+organisation: Global Domains International
+address:      701 Palomar Airport Road #300
+address:      Carlsbad, CA 92011
+address:      United States
+phone:        +1 760 602 3000
+fax-no:       +1 760 602 3099
+e-mail:       tech.contact@csl.ws
+
+nserver:      NS2.DNS.WS 64.70.19.80
+nserver:      NS3.DNS.WS 67.221.178.52
+nserver:      NS4.DNS.WS 67.221.178.53
+nserver:      NS5.DNS.WS 64.70.19.70
+nserver:      NS6.DNS.WS 77.92.65.172
+nserver:      NS7.DNS.WS 77.92.65.174
+
+whois:        whois.website.ws
+
+status:       ACTIVE
+remarks:      Registration information: http://www.website.ws
+
+created:      1995-07-14
+changed:      2012-01-21
+source:       IANA
+
