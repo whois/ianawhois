@@ -1,0 +1,47 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       WTC
+
+organisation: World Trade Centers Association, Inc.
+address:      120 Broadway, Suite 3350
+address:      New York, NY 10271
+address:      United States
+
+contact:      administrative
+name:         Associate Counsel
+organisation: World Trade Centers Association, Inc.
+address:      120 Broadway, Suite 3350
+address:      New York, NY 10271
+address:      United States
+phone:        (212) 432-2652
+fax-no:       (212) 488-0065
+e-mail:       lkassof@wtca.org
+
+contact:      technical
+name:         Associate Counsel
+organisation: World Trade Centers Association, Inc.
+address:      120 Broadway, Suite 3350
+address:      New York, NY 10271
+address:      United States
+phone:        (212) 432-2652
+fax-no:       (212) 488-0065
+e-mail:       lkassof@wtca.org
+
+nserver:      A.NIC.WTC 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.WTC 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.WTC 2001:dcd:3:0:0:0:0:9 37.209.196.9
+nserver:      D.NIC.WTC 2001:dcd:4:0:0:0:0:9 37.209.198.9
+ds-rdata:     27154 8 2 DADC5E564963636D1F5D7DA6F35C4138828FF24D00CB106EBA08C6D17788BDD0
+ds-rdata:     27154 8 1 8F68EC9C9367EA1AB82A510F145D33A9FD827A1F
+
+whois:        whois.nic.wtc
+
+status:       ACTIVE
+remarks:      Registration information: http://nic.wtc/
+
+created:      2014-04-17
+changed:      2014-05-02
+source:       IANA
+
