@@ -1,0 +1,45 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       公益
+domain-ace:   XN--55QW42G
+
+organisation: China Organizational Name Administration Center
+address:      Jia 31, Guang Ximen Beili, Xibahe, Chaoyang District, Beijing, 100028
+address:      China
+
+contact:      administrative
+name:         Chief Executive Officer
+organisation: China Organizational Name Administration Center
+address:      Jia 31, Guangximen Beili, Xibahe, Chaoyang District, Beijing, China 100028
+address:      China
+phone:        +8610-5203 5263
+fax-no:       +8610-5203 5034
+e-mail:       conac-admin@conac.cn
+
+contact:      technical
+name:         Director of New gTLD Lab
+organisation: China Organizational Name Administration Center
+address:      Jia 31, Guangximen Beili, Xibahe, Chaoyang District, Beijing, China 100028
+address:      China
+phone:        +8610-5203 5025
+fax-no:       +8610-5203 5034
+e-mail:       tech@conac.cn
+
+nserver:      NS1.CONAC.CN 111.235.161.1 2401:b400:1:0:0:0:0:1
+nserver:      NS2.CONAC.CN 111.235.162.1 2401:b400:8:0:0:0:0:1
+nserver:      NS3.CONAC.CN 111.235.163.1 2401:b400:9:0:0:0:0:1
+nserver:      NS4.CONAC.CN 111.235.164.1
+nserver:      NS5.CONAC.CN 111.235.165.1
+ds-rdata:     48226 8 2 a16754c480e58c0d17126b3baf93f32bac39a916cf9d1f6f3a1f5c33687be80f
+
+whois:        whois.conac.cn
+
+status:       ACTIVE
+remarks:      Registration information: http://www.conac.cn
+
+created:      2013-12-12
+changed:      2013-12-17
+source:       IANA
+
