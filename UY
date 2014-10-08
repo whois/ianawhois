@@ -1,0 +1,50 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       UY
+
+organisation: SeCIU - Universidad de la Republica
+address:      Colonia 2066
+address:      C.P. 11200
+address:      Montevideo
+address:      Uruguay
+
+contact:      administrative
+name:         Ida Holz
+organisation: Servicio Central de Informatica (SECIU)
+address:      Colonia 2066
+address:      C.P. 11200
+address:      Montevideo
+address:      Uruguay
+phone:        +598 2 408 3901
+fax-no:       +598 2 401 5843
+e-mail:       holz@seciu.edu.uy
+
+contact:      technical
+name:         Sergio Ramirez
+organisation: Servicio Central de Informatica (SECIU)
+address:      Colonia 2066
+address:      C.P. 11200
+address:      Montevideo
+address:      Uruguay
+phone:        +598 2 408 3901
+fax-no:       +598 2 401 5843
+e-mail:       sramirez@seciu.edu.uy
+
+nserver:      NS.DNS.BR 200.160.0.5 2001:12ff:0:a20:0:0:0:5
+nserver:      NS3.NIC.MX 200.33.111.1
+nserver:      SECIU.EDU.UY 164.73.128.5 2001:1328:6:0:0:0:0:5
+nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e:0:0:0:0:1
+nserver:      ULTRA.SECIU.UY 164.73.128.70
+nserver:      UY.CCTLD.AUTHDNS.RIPE.NET 193.0.9.122 2001:67c:e0:0:0:0:0:122
+
+whois:        whois.nic.org.uy
+
+status:       ACTIVE
+remarks:      Registration information: http://www.nic.org.uy/
+
+created:      1990-09-10
+changed:      2012-03-03
+source:       IANA
+
