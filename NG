@@ -5,28 +5,26 @@
 domain:       NG
 
 organisation: Nigeria Internet Registration Association
-address:      8 Saka Tinbu Street
-address:      Victoria Island Lagos
+address:      8 Funso Williams Avenue
+address:      Alaka Surulere Lagos
 address:      Nigeria
 
 contact:      administrative
 name:         President
 organisation: Nigeria Internet Registration Association
-address:      8 Saka Tinbu Street
-address:      Victoria Island Lagos
+address:      8 Funso Williams Avenue
+address:      Alaka Surulere Lagos
 address:      Nigeria
-phone:        +234 7028184335
-fax-no:       +234 7028184335
+phone:        +234 8037052535
 e-mail:       president@nira.org.ng
 
 contact:      technical
 name:         DNS Administrator
 organisation: Nigeria Internet Registration Association
-address:      8 Saka Tinbu Street
-address:      Victoria Island Lagos
+address:      8 Funso Williams Avenue
+address:      Alaka Surulere Lagos
 address:      Nigeria
-phone:        +234 16635433
-fax-no:       +234 16635433
+phone:        +234 8172004278
 e-mail:       dnsadmin@nira.org.ng
 
 nserver:      NS1.NIC.NET.NG 194.0.1.29 2001:678:4:0:0:0:0:1d
@@ -41,6 +39,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nira.org.ng/
 
 created:      1995-03-15
-changed:      2010-05-17
+changed:      2014-10-14
 source:       IANA
 
