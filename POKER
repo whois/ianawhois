@@ -5,9 +5,45 @@
 domain:       POKER
 
 organisation: Afilias Domains No. 5 Limited
+address:      2 La Touche House IFSC,
+address:      Dublin 1
+address:      Ireland
 
-status:       NEW
+contact:      administrative
+name:         Senior Vice President
+organisation: Afilias
+address:      Building 3, Suite 105
+address:      300 Welsh Road
+address:      Horsham, PA 19044
+address:      United States
+phone:        +1 215 706 5700
+fax-no:       +1 215 706 5701
+e-mail:       tld-admin-poc@afilias.info
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias Limited
+address:      Building 3, Suite 105
+address:      300 Welsh Road
+address:      Horsham, PA 19044
+address:      United States
+phone:        +1 215 706 5700
+fax-no:       +1 215 706 5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.POKER 2a01:8840:16:0:0:0:0:33 65.22.20.33
+nserver:      A2.NIC.POKER 2a01:8840:19:0:0:0:0:33 65.22.23.33
+nserver:      B0.NIC.POKER 2a01:8840:17:0:0:0:0:33 65.22.21.33
+nserver:      C0.NIC.POKER 2a01:8840:18:0:0:0:0:33 65.22.22.33
+ds-rdata:     55786 7 1 3e2138c1d4d51420df9c44a4e68f161781b53a98
+ds-rdata:     55786 7 2 300009c8727bf5095912e598936c879cc5c1e93342a82753c82233a1ac135151
+
+whois:        whois.afilias.net
+
+status:       ACTIVE
+remarks:      Registration information: http://afilias.info/contact-us
 
 created:      2014-09-04
+changed:      2014-10-15
 source:       IANA
 
