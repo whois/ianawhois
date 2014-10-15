@@ -31,15 +31,15 @@ e-mail:       hostm-iana@connect.ie
 
 nserver:      AUTH02.NS.UU.NET 198.6.1.82
 nserver:      NS1.CONNECT.IE 109.123.110.79
+nserver:      NS3.HPL.HP.COM 204.123.2.18
 nserver:      NS3.NS.ESAT.NET 192.111.39.100 2001:7c8:2:a:0:0:0:64
+nserver:      NS4.HPL.HP.COM 204.123.2.19
 nserver:      TP.CCTLD.AUTHDNS.RIPE.NET 193.0.9.119 2001:67c:e0:0:0:0:0:119
-nserver:      UUCP-GW-1.PA.DEC.COM 204.123.2.18
-nserver:      UUCP-GW-2.PA.DEC.COM 204.123.2.19
 
 status:       ACTIVE
 remarks:      Registration information: http://www.nic.tp
 
 created:      1997-05-09
-changed:      2014-07-18
+changed:      2014-10-15
 source:       IANA
 
