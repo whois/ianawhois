@@ -5,9 +5,35 @@
 domain:       YOGA
 
 organisation: Top Level Domain Holdings Limited
+address:      Craigmuir Chambers, Road Town Tortola VG 1110
+address:      Virgin Islands, British
 
-status:       NEW
+contact:      administrative
+name:         Admin Contact
+organisation: Minds + Machines Ltd
+address:      32 Nassau St, Dublin 2
+address:      Ireland
+phone:        +353.14301689
+e-mail:       support@mm-registry.com
+
+contact:      technical
+name:         Director of Software Development
+organisation: Minds + Machines Ltd
+address:      32 Nassau St, Dublin 2
+address:      Ireland
+phone:        +353.14301689
+e-mail:       support@mm-registry.com
+
+nserver:      A.NS.NIC.YOGA 2620:0171:0a02:00ad:0:0:0:27 72.0.50.27
+nserver:      B.NS.NIC.YOGA 2620:0171:0d02:00dc:0:0:0:27 72.42.114.27
+ds-rdata:     35365 8 2 C350E5319A7628DADE3EB2F0A9C88F32935793EB3A0C4413BBA6461734D73972
+
+whois:        whois-dub.mm-registry.com
+
+status:       ACTIVE
+remarks:      Registration information: http://mm-registry.com
 
 created:      2014-08-15
+changed:      2014-10-15
 source:       IANA
 
