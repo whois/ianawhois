@@ -11,18 +11,18 @@ address:      Washington DC 20005
 address:      United States
 
 contact:      administrative
-name:         Carolyn Hoover
+name:         Patricia Sterner
 organisation: DotCooperation LLC
 address:      1401 New York Avenue, N.W.
 address:      Suite 1100
 address:      Washington DC 20005
 address:      United States
 phone:        +1 202 383 5453
-fax-no:       +1 202 347 1968
-e-mail:       choover@dotcoop.coop
+fax-no:       +1 202 628 6726
+e-mail:       psterner@ncba.coop
 
 contact:      technical
-name:         DotCoop Registry Operator
+name:         Jonathan Stanton
 organisation: Midcounties Co-operative Domains Ltd
 address:      Warwick Technology Park
 address:      Gallows Hill
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.coop
 
 created:      2001-12-15
-changed:      2011-05-04
+changed:      2014-10-18
 source:       IANA
 
