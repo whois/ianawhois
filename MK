@@ -4,30 +4,30 @@
 
 domain:       MK
 
-organisation: Ministry of Foreign Affairs
-address:      "Filip Vtori Makedonski" boulevard, No. 7
+organisation: Macedonian Academic Research Network Skopje
+address:      Blvd. Partizanski Odredi 17
 address:      1000, Skopje
 address:      Macedonia, The Former Yugoslav Republic Of
 
 contact:      administrative
-name:         Saso Dimitrijoski
+name:         Director
 organisation: Macedonian Academic And Research Network-MARnet
-address:      "Partizanski odredi" boulevard, No. 17
+address:      Blvd. Partizanski Odredi 17
 address:      1000, Skopje
 address:      Macedonia, The Former Yugoslav Republic Of
 phone:        +389 2 3256561
-fax-no:       +389 2 3256563
+fax-no:       + 389 2 3256561
 e-mail:       dimitrijoski@marnet.mk
 
 contact:      technical
-name:         Goran Muratovski
-organisation: Univerzitet "Sv. Kiril i Metodij" vo Skopje
-address:      bul. Goce Delchev br. 9
-address:      Skopje  1000
+name:         Responsible in the DNS department 
+organisation: Macedonian Аcademic and Research Network MARnet
+address:      Blvd. Partizanski Odredi 17
+address:      1000, Skopje
 address:      Macedonia, The Former Yugoslav Republic Of
-phone:        +389 2 3 293 294
-fax-no:       +389 2 3 293 202
-e-mail:       gone@ukim.edu.mk
+phone:        + 389 2 3256561
+fax-no:       + 389 2 3256561
+e-mail:       novak.novakov@marnet.mk
 
 nserver:      D.EXT.NIC.CZ 193.29.206.2 2001:678:1:0:0:0:0:2
 nserver:      DNS-MK.UNIVIE.AC.AT 2001:628:453:bb:0:0:0:4 78.104.145.4
@@ -37,9 +37,9 @@ nserver:      TLD1.MARNET.MK 194.149.137.168
 whois:        whois.marnet.mk
 
 status:       ACTIVE
-remarks:      Registration information: http://www.marnet.mk
+remarks:      Registration information: http://marnet.mk/ 
 
 created:      1993-09-23
-changed:      2014-03-19
+changed:      2014-10-22
 source:       IANA
 
