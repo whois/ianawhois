@@ -1,0 +1,45 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       TAIPEI
+
+organisation: Taipei City Government
+address:      No.1, City Hall Rd., Xinyi District, Taipei City 11008
+address:      Taiwan, Province Of China
+
+contact:      administrative
+name:         Hao-Ming Mai
+organisation: Taipei City Government
+address:      No.1, City Hall Rd., Xinyi District, Taipei City 11008
+address:      Taiwan, Province Of China
+phone:        886 2 2720 8889
+fax-no:       886 2 2758 7394
+e-mail:       ic-mai@mail.taipei.gov.tw
+
+contact:      technical
+name:         Sean Kaine
+organisation: Neustar, Inc.
+address:      46000 Center Oak Plaza
+address:      Sterling, VA 20166
+address:      United States
+phone:        1 571-434-5168
+fax-no:       1 571-434-5401
+e-mail:       tldlaunch@neustar.biz
+
+nserver:      NS1.DNS.NIC.TAIPEI 156.154.144.156 2610:a1:1071:0:0:0:0:9c
+nserver:      NS2.DNS.NIC.TAIPEI 156.154.145.156 2610:a1:1072:0:0:0:0:9c
+nserver:      NS3.DNS.NIC.TAIPEI 156.154.159.156 2610:a1:1073:0:0:0:0:9c
+nserver:      NS4.DNS.NIC.TAIPEI 156.154.156.156 2610:a1:1074:0:0:0:0:9c
+nserver:      NS5.DNS.NIC.TAIPEI 156.154.157.156 2610:a1:1075:0:0:0:0:9c
+nserver:      NS6.DNS.NIC.TAIPEI 156.154.158.156 2610:a1:1076:0:0:0:0:9c
+ds-rdata:     34897 8 1 6EF244ECC424C650310CC3F847DDA972011D44B0
+ds-rdata:     34897 8 2 851A6DBAB62D8B007CA6E11ADAF79D3DF6D2868B3EF4DE2AFA0A60862413A5AD
+
+status:       ACTIVE
+remarks:      Registration information: http://www.nictaipei.net
+
+created:      2014-09-25
+changed:      2014-10-23
+source:       IANA
+
