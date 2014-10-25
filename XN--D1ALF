@@ -1,0 +1,46 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       мкд
+domain-ace:   XN--D1ALF
+
+organisation: Macedonian Academic Research Network Skopje
+address:      Blvd. Partizanski Odredi 17
+address:      1000, Skopje
+address:      Macedonia, The Former Yugoslav Republic Of
+
+contact:      administrative
+name:         Director
+organisation: Macedonian Academic and Research Network MARnet
+address:      Blvd. Partizanski Odredi 17
+address:      1000, Skopje
+address:      Macedonia, The Former Yugoslav Republic Of
+phone:        + 389 2 3256561
+fax-no:       + 389 2 3256561
+e-mail:       dimitrijoski@marnet.mk
+
+contact:      technical
+name:         Responsible in the DNS department 
+organisation: Macedonian Academic and Research Network MARnet
+address:      Blvd. Partizanski Odredi 17
+address:      1000, Skopje
+address:      Macedonia, The Former Yugoslav Republic Of
+phone:        + 389 2 3256561
+fax-no:       + 389 2 3256561
+e-mail:       novak.novakov@marnet.mk
+
+nserver:      D.EXT.NIC.CZ 193.29.206.2 2001:678:1:0:0:0:0:2
+nserver:      DNS-MK.UNIVIE.AC.AT 2001:628:453:bb:0:0:0:4 78.104.145.4
+nserver:      NS2.ARNES.SI 193.2.1.91 2001:1470:8000:0:0:0:0:91
+nserver:      TLD1.MARNET.MK 194.149.137.168
+
+whois:        whois.marnet.mk
+
+status:       NEW
+remarks:      Registration information: http://marnet.mk/
+
+created:      2014-04-21
+changed:      2014-10-24
+source:       IANA
+
