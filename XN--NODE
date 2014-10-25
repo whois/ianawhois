@@ -1,0 +1,53 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       გე
+domain-ace:   XN--NODE
+
+organisation: Information Technologies Development Center (ITDC)
+address:      Shalva Nutsubidze Plato
+address:      4th Mico District
+address:      7 Painters Settlement
+address:      Tbilisi 0183
+address:      Georgia
+
+contact:      administrative
+name:         Co-Owner / IT Director
+organisation: Information Technologies Development Center (ITDC)
+address:      Shalva Nutsubidze Plato
+address:      4th Mico District
+address:      7 Painters Settlement
+address:      Tbilisi 0183
+address:      Georgia
+phone:        +995 32 249 00 49
+fax-no:       +995 32 98 89 24
+e-mail:       contact@itdc.ge
+
+contact:      technical
+name:         Technical Lead Administrator
+organisation: Information Technologies Development Center (ITDC)
+address:      Shalva Nutsubidze Plato
+address:      4th Mico District
+address:      7 Painters Settlement
+address:      Tbilisi 0183
+address:      Georgia
+phone:        +995 32 249 00 49
+fax-no:       +995 32 98 89 24
+e-mail:       admins@itdc.ge
+
+nserver:      A.XN--NODE.GLOBALANYCASTCLOUD.FREENOM.NET 185.21.168.36 2a04:1b00:8:0:0:0:0:4
+nserver:      B.XN--NODE.GLOBALANYCASTCLOUD.FREENOM.NET 185.21.169.36 2a04:1b00:9:0:0:0:0:4
+nserver:      C.XN--NODE.GLOBALANYCASTCLOUD.FREENOM.NET 185.21.170.36 2a04:1b00:a:0:0:0:0:4
+nserver:      D.XN--NODE.GLOBALANYCASTCLOUD.FREENOM.NET 185.21.171.36 2a04:1b00:b:0:0:0:0:4
+nserver:      XN--NODE.NS.ANYCAST.PCH.NET 2001:500:14:6088:ad:0:0:1 204.61.216.88
+
+whois:        whois.itdc.ge
+
+status:       NEW
+remarks:      Registration information: http://billing.itdc.ge
+
+created:      2011-02-11
+changed:      2014-10-24
+source:       IANA
+
