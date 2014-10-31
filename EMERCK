@@ -7,14 +7,14 @@ domain:       EMERCK
 organisation: Merck KGaA
 address:      Frankfurter Strasse 250,
 address:      Darmstadt Hesse 64293.
-address:      Denmark
+address:      Germany
 
 contact:      administrative
 name:         Jonas Kölle
 organisation: Merck KGaA
 address:      Frankfurter Strasse 250,
 address:      Darmstadt Hesse 64293
-address:      Denmark
+address:      Germany
 phone:        +496151720
 fax-no:       +496151722000
 e-mail:       registry@emerck.com
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://registry.emerck.com
 
 created:      2014-09-11
-changed:      2014-10-22
+changed:      2014-10-31
 source:       IANA
 
