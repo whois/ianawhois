@@ -36,6 +36,8 @@ nserver:      NS6.DNS.NIC.TAIPEI 156.154.158.156 2610:a1:1076:0:0:0:0:9c
 ds-rdata:     34897 8 1 6EF244ECC424C650310CC3F847DDA972011D44B0
 ds-rdata:     34897 8 2 851A6DBAB62D8B007CA6E11ADAF79D3DF6D2868B3EF4DE2AFA0A60862413A5AD
 
+whois:        whois.nic.taipei
+
 status:       ACTIVE
 remarks:      Registration information: http://www.nictaipei.net
 
