@@ -41,6 +41,7 @@ nserver:      GNS1.DOMAINREGISTRY.IE 198.133.199.102
 nserver:      GNS2.DOMAINREGISTRY.IE 198.133.199.103
 nserver:      NS-IE.NIC.FR 192.93.0.4
 nserver:      NS3.NS.ESAT.NET 192.111.39.100 2001:7c8:2:a:0:0:0:64
+ds-rdata:     25105 8 2 3883d06014fa40518a53c70442c3601a271c0f9631ea1426abe4148f83930732
 
 whois:        whois.domainregistry.ie
 
@@ -48,6 +49,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.domainregistry.ie
 
 created:      1988-01-27
-changed:      2013-02-20
+changed:      2014-11-05
 source:       IANA
 
