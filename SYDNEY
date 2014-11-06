@@ -1,0 +1,52 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       SYDNEY
+
+organisation: State of New South Wales, Department of Premier and Cabinet
+address:      1 Farrer Place Sydney,
+address:      New South Wales 2000
+address:      Australia
+
+contact:      administrative
+name:         Mark Delzoppo
+organisation: ARI Registry Services
+address:      Level 8, 10 Queens Road
+address:      Melbourne
+address:      Victoria
+address:      3004
+address:      Australia
+phone:        +61398663710
+fax-no:       +61398661970
+e-mail:       sydney@ariservices.com
+
+contact:      technical
+name:         Ryan Miller
+organisation: ARI Registry Services
+address:      Level 8, 10 Queens Road
+address:      Melbourne
+address:      Victoria
+address:      3004
+address:      Australia
+phone:        +61390901700
+fax-no:       +61390901970
+e-mail:       gtldsupport@ariservices.com
+
+nserver:      A.NIC.SYDNEY 2001:dcd:1:0:0:0:0:10 37.209.192.10
+nserver:      B.NIC.SYDNEY 2001:dcd:2:0:0:0:0:10 37.209.194.10
+nserver:      C.NIC.SYDNEY 2001:dcd:3:0:0:0:0:10 37.209.196.10
+nserver:      D.NIC.SYDNEY 2001:dcd:4:0:0:0:0:10 37.209.198.10
+ds-rdata:     32809 8 1 21A022F6AE5B94AFC1963B9A861C5264BB6AEC64
+ds-rdata:     32809 8 2 84DC52A3235FBC206A86B54AD9755E3CBD9A62CB1F049692DE9A31AD05A10EF2
+
+whois:        whois.nic.sydney
+
+status:       ACTIVE
+remarks:      Registration information:
+remarks:      http://www.ariservices.com/dotsydney
+
+created:      2014-10-30
+changed:      2014-11-05
+source:       IANA
+
