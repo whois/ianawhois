@@ -1,0 +1,46 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       BLOOMBERG
+
+organisation: Bloomberg IP Holdings LLC
+address:      25 E. 78th Street
+address:      New York, New York  10075
+address:      United States
+
+contact:      administrative
+name:         William Ried
+organisation: Bloomberg IP Holdings LLC
+address:      731 Lexington Avenue
+address:      New York, New York  10022
+address:      United States
+phone:        212-617-0765
+fax-no:       917-522-2600
+e-mail:       ried@bloomberg.net
+
+contact:      technical
+name:         William Ried
+organisation: Bloomberg IP Holdings LLC
+address:      731 Lexington Avenue
+address:      New York, New York  10022
+address:      United States
+phone:        212-617-0765
+fax-no:       917-522-2600
+e-mail:       ried@bloomberg.net
+
+nserver:      A5.NSTLD.COM 192.5.6.34
+nserver:      C5.NSTLD.COM 192.26.92.34
+nserver:      D5.NSTLD.COM 192.31.80.34
+nserver:      F5.NSTLD.COM 192.35.51.34 2001:503:d414:0:0:0:2:34
+nserver:      G5.NSTLD.COM 192.42.93.34
+nserver:      H5.NSTLD.COM 192.54.112.34 2001:502:08cc:0:0:0:2:34
+nserver:      L5.NSTLD.COM 192.41.162.34
+ds-rdata:     46338 8 2 98A66BE30959371E15EAF5D4A65ADA3393050610A2E5B7AE321B694C876258C9
+
+status:       ACTIVE
+
+created:      2014-10-16
+changed:      2014-11-05
+source:       IANA
+
