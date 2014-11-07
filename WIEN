@@ -30,8 +30,7 @@ fax-no:       +43 662 234548 29
 e-mail:       iana@tld-box.at
 
 nserver:      A.DNS.NIC.WIEN 194.0.25.15 2001:678:20:0:0:0:0:15
-nserver:      B.DNS.NIC.WIEN 193.170.61.4 2001:62a:a:2000:0:0:0:4
-nserver:      C.DNS.NIC.WIEN 193.170.187.4 2001:62a:a:3000:0:0:0:4
+nserver:      M.DNS.NIC.WIEN 194.0.26.4 2001:67c:10e0:0:0:0:0:4
 ds-rdata:     23090 8 1 955DD806C0A98C7D91296E8C75A1EC636B1A3DD7
 ds-rdata:     23090 8 2 6A4B8394B41753028F4D627E86CF80EF6DE63FD48447A92E3B46854B9489798F
 ds-rdata:     14212 8 1 c13133146394c4d51f5821a57df7714c7758b354
@@ -43,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.wien
 
 created:      2013-12-19
-changed:      2014-09-20
+changed:      2014-11-07
 source:       IANA
 
