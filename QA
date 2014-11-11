@@ -4,28 +4,33 @@
 
 domain:       QA
 
-organisation: The Supreme Council of Information and Communication Technology (ictQATAR)
-address:      Al Nasr Tower B., 18th Floor, Corniche Road
+organisation: Communications Regulatory Authority
+address:      Al Nasr Tower B., 19th Floor
+address:      Corniche Road
 address:      Doha  23264
 address:      Qatar
 
 contact:      administrative
 name:         Saleh Al-Kuwari
-organisation: The Supreme Council of Information and Communication Technology (ictQATAR)
-address:      Al Nasr Tower B., 18th Floor, Corniche Road
+organisation: Communications Regulatory Authority
+address:      Al Nasr Tower B.
+address:      19th Floor
+address:      Corniche Road
 address:      Doha  23264
 address:      Qatar
 phone:        +9744995344
-e-mail:       salkuwari@ict.gov.qa
+e-mail:       salkuwari@cra.gov.qa
 
 contact:      technical
 name:         Mohamed El Bashir
-organisation: The Supreme Council of Information and Communication Technology (ictQATAR)
-address:      Al Nasr Tower B., 18th Floor, Corniche Road
+organisation: Communications Regulatory Authority
+address:      Al Nasr Tower B.
+address:      19th Floor
+address:      Corniche Road
 address:      Doha  23264
 address:      Qatar
 phone:        +9744995427
-e-mail:       mbashir@ict.gov.qa
+e-mail:       mbashir@cra.gov.qa
 
 nserver:      A.REGISTRY.QA 178.23.16.104
 nserver:      B.REGISTRY.QA 178.23.17.104
@@ -45,6 +50,6 @@ status:       ACTIVE
 remarks:      Registration information: http://domains.qa
 
 created:      1996-06-12
-changed:      2013-07-09
+changed:      2014-11-11
 source:       IANA
 
