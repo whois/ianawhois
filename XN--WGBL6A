@@ -5,7 +5,7 @@
 domain:       قطر
 domain-ace:   XN--WGBL6A
 
-organisation: Supreme Council for Communications and Information Technology (ictQATAR)
+organisation: Communications Regulatory Authority
 address:      Al Nasr Tower B.
 address:      Corniche Road
 address:      Doha  23264
@@ -13,25 +13,25 @@ address:      Qatar
 
 contact:      administrative
 name:         Saleh Al-Kuwari
-organisation: Supreme Council for Communications and Information Technology (ictQATAR)
+organisation: Communications Regulatory Authority
 address:      Al Nasr Tower B.
 address:      Corniche Road
 address:      Doha  23264
 address:      Qatar
 phone:        +974 44995344
 fax-no:       +974 44830630
-e-mail:       salkuwari@ict.gov.qa
+e-mail:       salkuwari@cra.gov.qa
 
 contact:      technical
 name:         Mohamed El Bashir
-organisation: Supreme Council for Communications and Information Technology (ictQATAR)
+organisation: Communications Regulatory Authority
 address:      Al Nasr Tower B.
 address:      Corniche Road
 address:      Doha  23264
 address:      Qatar
 phone:        +974 44995427
 fax-no:       +974 44830630
-e-mail:       mbashir@ict.gov.qa
+e-mail:       mbashir@cra.gov.qa
 
 nserver:      A.REGISTRY.QA 178.23.16.104
 nserver:      B.REGISTRY.QA 178.23.17.104
@@ -51,6 +51,6 @@ status:       ACTIVE
 remarks:      Registration information: http://domains.qa
 
 created:      2010-12-24
-changed:      2012-07-12
+changed:      2014-11-11
 source:       IANA
 
