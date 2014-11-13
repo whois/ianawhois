@@ -11,23 +11,20 @@ address:      Nauru
 
 contact:      administrative
 name:         Criden Appi
-organisation: CENPAC NET
+organisation: Government of the Republic of Nauru
 address:      Civic Centre
 address:      Aiwo District
 address:      Nauru
 phone:        +674 5573086
-fax-no:       +674 444 3111
-e-mail:       cappi@cenpac.net.nr
+e-mail:       criden.appi@naurugov.nr
 
 contact:      technical
-name:         Mr. Rudolph Garoa
-organisation: CENPAC NET
-address:      Civic Centre
-address:      Aiwo District
+name:         Director for ICT
+organisation: Government of the Republic of Nauru
+address:      Yaren District
 address:      Nauru
-phone:        +674 5575000
-fax-no:       +674 444 3111
-e-mail:       technician@cenpac.net.nr
+phone:        +674 5573233
+e-mail:       management@cenpac.net.nr
 
 nserver:      DNS1.CENPAC.NET.NR 203.98.225.9
 nserver:      NRWEB.CENPAC.NET.NR 203.98.224.66
@@ -38,6 +35,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.cenpac.net.nr
 
 created:      1998-03-30
-changed:      2012-01-12
+changed:      2014-11-12
 source:       IANA
 
