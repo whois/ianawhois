@@ -32,6 +32,7 @@ e-mail:       tari.tchien@tvl.net.vu
 nserver:      CCTLD-VU.ORANGE.MU 196.192.110.15
 nserver:      EFATE.VANUATU.COM.VU 202.80.32.5
 nserver:      FUTUNA.VANUATU.COM.VU 202.80.32.3
+nserver:      NS1-CCTLD.VUNIC.VU 202.80.32.9
 nserver:      SANTO.VANUATU.COM.VU 202.80.32.7
 
 whois:        vunic.vu
@@ -40,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.vunic.vu
 
 created:      1995-04-10
-changed:      2014-01-22
+changed:      2014-11-17
 source:       IANA
 
