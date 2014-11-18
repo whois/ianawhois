@@ -30,8 +30,7 @@ fax-no:       +43 662 234548 29
 e-mail:       iana@tld-box.at
 
 nserver:      A.DNS.NIC.VOTING 194.0.25.17 2001:678:20:0:0:0:0:17
-nserver:      B.DNS.NIC.VOTING 193.170.61.6 2001:62a:a:2000:0:0:0:6
-nserver:      C.DNS.NIC.VOTING 193.170.187.6 2001:62a:a:3000:0:0:0:6
+nserver:      M.DNS.NIC.VOTING 194.0.26.6 2001:67c:10e0:0:0:0:0:6
 ds-rdata:     22301 8 1 916f42c6ce97c6cff9d0545167e2203a179667c2
 ds-rdata:     22301 8 2 e505e22bd2dca54354c9ea9b0f09d4972390c9dcc6f342d9438d47f347a03b7d
 ds-rdata:     20851 8 1 d11fcea2cd0a249908552dc274b7e5385596aec9
@@ -43,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.voting
 
 created:      2014-01-16
-changed:      2014-02-14
+changed:      2014-11-18
 source:       IANA
 
