@@ -32,8 +32,7 @@ fax-no:       +43 662 234548 29
 e-mail:       iana@tld-box.at
 
 nserver:      A.DNS.NIC.VERSICHERUNG 194.0.25.13 2001:678:20:0:0:0:0:13
-nserver:      B.DNS.NIC.VERSICHERUNG 193.170.61.2 2001:62a:a:2000:0:0:0:2
-nserver:      C.DNS.NIC.VERSICHERUNG 193.170.187.2 2001:62a:a:3000:0:0:0:2
+nserver:      M.DNS.NIC.VERSICHERUNG 194.0.26.2 2001:67c:10e0:0:0:0:0:2
 ds-rdata:     59426 8 1 3a7e0ff95b77ea99cb3266ccd0e0dc9b743afa33
 ds-rdata:     59426 8 2 06b1e7b1c37254047a043fa877fb7bff88761d50b4e51eee063eec7b142418b9
 ds-rdata:     25180 8 2 991da886cbc5da51f9136265e30c731206af9aeb5db5dd309744821ee8e38eca
@@ -45,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.versicherung
 
 created:      2014-05-15
-changed:      2014-07-14
+changed:      2014-11-17
 source:       IANA
 
