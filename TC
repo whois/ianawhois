@@ -22,28 +22,30 @@ fax-no:       649-9461119
 e-mail:       johnwilliams@tcitelecommission.tc
 
 contact:      technical
-name:         Registrar
-organisation: TLD A.S.
-address:      Gokturk Cad. No 2 D4
-address:      Gokturk - Eyup - Istanbul
+name:         Ali Yilmaz
+organisation: NIC TC Internet Hizmetleri A.S.
+address:      Hüseyin Yılmaz Cad. 67 D Blok - 207
+address:      20070 DENİZLİ
 address:      Turkey
-phone:        +90 212 216 44 45
-fax-no:       +90 212 216 44 50
-e-mail:       iana@dreamtec.de
+phone:        +90 850 8850888
+fax-no:       +90 850 8850804
+e-mail:       tech@nic.tc
 
-nserver:      NORTHAMERICA.ZONE.TC 166.78.254.145
 nserver:      ROOT1.ZONE.TC 31.169.81.225
 nserver:      ROOT2.ZONE.TC 77.79.104.226
 nserver:      ROOT3.ZONE.TC 77.79.104.225
 nserver:      ROOT4.ZONE.TC 31.169.81.226
-nserver:      ROOT5.ZONE.TC 95.173.188.6
+nserver:      ROOT5.ZONE.TC 2a03:2100:0:100:0:0:0:5 95.173.188.6
+nserver:      ROOT6.ZONE.TC 166.78.254.145 2001:4801:7819:74:a322:3632:ff10:3e2f
+nserver:      ROOT7.ZONE.TC 119.9.93.69 2401:1800:7800:102:ab3b:e6a7:859f:a6c7
+nserver:      ROOT8.ZONE.TC 162.13.87.182 2a00:1a48:7806:115:d994:9fe:9eb2:e68d
 
-whois:        whois.meridiantld.net
+whois:        whois.nic.tc
 
 status:       ACTIVE
-remarks:      Registration information: http://meridiantld.net
+remarks:      Registration information: HTTPS://WWW.NIC.TC
 
 created:      1997-01-27
-changed:      2014-09-08
+changed:      2014-11-19
 source:       IANA
 
