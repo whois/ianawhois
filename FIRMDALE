@@ -5,9 +5,41 @@
 domain:       FIRMDALE
 
 organisation: Firmdale Holdings Limited
+address:      21 Golden Square
+address:      LONDON W1F 9JN
+address:      United Kingdom
 
-status:       NEW
+contact:      administrative
+name:         Director of IT
+organisation: Firmdale Hotels
+address:      21 Golden Square
+address:      London W1F 9JN
+address:      United Kingdom
+phone:        +442072256318
+fax-no:       +442075461029
+e-mail:       markread@firmdale.com
+
+contact:      technical
+name:         Kent Lee
+organisation: Qinetics Solutions Sdn Bhd
+address:      Lot 2-2, Incubator 1,
+address:      Technology Park Malaysia,
+address:      57000 Bukit Jalil,
+address:      Kuala Lumpur
+address:      Malaysia
+phone:        +60389966788 ext 228
+fax-no:       +60389968788
+e-mail:       kent.lee@registryasp.com
+
+nserver:      NS1.NIC.FIRMDALE 2620:171:a03:ad:0:0:0:1 72.0.51.1
+nserver:      NS2.NIC.FIRMDALE 2620:171:d03:dc:0:0:0:1 72.42.115.1
+ds-rdata:     46150 8 1 242c19944d9422f066f20d3686225c2370d150d0
+
+whois:        whois.nic.firmdale
+
+status:       ACTIVE
 
 created:      2014-09-04
+changed:      2014-11-20
 source:       IANA
 
