@@ -1,0 +1,52 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       LDS
+
+organisation: IRI Domain Management, LLC
+address:      50 E. North Temple Street, Floor 13
+address:      Salt Lake City
+address:      UT
+address:      84150-0018
+address:      United States
+
+contact:      administrative
+name:         R. Shawn Gunnarson
+organisation: Kirton McConkie
+address:      50 East South Temple, Suite 400
+address:      Salt Lake City
+address:      UT
+address:      84111
+address:      United States
+phone:        +1.801.323.5907
+fax-no:       +1.801.212.2089
+e-mail:       sgunnarson@kmclaw.com
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      Building 3, Suite 105
+address:      300 Welsh Road
+address:      Horsham, PA 19044
+address:      United States
+phone:        +1 215.706.5700
+fax-no:       +1 215.706.5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.LDS 2a01:8840:96:0:0:0:0:9 65.22.152.9
+nserver:      A2.NIC.LDS 2a01:8840:99:0:0:0:0:9 65.22.155.9
+nserver:      B0.NIC.LDS 2a01:8840:97:0:0:0:0:9 65.22.153.9
+nserver:      C0.NIC.LDS 2a01:8840:98:0:0:0:0:9 65.22.154.9
+ds-rdata:     934 7 1 b24b8b815c37c6448c2603f4d9ae6301c3a817b2
+ds-rdata:     934 7 2 be4afc3acfd9c657f3d3bd3eed892ee356e17fcb5df287e3755797eb66b28c21
+
+whois:        whois.afilias-srs.net
+
+status:       ACTIVE
+remarks:      Registration information: https://www.lds.org
+
+created:      2014-10-16
+changed:      2014-11-19
+source:       IANA
+
