@@ -5,31 +5,31 @@
 domain:       GH
 
 organisation: Network Computer Systems Limited
-address:      7 Sixth Avenue, Ridge
-address:      Private Mail Bag - Osu
+address:      16 Boundary Road, East Legon
+address:      PMB CT 358
 address:      Accra
 address:      Ghana
 
 contact:      administrative
 name:         Executive Chairman
 organisation: Network Computer Systems Limited
-address:      7 Sixth Avenue, Ridge
-address:      Private Mail Bag - Osu
+address:      16 Boundary Road, East Legon
+address:      PMB CT 358
 address:      Accra
 address:      Ghana
-phone:        +233302220622
-fax-no:       +233302762173
+phone:        +233289518437
+fax-no:       +233302521696
 e-mail:       quaynor@ghana.com
 
 contact:      technical
 name:         CTO
-organisation: Network Computer Systems
-address:      7 Sixth Avenue, Ridge
-address:      Private Mail Bag - Osu
+organisation: Network Computer Systems Limited
+address:      16 Boundary Road, East Legon
+address:      PMB CT 358
 address:      Accra
 address:      Ghana
-phone:        +233302220622
-fax-no:       +233302762173
+phone:        +233289518437
+fax-no:       +233302521696
 e-mail:       tevie@ghana.com
 
 nserver:      AUSTIN.GH.COM 196.3.64.1
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.ghana.com.gh/
 
 created:      1995-01-19
-changed:      2011-05-30
+changed:      2014-11-23
 source:       IANA
 
