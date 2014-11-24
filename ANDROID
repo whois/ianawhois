@@ -13,8 +13,8 @@ name:         Sarah Falvey
 organisation: Google Inc
 address:      25 Massachusetts Avenue N.W., 9th Floor, Washington, D.C. 20001, United States
 address:      United States
-phone:        202.346.1230
-fax-no:       202.346.1101
+phone:        1 202 346 1230
+fax-no:       1 202 346 1101
 e-mail:       tas-contact10@google.com
 
 contact:      technical
@@ -22,8 +22,8 @@ name:         Seth Goldman
 organisation: Google Inc
 address:      76 Ninth Avenue, 4th Floor, New York, NY 10011, US
 address:      United States
-phone:        650.253.2181
-fax-no:       212.565.0001
+phone:        1 650 253 2181
+fax-no:       1 212 565 0001
 e-mail:       crr-tech@google.com
 
 nserver:      NS-TLD1.CHARLESTONROADREGISTRY.COM 2001:4860:4802:32:0:0:0:69 216.239.32.105
@@ -40,6 +40,6 @@ remarks:      Registration information:
 remarks:      http://www.charlestonroadregistry.com
 
 created:      2014-10-30
-changed:      2014-11-12
+changed:      2014-11-24
 source:       IANA
 
