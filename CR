@@ -32,7 +32,6 @@ fax-no:       +506 2280.5261
 e-mail:       moviedo@nic.cr
 
 nserver:      A.NS.CR 200.107.82.100 2001:13c7:7004:1:0:0:0:d100
-nserver:      B.NS.CR 198.57.204.98
 nserver:      C.NS.CR 193.0.9.69
 nserver:      D.NS.CR 38.103.2.3
 nserver:      E.NS.CR 2001:470:1a:0:0:0:0:3 72.52.71.3
@@ -40,13 +39,12 @@ nserver:      F.NS.CR 2001:5a0:10:0:0:0:0:3 63.243.194.3
 nserver:      NS-EXT.NIC.CL 200.1.123.14
 nserver:      NS3.NIC.MX 200.33.111.1
 nserver:      P.NIC.CR 2001:500:14:6089:ad:0:0:1 204.61.216.89
-ds-rdata:     29890 8 2 0DD32D91CBBBA6890E1AF399519A7AD3646EDF238C7FBFB8C5B500165FBB9299
 ds-rdata:     60049 8 2 87E10365784884D7C7A09ED7DC0FCC1CB3406154017F80D55876F311245FAA2D
 
 status:       ACTIVE
 remarks:      Registration information: http://www.nic.cr/
 
 created:      1990-09-10
-changed:      2014-11-15
+changed:      2014-11-26
 source:       IANA
 
