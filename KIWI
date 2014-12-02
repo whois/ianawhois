@@ -27,6 +27,8 @@ e-mail:       support@mm-registry.com
 
 nserver:      A.NS.NIC.KIWI 2620:0171:0a02:00ad:0:0:0:4 72.0.50.4
 nserver:      B.NS.NIC.KIWI 2620:0171:0d02:00dc:0:0:0:4 72.42.114.4
+nserver:      C.NS.NIC.KIWI 2620:0171:0c00:000c:0:0:0:4 70.40.0.4
+nserver:      D.NS.NIC.KIWI 2620:0171:0f00:000d:0:0:0:4 70.40.8.4
 ds-rdata:     5786 8 2 ADFED621AFE74743D01AF9CD0F380F4F95EF756080321CD541A1D6B31B3FDD30
 
 whois:        whois.nic.kiwi
@@ -35,6 +37,6 @@ status:       ACTIVE
 remarks:      Registration information: http://hello.kiwi
 
 created:      2013-11-25
-changed:      2014-08-21
+changed:      2014-12-01
 source:       IANA
 
