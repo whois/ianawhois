@@ -26,6 +26,8 @@ e-mail:       support@mm-registry.com
 
 nserver:      A.NS.NIC.GOP 2620:0171:0a02:00ad:0:0:0:19 72.0.50.19
 nserver:      B.NS.NIC.GOP 2620:0171:0d02:00dc:0:0:0:19 72.42.114.19
+nserver:      C.NS.NIC.GOP 2620:0171:0c00:000c:0:0:0:19 70.40.0.19
+nserver:      D.NS.NIC.GOP 2620:0171:0f00:000d:0:0:0:19 70.40.8.19
 ds-rdata:     3380 8 2 1A7111EAD180BD47D1A86E35D8B3A3936691C4DD2C4B7AFA39ACE1BF0A7BDB8A
 
 whois:        whois-cl01.mm-registry.com
@@ -33,6 +35,6 @@ whois:        whois-cl01.mm-registry.com
 status:       ACTIVE
 
 created:      2014-03-06
-changed:      2014-04-04
+changed:      2014-12-01
 source:       IANA
 
