@@ -1,0 +1,48 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       LATROBE
+
+organisation: La Trobe University
+address:      Bundoora
+address:      Melbourne
+address:      VIC 3086
+address:      Australia
+
+contact:      administrative
+name:         David Hird
+organisation: La Trobe University
+address:      La Trobe University
+address:      Bundoora
+address:      VIC 3086
+address:      Australia
+phone:        +61394796684 
+fax-no:       +61394791991
+e-mail:       ngtlds-registry@cscinfo.com
+
+contact:      technical
+name:         Dennis Rhee
+organisation: CSC Digital Brand Services
+address:      2711 Centerville Rd. suite 400
+address:      United States
+phone:        +1.3026365400
+fax-no:       +1.3026365454
+e-mail:       ngtlds-tech@cscinfo.com
+
+nserver:      A.NIC.LATROBE 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.LATROBE 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.LATROBE 2001:dcd:3:0:0:0:0:9 37.209.196.9
+nserver:      D.NIC.LATROBE 2001:dcd:4:0:0:0:0:9 37.209.198.9
+ds-rdata:     14197 8 1 B90ACFBEF7F035E78CD44F9968F6E16D2905B573
+ds-rdata:     14197 8 2 B4421C6E655E985E7FB1E4E53203006AF2AB5179790697A244653089489C1C50
+
+whois:        whois.nic.latrobe
+
+status:       ACTIVE
+remarks:      Registration information: http://www.latrobe.edu.au
+
+created:      2014-11-06
+changed:      2014-12-02
+source:       IANA
+
