@@ -1,0 +1,47 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       AQUARELLE
+
+organisation: Aquarelle.com
+address:      118 rue de Tocqueville
+address:      75017 Paris
+address:      France
+
+contact:      administrative
+name:         CTO
+organisation: Aquarelle.com
+address:      118 rue de Tocqueville
+address:      75017 Paris
+address:      France
+phone:        +33 140541010
+fax-no:       +33 140541064
+e-mail:       naubin@universalflower.com
+
+contact:      technical
+name:         Project Manager
+organisation: AFNIC
+address:      1 rue Stephenson
+address:      Immeuble Stephenson
+address:      78180 Montigny-Le-Bretonneux
+address:      France
+phone:        +33 672217740
+fax-no:       +33 139308301
+e-mail:       pocaquarelle@afnic.fr
+
+nserver:      D.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
+nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
+nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
+ds-rdata:     44905 8 2 d86883522ab60de530b54be771e4429139139ae1e34ca84e3695827d25e16f0b
+ds-rdata:     7505 8 2 9a94880b7ca5ae5e4181ea15cacfd481f3b59aebefd36eb0653965e23e1352cd
+
+whois:        whois-aquarelle.nic.fr
+
+status:       ACTIVE
+remarks:      Registration information: http://www.aquarelle.com
+
+created:      2014-11-06
+changed:      2014-12-02
+source:       IANA
+
