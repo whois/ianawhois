@@ -1,0 +1,47 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       IRISH
+
+organisation: Dot-Irish LLC
+address:      21700 Oxnard St. Suite 400
+address:      Woodland Hills CA 91367
+address:      United States
+
+contact:      administrative
+name:         Chief Operating Officer
+organisation: Dot Irish Global Connect Ltd.
+address:      Suite 221, Arena House, Sandyford Business Park,
+address:      Dublin 18
+address:      Ireland
+phone:        +353 1 213 0600
+fax-no:       +353 1 213 0515
+e-mail:       mervyn@dotirishllc.com
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      Building 3, Suite 105 300 Welsh Road
+address:      Horsham, PA 19044
+address:      United States
+phone:        +1 215 706 5700
+fax-no:       +1 215 706 5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.IRISH 2a01:8840:be:0:0:0:0:17 65.22.196.17
+nserver:      A2.NIC.IRISH 2a01:8840:c1:0:0:0:0:17 65.22.199.17
+nserver:      B0.NIC.IRISH 2a01:8840:bf:0:0:0:0:17 65.22.197.17
+nserver:      C0.NIC.IRISH 2a01:8840:c0:0:0:0:0:17 65.22.198.17
+ds-rdata:     34428 7 1 4a2234f0e16901bb0170e6d32709345804c11836
+ds-rdata:     34428 7 2 d3019432a8f0902b13ff4506f7169a6f6e729a9e676365d74d3b2c7e31003b34
+
+whois:        whois.afilias-srs.net
+
+status:       ACTIVE
+remarks:      Registration information: http://www.dotirish.com
+
+created:      2014-11-06
+changed:      2014-12-02
+source:       IANA
+
