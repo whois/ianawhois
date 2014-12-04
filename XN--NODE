@@ -25,7 +25,7 @@ fax-no:       +995 32 98 89 24
 e-mail:       contact@itdc.ge
 
 contact:      technical
-name:         Technical Lead Administrator
+name:         Konstantine Karosanidze
 organisation: Information Technologies Development Center (ITDC)
 address:      Shalva Nutsubidze Plato
 address:      4th Mico District
@@ -33,8 +33,7 @@ address:      7 Painters Settlement
 address:      Tbilisi 0183
 address:      Georgia
 phone:        +995 32 249 00 49
-fax-no:       +995 32 98 89 24
-e-mail:       admins@itdc.ge
+e-mail:       kotso@itdc.ge
 
 nserver:      A.XN--NODE.GLOBALANYCASTCLOUD.FREENOM.NET 185.21.168.36 2a04:1b00:8:0:0:0:0:4
 nserver:      B.XN--NODE.GLOBALANYCASTCLOUD.FREENOM.NET 185.21.169.36 2a04:1b00:9:0:0:0:0:4
@@ -48,6 +47,6 @@ status:       NEW
 remarks:      Registration information: http://billing.itdc.ge
 
 created:      2011-02-11
-changed:      2014-10-24
+changed:      2014-12-04
 source:       IANA
 
