@@ -6,6 +6,7 @@ domain:       MOV
 
 organisation: Charleston Road Registry Inc.
 address:      1600 Amphitheatre Parkway
+address:      Mountain View, CA 94043
 address:      United States
 
 contact:      administrative
@@ -23,6 +24,7 @@ contact:      technical
 name:         Seth Goldman
 organisation: Google Inc.
 address:      76 9th Avenue, 4th Floor
+address:      New York, NY 10011
 address:      United States
 phone:        +1 650 253 2181
 fax-no:       +1 212 565 0001
@@ -42,6 +44,6 @@ remarks:      Registration information:
 remarks:      http://www.charlestonroadregistry.com
 
 created:      2014-06-12
-changed:      2014-09-02
+changed:      2014-12-04
 source:       IANA
 
