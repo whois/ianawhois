@@ -5,9 +5,47 @@
 domain:       TRUST
 
 organisation: Artemis Internet Inc
+address:      123 Mission Street #900
+address:      San Francisco
+address:      CA 94105
+address:      United States
 
-status:       NEW
+contact:      administrative
+name:         Jean-Christophe Vignes
+organisation: Artemis Internet Inc
+address:      123 Mission Street #900
+address:      San Francisco
+address:      CA 94105
+address:      United States
+phone:        +18556841212
+fax-no:       +16506369462
+e-mail:       icanntrust@nccgroup.com
+
+contact:      technical
+name:         Kyle Rankin
+organisation: Artemis Internet Inc
+address:      123 Mission Street #900
+address:      San Francisco
+address:      CA 94105
+address:      United States
+phone:        +18556841212
+fax-no:       +16506369462
+e-mail:       icanntrust@nccgroup.com
+
+nserver:      A.NIC.TRUST 2001:dcd:1:0:0:0:0:10 37.209.192.10
+nserver:      B.NIC.TRUST 2001:dcd:2:0:0:0:0:10 37.209.194.10
+nserver:      C.NIC.TRUST 2001:dcd:3:0:0:0:0:10 37.209.196.10
+nserver:      D.NIC.TRUST 2001:dcd:4:0:0:0:0:10 37.209.198.10
+ds-rdata:     40726 8 1 55ED0FE365EAE7E30004258A492DD4494B821E65
+ds-rdata:     40726 8 2 788057610FACD85888BFC0B942FE0EA3B828B628177F584411C35E2737558010
+
+whois:        whois.nic.trust
+
+status:       ACTIVE
+remarks:      Registration information:
+remarks:      https://nccgroupdomainservices.com
 
 created:      2014-11-26
+changed:      2014-12-08
 source:       IANA
 
