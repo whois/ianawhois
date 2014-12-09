@@ -33,14 +33,16 @@ phone:        +353 1 236 5421
 fax-no:       +353 1 230 1273
 e-mail:       tld-tech@iedr.ie
 
-nserver:      A.IEDR.IE 2a01:4b0:0:0:0:0:0:3 77.72.72.44
-nserver:      B.IEDR.IE 2a01:4b0:0:0:0:0:0:2 77.72.72.34
-nserver:      C.IEDR.IE 194.146.106.98
-nserver:      D.IEDR.IE 77.72.229.245
+nserver:      A.NS.IE 2a01:4b0:0:0:0:0:0:3 77.72.72.44
+nserver:      B.NS.IE 2a01:4b0:0:0:0:0:0:2 77.72.72.34
+nserver:      C.NS.IE 194.146.106.98 2001:67c:1010:25:0:0:0:53
+nserver:      D.NS.IE 2a01:3f0:0:309:0:0:0:53 77.72.229.245
+nserver:      E.NS.IE 199.19.2.1 2001:500:93:0:0:0:0:1
+nserver:      F.NS.IE 199.19.3.1 2001:500:95:0:0:0:0:1
+nserver:      G.NS.IE 192.111.39.100 2001:7c8:2:a:0:0:0:64
 nserver:      GNS1.DOMAINREGISTRY.IE 198.133.199.102
 nserver:      GNS2.DOMAINREGISTRY.IE 198.133.199.103
-nserver:      NS-IE.NIC.FR 192.93.0.4
-nserver:      NS3.NS.ESAT.NET 192.111.39.100 2001:7c8:2:a:0:0:0:64
+nserver:      H.NS.IE 192.93.0.4 2001:660:3005:1:0:0:1:2
 ds-rdata:     25105 8 2 3883d06014fa40518a53c70442c3601a271c0f9631ea1426abe4148f83930732
 
 whois:        whois.domainregistry.ie
@@ -49,6 +51,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.domainregistry.ie
 
 created:      1988-01-27
-changed:      2014-11-05
+changed:      2014-12-09
 source:       IANA
 
