@@ -29,7 +29,6 @@ phone:        +385 1 66 61 616
 fax-no:       +385 1 66 61 615
 e-mail:       hostmaster@carnet.hr
 
-nserver:      DNS-HR.UNIVIE.AC.AT 2001:628:453:bb:0:0:0:7 78.104.145.7
 nserver:      HR-NS-1.CARNET.HR 161.53.160.100 2001:b68:ff:1:0:0:0:100
 nserver:      PCH.CARNET.HR 2001:500:14:6090:ad:0:0:1 204.61.216.90
 nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e:0:0:0:0:1
@@ -42,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.dns.hr
 
 created:      1993-02-27
-changed:      2014-10-24
+changed:      2014-12-09
 source:       IANA
 
