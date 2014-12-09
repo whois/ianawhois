@@ -5,9 +5,37 @@
 domain:       FASHION
 
 organisation: Top Level Domain Holdings Limited
+address:      Craigmuir Chambers, Road Town Tortola VG 1110
+address:      Virgin Islands, British
 
-status:       NEW
+contact:      administrative
+name:         Admin Contact
+organisation: Minds + Machines Ltd
+address:      32 Nassau St, Dublin 2
+address:      Ireland
+phone:        +353.14301689
+e-mail:       support@mm-registry.com
+
+contact:      technical
+name:         Director of Software Development
+organisation: Minds + Machines Ltd
+address:      32 Nassau St, Dublin 2
+address:      Ireland
+phone:        +353.14301689
+e-mail:       support@mm-registry.com
+
+nserver:      A.NS.NIC.FASHION 2620:0171:0a02:00ad:0:0:0:28 72.0.50.28
+nserver:      B.NS.NIC.FASHION 2620:0171:0d02:00dc:0:0:0:28 72.42.114.28
+nserver:      C.NS.NIC.FASHION 2620:0171:0c00:000c:0:0:0:28 70.40.0.28
+nserver:      D.NS.NIC.FASHION 2620:0171:0f00:000d:0:0:0:28 70.40.8.28
+ds-rdata:     40490 8 2 871B59E1DCDD05CE9CF33D3B153564A8FA88FC9E6779A1E69AA6A81621FE5B8E
+
+whois:        whois-dub.mm-registry.com
+
+status:       ACTIVE
+remarks:      Registration information: http://mm-registry.com
 
 created:      2014-10-23
+changed:      2014-12-08
 source:       IANA
 
