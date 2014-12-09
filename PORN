@@ -5,9 +5,45 @@
 domain:       PORN
 
 organisation: ICM Registry PN LLC
+address:      P.O. Box 30129
+address:      Palm Beach Gardens FL 33420
+address:      United States
 
-status:       NEW
+contact:      administrative
+name:         General Counsel
+organisation: ICM Registry PN LLC
+address:      P.O. Box 30129
+address:      Palm Beach Gardens FL 33420
+address:      United States
+phone:        +1 877 809 3182
+fax-no:       +1 877 809 3183
+e-mail:       legal@icmregistry.com
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      Building 3, Suite 105 300 Welsh Road
+address:      Horsham, PA 19044
+address:      United States
+phone:        +1 215 706 5700
+fax-no:       +1 215 706 5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.PORN 199.115.152.1 2001:500:a0:0:0:0:0:1
+nserver:      A2.NIC.PORN 199.115.156.1 2001:500:a4:0:0:0:0:1
+nserver:      B0.NIC.PORN 199.115.153.1 2001:500:a1:0:0:0:0:1
+nserver:      B2.NIC.PORN 199.115.157.1 2001:500:a5:0:0:0:0:1
+nserver:      C0.NIC.PORN 199.115.154.1 2001:500:a2:0:0:0:0:1
+nserver:      D0.NIC.PORN 199.115.155.1 2001:500:a3:0:0:0:0:1
+ds-rdata:     59953 7 1 3e82eb87282065a1d28f29c3e53c86566d0f9de7
+ds-rdata:     59953 7 2 daeee0a9c1ea6fde419df7c24ddd151c3c679db50245f5deb6caee78b29d7994
+
+whois:        whois.afilias-srs.net
+
+status:       ACTIVE
+remarks:      Registration information: http://icmregistry.com
 
 created:      2014-11-26
+changed:      2014-12-08
 source:       IANA
 
