@@ -5,9 +5,39 @@
 domain:       SCHWARZ
 
 organisation: Schwarz Domains und Services GmbH & Co. KG
+address:      Stiftsbergstraße 1
+address:      74172 Neckarsulm
+address:      Germany
 
-status:       NEW
+contact:      administrative
+name:         Stefan Pleyer
+organisation: Schwarz Dienstleistung KG
+address:      Stiftsbergstraße 1
+address:      74172 Neckarsulm
+address:      Germany
+phone:        +49 7132 / 30-7314
+fax-no:       +49 7132 / 30-799009
+e-mail:       gtld@sbg.de
+
+contact:      technical
+name:         Stefan Pleyer
+organisation: Schwarz Dienstleistung KG
+address:      Stiftsbergstraße 1
+address:      74172 Neckarsulm
+address:      Germany
+phone:        +49 7132 / 30-7314
+fax-no:       +49 7132 / 30-799009
+e-mail:       gtld@sbg.de
+
+nserver:      A.NS.NIC.SCHWARZ 2a02:2790:1:53:0:0:6:1 89.207.190.19
+nserver:      C.NS.NIC.SCHWARZ 54.75.243.181
+nserver:      X.NS.NIC.SCHWARZ 195.253.64.4 2a01:5b0:4:0:0:0:0:4
+nserver:      Y.NS.NIC.SCHWARZ 195.253.64.7 2a01:5b0:4:0:0:0:0:7
+ds-rdata:     47349 7 1 96D2AE596E2D9525C309C0E69714AE8ED377D5EE
+
+status:       ACTIVE
 
 created:      2014-12-04
+changed:      2014-12-15
 source:       IANA
 
