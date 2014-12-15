@@ -5,9 +5,37 @@
 domain:       GARDEN
 
 organisation: Top Level Domain Holdings Limited
+address:      Craigmuir Chambers, Road Town Tortola VG 1110
+address:      Virgin Islands, British
 
-status:       NEW
+contact:      administrative
+name:         Admin Contact
+organisation: Minds + Machines Ltd
+address:      32 Nassau St, Dublin 2
+address:      Ireland
+phone:        +353.14301689
+e-mail:       support@mm-registry.com
+
+contact:      technical
+name:         Director of Software Development
+organisation: Minds + Machines Ltd
+address:      32 Nassau St, Dublin 2
+address:      Ireland
+phone:        +353.14301689
+e-mail:       support@mm-registry.com
+
+nserver:      A.NS.NIC.GARDEN 2620:0171:0a02:00ad:0:0:0:26 72.0.50.26
+nserver:      B.NS.NIC.GARDEN 2620:0171:0d02:00dc:0:0:0:26 72.42.114.26
+nserver:      C.NS.NIC.GARDEN 2620:0171:0c00:000c:0:0:0:26 70.40.0.26
+nserver:      D.NS.NIC.GARDEN 2620:0171:0f00:000d:0:0:0:26 70.40.8.26
+ds-rdata:     24334 8 2 35C11CC0924D3244A68A48466DCBC90669A74E2286FBBF1844565524204F4502
+
+whois:        whois-dub.mm-registry.com
+
+status:       ACTIVE
+remarks:      Registration information: http://mm-registry.com
 
 created:      2014-10-23
+changed:      2014-12-15
 source:       IANA
 
