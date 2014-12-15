@@ -5,9 +5,43 @@
 domain:       SEW
 
 organisation: SEW-EURODRIVE GmbH & Co KG
+address:      Ernst-Blickle-Str. 42
+address:      Bruchsal, 76646
+address:      Germany
 
-status:       NEW
+contact:      administrative
+name:         Legal Professional
+organisation: SEW-EURODRIVE GmbH & Co KG
+address:      Ernst-Blickle-Str. 42
+address:      Bruchsal, 76646
+address:      Germany
+phone:        +497251 75 5278
+fax-no:       +49 7251 75 505229
+e-mail:       domains@sew-eurodrive.de
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias Limited
+address:      300 Welsh Rd., Bldg 3, Ste. 105
+address:      Horsham, PA 19044
+address:      United States
+phone:        (215) 706-5700
+fax-no:       (215) 706-7501
+e-mail:       delegation@afilias.info
+
+nserver:      A0.NIC.SEW 2a01:8840:b6:0:0:0:0:25 65.22.188.25
+nserver:      A2.NIC.SEW 2a01:8840:b9:0:0:0:0:25 65.22.191.25
+nserver:      B0.NIC.SEW 2a01:8840:b7:0:0:0:0:25 65.22.189.25
+nserver:      C0.NIC.SEW 2a01:8840:b8:0:0:0:0:25 65.22.190.25
+ds-rdata:     42229 7 1 f7f0c3a6110825a925b433213f69b89af3957504
+ds-rdata:     42229 7 2 7a3dcf7e5c194b9d52a45d55684b72378c9bb397bf24c063ffc37fabb91b7509
+
+whois:        whois.afilias-srs.net
+
+status:       ACTIVE
+remarks:      Registration information: http://www.sew-eurodrive.com/
 
 created:      2014-11-06
+changed:      2014-12-15
 source:       IANA
 
