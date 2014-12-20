@@ -15,27 +15,27 @@ address:      1101 Daerung Post Tower 3, 182-4 Guro 3-Dong Guro-Gu, Seoul
 address:      Korea, Republic Of
 phone:        +82 70 4317 8217
 fax-no:       +82 2 2028 0011
-e-mail:       samsung@yesnic.com
+e-mail:       info@yesnic.com
 
 contact:      technical
-name:         Whois Corp.
+name:         Yujeong Shin
 organisation: Whois Corp.
 address:      1101 Daerung Post Tower 3, 182-4 Guro 3-Dong Guro-Gu, Seoul
 address:      Korea, Republic Of
 phone:        +82 70 4317 8217
 fax-no:       +82 2 2028 0011
-e-mail:       samsung@yesnic.com
+e-mail:       info@yesnic.com
 
 nserver:      E.DNS.KR 2001:dcc:5:0:0:0:0:100 202.30.124.100
 nserver:      G.DNS.KR 2001:dc5:a:0:0:0:0:1 202.31.190.1
 ds-rdata:     58716 7 2 920D4C0F50D51CD1DAA98D1C5E3DCB7A23A13EF345563E859E09B131DD99ADA4
 
-whois:        whois.nic.xn--cg4bki
+whois:        whois.nic.samsung
 
 status:       ACTIVE
 remarks:      Registration information: http://samsungregistry.com
 
 created:      2014-10-30
-changed:      2014-12-10
+changed:      2014-12-19
 source:       IANA
 
