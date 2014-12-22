@@ -38,6 +38,8 @@ nserver:      H-DNS.PL 194.0.1.2 2001:678:4:0:0:0:0:2
 nserver:      I-DNS.PL 156.154.100.15
 ds-rdata:     62851 8 2 1813D250CBEED3FA7FB3A1171C8690FBFC157CC08E0F618CA2BE20D0003DF551
 ds-rdata:     62851 8 1 4EAFBA4D34B9316DC8314A381894AC44F2CA9FBC
+ds-rdata:     52250 8 1 262DDA42728F0437B91FF609123F8F4AE129AB67
+ds-rdata:     52250 8 2 43EDA40F6EC4E512368C829FC4385866071CBEBDAC95407CE06D34E25EB1D977
 
 whois:        whois.dns.pl
 
@@ -45,6 +47,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.dns.pl/english/
 
 created:      1990-07-30
-changed:      2014-10-15
+changed:      2014-12-22
 source:       IANA
 
