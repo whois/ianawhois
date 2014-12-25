@@ -36,10 +36,9 @@ e-mail:       admin-dns@cira.ca
 nserver:      ANY.CA-SERVERS.CA 199.4.144.2 2001:500:a7:0:0:0:0:2
 nserver:      B.CA-SERVERS.CA 2a01:8840:1bb:0:0:0:0:1 65.22.41.1
 nserver:      C.CA-SERVERS.CA 192.228.28.9
+nserver:      D.CA-SERVERS.CA 199.19.4.1 2001:500:97:0:0:0:0:1
 nserver:      E.CA-SERVERS.CA 192.228.30.9
 nserver:      J.CA-SERVERS.CA 198.182.167.1 2001:500:83:0:0:0:0:1
-nserver:      K.CA-SERVERS.CA 156.154.100.4 2001:502:ad09:0:0:0:0:4
-nserver:      L.CA-SERVERS.CA 156.154.101.4 2001:502:2eda:0:0:0:0:4
 ds-rdata:     10207 8 2 7187a87b74fff32a8549a05be7e12f1d8bedd0dea9c3d864095d83bf7c542a8f
 
 whois:        whois.cira.ca
@@ -48,6 +47,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.cira.ca/
 
 created:      1987-05-14
-changed:      2014-12-11
+changed:      2014-12-25
 source:       IANA
 
