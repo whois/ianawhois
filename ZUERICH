@@ -5,9 +5,44 @@
 domain:       ZUERICH
 
 organisation: Kanton Zürich (Canton of Zurich)
+address:      Neumuehlequai 10
+address:      Zurich
+address:      8090 Zurich
+address:      Switzerland
 
-status:       NEW
+contact:      administrative
+name:         Head of Communications
+organisation: Kanton Zürich (Canton of Zurich)
+address:      Neumuehlequai 10
+address:      Zurich
+address:      8090 Zurich
+address:      Switzerland
+phone:        +41.432594939
+fax-no:       +41.432595104
+e-mail:       registry@dotzuerich.ch
+
+contact:      technical
+name:         CTO
+organisation: KSregistry GmbH
+address:      Im Oberen Werk 1
+address:      66386 St. Ingbert
+address:      Germany
+phone:        +49.68949396250
+fax-no:       +49.68949396251
+e-mail:       icann@ksregistry.com
+
+nserver:      NS1A.KSREGISTRY.NET 2001:dd8:7:6075:dc:0:0:1 203.119.88.75
+nserver:      NS1B.KSREGISTRY.NET 2620:0171:0a00:00ad:0:0:0:75 72.0.48.75
+nserver:      NS2A.KSREGISTRY.COM 2001:dd8:7:6076:dc:0:0:1 203.119.88.76
+nserver:      NS2B.KSREGISTRY.COM 2620:0171:0a00:00ad:0:0:0:76 72.0.48.76
+ds-rdata:     9022 8 2 75718a0d46d5faea8382af39af30fd247f388d7daffc186cfd35e1971f86b3ff
+
+whois:        whois.ksregistry.net
+
+status:       ACTIVE
+remarks:      Registration information: http://www.dotzuerich.ch
 
 created:      2014-12-18
+changed:      2014-12-26
 source:       IANA
 
