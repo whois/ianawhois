@@ -5,9 +5,38 @@
 domain:       GGEE
 
 organisation: GMO Internet, Inc.
+address:      Cerulean Tower 26-1 Sakuragaoka-cho, Shibuya-ku, Tokyo 150-8512
+address:      Japan
 
-status:       NEW
+contact:      administrative
+name:         Representive Director
+organisation: GMO Registry, Inc.
+address:      Cerulean Tower 26-1 Sakuragaoka-cho, Shibuya-ku, Tokyo 150-8512
+address:      Japan
+phone:        +81-3-5456-1601
+fax-no:       +81-3-3780-5239
+e-mail:       newgtld@gmoregistry.com
+
+contact:      technical
+name:         Director
+organisation: GMO Registry, Inc.
+address:      Cerulean Tower 26-1 Sakuragaoka-cho, Shibuya-ku, Tokyo 150-8512
+address:      Japan
+phone:        +81-3-5456-1601
+fax-no:       +81-3-3780-5239
+e-mail:       newgtld@gmoregistry.com
+
+nserver:      A.GMOREGISTRY.NET 2001:470:1a:0:0:0:0:9 72.52.71.9
+nserver:      B.GMOREGISTRY.NET 38.103.2.9
+nserver:      C.GMOREGISTRY.NET 2001:5a0:10:0:0:0:0:9 63.243.194.9
+ds-rdata:     37660 8 2 B0D1A197C3B7D3B5435A510A1EB5C19320CAC11C9D4DF43435540E23D34A088B
+
+whois:        whois.nic.gmo
+
+status:       ACTIVE
+remarks:      Registration information: http://www.gmoregistry.com/en/
 
 created:      2014-12-18
+changed:      2014-12-26
 source:       IANA
 
