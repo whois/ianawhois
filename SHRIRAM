@@ -5,9 +5,45 @@
 domain:       SHRIRAM
 
 organisation: Shriram Capital Ltd.
+address:      4th Floor, Mookambika Complex,
+address:      #4 Lady Desika Road, Mylapore,
+address:      Chennai
+address:      Tamil Nadu-600004
+address:      India
 
-status:       NEW
+contact:      administrative
+name:         Business Manager
+organisation: Shriram Capital Ltd
+address:      709, Ansal Bhawan, 7th Floor, 16, K.G. Marg
+address:      New Delhi-110001
+address:      India
+phone:        +91 956 020 7392
+e-mail:       jasminesahni@shriram.com
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      Building 3, Suite 105
+address:      300 Welsh Road
+address:      Horsham, PA 19044
+address:      United States
+phone:        +1 215.706.5700
+fax-no:       +1 215.706.5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.SHRIRAM 2a01:8840:ae:0:0:0:0:41 65.22.180.41
+nserver:      A2.NIC.SHRIRAM 2a01:8840:b1:0:0:0:0:41 65.22.183.41
+nserver:      B0.NIC.SHRIRAM 2a01:8840:af:0:0:0:0:41 65.22.181.41
+nserver:      C0.NIC.SHRIRAM 2a01:8840:b0:0:0:0:0:41 65.22.182.41
+ds-rdata:     18976 7 1 933161dbe06f13f3c69b1b020ec258cae99a1fd3
+ds-rdata:     18976 7 2 8a096d4c9d7885ec8d0f7ae6acda4126aa208edf1d69b93352133cb1cb1901bc
+
+whois:        whois.afilias-srs.net
+
+status:       ACTIVE
+remarks:      Registration information: http://www.shriramcapital.com
 
 created:      2014-12-04
+changed:      2015-01-06
 source:       IANA
 
