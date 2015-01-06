@@ -41,10 +41,12 @@ nserver:      B1.IN.AFILIAS-NST.IN 125.19.40.90 2404:a800:2:1e:0:0:19:90
 nserver:      B2.IN.AFILIAS-NST.ORG 199.249.125.1 2001:500:4d:0:0:0:0:1
 nserver:      C0.CCTLD.AFILIAS-NST.INFO 199.254.61.1 2001:500:27:0:0:0:0:1
 nserver:      D0.CCTLD.AFILIAS-NST.ORG 199.254.62.1 2001:500:28:0:0:0:0:1
+ds-rdata:     64935 7 1 3c07d37cec43f7e5a2db300614ceebcc29ee1b40
+ds-rdata:     64935 7 2 d8a7d4b47e78a2bed6d390658c826c8554ea283562c62f94dae2248ada94a4e7
 
 status:       ACTIVE
 
 created:      2011-02-05
-changed:      2011-02-07
+changed:      2015-01-06
 source:       IANA
 
