@@ -11,13 +11,12 @@ address:      United States
 contact:      administrative
 name:         TLD Manager
 organisation: Google Inc
-address:      25 Massachusetts Ave., N.W.
-address:      9th Floor
-address:      Washington, D.C. 20001
+address:      1600 Amphitheatre Parkway
+address:      Mountain View, CA 94043
 address:      United States
-phone:        2023461230
-fax-no:       202 346 1101
-e-mail:       tas-contact7@google.com
+phone:        1 650 253 4522
+fax-no:       1 650 492 5631
+e-mail:       iana-contact@google.com
 
 contact:      technical
 name:         Seth Goldman
@@ -43,6 +42,6 @@ remarks:      Registration information:
 remarks:      http://www.charlestonroadregistry.com
 
 created:      2014-08-23
-changed:      2014-08-29
+changed:      2015-01-07
 source:       IANA
 
