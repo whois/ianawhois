@@ -11,15 +11,14 @@ address:      Mountain View, CA 94043
 address:      United States
 
 contact:      administrative
-name:         Sarah Falvey
+name:         TLD Manager
 organisation: Google Inc.
-address:      1101 New York Avenue, N.W.
-address:      Second Floor
-address:      Washington, DC 20005
+address:      1600 Amphitheatre Parkway
+address:      Mountain View, CA 94043
 address:      United States
-phone:        202.346.1230
-fax-no:       202.346.1101
-e-mail:       tas-contact8@google.com
+phone:        1 650 253 4522
+fax-no:       1 650 492 5631
+e-mail:       iana-contact@google.com
 
 contact:      technical
 name:         Seth Goldman
@@ -46,6 +45,6 @@ remarks:      Registration information:
 remarks:      http://www.charlestonroadregistry.com/
 
 created:      2013-11-13
-changed:      2013-11-25
+changed:      2015-01-07
 source:       IANA
 
