@@ -7,15 +7,15 @@ domain:       WHOSWHO
 organisation: Who's Who Registry
 address:      #5501, 55 Fl, Central Plaza
 address:      18 Harbour Road
-address:      Wachai
+address:      Wan Chai
 address:      Hong Kong
 
 contact:      administrative
 name:         John McCabe
 organisation: Who's Who Online Ltd.
-address:      Box 800 USA
+address:      Box 800
 address:      New York
-address:      NY
+address:      New York
 address:      10024
 address:      US
 address:      United States
@@ -42,10 +42,12 @@ nserver:      NS6.DNS.NIC.WHOSWHO 156.154.158.180 2610:a1:1076:0:0:0:0:b4
 ds-rdata:     58916 8 1 01F95656C7FCFD4A6FF78CDA9CFE955FCC957C1D
 ds-rdata:     58916 8 2 145BD1D896F63317FD06FBD4D676AB1E4C4050F385ABBEF6766767DA1E606DA1
 
+whois:        whois.nic.whoswho
+
 status:       ACTIVE
-remarks:      Registration information: http://domains.whoswho.com
+remarks:      Registration information: http://domains.whoswho
 
 created:      2014-06-12
-changed:      2014-07-25
+changed:      2015-01-08
 source:       IANA
 
