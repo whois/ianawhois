@@ -1,0 +1,41 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       FIT
+
+organisation: Minds + Machines Group Limited
+address:      Craigmuir Chambers, Road Town Tortola VG 1110
+address:      Virgin Islands, British
+
+contact:      administrative
+name:         Admin Contact
+organisation: Minds + Machines Ltd
+address:      32 Nassau St, Dublin 2
+address:      Ireland
+phone:        +353.14301689
+e-mail:       support@mm-registry.com
+
+contact:      technical
+name:         Director of Software Development
+organisation: Minds + Machines Ltd
+address:      32 Nassau St, Dublin 2
+address:      Ireland
+phone:        +353.14301689
+e-mail:       support@mm-registry.com
+
+nserver:      A.NS.NIC.FIT 2620:0171:0a02:00ad:0:0:0:18 72.0.50.18
+nserver:      B.NS.NIC.FIT 2620:0171:0d02:00dc:0:0:0:18 72.42.114.18
+nserver:      C.NS.NIC.FIT 2620:0171:0c00:000c:0:0:0:18 70.40.0.18
+nserver:      D.NS.NIC.FIT 2620:0171:0f00:000d:0:0:0:18 70.40.8.18
+ds-rdata:     29780 8 2 4F300A9D8CB35CB84C9C59A0995F44D4B5C80371EA4524E4D7719DED5F5397D9
+
+whois:        whois-dub.mm-registry.com
+
+status:       ACTIVE
+remarks:      Registration information: http://mm-registry.com
+
+created:      2014-12-18
+changed:      2015-01-09
+source:       IANA
+
