@@ -37,15 +37,14 @@ nserver:      F.DNS.SI 194.146.106.62 2001:67c:1010:15:0:0:0:53
 nserver:      G.DNS.SI 194.0.1.20 2001:678:4:0:0:0:0:14
 nserver:      H.DNS.SI 2001:500:14:6054:ad:0:0:1 204.61.216.54
 nserver:      SSS.DNS.SI 81.91.161.101
-ds-rdata:     17770 8 2 306aec05741e1f03bd3b8dd5b4503f338eff7f8a5f61d9f6ec19a7fb9de65fb2
-ds-rdata:     17770 8 1 7bf07ead2eba601c72225cd05c26a8f0a3b37600
+ds-rdata:     48224 8 2 36c1b038cf2d501f1498202a9e84c068f7c39e848a4c9816b6a4b00d2ce39040
 
-whois:        whois.arnes.si
+whois:        whois.register.si
 
 status:       ACTIVE
 remarks:      Registration information: http://www.registry.si/
 
 created:      1992-04-01
-changed:      2014-01-09
+changed:      2015-01-09
 source:       IANA
 
