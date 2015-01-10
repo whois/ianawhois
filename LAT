@@ -1,0 +1,42 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       LAT
+
+organisation: ECOM-LAC Federación de Latinoamérica y el Caribe para Internet y el Comercio Electrónico
+address:      Rambla República de México 6125, C.P.11500, Montevideo, Uruguay
+address:      Uruguay
+
+contact:      administrative
+name:         Executive Director
+organisation: ECOM-LAC Federación de Latinoamérica y el Caribe para Internet y el Comercio Electrónico
+address:      Rambla República de México 6125, C.P.11500, Montevideo, Uruguay.
+address:      Uruguay
+phone:        +541143260777
+fax-no:       +541143260777
+e-mail:       lat_registryoperator@nic.mx
+
+contact:      technical
+name:         IANA LAT Technical Contact
+organisation: Network Information Center México S.C.
+address:      Av. Eugenio Garza Sada 427 L4-6, Col. Altavista. Monterrey, Nuevo León, C.P. 64840
+address:      Mexico
+phone:        +528188642600
+fax-no:       +528188642600
+e-mail:       lat_tech@nic.mx
+
+nserver:      C.MX-NS.MX 192.100.224.1 2001:1258:0:0:0:0:0:1
+nserver:      M.MX-NS.MX 200.94.176.1 2001:13c7:7000:0:0:0:0:1
+nserver:      O.MX-NS.MX 200.23.1.1
+ds-rdata:     53209 5 2 E45CE2ACA5E52856EEC68DA388C7A7B748DC7D2EBCACBB70650D865FC7DC231E
+
+whois:        whois.nic.lat
+
+status:       ACTIVE
+remarks:      Registration information: http://www.puntolat.info
+
+created:      2014-12-04
+changed:      2015-01-09
+source:       IANA
+
