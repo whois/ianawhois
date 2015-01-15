@@ -1,0 +1,44 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       MARRIOTT
+
+organisation: Marriott Worldwide Corporation
+address:      10400 Fernwood Road, Bethesda, MD, 20817
+address:      United States
+
+contact:      administrative
+name:         Managing Partner
+organisation: FairWinds Partners
+address:      1000 Potomac Street NW #350, Washington, DC, 20007
+address:      United States
+phone:        +1.202.223.9252
+fax-no:       +1.202.223.9256
+e-mail:       bourne.mt@fairwindspartners.com
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      Building 3, Suite 105, 300 Welsh Road, Horsham, PA, 19044
+address:      United States
+phone:        +1 215.706.5700
+fax-no:       +1 215.706.5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.MARRIOTT 2a01:8840:e6:0:0:0:0:9 65.22.236.9
+nserver:      A2.NIC.MARRIOTT 2a01:8840:e9:0:0:0:0:9 65.22.239.9
+nserver:      B0.NIC.MARRIOTT 2a01:8840:e7:0:0:0:0:9 65.22.237.9
+nserver:      C0.NIC.MARRIOTT 2a01:8840:e8:0:0:0:0:9 65.22.238.9
+ds-rdata:     50985 7 1 ee94d8a343ef8b907f7b0da305c1726f56463bbb
+ds-rdata:     50985 7 2 5a56680a2425ee9a6fbcbd808dad63fad3551670bc67ec3f347c726cc13efd22
+
+whois:        whois.afilias-srs.net
+
+status:       ACTIVE
+remarks:      Registration information: http://www.marriott.com
+
+created:      2014-12-18
+changed:      2015-01-14
+source:       IANA
+
