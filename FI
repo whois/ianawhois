@@ -31,6 +31,7 @@ e-mail:       firootadmin@ficora.fi
 
 nserver:      A.FI 193.166.4.1 2001:708:10:53:0:0:0:53
 nserver:      B.FI 194.146.106.26 2001:67c:1010:6:0:0:0:53
+nserver:      C.FI 194.0.11.104 2001:678:e:104:0:0:0:53
 nserver:      D.FI 2a01:3f0:0:302:0:0:0:53 77.72.229.253
 nserver:      E.FI 194.0.1.14 2001:678:4:0:0:0:0:e
 nserver:      F.FI 2a00:13f0:0:3:0:0:0:aaaa 87.239.127.198
@@ -43,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: https://domain.fi
 
 created:      1986-12-17
-changed:      2015-01-08
+changed:      2015-01-20
 source:       IANA
 
