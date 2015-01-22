@@ -30,7 +30,7 @@ nserver:      NS1A.KSREGISTRY.NET 2001:dd8:7:6075:dc:0:0:1 203.119.88.75
 nserver:      NS1B.KSREGISTRY.NET 2620:0171:0a00:00ad:0:0:0:75 72.0.48.75
 nserver:      NS2A.KSREGISTRY.COM 2001:dd8:7:6076:dc:0:0:1 203.119.88.76
 nserver:      NS2B.KSREGISTRY.COM 2620:0171:0a00:00ad:0:0:0:76 72.0.48.76
-ds-rdata:     31267 8 2 2a92e0fbb596df332131e40e0f816e8a119fced16dda92b112d354ccb5f0ce63
+ds-rdata:     54805 8 2 0b66342c87bcc92fe04345cc2e1e29f1e7e6df0cf402355745d08c45a2c8399d
 
 whois:        whois.ksregistry.net
 
@@ -38,6 +38,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.startingdot.com/
 
 created:      2014-05-15
-changed:      2014-07-11
+changed:      2015-01-22
 source:       IANA
 
