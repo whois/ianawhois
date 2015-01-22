@@ -36,7 +36,7 @@ nserver:      NS1A.KSREGISTRY.NET 2001:dd8:7:6075:dc:0:0:1 203.119.88.75
 nserver:      NS1B.KSREGISTRY.NET 2620:0171:0a00:00ad:0:0:0:75 72.0.48.75
 nserver:      NS2A.KSREGISTRY.COM 2001:dd8:7:6076:dc:0:0:1 203.119.88.76
 nserver:      NS2B.KSREGISTRY.COM 2620:0171:0a00:00ad:0:0:0:76 72.0.48.76
-ds-rdata:     25750 8 2 5ad0b6c30f0d933148f601dffd9f269305c2244c77936641d3ade90823f346b7
+ds-rdata:     9740 8 2 bbd4290bdfce50082f58325f262d362321d8c775a1af7f606ca92f56a89171d7
 
 whois:        whois.ksregistry.net
 
@@ -44,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://registry.flsmidth.com
 
 created:      2014-09-25
-changed:      2014-10-15
+changed:      2015-01-22
 source:       IANA
 
