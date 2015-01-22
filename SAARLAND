@@ -34,7 +34,7 @@ nserver:      NS1A.KSREGISTRY.NET 2001:dd8:7:6075:dc:0:0:1 203.119.88.75
 nserver:      NS1B.KSREGISTRY.NET 2620:0171:0a00:00ad:0:0:0:75 72.0.48.75
 nserver:      NS2A.KSREGISTRY.COM 2001:dd8:7:6076:dc:0:0:1 203.119.88.76
 nserver:      NS2B.KSREGISTRY.COM 2620:0171:0a00:00ad:0:0:0:76 72.0.48.76
-ds-rdata:     62044 8 2 13991efc59b20270630c059a229c5ed42fd96bfe5b1931cd489460a2035aefea
+ds-rdata:     29770 8 2 db8f72c7a74b69cbf973f6b62c189d7073df45aad1b3e022deff8281d59930c5
 
 whois:        whois.ksregistry.net
 
@@ -42,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic-saarland.de
 
 created:      2014-03-20
-changed:      2014-04-05
+changed:      2015-01-22
 source:       IANA
 
