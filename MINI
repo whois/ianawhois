@@ -33,7 +33,7 @@ nserver:      NS1A.KSREGISTRY.NET 2001:dd8:7:6075:dc:0:0:1 203.119.88.75
 nserver:      NS1B.KSREGISTRY.NET 2620:0171:0a00:00ad:0:0:0:75 72.0.48.75
 nserver:      NS2A.KSREGISTRY.COM 2001:dd8:7:6076:dc:0:0:1 203.119.88.76
 nserver:      NS2B.KSREGISTRY.COM 2620:0171:0a00:00ad:0:0:0:76 72.0.48.76
-ds-rdata:     44875 8 2 459fae649262bd7747498644f1c7d3b934b51f6efc8085331f4f1ab2fdbd338f
+ds-rdata:     38306 8 2 7434eedbd69affc3329fe45129cb7da67a04d300387dc5ab5ab0b4738bb84786
 
 whois:        whois.ksregistry.net
 
@@ -41,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.mini.com
 
 created:      2014-06-05
-changed:      2014-06-24
+changed:      2015-01-22
 source:       IANA
 
