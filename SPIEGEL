@@ -31,7 +31,7 @@ nserver:      NS1A.KSREGISTRY.NET 2001:dd8:7:6075:dc:0:0:1 203.119.88.75
 nserver:      NS1B.KSREGISTRY.NET 2620:0171:0a00:00ad:0:0:0:75 72.0.48.75
 nserver:      NS2A.KSREGISTRY.COM 2001:dd8:7:6076:dc:0:0:1 203.119.88.76
 nserver:      NS2B.KSREGISTRY.COM 2620:0171:0a00:00ad:0:0:0:76 72.0.48.76
-ds-rdata:     6899 8 2 447831034f4f9f87d05a97ccd245499531e6993544453104e74cf1a4a6bd1efe
+ds-rdata:     29669 8 2 ce13452b2ce496776cc8b6bd02039e7a7f2d88d42bacf1ae5791e1b24962c4ba
 
 whois:        whois.ksregistry.net
 
@@ -39,6 +39,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.spiegelregistry.de
 
 created:      2014-06-19
-changed:      2014-07-18
+changed:      2015-01-22
 source:       IANA
 
