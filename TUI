@@ -36,7 +36,7 @@ nserver:      NS1A.KSREGISTRY.NET 2001:dd8:7:6075:dc:0:0:1 203.119.88.75
 nserver:      NS1B.KSREGISTRY.NET 2620:0171:0a00:00ad:0:0:0:75 72.0.48.75
 nserver:      NS2A.KSREGISTRY.COM 2001:dd8:7:6076:dc:0:0:1 203.119.88.76
 nserver:      NS2B.KSREGISTRY.COM 2620:0171:0a00:00ad:0:0:0:76 72.0.48.76
-ds-rdata:     29140 8 2 7c7af2af8a0398db7937545fb0f6d61e1e1bf7727775a03fb7a48542ce1fe098
+ds-rdata:     59617 8 2 6586da9780f370ceb29acaee4ca2284db575c8d576f620b911470be3ec82e2ba
 
 whois:        whois.ksregistry.net
 
@@ -44,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.tuiregistry.com
 
 created:      2014-09-18
-changed:      2014-09-27
+changed:      2015-01-22
 source:       IANA
 
