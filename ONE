@@ -1,0 +1,47 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       ONE
+
+organisation: One.com A/S
+address:      Kalvebod Brygge 24
+address:      DK-1560 Copenhagen
+address:      Denmark
+
+contact:      administrative
+name:         Rieke Poppe
+organisation: One.com
+address:      Kalvebod Brygge 24
+address:      DK-1560 Copenhagen
+address:      Denmark
+phone:        +4546907111
+fax-no:       +4570205872
+e-mail:       rieke@oneregistry.co
+
+contact:      technical
+name:         Rieke Poppe
+organisation: One.com
+address:      Kalvebod Brygge 24
+address:      DK-1560 Copenhagen
+address:      Denmark
+phone:        +4546907111
+fax-no:       +4570205872
+e-mail:       operations@oneregistry.co
+
+nserver:      A.NIC.ONE 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.ONE 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.ONE 2001:dcd:3:0:0:0:0:9 37.209.196.9
+nserver:      D.NIC.ONE 2001:dcd:4:0:0:0:0:9 37.209.198.9
+ds-rdata:     7024 8 1 474D97AF4C80A245F6B8C46A884B34D8AFB7391A
+ds-rdata:     7024 8 2 31E153E198CDE4E206A951F576458C816021083DB0AB21515B8158B3A05DB1F6
+
+whois:        whois.nic.one
+
+status:       ACTIVE
+remarks:      Registration information: http://www.one.com/
+
+created:      2014-12-18
+changed:      2015-01-22
+source:       IANA
+
