@@ -36,12 +36,12 @@ nserver:      ANYCAST24.IRONDNS.NET 195.253.65.12 2a01:5b0:5:0:0:0:0:c
 nserver:      ANYCAST9.IRONDNS.NET 195.253.64.11 2a01:5b0:4:0:0:0:0:b
 ds-rdata:     46012 10 2 5916001FFF3DC261A7F1B5D81BDC63312697F8B672AE1C8AC7677F6E68977F48
 
-whois:        whois.quebec.rs.corenic.net
+whois:        whois.nic.quebec
 
 status:       ACTIVE
 remarks:      Registration information: http://www.registre.quebec
 
 created:      2014-03-13
-changed:      2014-08-26
+changed:      2015-01-23
 source:       IANA
 
