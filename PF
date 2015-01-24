@@ -10,14 +10,14 @@ address:      PAPEETE TAHITI 98714
 address:      French Polynesia
 
 contact:      administrative
-name:         Directeur
-organisation: Agence de Réglementation du Numérique (ARN)
-address:      BP 5019
-address:      PIRAE TAHITI 98716
+name:         Chef de service
+organisation: Direction générale de l’économie numérique
+address:      Immeuble Toriki – Rue Dumont d’Urville
+address:      PAPEETE TAHITI 98714
 address:      French Polynesia
-phone:        +689 544835
-fax-no:       +689 582301
-e-mail:       direction@arn.gov.pf
+phone:        +689 40 544 860
+fax-no:       +689 40 532 801
+e-mail:       contact@dgen.gov.pf
 
 contact:      technical
 name:         Chef de section Systemes & Réseaux
@@ -37,6 +37,6 @@ whois:        whois.registry.pf
 status:       ACTIVE
 
 created:      1996-03-19
-changed:      2014-01-02
+changed:      2015-01-23
 source:       IANA
 
