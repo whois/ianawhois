@@ -5,17 +5,17 @@
 domain:       网址
 domain-ace:   XN--SES554G
 
-organisation: HU YI GLOBAL INFORMATION RESOURCES (HOLDING) COMPANY. HONGKONG LIMITED
+organisation: KNET Co., LTd
 address:      4, South 4th Street, Zhongguancun, Haidian District, Beijing, China
 address:      China
 
 contact:      administrative
-name:         New gTLD Assistant
-organisation: HU YI GLOBAL INFORMATION RESOURCES (HOLDING) COMPANY. HONGKONG LIMITED
+name:         Senior Director
+organisation: KNET Co., Ltd.
 address:      4, South 4th Street, Zhongguancun, Haidian District, Beijing, China
 address:      China
-phone:        86-10-58812426
-fax-no:       86-10-58813075
+phone:        86-10-62506518
+fax-no:       86-10-62506502
 e-mail:       wangzhi-admin@knet.cn
 
 contact:      technical
@@ -40,6 +40,6 @@ ds-rdata:     149 8 2 93CBDE531ACEFE2D3C23F627E5A18B7E9F5E64CF5B1686597FAAA4512A
 status:       ACTIVE
 
 created:      2014-03-13
-changed:      2014-08-14
+changed:      2015-01-23
 source:       IANA
 
