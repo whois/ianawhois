@@ -5,9 +5,43 @@
 domain:       BARCLAYCARD
 
 organisation: Barclays Bank PLC
+address:      1 Churchill Place,
+address:      London E14 5HP
+address:      United Kingdom
 
-status:       NEW
+contact:      administrative
+name:         Elliot Antrobus-Holder
+organisation: Barclays Bank PLC
+address:      1 Churchill Place
+address:      London E14 5HP
+address:      United Kingdom
+phone:        +442071161000
+fax-no:       +442071167663
+e-mail:       iplegal@barclays.com
+
+contact:      technical
+name:         Elliot Antrobus-Holder
+organisation: Barclays Bank PLC
+address:      1 Churchill Place,
+address:      London E14 5HP
+address:      United Kingdom
+phone:        +442071161000
+fax-no:       +442071167663
+e-mail:       iplegal@barclays.com
+
+nserver:      A.NIC.BARCLAYCARD 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.BARCLAYCARD 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.BARCLAYCARD 2001:dcd:3:0:0:0:0:9 37.209.196.9
+nserver:      D.NIC.BARCLAYCARD 2001:dcd:4:0:0:0:0:9 37.209.198.9
+ds-rdata:     59326 8 1 D49336A16E9884982A53DDB02E8ACB494DFD0143
+ds-rdata:     59326 8 2 9B09E119FEFD3BA13928CF43312198F3EC0B22A0169B35A4A28278F6E77E8ECD
+
+whois:        whois.nic.barclaycard
+
+status:       ACTIVE
+remarks:      Registration information: http://www.barclaycard.com/
 
 created:      2015-01-08
+changed:      2015-01-25
 source:       IANA
 
