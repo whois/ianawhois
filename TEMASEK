@@ -5,9 +5,46 @@
 domain:       TEMASEK
 
 organisation: Temasek Holdings (Private) Limited
+address:      60B Orchard Road #06-18 Tower 2 The Atrium@Orchard
+address:      Singapore, Singapore
+address:      238891
+address:      Singapore
 
-status:       NEW
+contact:      administrative
+name:         Business Development Executive
+organisation: IP Mirror Pte Ltd
+address:      9 Hongkong Street #01-01
+address:      Singapore, Singapore
+address:      059652
+address:      Singapore
+phone:        +65 6222 0105
+fax-no:       +65 6222 0210
+e-mail:       harriet@temasek.com.sg
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      Building 3, Suite 105
+address:      300 Welsh Road
+address:      Horsham, PA 19044
+address:      United States
+phone:        +1 215.706.5700
+fax-no:       +1 215.706.5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.TEMASEK 2a01:8840:8a:0:0:0:0:9 65.22.140.9
+nserver:      A2.NIC.TEMASEK 2a01:8840:8d:0:0:0:0:9 65.22.143.9
+nserver:      B0.NIC.TEMASEK 2a01:8840:8b:0:0:0:0:9 65.22.141.9
+nserver:      C0.NIC.TEMASEK 2a01:8840:8c:0:0:0:0:9 65.22.142.9
+ds-rdata:     47764 7 1 ce46ae409f2cfec23d5df289c7ab203f47429625
+ds-rdata:     47764 7 2 633f88e7b11734fc2c44546f7773850a13ee48fd20aba62ed4ff6ca75fe7653c
+
+whois:        whois.afilias-srs.net
+
+status:       ACTIVE
+remarks:      Registration information: http://www.temasek.com.sg
 
 created:      2014-12-18
+changed:      2015-01-25
 source:       IANA
 
