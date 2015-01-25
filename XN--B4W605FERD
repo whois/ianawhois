@@ -6,9 +6,46 @@ domain:       淡马锡
 domain-ace:   XN--B4W605FERD
 
 organisation: Temasek Holdings (Private) Limited
+address:      60B Orchard Road
+address:      #06-18 Tower 2
+address:      The Atrium@Orchard
+address:      Singapore 238891
+address:      Singapore
 
-status:       NEW
+contact:      administrative
+name:         Business Development Executive
+organisation: IP Mirror Pte Ltd
+address:      9 Hongkong Street #01-01
+address:      Singapore 059652
+address:      Singapore
+phone:        +65 6222 0105
+fax-no:       +65 6222 0210
+e-mail:       harriet@temasek.com.sg
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      Building 3, Suite 105
+address:      300 Welsh Road
+address:      Horsham, PA 19044
+address:      United States
+phone:        +1 215.706.5700
+fax-no:       +1 215.706.5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.XN--B4W605FERD 2a01:8840:8a:0:0:0:0:1 65.22.140.1
+nserver:      A2.NIC.XN--B4W605FERD 2a01:8840:8d:0:0:0:0:1 65.22.143.1
+nserver:      B0.NIC.XN--B4W605FERD 2a01:8840:8b:0:0:0:0:1 65.22.141.1
+nserver:      C0.NIC.XN--B4W605FERD 2a01:8840:8c:0:0:0:0:1 65.22.142.1
+ds-rdata:     16669 7 1 2dc5701a45ef3beb7a84aefaf6dbd3b4145f56e3
+ds-rdata:     16669 7 2 bd4c6bcaabde7a16df54e658c57955802bf98ad2eb5f2ba696fa66495825c740
+
+whois:        whois.afilias-srs.net
+
+status:       ACTIVE
+remarks:      Registration information: http://www.temasek.com.sg
 
 created:      2014-12-18
+changed:      2015-01-25
 source:       IANA
 
