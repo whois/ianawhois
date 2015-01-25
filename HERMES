@@ -4,10 +4,45 @@
 
 domain:       HERMES
 
-organisation: HERMES INTERNATIONAL
+organisation: Hermes International
+address:      24, rue du Faubourg Saint-Honore
+address:      Paris 75008
+address:      France
 
-status:       NEW
+contact:      administrative
+name:         Domain Administrator
+organisation: Hermes International
+address:      24, rue du Faubourg Saint-Honore
+address:      Paris 75008
+address:      France
+phone:        +33 140174720
+fax-no:       +33 140174994
+e-mail:       dns@hermes.com
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      Building 3, Suite 105
+address:      300 Welsh Road
+address:      Horsham, PA 19044
+address:      United States
+phone:        +1 215.706.5700
+fax-no:       +1 215.706.5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.HERMES 2a01:8840:e2:0:0:0:0:25 65.22.232.25
+nserver:      A2.NIC.HERMES 2a01:8840:e5:0:0:0:0:25 65.22.235.25
+nserver:      B0.NIC.HERMES 2a01:8840:e3:0:0:0:0:25 65.22.233.25
+nserver:      C0.NIC.HERMES 2a01:8840:e4:0:0:0:0:25 65.22.234.25
+ds-rdata:     58041 7 1 c8b636838ec6bda63cc39c12404b686c20e61884
+ds-rdata:     58041 7 2 df0ca4c6c7d2092c643a0189f918d1b50acc39a3300de7df26257c8369b54df3
+
+whois:        whois.afilias-srs.net
+
+status:       ACTIVE
+remarks:      Registration information: http://hermes.com
 
 created:      2014-10-30
+changed:      2015-01-25
 source:       IANA
 
