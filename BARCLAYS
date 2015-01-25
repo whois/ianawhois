@@ -5,9 +5,43 @@
 domain:       BARCLAYS
 
 organisation: Barclays Bank PLC
+address:      1 Churchill Place,
+address:      London E14 5HP
+address:      United Kingdom
 
-status:       NEW
+contact:      administrative
+name:         Elliot Antrobus-Holder
+organisation: Barclays Bank PLC
+address:      1 Churchill Place
+address:      London E14 5HP
+address:      United Kingdom
+phone:        +442071161000 
+fax-no:       +442071167663
+e-mail:       iplegal@barclays.com
+
+contact:      technical
+name:         Elliot Antrobus-Holder
+organisation: Barclays Bank PLC
+address:      1 Churchill Place
+address:      London E14 5HP
+address:      United Kingdom
+phone:        +442071161000 
+fax-no:       +442071167663
+e-mail:       iplegal@barclays.com
+
+nserver:      A.NIC.BARCLAYS 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.BARCLAYS 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.BARCLAYS 2001:dcd:3:0:0:0:0:9 37.209.196.9
+nserver:      D.NIC.BARCLAYS 2001:dcd:4:0:0:0:0:9 37.209.198.9
+ds-rdata:     50194 8 1 C841A595D9C7E1B4BEE311F12133695EA1D5EBDF
+ds-rdata:     50194 8 2 F5792478893C3C0A8338E061C3CE0D017D688FD4771D809B00552F527CF7AD41
+
+whois:        whois.nic.barclays
+
+status:       ACTIVE
+remarks:      Registration information: http://www.barclays.com/
 
 created:      2015-01-08
+changed:      2015-01-25
 source:       IANA
 
