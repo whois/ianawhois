@@ -24,7 +24,7 @@ address:      1101 Daerung Post Tower 3, 182-4 Guro 3-Dong Guro-Gu, Seoul
 address:      Korea, Republic Of
 phone:        +82 70 4317 8217 
 fax-no:       +82 2 2028 0011
-e-mail:       doosan@yesnic.com
+e-mail:       info@yesnic.com
 
 nserver:      E.DNS.KR 2001:dcc:5:0:0:0:0:100 202.30.124.100
 nserver:      G.DNS.KR 2001:dc5:a:0:0:0:0:1 202.31.190.1
@@ -36,6 +36,6 @@ status:       ACTIVE
 remarks:      Registration information: http://doosanregistry.com
 
 created:      2014-10-30
-changed:      2014-12-19
+changed:      2015-01-27
 source:       IANA
 
