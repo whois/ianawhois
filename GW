@@ -19,7 +19,7 @@ address:      Bissau  1372
 address:      Guinea-bissau
 phone:        +245 3204874
 fax-no:       +245 3204876
-e-mail:       frank.i.oliveira@arn-gb.com
+e-mail:       frank.i.oliveira@arn-gb.gw
 
 contact:      technical
 name:         Assis Neves Guerreiro
@@ -38,6 +38,6 @@ nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e:0:0:0:0:1
 status:       ACTIVE
 
 created:      1997-02-04
-changed:      2014-09-12
+changed:      2015-01-28
 source:       IANA
 
