@@ -5,7 +5,7 @@
 domain:       HK
 
 organisation: Hong Kong Internet Registration Corporation Ltd.
-address:      Unit 2002-2005, 20/F, ING Tower
+address:      Unit 2002-2005, 20/F, FWD Financial Centre
 address:      308 Des Voeux Road Central
 address:      Sheung Wan
 address:      Hong Kong
@@ -13,7 +13,7 @@ address:      Hong Kong
 contact:      administrative
 name:         Jonathan Shea
 organisation: Hong Kong Internet Registration Corporation Ltd.
-address:      Unit 2002-2005, 20/F, ING Tower
+address:      Unit 2002-2005, 20/F, FWD Financial Centre
 address:      308 Des Voeux Road Central
 address:      Sheung Wan
 address:      Hong Kong
@@ -24,7 +24,7 @@ e-mail:       ceo@hkirc.hk
 contact:      technical
 name:         Ben Lee
 organisation: Hong Kong Internet Registration Corporation Ltd.
-address:      Unit 2002-2005, 20/F, ING Tower
+address:      Unit 2002-2005, 20/F, FWD Financial Centre
 address:      308 Des Voeux Road Central
 address:      Sheung Wan
 address:      Hong Kong
@@ -50,6 +50,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.hkirc.hk
 
 created:      1990-01-03
-changed:      2014-06-27
+changed:      2015-01-28
 source:       IANA
 
