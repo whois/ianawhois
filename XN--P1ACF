@@ -27,9 +27,8 @@ phone:        +64 9 446 6370
 fax-no:       +61 02 83 24 6336
 e-mail:       noc@cocca.org.nz
 
-nserver:      TLD.ISC-SNS.COM 38.103.2.3
-nserver:      TLD.ISC-SNS.INFO 2001:470:1a:0:0:0:0:3 72.52.71.3
-nserver:      TLD.ISC-SNS.NET 2001:5a0:10:0:0:0:0:3 63.243.194.3
+nserver:      A.XN--P1ACF.DYNTLD.NET 199.19.5.21 2001:500:92:0:0:0:0:21
+nserver:      B.XN--P1ACF.DYNTLD.NET 199.19.6.21 2001:500:96:0:0:0:0:21
 nserver:      TLD1.COCCAREGISTRY.NET 2620:0171:0a01:00ad:0:0:0:2 72.0.49.2
 nserver:      TLD1.COCCAREGISTRY.ORG 2620:0171:0d01:00dc:0:0:0:2 72.42.113.2
 ds-rdata:     11446 8 2 C39B9FB91B155CA7FF3F84BC7F7B7713E8D3B40AE9B7B0D9C3DE0FDC36FA325C
@@ -40,6 +39,6 @@ status:       ACTIVE
 remarks:      Registration information: http://rusnames.ru/
 
 created:      2014-07-03
-changed:      2014-09-29
+changed:      2015-01-28
 source:       IANA
 
