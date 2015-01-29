@@ -32,7 +32,7 @@ e-mail:       support@ksregistry.net
 nserver:      GD-NS.ANYCAST.PCH.NET 2001:500:14:6047:ad:0:0:1 204.61.216.47
 nserver:      GD-NS.KSREGISTRY.NET 194.0.11.103 2001:678:e:103:0:0:0:53
 nserver:      GD.CCTLD.AUTHDNS.RIPE.NET 193.0.9.75 2001:67c:e0:0:0:0:0:75
-ds-rdata:     45596 8 2 602d87a195e80568717539c3fb0061320c6ee588843c499f25575a0eb7ab59ea
+ds-rdata:     60514 8 2 2a2e4f424c1d4dd3f857da65c72374c6e6ee830c85de6f7228d841edfeaa27da
 
 whois:        whois.nic.gd
 
@@ -40,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.gd
 
 created:      1992-06-03
-changed:      2014-11-25
+changed:      2015-01-28
 source:       IANA
 
