@@ -5,7 +5,7 @@
 domain:       网址
 domain-ace:   XN--SES554G
 
-organisation: KNET Co., LTd
+organisation: KNET Co., Ltd
 address:      4, South 4th Street, Zhongguancun, Haidian District, Beijing, China
 address:      China
 
@@ -40,6 +40,6 @@ ds-rdata:     149 8 2 93CBDE531ACEFE2D3C23F627E5A18B7E9F5E64CF5B1686597FAAA4512A
 status:       ACTIVE
 
 created:      2014-03-13
-changed:      2015-01-23
+changed:      2015-01-30
 source:       IANA
 
