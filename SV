@@ -31,6 +31,7 @@ e-mail:       galara@conexion.sv
 
 nserver:      AUTH02.NS.UU.NET 198.6.1.82
 nserver:      CIR.RED.SV 168.243.254.1
+nserver:      DNS.NIC.CR 200.107.82.100 2001:13c7:7004:1:0:0:0:d100
 nserver:      NS.CR 163.178.8.2
 nserver:      NS.DNS.BR 200.160.0.5 2001:12ff:0:a20:0:0:0:5
 nserver:      NS.UU.NET 137.39.1.3
@@ -40,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.svnet.sv
 
 created:      1994-11-04
-changed:      2015-01-23
+changed:      2015-01-29
 source:       IANA
 
