@@ -1,0 +1,40 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       NTT
+
+organisation: NIPPON TELEGRAPH AND TELEPHONE CORPORATION
+address:      Otemachi First Square, East Tower, 5-1, Otemachi 1-Chome, Chiyoda-ku, Tokyo
+address:      Japan
+
+contact:      administrative
+name:         General Affairs Department
+organisation: NIPPON TELEGRAPH AND TELEPHONE CORPORATION
+address:      Otemachi First Square, East Tower, 5-1, Otemachi 1-Chome, Chiyoda-ku, Tokyo
+address:      Japan
+phone:        +81 3 6838 5590
+e-mail:       dotntt-ml@hco.ntt.co.jp
+
+contact:      technical
+name:         JPRS Technical Contact
+organisation: Japan Registry Services Co., Ltd.
+address:      Chiyoda First Bldg. East 13F, 3-8-1 Nishi-Kanda, Chiyoda-ku, Tokyo
+address:      Japan
+phone:        +81 3 5215 8480
+fax-no:       +81 3 5215 8452
+e-mail:       rsp-tech-admin@jprs.co.jp
+
+nserver:      TLD1.NIC.NTT 103.47.2.2 2001:dda:0:0:0:0:0:2
+nserver:      TLD2.NIC.NTT 117.104.133.17 2001:218:3001:0:0:0:0:2
+nserver:      TLD3.NIC.NTT 2a01:8840:1ba:0:0:0:0:17 65.22.40.17
+ds-rdata:     55255 8 1 9038484AFA6233E75C3C18F87C40E2BEA9D2AF4C
+ds-rdata:     55255 8 2 37E5F83B7282E2F678D9CD1035BB3439F91B5153A1612AAE73CB7D7CC4B32565
+
+status:       ACTIVE
+remarks:      Registration information: http://www.ntt.co.jp/dotntt/
+
+created:      2015-01-08
+changed:      2015-02-03
+source:       IANA
+
