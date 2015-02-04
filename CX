@@ -29,8 +29,8 @@ address:      New Zealand
 phone:        +64 (0)9 446 6370
 e-mail:       brad.waugh@coccaregistry.net
 
-nserver:      CX1.DYNTLD.NET 2001:500:90:0:0:0:0:77 208.78.70.77
-nserver:      CX3.DYNTLD.NET 2001:500:94:0:0:0:0:77 208.78.71.77
+nserver:      A.CX.DYNTLD.NET 199.19.5.3 2001:500:92:0:0:0:0:3
+nserver:      B.CX.DYNTLD.NET 199.19.6.3 2001:500:96:0:0:0:0:3
 nserver:      NS.ANYCAST.NIC.CX 2001:500:14:6016:ad:0:0:1 204.61.216.16
 nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e:0:0:0:0:1
 ds-rdata:     6500 8 2 4854A102492CE0C50C714F366EBBD520CBA38BBEFC91CF295EEE8E6EF7D48CA5
@@ -41,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.cx
 
 created:      1997-04-24
-changed:      2013-04-17
+changed:      2015-02-03
 source:       IANA
 
