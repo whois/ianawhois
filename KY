@@ -20,13 +20,16 @@ fax-no:       1-345-945-8284
 e-mail:       md@icta.ky
 
 contact:      technical
-name:         Stephen Bernacki
-organisation: Perimeter eSecurity
-address:      440 Wheelers Farms Road #202
-address:      Milford Connecticut 06461
-address:      United States
-phone:        +1 800 234 2175
-e-mail:       kysupport@perimeterusa.com
+name:         Francisco Obispo
+organisation: Uniregistry Inc.
+address:      Governors Square, Unit 3-110
+address:      23 Lime Tree Bay Avenue
+address:      Grand Cayman, Cayman Islands
+address:      PO Box 1361, George Town, KY1-1108
+address:      Cayman Islands
+phone:        +1.3457496263
+fax-no:       +1.3457466263
+e-mail:       ops@uniregistry.com
 
 nserver:      KYNSE01.PERIMETERUSA.COM 216.54.168.26
 nserver:      KYNSE02.PERIMETERUSA.COM 216.54.168.27
@@ -35,10 +38,12 @@ nserver:      KYNSW01.PERIMETERUSA.COM 165.212.160.15
 nserver:      KYNSW02.PERIMETERUSA.COM 165.212.160.16
 nserver:      KYNSW03.PERIMETERUSA.COM 165.212.160.17
 
+whois:        whois.kyregistry.ky
+
 status:       ACTIVE
-remarks:      Registration information: http://www.nic.ky
+remarks:      Registration information: http://uniregistry.com
 
 created:      1995-05-03
-changed:      2014-09-04
+changed:      2015-02-05
 source:       IANA
 
