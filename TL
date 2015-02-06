@@ -29,9 +29,9 @@ address:      New Zealand
 phone:        +64 9 446 6370
 e-mail:       noc@cocca.org.nz
 
+nserver:      A.TL.DYNTLD.NET 199.19.5.12 2001:500:92:0:0:0:0:12
+nserver:      B.TL.DYNTLD.NET 199.19.6.12 2001:500:96:0:0:0:0:12
 nserver:      NS.ANYCAST.NIC.TL 2001:500:14:6019:ad:0:0:1 204.61.216.19
-nserver:      TL1.DYNTLD.NET 2001:500:90:0:0:0:0:78 208.78.70.78
-nserver:      TL3.DYNTLD.NET 2001:500:94:0:0:0:0:78 208.78.71.78
 ds-rdata:     25307 8 2 BC0412D59817424A34040676F1AE1205B1F33FC9510E7E30114711851FFCEDE4
 
 whois:        whois.nic.tl
@@ -40,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.tl
 
 created:      2005-03-23
-changed:      2014-08-12
+changed:      2015-02-05
 source:       IANA
 
