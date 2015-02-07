@@ -1,0 +1,49 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       TUI
+
+organisation: TUI AG
+address:      Karl-Wiechert-Allee 4
+address:      Lower Saxony
+address:      30625 Hannover
+address:      Germany
+
+contact:      administrative
+name:         Senior Manager, Trademarks, Patents
+organisation: TUI AG
+address:      Karl-Wiechert-Allee 4
+address:      Lower Saxony
+address:      30625 Hannover
+address:      Germany
+phone:        +49.5115661111
+fax-no:       +49.5115661097
+e-mail:       domain@tui.com
+
+contact:      technical
+name:         CTO
+organisation: KSregistry GmbH
+address:      KSregistry GmbH
+address:      Im Oberen Werk 1
+address:      66386 St. Ingbert
+address:      Germany
+phone:        +49.68949396250
+fax-no:       +49.68949396251
+e-mail:       icann@ksregistry.com
+
+nserver:      NS1A.KSREGISTRY.NET 2001:dd8:7:6075:dc:0:0:1 203.119.88.75
+nserver:      NS1B.KSREGISTRY.NET 2620:0171:0a00:00ad:0:0:0:75 72.0.48.75
+nserver:      NS2A.KSREGISTRY.COM 2001:dd8:7:6076:dc:0:0:1 203.119.88.76
+nserver:      NS2B.KSREGISTRY.COM 2620:0171:0a00:00ad:0:0:0:76 72.0.48.76
+ds-rdata:     59617 8 2 6586da9780f370ceb29acaee4ca2284db575c8d576f620b911470be3ec82e2ba
+
+whois:        whois.ksregistry.net
+
+status:       ACTIVE
+remarks:      Registration information: http://www.tuiregistry.com
+
+created:      2014-09-18
+changed:      2015-01-22
+source:       IANA
+
