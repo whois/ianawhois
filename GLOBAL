@@ -4,20 +4,20 @@
 
 domain:       GLOBAL
 
-organisation: Dot GLOBAL AS
-address:      House of Business, Tjuvholmen Allé 3
-address:      Oslo,  0252
-address:      Norway
+organisation: Dot Global Domain Registry Limited
+address:      6th floor, South Bank House, Barrow Street
+address:      Dublin 8
+address:      Ireland
 
 contact:      administrative
 name:         CEO
-organisation: Dot Global AS
-address:      House of Business, Tjuvholmen Allé 3
-address:      Oslo,  0252
-address:      Norway
-phone:        +4722836609
-fax-no:       +4722837011
-e-mail:       contact@dotglobal.info
+organisation: Dot Global Domain Registry Limited
+address:      6th floor, South Bank House, Barrow Street
+address:      Dublin 8
+address:      Ireland
+phone:        +1 8554845622
+fax-no:       +353 16335466
+e-mail:       contact@nic.global
 
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
@@ -37,12 +37,12 @@ nserver:      C0.NIC.GLOBAL 2a01:8840:50:0:0:0:0:1 65.22.82.1
 ds-rdata:     61854 7 1 80b9fc7e8d300ede5c7b6251d628deeaa1faf482
 ds-rdata:     61854 7 2 cf2738415cc653988b39dfa98b9eb38de908e73224dc144f7eefd54600940bd7
 
-whois:        whois.afilias-srs.net
+whois:        whois.nic.global
 
 status:       ACTIVE
-remarks:      Registration information: http://www.dotglobal.info
+remarks:      Registration information: http://nic.global
 
 created:      2014-05-29
-changed:      2014-06-11
+changed:      2015-02-08
 source:       IANA
 
