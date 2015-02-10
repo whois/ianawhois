@@ -19,7 +19,7 @@ address:      Dakar-Peytavin
 address:      Senegal
 phone:        +221 33 8242005
 fax-no:       +221 33 8242005
-e-mail:       corenthin@ucad.sn
+e-mail:       alex.corenthin@nic.sn
 
 contact:      technical
 name:         Alioune Thioune
@@ -27,9 +27,9 @@ organisation: Bibliotheque Universitaire
 address:      BP 16370
 address:      Dakar-Fann
 address:      Senegal
-phone:        +221 824 13 73
-fax-no:       +221 825 65 76
-e-mail:       thioune@ucad.sn
+phone:        +221 33 821 91 90
+fax-no:       +221 33 821 91 90
+e-mail:       alioune.thioune@nic.sn
 
 nserver:      NS.UCAD.SN 196.1.95.1
 nserver:      NS1.IRD.FR 193.50.53.3
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.sn
 
 created:      1993-03-19
-changed:      2012-06-30
+changed:      2015-02-09
 source:       IANA
 
