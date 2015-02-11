@@ -1,0 +1,47 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       SAXO
+
+organisation: Saxo Bank A/S
+address:      Phillip Heymans Allé 15
+address:      2900 Hellerup
+address:      Denmark
+
+contact:      administrative
+name:         Jacob Wissum
+organisation: Saxo Bank A/S
+address:      Phillip Heymans Allé 15
+address:      2900 Hellerup
+address:      Denmark
+phone:        +4539774000
+fax-no:       +4539774200
+e-mail:       domainregistration@saxobank.com
+
+contact:      technical
+name:         Jacob Wissum
+organisation: Saxo Bank A/S
+address:      Phillip Heymans Allé 15
+address:      2900 Hellerup
+address:      Denmark
+phone:        +4539774000
+fax-no:       +4539774200
+e-mail:       domainregistration@saxobank.com
+
+nserver:      A.NIC.SAXO 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.SAXO 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.SAXO 2001:dcd:3:0:0:0:0:9 37.209.196.9
+nserver:      D.NIC.SAXO 2001:dcd:4:0:0:0:0:9 37.209.198.9
+ds-rdata:     13285 8 1 92DF359DC883663175EC5FEB1915B2E95B999944
+ds-rdata:     13285 8 2 B5184322FD05E2F6C5000A37CFB77296D97D8457B14177BE55A142F149CB5FE7
+
+whois:        whois.aridnrs.net.au
+
+status:       ACTIVE
+remarks:      Registration information: http://www.saxobank.com/
+
+created:      2015-01-15
+changed:      2015-02-10
+source:       IANA
+
