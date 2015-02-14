@@ -1,0 +1,48 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       GDN
+
+organisation: Joint Stock Company "Navigation-information systems"
+address:      Building 14th, Office # 107
+address:      Dubai Internet City,
+address:      P.O. Box 111230,
+address:      Dubai
+address:      United Arab Emirates
+
+contact:      administrative
+name:         Lee Yen Chew
+organisation: GDN Registry
+address:      Building 14th, Office # 107
+address:      Dubai Internet City,
+address:      P.O. Box 111230,
+address:      Dubai
+address:      United Arab Emirates
+phone:        +60123938783
+e-mail:       lee@gdnregistry.com
+
+contact:      technical
+name:         Lee Yen Chew
+organisation: GDN Registry
+address:      Building 14th, Office # 107
+address:      Dubai Internet City,
+address:      P.O. Box 111230,
+address:      Dubai
+address:      United Arab Emirates
+phone:        +60123938783
+e-mail:       lee@gdnregistry.com
+
+nserver:      NS1.NIC.GDN 194.0.1.37 2001:678:4:0:0:0:0:25
+nserver:      NS2.NIC.GDN 167.114.102.194 2607:5300:60:69c2:0:0:0:1
+ds-rdata:     29305 8 1 4A5AE86ACB742B4E897369BB8B10C5E80DBC777D
+
+whois:        whois.gdnregistry.com
+
+status:       ACTIVE
+remarks:      Registration information: http://www.gdnregistry.com
+
+created:      2014-12-04
+changed:      2015-02-13
+source:       IANA
+
