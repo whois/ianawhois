@@ -1,0 +1,46 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       NP
+
+organisation: Mercantile Communications Pvt. Ltd.
+address:      Hitti Pokhari, DurbarMarg, Kathmandu
+address:      Kathmandu Bagmati P.O.Box 876
+address:      Nepal
+
+contact:      administrative
+name:         Sanjib Raj Bhandari
+organisation: Mercantile Communications Pvt. Ltd.
+address:      Hitti Pokhari, DurbarMarg, Kathmandu
+address:      Kathmandu Bagmati P.O.Box 876
+address:      Nepal
+phone:        +977 1 4445920
+fax-no:       +977 1 4439360
+e-mail:       sanjib@mos.com.np
+
+contact:      technical
+name:         Rajiv Bastola
+organisation: Mercantile Communications Pvt. Ltd.
+address:      Hitti Pokhari, DurbarMarg, Kathmandu
+address:      Kathmandu Bagmati P.O.Box 876
+address:      Nepal
+phone:        +977 1 4445920
+fax-no:       +977 1 4439360
+e-mail:       brajiv@mercantile.com.np
+
+nserver:      NP-NS.ANYCAST.PCH.NET 2001:500:14:6011:ad:0:0:1 204.61.216.11
+nserver:      NP-NS.NPIX.NET.NP 198.32.126.50
+nserver:      NP.CCTLD.AUTHDNS.RIPE.NET 193.0.9.102 2001:67c:e0:0:0:0:0:102
+nserver:      NS-EXT.ISC.ORG 2001:4f8:0:2:0:0:0:13 204.152.184.64
+nserver:      SEC3.APNIC.NET 2001:dc0:1:0:4777:0:0:140 202.12.28.140
+nserver:      SHIKHAR.MOS.COM.NP 202.52.255.5
+nserver:      YARRINA.CONNECT.COM.AU 192.189.54.17
+
+status:       ACTIVE
+remarks:      Registration information: http://www.mos.com.np
+
+created:      1995-01-25
+changed:      2012-01-10
+source:       IANA
+
