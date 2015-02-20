@@ -1,0 +1,47 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       FANS
+
+organisation: Asiamix Digital Limited
+address:      Unit 15, 1/F, Block 2, Office Building
+address:      96 Siena Avenue, Discovery Bay North
+address:      Hong Kong
+
+contact:      administrative
+name:         Vladimir Shadrunov
+organisation: Asiamix Digital Limited
+address:      Unit 15, 1/F, Block 2, Office Building
+address:      96 Siena Avenue, Discovery Bay North
+address:      Hong Kong
+phone:        +44.2036372155
+fax-no:       +44.2036372194
+e-mail:       registry@dotfans.net
+
+contact:      technical
+name:         CTO
+organisation: CentralNic
+address:      35-39 Moorgate
+address:      London EC2R 6AR
+address:      United Kingdom
+phone:        +44.2033880600
+fax-no:       +44.2033880601
+e-mail:       tld.ops@centralnic.com
+
+nserver:      A.NIC.FANS 194.169.218.39 2001:67c:13cc:0:0:0:1:39
+nserver:      B.NIC.FANS 185.24.64.39 2a04:2b00:13cc:0:0:0:1:39
+nserver:      C.NIC.FANS 194.0.2.2 2001:678:5:0:0:0:0:2
+nserver:      D.NIC.FANS 194.0.1.45 2001:678:4:0:0:0:0:2d
+ds-rdata:     25466 8 1 A3852426105E4C37721101DE1ECA4D38E7071E79
+ds-rdata:     25466 8 2 7842246F760A21E694F1D8B64754F0D5BB27EF6A33F25E2F3F2DEE26B33B118B
+
+whois:        whois.centralnic.com
+
+status:       ACTIVE
+remarks:      Registration information: http://dotfans.net/
+
+created:      2015-02-05
+changed:      2015-02-19
+source:       IANA
+
