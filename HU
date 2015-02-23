@@ -36,6 +36,7 @@ nserver:      D.HU 195.70.35.250
 nserver:      E.HU 194.0.25.11 2001:678:20:0:0:0:0:11
 nserver:      NS-COM.NIC.HU 194.0.1.12 2001:678:4:0:0:0:0:c
 nserver:      NS2.NIC.FR 192.93.0.4 2001:660:3005:1:0:0:1:2
+ds-rdata:     18949 8 2 db876c0517541ca362a565dbf54fe58c230296b01b62611269affb5c186a7d33
 
 whois:        whois.nic.hu
 
@@ -43,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.hu
 
 created:      1990-11-07
-changed:      2014-03-27
+changed:      2015-02-23
 source:       IANA
 
