@@ -29,7 +29,7 @@ e-mail:       tech@cctld.by
 
 nserver:      DNS1.TLD.TUTBY.COM 178.124.133.53
 nserver:      DNS2.TLD.TUTBY.COM 93.125.30.44
-nserver:      DNS3.TLD.TUTBY.COM 195.137.160.10 2a01:d8:2:1:0:0:0:2
+nserver:      DNS3.TLD.TUTBY.COM 195.209.35.70 2a01:d8:2:1:0:0:0:2
 nserver:      DNS4.TLD.TUTBY.COM 62.212.73.101
 nserver:      DNS5.TLD.TUTBY.COM 46.165.217.94
 nserver:      DNS6.TLD.TUTBY.COM 108.59.8.66
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://cctld.by
 
 created:      1994-05-10
-changed:      2014-08-05
+changed:      2015-02-24
 source:       IANA
 
