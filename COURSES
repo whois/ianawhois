@@ -1,0 +1,50 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       COURSES
+
+organisation: OPEN UNIVERSITIES AUSTRALIA PTY LTD
+address:      Level 1, 473 Bourke Street,
+address:      Melbourne,
+address:      VIC 3000
+address:      Australia
+
+contact:      administrative
+name:         Eamon McGrath
+organisation: ARI Registry Services
+address:      Level 8, 10 Queens Road,
+address:      Melbourne,
+address:      VIC 3004
+address:      Australia
+phone:        +61398663710
+fax-no:       +61398661970
+e-mail:       eamon.mcgrath@ariservices.com
+
+contact:      technical
+name:         Ryan Miller
+organisation: ARI Registry Services
+address:      Level 8, 10 Queens Road,
+address:      Melbourne,
+address:      VIC 3004
+address:      Australia
+phone:        +61398663710
+fax-no:       +61398661970
+e-mail:       gtldsupport@ariservices.com
+
+nserver:      A.NIC.COURSES 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.COURSES 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.COURSES 2001:dcd:3:0:0:0:0:9 37.209.196.9
+nserver:      D.NIC.COURSES 2001:dcd:4:0:0:0:0:9 37.209.198.9
+ds-rdata:     13339 8 1 3A2FB7E2272661418EAF38A25105780B105A1FDA
+ds-rdata:     13339 8 2 3D0376782E332D85DA97E338AE0A550E66C5ECD2ABE87521952D67EA35901FD7
+
+whois:        whois.aridnrs.net.au
+
+status:       ACTIVE
+remarks:      Registration information: http://www.open.edu.au/
+
+created:      2015-02-19
+changed:      2015-02-26
+source:       IANA
+
