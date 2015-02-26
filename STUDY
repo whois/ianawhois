@@ -1,0 +1,50 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       STUDY
+
+organisation: OPEN UNIVERSITIES AUSTRALIA PTY LTD
+address:      Level 1, 473 Bourke Street,
+address:      Melbourne,
+address:      VIC 3000
+address:      Australia
+
+contact:      administrative
+name:         Eamon McGrath
+organisation: ARI Registry Services
+address:      Level 8, 10 Queens Road,
+address:      Melbourne,
+address:      VIC 3004
+address:      Australia
+phone:        +61398663710
+fax-no:       +61398661970
+e-mail:       eamon.mcgrath@ariservices.com
+
+contact:      technical
+name:         Ryan Miller
+organisation: ARI Registry Services
+address:      Level 8, 10 Queens Road,
+address:      Melbourne,
+address:      VIC 3004
+address:      Australia
+phone:        +61398663710
+fax-no:       +61398661970
+e-mail:       gtldsupport@ariservices.com
+
+nserver:      A.NIC.STUDY 2001:dcd:1:0:0:0:0:10 37.209.192.10
+nserver:      B.NIC.STUDY 2001:dcd:2:0:0:0:0:10 37.209.194.10
+nserver:      C.NIC.STUDY 2001:dcd:3:0:0:0:0:10 37.209.196.10
+nserver:      D.NIC.STUDY 2001:dcd:4:0:0:0:0:10 37.209.198.10
+ds-rdata:     17920 8 1 4E0AEA91C7F2266E39EA781A43C116176562C948
+ds-rdata:     17920 8 2 A1CB0CEEF546107D767A6D3D02BF40AB0181445372EFF21CD959CA871A7702E3
+
+whois:        whois.nic.study
+
+status:       ACTIVE
+remarks:      Registration information: http://www.open.edu.au/
+
+created:      2015-02-19
+changed:      2015-02-26
+source:       IANA
+
