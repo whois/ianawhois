@@ -1,0 +1,47 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       BOATS
+
+organisation: DERBoats, LLC
+address:      150 Granby St
+address:      Norfolk, VA 23510
+address:      United States
+
+contact:      administrative
+name:         Lee Achor
+organisation: Dominion Enterprises
+address:      150 Granby Street
+address:      Norfolk, VA 23510
+address:      United States
+phone:        7573518207
+e-mail:       boats-tld@dominionenterprises.com
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      Building 3, Suite 105, 300 Welsh Road
+address:      Horsham, PA 19044
+address:      United States
+phone:        215.706.5700
+fax-no:       215.706.5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.BOATS 2a01:8840:66:0:0:0:0:17 65.22.104.17
+nserver:      A2.NIC.BOATS 2a01:8840:69:0:0:0:0:17 65.22.107.17
+nserver:      B0.NIC.BOATS 2a01:8840:67:0:0:0:0:17 65.22.105.17
+nserver:      C0.NIC.BOATS 2a01:8840:68:0:0:0:0:17 65.22.106.17
+ds-rdata:     50710 7 1 9c5d5c9eaf6bf0db42cfb639295966d46216e5ba
+ds-rdata:     50710 7 2 bdb608e0a18c7a65768c7d18857fca78381382cb6d048c4b507fd8631dd38dc5
+
+whois:        whois.afilias-srs.net
+
+status:       ACTIVE
+remarks:      Registration information:
+remarks:      http://www.dominionenterprises.com/gtld/
+
+created:      2015-02-13
+changed:      2015-02-26
+source:       IANA
+
