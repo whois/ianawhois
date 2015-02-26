@@ -27,12 +27,10 @@ address:      Montserrat
 phone:        +1 664 491 6386
 e-mail:       regsupport@mninet.ms
 
+nserver:      A.MS.DYNTLD.NET 199.19.5.23 2001:500:92:0:0:0:0:23
+nserver:      B.MS.DYNTLD.NET 199.19.6.23 2001:500:96:0:0:0:0:23
 nserver:      MNIDNS1.MNINET.MS 199.7.90.2
-nserver:      MS-NS.ANYCAST.PCH.NET 204.61.216.33
-nserver:      MS1.DYNTLD.NET 208.78.70.84
-nserver:      MS2.DYNTLD.NET 204.13.250.84
-nserver:      MS3.DYNTLD.NET 208.78.71.84
-nserver:      MS4.DYNTLD.NET 204.13.251.84
+nserver:      MS-NS.ANYCAST.PCH.NET 2001:500:14:6033:ad:0:0:1 204.61.216.33
 nserver:      PHLOEM.UOREGON.EDU 128.223.32.35 2001:468:d01:20:0:0:80df:2023
 
 whois:        whois.nic.ms
@@ -41,6 +39,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.ms
 
 created:      1997-03-06
-changed:      2008-12-23
+changed:      2015-02-26
 source:       IANA
 
