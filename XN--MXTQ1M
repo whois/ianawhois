@@ -1,0 +1,47 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       政府
+domain-ace:   XN--MXTQ1M
+
+organisation: Net-Chinese Co., Ltd.
+address:      12F., No.46, Sec. 2, Zhongshan N. Rd., Zhongshan Dist.
+address:      Taipei City
+address:      Taiwan
+
+contact:      administrative
+name:         Vice CEO
+organisation: Taiwan Network Information Center (TWNIC)
+address:      4F-2, No. 9, Roosevelt Road, Section 2
+address:      Taipei 100
+address:      Taiwan
+phone:        +886 2 2341 1313 ext. 126
+fax-no:       +886 2 2396 8832
+e-mail:       tw-admin@twnic.net
+
+contact:      technical
+name:         Director of Technical Department
+organisation: Taiwan Network Information Center (TWNIC)
+address:      4F-2, No. 9, Roosevelt Road, Section 2
+address:      Taipei 100
+address:      Taiwan
+phone:        +886 2 2341 1313 ext. 500
+fax-no:       +886 2 2396 8832
+e-mail:       snw@twnic.net.tw
+
+nserver:      A.NIC.XN--MXTQ1M 2001:c08:175:128:0:0:175:128 202.169.175.130
+nserver:      B.NIC.XN--MXTQ1M 2001:cd8:800:0:0:0:0:25 203.73.24.25
+nserver:      C.NIC.XN--MXTQ1M 2001:b000:1e0:c000:0:0:0:7 211.20.231.7
+nserver:      D.NIC.XN--MXTQ1M 2001:c50:ffff:1:0:0:0:185 60.199.165.185
+ds-rdata:     65200 8 2 24F4E4C9AF4E4B45EC7EBEEB231C572496F89D13CF403DF4FDCFFC326333CA73
+
+whois:        whois.nic.xn--mxtq1m
+
+status:       ACTIVE
+remarks:      Registration information: http://www.netc.tw
+
+created:      2015-01-08
+changed:      2015-03-03
+source:       IANA
+
