@@ -33,12 +33,12 @@ nserver:      D.GMOREGISTRY.NET 120.29.252.11 2001:dcd:5:0:0:0:0:11
 nserver:      E.GMOREGISTRY.NET 120.29.254.11 2001:dcd:6:0:0:0:0:11
 ds-rdata:     37660 8 2 B0D1A197C3B7D3B5435A510A1EB5C19320CAC11C9D4DF43435540E23D34A088B
 
-whois:        whois.nic.gmo
+whois:        whois.nic.ggee
 
 status:       ACTIVE
-remarks:      Registration information: http://www.gmoregistry.com/en/
+remarks:      Registration information: http://nic.ggee
 
 created:      2014-12-18
-changed:      2015-01-25
+changed:      2015-03-03
 source:       IANA
 
