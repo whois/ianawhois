@@ -1,0 +1,48 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       LECLERC
+
+organisation: A.C.D. LEC Association des Centres Distributeurs Edouard Leclerc
+address:      26 quai Marcel Boyer
+address:      94200 Ivry-Sur-Seine
+address:      France
+
+contact:      administrative
+name:         Head of Legal Department 
+organisation: A.C.D. LEC Association des Centres Distributeurs Edouard Leclerc
+address:      26 quai Marcel Boyer
+address:      94200 Ivry-Sur-Seine
+address:      France
+phone:        +33 143875100
+fax-no:       +33 149875108
+e-mail:       registre@e-leclerc.com
+
+contact:      technical
+name:         Project Manager
+organisation: AFNIC
+address:      1 rue Stephenson
+address:      Immeuble Le Stephenson
+address:      78180 Saint-Quentin-En-Yvelines
+address:      France
+phone:        +33 672217740
+fax-no:       +33 139308301
+e-mail:       pdtleclerc@afnic.fr
+
+nserver:      D.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
+nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
+nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
+ds-rdata:     44740 8 2 9c499be628858bc1962abb91040190b39f53059dd5edded7de121f1ee80fbda9
+ds-rdata:     26156 8 2 ad505fced82fc6ffee379acd133f0182cc4ddca82247b54cc557d93ff4823a64
+
+whois:        whois-leclerc.nic.fr
+
+status:       ACTIVE
+remarks:      Registration information:
+remarks:      http://www.mouvement-leclerc.com
+
+created:      2015-01-29
+changed:      2015-03-03
+source:       IANA
+
