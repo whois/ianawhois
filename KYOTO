@@ -42,12 +42,12 @@ nserver:      D.GMOREGISTRY.NET 120.29.252.11 2001:dcd:5:0:0:0:0:11
 nserver:      E.GMOREGISTRY.NET 120.29.254.11 2001:dcd:6:0:0:0:0:11
 ds-rdata:     23621 8 2 CFFC0A41827DDF595D79E4CCC1B4ECF5657DAB10EEF625E0C4ABFDB72946884E
 
-whois:        whois.nic.tokyo
+whois:        whois.nic.kyoto
 
 status:       ACTIVE
-remarks:      Registration information: http://www.gmoregistry.com
+remarks:      Registration information: http://nic.kyoto
 
 created:      2015-01-08
-changed:      2015-01-28
+changed:      2015-03-03
 source:       IANA
 
