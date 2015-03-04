@@ -33,12 +33,12 @@ nserver:      D.GMOREGISTRY.NET 120.29.252.11 2001:dcd:5:0:0:0:0:11
 nserver:      E.GMOREGISTRY.NET 120.29.254.11 2001:dcd:6:0:0:0:0:11
 ds-rdata:     29941 8 2 4c037db3bacd57e0b78ff024012d3fe2aa91f40116bd36c12aa0810fe3a529da
 
-whois:        whois.nic.gmo
+whois:        whois.nic.goldpoint
 
 status:       ACTIVE
-remarks:      Registration information: http://www.gmoregistry.com/en/
+remarks:      Registration information: http://nic.goldpoint
 
 created:      2015-02-13
-changed:      2015-02-19
+changed:      2015-03-03
 source:       IANA
 
