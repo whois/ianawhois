@@ -33,12 +33,12 @@ nserver:      D.GMOREGISTRY.NET 120.29.252.11 2001:dcd:5:0:0:0:0:11
 nserver:      E.GMOREGISTRY.NET 120.29.254.11 2001:dcd:6:0:0:0:0:11
 ds-rdata:     51982 8 2 5DDE439A01DE939310D3DB22E60F39D6FD8BD177AE25E473D76489DB54F426BC
 
-whois:        whois.nic.gmo
+whois:        whois.nic.canon
 
 status:       ACTIVE
-remarks:      Registration information: http://www.gmoregistry.com/en/
+remarks:      Registration information: http://nic.canon
 
 created:      2015-01-29
-changed:      2015-02-04
+changed:      2015-03-03
 source:       IANA
 
