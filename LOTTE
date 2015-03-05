@@ -33,12 +33,12 @@ nserver:      D.GMOREGISTRY.NET 120.29.252.11 2001:dcd:5:0:0:0:0:11
 nserver:      E.GMOREGISTRY.NET 120.29.254.11 2001:dcd:6:0:0:0:0:11
 ds-rdata:     30296 8 2 533ABAF82A6D06AE3A32BB658FB6E01EE83D25A6D803BA07882A8B8C2DB96CED
 
-whois:        whois.nic.gmo
+whois:        whois.nic.lotte
 
 status:       ACTIVE
-remarks:      Registration information: http://www.gmoregistry.com/en/
+remarks:      Registration information: http://nic.lotte
 
 created:      2015-01-08
-changed:      2015-01-14
+changed:      2015-03-05
 source:       IANA
 
