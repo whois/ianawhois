@@ -1,0 +1,44 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       INFINITI
+
+organisation: NISSAN MOTOR CO., LTD.
+address:      2, Takaracho, Kanagawa-ku Yokohama-shi, Kanagawa - 220-8686 JP
+address:      Japan
+
+contact:      administrative
+name:         Representative Director
+organisation: GMO Registry, Inc.
+address:      26-1 Sakuragaoka-cho Shibuya-ku, Tokyo - 1508512 JP
+address:      Japan
+phone:        +81-3-5456-1601
+fax-no:       +81-3-3780-5239
+e-mail:       newgtld@gmoregistry.com
+
+contact:      technical
+name:         Director
+organisation: GMO Registry, Inc.
+address:      26-1 Sakuragaoka-cho Shibuya-ku, Tokyo - 1508512 JP
+address:      Japan
+phone:        +81-3-5456-1601
+fax-no:       +81-3-3780-5239
+e-mail:       newgtld@gmoregistry.com
+
+nserver:      A.GMOREGISTRY.NET 2001:470:1a:0:0:0:0:9 72.52.71.9
+nserver:      B.GMOREGISTRY.NET 38.103.2.9
+nserver:      C.GMOREGISTRY.NET 2001:5a0:10:0:0:0:0:9 63.243.194.9
+nserver:      D.GMOREGISTRY.NET 120.29.252.11 2001:dcd:5:0:0:0:0:11
+nserver:      E.GMOREGISTRY.NET 120.29.254.11 2001:dcd:6:0:0:0:0:11
+ds-rdata:     62974 8 2 9e01f2780cd7955e03c221effd3a4e490b58191d2f3a80dc873e56036c873a2b
+
+whois:        whois.nic.gmo
+
+status:       ACTIVE
+remarks:      Registration information: http://www.gmoregistry.com/en/
+
+created:      2014-07-10
+changed:      2015-03-04
+source:       IANA
+
