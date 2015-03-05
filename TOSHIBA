@@ -33,12 +33,12 @@ nserver:      D.GMOREGISTRY.NET 120.29.252.11 2001:dcd:5:0:0:0:0:11
 nserver:      E.GMOREGISTRY.NET 120.29.254.11 2001:dcd:6:0:0:0:0:11
 ds-rdata:     64274 8 2 AF8F608117DA2E6F72B6F11C3B3790B946FD4B44AE57708CAF7DC9B4A1A2776C
 
-whois:        whois.nic.gmo
+whois:        whois.nic.toshiba
 
 status:       ACTIVE
-remarks:      Registration information: http://www.gmoregistry.com/en/
+remarks:      Registration information: http://nic.toshiba
 
 created:      2014-10-09
-changed:      2015-02-04
+changed:      2015-03-05
 source:       IANA
 
