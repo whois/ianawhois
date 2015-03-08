@@ -1,0 +1,51 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       XIN
+
+organisation: Elegant Leader Limited
+address:      25/F JUBILEE CENTRE
+address:      18 FENWICK STREET
+address:      WANCHAI
+address:      HONG KONG
+address:      China
+
+contact:      administrative
+name:         Yusi Zheng
+organisation: Elegant Leader Limited
+address:      HiChina Mansion
+address:      No.27 Gulouwai Avenue, Dongcheng District
+address:      1001020 Beijing
+address:      China
+phone:        86 10 65985888 ext. 16581
+fax-no:       86 10 65985608
+e-mail:       joyce.zheng@alibaba-inc.com
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      Building 3, Suite 105
+address:      300 Welsh Road
+address:      Horsham, PA 19044
+address:      United States
+phone:        +1 215.706.5700
+fax-no:       +1 215.706.5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.XIN 2a01:8840:7e:0:0:0:0:17 65.22.128.17
+nserver:      A2.NIC.XIN 2a01:8840:81:0:0:0:0:17 65.22.131.17
+nserver:      B0.NIC.XIN 2a01:8840:7f:0:0:0:0:17 65.22.129.17
+nserver:      C0.NIC.XIN 2a01:8840:80:0:0:0:0:17 65.22.130.17
+ds-rdata:     57339 7 1 8b256cf077c63884bdf213c796db6f32a4289717
+ds-rdata:     57339 7 2 617b4a512b4cebe63595c1f27504b5b99c2e4319eb7ad56e48b8679bd137e7f1
+
+whois:        whois.afilias-srs.net
+
+status:       ACTIVE
+remarks:      Registration information: http://www.dotxin.org
+
+created:      2015-02-19
+changed:      2015-03-07
+source:       IANA
+
