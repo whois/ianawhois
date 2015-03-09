@@ -36,12 +36,12 @@ nserver:      D.NIC.REIT 194.0.1.45 2001:678:4:0:0:0:0:2d
 ds-rdata:     44512 8 1 3451296E8F2FFE68EB14B400A686FE1DA12E3941
 ds-rdata:     44512 8 2 661FBDE636973834F5D417D3897DDF8590461DA6F020CFAA4274718DD926C523
 
-whois:        whois.centralnic.com
+whois:        whois.nic.reit
 
 status:       ACTIVE
 remarks:      Registration information: http://www.reit.com
 
 created:      2014-10-23
-changed:      2014-11-12
+changed:      2015-03-09
 source:       IANA
 
