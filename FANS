@@ -36,12 +36,12 @@ nserver:      D.NIC.FANS 194.0.1.45 2001:678:4:0:0:0:0:2d
 ds-rdata:     25466 8 1 A3852426105E4C37721101DE1ECA4D38E7071E79
 ds-rdata:     25466 8 2 7842246F760A21E694F1D8B64754F0D5BB27EF6A33F25E2F3F2DEE26B33B118B
 
-whois:        whois.centralnic.com
+whois:        whois.nic.fans
 
 status:       ACTIVE
 remarks:      Registration information: http://dotfans.net/
 
 created:      2015-02-05
-changed:      2015-02-19
+changed:      2015-03-09
 source:       IANA
 
