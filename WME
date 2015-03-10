@@ -36,13 +36,13 @@ nserver:      D.NIC.WME 194.0.1.45 2001:678:4:0:0:0:0:2d
 ds-rdata:     7259 8 1 f4ccd846a0b86daf9ce33371fb93362d4dc4addf
 ds-rdata:     7259 8 2 e7cb7561099040db08978f7696320ddaf323f52ddbf951fa5f4c44b2f34e38bd
 
-whois:        whois.centralnic.com
+whois:        whois.nic.wme
 
 status:       ACTIVE
 remarks:      Registration information:
 remarks:      http://www.wmeentertainment.com
 
 created:      2014-08-22
-changed:      2014-09-10
+changed:      2015-03-10
 source:       IANA
 
