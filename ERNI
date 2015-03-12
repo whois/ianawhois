@@ -1,0 +1,48 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       ERNI
+
+organisation: ERNI Group Holding AG
+address:      ERNI Consulting AG
+address:      Bahnhofstrasse 4
+address:      CH-6340 Baar
+address:      Switzerland
+
+contact:      administrative
+name:         .erni TLD Administrative Contact
+organisation: CORE Association
+address:      Cours de Rive 2
+address:      CH-1204 Geneva
+address:      Switzerland
+address:      Switzerland
+phone:        +41 22 312 5610
+fax-no:       +41 22 312 5612
+e-mail:       secretariat@corenic.org
+
+contact:      technical
+name:         .erni TLD Technical Contact
+organisation: CORE Association
+address:      Cours de Rive 2
+address:      CH-1204 Geneva
+address:      Switzerland
+phone:        +41 22 312 5610
+fax-no:       +41 22 312 5612
+e-mail:       dnsmaster@corenic.org
+
+nserver:      ANYCAST10.IRONDNS.NET 195.253.64.12 2a01:5b0:4:0:0:0:0:c
+nserver:      ANYCAST23.IRONDNS.NET 195.253.65.11 2a01:5b0:5:0:0:0:0:b
+nserver:      ANYCAST24.IRONDNS.NET 195.253.65.12 2a01:5b0:5:0:0:0:0:c
+nserver:      ANYCAST9.IRONDNS.NET 195.253.64.11 2a01:5b0:4:0:0:0:0:b
+ds-rdata:     51829 10 2 25888A431BFA4251BF4E4D8340B9EC411AC57F6C20DAB0FEEB9CA68A34B13AC7
+
+whois:        whois.nic.erni
+
+status:       ACTIVE
+remarks:      Registration information: http://www.erni.ch
+
+created:      2015-02-05
+changed:      2015-03-12
+source:       IANA
+
