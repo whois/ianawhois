@@ -5,24 +5,24 @@
 domain:       PHYSIO
 
 organisation: PhysBiz Pty Ltd
-address:      88 Rosedale Street, Floreat WA 6014
+address:      PO Box 316, Floreat WA 6014
 address:      Australia
 
 contact:      administrative
 name:         Glenn Ruscoe
 organisation: Phys Biz Pty Ltd
-address:      88 Rosedale Street, Floreat WA 6014
+address:      PO Box 316, Floreat WA 6014
 address:      Australia
 phone:        61892849684
-e-mail:       enquiries@registrydotphysio.com
+e-mail:       enquiries@registry.physio
 
 contact:      technical
 name:         Glenn Ruscoe
 organisation: Phys Biz Pty Ltd
-address:      88 Rosedale Street, Floreat WA 6014
+address:      PO Box 316, Floreat WA 6014
 address:      Australia
 phone:        61892849684
-e-mail:       enquiries@registrydotphysio.com
+e-mail:       enquiries@registry.physio
 
 nserver:      A.NIC.PHYSIO 2001:dcd:1:0:0:0:0:10 37.209.192.10
 nserver:      B.NIC.PHYSIO 2001:dcd:2:0:0:0:0:10 37.209.194.10
@@ -34,10 +34,9 @@ ds-rdata:     25090 8 2 54CD0DCAE95D0C7CBAF5C9640CA6601B526B4FE28740CFC66381A6BB
 whois:        whois.nic.physio
 
 status:       ACTIVE
-remarks:      Registration information:
-remarks:      http://www.registrydotphysio.com/
+remarks:      Registration information: http://www.registry.physio
 
 created:      2014-06-05
-changed:      2014-06-23
+changed:      2015-03-12
 source:       IANA
 
