@@ -36,12 +36,12 @@ nserver:      D.NIC.FEEDBACK 194.0.1.45 2001:678:4:0:0:0:0:2d
 ds-rdata:     16786 8 1 884C8D6BEB8DA7F0108A0760CCFCFC018A973DDE
 ds-rdata:     16786 8 2 00F7F4B6DF67DC7B828C14829884908EE92E57FE312ED483C43DA299FA5DDAE5
 
-whois:        whois.centralnic.com
+whois:        whois.nic.feedback
 
 status:       ACTIVE
 remarks:      Registration information: http://centralnic.com
 
 created:      2014-03-06
-changed:      2014-04-10
+changed:      2015-03-13
 source:       IANA
 
