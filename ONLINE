@@ -1,0 +1,47 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       ONLINE
+
+organisation: DotOnline Inc.
+address:      F/19, BC1, Ras Al Khaimah FTZ
+address:      P.O Box # 16113, Ras Al Khaimah - 16113.
+address:      United Arab Emirates
+
+contact:      administrative
+name:         Shweta Sahjwani
+organisation: DotOnline Inc.
+address:      Directiplex, Old Nagardas Road
+address:      Andheri (East), Mumbai - 400069.
+address:      India
+phone:        +91.2230797500x8522
+fax-no:       +91.2230797508
+e-mail:       admin@radixregistry.com
+
+contact:      technical
+name:         CTO
+organisation: CentralNic
+address:      35-39 Moorgate
+address:      London EC2R 6AR
+address:      United Kingdom
+phone:        +44.2033880600
+fax-no:       +44.2033880601
+e-mail:       tld.ops@centralnic.com
+
+nserver:      A.NIC.ONLINE 194.169.218.54 2001:67c:13cc:0:0:0:1:54
+nserver:      B.NIC.ONLINE 185.24.64.54 2a04:2b00:13cc:0:0:0:1:54
+nserver:      C.NIC.ONLINE 194.0.2.2 2001:678:5:0:0:0:0:2
+nserver:      D.NIC.ONLINE 194.0.1.45 2001:678:4:0:0:0:0:2d
+ds-rdata:     4267 8 1 A038DA06A96AD8E9BFE2BA78C392FF7804B4CD2B
+ds-rdata:     4267 8 2 66D7010609CB19E99AD1DA2833DDAB8CA2E7ACC1CE870CC28D29E76EB53D39BA
+
+whois:        whois.centralnic.com
+
+status:       ACTIVE
+remarks:      Registration information: http://www.radixregistry.com
+
+created:      2015-03-06
+changed:      2015-03-16
+source:       IANA
+
