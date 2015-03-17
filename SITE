@@ -1,0 +1,47 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       SITE
+
+organisation: DotSite Inc.
+address:      F/19, BC1, Ras Al Khaimah FTZ
+address:      P.O Box # 16113, Ras Al Khaimah - 16113.
+address:      United Arab Emirates
+
+contact:      administrative
+name:         Shweta Sahjwani
+organisation: DotSite, Inc
+address:      F/19, BC1, Ras Al Khaimah FTZ
+address:      P.O Box # 16113, Ras Al Khaimah - 16113.
+address:      United Arab Emirates
+phone:        +91.2230797500x8522
+fax-no:       +91.2230797508
+e-mail:       admin@radixregistry.com
+
+contact:      technical
+name:         CTO
+organisation: CentralNic
+address:      35-39 Moorgate
+address:      London EC2R 6AR
+address:      United Kingdom
+phone:        +44.2033880600
+fax-no:       +44.2033880601
+e-mail:       tld.ops@centralnic.com
+
+nserver:      A.NIC.SITE 194.169.218.61 2001:67c:13cc:0:0:0:1:61
+nserver:      B.NIC.SITE 185.24.64.61 2a04:2b00:13cc:0:0:0:1:61
+nserver:      C.NIC.SITE 194.0.2.2 2001:678:5:0:0:0:0:2
+nserver:      D.NIC.SITE 194.0.1.45 2001:678:4:0:0:0:0:2d
+ds-rdata:     51676 8 1 90DDBEEEB973B0F8719ED763FB6EEDE97C73ABF5
+ds-rdata:     51676 8 2 883175F6F5C68EA81563B62D1B2B79B6A997D60DC6E20CC70AFD0CD6B7E82F62
+
+whois:        whois.centralnic.com
+
+status:       ACTIVE
+remarks:      Registration information: http://www.radixregistry.com
+
+created:      2015-03-06
+changed:      2015-03-16
+source:       IANA
+
