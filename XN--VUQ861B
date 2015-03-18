@@ -6,9 +6,41 @@ domain:       信息
 domain-ace:   XN--VUQ861B
 
 organisation: Beijing Tele-info Network Technology Co., Ltd.
+address:      Room 615,No.52 Hua Yuan Bei Road, Haidian District, Beijing, China
+address:      China
 
-status:       NEW
+contact:      administrative
+name:         Rui Liu
+organisation: Beijing	Tele-info	Network	 Technology	Co.,	Ltd.
+address:      52 Hua Yuan Bei Road, Room 615, Haidian District, Beijing, China
+address:      China
+phone:        +86 10 62301302
+fax-no:       +86 10 62304011
+e-mail:       lr@tele-info.cn
+
+contact:      technical
+name:         Zhang Li
+organisation: China Internet Network Information Center
+address:      Floor 1, Building 1, Software Park, Chinese Academy of Sciences, 4 South 4th Street, Zhongguancun, Beijing
+address:      POB: Beijing 349, Branch 6, CNNIC
+address:      China
+phone:        +86 10 58813170
+fax-no:       +86 10 58812666
+e-mail:       zhangli@cnnic.cn
+
+nserver:      TA.NGTLD.CN 2001:dc7:ffd1:0:0:0:0:1 42.83.130.1
+nserver:      TB.NGTLD.CN 2001:dc7:ffd2:0:0:0:0:1 42.83.131.1
+nserver:      TC.NGTLD.CN 2001:dc7:ffd3:0:0:0:0:1 42.83.132.1
+nserver:      TD.NGTLD.CN 42.83.133.1
+nserver:      TE.NGTLD.CN 42.83.134.1
+ds-rdata:     2506 8 2 BA755D01F428C23415C56C22FADCB646AAAE47CA2CF171823FB9AC100B3AF060
+
+whois:        whois.ngtld.cn
+
+status:       ACTIVE
+remarks:      Registration information: http://www.tele-info.cn
 
 created:      2015-02-05
+changed:      2015-03-18
 source:       IANA
 
