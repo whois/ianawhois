@@ -5,7 +5,7 @@
 domain:       SI
 
 organisation: Academic and Research Network of Slovenia (ARNES)
-address:      Jamova 39
+address:      Tehnološki park 18
 address:      Ljubljana  1000
 address:      Slovenia
 
@@ -20,14 +20,14 @@ fax-no:       +386 1 4798899
 e-mail:       bonac@arnes.si
 
 contact:      technical
-name:         Avgust Jauk
+name:         Benjamin Zwittnig
 organisation: Academic and Research Network of Slovenia (ARNES)
-address:      Jamova 39
+address:      Tehnološki park 18
 address:      Ljubljana  1000
 address:      Slovenia
 phone:        +386 1 4798800
 fax-no:       +386 1 4798899
-e-mail:       jauk@arnes.si
+e-mail:       benjamin.zwittnig@register.si
 
 nserver:      B.DNS.SI 193.2.1.91 2001:1470:8000:0:0:0:0:91
 nserver:      C.DNS.SI 192.93.0.4 2001:660:3005:1:0:0:1:2
@@ -45,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.registry.si/
 
 created:      1992-04-01
-changed:      2015-01-09
+changed:      2015-03-18
 source:       IANA
 
