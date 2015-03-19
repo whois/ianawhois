@@ -13,7 +13,7 @@ address:      United States
 contact:      administrative
 name:         General Counsel
 organisation: XYZ.COM LLC
-address:      2121 E Tropicana Ave
+address:      2121 E Tropicana Ave., STE2
 address:      Las Vegas
 address:      NV 89119
 address:      United States
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.xyz
 
 created:      2014-02-06
-changed:      2015-03-16
+changed:      2015-03-18
 source:       IANA
 
