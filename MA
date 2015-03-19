@@ -39,12 +39,12 @@ nserver:      NS2.IAM.NET.MA 81.192.53.23
 nserver:      NS2.NIC.FR 192.93.0.4 2001:660:3005:1:0:0:1:2
 nserver:      NS3.IAM.NET.MA 212.217.1.13
 
-whois:        whois.iam.net.ma
+whois:        whois.registre.ma
 
 status:       ACTIVE
-remarks:      Registration information: http://www.nic.ma/
+remarks:      Registration information: http://www.registre.ma
 
 created:      1993-11-26
-changed:      2011-11-23
+changed:      2015-03-18
 source:       IANA
 
