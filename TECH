@@ -1,0 +1,47 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       TECH
+
+organisation: Dot Tech LLC
+address:      F/19, BC1, Ras Al Khaimah FTZ
+address:      P.O Box # 16113, Ras Al Khaimah - 16113
+address:      United Arab Emirates
+
+contact:      administrative
+name:         Manager
+organisation: DotTech, Inc
+address:      F/19, BC1, Ras Al Khaimah FTZ
+address:      P.O Box # 16113, Ras Al Khaimah - 16113
+address:      United Arab Emirates
+phone:        +1.4154494774
+fax-no:       +91.2230797508
+e-mail:       admin@radixregistry.com
+
+contact:      technical
+name:         CTO
+organisation: CentralNic
+address:      35-39 Moorgate
+address:      London EC2R 6AR
+address:      United Kingdom
+phone:        +44.2033880600
+fax-no:       +44.2033880601
+e-mail:       tld.ops@centralnic.com
+
+nserver:      A.NIC.TECH 194.169.218.60 2001:67c:13cc:0:0:0:1:60
+nserver:      B.NIC.TECH 185.24.64.60 2a04:2b00:13cc:0:0:0:1:60
+nserver:      C.NIC.TECH 194.0.2.2 2001:678:5:0:0:0:0:2
+nserver:      D.NIC.TECH 194.0.1.45 2001:678:4:0:0:0:0:2d
+ds-rdata:     50095 8 1 82F72F2462DEE25B99DA2470535AD0A7D131F1EB
+ds-rdata:     50095 8 2 83F40D01141484D8F07305E5D2E44AC5663149054C598D6E9D993C661686C6EE
+
+whois:        whois.centralnic.com
+
+status:       ACTIVE
+remarks:      Registration information: http://www.radixregistry.com
+
+created:      2015-03-12
+changed:      2015-03-21
+source:       IANA
+
