@@ -6,7 +6,7 @@ domain:       CC
 
 organisation: eNIC Cocos (Keeling) Islands Pty.
 organisation: Ltd. d/b/a Island Internet Services
-address:      5 Queens Road
+address:      Level 10, 5 Queens Road
 address:      Melbourne Victoria 3004
 address:      Australia
 
@@ -14,7 +14,8 @@ contact:      administrative
 name:         Mario West, Managing Director
 organisation: eNIC Cocos (Keeling) Islands Pty.
 organisation: Ltd. d/b/a Island Internet Services
-address:      5 Queens Road
+address:      c/o Verisign Internet Services
+address:      Level 10, 5 Queens Road
 address:      Melbourne Victoria 3004
 address:      Australia
 phone:        +613 9926 6700
@@ -47,6 +48,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.cc/
 
 created:      1997-10-13
-changed:      2012-10-24
+changed:      2015-03-23
 source:       IANA
 
