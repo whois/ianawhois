@@ -30,7 +30,8 @@ fax-no:       +98 21 22 29 57 00
 e-mail:       alireza.saleh@irnic.ir
 
 nserver:      A.NIC.IR 193.189.123.2
-nserver:      NS.IRNIC.IR 193.189.122.83
+nserver:      B.NIC.IR 193.189.122.83
+nserver:      IR.CCTLD.AUTHDNS.RIPE.NET 193.0.9.85 2001:67c:e0:0:0:0:0:85
 nserver:      NS5.UNIVIE.AC.AT 193.171.255.77 2001:628:453:4305:0:0:0:53
 
 whois:        whois.nic.ir
@@ -39,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.ir
 
 created:      1994-04-06
-changed:      2012-11-09
+changed:      2015-03-24
 source:       IANA
 
