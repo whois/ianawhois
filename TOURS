@@ -5,9 +5,42 @@
 domain:       TOURS
 
 organisation: Sugar Station, LLC
+address:      c/o Donuts Inc., 10500 NE 8th Street, Suite 350
+address:      Bellevue, Washington 98004
+address:      United States
 
-status:       NEW
+contact:      administrative
+name:         Richard Tindal
+organisation: Donuts Inc.
+address:      c/o Donuts Inc., 10500 NE 8th Street, Suite 350
+address:      Bellevue, Washington 98004
+address:      United States
+phone:        +1.425.283.8248
+fax-no:       +1.425.671.0020
+e-mail:       richard@donuts.co
+
+contact:      technical
+name:         Chris Cowherd
+organisation: Donuts Inc.
+address:      c/o Donuts Inc., 10500 NE 8th Street, Suite 350
+address:      Bellevue, Washington 98004
+address:      United States
+phone:        +1.425.296.6802
+fax-no:       +1.425.671.0020
+e-mail:       chris@donuts.co
+
+nserver:      DEMAND.ALPHA.ARIDNS.NET.AU 2001:dcd:1:0:0:0:0:7 37.209.192.7
+nserver:      DEMAND.BETA.ARIDNS.NET.AU 2001:dcd:2:0:0:0:0:7 37.209.194.7
+nserver:      DEMAND.DELTA.ARIDNS.NET.AU 2001:dcd:4:0:0:0:0:7 37.209.198.7
+nserver:      DEMAND.GAMMA.ARIDNS.NET.AU 2001:dcd:3:0:0:0:0:7 37.209.196.7
+ds-rdata:     18970 8 2 DC30CA2C38D0549FCB43BAD1242D838F2599D1621154A581FAFEDB4CE2F1A4F7
+
+whois:        whois.donuts.co
+
+status:       ACTIVE
+remarks:      Registration information: http://www.donuts.co/
 
 created:      2015-03-12
+changed:      2015-03-24
 source:       IANA
 
