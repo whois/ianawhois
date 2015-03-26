@@ -1,0 +1,50 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       TICKETS
+
+organisation: Accent Media Limited
+address:      35-39 Moorgate
+address:      London,
+address:      EC2R 6AR
+address:      United Kingdom
+
+contact:      administrative
+name:         CTO
+organisation: Centralnic
+address:      35-39 Moorgate
+address:      London
+address:      EC2R 6AR
+address:      United Kingdom
+phone:        +44.2033880600
+fax-no:       +44.2033880601
+e-mail:       tld.ops@centralnic.com
+
+contact:      technical
+name:         CTO
+organisation: Centralnic
+address:      35-39 Moorgate
+address:      London
+address:      EC2R 6AR
+address:      United Kingdom
+phone:        +44.2033880600
+fax-no:       +44.2033880601
+e-mail:       tld.ops@centralnic.com
+
+nserver:      A.NIC.TICKETS 194.169.218.58 2001:67c:13cc:0:0:0:1:58
+nserver:      B.NIC.TICKETS 185.24.64.58 2a04:2b00:13cc:0:0:0:1:58
+nserver:      C.NIC.TICKETS 194.0.2.2 2001:678:5:0:0:0:0:2
+nserver:      D.NIC.TICKETS 194.0.1.45 2001:678:4:0:0:0:0:2d
+ds-rdata:     11069 8 1 EF9659C10A6FF3B9259F2DF0CF7D36ECA515C8F0
+ds-rdata:     11069 8 2 5D58D40B472461672340583B4865540A52BFB551CA57663B22084E554D09532B
+
+whois:        whois.centralnic.com
+
+status:       ACTIVE
+remarks:      Registration information: http://dottickets.org/
+
+created:      2015-03-19
+changed:      2015-03-25
+source:       IANA
+
