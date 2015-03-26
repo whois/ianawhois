@@ -1,0 +1,48 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       MTN
+
+organisation: MTN Dubai Limited
+address:      Floor 23, DIFC Currency House,
+address:      Dubai
+address:      United Arab Emirates
+
+contact:      administrative
+name:         Maureen Mavunda
+organisation: MTN
+address:      Private Bag 9955
+address:      Cresta
+address:      2118
+address:      South Africa
+phone:        +97144237800
+fax-no:       +97144479719
+e-mail:       maureen.mavunda@mtn.co.za
+
+contact:      technical
+name:         Michael Paul
+organisation: MTN
+address:      P.O Box, 506735
+address:      Dubai
+address:      United Arab Emirates
+phone:        +97144237800
+fax-no:       +97144479719
+e-mail:       michael.paul@mtn.com
+
+nserver:      A.NIC.MTN 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.MTN 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.MTN 2001:dcd:3:0:0:0:0:9 37.209.196.9
+nserver:      D.NIC.MTN 2001:dcd:4:0:0:0:0:9 37.209.198.9
+ds-rdata:     46552 8 1 528157932617537C96221BA9DC975845F540CD26
+ds-rdata:     46552 8 2 43FC61FA552C84C35BFBC2A50CB61D51CD4D66C6C8A13907A34A15EB2A19730C
+
+whois:        whois.nic.mtn
+
+status:       ACTIVE
+remarks:      Registration information: http://www.mtn.com
+
+created:      2015-03-12
+changed:      2015-03-25
+source:       IANA
+
