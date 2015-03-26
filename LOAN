@@ -1,0 +1,45 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       LOAN
+
+organisation: dot Loan Limited
+address:      2nd Floor Leisure Island Business Centre, Ocean Village, Gibraltar, GX11 1AA
+address:      Gibraltar
+
+contact:      administrative
+name:         Geir Rasmussen
+organisation: Famous Four Media Limited
+address:      2nd Floor, Leisure Island Business Centre, Ocean Village, Gibraltar, GX11 1AA
+address:      Gibraltar
+phone:        +350 21650000
+fax-no:       +350 21628816
+e-mail:       grasmussen@famousfourmedia.com
+
+contact:      technical
+name:         Sean Kaine
+organisation: Neustar, Inc.
+address:      46000 Center Oak Plaza, Sterling VA 20166
+address:      United States
+phone:        +1 571 434 5168
+fax-no:       +1 571 434 5401
+e-mail:       registrytechnical1@neustar.biz
+
+nserver:      NS1.DNS.NIC.LOAN 156.154.144.106 2610:a1:1071:0:0:0:0:6a
+nserver:      NS2.DNS.NIC.LOAN 156.154.145.106 2610:a1:1072:0:0:0:0:6a
+nserver:      NS3.DNS.NIC.LOAN 156.154.159.106 2610:a1:1073:0:0:0:0:6a
+nserver:      NS4.DNS.NIC.LOAN 156.154.156.106 2610:a1:1074:0:0:0:0:6a
+nserver:      NS5.DNS.NIC.LOAN 156.154.157.106 2610:a1:1075:0:0:0:0:6a
+nserver:      NS6.DNS.NIC.LOAN 156.154.158.106 2610:a1:1076:0:0:0:0:6a
+ds-rdata:     5521 8 1 C27E74E26442998FFDA5CB83C81746579EAACAD9
+ds-rdata:     5521 8 2 B08AA2D50D83EAA39A9AC5D4A148AF2C7B3464B7574F18D6B109C6C0F8803E4E
+
+status:       ACTIVE
+remarks:      Registration information:
+remarks:      http://www.famousfourmedia.com/loan
+
+created:      2015-02-05
+changed:      2015-03-25
+source:       IANA
+
