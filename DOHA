@@ -1,0 +1,54 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       DOHA
+
+organisation: Communications Regulatory Authority (CRA)
+address:      Al Nasr Tower B., 19th Floor
+address:      Corniche Road
+address:      Doha
+address:      Qatar
+
+contact:      administrative
+name:         Saleh Al-Kuwari
+organisation: Communications Regulatory Authority (CRA)
+address:      P.O. Box 23264
+address:      Al Nassr Tower
+address:      Post Office Roundabout
+address:      Al Corniche Street
+address:      Doha
+address:      Qatar
+phone:        +9744995344
+fax-no:       +97444995515
+e-mail:       salkuwari@cra.gov.qa
+
+contact:      technical
+name:         Mohamed El Bashir
+organisation: Communications Regulatory Authority (CRA)
+address:      P.O. Box 23264
+address:      Al Nassr Tower
+address:      Post Office Roundabout
+address:      Al Corniche Street
+address:      Doha
+address:      Qatar
+phone:        +9744995427
+fax-no:       +97444995515
+e-mail:       mbashir@cra.gov.qa
+
+nserver:      A.NIC.DOHA 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.DOHA 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.DOHA 2001:dcd:3:0:0:0:0:9 37.209.196.9
+nserver:      D.NIC.DOHA 2001:dcd:4:0:0:0:0:9 37.209.198.9
+ds-rdata:     41806 8 1 B86CE682956C35AB7E43C77E5B0A51B0ACD4469E
+ds-rdata:     41806 8 2 D4ED6D7473D03E5ECBA4C35F448AC487CBBBC3F465C6C58D863C1186E4E629FB
+
+whois:        whois.nic.doha
+
+status:       ACTIVE
+remarks:      Registration information: http://www.ictqatar.qa/
+
+created:      2015-02-27
+changed:      2015-03-25
+source:       IANA
+
