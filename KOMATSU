@@ -1,0 +1,51 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       KOMATSU
+
+organisation: Komatsu Ltd.
+address:      2-3-6 Akasaka Minato-ku,
+address:      Tokyo 107-8414
+address:      Japan
+
+contact:      administrative
+name:         Mitsuaki Nakagawa
+organisation: Brights Consulting Inc.
+address:      30F, Kasumigaseki Bldg.,
+address:      3-2-5 Kasumigaseki
+address:      Chiyoda-ku
+address:      Tokyo 100-6030
+address:      Japan
+phone:        +81355210107
+fax-no:       +81355210117
+e-mail:       nakagawa_06@brights.jp
+
+contact:      technical
+name:         Mitsuaki Nakagawa
+organisation: Brights Consulting Inc.
+address:      30F, Kasumigaseki Bldg.,
+address:      3-2-5 Kasumigaseki
+address:      Chiyoda-ku
+address:      Tokyo 100-6030
+address:      Japan
+phone:        +81355210107
+fax-no:       +81355210117
+e-mail:       nakagawa_06@brights.jp
+
+nserver:      A.NIC.KOMATSU 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.KOMATSU 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.KOMATSU 2001:dcd:3:0:0:0:0:9 37.209.196.9
+nserver:      D.NIC.KOMATSU 2001:dcd:4:0:0:0:0:9 37.209.198.9
+ds-rdata:     9787 8 1 4277E01D3D0AD1656092BF73823729F983578A67
+ds-rdata:     9787 8 2 D3E28225011AD354D74684FE4F1B2221942A87D0C655B006280A70C28A02AF0C
+
+whois:        whois.nic.komatsu
+
+status:       ACTIVE
+remarks:      Registration information: http://www.komatsu.com/
+
+created:      2015-03-06
+changed:      2015-03-26
+source:       IANA
+
