@@ -15,7 +15,7 @@ address:      Cerulean Tower, 26-1 Sakuragaoka-cho, Shibuya-ku, Tokyo
 address:      Japan
 phone:        +81-3-5456-1601
 fax-no:       +81-3-3780-2611
-e-mail:       tech@gmoregistry.com
+e-mail:       newgtld@gmoregistry.com
 
 contact:      technical
 name:         Director
@@ -24,7 +24,7 @@ address:      Cerulean Tower, 26-1 Sakuragaoka-cho, Shibuya-ku, Tokyo
 address:      Japan
 phone:        +81-3-5456-1601
 fax-no:       +81-3-3780-2611
-e-mail:       tech@gmoregistry.com
+e-mail:       newgtld@gmoregistry.com
 
 nserver:      A.GMOREGISTRY.NET 2001:470:1a:0:0:0:0:9 72.52.71.9
 nserver:      B.GMOREGISTRY.NET 38.103.2.9
@@ -38,6 +38,6 @@ remarks:      Registration information:
 remarks:      http://www.gmo-registry.com/en/
 
 created:      2014-02-20
-changed:      2015-02-24
+changed:      2015-03-26
 source:       IANA
 
