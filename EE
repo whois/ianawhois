@@ -35,9 +35,8 @@ e-mail:       info@internet.ee
 nserver:      B.TLD.EE 194.146.106.110 2001:67c:1010:28:0:0:0:53
 nserver:      E.TLD.EE 2001:678:94:53:0:0:0:53 204.61.216.36
 nserver:      EE.ASO.EE 213.184.51.122 2a02:88:0:21:0:0:0:2
-nserver:      NS.EENET.EE 193.40.56.245 2001:bb8:0:0:0:0:0:1
+nserver:      EE.EENET.EE 193.40.132.5 2001:bb8:4001:0:0:0:0:53
 nserver:      NS.TLD.EE 195.43.87.10
-nserver:      SUNIC.SUNET.SE 192.36.125.2 2001:6b0:7:0:0:0:0:2
 ds-rdata:     34382 8 2 000A3D89DC6CD4BA00EA8AFFEE3967D3A26DE7A545FBEFE16BA07518FC8D54F6
 
 whois:        whois.tld.ee
@@ -46,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.internet.ee
 
 created:      1992-06-03
-changed:      2014-11-20
+changed:      2015-03-27
 source:       IANA
 
