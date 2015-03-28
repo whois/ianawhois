@@ -1,0 +1,46 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       BOND
+
+organisation: Bond University Limited
+address:      University Drive Robina
+address:      Queensland 4226
+address:      Australia
+
+contact:      administrative
+name:         Andrew James
+organisation: Bond University Limited
+address:      University Drive Robina,
+address:      Queensland 4226
+address:      Australia
+phone:        +61755951111
+fax-no:       +61755953340
+e-mail:       ngtld-bond@cscinfo.com
+
+contact:      technical
+name:         Dennis Rhee
+organisation: CSC Digital Brand Services
+address:      2711 Centerville Rd. suite 400
+address:      United States
+phone:        +13026365400
+fax-no:       +13026365454
+e-mail:       ngtlds-tech@cscinfo.com
+
+nserver:      A.NIC.BOND 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.BOND 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.BOND 2001:dcd:3:0:0:0:0:9 37.209.196.9
+nserver:      D.NIC.BOND 2001:dcd:4:0:0:0:0:9 37.209.198.9
+ds-rdata:     13285 8 1 C8DF0A54BDD8A9AA9BB150622D1F2A637FA38E5F
+ds-rdata:     13285 8 2 772AE9C344BFA61A35AD9E835C91B30C48961EBED6B340BD4E67EA5ED69441FA
+
+whois:        whois.nic.bond
+
+status:       ACTIVE
+remarks:      Registration information: http://bond.edu.au/
+
+created:      2014-10-30
+changed:      2015-03-27
+source:       IANA
+
