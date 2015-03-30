@@ -5,9 +5,46 @@
 domain:       REDSTONE
 
 organisation: Redstone Haute Couture Co., Ltd.
+address:      15F,Block B, Anlian Plaza,No.4018 JintianRoad
+address:      Shenzhen
+address:      518026
+address:      China
 
-status:       NEW
+contact:      administrative
+name:         Operation Manager
+organisation: Redstone Haute Couture Co., Ltd.
+address:      15F,Block B, Anlian Plaza,No.4018 JintianRoad
+address:      Shenzhen, China
+address:      518026
+address:      China
+phone:        86 (755) 8293 9929
+fax-no:       86 (755) 8293 9999
+e-mail:       icann.notices@redstone.com.cn
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      Building 3, Suite 105
+address:      300 Welsh Road
+address:      Horsham, PA 19044
+address:      United States
+phone:        +1 215.706.5700
+fax-no:       +1 215.706.5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.REDSTONE 2a01:8840:82:0:0:0:0:17 65.22.132.17
+nserver:      A2.NIC.REDSTONE 2a01:8840:85:0:0:0:0:17 65.22.135.17
+nserver:      B0.NIC.REDSTONE 2a01:8840:83:0:0:0:0:17 65.22.133.17
+nserver:      C0.NIC.REDSTONE 2a01:8840:84:0:0:0:0:17 65.22.134.17
+ds-rdata:     26920 7 1 3bc2ae75a80fe4cddf8936c557574a1c44da276b
+ds-rdata:     26920 7 2 b61ffe8f6b0a2dc6827df447aecba2c57c2bb70429246cbf4fbd996fa28f4088
+
+whois:        whois.afilias-srs.net
+
+status:       ACTIVE
+remarks:      Registration information: http://www/redstone-cn.com
 
 created:      2015-03-06
+changed:      2015-03-30
 source:       IANA
 
