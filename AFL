@@ -5,9 +5,44 @@
 domain:       AFL
 
 organisation: Australian Football League
+address:      140 Harbour Esplanade
+address:      Docklands, Victoria 3008
+address:      Australia
 
-status:       NEW
+contact:      administrative
+name:         Simon Clarke
+organisation: Australian Football League
+address:      140 Harbour Esplanade
+address:      Docklands, Victoria 3008
+address:      Australia
+phone:        +61394796684 
+fax-no:       +61396431871
+e-mail:       ngtld-afl@cscinfo.com
+
+contact:      technical
+name:         Dennis Rhee
+organisation: CSC Digital Brand Services
+address:      2711 Centerville Rd.
+address:      Suite 400
+address:      Wilmington, Delaware  19808
+address:      United States
+phone:        +13026365400
+fax-no:       +13026365454
+e-mail:       ngtlds-tech@cscinfo.com
+
+nserver:      A.NIC.AFL 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.AFL 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.AFL 2001:dcd:3:0:0:0:0:9 37.209.196.9
+nserver:      D.NIC.AFL 2001:dcd:4:0:0:0:0:9 37.209.198.9
+ds-rdata:     39466 8 1 96BB25DF9F41BCF9D51A0E4FCD348D48A3BA6983
+ds-rdata:     39466 8 2 E828C20A3C69F6937CEDE13FA2C91BFD3F8F3599B2D7A353D7D3FC10C2A704B1
+
+whois:        whois.nic.afl
+
+status:       ACTIVE
+remarks:      Registration information: http://www.afl.com.au/
 
 created:      2015-02-19
+changed:      2015-03-30
 source:       IANA
 
