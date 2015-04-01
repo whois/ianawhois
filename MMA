@@ -1,0 +1,48 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       MMA
+
+organisation: MMA IARD
+address:      14, boulevard Marie et Alexandre Oyon
+address:      72030 LE MANS
+address:      France
+
+contact:      administrative
+name:         Account Manager
+organisation: AFNIC
+address:      1, rue Stephenson
+address:      Immeuble Le Stephenson
+address:      78180 Montigny-Le-Bretonneux
+address:      France
+phone:        +33 139308315
+fax-no:       +33 139308301
+e-mail:       groupemma@afnic.fr
+
+contact:      technical
+name:         Project Manager
+organisation: AFNIC
+address:      1, rue Stephenson
+address:      Immeuble Le Stephenson
+address:      78180 Montigny-Le-Bretonneux
+address:      France
+phone:        +33 672217740
+fax-no:       +33 139308301
+e-mail:       pdtmma@afnic.fr
+
+nserver:      D.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
+nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
+nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
+ds-rdata:     1121 8 2 6e18c8aa1958e1bbde5c54fe74babceec7d9cce833d45b6a11ca58c8be78b9c4
+ds-rdata:     54041 8 2 0658e75221ece0ab0f8856e1d726ad5c898e911ef30e2f6e48c62217e391fef2
+
+whois:        whois-mma.nic.fr
+
+status:       ACTIVE
+remarks:      Registration information: http://www.mma.fr
+
+created:      2015-02-27
+changed:      2015-03-31
+source:       IANA
+
