@@ -13,26 +13,25 @@ address:      Rwanda
 contact:      administrative
 name:         CEO
 organisation: Rwanda Information Communication and Technology Association (RICTA)
-address:      P.O Box 5121
-address:      Telecom House 5th floor
-address:      Kigali
+address:      6th floor, Telecom House building, KG #7, Kacyiru Sector, Gasabo District, Kigali City
+address:      Republic of Rwanda
 address:      Rwanda
-phone:        +250783016417
+phone:        +250788470507
 e-mail:       rw-adm@ricta.org.rw
 
 contact:      technical
-name:         ccTLD Coordinator
+name:         ccTLD Technical Manager
 organisation: Rwanda Information Communication and Technology Association (RICTA)
-address:      P.O Box 5121
-address:      Telecom House 5th floor
-address:      Kigali
+address:      6th floor, Telecom House Building, KG #7, Kacyiru Sector, Gasabo District, Kigali City
+address:      Republic of Rwanda
 address:      Rwanda
-phone:        +250788470507
-e-mail:       cctldc@ricta.org.rw
+phone:        +250788424148
+e-mail:       noc@ricta.org.rw
 
 nserver:      FORK.STH.DNSNODE.NET 2a01:3f0:0:306:0:0:0:53 77.72.229.254
 nserver:      NS-RW.AFRINIC.NET 196.216.168.28 2001:43f8:120:0:0:0:0:28
 nserver:      NS1.RICTA.ORG.RW 41.74.173.250
+nserver:      NS3.RICTA.ORG.RW 41.186.53.10
 nserver:      PCH.RICTA.ORG.RW 2001:500:14:6091:ad:0:0:1 204.61.216.91
 nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e:0:0:0:0:1
 
@@ -40,6 +39,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.ricta.org.rw
 
 created:      1996-10-21
-changed:      2014-07-25
+changed:      2015-03-31
 source:       IANA
 
