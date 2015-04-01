@@ -24,12 +24,11 @@ e-mail:       mangogtld@ubilibet.com
 contact:      technical
 name:         TLD TechAdmin
 organisation: CORE Association
-address:      World Trade Center II
-address:      29 route de Pre-Bois
-address:      Geneva 1215
+address:      2, Cours de Rive
+address:      CH-1204 Geneva
 address:      Switzerland
-phone:        +41 22 929 57 44
-fax-no:       +41 22 929 57 45
+phone:        +41 223 125 610 
+fax-no:       +41 223 125 612
 e-mail:       dnsmaster@corenic.org
 
 nserver:      ANYCAST10.IRONDNS.NET 195.253.64.12 2a01:5b0:4:0:0:0:0:c
@@ -44,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.mango.com
 
 created:      2014-01-23
-changed:      2014-02-17
+changed:      2015-03-31
 source:       IANA
 
