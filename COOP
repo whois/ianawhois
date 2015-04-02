@@ -35,10 +35,6 @@ e-mail:       epp@nic.coop
 nserver:      A.NIC.COOP 194.169.218.64 2001:67c:13cc:0:0:0:1:64
 nserver:      B.NIC.COOP 185.24.64.64 2a04:2b00:13cc:0:0:0:1:64
 nserver:      C.NIC.COOP 212.18.248.64 2a04:2b00:13ee:0:0:0:0:64
-nserver:      COOP1.DYNTLD.NET 2001:500:90:0:0:0:0:80 208.78.70.80
-nserver:      COOP2.DYNTLD.NET 204.13.250.80
-nserver:      COOP3.DYNTLD.NET 2001:500:94:0:0:0:0:80 208.78.71.80
-nserver:      COOP4.DYNTLD.NET 204.13.251.80
 nserver:      D.NIC.COOP 212.18.249.64 2a04:2b00:13ff:0:0:0:0:64
 
 whois:        whois.nic.coop
@@ -47,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.coop
 
 created:      2001-12-15
-changed:      2015-03-14
+changed:      2015-04-01
 source:       IANA
 
