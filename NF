@@ -30,7 +30,6 @@ e-mail:       noc@cocca.org.nz
 nserver:      A.NF.DYNTLD.NET 199.19.5.10 2001:500:92:0:0:0:0:10
 nserver:      B.NF.DYNTLD.NET 199.19.6.10 2001:500:96:0:0:0:0:10
 nserver:      NS.ANYCAST.NIC.NF 2001:500:14:6051:ad:0:0:1 204.61.216.51
-nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e:0:0:0:0:1
 ds-rdata:     54236 8 2 DD87DD324E8360DEC8DAAF2DB771B8C52024D6CEFEB76F2B855E0FC3B8FDB7D7
 
 whois:        whois.nic.nf
@@ -39,6 +38,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.nf
 
 created:      1996-03-18
-changed:      2015-01-28
+changed:      2015-04-02
 source:       IANA
 
