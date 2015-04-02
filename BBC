@@ -5,7 +5,7 @@
 domain:       BBC
 
 organisation: British Broadcasting Corporation
-address:      Domain Manager
+address:      Brandon Butterworth
 address:      Broadcasting House
 address:      Portland Place
 address:      London
@@ -13,19 +13,16 @@ address:      W1A 1AA
 address:      United Kingdom
 
 contact:      administrative
-name:         George Wright
+name:         Brandon Butterworth
 organisation: British Broadcasting Corporation
-address:      Internet Research & Future Services
-address:      BBC R&D Central Lab,
-address:      5th Floor,
-address:      OnEustonSquare
-address:      40 Melton Street,
-address:      London,
-address:      NW1 2FD
+address:      Broadcasting House
+address:      Portland Place
+address:      London
+address:      W1A 1AA
 address:      United Kingdom
-phone:        + 44 3030409741
-fax-no:       +44 208 811 8815
-e-mail:       gtld_manager@bbc.co.uk
+phone:        +44 3030409777
+fax-no:       +44 2088118815
+e-mail:       hostmaster@bbc.co.uk
 
 contact:      technical
 name:         Brandon Butterworth
@@ -36,7 +33,7 @@ address:      London
 address:      W1A 1AA
 address:      United Kingdom
 phone:        +44 303 040 9777
-fax-no:       +44 208 811 8815
+fax-no:       +44 2088118815
 e-mail:       hostmaster@bbc.co.uk
 
 nserver:      NS1.NIC.UK 195.66.240.130 2a01:40:1001:35:0:0:0:2
@@ -53,6 +50,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.bbc.co.uk
 
 created:      2015-03-12
-changed:      2015-03-21
+changed:      2015-04-02
 source:       IANA
 
