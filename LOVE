@@ -1,0 +1,49 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       LOVE
+
+organisation: Merchant Law Group LLP
+address:      100–2401 Saskatchewan Drive
+address:      Regina, Saskatchewan
+address:      S4P 4H8
+address:      Canada
+
+contact:      administrative
+name:         Joshua Merchant
+organisation: Merchant Law Group LLP
+address:      100–2401 Saskatchewan Drive
+address:      Regina, Saskatchewan
+address:      S4P 4H8
+address:      Canada
+phone:        +1.3062272222
+fax-no:       +1.3069751983
+e-mail:       ejmerchant@merchantlaw.com
+
+contact:      technical
+name:         CTO
+organisation: CentralNic
+address:      35-39 Moorgate
+address:      London EC2R 6AR
+address:      United Kingdom
+phone:        +44.2033880600
+fax-no:       +44.2033880601
+e-mail:       tld.ops@centralnic.com
+
+nserver:      A.NIC.LOVE 194.169.218.62 2001:67c:13cc:0:0:0:1:62
+nserver:      B.NIC.LOVE 185.24.64.62 2a04:2b00:13cc:0:0:0:1:62
+nserver:      C.NIC.LOVE 194.0.2.2 2001:678:5:0:0:0:0:2
+nserver:      D.NIC.LOVE 194.0.1.45 2001:678:4:0:0:0:0:2d
+ds-rdata:     14387 8 1 A053BC42363B78A0DAA85EA0F394B1A473CD5C45
+ds-rdata:     14387 8 2 2DD1290F10EEAB2AD049E7C11A13252C751A20FCBAC7C049E70001B79F18DD94
+
+whois:        whois.centralnic.com
+
+status:       ACTIVE
+remarks:      Registration information: http://www.merchantlaw.com/
+
+created:      2015-03-25
+changed:      2015-04-02
+source:       IANA
+
