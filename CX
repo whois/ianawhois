@@ -32,7 +32,6 @@ e-mail:       brad.waugh@coccaregistry.net
 nserver:      A.CX.DYNTLD.NET 199.19.5.3 2001:500:92:0:0:0:0:3
 nserver:      B.CX.DYNTLD.NET 199.19.6.3 2001:500:96:0:0:0:0:3
 nserver:      NS.ANYCAST.NIC.CX 2001:500:14:6016:ad:0:0:1 204.61.216.16
-nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e:0:0:0:0:1
 ds-rdata:     6500 8 2 4854A102492CE0C50C714F366EBBD520CBA38BBEFC91CF295EEE8E6EF7D48CA5
 
 whois:        whois.nic.cx
@@ -41,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.cx
 
 created:      1997-04-24
-changed:      2015-02-03
+changed:      2015-04-02
 source:       IANA
 
