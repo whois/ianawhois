@@ -43,9 +43,10 @@ ds-rdata:     16669 7 2 bd4c6bcaabde7a16df54e658c57955802bf98ad2eb5f2ba696fa6649
 whois:        whois.afilias-srs.net
 
 status:       ACTIVE
-remarks:      Registration information: http://www.temasek.com.sg
+remarks:      Registration information:
+remarks:      http://www.temasek.com.sg/nicdan4ma3xi1
 
 created:      2014-12-18
-changed:      2015-01-25
+changed:      2015-04-03
 source:       IANA
 
