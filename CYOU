@@ -1,0 +1,50 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       CYOU
+
+organisation: Beijing Gamease Age Digital Technology Co., Ltd.
+address:      Changyou Building
+address:      East Bajiao Street No.65 Block B, Shijingshan District
+address:      100043 Beijing
+address:      China
+
+contact:      administrative
+name:         YANG Qiumi
+organisation: Beijing Gamease Age Digital Technology Co., Ltd.
+address:      Changyou Building
+address:      East Bajiao Street No.65 Block B, Shijingshan District
+address:      100043 Beijing
+address:      China
+phone:        86 10 61926635
+fax-no:       86 10 61920961
+e-mail:       yangqiumi@cyou-inc.com
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      Building 3, Suite 105
+address:      300 Welsh Road
+address:      Horsham, PA 19044
+address:      United States
+phone:        +1 215.706.5700
+fax-no:       +1 215.706.5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.CYOU 2a01:8840:7e:0:0:0:0:9 65.22.128.9
+nserver:      A2.NIC.CYOU 2a01:8840:81:0:0:0:0:9 65.22.131.9
+nserver:      B0.NIC.CYOU 2a01:8840:7f:0:0:0:0:9 65.22.129.9
+nserver:      C0.NIC.CYOU 2a01:8840:80:0:0:0:0:9 65.22.130.9
+ds-rdata:     42985 7 1 f1be1321796afb34b2bec02ed9412966291b2c21
+ds-rdata:     42985 7 2 6c0507565b162ff6a377b4e7e5e33a126987de3c7fdbc1644e247fb60e1094e3
+
+whois:        whois.afilias-srs.net
+
+status:       ACTIVE
+remarks:      Registration information: http://cy.changyou.com
+
+created:      2015-03-19
+changed:      2015-04-03
+source:       IANA
+
