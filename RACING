@@ -1,0 +1,45 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       RACING
+
+organisation: Premier Registry Limited
+address:      2nd Floor Leisure Island Business Centre, Ocean Village, Gibraltar, GX11 1AA
+address:      Gibraltar
+
+contact:      administrative
+name:         Geir Rasmussen
+organisation: Famous Four Media Limited
+address:      2nd Floor, Leisure Island Business Centre, Ocean Village, Gibraltar, GX11 1AA
+address:      Gibraltar
+phone:        +350 21650000
+fax-no:       +350 21628816
+e-mail:       grasmussen@famousfourmedia.com
+
+contact:      technical
+name:         Sean Kaine
+organisation: Neustar, Inc.
+address:      46000 Center Oak Plaza, Sterling VA 20166
+address:      United States
+phone:        +1 571 434 5168
+fax-no:       +1 571 434 5401
+e-mail:       registrytechnical1@neustar.biz
+
+nserver:      NS1.DNS.NIC.RACING 156.154.169.33 2610:a1:1071:0:0:0:1:21
+nserver:      NS2.DNS.NIC.RACING 156.154.170.33 2610:a1:1072:0:0:0:1:21
+nserver:      NS3.DNS.NIC.RACING 156.154.171.33 2610:a1:1073:0:0:0:1:21
+nserver:      NS4.DNS.NIC.RACING 156.154.172.33 2610:a1:1074:0:0:0:1:21
+nserver:      NS5.DNS.NIC.RACING 156.154.173.33 2610:a1:1075:0:0:0:1:21
+nserver:      NS6.DNS.NIC.RACING 156.154.174.33 2610:a1:1076:0:0:0:1:21
+ds-rdata:     54886 8 1 D00D09A117035869B0E7FF7465FFF55C16373D14
+ds-rdata:     54886 8 2 D954FB0C26C0DEF0187D42BB69B12615863D61FA9EEAEC87593A7613121E1695
+
+status:       ACTIVE
+remarks:      Registration information:
+remarks:      http://www.famousfourmedia.com/racing
+
+created:      2015-03-26
+changed:      2015-04-03
+source:       IANA
+
