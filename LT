@@ -21,7 +21,7 @@ address:      Kaunas  LT-51367
 address:      Lithuania
 phone:        +370 37 300736
 fax-no:       +370 37 300643
-e-mail:       daiva@litnet.lt
+e-mail:       daiva@domreg.lt
 
 contact:      technical
 name:         Tomas Mackus
@@ -33,7 +33,7 @@ address:      Kaunas  LT-51367
 address:      Lithuania
 phone:        +370 37 353325
 fax-no:       +370 37 300643
-e-mail:       hostmaster@litnet.lt
+e-mail:       hostmaster@domreg.lt
 
 nserver:      A.TLD.LT 195.8.218.131
 nserver:      B.TLD.LT 194.0.20.1 2001:678:19:0:0:0:0:1
@@ -49,6 +49,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.domreg.lt
 
 created:      1992-06-03
-changed:      2014-03-05
+changed:      2015-04-03
 source:       IANA
 
