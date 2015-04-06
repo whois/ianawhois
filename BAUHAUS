@@ -5,9 +5,43 @@
 domain:       BAUHAUS
 
 organisation: Werkhaus GmbH
+address:      Gutenbergstraße 21
+address:      68167 Mannheim
+address:      Germany
 
-status:       NEW
+contact:      administrative
+name:         Department Manager e-Business
+organisation: Werkhaus GmbH
+address:      Gutenbergstraße 21
+address:      68167 Mannheim
+address:      Germany
+phone:        +49-6213905-0
+fax-no:       +49-6213905-140
+e-mail:       domains@bahag.com
+
+contact:      technical
+name:         ironDNS Support
+organisation: Knipp Medien und Kommunikation GmbH
+address:      Martin-Schmeisser-Weg 9
+address:      44227 Dortmund
+address:      North Rhine-Westphalia
+address:      Germany
+phone:        +49-231-9703-0
+fax-no:       +49-231-9703-200
+e-mail:       dnsmaster@irondns.net
+
+nserver:      ANYCAST10.IRONDNS.NET 195.253.64.12 2a01:5b0:4:0:0:0:0:c
+nserver:      ANYCAST23.IRONDNS.NET 195.253.65.11 2a01:5b0:5:0:0:0:0:b
+nserver:      ANYCAST24.IRONDNS.NET 195.253.65.12 2a01:5b0:5:0:0:0:0:c
+nserver:      ANYCAST9.IRONDNS.NET 195.253.64.11 2a01:5b0:4:0:0:0:0:b
+ds-rdata:     3408 10 2 8E5C6C53E04001F14305794F1B28EB612B8D297CC190F8662B53E3710CE82456
+
+whois:        whois.nic.bauhaus
+
+status:       ACTIVE
+remarks:      Registration information: http://www.bauhaus.info
 
 created:      2015-03-12
+changed:      2015-04-06
 source:       IANA
 
