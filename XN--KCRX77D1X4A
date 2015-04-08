@@ -1,0 +1,45 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       飞利浦
+domain-ace:   XN--KCRX77D1X4A
+
+organisation: Koninklijke Philips N.V.
+address:      High Tech Campus 5, 5656AE, Eindhoven
+address:      Netherlands
+
+contact:      administrative
+name:         Ingrid Baele
+organisation: Philips Intellectual Property and Standards
+address:      High Tech Campus 5, 5656AE, Eindhoven
+address:      Netherlands
+phone:        +31402740552
+fax-no:       +31402743489
+e-mail:       baele.i@philips.com
+
+contact:      technical
+name:         Wiel Deguelle
+organisation: Philips Intellectual Property and Standards
+address:      High Tech Campus 5, 5656AE, Eindhoven
+address:      Netherlands
+phone:        +31622470330
+fax-no:       +31402743489
+e-mail:       wiel.deguelle@philips.com
+
+nserver:      A.NIC.XN--KCRX77D1X4A 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.XN--KCRX77D1X4A 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.XN--KCRX77D1X4A 2001:dcd:3:0:0:0:0:9 37.209.196.9
+nserver:      D.NIC.XN--KCRX77D1X4A 2001:dcd:4:0:0:0:0:9 37.209.198.9
+ds-rdata:     9862 8 1 796F03BE7198B2A438D87BD072307DCACBE82CE1
+ds-rdata:     9862 8 2 F59299942BEDEA35BDC9F3265869938531E87019CA6ECC2E7918D183D861F955
+
+whois:        whois.nic.xn--kcrx77d1x4a
+
+status:       ACTIVE
+remarks:      Registration information: http://www.philips.com
+
+created:      2015-02-13
+changed:      2015-04-07
+source:       IANA
+
