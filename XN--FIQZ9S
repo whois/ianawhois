@@ -5,33 +5,33 @@
 domain:       中國
 domain-ace:   XN--FIQZ9S
 
-organisation: China Internet Network Information Center
+organisation: China Internet Network Information Center (CNNIC)
 address:      No.4, South 4th Street
 address:      Zhong Guan Cun
 address:      Beijing  100190
 address:      China
 
 contact:      administrative
-name:         Xiangyang Huang
-organisation: China Internet Network Information Center
+name:         Xiaodong Lee
+organisation: China Internet Network Information Center (CNNIC)
 address:      No.4, South 4th Street
 address:      Zhong Guan Cun
 address:      Beijing  100190
 address:      China
-phone:        +86 10 58812210
-fax-no:       +86 10 58812666
-e-mail:       huangxy@cnnic.cn
+phone:        +8610-58813020
+fax-no:       +8610-58813277
+e-mail:       ceo@cnnic.cn
 
 contact:      technical
-name:         Wang Wei
-organisation: China Internet Network Information Center
+name:         Yuedong Zhang
+organisation: China Internet Network Information Center (CNNIC)
 address:      No.4, South 4th Street
 address:      Zhong Guan Cun
 address:      Beijing  100190
 address:      China
-phone:        +86 10 58813101
-fax-no:       +86 10 58812666
-e-mail:       wangwei@cnnic.cn
+phone:        +8610-58813202
+fax-no:       +8610-58812666
+e-mail:       tech@cnnic.cn
 
 nserver:      H.DNS.CN 125.208.32.1 2001:dc7:fffe:0:0:0:0:1
 nserver:      I.DNS.CN 125.208.33.1 2001:dc7:ffff:0:0:0:0:1
@@ -46,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.cnnic.cn
 
 created:      2010-07-09
-changed:      2014-08-05
+changed:      2015-04-07
 source:       IANA
 
