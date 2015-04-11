@@ -31,6 +31,9 @@ nserver:      B.GMOREGISTRY.NET 38.103.2.9
 nserver:      C.GMOREGISTRY.NET 2001:5a0:10:0:0:0:0:9 63.243.194.9
 nserver:      D.GMOREGISTRY.NET 120.29.252.11 2001:dcd:5:0:0:0:0:11
 nserver:      E.GMOREGISTRY.NET 120.29.254.11 2001:dcd:6:0:0:0:0:11
+nserver:      G.GMOREGISTRY.NET 2a01:8840:1be:0:0:0:0:1 65.22.165.1
+nserver:      H.GMOREGISTRY.NET 65.22.166.1
+nserver:      I.GMOREGISTRY.NET 2a01:8840:1c0:0:0:0:0:1 65.22.167.1
 ds-rdata:     21686 8 2 9095791c72e7a503481031b744a3082a8e41e2aac721b26f1cb13c19062bc69c
 
 whois:        whois.nic.nico
@@ -39,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.nico
 
 created:      2015-02-05
-changed:      2015-03-05
+changed:      2015-04-11
 source:       IANA
 
