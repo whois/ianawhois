@@ -35,7 +35,10 @@ nserver:      X.NS.NIC.LIDL 195.253.64.4 2a01:5b0:4:0:0:0:0:4
 nserver:      Y.NS.NIC.LIDL 195.253.64.7 2a01:5b0:4:0:0:0:0:7
 ds-rdata:     25884 7 1 5D6DE6274D4355AFE0AEAB14A7090ECEEFEDFE0C
 
+whois:        whois.nic.lidl
+
 status:       ACTIVE
+remarks:      Registration information: https://www.nic.lidl
 
 created:      2014-12-04
 changed:      2014-12-15
