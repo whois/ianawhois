@@ -32,6 +32,7 @@ e-mail:       iana@tld-box.at
 
 nserver:      A.DNS.NIC.REISE 194.0.25.18 2001:678:20:0:0:0:0:18
 nserver:      M.DNS.NIC.REISE 194.0.26.7 2001:67c:10e0:0:0:0:0:7
+nserver:      N.DNS.NIC.REISE 194.0.24.7 2001:678:24:0:0:0:0:7
 ds-rdata:     62014 8 1 51c1596e977ec71522e395b24f84b5db6654f5b9
 ds-rdata:     62014 8 2 c4b956e202c47ea68fdf3a937dd6ef69fe3ae043712545f1d49a0600771d6893
 ds-rdata:     45280 8 2 d9254ebd139f78804dcfb9a352c7199d8e96d4a5074017302034545e4ca16b02
@@ -43,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.reise
 
 created:      2014-05-15
-changed:      2015-02-24
+changed:      2015-04-16
 source:       IANA
 
