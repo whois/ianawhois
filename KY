@@ -31,12 +31,12 @@ phone:        +1.3457496263
 fax-no:       +1.3457466263
 e-mail:       ops@uniregistry.com
 
-nserver:      KYNSE01.PERIMETERUSA.COM 216.54.168.26
-nserver:      KYNSE02.PERIMETERUSA.COM 216.54.168.27
-nserver:      KYNSE03.PERIMETERUSA.COM 216.54.168.28
-nserver:      KYNSW01.PERIMETERUSA.COM 165.212.160.15
-nserver:      KYNSW02.PERIMETERUSA.COM 165.212.160.16
-nserver:      KYNSW03.PERIMETERUSA.COM 165.212.160.17
+nserver:      A.KY.DYNTLD.NET 199.19.1.19 2a02:e180:0:0:0:0:0:19
+nserver:      A.NS.UNIREGISTRY.NET 2620:57:4003:10:0:0:0:53 64.96.25.53
+nserver:      B.KY.DYNTLD.NET 199.19.7.19 2a02:e180:1:0:0:0:0:19
+nserver:      C.KY.DYNTLD.NET 185.38.98.19 2a02:e180:2:0:0:0:0:19
+ds-rdata:     27566 5 1 4010BC344088A61A41A2654EB5197C2B62EA6F47
+ds-rdata:     27566 5 2 7E3C406A1FF89436FCC8899A0A86F8798D3EAAB33018502F58F8328125B371F1
 
 whois:        whois.kyregistry.ky
 
@@ -44,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://uniregistry.com
 
 created:      1995-05-03
-changed:      2015-02-05
+changed:      2015-04-16
 source:       IANA
 
