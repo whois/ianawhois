@@ -1,0 +1,50 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       SONY
+
+organisation: Sony Corporation
+address:      13F, Sumitomo-Fudosan Shinagawa Bldg.
+address:      4-10-27 Higashi-Shinagawa, Shinagawa-ku,
+address:      Tokyo, 140-0002
+address:      Japan
+
+contact:      administrative
+name:         Mitsuaki Nakagawa
+organisation: Brights Consulting Inc.
+address:      30F, Kasumigaseki Bldg.,
+address:      3-2-5 Kasumigaseki Chiyoda-ku
+address:      Tokyo 100-6030
+address:      Japan
+phone:        +81355210107
+fax-no:       +81355210117
+e-mail:       nakagawa_09@brights.jp
+
+contact:      technical
+name:         Mitsuaki Nakagawa
+organisation: Brights Consulting Inc.
+address:      30F, Kasumigaseki Bldg.,
+address:      3-2-5 Kasumigaseki Chiyoda-ku
+address:      Tokyo 100-6030
+address:      Japan
+phone:        +81355210107
+fax-no:       +81355210117
+e-mail:       nakagawa_09@brights.jp
+
+nserver:      A.NIC.SONY 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.SONY 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.SONY 2001:dcd:3:0:0:0:0:9 37.209.196.9
+nserver:      D.NIC.SONY 2001:dcd:4:0:0:0:0:9 37.209.198.9
+ds-rdata:     11302 8 1 58CC6A1BCD8AE96E0786C6CBBB10CD0E63DD8979
+ds-rdata:     11302 8 2 E6DFD940A7EA6E310DFD4C609A5BFD6AAF1FD7F230694A7776F4B9C2472D12FC
+
+whois:        whois.nic.sony
+
+status:       ACTIVE
+remarks:      Registration information: http://www.sony.com
+
+created:      2015-03-06
+changed:      2015-04-16
+source:       IANA
+
