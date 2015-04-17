@@ -12,8 +12,8 @@ address:      Norway
 contact:      administrative
 name:         Hilde Thunem
 organisation: UNINETT Norid A/S
-address:      Abelsgate 5
-address:      Trondheim  N-7465
+address:      Postboks 4769 Sluppen
+address:      Trondheim  NO-7465
 address:      Norway
 phone:        +47 73 55 79 00
 fax-no:       +47 73 55 79 99
@@ -22,8 +22,8 @@ e-mail:       hilde.thunem@uninett.no
 contact:      technical
 name:         Jarle Greipsland
 organisation: UNINETT Norid A/S
-address:      Abelsgate 5
-address:      Trondheim  N-7465
+address:      Postboks 4769 Sluppen
+address:      Trondheim  NO-7465
 address:      Norway
 phone:        +47 73 55 79 00
 fax-no:       +47 73 55 79 99
@@ -38,6 +38,6 @@ remarks:      Registration information:
 remarks:      http://www.norid.no/omnorid/toppdomenet-bv.en.html
 
 created:      1997-08-21
-changed:      2014-05-14
+changed:      2015-04-16
 source:       IANA
 
