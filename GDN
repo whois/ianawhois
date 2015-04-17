@@ -13,7 +13,7 @@ address:      United Arab Emirates
 
 contact:      administrative
 name:         Muhammad Kausar Saleem
-organisation: GDN Registry
+organisation: GDN Registry FZ LLC
 address:      Building 14th, Office # 107
 address:      Dubai Internet City,
 address:      P.O. Box 111230,
@@ -24,7 +24,7 @@ e-mail:       kausar@gdnregistry.com
 
 contact:      technical
 name:         Lee Yen Chew
-organisation: GDN Registry
+organisation: GDN Registry FZ LLC
 address:      Building 14th, Office # 107
 address:      Dubai Internet City,
 address:      P.O. Box 111230,
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.gdnregistry.com
 
 created:      2014-12-04
-changed:      2015-02-18
+changed:      2015-04-16
 source:       IANA
 
