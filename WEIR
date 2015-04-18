@@ -1,0 +1,47 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       WEIR
+
+organisation: Weir Group IP Limited
+address:      20 Waterloo Street
+address:      GLASGOW - G2 6DB
+address:      United Kingdom
+
+contact:      administrative
+name:         Head of IT Service Delivery
+organisation: Head of IT Service Delivery
+address:      20 Waterloo Street
+address:      GLASGOW - G2 6DB
+address:      United Kingdom
+phone:        +44 141 637 7111
+fax-no:       +44 141 221 9789
+e-mail:       ngtld-weir@cscinfo.com
+
+contact:      technical
+name:         Registry Customer Service
+organisation: Verisign, Inc.
+address:      12061 Bluemont Way
+address:      Reston Virginia 20190
+address:      United States
+phone:        +1-703-925-6999
+fax-no:       +1-703-948-3978
+e-mail:       info@verisign-grs.com
+
+nserver:      A5.NSTLD.COM 192.5.6.34
+nserver:      C5.NSTLD.COM 192.26.92.34
+nserver:      D5.NSTLD.COM 192.31.80.34
+nserver:      F5.NSTLD.COM 192.35.51.34 2001:503:d414:0:0:0:2:34
+nserver:      G5.NSTLD.COM 192.42.93.34
+nserver:      H5.NSTLD.COM 192.54.112.34 2001:502:08cc:0:0:0:2:34
+nserver:      L5.NSTLD.COM 192.41.162.34
+ds-rdata:     43134 8 2 1F9E4441191642A39A48CEC8DEDBDA9120D85D460CBAF2BF037F3AE3A8E8C7EE
+
+status:       ACTIVE
+remarks:      Registration information: http://weir.co.uk/
+
+created:      2015-04-02
+changed:      2015-04-17
+source:       IANA
+
