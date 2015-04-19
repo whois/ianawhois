@@ -26,11 +26,13 @@ phone:        +81 354561601
 fax-no:       +81 337805239
 e-mail:       newgtld@gmoregistry.com
 
-nserver:      A.GMOREGISTRY.NET 2001:470:1a:0:0:0:0:9 72.52.71.9
 nserver:      B.GMOREGISTRY.NET 38.103.2.9
 nserver:      C.GMOREGISTRY.NET 2001:5a0:10:0:0:0:0:9 63.243.194.9
 nserver:      D.GMOREGISTRY.NET 120.29.252.11 2001:dcd:5:0:0:0:0:11
 nserver:      E.GMOREGISTRY.NET 120.29.254.11 2001:dcd:6:0:0:0:0:11
+nserver:      G.GMOREGISTRY.NET 2a01:8840:1be:0:0:0:0:1 65.22.165.1
+nserver:      H.GMOREGISTRY.NET 65.22.166.1
+nserver:      I.GMOREGISTRY.NET 2a01:8840:1c0:0:0:0:0:1 65.22.167.1
 ds-rdata:     36229 8 2 0c92a40218f0680eb23723b01f073fc6169e3fa20f6554fa54bde49f88918ead
 
 status:       ACTIVE
@@ -38,6 +40,6 @@ remarks:      Registration information:
 remarks:      http://www.gmo-registry.com/en/
 
 created:      2014-01-16
-changed:      2015-03-31
+changed:      2015-04-18
 source:       IANA
 
