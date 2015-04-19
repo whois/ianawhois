@@ -1,0 +1,50 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       SEX
+
+organisation: ICM Registry SX LLC
+address:      P.O. Box 30129
+address:      Palm Beach Gardens, FL 33420
+address:      United States
+
+contact:      administrative
+name:         General Counsel
+organisation: ICM Registry SX, LLC
+address:      P.O. Box 30129
+address:      Palm Beach Gardens, FL 33420
+address:      United States
+phone:        877-809-3182
+fax-no:       877-809-3183
+e-mail:       legal@icmregistry.com
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      Building 3, Suite 105
+address:      300 Welsh Road
+address:      Horsham, PA 19044
+address:      United States
+phone:        +1 215.706.5700
+fax-no:       +1 215.706.5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.SEX 199.115.152.1 2001:500:a0:0:0:0:0:1
+nserver:      A2.NIC.SEX 199.115.156.1 2001:500:a4:0:0:0:0:1
+nserver:      B0.NIC.SEX 199.115.153.1 2001:500:a1:0:0:0:0:1
+nserver:      B2.NIC.SEX 199.115.157.1 2001:500:a5:0:0:0:0:1
+nserver:      C0.NIC.SEX 199.115.154.1 2001:500:a2:0:0:0:0:1
+nserver:      D0.NIC.SEX 199.115.155.1 2001:500:a3:0:0:0:0:1
+ds-rdata:     36538 7 1 82532d9cb2981a16cccdcf226beebe5da872f309
+ds-rdata:     36538 7 2 959bb4d3a803fb787cd4feb3e27dda36d371b26ad99fcb90e97d04868356996c
+
+whois:        whois.afilias-srs.net
+
+status:       ACTIVE
+remarks:      Registration information: http://icmregistry.com
+
+created:      2015-04-09
+changed:      2015-04-18
+source:       IANA
+
