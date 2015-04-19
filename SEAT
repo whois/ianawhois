@@ -1,0 +1,47 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       SEAT
+
+organisation: SEAT, S.A. (Sociedad Unipersonal)
+address:      AutovIa A-2, Km 585
+address:      08760 Martorell
+address:      Spain
+
+contact:      administrative
+name:         .seat TLD Admin Contact
+organisation: CORE Association
+address:      Cours de Rive 2
+address:      CH-1204 Geneva
+address:      Switzerland
+phone:        +41 22 312 5610
+fax-no:       +41 22 312 5612
+e-mail:       secretariat@corenic.org
+
+contact:      technical
+name:         .seat TLD Technical Contact
+organisation: CORE Association
+address:      Cours de Rive 2
+address:      CH-1204 Geneva
+address:      Switzerland
+phone:        +41 22 312 5610
+fax-no:       +41 22 312 5612
+e-mail:       dnsmaster@corenic.org
+
+nserver:      ANYCAST10.IRONDNS.NET 195.253.64.12 2a01:5b0:4:0:0:0:0:c
+nserver:      ANYCAST23.IRONDNS.NET 195.253.65.11 2a01:5b0:5:0:0:0:0:b
+nserver:      ANYCAST24.IRONDNS.NET 195.253.65.12 2a01:5b0:5:0:0:0:0:c
+nserver:      ANYCAST9.IRONDNS.NET 195.253.64.11 2a01:5b0:4:0:0:0:0:b
+ds-rdata:     40138 10 2 8531B10A28C981D28F0F412DBE6A7985EFFE40BF0EFC8F2F80D45F85770C1A8A
+
+whois:        whois.nic.seat
+
+status:       ACTIVE
+remarks:      Registration information:
+remarks:      http://www.seat.com/content/com/com/en/contact/abuse.html
+
+created:      2015-03-06
+changed:      2015-04-18
+source:       IANA
+
