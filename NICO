@@ -26,7 +26,6 @@ phone:        +81-3-5456-1601
 fax-no:       +81-3-3780-5239
 e-mail:       newgtld@gmoregistry.com
 
-nserver:      A.GMOREGISTRY.NET 2001:470:1a:0:0:0:0:9 72.52.71.9
 nserver:      B.GMOREGISTRY.NET 38.103.2.9
 nserver:      C.GMOREGISTRY.NET 2001:5a0:10:0:0:0:0:9 63.243.194.9
 nserver:      D.GMOREGISTRY.NET 120.29.252.11 2001:dcd:5:0:0:0:0:11
@@ -42,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.nico
 
 created:      2015-02-05
-changed:      2015-04-11
+changed:      2015-04-18
 source:       IANA
 
