@@ -4,33 +4,33 @@
 
 domain:       BIZ
 
-organisation: NeuStar, Inc.
+organisation: Neustar, Inc.
 address:      Loudoun Tech Center
 address:      46000 Center Oak Plaza
 address:      Sterling Virginia 20166
 address:      United States
 
 contact:      administrative
-name:         Director of Customer Service
-organisation: NeuStar, Inc.
+name:         Sean Kaine
+organisation: Neustar, Inc.
 address:      Loudoun Tech Center
 address:      46000 Center Oak Plaza
 address:      Sterling Virginia 20166
 address:      United States
-phone:        +1 571 434-5757
-fax-no:       +1 571 434-5758
-e-mail:       support@neustar.biz
+phone:        +1 571 434-5168
+fax-no:       +1 571 434-5401
+e-mail:       registrytechnical1@neustar.biz
 
 contact:      technical
-name:         NeuStar Operations Center
-organisation: NeuStar, Inc.
+name:         Neustar Operations
+organisation: Neustar, Inc.
 address:      Loudoun Tech Center
 address:      46000 Center Oak Plaza
 address:      Sterling Virginia 20166
 address:      United States
-phone:        +1 866 638-6622
-fax-no:       +1 571 434-5742
-e-mail:       nocteam@neustar.biz
+phone:        +1 571 434 5487
+fax-no:       +1 571 434-5401
+e-mail:       registrytechnical2@neustar.biz
 
 nserver:      A.GTLD.BIZ 156.154.124.65 2001:503:7bbb:ffff:ffff:ffff:ffff:ff7e
 nserver:      B.GTLD.BIZ 156.154.125.65
@@ -47,6 +47,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.biz
 
 created:      2001-06-26
-changed:      2014-05-28
+changed:      2015-04-21
 source:       IANA
 
