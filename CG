@@ -30,6 +30,7 @@ phone:        +41 44 274 23 80
 fax-no:       +41 44 274 23 80
 e-mail:       frg@dnsafrica.net
 
+nserver:      DNS.ACNIC.CG 196.43.240.147
 nserver:      DNS.DNSAFRICA.NET 213.193.157.30
 nserver:      DNS.PRINCETON.EDU 128.112.129.15
 nserver:      SUNIC.SUNET.SE 192.36.125.2 2001:6b0:7:0:0:0:0:2
@@ -38,6 +39,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.cg
 
 created:      1997-01-14
-changed:      2008-09-24
+changed:      2015-04-23
 source:       IANA
 
