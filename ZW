@@ -1,0 +1,48 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       ZW
+
+organisation: Postal and Telecommunications Regulatory Authority of Zimbabwe (POTRAZ)
+address:      Block A, Emerald office Park
+address:      30 The Chase, Emerald Hill
+address:      P.O. Box MP 843, Mt Pleasant
+address:      Harare
+address:      Zimbabwe
+
+contact:      administrative
+name:         Manager Internet & Data Operations
+organisation: TelOne Pvt Ltd
+address:      Cnr Sam Nujoma St. & Samorah Machel Ave
+address:      P.O.Box CY 792
+address:      Causeway
+address:      Harare
+address:      Zimbabwe
+phone:        +263 4 791701
+fax-no:       +263 4 708981
+e-mail:       dns-admin@telone.co.zw
+
+contact:      technical
+name:         Network Administrator
+organisation: TelOne Pvt Ltd
+address:      Cnr Sam Nujoma St. & Samorah Machel Ave
+address:      P.O.Box CY 792
+address:      Causeway
+address:      Harare
+address:      Zimbabwe
+phone:        +263 4 791701
+fax-no:       +263 4 708981
+e-mail:       support@telone.co.zw
+
+nserver:      NS1.TELONE.CO.ZW 194.133.122.47
+nserver:      NS2.GIP.NET 204.59.1.222
+nserver:      NS2.TELONE.CO.ZW 194.133.122.42
+nserver:      NS3.TELONE.CO.ZW 194.133.122.34
+
+status:       ACTIVE
+
+created:      1991-11-06
+changed:      2014-06-23
+source:       IANA
+
