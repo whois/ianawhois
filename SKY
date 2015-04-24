@@ -4,9 +4,11 @@
 
 domain:       SKY
 
-organisation: Sky IP International Ltd, a company incorporated in England and Wales, operating via its registered Swiss branch
-address:      Dammstrasse 19 Zug
-address:      CH-6301
+organisation: Sky International AG
+address:      Dreikönigstrasse 31a,
+address:      Stockerhof
+address:      Zürich
+address:      CH8002
 address:      Switzerland
 
 contact:      administrative
@@ -43,9 +45,9 @@ ds-rdata:     10101 8 2 F09AFB6032AD0269337A282D137041E961E6284BD581EA5CF27C300D
 whois:        whois.nic.sky
 
 status:       ACTIVE
-remarks:      Registration information: http://sky.com
+remarks:      Registration information: http://nic.sky
 
 created:      2014-10-02
-changed:      2014-12-12
+changed:      2015-04-24
 source:       IANA
 
