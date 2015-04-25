@@ -35,8 +35,6 @@ phone:        +81354561601
 fax-no:       +81354562695
 e-mail:       newgtld@gmoregistry.com
 
-nserver:      B.GMOREGISTRY.NET 38.103.2.9
-nserver:      C.GMOREGISTRY.NET 2001:5a0:10:0:0:0:0:9 63.243.194.9
 nserver:      D.GMOREGISTRY.NET 120.29.252.11 2001:dcd:5:0:0:0:0:11
 nserver:      E.GMOREGISTRY.NET 120.29.254.11 2001:dcd:6:0:0:0:0:11
 nserver:      G.GMOREGISTRY.NET 2a01:8840:1be:0:0:0:0:1 65.22.165.1
@@ -50,6 +48,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.kyoto
 
 created:      2015-01-08
-changed:      2015-04-18
+changed:      2015-04-24
 source:       IANA
 
