@@ -1,0 +1,50 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       MUSEUM
+
+organisation: Museum Domain Management Association
+address:      International Council of Museums
+address:      22  rue de Palestro
+address:      75002 Paris
+address:      France
+
+contact:      administrative
+name:         Manager of Information System Projects
+organisation: Museum Domain Management Association
+address:      International Council of Museums
+address:      22 rue de Palestro
+address:      75002 Paris
+address:      France
+phone:        +33 1 4734 0500
+fax-no:       +33 1 4306 7862
+e-mail:       admin@musedoma.museum
+
+contact:      technical
+name:         MUSEUM TLD Technical Contact
+organisation: CORE Internet Council of Registrars
+address:      World Trade Center II
+address:      29 route de Pre-Bois
+address:      Geneva  1215
+address:      Switzerland
+phone:        +41229295744
+fax-no:       +41229295745
+e-mail:       dnsmaster@corenic.org
+
+nserver:      ANYC1.IRONDNS.NET 195.253.64.4 2a01:5b0:4:0:0:0:0:4
+nserver:      NIC.MUSEUM 91.194.60.91
+nserver:      NS.ICANN.ORG 199.4.138.53 2001:500:89:0:0:0:0:53
+nserver:      NS5.KNIPP.DE 195.253.6.62 2a01:5b0:0:29:0:0:0:3e
+nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e:0:0:0:0:1
+ds-rdata:     17341 10 2 75e82017baf68eb9bf64c4392b47489db07317f8d9b522af644586c264c1b231
+
+whois:        whois.museum
+
+status:       ACTIVE
+remarks:      Registration information: http://about.museum
+
+created:      2001-10-20
+changed:      2014-10-11
+source:       IANA
+
