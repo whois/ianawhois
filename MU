@@ -1,0 +1,45 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       MU
+
+organisation: Internet Direct Ltd
+address:      48 Remy Ollier
+address:      Port Louis
+address:      Mauritius
+
+contact:      administrative
+name:         Administrator
+organisation: Internet Direct Ltd.
+address:      48 Remy Ollier Street
+address:      Port-Louis
+address:      Mauritius
+phone:        +230-216-8888
+fax-no:       +230-216-6868
+e-mail:       admin@nic.mu
+
+contact:      technical
+name:         Tech Administrator
+organisation: Internet Direct Ltd
+address:      48 Remy Ollier Street
+address:      Port Louis
+address:      Mauritius
+phone:        +230 216-8888
+fax-no:       +230 216-6868
+e-mail:       tech@nic.mu
+
+nserver:      ANYCAST1.IRONDNS.NET 195.253.64.5 2a01:5b0:4:0:0:0:0:5
+nserver:      FORK.STH.DNSNODE.NET 2a01:3f0:0:306:0:0:0:53 77.72.229.254
+nserver:      UDNS1.TLD.MU 2001:500:14:6010:ad:0:0:1 204.61.216.10
+nserver:      UDNS2.TLD.MU 193.0.9.98 2001:67c:e0:0:0:0:0:98
+
+whois:        whois.nic.mu
+
+status:       ACTIVE
+remarks:      Registration information: http://www.nic.mu/
+
+created:      1995-10-06
+changed:      2013-03-06
+source:       IANA
+
