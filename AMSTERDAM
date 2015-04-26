@@ -1,0 +1,46 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       AMSTERDAM
+
+organisation: Gemeente Amsterdam
+address:      Amstel 1
+address:      1011 PN Amsterdam
+address:      Netherlands
+
+contact:      administrative
+name:         Managing Director
+organisation: SIDN (Stichting Internet Domeinregistratie Nederland)
+address:      P.O. Box 5022
+address:      6802 EA Arnhem
+address:      Netherlands
+phone:        +31 26 3525500
+fax-no:       +31 26 3525505
+e-mail:       admin@sidn.nl
+
+contact:      technical
+name:         Manager ICT
+organisation: SIDN (Stichting Internet Domeinregistratie Nederland)
+address:      P.O. Box 5022
+address:      6802 EA Arnhem
+address:      Netherlands
+phone:        +31 26 3525500
+fax-no:       +31 26 3525550
+e-mail:       tech@sidn.nl
+
+nserver:      NS1.NIC.AMSTERDAM 193.176.144.14 2a00:d78:0:102:193:176:144:14
+nserver:      NS2.NIC.AMSTERDAM 2001:7b8:606:0:0:0:0:83 213.154.241.83
+nserver:      NS3.NIC.AMSTERDAM 194.171.17.14 2001:610:0:800d:0:0:0:14
+nserver:      NS4.NIC.AMSTERDAM 2a00:1188:5:0:0:0:0:216 95.142.99.216
+nserver:      NS5.NIC.AMSTERDAM 194.0.28.4 2001:678:2c:0:194:0:28:4
+ds-rdata:     56530 8 2 af680a3c1300a58bd0b4a4c42b274c369ebd7fd1bba8669ed34759e18132d78d
+
+status:       ACTIVE
+remarks:      Registration information:
+remarks:      http://www.dotamsterdam.nl/policies
+
+created:      2014-11-20
+changed:      2014-12-26
+source:       IANA
+
