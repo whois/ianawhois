@@ -1,0 +1,46 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       MADRID
+
+organisation: Comunidad de Madrid
+address:      Calle Embajadores, 181
+address:      28045 Madrid
+address:      Spain
+
+contact:      administrative
+name:         Consejero Delegado de ICM
+organisation: Comunidad de Madrid
+address:      Calle Embajadores, 181
+address:      28045 Madrid
+address:      Spain
+phone:        +34 915 804 907
+fax-no:       +34 915 805 089
+e-mail:       candidatura.madrid1@madrid.org
+
+contact:      technical
+name:         .madrid Technical Contact
+organisation: CORE Association
+address:      Cours de Rive, 2
+address:      CH-1204 Geneva
+address:      Switzerland
+phone:        +41 22 312 5610
+fax-no:       +41 22 312 5612
+e-mail:       dnsmaster@corenic.org
+
+nserver:      ANYCAST10.IRONDNS.NET 195.253.64.12 2a01:5b0:4:0:0:0:0:c
+nserver:      ANYCAST23.IRONDNS.NET 195.253.65.11 2a01:5b0:5:0:0:0:0:b
+nserver:      ANYCAST24.IRONDNS.NET 195.253.65.12 2a01:5b0:5:0:0:0:0:c
+nserver:      ANYCAST9.IRONDNS.NET 195.253.64.11 2a01:5b0:4:0:0:0:0:b
+ds-rdata:     54534 10 2 B04CBF4DF277FB7AB0799B9CCE1469E120DF69CAAAE1118DAC9C408A970E35CC
+
+whois:        whois.madrid.rs.corenic.net
+
+status:       ACTIVE
+remarks:      Registration information: http://dominios.madrid.org
+
+created:      2014-10-02
+changed:      2014-11-20
+source:       IANA
+
