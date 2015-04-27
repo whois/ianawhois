@@ -1,0 +1,46 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       MM
+
+organisation: Ministry of Communications, Posts & Telegraphs
+address:      Office Building No. 2
+address:      Nay Pyi Taw  150111
+address:      Myanmar
+
+contact:      administrative
+name:         U Zaw Min Oo
+organisation: Ministry of Communications, Posts & Telegraphs
+address:      Office Building No. 2
+address:      Nay Pyi Taw  150111
+address:      Myanmar
+phone:        +95 67 420351
+fax-no:       +95 67 420349
+e-mail:       zawminoo.zmo@mptmail.net.mm
+
+contact:      technical
+name:         Daw Khin Swe Htay
+organisation: Ministry of Communications, Posts & Telegraphs
+address:      Overseas Communications Building,
+address:      Myanma Posts and Telecommunications,
+address:      Kabaraye Pagoda Road, Mayangone Township
+address:      Yangon  11061
+address:      Myanmar
+phone:        +95 1 652372
+fax-no:       +95 1 662405
+e-mail:       kshtay@mpt.net.mm
+
+nserver:      MM.CCTLD.AUTHDNS.RIPE.NET 193.0.9.96 2001:67c:e0:0:0:0:0:96
+nserver:      NS0.NIC.NET.MM 203.81.64.20
+nserver:      NS1.NIC.NET.MM 203.81.81.85
+nserver:      NS2.NIC.NET.MM 203.81.92.10
+ds-rdata:     14581 8 1 8B0ED592A997E801DAFADA2CD4CC31999BDA8782
+
+status:       ACTIVE
+remarks:      Registration information: http://www.nic.mm/
+
+created:      1997-02-04
+changed:      2011-11-29
+source:       IANA
+
