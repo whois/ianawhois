@@ -1,0 +1,48 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       EMERCK
+
+organisation: Merck KGaA
+address:      Frankfurter Strasse 250,
+address:      Darmstadt Hesse 64293.
+address:      Germany
+
+contact:      administrative
+name:         Jonas Kölle
+organisation: Merck KGaA
+address:      Frankfurter Strasse 250,
+address:      Darmstadt Hesse 64293
+address:      Germany
+phone:        +496151720
+fax-no:       +496151722000
+e-mail:       registry@emerck.com
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      Building 3, Suite 105,
+address:      300 Welsh Road
+address:      Horsham PA 19044
+address:      United States
+phone:        +1 215.706.5700
+fax-no:       +1 215.706.5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.EMERCK 2a01:8840:9a:0:0:0:0:1 65.22.156.1
+nserver:      A2.NIC.EMERCK 2a01:8840:9d:0:0:0:0:1 65.22.159.1
+nserver:      B0.NIC.EMERCK 2a01:8840:9b:0:0:0:0:1 65.22.157.1
+nserver:      C0.NIC.EMERCK 2a01:8840:9c:0:0:0:0:1 65.22.158.1
+ds-rdata:     42495 7 1 f432b7a703847401cb700f6f18e5e9602b21033f
+ds-rdata:     42495 7 2 8258ba47a67c6b1cc9ae8f76ba46e9e683f57542af7cf18cc0f190b6266b1019
+
+whois:        whois.afilias-srs.net
+
+status:       ACTIVE
+remarks:      Registration information: http://registry.emerck.com
+
+created:      2014-09-11
+changed:      2014-10-31
+source:       IANA
+
