@@ -10,25 +10,22 @@ address:      Brazzaville  BRV
 address:      Congo
 
 contact:      administrative
-name:         Monsieur Akouala
-organisation: ONPT Congo and Interpoint Switzerland
+name:         Monsieur Akoula David Harimza
+organisation: Interpoint Switzerland
 address:      Avenue Patrice Lumumba
 address:      Brazzaville
 address:      Congo
-phone:        +242 81 00 24
-fax-no:       +242 81 07 52
-e-mail:       cg-admin@dnsafrica.net
+phone:        +41 44 519 00 60
+e-mail:       admin-contact@dnsafrica.net
 
 contact:      technical
-name:         Frederic Gregoire
-organisation: NIC Congo Liaison Office in Switzerland
-organisation: Interpoint SARL
+name:         Monsieur Frederic Gregoire
+organisation: Interpoint Switzerland
 address:      Case Postale 1336
 address:      Lausanne  1001
 address:      Switzerland
-phone:        +41 44 274 23 80
-fax-no:       +41 44 274 23 80
-e-mail:       frg@dnsafrica.net
+phone:        +41 44 519 00 60
+e-mail:       tech-contact@dnsafrica.net
 
 nserver:      DNS.ACNIC.CG 196.43.240.147
 nserver:      DNS.DNSAFRICA.NET 213.193.157.30
@@ -39,6 +36,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.cg
 
 created:      1997-01-14
-changed:      2015-04-23
+changed:      2015-04-28
 source:       IANA
 
