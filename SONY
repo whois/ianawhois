@@ -5,9 +5,7 @@
 domain:       SONY
 
 organisation: Sony Corporation
-address:      13F, Sumitomo-Fudosan Shinagawa Bldg.
-address:      4-10-27 Higashi-Shinagawa, Shinagawa-ku,
-address:      Tokyo, 140-0002
+address:      1-7-1 Konan, Minato-ku, Tokyo, 108-0075
 address:      Japan
 
 contact:      administrative
@@ -45,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.sony.com
 
 created:      2015-03-06
-changed:      2015-04-16
+changed:      2015-04-28
 source:       IANA
 
