@@ -4,10 +4,45 @@
 
 domain:       RENT
 
-organisation: DERRent, LLC
+organisation: XYZ.COM LLC
+address:      2121 E Tropicana Ave
+address:      Las Vegas
+address:      NV 89119
+address:      United States
 
-status:       NEW
+contact:      administrative
+name:         General Counsel
+organisation: XYZ.COM LLC
+address:      2121 E Tropicana Ave., STE2
+address:      Las Vegas
+address:      NV 89119
+address:      United States
+phone:        +1.7027632191
+e-mail:       hello@xyz.com
+
+contact:      technical
+name:         CTO
+organisation: CentralNic
+address:      35-39 Moorgate
+address:      London EC2R 6AR
+address:      United Kingdom
+phone:        +44.2033880600
+fax-no:       +44.2033880601
+e-mail:       tld.ops@centralnic.com
+
+nserver:      A.NIC.RENT 194.169.218.63 2001:67c:13cc:0:0:0:1:63
+nserver:      B.NIC.RENT 185.24.64.63 2a04:2b00:13cc:0:0:0:1:63
+nserver:      C.NIC.RENT 194.0.2.2 2001:678:5:0:0:0:0:2
+nserver:      D.NIC.RENT 194.0.1.45 2001:678:4:0:0:0:0:2d
+ds-rdata:     56632 8 1 5A37261D09F9158D95C49030C66337F40E66B6A1
+ds-rdata:     56632 8 2 D49A86CDF8411AB763FC46430370A6432392B06E1A6C7F6ABABAD8E1E85B558B
+
+whois:        whois.centralnic.com
+
+status:       ACTIVE
+remarks:      Registration information: http://gen.xyz/blog/rent
 
 created:      2015-04-02
+changed:      2015-04-30
 source:       IANA
 
