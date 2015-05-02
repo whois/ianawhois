@@ -1,0 +1,50 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       BRIDGESTONE
+
+organisation: Bridgestone Corporation
+address:      1-1, Kyobashi 3-chome,
+address:      Chuo-ku,
+address:      Tokyo, 104-8340
+address:      Japan
+
+contact:      administrative
+name:         Mitsuaki Nakagawa
+organisation: Brights Consulting Inc.
+address:      30F, Kasumigaseki Bldg., 3-2-5 Kasumigaseki
+address:      Chiyoda-ku
+address:      Tokyo 100-6030
+address:      Japan
+phone:        +81355210107
+fax-no:       +81355210117
+e-mail:       nakagawa_08@brights.jp
+
+contact:      technical
+name:         Mitsuaki Nakagawa
+organisation: Brights Consulting Inc.
+address:      30F, Kasumigaseki Bldg., 3-2-5 Kasumigaseki
+address:      Chiyoda-ku
+address:      Tokyo 100-6030
+address:      Japan
+phone:        +81355210107
+fax-no:       +81355210117
+e-mail:       nakagawa_08@brights.jp
+
+nserver:      A.NIC.BRIDGESTONE 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.BRIDGESTONE 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.BRIDGESTONE 2001:dcd:3:0:0:0:0:9 37.209.196.9
+nserver:      D.NIC.BRIDGESTONE 2001:dcd:4:0:0:0:0:9 37.209.198.9
+ds-rdata:     34330 8 1 845F307246B144DF1B358F35545787F319E919BC
+ds-rdata:     34330 8 2 AA7066E93DDA746EFCAA36F81B388EE6F5F3B22282ED5E141BF9D16FA749E339
+
+whois:        whois.nic.bridgestone
+
+status:       ACTIVE
+remarks:      Registration information: http://www.bridgestone.com/
+
+created:      2015-04-16
+changed:      2015-05-01
+source:       IANA
+
