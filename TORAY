@@ -1,0 +1,50 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       TORAY
+
+organisation: Toray Industries, Inc.
+address:      Nihonbashi Mitsui Tower, 1-1,
+address:      Nihonbashi-Muromachi 2-chome,
+address:      Chuo-ku, Tokyo, 103-8666
+address:      Japan
+
+contact:      administrative
+name:         Mitsuaki Nakagawa
+organisation: Brights Consulting Inc.
+address:      30F, Kasumigaseki Bldg.,
+address:      3-2-5 Kasumigaseki
+address:      Chiyoda-ku Tokyo 100-6030
+address:      Japan
+phone:        +81355210107
+fax-no:       +81355210117
+e-mail:       nakagawa_03@brights.jp
+
+contact:      technical
+name:         Mitsuaki Nakagawa
+organisation: Brights Consulting Inc.
+address:      30F, Kasumigaseki Bldg.,
+address:      3-2-5 Kasumigaseki
+address:      Chiyoda-ku Tokyo 100-6030
+address:      Japan
+phone:        +81355210107
+fax-no:       +81355210117
+e-mail:       nakagawa_03@brights.jp
+
+nserver:      A.NIC.TORAY 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.TORAY 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.TORAY 2001:dcd:3:0:0:0:0:9 37.209.196.9
+nserver:      D.NIC.TORAY 2001:dcd:4:0:0:0:0:9 37.209.198.9
+ds-rdata:     38386 8 1 C7E162E0157A23F8709C4B9F51735992C3BCB5EE
+ds-rdata:     38386 8 2 AD0FDF88F29F77706A206A680BC00EBDE68216045EF13C086E130B32FD2D4DFA
+
+whois:        whois.nic.toray
+
+status:       ACTIVE
+remarks:      Registration information: http://www.toray.com
+
+created:      2015-04-16
+changed:      2015-05-01
+source:       IANA
+
