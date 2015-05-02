@@ -1,0 +1,47 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       HITACHI
+
+organisation: Hitachi, Ltd.
+address:      6-6, Marunouchi 1-chome, Chiyoda-ku Tokyo - 1008280 JP
+address:      Japan
+
+contact:      administrative
+name:         Representative Director
+organisation: GMO Registry, Inc.
+address:      Cerulean Tower 26-1 Sakuragaoka-cho, Shibuya-ku, Tokyo 150-8512
+address:      Japan
+phone:        +81-3-5456-1601
+fax-no:       +81-3-3780-5239
+e-mail:       newgtld@gmoregistry.com
+
+contact:      technical
+name:         Director
+organisation: GMO Registry, Inc.
+address:      Cerulean Tower 26-1, Sakuragaoka-cho, Shibuya-ku, Tokyo 150-8512
+address:      Japan
+phone:        +81-3-5456-1601
+fax-no:       +81-3-3780-5239
+e-mail:       newgtld@gmoregistry.com
+
+nserver:      A.GMOREGISTRY.NET 2001:470:1a:0:0:0:0:9 72.52.71.9
+nserver:      B.GMOREGISTRY.NET 38.103.2.9
+nserver:      C.GMOREGISTRY.NET 2001:5a0:10:0:0:0:0:9 63.243.194.9
+nserver:      D.GMOREGISTRY.NET 120.29.252.11 2001:dcd:5:0:0:0:0:11
+nserver:      E.GMOREGISTRY.NET 120.29.254.11 2001:dcd:6:0:0:0:0:11
+nserver:      G.GMOREGISTRY.NET 2a01:8840:1be:0:0:0:0:1 65.22.165.1
+nserver:      H.GMOREGISTRY.NET 65.22.166.1
+nserver:      I.GMOREGISTRY.NET 2a01:8840:1c0:0:0:0:0:1 65.22.167.1
+ds-rdata:     29924 8 2 104b7c3c295322be94b001d3c937c487f0f8b142db36994706fc59199137a85b
+
+whois:        whois.nic.gmo
+
+status:       ACTIVE
+remarks:      Registration information: http://www.gmoregistry.com/en/
+
+created:      2015-04-23
+changed:      2015-05-01
+source:       IANA
+
