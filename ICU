@@ -1,0 +1,47 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       ICU
+
+organisation: One.com A/S
+address:      Kalvebod Brygge 24
+address:      Copenhagen - 1560 DK
+address:      Denmark
+
+contact:      administrative
+name:         Rieke Poppe
+organisation: One.com
+address:      Kalvebod Brygge 24
+address:      Copenhagen - 1560 DK
+address:      Denmark
+phone:        +4544453011
+fax-no:       +4570205872
+e-mail:       rieke@oneregistry.co
+
+contact:      technical
+name:         Rieke Poppe
+organisation: One.com
+address:      Kalvebod Brygge 24
+address:      Copenhagen - 1560 DK
+address:      Denmark
+phone:        +4544453011
+fax-no:       +4570205872
+e-mail:       rieke@oneregistry.co
+
+nserver:      A.NIC.ICU 2001:dcd:1:0:0:0:0:10 37.209.192.10
+nserver:      B.NIC.ICU 2001:dcd:2:0:0:0:0:10 37.209.194.10
+nserver:      C.NIC.ICU 2001:dcd:3:0:0:0:0:10 37.209.196.10
+nserver:      D.NIC.ICU 2001:dcd:4:0:0:0:0:10 37.209.198.10
+ds-rdata:     62704 8 1 D834EE1ED0374E28C49BE9C12FE1B93AE0FE9CCB
+ds-rdata:     62704 8 2 8C0442A126BA382CA5B05AE5B44744CDC5AB2845C83918E147083434F65790AA
+
+whois:        whois.nic.icu
+
+status:       ACTIVE
+remarks:      Registration information: http://nic.one/
+
+created:      2015-03-06
+changed:      2015-05-02
+source:       IANA
+
