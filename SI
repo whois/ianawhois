@@ -32,10 +32,10 @@ e-mail:       benjamin.zwittnig@register.si
 nserver:      B.DNS.SI 193.2.1.91 2001:1470:8000:0:0:0:0:91
 nserver:      C.DNS.SI 192.93.0.4 2001:660:3005:1:0:0:1:2
 nserver:      D.DNS.SI 130.59.1.30 130.59.10.30 2001:620:0:0:0:0:0:1
-nserver:      E.DNS.SI 2001:5a0:10:0:0:0:0:3 63.243.194.3
 nserver:      F.DNS.SI 194.146.106.62 2001:67c:1010:15:0:0:0:53
 nserver:      G.DNS.SI 194.0.1.20 2001:678:4:0:0:0:0:14
 nserver:      H.DNS.SI 2001:500:14:6054:ad:0:0:1 204.61.216.54
+nserver:      I.DNS.SI 194.0.25.22 2001:678:20:0:0:0:0:22
 nserver:      SSS.DNS.SI 81.91.161.101
 ds-rdata:     48224 8 2 36c1b038cf2d501f1498202a9e84c068f7c39e848a4c9816b6a4b00d2ce39040
 
@@ -45,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.registry.si/
 
 created:      1992-04-01
-changed:      2015-05-05
+changed:      2015-05-06
 source:       IANA
 
