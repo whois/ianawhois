@@ -30,6 +30,9 @@ e-mail:       system@gmoregistry.com
 nserver:      A.NIC.SO 2001:470:1a:0:0:0:0:4 72.52.71.4
 nserver:      B.NIC.SO 38.103.2.4
 nserver:      C.NIC.SO 2001:5a0:10:0:0:0:0:4 63.243.194.4
+nserver:      G.GMOREGISTRY.NET 2a01:8840:1be:0:0:0:0:1 65.22.165.1
+nserver:      H.GMOREGISTRY.NET 65.22.166.1
+nserver:      I.GMOREGISTRY.NET 2a01:8840:1c0:0:0:0:0:1 65.22.167.1
 
 whois:        whois.nic.so
 
@@ -37,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.so/
 
 created:      1997-08-28
-changed:      2014-08-29
+changed:      2015-05-06
 source:       IANA
 
