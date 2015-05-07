@@ -4,42 +4,43 @@
 
 domain:       KH
 
-organisation: Ministry of Post and Telecommunications
+organisation: Telecommunication Regulator of Cambodia (TRC)
 address:      Corner of Street 13 & 102
+address:      Sangkat Wat Phnom, Khan Daun Penh
 address:      Phnom Penh
 address:      Cambodia
 
 contact:      administrative
 name:         Mrs. Lim Yatal
-organisation: Ministry of Post and Telecommunications
+organisation: TRC
 address:      Corner of Street 13 & 102
-address:      Wat Phnom, Phnom Penh
+address:      Sangkat Wat Phnom, Khan Daun Penh
+address:      Phnom Penh
 address:      Cambodia
-phone:        +855 23 725 384
-fax-no:       +855 23 426 011
+phone:        +855 23 722 333
+fax-no:       +855 23 723 222
 e-mail:       dns-admin@dns.net.kh
 
 contact:      technical
-name:         Chakrya Moa
-organisation: Ministry of Post and Telecommunications
-address:      Corner of Street 13 & 102
+name:         Mr. Chin Daro
+organisation: Telecom Cambodia (TC)
+address:      # 95-97, Preah Sihanouk Blvd
+address:      Sangkat Boeung Prolit, Khan 7 Makara
 address:      Phnom Penh
 address:      Cambodia
-phone:        +855 23 724 223
-fax-no:       +855 23 426 011
-e-mail:       chakrya@camnet.com.kh
+phone:        +855 16 842 890
+fax-no:       +855 23 721 406
+e-mail:       daro@camnet.com.kh
 
 nserver:      DNS1.ONLINE.COM.KH 203.189.128.1
-nserver:      NS-KH.RIPE.NET 193.0.12.37
 nserver:      NS.CAMNET.COM.KH 203.223.32.3
-nserver:      NS.TELESURF.COM.KH 203.144.65.3
 nserver:      NS1.DNS.NET.KH 203.223.32.21
 nserver:      SEC3.APNIC.NET 2001:dc0:1:0:4777:0:0:140 202.12.28.140
 
 status:       ACTIVE
-remarks:      Registration information: http://www.camnet.com.kh/
+remarks:      Registration information: http://www.tc.com.kh
 
 created:      1996-02-20
-changed:      2011-03-04
+changed:      2015-05-07
 source:       IANA
 
