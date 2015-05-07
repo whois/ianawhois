@@ -4,42 +4,40 @@
 
 domain:       BN
 
-organisation: Telekom Brunei Berhad
-address:      Old Airport Road
-address:      Berakas Bandar Seri Begawan BB3510
+organisation: Brunei Darussalam Network Information Centre Sdn Bhd (BNNIC)
+address:      Block 13, Simpang 32-5, Kampung Anggerek Desa, Jalan Berakas
+address:      Bandar Seri Begawan, BB3713
 address:      Brunei Darussalam
 
 contact:      administrative
-name:         Pm Sazali Ph Razali
-organisation: Telekom Brunei Berhad
-address:      Old Airport Road
-address:      Berakas Bandar Seri Begawan BB3510
+name:         Domain Administrator
+organisation: Brunei Darussalam Network Information Centre Sdn Bhd (BNNIC)
+address:      Block 13, Simpang 32-5, Kampung Anggerek Desa, Jalan Berakas
+address:      Bandar Seri Begawan, BB3713
 address:      Brunei Darussalam
-phone:        +673 2 222640
-fax-no:       +673 2 221330
-e-mail:       dns@brunet.bn
+phone:        +673.2323232
+fax-no:       +673.2322447
+e-mail:       iana@bnnic.bn
 
 contact:      technical
-name:         Jeffrey Tan
-organisation: Telekom Brunei Berhad
-address:      Old Airport road
-address:      Berakas Bandar Seri Begawan BB3510
+name:         Technical Support
+organisation: Brunei Darussalam Network Information Centre Sdn Bhd (BNNIC)
+address:      Block 13, Simpang 32-5, Kampung Anggerek Desa, Jalan Berakas
+address:      Bandar Seri Begawan, BB3713
 address:      Brunei Darussalam
-phone:        +673 2 222640
-fax-no:       +673 2 221330
-e-mail:       dns@brunet.bn
+phone:        +673.2323232
+fax-no:       +673.2322447
+e-mail:       technical@bnnic.bn
 
 nserver:      BN-NS.ANYCAST.PCH.NET 2001:500:14:6087:ad:0:0:1 204.61.216.87
 nserver:      NS1.BNNIC.BN 194.0.1.33
 nserver:      NS2.BNNIC.BN 202.93.214.163
 nserver:      SEC4.APNIC.NET 2001:dc0:4001:1:0:1836:0:141 202.12.31.141
 
-whois:        whois.bn
-
 status:       ACTIVE
-remarks:      Registration information: http://www.telbru.com.bn
+remarks:      Registration information: http://www.bnnic.bn
 
 created:      1994-06-03
-changed:      2014-12-17
+changed:      2015-05-06
 source:       IANA
 
