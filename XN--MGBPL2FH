@@ -1,0 +1,45 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       سودان
+domain-ace:   XN--MGBPL2FH
+
+organisation: Sudan Internet Society
+address:      Al Fayha Buld, 4th Floor
+address:      P.O.Box 13713, Code 11111
+address:      Khartoum
+address:      Sudan
+
+contact:      administrative
+name:         Dr. Nadir Gaylani
+organisation: Sudan Internet Society
+address:      Al Fayha Buld, 4th Floor
+address:      P.O.Box 13713, Code 11111
+address:      Khartoum
+address:      Sudan
+phone:        +249 157898500
+fax-no:       +249 183766729
+e-mail:       admin@isoc.sd
+
+contact:      technical
+name:         Tarik Merghani
+organisation: Sudan Internet Society
+address:      Al Fayha Buld, 4th Floor
+address:      P.O.Box 13713, Code 11111
+address:      Khartoum
+address:      Sudan
+phone:        +249 912347826
+fax-no:       +249 183766729
+e-mail:       tech@isoc.sd
+
+nserver:      ANS1.SIS.SD 196.29.166.134
+nserver:      PCH.SIS.SD 2001:500:14:6097:ad:0:0:1 204.61.216.97
+
+status:       NEW
+remarks:      Registration information: http://domains.sd
+
+created:      2012-11-20
+changed:      2015-05-07
+source:       IANA
+
