@@ -1,0 +1,50 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       工行
+domain-ace:   XN--ESTV75G
+
+organisation: Industrial and Commercial Bank of China Limited
+address:      15F，Tower D, Desheng International Center, No.77
+address:      Beijing, 100088
+address:      China
+
+contact:      administrative
+name:         Operation Manager
+organisation: Industrial and Commercial Bank of China Limited
+address:      15F，Tower D, Desheng International Center, No.77
+address:      Beijing, 100088
+address:      China
+phone:        86-10-82096408
+fax-no:       86-10-82096262
+e-mail:       web@ebc.icbc.com.cn
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      Building 3, Suite 105
+address:      300 Welsh Road
+address:      Horsham, PA 19044
+address:      United States
+phone:        +1 215.706.5700
+fax-no:       +1 215.706.5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.XN--ESTV75G 2a01:8840:7e:0:0:0:0:1 65.22.128.1
+nserver:      A2.NIC.XN--ESTV75G 2a01:8840:81:0:0:0:0:1 65.22.131.1
+nserver:      B0.NIC.XN--ESTV75G 2a01:8840:7f:0:0:0:0:1 65.22.129.1
+nserver:      C0.NIC.XN--ESTV75G 2a01:8840:80:0:0:0:0:1 65.22.130.1
+ds-rdata:     49941 7 1 68cd7dcd42fdbe333ec0f4f10158dd8a50cd5907
+ds-rdata:     49941 7 2 63ace476efb0f353506c9fb4b515adc6eae52e3779b4957b42db2ab28ea3e87c
+
+whois:        whois.afilias-srs.net
+
+status:       ACTIVE
+remarks:      Registration information:
+remarks:      http://www.icbc.com.cn/ICBC/%E5%9F%9F%E5%90%8D%E6%B3%A8%E5%86%8C%E5%B1%80/default.htm
+
+created:      2015-04-23
+changed:      2015-05-07
+source:       IANA
+
