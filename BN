@@ -34,6 +34,8 @@ nserver:      NS1.BNNIC.BN 194.0.1.33
 nserver:      NS2.BNNIC.BN 202.93.214.163
 nserver:      SEC4.APNIC.NET 2001:dc0:4001:1:0:1836:0:141 202.12.31.141
 
+whois:        whois.bnnic.bn
+
 status:       ACTIVE
 remarks:      Registration information: http://www.bnnic.bn
 
