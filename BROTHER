@@ -1,0 +1,49 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       BROTHER
+
+organisation: Brother Industries, Ltd.
+address:      15-1 Naeshiro-cho, Mizuho-ku,
+address:      Nagoya, Aichi, 467-8561
+address:      Japan
+
+contact:      administrative
+name:         Mitsuaki Nakagawa
+organisation: Brights Consulting Inc.
+address:      30F, Kasumigaseki Bldg.,
+address:      3-2-5 Kasumigaseki
+address:      Chiyoda-ku Tokyo 100-6030
+address:      Japan
+phone:        +81355210107
+fax-no:       +81355210117
+e-mail:       nakagawa_15@brights.jp
+
+contact:      technical
+name:         Mitsuaki Nakagawa
+organisation: Brights Consulting Inc.
+address:      30F, Kasumigaseki Bldg.,
+address:      3-2-5 Kasumigaseki
+address:      Chiyoda-ku Tokyo 100-6030
+address:      Japan
+phone:        +81355210107
+fax-no:       +81355210117
+e-mail:       nakagawa_15@brights.jp
+
+nserver:      A.NIC.BROTHER 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.BROTHER 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.BROTHER 2001:dcd:3:0:0:0:0:9 37.209.196.9
+nserver:      D.NIC.BROTHER 2001:dcd:4:0:0:0:0:9 37.209.198.9
+ds-rdata:     40519 8 1 FF1BEDF2064252BB1A0E310363224C90D6F4FC6A
+ds-rdata:     40519 8 2 6400D5F5E40F4F486FEC608E5FF5CC62DB8D3AEF9775F34D14836C755CE4CDDF
+
+whois:        whois.nic.brother
+
+status:       ACTIVE
+remarks:      Registration information: http://www.brother.com/
+
+created:      2015-04-09
+changed:      2015-05-12
+source:       IANA
+
