@@ -35,6 +35,8 @@ nserver:      NS6.DNS.NIC.MOE 156.154.158.114 2610:a1:1076:0:0:0:0:72
 ds-rdata:     53752 8 1 03E44314F5CC5A2ECA20AE2DB5548F67F412F740
 ds-rdata:     53752 8 2 126A3A4446C04641ED8FC06C3D6D606C1170D6C030308A17F349EB47EB646DC4
 
+whois:        whois.nic.moe
+
 status:       ACTIVE
 remarks:      Registration information:
 remarks:      http://www.interlink.or.jp/gtld/info.html
