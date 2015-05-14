@@ -1,0 +1,45 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       ICBC
+
+organisation: Industrial and Commercial Bank of China Limited
+address:      15F，Tower D, Desheng Intenational Center, No.77 DeshengMenWai Avenue, Xicheng District, Beijing, 100088
+address:      China
+
+contact:      administrative
+name:         Operation Manager
+organisation: Industrial and Commercial Bank of China Limited
+address:      15F，Tower D, Desheng Intenational Center, No.77 DeshengMenWai Avenue, Xicheng District, Beijing, 100088
+address:      China
+phone:        +86 10 82096408
+fax-no:       +86 10 82096262
+e-mail:       web@ebc.icbc.com.cn
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      Building 3, Suite 105, 300 Welsh Road, Horsham, PA 19044
+address:      United States
+phone:        +1 215 706 5700
+fax-no:       +1 215 706 5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.ICBC 2a01:8840:7e:0:0:0:0:33 65.22.128.33
+nserver:      A2.NIC.ICBC 2a01:8840:81:0:0:0:0:33 65.22.131.33
+nserver:      B0.NIC.ICBC 2a01:8840:7f:0:0:0:0:33 65.22.129.33
+nserver:      C0.NIC.ICBC 2a01:8840:80:0:0:0:0:33 65.22.130.33
+ds-rdata:     38979 7 1 fd19ce69343d2a4c732a06477a9c5f980985fd43
+ds-rdata:     38979 7 2 b12e9cbf0158c0304027fdc4de8ddd27426f0e8973cc84370f795162a1cb237d
+
+whois:        whois.afilias-srs.net
+
+status:       ACTIVE
+remarks:      Registration information:
+remarks:      http://www.icbc.com.cn/ICBC/%E5%9F%9F%E5%90%8D%E6%B3%A8%E5%86%8C%E5%B1%80/default.htm
+
+created:      2015-04-09
+changed:      2015-05-13
+source:       IANA
+
