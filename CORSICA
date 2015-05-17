@@ -1,0 +1,49 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       CORSICA
+
+organisation: Collectivité Territoriale de Corse
+address:      22, cours Grandval
+address:      Ajaccio cedex Corse 20187
+address:      FRANCE
+address:      France
+
+contact:      administrative
+name:         Chef du service du developpement technologique
+organisation: Collectivité Territoriale de Corse
+address:      22, cours Grandval
+address:      Ajaccio cedex Corse 20187
+address:      FRANCE
+address:      France
+phone:        +33495516464
+fax-no:       +33495516775
+e-mail:       dotcorsica@ct-corse.fr
+
+contact:      technical
+name:         Project Manager
+organisation: AFNIC
+address:      1, rue Stephenson
+address:      Immeuble Le Stephenson
+address:      78180 Montigny le Bretonneux
+address:      France
+phone:        +33672217740
+fax-no:       +33139308301
+e-mail:       pdtcorsica@afnic.fr
+
+nserver:      D.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
+nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
+nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
+ds-rdata:     64094 8 2 d2531ea94dc29d75dc9db95df659f73d06a55a8baf2da2a4ade2f6cbac39dafe
+ds-rdata:     63082 8 2 84c01935da9b0dc9b26fee9d2c390f5fc2bd946cd5c0b325327bf83914349ae2
+
+whois:        whois-corsica.nic.fr
+
+status:       ACTIVE
+remarks:      Registration information: http://www.corse.fr
+
+created:      2015-04-23
+changed:      2015-05-16
+source:       IANA
+
