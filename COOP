@@ -22,15 +22,15 @@ fax-no:       +1 202 628 6726
 e-mail:       psterner@ncba.coop
 
 contact:      technical
-name:         Jonathan Stanton
-organisation: Midcounties Co-operative Domains Ltd
-address:      Warwick Technology Park
-address:      Gallows Hill
-address:      Warwick CV34 6DA
+name:         CTO
+organisation: CentralNic
+address:      35-39 Moorgate
+address:      London
+address:      EC2R 6AR
 address:      United Kingdom
-phone:        +44 1926 516 391
-fax-no:       +44 1926 516 151
-e-mail:       epp@nic.coop
+phone:        +44.2033880600
+fax-no:       +44.2033880601
+e-mail:       tld.ops@centralnic.com
 
 nserver:      A.NIC.COOP 194.169.218.64 2001:67c:13cc:0:0:0:1:64
 nserver:      B.NIC.COOP 185.24.64.64 2a04:2b00:13cc:0:0:0:1:64
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.coop
 
 created:      2001-12-15
-changed:      2015-04-01
+changed:      2015-05-20
 source:       IANA
 
