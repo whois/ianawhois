@@ -36,6 +36,10 @@ address:      United Kingdom
 phone:        +44(0) 1865 332211
 e-mail:       td@nominet.org.uk
 
+nserver:      DNSA.NIC.CYMRU 156.154.100.3 2001:502:ad09:0:0:0:0:3
+nserver:      DNSB.NIC.CYMRU 156.154.101.3
+nserver:      DNSC.NIC.CYMRU 156.154.102.3
+nserver:      DNSD.NIC.CYMRU 156.154.103.3
 nserver:      NS1.NIC.UK 195.66.240.130 2a01:40:1001:35:0:0:0:2
 nserver:      NS2.NIC.UK 217.79.164.131
 nserver:      NS4.NIC.UK 194.83.244.131 2001:630:181:35:0:0:0:83
@@ -50,6 +54,6 @@ status:       ACTIVE
 remarks:      Registration information: http://ourhomeonline.org.uk
 
 created:      2014-07-31
-changed:      2014-08-08
+changed:      2015-05-19
 source:       IANA
 
