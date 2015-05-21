@@ -1,0 +1,47 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       MEN
+
+organisation: Exclusive Registry Limited
+address:      Famous Four Media/Exclusive Registry Limited
+address:      2nd Floor Leisure Island Business Centre
+address:      Gibraltar
+
+contact:      administrative
+name:         Geir Rasmussen
+organisation: Famous Four Media/Exclusive Registry Limited
+address:      Famous Four Media/Exclusive Registry Limited
+address:      2nd Floor Leisure Island Business Centre
+address:      Gibraltar
+phone:        35021650000
+fax-no:       35021628816
+e-mail:       grasmussen@famousfourmedia.com
+
+contact:      technical
+name:         Geir Rasmussen
+organisation: Famous Four Media/Exclusive Registry Limited
+address:      Famous Four Media/Exclusive Registry Limited
+address:      2nd Floor Leisure Island Business Centre
+address:      Gibraltar
+phone:        35021650000
+fax-no:       35021628816
+e-mail:       grasmussen@famousfourmedia.com
+
+nserver:      A.NIC.MEN 2001:dcd:1:0:0:0:0:10 37.209.192.10
+nserver:      B.NIC.MEN 2001:dcd:2:0:0:0:0:10 37.209.194.10
+nserver:      C.NIC.MEN 2001:dcd:3:0:0:0:0:10 37.209.196.10
+nserver:      D.NIC.MEN 2001:dcd:4:0:0:0:0:10 37.209.198.10
+ds-rdata:     31777 8 1 A6665FAF359C93F4E03334195CB679B422CDB975
+ds-rdata:     31777 8 2 AACC8C03C369479DA4905E75EEF8C55A2B48277BD38132A83E967B35E9556A19
+
+whois:        whois.nic.men
+
+status:       ACTIVE
+remarks:      Registration information: http://www.famousfourmedia.com
+
+created:      2015-05-08
+changed:      2015-05-20
+source:       IANA
+
