@@ -1,0 +1,48 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       THD
+
+organisation: Homer TLC, Inc.
+address:      1007 Orange Street Suite 1424
+address:      Wilmington, DE 19801
+address:      United States
+
+contact:      administrative
+name:         Senior Corporate Counsel
+organisation: Homer TLC, Inc.
+address:      1007 Orange Street Suite 1424
+address:      Chicago, IL 60601
+address:      United States
+phone:        +1 770 433 8211
+fax-no:       +1 770 384 2293
+e-mail:       ngtld-thd@cscglobal.com
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      Building 3, Suite 105
+address:      300 Welsh Road
+address:      Horsham, PA 19044
+address:      United States
+phone:        +1 215 706 5700
+fax-no:       +1 215 706 5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.THD 2a01:8840:ba:0:0:0:0:9 65.22.192.9
+nserver:      A2.NIC.THD 2a01:8840:bd:0:0:0:0:9 65.22.195.9
+nserver:      B0.NIC.THD 2a01:8840:bb:0:0:0:0:9 65.22.193.9
+nserver:      C0.NIC.THD 2a01:8840:bc:0:0:0:0:9 65.22.194.9
+ds-rdata:     43611 7 1 99f684f067434a0df49f283603446367ea4f1144
+ds-rdata:     43611 7 2 c4491dc711ebf4a5daf174ee62aa034b144e9ea1533f1a86284ba44510a3a8be
+
+whois:        whois.afilias-srs.net
+
+status:       ACTIVE
+remarks:      Registration information: http://www.homedepot.com
+
+created:      2015-05-14
+changed:      2015-05-22
+source:       IANA
+
