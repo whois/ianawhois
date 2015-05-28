@@ -14,10 +14,10 @@ contact:      administrative
 name:         KeNIC Admin.
 organisation: Kenya Network Information Center (KeNIC)
 address:      P.O. Box 1461
-address:      Waiyaki Way, CCK Complex
+address:      Waiyaki Way, CA Centre
 address:      Nairobi  00606
 address:      Kenya
-phone:        +254 20 4450057, +254 20 4450058
+phone:        +254 20 4450059, +254 20 4450058, +254715275483, 
 fax-no:       +254 20 4450087
 e-mail:       admin@kenic.or.ke
 
@@ -28,7 +28,7 @@ address:      P.O. Box 1461
 address:      Waiyaki Way, CCK Complex
 address:      Nairobi  00606
 address:      Kenya
-phone:        +254 20 4450057, 254 20 4450058
+phone:        +254 20 4450059, +254 20 4450058, +254725035201
 fax-no:       +254 20 4450087
 e-mail:       tech@kenic.or.ke
 
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.kenic.or.ke
 
 created:      1993-04-29
-changed:      2015-04-22
+changed:      2015-05-28
 source:       IANA
 
