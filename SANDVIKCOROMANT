@@ -1,0 +1,45 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       SANDVIKCOROMANT
+
+organisation: Sandvik AB
+address:      Klarabergsgatan 60, Stockholm  111 21
+address:      Sweden
+
+contact:      administrative
+name:         Jörgen Andersson
+organisation: Sandvik AB
+address:      Klarabergsgatan 60, Stockholm  111 21
+address:      Sweden
+phone:        +46 26 26 00 00
+fax-no:       +46 26 26 10 43
+e-mail:       domains.registry@sandvik.com
+
+contact:      technical
+name:         Jörgen Andersson
+organisation: Sandvik AB
+address:      Klarabergsgatan 60, Stockholm  111 21
+address:      Sweden
+phone:        +4626260000
+fax-no:       +4626261043
+e-mail:       domains.registry@sandvik.com
+
+nserver:      A.NIC.SANDVIKCOROMANT 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.SANDVIKCOROMANT 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.SANDVIKCOROMANT 2001:dcd:3:0:0:0:0:9 37.209.196.9
+nserver:      D.NIC.SANDVIKCOROMANT 2001:dcd:4:0:0:0:0:9 37.209.198.9
+ds-rdata:     47980 8 1 52E81066452E959475145A8E7B202844DB45235D
+ds-rdata:     47980 8 2 6B3E139D1DBC749B347525D924DE7A717DF17DC8C27935C63EBA45CB01A35E3F
+
+whois:        whois.nic.sandvikcoromant
+
+status:       ACTIVE
+remarks:      Registration information:
+remarks:      http://www.sandvik.coromant.com
+
+created:      2015-05-14
+changed:      2015-05-27
+source:       IANA
+
