@@ -36,9 +36,12 @@ e-mail:       chris@tra.gov.eg
 nserver:      NS1.DOTMASR.EG 81.21.97.155
 nserver:      NS2.DOTMASR.EG 81.21.99.11
 nserver:      NS3.DOTMASR.EG 81.10.38.11
+ds-rdata:     19912 8 1 7EF77FE3D057844259326CDA4F822D5287FA7769
+ds-rdata:     19912 8 2 7C0BF621527B8D576F7AB479BFCCDD37464008DB6EBE2128E802B0E17317F5FE
 
 status:       ACTIVE
 
 created:      2010-05-05
+changed:      2015-05-29
 source:       IANA
 
