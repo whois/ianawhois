@@ -5,9 +5,40 @@
 domain:       SKI
 
 organisation: STARTING DOT LIMITED
+address:      2 Grand Canal Street, Dublin 2
+address:      Ireland
 
-status:       NEW
+contact:      administrative
+name:         Godefroy Jordan
+organisation: STARTING DOT LIMITED
+address:      3 B boulevard de la Saussaye Neuilly sur Seine - 92200
+address:      France
+phone:        +35312548968
+fax-no:       +33977196810
+e-mail:       contact@startingdot.com
+
+contact:      technical
+name:         CTO
+organisation: KSregistry GmbH
+address:      Im Oberen Werk 1
+address:      66386 St. Ingbert
+address:      Germany
+phone:        +4968949396250
+fax-no:       +4968949396251
+e-mail:       icann@ksregistry.com
+
+nserver:      NS1A.KSREGISTRY.NET 2001:dd8:7:6075:dc:0:0:1 203.119.88.75
+nserver:      NS1B.KSREGISTRY.NET 2620:0171:0a00:00ad:0:0:0:75 72.0.48.75
+nserver:      NS2A.KSREGISTRY.COM 2001:dd8:7:6076:dc:0:0:1 203.119.88.76
+nserver:      NS2B.KSREGISTRY.COM 2620:0171:0a00:00ad:0:0:0:76 72.0.48.76
+ds-rdata:     43969 8 2 690219a74d4b7c86e197c051a3a7f564c55dc4dba40c679b14cdd9ac8b1ec8bc
+
+whois:        whois.ksregistry.net
+
+status:       ACTIVE
+remarks:      Registration information: http://startingdot.com/
 
 created:      2015-05-14
+changed:      2015-06-01
 source:       IANA
 
