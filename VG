@@ -10,14 +10,14 @@ address:      Road Town, Tortola VG1110
 address:      Virgin Islands, British
 
 contact:      administrative
-name:         Chief Technology Officer
+name:         Chief Executive Officer
 organisation: Telecommunications Regulatory Commission of the Virgin Islands
 address:      27 Fish Lock Road, 3rd Floor
 address:      Road Town, Tortola VG1110
 address:      Virgin Islands, British
 phone:        284-468-4165
 fax-no:       284-494-6786
-e-mail:       rjones@trc.vg
+e-mail:       gmalone@trc.vg
 
 contact:      technical
 name:         .VG Registry Support
@@ -32,11 +32,12 @@ e-mail:       support@ksregistry.net
 nserver:      VG-NS.ANYCAST.PCH.NET 2001:500:14:6084:ad:0:0:1 204.61.216.84
 nserver:      VG-NS.KSREGISTRY.NET 194.0.11.102 2001:678:e:102:0:0:0:53
 
-whois:        ccwhois.ksregistry.net
+whois:        whois.nic.vg
 
 status:       ACTIVE
+remarks:      Registration information: http://nic.vg
 
 created:      1997-02-20
-changed:      2014-04-10
+changed:      2015-06-02
 source:       IANA
 
