@@ -36,12 +36,12 @@ nserver:      D.NIC.TECH 194.0.1.45 2001:678:4:0:0:0:0:2d
 ds-rdata:     50095 8 1 82F72F2462DEE25B99DA2470535AD0A7D131F1EB
 ds-rdata:     50095 8 2 83F40D01141484D8F07305E5D2E44AC5663149054C598D6E9D993C661686C6EE
 
-whois:        whois.centralnic.com
+whois:        whois.nic.tech
 
 status:       ACTIVE
 remarks:      Registration information: http://www.radixregistry.com
 
 created:      2015-03-12
-changed:      2015-03-21
+changed:      2015-06-02
 source:       IANA
 
