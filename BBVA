@@ -40,6 +40,8 @@ nserver:      H5.NSTLD.COM 192.54.112.34 2001:502:08cc:0:0:0:2:34
 nserver:      L5.NSTLD.COM 192.41.162.34
 ds-rdata:     32169 8 2 25546D1F276A9E71422C3F7835750C7693A070F75D96B455DD28D7F4EDD01D57
 
+whois:        whois.nic.bbva
+
 status:       ACTIVE
 remarks:      Registration information:
 remarks:      http://www.bbva.com/TLBB/BBVA_branding/bbva_es.html
