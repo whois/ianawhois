@@ -34,7 +34,7 @@ phone:        +60123938783
 e-mail:       lee@gdnregistry.com
 
 nserver:      NS1.NIC.GDN 194.0.1.37 2001:678:4:0:0:0:0:25
-nserver:      NS2.NIC.GDN 167.114.102.194 2607:5300:60:69c2:0:0:0:1
+nserver:      NS2.NIC.GDN 167.114.102.194 2001:500:14:6099:ad:0:0:1 204.61.216.99 2607:5300:60:69c2:0:0:0:1
 ds-rdata:     29305 8 1 4A5AE86ACB742B4E897369BB8B10C5E80DBC777D
 
 whois:        whois.gdnregistry.com
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.gdnregistry.com
 
 created:      2014-12-04
-changed:      2015-04-16
+changed:      2015-06-04
 source:       IANA
 
