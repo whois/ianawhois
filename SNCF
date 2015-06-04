@@ -1,0 +1,45 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       SNCF
+
+organisation: SNCF (Société Nationale des Chemins de fer Francais)
+address:      2 Place aux Etoiles, 93633 LA PLAINE ST DENIS CEDEX
+address:      France
+
+contact:      administrative
+name:         Domain Name MANAGER
+organisation: SNCF
+address:      2 Place aux Etoiles, 93633 LA PLAINE ST DENIS CEDEX
+address:      France
+phone:        +33153256000
+fax-no:       +33171825805
+e-mail:       contact-j-nomsdedomaine@sncf.fr
+
+contact:      technical
+name:         Project manager
+organisation: AFNIC
+address:      1, rue Stephenson
+address:      Immeuble Le Stephenson
+address:      78180 Montigny le Bretonneux
+address:      France
+phone:        +33672217740
+fax-no:       +33139308301
+e-mail:       pdtsncf@afnic.fr
+
+nserver:      D.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
+nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
+nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
+ds-rdata:     4847 8 2 0d43c1e10077e27e7c5351d1716b24587e85d5619ec900716091ad37052003af
+ds-rdata:     36355 8 2 f26dbb78243d733e151a2d027cba30c8a88d60bd0453e684973b4eb34bf01a8d
+
+whois:        whois-sncf.nic.fr
+
+status:       ACTIVE
+remarks:      Registration information: http://www.sncf.com
+
+created:      2015-05-08
+changed:      2015-06-03
+source:       IANA
+
