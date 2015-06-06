@@ -1,0 +1,44 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       MONTBLANC
+
+organisation: Richemont DNS Inc.
+address:      Hinterbergstrasse 22, Steinhausen, Geneva, CH, 6312
+address:      Switzerland
+
+contact:      administrative
+name:         Lorna Gradden
+organisation: Valideus Limited
+address:      2nd Floor, 28-30 Little Russell Street, London WC1A 2HN
+address:      United Kingdom
+phone:        + 44 2074217790
+fax-no:       + 44 8700118187
+e-mail:       lorna.gradden.ri@valideus.com
+
+contact:      technical
+name:         Sean Kaine
+organisation: Neustar, Inc.
+address:      46000 Center Oak Plaza, Sterling VA 20166
+address:      United States
+phone:        +1 571 434 5168
+fax-no:       +1 571 434 5401
+e-mail:       registrytechnical1@neustar.biz
+
+nserver:      NS1.DNS.NIC.MONTBLANC 156.154.144.116 2610:a1:1071:0:0:0:0:74
+nserver:      NS2.DNS.NIC.MONTBLANC 156.154.145.116 2610:a1:1072:0:0:0:0:74
+nserver:      NS3.DNS.NIC.MONTBLANC 156.154.159.116 2610:a1:1073:0:0:0:0:74
+nserver:      NS4.DNS.NIC.MONTBLANC 156.154.156.116 2610:a1:1074:0:0:0:0:74
+nserver:      NS5.DNS.NIC.MONTBLANC 156.154.157.116 2610:a1:1075:0:0:0:0:74
+nserver:      NS6.DNS.NIC.MONTBLANC 156.154.158.116 2610:a1:1076:0:0:0:0:74
+ds-rdata:     48004 8 1 858415A2C3C9D82100758E2B9D0727426B665E1F
+ds-rdata:     48004 8 2 80E273DBBF9559C80E1D833F615B049F061F6BB9AC2C8A33E141E3A26FC1E2E0
+
+status:       ACTIVE
+remarks:      Registration information: http://www.montblanc.com
+
+created:      2014-11-20
+changed:      2015-06-05
+source:       IANA
+
