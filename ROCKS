@@ -29,7 +29,8 @@ nserver:      DEMAND.ALPHA.ARIDNS.NET.AU 2001:dcd:1:0:0:0:0:7 37.209.192.7
 nserver:      DEMAND.BETA.ARIDNS.NET.AU 2001:dcd:2:0:0:0:0:7 37.209.194.7
 nserver:      DEMAND.DELTA.ARIDNS.NET.AU 2001:dcd:4:0:0:0:0:7 37.209.198.7
 nserver:      DEMAND.GAMMA.ARIDNS.NET.AU 2001:dcd:3:0:0:0:0:7 37.209.196.7
-ds-rdata:     42451 8 2 5004E3B6CACAD57B191E4E66142D9D0580D5E712BBF1993F9A0680088D091075
+ds-rdata:     25861 8 1 0F8114453B161DC1B09F0C8C4FE2DD5ABB437C23
+ds-rdata:     25861 8 2 23B9ECCEE9C250D1A955E1A2979C489AE5CA9F10EDBE348160B8A4A24C95C9F8
 
 whois:        whois.unitedtld.com
 
@@ -38,6 +39,6 @@ remarks:      Registration information:
 remarks:      http://rightside.co/rightside-registry/
 
 created:      2014-01-16
-changed:      2014-04-10
+changed:      2015-06-11
 source:       IANA
 
