@@ -28,7 +28,8 @@ nserver:      DEMAND.ALPHA.ARIDNS.NET.AU 2001:dcd:1:0:0:0:0:7 37.209.192.7
 nserver:      DEMAND.BETA.ARIDNS.NET.AU 2001:dcd:2:0:0:0:0:7 37.209.194.7
 nserver:      DEMAND.DELTA.ARIDNS.NET.AU 2001:dcd:4:0:0:0:0:7 37.209.198.7
 nserver:      DEMAND.GAMMA.ARIDNS.NET.AU 2001:dcd:3:0:0:0:0:7 37.209.196.7
-ds-rdata:     35812 8 2 4C234D8B44D7F628805DCDAC54CBEAF2F5FBC440BACDE80F9B5238185D90F1AB
+ds-rdata:     63454 8 2 A990EF165D922639F54DB245143550BDA499B3A050122B0E0FD31E5F50D2997F
+ds-rdata:     63454 8 1 5FC24BB56A65305D1AEE0AE0189E00ED6C94F00E
 
 whois:        whois.rightside.co
 
@@ -37,6 +38,6 @@ remarks:      Registration information:
 remarks:      http://www.rightside.co/registry/
 
 created:      2014-12-17
-changed:      2014-12-26
+changed:      2015-06-11
 source:       IANA
 
