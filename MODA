@@ -29,7 +29,8 @@ nserver:      DEMAND.ALPHA.ARIDNS.NET.AU 2001:dcd:1:0:0:0:0:7 37.209.192.7
 nserver:      DEMAND.BETA.ARIDNS.NET.AU 2001:dcd:2:0:0:0:0:7 37.209.194.7
 nserver:      DEMAND.DELTA.ARIDNS.NET.AU 2001:dcd:4:0:0:0:0:7 37.209.198.7
 nserver:      DEMAND.GAMMA.ARIDNS.NET.AU 2001:dcd:3:0:0:0:0:7 37.209.196.7
-ds-rdata:     38596 8 2 63CCF0EB3E518D41F9E52DBE7DC0762567BB8A6CFF1162A3305A445FA42ACDFD
+ds-rdata:     30136 8 1 7BEA3EB18A359E772609F57159C78C97B129FFAB
+ds-rdata:     30136 8 2 F1A0713FA3C657E7A2207A01E9DC29A3E141E9F4781328AC9D385474557E678F
 
 whois:        whois.unitedtld.com
 
@@ -37,6 +38,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.unitedtld.com
 
 created:      2014-01-09
-changed:      2014-01-16
+changed:      2015-06-11
 source:       IANA
 
