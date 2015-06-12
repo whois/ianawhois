@@ -1,0 +1,44 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       LASALLE
+
+organisation: Jones Lang LaSalle Incorporated
+address:      200 E. Randolph Drive, Chicago, IL, 60601
+address:      United States
+
+contact:      administrative
+name:         Senior Corporate Counsel
+organisation: Jones Lang LaSalle Incorporated
+address:      200 E. Randolph Drive, Chicago, IL, 60601
+address:      United States
+phone:        +1 312 228 2269
+fax-no:       +1 312 228 2777
+e-mail:       jllnewgtlds@cscinfo.com
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      Building 3, Suite 105, 300 Welsh Road, Horsham, PA, 19044
+address:      United States
+phone:        +1 215 706 5700
+fax-no:       +1 215 706 5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.LASALLE 2a01:8840:92:0:0:0:0:1 65.22.148.1
+nserver:      A2.NIC.LASALLE 2a01:8840:95:0:0:0:0:1 65.22.151.1
+nserver:      B0.NIC.LASALLE 2a01:8840:93:0:0:0:0:1 65.22.149.1
+nserver:      C0.NIC.LASALLE 2a01:8840:94:0:0:0:0:1 65.22.150.1
+ds-rdata:     25206 7 1 b5f7ee824df381d671690718977488d0756ef665
+ds-rdata:     25206 7 2 a5dfdc18f4ccfb1bd8d4ac1c88c1c4864795dc7a1be2c22d11e0d473b25c2462
+
+whois:        whois.afilias-srs.net
+
+status:       ACTIVE
+remarks:      Registration information: http://www.jll.com
+
+created:      2015-06-04
+changed:      2015-06-11
+source:       IANA
+
