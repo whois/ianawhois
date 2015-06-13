@@ -18,14 +18,14 @@ fax-no:       +252 1 231 599
 e-mail:       admin@mipt.gov.so
 
 contact:      technical
-name:         Technical Administrator
-organisation: GMO Registry, Inc.
-address:      26-1 Sakuragaokacho
-address:      Tokyo  150-8512
-address:      Japan
-phone:        +81 3 5456 1601
-fax-no:       +81 3 3780 5239
-e-mail:       system@gmoregistry.com
+name:         Tech Manager
+organisation: soNIC
+address:      Via Republic
+address:      Mogadishu Benadir 1000
+address:      Somalia
+phone:        +252 61 8250888
+fax-no:       +252 61 8250991
+e-mail:       admin@sonic.gov.so
 
 nserver:      D.NIC.SO 196.216.168.54 2001:43f8:120:0:0:0:0:54
 nserver:      E.NIC.SO 2001:500:14:6101:ad:0:0:1 204.61.216.101
@@ -39,6 +39,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.so/
 
 created:      1997-08-28
-changed:      2015-05-20
+changed:      2015-06-12
 source:       IANA
 
