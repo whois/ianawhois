@@ -35,6 +35,8 @@ nserver:      B0.XXX.AFILIAS-NST.ORG 199.115.153.1 2001:500:a1:0:0:0:0:1
 nserver:      B2.XXX.AFILIAS-NST.ORG 199.115.157.1 2001:500:a5:0:0:0:0:1
 nserver:      C0.XXX.AFILIAS-NST.INFO 199.115.154.1 2001:500:a2:0:0:0:0:1
 nserver:      D0.XXX.AFILIAS-NST.ORG 199.115.155.1 2001:500:a3:0:0:0:0:1
+ds-rdata:     50386 7 1 c7dbecbc434d3a3455e9e6f0b971b1ac6a2bab10
+ds-rdata:     50386 7 2 10a34e6d723755e2d605be1490316d214d41909e9414bf069dd0c6afe03c2e73
 
 whois:        whois.nic.xxx
 
@@ -42,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.icmregistry.com/
 
 created:      2011-04-15
-changed:      2011-12-14
+changed:      2015-06-16
 source:       IANA
 
