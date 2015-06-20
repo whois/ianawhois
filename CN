@@ -38,7 +38,7 @@ nserver:      C.DNS.CN 203.119.27.1
 nserver:      D.DNS.CN 2001:dc7:1000:0:0:0:0:1 203.119.28.1
 nserver:      E.DNS.CN 203.119.29.1
 nserver:      NS.CERNET.NET 202.112.0.44
-ds-rdata:     32425 8 2 FF38983DA984079EC9CB954D25D619DF6779ADBB8C4152DC6CB02118BE60BDD6
+ds-rdata:     24697 8 2 A8BD8346D72C8C08FCE76D85298A8D58025323487122C5354D6E34AD857498E3
 
 whois:        whois.cnnic.cn
 
@@ -46,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.cnnic.cn/
 
 created:      1990-11-28
-changed:      2015-05-05
+changed:      2015-06-19
 source:       IANA
 
