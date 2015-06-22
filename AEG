@@ -5,9 +5,44 @@
 domain:       AEG
 
 organisation: Aktiebolaget Electrolux
+address:      S:t Göransgatan 143
+address:      S-10545 Stockholm
+address:      Sweden
 
-status:       NEW
+contact:      administrative
+name:         IP Legal Department
+organisation: AB Electrolux
+address:      S:t Göransgatan 143
+address:      S-10545 Stockholm
+address:      Sweden
+phone:        ] +46 (0) 8 738 89 52
+fax-no:       +46 (0) 8 738 68 13
+e-mail:       ngtld-aeg@cscinfo.com
+
+contact:      technical
+name:         Registry Customer Service
+organisation: Verisign, inc.
+address:      12061 Bluemont Way
+address:      Reston Virginia 20190
+address:      United States
+phone:        +1-703-925-6999
+fax-no:       +1-703-948-3978
+e-mail:       info@verisign-grs.com
+
+nserver:      A5.NSTLD.COM 192.5.6.34
+nserver:      C5.NSTLD.COM 192.26.92.34
+nserver:      D5.NSTLD.COM 192.31.80.34
+nserver:      F5.NSTLD.COM 192.35.51.34 2001:503:d414:0:0:0:2:34
+nserver:      G5.NSTLD.COM 192.42.93.34
+nserver:      H5.NSTLD.COM 192.54.112.34 2001:502:08cc:0:0:0:2:34
+nserver:      L5.NSTLD.COM 192.41.162.34
+ds-rdata:     39735 8 2 B28A67A4935609BCF1257AF4215B9FFCE0F7E917BC076BD69030A5D76008AE51
+
+whois:        whois.nic.aeg
+
+status:       ACTIVE
 
 created:      2015-06-11
+changed:      2015-06-21
 source:       IANA
 
