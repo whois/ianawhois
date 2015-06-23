@@ -1,0 +1,44 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       VISTA
+
+organisation: Vistaprint Limited
+address:      Canon's Court, 22 Victoria Street, HM12 Hamilton
+address:      Bermuda
+
+contact:      administrative
+name:         Victoria Clifford
+organisation: VistaPrint Limited
+address:      Canon's Court, 22 Victoria Street, HM12 Hamilton
+address:      Bermuda
+phone:        +1.7816526300
+fax-no:       +1.7816526092
+e-mail:       domainadmin@vistaprint.com
+
+contact:      technical
+name:         Victoria Clifford
+organisation: VistaPrint Limited
+address:      Canon's Court, 22 Victoria Street, HM12 Hamilton
+address:      Bermuda
+phone:        +1.7816526300
+fax-no:       +1.7816526092
+e-mail:       domainadmin@vistaprint.com
+
+nserver:      A.NIC.VISTA 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.VISTA 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.VISTA 2001:dcd:3:0:0:0:0:9 37.209.196.9
+nserver:      D.NIC.VISTA 2001:dcd:4:0:0:0:0:9 37.209.198.9
+ds-rdata:     18022 8 1 7E401EE6CC4FBFA3240B204F2A1C47605860ECC8
+ds-rdata:     18022 8 2 CDDA4A035DED516EF36ADFBCAA94E540EDE29918D74376290EDA43464346CE91
+
+whois:        whois.nic.vista
+
+status:       ACTIVE
+remarks:      Registration information: http://www.vistaprint.com/
+
+created:      2015-06-04
+changed:      2015-06-22
+source:       IANA
+
