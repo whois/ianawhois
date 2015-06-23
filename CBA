@@ -1,0 +1,51 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       CBA
+
+organisation: COMMONWEALTH BANK OF AUSTRALIA
+address:      Ground Floor
+address:      Tower 1 201 Sussex Street
+address:      Sydney
+address:      New South Wales
+address:      1155
+address:      Australia
+
+contact:      administrative
+name:         Domain Admin
+address:      COMMONWEALTH BANK OF AUSTRALIA
+address:      Australia
+phone:        +61477387865
+fax-no:       +61291181601
+e-mail:       domains@cba.com.au
+
+contact:      technical
+name:         Domain Admin
+organisation: COMMONWEALTH BANK OF AUSTRALIA
+address:      Ground Floor
+address:      Tower 1 201 Sussex Street
+address:      Sydney
+address:      New South Wales
+address:      1155
+address:      Australia
+phone:        +61477387865
+fax-no:       +61291181601
+e-mail:       domains@cba.com.au
+
+nserver:      A.NIC.CBA 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.CBA 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.CBA 2001:dcd:3:0:0:0:0:9 37.209.196.9
+nserver:      D.NIC.CBA 2001:dcd:4:0:0:0:0:9 37.209.198.9
+ds-rdata:     61009 8 1 D1BA9D2E1D85EED67B011D50186FEC69E3601A79
+ds-rdata:     61009 8 2 48D1359D283B029AA029326F00A2AB5D4C32A294724538B7CBE360E17CB4E589
+
+whois:        whois.nic.cba
+
+status:       ACTIVE
+remarks:      Registration information: http://www.commbank.com.au
+
+created:      2015-03-26
+changed:      2015-06-22
+source:       IANA
+
