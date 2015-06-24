@@ -1,0 +1,44 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       SKYPE
+
+organisation: Microsoft Corporation
+address:      One Microsoft Way, Redmond, WA 98052
+address:      United States
+
+contact:      administrative
+name:         Nick Whitworth
+organisation: Microsoft Corporation
+address:      One Microsoft Way, Redmond, WA 98052
+address:      United States
+phone:        +1 425-706-3546
+fax-no:       +1 425-457-2511
+e-mail:       tlddom@microsoft.com
+
+contact:      technical
+name:         Sean Kaine
+organisation: Neustar, Inc.
+address:      46000 Center Oak Plaza, Sterling VA 20166
+address:      United States
+phone:        +1 571 434 5168
+fax-no:       +1 571 434 5401
+e-mail:       registrytechnical1@neustar.biz
+
+nserver:      NS1.DNS.NIC.SKYPE 156.154.144.151 2610:a1:1071:0:0:0:0:97
+nserver:      NS2.DNS.NIC.SKYPE 156.154.145.151 2610:a1:1072:0:0:0:0:97
+nserver:      NS3.DNS.NIC.SKYPE 156.154.159.151 2610:a1:1073:0:0:0:0:97
+nserver:      NS4.DNS.NIC.SKYPE 156.154.156.151 2610:a1:1074:0:0:0:0:97
+nserver:      NS5.DNS.NIC.SKYPE 156.154.157.151 2610:a1:1075:0:0:0:0:97
+nserver:      NS6.DNS.NIC.SKYPE 156.154.158.151 2610:a1:1076:0:0:0:0:97
+ds-rdata:     44947 8 1 78A62B2C72F2EB52617C654013E1856F88DB493D
+ds-rdata:     44947 8 2 8C7BA66D5D1B149C8BC5467D61C62068E35999C007DD80E55F1AC245433701CB
+
+status:       ACTIVE
+remarks:      Registration information: http://www.skype.com
+
+created:      2015-03-19
+changed:      2015-06-23
+source:       IANA
+
