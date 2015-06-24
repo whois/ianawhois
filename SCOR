@@ -1,0 +1,44 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       SCOR
+
+organisation: SCOR SE
+address:      5 avenue Kléber Paris - Paris Cedex 16 - 75795 FR
+address:      France
+
+contact:      administrative
+name:         Domain admin
+organisation: SCOR SE
+address:      5 avenue Kléber Paris - Paris Cedex 16 - 75795 FR
+address:      France
+phone:        33158447123
+fax-no:       33158448506
+e-mail:       internetdomainadmin@scor.com
+
+contact:      technical
+name:         Domain admin
+organisation: SCOR SE
+address:      5 avenue Kléber Paris - Paris Cedex 16 - 75795 FR
+address:      France
+phone:        33158447123
+fax-no:       33158448506
+e-mail:       internetdomainadmin@scor.com
+
+nserver:      A.NIC.SCOR 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.SCOR 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.SCOR 2001:dcd:3:0:0:0:0:9 37.209.196.9
+nserver:      D.NIC.SCOR 2001:dcd:4:0:0:0:0:9 37.209.198.9
+ds-rdata:     4927 8 1 52AE77E33018AA56A7B3C8AB93A8E69B436DE4E5
+ds-rdata:     4927 8 2 477960075A546A89101623F4A0BB0322848822D0C934640F355CC1409BC1B817
+
+whois:        whois.nic.scor
+
+status:       ACTIVE
+remarks:      Registration information: http://scor.com/
+
+created:      2015-04-30
+changed:      2015-06-23
+source:       IANA
+
