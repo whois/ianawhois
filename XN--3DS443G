@@ -6,8 +6,7 @@ domain:       在线
 domain-ace:   XN--3DS443G
 
 organisation: TLD REGISTRY LIMITED
-address:      TLD Registry Ltd.
-address:      1st. Floor, Fitzwilton House, Wilton Place
+address:      2 Grand Canal Square
 address:      Dublin
 address:      Dublin 2
 address:      Ireland
@@ -15,7 +14,7 @@ address:      Ireland
 contact:      administrative
 name:         CEO
 organisation: TLD Registry Ltd.
-address:      1st. Floor, Fitzwilton House, Wilton Place
+address:      2 Grand Canal Square
 address:      Dublin
 address:      Dublin 2
 address:      Ireland
@@ -47,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://internetregistry.info/
 
 created:      2013-12-19
-changed:      2014-01-02
+changed:      2015-06-23
 source:       IANA
 
