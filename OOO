@@ -9,13 +9,17 @@ address:      9th Floor, "A Wing", Gopal Palace, Nehrunagar-380015
 address:      India
 
 contact:      administrative
-name:         Niraj Jain
-organisation: INFIBEAM INCORPORATION LIMITED
-address:      9th Floor, "A WIng", Gopal Palace, Nehrunagar-380015
+name:         CEO
+organisation: Infibeam.com
+address:      9th Floor, A Wing
+address:      Gopal Palace
+address:      Nehrunagar
+address:      Ahmedabad
+address:      Gujarat 380015
 address:      India
-phone:        +91 7698008068
-fax-no:       91-079-4050-3219
-e-mail:       niraj.jain@infibeam.net
+phone:        +91 8374000134
+fax-no:       +91 07940503219
+e-mail:       ooocompliance@infibeam.net
 
 contact:      technical
 name:         Registry Customer Service
@@ -41,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.infibeam.com
 
 created:      2014-07-31
-changed:      2014-08-16
+changed:      2015-06-25
 source:       IANA
 
