@@ -5,9 +5,37 @@
 domain:       LAW
 
 organisation: Minds + Machines Group Limited
+address:      Craigmuir Chambers, Road Town Tortola VG 1110
+address:      Virgin Islands, British
 
-status:       NEW
+contact:      administrative
+name:         Admin Contact
+organisation: Minds + Machines Ltd
+address:      32 Nassau St, Dublin 2
+address:      Ireland
+phone:        +353.14301689
+e-mail:       support@mm-registry.com
+
+contact:      technical
+name:         Technical Contact
+organisation: Minds + Machines Ltd
+address:      32 Nassau St, Dublin 2
+address:      Ireland
+phone:        +353.14301689
+e-mail:       support@mm-registry.com
+
+nserver:      A.NS.NIC.LAW 2620:171:a02:ad:0:0:0:29 72.0.50.29
+nserver:      B.NS.NIC.LAW 2620:171:d02:dc:0:0:0:29 72.42.114.29
+nserver:      C.NS.NIC.LAW 2620:0171:0c00:000c:0:0:0:29 70.40.0.29
+nserver:      D.NS.NIC.LAW 2620:0171:0f00:000d:0:0:0:29 70.40.8.29
+ds-rdata:     57100 8 2 8C41849EDE923127FC8A64386AB080059ABBC431DC2E295E8415F4F2A07A52C4
+
+whois:        whois-dub.mm-registry.com
+
+status:       ACTIVE
+remarks:      Registration information: http://mm-registry.com
 
 created:      2015-06-18
+changed:      2015-06-26
 source:       IANA
 
