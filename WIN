@@ -35,6 +35,8 @@ nserver:      NS6.DNS.NIC.WIN 156.154.158.182 2610:a1:1076:0:0:0:0:b6
 ds-rdata:     41897 8 1 78A413B64D19AA89F6FBE8071D75EBF407F9051B
 ds-rdata:     41897 8 2 55CA18F99B24E4F1E873DA33B6199455E25C13875CA02B132B62E4F81A8D5A1C
 
+whois:        whois.nic.win
+
 status:       ACTIVE
 remarks:      Registration information:
 remarks:      http://www.famousfourmedia.com/win
