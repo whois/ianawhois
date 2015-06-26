@@ -35,6 +35,8 @@ nserver:      NS6.DNS.NIC.DATE 156.154.158.46 2610:a1:1076:0:0:0:0:2e
 ds-rdata:     31622 8 1 95B65078F79A70B56F57E0D9F6220C7FDFEC48EE
 ds-rdata:     31622 8 2 64EBF1EAC7C2A896EBC601027BD90417A1EF03AC3427C5CC09DAC821B2EFB687
 
+whois:        whois.nic.date
+
 status:       ACTIVE
 remarks:      Registration information:
 remarks:      http://www.famousfourmedia.com/date
