@@ -35,6 +35,8 @@ nserver:      NS6.DNS.NIC.PARTY 156.154.174.24 2610:a1:1076:0:0:0:1:18
 ds-rdata:     34145 8 1 0A01038CAB8FBDEF13F0D7CCEE6CB9402FF9B1E0
 ds-rdata:     34145 8 2 D591D326CCC6CE63710FB2803B40F60108DA589A434601E592906D98069529C2
 
+whois:        whois.nic.party
+
 status:       ACTIVE
 remarks:      Registration information:
 remarks:      http://www.famousfourmedia.com/party
