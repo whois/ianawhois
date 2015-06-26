@@ -35,6 +35,8 @@ nserver:      NS6.DNS.NIC.ACCOUNTANT 156.154.158.195 2610:a1:1076:0:0:0:0:c3
 ds-rdata:     33631 8 1 D9794E6E891EE62E553B1EC015D3563558BBFD69
 ds-rdata:     33631 8 2 82968A14D9F1F89863ABAA8FA27953DE4C3A4066B88F64EF38044EEB2D3D9105
 
+whois:        whois.nic.accountant
+
 status:       ACTIVE
 remarks:      Registration information:
 remarks:      http://www.famousfourmedia.com/accountant
