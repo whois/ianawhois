@@ -11,7 +11,7 @@ address:      Guayaquil Guayas
 address:      Ecuador
 
 contact:      administrative
-name:         Victor Abboud
+name:         Garry J. Donoghue
 organisation: NIC.EC (NICEC) S.A.
 address:      Av. 9 de Octubre 100
 address:      Piso 22
@@ -19,7 +19,7 @@ address:      Guayaquil Guayas
 address:      Ecuador
 phone:        +5934 2515912
 fax-no:       +5934 2515434
-e-mail:       vabboud@nic.ec
+e-mail:       garry.donoghue@nic.ec
 
 contact:      technical
 name:         DNS Administrator
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.ec
 
 created:      1991-02-01
-changed:      2012-08-31
+changed:      2015-06-26
 source:       IANA
 
