@@ -35,6 +35,8 @@ nserver:      NS6.DNS.NIC.LOAN 156.154.158.106 2610:a1:1076:0:0:0:0:6a
 ds-rdata:     5521 8 1 C27E74E26442998FFDA5CB83C81746579EAACAD9
 ds-rdata:     5521 8 2 B08AA2D50D83EAA39A9AC5D4A148AF2C7B3464B7574F18D6B109C6C0F8803E4E
 
+whois:        whois.nic.loan
+
 status:       ACTIVE
 remarks:      Registration information:
 remarks:      http://www.famousfourmedia.com/loan
