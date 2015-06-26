@@ -35,6 +35,8 @@ nserver:      NS6.DNS.NIC.SCIENCE 156.154.174.41 2610:a1:1076:0:0:0:1:29
 ds-rdata:     59039 8 1 C98E986A5F18E457D87C10D1F1B339A3B8FD7D2F
 ds-rdata:     59039 8 2 4579AF39FB355F1880718E5574E054ADF7A42AA6816BD80CD1F5D224BC003B4F
 
+whois:        whois.nic.science
+
 status:       ACTIVE
 remarks:      Registration information:
 remarks:      http://www.famousfourmedia.com/science
