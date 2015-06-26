@@ -35,6 +35,8 @@ nserver:      NS6.DNS.NIC.RACING 156.154.174.33 2610:a1:1076:0:0:0:1:21
 ds-rdata:     54886 8 1 D00D09A117035869B0E7FF7465FFF55C16373D14
 ds-rdata:     54886 8 2 D954FB0C26C0DEF0187D42BB69B12615863D61FA9EEAEC87593A7613121E1695
 
+whois:        whois.nic.racing
+
 status:       ACTIVE
 remarks:      Registration information:
 remarks:      http://www.famousfourmedia.com/racing
