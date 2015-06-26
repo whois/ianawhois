@@ -32,9 +32,10 @@ phone:        +1 425 296 6802
 fax-no:       +1 425 223 5351
 e-mail:       chris@donuts.co
 
-nserver:      A.DNS.NIC.REISE 194.0.25.18 2001:678:20:0:0:0:0:18
-nserver:      M.DNS.NIC.REISE 194.0.26.7 2001:67c:10e0:0:0:0:0:7
-nserver:      N.DNS.NIC.REISE 194.0.24.7 2001:678:24:0:0:0:0:7
+nserver:      DEMAND.ALPHA.ARIDNS.NET.AU 2001:dcd:1:0:0:0:0:7 37.209.192.7
+nserver:      DEMAND.BETA.ARIDNS.NET.AU 2001:dcd:2:0:0:0:0:7 37.209.194.7
+nserver:      DEMAND.DELTA.ARIDNS.NET.AU 2001:dcd:4:0:0:0:0:7 37.209.198.7
+nserver:      DEMAND.GAMMA.ARIDNS.NET.AU 2001:dcd:3:0:0:0:0:7 37.209.196.7
 ds-rdata:     62014 8 1 51c1596e977ec71522e395b24f84b5db6654f5b9
 ds-rdata:     62014 8 2 c4b956e202c47ea68fdf3a937dd6ef69fe3ae043712545f1d49a0600771d6893
 ds-rdata:     45280 8 2 d9254ebd139f78804dcfb9a352c7199d8e96d4a5074017302034545e4ca16b02
@@ -48,6 +49,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.reise
 
 created:      2014-05-15
-changed:      2015-06-18
+changed:      2015-06-26
 source:       IANA
 
