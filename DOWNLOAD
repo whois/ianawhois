@@ -35,6 +35,8 @@ nserver:      NS6.DNS.NIC.DOWNLOAD 156.154.158.50 2610:a1:1076:0:0:0:0:32
 ds-rdata:     49810 8 1 DA5FF7A658EF237A4D887C80C561842D8C20B3C9
 ds-rdata:     49810 8 2 56C99166080AD559D7D6D54F1BDF96EC26C82115C7DD1FC026DF58FFB5AD1B7F
 
+whois:        whois.nic.download
+
 status:       ACTIVE
 remarks:      Registration information:
 remarks:      http://www.famousfourmedia.com/download
