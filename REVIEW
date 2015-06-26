@@ -35,6 +35,8 @@ nserver:      NS6.DNS.NIC.REVIEW 156.154.174.35 2610:a1:1076:0:0:0:1:23
 ds-rdata:     50266 8 1 EC1F937ED5AF4F8643275671FD9CB427F2DFDD0A
 ds-rdata:     50266 8 2 4A0872C07FD09A290FD39AA14AA2C6565448A49EA7657D249095223EE44D79C5
 
+whois:        whois.nic.review
+
 status:       ACTIVE
 remarks:      Registration information:
 remarks:      http://www.famousfourmedia.com/review
