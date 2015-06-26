@@ -36,6 +36,8 @@ nserver:      NS6.DNS.NIC.WEBCAM 156.154.174.60 2610:a1:1076:0:0:0:1:3c
 ds-rdata:     57952 8 1 5668F73A1C2480F6111FD821CAFC5A737E8D580C
 ds-rdata:     57952 8 2 E61F53AF35E6C31B45CC2AEB6F9DCE6B265F91E8CF2B0FE1BE3762F2A57D45EC
 
+whois:        whois.nic.webcam
+
 status:       ACTIVE
 remarks:      Registration information:
 remarks:      http://www.famousfourmedia.com/webcam
