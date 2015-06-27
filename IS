@@ -29,7 +29,7 @@ phone:        +354 525 4747
 fax-no:       +354 561 0999
 e-mail:       marius@isgate.is
 
-nserver:      DURINN.RHNET.IS 130.208.16.20
+nserver:      DURINN.RHNET.IS 130.208.16.20 2a00:c88:10:16:0:0:0:20
 nserver:      IS.CCTLD.AUTHDNS.RIPE.NET 193.0.9.81 2001:67c:e0:0:0:0:0:81
 nserver:      ISGATE.IS 193.4.58.51 2001:67c:6c:58:0:0:0:51
 nserver:      SAB.ISNIC.IS 194.146.106.58 2001:67c:1010:14:0:0:0:53
@@ -44,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.isnic.is/
 
 created:      1987-11-18
-changed:      2013-10-10
+changed:      2015-06-26
 source:       IANA
 
