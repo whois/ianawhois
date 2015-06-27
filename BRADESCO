@@ -1,0 +1,41 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       BRADESCO
+
+organisation: Banco Bradesco S.A.
+address:      Avenida Yara SN - Cidade de Deus - Prédio Rubi - Osasco - São Paulo - 06029900
+address:      Brazil
+
+contact:      administrative
+name:         Admin Contact
+organisation: Minds + Machines Ltd
+address:      32 Nassau St, Dublin 2
+address:      Ireland
+phone:        +353.14301689
+e-mail:       support@mm-registry.com
+
+contact:      technical
+name:         Tech Contact
+organisation: Minds + Machines Ltd
+address:      32 Nassau St, Dublin 2
+address:      Ireland
+phone:        +353.14301689
+e-mail:       support@mm-registry.com
+
+nserver:      A.NS.NIC.BRADESCO 2620:0171:0a02:00ad:0:0:0:16 72.0.50.16
+nserver:      B.NS.NIC.BRADESCO 2620:0171:0d02:00dc:0:0:0:16 72.42.114.16
+nserver:      C.NS.NIC.BRADESCO 2620:0171:0c00:000c:0:0:0:16 70.40.0.16
+nserver:      D.NS.NIC.BRADESCO 2620:0171:0f00:000d:0:0:0:16 70.40.8.16
+ds-rdata:     60020 8 2 970B43384BFB2CC27E86EE948CBFE25377FDA5EBD8227654D8498094C62CE31E
+
+whois:        whois-cl01.mm-registry.com
+
+status:       ACTIVE
+remarks:      Registration information: http://mm-registry.com
+
+created:      2015-05-29
+changed:      2015-06-26
+source:       IANA
+
