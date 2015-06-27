@@ -1,0 +1,46 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       MOVISTAR
+
+organisation: Telefónica S.A.
+address:      Gran Vía 28
+address:      Madrid 28013
+address:      Spain
+
+contact:      administrative
+name:         .movistar Admin Contact
+organisation: CORE
+address:      Cours de Rive 2
+address:      CH-1204 Geneva
+address:      Switzerland
+phone:        +41 22 312 5610
+fax-no:       +41 22 312 5612
+e-mail:       secretariat@corenic.org
+
+contact:      technical
+name:         .movistar Tech Contact
+organisation: CORE
+address:      CORE Association
+address:      Cours de Rive 2
+address:      Switzerland
+phone:        +41 22 312 5610
+fax-no:       +41 22 312 5612
+e-mail:       dnsmaster@corenic.org
+
+nserver:      ANYCAST10.IRONDNS.NET 195.253.64.12 2a01:5b0:4:0:0:0:0:c
+nserver:      ANYCAST23.IRONDNS.NET 195.253.65.11 2a01:5b0:5:0:0:0:0:b
+nserver:      ANYCAST24.IRONDNS.NET 195.253.65.12 2a01:5b0:5:0:0:0:0:c
+nserver:      ANYCAST9.IRONDNS.NET 195.253.64.11 2a01:5b0:4:0:0:0:0:b
+ds-rdata:     25776 10 2 3B7D968230858CFFB0CFB1149E5DB04E635EA7E99A960CB164EC9298D1A37F2F
+
+whois:        whois-fe.movistar.tango.knipp.de
+
+status:       ACTIVE
+remarks:      Registration information: http://telefonica.com
+
+created:      2015-06-18
+changed:      2015-06-27
+source:       IANA
+
