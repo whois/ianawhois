@@ -1,0 +1,50 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       BNL
+
+organisation: Banca Nazionale del Lavoro
+address:      Via V.Veneto,119
+address:      Roma, Italia
+address:      00187
+address:      Italy
+
+contact:      administrative
+name:         Coordinatore Workplace Architecture
+organisation: Banca Nazionale del Lavoro
+address:      Viale degli Aldobrandeschi, 300
+address:      Roma, Italia
+address:      00163
+address:      Italy
+phone:        +39 345 1782341
+fax-no:       +39 06 664 72855
+e-mail:       diego.ranzani@bnlmail.com
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      Building 3, Suite 105
+address:      300 Welsh Road
+address:      Horsham, PA 19044
+address:      United States
+phone:        +1 215.706.5700
+fax-no:       +1 215.706.5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.BNL 2a01:8840:3e:0:0:0:0:1 65.22.64.1
+nserver:      A2.NIC.BNL 2a01:8840:41:0:0:0:0:1 65.22.67.1
+nserver:      B0.NIC.BNL 2a01:8840:3f:0:0:0:0:1 65.22.65.1
+nserver:      C0.NIC.BNL 2a01:8840:40:0:0:0:0:1 65.22.66.1
+ds-rdata:     49953 7 1 1a4faa58fb885d0290d573addeabcac75a547255
+ds-rdata:     49953 7 2 c183f9cd6ecd80bf9cb0aff9d8f3c21dc7d14d866967c51924d0f6749a52b5bb
+
+whois:        whois.afilias-srs.net
+
+status:       ACTIVE
+remarks:      Registration information: http://www.bnl.it
+
+created:      2015-06-11
+changed:      2015-06-27
+source:       IANA
+
