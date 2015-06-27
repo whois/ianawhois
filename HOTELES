@@ -1,0 +1,44 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       HOTELES
+
+organisation: Travel Reservations SRL
+address:      Ruta 8 km 17,500, Edificio Synergia, Oficina 101, Zonamerica, Montevideo, UY 1600
+address:      Uruguay
+
+contact:      administrative
+name:         Joshua Bourne
+organisation: FairWinds Partners LLC
+address:      1000 Potomac Street NW, Suite 350, Washington, DC 20007
+address:      United States
+phone:        +1 202 223 9252
+fax-no:       +1 202 223 9256
+e-mail:       bourne.ds@fairwindspartners.com
+
+contact:      technical
+name:         Sean Kaine
+organisation: Neustar, Inc.
+address:      46000 Center Oak Plaza, Sterling, VA  20166
+address:      United States
+phone:        +1 5714345168
+fax-no:       +1 5714345401
+e-mail:       registrytechnical1@neustar.biz
+
+nserver:      NS1.DNS.NIC.HOTELES 156.154.169.2 2610:a1:1071:0:0:0:1:2
+nserver:      NS2.DNS.NIC.HOTELES 156.154.170.2 2610:a1:1072:0:0:0:1:2
+nserver:      NS3.DNS.NIC.HOTELES 156.154.171.2 2610:a1:1073:0:0:0:1:2
+nserver:      NS4.DNS.NIC.HOTELES 156.154.172.2 2610:a1:1074:0:0:0:1:2
+nserver:      NS5.DNS.NIC.HOTELES 156.154.173.2 2610:a1:1075:0:0:0:1:2
+nserver:      NS6.DNS.NIC.HOTELES 156.154.174.2 2610:a1:1076:0:0:0:1:2
+ds-rdata:     31856 8 1 5A670C7186D0FA424FC68A9BF9EF8E934735FBEE
+ds-rdata:     31856 8 2 DCBC11B3B04D6B86F1F2BBC065D5BFA921193435EA0A44EDCD98C4B1AD19A63E
+
+status:       ACTIVE
+remarks:      Registration information: http://www.despegar.com
+
+created:      2015-05-14
+changed:      2015-06-27
+source:       IANA
+
