@@ -1,0 +1,46 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       TELEFONICA
+
+organisation: Telefónica S.A.
+address:      Gran Vía 28
+address:      Madrid 28013
+address:      Spain
+
+contact:      administrative
+name:         .telefonica Admin Contact
+organisation: CORE
+address:      Cours de Rive 2
+address:      CH-1204 Geneva
+address:      Switzerland
+phone:        +41 22 312 5610
+fax-no:       +41 22 312 5612
+e-mail:       secretariat@corenic.org
+
+contact:      technical
+name:         .telefonica Tech Contact
+organisation: CORE
+address:      Cours de Rive 2
+address:      CH-1204 Geneva
+address:      Switzerland
+phone:        +41 22 312 5610
+fax-no:       +41 22 312 5612
+e-mail:       dnsmaster@corenic.org
+
+nserver:      ANYCAST10.IRONDNS.NET 195.253.64.12 2a01:5b0:4:0:0:0:0:c
+nserver:      ANYCAST23.IRONDNS.NET 195.253.65.11 2a01:5b0:5:0:0:0:0:b
+nserver:      ANYCAST24.IRONDNS.NET 195.253.65.12 2a01:5b0:5:0:0:0:0:c
+nserver:      ANYCAST9.IRONDNS.NET 195.253.64.11 2a01:5b0:4:0:0:0:0:b
+ds-rdata:     50682 10 2 BA54B65FD1CA7C8A097EADFB429096F2EDF3EA55460A674BEE40563D5344F537
+
+whois:        whois-fe.telefonica.tango.knipp.de
+
+status:       ACTIVE
+remarks:      Registration information: http://telefonica.com
+
+created:      2015-06-18
+changed:      2015-06-26
+source:       IANA
+
