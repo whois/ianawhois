@@ -33,7 +33,8 @@ nserver:      DEMAND.ALPHA.ARIDNS.NET.AU 2001:dcd:1:0:0:0:0:7 37.209.192.7
 nserver:      DEMAND.BETA.ARIDNS.NET.AU 2001:dcd:2:0:0:0:0:7 37.209.194.7
 nserver:      DEMAND.DELTA.ARIDNS.NET.AU 2001:dcd:4:0:0:0:0:7 37.209.198.7
 nserver:      DEMAND.GAMMA.ARIDNS.NET.AU 2001:dcd:3:0:0:0:0:7 37.209.196.7
-ds-rdata:     10846 8 2 9C5876B0F046921F7F37E3D369C4FAEDBC9F9633A088B7FF83FFA399AA0A4B7C
+ds-rdata:     58354 8 2 4052AE38EA8C9FB3EA07ABDBF6D1A3587085AA68A6A3F5499BDA51BEB02B26D2
+ds-rdata:     58354 8 1 3F74C4C1C8D72E7C9A46704FCBD874FE39C59798
 
 whois:        whois.donuts.co
 
@@ -41,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://donuts.co
 
 created:      2014-02-13
-changed:      2014-02-25
+changed:      2015-06-29
 source:       IANA
 
