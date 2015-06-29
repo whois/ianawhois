@@ -9,7 +9,7 @@ address:      67 Ubi Avenue 1 #05-01 StarHub Green Singapore - 408942 SG
 address:      Singapore
 
 contact:      administrative
-name:         Kelly Kum
+name:         Assistant Manager
 organisation: StarHub Limited
 address:      67 Ubi Avenue 1 #05-01 StarHub Green Singapore - 408942 SG
 address:      Singapore
@@ -36,9 +36,9 @@ ds-rdata:     30391 8 2 6FDBF5F5B5DF83DF8DE2CF60148A6E825005925C4E4DA6CA75620C53
 whois:        whois.nic.starhub
 
 status:       ACTIVE
-remarks:      Registration information: https://www.starhub.com/
+remarks:      Registration information: http://nic.starhub
 
 created:      2015-05-08
-changed:      2015-06-22
+changed:      2015-06-29
 source:       IANA
 
