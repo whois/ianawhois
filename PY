@@ -34,13 +34,13 @@ nserver:      NS.CNC.UNA.PY 200.10.228.132 2001:1320:1:0:0:0:0:1
 nserver:      NS.DNS.BR 200.160.0.5 2001:12ff:0:a20:0:0:0:5
 nserver:      NS2.SWITCH.CH 130.59.138.49 2001:620:0:1b:5054:ff:fe74:8780
 nserver:      NS3.NIC.MX 200.33.111.1
-nserver:      PY.CCTLD.AUTHDNS.RIPE.NET 193.0.9.106 2001:67c:e0:0:0:0:0:106
+nserver:      R.DNS.PY 193.0.9.106 2001:67c:e0:0:0:0:0:106
 nserver:      SCE.CNC.UNA.PY 200.10.228.133 2001:1320:1:0:0:0:0:2
 
 status:       ACTIVE
 remarks:      Registration information: http://www.nic.py
 
 created:      1991-09-09
-changed:      2015-06-30
+changed:      2015-07-03
 source:       IANA
 
