@@ -1,0 +1,44 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       SAKURA
+
+organisation: SAKURA Internet Inc.
+address:      Sumitomo Fudosan Nishishinjuku Bldg. 33F,
+address:      7-20-1,NishiShinjuku,
+address:      Shinjuku-ku, Tokyo
+address:      Japan
+
+contact:      administrative
+name:         DotSakura Administrative Contact
+organisation: Sakura Internet Inc.
+address:      Sumitomo Fudosan Nishishinjuku Bldg. 33F,
+address:      7-20-1,NishiShinjuku,
+address:      Shinjuku-ku, Tokyo
+address:      Japan
+phone:        +81 3 5332 7070
+e-mail:       gtld-adminp@sakura.ad.jp
+
+contact:      technical
+name:         JPRS Technical Contact
+organisation: Japan Registry Services Co., Ltd.
+address:      Chiyoda First Bldg. East 13F,
+address:      3-8-1 Nishi-Kanda
+address:      Chiyoda-ku Tokyo
+address:      Japan
+phone:        +81 3 5215 8480
+fax-no:       +81 3 5215 8452
+e-mail:       rsp-tech-admin@jprs.jp
+
+nserver:      TLD1.NIC.SAKURA 103.47.2.3 2001:dda:0:0:0:0:0:3
+nserver:      TLD2.NIC.SAKURA 117.104.133.18 2001:218:3001:0:0:0:0:3
+ds-rdata:     5269 8 2 0F11415E62682EBDEA2C7EA2C191CD1F9F88518D1EA6DA504E8244FF897564F7
+ds-rdata:     5269 8 1 26D2D7420D69D68CE06BC50875F4F569739173DF
+
+status:       ACTIVE
+
+created:      2015-06-04
+changed:      2015-07-03
+source:       IANA
+
