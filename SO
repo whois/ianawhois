@@ -29,9 +29,6 @@ e-mail:       admin@sonic.gov.so
 
 nserver:      D.NIC.SO 196.216.168.54 2001:43f8:120:0:0:0:0:54
 nserver:      E.NIC.SO 2001:500:14:6101:ad:0:0:1 204.61.216.101
-nserver:      G.GMOREGISTRY.NET 2a01:8840:1be:0:0:0:0:1 65.22.165.1
-nserver:      H.GMOREGISTRY.NET 65.22.166.1
-nserver:      I.GMOREGISTRY.NET 2a01:8840:1c0:0:0:0:0:1 65.22.167.1
 
 whois:        whois.nic.so
 
@@ -39,6 +36,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.so/
 
 created:      1997-08-28
-changed:      2015-06-12
+changed:      2015-07-02
 source:       IANA
 
