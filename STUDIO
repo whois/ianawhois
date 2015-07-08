@@ -1,0 +1,44 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       STUDIO
+
+organisation: United TLD Holdco Ltd.
+address:      One Clarendon Row, Dublin 2, Co. Dublin
+address:      Ireland
+
+contact:      administrative
+name:         Jeff Eckhaus
+organisation: United TLD Holdco Ltd.
+address:      5808 Lake Washington Blvd NE, Suite 300
+address:      Kirkland, WA 98033
+address:      United States
+phone:        +1 425 298 2607
+e-mail:       jeff@unitedtld.com
+
+contact:      technical
+name:         Wayne MacLaurin
+organisation: United TLD Holdco Ltd.
+address:      5808 Lake Washington Blvd NE, Suite 300
+address:      Kirkland, WA 98033
+address:      United States
+phone:        +1 425 298 2260
+e-mail:       wayne@unitedtld.com
+
+nserver:      DEMAND.ALPHA.ARIDNS.NET.AU 2001:dcd:1:0:0:0:0:7 37.209.192.7
+nserver:      DEMAND.BETA.ARIDNS.NET.AU 2001:dcd:2:0:0:0:0:7 37.209.194.7
+nserver:      DEMAND.DELTA.ARIDNS.NET.AU 2001:dcd:4:0:0:0:0:7 37.209.198.7
+nserver:      DEMAND.GAMMA.ARIDNS.NET.AU 2001:dcd:3:0:0:0:0:7 37.209.196.7
+ds-rdata:     56335 8 1 68600AEF3D06B1F2A97D211F5C291163A18F2EBB
+ds-rdata:     56335 8 2 103E3AC776FED8C1EC1D6053FDB788D7D8F80D2DF7C33D7838B0FAA7CBE0456A
+
+whois:        whois.rightside.co
+
+status:       ACTIVE
+remarks:      Registration information: http://rightside.co/registry/
+
+created:      2015-06-25
+changed:      2015-07-08
+source:       IANA
+
