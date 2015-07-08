@@ -1,0 +1,46 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       BARCELONA
+
+organisation: Municipi de Barcelona
+address:      Pl. Sant Miquel ed. Novíssim, pl. 3a.
+address:      Barcelona 08002
+address:      Spain
+
+contact:      administrative
+name:         .barcelona Admin Contact
+organisation: Fundació puntCAT
+address:      Aribau 230-240, pl. 7a, despatx M
+address:      Barcelona 08006
+address:      Spain
+phone:        +34 936 750 354
+fax-no:       +34 934 672 959
+e-mail:       newgtlds@domini.cat
+
+contact:      technical
+name:         .barcelona Tech Contact
+organisation: CORE Association
+address:      Cours de Rive 2
+address:      CH-1204 Geneva
+address:      Switzerland
+phone:        +41 22 312 5610
+fax-no:       +41 22 312 5612
+e-mail:       dnsmaster@corenic.org
+
+nserver:      ANYCAST10.IRONDNS.NET 195.253.64.12 2a01:5b0:4:0:0:0:0:c
+nserver:      ANYCAST23.IRONDNS.NET 195.253.65.11 2a01:5b0:5:0:0:0:0:b
+nserver:      ANYCAST24.IRONDNS.NET 195.253.65.12 2a01:5b0:5:0:0:0:0:c
+nserver:      ANYCAST9.IRONDNS.NET 195.253.64.11 2a01:5b0:4:0:0:0:0:b
+ds-rdata:     42241 10 2 950D7E77E7D64382A3C69654AE15EC70A497E6E9002D10EB1BF9C1B89F77EEF7
+
+whois:        whois.nic.barcelona
+
+status:       ACTIVE
+remarks:      Registration information: http://www.barcelona.cat
+
+created:      2015-06-04
+changed:      2015-07-08
+source:       IANA
+
