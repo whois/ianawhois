@@ -1,0 +1,55 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       AIRTEL
+
+organisation: Bharti Airtel Limited
+address:      Bharti Crescent,
+address:      1, Nelson Mandela Road
+address:      Vasant Kunj Phase II
+address:      New Delhi, Delhi - 110 070
+address:      India
+
+contact:      administrative
+name:         Manager
+organisation: Bharti Airtel
+address:      Bharti Crescent,
+address:      1, Nelson Mandela Road
+address:      Vasant Kunj Phase II
+address:      New Delhi, Delhi - 110 070
+address:      India
+phone:        +91 11 41666100
+fax-no:       +91 11 41666149
+e-mail:       domains.admin@bharti.in
+
+contact:      technical
+name:         Senior Manager
+organisation: Bharti Airtel
+address:      Bharti Crescent,
+address:      1, Nelson Mandela Road
+address:      Vasant Kunj Phase II
+address:      New Delhi, Delhi - 110 070
+address:      India
+phone:        +91 11 41666100
+fax-no:       +91 11 41666149
+e-mail:       team.gtld@airtel.com
+
+nserver:      A5.NSTLD.COM 192.5.6.34
+nserver:      C5.NSTLD.COM 192.26.92.34
+nserver:      D5.NSTLD.COM 192.31.80.34
+nserver:      F5.NSTLD.COM 192.35.51.34 2001:503:d414:0:0:0:2:34
+nserver:      G5.NSTLD.COM 192.42.93.34
+nserver:      H5.NSTLD.COM 192.54.112.34 2001:502:08cc:0:0:0:2:34
+nserver:      L5.NSTLD.COM 192.41.162.34
+ds-rdata:     42300 8 2 A698E339483D094208DFB7B858CDF0401BFFC320AFCC5AEED3B03DFE82BFACC0
+
+whois:        whois.nic.airtel
+
+status:       ACTIVE
+remarks:      Registration information: http://www.airtel.in
+
+created:      2015-06-18
+changed:      2015-07-08
+source:       IANA
+
