@@ -30,7 +30,6 @@ fax-no:       +359 52 702561
 e-mail:       daniel@digsys.bg
 
 nserver:      BG.CCTLD.AUTHDNS.RIPE.NET 193.0.9.61 2001:67c:e0:0:0:0:0:61
-nserver:      NS-EXT.ISC.ORG 2001:4f8:0:2:0:0:0:13 204.152.184.64
 nserver:      NS.REGISTER.BG 192.92.129.99 2a02:6a80:0:0:192:92:129:99
 nserver:      NS2.REGISTER.BG 193.68.3.232 2a02:6a80:0:0:193:68:3:232
 nserver:      NS3.REGISTER.BG 193.68.99.99 2a02:6a80:0:0:193:68:99:99
@@ -45,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.register.bg
 
 created:      1995-01-03
-changed:      2013-08-21
+changed:      2015-07-09
 source:       IANA
 
