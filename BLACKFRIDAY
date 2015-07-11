@@ -36,7 +36,6 @@ fax-no:       +1.3457466263
 e-mail:       ops@uniregistry.com
 
 nserver:      A.NS.UNIREGISTRY.NET 2620:57:4003:10:0:0:0:53 64.96.25.53
-nserver:      TLD.ISC-SNS.COM 38.103.2.3
 nserver:      TLD.ISC-SNS.INFO 2001:470:1a:0:0:0:0:3 72.52.71.3
 nserver:      TLD.ISC-SNS.NET 2001:5a0:10:0:0:0:0:3 63.243.194.3
 ds-rdata:     59063 5 1 9DCF1A9F05312ED04529F4A8AC5266028CBA6B0D
@@ -48,6 +47,6 @@ status:       ACTIVE
 remarks:      Registration information: http://uniregistry.link
 
 created:      2014-04-17
-changed:      2015-02-05
+changed:      2015-07-10
 source:       IANA
 
