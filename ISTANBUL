@@ -1,0 +1,45 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       ISTANBUL
+
+organisation: Istanbul Metropolitan Municipality / Medya A.S.
+address:      Istanbul Metropolitan Municipality Department of Electrical Engineering Mehmet Nezihi Ozmen Mh. Kasim Sk. N.62 Zemin Kat A Bl. Gungoren, Istanbul, Merter, 34010
+address:      Turkey
+
+contact:      administrative
+name:         Registry Manager
+organisation: Istanbul Metropolitan Municipality / Medya A.S.
+address:      Istanbul Metropolitan Municipality Department of Electrical Engineering Mehmet Nezihi Ozmen Mh. Kasim Sk. N.62 Zemin Kat A Bl. Gungoren, Istanbul, Merter, 34010
+address:      Turkey
+phone:        +90.2124495839
+fax-no:       +90.2124495111
+e-mail:       registry.iana@ibb.gov.tr
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      Building 3, Suite 105, 300 Welsh Road, Horsham, PA 19044
+address:      United States
+phone:        +1.215.706.5700
+fax-no:       +1.215.706.5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.ISTANBUL 2a01:8840:8e:0:0:0:0:9 65.22.144.9
+nserver:      A2.NIC.ISTANBUL 2a01:8840:91:0:0:0:0:9 65.22.147.9
+nserver:      B0.NIC.ISTANBUL 2a01:8840:8f:0:0:0:0:9 65.22.145.9
+nserver:      C0.NIC.ISTANBUL 2a01:8840:90:0:0:0:0:9 65.22.146.9
+ds-rdata:     30918 7 1 71a63ce8688fbe09f16b5b725e38422bd76aa46d
+ds-rdata:     30918 7 2 cf7dcd3ed2b6dd16171afae7179c00d43947065ab1820c2ef57da2a274f03540
+
+whois:        whois.afilias-srs.net
+
+status:       ACTIVE
+remarks:      Registration information:
+remarks:      http://www.noktaistanbul.com.tr/
+
+created:      2015-05-29
+changed:      2015-07-11
+source:       IANA
+
