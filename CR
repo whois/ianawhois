@@ -33,9 +33,11 @@ e-mail:       moviedo@nic.cr
 
 nserver:      A.NS.CR 200.107.82.100 2001:13c7:7004:1:0:0:0:d100
 nserver:      C.NS.CR 193.0.9.69
-nserver:      D.NS.CR 38.103.2.3
 nserver:      E.NS.CR 2001:470:1a:0:0:0:0:3 72.52.71.3
+nserver:      F.NIC.CR 199.254.59.9 2001:500:25:0:0:0:0:9
 nserver:      F.NS.CR 2001:5a0:10:0:0:0:0:3 63.243.194.3
+nserver:      G.NIC.CR 199.254.60.9 2001:500:26:0:0:0:0:9
+nserver:      H.NIC.CR 199.254.61.9 2001:500:27:0:0:0:0:9
 nserver:      NS-EXT.NIC.CL 200.1.123.14
 nserver:      NS3.NIC.MX 200.33.111.1
 nserver:      P.NIC.CR 2001:500:14:6089:ad:0:0:1 204.61.216.89
@@ -47,6 +49,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.cr/
 
 created:      1990-09-10
-changed:      2014-11-26
+changed:      2015-07-14
 source:       IANA
 
