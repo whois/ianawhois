@@ -6,17 +6,17 @@ domain:       DELTA
 
 organisation: Delta Air Lines, Inc.
 address:      1030 Delta Blvd
-address:      Atlanta GA, 30320
+address:      Atlanta, GA 30320
 address:      United States
 
 contact:      administrative
 name:         Director of Operations
 organisation: Ladas Domains LLC
 address:      224 South Michigan Avenue, Suite 1600
-address:      Chicago IL, 60624
+address:      Chicago, IL 60624
 address:      United States
-phone:        +1 312.427.9866
-fax-no:       +1 312.276.8366
+phone:        +1 312 427 9866
+fax-no:       +1 312 276 8366
 e-mail:       deltaregistry@ladasdomains.com
 
 contact:      technical
@@ -26,8 +26,8 @@ address:      Building 3, Suite 105
 address:      300 Welsh Road
 address:      Horsham, PA 19044
 address:      United States
-phone:        +1 215.706.5700
-fax-no:       +1 215.706.5701
+phone:        +1 215 706 5700
+fax-no:       +1 215 706 5701
 e-mail:       tld-tech-poc@afilias.info
 
 nserver:      A0.NIC.DELTA 2a01:8840:da:0:0:0:0:25 65.22.224.25
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.delta.com
 
 created:      2015-06-25
-changed:      2015-07-11
+changed:      2015-07-14
 source:       IANA
 
