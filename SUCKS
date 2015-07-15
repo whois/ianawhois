@@ -4,7 +4,7 @@
 
 domain:       SUCKS
 
-organisation: Vox Populi Registry Inc.
+organisation: Vox Populi Registry Ltd.
 address:      3-110 Governors Square,
 address:      Seven Mile Beach,
 address:      Grand Cayman,
@@ -13,15 +13,15 @@ address:      Cayman Islands
 
 contact:      administrative
 name:         John Berard
-organisation: Vox Populi Registry Inc.
+organisation: Vox Populi Registry Ltd.
 address:      3-110 Governors Square,
 address:      Seven Mile Beach,
 address:      Grand Cayman,
 address:      Cayman Islands, KY1-1108
 address:      Cayman Islands
-phone:        +14158454388
+phone:        +18299473020
 fax-no:       +61398661970
-e-mail:       john@voxpopregistry.com
+e-mail:       support@registry.sucks
 
 contact:      technical
 name:         Rob Hall
@@ -30,9 +30,9 @@ address:      308 Port St. Charles,
 address:      St. Peter,
 address:      BB26013
 address:      Barbados
-phone:        +16494325102
+phone:        +18299473020
 fax-no:       +61398661970
-e-mail:       rob@momentous.com
+e-mail:       support@registry.sucks
 
 nserver:      A.NIC.SUCKS 2001:dcd:1:0:0:0:0:10 37.209.192.10
 nserver:      B.NIC.SUCKS 2001:dcd:2:0:0:0:0:10 37.209.194.10
@@ -47,6 +47,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.voxpopregistry.com
 
 created:      2015-02-19
-changed:      2015-02-26
+changed:      2015-07-15
 source:       IANA
 
