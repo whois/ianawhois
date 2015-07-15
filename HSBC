@@ -35,9 +35,9 @@ ds-rdata:     37864 8 1 F3D989F25E2141A4DC6916A4948871B806A2A330
 ds-rdata:     37864 8 2 5ABDC07752E6CDDED4D12E28E1AED235A0BF7A091E8631CAD9B6D0D76EB2FB7C
 
 status:       ACTIVE
-remarks:      Registration information: http://www.hsbc.com
+remarks:      Registration information: http://www.nic.hsbc
 
 created:      2015-01-15
-changed:      2015-07-10
+changed:      2015-07-15
 source:       IANA
 
