@@ -1,0 +1,47 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       NOKIA
+
+organisation: Nokia Corporation
+address:      Karaportti 3
+address:      Espoo, FI-02610
+address:      Finland
+
+contact:      administrative
+name:         Sr. Capability Manager
+organisation: Nokia Corporation
+address:      Karakaari 7
+address:      Espoo, FI-02610
+address:      Finland
+phone:        +358 0 10 44 88 000
+fax-no:       +358 0 10 44 81 002
+e-mail:       dnsauthority@nokia.com
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      Building 3, Suite 105 300 Welsh Road
+address:      Horsham, PA 19044
+address:      United States
+phone:        +1 215 706 5700
+fax-no:       +1 215 706 5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.NOKIA 2a01:8840:92:0:0:0:0:17 65.22.148.17
+nserver:      A2.NIC.NOKIA 2a01:8840:95:0:0:0:0:17 65.22.151.17
+nserver:      B0.NIC.NOKIA 2a01:8840:93:0:0:0:0:17 65.22.149.17
+nserver:      C0.NIC.NOKIA 2a01:8840:94:0:0:0:0:17 65.22.150.17
+ds-rdata:     29661 7 1 8ff2e988bf04ad610e68536645f11267972c28b3
+ds-rdata:     29661 7 2 c6a6724f8e4e6361c7349bf9703f95ee1261060e60ce8c6fee468f9d41d79d59
+
+whois:        whois.afilias-srs.net
+
+status:       ACTIVE
+remarks:      Registration information: http://www.nokia.com/
+
+created:      2015-04-23
+changed:      2015-07-15
+source:       IANA
+
