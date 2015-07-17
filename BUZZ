@@ -28,7 +28,7 @@ address:      Sterling, VA 20166
 address:      United States
 phone:        571-434-5168
 fax-no:       571-434-5401
-e-mail:       sean.kaine@neustar.biz
+e-mail:       registrytechnical1@neustar.biz
 
 nserver:      NS1.DNS.NIC.BUZZ 156.154.144.29 2610:a1:1071:0:0:0:0:1d
 nserver:      NS2.DNS.NIC.BUZZ 156.154.145.29 2610:a1:1072:0:0:0:0:1d
@@ -44,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.buzznames.biz
 
 created:      2013-12-12
-changed:      2013-12-18
+changed:      2015-07-16
 source:       IANA
 
