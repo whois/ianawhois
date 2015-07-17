@@ -28,13 +28,8 @@ fax-no:       7 495 7375762
 e-mail:       dns-team@intcreg.net
 
 nserver:      A.DNS.FLEXIREG.RU 2a02:2090:6800:0:0:0:0:1 31.177.70.1
-nserver:      A.DNS.RIPN.NET 193.232.128.6 2001:678:17:0:193:232:128:6
 nserver:      B.DNS.FLEXIREG.NET 195.253.64.6 2a01:5b0:4:0:0:0:0:6
-nserver:      B.DNS.RIPN.NET 194.85.252.62 2001:678:16:0:194:85:252:62
 nserver:      C.DNS.FLEXIREG.ORG 195.253.65.6 2a01:5b0:5:0:0:0:0:6
-nserver:      D.DNS.RIPN.NET 194.190.124.17 2001:678:18:0:194:190:124:17
-nserver:      E.DNS.RIPN.NET 193.232.142.17 2001:678:15:0:193:232:142:17
-nserver:      F.DNS.RIPN.NET 193.232.156.17 2001:678:14:0:193:232:156:17
 ds-rdata:     39539 8 2 E4647999A72E82E028DDF4064A40E45833B9BC7CCF6F2879AC7D7E003A8D9B8D
 ds-rdata:     24892 8 2 6042fef0d06568278946ec116cff75221a2a71ebf9a3b5eb317dfbef9c3efaf9
 
@@ -44,6 +39,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.faitid.org
 
 created:      2014-04-17
-changed:      2015-07-10
+changed:      2015-07-17
 source:       IANA
 
