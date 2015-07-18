@@ -39,12 +39,12 @@ nserver:      D.NIC.TICKETS 194.0.1.45 2001:678:4:0:0:0:0:2d
 ds-rdata:     11069 8 1 EF9659C10A6FF3B9259F2DF0CF7D36ECA515C8F0
 ds-rdata:     11069 8 2 5D58D40B472461672340583B4865540A52BFB551CA57663B22084E554D09532B
 
-whois:        whois.centralnic.com
+whois:        whois.nic.tickets
 
 status:       ACTIVE
 remarks:      Registration information: http://dottickets.org/
 
 created:      2015-03-19
-changed:      2015-03-25
+changed:      2015-07-17
 source:       IANA
 
