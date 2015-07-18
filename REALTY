@@ -36,12 +36,12 @@ nserver:      D.NIC.REALTY 194.0.1.45 2001:678:4:0:0:0:0:2d
 ds-rdata:     49180 8 1 AB7FC5CD07C36CBDEC33275C2744AA9778C359A6
 ds-rdata:     49180 8 2 D1BB65490276952B51984DA4ADB6B71D30022C40AC1E7E93D64576A22EDDC750
 
-whois:        whois.centralnic.com
+whois:        whois.nic.realty
 
 status:       ACTIVE
 remarks:      Registration information: http://www.topspectrum.com
 
 created:      2015-06-11
-changed:      2015-07-01
+changed:      2015-07-17
 source:       IANA
 
