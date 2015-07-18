@@ -36,12 +36,12 @@ nserver:      D.NIC.FORUM 194.0.1.45 2001:678:4:0:0:0:0:2d
 ds-rdata:     9475 8 1 811DB232A91825F5F7B3720338F4E02F7CF4882E
 ds-rdata:     9475 8 2 A53A95D8AB4105B83918A104F8828B1E0DDDB48C290A8EFF1960918E01EAFAE6
 
-whois:        whois.centralnic.com
+whois:        whois.nic.forum
 
 status:       ACTIVE
 remarks:      Registration information: http://www.topspectrum.com
 
 created:      2015-06-11
-changed:      2015-07-01
+changed:      2015-07-17
 source:       IANA
 
