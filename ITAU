@@ -1,0 +1,44 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       ITAU
+
+organisation: Itau Unibanco Holding S.A.
+address:      Praça Alfredo Egydio de Souza Aranha, 100, Torre Conceicao, 1st floor, CEP 04344-902, Sao Paulo - SP, Brazil
+address:      Brazil
+
+contact:      administrative
+name:         Leonardo Muroya
+organisation: Itau Unibanco Holding S.A.
+address:      Av. Engenheiro Armando de Arruda Pereira, Jabaquara – Torre Eudoro Vilella, Sao Paulo - SP, Brazil
+address:      Brazil
+phone:        55.11 5029-1666
+fax-no:       55.11 5019 1133
+e-mail:       notices@itau-unibanco.com.br
+
+contact:      technical
+name:         Sean Kaine
+organisation: Neustar, Inc.
+address:      46000 Center Oak Plaza, Sterling, VA  20166
+address:      United States
+phone:        +1.5714345168
+fax-no:       +1.5714345401
+e-mail:       registrytechnical1@neustar.biz
+
+nserver:      NS1.DNS.NIC.ITAU 156.154.144.84 2610:a1:1071:0:0:0:0:54
+nserver:      NS2.DNS.NIC.ITAU 156.154.145.84 2610:a1:1072:0:0:0:0:54
+nserver:      NS3.DNS.NIC.ITAU 156.154.159.84 2610:a1:1073:0:0:0:0:54
+nserver:      NS4.DNS.NIC.ITAU 156.154.156.84 2610:a1:1074:0:0:0:0:54
+nserver:      NS5.DNS.NIC.ITAU 156.154.157.84 2610:a1:1075:0:0:0:0:54
+nserver:      NS6.DNS.NIC.ITAU 156.154.158.84 2610:a1:1076:0:0:0:0:54
+ds-rdata:     2351 8 1 EE1C35C1D4CE6D1BC2263424D0011881F96C5511
+ds-rdata:     2351 8 2 371EE929CDBEE6876F6F9E1C9A709E471F46F185141E7641C97FA3056729F623
+
+status:       ACTIVE
+remarks:      Registration information: http://www.itau.com
+
+created:      2015-05-29
+changed:      2015-07-22
+source:       IANA
+
