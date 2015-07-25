@@ -1,0 +1,50 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       SRL
+
+organisation: InterNetX Corp.
+address:      601 Brickell Key Drive, Suite 1020
+address:      Miami, Florida
+address:      33131
+address:      United States
+
+contact:      administrative
+name:         CEO
+organisation: InterNetX
+address:      Maximilianstr. 6
+address:      Regensburg
+address:      93047
+address:      Germany
+phone:        +49 941 595590
+fax-no:       +49 941 5955959
+e-mail:       srl@internetx.com
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      Building 3, Suite 105
+address:      300 Welsh Road
+address:      Horsham, PA 19044
+address:      United States
+phone:        +1 215.706.5700
+fax-no:       +1 215.706.5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.SRL 2a01:8840:4e:0:0:0:0:33 65.22.80.33
+nserver:      A2.NIC.SRL 2a01:8840:51:0:0:0:0:33 65.22.83.33
+nserver:      B0.NIC.SRL 2a01:8840:4f:0:0:0:0:33 65.22.81.33
+nserver:      C0.NIC.SRL 2a01:8840:50:0:0:0:0:33 65.22.82.33
+ds-rdata:     16923 7 1 d238ccacab989cb47ad542aab1aba32bb601ce33
+ds-rdata:     16923 7 2 ddc08432e8534f2fb8e8c23cab08263e74c7ada5bc52c17b3c03245868690938
+
+whois:        whois.afilias-srs.net
+
+status:       ACTIVE
+remarks:      Registration information: http://www.mysrl.info
+
+created:      2015-07-09
+changed:      2015-07-24
+source:       IANA
+
