@@ -1,0 +1,50 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       BET
+
+organisation: Afilias plc
+address:      4th Floor, International House, 3 Harbourmaster Pl
+address:      IFSC
+address:      Dublin 1
+address:      Ireland
+
+contact:      administrative
+name:         Senior Vice President
+organisation: Afilias
+address:      Building 3, Suite 105
+address:      300 Welsh Road
+address:      Horsham, PA 19044
+address:      United States
+phone:        +1 215.706.5700
+fax-no:       +1 215.706.5701
+e-mail:       tld-admin-poc@afilias.info
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      Building 3, Suite 105
+address:      300 Welsh Road
+address:      Horsham, PA 19044
+address:      United States
+phone:        +1 215.706.5700
+fax-no:       +1 215.706.5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.BET 2a01:8840:26:0:0:0:0:17 65.22.36.17
+nserver:      A2.NIC.BET 2a01:8840:29:0:0:0:0:17 65.22.39.17
+nserver:      B0.NIC.BET 2a01:8840:27:0:0:0:0:17 65.22.37.17
+nserver:      C0.NIC.BET 2a01:8840:28:0:0:0:0:17 65.22.38.17
+ds-rdata:     8103 7 1 269eb934169b6cc792b71c03a7bf120d2ca5b38a
+ds-rdata:     8103 7 2 c8724f921be7a62655202bc3a0514be4c7bd68d91d0de9921b93b5c9e4024573
+
+whois:        whois.afilias.net
+
+status:       ACTIVE
+remarks:      Registration information: http://afilias.info/contact-us
+
+created:      2015-07-16
+changed:      2015-07-24
+source:       IANA
+
