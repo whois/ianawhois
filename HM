@@ -15,8 +15,8 @@ organisation: HM Domain Registry
 address:      PO Box 383
 address:      Dickson  ACT 2602
 address:      Australia
-phone:        +1 612 9475 0867
-fax-no:       +1 612 9475 1235
+phone:        +612 9475 0867
+fax-no:       +612 9475 1235
 e-mail:       ed@capital.net.au
 
 contact:      technical
@@ -32,6 +32,8 @@ e-mail:       hostmaster@registry.hm
 nserver:      NS1.REGISTRY.HM 208.70.79.25
 nserver:      NS2.REGISTRY.HM 208.70.79.24
 nserver:      NS3.REGISTRY.HM 128.199.180.188
+
+whois:        whois.registry.hm
 
 status:       ACTIVE
 remarks:      Registration information: http://www.registry.hm
