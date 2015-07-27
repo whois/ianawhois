@@ -1,0 +1,44 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       IPIRANGA
+
+organisation: Ipiranga Produtos de Petroleo S.A.
+address:      Rua Francisco Eugenio, 329 Sao Cristovao Rio de Janeiro, RJ 20941-900
+address:      Brazil
+
+contact:      administrative
+name:         Marianne Rangel
+organisation: Ipiranga Produtos de Petroleo S.A.
+address:      Rua Francisco Eugenio, 329 Sao Cristovao Rio de Janeiro, RJ 20941-900
+address:      Brazil
+phone:        +55.2125745923
+fax-no:       +55.2125694886
+e-mail:       mariannes@ipiranga.com.br
+
+contact:      technical
+name:         Sean Kaine
+organisation: Neustar, Inc.
+address:      46000 Center Oak Plaza
+address:      United States
+phone:        1.5714345168
+fax-no:       1.5714345401
+e-mail:       registrytechnical1@neustar.biz
+
+nserver:      NS1.DNS.NIC.IPIRANGA 156.154.144.83 2610:a1:1071:0:0:0:0:53
+nserver:      NS2.DNS.NIC.IPIRANGA 156.154.145.83 2610:a1:1072:0:0:0:0:53
+nserver:      NS3.DNS.NIC.IPIRANGA 156.154.159.83 2610:a1:1073:0:0:0:0:53
+nserver:      NS4.DNS.NIC.IPIRANGA 156.154.156.83 2610:a1:1074:0:0:0:0:53
+nserver:      NS5.DNS.NIC.IPIRANGA 156.154.157.83 2610:a1:1075:0:0:0:0:53
+nserver:      NS6.DNS.NIC.IPIRANGA 156.154.158.83 2610:a1:1076:0:0:0:0:53
+ds-rdata:     26731 8 1 52060CC9B0CB6033516A5EF916B24DC7226FF99A
+ds-rdata:     26731 8 2 4E27DA0F2CCD548D719D2CB30CA28BC63673E8A214FF49A407FD80B5EE7C66B1
+
+status:       ACTIVE
+remarks:      Registration information: http://ipiranga.com.br
+
+created:      2015-04-02
+changed:      2015-07-26
+source:       IANA
+
