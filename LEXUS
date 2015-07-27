@@ -5,9 +5,52 @@
 domain:       LEXUS
 
 organisation: TOYOTA MOTOR CORPORATION
+address:      1 Toyota-Cho
+address:      Toyota-shi
+address:      Aichi
+address:      471-8571
+address:      Japan
 
-status:       NEW
+contact:      administrative
+name:         Chief Operating Officer
+organisation: Brights Consulting Inc.
+address:      30F
+address:      Kasumigaseki Bldg.
+address:      3-2-5 Kasumigaseki
+address:      Chiyoda-ku
+address:      Tokyo
+address:      100-6030
+address:      Japan
+phone:        +81.355210107
+fax-no:       +81.355210117
+e-mail:       nakagawa_19@brights.jp
+
+contact:      technical
+name:         Chief Operating Officer
+address:      30F
+address:      Kasumigaseki Bldg.
+address:      3-2-5 Kasumigaseki
+address:      Chiyoda-ku
+address:      Tokyo
+address:      100-6030
+address:      Japan
+phone:        +81.355210107
+fax-no:       +81.355210117
+e-mail:       nakagawa_19@brights.jp
+
+nserver:      A.NIC.LEXUS 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.LEXUS 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.LEXUS 2001:dcd:3:0:0:0:0:9 37.209.196.9
+nserver:      D.NIC.LEXUS 2001:dcd:4:0:0:0:0:9 37.209.198.9
+ds-rdata:     31717 8 1 40A76BB88616447F4F851523174B0612256D9A95
+ds-rdata:     31717 8 2 2C30CE8F4A0B4D9F03AC703DF1FE529ABC781E2486EA4BE05EADBF9314CCE385
+
+whois:        whois.nic.lexus
+
+status:       ACTIVE
+remarks:      Registration information: http://lexus.jp/
 
 created:      2015-07-16
+changed:      2015-07-27
 source:       IANA
 
