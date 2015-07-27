@@ -1,0 +1,50 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       PET
+
+organisation: Afilias plc
+address:      4th Floor, International House, 3 Harbourmaster Pl
+address:      IFSC
+address:      Dublin 1
+address:      Ireland
+
+contact:      administrative
+name:         Senior Vice President
+organisation: Afilias
+address:      Building 3, Suite 105
+address:      300 Welsh Road
+address:      Horsham, PA 19044
+address:      United States
+phone:        +1 215.706.5700
+fax-no:       +1 215.706.5701
+e-mail:       tld-admin-poc@afilias.info
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      Building 3, Suite 105
+address:      300 Welsh Road
+address:      Horsham, PA 19044
+address:      United States
+phone:        +1 215.706.5700
+fax-no:       +1 215.706.5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.PET 2a01:8840:12:0:0:0:0:17 65.22.16.17
+nserver:      A2.NIC.PET 2a01:8840:15:0:0:0:0:17 65.22.19.17
+nserver:      B0.NIC.PET 2a01:8840:13:0:0:0:0:17 65.22.17.17
+nserver:      C0.NIC.PET 2a01:8840:14:0:0:0:0:17 65.22.18.17
+ds-rdata:     55770 7 1 4da7e881abae60550a8e530a9988b09ce90b48f8
+ds-rdata:     55770 7 2 2b9416b5422e475c1963e8374776a278814547aa49020de2b2c79a186d0ea4d6
+
+whois:        whois.afilias.net
+
+status:       ACTIVE
+remarks:      Registration information: http://afilias.info/contact-us
+
+created:      2015-07-16
+changed:      2015-07-26
+source:       IANA
+
