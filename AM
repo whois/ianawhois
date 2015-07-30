@@ -4,24 +4,25 @@
 
 domain:       AM
 
-organisation: Internet Society
-address:      17 A. Khachatryan str, apt 3
+organisation: "Internet Society" Non-governmental Organization
+address:      17 A.Khachaturyan str. #3
 address:      Yerevan 0012
 address:      Armenia
 
 contact:      administrative
-name:         Dr. Igor Mkrtumyan
-organisation: Internet Society
-address:      17 A. Khachatryan str, apt 3
+name:         Igor Mkrtumyan
+organisation: "Internet Society" Non-governmental Organization
+address:      17 A.Khachaturyan str. #3
 address:      Yerevan 0012
 address:      Armenia
 phone:        +374 91 415539
-e-mail:       imkrtumyan@amnic.net
+fax-no:       +374 6027 2271
+e-mail:       imkrtumyan@isoc.am
 
 contact:      technical
 name:         Hrant Dadivanyan
-organisation: Internet Society
-address:      17 A. Khachatryan str, apt 3
+organisation: "Internet Society" Non-governmental Organization
+address:      17 A.Khachaturyan str. #3
 address:      Yerevan 0012
 address:      Armenia
 phone:        +374 91 420214
@@ -42,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.amnic.net/
 
 created:      1994-08-26
-changed:      2015-07-17
+changed:      2015-07-30
 source:       IANA
 
