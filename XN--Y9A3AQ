@@ -5,30 +5,29 @@
 domain:       հայ
 domain-ace:   XN--Y9A3AQ
 
-organisation: Internet Society
-address:      17-3 A.Khachaturyan
+organisation: "Internet Society" Non-governmental Organization
+address:      17 A.Khachaturyan str. #3
 address:      Yerevan 0012
 address:      Armenia
 
 contact:      administrative
 name:         Igor Mkrtumyan
-organisation: Internet Society of Armenia
-address:      17-3 A.Khachaturyan
+organisation: "Internet Society" Non-governmental Organization
+address:      17 A.Khachaturyan str. #3
 address:      Yerevan 0012
 address:      Armenia
-phone:        +37491415539
-fax-no:       +37460272271
+phone:        +374 91 415539
+fax-no:       +374 6027 2271
 e-mail:       imkrtumyan@isoc.am
 
 contact:      technical
 name:         Hrant Dadivanyan
-organisation: Internet Society of Armenia
-address:      17-3 A.Khachaturyan
+organisation: "Internet Society" Non-governmental Organization
+address:      17 A.Khachaturyan str. #3
 address:      Yerevan 0012
 address:      Armenia
-phone:        +37491420214
-fax-no:       +37460272271
-e-mail:       hrant@dadivanyan.net
+phone:        +374 91 420214
+e-mail:       ran@psg.com
 
 nserver:      AM.CCTLD.AUTHDNS.RIPE.NET 193.0.9.57 2001:67c:e0:0:0:0:0:57
 nserver:      FORK.STH.DNSNODE.NET 2a01:3f0:0:306:0:0:0:53 77.72.229.254
@@ -45,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.amnic.net/
 
 created:      2014-11-26
-changed:      2015-07-17
+changed:      2015-07-30
 source:       IANA
 
