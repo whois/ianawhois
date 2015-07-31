@@ -1,0 +1,57 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       LIXIL
+
+organisation: LIXIL Group Corporation
+address:      2-1-1 Ojima
+address:      Koto-ku
+address:      Tokyo
+address:      136-8535
+address:      Japan
+
+contact:      administrative
+name:         Chief Operating Officer
+organisation: Brights Consulting Inc.
+address:      30F
+address:      Kasumigaseki Bldg.
+address:      3-2-5 Kasumigaseki
+address:      Chiyoda-ku
+address:      Tokyo
+address:      100-6030
+address:      Japan
+phone:        +81.355210107
+fax-no:       +81.355210117
+e-mail:       nakagawa_19@brights.jp
+
+contact:      technical
+name:         Chief Operating Officer
+organisation: Brights Consulting Inc.
+address:      30F
+address:      Kasumigaseki Bldg.
+address:      3-2-5 Kasumigaseki
+address:      Chiyoda-ku
+address:      Tokyo
+address:      100-6030
+address:      Japan
+phone:        +81.355210107
+fax-no:       +81.355210117
+e-mail:       nakagawa_19@brights.jp
+
+nserver:      A.NIC.LIXIL 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.LIXIL 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.LIXIL 2001:dcd:3:0:0:0:0:9 37.209.196.9
+nserver:      D.NIC.LIXIL 2001:dcd:4:0:0:0:0:9 37.209.198.9
+ds-rdata:     5761 8 1 0DA22E925566C3331A6547140B34278E574DB31B
+ds-rdata:     5761 8 2 F1C699CAFD25D0D7B5C51185DA7AFD750A516BDC45A68E9F539AF0BED007CC9A
+
+whois:        whois.nic.lixil
+
+status:       ACTIVE
+remarks:      Registration information: http://global.lixil.co.jp/
+
+created:      2015-07-16
+changed:      2015-07-30
+source:       IANA
+
