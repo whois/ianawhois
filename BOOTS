@@ -1,0 +1,48 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       BOOTS
+
+organisation: THE BOOTS COMPANY PLC
+address:      1 Thane Road
+address:      Nottingham
+address:      NG90 1BS
+address:      United Kingdom
+
+contact:      administrative
+name:         Domain Manager
+organisation: The Boots Company PLC
+address:      1 Thane Road
+address:      Nottingham
+address:      NG90 1BS
+address:      United Kingdom
+phone:        +441159592444
+e-mail:       domains@allianceboots.com
+
+contact:      technical
+name:         Domain Manager
+organisation: The Boots Company PLC
+address:      1 Thane Road
+address:      Nottingham
+address:      NG90 1BS
+address:      United Kingdom
+phone:        +441159592444
+e-mail:       domains@allianceboots.com
+
+nserver:      A.NIC.BOOTS 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.BOOTS 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.BOOTS 2001:dcd:3:0:0:0:0:9 37.209.196.9
+nserver:      D.NIC.BOOTS 2001:dcd:4:0:0:0:0:9 37.209.198.9
+ds-rdata:     11125 8 1 A233D061E4E1A053A8B4922C053217B17D399439
+ds-rdata:     11125 8 2 21AE7E82C373EC5EE9012D2BD921373D2DD6E2428A6A77274C41C828D7109159
+
+whois:        whois.nic.boots
+
+status:       ACTIVE
+remarks:      Registration information: http://www.boots.com
+
+created:      2015-06-18
+changed:      2015-08-05
+source:       IANA
+
