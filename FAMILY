@@ -1,0 +1,42 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       FAMILY
+
+organisation: United TLD Holdco Ltd.
+address:      One Clarendon Row, Dublin 2, Co. Dublin
+address:      Ireland
+
+contact:      administrative
+name:         Jeff Eckhaus
+organisation: United TLD Holdco Ltd.
+address:      5808 Lake Washington Blvd. NE Suite 300 Kirkland WA 98033
+address:      United States
+phone:        +1 425 298 2607
+e-mail:       jeff@unitedtld.com
+
+contact:      technical
+name:         Wayne MacLaurin
+organisation: United TLD Holdco Ltd.
+address:      5808 Lake Washington Blvd. NE Suite 300 Kirkland WA 98033
+address:      United States
+phone:        +1 425 298 2260
+e-mail:       wayne@unitedtld.com
+
+nserver:      DEMAND.ALPHA.ARIDNS.NET.AU 2001:dcd:1:0:0:0:0:7 37.209.192.7
+nserver:      DEMAND.BETA.ARIDNS.NET.AU 2001:dcd:2:0:0:0:0:7 37.209.194.7
+nserver:      DEMAND.DELTA.ARIDNS.NET.AU 2001:dcd:4:0:0:0:0:7 37.209.198.7
+nserver:      DEMAND.GAMMA.ARIDNS.NET.AU 2001:dcd:3:0:0:0:0:7 37.209.196.7
+ds-rdata:     30979 8 1 58E5B13BBDB686B7854189C345EFBF4A994B88B0
+ds-rdata:     30979 8 2 E5AB03DA8EFEFD3C29E2E745D2C26A302E0A66092C3D7804EBCB697082BABD97
+
+whois:        whois.rightside.co
+
+status:       ACTIVE
+remarks:      Registration information: http://rightside.co/registry/
+
+created:      2015-08-06
+changed:      2015-08-11
+source:       IANA
+
