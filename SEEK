@@ -1,0 +1,53 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       SEEK
+
+organisation: Seek Limited
+address:      Level 6, 541
+address:      St. Kilda Road
+address:      Melbourne
+address:      VIC 3004
+address:      Australia
+
+contact:      administrative
+name:         TLD Tech Admin
+organisation: CSC Digital Brand Services
+address:      2711 Centerville Rd
+address:      Suite 400
+address:      Wilmington
+address:      DE 19808
+address:      United States
+phone:        +1.3026365400
+fax-no:       +1.3026365454
+e-mail:       ngtlds-tech@cscinfo.com
+
+contact:      technical
+name:         TLD Tech Admin
+organisation: CSC Digital Brand Services
+address:      2711 Centerville Rd.
+address:      Suite 400
+address:      Wilmington
+address:      DE 19808
+address:      United States
+phone:        +1.3026365400
+fax-no:       +1.3026365454
+e-mail:       ngtlds-tech@cscinfo.com
+
+nserver:      A.NIC.SEEK 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.SEEK 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.SEEK 2001:dcd:3:0:0:0:0:9 37.209.196.9
+nserver:      D.NIC.SEEK 2001:dcd:4:0:0:0:0:9 37.209.198.9
+ds-rdata:     26182 8 1 E48E448AE73A061E9C628DABDAF6507C5A41DDF4
+ds-rdata:     26182 8 2 2B0D7F0C29E7A60711BDE81D5AABD2AB1A2E64FC99515610FDD746279810F348
+
+whois:        whois.nic.seek
+
+status:       ACTIVE
+remarks:      Registration information: http://www.seek.com.au/
+
+created:      2015-04-16
+changed:      2015-08-11
+source:       IANA
+
