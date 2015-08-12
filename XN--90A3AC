@@ -37,6 +37,8 @@ nserver:      H.NIC.RS 91.199.17.60
 nserver:      K.NIC.RS 192.5.4.1 2001:500:2e:0:0:0:0:1
 nserver:      L.NIC.RS 194.146.106.114 2001:67c:1010:29:0:0:0:53
 
+whois:        whois.rnids.rs
+
 status:       ACTIVE
 remarks:      Registration information: http://www.rnids.rs/
 
