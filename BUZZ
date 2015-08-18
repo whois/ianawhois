@@ -36,7 +36,6 @@ nserver:      NS3.DNS.NIC.BUZZ 156.154.159.29 2610:a1:1073:0:0:0:0:1d
 nserver:      NS4.DNS.NIC.BUZZ 156.154.156.29 2610:a1:1074:0:0:0:0:1d
 nserver:      NS5.DNS.NIC.BUZZ 156.154.157.29 2610:a1:1075:0:0:0:0:1d
 nserver:      NS6.DNS.NIC.BUZZ 156.154.158.29 2610:a1:1076:0:0:0:0:1d
-nserver:      NS7.DNS.NIC.BUZZ 2001:503:7bbb:ffff:ffff:ffff:ffff:ff7e 207.34.5.10
 ds-rdata:     47864 8 1 455F2C4738D8D597E70EE16AD30C249839C13EC9
 ds-rdata:     47864 8 2 A7178B083CB8C38492BBA8B7BF71F2D86B892CD851FECB81EE2FFFB55097F78A
 
@@ -44,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.buzznames.biz
 
 created:      2013-12-12
-changed:      2015-07-16
+changed:      2015-08-17
 source:       IANA
 
