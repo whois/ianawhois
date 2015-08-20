@@ -1,0 +1,53 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       MOM
+
+organisation: Uniregistry, Corp.
+address:      Governors Square, Unit 3-110
+address:      23 Lime Tree Bay Avenue
+address:      Grand Cayman, Cayman Islands
+address:      PO Box 1361, George Town, KY1-1108
+address:      Cayman Islands
+
+contact:      administrative
+name:         Frank Schilling
+organisation: Uniregistry, Corp.
+address:      Governors Square, Unit 3-110
+address:      23 Lime Tree Bay Avenue
+address:      Grand Cayman, Cayman Islands
+address:      PO Box 1361, George Town, KY1-1108
+address:      Cayman Islands
+phone:        +1.3457496263
+fax-no:       +1.3457466263
+e-mail:       contact@uniregistry.com
+
+contact:      technical
+name:         Francisco Obispo
+organisation: Uniregistry Inc.
+address:      Governors Square, Unit 3-110
+address:      23 Lime Tree Bay Avenue
+address:      Grand Cayman, Cayman Islands
+address:      PO Box 1361, George Town, KY1-1108
+address:      Cayman Islands
+phone:        +1.3457496263
+fax-no:       +1.3457466263
+e-mail:       ops@uniregistry.com
+
+nserver:      A.MOM.DYNTLD.NET 199.19.1.24 2a02:e180:0:0:0:0:0:24
+nserver:      B.MOM.DYNTLD.NET 199.19.7.24 2a02:e180:1:0:0:0:0:24
+nserver:      C.MOM.DYNTLD.NET 185.38.98.24 2a02:e180:2:0:0:0:0:24
+nserver:      NS1.UNIREGISTRY.NET 2620:57:4000:1:0:0:0:1 64.96.1.1
+ds-rdata:     32996 5 1 DCCD6C805F9D383EAAE7CF4D0083630885B1D704
+ds-rdata:     32996 5 2 9799BB694E98BA59B1C29E6D1A3CA3581B7D0AEBCD72C51536F1E5629D2979A4
+
+whois:        whois.uniregistry.net
+
+status:       ACTIVE
+remarks:      Registration information: http://uniregistry.link
+
+created:      2015-08-13
+changed:      2015-08-19
+source:       IANA
+
