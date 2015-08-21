@@ -35,8 +35,6 @@ nserver:      A0.NIC.POKER 2a01:8840:16:0:0:0:0:33 65.22.20.33
 nserver:      A2.NIC.POKER 2a01:8840:19:0:0:0:0:33 65.22.23.33
 nserver:      B0.NIC.POKER 2a01:8840:17:0:0:0:0:33 65.22.21.33
 nserver:      C0.NIC.POKER 2a01:8840:18:0:0:0:0:33 65.22.22.33
-ds-rdata:     55786 7 1 3e2138c1d4d51420df9c44a4e68f161781b53a98
-ds-rdata:     55786 7 2 300009c8727bf5095912e598936c879cc5c1e93342a82753c82233a1ac135151
 ds-rdata:     45268 7 2 7dff3f6de1f872176b78e295fccd897982658818a3969085b19205852976e5d8
 ds-rdata:     45268 7 1 90e4db8c6e0968d79de177f72f73718cb7479143
 
@@ -46,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://afilias.info/contact-us
 
 created:      2014-09-04
-changed:      2015-08-08
+changed:      2015-08-21
 source:       IANA
 
