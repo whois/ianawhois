@@ -1,0 +1,55 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       新闻
+domain-ace:   XN--EFVY88H
+
+organisation: Xinhua News Agency Guangdong Branch 新华通讯社广东分社
+address:      No.158 Lianxin Road, Yuexiu District
+address:      Guangzhou City
+address:      Guangdong Province
+address:      China
+
+contact:      administrative
+name:         Primary Contact
+organisation: Namesphere Holdings Limited
+address:      12/F, Daily House
+address:      35-37 Haiphong Road
+address:      Tsim Sha Tsui, Kowloon
+address:      Hong Kong
+phone:        +852 2244 7900
+fax-no:       +852 2244 7902
+e-mail:       info@tld.asia
+
+contact:      technical
+name:         Primary Contact
+organisation: Namesphere Holdings Limited
+address:      12/F, Daily House
+address:      35-37 Haiphong Road
+address:      Tsim Sha Tsui, Kowloon
+address:      Hong Kong
+phone:        +852 2244 7900
+fax-no:       +852 2244 7902
+e-mail:       info@tld.asia
+
+nserver:      A.ZDNSCLOUD.COM 1.8.240.1
+nserver:      B.ZDNSCLOUD.COM 1.8.241.1
+nserver:      C.ZDNSCLOUD.COM 1.8.242.1
+nserver:      D.ZDNSCLOUD.COM 1.8.243.1
+nserver:      E.ZDNSCLOUD.COM 119.167.248.154
+nserver:      F.ZDNSCLOUD.COM 182.131.23.22
+nserver:      G.ZDNSCLOUD.COM 111.12.148.111
+nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
+nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
+ds-rdata:     40607 8 2 BDF65E62FA858EAE3FDE4E40F736422619A90F68AB5A115EED5BC565EE542C3F
+
+whois:        whois.nic.xn--efvy88h
+
+status:       ACTIVE
+remarks:      Registration information: http://www.gd.xinhua.org
+
+created:      2015-08-06
+changed:      2015-08-24
+source:       IANA
+
