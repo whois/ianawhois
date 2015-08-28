@@ -1,0 +1,48 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       ACO
+
+organisation: ACO Severin Ahlmann GmbH & Co. KG
+address:      Am Ahlmannkai
+address:      Buedelsdorf, Schleswig-Holstein
+address:      24782
+address:      Germany
+
+contact:      administrative
+name:         CEO
+organisation: LEMARIT GmbH
+address:      Werkstrasse 12
+address:      Harrislee, Schleswig-Holstein
+address:      24955
+address:      Germany
+phone:        +49 461 5050 35 - 0
+e-mail:       acoregistry@lemarit.com
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      Building 3, Suite 105, 300 Welsh Road
+address:      Horsham, PA 19044
+address:      United States
+phone:        +1 215 706 5700
+fax-no:       +1 215 706 5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.ACO 2a01:8840:8e:0:0:0:0:17 65.22.144.17
+nserver:      A2.NIC.ACO 2a01:8840:91:0:0:0:0:17 65.22.147.17
+nserver:      B0.NIC.ACO 2a01:8840:8f:0:0:0:0:17 65.22.145.17
+nserver:      C0.NIC.ACO 2a01:8840:90:0:0:0:0:17 65.22.146.17
+ds-rdata:     49383 7 1 c536914cd2ecc3a45f2bca3279fd1a25062156b1
+ds-rdata:     49383 7 2 871a9ddd4feef3531929e3866bfcaf8e97e7fe0688d14ef897f1afcc1cd58f60
+
+whois:        whois.afilias-srs.net
+
+status:       ACTIVE
+remarks:      Registration information: http://www.aco.com
+
+created:      2015-07-16
+changed:      2015-08-27
+source:       IANA
+
