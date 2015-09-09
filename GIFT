@@ -35,9 +35,10 @@ phone:        +1.3457496263
 fax-no:       +1.3457466263
 e-mail:       ops@uniregistry.com
 
-nserver:      A.NS.UNIREGISTRY.NET 2620:57:4003:10:0:0:0:53 64.96.25.53
-nserver:      TLD.ISC-SNS.INFO 2001:470:1a:0:0:0:0:3 72.52.71.3
-nserver:      TLD.ISC-SNS.NET 2001:5a0:10:0:0:0:0:3 63.243.194.3
+nserver:      A.GIFT.DYNTLD.NET 199.19.1.7 2a02:e180:0:0:0:0:0:7
+nserver:      B.GIFT.DYNTLD.NET 199.19.7.7 2a02:e180:1:0:0:0:0:7
+nserver:      C.GIFT.DYNTLD.NET 185.38.98.7 2a02:e180:2:0:0:0:0:7
+nserver:      NS1.UNIREGISTRY.NET 2620:57:4000:1:0:0:0:1 64.96.1.1
 ds-rdata:     42194 5 1 61379C5FD2BA15B4401F9E74D1CCDF613FA469E4
 ds-rdata:     42194 5 2 365F45C35B61F891A7111CF3BD587EF8A0088D6EB7286E791F1016B56EA01850
 
@@ -47,6 +48,6 @@ status:       ACTIVE
 remarks:      Registration information: http://uniregistry.link
 
 created:      2014-01-09
-changed:      2015-07-10
+changed:      2015-09-09
 source:       IANA
 
