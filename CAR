@@ -1,0 +1,53 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       CAR
+
+organisation: Cars Registry Limited
+address:      Governors Square, Unit 3-110
+address:      23 Lime Tree Bay Avenue
+address:      Grand Cayman, Cayman Islands
+address:      PO Box 1361, George Town, KY1-1108
+address:      Cayman Islands
+
+contact:      administrative
+name:         Managing Director
+organisation: Cars Registry Limited
+address:      Governors Square, Unit 3-110
+address:      23 Lime Tree Bay Avenue
+address:      Grand Cayman, Cayman Islands
+address:      PO Box 1361, George Town, KY1-1108
+address:      Cayman Islands
+phone:        +1.3457496263
+fax-no:       +1.3457466263
+e-mail:       contact@uniregistry.com
+
+contact:      technical
+name:         Chief Technical Officer - Registry Operations
+organisation: Uniregistry Inc.
+address:      Governors Square, Unit 3-110
+address:      23 Lime Tree Bay Avenue
+address:      Grand Cayman, Cayman Islands
+address:      PO Box 1361, George Town, KY1-1108
+address:      Cayman Islands
+phone:        +1.3457496263
+fax-no:       +1.3457466263
+e-mail:       ops@uniregistry.com
+
+nserver:      A.CAR.DYNTLD.NET 199.19.1.21 2a02:e180:0:0:0:0:0:21
+nserver:      B.CAR.DYNTLD.NET 199.19.7.21 2a02:e180:1:0:0:0:0:21
+nserver:      C.CAR.DYNTLD.NET 185.38.98.21 2a02:e180:2:0:0:0:0:21
+nserver:      NS1.UNIREGISTRY.NET 2620:57:4000:1:0:0:0:1 64.96.1.1
+ds-rdata:     22307 5 1 A829D7EAE806E497132B46179DCC5B8824010320
+ds-rdata:     22307 5 2 EF40B9A2A119F93103931DB003BE4EF9B2C97437DA26F4EA519555499A71B64E
+
+whois:        whois.uniregistry.net
+
+status:       ACTIVE
+remarks:      Registration information: http://uniregistry.link
+
+created:      2015-08-26
+changed:      2015-09-09
+source:       IANA
+
