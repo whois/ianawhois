@@ -4,9 +4,9 @@
 
 domain:       CLOUD
 
-organisation: ARUBA S.p.A.
-address:      Località Palazzetto 4
-address:      52011 Bibbiena (AR)
+organisation: ARUBA PEC S.p.A.
+address:      Via Sergio Ramelli 8
+address:      52100 Arezzo (AR)
 address:      Italy
 
 contact:      administrative
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.getdotcloud.com
 
 created:      2015-06-18
-changed:      2015-06-27
+changed:      2015-09-12
 source:       IANA
 
