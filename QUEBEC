@@ -5,15 +5,15 @@
 domain:       QUEBEC
 
 organisation: PointQuébec Inc
-address:      1440, rue Sainte-Catherine Ouest, 11E
-address:      Montréal (Québec) H3G 1R8
+address:      355 rue Peel, suite 111
+address:      Montréal (Québec) H3C 2G9
 address:      Canada
 
 contact:      administrative
 name:         Normand Fortier
 organisation: PointQuébec Inc
-address:      1440, rue Sainte-Catherine Ouest, 11E
-address:      Montréal (Québec) H3G 1R8
+address:      355 rue Peel, bureau 111
+address:      Montréal (Québec) H3C 2G9
 address:      Canada
 phone:        +1.514-972-7777
 fax-no:       +1.877-917-9904
@@ -41,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.registre.quebec
 
 created:      2014-03-13
-changed:      2015-03-26
+changed:      2015-09-12
 source:       IANA
 
