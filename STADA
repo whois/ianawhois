@@ -1,0 +1,45 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       STADA
+
+organisation: STADA Arzneimittel AG
+address:      Stadastrasse 2, Bad Vilbel, Hessen 61118
+address:      Germany
+
+contact:      administrative
+name:         CEO Opportunity Interactive Services GmbH
+organisation: Opportunity Interactive Services GmbH
+address:      Robert-Bosch-Straße 24, Karben, Hessen 61184
+address:      Germany
+phone:        +49 6039 922616
+fax-no:       +49 6039 922699
+e-mail:       dotstada@opportunity.de
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      Building 3, Suite 105 300 Welsh Road
+address:      Horsham, PA 19044
+address:      United States
+phone:        +1 215 706 5700
+fax-no:       +1 215 706 5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.STADA 2a01:8840:9a:0:0:0:0:25 65.22.156.25
+nserver:      A2.NIC.STADA 2a01:8840:9d:0:0:0:0:25 65.22.159.25
+nserver:      B0.NIC.STADA 2a01:8840:9b:0:0:0:0:25 65.22.157.25
+nserver:      C0.NIC.STADA 2a01:8840:9c:0:0:0:0:25 65.22.158.25
+ds-rdata:     45904 7 1 319dbec4788c44ba971dc517f4f17bb48beb28d7
+ds-rdata:     45904 7 2 3bf55ae7e6a66f5afef9fa500b3b52e3d2dfefad73b427b1dec242d69544e364
+
+whois:        whois.afilias-srs.net
+
+status:       ACTIVE
+remarks:      Registration information: http://www.stada.com
+
+created:      2015-08-13
+changed:      2015-09-13
+source:       IANA
+
