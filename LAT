@@ -30,6 +30,7 @@ nserver:      C.MX-NS.MX 192.100.224.1 2001:1258:0:0:0:0:0:1
 nserver:      M.MX-NS.MX 200.94.176.1 2001:13c7:7000:0:0:0:0:1
 nserver:      O.MX-NS.MX 200.23.1.1
 ds-rdata:     55507 8 2 DE52C59AD72053A7AF00B1DD3F145FB775990E4C1919757475F802AFA9BAF0DF
+ds-rdata:     49249 8 2 EDFB66497DDC2BACA70BF89C9B6E2C8C117A515B221C65785EB9EB34105D062D
 
 whois:        whois.nic.lat
 
@@ -37,6 +38,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.puntolat.info
 
 created:      2014-12-04
-changed:      2015-05-10
+changed:      2015-09-13
 source:       IANA
 
