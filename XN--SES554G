@@ -37,7 +37,11 @@ nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
 ds-rdata:     149 8 2 93CBDE531ACEFE2D3C23F627E5A18B7E9F5E64CF5B1686597FAAA4512AD0DB41
 
+whois:        whois.registry.knet.cn
+
 status:       ACTIVE
+remarks:      Registration information:
+remarks:      http://www.knet.cn/domain/wagnzhi/
 
 created:      2014-03-13
 changed:      2015-01-30
