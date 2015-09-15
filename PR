@@ -10,21 +10,19 @@ address:      San Juan  00923
 address:      Puerto Rico
 
 contact:      administrative
-name:         Oscar Moreno
+name:         Registry Administrative Contact
 organisation: Gauss Research Laboratory Inc.
-address:      Calle Vesta 801
-address:      San Juan  00923
+address:      #4 Georgetti, Río Piedras, San Juan, PR 00925
 address:      Puerto Rico
-phone:        787-372-3803
-e-mail:       moreno@nic.pr
+phone:        +1-787-281-0455
+e-mail:       admin@nic.pr
 
 contact:      technical
 name:         Registry Technical Contact
 organisation: Gauss Research Laboratory Inc.
-address:      Calle Vesta 801
-address:      San Juan  00923
+address:      #4 Georgetti, Río Piedras, San Juan, PR 00925
 address:      Puerto Rico
-phone:        787-372-3804
+phone:        +1-787-281-0455
 e-mail:       tech@nic.pr
 
 nserver:      DESCARTES.NIC.PR 134.202.1.120
@@ -40,6 +38,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.pr
 
 created:      1989-08-27
-changed:      2013-12-02
+changed:      2015-09-15
 source:       IANA
 
