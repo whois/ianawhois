@@ -27,7 +27,7 @@ address:      9042 GENT
 address:      Belgium
 phone:        +3292187979
 fax-no:       +3292187978
-e-mail:       jimmy@combellgroup.com
+e-mail:       jimmy.cappaert@intelli.gent
 
 nserver:      A.NS.NIC.GENT 2a02:2790:0:2:0:0:0:53 89.207.184.98
 nserver:      C.NS.NIC.GENT 54.247.68.190
@@ -38,9 +38,9 @@ ds-rdata:     19200 7 2 11F029AD7E87D944ABD918B837C1E5D75E400598DCD66630B37E48D8
 whois:        whois.nic.gent
 
 status:       ACTIVE
-remarks:      Registration information: http://www.dotgent.com
+remarks:      Registration information: http://www.nic.gent
 
 created:      2014-07-03
-changed:      2015-09-12
+changed:      2015-09-16
 source:       IANA
 
