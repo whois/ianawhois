@@ -1,0 +1,46 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       STOCKHOLM
+
+organisation: Stockholms kommun
+address:      Ragnar Östbergsplan 1, Stockholm, 11855
+address:      Sweden
+
+contact:      administrative
+name:         Senior Vice President
+organisation: Afilias
+address:      Building 3, Suite 105 300 Welsh Road
+address:      Horsham, PA 19044
+address:      United States
+phone:        +1 215 706 5700
+fax-no:       +1 215 706 5701
+e-mail:       stockholmgdd@afilias.info
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      Building 3, Suite 105 300 Welsh Road
+address:      Horsham, PA 19044
+address:      United States
+phone:        +1 215 706 5700
+fax-no:       +1 215 706 5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.STOCKHOLM 2a01:8840:d6:0:0:0:0:41 65.22.220.41
+nserver:      A2.NIC.STOCKHOLM 2a01:8840:d9:0:0:0:0:41 65.22.223.41
+nserver:      B0.NIC.STOCKHOLM 2a01:8840:d7:0:0:0:0:41 65.22.221.41
+nserver:      C0.NIC.STOCKHOLM 2a01:8840:d8:0:0:0:0:41 65.22.222.41
+ds-rdata:     8884 7 1 fd39090eb1f74e1cd384c3e35575e6d23d0e519c
+ds-rdata:     8884 7 2 bae3589ca9d29e530c4cc01a4d6108a8fff0ae8e8a40ded9ed64c2f768a92b16
+
+whois:        whois.afilias-srs.net
+
+status:       ACTIVE
+remarks:      Registration information: http://www.stockholm.se/
+
+created:      2015-09-17
+changed:      2015-09-26
+source:       IANA
+
