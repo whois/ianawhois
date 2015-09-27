@@ -1,0 +1,54 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       KIA
+
+organisation: KIA MOTORS CORPORATION
+address:      231 Yangjae-dong
+address:      Seocho-gu
+address:      Seoul
+address:      137-938
+address:      Korea, Republic Of
+
+contact:      administrative
+name:         Chief Operating Officer
+organisation: Brights Consulting Inc.
+address:      30F, Kasumigaseki Bldg., 3-2-5
+address:      Kasumigaseki
+address:      Chiyoda-ku
+address:      Tokyo
+address:      100-6030
+address:      Japan
+phone:        +81.355210107
+fax-no:       +81.355210117
+e-mail:       nakagawa_22@brights.jp
+
+contact:      technical
+name:         Chief Operating Officer
+organisation: Brights Consulting Inc.
+address:      30F, Kasumigaseki Bldg., 3-2-5 Kasumigaseki
+address:      Chiyoda-ku
+address:      Tokyo
+address:      100-6030
+address:      Japan
+phone:        +81.355210107
+fax-no:       +81.355210117
+e-mail:       nakagawa_22@brights.jp
+
+nserver:      A.NIC.KIA 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.KIA 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.KIA 2001:dcd:3:0:0:0:0:9 37.209.196.9
+nserver:      D.NIC.KIA 2001:dcd:4:0:0:0:0:9 37.209.198.9
+ds-rdata:     12514 8 1 394604F9C031718F18485EB63C2C9AD73B0A9EB7
+ds-rdata:     12514 8 2 A305456DD2311B1C5E5C9550BBB1467DA12C8EBFEF2BEFFDF5B607FDA7EB83CD
+
+whois:        whois.nic.kia
+
+status:       ACTIVE
+remarks:      Registration information: http://www.kia.com
+
+created:      2015-09-17
+changed:      2015-09-26
+source:       IANA
+
