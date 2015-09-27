@@ -1,0 +1,55 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       HYUNDAI
+
+organisation: Hyundai Motor Company
+address:      231 Yangjae-dong
+address:      Seocho-gu
+address:      Seoul
+address:      137-938
+address:      Korea, Republic Of
+
+contact:      administrative
+name:         Chief Operating Officer
+organisation: Brights Consulting Inc.
+address:      30F, Kasumigaseki Bldg., 3-2-5
+address:      Kasumigaseki
+address:      Chiyoda-ku
+address:      Tokyo
+address:      100-6030
+address:      Japan
+phone:        +81.355210107
+fax-no:       +81.355210117
+e-mail:       nakagawa_21@brights.jp
+
+contact:      technical
+name:         Chief Operating Officer
+organisation: Brights Consulting Inc.
+address:      30F, Kasumigaseki Bldg., 3-2-5
+address:      Kasumigaseki
+address:      Chiyoda-ku
+address:      Tokyo
+address:      100-6030
+address:      Japan
+phone:        +81.355210107
+fax-no:       +81.355210117
+e-mail:       nakagawa_21@brights.jp
+
+nserver:      A.NIC.HYUNDAI 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.HYUNDAI 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.HYUNDAI 2001:dcd:3:0:0:0:0:9 37.209.196.9
+nserver:      D.NIC.HYUNDAI 2001:dcd:4:0:0:0:0:9 37.209.198.9
+ds-rdata:     28492 8 1 3D7CB00010B93D55ADBCAC89FAA98A49C6632F68
+ds-rdata:     28492 8 2 EDA01F8F7595EFE75AB836D5A6D367DDBAA0E4FBB76B88CCED6CDEF9742714BE
+
+whois:        whois.nic.hyundai
+
+status:       ACTIVE
+remarks:      Registration information: http://www.hyundai.com
+
+created:      2015-09-17
+changed:      2015-09-26
+source:       IANA
+
