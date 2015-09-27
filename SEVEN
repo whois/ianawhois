@@ -1,0 +1,43 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       SEVEN
+
+organisation: Seven West Media Ltd
+address:      Newspaper House 50 Hasler Road Osborne Park, WA - 6017
+address:      Australia
+
+contact:      administrative
+name:         Regulatory Affairs Executive
+organisation: Seven West Media Ltd
+address:      38-42 Pirrama Road, Pyrmont NSW 2009
+address:      Australia
+phone:        +61 2 8777 7213
+fax-no:       +61 2 8777 7180
+e-mail:       ngtld-seven@cscinfo.com
+
+contact:      technical
+name:         Product Manager
+organisation: Implementation Manager
+address:      2711 Centerville Rd. suite 400
+address:      Wilmington, DE 19808
+address:      United States
+phone:        (302) 636-5400
+e-mail:       ngtlds-tech@cscinfo.com
+
+nserver:      A.NIC.SEVEN 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.SEVEN 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.SEVEN 2001:dcd:3:0:0:0:0:9 37.209.196.9
+nserver:      D.NIC.SEVEN 2001:dcd:4:0:0:0:0:9 37.209.198.9
+ds-rdata:     43024 8 1 187FC876C625C545E8768C16F427EB097E0DD64E
+ds-rdata:     43024 8 2 B406C6E4606EEF479B6EB6479121E409B3934E0CE6E2332EEF08624DF11CA859
+
+whois:        whois.nic.seven
+
+status:       ACTIVE
+
+created:      2015-09-23
+changed:      2015-09-26
+source:       IANA
+
