@@ -34,6 +34,8 @@ nserver:      C.NIC.BOND 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      D.NIC.BOND 2001:dcd:4:0:0:0:0:9 37.209.198.9
 ds-rdata:     13285 8 1 C8DF0A54BDD8A9AA9BB150622D1F2A637FA38E5F
 ds-rdata:     13285 8 2 772AE9C344BFA61A35AD9E835C91B30C48961EBED6B340BD4E67EA5ED69441FA
+ds-rdata:     3382 8 1 8B5E8796FACE73374EF18FDC7026D07E33837D14
+ds-rdata:     3382 8 2 01EAECD8CEC3A76F05C299AA2FAE504063BC2A8CC9CE36672FD4EDA9D5BB9A91
 
 whois:        whois.nic.bond
 
@@ -41,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://bond.edu.au/
 
 created:      2014-10-30
-changed:      2015-03-27
+changed:      2015-09-29
 source:       IANA
 
