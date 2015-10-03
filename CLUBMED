@@ -1,0 +1,48 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       CLUBMED
+
+organisation: Club Méditerranée S.A.
+address:      11 rue de Cambrai
+address:      75019 Paris
+address:      France
+
+contact:      administrative
+name:         Global E-Business Manager
+organisation: Club Méditerranée S.A.
+address:      11 rue de Cambrai
+address:      75019 Paris
+address:      France
+phone:        +33 1 53 35 35 53
+fax-no:       +33 1 53 35 36 10
+e-mail:       ngtld-clubmed@cscinfo.com
+
+contact:      technical
+name:         Registry Customer Service
+organisation: Verisign, inc.
+address:      12061 Bluemont Way
+address:      Reston Virginia 20190
+address:      United States
+phone:        +1-703-925-6999
+fax-no:       +1-703-948-3978
+e-mail:       info@verisign-grs.com
+
+nserver:      A5.NSTLD.COM 192.5.6.34
+nserver:      C5.NSTLD.COM 192.26.92.34
+nserver:      D5.NSTLD.COM 192.31.80.34
+nserver:      F5.NSTLD.COM 192.35.51.34 2001:503:d414:0:0:0:2:34
+nserver:      G5.NSTLD.COM 192.42.93.34
+nserver:      H5.NSTLD.COM 192.54.112.34 2001:502:08cc:0:0:0:2:34
+nserver:      L5.NSTLD.COM 192.41.162.34
+ds-rdata:     2823 8 2 49AFA8257AEF277EADCE81A3B3712BE90AEC8A22363B302884ACF373EADADF0C
+
+whois:        whois.nic.clubmed
+
+status:       ACTIVE
+
+created:      2015-09-24
+changed:      2015-10-02
+source:       IANA
+
