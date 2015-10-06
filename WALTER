@@ -30,8 +30,8 @@ nserver:      A.NIC.WALTER 2001:dcd:1:0:0:0:0:9 37.209.192.9
 nserver:      B.NIC.WALTER 2001:dcd:2:0:0:0:0:9 37.209.194.9
 nserver:      C.NIC.WALTER 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      D.NIC.WALTER 2001:dcd:4:0:0:0:0:9 37.209.198.9
-ds-rdata:     26671 8 1 8BFF18695F7C13F998B9AF35157552AFBDC1DAC1
-ds-rdata:     26671 8 2 1AEB3B7AE4799D9FEC2A0FF5D3CEB82330DF64CE58F8F0F10ACBBA13780F0D9F
+ds-rdata:     38692 8 1 CC5BF250A1C6A03D8A80FB9A30B0C3F0E514032C
+ds-rdata:     38692 8 2 B4CE3EB90E6A0402FE397B96E8EEF7C5B8D71CE2566CAFBB5365ACA469B996BC
 
 whois:        whois.nic.walter
 
@@ -39,6 +39,6 @@ status:       ACTIVE
 remarks:      Registration information:  http://nic.walter
 
 created:      2015-05-14
-changed:      2015-10-05
+changed:      2015-10-06
 source:       IANA
 
