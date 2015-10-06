@@ -33,8 +33,8 @@ nserver:      A.NIC.SAXO 2001:dcd:1:0:0:0:0:9 37.209.192.9
 nserver:      B.NIC.SAXO 2001:dcd:2:0:0:0:0:9 37.209.194.9
 nserver:      C.NIC.SAXO 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      D.NIC.SAXO 2001:dcd:4:0:0:0:0:9 37.209.198.9
-ds-rdata:     13285 8 1 92DF359DC883663175EC5FEB1915B2E95B999944
-ds-rdata:     13285 8 2 B5184322FD05E2F6C5000A37CFB77296D97D8457B14177BE55A142F149CB5FE7
+ds-rdata:     18382 8 2 929D50A6D1A53DA801CAB5F5FF1787CE632AD143B67AB98D35ACF470507A2525
+ds-rdata:     18382 8 1 83553DFCD25E5C6DE80237650C780716A49C7BAF
 
 whois:        whois.aridnrs.net.au
 
@@ -42,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.saxobank.com/
 
 created:      2015-01-15
-changed:      2015-02-10
+changed:      2015-10-06
 source:       IANA
 
