@@ -12,11 +12,11 @@ address:      Argentina
 contact:      administrative
 name:         Sr. Gabriel Brenta
 organisation: Presidencia de la Nación – Secretaría Legal y Técnica - Dirección Nacional del Registro de Dominios de Internet
-address:      juncal N°847 – Planta Baja
-address:      Buenos Aires C1064AAB
+address:      San Martín 536 – Piso 1
+address:      Buenos Aires C1004AAL
 address:      Argentina
-phone:        +54 11 5218-1350
-fax-no:       +54 11 5218-1350
+phone:        +54 11 5235-1160
+fax-no:       +54 11 5235-1160
 e-mail:       brentag@nic.gob.ar
 
 contact:      technical
@@ -25,8 +25,8 @@ organisation: Presidencia de la Nación – Secretaría Legal y Técnica - Direc
 address:      juncal N°847 – Planta Baja
 address:      Buenos Aires C1064AAB
 address:      Argentina
-phone:        +54 11 5218 1350
-fax-no:       +54 11 5218 1350
+phone:        +54 11 5235-1160
+fax-no:       +54 11 5235-1160
 e-mail:       minuchinl@nic.gob.ar
 
 nserver:      A.DNS.AR 200.108.145.50 2801:140:0:0:0:0:0:10
@@ -41,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.ar
 
 created:      1987-09-23
-changed:      2015-09-22
+changed:      2015-10-05
 source:       IANA
 
