@@ -38,8 +38,8 @@ nserver:      A.NIC.MELBOURNE 2001:dcd:1:0:0:0:0:10 37.209.192.10
 nserver:      B.NIC.MELBOURNE 2001:dcd:2:0:0:0:0:10 37.209.194.10
 nserver:      C.NIC.MELBOURNE 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      D.NIC.MELBOURNE 2001:dcd:4:0:0:0:0:10 37.209.198.10
-ds-rdata:     61204 8 1 6475B9D63E8A8F7DEE814804998946AA3A229D49
-ds-rdata:     61204 8 2 6D8F06B6AA4CD37041FA010F522E0A63F76F3C3761F866E35C444359913BC449
+ds-rdata:     57856 8 1 D1CC74CD88318559962BDFB56525C822D2A8A11F
+ds-rdata:     57856 8 2 E71A2E50EE30225FA38F059E967A9F700545E3C7E8506B42D73778D3143EBD9B
 
 whois:        whois.aridnrs.net.au
 
@@ -47,6 +47,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.melbourne/
 
 created:      2014-07-03
-changed:      2014-08-06
+changed:      2015-10-06
 source:       IANA
 
