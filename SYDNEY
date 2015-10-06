@@ -37,8 +37,8 @@ nserver:      A.NIC.SYDNEY 2001:dcd:1:0:0:0:0:10 37.209.192.10
 nserver:      B.NIC.SYDNEY 2001:dcd:2:0:0:0:0:10 37.209.194.10
 nserver:      C.NIC.SYDNEY 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      D.NIC.SYDNEY 2001:dcd:4:0:0:0:0:10 37.209.198.10
-ds-rdata:     32809 8 1 21A022F6AE5B94AFC1963B9A861C5264BB6AEC64
-ds-rdata:     32809 8 2 84DC52A3235FBC206A86B54AD9755E3CBD9A62CB1F049692DE9A31AD05A10EF2
+ds-rdata:     58114 8 2 77D5604398757FEBEF20916550FBCDBDA112404D1C62E0C9BF10F1E2B6721481
+ds-rdata:     58114 8 1 7B42D71BF52E6395490139628CDFEFD552BD3F00
 
 whois:        whois.nic.sydney
 
@@ -47,6 +47,6 @@ remarks:      Registration information:
 remarks:      http://www.ariservices.com/dotsydney
 
 created:      2014-10-30
-changed:      2014-11-05
+changed:      2015-10-06
 source:       IANA
 
