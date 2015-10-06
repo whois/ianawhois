@@ -36,8 +36,8 @@ nserver:      A.NIC.STUDY 2001:dcd:1:0:0:0:0:10 37.209.192.10
 nserver:      B.NIC.STUDY 2001:dcd:2:0:0:0:0:10 37.209.194.10
 nserver:      C.NIC.STUDY 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      D.NIC.STUDY 2001:dcd:4:0:0:0:0:10 37.209.198.10
-ds-rdata:     17920 8 1 4E0AEA91C7F2266E39EA781A43C116176562C948
-ds-rdata:     17920 8 2 A1CB0CEEF546107D767A6D3D02BF40AB0181445372EFF21CD959CA871A7702E3
+ds-rdata:     17077 8 1 CF3ADB2F84165EDACB044CEDCAD790F5E645054C
+ds-rdata:     17077 8 2 726933D2EC7FA5EA36F2B941A11CD93CE535E3DAB014BBC979D16876EEE474D3
 
 whois:        whois.nic.study
 
@@ -45,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.open.edu.au/
 
 created:      2015-02-19
-changed:      2015-02-26
+changed:      2015-10-06
 source:       IANA
 
