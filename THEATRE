@@ -32,8 +32,8 @@ e-mail:       tld.ops@centralnic.com
 
 nserver:      A.NIC.THEATRE 194.169.218.69 2001:67c:13cc:0:0:0:1:69
 nserver:      B.NIC.THEATRE 185.24.64.69 2a04:2b00:13cc:0:0:0:1:69
-nserver:      C.NIC.THEATRE 194.0.2.2 2001:678:5:0:0:0:0:2
-nserver:      D.NIC.THEATRE 194.0.1.45 2001:678:4:0:0:0:0:2d
+nserver:      C.NIC.THEATRE 212.18.248.69 2a04:2b00:13ee:0:0:0:0:69
+nserver:      D.NIC.THEATRE 212.18.249.69 2a04:2b00:13ff:0:0:0:0:69
 ds-rdata:     45196 8 1 ABED901A738D17ABFA754E304B6E1C0C9021AAC5
 ds-rdata:     45196 8 2 530B10CE5CC67A1F4C6E5F59BF28E851426B9D6991233203E42A8970BD9A8011
 
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://gen.xyz/theatre
 
 created:      2015-08-13
-changed:      2015-09-13
+changed:      2015-10-07
 source:       IANA
 
