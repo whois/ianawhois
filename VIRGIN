@@ -1,0 +1,50 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       VIRGIN
+
+organisation: Virgin Enterprises Limited
+address:      13-15 Cours de Rive
+address:      Geneva
+address:      1204
+address:      Switzerland
+
+contact:      administrative
+name:         TLD Manager
+organisation: Virgin Enterprises Limited
+address:      13-15 Cours de Rive
+address:      Geneva 1204
+address:      Switzerland
+phone:        +41.228190856
+fax-no:       +41.228190856
+e-mail:       victoria.wisener@virgin.com
+
+contact:      technical
+name:         TLD Manager
+organisation: Rodenbaugh Law
+address:      548 Market Street
+address:      Box No. 55819
+address:      San Fransisco
+address:      CA
+address:      United States
+phone:        +1.4157388087
+fax-no:       +1.4157388087
+e-mail:       vgtld@rodenbaugh.com
+
+nserver:      A.NIC.VIRGIN 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.VIRGIN 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.VIRGIN 2001:dcd:3:0:0:0:0:9 37.209.196.9
+nserver:      D.NIC.VIRGIN 2001:dcd:4:0:0:0:0:9 37.209.198.9
+ds-rdata:     24871 8 1 D339608670FDA6194F61DF747A10DD24E16ECAE7
+ds-rdata:     24871 8 2 1006A2ADAC60DFC763D62E9AE99E3267C7FB7799A79D3B13F96271ED8BB40E7D
+
+whois:        whois.nic.virgin
+
+status:       ACTIVE
+remarks:      Registration information: http://www.virgin.com
+
+created:      2015-09-10
+changed:      2015-10-07
+source:       IANA
+
