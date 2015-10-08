@@ -1,0 +1,47 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       YAMAXUN
+
+organisation: Amazon Registry Services, Inc.
+address:      535 Terry Avenue North
+address:      Seattle, WA  98109
+address:      United States
+
+contact:      administrative
+name:         Stacey King
+organisation: Amazon Registry Services, Inc.
+address:      535 Terry Avenue North
+address:      Seattle, WA  98109
+address:      United States
+phone:        +12067408515
+fax-no:       +12062661350
+e-mail:       yamaxun-rzm@amazon.com
+
+contact:      technical
+name:         Sean Kaine
+organisation: Neustar, Inc.
+address:      46000 Center Oak Plaza
+address:      Sterling, VA  20166
+address:      United States
+phone:        +15714345168
+fax-no:       +15714345401
+e-mail:       registrytechnical1@neustar.biz
+
+nserver:      NS1.DNS.NIC.YAMAXUN 156.154.144.185 2610:a1:1071:0:0:0:0:b9
+nserver:      NS2.DNS.NIC.YAMAXUN 156.154.145.185 2610:a1:1072:0:0:0:0:b9
+nserver:      NS3.DNS.NIC.YAMAXUN 156.154.159.185 2610:a1:1073:0:0:0:0:b9
+nserver:      NS4.DNS.NIC.YAMAXUN 156.154.156.185 2610:a1:1074:0:0:0:0:b9
+nserver:      NS5.DNS.NIC.YAMAXUN 156.154.157.185 2610:a1:1075:0:0:0:0:b9
+nserver:      NS6.DNS.NIC.YAMAXUN 156.154.158.185 2610:a1:1076:0:0:0:0:b9
+ds-rdata:     40780 8 1 CAB17A91DA8F1F6635F0043FBCBEFF7BD68417A7
+ds-rdata:     40780 8 2 AB9C6B8F9F530B88A0A148734E2CA04F1301FE9AAF1F8FE557C47D929335FBBC
+
+status:       ACTIVE
+remarks:      Registration information: http://amazonregistry.com
+
+created:      2015-09-10
+changed:      2015-10-07
+source:       IANA
+
