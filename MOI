@@ -1,0 +1,47 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       MOI
+
+organisation: Amazon Registry Services, Inc.
+address:      535 Terry Avenue North
+address:      Seattle, WA  98109
+address:      United States
+
+contact:      administrative
+name:         Stacey King
+organisation: Amazon Registry Services, Inc.
+address:      535 Terry Avenue North
+address:      Seattle, WA  98109
+address:      United States
+phone:        +12067408515
+fax-no:       +12062661350
+e-mail:       moi-rzm@amazon.com
+
+contact:      technical
+name:         Sean Kaine
+organisation: Neustar, Inc.
+address:      46000 Center Oak Plaza
+address:      Sterling, VA  20166
+address:      United States
+phone:        +15714345168
+fax-no:       +5714345401
+e-mail:       registrytechnical1@neustar.biz
+
+nserver:      NS1.DNS.NIC.MOI 156.154.144.115 2610:a1:1071:0:0:0:0:73
+nserver:      NS2.DNS.NIC.MOI 156.154.145.115 2610:a1:1072:0:0:0:0:73
+nserver:      NS3.DNS.NIC.MOI 156.154.159.115 2610:a1:1073:0:0:0:0:73
+nserver:      NS4.DNS.NIC.MOI 156.154.156.115 2610:a1:1074:0:0:0:0:73
+nserver:      NS5.DNS.NIC.MOI 156.154.157.115 2610:a1:1075:0:0:0:0:73
+nserver:      NS6.DNS.NIC.MOI 156.154.158.115 2610:a1:1076:0:0:0:0:73
+ds-rdata:     10922 8 1 88880EB4C266BAA8970790DA23F0762A554EF4D9
+ds-rdata:     10922 8 2 79AE2EF7222FA5B84797F9E4501809501BBAA2D1831C5F904F54BE200E0B7EDE
+
+status:       ACTIVE
+remarks:      Registration information: http://amazonregistry.com
+
+created:      2015-09-10
+changed:      2015-10-07
+source:       IANA
+
