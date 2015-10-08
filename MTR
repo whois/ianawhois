@@ -1,0 +1,43 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       MTR
+
+organisation: MTR Corporation Limited
+address:      MTR Headquarters Building Telford Plaza,
+address:      Kowloon Bay Kowloon, Hong Kong
+address:      Hong Kong
+
+contact:      administrative
+name:         Jonathan Shea
+organisation: Hong Kong Internet Registration Corporation Limited
+address:      Unit 2002-2005, 20/F FWD Financial Centre, 308 Des Voeux Road Central, Sheung Wan, Hong Kong
+address:      Hong Kong
+phone:        +852 2319 2303
+fax-no:       +852 2319 2626
+e-mail:       jonathan.shea@hkirc.hk
+
+contact:      technical
+name:         Ben Lee
+organisation: Hong Kong Internet Registration Corporation Limited
+address:      Unit 2002-2005, 20/F FWD Financial Centre, 308 Des Voeux Road Central, Sheung Wan, Hong Kong
+address:      Hong Kong
+phone:        +852 2319 2303
+fax-no:       +852 2319 2626
+e-mail:       hk.tech@hkirc.hk
+
+nserver:      NS1.NIC.MTR 2001:dca:4000:0:0:0:cb77:2a4 203.119.2.164
+nserver:      NS2.NIC.MTR 2001:dca:2000:0:0:0:cb77:57a4 203.119.87.164
+nserver:      NS3.NIC.MTR 169.54.247.173 2607:f0d0:1b02:b9:0:0:0:4
+ds-rdata:     40897 8 2 1CF0277F792C04CBF3DA726D50ED57E33929B3063FD6235A3FE30CB9477EB1AB
+
+whois:        whois.nic.mtr
+
+status:       ACTIVE
+remarks:      Registration information: http://nicmtr.hkirc.hk
+
+created:      2015-07-31
+changed:      2015-10-07
+source:       IANA
+
