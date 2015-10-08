@@ -33,8 +33,8 @@ nserver:      A.NIC.PHILIPS 2001:dcd:1:0:0:0:0:9 37.209.192.9
 nserver:      B.NIC.PHILIPS 2001:dcd:2:0:0:0:0:9 37.209.194.9
 nserver:      C.NIC.PHILIPS 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      D.NIC.PHILIPS 2001:dcd:4:0:0:0:0:9 37.209.198.9
-ds-rdata:     2122 8 1 5AC98B4216097345B1099FE44CCCAFE0870BA76D
-ds-rdata:     2122 8 2 C32D278DD51818BEEEDD03F6A86562A76C5DC1653A1183CC1529D2D5B3E9E403
+ds-rdata:     16027 8 2 7E358A0F0EF3AEB949129FF0CDC99217520670330E32B08A87421C2F5D02F05F
+ds-rdata:     16027 8 1 27B6E5AE12558470199109C704F44A2CBADBC165
 
 whois:        whois.nic.philips
 
@@ -42,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.philips
 
 created:      2015-02-05
-changed:      2015-10-07
+changed:      2015-10-08
 source:       IANA
 
