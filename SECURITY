@@ -37,12 +37,12 @@ nserver:      D.NIC.SECURITY 194.0.1.45 2001:678:4:0:0:0:0:2d
 ds-rdata:     14150 8 1 E14122358E5F8AFC204A70C4D71F312D7C6595BB
 ds-rdata:     14150 8 2 2859485C57B2B929084427B8C2B444200FA44011015AA6BF005146582947A257
 
-whois:        whois.centralnic.com
+whois:        whois.nic.security
 
 status:       ACTIVE
 remarks:      Registration information: http://gen.xyz/blog/security
 
 created:      2015-09-03
-changed:      2015-09-17
+changed:      2015-10-09
 source:       IANA
 
