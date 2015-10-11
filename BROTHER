@@ -35,8 +35,8 @@ nserver:      A.NIC.BROTHER 2001:dcd:1:0:0:0:0:9 37.209.192.9
 nserver:      B.NIC.BROTHER 2001:dcd:2:0:0:0:0:9 37.209.194.9
 nserver:      C.NIC.BROTHER 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      D.NIC.BROTHER 2001:dcd:4:0:0:0:0:9 37.209.198.9
-ds-rdata:     40519 8 1 FF1BEDF2064252BB1A0E310363224C90D6F4FC6A
-ds-rdata:     40519 8 2 6400D5F5E40F4F486FEC608E5FF5CC62DB8D3AEF9775F34D14836C755CE4CDDF
+ds-rdata:     26701 8 1 D76BBFD5A755563E7B403762A44662AF85B5A453
+ds-rdata:     26701 8 2 299BBC18144DE8DA800B8F08BA50D40136804EA66BEFC76DE62BC9346F6E2E58
 
 whois:        whois.nic.brother
 
@@ -44,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.brother.com/
 
 created:      2015-04-09
-changed:      2015-05-12
+changed:      2015-10-10
 source:       IANA
 
