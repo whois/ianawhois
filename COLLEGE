@@ -32,8 +32,8 @@ e-mail:       tld.ops@centralnic.com
 
 nserver:      A.NIC.COLLEGE 194.169.218.44 2001:67c:13cc:0:0:0:1:44
 nserver:      B.NIC.COLLEGE 185.24.64.44 2a04:2b00:13cc:0:0:0:1:44
-nserver:      C.NIC.COLLEGE 194.0.2.2 2001:678:5:0:0:0:0:2
-nserver:      D.NIC.COLLEGE 194.0.1.45 2001:678:4:0:0:0:0:2d
+nserver:      C.NIC.COLLEGE 212.18.248.44 2a04:2b00:13ee:0:0:0:0:44
+nserver:      D.NIC.COLLEGE 212.18.249.44 2a04:2b00:13ff:0:0:0:0:44
 ds-rdata:     46634 8 1 E8D1436ABC9B53D4219D05356CC1687732014B60
 ds-rdata:     46634 8 2 7BEBB696E117D17EFA506B8DD2209D2C49E97E6635596FF3177BE76BE0463C3C
 
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.college
 
 created:      2014-03-13
-changed:      2015-03-23
+changed:      2015-10-10
 source:       IANA
 
