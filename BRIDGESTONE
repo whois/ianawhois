@@ -36,8 +36,8 @@ nserver:      A.NIC.BRIDGESTONE 2001:dcd:1:0:0:0:0:9 37.209.192.9
 nserver:      B.NIC.BRIDGESTONE 2001:dcd:2:0:0:0:0:9 37.209.194.9
 nserver:      C.NIC.BRIDGESTONE 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      D.NIC.BRIDGESTONE 2001:dcd:4:0:0:0:0:9 37.209.198.9
-ds-rdata:     34330 8 1 845F307246B144DF1B358F35545787F319E919BC
-ds-rdata:     34330 8 2 AA7066E93DDA746EFCAA36F81B388EE6F5F3B22282ED5E141BF9D16FA749E339
+ds-rdata:     11014 8 1 A1F70867BEDC3A37B951D4E416FD158641886D42
+ds-rdata:     11014 8 2 8850119929470C372241469AD13624183D8F0225B87D39C6BF4E4DA4735DE085
 
 whois:        whois.nic.bridgestone
 
@@ -45,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.bridgestone.com/
 
 created:      2015-04-16
-changed:      2015-05-01
+changed:      2015-10-10
 source:       IANA
 
