@@ -31,8 +31,8 @@ e-mail:       tld.ops@centralnic.com
 
 nserver:      A.NIC.FAN 194.169.218.57 2001:67c:13cc:0:0:0:1:57
 nserver:      B.NIC.FAN 185.24.64.57 2a04:2b00:13cc:0:0:0:1:57
-nserver:      C.NIC.FAN 194.0.2.2 2001:678:5:0:0:0:0:2
-nserver:      D.NIC.FAN 194.0.1.45 2001:678:4:0:0:0:0:2d
+nserver:      C.NIC.FAN 212.18.248.57 2a04:2b00:13ee:0:0:0:0:57
+nserver:      D.NIC.FAN 212.18.249.57 2a04:2b00:13ff:0:0:0:0:57
 ds-rdata:     15952 8 1 7D99090D3665FA9FB63E5B7FC599FFD08F93F814
 ds-rdata:     15952 8 2 3EA0D8E0BD00C657B1DF88E49CE6FAC7256513B98E538CE775BE6EDD05CC1B02
 
@@ -42,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://dotfans.net/
 
 created:      2015-02-28
-changed:      2015-07-17
+changed:      2015-10-10
 source:       IANA
 
