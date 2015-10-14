@@ -33,8 +33,8 @@ nserver:      A.NIC.CUISINELLA 2001:dcd:1:0:0:0:0:9 37.209.192.9
 nserver:      B.NIC.CUISINELLA 2001:dcd:2:0:0:0:0:9 37.209.194.9
 nserver:      C.NIC.CUISINELLA 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      D.NIC.CUISINELLA 2001:dcd:4:0:0:0:0:9 37.209.198.9
-ds-rdata:     20374 8 1 5B3E8D5C440257767C64BC22854936B52E1706A0
-ds-rdata:     20374 8 2 16351A3A6705FFA670C59B579ED052F8E54488CBADE24A8E4929BCE6ADF21EE0
+ds-rdata:     2647 8 1 D54E6B60E9C30627274A4ADFFD645764AF026914
+ds-rdata:     2647 8 2 BF9F42110BC20EF0AC0997EB373BA1DF60AE1D48173251B2CC968C76FCA27C8B
 
 whois:        whois.nic.cuisinella
 
@@ -42,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.cuisinella/
 
 created:      2014-06-19
-changed:      2014-09-04
+changed:      2015-10-14
 source:       IANA
 
