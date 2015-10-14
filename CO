@@ -22,7 +22,7 @@ fax-no:       +571 616 9961
 e-mail:       eduardo@cointernet.com.co
 
 contact:      technical
-name:         Trung Tran
+name:         Gonzalo Romero
 organisation: .CO Internet S.A.S.
 address:      Calle 100 8 A - 49
 address:      Torre B of 507
@@ -30,7 +30,7 @@ address:      Bogotá
 address:      Colombia
 phone:        +571 616 9961
 fax-no:       +571 616 9961
-e-mail:       trung@cointernet.com.co
+e-mail:       gonzalo@cointernet.com.co
 
 nserver:      NS1.CCTLD.CO 156.154.100.25 2001:502:2eda:0:0:0:0:21
 nserver:      NS2.CCTLD.CO 156.154.101.25 2001:502:ad09:0:0:0:0:21
@@ -47,6 +47,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.cointernet.com.co
 
 created:      1991-12-24
-changed:      2015-03-09
+changed:      2015-10-13
 source:       IANA
 
