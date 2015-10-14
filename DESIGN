@@ -31,8 +31,8 @@ e-mail:       tld.ops@centralnic.com
 
 nserver:      A.NIC.DESIGN 194.169.218.59 2001:67c:13cc:0:0:0:1:59
 nserver:      B.NIC.DESIGN 185.24.64.59 2a04:2b00:13cc:0:0:0:1:59
-nserver:      C.NIC.DESIGN 194.0.2.2 2001:678:5:0:0:0:0:2
-nserver:      D.NIC.DESIGN 194.0.1.45 2001:678:4:0:0:0:0:2d
+nserver:      C.NIC.DESIGN 212.18.248.59 2a04:2b00:13ee:0:0:0:0:59
+nserver:      D.NIC.DESIGN 212.18.249.59 2a04:2b00:13ff:0:0:0:0:59
 ds-rdata:     17966 8 1 6CBCAE3B01D88DDDDDDF6005F03DB25A2C3CEF78
 ds-rdata:     17966 8 2 7EB4B30DD9FA4A97FB4EA4A280AD06871728E7BE5F38788449040E094B6C1B74
 
@@ -42,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://tldesign.co/design
 
 created:      2014-12-18
-changed:      2015-03-06
+changed:      2015-10-14
 source:       IANA
 
