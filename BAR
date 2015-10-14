@@ -31,8 +31,8 @@ e-mail:       tld.ops@centralnic.com
 
 nserver:      A.NIC.BAR 194.169.218.56 2001:67c:13cc:0:0:0:1:56
 nserver:      B.NIC.BAR 185.24.64.56 2a04:2b00:13cc:0:0:0:1:56
-nserver:      C.NIC.BAR 194.0.2.2 2001:678:5:0:0:0:0:2
-nserver:      D.NIC.BAR 194.0.1.45 2001:678:4:0:0:0:0:2d
+nserver:      C.NIC.BAR 212.18.248.56 2a04:2b00:13ee:0:0:0:0:56
+nserver:      D.NIC.BAR 212.18.249.56 2a04:2b00:13ff:0:0:0:0:56
 ds-rdata:     55406 8 1 EECF54C6DAB2CF3FA76EFFCE97B78F432050DA9E
 ds-rdata:     55406 8 2 8E8E102E6751DA62E354BD322C9BDD42C29BF6A413B29DA5BDC579E2ED3C8DA1
 
@@ -42,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.bar
 
 created:      2014-02-13
-changed:      2014-03-11
+changed:      2015-10-14
 source:       IANA
 
