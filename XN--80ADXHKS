@@ -30,7 +30,6 @@ e-mail:       rzm-team@faitid.org
 nserver:      A.DNS.FLEXIREG.RU 2a02:2090:6800:0:0:0:0:1 31.177.70.1
 nserver:      B.DNS.FLEXIREG.NET 195.253.64.6 2a01:5b0:4:0:0:0:0:6
 nserver:      C.DNS.FLEXIREG.ORG 195.253.65.6 2a01:5b0:5:0:0:0:0:6
-ds-rdata:     39539 8 2 E4647999A72E82E028DDF4064A40E45833B9BC7CCF6F2879AC7D7E003A8D9B8D
 ds-rdata:     24892 8 2 6042fef0d06568278946ec116cff75221a2a71ebf9a3b5eb317dfbef9c3efaf9
 
 whois:        whois.nic.xn--80adxhks
@@ -39,6 +38,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.faitid.org
 
 created:      2014-04-17
-changed:      2015-08-07
+changed:      2015-10-14
 source:       IANA
 
