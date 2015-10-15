@@ -1,0 +1,44 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       DELL
+
+organisation: Dell Inc.
+address:      1 Dell Way Round Rock, TX  78682
+address:      United States
+
+contact:      administrative
+name:         Philip Lodico
+organisation: FairWinds Partners
+address:      1000 Potomac Street NW #350 Washington, District of Columbia 20007
+address:      United States
+phone:        +1-202-222-9252
+fax-no:       +1-202-223-9256
+e-mail:       lodico.de@fairwindspartners.com
+
+contact:      technical
+name:         Sean Kaine
+organisation: Neustar, Inc.
+address:      46000 Center Oak Plaza, Sterling, VA  20166
+address:      United States
+phone:        +15714345168
+fax-no:       +15714345401
+e-mail:       registrytechnical1@neustar.biz
+
+nserver:      NS1.DNS.NIC.DELL 156.154.144.47 2610:a1:1071:0:0:0:0:2f
+nserver:      NS2.DNS.NIC.DELL 156.154.145.47 2610:a1:1072:0:0:0:0:2f
+nserver:      NS3.DNS.NIC.DELL 156.154.159.47 2610:a1:1073:0:0:0:0:2f
+nserver:      NS4.DNS.NIC.DELL 156.154.156.47 2610:a1:1074:0:0:0:0:2f
+nserver:      NS5.DNS.NIC.DELL 156.154.157.47 2610:a1:1075:0:0:0:0:2f
+nserver:      NS6.DNS.NIC.DELL 156.154.158.47 2610:a1:1076:0:0:0:0:2f
+ds-rdata:     41026 8 1 94E31096C29CEA422519EF7C9E9511CBD8E63AB9
+ds-rdata:     41026 8 2 8DA9D3809DEFE3DB4BDFFB5D411AC8112F6F198A29C7383E03B6A5CB9E52E3B6
+
+status:       ACTIVE
+remarks:      Registration information: http://www.dell.com
+
+created:      2015-04-30
+changed:      2015-10-14
+source:       IANA
+
