@@ -1,0 +1,44 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       ARAMCO
+
+organisation: Aramco Services Company
+address:      9009 West Loop South, Houston, TX  77096
+address:      United States
+
+contact:      administrative
+name:         Coleman Works
+organisation: Aramco Services Company
+address:      9009 West Loop South, Houston, TX
+address:      United States
+phone:        +1-713-432-8532
+fax-no:       +1-713-432-8309
+e-mail:       coleman.works@aramcoservices.com
+
+contact:      technical
+name:         Sean Kaine
+organisation: Neustar, Inc.
+address:      46000 Center Oak Plaza, Sterling, VA  20166
+address:      United States
+phone:        +15714345168
+fax-no:       +1-571-434-5401
+e-mail:       registrytechnical1@neustar.biz
+
+nserver:      NS1.DNS.NIC.ARAMCO 156.154.144.14 2610:a1:1071:0:0:0:0:e
+nserver:      NS2.DNS.NIC.ARAMCO 156.154.145.14 2610:a1:1072:0:0:0:0:e
+nserver:      NS3.DNS.NIC.ARAMCO 156.154.159.14 2610:a1:1073:0:0:0:0:e
+nserver:      NS4.DNS.NIC.ARAMCO 156.154.156.14 2610:a1:1074:0:0:0:0:e
+nserver:      NS5.DNS.NIC.ARAMCO 156.154.157.14 2610:a1:1075:0:0:0:0:e
+nserver:      NS6.DNS.NIC.ARAMCO 156.154.158.14 2610:a1:1076:0:0:0:0:e
+ds-rdata:     54574 8 1 5DA282D21768A4999D2C9D74F1CDB902DC9A7D56
+ds-rdata:     54574 8 2 20D048A730059169883CF277C30198D814147DC560AB3DE4F16131F5ECB191F0
+
+status:       ACTIVE
+remarks:      Registration information: http://www.aramco.com
+
+created:      2015-08-20
+changed:      2015-10-15
+source:       IANA
+
