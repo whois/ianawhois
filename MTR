@@ -5,8 +5,9 @@
 domain:       MTR
 
 organisation: MTR Corporation Limited
-address:      MTR Headquarters Building Telford Plaza,
-address:      Kowloon Bay Kowloon, Hong Kong
+address:      MTR Headquarters Building, Telford Plaza,
+address:      Kowloon Bay, Kowloon,
+address:      Hong Kong
 address:      Hong Kong
 
 contact:      administrative
@@ -35,9 +36,9 @@ ds-rdata:     40897 8 2 1CF0277F792C04CBF3DA726D50ED57E33929B3063FD6235A3FE30CB9
 whois:        whois.nic.mtr
 
 status:       ACTIVE
-remarks:      Registration information: http://nicmtr.hkirc.hk
+remarks:      Registration information: http://nic.mtr
 
 created:      2015-07-31
-changed:      2015-10-07
+changed:      2015-10-15
 source:       IANA
 
