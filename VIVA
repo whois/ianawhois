@@ -32,8 +32,8 @@ e-mail:       tld.ops@centralnic.com
 
 nserver:      A.NIC.VIVA 194.169.218.28 2001:67c:13cc:0:0:0:1:28
 nserver:      B.NIC.VIVA 185.24.64.28 2a04:2b00:13cc:0:0:0:1:28
-nserver:      C.NIC.VIVA 194.0.2.2 2001:678:5:0:0:0:0:2
-nserver:      D.NIC.VIVA 194.0.1.45 2001:678:4:0:0:0:0:2d
+nserver:      C.NIC.VIVA 212.18.248.28 2a04:2b00:13ee:0:0:0:0:28
+nserver:      D.NIC.VIVA 212.18.249.28 2a04:2b00:13ff:0:0:0:0:28
 ds-rdata:     12386 8 1 4BCBDAA886B0DCE29C68A90C49A964D61E95C59F
 ds-rdata:     12386 8 2 CFAE0771825B368BEB345F67A1A08A64415AF41076486890EB62C79A32113F71
 
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.stc.com.sa
 
 created:      2015-08-20
-changed:      2015-08-28
+changed:      2015-10-21
 source:       IANA
 
