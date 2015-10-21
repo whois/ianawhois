@@ -31,8 +31,8 @@ e-mail:       tld.ops@centralnic.com
 
 nserver:      A.NIC.REST 194.169.218.35 2001:67c:13cc:0:0:0:1:35
 nserver:      B.NIC.REST 185.24.64.35 2a04:2b00:13cc:0:0:0:1:35
-nserver:      C.NIC.REST 194.0.2.2 2001:678:5:0:0:0:0:2
-nserver:      D.NIC.REST 194.0.1.45 2001:678:4:0:0:0:0:2d
+nserver:      C.NIC.REST 212.18.248.35 2a04:2b00:13ee:0:0:0:0:35
+nserver:      D.NIC.REST 212.18.249.35 2a04:2b00:13ff:0:0:0:0:35
 ds-rdata:     25199 8 1 C43AF7DEC8B165D6C8B832BCB984C2407EF5ED8D
 ds-rdata:     25199 8 2 8F477474F47C387D246B6849202CA0C54C4D5A50D322C79718A98100314D08B7
 
@@ -42,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.register.rest/
 
 created:      2014-03-06
-changed:      2015-07-25
+changed:      2015-10-21
 source:       IANA
 
