@@ -31,8 +31,8 @@ e-mail:       tld.ops@centralnic.com
 
 nserver:      A.NIC.REIT 194.169.218.38 2001:67c:13cc:0:0:0:1:38
 nserver:      B.NIC.REIT 185.24.64.38 2a04:2b00:13cc:0:0:0:1:38
-nserver:      C.NIC.REIT 194.0.2.2 2001:678:5:0:0:0:0:2
-nserver:      D.NIC.REIT 194.0.1.45 2001:678:4:0:0:0:0:2d
+nserver:      C.NIC.REIT 212.18.248.38 2a04:2b00:13ee:0:0:0:0:38
+nserver:      D.NIC.REIT 212.18.249.38 2a04:2b00:13ff:0:0:0:0:38
 ds-rdata:     44512 8 1 3451296E8F2FFE68EB14B400A686FE1DA12E3941
 ds-rdata:     44512 8 2 661FBDE636973834F5D417D3897DDF8590461DA6F020CFAA4274718DD926C523
 
@@ -42,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.reit.com
 
 created:      2014-10-23
-changed:      2015-03-09
+changed:      2015-10-21
 source:       IANA
 
