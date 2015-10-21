@@ -32,8 +32,8 @@ e-mail:       tld.ops@centralnic.com
 
 nserver:      A.NIC.STCGROUP 194.169.218.46 2001:67c:13cc:0:0:0:1:46
 nserver:      B.NIC.STCGROUP 185.24.64.46 2a04:2b00:13cc:0:0:0:1:46
-nserver:      C.NIC.STCGROUP 194.0.2.2 2001:678:5:0:0:0:0:2
-nserver:      D.NIC.STCGROUP 194.0.1.45 2001:678:4:0:0:0:0:2d
+nserver:      C.NIC.STCGROUP 212.18.248.46 2a04:2b00:13ee:0:0:0:0:46
+nserver:      D.NIC.STCGROUP 212.18.249.46 2a04:2b00:13ff:0:0:0:0:46
 ds-rdata:     63781 8 1 B6FD1903A8AABAF134A517661DA8B7F1687F334B
 ds-rdata:     63781 8 2 5A2C21B0D982A47EF075DCCA0378175E917E9BCA8128E4FFD52E31F627F29151
 
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.stc.com.sa
 
 created:      2015-08-20
-changed:      2015-08-28
+changed:      2015-10-21
 source:       IANA
 
