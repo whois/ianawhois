@@ -4,14 +4,14 @@
 
 domain:       GENT
 
-organisation: COMBELL GROUP NV/SA
+organisation: Combell nv
 address:      Skaldenstraat 121
 address:      9042 GENT
 address:      Belgium
 
 contact:      administrative
 name:         Jimmy Cappaert
-organisation: COMBELL GROUP NV/SA
+organisation: Combell nv
 address:      Skaldenstraat 121
 address:      9042 GENT
 address:      Belgium
@@ -21,7 +21,7 @@ e-mail:       jimmy.cappaert@intelli.gent
 
 contact:      technical
 name:         Jimmy Cappaert
-organisation: COMBELL GROUP NV/SA
+organisation: Combell nv
 address:      Skaldenstraat 121
 address:      9042 GENT
 address:      Belgium
@@ -41,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.gent
 
 created:      2014-07-03
-changed:      2015-09-16
+changed:      2015-10-22
 source:       IANA
 
