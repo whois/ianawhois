@@ -1,0 +1,47 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       MUTUELLE
+
+organisation: Fédération Nationale de la Mutualité Française
+address:      255 rue Vaugirard
+address:      75015 Paris
+address:      France
+
+contact:      administrative
+name:         COO
+organisation: SafeBrands
+address:      37 rue Guibal
+address:      13003 Marseille
+address:      France
+phone:        +33488662207
+fax-no:       +33488662220
+e-mail:       tldmutuelle@safebrands.com
+
+contact:      technical
+name:         Project Manager
+organisation: AFNIC
+address:      1, rue Stephenson
+address:      Immeuble Le Stephenson
+address:      78180 Montigny le Bretonneux
+address:      France
+phone:        +33 672217740
+fax-no:       +33 139308301
+e-mail:       pocmutuelle@afnic.fr
+
+nserver:      D.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
+nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
+nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
+ds-rdata:     32710 8 2 85d11c87619bde6ec80e2882e600028e2ae85b70f779ca8cbeea7a291dc96d4d
+ds-rdata:     29905 8 2 f07cb0b1a408435b2e431dbb385b17e3f607b09d190af7949c054d73e8c9e07d
+
+whois:        whois-mutuelle.nic.fr
+
+status:       ACTIVE
+remarks:      Registration information: http://www.mutualite.fr
+
+created:      2015-09-24
+changed:      2015-10-23
+source:       IANA
+
