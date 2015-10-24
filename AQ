@@ -5,15 +5,17 @@
 domain:       AQ
 
 organisation: Antarctica Network Information Centre Limited
-address:      2116/26 Albert Street
-address:      Auckland Central Auckland 1010
+address:      10 Paine Brown Way
+address:      RD 1
+address:      Russell 0272
 address:      New Zealand
 
 contact:      administrative
 name:         Peter Mott
 organisation: Antarctica Network Information Centre Limited
-address:      2116/26 Albert Street
-address:      Auckland Central Auckland 1010
+address:      10 Paine Brown Way
+address:      RD 1
+address:      Russell 0272
 address:      New Zealand
 phone:        +64 21 279 4995
 e-mail:       info@icenic.aq
@@ -36,6 +38,6 @@ nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e:0:0:0:0:1
 status:       ACTIVE
 
 created:      1992-02-26
-changed:      2014-03-13
+changed:      2015-10-24
 source:       IANA
 
