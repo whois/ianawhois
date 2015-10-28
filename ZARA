@@ -1,0 +1,48 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       ZARA
+
+organisation: Industria de Diseño Textil, S.A. (INDITEX, S.A.)
+address:      Avenida de la Diputación, Edificio Inditex
+address:      Arteixo  A Coruña 15142
+address:      Spain
+
+contact:      administrative
+name:         IP Director
+organisation: Industria de Diseño Textil, S.A.
+address:      Avenida de la Diputación, Edificio Inditex
+address:      Arteixo A Coruña 15142
+address:      Spain
+phone:        +34.981.185400
+fax-no:       +34.981.185496
+e-mail:       domain@inditex.com
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      Building 3, Suite 105
+address:      300 Welsh Road
+address:      Horsham, PA 19044
+address:      United States
+phone:        +1 215.706.5700
+fax-no:       +1 215.706.5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.ZARA 2a01:8840:e2:0:0:0:0:33 65.22.232.33
+nserver:      A2.NIC.ZARA 2a01:8840:e5:0:0:0:0:33 65.22.235.33
+nserver:      B0.NIC.ZARA 2a01:8840:e3:0:0:0:0:33 65.22.233.33
+nserver:      C0.NIC.ZARA 2a01:8840:e4:0:0:0:0:33 65.22.234.33
+ds-rdata:     26743 7 1 db311c639714f0505a423a450341117fec68b4b5
+ds-rdata:     26743 7 2 8c5921f2924e3b6ec6504a7ff9448924a877707fdcb283f3d6c2d7b59555bc76
+
+whois:        whois.afilias-srs.net
+
+status:       ACTIVE
+remarks:      Registration information: http://www.zara.com
+
+created:      2015-09-10
+changed:      2015-10-27
+source:       IANA
+
