@@ -1,0 +1,41 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       MEO
+
+organisation: PT Comunicacoes S.A.
+address:      Rua Andrade Corvo nº 6 Lisbon - 1050-009
+address:      Portugal
+
+contact:      administrative
+name:         Celso Martinho
+organisation: PT Comunicacoes S.A.
+address:      Rua Andrade Corvo nº 6 Lisbon - 1050-009
+address:      Portugal
+phone:        +351215002000
+fax-no:       +351218006200
+e-mail:       celso@sl.pt
+
+contact:      technical
+name:         Marco Ramos
+organisation: PT Comunicacoes S.A.
+address:      Rua Andrade Corvo nº 6 Lisbon - 1050-009
+address:      Portugal
+phone:        +351215002000
+fax-no:       +351800216200
+e-mail:       mramos@sl.pt
+
+nserver:      A.NS.NIC.MEO 2a02:2790:1:53:0:0:9:1 89.207.190.21
+nserver:      C.NS.NIC.MEO 54.75.248.230
+nserver:      X.NS.NIC.MEO 195.253.64.4 2a01:5b0:4:0:0:0:0:4
+nserver:      Y.NS.NIC.MEO 195.253.64.7 2a01:5b0:4:0:0:0:0:7
+ds-rdata:     3051 7 1 E0F8D604156C17C058C88B93B7B8E17BBFDE5502
+ds-rdata:     3051 7 2 7BA5B1B2FAB793AB2AE5E6A8DD6AC5E6BA9F7F9625F412267FF88A37C4C47B06
+
+status:       ACTIVE
+
+created:      2015-01-15
+changed:      2015-10-29
+source:       IANA
+
