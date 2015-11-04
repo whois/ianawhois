@@ -1,0 +1,47 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       عراق
+domain-ace:   XN--MGBTX2B
+
+organisation: Communications and Media Commission (CMC)
+address:      Al-Masbah Hay Babel
+address:      Dist. 929 St. 32 House 18
+address:      Baghdad
+address:      Iraq
+
+contact:      administrative
+name:         CEO
+organisation: Communications and Media Commission (CMC)
+address:      Al-Masbah Hay Babel
+address:      Dist. 929 St. 32 House 18
+address:      Baghdad
+address:      Iraq
+phone:        +964 7904318951
+e-mail:       enquiries@cmc.iq
+
+contact:      technical
+name:         CEO
+organisation: Communications and Media Commission (CMC)
+address:      Al-Masbah Hay Babel
+address:      Dist. 929 St. 32 House 18
+address:      Baghdad
+address:      Iraq
+phone:        +964 7904318957
+e-mail:       iq@cmc.iq
+
+nserver:      DYN1.CMC.IQ 199.19.5.8 2001:500:92:0:0:0:0:8
+nserver:      DYN2.CMC.IQ 199.19.6.8 2001:500:96:0:0:0:0:8
+nserver:      NS1.CMC.IQ 194.117.57.100
+nserver:      NSP-ANYCAST.CMC.IQ 194.117.58.42 2001:500:14:8001:ad:0:0:42
+
+whois:        whois.cmc.iq
+
+status:       ACTIVE
+remarks:      Registration information: http://www.cmc.iq/en/iq.html
+
+created:      2014-09-29
+changed:      2015-11-03
+source:       IANA
+
