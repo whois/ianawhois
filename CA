@@ -4,19 +4,16 @@
 
 domain:       CA
 
-organisation: Canadian Internet Registration Authority (CIRA)
-organisation: Autorite Canadienne pour les Enregistrements Internet (ACEI)
-address:      350 Sparks Street
-address:      Suite 306
-address:      Ottawa Ontario K1R 7S8
+organisation: Canadian Internet Registration Authority (CIRA) Autorité Canadienne pour les enregistrements Internet (ACEI)
+address:      979 Bank Street, Suite 400
+address:      Ottawa, Ontario, K1S 5K5
 address:      Canada
 
 contact:      administrative
 name:         Chief Information Officer
 organisation: CIRA
-address:      350 Sparks Street
-address:      Suite 306
-address:      Ottawa Ontario K1R 7S8
+address:      979 Bank Street, Suite 400
+address:      Ottawa, Ontario, K1S 5K5
 address:      Canada
 phone:        +1 613 237 5335
 fax-no:       +1 613 237 0534
@@ -25,9 +22,8 @@ e-mail:       chief.information.officer@cira.ca
 contact:      technical
 name:         DNS Admin
 organisation: CIRA
-address:      350 Sparks Street
-address:      Suite 306
-address:      Ottawa Ontario K1R 7S8
+address:      979 Bank Street, Suite 400
+address:      Ottawa, Ontario, K1S 5K5
 address:      Canada
 phone:        +1 613 237 5335
 fax-no:       +1 613 237 0534
@@ -46,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.cira.ca/
 
 created:      1987-05-14
-changed:      2015-02-19
+changed:      2015-11-05
 source:       IANA
 
