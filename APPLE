@@ -15,8 +15,8 @@ organisation: Apple, Inc.
 address:      1 Infinite Loop
 address:      Cupertino, CA 95014
 address:      United States
-phone:        408-996-1010
-fax-no:       408-253-0186
+phone:        +1 408 996 1010
+fax-no:       +1 408 253 0186
 e-mail:       ngtld-apple@cscglobal.com
 
 contact:      technical
@@ -26,8 +26,8 @@ address:      Building 3, Suite 105
 address:      300 Welsh Road
 address:      Horsham, PA 19044
 address:      United States
-phone:        +1 215.706.5700
-fax-no:       +1 215.706.5701
+phone:        +1 215 706 5700
+fax-no:       +1 215 706 5701
 e-mail:       tld-tech-poc@afilias.info
 
 nserver:      A0.NIC.APPLE 2a01:8840:3a:0:0:0:0:1 65.22.60.1
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.apple.com/
 
 created:      2015-07-02
-changed:      2015-11-03
+changed:      2015-11-04
 source:       IANA
 
