@@ -1,0 +1,44 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       FERRERO
+
+organisation: Ferrero Trading Lux S.A.
+address:      Rue de Trèves, Findel Business Center Complexe B Findel - L-2632, Luxembourg
+address:      Luxembourg
+
+contact:      administrative
+name:         Stefano Marzocchi
+organisation: Soremartec S.A.
+address:      Rue de Trèves, Findel Business Center Complexe B Findel - L-2632, Luxembourg
+address:      Luxembourg
+phone:        +352 349 711 95 06
+fax-no:       +352 349411
+e-mail:       stefano.marzocchi@ferrero.com
+
+contact:      technical
+name:         Sean Kaine
+organisation: Neustar, Inc.
+address:      46000 Center Oak Plaza, Sterling VA 20166
+address:      United States
+phone:        +1 571-434-5168
+fax-no:       +1 571-434 5401
+e-mail:       registrytechnical1@neustar.biz
+
+nserver:      NS1.DNS.NIC.FERRERO 156.154.144.57 2610:a1:1071:0:0:0:0:39
+nserver:      NS2.DNS.NIC.FERRERO 156.154.145.57 2610:a1:1072:0:0:0:0:39
+nserver:      NS3.DNS.NIC.FERRERO 156.154.159.57 2610:a1:1073:0:0:0:0:39
+nserver:      NS4.DNS.NIC.FERRERO 156.154.156.57 2610:a1:1074:0:0:0:0:39
+nserver:      NS5.DNS.NIC.FERRERO 156.154.157.57 2610:a1:1075:0:0:0:0:39
+nserver:      NS6.DNS.NIC.FERRERO 156.154.158.57 2610:a1:1076:0:0:0:0:39
+ds-rdata:     57560 8 1 947632ADA3D5846F39D09DCD5BF653ACD786F30E
+ds-rdata:     57560 8 2 E48D630EDB4F29FCD391E09A1B86D37091346590B1CFA0377BD15DBBAB3CB390
+
+status:       ACTIVE
+remarks:      Registration information: http://www.ferrero.com
+
+created:      2015-09-10
+changed:      2015-11-07
+source:       IANA
+
