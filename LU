@@ -5,28 +5,28 @@
 domain:       LU
 
 organisation: RESTENA
-address:      6, rue Coudenhove-Kalergi
-address:      Luxembourg  1359
+address:      2, avenue de l'Université
+address:      LU-4365 Esch-sur-Alzette
 address:      Luxembourg
 
 contact:      administrative
-name:         Antoine Barthel, Director
+name:         Antoine Barthel
 organisation: RESTENA
-address:      6, rue Coudenhove-Kalergi
-address:      Luxembourg  1359
+address:      2, avenue de l'Université
+address:      LU-4365 Esch-sur-Alzette
 address:      Luxembourg
-phone:        +352 42 44 09 1
-fax-no:       +352 42 24 73
+phone:        +352.4244091
+fax-no:       +352.422473
 e-mail:       antoine.barthel@restena.lu
 
 contact:      technical
-name:         Gilles Massen, Technical Manager
+name:         Gilles Massen
 organisation: RESTENA
-address:      6, rue Coudenhove-Kalergi
-address:      Luxembourg  1359
+address:      2, avenue de l'Université
+address:      LU-4365 Esch-sur-Alzette
 address:      Luxembourg
-phone:        +352 4244091
-fax-no:       +352 422473
+phone:        +352.4244091
+fax-no:       +352.422473
 e-mail:       gilles.massen@restena.lu
 
 nserver:      G.DNS.LU 194.0.23.5 2001:678:1b:5:0:0:0:5
@@ -44,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.dns.lu
 
 created:      1995-01-27
-changed:      2014-05-30
+changed:      2015-11-11
 source:       IANA
 
