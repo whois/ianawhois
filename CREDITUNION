@@ -1,0 +1,48 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       CREDITUNION
+
+organisation: CUNA Performance Resources, LLC
+address:      5710 Mineral Point Road
+address:      Madison, WI 53705
+address:      United States
+
+contact:      administrative
+name:         Vice Chair / Vice President
+organisation: CUNA Performance Resources, LLC.
+address:      5710 Mineral Point Road
+address:      Madison, WI 53705
+address:      United States
+phone:        +01 608 231 4213
+fax-no:       +01 608 231 4127
+e-mail:       jesser@cuna.com
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      Building 3, Suite 105
+address:      300 Welsh Road
+address:      Horsham, PA 19044
+address:      United States
+phone:        +1 215.706.5700
+fax-no:       +1 215.706.5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.CREDITUNION 2a01:8840:da:0:0:0:0:9 65.22.224.9
+nserver:      A2.NIC.CREDITUNION 2a01:8840:dd:0:0:0:0:9 65.22.227.9
+nserver:      B0.NIC.CREDITUNION 2a01:8840:db:0:0:0:0:9 65.22.225.9
+nserver:      C0.NIC.CREDITUNION 2a01:8840:dc:0:0:0:0:9 65.22.226.9
+ds-rdata:     54858 7 1 240eef679a896baa76e88eab67e349bbab449471
+ds-rdata:     54858 7 2 2a51356ce0fa71ab22ceb6e8d027adb7d80dbdb626c6c6ded57cbe23357e7a61
+
+whois:        whois.afilias-srs.net
+
+status:       ACTIVE
+remarks:      Registration information: http://www.cuna.org/registry/
+
+created:      2015-10-15
+changed:      2015-11-10
+source:       IANA
+
