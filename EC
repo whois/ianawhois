@@ -5,30 +5,33 @@
 domain:       EC
 
 organisation: NIC.EC (NICEC) S.A.
-address:      Av. 9 de Octubre 100
-address:      Piso 22
-address:      Guayaquil Guayas
+address:      Francisco De Orellana No. 234
+address:      Edif Blue Towers
+address:      Oficina No. 902-903
+address:      Guayaquil
 address:      Ecuador
 
 contact:      administrative
 name:         Garry J. Donoghue
 organisation: NIC.EC (NICEC) S.A.
-address:      Av. 9 de Octubre 100
-address:      Piso 22
-address:      Guayaquil Guayas
+address:      Francisco De Orellana No. 234
+address:      Edif Blue Towers
+address:      Oficina No. 902-903
+address:      Guayaquil
 address:      Ecuador
-phone:        +5934 2515912
+phone:        +5934 3729560
 fax-no:       +5934 2515434
 e-mail:       garry.donoghue@nic.ec
 
 contact:      technical
 name:         DNS Administrator
 organisation: NIC.EC (NICEC) S.A.
-address:      Av. 9 de Octubre 100
-address:      Piso 22
-address:      Guayaquil Guayas
+address:      Francisco De Orellana No. 234
+address:      Edif Blue Towers
+address:      Oficina No. 902-903
+address:      Guayaquil
 address:      Ecuador
-phone:        +5934 2515355
+phone:        +5934 3729560
 fax-no:       +5934 2515434
 e-mail:       dnsadmin@nic.ec
 
@@ -43,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.ec
 
 created:      1991-02-01
-changed:      2015-06-26
+changed:      2015-11-17
 source:       IANA
 
