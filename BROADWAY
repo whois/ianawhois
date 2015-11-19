@@ -1,0 +1,42 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       BROADWAY
+
+organisation: Celebrate Broadway, Inc.
+address:      729 Seventh Ave, 7th Floor
+address:      New York, NY 10019
+address:      United States
+
+contact:      administrative
+name:         Admin Contact
+organisation: Minds + Machines Ltd
+address:      32 Nassau St, Dublin 2
+address:      Ireland
+phone:        +353.14301689
+e-mail:       support@mm-registry.com
+
+contact:      technical
+name:         Andy Wiens
+organisation: Minds + Machines Ltd
+address:      32 Nassau St, Dublin 2
+address:      Ireland
+phone:        +353.14301689
+e-mail:       support@mm-registry.com
+
+nserver:      A.NS.NIC.BROADWAY 2620:0171:0a02:00ad:0:0:0:31 72.0.50.31
+nserver:      B.NS.NIC.BROADWAY 2620:0171:0d02:00dc:0:0:0:31 72.42.114.31
+nserver:      C.NS.NIC.BROADWAY 2620:0171:0c00:000c:0:0:0:31 70.40.0.31
+nserver:      D.NS.NIC.BROADWAY 2620:0171:0f00:000d:0:0:0:31 70.40.8.31
+ds-rdata:     27964 8 2 CFDAE1404A9FAA51B75BD50683826CF5FCF523366AA858F6D953C238DB7F98C9
+
+whois:        whois-cl01.mm-registry.com
+
+status:       ACTIVE
+remarks:      Registration information: http://mm-registry.com
+
+created:      2015-10-08
+changed:      2015-11-18
+source:       IANA
+
