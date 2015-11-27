@@ -11,9 +11,9 @@ address:      Victoria 3000
 address:      Australia
 
 contact:      administrative
-name:         Mark Delzoppo
+name:         George Pongas
 organisation: ARI Registry Services
-address:      Level 8, 10 Queens Road
+address:      PO Box 33125
 address:      Melbourne
 address:      Victoria
 address:      3004
@@ -23,9 +23,9 @@ fax-no:       +61398661970
 e-mail:       melbourne@ariservices.com
 
 contact:      technical
-name:         Ryan Miller
+name:         Nikora Terrill
 organisation: ARI Registry Services
-address:      Level 8, 10 Queens Road
+address:      PO Box 33125
 address:      Melbourne
 address:      Victoria
 address:      3004
@@ -47,6 +47,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.melbourne/
 
 created:      2014-07-03
-changed:      2015-10-06
+changed:      2015-11-27
 source:       IANA
 
