@@ -5,9 +5,43 @@
 domain:       SFR
 
 organisation: Societe Francaise du Radiotelephone - SFR
+address:      12 Rue Jean-Philippe Rameau
+address:      CS80001
+address:      93634 La Plaine Saint Denis Cedex
+address:      France
 
-status:       NEW
+contact:      administrative
+name:         Frederic Guillemaut
+organisation: SafeBrands
+address:      SafeBrands
+address:      37 Rue Guibal
+address:      Pôle Media
+address:      13003 Marseille Cedex
+address:      France
+phone:        +33488662207
+fax-no:       +33488662220
+e-mail:       tldsfr@safebrands.com
+
+contact:      technical
+name:         Jan Jansen
+organisation: NCC Groups Domaine Services
+address:      2, Rue Leon Laval
+address:      3372 Leudelange
+address:      Luxembourg
+phone:        +3234910880
+fax-no:       +3232900770
+e-mail:       jan@openregistry.com
+
+nserver:      A.NS.NIC.SFR 2a02:2790:1:53:0:0:18:1 89.207.190.25
+nserver:      C.NS.NIC.SFR 54.228.236.26
+nserver:      X.NS.NIC.SFR 195.253.64.4 2a01:5b0:4:0:0:0:0:4
+nserver:      Y.NS.NIC.SFR 195.253.64.7 2a01:5b0:4:0:0:0:0:7
+ds-rdata:     7923 7 1 E348A086A9BC4C214C16FC529E64BBEE506739C4
+ds-rdata:     7923 7 2 E3B4E6B0B3447C29949813283B4308546B1BB895FA1E2A39364F918BE581BF01
+
+status:       ACTIVE
 
 created:      2015-11-12
+changed:      2015-12-01
 source:       IANA
 
