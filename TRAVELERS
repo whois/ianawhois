@@ -1,0 +1,47 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       TRAVELERS
+
+organisation: Travelers TLD, LLC
+address:      One Tower Square
+address:      Hartford CT 06183
+address:      United States
+
+contact:      administrative
+name:         2VP, Enterprise Web and Mobile
+organisation: Travelers TLD, LLC
+address:      One Tower Square
+address:      Hartford CT 06183
+address:      United States
+phone:        +1 860 277 5150
+fax-no:       +1 860 277 5147
+e-mail:       ngtld-travelers@cscglobal.com
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      Building 3, Suite 105 300 Welsh Road
+address:      Horsham, PA 19044
+address:      United States
+phone:        +1 215 706 5700
+fax-no:       +1 215 706 5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.TRAVELERS 2a01:8840:c2:0:0:0:0:9 65.22.200.9
+nserver:      A2.NIC.TRAVELERS 2a01:8840:c5:0:0:0:0:9 65.22.203.9
+nserver:      B0.NIC.TRAVELERS 2a01:8840:c3:0:0:0:0:9 65.22.201.9
+nserver:      C0.NIC.TRAVELERS 2a01:8840:c4:0:0:0:0:9 65.22.202.9
+ds-rdata:     55405 7 1 4de444ab5096a42a5536c5e73d92ae0e4a3925fa
+ds-rdata:     55405 7 2 4597259fc2c930d955185465cb7cce4f7b4258c0797c9f639aa5153a1f848651
+
+whois:        whois.afilias-srs.net
+
+status:       ACTIVE
+remarks:      Registration information: http://www.travelers.com
+
+created:      2015-11-25
+changed:      2015-12-05
+source:       IANA
+
