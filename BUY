@@ -1,0 +1,48 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       BUY
+
+organisation: Amazon Registry Services, INC
+address:      535 Terry Avenue North
+address:      Seattle, WA 98109
+address:      United States
+
+contact:      administrative
+name:         Stacy King
+organisation: Amazon Registry Services, Inc.
+address:      535 Terry Avenue North
+address:      Seattle, WA 98109
+address:      United States
+phone:        +1 206.740.8515
+fax-no:       +1 206.266.1350
+e-mail:       buy-rzm@amazon.com
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      Building 3, Suite 105
+address:      300 Welsh Road
+address:      Horsham, PA 19044
+address:      United States
+phone:        +1 215.706.5700
+fax-no:       +1 215.706.5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.BUY 2a01:8840:32:0:0:0:0:9 65.22.52.9
+nserver:      A2.NIC.BUY 2a01:8840:35:0:0:0:0:9 65.22.55.9
+nserver:      B0.NIC.BUY 2a01:8840:33:0:0:0:0:9 65.22.53.9
+nserver:      C0.NIC.BUY 2a01:8840:34:0:0:0:0:9 65.22.54.9
+ds-rdata:     3718 7 1 c45d8cd6ff03f5b72d168e650631853bab4cccdb
+ds-rdata:     3718 7 2 c79d7a63d38aca5b7d9dcfbb925dd1a443acf326d996b2e563b34f442d2918f5
+
+whois:        whois.afilias-srs.net
+
+status:       ACTIVE
+remarks:      Registration information: http://amazonregistry.com
+
+created:      2015-11-20
+changed:      2015-12-05
+source:       IANA
+
