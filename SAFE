@@ -1,0 +1,44 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       SAFE
+
+organisation: Amazon Registry Services, Inc.
+address:      410 Terry Avenue North, Seattle, WA  98109
+address:      United States
+
+contact:      administrative
+name:         Stacey King
+organisation: Amazon Registry Services, Inc.
+address:      410 Terry Avenue North, Seattle, WA  98109
+address:      United States
+phone:        +1 206 740 8515
+fax-no:       +1 206 946 7702
+e-mail:       safe-rzm@amazon.com
+
+contact:      technical
+name:         Sean Kaine
+organisation: Neustar, Inc.
+address:      46000 Center Oak Plaza, Sterling, VA  20166
+address:      United States
+phone:        +15714345168
+fax-no:       +1571-434-5401
+e-mail:       registrytechnical1@neustar.biz
+
+nserver:      NS1.DNS.NIC.SAFE 156.154.144.147 2610:a1:1071:0:0:0:0:93
+nserver:      NS2.DNS.NIC.SAFE 156.154.145.147 2610:a1:1072:0:0:0:0:93
+nserver:      NS3.DNS.NIC.SAFE 156.154.159.147 2610:a1:1073:0:0:0:0:93
+nserver:      NS4.DNS.NIC.SAFE 156.154.156.147 2610:a1:1074:0:0:0:0:93
+nserver:      NS5.DNS.NIC.SAFE 156.154.157.147 2610:a1:1075:0:0:0:0:93
+nserver:      NS6.DNS.NIC.SAFE 156.154.158.147 2610:a1:1076:0:0:0:0:93
+ds-rdata:     20422 8 1 2C3868D968193A11D62C8CAEAED564F2FF393A74
+ds-rdata:     20422 8 2 0342867DE568FE31ECF05BFA97859F2B2128311AE6DE2E78FB3B5700E579EF6A
+
+status:       ACTIVE
+remarks:      Registration information: http://www.amazonregistry.com
+
+created:      2015-11-12
+changed:      2015-12-05
+source:       IANA
+
