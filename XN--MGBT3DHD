@@ -1,0 +1,53 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       همراه
+domain-ace:   XN--MGBT3DHD
+
+organisation: Asia Green IT System Bilgisayar San. ve Tic. Ltd. Sti.
+address:      Cobancesme Mah. Semt Sanayi Cd.
+address:      Nish Istanbul
+address:      No 44 D 174
+address:      Bahcelievler / Istanbul
+address:      Turkey
+
+contact:      administrative
+name:         Tolga Kaprol
+organisation: Asia Green IT System Bilgisayar San. ve Tic. Ltd. Sti.
+address:      Cobancesme Mah. Semt Sanayi Cd.
+address:      Nish Istanbul
+address:      No 44 D 174
+address:      Bahcelievler / Istanbul
+address:      Turkey
+phone:        +90 212 603 62 03
+fax-no:       +90 212 603 62 04
+e-mail:       registry@agitsys.com
+
+contact:      technical
+name:         Tolga Kaprol
+organisation: Asia Green IT System Bilgisayar San. ve Tic. Ltd. Sti.
+address:      Cobancesme Mah. Semt Sanayi Cd.
+address:      Nish Istanbul
+address:      No 44 D 174
+address:      Bahcelievler / Istanbul
+address:      Turkey
+phone:        +90 212 603 62 03
+fax-no:       +90 212 603 62 04
+e-mail:       registry@agitsys.com
+
+nserver:      A.NS.NIC.XN--MGBT3DHD 2620:0171:0a01:00ad:0:0:0:9 72.0.49.9
+nserver:      A.XN--MGBT3DHD.DYNTLD.NET 199.19.5.20 2001:500:92:0:0:0:0:20
+nserver:      B.NS.NIC.XN--MGBT3DHD 2620:0171:0d01:00dc:0:0:0:9 72.42.113.9
+nserver:      B.XN--MGBT3DHD.DYNTLD.NET 199.19.6.20 2001:500:96:0:0:0:0:20
+ds-rdata:     41365 8 2 72CC53D985FED2695E70BF1AE12A6387089B1E9A33D68F738E11684F73FD372C
+
+whois:        whois.agitsys.net
+
+status:       ACTIVE
+remarks:      Registration information: http://agitsys.com
+
+created:      2015-11-25
+changed:      2015-12-07
+source:       IANA
+
