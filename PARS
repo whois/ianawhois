@@ -1,0 +1,52 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       PARS
+
+organisation: Asia Green IT System Bilgisayar San. ve Tic. Ltd. Sti.
+address:      Cobancesme Mah. Semt Sanayi Cd.
+address:      Nish Istanbul
+address:      No 44 D 174
+address:      Bahcelievler / Istanbul
+address:      Turkey
+
+contact:      administrative
+name:         Tolga Kaprol
+organisation: Asia Green IT System Bilgisayar San. ve Tic. Ltd. Sti.
+address:      Cobancesme Mah. Semt Sanayi Cd.
+address:      Nish Istanbul
+address:      No 44 D 174
+address:      Bahcelievler / Istanbul
+address:      Turkey
+phone:        +90 212 603 62 03 
+fax-no:       +90 212 603 62 04
+e-mail:       registry@agitsys.com
+
+contact:      technical
+name:         Tolga Kaprol
+organisation: Asia Green IT System Bilgisayar San. ve Tic. Ltd. Sti.
+address:      Cobancesme Mah. Semt Sanayi Cd.
+address:      Nish Istanbul
+address:      No 44 D 174
+address:      Bahcelievler / Istanbul
+address:      Turkey
+phone:        +90 212 603 62 03 
+fax-no:       +90 212 603 62 04
+e-mail:       registry@agitsys.com
+
+nserver:      A.NS.NIC.PARS 2620:0171:0a01:00ad:0:0:0:5 72.0.49.5
+nserver:      A.PARS.DYNTLD.NET 199.19.5.15 2001:500:92:0:0:0:0:15
+nserver:      B.NS.NIC.PARS 2620:0171:0d01:00dc:0:0:0:5 72.42.113.5
+nserver:      B.PARS.DYNTLD.NET 199.19.6.15 2001:500:96:0:0:0:0:15
+ds-rdata:     41269 8 2 A5909217D68F160874CC814C040456C1C9004676A01875407737F50C02F3F33B
+
+whois:        whois.agitsys.net
+
+status:       ACTIVE
+remarks:      Registration information: http://agitsys.com
+
+created:      2015-11-25
+changed:      2015-12-07
+source:       IANA
+
