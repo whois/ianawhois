@@ -5,9 +5,40 @@
 domain:       FIRESTONE
 
 organisation: Bridgestone Corporation
+address:      1-1, Kyobashi 3-chome, Chuo-ku, Tokyo, 104-8340
+address:      Japan
 
-status:       NEW
+contact:      administrative
+name:         Chief Operating Officer
+organisation: Brights Consulting Inc.
+address:      30F, Kasumigaseki Bldg., 3-2-5 Kasumigaseki Chiyoda-ku Tokyo 100-6030
+address:      Japan
+phone:        +81.355210107
+fax-no:       +81.355210117
+e-mail:       nakagawa_08@brights.jp
+
+contact:      technical
+name:         Chief Operating Officer
+organisation: Brights Consulting Inc.
+address:      30F, Kasumigaseki Bldg., 3-2-5 Kasumigaseki Chiyoda-ku Tokyo 100-6030
+address:      Japan
+phone:        +81.355210107
+fax-no:       +81.355210117
+e-mail:       nakagawa_08@brights.jp
+
+nserver:      A.NIC.FIRESTONE 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.FIRESTONE 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.FIRESTONE 2001:dcd:3:0:0:0:0:9 37.209.196.9
+nserver:      D.NIC.FIRESTONE 2001:dcd:4:0:0:0:0:9 37.209.198.9
+ds-rdata:     19594 8 1 A1ACCC9BF855FE30C363BDD93A841031286DA03F
+ds-rdata:     19594 8 2 BBC9A40E6BB494044D119FA78FAE63C6D10FDC759104580EA41FB4CBC96B22C7
+
+whois:        whois.nic.firestone
+
+status:       ACTIVE
+remarks:      Registration information: http://www.firestone.com/
 
 created:      2015-10-29
+changed:      2015-12-07
 source:       IANA
 
