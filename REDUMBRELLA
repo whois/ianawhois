@@ -1,0 +1,47 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       REDUMBRELLA
+
+organisation: Travelers TLD, LLC
+address:      One Tower Square
+address:      Hartford CT 06183
+address:      United States
+
+contact:      administrative
+name:         2VP, Enterprise Web and Mobile
+organisation: Travelers TLD, LLC
+address:      One Tower Square
+address:      Hartford CT 06183
+address:      United States
+phone:        +1 860 277 5150
+fax-no:       +1 860 277 5147
+e-mail:       ngtld-travelers@cscglobal.com
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      Building 3, Suite 105 300 Welsh Road
+address:      Horsham, PA 19044
+address:      United States
+phone:        +1 215 706 5700
+fax-no:       +1 215 706 5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.REDUMBRELLA 2a01:8840:c2:0:0:0:0:1 65.22.200.1
+nserver:      A2.NIC.REDUMBRELLA 2a01:8840:c5:0:0:0:0:1 65.22.203.1
+nserver:      B0.NIC.REDUMBRELLA 2a01:8840:c3:0:0:0:0:1 65.22.201.1
+nserver:      C0.NIC.REDUMBRELLA 2a01:8840:c4:0:0:0:0:1 65.22.202.1
+ds-rdata:     29898 7 1 5e4b94324c4aae37080bd1141dff141037bacdd4
+ds-rdata:     29898 7 2 8b3ca8067270b2d8a33da55fe89323ddec801609d18435ec2e22995d13809eda
+
+whois:        whois.afilias-srs.net
+
+status:       ACTIVE
+remarks:      Registration information: http://www.travelers.com
+
+created:      2015-11-20
+changed:      2015-12-11
+source:       IANA
+
