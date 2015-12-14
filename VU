@@ -10,24 +10,24 @@ address:      Port Vila
 address:      Vanuatu
 
 contact:      administrative
-name:         David Larcher
+name:         Thomas LEROY
 organisation: Telecom Vanuatu Ltd.
 address:      Lini Highway
 address:      Port Vila
 address:      Vanuatu
-phone:        +678 7732001
+phone:        +678 7400003
 fax-no:       +678 24319
-e-mail:       david.larcher@tvl.net.vu
+e-mail:       iana@tvl.net.vu
 
 contact:      technical
-name:         TCHIEN Tari
+name:         Tchien TARI
 organisation: Telecom Vanuatu Ltd.
 address:      Lini Highway
 address:      Port Vila
 address:      Vanuatu
-phone:        +678 7744333
+phone:        +678 7400158
 fax-no:       +678 24319
-e-mail:       tari.tchien@tvl.net.vu
+e-mail:       iana@tvl.net.vu
 
 nserver:      CCTLD-VU.ORANGE.MU 196.192.110.15
 nserver:      EFATE.VANUATU.COM.VU 202.80.32.5
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.vunic.vu
 
 created:      1995-04-10
-changed:      2014-12-15
+changed:      2015-12-14
 source:       IANA
 
