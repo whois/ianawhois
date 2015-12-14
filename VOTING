@@ -36,6 +36,8 @@ ds-rdata:     22301 8 1 916f42c6ce97c6cff9d0545167e2203a179667c2
 ds-rdata:     22301 8 2 e505e22bd2dca54354c9ea9b0f09d4972390c9dcc6f342d9438d47f347a03b7d
 ds-rdata:     20851 8 1 d11fcea2cd0a249908552dc274b7e5385596aec9
 ds-rdata:     20851 8 2 cf3979c7e9feac1519e3661f76d5ed7a43dc7d8dc14dbecf0a2dc757f38061ce
+ds-rdata:     21004 8 2 79f63a85da1d5f3d257bfc8113a15608a0bfed288a81d179db1d9a5859d9b66e
+ds-rdata:     21004 8 1 2eeab971a5f6139f60afeb1d96b26857a75968e7
 
 whois:        whois.voting.tld-box.at
 
@@ -43,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.voting
 
 created:      2014-01-16
-changed:      2015-04-30
+changed:      2015-12-14
 source:       IANA
 
