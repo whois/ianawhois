@@ -30,7 +30,7 @@ nserver:      A.GMOREGISTRY.NET 2001:dcd:1:0:0:0:0:4 37.209.192.4
 nserver:      B.GMOREGISTRY.NET 2001:dcd:2:0:0:0:0:4 37.209.194.4
 nserver:      K.GMOREGISTRY.NET 37.209.196.4
 nserver:      L.GMOREGISTRY.NET 2001:dcd:4:0:0:0:0:4 37.209.198.4
-ds-rdata:     30296 8 2 533ABAF82A6D06AE3A32BB658FB6E01EE83D25A6D803BA07882A8B8C2DB96CED
+ds-rdata:     37055 8 2 db6eae870bc25a361e6eeb5c7853721303a193977e197b6ce5c433f49d84b76e
 
 whois:        whois.nic.lotte
 
@@ -38,6 +38,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.lotte
 
 created:      2015-01-08
-changed:      2015-10-14
+changed:      2015-12-15
 source:       IANA
 
