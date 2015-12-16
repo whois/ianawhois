@@ -1,0 +1,45 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       手表
+domain-ace:   XN--KPU716F
+
+organisation: Richemont DNS Inc.
+address:      Hinterbergstrasse 22, Steinhausen, Geneva, CH, 6312
+address:      Switzerland
+
+contact:      administrative
+name:         Richard Graham
+organisation: Valideus Limited
+address:      15 Hill Street, London, W1J 5QT
+address:      United Kingdom
+phone:        00442074217790
+fax-no:       00448700118187
+e-mail:       lorna.gradden.ri@valideus.com
+
+contact:      technical
+name:         Sean Kaine
+organisation: Neustar, Inc.
+address:      46000 Center Oak Plaza, Sterling VA 20166
+address:      United States
+phone:        +1 571-434-5168
+fax-no:       +1 571-434-5401
+e-mail:       registrytechnical1@neustar.biz
+
+nserver:      NS1.DNS.NIC.XN--KPU716F 156.154.144.176 2610:a1:1071:0:0:0:0:b0
+nserver:      NS2.DNS.NIC.XN--KPU716F 156.154.145.176 2610:a1:1072:0:0:0:0:b0
+nserver:      NS3.DNS.NIC.XN--KPU716F 156.154.159.176 2610:a1:1073:0:0:0:0:b0
+nserver:      NS4.DNS.NIC.XN--KPU716F 156.154.156.176 2610:a1:1074:0:0:0:0:b0
+nserver:      NS5.DNS.NIC.XN--KPU716F 156.154.157.176 2610:a1:1075:0:0:0:0:b0
+nserver:      NS6.DNS.NIC.XN--KPU716F 156.154.158.176 2610:a1:1076:0:0:0:0:b0
+ds-rdata:     33556 8 1 64CBC2BB309478642EA3FBF90A97F45B4652133C
+ds-rdata:     33556 8 2 D613593DDA48650F4D99A51A066E2D10C7731975F07C2FF24B67B2EA976BAE06
+
+status:       ACTIVE
+remarks:      Registration information: http://www.richemont.com
+
+created:      2015-11-12
+changed:      2015-12-15
+source:       IANA
+
