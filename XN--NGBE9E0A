@@ -1,0 +1,46 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       بيتك
+domain-ace:   XN--NGBE9E0A
+
+organisation: Kuwait Finance House
+address:      P.O. Box 24989 Safat, 13110
+address:      Kuwait
+
+contact:      administrative
+name:         Majeed Behzadi
+organisation: Kuwait Finance House
+address:      P.O. Box 24989 Safat, 13110
+address:      Kuwait
+phone:        +965.24966400
+fax-no:       +965.24966403
+e-mail:       majeed@kfh.com
+
+contact:      technical
+name:         CTO
+organisation: CentralNic
+address:      35-39 Moorgate
+address:      London EC2R 6AR
+address:      United Kingdom
+phone:        +44.2033880600
+fax-no:       +44.2033880601
+e-mail:       tld.ops@centralnic.com
+
+nserver:      A.NIC.XN--NGBE9E0A 194.169.218.22 2001:67c:13cc:0:0:0:1:22
+nserver:      B.NIC.XN--NGBE9E0A 185.24.64.22 2a04:2b00:13cc:0:0:0:1:22
+nserver:      C.NIC.XN--NGBE9E0A 194.0.2.2 2001:678:5:0:0:0:0:2
+nserver:      D.NIC.XN--NGBE9E0A 194.0.1.45 2001:678:4:0:0:0:0:2d
+ds-rdata:     10552 8 1 C5F1478252DC3D25E585A8D43AD460C0E8F86863
+ds-rdata:     10552 8 2 B4B742442C6B66D321259FCD7608462A75F2A7EA70AF4E42A6CAD0430DD98D51
+
+whois:        whois.centralnic.com
+
+status:       ACTIVE
+remarks:      Registration information: http://kfh.com
+
+created:      2015-10-29
+changed:      2015-12-15
+source:       IANA
+
