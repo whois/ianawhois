@@ -11,26 +11,26 @@ address:      Melbourne, Victoria 3004
 address:      Australia
 
 contact:      administrative
-name:         Yasmin Omer
-organisation: International Domain Registry Pty. Ltd.
-address:      Level 8, 10 Queens Road
+name:         Director, Product Management
+organisation: Neustar
+address:      PO Box 33125
 address:      Melbourne, Victoria 3004
 address:      Australia
 address:      Australia
-phone:        +971 4 453 2761
-fax-no:       +61 3 9866 1970
-e-mail:       generalmanager@dotshabaka.com
+phone:        +61398663710
+fax-no:       +61398661970
+e-mail:       shabaka@ariservices.com
 
 contact:      technical
-name:         General Manager
-organisation: International Domain Registry Pty. Ltd.
-address:      Level 8, 10 Queens Road
+name:         Manager - IT Support
+organisation: Neustar
+address:      PO Box 33125
 address:      Melbourne, Victoria 3004
 address:      Australia
 address:      Australia
-phone:        +971 4 453 2761
+phone:        +61 3 9090 1700
 fax-no:       +61 3 9866 1970
-e-mail:       generalmanager@dotshabaka.com
+e-mail:       gtldsupport@ariservices.com
 
 nserver:      A.NIC.XN--NGBC5AZD 2001:dcd:1:0:0:0:0:3 37.209.192.3
 nserver:      B.NIC.XN--NGBC5AZD 2001:dcd:2:0:0:0:0:3 37.209.194.3
@@ -45,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.dotshabaka.com
 
 created:      2013-10-21
-changed:      2015-09-26
+changed:      2015-12-17
 source:       IANA
 
