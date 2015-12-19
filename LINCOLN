@@ -1,0 +1,45 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       LINCOLN
+
+organisation: Ford Motor Company
+address:      Office Of General Counsel
+address:      330 Town Center Drive, Suite 800, Dearborn MI 48126
+address:      United States
+
+contact:      administrative
+name:         Sue Morgan
+organisation: Ford Motor Company, IT Operations
+address:      One American Road, Dearborn MI 48126
+address:      United States
+phone:        +1-313-322-3000
+fax-no:       1-313-322-7162
+e-mail:       dnsmgr@ford.com
+
+contact:      technical
+name:         Sean Kaine
+organisation: Neustar, Inc.
+address:      46000 Center Oak Plaza, Sterling, VA  20166
+address:      United States
+phone:        +1-571-434-5168
+fax-no:       +1-571-434-5401
+e-mail:       registrytechnical1@neustar.biz
+
+nserver:      NS1.DNS.NIC.LINCOLN 156.154.144.105 2610:a1:1071:0:0:0:0:69
+nserver:      NS2.DNS.NIC.LINCOLN 156.154.145.105 2610:a1:1072:0:0:0:0:69
+nserver:      NS3.DNS.NIC.LINCOLN 156.154.159.105 2610:a1:1073:0:0:0:0:69
+nserver:      NS4.DNS.NIC.LINCOLN 156.154.156.105 2610:a1:1074:0:0:0:0:69
+nserver:      NS5.DNS.NIC.LINCOLN 156.154.157.105 2610:a1:1075:0:0:0:0:69
+nserver:      NS6.DNS.NIC.LINCOLN 156.154.158.105 2610:a1:1076:0:0:0:0:69
+ds-rdata:     35714 8 1 61986863F42AA1C4ACFEC9A21D3855EF85B00846
+ds-rdata:     35714 8 2 C588B9505F51EB82BBB815FB8485ADFE9D1B3F1CE7FA8498D6B2BD558CFB7011
+
+status:       ACTIVE
+remarks:      Registration information: http://www.lincoln.com
+
+created:      2015-12-10
+changed:      2015-12-18
+source:       IANA
+
