@@ -1,0 +1,44 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       JMP
+
+organisation: Matrix IP LLC
+address:      100 Matrix Drive, Cary, NC 27513
+address:      United States
+
+contact:      administrative
+name:         Karen Day
+organisation: SAS Institute Inc.
+address:      SAS Campus Drive, Cary, NC 27513
+address:      United States
+phone:        +19195316016
+fax-no:       +19196774444
+e-mail:       gtldinfo@sas.com
+
+contact:      technical
+name:         Sean Kaine
+organisation: Neustar, Inc.
+address:      46000 Center Oak Plaza, Sterling, VA  20166
+address:      United States
+phone:        +1-571-434-5168
+fax-no:       +1-571-434-5401
+e-mail:       registrytechnical1@neustar.biz
+
+nserver:      NS1.DNS.NIC.JMP 156.154.144.88 2610:a1:1071:0:0:0:0:58
+nserver:      NS2.DNS.NIC.JMP 156.154.145.88 2610:a1:1072:0:0:0:0:58
+nserver:      NS3.DNS.NIC.JMP 156.154.159.88 2610:a1:1073:0:0:0:0:58
+nserver:      NS4.DNS.NIC.JMP 156.154.156.88 2610:a1:1074:0:0:0:0:58
+nserver:      NS5.DNS.NIC.JMP 156.154.157.88 2610:a1:1075:0:0:0:0:58
+nserver:      NS6.DNS.NIC.JMP 156.154.158.88 2610:a1:1076:0:0:0:0:58
+ds-rdata:     3632 8 1 F5E4849A1E9F916E827AE331B3BBB4C1D30D3645
+ds-rdata:     3632 8 2 3038337A5D327A6B84EA99B2AEFE6383E7756E54C38D75BDEC0B26B0473624D6
+
+status:       ACTIVE
+remarks:      Registration information: http://www.jmp.com
+
+created:      2015-11-20
+changed:      2015-12-18
+source:       IANA
+
