@@ -36,7 +36,8 @@ nserver:      NS1.NIC.TR 144.122.95.252
 nserver:      NS2.NIC.TR 144.122.95.253
 nserver:      NS3.NIC.TR 213.248.162.131
 nserver:      NS4.NIC.TR 193.140.100.200
-nserver:      NS5.NIC.TR 178.251.42.18
+nserver:      NS7.NIC.TR 212.156.63.51
+nserver:      NS8.NIC.TR 212.156.64.91
 
 whois:        whois.nic.tr
 
@@ -44,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.tr
 
 created:      1990-09-17
-changed:      2015-12-15
+changed:      2015-12-21
 source:       IANA
 
