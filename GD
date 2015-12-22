@@ -29,6 +29,8 @@ phone:        +49 6894 9396250
 fax-no:       +49 6894 9396251
 e-mail:       support@ksregistry.net
 
+nserver:      A.GD.DYNTLD.NET 162.88.52.2 2600:2000:3000:0:0:0:0:2
+nserver:      B.GD.DYNTLD.NET 162.88.53.2 2600:2000:3001:0:0:0:0:2
 nserver:      GD-NS.ANYCAST.PCH.NET 2001:500:14:6047:ad:0:0:1 204.61.216.47
 nserver:      GD-NS.KSREGISTRY.NET 194.0.11.103 2001:678:e:103:0:0:0:53
 nserver:      GD.CCTLD.AUTHDNS.RIPE.NET 193.0.9.75 2001:67c:e0:0:0:0:0:75
@@ -40,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.gd
 
 created:      1992-06-03
-changed:      2015-01-28
+changed:      2015-12-21
 source:       IANA
 
