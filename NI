@@ -1,0 +1,51 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       NI
+
+organisation: Universidad Nacional del Ingernieria
+organisation: Centro de Computo
+address:      Avenida Universitaria
+address:      Frente a la UCA
+address:      Managua  MR110
+address:      Nicaragua
+
+contact:      administrative
+name:         Director
+organisation: UNI (National University Engineering)
+address:      Avenida Universitaria Frente a la UCA
+address:      Managua
+address:      Rectoria UNI
+address:      Nicaragua
+phone:        505-2278 3142,505-84267499
+fax-no:       505-2278 3141
+e-mail:       nelson.juarez@uni.edu.ni
+
+contact:      technical
+name:         Alfonso Boza
+organisation: Universidad Nacional del Ingernieria
+organisation: Administration NIC.NI
+address:      Avenida Universitaria
+address:      Frente a la UCA
+address:      Managua  MR110
+address:      Nicaragua
+phone:        +505 278 3142
+fax-no:       +505 278 3141
+e-mail:       boza@nic.ni
+
+nserver:      NS.CR 163.178.8.2
+nserver:      NS.IBW.COM.NI 200.85.160.2
+nserver:      NS.IDEAY.NET.NI 200.9.190.130
+nserver:      NS.NI 165.98.1.2
+nserver:      NS.TMX.COM.NI 200.62.64.1
+nserver:      NS.UU.NET 137.39.1.3
+nserver:      NS2.NI 200.9.187.2
+
+status:       ACTIVE
+remarks:      Registration information: http://www.nic.ni
+
+created:      1989-10-13
+changed:      2013-10-14
+source:       IANA
+
