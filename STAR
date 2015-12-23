@@ -1,0 +1,55 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       STAR
+
+organisation: Star India Private Limited
+address:      Star House, Off Dr.E.Moses Road, Mahalaxmi,
+address:      Mumbai
+address:      Maharashtra
+address:      400011
+address:      IN
+address:      India
+
+contact:      administrative
+name:         AVP
+organisation: Star India Private Limited
+address:      Star House, Off Dr.E.Moses Road, Mahalaxmi,
+address:      Mumbai
+address:      Maharashtra
+address:      400011
+address:      IN
+address:      India
+phone:        +912261731498
+fax-no:       +912266305050
+e-mail:       tushar.amin@hotstar.com
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      Building 3, Suite 105
+address:      300 Welsh Road
+address:      Horsham, PA 19044
+address:      United States
+address:      United States
+phone:        +1 215.706.5700
+fax-no:       +1 215.706.5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.STAR 2a01:8840:36:0:0:0:0:9 65.22.56.9
+nserver:      A2.NIC.STAR 2a01:8840:39:0:0:0:0:9 65.22.59.9
+nserver:      B0.NIC.STAR 2a01:8840:37:0:0:0:0:9 65.22.57.9
+nserver:      C0.NIC.STAR 2a01:8840:38:0:0:0:0:9 65.22.58.9
+ds-rdata:     63705 7 1 15a46255a52218b210c6c044799520aeb5955fa4
+ds-rdata:     63705 7 2 8a381553286116582d49543ef63de331232c9ea602f45d879feaadbcf622cfee
+
+whois:        whois.afilias-srs.net
+
+status:       ACTIVE
+remarks:      Registration information: http://www.startv.com
+
+created:      2015-12-10
+changed:      2015-12-22
+source:       IANA
+
