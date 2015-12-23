@@ -1,0 +1,46 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       CONTACT
+
+organisation: Top Level Spectrum, Inc.
+address:      1845 W Mercer Way
+address:      Mercer Island, WA 98040
+address:      United States
+
+contact:      administrative
+name:         Jay Westerdal
+organisation: Top Level Spectrum, Inc.
+address:      1845 W Mercer Way
+address:      United States
+phone:        +1.206-397-8825
+fax-no:       +1.206-238-1232
+e-mail:       contact@topspectrum.com
+
+contact:      technical
+name:         CTO
+organisation: CentralNic
+address:      35-39 Moorgate
+address:      London EC2R 6AR
+address:      United Kingdom
+phone:        +44.2033880600
+fax-no:       +44.2033880601
+e-mail:       tld.ops@centralnic.com
+
+nserver:      A.NIC.CONTACT 194.169.218.40 2001:67c:13cc:0:0:0:1:40
+nserver:      B.NIC.CONTACT 185.24.64.40 2a04:2b00:13cc:0:0:0:1:40
+nserver:      C.NIC.CONTACT 194.0.2.2 2001:678:5:0:0:0:0:2
+nserver:      D.NIC.CONTACT 194.0.1.45 2001:678:4:0:0:0:0:2d
+ds-rdata:     24101 8 1 6D28A3DC27A8C4DA290AA8850821DC49503EAAF4
+ds-rdata:     24101 8 2 2B3995587FD92B555DD6561832FC6ED0F7A21814518376EE9694C1D939914904
+
+whois:        whois.nic.contact
+
+status:       ACTIVE
+remarks:      Registration information: http://www.topspectrum.com/
+
+created:      2015-12-10
+changed:      2015-12-22
+source:       IANA
+
