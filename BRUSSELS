@@ -31,10 +31,10 @@ nserver:      B.NIC.BRUSSELS 194.0.37.1 2001:678:64:0:0:0:0:1
 nserver:      C.NS.DNS.BE 194.0.43.1 2001:678:68:0:0:0:0:1
 nserver:      D.NS.DNS.BE 194.0.44.1 2001:678:6c:0:0:0:0:1
 nserver:      W.NIC.BRUSSELS 194.0.25.14 2001:678:20:0:0:0:0:14
-ds-rdata:     38009 8 1 df43e8e1869226e3b9a1fae1bf82c1f635e40b4c
-ds-rdata:     38009 8 2 674ea7bf17cfe3ad7b4676a8ceedfc4581e22b4291eb0e9ffa4ca200d3e034d1
 ds-rdata:     41317 8 1 219383b594756f8ec625e6fcc91be75f0b967cbb
 ds-rdata:     41317 8 2 aae43cd8b8e0015d2bf454796bf13d3870515cb45de1e725de6120c620bae5b1
+ds-rdata:     56467 8 1 0eab7473e857a9f2bcd4e39ad153fd6af0a69fe1
+ds-rdata:     56467 8 2 add9c67aa05b61e3054a8f8f71ab14988a4144489eb19f1a6b2fa33e5b9f16db
 
 whois:        whois.nic.brussels
 
@@ -42,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.brussels
 
 created:      2014-06-05
-changed:      2014-07-26
+changed:      2015-12-24
 source:       IANA
 
