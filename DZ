@@ -34,6 +34,8 @@ nserver:      NS-DZ.AFRINIC.NET 196.216.168.36 2001:43f8:120:0:0:0:0:36
 nserver:      NS1.NIC.DZ 193.194.64.242 2001:4340:1030:2:0:0:0:2
 nserver:      NS2.NIC.DZ 213.179.160.66
 nserver:      NS3.NIC.FR 192.134.0.49 2001:660:3006:1:0:0:1:1
+nserver:      NS4.NIC.DZ 2001:500:14:6103:ad:0:0:1 204.61.216.103
+nserver:      NS5.NIC.DZ 193.0.9.71 2001:67c:e0:0:0:0:0:71
 
 whois:        whois.nic.dz
 
@@ -41,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.dz
 
 created:      1994-01-03
-changed:      2013-08-08
+changed:      2015-12-24
 source:       IANA
 
