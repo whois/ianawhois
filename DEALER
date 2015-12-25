@@ -1,0 +1,44 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       DEALER
+
+organisation: Dealer Dot Com, Inc.
+address:      1 Howard St., Burlington, VT 05401
+address:      United States
+
+contact:      administrative
+name:         Karl Polifka-Rivas
+organisation: Dealer Dot Com, Inc
+address:      1 Howard St., Burlington, VT 05401
+address:      United States
+phone:        +1-802-540-7379
+fax-no:       +1-802-658-0926
+e-mail:       dotdealerregistry@dealer.com
+
+contact:      technical
+name:         Sean Kaine
+organisation: Neustar, Inc.
+address:      46000 Center Oak Plaza, Sterling, VA  20166
+address:      United States
+phone:        +1-571-434-5168
+fax-no:       +1-571-434-5401
+e-mail:       registrytechnical1@neustar.biz
+
+nserver:      NS1.DNS.NIC.DEALER 156.154.144.223 2610:a1:1071:0:0:0:0:df
+nserver:      NS2.DNS.NIC.DEALER 156.154.145.223 2610:a1:1072:0:0:0:0:df
+nserver:      NS3.DNS.NIC.DEALER 156.154.159.223 2610:a1:1073:0:0:0:0:df
+nserver:      NS4.DNS.NIC.DEALER 156.154.156.223 2610:a1:1074:0:0:0:0:df
+nserver:      NS5.DNS.NIC.DEALER 156.154.157.223 2610:a1:1075:0:0:0:0:df
+nserver:      NS6.DNS.NIC.DEALER 156.154.158.223 2610:a1:1076:0:0:0:0:df
+ds-rdata:     46391 8 1 23AF0F956ACE3233046775E31617378B08BD6575
+ds-rdata:     46391 8 2 7D3C3132C9B69189301D4D639F701EA7CB5D2A453609698D7FAB8112CBB4A474
+
+status:       ACTIVE
+remarks:      Registration information: http://www.dealer.com
+
+created:      2015-11-25
+changed:      2015-12-24
+source:       IANA
+
