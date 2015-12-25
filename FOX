@@ -1,0 +1,44 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       FOX
+
+organisation: FOX Registry, LLC
+address:      1211 Avenue of the Americas, New York, New York 10036
+address:      United States
+
+contact:      administrative
+name:         Cecilia Smith
+organisation: Fox Group Legal, Intellectual Property
+address:      2121 Avenue of the Stars, Suite 700, Los Angeles CA 90067
+address:      United States
+phone:        +1 310 369 0457
+fax-no:       +1 310 369 3177
+e-mail:       primary_fox@valideus.com
+
+contact:      technical
+name:         Sean Kaine
+organisation: Neustar, Inc.
+address:      46000 Center Oak Plaza, Sterling VA 20166
+address:      United States
+phone:        +1 571 434-5168
+fax-no:       +1 571 434-5401
+e-mail:       registrytechnical1@neustar.biz
+
+nserver:      NS1.DNS.NIC.FOX 156.154.144.63 2610:a1:1071:0:0:0:0:3f
+nserver:      NS2.DNS.NIC.FOX 156.154.145.63 2610:a1:1072:0:0:0:0:3f
+nserver:      NS3.DNS.NIC.FOX 156.154.159.63 2610:a1:1073:0:0:0:0:3f
+nserver:      NS4.DNS.NIC.FOX 156.154.156.63 2610:a1:1074:0:0:0:0:3f
+nserver:      NS5.DNS.NIC.FOX 156.154.157.63 2610:a1:1075:0:0:0:0:3f
+nserver:      NS6.DNS.NIC.FOX 156.154.158.63 2610:a1:1076:0:0:0:0:3f
+ds-rdata:     61619 8 1 292AA5646B3CDCA9E0427AC0752997BAFB8FCE6A
+ds-rdata:     61619 8 2 5D74B180F41D3F4B9A296C0838723744FE687F8F8BE2A9891784149C2655B767
+
+status:       ACTIVE
+remarks:      Registration information: http://www.fox.com
+
+created:      2015-11-20
+changed:      2015-12-24
+source:       IANA
+
