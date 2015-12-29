@@ -5,28 +5,28 @@
 domain:       OM
 
 organisation: Telecommunications Regulatory Authority (TRA)
-address:      P.O. Box 579, P.C 112, Ruwi
+address:      P.O. Box 3555, P.C 111, Seeb
 address:      Muscat
 address:      Oman
 
 contact:      administrative
-name:         Domain Name Manager
+name:         Domain Name Exective Manager
 organisation: Telecommunications Regulatory Authority (TRA)
-address:      P.O. Box 579, P.C 112, Ruwi
+address:      P.O. Box 3555, P.C 111, Seeb
 address:      Muscat
 address:      Oman
-phone:        +96824574357
-fax-no:       +96824563640
+phone:        +968 24222082
+fax-no:       +968 24222081
 e-mail:       dnsmanager@tra.gov.om
 
 contact:      technical
-name:         Domain Name Technical Head
+name:         Domain Name Manager
 organisation: Telecommunications Regulatory Authority (TRA)
-address:      P.O. Box 579, P.C 112, Ruwi
+address:      P.O. Box 3555, P.C 111, Ruwi
 address:      Muscat
 address:      Oman
-phone:        +96824574358
-fax-no:       +96824563640
+phone:        +968 24222086
+fax-no:       +968 24222081
 e-mail:       dnsadmin@tra.gov.om
 
 nserver:      CCTLD.ALPHA.ARIDNS.NET.AU 2001:dcd:1:0:0:0:0:6 37.209.192.6
@@ -43,6 +43,6 @@ remarks:      Registration information:
 remarks:      http://www.registry.om/om/en/?page_id=197
 
 created:      1996-04-11
-changed:      2013-12-27
+changed:      2015-12-29
 source:       IANA
 
