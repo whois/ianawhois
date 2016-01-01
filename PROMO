@@ -5,9 +5,48 @@
 domain:       PROMO
 
 organisation: Afilias plc
+address:      4th Floor, International House
+address:      3 Harbourmaster Place
+address:      IFSC
+address:      Dublin 1
+address:      Ireland
 
-status:       NEW
+contact:      administrative
+name:         Senior Vice President
+organisation: Afilias
+address:      Building 3, Suite 105
+address:      300 Welsh Road
+address:      Horsham, PA 19044
+address:      United States
+phone:        +1 215.706.5700
+fax-no:       +1 215.706.5701
+e-mail:       tld-admin-poc@afilias.info
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      Building 3, Suite 105
+address:      300 Welsh Road
+address:      Horsham, PA 19044
+address:      United States
+phone:        +1 215.706.5700
+fax-no:       +1 215.706.5701
+e-mail:       tld-admin-poc@afilias.info
+
+nserver:      A0.NIC.PROMO 2a01:8840:ee:0:0:0:0:9 65.22.244.9
+nserver:      A2.NIC.PROMO 2a01:8840:f1:0:0:0:0:9 65.22.247.9
+nserver:      B0.NIC.PROMO 2a01:8840:ef:0:0:0:0:9 65.22.245.9
+nserver:      C0.NIC.PROMO 2a01:8840:f0:0:0:0:0:9 65.22.246.9
+ds-rdata:     5128 7 1 e1d76869def1939a76cffd67466261f93441f2b1
+ds-rdata:     5128 7 2 13e88f46a7e0bf4b9ad1da027a83da53d745c845430a55de3025f7c9b4bdaa08
+
+whois:        whois.afilias.net
+
+status:       ACTIVE
+remarks:      Registration information:
+remarks:      http://www.afilias.info/contact-us
 
 created:      2015-12-18
+changed:      2016-01-01
 source:       IANA
 
