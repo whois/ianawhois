@@ -1,0 +1,46 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       BAIDU
+
+organisation: Baidu, Inc.
+address:      Baidu Campus, No.10 Shangdi 10th Street Haidian DistrictBeijing
+address:      Beijing
+address:      China
+
+contact:      administrative
+name:         Zhang Weiling
+organisation: Baidu, Inc.
+address:      Baidu Campus, No.10 Shangdi 10th Street Haidian DistrictBeijing
+address:      Beijing
+address:      China
+phone:        +86 185 1023 7020
+fax-no:       +86 10 5992 0062
+e-mail:       zhangweiling01@baidu.com
+
+contact:      technical
+name:         ZhangLi
+organisation: China Internet Network Information Center(CNNIC)
+address:      4 South 4th, Zhongguancun, Haidian District, Beijing, China
+address:      China
+phone:        +86.138 1063 5572
+fax-no:       +86.10 5881 2666
+e-mail:       zhangli@cnnic.cn
+
+nserver:      TA.NGTLD.CN 2001:dc7:ffd1:0:0:0:0:1 42.83.130.1
+nserver:      TB.NGTLD.CN 2001:dc7:ffd2:0:0:0:0:1 42.83.131.1
+nserver:      TC.NGTLD.CN 2001:dc7:ffd3:0:0:0:0:1 42.83.132.1
+nserver:      TD.NGTLD.CN 42.83.133.1
+nserver:      TE.NGTLD.CN 42.83.134.1
+ds-rdata:     2506 8 2 171DBFA579FBD8E46EB3F93CE964705EF52AFEE5472DED83A5361BC9AC662229
+
+whois:        whois.ngtld.cn
+
+status:       ACTIVE
+remarks:      Registration information: http://www.cnnic.cn
+
+created:      2015-12-17
+changed:      2016-01-05
+source:       IANA
+
