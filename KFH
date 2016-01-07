@@ -29,17 +29,17 @@ e-mail:       tld.ops@centralnic.com
 
 nserver:      A.NIC.KFH 194.169.218.43 2001:67c:13cc:0:0:0:1:43
 nserver:      B.NIC.KFH 185.24.64.43 2a04:2b00:13cc:0:0:0:1:43
-nserver:      C.NIC.KFH 194.0.2.2 2001:678:5:0:0:0:0:2
-nserver:      D.NIC.KFH 194.0.1.45 2001:678:4:0:0:0:0:2d
+nserver:      C.NIC.KFH 212.18.248.43 2a04:2b00:13ee:0:0:0:0:43
+nserver:      D.NIC.KFH 212.18.249.43 2a04:2b00:13ff:0:0:0:0:43
 ds-rdata:     47020 8 1 2FF9A7948808D902D399E6119E3734C64078BA79
 ds-rdata:     47020 8 2 602EE5EB852A6581E8CBDABE8D6685A881CC2783B4DE8D8947393231243B80B2
 
-whois:        whois.centralnic.com
+whois:        whois.nic.kfh
 
 status:       ACTIVE
 remarks:      Registration information: http://kfh.com
 
 created:      2015-10-29
-changed:      2015-12-15
+changed:      2016-01-07
 source:       IANA
 
