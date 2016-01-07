@@ -12,7 +12,7 @@ address:      United Kingdom
 
 contact:      administrative
 name:         CTO
-organisation: Centralnic
+organisation: CentralNic
 address:      35-39 Moorgate
 address:      London
 address:      EC2R 6AR
@@ -23,7 +23,7 @@ e-mail:       tld.ops@centralnic.com
 
 contact:      technical
 name:         CTO
-organisation: Centralnic
+organisation: CentralNic
 address:      35-39 Moorgate
 address:      London
 address:      EC2R 6AR
@@ -45,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://dottickets.org/
 
 created:      2015-03-19
-changed:      2015-10-21
+changed:      2016-01-06
 source:       IANA
 
