@@ -6,13 +6,13 @@ domain:       TAIPEI
 
 organisation: Taipei City Government
 address:      No.1, City Hall Rd., Xinyi District, Taipei City 11008
-address:      Taiwan, Province Of China
+address:      Taiwan
 
 contact:      administrative
 name:         Hao-Ming Mai
 organisation: Taipei City Government
 address:      No.1, City Hall Rd., Xinyi District, Taipei City 11008
-address:      Taiwan, Province Of China
+address:      Taiwan
 phone:        886 2 2720 8889
 fax-no:       886 2 2758 7394
 e-mail:       ic-mai@mail.taipei.gov.tw
@@ -42,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nictaipei.net
 
 created:      2014-09-25
-changed:      2014-10-23
+changed:      2016-01-06
 source:       IANA
 
