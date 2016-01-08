@@ -31,8 +31,8 @@ e-mail:       tld.ops@centralnic.com
 
 nserver:      A.NIC.PID 194.169.218.47 2001:67c:13cc:0:0:0:1:47
 nserver:      B.NIC.PID 185.24.64.47 2a04:2b00:13cc:0:0:0:1:47
-nserver:      C.NIC.PID 194.0.2.2 2001:678:5:0:0:0:0:2
-nserver:      D.NIC.PID 194.0.1.45 2001:678:4:0:0:0:0:2d
+nserver:      C.NIC.PID 212.18.248.47 2a04:2b00:13ee:0:0:0:0:47
+nserver:      D.NIC.PID 212.18.249.47 2a04:2b00:13ff:0:0:0:0:47
 ds-rdata:     35396 8 1 98D8EE64F4FDDB4E66D54D07CC0BD7D1A6CE08E0
 ds-rdata:     35396 8 2 E8653B5C02C27CC66FD56D529656C23DA9DC0231F060D527E231659F9EF27964
 
@@ -42,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.topspectrum.com/
 
 created:      2015-12-10
-changed:      2015-12-22
+changed:      2016-01-08
 source:       IANA
 
