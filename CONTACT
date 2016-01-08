@@ -30,8 +30,8 @@ e-mail:       tld.ops@centralnic.com
 
 nserver:      A.NIC.CONTACT 194.169.218.40 2001:67c:13cc:0:0:0:1:40
 nserver:      B.NIC.CONTACT 185.24.64.40 2a04:2b00:13cc:0:0:0:1:40
-nserver:      C.NIC.CONTACT 194.0.2.2 2001:678:5:0:0:0:0:2
-nserver:      D.NIC.CONTACT 194.0.1.45 2001:678:4:0:0:0:0:2d
+nserver:      C.NIC.CONTACT 212.18.248.40 2a04:2b00:13ee:0:0:0:0:40
+nserver:      D.NIC.CONTACT 212.18.249.40 2a04:2b00:13ff:0:0:0:0:40
 ds-rdata:     24101 8 1 6D28A3DC27A8C4DA290AA8850821DC49503EAAF4
 ds-rdata:     24101 8 2 2B3995587FD92B555DD6561832FC6ED0F7A21814518376EE9694C1D939914904
 
@@ -41,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.topspectrum.com/
 
 created:      2015-12-10
-changed:      2015-12-22
+changed:      2016-01-08
 source:       IANA
 
