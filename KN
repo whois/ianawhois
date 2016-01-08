@@ -34,6 +34,8 @@ nserver:      A.DNS.TW 2001:cd8:800:0:0:0:0:8 203.73.24.8
 nserver:      B.DNS.TW 210.201.138.58 2404:0:10a0:0:0:0:0:58
 nserver:      C.DNS.TW 2001:b020:0:77:0:0:0:1 61.220.48.1
 
+whois:        whois.nic.kn
+
 status:       ACTIVE
 
 created:      1991-09-03
