@@ -5,7 +5,7 @@
 domain:       GP
 
 organisation: Networking Technologies Group
-address:      Rue de la Chapelle 38
+address:      Rue de la Chapelle 232
 address:      Z.I. de Jarry
 address:      Baie-Mahault  97122
 address:      Guadeloupe
@@ -17,7 +17,8 @@ address:      232 rue de la Chapelle
 address:      ZI Jarry
 address:      Baie-Mahault  97122
 address:      Guadeloupe
-phone:        +590690830580
+phone:        +590590803140
+fax-no:       +590590814261
 e-mail:       patrick.raimond@ntgroup.gp
 
 contact:      technical
@@ -38,6 +39,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.gp/
 
 created:      1996-10-21
-changed:      2011-11-14
+changed:      2016-01-11
 source:       IANA
 
