@@ -1,0 +1,44 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       WEATHER
+
+organisation: The Weather Channel, LLC
+address:      300 Interstate North, Atlanta, Georgia  30339
+address:      United States
+
+contact:      administrative
+name:         Sheri Bachstein
+organisation: The Weather Channel, LLC
+address:      300 Interstate North, Atlanta, Georgia  30339
+address:      United States
+phone:        +1-770-226-2487
+fax-no:       +1-770-226-2632
+e-mail:       weathergtld@weather.com
+
+contact:      technical
+name:         Sean Kaine
+organisation: Neustar, Inc.
+address:      46000 Center Oak Plaza, Sterling, VA  20166
+address:      United States
+phone:        +1-571-434-5168
+fax-no:       +1-571-434-5401
+e-mail:       registrytechnical1@neustar.biz
+
+nserver:      NS1.DNS.NIC.WEATHER 156.154.144.178 2610:a1:1071:0:0:0:0:b2
+nserver:      NS2.DNS.NIC.WEATHER 156.154.145.178 2610:a1:1072:0:0:0:0:b2
+nserver:      NS3.DNS.NIC.WEATHER 156.154.159.178 2610:a1:1073:0:0:0:0:b2
+nserver:      NS4.DNS.NIC.WEATHER 156.154.156.178 2610:a1:1074:0:0:0:0:b2
+nserver:      NS5.DNS.NIC.WEATHER 156.154.157.178 2610:a1:1075:0:0:0:0:b2
+nserver:      NS6.DNS.NIC.WEATHER 156.154.158.178 2610:a1:1076:0:0:0:0:b2
+ds-rdata:     15154 8 1 F9DF8A49FDD0D6456282EAA638312068456D4D5A
+ds-rdata:     15154 8 2 6A003999FE90F0FFB3E91AB6AFDBEC9192F047E7EC38BD73BAA82F7025AAD036
+
+status:       ACTIVE
+remarks:      Registration information: http://www.weather.com
+
+created:      2015-12-23
+changed:      2016-01-12
+source:       IANA
+
