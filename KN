@@ -30,9 +30,6 @@ phone:        +886 2 2341 1313 ext. 500
 fax-no:       +886 2 2396 8832
 e-mail:       snw@twnic.net.tw
 
-nserver:      A.DNS.TW 2001:cd8:800:0:0:0:0:8 203.73.24.8
-nserver:      B.DNS.TW 210.201.138.58 2404:0:10a0:0:0:0:0:58
-nserver:      C.DNS.TW 2001:b020:0:77:0:0:0:1 61.220.48.1
 nserver:      DYNTLD-1.NIC.KN 162.88.52.5 2600:2000:3000:0:0:0:0:5
 nserver:      DYNTLD-2.NIC.KN 162.88.53.5 2600:2000:3001:0:0:0:0:5
 nserver:      PCH.NIC.KN 2001:500:14:6109:ad:0:0:1 204.61.216.109
@@ -42,6 +39,6 @@ whois:        whois.nic.kn
 status:       ACTIVE
 
 created:      1991-09-03
-changed:      2016-01-08
+changed:      2016-01-15
 source:       IANA
 
