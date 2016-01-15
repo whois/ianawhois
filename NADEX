@@ -39,10 +39,6 @@ nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
 nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
 nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
 nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
-nserver:      F5.NSTLD.COM 192.35.51.34 2001:503:d414:0:0:0:2:34
-nserver:      G5.NSTLD.COM 192.42.93.34
-nserver:      H5.NSTLD.COM 192.54.112.34 2001:502:08cc:0:0:0:2:34
-nserver:      L5.NSTLD.COM 192.41.162.34
 ds-rdata:     26799 8 2 01C584FED98F0761D4613FF4E0E254E2E9E33E2B9CFA58F5C493FEC5EF3C3BE0
 
 whois:        whois.nic.nadex
@@ -51,6 +47,6 @@ status:       ACTIVE
 remarks:      Registration information: http://bostonivy.co
 
 created:      2015-04-02
-changed:      2015-12-18
+changed:      2016-01-15
 source:       IANA
 
