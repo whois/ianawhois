@@ -1,0 +1,45 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       SOFTBANK
+
+organisation: SoftBank Group Corp.
+address:      1-9-1 Higashi-shimbashi, Minato-ku,
+address:      Tokyo 105-7303
+address:      Japan
+
+contact:      administrative
+name:         Mitsuaki Nakagawa
+organisation: Brights Consulting Inc.
+address:      30F, Kasumigaseki Bldg., 3-2-5 Kasumigaseki Chiyoda-ku Tokyo 100-6030
+address:      Japan
+phone:        +81.355210107
+fax-no:       +81.355210117
+e-mail:       nakagawa_01@brights.jp
+
+contact:      technical
+name:         Mitsuaki Nakagawa
+organisation: Brights Consulting Inc.
+address:      30F, Kasumigaseki Bldg., 3-2-5 Kasumigaseki Chiyoda-ku Tokyo 100-6030
+address:      Japan
+phone:        +81.355210107
+fax-no:       +81.355210117
+e-mail:       nakagawa_01@brights.jp
+
+nserver:      A.NIC.SOFTBANK 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.SOFTBANK 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.SOFTBANK 2001:dcd:3:0:0:0:0:9 37.209.196.9
+nserver:      D.NIC.SOFTBANK 2001:dcd:4:0:0:0:0:9 37.209.198.9
+ds-rdata:     1222 8 1 96E3ED463E3164E1D5CF6FCF1E0148885CDD8F75
+ds-rdata:     1222 8 2 DD208E9B8699DCC187480972087D0DDF3A90641CCC07920E7D9742C3EABCABB1
+
+whois:        whois.nic.softbank
+
+status:       ACTIVE
+remarks:      Registration information: http://softbank.com/
+
+created:      2015-12-23
+changed:      2016-01-16
+source:       IANA
+
