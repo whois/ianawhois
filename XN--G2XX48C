@@ -6,9 +6,42 @@ domain:       购物
 domain-ace:   XN--G2XX48C
 
 organisation: Minds + Machines Group Limited
+address:      Craigmuir Chambers, Road Town, Tortola, VG 1110
+address:      British Virgin Islands
 
-status:       NEW
+contact:      administrative
+name:         Reg Levy
+organisation: Minds + Machines
+address:      10866 Washington Blvd
+address:      #84
+address:      Culver City CA 90232
+address:      United States
+phone:        +1-310-730-4104
+fax-no:       +1-310-455-6137
+e-mail:       reg@mindsandmachines.com
+
+contact:      technical
+name:         Sean Kaine
+organisation: Neustar, Inc.
+address:      46000 Center Oak Plaza, Sterling, VA  20166
+address:      United States
+phone:        +1-571-434-5168
+fax-no:       +1-571-434-5401
+e-mail:       registrytechnical1@neustar.biz
+
+nserver:      NS1.DNS.NIC.XN--G2XX48C 156.154.169.68 2610:a1:1071:0:0:0:1:44
+nserver:      NS2.DNS.NIC.XN--G2XX48C 156.154.170.68 2610:a1:1072:0:0:0:1:44
+nserver:      NS3.DNS.NIC.XN--G2XX48C 156.154.171.68 2610:a1:1073:0:0:0:1:44
+nserver:      NS4.DNS.NIC.XN--G2XX48C 156.154.172.68 2610:a1:1074:0:0:0:1:44
+nserver:      NS5.DNS.NIC.XN--G2XX48C 156.154.173.68 2610:a1:1075:0:0:0:1:44
+nserver:      NS6.DNS.NIC.XN--G2XX48C 156.154.174.68 2610:a1:1076:0:0:0:1:44
+ds-rdata:     15431 8 1 E834E2A8B59D4C0C1F7E7D514B10B4467D00BBBF
+ds-rdata:     15431 8 2 9AC660EBB53A80A9738C8DB16BE979BD84D01016818E96527B7662127C66518B
+
+status:       ACTIVE
+remarks:      Registration information: http://mm-registry.com
 
 created:      2016-01-08
+changed:      2016-01-19
 source:       IANA
 
