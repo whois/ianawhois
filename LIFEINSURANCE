@@ -5,9 +5,40 @@
 domain:       LIFEINSURANCE
 
 organisation: American Council of Life Insurers
+address:      101 Constitution Avenue NW, Washington, DC 20001
+address:      United States
 
-status:       NEW
+contact:      administrative
+name:         David Leifer
+organisation: American Council of Life Insurers (ACLI)
+address:      101 Constitution Avenue NW, Washington, DC 20001
+address:      United States
+phone:        (+1) 202-624-2128
+fax-no:       (+1) 866-953-4096
+e-mail:       webadmin@acli.com
+
+contact:      technical
+name:         Sean Kaine
+organisation: Neustar, Inc.
+address:      46000 Center Oak Plaza, Sterling VA 20166
+address:      United States
+phone:        (+1) 571-434-5168
+fax-no:       (+1) 571-434-5401
+e-mail:       registrytechnical1@neustar.biz
+
+nserver:      NS1.DNS.NIC.LIFEINSURANCE 156.154.144.102 2610:a1:1071:0:0:0:0:66
+nserver:      NS2.DNS.NIC.LIFEINSURANCE 156.154.145.102 2610:a1:1072:0:0:0:0:66
+nserver:      NS3.DNS.NIC.LIFEINSURANCE 156.154.159.102 2610:a1:1073:0:0:0:0:66
+nserver:      NS4.DNS.NIC.LIFEINSURANCE 156.154.156.102 2610:a1:1074:0:0:0:0:66
+nserver:      NS5.DNS.NIC.LIFEINSURANCE 156.154.157.102 2610:a1:1075:0:0:0:0:66
+nserver:      NS6.DNS.NIC.LIFEINSURANCE 156.154.158.102 2610:a1:1076:0:0:0:0:66
+ds-rdata:     39767 8 1 69ADB6ED8D26F2EF9550299BABFB6B6E19D7FBB9
+ds-rdata:     39767 8 2 DE1E74C9A75FF4D596493EBB9E9CEA0DC273F6CDB9EA61970EA5D20EB93398A9
+
+status:       ACTIVE
+remarks:      Registration information: http://acli.com
 
 created:      2015-07-09
+changed:      2016-01-20
 source:       IANA
 
