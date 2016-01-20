@@ -15,9 +15,9 @@ organisation: DoD Network Information Center
 address:      3990 East Broad Street
 address:      Columbus Ohio 43213
 address:      United States
-phone:        (800)365-3642
+phone:        (614)692-6640
 fax-no:       (614)692-3452
-e-mail:       disa.columbus.ns.mbx.nic-networks@mail.mil
+e-mail:       disa.columbus.ns.mbx.hostmaster-dod-nic@mail.mil
 
 contact:      technical
 name:         DoD NIC Registry Services
@@ -25,9 +25,9 @@ organisation: DoD Network Information Center
 address:      3990 East Broad Street
 address:      Columbus Ohio 43213
 address:      United States
-phone:        (800)365-3642
+phone:        (614)692-6640
 fax-no:       (614)692-3452
-e-mail:       disa.columbus.ns.mbx.nic-networks@mail.mil
+e-mail:       disa.columbus.ns.mbx.hostmaster-dod-nic@mail.mil
 
 nserver:      CON1.NIPR.MIL 199.252.157.234
 nserver:      CON2.NIPR.MIL 199.252.162.234
@@ -41,6 +41,6 @@ ds-rdata:     26905 8 1 816DDCF4ACBF3058C96F29EAEBCF1A655BD807F1
 status:       ACTIVE
 
 created:      1985-01-01
-changed:      2015-10-08
+changed:      2016-01-20
 source:       IANA
 
