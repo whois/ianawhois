@@ -5,13 +5,13 @@
 domain:       HAMBURG
 
 organisation: Hamburg Top-Level-Domain GmbH
-address:      Gertigstrasse 28, Hamburg, 22303
+address:      Neuer Wall 10, Hamburg, 20354
 address:      Germany
 
 contact:      administrative
 name:         Oliver Joachim Sueme
 organisation: Hamburg Top-Level-Domain GmbH
-address:      Gertigstrasse 28, Hamburg, 22303
+address:      Neuer Wall 10, Hamburg, 20354
 address:      Germany
 phone:        +49 40 27806736
 fax-no:       +49 40 380 89 810
@@ -39,9 +39,9 @@ ds-rdata:     32630 8 2 f836a55bec1b4a853bf9d80cd5c5c2e40313659aa8bfae43f55dddc9
 whois:        whois.nic.hamburg
 
 status:       ACTIVE
-remarks:      Registration information: http://www.dothamburg.de
+remarks:      Registration information: http://www.nic.hamburg
 
 created:      2014-05-22
-changed:      2015-12-14
+changed:      2016-01-20
 source:       IANA
 
