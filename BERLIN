@@ -29,8 +29,6 @@ e-mail:       iana@tld-box.at
 nserver:      A.DNS.NIC.BERLIN 194.0.25.16 2001:678:20:0:0:0:0:16
 nserver:      M.DNS.NIC.BERLIN 194.0.26.5 2001:67c:10e0:0:0:0:0:5
 nserver:      N.DNS.NIC.BERLIN 194.0.24.5 2001:678:24:0:0:0:0:5
-ds-rdata:     15259 8 1 77f489bd4ea570df28ea5ae752798aacc900c547
-ds-rdata:     15259 8 2 d7b794c41e4f2ffb19b22e307b7d5314c8665a0c77464a471305ac32fc0bdaf3
 ds-rdata:     10394 8 1 41b409894cd48ebbd0877427d5320c92ed2879dd
 ds-rdata:     10394 8 2 b0d792359cb13ab1093cfa9d3754ec6933cae2b2335a257017bdf63bcb682564
 ds-rdata:     6355 8 2 e5bd36bd2dc5b17ccde7f2bfd0fa24c6e50cda7dce3eec157d71fdbd7e82212c
@@ -42,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.berlin/
 
 created:      2013-12-19
-changed:      2015-12-14
+changed:      2016-01-21
 source:       IANA
 
