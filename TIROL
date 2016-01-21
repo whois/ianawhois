@@ -32,8 +32,6 @@ e-mail:       iana@tld-box.at
 nserver:      A.DNS.NIC.TIROL 194.0.25.20 2001:678:20:0:0:0:0:20
 nserver:      M.DNS.NIC.TIROL 194.0.26.9 2001:67c:10e0:0:0:0:0:9
 nserver:      N.DNS.NIC.TIROL 194.0.24.9 2001:678:24:0:0:0:0:9
-ds-rdata:     37546 8 1 a356aaea2e5ccfc3401436acf39a44259d5f6629
-ds-rdata:     37546 8 2 9736e99cee27eccedae0caf14edf07f16f90168a10502d486608040c018b5d2b
 ds-rdata:     33037 8 1 7979cb9d20d985a0f58221983270cd1e11476c54
 ds-rdata:     33037 8 2 d32782f6aab1a16f3842fb31c7877ef7acbe713dda74abd1dcaabb9368e451d4
 ds-rdata:     16684 8 2 f0018c3bb2a1472c2576908e844dd47f8647027cfa44bddcbc287559e1157b9d
@@ -45,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.tirol
 
 created:      2014-05-29
-changed:      2015-12-14
+changed:      2016-01-21
 source:       IANA
 
