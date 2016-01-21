@@ -1,0 +1,44 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       TMALL
+
+organisation: Alibaba Group Holding Limited
+address:      Fourth Floor, One Capital Place, P.O Box 847, George Town, Grand Cayman, KY1-1103  KY
+address:      Grand Cayman
+
+contact:      administrative
+name:         Timothy Alexander Steinert
+organisation: Alibaba Group Holding Limited
+address:      Fourth Floor, One Capital Place, P.O Box 847, George Town, Grand Cayman, KY1-1103  KY
+address:      Grand Cayman
+phone:        +852-22155100
+fax-no:       +852-2215-5200
+e-mail:       newgtld@hk.alibaba-inc.com
+
+contact:      technical
+name:         Sean Kaine
+organisation: Neustar, Inc.
+address:      46000 Center Oak Plaza, Sterling, VA  20166
+address:      United States
+phone:        +1-571-434-5168
+fax-no:       +1-571-434-5401
+e-mail:       registrytechnical1@neustar.biz
+
+nserver:      NS1.DNS.NIC.TMALL 156.154.144.164 2610:a1:1071:0:0:0:0:a4
+nserver:      NS2.DNS.NIC.TMALL 156.154.145.164 2610:a1:1072:0:0:0:0:a4
+nserver:      NS3.DNS.NIC.TMALL 156.154.159.164 2610:a1:1073:0:0:0:0:a4
+nserver:      NS4.DNS.NIC.TMALL 156.154.156.164 2610:a1:1074:0:0:0:0:a4
+nserver:      NS5.DNS.NIC.TMALL 156.154.157.164 2610:a1:1075:0:0:0:0:a4
+nserver:      NS6.DNS.NIC.TMALL 156.154.158.164 2610:a1:1076:0:0:0:0:a4
+ds-rdata:     64876 8 1 D564C6367B231A61C27B6899073CE6EA2833A022
+ds-rdata:     64876 8 2 0A5A8FF21780D56DB858FD4D0F7A77658C59F656AD556BBD4B0E2F4AF7EA5C0B
+
+status:       ACTIVE
+remarks:      Registration information: http://www.alibabagroup.com
+
+created:      2016-01-08
+changed:      2016-01-21
+source:       IANA
+
