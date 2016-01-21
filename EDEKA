@@ -1,0 +1,44 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       EDEKA
+
+organisation: EDEKA Verband kaufmännischer Genossenschaften e.V.
+address:      New-York-Ring 6, Hamburg, Hamburg, 22297
+address:      Germany
+
+contact:      administrative
+name:         CEO
+organisation: DOTZON GmbH
+address:      Akazienstr 28, Berlin, Berlin, 10823
+address:      Germany
+phone:        49.173.2019240
+fax-no:       49.30.49802727
+e-mail:       edeka@dotzon.com
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      Building 3, Suite 105, 300 Welsh Road, Horsham, PA 19044
+address:      United States
+phone:        +1.215.706.5700
+fax-no:       +1.215.706.5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.EDEKA 2a01:8840:12:0:0:0:0:25 65.22.16.25
+nserver:      A2.NIC.EDEKA 2a01:8840:15:0:0:0:0:25 65.22.19.25
+nserver:      B0.NIC.EDEKA 2a01:8840:13:0:0:0:0:25 65.22.17.25
+nserver:      C0.NIC.EDEKA 2a01:8840:14:0:0:0:0:25 65.22.18.25
+ds-rdata:     38836 7 1 5d68602bc30a38d2c7cc2658dbce51e34cec6d21
+ds-rdata:     38836 7 2 a7c0986c3192e9b9d35cd22830ffd53231e88e097c69754ced7d14f4e91e7ec7
+
+whois:        whois.afilias-srs.net
+
+status:       ACTIVE
+remarks:      Registration information: http://edeka.de
+
+created:      2016-01-08
+changed:      2016-01-21
+source:       IANA
+
