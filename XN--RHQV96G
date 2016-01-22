@@ -38,13 +38,3 @@ nserver:      NS3.DNS.NIC.XN--RHQV96G 156.154.159.191 2610:a1:1073:0:0:0:0:bf
 nserver:      NS4.DNS.NIC.XN--RHQV96G 156.154.156.191 2610:a1:1074:0:0:0:0:bf
 nserver:      NS5.DNS.NIC.XN--RHQV96G 156.154.157.191 2610:a1:1075:0:0:0:0:bf
 nserver:      NS6.DNS.NIC.XN--RHQV96G 156.154.158.191 2610:a1:1076:0:0:0:0:bf
-ds-rdata:     167 8 1 5A8EBBDDFE4D0E442138737A5FC1D3E34EBAE03F
-ds-rdata:     167 8 2 34F9402AB776FFB050D28976320570ACAAB0AFCE393A589494C7CEA61DA3D53E
-
-status:       ACTIVE
-remarks:      Registration information: http://www.stabletone.com
-
-created:      2014-03-06
-changed:      2014-03-12
-source:       IANA
-
