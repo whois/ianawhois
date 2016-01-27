@@ -1,0 +1,44 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       ADAC
+
+organisation: Allgemeiner Deutscher Automobil-Club e.V. (ADAC)
+address:      Hansastrasse 19
+address:      80686 München
+address:      Germany
+
+contact:      administrative
+name:         Manolito Utech
+organisation: Allgemeiner Deutscher Automobil-Club e.V. (ADAC)
+address:      Hansastrasse 19
+address:      80686 München
+address:      Germany
+phone:        +49 89 76 76 0
+fax-no:       +49 89 76 76 25 00
+e-mail:       tldadac@adac.de
+
+contact:      technical
+name:         Jan Jansen
+organisation: NCC Group Domain Services
+address:      2, rue Leon Laval
+address:      3372 Leudelange
+address:      Luxembourg
+phone:        +32 3 491 08 80
+fax-no:       +32 3 290 07 70
+e-mail:       adac@openregistry.com
+
+nserver:      A.NS.NIC.ADAC 2a02:2790:1:53:0:0:16:1 89.207.190.23
+nserver:      C.NS.NIC.ADAC 54.217.207.241
+nserver:      X.NS.NIC.ADAC 195.253.64.4 2a01:5b0:4:0:0:0:0:4
+nserver:      Y.NS.NIC.ADAC 195.253.64.7 2a01:5b0:4:0:0:0:0:7
+ds-rdata:     59289 7 1 A6DC4FDE7C2A1248641A9C2568A0A3A36E5CB584
+ds-rdata:     59289 7 2 45D9CB125D3BD55B12532F56C07708E5E7DC9A7117820D78811C5B1D36736831
+
+status:       ACTIVE
+
+created:      2015-11-20
+changed:      2016-01-26
+source:       IANA
+
