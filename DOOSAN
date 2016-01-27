@@ -4,42 +4,42 @@
 
 domain:       DOOSAN
 
-organisation: Doosan Corporation
-address:      (Daerung Post Tower 3, Guro-dong) #1101 ,27 , Digital-ro 34-gil, Guro-gu, Seoul
-address:      Korea, Republic Of
+organisation: Emergency Back-End Registry Operator Program - ICANN
+address:      12025 Waterfront Dr., Suite 300
+address:      Los Angeles, CA 90094
+address:      United States
 
 contact:      administrative
-name:         Yujeong Shin
-organisation: Whois Crop.
-address:      (Daerung Post Tower 3, Guro-dong) #1101 ,27 , Digital-ro 34-gil, Guro-gu, Seoul
-address:      Korea, Republic Of
-phone:        +82 70 4317 8217
-fax-no:       +82 2 2028 0011
-e-mail:       info@yesnic.com
+name:         EBERO Event Director
+organisation: Internet Corporation for Assigned Names and Numbers (ICANN)
+address:      12025 Waterfront Dr., Suite 300
+address:      Los Angeles, CA 90094
+address:      United States
+phone:        +1 310 301 5800
+fax-no:       +1 310 823 8649
+e-mail:       globalsupport@icann.org
 
 contact:      technical
-name:         Yujeong Shin
-organisation: Whois Corp.
-address:      (Daerung Post Tower 3, Guro-dong) #1101 ,27 , Digital-ro 34-gil, Guro-gu, Seoul
-address:      Korea, Republic Of
-phone:        +82 70 4317 8217 
-fax-no:       +82 2 2028 0011
-e-mail:       info@yesnic.com
+name:         Nominet EBERO Event Manager
+organisation: Nominet
+address:      Minerva House, Edmund Halley Road
+address:      Oxford Science Park
+address:      Oxford OX44DQ
+address:      United Kingdom
+phone:        +44 1865 332470
+e-mail:       ebero@nominet.uk
 
-nserver:      B.DNS.KR 61.74.75.1
-nserver:      C.DNS.KR 203.248.246.220
-nserver:      D.DNS.KR 203.83.159.1
-nserver:      E.DNS.KR 2001:dcc:5:0:0:0:0:100 202.30.124.100
-nserver:      F.DNS.KR 218.38.181.90
-nserver:      G.DNS.KR 2001:dc5:a:0:0:0:0:1 202.31.190.1
-ds-rdata:     43413 7 2 26484A6812A4D368826052E970DB0CB2AA606A7C3685A254D9678FAADB5CA0C4
-
-whois:        whois.nic.doosan
+nserver:      DNS1.EMDNS.UK 213.248.219.10 2a01:618:403:0:0:0:0:10
+nserver:      DNS2.EMDNS.UK 103.49.83.10 2401:fd80:403:0:0:0:0:10
+nserver:      DNS3.EMDNS.UK 213.248.223.10 2a01:618:407:0:0:0:0:10
+nserver:      DNS4.EMDNS.UK 2401:fd80:407:0:0:0:0:10 43.230.51.10
+ds-rdata:     42289 8 2 47391E186F91305507849525D3336CD09EAEC6CF3199CB7F862487FB6F08FC24
 
 status:       ACTIVE
-remarks:      Registration information: http://doosanregistry.com
+remarks:      Registration information:
+remarks:      https://www.icann.org/resources/pages/ebero-2013-04-02-en
 
 created:      2014-10-30
-changed:      2015-12-09
+changed:      2016-01-27
 source:       IANA
 
