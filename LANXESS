@@ -1,0 +1,44 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       LANXESS
+
+organisation: LANXESS Corporation
+address:      111 RIDC Park West Drive Pittsburgh, Pennsylvania - 15275-1112 US
+address:      United States
+
+contact:      administrative
+name:         IT Internet Domain Administration
+organisation: LANXESS Deutschland GmbH
+address:      Building B108, Chempark, 51369 Leverkusen, Germany
+address:      Germany
+phone:        +49 214 30 41160
+fax-no:       +49 221 8885 5274
+e-mail:       ngtld-lanxess@cscglobal.com
+
+contact:      technical
+name:         Sean Kaine
+organisation: Neustar, Inc.
+address:      46000 Center Oak Plaza, Sterling VA 20166
+address:      United States
+phone:        +1 571-434-5168
+fax-no:       +1 571-434-5401
+e-mail:       registrytechnical1@neustar.biz
+
+nserver:      NS1.DNS.NIC.LANXESS 156.154.144.101 2610:a1:1071:0:0:0:0:65
+nserver:      NS2.DNS.NIC.LANXESS 156.154.145.101 2610:a1:1072:0:0:0:0:65
+nserver:      NS3.DNS.NIC.LANXESS 156.154.159.101 2610:a1:1073:0:0:0:0:65
+nserver:      NS4.DNS.NIC.LANXESS 156.154.156.101 2610:a1:1074:0:0:0:0:65
+nserver:      NS5.DNS.NIC.LANXESS 156.154.157.101 2610:a1:1075:0:0:0:0:65
+nserver:      NS6.DNS.NIC.LANXESS 156.154.158.101 2610:a1:1076:0:0:0:0:65
+ds-rdata:     58169 8 1 61316CE0BBF44CB96E4F400F2CC41BA47B458552
+ds-rdata:     58169 8 2 0598D5547DA121775508988DF6E43CA76767F355EED690764AD1A3E049C901C4
+
+status:       ACTIVE
+remarks:      Registration information: http://www.lanxess.com
+
+created:      2016-01-08
+changed:      2016-01-26
+source:       IANA
+
