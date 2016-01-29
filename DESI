@@ -32,7 +32,7 @@ nserver:      NS1A.KSREGISTRY.NET 2001:dd8:7:6075:dc:0:0:1 203.119.88.75
 nserver:      NS1B.KSREGISTRY.NET 2620:0171:0a00:00ad:0:0:0:75 72.0.48.75
 nserver:      NS2A.KSREGISTRY.COM 2001:dd8:7:6076:dc:0:0:1 203.119.88.76
 nserver:      NS2B.KSREGISTRY.COM 2620:0171:0a00:00ad:0:0:0:76 72.0.48.76
-ds-rdata:     8920 8 2 864aaced9b66471444e73b394aebc741bcedf0486ef9a3a981694dd1cb0fc0b5
+ds-rdata:     53887 8 2 873b650b5d5f5eb864dbf73182717f6375716038acea258fe18a66176c1797bc
 
 whois:        whois.ksregistry.net
 
@@ -40,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.dotdesi.com/
 
 created:      2014-03-06
-changed:      2015-01-25
+changed:      2016-01-29
 source:       IANA
 
