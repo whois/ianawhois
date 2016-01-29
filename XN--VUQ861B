@@ -21,30 +21,32 @@ fax-no:       +86 10 58846931
 e-mail:       lr@tele-info.cn
 
 contact:      technical
-name:         Senior Product Manager
-organisation: China Internet Network Information Center
-address:      Floor 1, Building 1, Software Park
-address:      Chinese Academy of Sciences
-address:      4 South 4th Street, Zhongguancun
-address:      Beijing
+name:         CTO
+organisation: Beijing Tele-info Network Technology Co., Ltd.
+address:      Building 21, 1 Gaolizhang Road
+address:      Beijing 100095
 address:      China
-phone:        +86 10 58813170
-fax-no:       +86 10 58812666
-e-mail:       zhangli@cnnic.cn
+phone:        +86 10 5884 6931
+e-mail:       gtld@teleinfo.cn
 
+nserver:      NS1.TELEINFO.CN 103.61.60.1 2402:7d80:0:0:0:0:0:1
+nserver:      NS2.TELEINFOO.COM 103.61.61.1 2402:7d80:8888:0:0:0:0:1
+nserver:      NS3.TELEINFO.CN 103.61.62.1
+nserver:      NS4.TELEINFOO.COM 103.61.63.1
 nserver:      TA.NGTLD.CN 2001:dc7:ffd1:0:0:0:0:1 42.83.130.1
 nserver:      TB.NGTLD.CN 2001:dc7:ffd2:0:0:0:0:1 42.83.131.1
 nserver:      TC.NGTLD.CN 2001:dc7:ffd3:0:0:0:0:1 42.83.132.1
 nserver:      TD.NGTLD.CN 42.83.133.1
 nserver:      TE.NGTLD.CN 42.83.134.1
 ds-rdata:     2506 8 2 BA755D01F428C23415C56C22FADCB646AAAE47CA2CF171823FB9AC100B3AF060
+ds-rdata:     7210 8 2 EEE275C0966A2DCD2BC5B996B6C8FA003E991D877D456C2530D4681E1EEE0D55
 
-whois:        whois.ngtld.cn
+whois:        whois.teleinfo.cn
 
 status:       ACTIVE
 remarks:      Registration information: http://www.teleinfo.cn
 
 created:      2015-02-05
-changed:      2015-11-13
+changed:      2016-01-29
 source:       IANA
 
