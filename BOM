@@ -33,7 +33,6 @@ nserver:      C.DNS.BR 200.192.233.10
 nserver:      D.DNS.BR 200.219.154.10 2001:12f8:4:0:0:0:0:10
 nserver:      E.DNS.BR 200.229.248.10 2001:12f8:1:0:0:0:0:10
 nserver:      F.DNS.BR 200.219.159.10
-ds-rdata:     25699 8 2 FFBDD11FC1C0CFD231D16BEB4B1EB3B0DDB08CDDCB1B56AEDA4F41039E19C084
 ds-rdata:     60907 8 2 5FCFDBFDD5FAE890E49A50DF93CF82A53909DBD60837029B6723BC3577EB1D4E
 
 whois:        whois.gtlds.nic.br
@@ -41,6 +40,6 @@ whois:        whois.gtlds.nic.br
 status:       ACTIVE
 
 created:      2015-05-29
-changed:      2016-01-25
+changed:      2016-01-29
 source:       IANA
 
