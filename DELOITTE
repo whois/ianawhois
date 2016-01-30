@@ -1,0 +1,42 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       DELOITTE
+
+organisation: Deloitte Touche Tohmatsu
+address:      30 Rockefeller Plaza
+address:      New York, NY 10112-0015
+address:      United States
+
+contact:      administrative
+name:         Matthew Yriart
+organisation: Deloitte Touche Tohmatsu Services, Inc.
+address:      4022 Sells Drive
+address:      Hermitage, TN 37076
+address:      United States
+phone:        +1 (615) 882-6081
+e-mail:       dttdomainadmin@deloitte.com
+
+contact:      technical
+name:         Sarah Corley
+organisation: Deloitte Touche Tohmatsu Services, Inc.
+address:      111 S. Wacker Drive
+address:      Chicago, IL 60606
+address:      United States
+phone:        +1 (312) 486-1191
+e-mail:       dttdomainadmin@deloitte.com
+
+nserver:      A.NS.NIC.DELOITTE 2a02:2790:1:53:0:0:17:1 89.207.190.24
+nserver:      C.NS.NIC.DELOITTE 54.228.194.18
+nserver:      X.NS.NIC.DELOITTE 195.253.64.4 2a01:5b0:4:0:0:0:0:4
+nserver:      Y.NS.NIC.DELOITTE 195.253.64.7 2a01:5b0:4:0:0:0:0:7
+ds-rdata:     43989 7 1 F7DABDF701ED2ED63D349D5DDAE4B2776EA541B5
+ds-rdata:     43989 7 2 AF8C96D91EE031DF7DF47231CBEB7A93AE1572F8EB3F71D666FA421E8F55AD67
+
+status:       ACTIVE
+
+created:      2015-12-23
+changed:      2016-01-29
+source:       IANA
+
