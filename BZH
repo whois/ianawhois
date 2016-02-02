@@ -17,7 +17,7 @@ address:      29000 Quimper
 address:      France
 phone:        +33 298599326
 fax-no:       +33 298828788
-e-mail:       info@pointbzh.com
+e-mail:       contact@pik.bzh
 
 contact:      technical
 name:         Project Manager
@@ -36,12 +36,12 @@ nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
 ds-rdata:     60136 8 2 7c577bdfa755b4d9cf6826e22b8cc827414c068e2ecfe8bcb57838a939058536
 ds-rdata:     18539 8 2 ddbf5e517a30d3b7fd41ff386843aa8ff6ef77961120e5fca794c0072cd63b9d
 
-whois:        whois-bzh.nic.fr
+whois:        whois.nic.bzh
 
 status:       ACTIVE
 remarks:      Registration information: http://www.pik.bzh
 
 created:      2014-05-29
-changed:      2014-07-08
+changed:      2016-02-02
 source:       IANA
 
