@@ -37,8 +37,6 @@ nserver:      W.AU 2001:dcd:1:0:0:0:0:5 37.209.192.5
 nserver:      X.AU 2001:dcd:2:0:0:0:0:5 37.209.194.5
 nserver:      Y.AU 2001:dcd:3:0:0:0:0:5 37.209.196.5
 nserver:      Z.AU 2001:dcd:4:0:0:0:0:5 37.209.198.5
-ds-rdata:     37976 8 2 EA7CDFAB57E4D9CB5F09BE95EC5EBD4F4A113DFA3F120AC9D6065282D910B8A5
-ds-rdata:     37976 8 1 ACCF50B2687DB697C404163DC1B9A07EE022E794
 ds-rdata:     41491 8 2 FCAABD135FFD9D1015438FC4AF8ACE4E9D2BEA04748C4DB3975CFD7CABC30B88
 ds-rdata:     41491 8 1 C104274A2F94B01DB84E76B298B69A53B3FB4919
 
@@ -49,6 +47,6 @@ remarks:      Registration information:
 remarks:      http://www.auda.org.au/domains/au-domains/
 
 created:      1986-03-05
-changed:      2015-12-07
+changed:      2016-02-03
 source:       IANA
 
