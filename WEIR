@@ -5,15 +5,15 @@
 domain:       WEIR
 
 organisation: Weir Group IP Limited
-address:      20 Waterloo Street
-address:      GLASGOW - G2 6DB
+address:      1 West Regent Street
+address:      Glasgow G2 1RW
 address:      United Kingdom
 
 contact:      administrative
 name:         Head of IT Service Delivery
 organisation: Head of IT Service Delivery
-address:      20 Waterloo Street
-address:      GLASGOW - G2 6DB
+address:      1 West Regent Street
+address:      Glasgow G2 1RW
 address:      United Kingdom
 phone:        +44 141 637 7111
 fax-no:       +44 141 221 9789
@@ -42,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://weir.co.uk/
 
 created:      2015-04-02
-changed:      2015-04-17
+changed:      2016-02-06
 source:       IANA
 
