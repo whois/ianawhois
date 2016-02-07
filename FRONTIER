@@ -1,0 +1,42 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       FRONTIER
+
+organisation: Frontier Communications Corporation
+address:      401 Merritt 7, Norwalk, CT 06851, United States
+address:      United States
+
+contact:      administrative
+name:         Systems Administrator
+organisation: Frontier Communications Corporation
+address:      120 N Plymouth Ave, Rochester, NY 14608, United States
+address:      United States
+phone:        +1 585-777-4396
+e-mail:       joshua.sawicki@ftr.com
+
+contact:      technical
+name:         Sean Kaine
+address:      46000 Center Oak Plaza, Sterling VA 20166, United States
+address:      United States
+phone:        +1 571-434-5168
+fax-no:       +1 571-434 5401
+e-mail:       registrytechnical1@neustar.biz
+
+nserver:      NS1.DNS.NIC.FRONTIER 156.154.144.64 2610:a1:1071:0:0:0:0:40
+nserver:      NS2.DNS.NIC.FRONTIER 156.154.145.64 2610:a1:1072:0:0:0:0:40
+nserver:      NS3.DNS.NIC.FRONTIER 156.154.159.64 2610:a1:1073:0:0:0:0:40
+nserver:      NS4.DNS.NIC.FRONTIER 156.154.156.64 2610:a1:1074:0:0:0:0:40
+nserver:      NS5.DNS.NIC.FRONTIER 156.154.157.64 2610:a1:1075:0:0:0:0:40
+nserver:      NS6.DNS.NIC.FRONTIER 156.154.158.64 2610:a1:1076:0:0:0:0:40
+ds-rdata:     21776 8 1 F40639FB8BA13BCA1E1DF0425BF15444D5BB3FC0
+ds-rdata:     21776 8 2 0DA79C4F7E5EB0A9F5C2A944A684AD05799CD9E39E620ECDFF71DF4C15C04BB6
+
+status:       ACTIVE
+remarks:      Registration information: http://frontier.com
+
+created:      2016-01-29
+changed:      2016-02-06
+source:       IANA
+
