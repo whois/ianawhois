@@ -1,0 +1,44 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       QUEST
+
+organisation: Quest ION Limited
+address:      Unit F, 26/F, MG Tower, 133 Hoi Bun Road, Kwun Tong, Kowloon East, Hong Kong
+address:      Hong Kong
+
+contact:      administrative
+name:         Chief Technology Officer
+organisation: Quest ION Limited
+address:      Unit F, 26/F, MG Tower, 133 Hoi Bun Road, Kwun Tong, Kowloon East, Hong Kong
+address:      Hong Kong
+phone:        +85228271899
+fax-no:       +85228271833
+e-mail:       ngtld-quest@cscinfo.com
+
+contact:      technical
+name:         Dennis Rhee
+organisation: CSC Digital Brand Services
+address:      2711 Centerville Rd. suite 400
+address:      United States
+phone:        +1.3026365400
+fax-no:       +1.3026365454
+e-mail:       ngtlds-tech@cscinfo.com
+
+nserver:      A.NIC.QUEST 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.QUEST 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.QUEST 2001:dcd:3:0:0:0:0:9 37.209.196.9
+nserver:      D.NIC.QUEST 2001:dcd:4:0:0:0:0:9 37.209.198.9
+ds-rdata:     21334 8 1 D99396EFCD9B8F4A3B269CD1E9620572FB04F0D0
+ds-rdata:     21334 8 2 8472C2FDF0A9D2BE4A2C1BC4C601C987118E6A815B1242B6985110B7C390E80E
+
+whois:        whois.nic.quest
+
+status:       ACTIVE
+remarks:      Registration information: http://www.qigroup.com/
+
+created:      2015-08-06
+changed:      2016-02-06
+source:       IANA
+
