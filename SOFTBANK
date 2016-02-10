@@ -10,22 +10,22 @@ address:      Tokyo 105-7303
 address:      Japan
 
 contact:      administrative
-name:         Mitsuaki Nakagawa
-organisation: Brights Consulting Inc.
-address:      30F, Kasumigaseki Bldg., 3-2-5 Kasumigaseki Chiyoda-ku Tokyo 100-6030
+name:         Chief Operating Officer
+organisation: GMO Brights Consulting Inc.
+address:      Cerulean Tower 26-1 Sakuragaoka-cho, Shibuya-ku, Tokyo 150-8512
 address:      Japan
 phone:        +81.355210107
 fax-no:       +81.355210117
 e-mail:       nakagawa_01@brights.jp
 
 contact:      technical
-name:         Mitsuaki Nakagawa
-organisation: Brights Consulting Inc.
-address:      30F, Kasumigaseki Bldg., 3-2-5 Kasumigaseki Chiyoda-ku Tokyo 100-6030
+name:         Director
+organisation: GMO Registry, Inc.
+address:      Cerulean Tower 26-1 Sakuragaoka-cho, Shibuya-ku, Tokyo 150-8512
 address:      Japan
-phone:        +81.355210107
-fax-no:       +81.355210117
-e-mail:       nakagawa_01@brights.jp
+phone:        +81-3-5456-1601
+fax-no:       +81-3-3780-5239
+e-mail:       newgtld@gmoregistry.com
 
 nserver:      A.NIC.SOFTBANK 2001:dcd:1:0:0:0:0:9 37.209.192.9
 nserver:      B.NIC.SOFTBANK 2001:dcd:2:0:0:0:0:9 37.209.194.9
@@ -40,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://softbank.com/
 
 created:      2015-12-23
-changed:      2016-01-16
+changed:      2016-02-10
 source:       IANA
 
