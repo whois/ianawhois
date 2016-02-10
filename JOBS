@@ -35,12 +35,12 @@ nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
 nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
 ds-rdata:     35409 8 2 6078CFA7FDF3F01B5C940CB29064603E0825D74FF6D0FDEE7C72023B03AF7AC9
 
-whois:        jobswhois.verisign-grs.com
+whois:        whois.nic.jobs
 
 status:       ACTIVE
 remarks:      Registration information: http://www.goto.jobs
 
 created:      2005-09-08
-changed:      2016-01-20
+changed:      2016-02-10
 source:       IANA
 
