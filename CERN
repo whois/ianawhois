@@ -10,12 +10,12 @@ address:      Geneve  CH-1211
 address:      Switzerland
 
 contact:      administrative
-name:         Dan Noyes
+name:         Sotirios Boutas
 organisation: European Organization for Nuclear Research ("CERN")
 address:      Route de Meyrin, Meyrin, Geneve, CH-1211
 address:      Switzerland
-phone:        +41 22 767 3559
-fax-no:       +41 22 767 9599
+phone:        +41 22 766 2095
+fax-no:       +41 22 766 7482
 e-mail:       cern.gtld@cern.ch
 
 contact:      technical
@@ -40,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.cern.ch
 
 created:      2014-08-13
-changed:      2014-08-16
+changed:      2016-02-10
 source:       IANA
 
