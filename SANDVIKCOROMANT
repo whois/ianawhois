@@ -9,22 +9,22 @@ address:      Klarabergsgatan 60, Stockholm  111 21
 address:      Sweden
 
 contact:      administrative
-name:         Jörgen Andersson
+name:         Project & Process Manager
 organisation: Sandvik AB
 address:      Klarabergsgatan 60, Stockholm  111 21
 address:      Sweden
-phone:        +46 26 26 00 00
-fax-no:       +46 26 26 10 43
-e-mail:       domains.registry@sandvik.com
+phone:        +4533886365
+fax-no:       +4533886101
+e-mail:       sandvik@gtld.com
 
 contact:      technical
-name:         Jörgen Andersson
+name:         Project & Process Manager
 organisation: Sandvik AB
 address:      Klarabergsgatan 60, Stockholm  111 21
 address:      Sweden
-phone:        +4626260000
-fax-no:       +4626261043
-e-mail:       domains.registry@sandvik.com
+phone:        +4533886365
+fax-no:       +4533886101
+e-mail:       sandvik@gtld.com
 
 nserver:      A.NIC.SANDVIKCOROMANT 2001:dcd:1:0:0:0:0:9 37.209.192.9
 nserver:      B.NIC.SANDVIKCOROMANT 2001:dcd:2:0:0:0:0:9 37.209.194.9
@@ -39,6 +39,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.sandvikcoromant
 
 created:      2015-05-14
-changed:      2015-10-06
+changed:      2016-02-11
 source:       IANA
 
