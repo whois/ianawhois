@@ -4,32 +4,30 @@
 
 domain:       TG
 
-organisation: Cafe Informatique et Telecommunications
-address:      B.P. 12596
-address:      Cite Maman N'Danida
-address:      Lome
+organisation: Autorite de Reglementation des secteurs de Postes et de Telecommunications (ART&P)
+address:      32, rue NDagni
+address:      Lome, BP:358
 address:      Togo
 
 contact:      administrative
-name:         Naogbodji Yawo
-organisation: Cafe Informatique et Telecommunications
-address:      B.P. 12596
-address:      Cite Maman N'Danida
-address:      Lome
+name:         Chief Executive Officer
+organisation: ART&P
+address:      32, rue NDagni
+address:      Lome, BP:358
 address:      Togo
-phone:        +228 225 5555
-fax-no:       +228 225 6666
-e-mail:       jmnoagbo@cafe.tg
+phone:        +22822236389
+fax-no:       +22822236394
+e-mail:       artp@artp.tg
 
 contact:      technical
-name:         Dr. Francois Normant
-organisation: Services informatiques NetADMIN ltee
-address:      CP 705, succ. B
-address:      Montreal QC H3B-3K3
-address:      Canada
-phone:        +1 514 990 1638
-fax-no:       +1 514 990 1638
-e-mail:       fn@admin.net
+name:         Chief Executive Officer
+organisation: C.A.F.E. Informatique et Telecommunications
+address:      Cite Maman NDanida, Bld du 30 Août
+address:      Lome, 07BP12596
+address:      Togo
+phone:        +22822255555
+fax-no:       +22822256666
+e-mail:       cafe@cafe.tg
 
 nserver:      NS1.ADMIN.NET 198.73.186.1
 nserver:      NS2.ADMIN.NET 108.61.25.122 2001:19f0:300:1007:0:0:0:cafe
@@ -38,10 +36,12 @@ nserver:      NS4.ADMIN.NET 103.25.58.26 2406:d501:0:0:0:0:47e3:2a7c
 nserver:      NS5.ADMIN.NET 188.165.33.42 2001:41d0:8:5c79:0:0:0:3
 nserver:      TLD.CAFE.TG 80.248.64.20
 
+whois:        whois.nic.tg
+
 status:       ACTIVE
 remarks:      Registration information: http://www.nic.tg
 
 created:      1996-09-05
-changed:      2014-10-15
+changed:      2016-02-10
 source:       IANA
 
