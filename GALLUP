@@ -1,0 +1,44 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       GALLUP
+
+organisation: Gallup, Inc.
+address:      1001 Gallup Drive, Omaha, NE, 68102
+address:      United States
+
+contact:      administrative
+name:         Vice President - Law & Senior Counsel
+organisation: Gallup, Inc.
+address:      1001 Gallup Drive, Omaha, NE, 68102
+address:      United States
+phone:        402.951.2003
+fax-no:       402.938.5927
+e-mail:       ngtld-gallup@cscglobal.com
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      Building 3, Suite 105, 300 Welsh Road, Horsham, PA 19044
+address:      United States
+phone:        +1.215.706.5700
+fax-no:       +1.215.706.5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.GALLUP 2a01:8840:a2:0:0:0:0:17 65.22.168.17
+nserver:      A2.NIC.GALLUP 2a01:8840:a5:0:0:0:0:17 65.22.171.17
+nserver:      B0.NIC.GALLUP 2a01:8840:a3:0:0:0:0:17 65.22.169.17
+nserver:      C0.NIC.GALLUP 2a01:8840:a4:0:0:0:0:17 65.22.170.17
+ds-rdata:     23110 7 1 00f395ae705a7870b16482b0426a47bef6af6089
+ds-rdata:     23110 7 2 24d417c21b6927c970ebdc04663366eed8e5e03a6f05453152d70e7633339cc8
+
+whois:        whois.afilias-srs.net
+
+status:       ACTIVE
+remarks:      Registration information: http://gallup.com
+
+created:      2015-10-15
+changed:      2016-02-11
+source:       IANA
+
