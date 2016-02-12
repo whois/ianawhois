@@ -1,0 +1,47 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       HDFCBANK
+
+organisation: HDFC Bank Limited
+address:      HDFC Bank House, Senapati Bapat Marg
+address:      Lower Parel (W), Mumbai - 400 013
+address:      India
+
+contact:      administrative
+name:         Head – Digital Marketing
+organisation: HDFC Bank Limited
+address:      HDFC Bank House, Senapati Bapat Marg
+address:      Lower Parel (W), Mumbai - 400 013
+address:      India
+phone:        +91 22 3395 9000
+e-mail:       websitemanager@hdfcbank.com
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      Building 3, Suite 105
+address:      300 Welsh Road
+address:      Horsham, PA 19044
+address:      United States
+phone:        +1 215.706.5700
+fax-no:       +1 215.706.5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.HDFCBANK 2a01:8840:ae:0:0:0:0:33 65.22.180.33
+nserver:      A2.NIC.HDFCBANK 2a01:8840:b1:0:0:0:0:33 65.22.183.33
+nserver:      B0.NIC.HDFCBANK 2a01:8840:af:0:0:0:0:33 65.22.181.33
+nserver:      C0.NIC.HDFCBANK 2a01:8840:b0:0:0:0:0:33 65.22.182.33
+ds-rdata:     49128 7 1 8ae26d4b2e7e6705acb38d98ad74ffec5698ddef
+ds-rdata:     49128 7 2 3950bfbc9de3c874911b6185dd594d9cdfd6ec9e6c98802d5ce4d9fb58a411c7
+
+whois:        whois.afilias-srs.net
+
+status:       ACTIVE
+remarks:      Registration information: http://www.hdfcbank.com
+
+created:      2016-02-05
+changed:      2016-02-11
+source:       IANA
+
