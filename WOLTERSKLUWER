@@ -1,0 +1,54 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       WOLTERSKLUWER
+
+organisation: Wolters Kluwer N.V.
+address:      Zuidpoolsingel 2
+address:      Alphen aan den Rijn
+address:      South Holland
+address:      2408 ZE
+address:      NL
+address:      Netherlands
+
+contact:      administrative
+name:         Client Project Manager and Validation Services Team Lead
+organisation: Valideus Ltd
+address:      28-30 Little Russell Street
+address:      London
+address:      WC1A 2HN
+address:      UK
+address:      United Kingdom
+phone:        +44 20 7421 8274
+fax-no:       +44 87 0011 8187
+e-mail:       dietmar.lenden@valideus.com
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      Building 3, Suite 105
+address:      300 Welsh Road
+address:      Horsham, PA 19044
+address:      United States
+address:      United States
+phone:        +1 215.706.5700
+fax-no:       +1 215.706.5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.WOLTERSKLUWER 2a01:8840:c6:0:0:0:0:25 65.22.204.25
+nserver:      A2.NIC.WOLTERSKLUWER 2a01:8840:c9:0:0:0:0:25 65.22.207.25
+nserver:      B0.NIC.WOLTERSKLUWER 2a01:8840:c7:0:0:0:0:25 65.22.205.25
+nserver:      C0.NIC.WOLTERSKLUWER 2a01:8840:c8:0:0:0:0:25 65.22.206.25
+ds-rdata:     46705 7 1 3fb2f5953f5dc83e35d8468980ca4f680699c1d2
+ds-rdata:     46705 7 2 81c1c9504e49e199f0cab91c3edf206a89c0f1d487099486e49f7aa31de8b050
+
+whois:        whois.afilias-srs.net
+
+status:       ACTIVE
+remarks:      Registration information: http://wolterskluwer.com
+
+created:      2016-02-05
+changed:      2016-02-11
+source:       IANA
+
