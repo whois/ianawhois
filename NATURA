@@ -1,0 +1,50 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       NATURA
+
+organisation: NATURA COSMÉTICOS S.A.
+address:      Rodovia Régis Bittencourt s/nº km 293
+address:      Potuverá Edifício I 06882 700 Itapecerica da Serra
+address:      São Paulo - 06882-700
+address:      Brazil
+
+contact:      administrative
+name:         VP Tecnologia Digital
+organisation: NATURA COSMÉTICOS S.A.
+address:      Rodovia Régis Bittencourt s/nº km 293
+address:      Potuverá Edifício I 06882 700 Itapecerica da Serra
+address:      São Paulo - 06882-700
+address:      Brazil
+phone:        +55.11.4446.2000
+fax-no:       +55.11.4196.24134
+e-mail:       ngtld-natura@cscglobal.com
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      Building 3, Suite 105
+address:      300 Welsh Road
+address:      Horsham, PA 19044
+address:      United States
+phone:        +1 215.706.5700
+fax-no:       +1 215.706.5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.NATURA 2a01:8840:ea:0:0:0:0:33 65.22.240.33
+nserver:      A2.NIC.NATURA 2a01:8840:ed:0:0:0:0:33 65.22.243.33
+nserver:      B0.NIC.NATURA 2a01:8840:eb:0:0:0:0:33 65.22.241.33
+nserver:      C0.NIC.NATURA 2a01:8840:ec:0:0:0:0:33 65.22.242.33
+ds-rdata:     47374 7 1 cbf625dd9bc6c9f24bc9ba737a1aa08972345d2e
+ds-rdata:     47374 7 2 c078e140ada11bfe3aaa1bfd60d0ceda8de4c3a2c6d7c1d4a6ce866998fee115
+
+whois:        whois.afilias-srs.net
+
+status:       ACTIVE
+remarks:      Registration information: http://www.natura.com.br
+
+created:      2016-01-29
+changed:      2016-02-11
+source:       IANA
+
