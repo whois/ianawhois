@@ -1,0 +1,55 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       TVS
+
+organisation: T V SUNDRAM IYENGAR  & SONS PRIVATE LIMITED
+address:      TVS Building, 7 B WEST VELI STREET,
+address:      Madurai
+address:      Tamilnadu
+address:      625001
+address:      IN
+address:      India
+
+contact:      administrative
+name:         Sr. Vice President & CIO
+organisation: TVS & Sons Pvt Ltd
+address:      58 , Eldams Road, Teynampet,
+address:      Chennai
+address:      Tamilnadu
+address:      600018
+address:      IN
+address:      India
+phone:        +91 44 66857717
+fax-no:       +91 44 66857750
+e-mail:       registry.gtld@tvs.in
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      Building 3, Suite 105
+address:      300  Welsh Road
+address:      Horsham, PA 19044
+address:      United States
+address:      United States
+phone:        +1 215.706.5700
+fax-no:       +1 215.706.5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.TVS 2a01:8840:c6:0:0:0:0:9 65.22.204.9
+nserver:      A2.NIC.TVS 2a01:8840:c9:0:0:0:0:9 65.22.207.9
+nserver:      B0.NIC.TVS 2a01:8840:c7:0:0:0:0:9 65.22.205.9
+nserver:      C0.NIC.TVS 2a01:8840:c8:0:0:0:0:9 65.22.206.9
+ds-rdata:     9544 7 1 576f18d90579172ae7739828c581643731b2d3be
+ds-rdata:     9544 7 2 72fad7b3803609421622c1b13c877c2ac7a5a1009f835f39a267414b82e155d2
+
+whois:        whois.afilias-srs.net
+
+status:       ACTIVE
+remarks:      Registration information: http://www.tvs.in
+
+created:      2016-02-05
+changed:      2016-02-13
+source:       IANA
+
