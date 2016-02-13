@@ -32,14 +32,14 @@ phone:        +66 2 564 8039
 fax-no:       +66 2 564 8040
 e-mail:       pensri@thnic.or.th
 
+nserver:      A.THAINS.CO.TH 122.155.23.64 2001:c38:2000:183:0:0:0:30
 nserver:      AMS.SNS-PB.ISC.ORG 199.6.1.30 2001:500:60:0:0:0:0:30
-nserver:      DNS1.THNIC.CO.TH 2001:3c8:1209:1:0:0:0:22 202.28.1.22
-nserver:      NS-A.THNIC.CO.TH 61.19.242.38
-nserver:      NS-E.THNIC.CO.TH 194.0.1.28 2001:678:4:0:0:0:0:1c
+nserver:      B.THAINS.CO.TH 2001:c00:4618:3000:0:0:0:30 203.159.64.64
+nserver:      C.THAINS.CO.TH 194.0.1.28 2001:678:4:0:0:0:0:1c
 nserver:      NS.THNIC.NET 202.28.0.1
 nserver:      SFBA.SNS-PB.ISC.ORG 149.20.64.3 2001:4f8:0:2:0:0:0:19
 nserver:      TH.CCTLD.AUTHDNS.RIPE.NET 193.0.9.116 2001:67c:e0:0:0:0:0:116
-ds-rdata:     37297 8 2 890C918B568A6E30BF3A54B88C6B5C1838B9137E849EB96581FF36838399C276
+ds-rdata:     31159 8 2 B93A04EDD2B7DA8726B08122B0D3FB52639EF801DCDBD10E75BA2DC86B1F6FB9
 
 whois:        whois.thnic.co.th
 
@@ -47,6 +47,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.thnic.co.th
 
 created:      1988-09-07
-changed:      2013-04-17
+changed:      2016-02-13
 source:       IANA
 
