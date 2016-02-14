@@ -10,7 +10,7 @@ address:      Tokyo 107-8414
 address:      Japan
 
 contact:      administrative
-name:         Mitsuaki Nakagawa
+name:         Chief Operating Officer
 organisation: Brights Consulting Inc.
 address:      30F, Kasumigaseki Bldg.,
 address:      3-2-5 Kasumigaseki
@@ -22,16 +22,16 @@ fax-no:       +81355210117
 e-mail:       nakagawa_06@brights.jp
 
 contact:      technical
-name:         Mitsuaki Nakagawa
-organisation: Brights Consulting Inc.
-address:      30F, Kasumigaseki Bldg.,
-address:      3-2-5 Kasumigaseki
-address:      Chiyoda-ku
-address:      Tokyo 100-6030
+name:         Yoshitake Tamura
+organisation: GMO Registry, Inc.
+address:      Cerulean Tower 26-1 Sakuragaoka-cho
+address:      Shibuya-ku
+address:      Tokyo
+address:      150-8512
 address:      Japan
-phone:        +81355210107
-fax-no:       +81355210117
-e-mail:       nakagawa_06@brights.jp
+phone:        +81.354561601
+fax-no:       +81.337805239
+e-mail:       newgtld@gmoregistry.com
 
 nserver:      A.NIC.KOMATSU 2001:dcd:1:0:0:0:0:9 37.209.192.9
 nserver:      B.NIC.KOMATSU 2001:dcd:2:0:0:0:0:9 37.209.194.9
@@ -46,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.komatsu.com/
 
 created:      2015-03-06
-changed:      2015-10-12
+changed:      2016-02-14
 source:       IANA
 
