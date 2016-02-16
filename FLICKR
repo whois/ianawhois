@@ -5,9 +5,40 @@
 domain:       FLICKR
 
 organisation: Yahoo! Domain Services Inc.
+address:      701 First Avenue Sunnyvale, California - 94089 US
+address:      United States
 
-status:       NEW
+contact:      administrative
+name:         Lorna Gradden
+organisation: Valideus Ltd
+address:      28-30 Little Russell Street, London, WC1A 2HN, UK
+address:      United Kingdom
+phone:        +44 (0) 20 7421 7790
+fax-no:       +44 (0) 87 0011 8187
+e-mail:       lorna.gradden.ya@valideus.com
+
+contact:      technical
+name:         Sean Kaine
+organisation: Neustar, Inc.
+address:      46000 Center Oak Plaza, Sterling VA 20166
+address:      United States
+phone:        +1 571-434-5168
+fax-no:       +1 571-434-5401
+e-mail:       registrytechnical1@neustar.biz
+
+nserver:      NS1.DNS.NIC.FLICKR 156.154.144.60 2610:a1:1071:0:0:0:0:3c
+nserver:      NS2.DNS.NIC.FLICKR 156.154.145.60 2610:a1:1072:0:0:0:0:3c
+nserver:      NS3.DNS.NIC.FLICKR 156.154.159.60 2610:a1:1073:0:0:0:0:3c
+nserver:      NS4.DNS.NIC.FLICKR 156.154.156.60 2610:a1:1074:0:0:0:0:3c
+nserver:      NS5.DNS.NIC.FLICKR 156.154.157.60 2610:a1:1075:0:0:0:0:3c
+nserver:      NS6.DNS.NIC.FLICKR 156.154.158.60 2610:a1:1076:0:0:0:0:3c
+ds-rdata:     8729 8 1 17B38ED42DC50E43AE28617391CD17E919750616
+ds-rdata:     8729 8 2 B4DF94A42EFFB56855FCF8DD8F262485D408D139D0336AE35590E62E95E76094
+
+status:       ACTIVE
+remarks:      Registration information: http://www.flickr.com
 
 created:      2016-01-29
+changed:      2016-02-15
 source:       IANA
 
