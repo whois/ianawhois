@@ -30,13 +30,13 @@ nserver:      A.GMOREGISTRY.NET 2001:dcd:1:0:0:0:0:4 37.209.192.4
 nserver:      B.GMOREGISTRY.NET 2001:dcd:2:0:0:0:0:4 37.209.194.4
 nserver:      K.GMOREGISTRY.NET 37.209.196.4
 nserver:      L.GMOREGISTRY.NET 2001:dcd:4:0:0:0:0:4 37.209.198.4
-ds-rdata:     54887 8 2 2af22c1e9751a58262aa837c4e4d8b4daf045e0876e4ff1885f23833664231e3
+ds-rdata:     62806 8 2 7ccdd91120fab1a96ed3ee7b0e264bf67c51a2d729b95d8f621ea81bbca050d7
 
 status:       ACTIVE
 remarks:      Registration information:
 remarks:      http://www.gmo-registry.com/en/
 
 created:      2014-02-20
-changed:      2015-10-14
+changed:      2016-02-17
 source:       IANA
 
