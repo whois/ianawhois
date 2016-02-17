@@ -30,12 +30,12 @@ nserver:      A.GMOREGISTRY.NET 2001:dcd:1:0:0:0:0:4 37.209.192.4
 nserver:      B.GMOREGISTRY.NET 2001:dcd:2:0:0:0:0:4 37.209.194.4
 nserver:      K.GMOREGISTRY.NET 37.209.196.4
 nserver:      L.GMOREGISTRY.NET 2001:dcd:4:0:0:0:0:4 37.209.198.4
-ds-rdata:     56905 8 2 0a9d57bcb9f05182eced5686a14ac7e7b2dbb5754d74e155d214f982a694f8b0
+ds-rdata:     61646 8 2 6cd48598041dae5147373226a1e1a3074bcdc256d7b487c666228985a6449fd0
 
 status:       ACTIVE
 remarks:      Registration information: http://www.gmoregistry.com/
 
 created:      2014-02-27
-changed:      2015-10-14
+changed:      2016-02-17
 source:       IANA
 
