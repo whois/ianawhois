@@ -38,12 +38,12 @@ nserver:      B2.PRO.AFILIAS-NST.ORG 199.182.40.1 2001:500:e1:0:0:0:0:1
 nserver:      C0.PRO.AFILIAS-NST.INFO 199.182.16.1 2001:500:d0:0:0:0:0:1
 nserver:      D0.PRO.AFILIAS-NST.ORG 199.182.17.1 2001:500:d1:0:0:0:0:1
 
-whois:        whois.dotproregistry.net
+whois:        whois.afilias.net
 
 status:       ACTIVE
 remarks:      Registration information: http://www.registry.pro/
 
 created:      2002-05-08
-changed:      2012-06-27
+changed:      2016-02-18
 source:       IANA
 
