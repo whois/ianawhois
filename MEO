@@ -9,13 +9,13 @@ address:      Rua Andrade Corvo nº 6 Lisbon - 1050-009
 address:      Portugal
 
 contact:      administrative
-name:         Celso Martinho
+name:         Tiago Silva Lopes
 organisation: PT Comunicacoes S.A.
 address:      Rua Andrade Corvo nº 6 Lisbon - 1050-009
 address:      Portugal
 phone:        +351215002000
 fax-no:       +351218006200
-e-mail:       celso@sl.pt
+e-mail:       tsl-gtld@telecom.pt
 
 contact:      technical
 name:         Marco Ramos
@@ -36,6 +36,6 @@ ds-rdata:     3051 7 2 7BA5B1B2FAB793AB2AE5E6A8DD6AC5E6BA9F7F9625F412267FF88A37C
 status:       ACTIVE
 
 created:      2015-01-15
-changed:      2015-10-29
+changed:      2016-02-18
 source:       IANA
 
