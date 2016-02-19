@@ -4,47 +4,51 @@
 
 domain:       HIV
 
-organisation: dotHIV gemeinnuetziger e.V.
-address:      Lehmbruckstr. 3
-address:      Berlin, Berlin 10245
-address:      Germany
+organisation: Uniregistry, Corp.
+address:      Governors Square, Unit 3-110
+address:      23 Lime Tree Bay Avenue
+address:      George Town, Grand Cayman KY1-1108
+address:      Cayman Islands
 
 contact:      administrative
-name:         CEO
-organisation: dotHIV gemeinnütziger e.V.
-address:      Lehmbruckstr. 3
-address:      Berlin, Berlin 10245
-address:      Germany
-phone:        +49 176 244 383 16
-fax-no:       +49 30 55229087
-e-mail:       mail@dothiv-registry.net
+name:         Frank Schilling
+organisation: Uniregistry Corp.
+address:      Governors Square, Unit 3-110
+address:      23 Lime Tree Bay Avenue
+address:      George Town, Grand Cayman KY1-1108
+address:      Cayman Islands
+phone:        +1 345 749 6263
+fax-no:       +1 345 746 6263
+e-mail:       contact@uniregistry.com
 
 contact:      technical
-name:         Senior Director, DNS Infrastructure Group
-organisation: Afilias
-address:      Building 3, Suite 105
-address:      300 Welsh Road
-address:      Horsham, PA 19044
-address:      United States
-phone:        +1 215.706.5700
-fax-no:       +1 215.706.5701
-e-mail:       tld-tech-poc@afilias.info
+name:         Francisco Obispo
+organisation: Uniregistry Inc.
+address:      Governors Square, Unit 3-110
+address:      23 Lime Tree Bay Avenue
+address:      George Town, Grand Cayman KY1-1108
+address:      Cayman Islands
+phone:        +1 345 749 6263
+fax-no:       +1 345 746 6263
+e-mail:       ops@uniregistry.com
 
+nserver:      A.HIV.DYNTLD.NET 199.19.1.26 2a02:e180:0:0:0:0:0:26
 nserver:      A0.NIC.HIV 2a01:8840:de:0:0:0:0:17 65.22.228.17
 nserver:      A2.NIC.HIV 2a01:8840:e1:0:0:0:0:17 65.22.231.17
+nserver:      B.HIV.DYNTLD.NET 199.19.7.26 2a02:e180:1:0:0:0:0:26
 nserver:      B0.NIC.HIV 2a01:8840:df:0:0:0:0:17 65.22.229.17
+nserver:      C.HIV.DYNTLD.NET 185.38.98.26 2a02:e180:2:0:0:0:0:26
 nserver:      C0.NIC.HIV 2a01:8840:e0:0:0:0:0:17 65.22.230.17
-ds-rdata:     47635 7 1 30305403ca4c590cee9b54dc662ea9d27d8774a4
-ds-rdata:     47635 7 2 dc16ef34da7a694b7d5c6d4b93a105c330d07e90fb5f62c79ec2bebe14e49b2b
+nserver:      NS1.UNIREGISTRY.NET 2620:57:4000:1:0:0:0:1 64.96.1.1
 ds-rdata:     43515 7 2 DEEBB9290635F6DFC67AB526063A2B00192713E4BB9DE8C2AB741C2C0A41BDB3
 ds-rdata:     43515 7 1 04F332A08624803A8C07BDED35BEB8091005A67F
 
-whois:        whois.afilias-srs.net
+whois:        whois.uniregistry.net
 
 status:       ACTIVE
-remarks:      Registration information: http://www.dothiv.org
+remarks:      Registration information: http://uniregistry.link
 
 created:      2014-05-22
-changed:      2016-01-20
+changed:      2016-02-19
 source:       IANA
 
