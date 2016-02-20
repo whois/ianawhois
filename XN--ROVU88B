@@ -1,0 +1,45 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       書籍
+domain-ace:   XN--ROVU88B
+
+organisation: Amazon EU S.à r.l.
+address:      410 Terry Avenue North, Seattle, WA  98109
+address:      United States
+
+contact:      administrative
+name:         Stacey King
+organisation: Amazon Registry Services
+address:      410 Terry Avenue North, Seattle, WA  98109
+address:      United States
+phone:        +1-206-740-8515
+fax-no:       +1-206-946-7702
+e-mail:       book-jp-rzm@amazon.com
+
+contact:      technical
+name:         Sean Kaine
+organisation: Neustar, Inc.
+address:      46000 Center Oak Plaza, Sterling, VA  20166
+address:      United States
+phone:        +1-571-434-5168
+fax-no:       +1-571-434-5401
+e-mail:       registrytechnical1@neustar.biz
+
+nserver:      NS1.DNS.NIC.XN--ROVU88B 156.154.169.76 2610:a1:1071:0:0:0:1:4c
+nserver:      NS2.DNS.NIC.XN--ROVU88B 156.154.170.76 2610:a1:1072:0:0:0:1:4c
+nserver:      NS3.DNS.NIC.XN--ROVU88B 156.154.171.76 2610:a1:1073:0:0:0:1:4c
+nserver:      NS4.DNS.NIC.XN--ROVU88B 156.154.172.76 2610:a1:1074:0:0:0:1:4c
+nserver:      NS5.DNS.NIC.XN--ROVU88B 156.154.173.76 2610:a1:1075:0:0:0:1:4c
+nserver:      NS6.DNS.NIC.XN--ROVU88B 156.154.174.76 2610:a1:1076:0:0:0:1:4c
+ds-rdata:     26669 8 1 77AE48B421AD80CA46CAFF9365DBE505ED0ECDF7
+ds-rdata:     26669 8 2 C41AC3314B8BB08DA69D66E8307AE3EC815E00FC740D77D34F962C9DE7038616
+
+status:       ACTIVE
+remarks:      Registration information: http://www.amazonregistry.com
+
+created:      2016-01-29
+changed:      2016-02-19
+source:       IANA
+
