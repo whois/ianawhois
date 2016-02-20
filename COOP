@@ -36,6 +36,8 @@ nserver:      A.NIC.COOP 194.169.218.64 2001:67c:13cc:0:0:0:1:64
 nserver:      B.NIC.COOP 185.24.64.64 2a04:2b00:13cc:0:0:0:1:64
 nserver:      C.NIC.COOP 212.18.248.64 2a04:2b00:13ee:0:0:0:0:64
 nserver:      D.NIC.COOP 212.18.249.64 2a04:2b00:13ff:0:0:0:0:64
+ds-rdata:     9961 8 1 F9370FAEAF0B8464B7C8802136A03FC96D8FF200
+ds-rdata:     9961 8 2 7464849B6C08384030D135D156559691DB98804CE1DAB9891447CA45B594EF36
 
 whois:        whois.nic.coop
 
@@ -43,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.coop
 
 created:      2001-12-15
-changed:      2015-05-20
+changed:      2016-02-19
 source:       IANA
 
