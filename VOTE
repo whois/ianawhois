@@ -1,0 +1,49 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       VOTE
+
+organisation: Monolith Registry LLC
+address:      746 East Winchester St
+address:      Salt Lake City, UT 84107
+address:      United States
+
+contact:      administrative
+name:         Senior Vice President
+organisation: Afilias
+address:      Building 3, Suite 105
+address:      300 Welsh Road
+address:      Horsham, PA 19044
+address:      United States
+phone:        +1 215.706.5700
+fax-no:       +1 215.706.5701
+e-mail:       tld-admin-poc@afilias.info
+
+contact:      technical
+name:         Director, DNS infrastructure Group
+organisation: Afilias
+address:      Building 3, Suite 105
+address:      300 Welsh Road
+address:      Horsham, PA 19044
+address:      United States
+phone:        +1 215.706.5700
+fax-no:       +1 215.706.5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.VOTE 2a01:8840:a2:0:0:0:0:9 65.22.168.9
+nserver:      A2.NIC.VOTE 2a01:8840:a5:0:0:0:0:9 65.22.171.9
+nserver:      B0.NIC.VOTE 2a01:8840:a3:0:0:0:0:9 65.22.169.9
+nserver:      C0.NIC.VOTE 2a01:8840:a4:0:0:0:0:9 65.22.170.9
+ds-rdata:     17586 7 1 a0b4be7608d8a2c883939b318b4afcbc1959e9a0
+ds-rdata:     17586 7 2 8e80cdb7cb91ad73a41b39196a25def591bc1b51eae1ae255181bcb8e2814f60
+
+whois:        whois.afilias.net
+
+status:       ACTIVE
+remarks:      Registration information: http://afilias.info/contact-us
+
+created:      2014-02-13
+changed:      2014-03-03
+source:       IANA
+
