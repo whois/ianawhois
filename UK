@@ -1,0 +1,56 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       UK
+
+organisation: Nominet UK
+address:      Minerva House
+address:      Edmund Halley Road
+address:      Oxford Science Park
+address:      Oxford  OX4 4DQ
+address:      United Kingdom
+
+contact:      administrative
+name:         Managing Director
+organisation: Nominet UK
+address:      Minerva House
+address:      Edmund Halley Road
+address:      Oxford Science Park
+address:      Oxford  OX4 4DQ
+address:      United Kingdom
+phone:        +44 1865 332211
+fax-no:       +44 1865 332299
+e-mail:       md@nominet.org.uk
+
+contact:      technical
+name:         Technical Director
+organisation: Nominet UK
+address:      Minerva House
+address:      Edmund Halley Road
+address:      Oxford Science Park
+address:      Oxford  OX4 4DQ
+address:      United Kingdom
+phone:        +44 1865 332211
+fax-no:       +44 1865 332299
+e-mail:       td@nominet.org.uk
+
+nserver:      DNS1.NIC.UK 213.248.216.1 2a01:618:400:0:0:0:0:1
+nserver:      DNS2.NIC.UK 103.49.80.1 2401:fd80:400:0:0:0:0:1
+nserver:      DNS3.NIC.UK 213.248.220.1 2a01:618:404:0:0:0:0:1
+nserver:      DNS4.NIC.UK 2401:fd80:404:0:0:0:0:1 43.230.48.1
+nserver:      NSA.NIC.UK 156.154.100.3 2001:502:ad09:0:0:0:0:3
+nserver:      NSB.NIC.UK 156.154.101.3
+nserver:      NSC.NIC.UK 156.154.102.3
+nserver:      NSD.NIC.UK 156.154.103.3
+ds-rdata:     43876 8 2 A107ED2AC1BD14D924173BC7E827A1153582072394F9272BA37E2353BC659603
+
+whois:        whois.nic.uk
+
+status:       ACTIVE
+remarks:      Registration information: http://www.nic.uk/
+
+created:      1985-07-24
+changed:      2015-09-01
+source:       IANA
+
