@@ -1,0 +1,57 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       WALES
+
+organisation: Nominet UK
+address:      Minerva House,
+address:      Edmund Halley Road,
+address:      Oxford Science Park,
+address:      Oxford,
+address:      OX4 4DQ
+address:      United Kingdom
+
+contact:      administrative
+name:         Chief Operations Officer
+organisation: Nominet UK
+address:      Minerva House,
+address:      Edmund Halley Road,
+address:      Oxford Science Park,
+address:      Oxford,
+address:      OX4 4DQ
+address:      United Kingdom
+phone:        +44(0)1865 332211
+e-mail:       od@nominet.org.uk
+
+contact:      technical
+name:         Chief Technology Officer
+organisation: Nominet UK
+address:      Minerva House,
+address:      Edmund Halley Road,
+address:      Oxford Science Park,
+address:      Oxford,
+address:      OX4 4DQ
+address:      United Kingdom
+phone:        +44(0)1865 332211
+e-mail:       td@nominet.org.uk
+
+nserver:      DNS1.NIC.WALES 213.248.217.2 2a01:618:401:0:0:0:0:2
+nserver:      DNS2.NIC.WALES 103.49.81.2 2401:fd80:401:0:0:0:0:2
+nserver:      DNS3.NIC.WALES 213.248.221.2 2a01:618:405:0:0:0:0:2
+nserver:      DNS4.NIC.WALES 2401:fd80:405:0:0:0:0:2 43.230.49.2
+nserver:      DNSA.NIC.WALES 156.154.100.3 2001:502:ad09:0:0:0:0:3
+nserver:      DNSB.NIC.WALES 156.154.101.3
+nserver:      DNSC.NIC.WALES 156.154.102.3
+nserver:      DNSD.NIC.WALES 156.154.103.3
+ds-rdata:     35036 8 2 909e201e00e796722f76aebb50ed2b242d7fe5a454e7c93067d9acae8f988058
+
+whois:        whois.nic.wales
+
+status:       ACTIVE
+remarks:      Registration information: http://ourhomeonline.org.uk
+
+created:      2014-07-31
+changed:      2015-08-18
+source:       IANA
+
