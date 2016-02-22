@@ -1,0 +1,49 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       VOTO
+
+organisation: Monolith Registry LLC
+address:      746 East Winchester St
+address:      Salt Lake City, UT 84107
+address:      United States
+
+contact:      administrative
+name:         Senior Vice President
+organisation: Afilias
+address:      Building 3, Suite 105
+address:      300 Welsh Road
+address:      Horsham, PA 19044
+address:      United States
+phone:        +1 215.706.5700
+fax-no:       +1 215.706.5701
+e-mail:       tld-admin-poc@afilias.info
+
+contact:      technical
+name:         Director, DNS infrastructure Group
+organisation: Afilias
+address:      Building 3, Suite 105
+address:      300 Welsh Road
+address:      Horsham, PA 19044
+address:      United States
+phone:        +1 215.706.5700
+fax-no:       +1 215.706.5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.VOTO 2a01:8840:a2:0:0:0:0:1 65.22.168.1
+nserver:      A2.NIC.VOTO 2a01:8840:a5:0:0:0:0:1 65.22.171.1
+nserver:      B0.NIC.VOTO 2a01:8840:a3:0:0:0:0:1 65.22.169.1
+nserver:      C0.NIC.VOTO 2a01:8840:a4:0:0:0:0:1 65.22.170.1
+ds-rdata:     8311 7 1 a538165168f076d2f400506d3a3fc7ae81e483a8
+ds-rdata:     8311 7 2 f689ff513836e44d785d8039338648d469b73d86d7000fb6d41624744a922dd6
+
+whois:        whois.afilias.net
+
+status:       ACTIVE
+remarks:      Registration information: http://afilias.info/contact-us
+
+created:      2014-02-13
+changed:      2014-03-03
+source:       IANA
+
