@@ -1,0 +1,47 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       UA
+
+organisation: Hostmaster Ltd.
+address:      vul Vavilovykh 18
+address:      Kyiv  04060
+address:      Ukraine
+
+contact:      administrative
+name:         Dmitry Kohmanyuk
+organisation: Hostmaster Ltd.
+address:      P.O.Box 23
+address:      Kyiv  04053
+address:      Ukraine
+phone:        +380 50 381 4604
+e-mail:       dk@cctld.ua
+
+contact:      technical
+name:         Igor Sviridov
+organisation: Hostmaster Ltd
+address:      P.O. Box 98
+address:      Kyiv  04060
+address:      Ukraine
+phone:        +1 415 672 3654
+fax-no:       +1 978 359 5830
+e-mail:       sia@nest.org
+
+nserver:      CD1.NS.UA 194.0.1.9 2001:678:4:0:0:0:0:9
+nserver:      HE1.NS.UA 2001:470:2e:1:0:0:0:27 216.218.215.27
+nserver:      HO1.NS.UA 195.47.253.1 2001:67c:258:0:0:0:0:1
+nserver:      PCH.NS.UA 2001:500:14:6012:ad:0:0:1 204.61.216.12
+nserver:      RIPE.NS.UA 193.0.9.121 2001:67c:e0:0:0:0:0:121
+nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e:0:0:0:0:1
+ds-rdata:     56514 10 2 bdd7a310534f76b2b6b25c94f816f9b9f260a2e35f526a9287e3307fb2cd16d8
+
+whois:        whois.ua
+
+status:       ACTIVE
+remarks:      Registration information: http://hostmaster.ua/
+
+created:      1992-12-01
+changed:      2014-08-27
+source:       IANA
+
