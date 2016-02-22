@@ -5,10 +5,41 @@
 domain:       ファッション
 domain-ace:   XN--BCK1B9A5DRE4C
 
-organisation: Amazon EU S.à r.l.
+organisation: Amazon Registry Services, Inc.
+address:      410 Terry Avenue North, Seattle, WA  98109
+address:      United States
 
-status:       NEW
+contact:      administrative
+name:         Stacey King
+organisation: Amazon Registry Services, Inc.
+address:      410 Terry Avenue North, Seattle, WA  98109
+address:      United States
+phone:        +1-206-740-8515
+fax-no:       +1-206-946-7702
+e-mail:       fashion-rzm@amazon.com
+
+contact:      technical
+name:         Sean Kaine
+organisation: Neustar, Inc.
+address:      46000 Center Oak Plaza, Sterling, VA  20166
+address:      United States
+phone:        +1-571-434-5168
+fax-no:       +1-571-434-5401
+e-mail:       registrytechnical1@neustar.biz
+
+nserver:      NS1.DNS.NIC.XN--BCK1B9A5DRE4C 156.154.144.194 2610:a1:1071:0:0:0:0:c2
+nserver:      NS2.DNS.NIC.XN--BCK1B9A5DRE4C 156.154.145.194 2610:a1:1072:0:0:0:0:c2
+nserver:      NS3.DNS.NIC.XN--BCK1B9A5DRE4C 156.154.159.194 2610:a1:1073:0:0:0:0:c2
+nserver:      NS4.DNS.NIC.XN--BCK1B9A5DRE4C 156.154.156.194 2610:a1:1074:0:0:0:0:c2
+nserver:      NS5.DNS.NIC.XN--BCK1B9A5DRE4C 156.154.157.194 2610:a1:1075:0:0:0:0:c2
+nserver:      NS6.DNS.NIC.XN--BCK1B9A5DRE4C 156.154.158.194 2610:a1:1076:0:0:0:0:c2
+ds-rdata:     40352 8 1 C20BFF7D63A6CA910241091FC9D3B36E83875F0F
+ds-rdata:     40352 8 2 FD15204194F4C122A3741B8C8941F20962F2A4C22EF578D062B066A3594CB7DA
+
+status:       ACTIVE
+remarks:      Registration information: http://www.amazonregistry.com
 
 created:      2016-01-29
+changed:      2016-02-22
 source:       IANA
 
