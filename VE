@@ -1,0 +1,48 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       VE
+
+organisation: Comisión Nacional de Telecomunicaciones (CONATEL)
+address:      Av. Veracruz, Edif. CONATEL, Las Mercedes
+address:      Caracas Miranda 1060
+address:      Venezuela, Bolivarian Republic Of
+
+contact:      administrative
+name:         Mr. Jesús Rivera
+organisation: Comisión Nacional de Telecomunicaciones (CONATEL)
+address:      Av. Veracruz, Edif. CONATEL, Las Mercedes
+address:      Caracas Miranda 1060
+address:      Venezuela, Bolivarian Republic Of
+phone:        +58 212 9090466
+fax-no:       +58 212 9936794
+e-mail:       jrivera@conatel.gob.ve
+
+contact:      technical
+name:         Soporte Técnico
+organisation: Comisión Nacional de Telecomunicaciones (CONATEL)
+address:      Av. Veracruz, Edif. CONATEL, Las Mercedes
+address:      Caracas Miranda 1060
+address:      Venezuela, Bolivarian Republic Of
+phone:        +58 212 9090435
+fax-no:       +58 212 9090329
+e-mail:       soportenicve@conatel.gob.ve
+
+nserver:      AZMODAN.ULA.VE 150.185.130.16
+nserver:      NS-EXT.NIC.CL 200.1.123.14
+nserver:      NS1.NIC.VE 150.188.228.4 2001:1338:0:0:0:0:0:2
+nserver:      NS2.NIC.VE 150.188.228.5 2001:1338:0:0:0:0:0:3
+nserver:      NS3.NIC.VE 190.9.129.56
+nserver:      NS4.NIC.VE 190.202.128.43
+nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e:0:0:0:0:1
+
+whois:        whois.nic.ve
+
+status:       ACTIVE
+remarks:      Registration information: http://www.nic.ve/
+
+created:      1991-03-07
+changed:      2015-07-15
+source:       IANA
+
