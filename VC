@@ -1,0 +1,47 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       VC
+
+organisation: Ministry of Telecommunications, Science, Technology and Industry
+address:      Egmont Street
+address:      Kingstown
+address:      Saint Vincent And The Grenadines
+
+contact:      administrative
+name:         Andre Bailey
+organisation: Ministry of Telecommunications, Science, Technology and Industry
+address:      Egmont Steet
+address:      Kingstown
+address:      Saint Vincent And The Grenadines
+phone:        +1 784 457 1007
+fax-no:       +1 784 457 2880
+e-mail:       abailey.itsd@mail.gov.vc
+
+contact:      technical
+name:         Technical Domain Administrator
+organisation: Afilias
+address:      300 Welsh Road, Bldg. 3,
+address:      Suite 105
+address:      Horsham Pennsylvania 19044
+address:      United States
+phone:        +1 215 706 5700
+fax-no:       +1 215 706 5701
+e-mail:       domaintech@afilias.info
+
+nserver:      A0.CCTLD.AFILIAS-NST.INFO 199.254.59.1 2001:500:25:0:0:0:0:1
+nserver:      A2.CCTLD.AFILIAS-NST.INFO 199.249.116.1 2001:500:44:0:0:0:0:1
+nserver:      B0.CCTLD.AFILIAS-NST.ORG 199.254.60.1 2001:500:26:0:0:0:0:1
+nserver:      B2.CCTLD.AFILIAS-NST.ORG 199.249.124.1 2001:500:4c:0:0:0:0:1
+nserver:      C0.CCTLD.AFILIAS-NST.INFO 199.254.61.1 2001:500:27:0:0:0:0:1
+nserver:      D0.CCTLD.AFILIAS-NST.ORG 199.254.62.1 2001:500:28:0:0:0:0:1
+
+whois:        whois2.afilias-grs.net
+
+status:       ACTIVE
+
+created:      1991-09-03
+changed:      2008-12-30
+source:       IANA
+
