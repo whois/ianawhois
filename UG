@@ -1,0 +1,50 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       UG
+
+organisation: Uganda Online Ltd.
+address:      Plot 32 Lumumba Avenue
+address:      P.O. Box 12510
+address:      Kampala
+address:      Uganda
+
+contact:      administrative
+name:         Charles Musisi
+organisation: Uganda Online Ltd.
+address:      Plot 32 Lumumba Avenue
+address:      P.O. Box 12510
+address:      Kampala
+address:      Uganda
+phone:        +256 41 340451/266194 or +256 75 707096
+fax-no:       +256 41 340456
+e-mail:       cmusisi@uol.co.ug
+
+contact:      technical
+name:         Sematimba Noah
+organisation: East African Help Desk
+address:      Plot 80/85 Kampala Road Park
+address:      Royal Arcade
+address:      Kampala
+address:      Uganda
+phone:        + 256 041 271489
+fax-no:       +1 256 041 340456
+e-mail:       ksemat@eahd.or.ug
+
+nserver:      ANYCAST.EAHD.OR.UG 2001:500:14:6060:ad:0:0:1 204.61.216.60
+nserver:      NS-UG.AFRINIC.NET 196.216.168.42 2001:43f8:120:0:0:0:0:42
+nserver:      NS.ICANN.ORG 199.4.138.53 2001:500:89:0:0:0:0:53
+nserver:      ROOT.EAHD.OR.UG 212.88.97.132
+nserver:      UG.CCTLD.AUTHDNS.RIPE.NET 193.0.9.52 2001:67c:e0:0:0:0:0:52
+ds-rdata:     2767 8 2 4278d7c4b2b45738a39f310eac36558411bd547812517bdf23f95fcbb4796b2e
+
+whois:        whois.co.ug
+
+status:       ACTIVE
+remarks:      Registration information: http://www.registry.co.ug
+
+created:      1995-03-08
+changed:      2012-10-26
+source:       IANA
+
