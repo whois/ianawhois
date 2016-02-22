@@ -1,0 +1,48 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       VU
+
+organisation: Telecom Vanuatu Limited
+address:      Lini Highway
+address:      Port Vila
+address:      Vanuatu
+
+contact:      administrative
+name:         Thomas LEROY
+organisation: Telecom Vanuatu Ltd.
+address:      Lini Highway
+address:      Port Vila
+address:      Vanuatu
+phone:        +678 7400142
+fax-no:       +678 24319
+e-mail:       iana@tvl.net.vu
+
+contact:      technical
+name:         Tchien TARI
+organisation: Telecom Vanuatu Ltd.
+address:      Lini Highway
+address:      Port Vila
+address:      Vanuatu
+phone:        +678 7400158
+fax-no:       +678 24319
+e-mail:       iana@tvl.net.vu
+
+nserver:      CCTLD-VU.ORANGE.MU 196.192.110.15
+nserver:      EFATE.VANUATU.COM.VU 202.80.32.5
+nserver:      NS1-CCTLD.VUNIC.VU 202.80.32.9
+nserver:      NS2-CCTLD.VUNIC.VU 202.80.32.10
+nserver:      SANTO.VANUATU.COM.VU 202.80.32.7
+ds-rdata:     32532 10 1 77f5f1c79ba3382000ccd4bb82c1e39b1e8752b5
+ds-rdata:     32532 10 2 33849e9d4718faf292f13d7ca863b5836871e63e8d432509a1e6ec11aa0d1596
+
+whois:        vunic.vu
+
+status:       ACTIVE
+remarks:      Registration information: http://www.vunic.vu
+
+created:      1995-04-10
+changed:      2016-01-20
+source:       IANA
+
