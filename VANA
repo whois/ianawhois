@@ -1,0 +1,45 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       VANA
+
+organisation: Lifestyle Domain Holdings, Inc.
+address:      9721 Sherill Blvd.
+address:      Knoxville, TN 37932
+address:      United States
+
+contact:      administrative
+name:         Jennifer Wolfe
+organisation: Wolfe Domain dba Dot Brand 360
+address:      4424 Carver Woods Executive Center Suite 103
+address:      Cincinnati, Ohio 45242
+address:      United States
+phone:        513.746.2800 x1
+fax-no:       NA
+e-mail:       jwolfe@dotbrand360.agency
+
+contact:      technical
+name:         Bonnie Bryant
+organisation: VeriSign, Inc.
+address:      12061 Bluemont Way
+address:      Reston, Virginia 20190
+address:      United States
+phone:        703.925.6999
+fax-no:       703.948.3978
+e-mail:       info@verisign-grs.com
+
+nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
+nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
+nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
+nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
+ds-rdata:     51813 8 2 93BAEC1BC806C42034F1BA91345D8AA439242EA114157951BF6B7E9F79FC9E0C
+
+whois:        whois.nic.vana
+
+status:       ACTIVE
+
+created:      2015-09-24
+changed:      2016-02-21
+source:       IANA
+
