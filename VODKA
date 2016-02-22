@@ -1,0 +1,38 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       VODKA
+
+organisation: Top Level Domain Holdings Limited
+address:      Craigmuir Chambers, Road Town Tortola VG 1110
+address:      Virgin Islands, British
+
+contact:      administrative
+name:         Admin Contact
+organisation: Minds + Machines Ltd
+address:      32 Nassau St, Dublin 2
+address:      Ireland
+phone:        +353.14301689
+e-mail:       support@mm-registry.com
+
+contact:      technical
+name:         Director of Software Development
+organisation: Minds + Machines Ltd
+address:      32 Nassau St, Dublin 2
+address:      Ireland
+phone:        +353.14301689
+e-mail:       support@mm-registry.com
+
+nserver:      A.NS.NIC.VODKA 2620:0171:0a02:00ad:0:0:0:23 72.0.50.23
+nserver:      B.NS.NIC.VODKA 2620:0171:0d02:00dc:0:0:0:23 72.42.114.23
+ds-rdata:     60871 8 2 5B734FA00D28664C3451D5F219E8EB825FA22E54C5D25EB5712ACC3CCC34020D
+
+whois:        whois-dub.mm-registry.com
+
+status:       ACTIVE
+
+created:      2014-02-28
+changed:      2014-03-31
+source:       IANA
+
