@@ -1,0 +1,48 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       VOLKSWAGEN
+
+organisation: Volkswagen Group of America Inc.
+address:      Berliner Ring 2
+address:      38436 Wolfsburg, Niedersachsen
+address:      Germany
+
+contact:      administrative
+name:         EBP Patents, Trademarks, Licenses
+organisation: Volkswagen AG
+address:      Berliner Ring 2
+address:      38436 Wolfsburg, Niedersachsen
+address:      Germany
+phone:        +49.536190
+fax-no:       +49.5361939607
+e-mail:       patent.domains@volkswagen.de
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      Building 3, Suite 105
+address:      300 Welsh Road
+address:      Horsham, PA 19044
+address:      United States
+phone:        +1 215.706.5700
+fax-no:       +1 215.706.5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.VOLKSWAGEN 2a01:8840:ca:0:0:0:0:25 65.22.208.25
+nserver:      A2.NIC.VOLKSWAGEN 2a01:8840:cd:0:0:0:0:25 65.22.211.25
+nserver:      B0.NIC.VOLKSWAGEN 2a01:8840:cb:0:0:0:0:25 65.22.209.25
+nserver:      C0.NIC.VOLKSWAGEN 2a01:8840:cc:0:0:0:0:25 65.22.210.25
+ds-rdata:     8646 7 1 aa89f3782e6d49fe389693b64f70f1052ac9bc2d
+ds-rdata:     8646 7 2 f43ae9e9a2453cb664ae9387212050a17fc5a9de7d847bf177c76624613d1ce2
+
+whois:        whois.afilias-srs.net
+
+status:       ACTIVE
+remarks:      Registration information: http://volkswagen.com
+
+created:      2015-12-23
+changed:      2016-01-12
+source:       IANA
+
