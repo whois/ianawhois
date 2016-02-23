@@ -28,13 +28,13 @@ address:      United Kingdom
 fax-no:       +44 1225 580 550
 e-mail:       hostmaster@nic.tm
 
-nserver:      A.NIC.TM 64.251.31.180
-nserver:      A.NS13.NET 49.212.31.192
-nserver:      B.NIC.AC 78.104.145.37
-nserver:      B.NIC.IO 194.0.2.1 2001:678:5:0:0:0:0:1
-nserver:      B.NS13.NET 49.212.51.85
-nserver:      NS1.COMMUNITYDNS.NET 194.0.1.1 2001:678:4:0:0:0:0:1
-nserver:      NS3.ICB.CO.UK 91.208.95.130
+nserver:      NS-A1.TM 194.0.1.22 2001:678:4:0:0:0:0:16
+nserver:      NS-A2.TM 194.0.2.22 2001:678:5:0:0:0:0:16
+nserver:      NS-A3.TM 74.116.178.22
+nserver:      NS-A4.TM 74.116.179.22
+nserver:      NS-D1.TM 2607:feb8:0:0:0:0:5:8 64.251.31.180
+nserver:      NS-L1.TM 2001:470:1f1d:244:0:0:0:44 80.249.100.44
+nserver:      NS-Y1.TM 2001:470:1f07:d0b:0:0:0:22 91.208.95.22
 ds-rdata:     36787 8 2 AF4A3A54AA5F73C114F9C6E4D9C3EF0040E387806A9F92AE85276FF38F33BCB5
 
 whois:        whois.nic.tm
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.tm/
 
 created:      1997-05-30
-changed:      2014-03-28
+changed:      2016-02-22
 source:       IANA
 
