@@ -28,13 +28,10 @@ phone:        +1 7039256999
 fax-no:       +1 7039483978
 e-mail:       info@verisign-grs.com
 
-nserver:      A5.NSTLD.COM 192.5.6.34
-nserver:      C5.NSTLD.COM 192.26.92.34
-nserver:      D5.NSTLD.COM 192.31.80.34
-nserver:      F5.NSTLD.COM 192.35.51.34 2001:503:d414:0:0:0:2:34
-nserver:      G5.NSTLD.COM 192.42.93.34
-nserver:      H5.NSTLD.COM 192.54.112.34 2001:502:08cc:0:0:0:2:34
-nserver:      L5.NSTLD.COM 192.41.162.34
+nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
+nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
+nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
+nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
 ds-rdata:     8913 8 2 4B1C638C7FC58D11BF54B976CE4FBA1CDB935F993F6B50194093B2479BFF8504
 
 whois:        whois.nic.fairwinds
@@ -44,6 +41,6 @@ remarks:      Registration information:
 remarks:      http://www.fairwindspartners.com
 
 created:      2015-10-29
-changed:      2015-11-13
+changed:      2016-02-22
 source:       IANA
 
