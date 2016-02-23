@@ -1,0 +1,55 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       STORE
+
+organisation: DotStore Inc.
+address:      Directiplex
+address:      Next to Andheri Subway
+address:      Old Nagardas Road, Andheri (East)
+address:      Mumbai
+address:      Maharashtra
+address:      400069
+address:      India
+
+contact:      administrative
+name:         Manager
+organisation: DotStore Inc
+address:      Directiplex
+address:      Next to Andheri Subway
+address:      Old Nagardas Road, Andheri (East)
+address:      Mumbai
+address:      Maharashtra
+address:      400069
+address:      India
+phone:        +1.4154494774x8522
+fax-no:       +91.2230797508
+e-mail:       admin@radixregistry.com
+
+contact:      technical
+name:         CTO
+organisation: CentralNic
+address:      35-39 Moorgate
+address:      London EC2R 6AR
+address:      United Kingdom
+phone:        +44.2033880600
+fax-no:       +44.2033880601
+e-mail:       tld.ops@centralnic.com
+
+nserver:      A.NIC.STORE 194.169.218.45 2001:67c:13cc:0:0:0:1:45
+nserver:      B.NIC.STORE 185.24.64.45 2a04:2b00:13cc:0:0:0:1:45
+nserver:      C.NIC.STORE 194.0.2.2 2001:678:5:0:0:0:0:2
+nserver:      D.NIC.STORE 194.0.1.45 2001:678:4:0:0:0:0:2d
+ds-rdata:     16342 8 1 C6D41FB11396E2B908BD82ADD46457DAA960EC23
+ds-rdata:     16342 8 2 E59827295E51C4F46D5208ED454BCD78DD6FFA49F01BD203B24E1380AA535675
+
+whois:        whois.nic.store
+
+status:       ACTIVE
+remarks:      Registration information: http://radix.website/
+
+created:      2016-02-11
+changed:      2016-02-22
+source:       IANA
+
