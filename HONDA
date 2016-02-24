@@ -39,6 +39,7 @@ nserver:      C.NIC.HONDA 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      D.NIC.HONDA 2001:dcd:4:0:0:0:0:9 37.209.198.9
 ds-rdata:     7057 8 2 E00D6E9F0518674141AD5E7CF6D63427145C172FC963B578608168A2F53F76F2
 ds-rdata:     7057 8 1 D04AC145F210530781D3F961FC4AF4AC7DA5742E
+ds-rdata:     7720 8 2 2a8b55eb66f0553710e41abfc9309cfb7f553edb144dd1bef3b40749bcde8fa8
 
 whois:        whois.nic.honda
 
@@ -46,6 +47,6 @@ status:       ACTIVE
 remarks:      Registration information: http://honda.com
 
 created:      2015-03-06
-changed:      2016-02-14
+changed:      2016-02-24
 source:       IANA
 
