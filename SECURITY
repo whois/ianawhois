@@ -32,8 +32,8 @@ e-mail:       tld.ops@centralnic.com
 
 nserver:      A.NIC.SECURITY 194.169.218.68 2001:67c:13cc:0:0:0:1:68
 nserver:      B.NIC.SECURITY 185.24.64.68 2a04:2b00:13cc:0:0:0:1:68
-nserver:      C.NIC.SECURITY 194.0.2.2 2001:678:5:0:0:0:0:2
-nserver:      D.NIC.SECURITY 194.0.1.45 2001:678:4:0:0:0:0:2d
+nserver:      C.NIC.SECURITY 185.38.99.9 2a02:e180:3:0:0:0:0:9
+nserver:      D.NIC.SECURITY 108.59.161.9 2a02:e180:4:0:0:0:0:9
 nserver:      E.NIC.SECURITY 212.18.248.68 2a04:2b00:13ee:0:0:0:0:68
 nserver:      F.NIC.SECURITY 212.18.249.68 2a04:2b00:13ff:0:0:0:0:68
 ds-rdata:     14150 8 1 E14122358E5F8AFC204A70C4D71F312D7C6595BB
@@ -45,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://gen.xyz/blog/security
 
 created:      2015-09-03
-changed:      2015-10-10
+changed:      2016-02-24
 source:       IANA
 
