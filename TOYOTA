@@ -43,6 +43,7 @@ nserver:      C.NIC.TOYOTA 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      D.NIC.TOYOTA 2001:dcd:4:0:0:0:0:9 37.209.198.9
 ds-rdata:     37849 8 1 5CF2338D81DE3450765B481FF84C05FE7069ED52
 ds-rdata:     37849 8 2 954A333581ADAEA2CD94DD53E3F4BD6EEDC1F81DF76824BB42288EBB24B62FFB
+ds-rdata:     59500 8 2 41df2bd2893b87fc2f2df52db9d8fdf19b41bc06959a91350abdcf10b1f008a2
 
 whois:        whois.nic.toyota
 
@@ -50,6 +51,6 @@ status:       ACTIVE
 remarks:      Registration information: http://toyota.jp/
 
 created:      2015-07-16
-changed:      2016-02-14
+changed:      2016-02-24
 source:       IANA
 
