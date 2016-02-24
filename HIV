@@ -33,12 +33,8 @@ fax-no:       +1 345 746 6263
 e-mail:       ops@uniregistry.com
 
 nserver:      A.HIV.DYNTLD.NET 199.19.1.26 2a02:e180:0:0:0:0:0:26
-nserver:      A0.NIC.HIV 2a01:8840:de:0:0:0:0:17 65.22.228.17
-nserver:      A2.NIC.HIV 2a01:8840:e1:0:0:0:0:17 65.22.231.17
 nserver:      B.HIV.DYNTLD.NET 199.19.7.26 2a02:e180:1:0:0:0:0:26
-nserver:      B0.NIC.HIV 2a01:8840:df:0:0:0:0:17 65.22.229.17
 nserver:      C.HIV.DYNTLD.NET 185.38.98.26 2a02:e180:2:0:0:0:0:26
-nserver:      C0.NIC.HIV 2a01:8840:e0:0:0:0:0:17 65.22.230.17
 nserver:      NS1.UNIREGISTRY.NET 2620:57:4000:1:0:0:0:1 64.96.1.1
 ds-rdata:     43515 7 2 DEEBB9290635F6DFC67AB526063A2B00192713E4BB9DE8C2AB741C2C0A41BDB3
 ds-rdata:     43515 7 1 04F332A08624803A8C07BDED35BEB8091005A67F
@@ -49,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://uniregistry.link
 
 created:      2014-05-22
-changed:      2016-02-19
+changed:      2016-02-24
 source:       IANA
 
