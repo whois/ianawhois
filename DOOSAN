@@ -4,42 +4,34 @@
 
 domain:       DOOSAN
 
-organisation: Emergency Back-End Registry Operator Program - ICANN
+organisation: Retired
 address:      12025 Waterfront Dr., Suite 300
 address:      Los Angeles, CA 90094
 address:      United States
 
 contact:      administrative
-name:         EBERO Event Director
+name:         Internet Assigned Numbers Authority (IANA)
 organisation: Internet Corporation for Assigned Names and Numbers (ICANN)
 address:      12025 Waterfront Dr., Suite 300
 address:      Los Angeles, CA 90094
 address:      United States
 phone:        +1 310 301 5800
 fax-no:       +1 310 823 8649
-e-mail:       globalsupport@icann.org
+e-mail:       tld-contact@iana.org
 
 contact:      technical
-name:         Nominet EBERO Event Manager
-organisation: Nominet
-address:      Minerva House, Edmund Halley Road
-address:      Oxford Science Park
-address:      Oxford OX44DQ
-address:      United Kingdom
-phone:        +44 1865 332470
-e-mail:       ebero@nominet.uk
+name:         Internet Assigned Numbers Authority (IANA)
+organisation: Internet Corporation for Assigned Names and Numbers (ICANN)
+address:      12025 Waterfront Drive Suite 300
+address:      Los Angeles, CA 90094
+address:      United States
+phone:        +1 310 301 5800
+fax-no:       +1 310 823 8649
+e-mail:       tld-contact@iana.org
 
-nserver:      DNS1.EMDNS.UK 213.248.219.10 2a01:618:403:0:0:0:0:10
-nserver:      DNS2.EMDNS.UK 103.49.83.10 2401:fd80:403:0:0:0:0:10
-nserver:      DNS3.EMDNS.UK 213.248.223.10 2a01:618:407:0:0:0:0:10
-nserver:      DNS4.EMDNS.UK 2401:fd80:407:0:0:0:0:10 43.230.51.10
-ds-rdata:     42289 8 2 47391E186F91305507849525D3336CD09EAEC6CF3199CB7F862487FB6F08FC24
-
-status:       ACTIVE
-remarks:      Registration information:
-remarks:      https://www.icann.org/resources/pages/ebero-2013-04-02-en
+status:       INACTIVE
 
 created:      2014-10-30
-changed:      2016-01-27
+changed:      2016-02-24
 source:       IANA
 
