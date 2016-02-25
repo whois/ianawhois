@@ -5,9 +5,49 @@
 domain:       TELECITY
 
 organisation: TelecityGroup International Limited
+address:      MASTERS HOUSE
+address:      107 HAMMERSMITH ROAD LONDON
+address:      W14 0QH
+address:      United Kingdom
 
-status:       NEW
+contact:      administrative
+name:         David Taylor
+organisation: Hogan Lovells (Paris) LLP
+address:      17 avenue Matignon
+address:      Paris
+address:      75008
+address:      France
+phone:        +33153674747
+fax-no:       +33153674748
+e-mail:       dave.taylor@hoganlovells.com
+
+contact:      technical
+name:         David Taylor
+organisation: Hogan Lovells (Paris) LLP
+address:      17 avenue Matignon
+address:      Paris
+address:      75008
+address:      France
+phone:        +33153674747
+fax-no:       +33153674748
+e-mail:       dave.taylor@hoganlovells.com
+
+nserver:      DNS1.NIC.TELECITY 213.248.217.8 2a01:618:401:0:0:0:0:8
+nserver:      DNS2.NIC.TELECITY 103.49.81.8 2401:fd80:401:0:0:0:0:8
+nserver:      DNS3.NIC.TELECITY 213.248.221.8 2a01:618:405:0:0:0:0:8
+nserver:      DNS4.NIC.TELECITY 2401:fd80:405:0:0:0:0:8 43.230.49.8
+nserver:      DNSA.NIC.TELECITY 156.154.100.3 2001:502:ad09:0:0:0:0:3
+nserver:      DNSB.NIC.TELECITY 156.154.101.3
+nserver:      DNSC.NIC.TELECITY 156.154.102.3
+nserver:      DNSD.NIC.TELECITY 156.154.103.3
+ds-rdata:     20815 8 2 3bcef5eb74a3eede1006c97c0928614ed2a13c7cd2e57e5019f23ced3632729a
+
+whois:        whois.nic.telecity
+
+status:       ACTIVE
+remarks:      Registration information: http://www.telecitygroup.com/
 
 created:      2016-02-11
+changed:      2016-02-25
 source:       IANA
 
