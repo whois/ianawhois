@@ -43,6 +43,7 @@ nserver:      C.NIC.LIXIL 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      D.NIC.LIXIL 2001:dcd:4:0:0:0:0:9 37.209.198.9
 ds-rdata:     5761 8 1 0DA22E925566C3331A6547140B34278E574DB31B
 ds-rdata:     5761 8 2 F1C699CAFD25D0D7B5C51185DA7AFD750A516BDC45A68E9F539AF0BED007CC9A
+ds-rdata:     52981 8 2 e7d4b5f4cd491be058139cad0091b70d6ac1f5f6cacb274db8e240a45f5e98b5
 
 whois:        whois.nic.lixil
 
@@ -50,6 +51,6 @@ status:       ACTIVE
 remarks:      Registration information: http://global.lixil.co.jp/
 
 created:      2015-07-16
-changed:      2016-02-14
+changed:      2016-02-26
 source:       IANA
 
