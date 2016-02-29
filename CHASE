@@ -5,9 +5,40 @@
 domain:       CHASE
 
 organisation: JPMorgan Chase & Co.
+address:      270 Park Avenue, New York NY 10017
+address:      United States
 
-status:       NEW
+contact:      administrative
+name:         Chris Niemi
+organisation: MarkMonitor Inc.
+address:      391 N. Ancestor Pl., Boise, ID 83704
+address:      United States
+phone:        +1-208-389-5740
+fax-no:       +1-208-389-5771
+e-mail:       dotchase@markmonitor.com
+
+contact:      technical
+name:         Sean Kaine
+organisation: Neustar, Inc.
+address:      46000 Center Oak Plaza, Sterling, VA  20166
+address:      United States
+phone:        +1-571-434-5168
+fax-no:       +1-571-434-5401
+e-mail:       registrytechnical1@neustar.biz
+
+nserver:      NS1.DNS.NIC.CHASE 156.154.144.39 2610:a1:1071:0:0:0:0:27
+nserver:      NS2.DNS.NIC.CHASE 156.154.145.39 2610:a1:1072:0:0:0:0:27
+nserver:      NS3.DNS.NIC.CHASE 156.154.159.39 2610:a1:1073:0:0:0:0:27
+nserver:      NS4.DNS.NIC.CHASE 156.154.156.39 2610:a1:1074:0:0:0:0:27
+nserver:      NS5.DNS.NIC.CHASE 156.154.157.39 2610:a1:1075:0:0:0:0:27
+nserver:      NS6.DNS.NIC.CHASE 156.154.158.39 2610:a1:1076:0:0:0:0:27
+ds-rdata:     14354 8 1 E3BAF3399996C53AE486A69F3A1E779A6E4688CD
+ds-rdata:     14354 8 2 69B719B847E40E2B9DDFDF4C6F99B1DA8E22300255AA240D63B7633D893E0032
+
+status:       ACTIVE
+remarks:      Registration information: http://www.jpmorganchase.com
 
 created:      2016-01-14
+changed:      2016-02-29
 source:       IANA
 
