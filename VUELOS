@@ -5,9 +5,40 @@
 domain:       VUELOS
 
 organisation: Travel Reservations SRL
+address:      Ruta 8 km 17,500, Edificio Synergia, Oficina 101, Zonamerica, Montevideo, UY 1600
+address:      Uruguay
 
-status:       NEW
+contact:      administrative
+name:         Delfina Young
+organisation: Travel Reservations SRL
+address:      Ruta 8 km 17,500, Edificio Synergia, Oficina 101, Zonamerica, Montevideo, UY 1600
+address:      Uruguay
+phone:        +541148943588
+fax-no:       +541148943500
+e-mail:       gtldscontact@despegar.com
+
+contact:      technical
+name:         Sean Kaine
+organisation: Neustar, Inc.
+address:      46000 Center Oak Plaza, Sterling, VA  20166
+address:      United States
+phone:        +1-571-434-5168
+fax-no:       +1-571-434-5401
+e-mail:       registrytechnical1@neustar.biz
+
+nserver:      NS1.DNS.NIC.VUELOS 156.154.144.175 2610:a1:1071:0:0:0:0:af
+nserver:      NS2.DNS.NIC.VUELOS 156.154.145.175 2610:a1:1072:0:0:0:0:af
+nserver:      NS3.DNS.NIC.VUELOS 156.154.159.175 2610:a1:1073:0:0:0:0:af
+nserver:      NS4.DNS.NIC.VUELOS 156.154.156.175 2610:a1:1074:0:0:0:0:af
+nserver:      NS5.DNS.NIC.VUELOS 156.154.157.175 2610:a1:1075:0:0:0:0:af
+nserver:      NS6.DNS.NIC.VUELOS 156.154.158.175 2610:a1:1076:0:0:0:0:af
+ds-rdata:     42665 8 1 1C1A757D15A20E3704D6A5EEC5C75F028D33E1AC
+ds-rdata:     42665 8 2 8B054834BEB28FD9347BE2C2D94672C163729914BC6C01245727B31A72D1A746
+
+status:       ACTIVE
+remarks:      Registration information: http://www.despegar.com
 
 created:      2016-02-19
+changed:      2016-03-02
 source:       IANA
 
