@@ -9,12 +9,14 @@ address:      8 Canada Square, Canary Wharf, London, - E14 5HQ, GB
 address:      United Kingdom
 
 contact:      administrative
-name:         Martin Sutton
-organisation: HSBC
-address:      HSBC Holdings PLC, 8 Canada Square, Canary Wharf, London, E14 5HQ, UK
+name:         Kevin Audritt
+organisation: HSBC Holdings PLC
+address:      8 Canada Square
+address:      Canary Wharf
+address:      London, E14 5HQ
 address:      United Kingdom
-phone:        +44 (0)20 7991 8074
-e-mail:       martinsutton@hsbc.com
+phone:        +44 (0)20 7991 0814
+e-mail:       kevinaudritt@hsbc.com
 
 contact:      technical
 name:         Sean Kaine
@@ -38,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.hsbc
 
 created:      2015-01-15
-changed:      2015-07-15
+changed:      2016-03-03
 source:       IANA
 
