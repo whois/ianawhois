@@ -27,10 +27,10 @@ phone:        +81-3-5456-1601
 fax-no:       +81-3-3780-5239
 e-mail:       newgtld@gmoregistry.com
 
-nserver:      A.NIC.SOFTBANK 2001:dcd:1:0:0:0:0:9 37.209.192.9
-nserver:      B.NIC.SOFTBANK 2001:dcd:2:0:0:0:0:9 37.209.194.9
-nserver:      C.NIC.SOFTBANK 2001:dcd:3:0:0:0:0:9 37.209.196.9
-nserver:      D.NIC.SOFTBANK 2001:dcd:4:0:0:0:0:9 37.209.198.9
+nserver:      A.GMOREGISTRY.NET 2001:dcd:1:0:0:0:0:4 37.209.192.4
+nserver:      B.GMOREGISTRY.NET 2001:dcd:2:0:0:0:0:4 37.209.194.4
+nserver:      K.GMOREGISTRY.NET 37.209.196.4
+nserver:      L.GMOREGISTRY.NET 2001:dcd:4:0:0:0:0:4 37.209.198.4
 ds-rdata:     1222 8 1 96E3ED463E3164E1D5CF6FCF1E0148885CDD8F75
 ds-rdata:     1222 8 2 DD208E9B8699DCC187480972087D0DDF3A90641CCC07920E7D9742C3EABCABB1
 ds-rdata:     38621 8 2 bd17c486853de396f7d05b5f1cbee683fbe2452d35d9605ba46ce7986dd7067c
@@ -41,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://softbank.com/
 
 created:      2015-12-23
-changed:      2016-02-26
+changed:      2016-03-03
 source:       IANA
 
