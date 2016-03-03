@@ -37,10 +37,10 @@ phone:        +81.354561601
 fax-no:       +81.337805239
 e-mail:       newgtld@gmoregistry.com
 
-nserver:      A.NIC.LEXUS 2001:dcd:1:0:0:0:0:9 37.209.192.9
-nserver:      B.NIC.LEXUS 2001:dcd:2:0:0:0:0:9 37.209.194.9
-nserver:      C.NIC.LEXUS 2001:dcd:3:0:0:0:0:9 37.209.196.9
-nserver:      D.NIC.LEXUS 2001:dcd:4:0:0:0:0:9 37.209.198.9
+nserver:      A.GMOREGISTRY.NET 2001:dcd:1:0:0:0:0:4 37.209.192.4
+nserver:      B.GMOREGISTRY.NET 2001:dcd:2:0:0:0:0:4 37.209.194.4
+nserver:      K.GMOREGISTRY.NET 37.209.196.4
+nserver:      L.GMOREGISTRY.NET 2001:dcd:4:0:0:0:0:4 37.209.198.4
 ds-rdata:     31717 8 1 40A76BB88616447F4F851523174B0612256D9A95
 ds-rdata:     31717 8 2 2C30CE8F4A0B4D9F03AC703DF1FE529ABC781E2486EA4BE05EADBF9314CCE385
 ds-rdata:     35611 8 2 0bf0332ede1225fa10d591f8a3ae6d917d98d9a61e322a410759a7e6b4a73230
@@ -51,6 +51,6 @@ status:       ACTIVE
 remarks:      Registration information: http://lexus.jp/
 
 created:      2015-07-16
-changed:      2016-02-24
+changed:      2016-03-03
 source:       IANA
 
