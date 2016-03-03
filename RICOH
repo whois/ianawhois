@@ -35,10 +35,10 @@ phone:        +81.354561601
 fax-no:       +81.337805239
 e-mail:       newgtld@gmoregistry.com
 
-nserver:      A.NIC.RICOH 2001:dcd:1:0:0:0:0:9 37.209.192.9
-nserver:      B.NIC.RICOH 2001:dcd:2:0:0:0:0:9 37.209.194.9
-nserver:      C.NIC.RICOH 2001:dcd:3:0:0:0:0:9 37.209.196.9
-nserver:      D.NIC.RICOH 2001:dcd:4:0:0:0:0:9 37.209.198.9
+nserver:      A.GMOREGISTRY.NET 2001:dcd:1:0:0:0:0:4 37.209.192.4
+nserver:      B.GMOREGISTRY.NET 2001:dcd:2:0:0:0:0:4 37.209.194.4
+nserver:      K.GMOREGISTRY.NET 37.209.196.4
+nserver:      L.GMOREGISTRY.NET 2001:dcd:4:0:0:0:0:4 37.209.198.4
 ds-rdata:     58699 8 1 65A566AD45785CDB25C756BB9BF51C41FA096BA6
 ds-rdata:     58699 8 2 F53D6ADFAB91D7B2196920B581174AA3706A7645812E26FB1CA6F391EE1C65AB
 ds-rdata:     23519 8 2 6c1fbe2b9ce9f03a83b1c69578e5c0dc165d1297634f5ad4cc06da6f408c50b4
@@ -49,6 +49,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.ricoh.com
 
 created:      2015-03-06
-changed:      2016-02-24
+changed:      2016-03-03
 source:       IANA
 
