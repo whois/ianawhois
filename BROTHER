@@ -32,10 +32,10 @@ phone:        +81.354561601
 fax-no:       +81.337805239
 e-mail:       newgtld@gmoregistry.com
 
-nserver:      A.NIC.BROTHER 2001:dcd:1:0:0:0:0:9 37.209.192.9
-nserver:      B.NIC.BROTHER 2001:dcd:2:0:0:0:0:9 37.209.194.9
-nserver:      C.NIC.BROTHER 2001:dcd:3:0:0:0:0:9 37.209.196.9
-nserver:      D.NIC.BROTHER 2001:dcd:4:0:0:0:0:9 37.209.198.9
+nserver:      A.GMOREGISTRY.NET 2001:dcd:1:0:0:0:0:4 37.209.192.4
+nserver:      B.GMOREGISTRY.NET 2001:dcd:2:0:0:0:0:4 37.209.194.4
+nserver:      K.GMOREGISTRY.NET 37.209.196.4
+nserver:      L.GMOREGISTRY.NET 2001:dcd:4:0:0:0:0:4 37.209.198.4
 ds-rdata:     26701 8 1 D76BBFD5A755563E7B403762A44662AF85B5A453
 ds-rdata:     26701 8 2 299BBC18144DE8DA800B8F08BA50D40136804EA66BEFC76DE62BC9346F6E2E58
 ds-rdata:     30500 8 2 5a07cf62be2333c7b2642c8b16545fc1dac29e29e75561e0e01f7f066b8cfa90
@@ -46,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.brother.com/
 
 created:      2015-04-09
-changed:      2016-02-24
+changed:      2016-03-03
 source:       IANA
 
