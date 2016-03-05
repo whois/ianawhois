@@ -6,9 +6,40 @@ domain:       嘉里大酒店
 domain-ace:   XN--W4R85EL8FHU5DNRA
 
 organisation: Kerry Trading Co. Limited
+address:      31/F Kerry Centre 683 King’s Road, Quarry Bay
+address:      Hong Kong
 
-status:       NEW
+contact:      administrative
+name:         Legal Director
+organisation: Kerry Trading Co. Limited
+address:      31/F Kerry Centre 683 King’s Road, Quarry Bay
+address:      Hong Kong
+phone:        +852 2525 7211
+fax-no:       +852 2845 9000
+e-mail:       ngtld-kerry4@cscinfo.com
+
+contact:      technical
+name:         Registry Customer Service
+organisation: Verisign, Inc.
+address:      12061 Bluemont Way
+address:      Reston Virginia 20190
+address:      United States
+phone:        +1-703-925-6999
+fax-no:       +1-703-948-3978
+e-mail:       info@verisign-grs.com
+
+nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
+nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
+nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
+nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
+ds-rdata:     906 8 2 7A3AF4E169B87F77F5019E75A3BEE359415CD06E9787BFEEB00247517DD0EC0E
+
+whois:        whois.nic.xn--w4r85el8fhu5dnra
+
+status:       ACTIVE
+remarks:      Registration information: http://www.kerryprops.com
 
 created:      2016-02-05
+changed:      2016-03-05
 source:       IANA
 
