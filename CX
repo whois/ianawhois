@@ -4,28 +4,29 @@
 
 domain:       CX
 
-organisation: Christmas Island Internet Administration Limited
-address:      Christmas Island Technology Centre (6RCI),
+organisation: Christmas Island Domain Administration Limited
+address:      Christmas Island Technology Centre (6RCI)
 address:      Nursery Road, Drumsite
-address:      Christmas Island Indian Ocean 6798
+address:      Indian Ocean WA 6798
 address:      Christmas Island
 
 contact:      administrative
 name:         Director (Garth Miller)
-organisation: Christmas Island Internet Administration Limited
-address:      Christmas Island Technology Centre (6RCI),
+organisation: Christmas Island Domain Administration Limited
+address:      Christmas Island Technology Centre (6RCI)
 address:      Nursery Road, Drumsite
-address:      Christmas Island Indian Ocean 6798
+address:      Indian Ocean 6798
 address:      Christmas Island
 phone:        +64 (0) 9 446 6370
-e-mail:       garth.miller@nic.cx
+e-mail:       admin@cxda.org.cx
 
 contact:      technical
 name:         Brad Waugh
-organisation: CoCCA Registry Services (NZ) Limited
-address:      11a Wynyard Street
-address:      Devonport Auckland 0744
-address:      New Zealand
+organisation: Christmas Island Domain Administration Limited
+address:      Christmas Island Technology Centre (6RCI)
+address:      Nursery Road, Drumsite
+address:      Indian Ocean 6798
+address:      Christmas Island
 phone:        +64 (0)9 446 6370
 e-mail:       registry@cxda.org.cx
 
@@ -37,9 +38,9 @@ ds-rdata:     6500 8 2 4854A102492CE0C50C714F366EBBD520CBA38BBEFC91CF295EEE8E6EF
 whois:        whois.nic.cx
 
 status:       ACTIVE
-remarks:      Registration information: http://www.nic.cx
+remarks:      Registration information: http://cxda.org.cx
 
 created:      1997-04-24
-changed:      2016-02-16
+changed:      2016-03-08
 source:       IANA
 
