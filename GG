@@ -6,7 +6,7 @@ domain:       GG
 
 organisation: Island Networks Ltd.
 address:      Maison Postel
-address:      Olivier St
+address:      Ollivier St
 address:      Alderney GY9 3JZ
 address:      Guernsey
 
@@ -14,7 +14,7 @@ contact:      administrative
 name:         Nigel Roberts
 organisation: Island Networks Ltd
 address:      Maison Postel
-address:      Olivier St
+address:      Ollivier St
 address:      Alderney GY9 3JZ
 address:      Guernsey
 phone:        +44 1481 521713
@@ -24,7 +24,7 @@ contact:      technical
 name:         GG-Hostmaster
 organisation: Island Networks Limited
 address:      Maison Postel
-address:      Olivier St
+address:      Ollivier St
 address:      Alderney GY9 3JZ
 address:      Guernsey
 phone:        +44 1481 521713
@@ -42,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.gg
 
 created:      1996-08-07
-changed:      2016-03-04
+changed:      2016-03-08
 source:       IANA
 
