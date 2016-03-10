@@ -1,0 +1,48 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       TOTAL
+
+organisation: Total SA
+address:      2 place Jean Millier
+address:      La Defense 6
+address:      92078 Paris La Defense Cedex
+address:      France
+
+contact:      administrative
+name:         COO
+organisation: SafeBrands
+address:      37 rue Guibal
+address:      13003 Marseille
+address:      France
+phone:        +33488662207
+fax-no:       +33488662220
+e-mail:       tldtotal@safebrands.com
+
+contact:      technical
+name:         Project Manager
+organisation: AFNIC
+address:      1 rue Stephenson
+address:      Immeuble Le Stephenson
+address:      78180 Montigny-Le-Bretonneux
+address:      France
+phone:        +33 672217740
+fax-no:       +33 139308383
+e-mail:       pdttotal@afnic.fr
+
+nserver:      D.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
+nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
+nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
+ds-rdata:     18692 8 2 14e934e500281bbdbc2d50d928621b69e4a748f54b4b6e56e1f7bc6f14f9646e
+ds-rdata:     6724 8 2 75611c940645ff26bd9b14ed50b94627ff886cc79b928e52755c0117135358fa
+
+whois:        whois-total.nic.fr
+
+status:       ACTIVE
+remarks:      Registration information: http://www.total.com
+
+created:      2016-02-05
+changed:      2016-03-09
+source:       IANA
+
