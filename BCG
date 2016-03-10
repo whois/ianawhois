@@ -1,0 +1,48 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       BCG
+
+organisation: The Boston Consulting Group, Inc.
+address:      One Beacon Street
+address:      Boston, MA 02108
+address:      United States
+
+contact:      administrative
+name:         Global Digital Marketing Programs Director
+organisation: The Boston Consulting Group, Inc.
+address:      One Beacon Street
+address:      Boston, MA 02108
+address:      United States
+phone:        +1.617 973 1200
+fax-no:       +1.617 973 1399
+e-mail:       ngtld-bcg@cscglobal.com
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      Building 3, Suite 105
+address:      300 Welsh Road
+address:      Horsham, PA 19044
+address:      United States
+phone:        +1 215.706.5700
+fax-no:       +1 215.706.5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.BCG 2a01:8840:d2:0:0:0:0:25 65.22.216.25
+nserver:      A2.NIC.BCG 2a01:8840:d5:0:0:0:0:25 65.22.219.25
+nserver:      B0.NIC.BCG 2a01:8840:d3:0:0:0:0:25 65.22.217.25
+nserver:      C0.NIC.BCG 2a01:8840:d4:0:0:0:0:25 65.22.218.25
+ds-rdata:     48108 7 1 1fcab02e25c47f8c985a150f983dc199d3e6b9be
+ds-rdata:     48108 7 2 e085676a3b8056349653315e5df6709bb16844ba1dbd701517ffea8b79f7a32e
+
+whois:        whois.afilias-srs.net
+
+status:       ACTIVE
+remarks:      Registration information: http://www.bcg.com
+
+created:      2016-02-11
+changed:      2016-03-09
+source:       IANA
+
