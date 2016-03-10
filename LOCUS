@@ -1,0 +1,50 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       LOCUS
+
+organisation: Locus Analytics LLC
+address:      179 Franklin Street
+address:      3rd Floor
+address:      New York, New York 10013
+address:      United States
+
+contact:      administrative
+name:         Sean Sandys
+organisation: Locus Analytics LLC
+address:      101 W. Elliot Street,
+address:      4th Floor
+address:      Seattle, Washington 98119
+address:      United States
+phone:        +1 206 910 6225
+fax-no:       +1 212 883 2299
+e-mail:       sean@tyemill.com
+
+contact:      technical
+name:         Barbara Bellis
+organisation: Nominet UK
+address:      Minerva House,
+address:      Edmund Halley Road
+address:      Oxford OX4 4DQ
+address:      United Kingdom
+phone:        +44 (0)1865 332343
+fax-no:       +44 (0)1865 332288
+e-mail:       barbara.bellis@nominet.uk
+
+nserver:      DNS1.NIC.LOCUS 213.248.217.11 2a01:618:401:0:0:0:0:11
+nserver:      DNS2.NIC.LOCUS 103.49.81.11 2401:fd80:401:0:0:0:0:11
+nserver:      DNS3.NIC.LOCUS 213.248.221.11 2a01:618:405:0:0:0:0:11
+nserver:      DNS4.NIC.LOCUS 2401:fd80:405:0:0:0:0:11 43.230.49.11
+nserver:      DNSA.NIC.LOCUS 156.154.100.3 2001:502:ad09:0:0:0:0:3
+nserver:      DNSB.NIC.LOCUS 156.154.101.3
+nserver:      DNSC.NIC.LOCUS 156.154.102.3
+nserver:      DNSD.NIC.LOCUS 156.154.103.3
+ds-rdata:     5281 8 2 be085e1b3a1ae0250a1c5696d9f2c98aa0ad14496b3b8ed980ce7ff0f0750d2e
+
+status:       ACTIVE
+
+created:      2016-02-26
+changed:      2016-03-10
+source:       IANA
+
