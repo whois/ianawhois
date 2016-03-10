@@ -1,0 +1,43 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       AVIANCA
+
+organisation: Aerovias del Continente Americano S.A. Avianca
+address:      Urb. Madre Selva, Av. El Espino, Edificio Avianca, Antiguo Cuscatlan, La Libertad
+address:      El Salvador
+
+contact:      administrative
+name:         IT Infrastructure Specialist
+organisation: Aerovias del Continente Americano S.A. Avianca
+address:      Urb. Madre Selva, Av. El Espino, Edificio Avianca, Antiguo Cuscatlan, La Libertad
+address:      El Salvador
+phone:        +503-2247-2151
+e-mail:       hector.lopez@avianca.com
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      Building 3, Suite 105, 300 Welsh Road, Horsham, PA 19044
+address:      United States
+phone:        +1.215.706.5700
+fax-no:       +1.215.706.5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.AVIANCA 2a01:8840:4e:0:0:0:0:17 65.22.80.17
+nserver:      A2.NIC.AVIANCA 2a01:8840:51:0:0:0:0:17 65.22.83.17
+nserver:      B0.NIC.AVIANCA 2a01:8840:4f:0:0:0:0:17 65.22.81.17
+nserver:      C0.NIC.AVIANCA 2a01:8840:50:0:0:0:0:17 65.22.82.17
+ds-rdata:     2665 7 1 4badb4c4fa071676d9b64eeeaab056c0af12a988
+ds-rdata:     2665 7 2 002eef1e834f8cac8f69c08eb81dc651806a1e34f775da95f127adcb39b11828
+
+whois:        whois.afilias-srs.net
+
+status:       ACTIVE
+remarks:      Registration information:  http://avianca.com/es-us/
+
+created:      2016-02-26
+changed:      2016-03-09
+source:       IANA
+
