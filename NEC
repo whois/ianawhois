@@ -36,8 +36,6 @@ nserver:      A.GMOREGISTRY.NET 2001:dcd:1:0:0:0:0:4 37.209.192.4
 nserver:      B.GMOREGISTRY.NET 2001:dcd:2:0:0:0:0:4 37.209.194.4
 nserver:      K.GMOREGISTRY.NET 37.209.196.4
 nserver:      L.GMOREGISTRY.NET 2001:dcd:4:0:0:0:0:4 37.209.198.4
-ds-rdata:     58951 8 2 C4984B7EA110234A3C556DB0B52EEB9ED26AE98FF64096B8CB8D4892B405A4EB
-ds-rdata:     58951 8 1 72D1216B6108A3C6B5CE385130AC9C6E7FD22010
 ds-rdata:     2360 8 2 bac413f8cf6ccb2d56e3cae8fe15948c7aff33c22535e0e495150beddd488e85
 
 whois:        whois.nic.nec
@@ -46,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nec.com/
 
 created:      2015-04-02
-changed:      2016-03-03
+changed:      2016-03-11
 source:       IANA
 
