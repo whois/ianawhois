@@ -20,9 +20,9 @@ def debug(message)
 end
 
 
-TLDFILE = 'tlds.txt'
-DEBUG = true
-DATE = Time.now.strftime('%Y-%m-%d')
+TLDFILE = File.expand_path('../../.tmp/tlds.txt', __FILE__)
+DEBUG   = true
+DATE    = Time.now.strftime('%Y-%m-%d')
 
 File.open(TLDFILE, "w+") { |f| f.write(open('https://data.iana.org/TLD/tlds-alpha-by-domain.txt').read) }
 if File.read(TLDFILE).empty?
@@ -56,3 +56,4 @@ active_tlds.each do |tld|
 end
 
 sh "git push origin master"
+
