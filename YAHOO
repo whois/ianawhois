@@ -36,9 +36,9 @@ ds-rdata:     55804 8 1 E8F0E0A48C46563C85C5175911346CFF4137DB3C
 ds-rdata:     55804 8 2 2396998FFE3A3F69B439E48661038302C1E92CAF71F47A07EDA680AFC66F6CBB
 
 status:       ACTIVE
-remarks:      Registration information: http://www.yahoo.com
+remarks:      Registration information: http://nic.yahoo
 
 created:      2016-01-29
-changed:      2016-02-15
+changed:      2016-03-25
 source:       IANA
 
