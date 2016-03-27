@@ -11,23 +11,19 @@ address:      Hong Kong
 
 contact:      administrative
 name:         CEO
-organisation: Zodiac Holdings Ltd
-address:      Block B Unit 403, Horizon International Tower
-address:      No. 6 Zhichun Road, Haidian District
-address:      Beijing 100088
+organisation: RISE VICTORY LIMITED
+address:      Room 201A, Wing On Plaza, 62 Mody Road, Tsui East, Kowloon, Hong Kong
 address:      China
-phone:        +86.1082961219
-e-mail:       ceo@nic.wang
+phone:        +86 20 6622 2813
+e-mail:       ceo@yu-wei.cn
 
 contact:      technical
 name:         VP
-organisation: Zodiac Holdings Ltd
-address:      Block B Unit 403, Horizon International Tower
-address:      No. 6 Zhichun Road, Haidian District
-address:      Beijing 100088
+organisation: RISE VICTORY LIMITED
+address:      Room 201A, Wing On Plaza, 62 Mody Road, Tsui East, Kowloon, Hong Kong
 address:      China
-phone:        +86.1082961219
-e-mail:       vp@nic.wang
+phone:        +86 20 6622 2813
+e-mail:       technology@yu-wei.cn
 
 nserver:      A.ZDNSCLOUD.COM 1.8.240.1
 nserver:      B.ZDNSCLOUD.COM 1.8.241.1
@@ -40,12 +36,12 @@ nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
 ds-rdata:     24001 8 2 1B932EA5CD2D4C9803A3602D966E5415D09A1CE539FC290D1C32B20A798CDA28
 
-whois:        whois.nic.wang
+whois:        whois.gtld.knet.cn
 
 status:       ACTIVE
-remarks:      Registration information: http://www.nic.wang
+remarks:      Registration information: http://www.newgtld.cn
 
 created:      2015-03-12
-changed:      2015-03-27
+changed:      2016-03-17
 source:       IANA
 
