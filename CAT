@@ -40,12 +40,12 @@ nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e:0:0:0:0:1
 nserver:      SWITCH.NIC.CAT 130.59.31.29 2001:620:0:ff:0:0:0:2f
 ds-rdata:     58737 10 2 4DCE567C12F637D51A755B9585C0C3C4036ABA446261AC994F7F5E91EED4C365
 
-whois:        whois.cat
+whois:        whois.nic.cat
 
 status:       ACTIVE
 remarks:      Registration information: http://www.domini.cat
 
 created:      2005-12-19
-changed:      2015-12-01
+changed:      2016-03-16
 source:       IANA
 
