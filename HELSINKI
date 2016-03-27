@@ -5,21 +5,19 @@
 domain:       HELSINKI
 
 organisation: City of Helsinki
-address:      PL 1, Kaupunginkanslia, Pohjoisesplanadi 11-13
-address:      Helsinki
-address:      00099 Helsingin kaupunki
+address:      P.O. Box 1 (Executive Office, Pohjoisesplanadi 11-13)
+address:      00099 City of Helsinki
 address:      Finland
 
 contact:      administrative
 name:         Petteri Pesonen
 organisation: City of Helsinki
-address:      PL 1, Kaupunginkanslia, Pohjoisesplanadi 11-13
-address:      Helsinki
-address:      00099 Helsingin kaupunki
+address:      P.O. Box 1 (Executive Office, Pohjoisesplanadi 11-13)
+address:      00099 City of Helsinki
 address:      Finland
 phone:        +358 9 310 1641
 fax-no:       +358 9 655 783
-e-mail:       kaupunginkanslia@hel.fi
+e-mail:       kanslia.titek@hel.fi
 
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
@@ -42,10 +40,9 @@ ds-rdata:     27610 7 2 e609ee0e5dde156ba8965c6e00c325c77f1643f0d433b6e5723d3ca2
 whois:        whois.afilias-srs.net
 
 status:       ACTIVE
-remarks:      Registration information:
-remarks:      http://www.hel.fi/www/helsinki/fi
+remarks:      Registration information: http://www.hel.fi
 
 created:      2015-12-10
-changed:      2016-01-26
+changed:      2016-03-15
 source:       IANA
 
