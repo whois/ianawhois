@@ -1,0 +1,44 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       BAREFOOT
+
+organisation: Gallo Vineyards, Inc.
+address:      600 Yosemite Blvd. Modesto, California - 95354
+address:      United States
+
+contact:      administrative
+name:         Principal IT Architect
+organisation: Gallo Vineyards, Inc.
+address:      600 Yosemite Blvd. Modesto, California - 95354
+address:      United States
+phone:        +1 209 341 4226
+fax-no:       +1 209 573 8520
+e-mail:       ngtld-barefoot@cscinfo.com
+
+contact:      technical
+name:         Registry Customer Service
+organisation: Verisign, Inc.
+address:      12061 Bluemont Way
+address:      Reston Virginia 20190
+address:      United States
+phone:        +1-703-925-6999
+fax-no:       +1-703-948-3978
+e-mail:       info@verisign-grs.com
+
+nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
+nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
+nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
+nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
+ds-rdata:     35550 8 2 2A380080B296E5BF1C8212618288FDDBC665F7689A31DFDC7EECCFAEFE17203D
+
+whois:        whois.nic.barefoot
+
+status:       ACTIVE
+remarks:      Registration information: http://www.barefootwine.com
+
+created:      2015-10-24
+changed:      2016-03-24
+source:       IANA
+
