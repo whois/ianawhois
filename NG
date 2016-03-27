@@ -31,6 +31,7 @@ nserver:      NS1.NIC.NET.NG 194.0.1.29 2001:678:4:0:0:0:0:1d
 nserver:      NS2.NIC.NET.NG 204.61.216.40
 nserver:      NS3.NIC.NET.NG 208.78.70.93
 nserver:      NS4.NIC.NET.NG 204.13.250.93
+nserver:      NS5.NIC.NET.NG 196.216.168.41 2001:43f8:120:0:0:0:0:41
 nserver:      NSA.NIC.NET.NG 41.222.79.3
 
 whois:        whois.nic.net.ng
@@ -39,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nira.org.ng/
 
 created:      1995-03-15
-changed:      2014-10-14
+changed:      2016-03-19
 source:       IANA
 
