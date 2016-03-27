@@ -1,0 +1,48 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       EXTRASPACE
+
+organisation: Extra Space Storage LLC
+address:      2795 E. Cottonwood Parkway Suite 400
+address:      Salt Lake City, UT 84121
+address:      United States
+
+contact:      administrative
+name:         Vice President
+organisation: FairWinds Partners
+address:      1000 Potomac Street NW Suite 350
+address:      Washington, DC 20007
+address:      United States
+phone:        +1 202 223 9252
+fax-no:       +1 202 223 9256
+e-mail:       extraspaceregistry@fairwindspartners.com
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      Building 3, Suite 105
+address:      300 Welsh Road
+address:      Horsham, PA 19044
+address:      United States
+phone:        +1 215.706.5700
+fax-no:       +1 215.706.5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.EXTRASPACE 2a01:8840:72:0:0:0:0:1 65.22.116.1
+nserver:      A2.NIC.EXTRASPACE 2a01:8840:75:0:0:0:0:1 65.22.119.1
+nserver:      B0.NIC.EXTRASPACE 2a01:8840:73:0:0:0:0:1 65.22.117.1
+nserver:      C0.NIC.EXTRASPACE 2a01:8840:74:0:0:0:0:1 65.22.118.1
+ds-rdata:     44538 7 1 113b3b73a8bcdac8c71f31425ad9907fb1655f0a
+ds-rdata:     44538 7 2 591d6f8965760707490ce46855e7d84428db114ac590a6f21bfdd2da71fc8ccd
+
+whois:        whois.afilias-srs.net
+
+status:       ACTIVE
+remarks:      Registration information: http://www.extraspace.com
+
+created:      2016-02-26
+changed:      2016-03-25
+source:       IANA
+
