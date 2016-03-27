@@ -5,18 +5,16 @@
 domain:       NZ
 
 organisation: InternetNZ
-address:      Level 9
-address:      Grand Arcade Tower
-address:      16 Willis Street
+address:      Level 11
+address:      80 Boulcott Street
 address:      Wellington  6011
 address:      New Zealand
 
 contact:      administrative
 name:         IANA Administrator
 organisation: InternetNZ
-address:      Level 9
-address:      Grand Arcade Tower
-address:      16 Willis Street
+address:      Level 11
+address:      80 Boulcott Street
 address:      Wellington  6011
 address:      New Zealand
 phone:        +64 4 472 1600
@@ -25,10 +23,9 @@ e-mail:       iana@internetnz.net.nz
 
 contact:      technical
 name:         IANA Administrator
-organisation: .nz Registry Services
-address:      Level 9
-address:      Grand Arcade Tower
-address:      16 Willis Street
+organisation: NZRS Ltd
+address:      Level 11
+address:      80 Boulcott Street
 address:      Wellington  6011
 address:      New Zealand
 phone:        +64 4 931 6970
@@ -53,6 +50,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.dnc.org.nz/
 
 created:      1987-01-19
-changed:      2016-03-11
+changed:      2016-03-16
 source:       IANA
 
