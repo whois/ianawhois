@@ -1,0 +1,48 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       SHAW
+
+organisation: Shaw Cablesystems G.P.
+address:      630 - 3rd Avenue SW
+address:      Calgary, AB T2P 4L4
+address:      Canada
+
+contact:      administrative
+name:         Manager, Network Circuit Design
+organisation: Shaw Cablesystems G.P.
+address:      2728 Hopewell Place NE
+address:      Calgary, Alberta T1Y 7J7
+address:      Canada
+phone:        +1 403.750.4500
+fax-no:       +1 403.750.4501
+e-mail:       shawicaanglobalsupport@sjrb.ca
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      Building 3, Suite 105
+address:      300 Welsh Road
+address:      Horsham, PA 19044
+address:      United States
+phone:        +1 215.706.5700
+fax-no:       +1 215.706.5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.SHAW 2a01:8840:56:0:0:0:0:17 65.22.88.17
+nserver:      A2.NIC.SHAW 2a01:8840:59:0:0:0:0:17 65.22.91.17
+nserver:      B0.NIC.SHAW 2a01:8840:57:0:0:0:0:17 65.22.89.17
+nserver:      C0.NIC.SHAW 2a01:8840:58:0:0:0:0:17 65.22.90.17
+ds-rdata:     5320 7 1 228a9b2338ff7c909c8003a5aeb6bdd2d2b6dc65
+ds-rdata:     5320 7 2 8767c1a5634794795594d6a86864f2d998b76f7245cc1d061b10c51c24b2c215
+
+whois:        whois.afilias-srs.net
+
+status:       ACTIVE
+remarks:      Registration information: http://www.shaw.ca
+
+created:      2016-03-10
+changed:      2016-03-22
+source:       IANA
+
