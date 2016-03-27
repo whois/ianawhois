@@ -11,19 +11,19 @@ address:      Cayman Islands
 
 contact:      administrative
 name:         CEO
-organisation: Zodiac Holdings Ltd
-address:      B403, Horizon International Tower, 6 Zhichun Road, Haidian, Beijing
+organisation: Excellent First Limited
+address:      Room 201A, Wing On Plaza, 62 Mody Road, Tsui East, Kowloon, Hong Kong
 address:      China
-phone:        +86.1082961219
-e-mail:       ceo@nic.wang
+phone:        +86 20 6622 2813
+e-mail:       ceo@yu-wei.cn
 
 contact:      technical
 name:         VP
-organisation: Zodiac Holdings Ltd
-address:      B403, Horizon International Tower, 6 Zhichun Road, Haidian, Beijing
+organisation: Excellent First Limited
+address:      Room 201A, Wing On Plaza, 62 Mody Road, Tsui East, Kowloon, Hong Kong
 address:      China
-phone:        +86.1082961219
-e-mail:       vp@nic.wang
+phone:        +86 20 6622 2813
+e-mail:       technology@yu-wei.cn
 
 nserver:      A.ZDNSCLOUD.COM 1.8.240.1
 nserver:      B.ZDNSCLOUD.COM 1.8.241.1
@@ -36,12 +36,12 @@ nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
 ds-rdata:     30097 8 2 F5859A542F22C1805B3AD4C41B539655A92E24C4E48EEDF13FE60954CA9B62B1
 
-whois:        whois.nic.wang
+whois:        whois.gtld.knet.cn
 
 status:       ACTIVE
-remarks:      Registration information: http://www.nic.wang
+remarks:      Registration information: http://www.newgtld.cn
 
 created:      2015-03-12
-changed:      2015-03-31
+changed:      2016-03-25
 source:       IANA
 
