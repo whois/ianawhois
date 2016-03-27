@@ -34,7 +34,6 @@ nserver:      C.CA-SERVERS.CA 192.228.28.9
 nserver:      D.CA-SERVERS.CA 199.19.4.1 2001:500:97:0:0:0:0:1
 nserver:      E.CA-SERVERS.CA 192.228.30.9
 nserver:      J.CA-SERVERS.CA 198.182.167.1 2001:500:83:0:0:0:0:1
-ds-rdata:     421 8 2 a1e5e22ddef598f3eb4dac1a9cce028a5d3ffa196490b2bfa39f4f8129a67aa7
 ds-rdata:     35519 8 2 b4542de49c052ebfb1e6b31af7b986af9797484e50a1c96abea3523f83dc134b
 
 whois:        whois.cira.ca
@@ -43,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.cira.ca/
 
 created:      1987-05-14
-changed:      2016-02-27
+changed:      2016-03-16
 source:       IANA
 
