@@ -1,0 +1,45 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       GALLO
+
+organisation: Gallo Vineyards, Inc.
+address:      600 Yosemite Blvd.
+address:      Modesto, California 95354
+address:      United States
+
+contact:      administrative
+name:         Principal IT Architect
+organisation: Gallo Vineyards, Inc.
+address:      600 Yosemite Blvd. Modesto, California - 95354
+address:      United States
+phone:        +1 209 341 6349
+fax-no:       +1 209 573 8520
+e-mail:       ngtld-gallo@cscinfo.com
+
+contact:      technical
+name:         Registry Customer Service
+organisation: Registry Customer Service
+address:      12061 Bluemont Way
+address:      Reston Virginia 20190
+address:      United States
+phone:        +1-703-925-6999
+fax-no:       +1-703-948-3978
+e-mail:       info@verisign-grs.com
+
+nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
+nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
+nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
+nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
+ds-rdata:     29001 8 2 4C475AD8273C49CCED3D8FBF45F02BA8E1A2759F816BF2020A544B49B9B04CF6
+
+whois:        whois.nic.gallo
+
+status:       ACTIVE
+remarks:      Registration information: http://www.gallo.com
+
+created:      2015-10-24
+changed:      2016-03-22
+source:       IANA
+
