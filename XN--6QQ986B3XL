@@ -6,32 +6,26 @@ domain:       我爱你
 domain-ace:   XN--6QQ986B3XL
 
 organisation: Tycoon Treasure Limited
-address:      Block B Unit 403, Horizon International Tower
-address:      No. 6 Zhichun Road, Haidian District
-address:      Beijing 100088  P.R. China
-address:      China
+address:      Scotia Centre, 4th Floor, P.O.Box2804, George Town, Grand Cayman KY1-112, Cayman Islands
+address:      Cayman Islands
 
 contact:      administrative
-name:         Eugene Li
-organisation: Zodiac Holdings Ltd
-address:      Block B Unit 403, Horizon International Tower
-address:      No. 6 Zhichun Road, Haidian District
-address:      Beijing 100088  P.R. China
+name:         CEO
+organisation: Tycoon Treasure Limited
+address:      Room 201A, Wing On Plaza, 62 Mody Road, Tsui East, Kowloon, Hong Kong
 address:      China
-phone:        +86.1082961219
-fax-no:       +86.1082961269
-e-mail:       eugene.li@zodiacregistry.com
+phone:        +86 20 6622 2813
+fax-no:       +86 20 6622 2813
+e-mail:       ceo@yu-wei.cn
 
 contact:      technical
-name:         Zhanyong Zhang
-organisation: Zodiac Holdings Ltd
-address:      Block B Unit 403, Horizon International Tower
-address:      No. 6 Zhichun Road, Haidian District
-address:      Beijing 100088  P.R. China
+name:         VP
+organisation: Tycoon Treasure Limited
+address:      Room 201A, Wing On Plaza, 62 Mody Road, Tsui East, Kowloon, Hong Kong
 address:      China
-phone:        +86.1082961219
-fax-no:       +86.1082961269
-e-mail:       zhangzhanyong@zodiacregistry.com
+phone:        +86 20 6622 2813
+fax-no:       +86 20 6622 2813
+e-mail:       technology@yu-wei.cn
 
 nserver:      A.ZDNSCLOUD.COM 1.8.240.1
 nserver:      B.ZDNSCLOUD.COM 1.8.241.1
@@ -47,9 +41,9 @@ ds-rdata:     24064 8 2 92CEB14BA427F6C095AB300E2799685C2151EE5E3C87154E7E220E77
 whois:        whois.gtld.knet.cn
 
 status:       ACTIVE
-remarks:      Registration information: http://www.zodiacregistry.com
+remarks:      Registration information: http://www.newgtld.cn
 
 created:      2013-12-12
-changed:      2014-04-11
+changed:      2016-03-25
 source:       IANA
 
