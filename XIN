@@ -40,12 +40,12 @@ nserver:      C0.NIC.XIN 2a01:8840:80:0:0:0:0:17 65.22.130.17
 ds-rdata:     57339 7 1 8b256cf077c63884bdf213c796db6f32a4289717
 ds-rdata:     57339 7 2 617b4a512b4cebe63595c1f27504b5b99c2e4319eb7ad56e48b8679bd137e7f1
 
-whois:        whois.afilias-srs.net
+whois:        whois.nic.xin
 
 status:       ACTIVE
 remarks:      Registration information: http://www.dotxin.org
 
 created:      2015-02-19
-changed:      2015-03-07
+changed:      2016-03-16
 source:       IANA
 
