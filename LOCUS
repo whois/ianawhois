@@ -13,8 +13,7 @@ address:      United States
 contact:      administrative
 name:         Sean Sandys
 organisation: Locus Analytics LLC
-address:      101 W. Elliot Street,
-address:      4th Floor
+address:      101 Elliott Avenue West, Suite 400
 address:      Seattle, Washington 98119
 address:      United States
 phone:        +1 206 910 6225
@@ -42,9 +41,12 @@ nserver:      DNSC.NIC.LOCUS 156.154.102.3
 nserver:      DNSD.NIC.LOCUS 156.154.103.3
 ds-rdata:     5281 8 2 be085e1b3a1ae0250a1c5696d9f2c98aa0ad14496b3b8ed980ce7ff0f0750d2e
 
+whois:        whois.nic.locus
+
 status:       ACTIVE
+remarks:      Registration information: http://nic.locus
 
 created:      2016-02-26
-changed:      2016-03-10
+changed:      2016-03-15
 source:       IANA
 
