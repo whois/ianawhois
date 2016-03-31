@@ -1,0 +1,48 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       JCP
+
+organisation: JCP Media, Inc.
+address:      6501 Legacy Drive
+address:      Plano, TX 75024
+address:      United States
+
+contact:      administrative
+name:         OMNI Channel Support Analyst
+organisation: JCP Media, Inc.
+address:      6501 Legacy Drive
+address:      Plano, TX 75024
+address:      United States
+phone:        +1.972.431.1000
+fax-no:       +1.972.431.1000
+e-mail:       ngtld-jcp@cscglobal.com
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      Building 3, Suite 105
+address:      300 Welsh Road
+address:      Horsham, PA 19044
+address:      United States
+phone:        +1 215.706.5700
+fax-no:       +1 215.706.5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.JCP 2a01:8840:d2:0:0:0:0:33 65.22.216.33
+nserver:      A2.NIC.JCP 2a01:8840:d5:0:0:0:0:33 65.22.219.33
+nserver:      B0.NIC.JCP 2a01:8840:d3:0:0:0:0:33 65.22.217.33
+nserver:      C0.NIC.JCP 2a01:8840:d4:0:0:0:0:33 65.22.218.33
+ds-rdata:     36598 7 1 ea3defd5b9335868e823dca3f71476c116a9cc22
+ds-rdata:     36598 7 2 0708efccddc36cfc2db3d70931ef47ec3851081c84d797adfa7475e1dc57ece8
+
+whois:        whois.afilias-srs.net
+
+status:       ACTIVE
+remarks:      Registration information: http://www.jcp.com
+
+created:      2016-03-03
+changed:      2016-03-30
+source:       IANA
+
