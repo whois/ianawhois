@@ -1,0 +1,43 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       XIHUAN
+
+organisation: QIHOO 360 TECHNOLOGY CO. LTD.
+address:      Building #2, No. 6 Jiuxianqiao Road, Chaoyang District
+address:      China
+
+contact:      administrative
+name:         VP
+organisation: QIHOO 360 Technology Co. Ltd.
+address:      Building #2, No. 6 Jiuxianqiao Road, Chaoyang District
+address:      China
+phone:        ＋86.10 5878 1524
+fax-no:       +86. 10 5878 1411
+e-mail:       newgtld@360.cn
+
+contact:      technical
+name:         CTO
+organisation: Beijing Tele-info Network Technology Co., Ltd.
+address:      Building 21, 1 Gaolizhang Road
+address:      China
+phone:        +86 10 5884 6931
+fax-no:       +86 10 5884 6939
+e-mail:       gtld@teleinfo.cn
+
+nserver:      NS1.TELEINFO.CN 103.61.60.1 2402:7d80:0:0:0:0:0:1
+nserver:      NS2.TELEINFOO.COM 103.61.61.1 2402:7d80:8888:0:0:0:0:1
+nserver:      NS3.TELEINFO.CN 103.61.62.1
+nserver:      NS4.TELEINFOO.COM 103.61.63.1
+ds-rdata:     27565 8 2 B77F15373B8AF8E7BA2D8641701AE833416F8D439BBDAEE71D18CE55EFDE7903
+
+whois:        whois.teleinfo.cn
+
+status:       ACTIVE
+remarks:      Registration information: http://www.teleinfo.cn
+
+created:      2016-03-18
+changed:      2016-03-30
+source:       IANA
+
