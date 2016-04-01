@@ -10,24 +10,24 @@ address:      2900 Hellerup
 address:      Denmark
 
 contact:      administrative
-name:         Jacob Wissum
+name:         Project & Process Manager
 organisation: Saxo Bank A/S
 address:      Phillip Heymans Allé 15
 address:      2900 Hellerup
 address:      Denmark
-phone:        +4539774000
-fax-no:       +4539774200
-e-mail:       domainregistration@saxobank.com
+phone:        +4533886365
+fax-no:       +4533886101
+e-mail:       saxo@gtld.com
 
 contact:      technical
-name:         Jacob Wissum
+name:         Project & Process Manager
 organisation: Saxo Bank A/S
 address:      Phillip Heymans Allé 15
 address:      2900 Hellerup
 address:      Denmark
-phone:        +4539774000
-fax-no:       +4539774200
-e-mail:       domainregistration@saxobank.com
+phone:        +4533886365
+fax-no:       +4533886101
+e-mail:       saxo@gtld.com
 
 nserver:      A.NIC.SAXO 2001:dcd:1:0:0:0:0:9 37.209.192.9
 nserver:      B.NIC.SAXO 2001:dcd:2:0:0:0:0:9 37.209.194.9
@@ -42,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.saxo
 
 created:      2015-01-15
-changed:      2015-10-09
+changed:      2016-04-01
 source:       IANA
 
