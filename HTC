@@ -1,0 +1,44 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       HTC
+
+organisation: HTC corporation
+address:      No.88, Sec. 3, Zhongxing Rd., Xindian Dist., New Taipei City, Taiwan
+address:      Taiwan, Province Of China
+
+contact:      administrative
+name:         TLD Admin
+organisation: HTC Corporation
+address:      No.88, Sec. 3, Zhongxing Rd., Xindian Dist., New Taipei City, Taiwan
+address:      Taiwan, Province Of China
+phone:        +886.225319696
+fax-no:       +886.225319522
+e-mail:       foreign@net-chinese.com.tw
+
+contact:      technical
+name:         Sean Kaine
+organisation: Neustar, Inc.
+address:      46000 Center Oak Plaza, Sterling VA 20166
+address:      United States
+phone:        +1 571-434-5168
+fax-no:       +1 571-434-5401
+e-mail:       registrytechnical1@neustar.biz
+
+nserver:      NS1.DNS.NIC.HTC 156.154.144.77 2610:a1:1071:0:0:0:0:4d
+nserver:      NS2.DNS.NIC.HTC 156.154.145.77 2610:a1:1072:0:0:0:0:4d
+nserver:      NS3.DNS.NIC.HTC 156.154.159.77 2610:a1:1073:0:0:0:0:4d
+nserver:      NS4.DNS.NIC.HTC 156.154.156.77 2610:a1:1074:0:0:0:0:4d
+nserver:      NS5.DNS.NIC.HTC 156.154.157.77 2610:a1:1075:0:0:0:0:4d
+nserver:      NS6.DNS.NIC.HTC 156.154.158.77 2610:a1:1076:0:0:0:0:4d
+ds-rdata:     4855 8 1 488F711D425DE69B35D4A1D9746CCBDE777371D3
+ds-rdata:     4855 8 2 FDE867E2BFDAAE6BE03846529E35B3F58E0232718BFEA1C0ECCB260F12EF856A
+
+status:       ACTIVE
+remarks:      Registration information: http://www.htc.com
+
+created:      2016-03-03
+changed:      2016-04-02
+source:       IANA
+
