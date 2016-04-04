@@ -11,24 +11,20 @@ address:      01000
 address:      Lao People's Democratic Republic
 
 contact:      administrative
-name:         Mr. Thansamay Kommasith
-organisation: Lao National Internet Committee
-address:      Lane Xang Avenue, Chanthaboury
-address:      Vientiane Capital
-address:      01000
+name:         Mr. Keovisouk Solaphom
+organisation: Lao National Internet Center
+address:      Sailom Village, Sailom Road, Chanthaboury, Vientiane Capital
 address:      Lao People's Democratic Republic
 phone:        +856 21 254150
 fax-no:       +856 21 254150
 e-mail:       admincontact@lanic.la
 
 contact:      technical
-name:         Mr. Khamkit Saysongkham
-organisation: Lao National Internet Committee
-address:      Lane Xang Avenue, Chanthaboury
-address:      Vientiane Capital
-address:      01000
+name:         Mr. Phouthong Sisavath
+organisation: Lao National Internet Center
+address:      Sailom Village, Sailom Road, Chanthaboury, Vientiane Capital
 address:      Lao People's Democratic Republic
-phone:        +856 21 254150
+phone:        +856 21 255780
 fax-no:       +856 21 254150
 e-mail:       technicalcontact@lanic.la
 
@@ -45,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.la
 
 created:      1996-05-14
-changed:      2014-12-08
+changed:      2016-04-04
 source:       IANA
 
