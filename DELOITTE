@@ -34,7 +34,10 @@ nserver:      Y.NS.NIC.DELOITTE 195.253.64.7 2a01:5b0:4:0:0:0:0:7
 ds-rdata:     43989 7 1 F7DABDF701ED2ED63D349D5DDAE4B2776EA541B5
 ds-rdata:     43989 7 2 AF8C96D91EE031DF7DF47231CBEB7A93AE1572F8EB3F71D666FA421E8F55AD67
 
+whois:        whois.nic.deloitte
+
 status:       ACTIVE
+remarks:      Registration information: http://nic.deloitte
 
 created:      2015-12-23
 changed:      2016-01-29
