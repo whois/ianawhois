@@ -22,13 +22,12 @@ e-mail:       whois@domain.ovh.net
 contact:      technical
 name:         Project Manager
 organisation: AFNIC
-address:      1 rue Stephenson
-address:      Immeuble Stephenson
-address:      78180 Montigny-Le-Bretonneux
+address:      1, rue Stephenson Immeuble Le Stephenson
+address:      78180 Montigny le Bretonneux
 address:      France
 phone:        +33 672217740
 fax-no:       +33 139308301
-e-mail:       backend1dotovh@domain.ovh.net
+e-mail:       pocovh@afnic.fr
 
 nserver:      D.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
 nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
@@ -42,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.ovh.com
 
 created:      2014-05-01
-changed:      2014-06-19
+changed:      2016-04-05
 source:       IANA
 
