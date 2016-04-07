@@ -1,0 +1,50 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       ابوظبي
+domain-ace:   XN--MGBCA7DZDO
+
+organisation: Abu Dhabi Systems and Information Centre
+address:      Abu Dhabi Systems & Information Centre
+address:      International Tower Al Karama Street
+address:      Abu Dhabi
+address:      United Arab Emirates
+
+contact:      administrative
+name:         Khadeeja Mohsen Al Faqeeh
+organisation: Abu Dhabi Systems & Information Centre
+address:      International Tower Al Karama Street
+address:      Abu Dhabi
+address:      United Arab Emirates
+phone:        +97126961146
+fax-no:       +97126717333
+e-mail:       adtld@adsic.abudhabi.ae
+
+contact:      technical
+name:         Manager Systems, ae Domain Administration
+organisation: Telecommunications Regulatory Authority of UAE
+address:      Al Waheeda street Al Memzar
+address:      P.O.Box 116688
+address:      Dubai
+address:      United Arab Emirates (AE)
+address:      United Arab Emirates
+phone:        +97142300018
+fax-no:       +97142300011
+e-mail:       gtldsupport@aeda.ae
+
+nserver:      GTLD.ALPHA.ARIDNS.NET.AU 2001:dcd:1:0:0:0:0:10 37.209.192.10
+nserver:      GTLD.BETA.ARIDNS.NET.AU 2001:dcd:2:0:0:0:0:10 37.209.194.10
+nserver:      GTLD.DELTA.ARIDNS.NET.AU 2001:dcd:4:0:0:0:0:10 37.209.198.10
+nserver:      GTLD.GAMMA.ARIDNS.NET.AU 2001:dcd:3:0:0:0:0:10 37.209.196.10
+ds-rdata:     1909 8 1 D5A6F96664AE0D000A01B196C4348E7E231D95F8
+ds-rdata:     1909 8 2 F62B4E977CBA32CEF37856A9F919CE405EB998F04D4ABB309F1F9B86C105CA72
+
+whois:        whois.nic.xn--mgbca7dzdo
+
+status:       ACTIVE
+
+created:      2016-03-03
+changed:      2016-04-06
+source:       IANA
+
