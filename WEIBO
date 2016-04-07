@@ -1,0 +1,48 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       WEIBO
+
+organisation: Sina Corporation
+address:      20F Ideal Haza No. 59 Bei Si Huan Xi Road, Haidian District
+address:      Beijing, 100080
+address:      China
+
+contact:      administrative
+name:         Director, Legal Dept.
+organisation: Sina Corporation
+address:      20F Ideal Haza No. 59 Bei Si Huan Xi Road, Haidian District
+address:      Beijing 100080
+address:      China
+phone:        +86-10-82628888
+fax-no:       +86-10-82607527
+e-mail:       register@staff.sina.com.cn
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      Building 3, Suite 105
+address:      300 Welsh Road
+address:      Horsham, PA 19044
+address:      United States
+phone:        +1 215.706.5700
+fax-no:       +1 215.706.5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.WEIBO 2a01:8840:36:0:0:0:0:41 65.22.56.41
+nserver:      A2.NIC.WEIBO 2a01:8840:39:0:0:0:0:41 65.22.59.41
+nserver:      B0.NIC.WEIBO 2a01:8840:37:0:0:0:0:41 65.22.57.41
+nserver:      C0.NIC.WEIBO 2a01:8840:38:0:0:0:0:41 65.22.58.41
+ds-rdata:     48381 7 1 25267f578dd92971bab8d4c78d994ef95faeedf4
+ds-rdata:     48381 7 2 5794faeb90dd944d20c1d1a989ac7eb97fd8d72ec457780dc8a2411e128ecea9
+
+whois:        whois.afilias-srs.net
+
+status:       ACTIVE
+remarks:      Registration information: http://www.sina.com
+
+created:      2016-02-29
+changed:      2016-04-06
+source:       IANA
+
