@@ -36,6 +36,7 @@ nserver:      C.NIC.SONY 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      D.NIC.SONY 2001:dcd:4:0:0:0:0:9 37.209.198.9
 ds-rdata:     62959 8 1 E8DA2F7A9E04ED72ECA9C4BA0DA8D2EF055A6001
 ds-rdata:     62959 8 2 73EC97F1E54ECF418575EE80CAF5445243C67C2C83868AEA93E64BB9B1EA8448
+ds-rdata:     60005 8 2 ad462a994da5a6ea903e72c35a133c470caef678fd276ca4defe1687bd33682c
 
 whois:        whois.nic.sony
 
@@ -43,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.sony.com
 
 created:      2015-03-06
-changed:      2015-10-10
+changed:      2016-04-13
 source:       IANA
 
