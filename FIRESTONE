@@ -32,6 +32,7 @@ nserver:      C.NIC.FIRESTONE 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      D.NIC.FIRESTONE 2001:dcd:4:0:0:0:0:9 37.209.198.9
 ds-rdata:     19594 8 1 A1ACCC9BF855FE30C363BDD93A841031286DA03F
 ds-rdata:     19594 8 2 BBC9A40E6BB494044D119FA78FAE63C6D10FDC759104580EA41FB4CBC96B22C7
+ds-rdata:     42527 8 2 2c6d3410cf205821da2008cf0f22563bcf2b07d3be872e555dfb309bf562ea7d
 
 whois:        whois.nic.firestone
 
@@ -39,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.firestone.com/
 
 created:      2015-10-29
-changed:      2015-12-07
+changed:      2016-04-13
 source:       IANA
 
