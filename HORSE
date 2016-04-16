@@ -26,6 +26,8 @@ e-mail:       support@mm-registry.com
 
 nserver:      A.NS.NIC.HORSE 2620:0171:0a02:00ad:0:0:0:8 72.0.50.8
 nserver:      B.NS.NIC.HORSE 2620:0171:0d02:00dc:0:0:0:8 72.42.114.8
+nserver:      C.NS.NIC.HORSE 2620:0171:0c00:000c:0:0:0:8 70.40.0.8
+nserver:      D.NS.NIC.HORSE 2620:0171:0f00:000d:0:0:0:8 70.40.8.8
 ds-rdata:     36637 8 2 665BE35CF145D55C223033FBF7B126B7E9E5D7D8A4C3A3F7CA2EA5609442FE05
 
 whois:        whois-dub.mm-registry.com
@@ -33,6 +35,6 @@ whois:        whois-dub.mm-registry.com
 status:       ACTIVE
 
 created:      2014-02-28
-changed:      2016-04-14
+changed:      2016-04-16
 source:       IANA
 
