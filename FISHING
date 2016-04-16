@@ -26,6 +26,8 @@ e-mail:       support@mm-registry.com
 
 nserver:      A.NS.NIC.FISHING 2620:0171:0a02:00ad:0:0:0:5 72.0.50.5
 nserver:      B.NS.NIC.FISHING 2620:0171:0d02:00dc:0:0:0:5 72.42.114.5
+nserver:      C.NS.NIC.FISHING 2620:0171:0c00:000c:0:0:0:5 70.40.0.5
+nserver:      D.NS.NIC.FISHING 2620:0171:0f00:000d:0:0:0:5 70.40.8.5
 ds-rdata:     64262 8 2 0FB7BC6935F3E4B3EE50474615D238A21CBD0ED00CD1C2E029AF21FF86F3AD4D
 
 whois:        whois-dub.mm-registry.com
@@ -33,6 +35,6 @@ whois:        whois-dub.mm-registry.com
 status:       ACTIVE
 
 created:      2014-02-28
-changed:      2016-04-14
+changed:      2016-04-16
 source:       IANA
 
