@@ -26,6 +26,8 @@ e-mail:       support@mm-registry.com
 
 nserver:      A.NS.NIC.VODKA 2620:0171:0a02:00ad:0:0:0:23 72.0.50.23
 nserver:      B.NS.NIC.VODKA 2620:0171:0d02:00dc:0:0:0:23 72.42.114.23
+nserver:      C.NS.NIC.VODKA 2620:0171:0c00:000c:0:0:0:23 70.40.0.23
+nserver:      D.NS.NIC.VODKA 2620:0171:0f00:000d:0:0:0:23 70.40.8.23
 ds-rdata:     60871 8 2 5B734FA00D28664C3451D5F219E8EB825FA22E54C5D25EB5712ACC3CCC34020D
 
 whois:        whois-dub.mm-registry.com
@@ -33,6 +35,6 @@ whois:        whois-dub.mm-registry.com
 status:       ACTIVE
 
 created:      2014-02-28
-changed:      2016-04-14
+changed:      2016-04-16
 source:       IANA
 
