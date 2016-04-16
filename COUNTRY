@@ -26,6 +26,8 @@ e-mail:       support@mm-registry.com
 
 nserver:      A.NS.NIC.COUNTRY 2620:0171:0a02:00ad:0:0:0:17 72.0.50.17
 nserver:      B.NS.NIC.COUNTRY 2620:0171:0d02:00dc:0:0:0:17 72.42.114.17
+nserver:      C.NS.NIC.COUNTRY 2620:0171:0c00:000c:0:0:0:17 70.40.0.17
+nserver:      D.NS.NIC.COUNTRY 2620:0171:0f00:000d:0:0:0:17 70.40.8.17
 ds-rdata:     2705 8 2 6EE6B796B61C72E15174930066AA40B92E0183A406561272E6B574770551652E
 
 whois:        whois-dub.mm-registry.com
@@ -33,6 +35,6 @@ whois:        whois-dub.mm-registry.com
 status:       ACTIVE
 
 created:      2014-02-28
-changed:      2016-04-14
+changed:      2016-04-16
 source:       IANA
 
