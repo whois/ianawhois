@@ -26,6 +26,8 @@ e-mail:       support@mm-registry.com
 
 nserver:      A.NS.NIC.ABOGADO 2620:0171:0a02:00ad:0:0:0:12 72.0.50.12
 nserver:      B.NS.NIC.ABOGADO 2620:0171:0d02:00dc:0:0:0:12 72.42.114.12
+nserver:      C.NS.NIC.ABOGADO 2620:0171:0c00:000c:0:0:0:12 70.40.0.12
+nserver:      D.NS.NIC.ABOGADO 2620:0171:0f00:000d:0:0:0:12 70.40.8.12
 ds-rdata:     57005 8 2 2009CA303DBEED162EE4BA3F255B2DB5C11FAF26A90804C06F9D8C54BFD6F02E
 
 whois:        whois-dub.mm-registry.com
@@ -34,6 +36,6 @@ status:       ACTIVE
 remarks:      Registration information: http://mm-registry.com
 
 created:      2014-07-10
-changed:      2014-10-15
+changed:      2016-04-16
 source:       IANA
 
