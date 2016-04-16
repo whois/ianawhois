@@ -26,6 +26,8 @@ e-mail:       support@mm-registry.com
 
 nserver:      A.NS.NIC.LUXE 2620:0171:0a02:00ad:0:0:0:20 72.0.50.20
 nserver:      B.NS.NIC.LUXE 2620:0171:0d02:00dc:0:0:0:20 72.42.114.20
+nserver:      C.NS.NIC.LUXE 2620:0171:0c00:000c:0:0:0:20 70.40.0.20
+nserver:      D.NS.NIC.LUXE 2620:0171:0f00:000d:0:0:0:20 70.40.8.20
 ds-rdata:     26401 8 2 3D0B865FF0744B569805424152F2BEC66FCDCADB9DBF5D746BCF662E45C7AD83
 
 whois:        whois-dub.mm-registry.com
@@ -34,6 +36,6 @@ status:       ACTIVE
 remarks:      Registration information: http://mm-registry.com
 
 created:      2014-03-13
-changed:      2014-05-15
+changed:      2016-04-16
 source:       IANA
 
