@@ -26,6 +26,8 @@ e-mail:       support@mm-registry.com
 
 nserver:      A.NS.NIC.WEDDING 2620:0171:0a02:00ad:0:0:0:25 72.0.50.25
 nserver:      B.NS.NIC.WEDDING 2620:0171:0d02:00dc:0:0:0:25 72.42.114.25
+nserver:      C.NS.NIC.WEDDING 2620:0171:0c00:000c:0:0:0:25 70.40.0.25
+nserver:      D.NS.NIC.WEDDING 2620:0171:0f00:000d:0:0:0:25 70.40.8.25
 ds-rdata:     45704 8 2 7E3B63CE675A2A3F75A3FA19149EB5007B6E3C3AF53E910DC4905476CA5B68B4
 
 whois:        whois-dub.mm-registry.com
@@ -34,6 +36,6 @@ status:       ACTIVE
 remarks:      Registration information: http://mm-registry.com
 
 created:      2014-07-10
-changed:      2014-10-17
+changed:      2016-04-16
 source:       IANA
 
