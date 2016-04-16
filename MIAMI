@@ -26,6 +26,8 @@ e-mail:       support@mm-registry.com
 
 nserver:      A.NS.NIC.MIAMI 2620:0171:0a02:00ad:0:0:0:21 72.0.50.21
 nserver:      B.NS.NIC.MIAMI 2620:0171:0d02:00dc:0:0:0:21 72.42.114.21
+nserver:      C.NS.NIC.MIAMI 2620:0171:0c00:000c:0:0:0:21 70.40.0.21
+nserver:      D.NS.NIC.MIAMI 2620:0171:0f00:000d:0:0:0:21 70.40.8.21
 ds-rdata:     18562 8 2 35491922D8DB01E6C5B9AFEF48AEAC489F445A643F2373906673869D9C2BEA42
 
 whois:        whois-dub.mm-registry.com
@@ -33,6 +35,6 @@ whois:        whois-dub.mm-registry.com
 status:       ACTIVE
 
 created:      2014-02-28
-changed:      2016-04-14
+changed:      2016-04-16
 source:       IANA
 
