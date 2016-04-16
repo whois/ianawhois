@@ -26,6 +26,8 @@ e-mail:       support@mm-registry.com
 
 nserver:      A.NS.NIC.RODEO 2620:0171:0a02:00ad:0:0:0:3 72.0.50.3
 nserver:      B.NS.NIC.RODEO 2620:0171:0d02:00dc:0:0:0:3 72.42.114.3
+nserver:      C.NS.NIC.RODEO 2620:0171:0c00:000c:0:0:0:3 70.40.0.3
+nserver:      D.NS.NIC.RODEO 2620:0171:0f00:000d:0:0:0:3 70.40.8.3
 ds-rdata:     28172 8 2 643B5BAC898709DE1EE7AE9D08D74B001085380E908D04E0903DC68FC3F81ACE
 
 whois:        whois-dub.mm-registry.com
@@ -33,6 +35,6 @@ whois:        whois-dub.mm-registry.com
 status:       ACTIVE
 
 created:      2014-02-28
-changed:      2016-04-14
+changed:      2016-04-16
 source:       IANA
 
