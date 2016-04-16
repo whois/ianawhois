@@ -36,6 +36,7 @@ e-mail:       lee@nic.gdn
 nserver:      NS1.NIC.GDN 194.0.1.37 2001:678:4:0:0:0:0:25
 nserver:      NS2.NIC.GDN 2001:500:14:6099:ad:0:0:1 204.61.216.99
 ds-rdata:     29305 8 1 4A5AE86ACB742B4E897369BB8B10C5E80DBC777D
+ds-rdata:     26182 8 1 CBDF5065004F9ABE770FDA896D3E9997397C1D3A
 
 whois:        whois.nic.gdn
 
@@ -43,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.gdn
 
 created:      2014-12-04
-changed:      2015-08-06
+changed:      2016-04-16
 source:       IANA
 
