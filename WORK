@@ -26,6 +26,8 @@ e-mail:       support@mm-registry.com
 
 nserver:      A.NS.NIC.WORK 2620:0171:0a02:00ad:0:0:0:24 72.0.50.24
 nserver:      B.NS.NIC.WORK 2620:0171:0d02:00dc:0:0:0:24 72.42.114.24
+nserver:      C.NS.NIC.WORK 2620:0171:0c00:000c:0:0:0:24 70.40.0.24
+nserver:      D.NS.NIC.WORK 2620:0171:0f00:000d:0:0:0:24 70.40.8.24
 ds-rdata:     54910 8 2 346CB1BEB6A89DA1F9839818CA81BE05A9C791FA9DF948A20EC3C452758EAB49
 
 whois:        whois-dub.mm-registry.com
@@ -34,6 +36,6 @@ status:       ACTIVE
 remarks:      Registration information: http://mm-registry.com/
 
 created:      2014-08-18
-changed:      2014-09-23
+changed:      2016-04-16
 source:       IANA
 
