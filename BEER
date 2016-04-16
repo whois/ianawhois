@@ -26,6 +26,8 @@ e-mail:       support@mm-registry.com
 
 nserver:      A.NS.NIC.BEER 2620:0171:0a02:00ad:0:0:0:14 72.0.50.14
 nserver:      B.NS.NIC.BEER 2620:0171:0d02:00dc:0:0:0:14 72.42.114.14
+nserver:      C.NS.NIC.BEER 2620:0171:0c00:000c:0:0:0:14 70.40.0.14
+nserver:      D.NS.NIC.BEER 2620:0171:0f00:000d:0:0:0:14 70.40.8.14
 ds-rdata:     32401 8 2 A352C1475AFE55AACB6C1A7AF20BE661CFED0998707AE0365B73C3970497ED0B
 
 whois:        whois-dub.mm-registry.com
@@ -34,6 +36,6 @@ status:       ACTIVE
 remarks:      Registration information: http://mm-registry.com
 
 created:      2014-03-13
-changed:      2014-05-15
+changed:      2016-04-16
 source:       IANA
 
