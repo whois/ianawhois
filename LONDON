@@ -26,6 +26,8 @@ e-mail:       support@mm-registry.com
 
 nserver:      A.NS.NIC.LONDON 2620:0171:0a02:00ad:0:0:0:11 72.0.50.11
 nserver:      B.NS.NIC.LONDON 2620:0171:0d02:00dc:0:0:0:11 72.42.114.11
+nserver:      C.NS.NIC.LONDON 2620:0171:0c00:000c:0:0:0:11 70.40.0.11
+nserver:      D.NS.NIC.LONDON 2620:0171:0f00:000d:0:0:0:11 70.40.8.11
 ds-rdata:     27077 8 2 2756E9F7A79F2C26BA652C0C9BE19056AB89A0C7CFE90468713FDE7182DD393B
 
 whois:        whois-lon.mm-registry.com
@@ -35,6 +37,6 @@ remarks:      Registration information:
 remarks:      http://www.dotlondondomains.london/
 
 created:      2014-02-13
-changed:      2015-01-19
+changed:      2016-04-16
 source:       IANA
 
