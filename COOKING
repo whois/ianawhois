@@ -26,6 +26,8 @@ e-mail:       support@mm-registry.com
 
 nserver:      A.NS.NIC.COOKING 2620:0171:0a02:00ad:0:0:0:10 72.0.50.10
 nserver:      B.NS.NIC.COOKING 2620:0171:0d02:00dc:0:0:0:10 72.42.114.10
+nserver:      C.NS.NIC.COOKING 2620:0171:0c00:000c:0:0:0:10 70.40.0.10
+nserver:      D.NS.NIC.COOKING 2620:0171:0f00:000d:0:0:0:10 70.40.8.10
 ds-rdata:     57727 8 2 8899B23CE9872CA38EB6753A566D58F716313098726158CA6F292A9207C615ED
 
 whois:        whois-dub.mm-registry.com
@@ -33,6 +35,6 @@ whois:        whois-dub.mm-registry.com
 status:       ACTIVE
 
 created:      2014-02-28
-changed:      2014-03-31
+changed:      2016-04-16
 source:       IANA
 
