@@ -1,0 +1,48 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       ISMAILI
+
+organisation: Fondation Aga Khan (Aga Khan Foundation)
+address:      1 - 3 avenue de la Paix
+address:      1202 Geneva
+address:      Switzerland
+
+contact:      administrative
+name:         Director of Finance
+organisation: Fondation Aga Khan (Aga Khan Foundation)
+address:      1 - 3 avenue de la Paix
+address:      1202 Geneva
+address:      Switzerland
+phone:        +41 22 909 7200
+fax-no:       +41 22 909 7292
+e-mail:       akftld.ismaili@akdn.org
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      Building 3, Suite 105
+address:      300 Welsh Road
+address:      Horsham, PA 19044
+address:      United States
+phone:        +1 215.706.5700
+fax-no:       +1 215.706.5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.ISMAILI 2a01:8840:2a:0:0:0:0:25 65.22.44.25
+nserver:      A2.NIC.ISMAILI 2a01:8840:2d:0:0:0:0:25 65.22.47.25
+nserver:      B0.NIC.ISMAILI 2a01:8840:2b:0:0:0:0:25 65.22.45.25
+nserver:      C0.NIC.ISMAILI 2a01:8840:2c:0:0:0:0:25 65.22.46.25
+ds-rdata:     9774 7 1 14205bf7e714fdf73de69b10ba2f38e35856087b
+ds-rdata:     9774 7 2 aec620cedc82140bdc27d5a53b78e09c7eb929331f3d99e24c0cbbd0fe4fdacd
+
+whois:        whois.afilias-srs.net
+
+status:       ACTIVE
+remarks:      Registration information: http://www.akdn.org/
+
+created:      2016-04-07
+changed:      2016-04-16
+source:       IANA
+
