@@ -1,0 +1,44 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       STATEBANK
+
+organisation: STATE BANK OF INDIA
+address:      State Bank Bhavan, Madame Cama Road, Nariman Point, Mumbai, Maharashtra, 400021
+address:      India
+
+contact:      administrative
+name:         IT-NW&MS Department
+organisation: State Bank of India
+address:      GITC, Belapur Sector-11, Navi Mumbai, Maharashtra, 400614
+address:      India
+phone:        +91.22.27566061
+fax-no:       +91.22.27577373-76
+e-mail:       gtld@sbi.co.in
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      Building 3, Suite 105,  300 Welsh Road, Horsham, PA 19044
+address:      United States
+phone:        +1.215.706.5700
+fax-no:       +1.215.706.5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.STATEBANK 2a01:8840:aa:0:0:0:0:1 65.22.176.1
+nserver:      A2.NIC.STATEBANK 2a01:8840:ad:0:0:0:0:1 65.22.179.1
+nserver:      B0.NIC.STATEBANK 2a01:8840:ab:0:0:0:0:1 65.22.177.1
+nserver:      C0.NIC.STATEBANK 2a01:8840:ac:0:0:0:0:1 65.22.178.1
+ds-rdata:     23235 7 1 f81317706cd1fb277ece0582c1fb1369c1b9fa94
+ds-rdata:     23235 7 2 e2e22d92c1b8ad2f0cc366a43a4a2d51986c1d625c631063cbc5b73cdbb5d953
+
+whois:        whois.afilias-srs.net
+
+status:       ACTIVE
+remarks:      Registration information: https://www.sbi.co.in
+
+created:      2016-03-24
+changed:      2016-04-16
+source:       IANA
+
