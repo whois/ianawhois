@@ -1,0 +1,52 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       IMAMAT
+
+organisation: Fondation Aga Khan (Aga Khan Foundation)
+address:      1 - 3 avenue de la Paix
+address:      Geneva
+address:      Geneva
+address:      1202
+address:      Switzerland
+
+contact:      administrative
+name:         Director of Finance
+organisation: Fondation Aga Khan (Aga Khan Foundation)
+address:      1 - 3 avenue de la Paix
+address:      Geneva
+address:      Geneva
+address:      1202
+address:      Switzerland
+phone:        +41 22 909 7200
+fax-no:       +41 22 909 7292
+e-mail:       akftld.imamat@akdn.org
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      Building 3, Suite 105
+address:      300 Welsh Road
+address:      Horsham, PA 19044
+address:      United States
+phone:        +1 215.706.5700
+fax-no:       +1 215.706.5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.IMAMAT 2a01:8840:2a:0:0:0:0:9 65.22.44.9
+nserver:      A2.NIC.IMAMAT 2a01:8840:2d:0:0:0:0:9 65.22.47.9
+nserver:      B0.NIC.IMAMAT 2a01:8840:2b:0:0:0:0:9 65.22.45.9
+nserver:      C0.NIC.IMAMAT 2a01:8840:2c:0:0:0:0:9 65.22.46.9
+ds-rdata:     44614 7 1 0eea6027b29718ebd69dd1039d6b75e09b7f6fec
+ds-rdata:     44614 7 2 bd82f1dd9d784d8995d4d1f29e107f54e1ff2caf3bb6b6a8e74e59a89cde8737
+
+whois:        whois.afilias-srs.net
+
+status:       ACTIVE
+remarks:      Registration information: http://www.akdn.org
+
+created:      2016-04-07
+changed:      2016-04-16
+source:       IANA
+
