@@ -1,0 +1,48 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       AKDN
+
+organisation: Fondation Aga Khan (Aga Khan Foundation)
+address:      1 - 3 avenue de la Paix
+address:      1202 Geneva
+address:      Switzerland
+
+contact:      administrative
+name:         Director of Finance
+organisation: Fondation Aga Khan (Aga Khan Foundation)
+address:      1 - 3 avenue de la Paix
+address:      1202 Geneva
+address:      Switzerland
+phone:        +41 22 909 7200
+fax-no:       +41 22 909 7292
+e-mail:       akftld.akdn@akdn.org
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      Building 3, Suite 105
+address:      300 Welsh Road
+address:      Horsham, PA 19044
+address:      United States
+phone:        +1 215.706.5700
+fax-no:       +1 215.706.5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.AKDN 2a01:8840:2a:0:0:0:0:17 65.22.44.17
+nserver:      A2.NIC.AKDN 2a01:8840:2d:0:0:0:0:17 65.22.47.17
+nserver:      B0.NIC.AKDN 2a01:8840:2b:0:0:0:0:17 65.22.45.17
+nserver:      C0.NIC.AKDN 2a01:8840:2c:0:0:0:0:17 65.22.46.17
+ds-rdata:     50760 7 1 51bc955abfbcf685dd573c52e35233b3968ded14
+ds-rdata:     50760 7 2 955e0f1a8ffe6132098e2a929de729cd46a566304e33c14185a815d96edb9c6a
+
+whois:        whois.afilias-srs.net
+
+status:       ACTIVE
+remarks:      Registration information: http://www.akdn.org/
+
+created:      2016-03-31
+changed:      2016-04-16
+source:       IANA
+
