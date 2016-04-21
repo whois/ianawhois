@@ -1,0 +1,49 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       MLS
+
+organisation: The Canadian Real Estate Association
+address:      200 Catherine Street, 6th Floor
+address:      Ottawa, Ontario K2P 2K9
+address:      CA
+address:      Canada
+
+contact:      administrative
+name:         Legal Counsel
+organisation: The Canadian Real Estate Association
+address:      200 Catherine Street, 6th Floor
+address:      Ottawa, Ontario, K2P 2K9
+address:      Canada (CA)
+address:      Canada
+phone:        1-613-237-7111
+fax-no:       1-613-234-2567
+e-mail:       legal@crea.ca
+
+contact:      technical
+name:         Registry Customer Service
+organisation: Verisign, Inc.
+address:      Verisign, Inc.
+address:      12061 Bluemont Way
+address:      Reston Virginia 20190
+address:      United States (US)
+address:      United States
+phone:        +1-703-925-6999
+fax-no:       +1-703-948-3978
+e-mail:       info@verisign-grs.com
+
+nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
+nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
+nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
+nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
+ds-rdata:     50649 8 2 4494D7D0A0196BA6B36FB055B227D400043ADA39C0BEC75C14320271264660CB
+
+whois:        whois.nic.mls
+
+status:       ACTIVE
+
+created:      2015-08-20
+changed:      2016-04-20
+source:       IANA
+
