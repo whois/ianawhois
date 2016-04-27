@@ -34,10 +34,10 @@ phone:        +81.354561601
 fax-no:       +81.337805239
 e-mail:       newgtld@gmoregistry.com
 
-nserver:      A.NIC.EPSON 2001:dcd:1:0:0:0:0:9 37.209.192.9
-nserver:      B.NIC.EPSON 2001:dcd:2:0:0:0:0:9 37.209.194.9
-nserver:      C.NIC.EPSON 2001:dcd:3:0:0:0:0:9 37.209.196.9
-nserver:      D.NIC.EPSON 2001:dcd:4:0:0:0:0:9 37.209.198.9
+nserver:      A.GMOREGISTRY.NET 2001:dcd:1:0:0:0:0:4 37.209.192.4
+nserver:      B.GMOREGISTRY.NET 2001:dcd:2:0:0:0:0:4 37.209.194.4
+nserver:      K.GMOREGISTRY.NET 37.209.196.4
+nserver:      L.GMOREGISTRY.NET 2001:dcd:4:0:0:0:0:4 37.209.198.4
 ds-rdata:     17650 8 1 568AEFB2E5F87B3516FF4588538953E7E0478E10
 ds-rdata:     17650 8 2 394B10DC6C22205EA07928E9A08B24A1077E2FE5BDC1A1CF4D522826324C7B90
 ds-rdata:     45157 8 2 ed2ad2fef5243ce0ec6d6d9f5c0ea0b3ac662075eef41de66118fc6af42da5fd
@@ -48,6 +48,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.epson.com
 
 created:      2015-02-19
-changed:      2016-04-13
+changed:      2016-04-27
 source:       IANA
 
