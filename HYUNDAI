@@ -36,10 +36,10 @@ phone:        +81.354561601
 fax-no:       +81.337805239
 e-mail:       newgtld@gmoregistry.com
 
-nserver:      A.NIC.HYUNDAI 2001:dcd:1:0:0:0:0:9 37.209.192.9
-nserver:      B.NIC.HYUNDAI 2001:dcd:2:0:0:0:0:9 37.209.194.9
-nserver:      C.NIC.HYUNDAI 2001:dcd:3:0:0:0:0:9 37.209.196.9
-nserver:      D.NIC.HYUNDAI 2001:dcd:4:0:0:0:0:9 37.209.198.9
+nserver:      A.GMOREGISTRY.NET 2001:dcd:1:0:0:0:0:4 37.209.192.4
+nserver:      B.GMOREGISTRY.NET 2001:dcd:2:0:0:0:0:4 37.209.194.4
+nserver:      K.GMOREGISTRY.NET 37.209.196.4
+nserver:      L.GMOREGISTRY.NET 2001:dcd:4:0:0:0:0:4 37.209.198.4
 ds-rdata:     28492 8 1 3D7CB00010B93D55ADBCAC89FAA98A49C6632F68
 ds-rdata:     28492 8 2 EDA01F8F7595EFE75AB836D5A6D367DDBAA0E4FBB76B88CCED6CDEF9742714BE
 ds-rdata:     9340 8 2 aac93aca103364f1f22a099b61de742fdfb074169a020b1633df97861b9650e9
@@ -50,6 +50,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.hyundai.com
 
 created:      2015-09-17
-changed:      2016-04-13
+changed:      2016-04-27
 source:       IANA
 
