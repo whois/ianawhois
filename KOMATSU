@@ -33,10 +33,10 @@ phone:        +81.354561601
 fax-no:       +81.337805239
 e-mail:       newgtld@gmoregistry.com
 
-nserver:      A.NIC.KOMATSU 2001:dcd:1:0:0:0:0:9 37.209.192.9
-nserver:      B.NIC.KOMATSU 2001:dcd:2:0:0:0:0:9 37.209.194.9
-nserver:      C.NIC.KOMATSU 2001:dcd:3:0:0:0:0:9 37.209.196.9
-nserver:      D.NIC.KOMATSU 2001:dcd:4:0:0:0:0:9 37.209.198.9
+nserver:      A.GMOREGISTRY.NET 2001:dcd:1:0:0:0:0:4 37.209.192.4
+nserver:      B.GMOREGISTRY.NET 2001:dcd:2:0:0:0:0:4 37.209.194.4
+nserver:      K.GMOREGISTRY.NET 37.209.196.4
+nserver:      L.GMOREGISTRY.NET 2001:dcd:4:0:0:0:0:4 37.209.198.4
 ds-rdata:     14704 8 2 F0BF55D71DC00D0AB07F8C7A9DB91309526E1D2C09D176FA21A81E9B227DEEB1
 ds-rdata:     14704 8 1 618D1F8432CED1C78B87FEFBC169C947519B1196
 ds-rdata:     33487 8 2 063f202a1bbbbf085d4eab82f9205bab5a72529f9cedd39d4770f8a8c2f196b4
@@ -47,6 +47,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.komatsu.com/
 
 created:      2015-03-06
-changed:      2016-04-13
+changed:      2016-04-27
 source:       IANA
 
