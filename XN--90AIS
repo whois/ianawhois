@@ -1,0 +1,51 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       бел
+domain-ace:   XN--90AIS
+
+organisation: Reliable Software, Ltd.
+address:      57 Dzerzhinskogo Ave.
+address:      8th floor, Office 38-2
+address:      Minsk 220089
+address:      Belarus
+
+contact:      administrative
+name:         Head of Department
+organisation: The Operative Analytical Center of the Republic of Belarus
+address:      49 Kirova Str.
+address:      Minsk 220030
+address:      Belarus
+phone:        +375 17 3092424
+fax-no:       +375 17 3271824
+e-mail:       admin-c@oac.gov.by
+
+contact:      technical
+name:         Head of Department
+organisation: Reliable Software Ltd.
+address:      57 Dzerzhinskogo Ave.
+address:      8th floor, Office 38-2
+address:      Minsk 220089
+address:      Belarus
+phone:        +375 17 2395703
+fax-no:       +375 17 2395720
+e-mail:       tech@cctld.by
+
+nserver:      DNS1.TLD.TUTBY.COM 178.172.160.20 2a04:2e80:7:0:0:0:0:2
+nserver:      DNS2.TLD.TUTBY.COM 2a04:2e80:7:1:0:0:0:2 93.125.30.44
+nserver:      DNS3.TLD.TUTBY.COM 195.209.35.70 2a05:4800:1:100:0:0:0:0
+nserver:      DNS4.TLD.TUTBY.COM 2001:1af8:4010:a049:1:0:0:0 62.212.73.101
+nserver:      DNS5.TLD.TUTBY.COM 2a00:c98:2200:a012:1:0:0:0 46.165.217.94
+nserver:      DNS6.TLD.TUTBY.COM 108.59.8.66 2604:9a00:2010:a013:2:0:0:0
+nserver:      DNS7.TLD.TUTBY.COM 128.199.68.43 2400:6180:0:d0:0:0:3d:b001
+
+whois:        whois.cctld.by
+
+status:       ACTIVE
+remarks:      Registration information: http://cctld.by
+
+created:      2014-09-29
+changed:      2015-12-08
+source:       IANA
+
