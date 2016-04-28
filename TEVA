@@ -35,10 +35,12 @@ nserver:      NS6.DNS.NIC.TEVA 156.154.158.160 2610:a1:1076:0:0:0:0:a0
 ds-rdata:     41870 8 1 462E4E2C6401806D4ECB27812C3A6C73AF2E2BCC
 ds-rdata:     41870 8 2 FA78847E5F71E44A7B435A3DC2B5AB8023FE9C60BB8BDD8636D2F74DAA501F4A
 
+whois:        whois.nic.teva
+
 status:       ACTIVE
-remarks:      Registration information: http://www.tevapharm.com
+remarks:      Registration information: http://nic.teva
 
 created:      2016-02-19
-changed:      2016-04-14
+changed:      2016-04-28
 source:       IANA
 
