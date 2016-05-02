@@ -5,15 +5,15 @@
 domain:       PL
 
 organisation: Research and Academic Computer Network
-address:      Wawozowa 18
-address:      Warsaw  02-796
+address:      Kolska 12
+address:      01-045 Warsaw
 address:      Poland
 
 contact:      administrative
 name:         NASK Admin-C
 organisation: Research and Academic Computer Network
-address:      Wawozowa 18
-address:      Warsaw  02-796
+address:      Kolska 12
+address:      01-045 Warsaw
 address:      Poland
 phone:        +48 22 380 8200
 fax-no:       +48 22 380 8201
@@ -22,8 +22,8 @@ e-mail:       pl-admin@dns.pl
 contact:      technical
 name:         NASK Tech-C
 organisation: Research and Academic Computer Network
-address:      Wawozowa 18
-address:      Warsaw  02-796
+address:      Kolska 12
+address:      01-045 Warsaw
 address:      Poland
 phone:        +48 22 380 8200
 fax-no:       +48 22 380 8201
@@ -45,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.dns.pl/english/
 
 created:      1990-07-30
-changed:      2015-12-03
+changed:      2016-05-02
 source:       IANA
 
