@@ -10,14 +10,14 @@ address:      New York, NY10005
 address:      United States
 
 contact:      administrative
-name:         Joshua Bourne
-organisation: FairWinds Partners, LLC
-address:      1000 Potomac Street NW, Suite 350
-address:      Washington, DC 20007
+name:         GDS Governance
+organisation: American International Group, Inc.
+address:      80 Pine Street, 30th Floor
+address:      New York, NY10005
 address:      United States
-phone:        +1 202 223 9252
-fax-no:       +1 202 223 9256
-e-mail:       aigregistry@fairwindspartners.com
+phone:        +1 212 770 7000
+fax-no:       +1 212 458 1942
+e-mail:       gdsgovernance@aig.com
 
 contact:      technical
 name:         Sean Kaine
@@ -41,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.aig.com
 
 created:      2015-04-09
-changed:      2015-10-05
+changed:      2016-05-02
 source:       IANA
 
