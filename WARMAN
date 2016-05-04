@@ -1,0 +1,45 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       WARMAN
+
+organisation: Weir Group IP Limited
+address:      The Weir Group PLC
+address:      1 West Regent
+address:      Glasgow, G2 1RW
+address:      United Kingdom
+
+contact:      administrative
+name:         Head of Change Management & IT Service Delivery
+organisation: The Weir Group PLC
+address:      1 West Regent
+address:      Glasgow, G2 1RW
+address:      United Kingdom
+phone:        +44 (0)141 637 7111
+e-mail:       ngtld-warman@cscinfo.com
+
+contact:      technical
+name:         Registry Customer Service
+organisation: Verisign, Inc.
+address:      12061 Bluemont Way
+address:      Reston Virginia 20190
+address:      United States
+phone:        +1-703-925-6999
+fax-no:       +1-703-948-3978
+e-mail:       info@verisign-grs.com
+
+nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
+nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
+nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
+nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
+ds-rdata:     47088 8 2 EABB251950FDAA13842AD37900D874D66CBB607B59C24C70415BE9EA5135498F
+
+whois:        whois.nic.warman
+
+status:       ACTIVE
+
+created:      2016-04-14
+changed:      2016-05-03
+source:       IANA
+
