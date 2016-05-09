@@ -12,15 +12,13 @@ address:      20190
 address:      United States
 
 contact:      administrative
-name:         Sr. Mgr., Operations and Compliance
-organisation: Public Interest Registry
-address:      1775 Wiehle Avenue, Suite 100
-address:      Reston
-address:      VA
-address:      20190
+name:         Director of Operations, Compliance and Customer Support
+organisation: Public Interest Registry (PIR)
+address:      1775 Wiehle Avenue
+address:      Reston, VA 20190
 address:      United States
-phone:        +1 703.889.5762
-fax-no:       +1 703.889.5779
+phone:        +1 919 369 4161
+fax-no:       +1 703 889 5779
 e-mail:       ops@pir.org
 
 contact:      technical
@@ -50,6 +48,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.pir.org 
 
 created:      2014-07-10
-changed:      2014-07-28
+changed:      2016-05-09
 source:       IANA
 
