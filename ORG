@@ -11,15 +11,14 @@ address:      Reston Virginia 20190
 address:      United States
 
 contact:      administrative
-name:         Michelle Coon
+name:         Director of Operations, Compliance and Customer Support
 organisation: Public Interest Registry (PIR)
 address:      1775 Wiehle Avenue
-address:      Suite 200
 address:      Reston Virginia 20190
 address:      United States
-phone:        +1 703 889 5762
+phone:        +1 919 369 4161
 fax-no:       +1 703 889 5779
-e-mail:       mcoon@pir.org
+e-mail:       ops@pir.org
 
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
@@ -47,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.pir.org
 
 created:      1985-01-01
-changed:      2015-09-30
+changed:      2016-05-10
 source:       IANA
 
