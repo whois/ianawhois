@@ -1,0 +1,44 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       FLIR
+
+organisation: FLIR Systems, Inc.
+address:      27700 SW Parkway Ave., Wilsonville Oregon 97070
+address:      United States
+
+contact:      administrative
+name:         Keith Phillips
+organisation: FLIR Systems Inc.
+address:      27700 SW Parkway Ave., Wilsonville Oregon 97070
+address:      United States
+phone:        503-498-3114
+fax-no:       503-498-3911
+e-mail:       keith.phillips@flir.com
+
+contact:      technical
+name:         Sean Kaine
+organisation: Neustar, Inc.
+address:      46000 Center Oak Plaza, Sterling VA 20166
+address:      United States
+phone:        +1 571-434-5168
+fax-no:       +1 571-434-5401
+e-mail:       registrytechnical1@neustar.biz
+
+nserver:      NS1.DNS.NIC.FLIR 156.154.144.61 2610:a1:1071:0:0:0:0:3d
+nserver:      NS2.DNS.NIC.FLIR 156.154.145.61 2610:a1:1072:0:0:0:0:3d
+nserver:      NS3.DNS.NIC.FLIR 156.154.159.61 2610:a1:1073:0:0:0:0:3d
+nserver:      NS4.DNS.NIC.FLIR 156.154.156.61 2610:a1:1074:0:0:0:0:3d
+nserver:      NS5.DNS.NIC.FLIR 156.154.157.61 2610:a1:1075:0:0:0:0:3d
+nserver:      NS6.DNS.NIC.FLIR 156.154.158.61 2610:a1:1076:0:0:0:0:3d
+ds-rdata:     54632 8 1 7CFF281E6C8D6B5016A822152BB791A693EAD9EC
+ds-rdata:     54632 8 2 7A39D55BE044946A4902C36B6CBED58CA72D0F04595D6B2B3D19EA57B2A2DB79
+
+status:       ACTIVE
+remarks:      Registration information: http://www.flir.com
+
+created:      2016-03-03
+changed:      2016-05-10
+source:       IANA
+
