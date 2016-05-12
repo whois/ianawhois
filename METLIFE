@@ -1,0 +1,47 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       METLIFE
+
+organisation: MetLife Services and Solutions, LLC
+address:      1095 Avenue of the Americas
+address:      New York, NY, 10036
+address:      United States
+
+contact:      administrative
+name:         Corporate Counsel
+organisation: MetLife Services and Solutions, LLC
+address:      1095 Avenue of Americas
+address:      New York, NY, 10036
+address:      United States
+phone:        +1 212 578 2211
+fax-no:       +1 212 743 0624
+e-mail:       ngtld-metlife@cscglobal.com
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      Building 3, Suite 105 300 Welsh Road
+address:      Building 3, Suite 105 300 Welsh Road
+address:      United States
+phone:        +1 215 706 5700
+fax-no:       +1 215 706 5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.METLIFE 2a01:8840:4e:0:0:0:0:25 65.22.80.25
+nserver:      A2.NIC.METLIFE 2a01:8840:51:0:0:0:0:25 65.22.83.25
+nserver:      B0.NIC.METLIFE 2a01:8840:4f:0:0:0:0:25 65.22.81.25
+nserver:      C0.NIC.METLIFE 2a01:8840:50:0:0:0:0:25 65.22.82.25
+ds-rdata:     50683 7 1 723137048f279d42edcc313f837bf93cb9a2eec1
+ds-rdata:     50683 7 2 2646407388289e3bc17a949e5d0fdd8a007a9b328aaac1e9f05709aa6baee436
+
+whois:        whois.afilias-srs.net
+
+status:       ACTIVE
+remarks:      Registration information: http://www.metlife.com
+
+created:      2016-03-18
+changed:      2016-05-11
+source:       IANA
+
