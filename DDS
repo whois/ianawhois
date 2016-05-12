@@ -1,0 +1,41 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       DDS
+
+organisation: Minds + Machines Group Limited
+address:      Craigmuir Chambers, Road Town Tortola VG 1110
+address:      Virgin Islands, British
+
+contact:      administrative
+name:         Admin Contact
+organisation: Minds + Machines Ltd
+address:      32 Nassau St, Dublin 2
+address:      Ireland
+phone:        +353.14301689
+e-mail:       support@mm-registry.com
+
+contact:      technical
+name:         Technical Contact
+organisation: Minds + Machines Ltd
+address:      32 Nassau St, Dublin 2
+address:      Ireland
+phone:        +353.14301689
+e-mail:       support@mm-registry.com
+
+nserver:      A.NS.NIC.DDS 2620:171:a02:ad:0:0:0:32 72.0.50.32
+nserver:      B.NS.NIC.DDS 2620:171:d02:dc:0:0:0:32 72.42.114.32
+nserver:      C.NS.NIC.DDS 2620:171:c00:c:0:0:0:32 70.40.0.32
+nserver:      D.NS.NIC.DDS 2620:171:f00:d:0:0:0:32 70.40.8.32
+ds-rdata:     3400 8 2 2D09DFE38CA04CE18E68F5A2B903A410FDDEAED34EE69A6A23F2E8A73EB522A5
+
+whois:        whois-dub.mm-registry.com
+
+status:       ACTIVE
+remarks:      Registration information: http://mmx.co
+
+created:      2016-01-08
+changed:      2016-05-11
+source:       IANA
+
