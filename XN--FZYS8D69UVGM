@@ -1,0 +1,50 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       電訊盈科
+domain-ace:   XN--FZYS8D69UVGM
+
+organisation: PCCW Enterprises Limited
+address:      41/F., PCCW Tower, Taikoo Place, Quarry Bay
+address:      Hong Kong
+address:      China
+
+contact:      administrative
+name:         Admin Contact
+organisation: Namesphere Holdings Limited
+address:      12/F, Daily House, 35-37 Haiphong Road, Tsim Sha Tsui, Kowloon
+address:      Hong Kong
+address:      China
+phone:        +852 2244 7900
+fax-no:       +852 2244 7902
+e-mail:       info@tld.asia
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      Building 3, Suite 105
+address:      300 Welsh Road
+address:      Horsham, PA 19044
+address:      United States
+phone:        +1 215.706.5700
+fax-no:       +1 215.706.5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.XN--FZYS8D69UVGM 2a01:8840:a6:0:0:0:0:33 65.22.172.33
+nserver:      A2.NIC.XN--FZYS8D69UVGM 2a01:8840:a9:0:0:0:0:33 65.22.175.33
+nserver:      B0.NIC.XN--FZYS8D69UVGM 2a01:8840:a7:0:0:0:0:33 65.22.173.33
+nserver:      C0.NIC.XN--FZYS8D69UVGM 2a01:8840:a8:0:0:0:0:33 65.22.174.33
+ds-rdata:     54556 7 1 b20cf58a31d06d347dfa35ea82405584af194932
+ds-rdata:     54556 7 2 eb9dd82dd06ed607b443e885ff60c65606555be2d9701c2f39133b11b53122ac
+
+whois:        whois.afilias-srs.net
+
+status:       ACTIVE
+remarks:      Registration information:
+remarks:      http://www.dot.asia/namesphere/
+
+created:      2016-04-15
+changed:      2016-05-11
+source:       IANA
+
