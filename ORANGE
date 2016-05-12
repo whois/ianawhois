@@ -1,0 +1,44 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       ORANGE
+
+organisation: Orange Brand Services Limited
+address:      3 More London Riverside,
+address:      London, SE1 2AQ
+address:      United Kingdom
+
+contact:      administrative
+name:         Legal Director, Group Legal Brand Affairs
+organisation: Orange Brand Services Limited
+address:      3 More London Riverside,
+address:      London, SE1 2AQ
+address:      United Kingdom
+phone:        +44 (0) 207 535 4412
+e-mail:       ngtld-orange@cscinfo.com
+
+contact:      technical
+name:         Registry Customer Service
+organisation: Verisign, inc.
+address:      12061 Bluemont Way
+address:      Reston Virginia 20190
+address:      United States
+phone:        +1-703-925-6999
+fax-no:       +1-703-948-3978
+e-mail:       info@verisign-grs.com
+
+nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
+nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
+nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
+nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
+ds-rdata:     44385 8 2 54957BDF3921CA2D50BB340E042605F8D39EE91CA2A08A37424CE88882C4FE1A
+
+whois:        whois.nic.orange
+
+status:       ACTIVE
+
+created:      2015-06-18
+changed:      2016-02-19
+source:       IANA
+
