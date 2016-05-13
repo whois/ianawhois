@@ -5,7 +5,7 @@
 domain:       書籍
 domain-ace:   XN--ROVU88B
 
-organisation: Amazon EU S.à r.l.
+organisation: Amazon Registry Services, Inc.
 address:      410 Terry Avenue North, Seattle, WA  98109
 address:      United States
 
@@ -40,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.amazonregistry.com
 
 created:      2016-01-29
-changed:      2016-02-19
+changed:      2016-05-13
 source:       IANA
 
