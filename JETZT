@@ -4,29 +4,30 @@
 
 domain:       JETZT
 
-organisation: New TLD Company AB
-address:      Kommendorsgatan 3, SE - 114 48
-address:      Stokholm
-address:      Sweden
+organisation: Wild Frostbite, LLC
+address:      10500 NE 8th Street, Suite 350
+address:      Bellevue, WA 98004
+address:      United States
 
 contact:      administrative
-name:         Jonas Cederfjall
-organisation: New TLD Company AB
-address:      Kommendorsgatan 3, SE - 114 48
-address:      Stockholm
-address:      Sweden
-phone:        +46 705792000
-fax-no:       +46 705792000
-e-mail:       jonas@newtldcompany.com
+name:         COO
+organisation: Donuts Inc.
+address:      10500 NE 8th Street, Suite 350
+address:      Bellevue, WA 98004
+address:      United States
+phone:        +1 425 283 8248
+fax-no:       +1 425 671 0020
+e-mail:       richard@donuts.co
 
 contact:      technical
-name:         Sean Kaine
-organisation: Neustar, Inc.
-address:      21575 Ridgetop Circle
-address:      Sterling, VA 20166
+name:         CTO
+organisation: Donuts Inc.
+address:      10500 NE 8th Street, Suite 350
+address:      Bellevue, WA 98004
 address:      United States
-phone:        +1.5714345168
-e-mail:       tldlaunch@neustar.biz
+phone:        +1 425 296 6802
+fax-no:       +1 425 671 0020
+e-mail:       chris@donuts.co
 
 nserver:      NS1.DNS.NIC.JETZT 156.154.144.86 2610:a1:1071:0:0:0:0:56
 nserver:      NS2.DNS.NIC.JETZT 156.154.145.86 2610:a1:1072:0:0:0:0:56
@@ -41,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.newtldcompany.com/
 
 created:      2014-03-06
-changed:      2014-03-15
+changed:      2016-05-13
 source:       IANA
 
