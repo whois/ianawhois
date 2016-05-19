@@ -1,0 +1,55 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       BLOG
+
+organisation: Knock Knock WHOIS There, LLC
+address:      132 Hawthorne Street
+address:      San Francisco
+address:      CA 94107
+address:      United States
+
+contact:      administrative
+name:         TLD Registry Services Management
+organisation: Nominet
+address:      Minerva House,
+address:      Edmund Halley Road,
+address:      Oxford Science Park,
+address:      Oxford,
+address:      OX4 4DQ
+address:      United Kingdom
+phone:        +44.1865332211
+e-mail:       registrymanagement@nominet.uk
+
+contact:      technical
+name:         TLD Registry Services Technical
+organisation: Nominet
+address:      Minerva House,
+address:      Edmund Halley Road,
+address:      Oxford Science Park,
+address:      Oxford,
+address:      OX4 4DQ
+address:      United Kingdom
+phone:        +44.1865332211
+e-mail:       registrytechnical@nominet.uk
+
+nserver:      DNS1.NIC.BLOG 213.248.217.9 2a01:618:401:0:0:0:0:9
+nserver:      DNS2.NIC.BLOG 103.49.81.9 2401:fd80:401:0:0:0:0:9
+nserver:      DNS3.NIC.BLOG 213.248.221.9 2a01:618:405:0:0:0:0:9
+nserver:      DNS4.NIC.BLOG 2401:fd80:405:0:0:0:0:9 43.230.49.9
+nserver:      DNSA.NIC.BLOG 156.154.100.3 2001:502:ad09:0:0:0:0:3
+nserver:      DNSB.NIC.BLOG 156.154.101.3
+nserver:      DNSC.NIC.BLOG 156.154.102.3
+nserver:      DNSD.NIC.BLOG 156.154.103.3
+ds-rdata:     2591 8 2 4d3c9ff03491d5851e9bb33625777558dc85b3609034837b6ef2b3dd0a3b49f1
+
+whois:        whois.nic.blog
+
+status:       ACTIVE
+remarks:      Registration information: http://kkwt.domains
+
+created:      2016-05-12
+changed:      2016-05-18
+source:       IANA
+
