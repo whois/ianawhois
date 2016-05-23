@@ -11,14 +11,14 @@ address:      Monterrey Nuevo Leon 64840
 address:      Mexico
 
 contact:      administrative
-name:         Oscar Alejandro Robles-Garay
+name:         POC ADM IANA
 organisation: NIC-Mexico, ITESM - Campus Monterrey
 address:      Av. Eugenio Garza Sada 427 Loc. 4, 5, 6
 address:      Monterrey Nuevo Leon 64840
 address:      Mexico
 phone:        +52 (81) 8864 2600
 fax-no:       +52 (81) 8864 2600
-e-mail:       orobles@nic.mx
+e-mail:       adm-iana@nic.mx
 
 contact:      technical
 name:         POC TECH IANA
@@ -44,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.registry.mx/
 
 created:      1989-02-01
-changed:      2015-07-14
+changed:      2016-05-23
 source:       IANA
 
