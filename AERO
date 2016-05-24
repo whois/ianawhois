@@ -39,3 +39,12 @@ nserver:      B2.AERO.AFILIAS-NST.ORG 199.249.123.1 2001:500:4b:0:0:0:0:1
 nserver:      C0.AERO.AFILIAS-NST.INFO 199.254.53.1 2001:500:1f:0:0:0:0:1
 nserver:      D0.AERO.AFILIAS-NST.ORG 199.254.54.1 2001:500:20:0:0:0:0:1
 
+whois:        whois.aero
+
+status:       ACTIVE
+remarks:      Registration information: http://www.information.aero
+
+created:      2001-12-21
+changed:      2015-12-07
+source:       IANA
+
