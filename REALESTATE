@@ -1,0 +1,44 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       REALESTATE
+
+organisation: dotRealEstate LLC
+address:      3029 Prospect Ave.
+address:      Cleveland, OH  44115
+address:      United States
+
+contact:      administrative
+name:         F Matthew Embrescia
+organisation: dotRealEstate LLC
+address:      3029 Prospect Ave.
+address:      Cleveland, OH  44115
+address:      United States
+phone:        2163611000
+e-mail:       matt@goto.jobs
+
+contact:      technical
+name:         Registry Customer Service
+organisation: Verisign, Inc.
+address:      12061 Bluemont Way
+address:      Reston Virginia 20190
+address:      United States
+phone:        +1-703-925-6999
+fax-no:       +1-703-948-3978
+e-mail:       info@verisign-grs.com
+
+nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
+nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
+nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
+nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
+ds-rdata:     62916 8 2 BC5884FA1C17512A839F1A8D72DBA0F882F2F2310DF3F33C54D9D4B55B165CC9
+
+whois:        whois.nic.realestate
+
+status:       ACTIVE
+
+created:      2016-04-28
+changed:      2016-05-23
+source:       IANA
+
