@@ -1,0 +1,48 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       UPS
+
+organisation: UPS Market Driver, Inc.
+address:      55 Glenlake Parkway
+address:      Atlanta, GA 30328
+address:      United States
+
+contact:      administrative
+name:         Attorney
+organisation: UPS Market Driver, Inc.
+address:      55 Glenlake Parkway
+address:      Atlanta, GA 30328
+address:      United States
+phone:        +1.404.828.7121
+fax-no:       +1.404.828.3116
+e-mail:       ngtld-ups@cscglobal.com
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      Building 3, Suite 105
+address:      300 Welsh Road
+address:      Horsham, PA 19044
+address:      United States
+phone:        +1 215.706.5700
+fax-no:       +1 215.706.5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.UPS 2a01:8840:ea:0:0:0:0:1 65.22.240.1
+nserver:      A2.NIC.UPS 2a01:8840:ed:0:0:0:0:1 65.22.243.1
+nserver:      B0.NIC.UPS 2a01:8840:eb:0:0:0:0:1 65.22.241.1
+nserver:      C0.NIC.UPS 2a01:8840:ec:0:0:0:0:1 65.22.242.1
+ds-rdata:     1863 7 1 4984be9ea29cd9b939fcf553ba462fa634803dc2
+ds-rdata:     1863 7 2 9e9c0183b9ff4236950b4f4ae29e21845d55a676fd8b17d8821cf46fd2fbd603
+
+whois:        whois.afilias-srs.net
+
+status:       ACTIVE
+remarks:      Registration information: http://www.ups.com
+
+created:      2016-04-14
+changed:      2016-05-31
+source:       IANA
+
