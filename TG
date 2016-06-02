@@ -30,7 +30,9 @@ fax-no:       +22822256666
 e-mail:       cafe@cafe.tg
 
 nserver:      NS1.ADMIN.NET 198.73.186.1
+nserver:      NS1.NIC.TG 41.207.188.36
 nserver:      NS2.ADMIN.NET 108.61.25.122 2001:19f0:300:1007:0:0:0:cafe
+nserver:      NS2.NIC.TG 80.248.68.12
 nserver:      NS3.ADMIN.NET 2001:41d0:2:8adf:0:0:0:2 87.98.180.44
 nserver:      NS4.ADMIN.NET 103.25.58.26 2406:d501:0:0:0:0:47e3:2a7c
 nserver:      NS5.ADMIN.NET 188.165.33.42 2001:41d0:8:5c79:0:0:0:3
@@ -42,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.tg
 
 created:      1996-09-05
-changed:      2016-02-10
+changed:      2016-06-01
 source:       IANA
 
