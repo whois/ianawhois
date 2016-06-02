@@ -1,0 +1,43 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       TJ
+
+organisation: Information Technology Center
+address:      Rudaki 80
+address:      Dushanbe  734023
+address:      Tajikistan
+
+contact:      administrative
+name:         Administrative Contact
+organisation: Information Technology Center
+address:      Rudaki 80
+address:      Dushanbe  734023
+address:      Tajikistan
+phone:        +992 372 231169
+fax-no:       +922 372 231178
+e-mail:       tj.adm.contact@gmail.com
+
+contact:      technical
+name:         Technical Contact
+organisation: Information Technology Center
+address:      Rudaki 80
+address:      Dushanbe  734023
+address:      Tajikistan
+phone:        +992 372 231178
+fax-no:       +992 372 231178
+e-mail:       tj.tech.contact@gmail.com
+
+nserver:      NS1.NIC.TJ 91.218.160.197
+nserver:      NS2.TOJIKISTON.COM 193.111.11.4
+nserver:      PHLOEM.UOREGON.EDU 128.223.32.35 2001:468:d01:20:0:0:80df:2023
+nserver:      TJ.CCTLD.AUTHDNS.RIPE.NET 193.0.9.117 2001:67c:e0:0:0:0:0:117
+
+status:       ACTIVE
+remarks:      Registration information: http://www.nic.tj
+
+created:      1997-12-11
+changed:      2013-11-13
+source:       IANA
+
