@@ -1,0 +1,41 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       GAMES
+
+organisation: United TLD Holdco Ltd.
+address:      One Clarendon Row, Dublin 2, Co. Dublin
+address:      Ireland
+
+contact:      administrative
+name:         Jeff Eckhaus
+organisation: United TLD Holdco LTD.
+address:      5808 Lake Washington Blvd. NE Suite 300 Kirkland WA 98033
+address:      United States
+phone:        +1 425 298 2607
+e-mail:       jeff@unitedtld.com
+
+contact:      technical
+name:         Wayne MacLaurin
+organisation: United TLD Holdco LTD.
+address:      5808 Lake Washington Blvd. NE Suite 300 Kirkland WA 98033
+address:      United States
+phone:        +1 425 298 2260
+e-mail:       wayne@unitedtld.com
+
+nserver:      DEMAND.ALPHA.ARIDNS.NET.AU 2001:dcd:1:0:0:0:0:7 37.209.192.7
+nserver:      DEMAND.BETA.ARIDNS.NET.AU 2001:dcd:2:0:0:0:0:7 37.209.194.7
+nserver:      DEMAND.DELTA.ARIDNS.NET.AU 2001:dcd:4:0:0:0:0:7 37.209.198.7
+nserver:      DEMAND.GAMMA.ARIDNS.NET.AU 2001:dcd:3:0:0:0:0:7 37.209.196.7
+ds-rdata:     28042 8 2 36DA0A738AFAE171A2B2C7470BED7B3638D3679A49AB0F91169A133947DB5947
+
+whois:        whois.rightside.co
+
+status:       ACTIVE
+remarks:      Registration information: http://rightside.co/registry
+
+created:      2016-05-24
+changed:      2016-06-02
+source:       IANA
+
