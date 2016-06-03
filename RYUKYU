@@ -1,0 +1,42 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       RYUKYU
+
+organisation: BusinessRalliart inc.
+address:      Cerulean Tower, 26-1 Sakuragaoka-cho, Shibuya-ku, Tokyo
+address:      Japan
+
+contact:      administrative
+name:         Representative Director and CEO
+organisation: GMO Registry, Inc.
+address:      Cerulean Tower, 26-1 Sakuragaoka-cho, | Shibuya-ku Tokyo
+address:      Japan
+phone:         +81-3-5456-1601
+fax-no:        +81-3-3780-2611
+e-mail:       newgtld@gmoregistry.com
+
+contact:      technical
+name:         Director
+organisation: GMO Registry, Inc.
+address:      Cerulean Tower, 26-1 Sakuragaoka-cho, Shibuya-ku Tokyo
+address:      Japan
+phone:        +81-3-5456-1601
+fax-no:       +81-3-3780-2611
+e-mail:       newgtld@gmoregistry.com
+
+nserver:      A.GMOREGISTRY.NET 2001:dcd:1:0:0:0:0:4 37.209.192.4
+nserver:      B.GMOREGISTRY.NET 2001:dcd:2:0:0:0:0:4 37.209.194.4
+nserver:      K.GMOREGISTRY.NET 37.209.196.4
+nserver:      L.GMOREGISTRY.NET 2001:dcd:4:0:0:0:0:4 37.209.198.4
+ds-rdata:     55576 8 2 1450d93e9c3eab2869ce99a034242ea4b1e4599f635f81882a51f6ece308867e
+
+status:       ACTIVE
+remarks:      Registration information:
+remarks:      http://www.gmo-registry.com/en/
+
+created:      2014-03-13
+changed:      2016-03-17
+source:       IANA
+
