@@ -1,0 +1,44 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       DHL
+
+organisation: Deutsche Post AG
+address:      Charles-de-Gaulle-Straße 20
+address:      53113 Bonn
+address:      Germany
+
+contact:      administrative
+name:         Wasiliki Karagiannaki
+organisation: Deutsche Post AG
+address:      Koblenzer Str. 67
+address:      53177 Bonn
+address:      Germany
+phone:        +49 (0) 228 182-96701
+fax-no:       +49 (0) 228 182-96799
+e-mail:       newgtlds.w.karagiannaki@deutschepost.de
+
+contact:      technical
+name:         Jan Jansen
+organisation: NCC Group Domain Services
+address:      21, rue Leon Laval
+address:      3372 Leudelange
+address:      Luxembourg
+phone:        +32 3 491 08 80
+fax-no:       +32 3 290 07 70
+e-mail:       dhl@openregistry.com
+
+nserver:      A.NS.NIC.DHL 2a02:2790:1:53:0:0:22:1 89.207.190.28
+nserver:      C.NS.NIC.DHL 46.137.111.0
+nserver:      X.NS.NIC.DHL 195.253.64.4 2a01:5b0:4:0:0:0:0:4
+nserver:      Y.NS.NIC.DHL 195.253.64.7 2a01:5b0:4:0:0:0:0:7
+ds-rdata:     33051 7 1 E2FBEE1CC8DA9CE0BD4D74A688491ED1315D0568
+ds-rdata:     33051 7 2 8F83E4018FB981E5F7D18DF96549EC57B31A143C6F8A6D010038108525425B7E
+
+status:       ACTIVE
+
+created:      2016-05-26
+changed:      2016-06-02
+source:       IANA
+
