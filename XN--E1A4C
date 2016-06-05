@@ -38,6 +38,8 @@ nserver:      X.DNS.EU 194.0.1.19 2001:678:4:0:0:0:0:13
 nserver:      Y.DNS.EU 194.146.106.90 2001:67c:1010:23:0:0:0:53
 ds-rdata:     274 8 2 36E1E0D1BEC89138564A3E2906764BB2DADAE21274FEC1F9CEACE4B7AC42DF9B
 
+whois:        whois.eu
+
 status:       ACTIVE
 remarks:      Registration information: http://www.registry.eu
 
