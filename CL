@@ -17,7 +17,6 @@ address:      Miraflores 222, Piso 14
 address:      Santiago RM 832-0198
 address:      Chile
 phone:        +56 2 940 7700
-fax-no:       +56 2 940 7701
 e-mail:       ppoblete@nic.cl
 
 contact:      technical
@@ -28,7 +27,6 @@ address:      Miraflores 222, Piso 14
 address:      Santiago RM 832-0198
 address:      Chile
 phone:        +56 2 940 7700
-fax-no:       +56 2 940 7701
 e-mail:       jpiquer@nic.cl
 
 nserver:      A.NIC.CL 200.1.121.10
@@ -45,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.cl/
 
 created:      1995-01-27
-changed:      2011-06-08
+changed:      2016-06-05
 source:       IANA
 
