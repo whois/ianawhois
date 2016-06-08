@@ -1,0 +1,44 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       EPOST
+
+organisation: Deutsche Post AG
+address:      Charles-de-Gaulle-Straße 20
+address:      53113 Bonn
+address:      Germany
+
+contact:      administrative
+name:         Wasiliki Karagiannaki
+organisation: Deutsche Post AG
+address:      Koblenzer Str. 67
+address:      53177 Bonn
+address:      Germany
+phone:        +49 (0) 228 182-96701 
+fax-no:       +49 (0) 228 182-96799 
+e-mail:       newgtlds.w.karagiannaki@deutschepost.de
+
+contact:      technical
+name:         Jan Jansen
+organisation: NCC Group Domain Services
+address:      21, rue Leon Laval
+address:      3372 Leudelange
+address:      Luxembourg
+phone:        +32 3 491 08 80
+fax-no:       +32 3 290 07 70
+e-mail:       epost@openregistry.com
+
+nserver:      A.NS.NIC.EPOST 2a02:2790:1:53:0:0:21:1 89.207.190.27
+nserver:      C.NS.NIC.EPOST 54.228.192.238
+nserver:      X.NS.NIC.EPOST 195.253.64.4 2a01:5b0:4:0:0:0:0:4
+nserver:      Y.NS.NIC.EPOST 195.253.64.7 2a01:5b0:4:0:0:0:0:7
+ds-rdata:     10041 7 1 110325BF68BFC68D2F6BCECD10A50A1F577B2411
+ds-rdata:     10041 7 2 346F5E7E8B9A6BD4345B078C3B995022268C9695D0077DB3A9BF37FB02639FFE
+
+status:       ACTIVE
+
+created:      2016-05-26
+changed:      2016-06-07
+source:       IANA
+
