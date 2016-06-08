@@ -1,0 +1,45 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       TDK
+
+organisation: TDK Corporation
+address:      3-9-1 Shibaura, Minato-ku, Tokyo 108-0023 JAPAN
+address:      Japan
+
+contact:      administrative
+name:         Jacob Williams
+organisation: Interlink Co., Ltd.
+address:      3-1-1 Higashi Ikebukuro Sunshine 60 Bldg. 37F
+address:      Toshima, Tokyo 170-6037 JAPAN
+address:      Japan
+phone:        +81 5058061875
+fax-no:       +81 338953826
+e-mail:       tdk-registry@interlink.ad.jp
+
+contact:      technical
+name:         Sean Kaine
+organisation: Neustar, Inc.
+address:      46000 Center Oak Plaza, Sterling VA 20166
+address:      United States
+phone:        +1 571-434-5168
+fax-no:       +1 571-434-5401
+e-mail:       registrytechnical1@neustar.biz
+
+nserver:      NS1.DNS.NIC.TDK 156.154.144.159 2610:a1:1071:0:0:0:0:9f
+nserver:      NS2.DNS.NIC.TDK 156.154.145.159 2610:a1:1072:0:0:0:0:9f
+nserver:      NS3.DNS.NIC.TDK 156.154.159.159 2610:a1:1073:0:0:0:0:9f
+nserver:      NS4.DNS.NIC.TDK 156.154.156.159 2610:a1:1074:0:0:0:0:9f
+nserver:      NS5.DNS.NIC.TDK 156.154.157.159 2610:a1:1075:0:0:0:0:9f
+nserver:      NS6.DNS.NIC.TDK 156.154.158.159 2610:a1:1076:0:0:0:0:9f
+ds-rdata:     36340 8 1 5E5F1C2C296410C16FE1A334B231FE91EA0DE9DD
+ds-rdata:     36340 8 2 17CD1A1466A1EDC3D2F7F5048EDE06BF81E5A67E76F5D05967ACAB8CD3827237
+
+status:       ACTIVE
+remarks:      Registration information: http://www.global.tdk.com/
+
+created:      2016-03-10
+changed:      2016-06-07
+source:       IANA
+
