@@ -39,13 +39,13 @@ nserver:      NS2.DNS.AW 2001:7b8:606:0:0:0:0:88 213.154.241.88
 nserver:      NS3.DNS.AW 194.171.17.13 2001:610:0:800d:0:0:0:13
 nserver:      NS4.DNS.AW 2a00:1188:5:0:0:0:0:215 95.142.99.215
 nserver:      NS5.DNS.AW 194.0.28.2 2001:678:2c:0:194:0:28:2
-ds-rdata:     44906 8 2 034dc020d9fa4ae44dcaa10b0eaa7919c97cf701ab06549f54d852ca62841775
+ds-rdata:     38854 8 2 23fa5636c1d793336a1eb15bbd26aa902cf12fb88200c64512f065ae355a4d9b
 
 whois:        whois.nic.aw
 
 status:       ACTIVE
 
 created:      1996-02-20
-changed:      2014-03-28
+changed:      2016-06-10
 source:       IANA
 
