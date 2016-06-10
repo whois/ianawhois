@@ -17,7 +17,7 @@ address:      Stockholm  SE-103 91
 address:      Sweden
 phone:        +46 8 452 35 00
 fax-no:       +46 8 452 35 02
-e-mail:       noc@iis.se
+e-mail:       registry@iis.se
 
 contact:      technical
 name:         SE Technical Contact
@@ -46,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.iis.se
 
 created:      1986-09-04
-changed:      2016-01-11
+changed:      2016-06-09
 source:       IANA
 
