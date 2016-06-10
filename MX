@@ -37,6 +37,7 @@ nserver:      M.MX-NS.MX 200.94.176.1 2001:13c7:7000:0:0:0:0:1
 nserver:      O.MX-NS.MX 200.23.1.1
 nserver:      X.MX-NS.MX 201.131.252.1
 ds-rdata:     36752 8 2 97D2717943D0665FF814CF22596E8176BFCD1D656DE082B0D48F283BA4826B9F
+ds-rdata:     55955 8 2 3D7F3313E86341EC23A02F8ED837572D62CF74BF175AC8B2F19B1E2B8930B0D5
 
 whois:        whois.mx
 
@@ -44,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.registry.mx/
 
 created:      1989-02-01
-changed:      2016-05-23
+changed:      2016-06-10
 source:       IANA
 
