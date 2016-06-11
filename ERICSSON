@@ -1,0 +1,45 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       ERICSSON
+
+organisation: Telefonaktiebolaget L M Ericsson
+address:      Torshamnsgatan 23
+address:      Stockholm  SE-164 83
+address:      Sweden
+
+contact:      administrative
+name:         Senior Group Legal Counsel
+organisation: Telefonaktiebolaget L M Ericsson
+address:      Torshamnsgatan 23
+address:      Stockholm  SE-164 83
+address:      Sweden
+phone:        +46 10 719 0000
+fax-no:       +46 10 719 3091
+e-mail:       ngtld-ericsson@cscinfo.com
+
+contact:      technical
+name:         Registry Customer Service
+organisation: Verisign, Inc.
+address:      12061 Bluemont Way
+address:      Reston Virginia 20190
+address:      United States
+phone:        +1-703-925-6999
+fax-no:       +1-703-948-3978
+e-mail:       info@verisign-grs.com
+
+nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
+nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
+nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
+nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
+ds-rdata:     60888 8 2 1B2FCF0C2219910E8BCC22B8B982B9ADEA8074C3C20540D58312646469C1F0EF
+
+whois:        whois.nic.ericsson
+
+status:       ACTIVE
+
+created:      2016-04-14
+changed:      2016-06-10
+source:       IANA
+
