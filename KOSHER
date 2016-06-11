@@ -1,0 +1,48 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       KOSHER
+
+organisation: Kosher Marketing Assets LLC
+address:      391 Troy Avenue
+address:      Brooklyn, NY 11213
+address:      United States
+
+contact:      administrative
+name:         Manager
+organisation: Kosher Marketing Assets LLC
+address:      391 Troy Avenue
+address:      Brooklyn, NY 11213
+address:      United States
+phone:        +1 718.907.9527
+fax-no:       +1 718.756.7503
+e-mail:       chayac@ok.org
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      Building 3, Suite 105
+address:      300 Welsh Road
+address:      Horsham, PA 19044
+address:      United States
+phone:        +1 215.706.5700
+fax-no:       +1 215.706.5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.KOSHER 2a01:8840:d6:0:0:0:0:1 65.22.220.1
+nserver:      A2.NIC.KOSHER 2a01:8840:d9:0:0:0:0:1 65.22.223.1
+nserver:      B0.NIC.KOSHER 2a01:8840:d7:0:0:0:0:1 65.22.221.1
+nserver:      C0.NIC.KOSHER 2a01:8840:d8:0:0:0:0:1 65.22.222.1
+ds-rdata:     26610 7 1 a0e3f89c89585bd2293282fd74689a1caa2ba649
+ds-rdata:     26610 7 2 3211c4641bf2d4a904ebf585c86a46ab042262a674c6f4c4dd012337ac51f5aa
+
+whois:        whois.afilias-srs.net
+
+status:       ACTIVE
+remarks:      Registration information: http://www.ok.org/
+
+created:      2016-06-03
+changed:      2016-06-10
+source:       IANA
+
