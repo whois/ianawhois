@@ -1,0 +1,48 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       DUNLOP
+
+organisation: The Goodyear Tire & Rubber Company
+address:      1144 East Market Street
+address:      Akron, OH 44315
+address:      United States
+
+contact:      administrative
+name:         Senior Counsel - Intellectual Property
+organisation: The Goodyear Tire & Rubber Company
+address:      1144 East Market Street
+address:      Akron, OH 44315
+address:      United States
+phone:        +1.330.796.2121
+fax-no:       +1.330.796.2122
+e-mail:       ngtld-dunlop@cscglobal.com
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      Building 3, Suite 105
+address:      300 Welsh Road
+address:      Horsham, PA 19044
+address:      United States
+phone:        +1 215.706.5700
+fax-no:       +1 215.706.5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.DUNLOP 2a01:8840:76:0:0:0:0:33 65.22.120.33
+nserver:      A2.NIC.DUNLOP 2a01:8840:79:0:0:0:0:33 65.22.123.33
+nserver:      B0.NIC.DUNLOP 2a01:8840:77:0:0:0:0:33 65.22.121.33
+nserver:      C0.NIC.DUNLOP 2a01:8840:78:0:0:0:0:33 65.22.122.33
+ds-rdata:     47101 7 1 fb296a6c4e674b9359746ad3a43f18059a831455
+ds-rdata:     47101 7 2 e93007312ab67ee11773a50aa33357011d6dba8e9445e418b445735cc4fbd47d
+
+whois:        whois.afilias-srs.net
+
+status:       ACTIVE
+remarks:      Registration information: http://www.dunlop.com/
+
+created:      2015-12-17
+changed:      2016-06-10
+source:       IANA
+
