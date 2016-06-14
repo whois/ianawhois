@@ -9,13 +9,13 @@ address:      Ruta 8 km 17,500, Edificio Synergia, Oficina 101, Zonamerica, Mont
 address:      Uruguay
 
 contact:      administrative
-name:         Joshua Bourne
-organisation: FairWinds Partners LLC
-address:      1000 Potomac Street NW, Suite 350, Washington, DC 20007
-address:      United States
-phone:        +1 202 223 9252
-fax-no:       +1 202 223 9256
-e-mail:       bourne.ds@fairwindspartners.com
+name:         Employee
+organisation: Travel Reservations SRL
+address:      Ruta 8 km 17,500, Edificio Synergia, Oficina 101, Zonamerica, Montevideo, UY 1600
+address:      Uruguay
+phone:        +54114894 3588
+fax-no:       +541148943500
+e-mail:       gtldscontact@despegar.com
 
 contact:      technical
 name:         Sean Kaine
@@ -39,6 +39,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.despegar.com
 
 created:      2015-05-14
-changed:      2015-06-27
+changed:      2016-06-14
 source:       IANA
 
