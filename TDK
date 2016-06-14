@@ -36,10 +36,12 @@ nserver:      NS6.DNS.NIC.TDK 156.154.158.159 2610:a1:1076:0:0:0:0:9f
 ds-rdata:     36340 8 1 5E5F1C2C296410C16FE1A334B231FE91EA0DE9DD
 ds-rdata:     36340 8 2 17CD1A1466A1EDC3D2F7F5048EDE06BF81E5A67E76F5D05967ACAB8CD3827237
 
+whois:        whois.nic.tdk
+
 status:       ACTIVE
-remarks:      Registration information: http://www.global.tdk.com/
+remarks:      Registration information: http://nic.tdk
 
 created:      2016-03-10
-changed:      2016-06-07
+changed:      2016-06-14
 source:       IANA
 
