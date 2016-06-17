@@ -1,0 +1,48 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       CAM
+
+organisation: AC Webconnecting Holding B.V.
+address:      WTC Beurs Plein 37
+address:      Kantoor 1556
+address:      Postbus 30006 3001DA Rotterdam
+address:      Netherlands
+
+contact:      administrative
+name:         CTO
+organisation: AC Webconnecting Holding B.V.
+address:      WTC Beurs Plein 37
+address:      Kantoor 1556
+address:      Postbus 30006 3001DA Rotterdam
+address:      Netherlands
+phone:        +31 1 0 4 05 44 73
+fax-no:       +33 4 42 50 69 48
+e-mail:       dotcam@acwebconnecting.com
+
+contact:      technical
+name:         CTO
+organisation: KSregistry GmbH
+address:      Im Oberen Werk 1
+address:      66386 St. Ingbert
+address:      Germany
+phone:        +49.68949396250
+fax-no:       +49.68949396251
+e-mail:       icann@ksregistry.com
+
+nserver:      NS1A.KSREGISTRY.NET 2001:dd8:7:6075:dc:0:0:1 203.119.88.75
+nserver:      NS1B.KSREGISTRY.NET 2620:0171:0a00:00ad:0:0:0:75 72.0.48.75
+nserver:      NS2A.KSREGISTRY.COM 2001:dd8:7:6076:dc:0:0:1 203.119.88.76
+nserver:      NS2B.KSREGISTRY.COM 2620:0171:0a00:00ad:0:0:0:76 72.0.48.76
+ds-rdata:     21397 8 2 84f8a2b6a6ba3f16ce2e78f933ee53f31eb5077647e71bbe0199de0b5848541c
+
+whois:        whois.ksregistry.net
+
+status:       ACTIVE
+remarks:      Registration information: http://www.acwebconnecting.com
+
+created:      2016-06-09
+changed:      2016-06-16
+source:       IANA
+
