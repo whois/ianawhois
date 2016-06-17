@@ -9,13 +9,13 @@ address:      25 avenue Matignon | 75008 Paris | FRANCE
 address:      France
 
 contact:      administrative
-name:         Ana DOUTRELIGNE
-organisation: AXA SA
-address:      39, rue du Colisée |75008 Paris | FRANCE
+name:         Jean-Marc Moulin
+organisation: AXA GS
+address:      39, rue du Colisée
+address:      75008 Paris
 address:      France
-phone:        +33 1 40 75 39 56
-fax-no:       +33 1 40 75 49 70
-e-mail:       ana.doutreligne@axa.com
+phone:        +33 1 40 75 96 18
+e-mail:       jeanmarc.moulin@axa-groupsolutions.com
 
 contact:      technical
 name:         Sean Kaine
@@ -39,6 +39,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.axa.com
 
 created:      2014-03-13
-changed:      2014-03-19
+changed:      2016-06-17
 source:       IANA
 
