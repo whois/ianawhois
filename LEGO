@@ -1,0 +1,45 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       LEGO
+
+organisation: LEGO Juris A/S
+address:      Koldingvej 2
+address:      DK-7190 Billund
+address:      Denmark
+
+contact:      administrative
+name:         Corporate Counsel
+organisation: LEGO Juris A⁄S
+address:      Koldingvej 2
+address:      DK-7190 Billund
+address:      Denmark
+phone:        +45 79505370
+fax-no:       +45 75338853
+e-mail:       ngtld-lego@cscinfo.com
+
+contact:      technical
+name:         Registry Customer Service
+organisation: Verisign, Inc.
+address:      12061 Bluemont Way
+address:      Reston Virginia 20190
+address:      United States
+phone:        +1-703-925-6999
+fax-no:       +1-703-948-3978
+e-mail:       info@verisign-grs.com
+
+nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
+nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
+nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
+nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
+ds-rdata:     28536 8 2 FDCDBD92D8A27F3A19BA30EF37E04FF21188973EE8648975E5B9A77DB48478D6
+
+whois:        whois.nic.lego
+
+status:       ACTIVE
+
+created:      2016-03-24
+changed:      2016-06-16
+source:       IANA
+
