@@ -30,7 +30,6 @@ fax-no:       +687 287 172
 e-mail:       nicolas.soulard@opt.nc
 
 nserver:      ANY-NS1.NC 114.69.222.1 2001:500:14:8000:7245:de00:0:1
-nserver:      CENSVRNS0001.IRD.FR 91.203.32.147
 nserver:      NC.CCTLD.AUTHDNS.RIPE.NET 193.0.9.100 2001:67c:e0:0:0:0:0:100
 nserver:      NS1.NC 202.87.129.16
 nserver:      NS2.NC 202.87.129.17
@@ -42,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.domaine.nc
 
 created:      1993-10-13
-changed:      2011-10-12
+changed:      2016-06-21
 source:       IANA
 
