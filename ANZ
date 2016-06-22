@@ -1,0 +1,44 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       ANZ
+
+organisation: Australia and New Zealand Banking Group Limited
+address:      ANZ Centre Melbourne, Level 8, 833 Collins St Docklands, Victoria - 3008 AU
+address:      Australia
+
+contact:      administrative
+name:         Head of Customer Insights and Digital Strategy, Group Marketing
+organisation: Australia and New Zealand Banking Group Limited
+address:      ANZ Centre Melbourne, Level 8, 833 Collins St Docklands, Victoria - 3008 AU
+address:      Australia
+phone:        +61 3 9273 5555
+fax-no:       +61 3 8654 1922
+e-mail:       ngtld-anz@cscinfo.com
+
+contact:      technical
+name:         Implementation Manager
+organisation: CSC Digital Brand Services
+address:      2711 Centerville Rd. suite 400
+address:      United States
+phone:        (302) 636-5400
+fax-no:       (302) 636-5454
+e-mail:       ngtlds-tech@cscinfo.com
+
+nserver:      A.NIC.ANZ 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.ANZ 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.ANZ 2001:dcd:3:0:0:0:0:9 37.209.196.9
+nserver:      D.NIC.ANZ 2001:dcd:4:0:0:0:0:9 37.209.198.9
+ds-rdata:     11722 8 1 66C406C9A8FB0E17B2B0D5C9F16F34B8B7753BEB
+ds-rdata:     11722 8 2 4EA18C79C33B5B13F0390238BD1D018FE773AFE5B90B5AE1B009170E61E0FC8B
+
+whois:        whois.nic.anz
+
+status:       ACTIVE
+remarks:      Registration information: http://www.anz.com/
+
+created:      2016-06-09
+changed:      2016-06-22
+source:       IANA
+
