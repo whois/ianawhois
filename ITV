@@ -1,0 +1,47 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       ITV
+
+organisation: ITV Services Limited
+
+contact:      administrative
+name:         Head of Secretariat
+organisation: ITV PLC
+address:      THE LONDON TELEVISION CENTRE UPPER GROUND, London
+address:      SE1 9LT
+address:      GB
+address:      United Kingdom
+phone:        +44 207 157 6563
+fax-no:       +44 774 076 2399
+e-mail:       ngtld-itv@cscglobal.com
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      Building 3, Suite 105
+address:      300 Welsh Road
+address:      Horsham, PA 19044
+address:      United States
+address:      United States
+phone:        +1 215.706.5700
+fax-no:       +1 215.706.5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.ITV 2a01:8840:56:0:0:0:0:25 65.22.88.25
+nserver:      A2.NIC.ITV 2a01:8840:59:0:0:0:0:25 65.22.91.25
+nserver:      B0.NIC.ITV 2a01:8840:57:0:0:0:0:25 65.22.89.25
+nserver:      C0.NIC.ITV 2a01:8840:58:0:0:0:0:25 65.22.90.25
+ds-rdata:     30558 7 1 44a43507e232590dccabee9bb4bc5617d37e1694
+ds-rdata:     30558 7 2 a675a7b443e3d3f78c1110ca7e37c007eb1913b81009f0b8520e2fa12d2cdb49
+
+whois:        whois.afilias-srs.net
+
+status:       ACTIVE
+remarks:      Registration information: http://www.itv.com
+
+created:      2016-05-19
+changed:      2016-06-22
+source:       IANA
+
