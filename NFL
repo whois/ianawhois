@@ -1,0 +1,44 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       NFL
+
+organisation: NFL Reg Ops LLC
+address:      345 Park Avenue, New York, NY 10154
+address:      United States
+
+contact:      administrative
+name:         Chris Niemi
+organisation: MarkMonitor Inc.
+address:      3540 East Longwing Lane, Suite 300, Meridian, Idaho 83646
+address:      United States
+phone:        +1 (208) 389-5740
+fax-no:       +1 (208) 389-5771
+e-mail:       dotnfl@markmonitor.com
+
+contact:      technical
+name:         Sean Kaine
+organisation: Neustar, Inc.
+address:      46000 Center Oak Plaza, Sterling VA 20166
+address:      United States
+phone:        +1 571-434-5168
+fax-no:       +1 571-434-5401
+e-mail:       registrytechnical1@neustar.biz
+
+nserver:      NS1.DNS.NIC.NFL 156.154.144.122 2610:a1:1071:0:0:0:0:7a
+nserver:      NS2.DNS.NIC.NFL 156.154.145.122 2610:a1:1072:0:0:0:0:7a
+nserver:      NS3.DNS.NIC.NFL 156.154.159.122 2610:a1:1073:0:0:0:0:7a
+nserver:      NS4.DNS.NIC.NFL 156.154.156.122 2610:a1:1074:0:0:0:0:7a
+nserver:      NS5.DNS.NIC.NFL 156.154.157.122 2610:a1:1075:0:0:0:0:7a
+nserver:      NS6.DNS.NIC.NFL 156.154.158.122 2610:a1:1076:0:0:0:0:7a
+ds-rdata:     56807 8 1 0D3FDA7A786CD2737FC6D3AE5382FF073A3BA6EB
+ds-rdata:     56807 8 2 0BE06BBD0764BB655807144202B41D78F08C7DE5A4716EED151D4073E14724A0
+
+status:       ACTIVE
+remarks:      Registration information: http://www.nfl.com/
+
+created:      2016-06-03
+changed:      2016-06-23
+source:       IANA
+
