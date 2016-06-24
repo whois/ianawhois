@@ -1,0 +1,43 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       COOKINGCHANNEL
+
+organisation: Lifestyle Domain Holdings, Inc.
+address:      9721 Sherill Blvd. Knoxville TN 37932
+address:      United States
+
+contact:      administrative
+name:         Jennifer Wolfe
+organisation: Lifestyle Domain Holdings
+address:      9721 Sherill Blvd. Knoxville TN 37932
+address:      United States
+phone:        513.746.2800 x1
+fax-no:       NA
+e-mail:       gtld@scrippsnetworks.com
+
+contact:      technical
+name:         Registry Customer Service
+organisation: Verisign, Inc.
+address:      12061 Bluemont Way
+address:      Reston Virginia 20190
+address:      United States
+phone:        +1-703-925-6999
+fax-no:       +1-703-948-3978
+e-mail:       info@verisign-grs.com
+
+nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
+nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
+nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
+nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
+ds-rdata:     48288 8 2 4BB52D23C468A1D38E99D7E4E9DDC361BA544BFC46DAC27769158B78D5940C1E
+
+whois:        whois.nic.cookingchannel
+
+status:       ACTIVE
+
+created:      2016-05-05
+changed:      2016-06-23
+source:       IANA
+
