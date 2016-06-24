@@ -1,0 +1,46 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       WOODSIDE
+
+organisation: Woodside Petroleum Limited
+address:      Woodside Plaza
+address:      240 St Georges Terrace Perth, Western Australia - 6000
+address:      Australia
+
+contact:      administrative
+name:         Architecture Team Lead
+organisation: Woodside Petroleum Limited
+address:      Woodside Plaza
+address:      240 St Georges Terrace Perth, Western Australia - 6000
+address:      Australia
+phone:        +61.893484000
+fax-no:       +61.892142777
+e-mail:       ngtld-woodside@cscinfo.com
+
+contact:      technical
+name:         Implementation Manager
+organisation: CSC Digital Brand Services
+address:      2711 Centerville Rd. suite 400
+address:      United States
+phone:        +1 3026365400
+fax-no:       +1 3026365454
+e-mail:       ngtlds-tech@cscinfo.com
+
+nserver:      A.NIC.WOODSIDE 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.WOODSIDE 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.WOODSIDE 2001:dcd:3:0:0:0:0:9 37.209.196.9
+nserver:      D.NIC.WOODSIDE 2001:dcd:4:0:0:0:0:9 37.209.198.9
+ds-rdata:     44164 8 1 40F8AC1DFE7CDF2C4E4C47197492BCE3516EAA9E
+ds-rdata:     44164 8 2 CE549F4ADD4F9B0344A25B1A9F333EE62E0E65150F6D51A4AC354B371D12E502
+
+whois:        whois.nic.woodside
+
+status:       ACTIVE
+remarks:      Registration information: http://www.woodside.com.au/
+
+created:      2016-01-08
+changed:      2016-06-23
+source:       IANA
+
