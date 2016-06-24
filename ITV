@@ -5,13 +5,15 @@
 domain:       ITV
 
 organisation: ITV Services Limited
+address:      The London Television Centre, Upper Ground
+address:      London SE1 9LT
+address:      United Kingdom
 
 contact:      administrative
 name:         Head of Secretariat
 organisation: ITV PLC
-address:      THE LONDON TELEVISION CENTRE UPPER GROUND, London
-address:      SE1 9LT
-address:      GB
+address:      The London Television Centre, Upper Ground
+address:      London SE1 9LT
 address:      United Kingdom
 phone:        +44 207 157 6563
 fax-no:       +44 774 076 2399
@@ -42,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.itv.com
 
 created:      2016-05-19
-changed:      2016-06-22
+changed:      2016-06-24
 source:       IANA
 
