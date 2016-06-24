@@ -1,0 +1,46 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       POLITIE
+
+organisation: Politie Nederland
+address:      Zeisterweg 1
+address:      3984 NH Odijk
+address:      Netherlands
+
+contact:      administrative
+name:         Managing Director
+organisation: SIDN (Stichting Internet Domeinregistratie Nederland)
+address:      P.O. Box 5022
+address:      6802 EA Arnhem
+address:      Netherlands
+phone:        +31 26 3525500
+fax-no:       +31 26 3525505
+e-mail:       admin@sidn.nl
+
+contact:      technical
+name:         Manager ICT
+organisation: SIDN (Stichting Internet Domeinregistratie Nederland)
+address:      P.O. Box 5022
+address:      6802 EA Arnhem
+address:      Netherlands
+phone:        +31 26 3525500
+fax-no:       +31 26 3525505
+e-mail:       tech@sidn.nl
+
+nserver:      NS1.NIC.POLITIE 193.176.144.16 2a00:d78:0:102:193:176:144:16
+nserver:      NS2.NIC.POLITIE 2001:7b8:606:0:0:0:0:82 213.154.241.82
+nserver:      NS3.NIC.POLITIE 194.171.17.15 2001:610:0:800d:0:0:0:15
+nserver:      NS4.NIC.POLITIE 2a00:1188:5:0:0:0:0:217 95.142.99.217
+nserver:      NS5.NIC.POLITIE 194.0.28.5 2001:678:2c:0:194:0:28:5
+ds-rdata:     63485 8 2 98f1793434c640fcb733f3a17c6bbe63d32666debe54bb4d264bc22f273a4e15
+
+whois:        whois.nic.politie
+
+status:       ACTIVE
+
+created:      2016-06-16
+changed:      2016-06-23
+source:       IANA
+
