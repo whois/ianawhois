@@ -1,0 +1,46 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       ART
+
+organisation: UK Creative Ideas Limited
+address:      111 Buckingham Palace Road
+address:      London SW1W 0SR
+address:      United Kingdom
+
+contact:      administrative
+name:         CEO
+organisation: UK Creative Ideas Limited
+address:      111 Buckingham Palace Road
+address:      London SW1W 0SR
+address:      United Kingdom
+phone:        +1.3102912281
+e-mail:       jcm@sferiq.com
+
+contact:      technical
+name:         CTO
+organisation: CentralNic
+address:      35-39 Moorgate
+address:      London EC2R 6AR
+address:      United Kingdom
+phone:        +44.2033880600
+fax-no:       +44.2033880601
+e-mail:       tld.ops@centralnic.com
+
+nserver:      A.NIC.ART 194.169.218.49 2001:67c:13cc:0:0:0:1:49
+nserver:      B.NIC.ART 185.24.64.49 2a04:2b00:13cc:0:0:0:1:49
+nserver:      C.NIC.ART 212.18.248.49 2a04:2b00:13ee:0:0:0:0:49
+nserver:      D.NIC.ART 212.18.249.49 2a04:2b00:13ff:0:0:0:0:49
+ds-rdata:     29485 8 1 6FD8A6CB40CAC76B1EAC4EE69075360D5C5EEA8E
+ds-rdata:     29485 8 2 BF041A7EC6CA857F5D85151C66F561DEB9C863B98E05670C345C9CF9ED199AEE
+
+whois:        whois.centralnic.com
+
+status:       ACTIVE
+remarks:      Registration information: http://dotart.domains/
+
+created:      2016-06-09
+changed:      2016-06-23
+source:       IANA
+
