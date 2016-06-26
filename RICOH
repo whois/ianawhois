@@ -1,0 +1,52 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       RICOH
+
+organisation: Ricoh Company, Ltd.
+address:      Ricoh Building
+address:      8-13-1 Ginza
+address:      Chuo-ku
+address:      Tokyo 104-8222
+address:      Japan
+
+contact:      administrative
+name:         Chief Operating Officer
+organisation: Brights Consulting Inc.
+address:      30F Kasumigaseki Bldg.
+address:      3-2-5 Kasumigaseki
+address:      Chiyoda-ku
+address:      Tokyo 100-6030
+address:      Japan
+phone:        +81355210107
+fax-no:       +81355210117
+e-mail:       nakagawa_11@brights.jp
+
+contact:      technical
+name:         Director
+organisation: GMO Registry, Inc.
+address:      Cerulean Tower 26-1 Sakuragaoka-cho
+address:      Shibuya-ku
+address:      Tokyo
+address:      150-8512
+address:      Japan
+phone:        +81.354561601
+fax-no:       +81.337805239
+e-mail:       newgtld@gmoregistry.com
+
+nserver:      A.GMOREGISTRY.NET 2001:dcd:1:0:0:0:0:4 37.209.192.4
+nserver:      B.GMOREGISTRY.NET 2001:dcd:2:0:0:0:0:4 37.209.194.4
+nserver:      K.GMOREGISTRY.NET 37.209.196.4
+nserver:      L.GMOREGISTRY.NET 2001:dcd:4:0:0:0:0:4 37.209.198.4
+ds-rdata:     23519 8 2 6c1fbe2b9ce9f03a83b1c69578e5c0dc165d1297634f5ad4cc06da6f408c50b4
+
+whois:        whois.nic.ricoh
+
+status:       ACTIVE
+remarks:      Registration information: http://www.ricoh.com
+
+created:      2015-03-06
+changed:      2016-03-11
+source:       IANA
+
