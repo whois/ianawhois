@@ -1,0 +1,44 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       SANDVIKCOROMANT
+
+organisation: Sandvik AB
+address:      Klarabergsgatan 60, Stockholm  111 21
+address:      Sweden
+
+contact:      administrative
+name:         Project & Process Manager
+organisation: Sandvik AB
+address:      Klarabergsgatan 60, Stockholm  111 21
+address:      Sweden
+phone:        +4533886365
+fax-no:       +4533886101
+e-mail:       sandvik@gtld.com
+
+contact:      technical
+name:         Project & Process Manager
+organisation: Sandvik AB
+address:      Klarabergsgatan 60, Stockholm  111 21
+address:      Sweden
+phone:        +4533886365
+fax-no:       +4533886101
+e-mail:       sandvik@gtld.com
+
+nserver:      A.NIC.SANDVIKCOROMANT 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.SANDVIKCOROMANT 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.SANDVIKCOROMANT 2001:dcd:3:0:0:0:0:9 37.209.196.9
+nserver:      D.NIC.SANDVIKCOROMANT 2001:dcd:4:0:0:0:0:9 37.209.198.9
+ds-rdata:     22654 8 2 2504BBF838B7BFFD1A5A4B745939D9033E5222DE25F6D651FFCD0706840BF73C
+ds-rdata:     22654 8 1 23968239AC81F58A3BC92191AE8C99972D3A883C
+
+whois:        whois.nic.sandvikcoromant
+
+status:       ACTIVE
+remarks:      Registration information: http://nic.sandvikcoromant
+
+created:      2015-05-14
+changed:      2016-02-11
+source:       IANA
+
