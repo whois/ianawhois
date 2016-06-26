@@ -1,0 +1,50 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       SECURITY
+
+organisation: XYZ.COM LLC
+address:      2121 E Tropicana Ave
+address:      Las Vegas
+address:      NV 89119
+address:      United States
+
+contact:      administrative
+name:         General Counsel
+organisation: XYZ.COM LLC
+address:      2121 E Tropicana Ave., STE2
+address:      Las Vegas
+address:      NV 89119
+address:      United States
+phone:        +1.7027632191
+e-mail:       hello@xyz.com
+
+contact:      technical
+name:         CTO
+organisation: CentralNic
+address:      35-39 Moorgate
+address:      London EC2R 6AR
+address:      United Kingdom
+phone:        +44.2033880600
+fax-no:       +44.2033880601
+e-mail:       tld.ops@centralnic.com
+
+nserver:      A.NIC.SECURITY 194.169.218.68 2001:67c:13cc:0:0:0:1:68
+nserver:      B.NIC.SECURITY 185.24.64.68 2a04:2b00:13cc:0:0:0:1:68
+nserver:      C.NIC.SECURITY 185.38.99.9 2a02:e180:3:0:0:0:0:9
+nserver:      D.NIC.SECURITY 108.59.161.9 2a02:e180:4:0:0:0:0:9
+nserver:      E.NIC.SECURITY 212.18.248.68 2a04:2b00:13ee:0:0:0:0:68
+nserver:      F.NIC.SECURITY 212.18.249.68 2a04:2b00:13ff:0:0:0:0:68
+ds-rdata:     14150 8 1 E14122358E5F8AFC204A70C4D71F312D7C6595BB
+ds-rdata:     14150 8 2 2859485C57B2B929084427B8C2B444200FA44011015AA6BF005146582947A257
+
+whois:        whois.nic.security
+
+status:       ACTIVE
+remarks:      Registration information: http://gen.xyz/blog/security
+
+created:      2015-09-03
+changed:      2016-02-24
+source:       IANA
+
