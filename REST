@@ -1,0 +1,47 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       REST
+
+organisation: Punto 2012 Sociedad Anonima Promotora de Inversion de Capital Variable
+address:      Juan Escutia 29 Col. Condesa
+address:      Mexico, D.F. 06140
+address:      Mexico
+
+contact:      administrative
+name:         CEO
+organisation: Punto 2012 Sociedad Anonima Promotora de Inversion de Capital Variable
+address:      Juan Escutia 29 Col. Condesa
+address:      Mexico, D.F. 06140
+address:      Mexico
+phone:        +52.5585895544
+fax-no:       +52.5552505187
+e-mail:       info@punto2012.com
+
+contact:      technical
+name:         CTO
+organisation: CentralNic
+address:      35-39 Moorgate
+address:      London EC2R 6AR
+address:      United Kingdom
+phone:        +44.2033880600
+fax-no:       +44.2033880601
+e-mail:       tld.ops@centralnic.com
+
+nserver:      A.NIC.REST 194.169.218.35 2001:67c:13cc:0:0:0:1:35
+nserver:      B.NIC.REST 185.24.64.35 2a04:2b00:13cc:0:0:0:1:35
+nserver:      C.NIC.REST 212.18.248.35 2a04:2b00:13ee:0:0:0:0:35
+nserver:      D.NIC.REST 212.18.249.35 2a04:2b00:13ff:0:0:0:0:35
+ds-rdata:     25199 8 1 C43AF7DEC8B165D6C8B832BCB984C2407EF5ED8D
+ds-rdata:     25199 8 2 8F477474F47C387D246B6849202CA0C54C4D5A50D322C79718A98100314D08B7
+
+whois:        whois.nic.rest
+
+status:       ACTIVE
+remarks:      Registration information: http://www.register.rest/
+
+created:      2014-03-06
+changed:      2015-10-21
+source:       IANA
+
