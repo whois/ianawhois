@@ -1,0 +1,47 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       RICH
+
+organisation: I-REGISTRY Ltd., Niederlassung Deutschland
+address:      Friedrichstr. 90
+address:      10117 Berlin
+address:      Germany
+
+contact:      administrative
+name:         Executive Director
+organisation: I-REGISTRY Ltd., Niederlassung Deutschland
+address:      Friedrichstr. 90
+address:      10117 Berlin
+address:      Germany
+phone:        +49 180 5522744
+fax-no:       +49 180 5522944
+e-mail:       registry-rich@i-registry.com
+
+contact:      technical
+name:         Afilias TLD Technical Administrator
+organisation: Afilias Limited
+address:      2 La Touche House, IFSC
+address:      Dublin 1
+address:      Ireland
+phone:        +353 1 854 1100
+fax-no:       +353 1 791 8569
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.RICH 2a01:8840:86:0:0:0:0:17 65.22.136.17
+nserver:      A2.NIC.RICH 2a01:8840:89:0:0:0:0:17 65.22.139.17
+nserver:      B0.NIC.RICH 2a01:8840:87:0:0:0:0:17 65.22.137.17
+nserver:      C0.NIC.RICH 2a01:8840:88:0:0:0:0:17 65.22.138.17
+ds-rdata:     49764 7 1 75ddcb6a3233ad81cd65df3138d299592937da35
+ds-rdata:     49764 7 2 ae19443051c6cbcbb411285f529394ecbaabcc764810b4d1117c76db6635f74b
+
+whois:        whois.afilias-srs.net
+
+status:       ACTIVE
+remarks:      Registration information: http://www.i-registry.com
+
+created:      2014-01-16
+changed:      2014-01-20
+source:       IANA
+
