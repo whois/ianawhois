@@ -1,0 +1,44 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       SANDVIK
+
+organisation: Sandvik AB
+address:      Klarabergsgatan 60, Stockholm  111 21
+address:      Sweden
+
+contact:      administrative
+name:         Project & Process Manager
+organisation: Sandvik AB
+address:      Klarabergsgatan 60, Stockholm  111 21
+address:      Sweden
+phone:        +4533886365
+fax-no:       +4533886101
+e-mail:       sandvik@gtld.com
+
+contact:      technical
+name:         Project & Process Manager
+organisation: Sandvik AB
+address:      Klarabergsgatan 60, Stockholm  111 21
+address:      Sweden
+phone:        +4533886365
+fax-no:       +4533886101
+e-mail:       sandvik@gtld.com
+
+nserver:      A.NIC.SANDVIK 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.SANDVIK 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.SANDVIK 2001:dcd:3:0:0:0:0:9 37.209.196.9
+nserver:      D.NIC.SANDVIK 2001:dcd:4:0:0:0:0:9 37.209.198.9
+ds-rdata:     14926 8 1 CE0C97A6F77DD8658D33ABF03F34B2AFA92948EF
+ds-rdata:     14926 8 2 C4A53823E64D7593C08F18CD3E9A4F4F5A0A9671A395EFFAA4075020EB253C34
+
+whois:        whois.nic.sandvik
+
+status:       ACTIVE
+remarks:      Registration information: http://nic.sandvik
+
+created:      2015-05-14
+changed:      2016-02-11
+source:       IANA
+
