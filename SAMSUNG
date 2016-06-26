@@ -1,0 +1,45 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       SAMSUNG
+
+organisation: SAMSUNG SDS CO., LTD
+address:      (Daerung Post Tower 3, Guro-dong) #1101 ,27 , Digital-ro 34-gil, Guro-gu, Seoul
+address:      Korea, Republic Of
+
+contact:      administrative
+name:         Yujeong Shin
+organisation: Whois Crop.
+address:      (Daerung Post Tower 3, Guro-dong) #1101 ,27 , Digital-ro 34-gil, Guro-gu, Seoul
+address:      Korea, Republic Of
+phone:        +82 70 4317 8217
+fax-no:       +82 2 2028 0011
+e-mail:       info@yesnic.com
+
+contact:      technical
+name:         Yujeong Shin
+organisation: Whois Corp.
+address:      (Daerung Post Tower 3, Guro-dong) #1101 ,27 , Digital-ro 34-gil, Guro-gu, Seoul
+address:      Korea, Republic Of
+phone:        +82 70 4317 8217
+fax-no:       +82 2 2028 0011
+e-mail:       info@yesnic.com
+
+nserver:      B.DNS.KR 61.74.75.1
+nserver:      C.DNS.KR 203.248.246.220
+nserver:      D.DNS.KR 203.83.159.1
+nserver:      E.DNS.KR 2001:dcc:5:0:0:0:0:100 202.30.124.100
+nserver:      F.DNS.KR 218.38.181.90
+nserver:      G.DNS.KR 2001:dc5:a:0:0:0:0:1 202.31.190.1
+ds-rdata:     58716 7 2 920D4C0F50D51CD1DAA98D1C5E3DCB7A23A13EF345563E859E09B131DD99ADA4
+
+whois:        whois.nic.samsung
+
+status:       ACTIVE
+remarks:      Registration information: http://samsungregistry.com
+
+created:      2014-10-30
+changed:      2015-12-09
+source:       IANA
+
