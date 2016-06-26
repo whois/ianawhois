@@ -1,0 +1,45 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       REXROTH
+
+organisation: Robert Bosch GMBH
+address:      Robert Bosch Platz 1
+address:      70839 Gerlingen-Schillerhoehe
+address:      Germany
+
+contact:      administrative
+name:         eMarketing
+organisation: Bosch Rexroth AG
+address:      Maria-Theresien-Str. 23
+address:      97816 Lohr a.Main
+address:      Germany
+phone:        +49 9352 180
+fax-no:       +49 9352 18 1385
+e-mail:       ngtld-rexroth@cscinfo.com
+
+contact:      technical
+name:         Registry Customer Service
+organisation: Verisign, inc.
+address:      12061 Bluemont Way
+address:      Reston Virginia 20190
+address:      United States
+phone:        +1-703-925-6999
+fax-no:       +1-703-948-3978
+e-mail:       info@verisign-grs.com
+
+nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
+nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
+nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
+nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
+ds-rdata:     53088 8 2 9F6072A8631CDD4582C80D2372BE54F59AE189B5749D5007ADD985B4F82A6500
+
+whois:        whois.nic.rexroth
+
+status:       ACTIVE
+
+created:      2015-12-17
+changed:      2016-02-22
+source:       IANA
+
