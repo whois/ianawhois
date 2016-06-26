@@ -1,0 +1,46 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       SANOFI
+
+organisation: Sanofi
+address:      54, rue La Boétie
+address:      75008 Paris
+address:      France
+
+contact:      administrative
+name:         Hosting and Domain name manager
+organisation: Sanofi
+address:      54, rue La Boétie
+address:      75008 Paris
+address:      France
+phone:        +33 1 41 24 52 16
+fax-no:       +33 1 41 24 54 08
+e-mail:       ngtld-sanofi@cscinfo.com
+
+contact:      technical
+name:         Registry Customer Service
+organisation: Verisign, inc.
+address:      Verisign, Inc.
+address:      12061 Bluemont Way
+address:      Reston Virginia 20190
+address:      United States
+phone:        +1-703-925-6999
+fax-no:       +1-703-948-3978
+e-mail:       info@verisign-grs.com
+
+nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
+nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
+nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
+nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
+ds-rdata:     2961 8 2 D523E97B164182385D06C3ABDD620F12DE54A40E9705490A25681AFFE384AFFE
+
+whois:        whois.nic.sanofi
+
+status:       ACTIVE
+
+created:      2015-07-16
+changed:      2016-02-19
+source:       IANA
+
