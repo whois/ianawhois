@@ -1,0 +1,48 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       FEDEX
+
+organisation: Federal Express Corporation
+address:      3610 Hacks Cross Road
+address:      Memphis, TN  38125
+address:      United States
+
+contact:      administrative
+name:         Marketing Principal
+organisation: Federal Express Corporation
+address:      3610 Hacks Cross Road
+address:      Memphis, TN 38125
+address:      United States
+phone:        +1.901.369.3600
+fax-no:       +1.800.548.3020
+e-mail:       ngtld-fedex@cscglobal.com
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      Building 3, Suite 105
+address:      300 Welsh Road
+address:      Horsham, PA 19044
+address:      United States
+phone:        +1 215.706.5700
+fax-no:       +1 215.706.5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.FEDEX 2a01:8840:de:0:0:0:0:33 65.22.228.33
+nserver:      A2.NIC.FEDEX 2a01:8840:e1:0:0:0:0:33 65.22.231.33
+nserver:      B0.NIC.FEDEX 2a01:8840:df:0:0:0:0:33 65.22.229.33
+nserver:      C0.NIC.FEDEX 2a01:8840:e0:0:0:0:0:33 65.22.230.33
+ds-rdata:     13356 7 1 942fdf70e7f4feb2f8ebb84de1a55048a5bf4db7
+ds-rdata:     13356 7 2 b2a4680b728b4c7cba02fd29d161c981fdd9dba002f93c746404965b1065719c
+
+whois:        whois.afilias-srs.net
+
+status:       ACTIVE
+remarks:      Registration information: http://www.fedex.com/
+
+created:      2016-06-09
+changed:      2016-06-26
+source:       IANA
+
