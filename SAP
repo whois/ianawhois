@@ -1,0 +1,46 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       SAP
+
+organisation: SAP AG
+address:      Dietmar-Hopp-Allee 16
+address:      69190 Walldorf
+address:      Germany
+
+contact:      administrative
+name:         Soenke Lange
+address:      Dietmar-Hopp-Allee 16
+address:      69190 Walldorf
+address:      Germany
+phone:        +49-6227-749270
+fax-no:       +49-6227-757575
+e-mail:       soenke.lange@sap.com
+
+contact:      technical
+name:         ironDNS Support
+organisation: Knipp Medien und Kommunikation GmbH
+address:      Martin-Schmeisser-Weg 9
+address:      44227 Dortmund
+address:      North Rhine-Westphalia
+address:      Germany
+phone:        +49-231-9703-0
+fax-no:       +49-231-9703-200
+e-mail:       dnsmaster@irondns.net
+
+nserver:      ANYCAST10.IRONDNS.NET 195.253.64.12 2a01:5b0:4:0:0:0:0:c
+nserver:      ANYCAST23.IRONDNS.NET 195.253.65.11 2a01:5b0:5:0:0:0:0:b
+nserver:      ANYCAST24.IRONDNS.NET 195.253.65.12 2a01:5b0:5:0:0:0:0:c
+nserver:      ANYCAST9.IRONDNS.NET 195.253.64.11 2a01:5b0:4:0:0:0:0:b
+ds-rdata:     58162 10 2 C54138AF7A4E7BEDE0D15FFD010BA47792DED7D0729728C814821BD4C06495B6
+
+whois:        whois.nic.sap
+
+status:       ACTIVE
+remarks:      Registration information: http://www.sap.com
+
+created:      2015-03-19
+changed:      2015-03-26
+source:       IANA
+
