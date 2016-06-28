@@ -23,15 +23,13 @@ fax-no:       +358 20 155 8869
 e-mail:       arto.isokoski@internetregistry.info
 
 contact:      technical
-name:         Sr Director
-organisation: Afilias Limited
-address:      300 Welsh Road, Building 3, Suite 105
-address:      Horsham
-address:      Pennsylvania, 19044
-address:      United States
-phone:        +1 215 706 5700
-fax-no:       +1 215 706 5701
-e-mail:       tld-tech-poc@afilias.info
+name:         CTO
+organisation: Beijing Tele-info Network Technology Co., Ltd.
+address:      Building 21, 1 Gaolizhang Road
+address:      China
+phone:        +86 10 5884 6931
+fax-no:       +86 10 5884 6939
+e-mail:       gtld@teleinfo.cn
 
 nserver:      A0.NIC.XN--3DS443G 2a01:8840:b6:0:0:0:0:9 65.22.188.9
 nserver:      A2.NIC.XN--3DS443G 2a01:8840:b9:0:0:0:0:9 65.22.191.9
@@ -47,12 +45,12 @@ ds-rdata:     5949 7 1 D4E7E160A8E18DDD48EB55D5C1E1E3B9F7D5BDE1
 ds-rdata:     27565 8 2 B0E469C6095B437074BFC7EBC7AB15ED6434662AAB72C95D45E110D44233EDB2
 ds-rdata:     5949 7 2 106D1B2FD29F34CFB0673D01788D3E5D1EFDFD486F4414D00D78196772B522A0
 
-whois:        whois.afilias-srs.net
+whois:        whois.teleinfo.cn
 
 status:       ACTIVE
 remarks:      Registration information: http://internetregistry.info/
 
 created:      2013-12-19
-changed:      2016-06-24
+changed:      2016-06-28
 source:       IANA
 
