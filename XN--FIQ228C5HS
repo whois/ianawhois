@@ -31,10 +31,6 @@ phone:        +86 10 5884 6931
 fax-no:       +86 10 5884 6939
 e-mail:       gtld@teleinfo.cn
 
-nserver:      A0.NIC.XN--FIQ228C5HS 2a01:8840:b6:0:0:0:0:1 65.22.188.1
-nserver:      A2.NIC.XN--FIQ228C5HS 2a01:8840:b9:0:0:0:0:1 65.22.191.1
-nserver:      B0.NIC.XN--FIQ228C5HS 2a01:8840:b7:0:0:0:0:1 65.22.189.1
-nserver:      C0.NIC.XN--FIQ228C5HS 2a01:8840:b8:0:0:0:0:1 65.22.190.1
 nserver:      NS1.TELEINFO.CN 103.61.60.1 2402:7d80:0:0:0:0:0:1
 nserver:      NS2.TELEINFOO.COM 103.61.61.1 2402:7d80:8888:0:0:0:0:1
 nserver:      NS3.TELEINFO.CN 103.61.62.1
@@ -51,6 +47,6 @@ status:       ACTIVE
 remarks:      Registration information: http://internetregistry.info/
 
 created:      2013-12-19
-changed:      2016-06-28
+changed:      2016-06-30
 source:       IANA
 
