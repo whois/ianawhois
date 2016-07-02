@@ -39,3 +39,15 @@ nserver:      A.HIPHOP.DYNTLD.NET 199.19.1.10 2a02:e180:0:0:0:0:0:10
 nserver:      B.HIPHOP.DYNTLD.NET 199.19.7.10 2a02:e180:1:0:0:0:0:10
 nserver:      C.HIPHOP.DYNTLD.NET 185.38.98.10 2a02:e180:2:0:0:0:0:10
 nserver:      NS1.UNIREGISTRY.NET 2620:57:4000:1:0:0:0:1 64.96.1.1
+ds-rdata:     18467 5 1 111D660D1DE235CC5F06759EE5683223CF0B410C
+ds-rdata:     18467 5 2 8F9E5682083362D4B911589FD9352315A6B09EBB0D15B38598435BAA26F3161E
+
+whois:        whois.uniregistry.net
+
+status:       ACTIVE
+remarks:      Registration information: http://uniregistry.link
+
+created:      2014-05-08
+changed:      2015-09-09
+source:       IANA
+
