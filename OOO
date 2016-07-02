@@ -1,0 +1,47 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       OOO
+
+organisation: INFIBEAM INCORPORATION LIMITED
+address:      9th Floor, "A Wing", Gopal Palace, Nehrunagar-380015
+address:      India
+
+contact:      administrative
+name:         CEO
+organisation: Infibeam.com
+address:      9th Floor, A Wing
+address:      Gopal Palace
+address:      Nehrunagar
+address:      Ahmedabad
+address:      Gujarat 380015
+address:      India
+phone:        +91 8374000134
+fax-no:       +91 07940503219
+e-mail:       ooocompliance@infibeam.net
+
+contact:      technical
+name:         Registry Customer Service
+organisation: Verisign, Inc
+address:      12061 Bluemont Way Reston Virginia 20190 United States (US)
+address:      United States
+phone:        +1-703-925-6999
+fax-no:       +1-703-948-3978
+e-mail:       info@verisign-grs.com
+
+nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
+nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
+nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
+nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
+ds-rdata:     32919 8 2 2A406589BC010BBD09BB78E067DDE644946D1AF4389113341358CF135B6F4910
+
+whois:        whois.nic.ooo
+
+status:       ACTIVE
+remarks:      Registration information: http://www.infibeam.com
+
+created:      2014-07-31
+changed:      2016-02-24
+source:       IANA
+
