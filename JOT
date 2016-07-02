@@ -36,3 +36,9 @@ ds-rdata:     63665 8 1 56EDD68D7866222753DC763ED1DD02CE4309C418
 ds-rdata:     63665 8 2 2097115824EC0C3FD849CC0C6BC9A5352833590AD063F0CB264F609D3F293B80
 
 status:       ACTIVE
+remarks:      Registration information: http://www.amazonregistry.com
+
+created:      2015-11-12
+changed:      2016-06-14
+source:       IANA
+
