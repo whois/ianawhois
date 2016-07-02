@@ -1,0 +1,48 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       PNC
+
+organisation: PNC Domain Co., LLC
+address:      249 Fifth Avenue
+address:      Pittsburgh, PA 15222-2707
+address:      United States
+
+contact:      administrative
+name:         VP
+organisation: PNC Domain Co., LLC
+address:      249 Fifth Avenue
+address:      Pittsburgh, PA 15222-2707
+address:      United States
+phone:        1 412 762 2000
+fax-no:       1 412 768 3178
+e-mail:       ngtld-pnc@cscglobal.com
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      Building 3, Suite 105
+address:      300 Welsh Road
+address:      Horsham, PA 19044
+address:      United States
+phone:        +1 215.706.5700
+fax-no:       +1 215.706.5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.PNC 2a01:8840:3e:0:0:0:0:25 65.22.64.25
+nserver:      A2.NIC.PNC 2a01:8840:41:0:0:0:0:25 65.22.67.25
+nserver:      B0.NIC.PNC 2a01:8840:3f:0:0:0:0:25 65.22.65.25
+nserver:      C0.NIC.PNC 2a01:8840:40:0:0:0:0:25 65.22.66.25
+ds-rdata:     54006 7 1 615f82a68b6ec43597cf64b429549d5529b2b4a4
+ds-rdata:     54006 7 2 ed3f8476ad8c82b1b2d0b29cd5b9af7a1654732c77748ae6ec5ddf6cccc19adb
+
+whois:        whois.afilias-srs.net
+
+status:       ACTIVE
+remarks:      Registration information: http://www.pnc.com
+
+created:      2015-10-29
+changed:      2016-07-02
+source:       IANA
+
