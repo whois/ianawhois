@@ -1,0 +1,44 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       CBRE
+
+organisation: CBRE, Inc.
+address:      400 S. Hope Street, 25th Floor, Los Angeles, CA - 90071
+address:      United States
+
+contact:      administrative
+name:         Vice President, Enterprise Applications
+organisation: CBRE, Inc.
+address:      400 S. Hope Street, 25th Floor, Los Angeles, CA - 90071
+address:      United States
+phone:        +1.2149796100
+fax-no:       +1.2144388606
+e-mail:       ngtld-cbre@cscglobal.com
+
+contact:      technical
+name:         Sean Kaine
+organisation: Neustar, Inc.
+address:      46000 Center Oak Plaza, Sterling VA 20166
+address:      United States
+phone:        +1 571-434-5168
+fax-no:       +1 571-434-5401
+e-mail:       registrytechnical1@neustar.biz
+
+nserver:      NS1.DNS.NIC.CBRE 156.154.144.36 2610:a1:1071:0:0:0:0:24
+nserver:      NS2.DNS.NIC.CBRE 156.154.145.36 2610:a1:1072:0:0:0:0:24
+nserver:      NS3.DNS.NIC.CBRE 156.154.159.36 2610:a1:1073:0:0:0:0:24
+nserver:      NS4.DNS.NIC.CBRE 156.154.156.36 2610:a1:1074:0:0:0:0:24
+nserver:      NS5.DNS.NIC.CBRE 156.154.157.36 2610:a1:1075:0:0:0:0:24
+nserver:      NS6.DNS.NIC.CBRE 156.154.158.36 2610:a1:1076:0:0:0:0:24
+ds-rdata:     3421 8 1 CDB18AB91C4F03D7E07CE5F275D0ED38E76AB363
+ds-rdata:     3421 8 2 FEECCD6E721A413013E28F1C4F48A29C0BA78038674C5A1BDFFCE1FA0D5BCE08
+
+status:       ACTIVE
+remarks:      Registration information: http://cbre.com 
+
+created:      2016-06-16
+changed:      2016-07-02
+source:       IANA
+
