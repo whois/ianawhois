@@ -1,0 +1,44 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       ACCENTURE
+
+organisation: Accenture plc
+address:      1 Grand Canal Square, Grand Harbour
+address:      Dublin  Dublin 2
+address:      Ireland
+
+contact:      administrative
+name:         Senior Manager, Digital Marketing 
+organisation: Accenture plc
+address:      1 Grand Canal Square, Grand Harbour
+address:      Dublin 2
+address:      Ireland
+phone:        +1 353 1 646-2000
+fax-no:       n/a
+e-mail:       ngtld-accenture@cscinfo.com
+
+contact:      technical
+name:         Registry Customer Service
+organisation: Verisign, Inc.
+address:      12061 Bluemont Way
+address:      Reston Virginia 20190
+address:      United States
+phone:        +1-703-925-6999
+fax-no:       +1-703-948-3978
+e-mail:       info@verisign-grs.com
+
+nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
+nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
+nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
+nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
+ds-rdata:     35388 8 2 0C1DDB821C823AFEC10942D3DCD16D6306221E4EE7F2F524E5D9BAD48BAFD8FC
+
+status:       ACTIVE
+remarks:      Registration information: http://www.accenture.com
+
+created:      2015-04-30
+changed:      2016-02-17
+source:       IANA
+
