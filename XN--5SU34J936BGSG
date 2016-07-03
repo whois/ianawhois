@@ -1,0 +1,43 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       香格里拉
+domain-ace:   XN--5SU34J936BGSG
+
+organisation: Shangri‐La International Hotel Management Limited
+address:      28/F. Kerry Centre 683 King’s Road, Quarry Bay
+address:      Hong Kong
+
+contact:      administrative
+name:         Legal Executive
+address:      28/F. Kerry Centre 683 King’s Road, Quarry Bay
+address:      Hong Kong
+phone:        +852 2820 0418
+fax-no:       n/a
+e-mail:       ngtld-shangrila1@cscinfo.com
+
+contact:      technical
+name:         Registry Customer Service
+organisation: Verisign, Inc.
+address:      12061 Bluemont Way Reston Virginia 20190
+address:      United States
+phone:        +1-703-925-6999
+fax-no:       +1-703-948-3978
+e-mail:       info@verisign-grs.com
+
+nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
+nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
+nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
+nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
+ds-rdata:     38334 8 2 8E0BC7DE12A1B331B412EF896757471153D4FE1FB7E4EDFA21BCBCF49D9D7FB1
+
+whois:        whois.nic.xn--5su34j936bgsg
+
+status:       ACTIVE
+remarks:      Registration information: http://www.shangri-la.com/
+
+created:      2016-06-24
+changed:      2016-07-02
+source:       IANA
+
