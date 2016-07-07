@@ -1,0 +1,47 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       MIT
+
+organisation: Massachusetts Institute of Technology
+address:      77 Massachusetts Avenue
+address:      Cambridge, MA 02139
+address:      United States
+
+contact:      administrative
+name:         Director, Infrastructure Design & Engineering
+organisation: Massachusetts Institute of Technology
+address:      77 Massachusetts Avenue
+address:      Cambridge, MA 02139
+address:      United States
+phone:        +1 617-253-8400
+fax-no:       +1 617-258-8736
+e-mail:       mitregistry@fairwindspartners.com
+
+contact:      technical
+name:         Senior Vice President
+organisation: Afilias
+address:      Building 3, Suite 105
+address:      Horsham, PA 19044
+address:      United States
+phone:        +1 215.706.5700
+fax-no:       +1 215.706.5701
+e-mail:       tld-admin-poc@afilias.info
+
+nserver:      A0.NIC.MIT 2a01:8840:e6:0:0:0:0:17 65.22.236.17
+nserver:      A2.NIC.MIT 2a01:8840:e9:0:0:0:0:17 65.22.239.17
+nserver:      B0.NIC.MIT 2a01:8840:e7:0:0:0:0:17 65.22.237.17
+nserver:      C0.NIC.MIT 2a01:8840:e8:0:0:0:0:17 65.22.238.17
+ds-rdata:     50788 7 1 ef402cd4095664733ed65ce7096e3ab4506c675a
+ds-rdata:     50788 7 2 8273b0266c626c81143ff0a71ec39a8d580830c9d7b3d8b7aef4b84ab60567a6
+
+whois:        whois.afilias-srs.net
+
+status:       ACTIVE
+remarks:      Registration information: http://www.mit.edu
+
+created:      2016-06-24
+changed:      2016-07-07
+source:       IANA
+
