@@ -1,0 +1,48 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       GODADDY
+
+organisation: Go Daddy East, LLC
+address:      14455 N Hayden Road, Suite #219
+address:      Scottsdale, AZ 85260
+address:      United States
+
+contact:      administrative
+name:         VP, Domains
+organisation: Go Daddy
+address:      14455 N Hayden Road, Suite #219
+address:      Scottsdale, AZ 85260
+address:      United States
+phone:        +13195304100
+fax-no:       +14805058002
+e-mail:       rmerdinger@godaddy.com
+
+contact:      technical
+name:         Senior Vice President
+organisation: Afilias
+address:      Building 3, Suite 105
+address:      300 Welsh Road
+address:      Horsham, PA 19044
+address:      United States
+phone:        +1 215.706.5700
+fax-no:       +1 215.706.5701
+e-mail:       tld-admin-poc@afilias.info
+
+nserver:      A0.NIC.GODADDY 2a01:8840:16:0:0:0:0:25 65.22.20.25
+nserver:      A2.NIC.GODADDY 2a01:8840:19:0:0:0:0:25 65.22.23.25
+nserver:      B0.NIC.GODADDY 2a01:8840:17:0:0:0:0:25 65.22.21.25
+nserver:      C0.NIC.GODADDY 2a01:8840:18:0:0:0:0:25 65.22.22.25
+ds-rdata:     21655 7 1 fb09046631c8e4279279bf889d4a6905352d4757
+ds-rdata:     21655 7 2 8102f8799bc84e08910028518ccaf495b5819fdc961ccc4a9a8eaf278a5c6246
+
+whois:        whois.afilias-srs.net
+
+status:       ACTIVE
+remarks:      Registration information: http://www.godaddy.com
+
+created:      2016-06-24
+changed:      2016-07-07
+source:       IANA
+
