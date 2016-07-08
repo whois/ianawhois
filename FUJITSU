@@ -1,0 +1,47 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       FUJITSU
+
+organisation: Fujitsu Limited
+address:      4-1-1 Kamikodanaka, Nakahara-ku Kawasaki-shi, Kanagawa - 211-8588 JP
+address:      Japan
+
+contact:      administrative
+name:         Chief Operating Officer
+organisation: GMO Brights Consulting Inc.
+address:      Cerulean Tower 26-1 Sakuragaoka-cho
+address:      Shibuya-ku Tokyo 150-8512
+address:      Japan (JP)
+address:      Japan
+phone:        +81355210107
+fax-no:       +81355210117
+e-mail:       nakagawa_20@brights.jp
+
+contact:      technical
+name:         Director
+organisation: GMO Registry, Inc.
+address:      Cerulean Tower 26-1 Sakuragaoka-cho
+address:      Shibuya-ku Tokyo 150-8512 Japan (JP)
+address:      Japan (JP)
+address:      Japan
+phone:        +81354561601
+fax-no:       +81337805239
+e-mail:       newgtld@gmoregistry.com
+
+nserver:      A.GMOREGISTRY.NET 2001:dcd:1:0:0:0:0:4 37.209.192.4
+nserver:      B.GMOREGISTRY.NET 2001:dcd:2:0:0:0:0:4 37.209.194.4
+nserver:      K.GMOREGISTRY.NET 37.209.196.4
+nserver:      L.GMOREGISTRY.NET 2001:dcd:4:0:0:0:0:4 37.209.198.4
+ds-rdata:     58709 8 2 39B5C95715B4ABE522EC3948F41396C46EACB8A7A6B7ECFCA95FBEE516FD0746
+
+whois:        whois.nic.gmo
+
+status:       ACTIVE
+remarks:      Registration information: http://www.gmoregistry.com/en/
+
+created:      2016-06-30
+changed:      2016-07-07
+source:       IANA
+
