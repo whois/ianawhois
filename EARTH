@@ -1,0 +1,45 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       EARTH
+
+organisation: Interlink Co., Ltd.
+address:      3-1-1 Higashi Ikebukuro Sunshine 60 Bldg. 37F, Toshima, Tokyo 170-6037 JAPAN
+address:      Japan
+
+contact:      administrative
+name:         Jacob Williams
+organisation: Interlink Co., Ltd.
+address:      3-1-1 Higashi Ikebukuro Sunshine 60 Bldg. 37F, Toshima, Tokyo 170-6037 JAPAN
+address:      Japan
+phone:        +81 5058061875
+fax-no:       +81 338953826
+e-mail:       gtld@interlink.ad.jp
+
+contact:      technical
+name:         Sean Kaine
+organisation: Neustar, Inc.
+address:      46000 Center Oak Plaza, Sterling VA 20166
+address:      United States
+phone:        +1 571 434 5168
+fax-no:       +1 571 434 5401
+e-mail:       registrytechnical1@neustar.biz
+
+nserver:      NS1.DNS.NIC.EARTH 156.154.144.230 2610:a1:1071:0:0:0:0:e6
+nserver:      NS2.DNS.NIC.EARTH 156.154.145.230 2610:a1:1072:0:0:0:0:e6
+nserver:      NS3.DNS.NIC.EARTH 156.154.159.230 2610:a1:1073:0:0:0:0:e6
+nserver:      NS4.DNS.NIC.EARTH 156.154.156.230 2610:a1:1074:0:0:0:0:e6
+nserver:      NS5.DNS.NIC.EARTH 156.154.157.230 2610:a1:1075:0:0:0:0:e6
+nserver:      NS6.DNS.NIC.EARTH 156.154.158.230 2610:a1:1076:0:0:0:0:e6
+ds-rdata:     51080 8 1 4958C964D3915C2D2BE329EC3B6F58C48F90E78D
+ds-rdata:     51080 8 2 6C4ECBD765F57628C46D0494358AE9A0F21EB72B0F6E33DFE93EDBDD1D679D36
+
+status:       ACTIVE
+remarks:      Registration information:
+remarks:      http://www.interlink.or.jp/gtld/info.html
+
+created:      2015-04-16
+changed:      2015-05-15
+source:       IANA
+
