@@ -6,31 +6,28 @@ domain:       भारत
 domain-ace:   XN--H2BRJ9C
 
 organisation: National Internet Exchange of India
-address:      5th Floor, Incube Business Centre
-address:      18, Nehru Place
-address:      New Delhi Delhi 110 019
+address:      Regd. Off.: Flat No. 6B, 6th Floor, Uppals M6 Plaza,
+address:      Jasola District Centre, New Delhi 110025
 address:      India
 
 contact:      administrative
 name:         Rajiv Kumar, Systems Analyst
 organisation: National Internet Exchange of India
-address:      5th Floor, Incube Business Centre
-address:      18, Nehru Place
-address:      New Delhi Delhi 110 019
+address:      Regd. Off.: Flat No. 6B, 6th Floor, Uppals M6 Plaza,
+address:      Jasola District Centre, New Delhi 110025
 address:      India
-phone:        +91 11 3061 4627
-fax-no:       +91 11 3061 4629
+phone:        +91-11-48202011
+fax-no:       +91-11-48202013
 e-mail:       registry@nixi.in
 
 contact:      technical
 name:         Rajiv Kumar, Systems Analyst
 organisation: National Internet Exchange of India
-address:      5th Floor, Incube Business Centre
-address:      18, Nehru Place
-address:      New Delhi Delhi 110 019
+address:      Regd. Off.: Flat No. 6B, 6th Floor, Uppals M6 Plaza,
+address:      Jasola District Centre, New Delhi 110025
 address:      India
-phone:        +91 11 3061 4627
-fax-no:       +91 11 3061 4629
+phone:        +91-11-48202011
+fax-no:       +91-11-48202013
 e-mail:       domaintech@registry.in
 
 nserver:      A0.CCTLD.AFILIAS-NST.INFO 199.254.59.1 2001:500:25:0:0:0:0:1
@@ -47,6 +44,6 @@ ds-rdata:     18018 7 2 582acb8bcaacc3a0af31597260b8c8650555ac94dea17c12110aea90
 status:       ACTIVE
 
 created:      2011-02-05
-changed:      2013-05-20
+changed:      2016-07-08
 source:       IANA
 
