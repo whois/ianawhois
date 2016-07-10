@@ -1,0 +1,45 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       SES
+
+organisation: SES
+address:      Château de Betzdorf
+address:      L-6815 Betzdorf
+address:      Luxembourg
+
+contact:      administrative
+name:         Dimitrios Karametos
+organisation: SES
+address:      Château de Betzdorf
+address:      L-6815 Betzdorf
+address:      Luxembourg
+phone:        +352 710 725 712
+fax-no:       +352 710 725 227
+e-mail:       tldadmin@ses.com
+
+contact:      technical
+name:         Bonnie Bryant
+organisation: Verisign, Inc.
+address:      12061 Bluemont Way
+address:      Reston Virginia 20190
+address:      United States
+phone:        +1-703-925-6999
+fax-no:       +1-703-948-3978
+e-mail:       info@verisign-grs.com
+
+nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
+nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
+nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
+nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
+ds-rdata:     30648 8 2 F453E51F54A0ACB251CDA491812437DB86B49C3A2861C46635588C330C65F9A7
+
+whois:        whois.nic.ses
+
+status:       ACTIVE
+
+created:      2016-05-05
+changed:      2016-07-09
+source:       IANA
+
