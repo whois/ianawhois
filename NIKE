@@ -1,0 +1,44 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       NIKE
+
+organisation: NIKE, Inc.
+address:      One Bowerman Drive, Beaverton OR 97005
+address:      United States
+
+contact:      administrative
+name:         Susan Roeser
+organisation: Nike, Inc.
+address:      One Bowerman Drive, Beaverton OR 97005
+address:      United States
+phone:        +1 503 671 6453
+fax-no:       +1 503 646 6926
+e-mail:       domains@nike.com
+
+contact:      technical
+name:         Sean Kaine
+organisation: Neustar, Inc.
+address:      46000 Center Oak Plaza, Sterling VA 20166
+address:      United States
+phone:        +1 571-434-5168
+fax-no:       +1 571-434-5401
+e-mail:       registrytechnical1@neustar.biz
+
+nserver:      NS1.DNS.NIC.NIKE 156.154.144.123 2610:a1:1071:0:0:0:0:7b
+nserver:      NS2.DNS.NIC.NIKE 156.154.145.123 2610:a1:1072:0:0:0:0:7b
+nserver:      NS3.DNS.NIC.NIKE 156.154.159.123 2610:a1:1073:0:0:0:0:7b
+nserver:      NS4.DNS.NIC.NIKE 156.154.156.123 2610:a1:1074:0:0:0:0:7b
+nserver:      NS5.DNS.NIC.NIKE 156.154.157.123 2610:a1:1075:0:0:0:0:7b
+nserver:      NS6.DNS.NIC.NIKE 156.154.158.123 2610:a1:1076:0:0:0:0:7b
+ds-rdata:     1975 8 1 F211ADA0F1855A334509F7B0CDEA7D5A0DC437D7
+ds-rdata:     1975 8 2 FA2093D259C01F33C4614F2AAFB522E3505E76806F6D18EF2ACD93F5E218D9D2
+
+status:       ACTIVE
+remarks:      Registration information: http://www.nike.com
+
+created:      2015-10-29
+changed:      2016-07-09
+source:       IANA
+
