@@ -1,0 +1,48 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       GOODHANDS
+
+organisation: Allstate Fire and Casualty Insurance Company
+address:      3075 Sanders Road Suite H1A
+address:      Northbrook, IL 60062
+address:      United States
+
+contact:      administrative
+name:         Marketing Manager, Domain Name Portfolio
+organisation: Allstate Fire and Casualty Insurance Company
+address:      3075 Sanders Road Suite H1A
+address:      Northbrook, IL 60062-7127
+address:      United States
+phone:        1 847 402 5000
+fax-no:       1 847 326 7524
+e-mail:       ngtld-allstate@cscglobal.com
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      Building 3, Suite 105
+address:      300 Welsh Road
+address:      Horsham, PA 19044
+address:      United States
+phone:        +1 215.706.5700
+fax-no:       +1 215.706.5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.GOODHANDS 2a01:8840:2e:0:0:0:0:17 65.22.48.17
+nserver:      A2.NIC.GOODHANDS 2a01:8840:31:0:0:0:0:17 65.22.51.17
+nserver:      B0.NIC.GOODHANDS 2a01:8840:2f:0:0:0:0:17 65.22.49.17
+nserver:      C0.NIC.GOODHANDS 2a01:8840:30:0:0:0:0:17 65.22.50.17
+ds-rdata:     42594 7 1 ff2bcb3a841b3bca6a963530463729db911b1ea1
+ds-rdata:     42594 7 2 efb3c7d389f5de6726f243256acb7e435e6e64095050b840a4f6364aedde4a9f
+
+whois:        whois.afilias-srs.net
+
+status:       ACTIVE
+remarks:      Registration information: http://www.allstate.com
+
+created:      2016-02-05
+changed:      2016-07-14
+source:       IANA
+
