@@ -1,0 +1,44 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       LEFRAK
+
+organisation: LeFrak Organization, Inc.
+address:      40 West 57th Street New York, New York - 10019
+address:      United States
+
+contact:      administrative
+name:         IT Operations Manager
+organisation: LeFrak Organization, Inc.
+address:      40 West 57th Street New York, New York - 10019
+address:      United States
+phone:        +1 212 708 6600
+fax-no:       +1 212 708 6681
+e-mail:       ngtld-lefrak@cscinfo.com
+
+contact:      technical
+name:         Registry Customer Service
+organisation: Verisign, Inc.
+address:      12061 Bluemont Way
+address:      Reston, VA 20190
+address:      United States
+phone:        +1-703-925-6999
+fax-no:       +1-703-948-3978
+e-mail:       info@verisign-grs.com
+
+nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
+nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
+nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
+nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
+ds-rdata:     9831 8 2 1E6E8BF06F85006D806036254EBE92C97C5F2C44E133A92B997A247E3AE2416A
+
+whois:        whois.nic.lefrak
+
+status:       ACTIVE
+remarks:      Registration information: http://lefrak.com
+
+created:      2016-03-31
+changed:      2016-07-14
+source:       IANA
+
