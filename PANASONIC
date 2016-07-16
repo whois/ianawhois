@@ -1,0 +1,45 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       PANASONIC
+
+organisation: Panasonic Corporation
+address:      1006, Oaza Kadoma Kadoma-shi, Osaka - 571-8501
+address:      Japan
+
+contact:      administrative
+name:         Chief Operating Officer
+organisation: GMO Brights Consulting Inc.
+address:      Cerulean Tower 26-1 Sakuragaoka-cho
+address:      Shibuya-ku Tokyo 150-8512
+address:      Japan
+phone:        +81355210107
+fax-no:       +81355210117
+e-mail:       nakagawa_02@brights.jp
+
+contact:      technical
+name:         Director
+organisation: GMO Registry, Inc.
+address:      Cerulean Tower 26-1 Sakuragaoka-cho
+address:      Shibuya-ku Tokyo 150-8512
+address:      Japan
+phone:        +81354561601
+fax-no:       +81337805239
+e-mail:       newgtld@gmoregistry.com
+
+nserver:      A.GMOREGISTRY.NET 2001:dcd:1:0:0:0:0:4 37.209.192.4
+nserver:      B.GMOREGISTRY.NET 2001:dcd:2:0:0:0:0:4 37.209.194.4
+nserver:      K.GMOREGISTRY.NET 37.209.196.4
+nserver:      L.GMOREGISTRY.NET 2001:dcd:4:0:0:0:0:4 37.209.198.4
+ds-rdata:     24986 8 2 2ABE13829B2F81E291BADCCC163D548F38B965372941038A1E80A0F8F59A752E
+
+whois:        whois.nic.gmo
+
+status:       ACTIVE
+remarks:      Registration information: http://www.gmoregistry.com/en/
+
+created:      2016-06-24
+changed:      2016-07-16
+source:       IANA
+
