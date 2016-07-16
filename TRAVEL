@@ -20,21 +20,22 @@ fax-no:       (954) 713-1543
 e-mail:       bhenderson@travel.travel
 
 contact:      technical
-name:         NeuStar Operations Center
+name:         Sean Kaine
 organisation: Neustar, Inc.
 address:      46000 Center Oak Plaza
 address:      Sterling Virginia 20166
 address:      United States
-phone:        +1 866 638 6622
-fax-no:       +1 571 434 5742
-e-mail:       nocteam@neustar.biz
+phone:        +1 571-434-5168
+fax-no:       +1 571-434-5401
+e-mail:       registrytechnical1@neustar.biz
 
 nserver:      A.GTLD.TRAVEL 156.154.100.1 2001:502:ad09:0:0:0:0:1
-nserver:      B.GTLD.TRAVEL 156.154.101.1
-nserver:      C.GTLD.TRAVEL 156.154.102.1
+nserver:      B.GTLD.TRAVEL 156.154.101.1 2610:a1:1009:0:0:0:0:1
+nserver:      C.GTLD.TRAVEL 156.154.102.1 2610:a1:1010:0:0:0:0:1
 nserver:      D.GTLD.TRAVEL 156.154.103.1 2001:502:2eda:0:0:0:0:1
-nserver:      E.GTLD.TRAVEL 156.154.104.1
-nserver:      F.GTLD.TRAVEL 156.154.105.1
+nserver:      E.GTLD.TRAVEL 156.154.104.1 2610:a1:1011:0:0:0:0:1
+nserver:      F.GTLD.TRAVEL 156.154.105.1 2610:a1:1012:0:0:0:0:1
+nserver:      G.GTLD.TRAVEL 2001:503:d1ae:0:0:0:0:1 207.34.5.1
 
 whois:        whois.nic.travel
 
@@ -42,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.travel.travel/
 
 created:      2005-07-27
-changed:      2010-10-01
+changed:      2016-07-16
 source:       IANA
 
