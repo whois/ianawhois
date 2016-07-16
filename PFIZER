@@ -1,0 +1,51 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       PFIZER
+
+organisation: Pfizer Inc.
+address:      235 East 42nd Street
+address:      New York City, NY
+address:      US
+address:      10017
+address:      United States
+
+contact:      administrative
+name:         Joshua Bourne
+organisation: FairWinds Partners, LLC
+address:      1000 Potomac Street NW #350
+address:      Washington
+address:      DC
+address:      20007
+address:      US
+address:      United States
+phone:        +1 202 223 9252
+fax-no:       +1 202 223 9256
+e-mail:       pfizerregistry@fairwindspartners.com
+
+contact:      technical
+name:         Sean Kaine
+organisation: Neustar, Inc.
+address:      46000 Center Oak Plaza, Sterling VA 20166
+address:      United States
+phone:        +1 571 434 5168
+fax-no:       +1 571 434 5401
+e-mail:       registrytechnical1@neustar.biz
+
+nserver:      NS1.DNS.NIC.PFIZER 156.154.144.134 2610:a1:1071:0:0:0:0:86
+nserver:      NS2.DNS.NIC.PFIZER 156.154.145.134 2610:a1:1072:0:0:0:0:86
+nserver:      NS3.DNS.NIC.PFIZER 156.154.159.134 2610:a1:1073:0:0:0:0:86
+nserver:      NS4.DNS.NIC.PFIZER 156.154.156.134 2610:a1:1074:0:0:0:0:86
+nserver:      NS5.DNS.NIC.PFIZER 156.154.157.134 2610:a1:1075:0:0:0:0:86
+nserver:      NS6.DNS.NIC.PFIZER 156.154.158.134 2610:a1:1076:0:0:0:0:86
+ds-rdata:     2074 8 1 1B1E79DB8D5413764752B80A8C72499C56A06AFC
+ds-rdata:     2074 8 2 2385B74B154B15D8FE1F7FD247F3F407B6E647277A11E0879DBCACFF614DDA7F
+
+status:       ACTIVE
+remarks:      Registration information: http://www.pfizer.com
+
+created:      2016-06-16
+changed:      2016-07-16
+source:       IANA
+
