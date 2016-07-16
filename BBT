@@ -1,0 +1,44 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       BBT
+
+organisation: BB&T Corporation
+address:      200 West Second Street Winston Salem, North Carolina - 27101
+address:      United States
+
+contact:      administrative
+name:         AVP Strategy Analyst
+organisation: BB&T Corporation
+address:      200 West Second Street Winston Salem, North Carolina - 27101
+address:      United States
+phone:        +1 919 745 5328
+fax-no:       +1 919 791 3356
+e-mail:       ngtld-bbt@cscinfo.com
+
+contact:      technical
+name:         Registry Customer Service
+organisation: Verisign, Inc.
+address:      12061 Bluemont Way
+address:      Reston, VA 20190
+address:      United States
+phone:        +1-703-925-6999
+fax-no:       +1-703-948-3978
+e-mail:       info@verisign-grs.com
+
+nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
+nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
+nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
+nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
+ds-rdata:     15390 8 2 E7872A1449946BA400B2472A61F369FE8ECF57EBADA1FAE28BF0BAC242AAC4F7
+
+whois:        whois.nic.bbt
+
+status:       ACTIVE
+remarks:      Registration information: http://bbt.com
+
+created:      2016-05-12
+changed:      2016-07-16
+source:       IANA
+
