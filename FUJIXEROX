@@ -1,0 +1,50 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       FUJIXEROX
+
+organisation: Xerox DNHC LLC
+address:      Xerox Corporation
+address:      45 Glover Avenue
+address:      Norwalk
+address:      Connecticut
+address:      06856-4505
+address:      United States
+
+contact:      administrative
+name:         Managing Partner
+organisation: FairWinds Partners
+address:      1000 Potomac Street NW #350
+address:      Washington, DC 20007
+address:      United States
+phone:        +1 (202) 223-9252
+fax-no:       +1 (202) 223-9256
+e-mail:       xeroxregistries@fairwindspartners.com
+
+contact:      technical
+name:         Registry Customer Service
+organisation: Verisign
+address:      Verisign, Inc.
+address:      12061 Bluemont Way
+address:      Reston Virginia 20190
+address:      United States
+phone:        +1-703-925-6999
+fax-no:       +1-703-948-3978
+e-mail:       info@verisign-grs.com
+
+nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
+nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
+nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
+nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
+ds-rdata:     63468 8 2 1C3699421E44E22994C5B44CE1CA29918DF4978A3E927AA6FE25EBBB91929566
+
+whois:        whois.nic.fujixerox
+
+status:       ACTIVE
+remarks:      Registration information: http://www.fujixerox.co.jp
+
+created:      2016-07-07
+changed:      2016-07-16
+source:       IANA
+
