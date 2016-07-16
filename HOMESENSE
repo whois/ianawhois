@@ -1,0 +1,44 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       HOMESENSE
+
+organisation: The TJX Companies, Inc.
+address:      770 Cochituate Road, Framingham, MA 01701
+address:      United States
+
+contact:      administrative
+name:         Taylor Frank
+organisation: FairWinds Partners, LLC
+address:      1000 Potomac Street NW, Suite 350, Washington, DC 20007
+address:      United States
+phone:        1.202.223.5232
+fax-no:       1.202.223.9256
+e-mail:       tjxregistries@fairwindspartners.com
+
+contact:      technical
+name:         Sean Kaine
+organisation: Neustar, Inc.
+address:      46000 Center Oak Plaza, Sterling VA 20166
+address:      United States
+phone:        +1 571-434-5168
+fax-no:       +1 571-434-5401
+e-mail:       registrytechnical1@neustar.biz
+
+nserver:      NS1.DNS.NIC.HOMESENSE 156.154.144.74 2610:a1:1071:0:0:0:0:4a
+nserver:      NS2.DNS.NIC.HOMESENSE 156.154.145.74 2610:a1:1072:0:0:0:0:4a
+nserver:      NS3.DNS.NIC.HOMESENSE 156.154.159.74 2610:a1:1073:0:0:0:0:4a
+nserver:      NS4.DNS.NIC.HOMESENSE 156.154.156.74 2610:a1:1074:0:0:0:0:4a
+nserver:      NS5.DNS.NIC.HOMESENSE 156.154.157.74 2610:a1:1075:0:0:0:0:4a
+nserver:      NS6.DNS.NIC.HOMESENSE 156.154.158.74 2610:a1:1076:0:0:0:0:4a
+ds-rdata:     39395 8 1 5FC0FCD790EABBAA5A8B66BD08E51DA4252D771D
+ds-rdata:     39395 8 2 835B34D570B7E737AEE760E1E86813AB95C1962DD64CC9D594F8B2DC97D07CBD
+
+status:       ACTIVE
+remarks:      Registration information: http://www.tjx.com
+
+created:      2016-04-07
+changed:      2016-07-16
+source:       IANA
+
