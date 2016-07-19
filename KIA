@@ -1,0 +1,53 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       KIA
+
+organisation: KIA MOTORS CORPORATION
+address:      231 Yangjae-dong
+address:      Seocho-gu
+address:      Seoul
+address:      137-938
+address:      Korea, Republic Of
+
+contact:      administrative
+name:         Chief Operating Officer
+organisation: Brights Consulting Inc.
+address:      30F, Kasumigaseki Bldg., 3-2-5
+address:      Kasumigaseki
+address:      Chiyoda-ku
+address:      Tokyo
+address:      100-6030
+address:      Japan
+phone:        +81.355210107
+fax-no:       +81.355210117
+e-mail:       nakagawa_22@brights.jp
+
+contact:      technical
+name:         Director
+organisation: GMO Registry, Inc.
+address:      Cerulean Tower 26-1 Sakuragaoka-cho
+address:      Shibuya-ku
+address:      Tokyo
+address:      150-8512
+address:      Japan
+phone:        +81.354561601
+fax-no:       +81.337805239
+e-mail:       newgtld@gmoregistry.com
+
+nserver:      A.GMOREGISTRY.NET 2001:dcd:1:0:0:0:0:4 37.209.192.4
+nserver:      B.GMOREGISTRY.NET 2001:dcd:2:0:0:0:0:4 37.209.194.4
+nserver:      K.GMOREGISTRY.NET 37.209.196.4
+nserver:      L.GMOREGISTRY.NET 2001:dcd:4:0:0:0:0:4 37.209.198.4
+ds-rdata:     27295 8 2 cfb45c0e06dc0d0690c4c8e17d98e51a72aa69b3926bbf854d4336e3fac949b7
+
+whois:        whois.nic.kia
+
+status:       ACTIVE
+remarks:      Registration information: http://www.kia.com
+
+created:      2015-09-17
+changed:      2016-05-06
+source:       IANA
+
