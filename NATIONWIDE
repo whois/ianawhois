@@ -5,6 +5,9 @@
 domain:       NATIONWIDE
 
 organisation: Nationwide Mutual Insurance Company
+address:      1 Nationwide Plaza
+address:      Columbus, OH 43215-2220
+address:      United States
 
 contact:      administrative
 name:         Business Lead Enterprise Digital Experience
@@ -38,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nationwide.com
 
 created:      2016-04-22
-changed:      2016-07-16
+changed:      2016-07-19
 source:       IANA
 
