@@ -1,0 +1,48 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       BESTBUY
+
+organisation: BBY Solutions, Inc.
+address:      7601 Penn Avenue South
+address:      Richfield, MN 55423
+address:      United States
+
+contact:      administrative
+name:         Associate Corporate Counsel, Intellectual Property - Digital
+organisation: BBY Solutions, Inc.
+address:      7601 Penn Avenue South
+address:      Richfield, MN 55423
+address:      United States
+phone:        +1 612 292 2300
+fax-no:       +1 612 292 2323
+e-mail:       bestbuyregistry@fairwindspartners.com
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      Building 3, Suite 105
+address:      300 Welsh Road
+address:      Horsham, PA 19044
+address:      United States
+phone:        +1 215.706.5700
+fax-no:       +1 215.706.5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.BESTBUY 2a01:8840:d2:0:0:0:0:9 65.22.216.9
+nserver:      A2.NIC.BESTBUY 2a01:8840:d5:0:0:0:0:9 65.22.219.9
+nserver:      B0.NIC.BESTBUY 2a01:8840:d3:0:0:0:0:9 65.22.217.9
+nserver:      C0.NIC.BESTBUY 2a01:8840:d4:0:0:0:0:9 65.22.218.9
+ds-rdata:     57538 7 1 a2206459743a9d928debb911dbe3ea192a70efa2
+ds-rdata:     57538 7 2 754902a9893db0ff2e37b44564121cb80c685cf3267bcae715a07e12151ba8d8
+
+whois:        whois.afilias-srs.net
+
+status:       ACTIVE
+remarks:      Registration information: http://www.bestbuy.com
+
+created:      2015-12-10
+changed:      2016-07-19
+source:       IANA
+
