@@ -1,0 +1,48 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       LPL
+
+organisation: LPL Holdings, Inc.
+address:      4828 Parkway Plaza Blvd
+address:      28217 Charlotte
+address:      North Carolina
+address:      United States
+
+contact:      administrative
+name:         Tara Heptinstall
+organisation: LPL Holdings, Inc.
+address:      4828 Parkway Plaza Blvd
+address:      28217 Charlotte
+address:      North Carolina
+address:      United States
+phone:        +1 980 321 1236
+fax-no:       +1 704 329 4299
+e-mail:       tara.heptinstall@lpl.com
+
+contact:      technical
+name:         Jan Jansen
+organisation: NCC Group Domain Services
+address:      21, rue Leon Laval
+address:      3372 Leudelange
+address:      Luxembourg
+phone:        +32 3 491 08 80
+fax-no:       +32 3 290 07 70
+e-mail:       lpl@openregistry.com
+
+nserver:      A.NS.NIC.LPL 2a02:2790:1:53:0:0:19:1 89.207.190.26
+nserver:      C.NS.NIC.LPL 54.217.224.114
+nserver:      X.NS.NIC.LPL 195.253.64.4 2a01:5b0:4:0:0:0:0:4
+nserver:      Y.NS.NIC.LPL 195.253.64.7 2a01:5b0:4:0:0:0:0:7
+ds-rdata:     27378 7 1 CCC5B2D39BEFA0918768394724325608E076514F
+ds-rdata:     27378 7 2 6F3063778A89B0C993A6D80C0F86B1BF14D3F5669075FC98DC16B8FD1608846E
+
+whois:        whois.nic.lpl
+
+status:       ACTIVE
+
+created:      2016-06-30
+changed:      2016-07-19
+source:       IANA
+
