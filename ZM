@@ -32,7 +32,7 @@ phone:        +260 (021) 1 378219
 fax-no:       +260 (021) 1 246 701
 e-mail:       cnalubamba@zicta.zm
 
-nserver:      HIPPO.RU.AC.ZA 146.231.128.1 2001:4200:1010:0:0:0:0:1
+nserver:      HIPPO.RU.AC.ZA 146.231.128.1 2001:43f8:750:1001:0:0:0:1
 nserver:      NS-ZM.AFRINIC.NET 196.216.168.44 2001:43f8:120:0:0:0:0:44
 nserver:      NS1.ZAMNET.ZM 196.46.192.26
 nserver:      NS2.ZAMNET.ZM 196.46.192.21
