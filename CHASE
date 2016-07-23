@@ -4,7 +4,7 @@
 
 domain:       CHASE
 
-organisation: JPMorgan Chase & Co.
+organisation: JPMorgan Chase Bank, National Association
 address:      270 Park Avenue, New York NY 10017
 address:      United States
 
@@ -39,6 +39,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.jpmorganchase.com
 
 created:      2016-01-14
-changed:      2016-02-29
+changed:      2016-07-22
 source:       IANA
 
