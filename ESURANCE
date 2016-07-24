@@ -1,0 +1,48 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       ESURANCE
+
+organisation: Esurance Insurance Company
+address:      650 Davis Street
+address:      San Francisco, CA 94111
+address:      United States
+
+contact:      administrative
+name:         Director of Web & Content Production
+organisation: Esurance Insurance Company
+address:      650 Davis Street
+address:      San Francisco, CA 94111
+address:      United States
+phone:        +1 415 875 4500
+fax-no:       +1 415 875 4751
+e-mail:       ngtld-esurance@cscglobal.com
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      Building 3, Suite 105
+address:      300 Welsh Road
+address:      Horsham, PA 19044
+address:      United States
+phone:        +1 215.706.5700
+fax-no:       +1 215.706.5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.ESURANCE 2a01:8840:2e:0:0:0:0:1 65.22.48.1
+nserver:      A2.NIC.ESURANCE 2a01:8840:31:0:0:0:0:1 65.22.51.1
+nserver:      B0.NIC.ESURANCE 2a01:8840:2f:0:0:0:0:1 65.22.49.1
+nserver:      C0.NIC.ESURANCE 2a01:8840:30:0:0:0:0:1 65.22.50.1
+ds-rdata:     56526 7 1 77796492a253f6cd0565853ff9076b0d32cd0ba3
+ds-rdata:     56526 7 2 d8946a452022870a7080f7a7d9d56a7df22a9d49263085efb5a26666ec0bbc9c
+
+whois:        whois.afilias-srs.net
+
+status:       ACTIVE
+remarks:      Registration information: https://www.esurance.com/
+
+created:      2016-06-24
+changed:      2016-07-23
+source:       IANA
+
