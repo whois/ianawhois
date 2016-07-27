@@ -1,0 +1,45 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       AMERICANFAMILY
+
+organisation: AmFam, Inc.
+address:      6000 American Parkway
+address:      Madison, Wisconsin 53783-0001
+address:      United States
+
+contact:      administrative
+name:         Vice President
+organisation: FairWinds Partners, LLC
+address:      1000 Potomac Street NW, Suite 350
+address:      Washington, DC 20007
+address:      United States
+phone:        +1 202 223 9252
+fax-no:       +1 202 223 9256
+e-mail:       amfamregistries@fairwindspartners.com
+
+contact:      technical
+name:         Registry Customer Service
+organisation: Verisign, Inc.
+address:      12061 Bluemont Way
+address:      Reston Virginia 20190
+address:      United States
+phone:        +1-703-925-6999
+fax-no:       +1-703-948-3978
+e-mail:       info@verisign-grs.com
+
+nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
+nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
+nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
+nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
+ds-rdata:     61398 8 2 F6890DE22C9B4261C9FCFAC53FE0849FAA9B573EE95E027E070ABA270CD966AF
+
+whois:        whois.nic.americanfamily
+
+status:       ACTIVE
+
+created:      2016-07-14
+changed:      2016-07-26
+source:       IANA
+
