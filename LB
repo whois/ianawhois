@@ -13,10 +13,9 @@ address:      Lebanon
 
 contact:      administrative
 name:         Nabil Bukhalid
-organisation: American University of Beirut
-organisation: Computing and Networking Services
-address:      Bliss Street
-address:      P.O. Box 11.0236
+organisation: Lebanese Domain Registry
+address:      Bliss Street, Hamra
+address:      P.O. Box 113-6596
 address:      Beirut
 address:      Lebanon
 phone:        +961 1 749 116
@@ -40,6 +39,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.isoc.org.lb/lbdr
 
 created:      1993-08-25
-changed:      2016-01-20
+changed:      2016-07-27
 source:       IANA
 
