@@ -1,0 +1,52 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       SRT
+
+organisation: FCA US LLC.
+address:      1000 Chrysler Drive
+address:      Auburn Hills
+address:      MI
+address:      48326
+address:      United States
+
+contact:      administrative
+name:         Sales & Marketing - IT Services Aftersales
+organisation: FCA US LLC.
+address:      1000 Chrysler Drive
+address:      Auburn Hills
+address:      MI
+address:      48326
+address:      United States
+phone:        +1 248 512 2950
+fax-no:       +1 248 512 4053
+e-mail:       ngtld-fca@cscglobal.com
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      Building 3, Suite 105
+address:      300 Welsh Road
+address:      Horsham, PA 19044
+address:      United States
+phone:        +1 215.706.5700
+fax-no:       +1 215.706.5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.SRT 2a01:8840:4a:0:0:0:0:49 65.22.76.49
+nserver:      A2.NIC.SRT 2a01:8840:4d:0:0:0:0:49 65.22.79.49
+nserver:      B0.NIC.SRT 2a01:8840:4b:0:0:0:0:49 65.22.77.49
+nserver:      C0.NIC.SRT 2a01:8840:4c:0:0:0:0:49 65.22.78.49
+ds-rdata:     22834 7 1 7117bf16588e110a169f80c7d22b9389069f3766
+ds-rdata:     22834 7 2 594f7d959e39f0ba5039c1bac80d9ba16dbaf7334acd1a64c449b56883983de5
+
+whois:        whois.afilias-srs.net
+
+status:       ACTIVE
+remarks:      Registration information: http://www.fcausllc.com
+
+created:      2016-07-07
+changed:      2016-07-28
+source:       IANA
+
