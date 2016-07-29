@@ -1,0 +1,44 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       VISA
+
+organisation: Visa Worldwide Pte. Limited
+address:      71 ROBINSON ROAD Unit #09-01 068895 SG
+address:      Singapore
+
+contact:      administrative
+name:         Domain Name Specialist
+organisation: Visa Worldwide Pte. Limited
+address:      71 ROBINSON ROAD Unit #09-01 068895 SG
+address:      Singapore
+phone:        +65 6437 5800
+fax-no:       +1 650 554 3980
+e-mail:       ngtld-visa@cscinfo.com
+
+contact:      technical
+name:         Registry Customer Service
+organisation: Verisign, Inc.
+address:      12061 Bluemont Way
+address:      Reston, VA 20190
+address:      United States
+phone:        +1-703-925-6999
+fax-no:       +1-703-948-3978
+e-mail:       info@verisign-grs.com
+
+nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
+nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
+nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
+nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
+ds-rdata:     55863 8 2 B7D4DD6E17C137C8D9121055EC796100868870D2D31AC0DC5A2CE1972F692CB4
+
+whois:        whois.nic.visa
+
+status:       ACTIVE
+remarks:      Registration information: http://visa.com
+
+created:      2016-06-30
+changed:      2016-07-28
+source:       IANA
+
