@@ -1,0 +1,52 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       CHRYSLER
+
+organisation: FCA US LLC.
+address:      1000 Chrysler Drive
+address:      Auburn Hills
+address:      MI
+address:      48326
+address:      United States
+
+contact:      administrative
+name:         Sales & Marketing - IT Services Aftersales
+organisation: FCA US LLC
+address:      1000 Chrysler Drive
+address:      Auburn Hills
+address:      MI
+address:      48326
+address:      United States
+phone:        +1 248 512 2950
+fax-no:       +1 248 512 4053
+e-mail:       ngtld-fca@cscglobal.com
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      Building 3, Suite 105
+address:      300 Welsh Road
+address:      Horsham, PA 19044
+address:      United States
+phone:        +1 215.706.5700
+fax-no:       +1 215.706.5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.CHRYSLER 2a01:8840:4a:0:0:0:0:1 65.22.76.1
+nserver:      A2.NIC.CHRYSLER 2a01:8840:4d:0:0:0:0:1 65.22.79.1
+nserver:      B0.NIC.CHRYSLER 2a01:8840:4b:0:0:0:0:1 65.22.77.1
+nserver:      C0.NIC.CHRYSLER 2a01:8840:4c:0:0:0:0:1 65.22.78.1
+ds-rdata:     3583 7 1 16c7fb956da03a467ded783de53f12e01629f2ac
+ds-rdata:     3583 7 2 463cf8bd9e88f5eb11bbaad17737f42adb14885afd0710dbd4ebfa87c0b8b09b
+
+whois:        whois.afilias-srs.net
+
+status:       ACTIVE
+remarks:      Registration information: http://www.fcausllc.com
+
+created:      2016-07-07
+changed:      2016-07-28
+source:       IANA
+
