@@ -1,0 +1,43 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       CITI
+
+organisation: Citigroup Inc.
+address:      388 Greenwich St New York, New York – 10013 US
+address:      United States
+
+contact:      administrative
+name:         Brian Winterfeldt
+organisation: Mayer Brown LLP
+address:      1999 K. St. N.W. Washington DC – 20006 US
+address:      United States
+phone:        +1 202 263 3284
+e-mail:       citi-bjw@mayerbrown.com
+
+contact:      technical
+name:         Sean Kaine
+organisation: Neustar, Inc.
+address:      46000 Center Oak Plaza, Sterling VA 20166
+address:      United States
+phone:        +1 571 434 5168
+fax-no:       +1 571 434 5401
+e-mail:       registrytechnical1@neustar.biz
+
+nserver:      NS1.DNS.NIC.CITI 156.154.144.213 2610:a1:1071:0:0:0:0:d5
+nserver:      NS2.DNS.NIC.CITI 156.154.145.213 2610:a1:1072:0:0:0:0:d5
+nserver:      NS3.DNS.NIC.CITI 156.154.159.213 2610:a1:1073:0:0:0:0:d5
+nserver:      NS4.DNS.NIC.CITI 156.154.156.213 2610:a1:1074:0:0:0:0:d5
+nserver:      NS5.DNS.NIC.CITI 156.154.157.213 2610:a1:1075:0:0:0:0:d5
+nserver:      NS6.DNS.NIC.CITI 156.154.158.213 2610:a1:1076:0:0:0:0:d5
+ds-rdata:     33314 8 1 80058EDB47B966631C76A8A0EF6B6C470E3DCFAB
+ds-rdata:     33314 8 2 D81113524F34AEBA9AF6BDD6359781DA660C8468973CA7A73D6D523BC5B260AB
+
+status:       ACTIVE
+remarks:      Registration information: http://www.citigroup.com
+
+created:      2016-07-21
+changed:      2016-07-28
+source:       IANA
+
