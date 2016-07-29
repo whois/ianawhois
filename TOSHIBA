@@ -30,7 +30,7 @@ nserver:      A.GMOREGISTRY.NET 2001:dcd:1:0:0:0:0:4 37.209.192.4
 nserver:      B.GMOREGISTRY.NET 2001:dcd:2:0:0:0:0:4 37.209.194.4
 nserver:      K.GMOREGISTRY.NET 37.209.196.4
 nserver:      L.GMOREGISTRY.NET 2001:dcd:4:0:0:0:0:4 37.209.198.4
-ds-rdata:     64274 8 2 AF8F608117DA2E6F72B6F11C3B3790B946FD4B44AE57708CAF7DC9B4A1A2776C
+ds-rdata:     6475 8 2 dd6b96abb7a76ee2ec60a99012776fe0a098f02826cdfb1e82a050d87aaa9afe
 
 whois:        whois.nic.toshiba
 
@@ -38,6 +38,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.toshiba
 
 created:      2014-10-09
-changed:      2015-10-14
+changed:      2016-07-28
 source:       IANA
 
