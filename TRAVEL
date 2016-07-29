@@ -36,6 +36,8 @@ nserver:      D.GTLD.TRAVEL 156.154.103.1 2001:502:2eda:0:0:0:0:1
 nserver:      E.GTLD.TRAVEL 156.154.104.1 2610:a1:1011:0:0:0:0:1
 nserver:      F.GTLD.TRAVEL 156.154.105.1 2610:a1:1012:0:0:0:0:1
 nserver:      G.GTLD.TRAVEL 2001:503:d1ae:0:0:0:0:1 207.34.5.1
+ds-rdata:     5599 8 1 0E146CAC215682BE7BA42BF4BDA786A311C8743C
+ds-rdata:     5599 8 2 EC3BB8723430458A4EA6048A2A360C4BCE48A9BF75FE8D8D25336A3FB277625A
 
 whois:        whois.nic.travel
 
@@ -43,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.travel.travel/
 
 created:      2005-07-27
-changed:      2016-07-16
+changed:      2016-07-28
 source:       IANA
 
