@@ -1,0 +1,44 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       ABC
+
+organisation: Disney Enterprises, Inc.
+address:      500 South Buena Vista Street, Burbank, CA - 91521 US
+address:      United States
+
+contact:      administrative
+name:         Executive Director of Technology
+organisation: Disney Enterprises, Inc.
+address:      500 South Buena Vista Street, Burbank, CA - 91521 US
+address:      United States
+phone:        +1 818 560 1000
+fax-no:       +1 818 553 7210
+e-mail:       ngtld-abc@cscglobal.com
+
+contact:      technical
+name:         Registry Customer Service
+organisation: Verisign, Inc.
+address:      12061 Bluemont Way
+address:      Reston, VA 20190
+address:      United States
+phone:        +1-703-925-6999
+fax-no:       +1-703-948-3978
+e-mail:       info@verisign-grs.com
+
+nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
+nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
+nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
+nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
+ds-rdata:     39900 8 2 7ABC5A1F64FBBFAD550CFE06953AA56A030BE7212A77A60813FF633DE705DEC8
+
+whois:        whois.nic.abc
+
+status:       ACTIVE
+remarks:      Registration information: http://abc.com
+
+created:      2016-07-21
+changed:      2016-07-28
+source:       IANA
+
