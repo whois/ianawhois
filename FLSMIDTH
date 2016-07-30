@@ -4,46 +4,34 @@
 
 domain:       FLSMIDTH
 
-organisation: FLSmidth A/S
-address:      Vigerslev Allé 77
-address:      Valby
-address:      2500 Copenhagen
-address:      Denmark
+organisation: Retired
+address:      12025 Waterfront Dr., Suite 300
+address:      Los Angeles, CA 90094
+address:      United States
 
 contact:      administrative
-name:         Department Manager, IT Systems
-organisation: FLSmidth A/S
-address:      Vigerslev Allé 77
-address:      Valby
-address:      2500 Copenhagen
-address:      Denmark
-phone:        +45.36181000
-fax-no:       +45.36182310
-e-mail:       registry@flsmidth.com
+name:         Internet Assigned Numbers Authority (IANA)
+organisation: Internet Corporation for Assigned Names and Numbers (ICANN)
+address:      12025 Waterfront Dr., Suite 300
+address:      Los Angeles, CA 90094
+address:      United States
+phone:        +1 310 301 5800
+fax-no:       +1 310 823 8649
+e-mail:       tld-contact@iana.org
 
 contact:      technical
-name:         CTO
-organisation: KSregistry GmbH
-address:      KSregistry GmbH
-address:      Im Oberen Werk 1
-address:      66386 St. Ingbert
-address:      Germany
-phone:        +49.68949396250
-fax-no:       +49.68949396251
-e-mail:       icann@ksregistry.com
+name:         Internet Assigned Numbers Authority (IANA)
+organisation: Internet Corporation for Assigned Names and Numbers (ICANN)
+address:      12025 Waterfront Drive Suite 300
+address:      Los Angeles, CA 90094
+address:      United States
+phone:        +1 310 301 5800
+fax-no:       +1 310 823 8649
+e-mail:       tld-contact@iana.org
 
-nserver:      NS1A.KSREGISTRY.NET 2001:dd8:7:6075:dc:0:0:1 203.119.88.75
-nserver:      NS1B.KSREGISTRY.NET 2620:0171:0a00:00ad:0:0:0:75 72.0.48.75
-nserver:      NS2A.KSREGISTRY.COM 2001:dd8:7:6076:dc:0:0:1 203.119.88.76
-nserver:      NS2B.KSREGISTRY.COM 2620:0171:0a00:00ad:0:0:0:76 72.0.48.76
-ds-rdata:     49621 8 2 0d529ed66c39b27fc4fbe717e6b6bc92fb6026185aafbddb52f3b714a471f690
-
-whois:        whois.ksregistry.net
-
-status:       ACTIVE
-remarks:      Registration information: http://registry.flsmidth.com
+status:       INACTIVE
 
 created:      2014-09-25
-changed:      2016-01-27
+changed:      2016-07-29
 source:       IANA
 
