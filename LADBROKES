@@ -1,0 +1,44 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       LADBROKES
+
+organisation: LADBROKES INTERNATIONAL PLC
+address:      57‐63 LINE WALL ROAD 000 GI
+address:      Gibraltar
+
+contact:      administrative
+name:         Legal Counsel
+organisation: LADBROKES INTERNATIONAL PLC
+address:      57‐63 LINE WALL ROAD
+address:      Gibraltar
+phone:        + 350 200 45375
+fax-no:       + 350 200 52027
+e-mail:       ngtld-ladbrokes@cscinfo.com
+
+contact:      technical
+name:         Registry Customer Service
+organisation: Verisign, Inc.
+address:      12061 Bluemont Way
+address:      Reston Virginia 20190
+address:      United States
+phone:        +1-703-925-6999
+fax-no:       +1-703-948-3978
+e-mail:       info@verisign-grs.com
+
+nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
+nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
+nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
+nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
+ds-rdata:     37299 8 2 93937454D7F30AB3063CAFAE520EB0EEBB28E33133FBB236E15C8DA5D4EAEC5B
+
+whois:        whois.nic.ladbrokes
+
+status:       ACTIVE
+remarks:      Registration information: http://www.ladbrokesplc.com
+
+created:      2016-07-14
+changed:      2016-07-29
+source:       IANA
+
