@@ -1,0 +1,48 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       MCKINSEY
+
+organisation: McKinsey Holdings, Inc.
+address:      555 California Street
+address:      San Francisco, CA 94194
+address:      United States
+
+contact:      administrative
+name:         Associate General Counsel
+organisation: McKinsey Holdings, Inc.
+address:      555 California Street
+address:      San Francisco, CA 94194
+address:      United States
+phone:        +1 404 335 3000
+fax-no:       +1 404 521 1743
+e-mail:       ngtld-mckinsey@cscglobal.com
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      Building 3, Suite 105
+address:      300 Welsh Road
+address:      Horsham, PA 19044
+address:      United States
+phone:        +1 215.706.5700
+fax-no:       +1 215.706.5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.MCKINSEY 2a01:8840:e6:0:0:0:0:25 65.22.236.25
+nserver:      A2.NIC.MCKINSEY 2a01:8840:e9:0:0:0:0:25 65.22.239.25
+nserver:      B0.NIC.MCKINSEY 2a01:8840:e7:0:0:0:0:25 65.22.237.25
+nserver:      C0.NIC.MCKINSEY 2a01:8840:e8:0:0:0:0:25 65.22.238.25
+ds-rdata:     21081 7 1 1c77dd23709ad50c0ad2ba7aa8dd70cb6a06cfdb
+ds-rdata:     21081 7 2 e683f1c2c4249e0ee733ecb0c5cebe220c1fac450987b726ab6a304099bb17f1
+
+whois:        whois.afilias-srs.net
+
+status:       ACTIVE
+remarks:      Registration information: http://www.mckinsey.com/
+
+created:      2016-07-21
+changed:      2016-07-31
+source:       IANA
+
