@@ -1,0 +1,44 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       BOFA
+
+organisation: NMS Services, Inc.
+address:      One Bryant Park New York, New York - 10036
+address:      United States
+
+contact:      administrative
+name:         SVP, Digital Marketing Executive
+organisation: NMS Services, Inc.
+address:      One Bryant Park New York, New York - 10036
+address:      United States
+phone:        +1 980 387 8445
+fax-no:       +1 980 388 2014
+e-mail:       ngtld-bofa@cscinfo.com
+
+contact:      technical
+name:         Registry Customer Service
+organisation: Verisign, Inc.
+address:      12061 Bluemont Way
+address:      Reston, VA 20190
+address:      United States
+phone:        +1-703-925-6999
+fax-no:       +1-703-948-3978
+e-mail:       info@verisign-grs.com
+
+nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
+nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
+nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
+nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
+ds-rdata:     35541 8 2 5BF7C416FA5DBA14158B807FF4EB2F0438DB45D35D0F0AF4F6FEFF148399B455
+
+whois:        whois.nic.bofa
+
+status:       ACTIVE
+remarks:      Registration information: http://bofa.com
+
+created:      2016-07-28
+changed:      2016-08-02
+source:       IANA
+
