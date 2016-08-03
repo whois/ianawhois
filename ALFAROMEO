@@ -1,0 +1,46 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       ALFAROMEO
+
+organisation: Fiat Chrysler Automobiles N.V.
+address:      25 St. James's Street
+address:      London SW1A 1HA
+address:      United Kingdom
+
+contact:      administrative
+name:         ICT Process Specialist
+organisation: FCA Italy S.p.a.
+address:      Corso G. Agnelli 200
+address:      Turin 10135
+address:      Italy
+phone:        +39 011 003 1111
+e-mail:       ngtld-fiat@cscglobal.com
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      Building 3, Suite 105 300 Welsh Road
+address:      Horsham, PA 19044
+address:      United States
+phone:        +1 215 706 5700
+fax-no:       +1 215 706 5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.ALFAROMEO 2a01:8840:7a:0:0:0:0:17 65.22.124.17
+nserver:      A2.NIC.ALFAROMEO 2a01:8840:7d:0:0:0:0:17 65.22.127.17
+nserver:      B0.NIC.ALFAROMEO 2a01:8840:7b:0:0:0:0:17 65.22.125.17
+nserver:      C0.NIC.ALFAROMEO 2a01:8840:7c:0:0:0:0:17 65.22.126.17
+ds-rdata:     44769 7 1 04aab9de5d239f493b55531013269b368b9c72f0
+ds-rdata:     44769 7 2 d05e811b7b466b5ec91565ea1306158f482449351d99734814b89f1c765ec2fc
+
+whois:        whois.afilias-srs.net
+
+status:       ACTIVE
+remarks:      Registration information: http://www.alfaromeo.com
+
+created:      2016-07-21
+changed:      2016-08-02
+source:       IANA
+
