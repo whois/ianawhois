@@ -1,0 +1,47 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       FERRARI
+
+organisation: Fiat Chrysler Automobiles N.V.
+address:      25 St. James's Street
+address:      London
+address:      SW1A 1HA
+address:      United Kingdom
+
+contact:      administrative
+name:         Digital Department
+organisation: Ferrari S.p.A
+address:      Via Abetone Inf. n.4
+address:      41053 Maranello
+address:      Italy
+phone:        +29 0536 949 111
+e-mail:       ngtld-ferrari@cscglobal.com
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      300 Welsh Road
+address:      Horsham, PA 19044
+address:      United States
+phone:        +1 215.706.5700
+fax-no:       +1 215.706.5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.FERRARI 2a01:8840:7a:0:0:0:0:25 65.22.124.25
+nserver:      A2.NIC.FERRARI 2a01:8840:7d:0:0:0:0:25 65.22.127.25
+nserver:      B0.NIC.FERRARI 2a01:8840:7b:0:0:0:0:25 65.22.125.25
+nserver:      C0.NIC.FERRARI 2a01:8840:7c:0:0:0:0:25 65.22.126.25
+ds-rdata:     54001 7 1 fac117f83c610585a360dab74a942de166cf2a91
+ds-rdata:     54001 7 2 b264fbfcaea7e63c58001e081b998e7035d97e98d5b0ca34bea76ca2b0b6ed85
+
+whois:        whois.afilias-srs.net
+
+status:       ACTIVE
+remarks:      Registration information: http://www.ferrari.com/en_us/
+
+created:      2016-07-14
+changed:      2016-08-02
+source:       IANA
+
