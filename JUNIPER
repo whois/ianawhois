@@ -1,0 +1,44 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       JUNIPER
+
+organisation: JUNIPER NETWORKS, INC.
+address:      1194 North Mathilda Avenue Sunnyvale, California - 94089-1206
+address:      United States
+
+contact:      administrative
+name:         IP& Patent Counsel
+organisation: JUNIPER NETWORKS, INC.
+address:      1194 North Mathilda Avenue Sunnyvale, California - 94089-1206 US
+address:      United States
+phone:        +1 408 745 2000
+fax-no:       +1 408 745 2100
+e-mail:       ngtld-juniper@cscinfo.com
+
+contact:      technical
+name:         Registry Customer Service
+organisation: Verisign, Inc.
+address:      12061 Bluemont Way
+address:      Reston, VA 20190
+address:      United States
+phone:        +1-703-925-6999
+fax-no:       +1-703-948-3978
+e-mail:       info@verisign-grs.com
+
+nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
+nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
+nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
+nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
+ds-rdata:     30336 8 2 F122A759D3577FE831A8D3C16487273A2E515ABC6D5297E78678FF8ECE40141A
+
+whois:        whois.nic.juniper
+
+status:       ACTIVE
+remarks:      Registration information: http://juniper.net
+
+created:      2016-06-30
+changed:      2016-08-02
+source:       IANA
+
