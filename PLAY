@@ -38,10 +38,9 @@ ds-rdata:     10837 8 2 3D65987255E6B08EE98327F1F5DC5A13EBAB097712FBB8781BEDF63E
 whois:        whois.nic.google
 
 status:       ACTIVE
-remarks:      Registration information:
-remarks:      http://www.charlestonroadregistry.com
+remarks:      Registration information: http://www.registry.google
 
 created:      2015-06-04
-changed:      2016-07-19
+changed:      2016-08-03
 source:       IANA
 
