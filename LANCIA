@@ -1,0 +1,47 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       LANCIA
+
+organisation: Fiat Chrysler Automobiles N.V.
+address:      25 St. James's Street
+address:      London SW1A 1HA
+address:      United Kingdom
+
+contact:      administrative
+name:         ICT Process Specialist
+organisation: FCA Italy S.p.a.
+address:      FCA Italy S.p.a.
+address:      10135 Turin
+address:      Italy
+phone:        +39 011 003 1111
+e-mail:       ngtld-fiat@cscglobal.com
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      Building 3, Suite 105
+address:      300 Welsh Road
+address:      Horsham, PA 19044
+address:      United States
+phone:        +1 215.706.5700
+fax-no:       +1 215.706.5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.LANCIA 2a01:8840:7a:0:0:0:0:9 65.22.124.9
+nserver:      A2.NIC.LANCIA 2a01:8840:7d:0:0:0:0:9 65.22.127.9
+nserver:      B0.NIC.LANCIA 2a01:8840:7b:0:0:0:0:9 65.22.125.9
+nserver:      C0.NIC.LANCIA 2a01:8840:7c:0:0:0:0:9 65.22.126.9
+ds-rdata:     19923 7 1 b5d8ad2d04fa910982af961d28d7b967a8c6220f
+ds-rdata:     19923 7 2 9bc26e45cdbf80bbe2119249681341fff1f7b21ff6636ddf9c599ecb92369f94
+
+whois:        whois.afilias-srs.net
+
+status:       ACTIVE
+remarks:      Registration information: http://www.lancia.com
+
+created:      2016-07-14
+changed:      2016-08-04
+source:       IANA
+
