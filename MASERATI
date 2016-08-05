@@ -1,0 +1,44 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       MASERATI
+
+organisation: Fiat Chrysler Automobiles N.V.
+address:      25 St. James's Street, London, SW1A 1HA
+address:      United Kingdom
+
+contact:      administrative
+name:         Global Marketing Digital Media Manager
+organisation: Maserati S.p.A
+address:      Viale Ciro Menotti 322, Modena, 41122
+address:      Italy
+phone:        +39 059 590511
+e-mail:       ngtld-maserati@cscglobal.com
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      Building 3, Suite 105, 300 Welsh Road, Horsham, PA, 19044
+address:      United States
+phone:        +1.215.706.5700
+fax-no:       +1.215.706.5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.MASERATI 2a01:8840:7a:0:0:0:0:33 65.22.124.33
+nserver:      A2.NIC.MASERATI 2a01:8840:7d:0:0:0:0:33 65.22.127.33
+nserver:      B0.NIC.MASERATI 2a01:8840:7b:0:0:0:0:33 65.22.125.33
+nserver:      C0.NIC.MASERATI 2a01:8840:7c:0:0:0:0:33 65.22.126.33
+ds-rdata:     52146 7 1 901a94250210c575dd41938b4064dffce6b443dc
+ds-rdata:     52146 7 2 c798f7039f390f0851ff3c9aa3825ed0e971730aaa2143109185625da8add7f1
+
+whois:        whois.afilias-srs.net
+
+status:       ACTIVE
+remarks:      Registration information:
+remarks:      http://www.maserati.com/maserati/international/en
+
+created:      2016-07-14
+changed:      2016-08-04
+source:       IANA
+
