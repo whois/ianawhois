@@ -1,0 +1,44 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       BANANAREPUBLIC
+
+organisation: The Gap, Inc.
+address:      2 Folsom Street, San Francisco, California 94105
+address:      United States
+
+contact:      administrative
+name:         Director, Consulting & Strategy
+organisation: Director, Consulting & Strategy
+address:      1000 Potomac Street NW, Suite 350, Washington, DC 20007
+address:      United States
+phone:        +1 202 223 9252
+fax-no:       +1 202 223 9256
+e-mail:       gapregistries@fairwindspartners.com
+
+contact:      technical
+name:         Sean Kaine
+organisation: Neustar, Inc.
+address:      46000 Center Oak Plaza, Sterling VA 20166
+address:      United States
+phone:        +1 571-434-5168
+fax-no:       +1 571-434-5401
+e-mail:       registrytechnical1@neustar.biz
+
+nserver:      NS1.DNS.NIC.BANANAREPUBLIC 156.154.144.22 2610:a1:1071:0:0:0:0:16
+nserver:      NS2.DNS.NIC.BANANAREPUBLIC 156.154.145.22 2610:a1:1072:0:0:0:0:16
+nserver:      NS3.DNS.NIC.BANANAREPUBLIC 156.154.159.22 2610:a1:1073:0:0:0:0:16
+nserver:      NS4.DNS.NIC.BANANAREPUBLIC 156.154.156.22 2610:a1:1074:0:0:0:0:16
+nserver:      NS5.DNS.NIC.BANANAREPUBLIC 156.154.157.22 2610:a1:1075:0:0:0:0:16
+nserver:      NS6.DNS.NIC.BANANAREPUBLIC 156.154.158.22 2610:a1:1076:0:0:0:0:16
+ds-rdata:     26441 8 1 7F10CDBC750F167AC45EA15D7E50F98CE853D2E3
+ds-rdata:     26441 8 2 E5138A15C78342C8CDE7B48E56B9CEF825358D18ED1203DE88849696AF2C27BB
+
+status:       ACTIVE
+remarks:      Registration information: http://www.gap.com
+
+created:      2016-07-14
+changed:      2016-08-04
+source:       IANA
+
