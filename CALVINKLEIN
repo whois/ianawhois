@@ -1,0 +1,44 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       CALVINKLEIN
+
+organisation: PVH gTLD Holdings LLC
+address:      200 Madison Avenue18th Floor, New York, NY 10016
+address:      United States
+
+contact:      administrative
+name:         Dawn Atlas
+organisation: PVH gTLD Holdings LLC
+address:      200 Madison Avenue18th Floor, New York, NY 10016
+address:      United States
+phone:        +1 212 381 3500
+fax-no:       +1 212 381 3950
+e-mail:       ckregistry@fairwindspartners.com
+
+contact:      technical
+name:         Sean Kaine
+organisation: Neustar, Inc.
+address:      46000 Center Oak Plaza, Sterling VA 20166
+address:      United States
+phone:        +1 571-434-5168
+fax-no:       +1 571-434-5401
+e-mail:       registrytechnical1@neustar.biz
+
+nserver:      NS1.DNS.NIC.CALVINKLEIN 156.154.144.31 2610:a1:1071:0:0:0:0:1f
+nserver:      NS2.DNS.NIC.CALVINKLEIN 156.154.145.31 2610:a1:1072:0:0:0:0:1f
+nserver:      NS3.DNS.NIC.CALVINKLEIN 156.154.159.31 2610:a1:1073:0:0:0:0:1f
+nserver:      NS4.DNS.NIC.CALVINKLEIN 156.154.156.31 2610:a1:1074:0:0:0:0:1f
+nserver:      NS5.DNS.NIC.CALVINKLEIN 156.154.157.31 2610:a1:1075:0:0:0:0:1f
+nserver:      NS6.DNS.NIC.CALVINKLEIN 156.154.158.31 2610:a1:1076:0:0:0:0:1f
+ds-rdata:     33176 8 1 2866A22C13D0D851CC134ED0E70A8F5E25BB0584
+ds-rdata:     33176 8 2 E5C40EC4CE58FA4F85F79028FCCAEAC00CBCE2B85E738CB0B9DCA0EEB3129E7B
+
+status:       ACTIVE
+remarks:      Registration information: http://www.pvh.com/
+
+created:      2016-07-28
+changed:      2016-08-04
+source:       IANA
+
