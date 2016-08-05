@@ -1,0 +1,44 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       CBS
+
+organisation: CBS Domains Inc.
+address:      51 West 52nd Street, New York, NY, 10019
+address:      United States
+
+contact:      administrative
+name:         Christopher Niemi
+organisation: MarkMonitor Inc.
+address:      3540 East Longwing Lane, Suite 300, Meridian, ID, 83646
+address:      United States
+phone:        1-208-389-5740
+fax-no:       1-208-389-5771
+e-mail:       dotcbs@markmonitor.com
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      Building 3, Suite 105, 300 Welsh Road, Horsham, PA, 19044
+address:      United States
+phone:        +1.215.706.5700
+fax-no:       +1.215.706.5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.CBS 2a01:8840:42:0:0:0:0:9 65.22.68.9
+nserver:      A2.NIC.CBS 2a01:8840:45:0:0:0:0:9 65.22.71.9
+nserver:      B0.NIC.CBS 2a01:8840:43:0:0:0:0:9 65.22.69.9
+nserver:      C0.NIC.CBS 2a01:8840:44:0:0:0:0:9 65.22.70.9
+ds-rdata:     7539 7 1 b29b8d3b6bdb075f5f37d476c8b2a52e36fc5de9
+ds-rdata:     7539 7 2 506142cc0504f515838d01a7ac0f7b3b25c5f301425c6615f87976759d5270f7
+
+whois:        whois.afilias-srs.net
+
+status:       ACTIVE
+remarks:      Registration information: http://www.cbs.com/
+
+created:      2016-07-21
+changed:      2016-08-04
+source:       IANA
+
