@@ -30,18 +30,18 @@ phone:        +595 21 585550
 fax-no:       +595 21 585550 ; +595 21 585554
 e-mail:       dnsadmin@cnc.una.py
 
-nserver:      A.DNS.PY 200.10.228.132 2001:1320:1:0:0:0:0:1
 nserver:      B.DNS.PY 200.160.0.5 2001:12ff:0:a20:0:0:0:5
 nserver:      C.DNS.PY 130.59.31.30 2001:620:0:ff:0:0:0:30
-nserver:      D.DNS.PY 200.10.228.133 2001:1320:1:0:0:0:0:2
-nserver:      NS3.NIC.MX 200.33.111.1
+nserver:      L.DNS.PY 200.0.68.10 2801:14:a000:0:0:0:0:10
+nserver:      M.DNS.PY 200.33.111.1
 nserver:      P.DNS.PY 2001:500:14:6107:ad:0:0:1 204.61.216.107
 nserver:      R.DNS.PY 193.0.9.106 2001:67c:e0:0:0:0:0:106
+nserver:      U.DNS.PY 198.6.1.65
 
 status:       ACTIVE
 remarks:      Registration information: http://www.nic.py
 
 created:      1991-09-09
-changed:      2016-01-15
+changed:      2016-08-04
 source:       IANA
 
