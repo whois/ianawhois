@@ -1,0 +1,43 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       LOFT
+
+organisation: Annco, Inc.
+address:      7 Times Square New York, New York - 10036
+address:      United States
+
+contact:      administrative
+name:         Michael Adams
+organisation: Mayer Brown LLP
+address:      71 South Wacker Chicago Illinois 60606
+address:      United States
+phone:        +1 312 701 8713
+e-mail:       madams2@mayerbrown.com
+
+contact:      technical
+name:         Sean Kaine
+organisation: Neustar, Inc.
+address:      46000 Center Oak Plaza, Sterling VA 20166
+address:      United States
+phone:        +1 571-434-5168
+fax-no:       +1 571-434-5401
+e-mail:       registrytechnical1@neustar.biz
+
+nserver:      NS1.DNS.NIC.LOFT 156.154.144.107 2610:a1:1071:0:0:0:0:6b
+nserver:      NS2.DNS.NIC.LOFT 156.154.145.107 2610:a1:1072:0:0:0:0:6b
+nserver:      NS3.DNS.NIC.LOFT 156.154.159.107 2610:a1:1073:0:0:0:0:6b
+nserver:      NS4.DNS.NIC.LOFT 156.154.156.107 2610:a1:1074:0:0:0:0:6b
+nserver:      NS5.DNS.NIC.LOFT 156.154.157.107 2610:a1:1075:0:0:0:0:6b
+nserver:      NS6.DNS.NIC.LOFT 156.154.158.107 2610:a1:1076:0:0:0:0:6b
+ds-rdata:     38956 8 1 7B6EAB53EC4930BB251EE8D085DBE3635AE9EE21
+ds-rdata:     38956 8 2 D80FDA21CE38B1ADFA2842E2F6FF8F28B88E185C71B0401CC79B762E58E653FD
+
+status:       ACTIVE
+remarks:      Registration information: http://www.loft.com
+
+created:      2016-07-21
+changed:      2016-08-04
+source:       IANA
+
