@@ -31,6 +31,7 @@ nserver:      B.NS.NIC.VIP 2620:0171:0d02:00dc:0:0:0:30 72.42.114.30
 nserver:      C.NS.NIC.VIP 2620:0171:0c00:000c:0:0:0:30 70.40.0.30
 nserver:      D.NS.NIC.VIP 2620:0171:0f00:000d:0:0:0:30 70.40.8.30
 ds-rdata:     53714 8 2 894C82EE289BFED812E09B3E5CD1565CF2E017B171758543B8314A4EA38CF11D
+ds-rdata:     15724 8 2 036B987D399FAB03450C31CEF0708F804ED7E2F737D688B6C381AB3D45502260
 
 whois:        whois-dub.mm-registry.com
 
@@ -38,6 +39,6 @@ status:       ACTIVE
 remarks:      Registration information: http://mm-registry.com
 
 created:      2015-07-30
-changed:      2015-11-26
+changed:      2016-08-08
 source:       IANA
 
