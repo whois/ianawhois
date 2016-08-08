@@ -29,6 +29,7 @@ nserver:      B.NS.NIC.LAW 2620:171:d02:dc:0:0:0:29 72.42.114.29
 nserver:      C.NS.NIC.LAW 2620:0171:0c00:000c:0:0:0:29 70.40.0.29
 nserver:      D.NS.NIC.LAW 2620:0171:0f00:000d:0:0:0:29 70.40.8.29
 ds-rdata:     57100 8 2 8C41849EDE923127FC8A64386AB080059ABBC431DC2E295E8415F4F2A07A52C4
+ds-rdata:     30985 8 2 43AC1029812A5B3484386A6F5CC0329A6AAD55FAD583B2EB9C03FE5D344EA5DB
 
 whois:        whois-dub.mm-registry.com
 
@@ -36,6 +37,6 @@ status:       ACTIVE
 remarks:      Registration information: http://mm-registry.com
 
 created:      2015-06-18
-changed:      2015-06-26
+changed:      2016-08-08
 source:       IANA
 
