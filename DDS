@@ -29,6 +29,7 @@ nserver:      B.NS.NIC.DDS 2620:171:d02:dc:0:0:0:32 72.42.114.32
 nserver:      C.NS.NIC.DDS 2620:171:c00:c:0:0:0:32 70.40.0.32
 nserver:      D.NS.NIC.DDS 2620:171:f00:d:0:0:0:32 70.40.8.32
 ds-rdata:     3400 8 2 2D09DFE38CA04CE18E68F5A2B903A410FDDEAED34EE69A6A23F2E8A73EB522A5
+ds-rdata:     38867 8 2 52A15F3BD126D6221F9DE7BB92EEE13E14B27933E643912D1DEAC0251459F3A7
 
 whois:        whois-dub.mm-registry.com
 
@@ -36,6 +37,6 @@ status:       ACTIVE
 remarks:      Registration information: http://mmx.co
 
 created:      2016-01-08
-changed:      2016-05-11
+changed:      2016-08-08
 source:       IANA
 
