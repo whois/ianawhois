@@ -36,6 +36,7 @@ nserver:      N.DE.NET 194.146.107.6 2001:67c:1011:1:0:0:0:53
 nserver:      S.DE.NET 195.243.137.26
 nserver:      Z.NIC.DE 194.246.96.1
 ds-rdata:     24220 8 2 ffe926aca67ed94089390250f1f294ac84a6d84f9121df73a79e439f42e820c2
+ds-rdata:     39227 8 2 aab73083b9ef70e4a5e94769a418ac12e887fc3c0875ef206c3451dc40b6c4fa
 
 whois:        whois.denic.de
 
@@ -43,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.denic.de/
 
 created:      1986-11-05
-changed:      2012-04-19
+changed:      2016-08-08
 source:       IANA
 
