@@ -1,0 +1,43 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       CAPITALONE
+
+organisation: Capital One Financial Corporation
+address:      1680 Capital One Drive McLean, VA 22102
+address:      United States
+
+contact:      administrative
+name:         Manager, Domain Services
+organisation: MarkMonitor Inc.
+address:      3540 East Longwing Lane, Suite 300 Meridian, ID 83646
+address:      United States
+phone:        (208) 685-1857 
+fax-no:       (208) 389-5771 
+e-mail:       dotcapitalone@markmonitor.com
+
+contact:      technical
+name:         Registry Customer Service
+organisation: Verisign, Inc.
+address:      12061 Bluemont Way Reston Virginia 20190
+address:      United States
+phone:        +1-703-925-6999
+fax-no:       +1-703-948-3978 
+e-mail:       info@verisign-grs.com
+
+nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
+nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
+nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
+nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
+ds-rdata:     16365 8 2 017564F7C0204B23E19605E08E5DCF57C286D6D5097B53440DE91D4F04D3ABAC
+
+whois:        whois.nic.capitalone
+
+status:       ACTIVE
+remarks:      Registration information: http://www.capitalone.com
+
+created:      2016-08-04
+changed:      2016-08-10
+source:       IANA
+
