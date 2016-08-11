@@ -1,0 +1,48 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       HUGHES
+
+organisation: Hughes Satellite Systems Corporation
+address:      100 Inverness Terrace East
+address:      Englewood, CO 80112
+address:      United States
+
+contact:      administrative
+name:         Senior Patent Counsel & Director
+organisation: Hughes Satellite Systems Corporation
+address:      100 Inverness Terrace East
+address:      Englewood, CO 80112
+address:      United States
+phone:        +1.303.706.4000
+fax-no:       +1.301.428.2818
+e-mail:       ngtld-hughes@cscglobal.com
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      Building 3, Suite 105
+address:      300 Welsh Road
+address:      Horsham, PA 19044
+address:      United States
+phone:        +1 215.706.5700
+fax-no:       +1 215.706.5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.HUGHES 2a01:8840:6a:0:0:0:0:1 65.22.108.1
+nserver:      A2.NIC.HUGHES 2a01:8840:6d:0:0:0:0:1 65.22.111.1
+nserver:      B0.NIC.HUGHES 2a01:8840:6b:0:0:0:0:1 65.22.109.1
+nserver:      C0.NIC.HUGHES 2a01:8840:6c:0:0:0:0:1 65.22.110.1
+ds-rdata:     4783 7 1 8db106545645b7f77e2a82c23a18aa8bf1a62146
+ds-rdata:     4783 7 2 73fd0a64dc60abeb6ddae94e835686c9759bf2e9d6aa11bd0aa70b67831c3a1e
+
+whois:        whois.afilias-srs.net
+
+status:       ACTIVE
+remarks:      Registration information: http://www.hughes.com/
+
+created:      2016-08-04
+changed:      2016-08-10
+source:       IANA
+
