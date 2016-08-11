@@ -1,0 +1,48 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       DISH
+
+organisation: Dish DBS Corporation
+address:      9601 S. Meridian Boulevard
+address:      Englewood, CO 80112
+address:      United States
+
+contact:      administrative
+name:         Director Advanced Video Products
+organisation: DISH DBS Corporation
+address:      9601 S. Meridian Boulevard
+address:      Englewood, CO 80112
+address:      United States
+phone:        +1.303.723.1000
+fax-no:       +1.303.723.1699
+e-mail:       ngtld-dish@cscglobal.com
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      Building 3, Suite 105
+address:      300 Welsh Road
+address:      Horsham, PA 19044
+address:      United States
+phone:        +1 215.706.5700
+fax-no:       +1 215.706.5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.DISH 2a01:8840:56:0:0:0:0:33 65.22.88.33
+nserver:      A2.NIC.DISH 2a01:8840:59:0:0:0:0:33 65.22.91.33
+nserver:      B0.NIC.DISH 2a01:8840:57:0:0:0:0:33 65.22.89.33
+nserver:      C0.NIC.DISH 2a01:8840:58:0:0:0:0:33 65.22.90.33
+ds-rdata:     55986 7 1 3e785b9e04d1491a22bebc270ab1e93cad55ecf5
+ds-rdata:     55986 7 2 57b86c15df0d7f00a492c56fc9d1d6c540b78c5c2eab479711aed5381d198d4b
+
+whois:        whois.afilias-srs.net
+
+status:       ACTIVE
+remarks:      Registration information: http://www.dish.com/
+
+created:      2016-08-04
+changed:      2016-08-10
+source:       IANA
+
