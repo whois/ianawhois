@@ -1,0 +1,44 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       PAY
+
+organisation: Amazon Registry Services, Inc.
+address:      410 Terry Avenue North, Seattle, WA 98109
+address:      United States
+
+contact:      administrative
+name:         Stacey King
+organisation: Amazon Registry Services, Inc.
+address:      410 Terry Avenue North, Seattle, WA 98109
+address:      United States
+phone:        +1-206-740-8515
+fax-no:       +1-206-946-7702
+e-mail:       pay-rzm@amazon.com
+
+contact:      technical
+name:         Sean Kaine
+organisation: Neustar, Inc.
+address:      46000 Center Oak Plaza, Sterling VA 20166
+address:      United States
+phone:        +1 571-434-5168
+fax-no:       +1 571-434-5401
+e-mail:       registrytechnical1@neustar.biz
+
+nserver:      NS1.DNS.NIC.PAY 156.154.169.26 2610:a1:1071:0:0:0:1:1a
+nserver:      NS2.DNS.NIC.PAY 156.154.170.26 2610:a1:1072:0:0:0:1:1a
+nserver:      NS3.DNS.NIC.PAY 156.154.171.26 2610:a1:1073:0:0:0:1:1a
+nserver:      NS4.DNS.NIC.PAY 156.154.172.26 2610:a1:1074:0:0:0:1:1a
+nserver:      NS5.DNS.NIC.PAY 156.154.173.26 2610:a1:1075:0:0:0:1:1a
+nserver:      NS6.DNS.NIC.PAY 156.154.174.26 2610:a1:1076:0:0:0:1:1a
+ds-rdata:     12212 8 1 1E610A73A69455DE95C08A535DD5A06BCB0D4FAC
+ds-rdata:     12212 8 2 5D12A80C7BCA3BA5607BA0FF846C827199382728241B18B7606113FD19C22AE4
+
+status:       ACTIVE
+remarks:      Registration information: http://www.amazonregistry.com/
+
+created:      2016-07-21
+changed:      2016-08-10
+source:       IANA
+
