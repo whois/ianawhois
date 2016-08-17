@@ -1,0 +1,52 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       HDFC
+
+organisation: HOUSING DEVELOPMENT FINANCE CORPORATION LIMITED
+address:      HDFC House 165/166, H T Parekh Marg,
+address:      Backbay Reclamation, Churchgate
+address:      Mumbai
+address:      Maharashtra, 400020
+address:      India
+
+contact:      administrative
+name:         Asst. Genral Manager IT
+organisation: HOUSING DEVELOPMENT FINANCE CORPORATION LIMITED
+address:      5th Floor, HUL House, 165-166 Backbay Reclamation, H T Parekh Marg,
+address:      Churchgate
+address:      Mumbai
+address:      Maharashtra, 400020
+address:      India
+phone:        +912267546010
+fax-no:       +912267546203
+e-mail:       icannhdfc@hdfc.com
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      Building 3, Suite 105
+address:      300 Welsh Road
+address:      Horsham, PA 19044
+address:      United States
+phone:        +1 215.706.5700
+fax-no:       +1 215.706.5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.HDFC 2a01:8840:aa:0:0:0:0:33 65.22.176.33
+nserver:      A2.NIC.HDFC 2a01:8840:ad:0:0:0:0:33 65.22.179.33
+nserver:      B0.NIC.HDFC 2a01:8840:ab:0:0:0:0:33 65.22.177.33
+nserver:      C0.NIC.HDFC 2a01:8840:ac:0:0:0:0:33 65.22.178.33
+ds-rdata:     43104 7 1 d53ced9832799749b3f2f2ff07f67edadf63396c
+ds-rdata:     43104 7 2 8aef49234bc4a9ab6557840e6a731bdce5eb03eccb6265f149b2eb9644a35d37
+
+whois:        whois.afilias-srs.net
+
+status:       ACTIVE
+remarks:      Registration information: http://www.hdfc.com
+
+created:      2016-07-21
+changed:      2016-08-17
+source:       IANA
+
