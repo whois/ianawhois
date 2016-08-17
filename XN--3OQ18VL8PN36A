@@ -1,0 +1,49 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       大众汽车
+domain-ace:   XN--3OQ18VL8PN36A
+
+organisation: Volkswagen (China) Investment Co., Ltd.
+address:      No. 3A, XiLiu Jie, Sanlitun Road
+address:      Bejing, 100027
+address:      China
+
+contact:      administrative
+name:         Brand Marketing & Management
+organisation: Volkswagen (China) Investment Co., Ltd.
+address:      No. 3A, XiLiu Jie, Sanlitun Road
+address:      Bejing, 100027
+address:      China
+phone:        +86 10 6531 3000
+fax-no:       +86 10 8532 3232
+e-mail:       bo.yang@volkswagen.com.cn
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      Building 3, Suite 105
+address:      300 Welsh Road
+address:      Horsham, PA 19044
+address:      United States
+phone:        +1 215.706.5700
+fax-no:       +1 215.706.5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.XN--3OQ18VL8PN36A 2a01:8840:ca:0:0:0:0:1 65.22.208.1
+nserver:      A2.NIC.XN--3OQ18VL8PN36A 2a01:8840:cd:0:0:0:0:1 65.22.211.1
+nserver:      B0.NIC.XN--3OQ18VL8PN36A 2a01:8840:cb:0:0:0:0:1 65.22.209.1
+nserver:      C0.NIC.XN--3OQ18VL8PN36A 2a01:8840:cc:0:0:0:0:1 65.22.210.1
+ds-rdata:     62449 7 1 07fa270d7b8f681da0505a8f1d286889bbe85914
+ds-rdata:     62449 7 2 285188dae1dd0af87a6ebc272ff7690fe94c9256ed4ee9b1adea8a0714dff3a4
+
+whois:        whois.afilias-srs.net
+
+status:       ACTIVE
+remarks:      Registration information: http://www20.vw.com.cn/zh.html
+
+created:      2016-07-21
+changed:      2016-08-17
+source:       IANA
+
