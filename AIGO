@@ -1,0 +1,45 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       AIGO
+
+organisation: aigo Digital Technology Co,Ltd.
+address:      1st Floor East Gymnasium of the National Olympic Sports Center, No.1 ANDING Road, ChaoYang District, Beijing, 100100
+address:      China
+
+contact:      administrative
+name:         Assistant to President
+organisation: aigo Digital Technology Co., Ltd
+address:      1st Floor East Gymnasium of the National Olympic Sports Center, No.1 ANDING Road, ChaoYang District, Beijing, 100100
+address:      China
+phone:        18201097825
+fax-no:       010-62606000
+e-mail:       dingjiyuming@huaqi.com
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      Building 3, Suite 105, 300 Welsh Road, Horsham, PA 19044
+address:      United States
+phone:        +1.215.706.5700
+fax-no:       +1.215.706.5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.AIGO 2a01:8840:82:0:0:0:0:25 65.22.132.25
+nserver:      A2.NIC.AIGO 2a01:8840:85:0:0:0:0:25 65.22.135.25
+nserver:      B0.NIC.AIGO 2a01:8840:83:0:0:0:0:25 65.22.133.25
+nserver:      C0.NIC.AIGO 2a01:8840:84:0:0:0:0:25 65.22.134.25
+ds-rdata:     57270 7 1 6d5722028ca894dcb7af2d2e5adc72e27b3f2678
+ds-rdata:     57270 7 2 d3903cbe561c266e732ecc4432f91ac49a8a5234838068affbd2af8d4ddf6a8b
+
+whois:        whois.afilias-srs.net
+
+status:       ACTIVE
+remarks:      Registration information:
+remarks:      http://www.aigo.com/article-cominfo_contact-i-18.html
+
+created:      2016-08-04
+changed:      2016-08-17
+source:       IANA
+
