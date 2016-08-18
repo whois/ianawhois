@@ -4,32 +4,30 @@
 
 domain:       BM
 
-organisation: Registry General
-organisation: Ministry of Labour and Immigration
-address:      Government Administration Building
+organisation: Registry General Department, Ministry of Home Affairs
 address:      30 Parliament Street
-address:      Hamilton Pembroke HM 12
+address:      Hamilton HM 12
 address:      Bermuda
 
 contact:      administrative
-name:         Thelma Trott (Acting Registrar General)
-organisation: Registry General
+name:         Aubrey Pennyman
+organisation: Registry General Department
 address:      30 Parliament Street
-address:      Hamilton Pembroke HM 12
+address:      Hamilton HM 12
 address:      Bermuda
-phone:        +1 441 297 7706
-fax-no:       +1 441 292 4568
-e-mail:       tetrott@gov.bm
+phone:        +1 441.297.7662
+fax-no:       +1 441.292.4568
+e-mail:       apennyman@gov.bm
 
 contact:      technical
-name:         TLD DNS Administrator
-organisation: I.T.O. Bermuda Government
-address:      12 Longford Rd.
-address:      Channel House St Georges DD03
-address:      Bermuda
-phone:        +1 441 295 5151 ext 1101
-fax-no:       +1 441 295 2948
-e-mail:       tlddnsadmin@gov.bm
+name:         Howard Eland
+organisation: Afilias
+address:      Building 3, Suite 105, 300 Welsh Road
+address:      Horsham, PA 19044
+address:      United States
+phone:        +1 215.706.5700
+fax-no:       +1 215.706.5701
+e-mail:       tld-tech-poc@afilias.info
 
 nserver:      A0.BM.AFILIAS-NST.INFO 199.254.59.9 2001:500:25:0:0:0:0:9
 nserver:      A2.BM.AFILIAS-NST.INFO 199.249.116.9 2001:500:44:0:0:0:0:9
@@ -43,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.bermudanic.bm
 
 created:      1993-03-31
-changed:      2016-07-07
+changed:      2016-08-17
 source:       IANA
 
