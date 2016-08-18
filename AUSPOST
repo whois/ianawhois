@@ -1,0 +1,46 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       AUSPOST
+
+organisation: Australian Postal Corporation
+address:      111 Bourke Street,
+address:      Melbourne, VIC 3000
+address:      Australia
+
+contact:      administrative
+name:         Manager Digital Customer Experience
+organisation: Australian Postal Corporation
+address:      111 Bourke Street,
+address:      Melbourne, VIC 3000
+address:      Australia
+phone:        +61 3 8847 9045
+fax-no:       +61 3 9206 4153
+e-mail:       ngtld-auspost@cscinfo.com
+
+contact:      technical
+name:         Implementation Manager
+organisation: CSC Digital Brand Services
+address:      2711 Centerville Rd. Suite 400
+address:      United States
+phone:        (302) 636-5400
+fax-no:       (302) 636-5454
+e-mail:       ngtlds-tech@cscinfo.com
+
+nserver:      A.NIC.AUSPOST 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.AUSPOST 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.AUSPOST 2001:dcd:3:0:0:0:0:9 37.209.196.9
+nserver:      D.NIC.AUSPOST 2001:dcd:4:0:0:0:0:9 37.209.198.9
+ds-rdata:     40732 8 1 A9F2E51CDA51193DEC9B2F0866B0E32C4FF9F747
+ds-rdata:     40732 8 2 FBCD5FE6B8406AEBFBB9FC8319C6B2FB96752832D7539C1066D05CFBADF8DB74
+
+whois:        whois.nic.auspost
+
+status:       ACTIVE
+remarks:      Registration information: https://auspost.com.au
+
+created:      2016-08-11
+changed:      2016-08-18
+source:       IANA
+
