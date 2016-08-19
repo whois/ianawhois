@@ -1,0 +1,46 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       UBANK
+
+organisation: National Australia Bank Limited
+address:      Level 9 700 Bourke Street
+address:      Docklands, Victoria 3008
+address:      Australia
+
+contact:      administrative
+name:         Manager, Technical Services – Digital & Online Channel Service
+organisation: National Australia Bank Limited
+address:      Level 9 700 Bourke Street
+address:      Docklands, Victoria 3008
+address:      Australia
+phone:         +61 477 385 759
+fax-no:       n/a
+e-mail:       ngtld-ubank@cscinfo.com
+
+contact:      technical
+name:         Registry Customer Service
+organisation: Verisign, Inc.
+address:      12061 Bluemont Way
+address:      Reston Virginia 20190
+address:      United States
+phone:        +1-703-925-6999
+fax-no:       +1-703-948-3978
+e-mail:       info@verisign-grs.com
+
+nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
+nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
+nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
+nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
+ds-rdata:     41610 8 2 CFDB4A18BF58CE90787C1F961BADFF9EF843D95DAB9057629F2A0F037FB931A4
+
+whois:        whois.nic.ubank
+
+status:       ACTIVE
+remarks:      Registration information: http://www.ubank.com.au/
+
+created:      2016-08-04
+changed:      2016-08-18
+source:       IANA
+
