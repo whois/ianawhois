@@ -10,7 +10,7 @@ address:      Luxembourg 1030
 address:      Luxembourg
 
 contact:      administrative
-name:         Uwe Wiesner
+name:         Admin Bugatti
 organisation: Volkswagen AG
 address:      Berliner Ring 2
 address:      38436 Wolfsburg, Niedersachsen
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.bugatti.com
 
 created:      2015-11-12
-changed:      2015-11-25
+changed:      2016-08-23
 source:       IANA
 
