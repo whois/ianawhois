@@ -37,12 +37,12 @@ nserver:      B2.MOBI.AFILIAS-NST.ORG 199.249.126.1 2001:500:4e:0:0:0:0:1
 nserver:      C0.MOBI.AFILIAS-NST.INFO 199.254.57.1 2001:500:23:0:0:0:0:1
 nserver:      D0.MOBI.AFILIAS-NST.ORG 199.254.58.1 2001:500:24:0:0:0:0:1
 
-whois:        whois.dotmobiregistry.net
+whois:        whois.afilias.net
 
 status:       ACTIVE
 remarks:      Registration information: http://www.mtld.mobi
 
 created:      2005-10-17
-changed:      2012-02-25
+changed:      2016-08-25
 source:       IANA
 
