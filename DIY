@@ -1,0 +1,41 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       DIY
+
+organisation: Lifestyle Domain Holdings, Inc.
+address:      9721 Sherrill Boulevard, Knoxville, TN 37932
+address:      United States
+
+contact:      administrative
+name:         External gTLD Project Manager
+organisation: Dot Brand 360
+address:      4424 Carver Woods Dr. Suite 103 Cincinnati, OH 45242
+address:      United States
+phone:        +1 513 746 2800 Ext. 1
+e-mail:       gtld@scrippsnetworks.com
+
+contact:      technical
+name:         Registry Customer Service
+organisation: VeriSign, Inc.
+address:      12061 Bluemont Way Reston Virginia 20190
+address:      United States
+phone:        +1-703-925-6999
+fax-no:       +1-703-948-3978
+e-mail:       info@verisign-grs.com
+
+nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
+nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
+nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
+nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
+ds-rdata:     25674 8 2 06C661D544490AAF9C0EFA121F0FD66AE957CB1900309FDAE4A670AC4AF1D37D
+
+whois:        whois.nic.diy
+
+status:       ACTIVE
+
+created:      2016-07-21
+changed:      2016-08-25
+source:       IANA
+
