@@ -10,14 +10,14 @@ address:      38436 Wolfsburg, Niedersachsen
 address:      Germany
 
 contact:      administrative
-name:         EBP Patents, Trademarks, Licenses
+name:         Admin Volkswagen
 organisation: Volkswagen AG
 address:      Berliner Ring 2
 address:      38436 Wolfsburg, Niedersachsen
 address:      Germany
 phone:        +49.536190
 fax-no:       +49.5361939607
-e-mail:       patent.domains@volkswagen.de
+e-mail:       dotvw@indeca.de
 
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://volkswagen.com
 
 created:      2015-12-23
-changed:      2016-01-12
+changed:      2016-08-27
 source:       IANA
 
