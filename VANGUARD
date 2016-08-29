@@ -1,0 +1,44 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       VANGUARD
+
+organisation: The Vanguard Group, Inc.
+address:      100 Vanguard Boulevard Malvern, Pennsylvania - 19355 US
+address:      United States
+
+contact:      administrative
+name:         Manager
+organisation: The Vanguard Group, Inc.
+address:      100 Vanguard Boulevard Malvern, Pennsylvania - 19355 US
+address:      United States
+phone:        +1 610 669 1000
+fax-no:       +1 610 503 5737
+e-mail:       ngtld-vanguard@cscinfo.com
+
+contact:      technical
+name:         Registry Customer Service
+organisation: Verisign, Inc.
+address:      12061 Bluemont Way
+address:      Reston, VA 20190
+address:      United States
+phone:        +1-703-925-6999
+fax-no:       +1-703-948-3978
+e-mail:       info@verisign-grs.com
+
+nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
+nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
+nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
+nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
+ds-rdata:     55911 8 2 B218841EC23F35D6A8CB53C6BC78C73CF507460F03BF19FFE513A427AFE0473A
+
+whois:        whois.nic.vanguard
+
+status:       ACTIVE
+remarks:      Registration information: http://vanguard.com
+
+created:      2016-08-18
+changed:      2016-08-28
+source:       IANA
+
