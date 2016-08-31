@@ -38,6 +38,7 @@ nserver:      SI.DNS.EU 193.2.221.60 2001:1470:8000:100:0:0:0:1
 nserver:      UK.DNS.EU 195.66.241.178
 nserver:      X.DNS.EU 194.0.1.19 2001:678:4:0:0:0:0:13
 nserver:      Y.DNS.EU 194.146.106.90 2001:67c:1010:23:0:0:0:53
+nserver:      Z.DNS.EU 162.88.56.1 2600:2000:3004:0:0:0:0:1
 ds-rdata:     59479 8 2 5DBAA81BC0BEFE921886D8DA28498D9FD441B457FB0E3642A0B2F9811C8E15E0
 
 whois:        whois.eu
@@ -46,6 +47,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.eurid.eu
 
 created:      2005-04-28
-changed:      2015-06-05
+changed:      2016-08-31
 source:       IANA
 
