@@ -40,6 +40,7 @@ nserver:      A.PARS.DYNTLD.NET 199.19.5.15 2001:500:92:0:0:0:0:15
 nserver:      B.NS.NIC.PARS 2620:0171:0d01:00dc:0:0:0:5 72.42.113.5
 nserver:      B.PARS.DYNTLD.NET 199.19.6.15 2001:500:96:0:0:0:0:15
 ds-rdata:     41269 8 2 A5909217D68F160874CC814C040456C1C9004676A01875407737F50C02F3F33B
+ds-rdata:     2911 8 2 BD1468967B866D21C106F1A2B92906604380E7787BE97AC2855219DDE2CD2285
 
 whois:        whois.agitsys.net
 
@@ -47,6 +48,6 @@ status:       ACTIVE
 remarks:      Registration information: http://agitsys.com
 
 created:      2015-11-25
-changed:      2015-12-07
+changed:      2016-08-31
 source:       IANA
 
