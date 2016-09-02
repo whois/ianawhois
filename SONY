@@ -20,15 +20,16 @@ fax-no:       +81355210117
 e-mail:       nakagawa_09@brights.jp
 
 contact:      technical
-name:         Mitsuaki Nakagawa
-organisation: Brights Consulting Inc.
-address:      30F, Kasumigaseki Bldg.,
-address:      3-2-5 Kasumigaseki Chiyoda-ku
-address:      Tokyo 100-6030
+name:         Director
+organisation: GMO Registry, Inc.
+address:      Cerulean Tower 26-1 Sakuragaoka-cho
+address:      Shibuya-ku
+address:      Tokyo
+address:      150-8512
 address:      Japan
-phone:        +81355210107
-fax-no:       +81355210117
-e-mail:       nakagawa_09@brights.jp
+phone:        +81.354561601
+fax-no:       +81.337805239
+e-mail:       newgtld@gmoregistry.com
 
 nserver:      A.NIC.SONY 2001:dcd:1:0:0:0:0:9 37.209.192.9
 nserver:      B.NIC.SONY 2001:dcd:2:0:0:0:0:9 37.209.194.9
@@ -44,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.sony.com
 
 created:      2015-03-06
-changed:      2016-04-13
+changed:      2016-09-02
 source:       IANA
 
