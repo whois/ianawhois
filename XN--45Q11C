@@ -34,7 +34,7 @@ nserver:      F.ZDNSCLOUD.COM 182.131.23.22
 nserver:      G.ZDNSCLOUD.COM 111.1.33.140
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
-ds-rdata:     11866 8 2 E3B87D7AF8B48908BC8D748CBE46225E8CC208A73E510C0EF8D5D0DE0BF4CF3D
+ds-rdata:     39226 8 2 2cb1ed8c16b19b82dd780962a2a7fa49915a5616e74458a77bbb6b7d3388c0e4
 
 whois:        whois.nic.xn--45q11c
 
@@ -42,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.wang
 
 created:      2014-11-06
-changed:      2014-11-25
+changed:      2016-09-03
 source:       IANA
 
