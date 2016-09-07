@@ -1,0 +1,45 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       MP
+
+organisation: Saipan Datacom, Inc.
+address:      P.O. Box 504053
+address:      Saipan  MP 96950
+address:      Northern Mariana Islands
+
+contact:      administrative
+name:         Daniel Camacho
+organisation: Saipan Datacom, Inc.
+address:      P.O. Box 504177
+address:      Saipan  MP 96950
+address:      Northern Mariana Islands
+phone:        +1 670 483 3264
+fax-no:       +1 670 235 0965
+e-mail:       dcamacho@saipan.com
+
+contact:      technical
+name:         Daniel Camacho
+organisation: Saipan Datacom, Inc.
+address:      P.O. Box 504177
+address:      Saipan  MP 96950
+address:      Northern Mariana Islands
+phone:        +1 670 483 3264
+fax-no:       +1 670 235 0965
+e-mail:       dcamacho@saipan.com
+
+nserver:      NS1.NIC.MP 202.128.29.2
+nserver:      NS2.NIC.MP 202.128.29.135
+nserver:      NS3.NIC.MP 75.101.129.89
+nserver:      NS4.NIC.MP 75.101.133.101
+
+whois:        whois.nic.mp
+
+status:       ACTIVE
+remarks:      Registration information: https://get.mp/
+
+created:      1996-10-22
+changed:      2009-05-21
+source:       IANA
+
