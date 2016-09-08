@@ -12,26 +12,26 @@ address:      Guangdong Province
 address:      China
 
 contact:      administrative
-name:         Primary Contact
-organisation: Namesphere Holdings Limited
-address:      12/F, Daily House
-address:      35-37 Haiphong Road
-address:      Tsim Sha Tsui, Kowloon
-address:      Hong Kong
-phone:        +852 2244 7900
-fax-no:       +852 2244 7902
-e-mail:       info@tld.asia
+name:         CEO
+organisation: Xinhua News Agency Guangdong Branch
+address:      3302 International Trade Center
+address:      No.1 Linhe Xi Road
+address:      Guangzhou, Guangdong Province 510610
+address:      China
+phone:        +86 20 6622 2543
+fax-no:       +86 20 6622 2813
+e-mail:       registry@xinhuagd.cn
 
 contact:      technical
-name:         Primary Contact
-organisation: Namesphere Holdings Limited
-address:      12/F, Daily House
-address:      35-37 Haiphong Road
-address:      Tsim Sha Tsui, Kowloon
-address:      Hong Kong
-phone:        +852 2244 7900
-fax-no:       +852 2244 7902
-e-mail:       info@tld.asia
+name:         CTO
+organisation: Xinhua News Agency Guangdong Branch
+address:      3302 International Trade Center
+address:      No.1 Linhe Xi Road
+address:      Guangzhou, Guangdong Province 510610
+address:      China
+phone:        +86 20 6622 2543
+fax-no:       +86 20 6622 2813
+e-mail:       technology@xinhuagd.cn
 
 nserver:      A.ZDNSCLOUD.COM 1.8.240.1
 nserver:      B.ZDNSCLOUD.COM 1.8.241.1
@@ -50,6 +50,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.gd.xinhua.org
 
 created:      2015-08-06
-changed:      2015-08-24
+changed:      2016-09-08
 source:       IANA
 
