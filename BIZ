@@ -32,7 +32,7 @@ phone:        +1 571 434 5487
 fax-no:       +1 571 434-5401
 e-mail:       registrytechnical2@neustar.biz
 
-nserver:      A.GTLD.BIZ 156.154.124.65 2001:503:7bbb:ffff:ffff:ffff:ffff:ff7e
+nserver:      A.GTLD.BIZ 156.154.124.65 2001:0502:ad09:0:0:0:0:30
 nserver:      B.GTLD.BIZ 156.154.125.65
 nserver:      C.GTLD.BIZ 156.154.127.65
 nserver:      E.GTLD.BIZ 156.154.126.65
@@ -47,6 +47,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.biz
 
 created:      2001-06-26
-changed:      2016-05-25
+changed:      2016-09-10
 source:       IANA
 
