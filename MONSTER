@@ -1,0 +1,48 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       MONSTER
+
+organisation: Monster Worldwide, Inc.
+address:      622 Third Avenue, 39th Floor
+address:      New York, NY 10017
+address:      United States
+
+contact:      administrative
+name:         SVP, Deputy General Counsel
+organisation: Monster Worldwide, Inc.
+address:      622 Third Avenue, 39th Floor
+address:      New York, NY 10017
+address:      United States
+phone:        +1.212.351.7000
+fax-no:       +1.212.351.7097
+e-mail:       ngtld-monster@cscinfo.com
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      Building 3, Suite 105
+address:      300 Welsh Road
+address:      Horsham, PA 19044
+address:      United States
+phone:        +1 215.706.5700
+fax-no:       +1 215.706.5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.MONSTER 2a01:8840:62:0:0:0:0:25 65.22.100.25
+nserver:      A2.NIC.MONSTER 2a01:8840:65:0:0:0:0:25 65.22.103.25
+nserver:      B0.NIC.MONSTER 2a01:8840:63:0:0:0:0:25 65.22.101.25
+nserver:      C0.NIC.MONSTER 2a01:8840:64:0:0:0:0:25 65.22.102.25
+ds-rdata:     65523 7 1 a0927d13ff8d54a355b158d01af184962b0d9684
+ds-rdata:     65523 7 2 5a5b5575f92a04519f4c492d13f0f5039df17597db256444cda0ba6ca203a105
+
+whois:        whois.afilias-srs.net
+
+status:       ACTIVE
+remarks:      Registration information: http://www.monster.com/
+
+created:      2015-12-23
+changed:      2016-09-14
+source:       IANA
+
