@@ -37,8 +37,6 @@ nserver:      A.GMOREGISTRY.NET 2001:dcd:1:0:0:0:0:4 37.209.192.4
 nserver:      B.GMOREGISTRY.NET 2001:dcd:2:0:0:0:0:4 37.209.194.4
 nserver:      K.GMOREGISTRY.NET 37.209.196.4
 nserver:      L.GMOREGISTRY.NET 2001:dcd:4:0:0:0:0:4 37.209.198.4
-ds-rdata:     11014 8 1 A1F70867BEDC3A37B951D4E416FD158641886D42
-ds-rdata:     11014 8 2 8850119929470C372241469AD13624183D8F0225B87D39C6BF4E4DA4735DE085
 ds-rdata:     5104 8 2 8f118b2c36905a70820c7bb368946a65c4fb213191fc0f628a43443bdbbfff4b
 
 whois:        whois.nic.bridgestone
@@ -47,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.bridgestone.com/
 
 created:      2015-04-16
-changed:      2016-09-07
+changed:      2016-09-15
 source:       IANA
 
