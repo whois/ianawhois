@@ -22,14 +22,14 @@ e-mail:       ictadvisor@mcttd.gov.ki
 
 contact:      technical
 name:         Manager Engineering
-organisation: Telecommunications Authority of Kiribati
+organisation: Communications Commission of Kiribati
 address:      Betio
 address:      Tarawa
 address:      Kiribati
 address:      Kiribati
 phone:        +686 25488
 fax-no:       +686 25432
-e-mail:       itaaka.tebaka@tak.gov.ki
+e-mail:       itaaka.tebaka@cck.ki
 
 nserver:      KI1.DYNTLD.NET 2001:500:90:0:0:0:0:87 208.78.70.87
 nserver:      KI3.DYNTLD.NET 2001:500:94:0:0:0:0:87 208.78.71.87
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.ki
 
 created:      1995-04-19
-changed:      2013-10-15
+changed:      2016-09-16
 source:       IANA
 
