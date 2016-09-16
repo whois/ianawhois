@@ -5,31 +5,34 @@
 domain:       ZA
 
 organisation: ZA Domain Name Authority
-address:      COZA House, Gazelle Close
-address:      Corporate Park South, Old Pretoria Road
-address:      Midrand Gauteng 1685
+address:      44 Grand Central Blvd
+address:      Sanofi House
+address:      Halfway house
+address:      Midrand, 1685, Gauteng
 address:      South Africa
 
 contact:      administrative
 name:         Chairperson
 organisation: ZA Domain Name Authority
-address:      COZA House, Gazelle Close
-address:      Corporate Park South, Old Pretoria Road
-address:      Midrand Gauteng 1685
+address:      44 Grand Central Blvd
+address:      Sanofi House
+address:      Halfway house
+address:      Midrand, 1685, Gauteng
 address:      South Africa
-phone:        +27 11 314 0077
-fax-no:       +27 11 314 0088
+phone:        +27 (0)10 020 3910
+fax-no:       +27 (0)10 020 3919
 e-mail:       chair@zadna.org.za
 
 contact:      technical
 name:         Technical Committee
 organisation: ZA Domain Name Authority
-address:      COZA House, Gazelle Close
-address:      Corporate Park South, Old Pretoria Road
-address:      Midrand Gauteng 1685
+address:      44 Grand Central Blvd
+address:      Sanofi House
+address:      Halfway house
+address:      Midrand, 1685, Gauteng
 address:      South Africa
-phone:        +27 11 314 0077
-fax-no:       +27 11 314 0088
+phone:        +27 (0)10 020 3910
+fax-no:       +27 (0)10 020 3919
 e-mail:       dnsadmin@zadna.org.za
 
 nserver:      DISA.TENET.AC.ZA 196.21.79.50 2001:4200:ffff:a:0:0:0:1
@@ -42,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.zadna.org.za/
 
 created:      1990-11-07
-changed:      2011-12-07
+changed:      2016-09-16
 source:       IANA
 
