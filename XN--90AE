@@ -5,14 +5,14 @@
 domain:       бг
 domain-ace:   XN--90AE
 
-organisation: Imena.BG Plc (NAMES.BG Plc)
+organisation: Imena.BG AD
 address:      91, Alexander Malinov str, Office 303
 address:      1715 Sofia
 address:      Bulgaria
 
 contact:      administrative
 name:         Dragomir Slavov
-organisation: Imena.BG Plc
+organisation: Imena.BG AD
 address:      91, Alexander Malinov str, Office 303
 address:      1715 Sofia
 address:      Bulgaria
@@ -22,7 +22,7 @@ e-mail:       dhs@digsys.bg
 
 contact:      technical
 name:         Daniel Kalchev
-organisation: Imena.BG Plc
+organisation: Imena.BG AD
 address:      91, Alexander Malinov str, Office 303
 address:      1715 Sofia
 address:      Bulgaria
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.imena.bg
 
 created:      2016-03-05
-changed:      2016-07-02
+changed:      2016-09-16
 source:       IANA
 
