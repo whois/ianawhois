@@ -9,13 +9,14 @@ address:      Laan van Langerhuize 1, 1186 DS Amstelveen, Netherlands
 address:      Netherlands
 
 contact:      administrative
-name:         Jonathan Bing
-organisation: KPMG Global Resource Centre
-address:      333 Bay Street – Suite 4600, Toronto, Ontario M5H 2S5, Canada
+name:         Nelly Radfar
+organisation: KPMG International
+address:      KPMG Global Resource Centre
+address:      333 Bay Street, Suite 4600
+address:      Toronto, Ontario M5H 2S5
 address:      Canada
-phone:        +1 416 777 8269
-fax-no:       +1 416 777 8450
-e-mail:       jonathanbing@kpmg.ca
+phone:        +1 647 777 5227
+e-mail:       nradfar@kpmg.ca
 
 contact:      technical
 name:         Sean Kaine
@@ -39,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: https://home.kpmg.com
 
 created:      2016-01-14
-changed:      2016-04-05
+changed:      2016-09-20
 source:       IANA
 
