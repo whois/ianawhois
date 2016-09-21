@@ -1,0 +1,49 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       FIDO
+
+organisation: Rogers Communications Canada Inc.
+address:      333 Bloor Street East
+address:      Toronto ON, M4W1G9
+address:      Canada
+
+contact:      administrative
+name:         VP, Customer Intelligence & Digital Optimization
+organisation: Rogers Communications Canada Inc.
+address:      333 Bloor Street East
+address:      Toronto ON, M4W1G9
+address:      Canada
+phone:        +1.416.935.7777
+fax-no:       +1.416.935.7627
+e-mail:       ngtld-rogers@cscinfo.com
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      Building 3, Suite 105
+address:      300 Welsh Road
+address:      Horsham, PA 19044
+address:      United States
+phone:        +1 215.706.5700
+fax-no:       +1 215.706.5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.FIDO 2a01:8840:6a:0:0:0:0:41 65.22.108.41
+nserver:      A2.NIC.FIDO 2a01:8840:6d:0:0:0:0:41 65.22.111.41
+nserver:      B0.NIC.FIDO 2a01:8840:6b:0:0:0:0:41 65.22.109.41
+nserver:      C0.NIC.FIDO 2a01:8840:6c:0:0:0:0:41 65.22.110.41
+ds-rdata:     29505 7 1 377efc9ff359d3571a5746b73e17231b48ed7efc
+ds-rdata:     29505 7 2 48fa9263be8dd1bdbca4f3ae094eb14c92e1ce7a406767efec273eb62798317e
+
+whois:        whois.afilias-srs.net
+
+status:       ACTIVE
+remarks:      Registration information:
+remarks:      http://www.rogers.com/consumer/home
+
+created:      2016-08-18
+changed:      2016-09-20
+source:       IANA
+
