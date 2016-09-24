@@ -28,16 +28,14 @@ address:      United Kingdom
 phone:        +44.1865332211
 e-mail:       registrytechnical@nominet.uk
 
-nserver:      A.NS.NIC.DDS 2620:171:a02:ad:0:0:0:32 72.0.50.32
-nserver:      B.NS.NIC.DDS 2620:171:d02:dc:0:0:0:32 72.42.114.32
-nserver:      C.NS.NIC.DDS 2620:171:c00:c:0:0:0:32 70.40.0.32
-nserver:      D.NS.NIC.DDS 2620:171:f00:d:0:0:0:32 70.40.8.32
 nserver:      DNS1.NIC.DDS 213.248.217.20 2a01:618:401:0:0:0:0:20
 nserver:      DNS2.NIC.DDS 103.49.81.20 2401:fd80:401:0:0:0:0:20
 nserver:      DNS3.NIC.DDS 213.248.221.20 2a01:618:405:0:0:0:0:20
 nserver:      DNS4.NIC.DDS 2401:fd80:405:0:0:0:0:20 43.230.49.20
 nserver:      DNSA.NIC.DDS 156.154.100.3 2001:502:ad09:0:0:0:0:3
 nserver:      DNSB.NIC.DDS 156.154.101.3
+nserver:      DNSC.NIC.DDS 156.154.102.3
+nserver:      DNSD.NIC.DDS 156.154.103.3
 ds-rdata:     38867 8 2 52A15F3BD126D6221F9DE7BB92EEE13E14B27933E643912D1DEAC0251459F3A7
 ds-rdata:     62671 8 2 5B7A8A0066322585C371470AD22ABFFD8320959CFEC2E402F94EEAAD62B6EEDC
 
@@ -47,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://mmx.co
 
 created:      2016-01-08
-changed:      2016-09-15
+changed:      2016-09-23
 source:       IANA
 
