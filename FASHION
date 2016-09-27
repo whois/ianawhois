@@ -17,25 +17,36 @@ phone:        +353.14301689
 e-mail:       support@mm-registry.com
 
 contact:      technical
-name:         Director of Software Development
-organisation: Minds + Machines Ltd
-address:      32 Nassau St, Dublin 2
-address:      Ireland
-phone:        +353.14301689
-e-mail:       support@mm-registry.com
+name:         TLD Registry Services Technical
+organisation: Nominet
+address:      Minerva House,
+address:      Edmund Halley Road,
+address:      Oxford Science Park,
+address:      Oxford,
+address:      OX4 4DQ
+address:      United Kingdom
+phone:        +44.1865332211
+e-mail:       registrytechnical@nominet.uk
 
 nserver:      A.NS.NIC.FASHION 2620:0171:0a02:00ad:0:0:0:28 72.0.50.28
 nserver:      B.NS.NIC.FASHION 2620:0171:0d02:00dc:0:0:0:28 72.42.114.28
 nserver:      C.NS.NIC.FASHION 2620:0171:0c00:000c:0:0:0:28 70.40.0.28
 nserver:      D.NS.NIC.FASHION 2620:0171:0f00:000d:0:0:0:28 70.40.8.28
+nserver:      DNS1.NIC.FASHION 213.248.217.21 2a01:618:401:0:0:0:0:21
+nserver:      DNS2.NIC.FASHION 103.49.81.21 2401:fd80:401:0:0:0:0:21
+nserver:      DNS3.NIC.FASHION 213.248.221.21 2a01:618:405:0:0:0:0:21
+nserver:      DNS4.NIC.FASHION 2401:fd80:405:0:0:0:0:21 43.230.49.21
+nserver:      DNSA.NIC.FASHION 156.154.100.3 2001:502:ad09:0:0:0:0:3
+nserver:      DNSB.NIC.FASHION 156.154.101.3
 ds-rdata:     40490 8 2 871B59E1DCDD05CE9CF33D3B153564A8FA88FC9E6779A1E69AA6A81621FE5B8E
+ds-rdata:     7961 8 2 428A5995BE0AD827F2171BD7F5489614E912C8A78483BFCD046B915823757D93
 
-whois:        whois-dub.mm-registry.com
+whois:        whois.nic.fashion
 
 status:       ACTIVE
 remarks:      Registration information: http://mm-registry.com
 
 created:      2014-10-23
-changed:      2014-12-08
+changed:      2016-09-27
 source:       IANA
 
