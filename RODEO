@@ -17,24 +17,36 @@ phone:        +353.16778933
 e-mail:       support@mm-registry.com
 
 contact:      technical
-name:         Director of Software Development
-organisation: Minds + Machines Ltd
-address:      32 Nassau St, Dublin 2
-address:      Ireland
-phone:        +353.16778933
-e-mail:       support@mm-registry.com
+name:         TLD Registry Services Technical
+organisation: Nominet
+address:      Minerva House,
+address:      Edmund Halley Road,
+address:      Oxford Science Park,
+address:      Oxford,
+address:      OX4 4DQ
+address:      United Kingdom
+phone:        +44.1865332211
+e-mail:       registrytechnical@nominet.uk
 
 nserver:      A.NS.NIC.RODEO 2620:0171:0a02:00ad:0:0:0:3 72.0.50.3
 nserver:      B.NS.NIC.RODEO 2620:0171:0d02:00dc:0:0:0:3 72.42.114.3
 nserver:      C.NS.NIC.RODEO 2620:0171:0c00:000c:0:0:0:3 70.40.0.3
 nserver:      D.NS.NIC.RODEO 2620:0171:0f00:000d:0:0:0:3 70.40.8.3
+nserver:      DNS1.NIC.RODEO 213.248.217.30 2a01:618:401:0:0:0:0:30
+nserver:      DNS2.NIC.RODEO 103.49.81.30 2401:fd80:401:0:0:0:0:30
+nserver:      DNS3.NIC.RODEO 213.248.221.30 2a01:618:405:0:0:0:0:30
+nserver:      DNS4.NIC.RODEO 2401:fd80:405:0:0:0:0:30 43.230.49.30
+nserver:      DNSA.NIC.RODEO 156.154.100.3 2001:502:ad09:0:0:0:0:3
+nserver:      DNSB.NIC.RODEO 156.154.101.3
 ds-rdata:     28172 8 2 643B5BAC898709DE1EE7AE9D08D74B001085380E908D04E0903DC68FC3F81ACE
+ds-rdata:     60932 8 2 A2B0DE34D189EC512449B234452E2D196937B6348EB2DA406D59F73FFDE339CE
 
-whois:        whois-dub.mm-registry.com
+whois:        whois.nic.rodeo
 
 status:       ACTIVE
+remarks:      Registration information: http://mmx.co
 
 created:      2014-02-28
-changed:      2016-04-16
+changed:      2016-09-27
 source:       IANA
 
