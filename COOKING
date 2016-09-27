@@ -17,24 +17,36 @@ phone:        353.14301689
 e-mail:       support@mm-registry.com
 
 contact:      technical
-name:         Directory of Software Development
-organisation: Minds + Machines Ltd
-address:      32 Nassau St, Dublin 2
-address:      Ireland
-phone:        +353.14301689
-e-mail:       support@mm-registry.com
+name:         TLD Registry Services Technical
+organisation: Nominet
+address:      Minerva House,
+address:      Edmund Halley Road,
+address:      Oxford Science Park,
+address:      Oxford,
+address:      OX4 4DQ
+address:      United Kingdom
+phone:        +44.1865332211
+e-mail:       registrytechnical@nominet.uk
 
 nserver:      A.NS.NIC.COOKING 2620:0171:0a02:00ad:0:0:0:10 72.0.50.10
 nserver:      B.NS.NIC.COOKING 2620:0171:0d02:00dc:0:0:0:10 72.42.114.10
 nserver:      C.NS.NIC.COOKING 2620:0171:0c00:000c:0:0:0:10 70.40.0.10
 nserver:      D.NS.NIC.COOKING 2620:0171:0f00:000d:0:0:0:10 70.40.8.10
+nserver:      DNS1.NIC.COOKING 213.248.217.19 2a01:618:401:0:0:0:0:19
+nserver:      DNS2.NIC.COOKING 103.49.81.19 2401:fd80:401:0:0:0:0:19
+nserver:      DNS3.NIC.COOKING 213.248.221.19 2a01:618:405:0:0:0:0:19
+nserver:      DNS4.NIC.COOKING 2401:fd80:405:0:0:0:0:19 43.230.49.19
+nserver:      DNSA.NIC.COOKING 156.154.100.3 2001:502:ad09:0:0:0:0:3
+nserver:      DNSB.NIC.COOKING 156.154.101.3
 ds-rdata:     57727 8 2 8899B23CE9872CA38EB6753A566D58F716313098726158CA6F292A9207C615ED
+ds-rdata:     38020 8 2 76C110F1D94CBD33D6217F454AD0C198386789536138B865BE7F91E2E7D2AF34
 
-whois:        whois-dub.mm-registry.com
+whois:        whois.nic.cooking
 
 status:       ACTIVE
+remarks:      Registration information: http://mmx.co
 
 created:      2014-02-28
-changed:      2016-04-16
+changed:      2016-09-27
 source:       IANA
 
