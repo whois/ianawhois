@@ -35,12 +35,11 @@ nserver:      DNSC.AD 194.158.74.10 2a02:8060:32fa:0:0:0:0:b
 nserver:      DNSM.AD 194.158.74.9 2a02:8060:32fa:0:0:0:0:a
 nserver:      NS-EXT.ISC.ORG 2001:4f8:0:2:0:0:0:13 204.152.184.64
 nserver:      NS3.NIC.FR 192.134.0.49 2001:660:3006:1:0:0:1:1
-ds-rdata:     35452 8 2 1B1F4CDE743A480A1ED29D560C6108BF73B2FCE21B3DCFC02383A11E53C18B0C
 
 status:       ACTIVE
 remarks:      Registration information: http://www.nic.ad
 
 created:      1996-01-09
-changed:      2015-09-13
+changed:      2016-09-27
 source:       IANA
 
