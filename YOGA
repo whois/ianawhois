@@ -17,25 +17,36 @@ phone:        +353.14301689
 e-mail:       support@mm-registry.com
 
 contact:      technical
-name:         Director of Software Development
-organisation: Minds + Machines Ltd
-address:      32 Nassau St, Dublin 2
-address:      Ireland
-phone:        +353.14301689
-e-mail:       support@mm-registry.com
+name:         TLD Registry Services Technical
+organisation: Nominet
+address:      Minerva House,
+address:      Edmund Halley Road,
+address:      Oxford Science Park,
+address:      Oxford,
+address:      OX4 4DQ
+address:      United Kingdom
+phone:        +44.1865332211
+e-mail:       registrytechnical@nominet.uk
 
 nserver:      A.NS.NIC.YOGA 2620:0171:0a02:00ad:0:0:0:27 72.0.50.27
 nserver:      B.NS.NIC.YOGA 2620:0171:0d02:00dc:0:0:0:27 72.42.114.27
 nserver:      C.NS.NIC.YOGA 2620:0171:0c00:000c:0:0:0:27 70.40.0.27
 nserver:      D.NS.NIC.YOGA 2620:0171:0f00:000d:0:0:0:27 70.40.8.27
+nserver:      DNS1.NIC.YOGA 213.248.217.36 2a01:618:401:0:0:0:0:36
+nserver:      DNS2.NIC.YOGA 103.49.81.36 2401:fd80:401:0:0:0:0:36
+nserver:      DNS3.NIC.YOGA 213.248.221.36 2a01:618:405:0:0:0:0:36
+nserver:      DNS4.NIC.YOGA 2401:fd80:405:0:0:0:0:36 43.230.49.36
+nserver:      DNSA.NIC.YOGA 156.154.100.3 2001:502:ad09:0:0:0:0:3
+nserver:      DNSB.NIC.YOGA 156.154.101.3
 ds-rdata:     35365 8 2 C350E5319A7628DADE3EB2F0A9C88F32935793EB3A0C4413BBA6461734D73972
+ds-rdata:     16444 8 2 5BBB4BE10F21C02D518C73B32CDB4471E3CB9A512D0F288B8F1609775C9BAA08
 
-whois:        whois-dub.mm-registry.com
+whois:        whois.nic.yoga
 
 status:       ACTIVE
 remarks:      Registration information: http://mm-registry.com
 
 created:      2014-08-15
-changed:      2016-04-16
+changed:      2016-10-01
 source:       IANA
 
