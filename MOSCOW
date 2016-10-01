@@ -30,7 +30,6 @@ nserver:      A.DNS.FLEXIREG.RU 2a02:2090:6800:0:0:0:0:1 31.177.70.1
 nserver:      B.DNS.FLEXIREG.NET 195.253.64.6 2a01:5b0:4:0:0:0:0:6
 nserver:      C.DNS.FLEXIREG.ORG 195.253.65.6 2a01:5b0:5:0:0:0:0:6
 nserver:      D.DNS.FLEXIREG.DOMAINS 2a01:d8:8:0:0:0:0:1 89.111.135.1
-ds-rdata:     19819 8 2 8ac7e53b741d37b15bf4bb7c3cea92d420c969d78e66c5939045bf619e82b37f
 ds-rdata:     12370 8 2 a106682c9112b87c96791d0cb57b532861c641b43bc95b88f14c2c891d2d6cc6
 
 whois:        whois.nic.moscow
@@ -39,6 +38,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.faitid.org
 
 created:      2014-04-17
-changed:      2016-09-23
+changed:      2016-09-30
 source:       IANA
 
