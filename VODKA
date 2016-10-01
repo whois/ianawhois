@@ -17,24 +17,36 @@ phone:        +353.14301689
 e-mail:       support@mm-registry.com
 
 contact:      technical
-name:         Director of Software Development
-organisation: Minds + Machines Ltd
-address:      32 Nassau St, Dublin 2
-address:      Ireland
-phone:        +353.14301689
-e-mail:       support@mm-registry.com
+name:         TLD Registry Services Technical
+organisation: Nominet
+address:      Minerva House,
+address:      Edmund Halley Road,
+address:      Oxford Science Park,
+address:      Oxford,
+address:      OX4 4DQ
+address:      United Kingdom
+phone:        +44.1865332211
+e-mail:       registrytechnical@nominet.uk
 
 nserver:      A.NS.NIC.VODKA 2620:0171:0a02:00ad:0:0:0:23 72.0.50.23
 nserver:      B.NS.NIC.VODKA 2620:0171:0d02:00dc:0:0:0:23 72.42.114.23
 nserver:      C.NS.NIC.VODKA 2620:0171:0c00:000c:0:0:0:23 70.40.0.23
 nserver:      D.NS.NIC.VODKA 2620:0171:0f00:000d:0:0:0:23 70.40.8.23
+nserver:      DNS1.NIC.VODKA 213.248.217.33 2a01:618:401:0:0:0:0:33
+nserver:      DNS2.NIC.VODKA 103.49.81.33 2401:fd80:401:0:0:0:0:33
+nserver:      DNS3.NIC.VODKA 213.248.221.33 2a01:618:405:0:0:0:0:33
+nserver:      DNS4.NIC.VODKA 2401:fd80:405:0:0:0:0:33 43.230.49.33
+nserver:      DNSA.NIC.VODKA 156.154.100.3 2001:502:ad09:0:0:0:0:3
+nserver:      DNSB.NIC.VODKA 156.154.101.3
 ds-rdata:     60871 8 2 5B734FA00D28664C3451D5F219E8EB825FA22E54C5D25EB5712ACC3CCC34020D
+ds-rdata:     10127 8 2 B55E02F868D25A02A67344A805FD2A375F65012D8E39D597A8872DB9B555CC0B
 
-whois:        whois-dub.mm-registry.com
+whois:        whois.nic.vodka
 
 status:       ACTIVE
+remarks:      Registration information: http://mmx.co
 
 created:      2014-02-28
-changed:      2016-04-16
+changed:      2016-10-01
 source:       IANA
 
