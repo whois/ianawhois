@@ -17,25 +17,36 @@ phone:        +353.14301689
 e-mail:       support@mm-registry.com
 
 contact:      technical
-name:         Director of Software Development
-organisation: Minds + Machines Ltd
-address:      32 Nassau St, Dublin 2
-address:      Ireland
-phone:        +353.14301689
-e-mail:       support@mm-registry.com
+name:         TLD Registry Services Technical
+organisation: Nominet
+address:      Minerva House,
+address:      Edmund Halley Road,
+address:      Oxford Science Park,
+address:      Oxford,
+address:      OX4 4DQ
+address:      United Kingdom
+phone:        +44.1865332211
+e-mail:       registrytechnical@nominet.uk
 
 nserver:      A.NS.NIC.GARDEN 2620:0171:0a02:00ad:0:0:0:26 72.0.50.26
 nserver:      B.NS.NIC.GARDEN 2620:0171:0d02:00dc:0:0:0:26 72.42.114.26
 nserver:      C.NS.NIC.GARDEN 2620:0171:0c00:000c:0:0:0:26 70.40.0.26
 nserver:      D.NS.NIC.GARDEN 2620:0171:0f00:000d:0:0:0:26 70.40.8.26
+nserver:      DNS1.NIC.GARDEN 213.248.217.24 2a01:618:401:0:0:0:0:24
+nserver:      DNS2.NIC.GARDEN 103.49.81.24 2401:fd80:401:0:0:0:0:24
+nserver:      DNS3.NIC.GARDEN 213.248.221.24 2a01:618:405:0:0:0:0:24
+nserver:      DNS4.NIC.GARDEN 2401:fd80:405:0:0:0:0:24 43.230.49.24
+nserver:      DNSA.NIC.GARDEN 156.154.100.3 2001:502:ad09:0:0:0:0:3
+nserver:      DNSB.NIC.GARDEN 156.154.101.3
 ds-rdata:     24334 8 2 35C11CC0924D3244A68A48466DCBC90669A74E2286FBBF1844565524204F4502
+ds-rdata:     49411 8 2 794AD2DB36FD39DECE1C4E95687D864128F4B87C27DA93F525E34834CDF8D132
 
-whois:        whois-dub.mm-registry.com
+whois:        whois.nic.garden
 
 status:       ACTIVE
 remarks:      Registration information: http://mm-registry.com
 
 created:      2014-10-23
-changed:      2014-12-15
+changed:      2016-10-01
 source:       IANA
 
