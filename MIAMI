@@ -28,16 +28,14 @@ address:      United Kingdom
 phone:        +44.1865332211
 e-mail:       registrytechnical@nominet.uk
 
-nserver:      A.NS.NIC.MIAMI 2620:0171:0a02:00ad:0:0:0:21 72.0.50.21
-nserver:      B.NS.NIC.MIAMI 2620:0171:0d02:00dc:0:0:0:21 72.42.114.21
-nserver:      C.NS.NIC.MIAMI 2620:0171:0c00:000c:0:0:0:21 70.40.0.21
-nserver:      D.NS.NIC.MIAMI 2620:0171:0f00:000d:0:0:0:21 70.40.8.21
 nserver:      DNS1.NIC.MIAMI 213.248.217.29 2a01:618:401:0:0:0:0:29
 nserver:      DNS2.NIC.MIAMI 103.49.81.29 2401:fd80:401:0:0:0:0:29
 nserver:      DNS3.NIC.MIAMI 213.248.221.29 2a01:618:405:0:0:0:0:29
 nserver:      DNS4.NIC.MIAMI 2401:fd80:405:0:0:0:0:29 43.230.49.29
 nserver:      DNSA.NIC.MIAMI 156.154.100.3 2001:502:ad09:0:0:0:0:3
 nserver:      DNSB.NIC.MIAMI 156.154.101.3
+nserver:      DNSC.NIC.MIAMI 156.154.102.3
+nserver:      DNSD.NIC.MIAMI 156.154.103.3
 ds-rdata:     18562 8 2 35491922D8DB01E6C5B9AFEF48AEAC489F445A643F2373906673869D9C2BEA42
 ds-rdata:     47539 8 2 453C25A8643CD004F889167848F73DA1BF5E35897E01DAD9C7C7F665FD0850C5
 
@@ -47,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://mmx.co
 
 created:      2014-02-28
-changed:      2016-09-27
+changed:      2016-10-01
 source:       IANA
 
