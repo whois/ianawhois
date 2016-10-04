@@ -1,0 +1,48 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       BUGATTI
+
+organisation: Bugatti International SA
+address:      412F route d Esch
+address:      Luxembourg 1030
+address:      Luxembourg
+
+contact:      administrative
+name:         Admin Bugatti
+organisation: Volkswagen AG
+address:      Berliner Ring 2
+address:      38436 Wolfsburg, Niedersachsen
+address:      Germany
+phone:        +49 5361 9-0
+fax-no:       +49 5361 9-39607
+e-mail:       dotbugatti@indeca.de
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      Building 3, Suite 105
+address:      300 Welsh Road
+address:      Horsham, PA 19044
+address:      United States
+phone:        +1 215.706.5700
+fax-no:       +1 215.706.5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.BUGATTI 2a01:8840:ca:0:0:0:0:9 65.22.208.9
+nserver:      A2.NIC.BUGATTI 2a01:8840:cd:0:0:0:0:9 65.22.211.9
+nserver:      B0.NIC.BUGATTI 2a01:8840:cb:0:0:0:0:9 65.22.209.9
+nserver:      C0.NIC.BUGATTI 2a01:8840:cc:0:0:0:0:9 65.22.210.9
+ds-rdata:     51639 7 1 7911024343f6f74fa5c3118c70dfdf4df373e244
+ds-rdata:     51639 7 2 dea83825105400048b4b1e0ec5cad54a90202dd1ac8274a7c103c2d53b4f8a49
+
+whois:        whois.afilias-srs.net
+
+status:       ACTIVE
+remarks:      Registration information: http://www.bugatti.com
+
+created:      2015-11-12
+changed:      2016-08-23
+source:       IANA
+
