@@ -1,0 +1,50 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       FAGE
+
+organisation: Fage International S.A.
+address:      5 rue du Kiem
+address:      L-1857 Luxembourg
+address:      Grand Duchy of Luxembourg
+address:      Luxembourg
+
+contact:      administrative
+name:         Information Technology Manager
+organisation: FAGE International S.A.
+address:      5 rue du Kiem
+address:      L-1857 Luxembourg
+address:      Grand Duchy of Luxembourg
+address:      Luxembourg
+phone:        +518 736 3434
+fax-no:       +302 636 5454
+e-mail:       ngtld-fage@cscinfo.com
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      Building 3, Suite 105
+address:      300 Welsh Road
+address:      Horsham, PA 19044
+address:      United States
+phone:        +1 215.706.5700
+fax-no:       +1 215.706.5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.FAGE 2a01:8840:9a:0:0:0:0:33 65.22.156.33
+nserver:      A2.NIC.FAGE 2a01:8840:9d:0:0:0:0:33 65.22.159.33
+nserver:      B0.NIC.FAGE 2a01:8840:9b:0:0:0:0:33 65.22.157.33
+nserver:      C0.NIC.FAGE 2a01:8840:9c:0:0:0:0:33 65.22.158.33
+ds-rdata:     2884 7 1 622e41ad5cfb87ddff299334fd73b40570df2971
+ds-rdata:     2884 7 2 fa99578ad0dad7a8206080917635a27a74c0e583c9dbb108ac64f33b28a90790
+
+whois:        whois.afilias-srs.net
+
+status:       ACTIVE
+remarks:      Registration information: http://www.fage.eu
+
+created:      2015-06-25
+changed:      2015-08-10
+source:       IANA
+
