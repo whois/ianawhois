@@ -1,0 +1,46 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       RADIO
+
+organisation: European Broadcasting Union (EBU)
+address:      Ancienne-Route 17A
+address:      Le Grand-Saconnex
+address:      CH-1218 Geneva
+address:      Switzerland
+
+contact:      administrative
+name:         .radio TLD Administrative Contact
+organisation: CORE Association
+address:      Cours de Rive 2
+address:      CH-1204 Geneva
+address:      Switzerland
+phone:        +41 79 203 4075
+fax-no:       +41 22 312 5612
+e-mail:       secretariat@corenic.org
+
+contact:      technical
+name:         .radio TLD Technical Contact
+organisation: CORE Association
+address:      Cours de Rive 2
+address:      CH-1204 Geneva
+address:      Switzerland
+phone:        +41 22 312 5610
+fax-no:       +41 22 312 5612
+e-mail:       dnsmaster@corenic.org
+
+nserver:      ANYCAST10.IRONDNS.NET 195.253.64.12 2a01:5b0:4:0:0:0:0:c
+nserver:      ANYCAST23.IRONDNS.NET 195.253.65.11 2a01:5b0:5:0:0:0:0:b
+nserver:      ANYCAST24.IRONDNS.NET 195.253.65.12 2a01:5b0:5:0:0:0:0:c
+nserver:      ANYCAST9.IRONDNS.NET 195.253.64.11 2a01:5b0:4:0:0:0:0:b
+ds-rdata:     62727 10 2 3863E4A0C36A262785C1703B5CFF54CDBD56CD40BB414B45599848CE972E26B9
+
+whois:        whois.nic.radio
+
+status:       ACTIVE
+
+created:      2016-09-22
+changed:      2016-10-12
+source:       IANA
+
