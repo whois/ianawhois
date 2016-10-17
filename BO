@@ -34,6 +34,7 @@ e-mail:       jmachicado@adsib.gob.bo
 
 nserver:      ANYCAST.NS.NIC.BO 2001:500:14:6048:ad:0:0:1 204.61.216.48
 nserver:      NS.DNS.BR 200.160.0.5 2001:12ff:0:a20:0:0:0:5
+nserver:      NS.NIC.BO 166.114.1.40
 nserver:      NS2.NIC.FR 192.93.0.4 2001:660:3005:1:0:0:1:2
 nserver:      UTAMA.BOLNET.BO 166.114.1.40
 
@@ -43,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.bo
 
 created:      1991-02-26
-changed:      2016-08-05
+changed:      2016-10-16
 source:       IANA
 
