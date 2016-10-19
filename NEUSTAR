@@ -37,11 +37,13 @@ nserver:      NS5.DNS.NIC.NEUSTAR 192.100.59.250 2610:a1:1013:0:0:0:0:250
 nserver:      NS6.DNS.NIC.NEUSTAR 198.133.199.250 2610:a1:1021:0:0:0:0:250
 ds-rdata:     10205 8 1 33B4D5A00F3CE58745AEFA2D2454ECE8D44FEA79
 ds-rdata:     10205 8 2 1FE9AB86833B13A7D0C334D891B1581D5FB81E5829E670352355755306385C6C
+ds-rdata:     39529 8 1 b75508f9283e7594374e6810b64b3d26cac1978a
+ds-rdata:     39529 8 2 9e8107e11953268e4e7c963bdc5b43edee14662b3369b22119afbd98851b4ff7
 
 status:       ACTIVE
 remarks:      Registration information: http://www.neustar.biz
 
 created:      2014-02-06
-changed:      2015-08-19
+changed:      2016-10-19
 source:       IANA
 
