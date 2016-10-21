@@ -17,25 +17,36 @@ phone:        +353.14301689
 e-mail:       support@mm-registry.com
 
 contact:      technical
-name:         Director of Software Development
-organisation: Minds + Machines Ltd
-address:      32 Nassau St, Dublin 2
-address:      Ireland
-phone:        +353.14301689
-e-mail:       support@mm-registry.com
+name:         TLD Registry Services Technical
+organisation: Nominet
+address:      Minerva House,
+address:      Edmund Halley Road,
+address:      Oxford Science Park,
+address:      Oxford,
+address:      OX4 4DQ
+address:      United Kingdom
+phone:        +44.1865332211
+e-mail:       registrytechnical@nominet.uk
 
 nserver:      A.NS.NIC.BEER 2620:0171:0a02:00ad:0:0:0:14 72.0.50.14
 nserver:      B.NS.NIC.BEER 2620:0171:0d02:00dc:0:0:0:14 72.42.114.14
 nserver:      C.NS.NIC.BEER 2620:0171:0c00:000c:0:0:0:14 70.40.0.14
 nserver:      D.NS.NIC.BEER 2620:0171:0f00:000d:0:0:0:14 70.40.8.14
+nserver:      DNS1.NIC.BEER 213.248.217.15 2a01:618:401:0:0:0:0:15
+nserver:      DNS2.NIC.BEER 103.49.81.15 2401:fd80:401:0:0:0:0:15
+nserver:      DNS3.NIC.BEER 213.248.221.15 2a01:618:405:0:0:0:0:15
+nserver:      DNS4.NIC.BEER 2401:fd80:405:0:0:0:0:15 43.230.49.15
+nserver:      DNSA.NIC.BEER 156.154.100.3 2001:502:ad09:0:0:0:0:3
+nserver:      DNSB.NIC.BEER 156.154.101.3
 ds-rdata:     32401 8 2 A352C1475AFE55AACB6C1A7AF20BE661CFED0998707AE0365B73C3970497ED0B
+ds-rdata:     56125 8 2 C674B8966CB78A79E67A2ED674917CF39F96ED6C7E5460425C61EAFBAD7E2A87
 
-whois:        whois-dub.mm-registry.com
+whois:        whois.nic.beer
 
 status:       ACTIVE
 remarks:      Registration information: http://mm-registry.com
 
 created:      2014-03-13
-changed:      2016-04-16
+changed:      2016-10-20
 source:       IANA
 
