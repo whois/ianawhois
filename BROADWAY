@@ -29,16 +29,14 @@ address:      United Kingdom
 phone:        +44.1865332211
 e-mail:       registrytechnical@nominet.uk
 
-nserver:      A.NS.NIC.BROADWAY 2620:0171:0a02:00ad:0:0:0:31 72.0.50.31
-nserver:      B.NS.NIC.BROADWAY 2620:0171:0d02:00dc:0:0:0:31 72.42.114.31
-nserver:      C.NS.NIC.BROADWAY 2620:0171:0c00:000c:0:0:0:31 70.40.0.31
-nserver:      D.NS.NIC.BROADWAY 2620:0171:0f00:000d:0:0:0:31 70.40.8.31
 nserver:      DNS1.NIC.BROADWAY 213.248.217.38 2a01:618:401:0:0:0:0:38
 nserver:      DNS2.NIC.BROADWAY 103.49.81.38 2401:fd80:401:0:0:0:0:38
 nserver:      DNS3.NIC.BROADWAY 213.248.221.38 2a01:618:405:0:0:0:0:38
 nserver:      DNS4.NIC.BROADWAY 2401:fd80:405:0:0:0:0:38 43.230.49.38
 nserver:      DNSA.NIC.BROADWAY 156.154.100.3 2001:502:ad09:0:0:0:0:3
 nserver:      DNSB.NIC.BROADWAY 156.154.101.3
+nserver:      DNSC.NIC.BROADWAY 156.154.102.3
+nserver:      DNSD.NIC.BROADWAY 156.154.103.3
 ds-rdata:     55567 8 2 16393BD7D987794B9F7E6AE82163E73AD258C2E56EAB117FA9C1086663FCB5E4
 ds-rdata:     47576 8 2 CCC4CE45AACB1C0ECD8181D968B86BEFF3B34D1A71576F137CA43529FF8F12BB
 
@@ -48,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://mm-registry.com
 
 created:      2015-10-08
-changed:      2016-10-14
+changed:      2016-10-20
 source:       IANA
 
