@@ -40,7 +40,7 @@ nserver:      C.ROOT-SERVERS.NET 192.33.4.12 2001:500:2:0:0:0:0:c
 nserver:      D.ROOT-SERVERS.NET 199.7.91.13 2001:500:2d:0:0:0:0:d
 nserver:      E.ROOT-SERVERS.NET 192.203.230.10 2001:500:a8:0:0:0:0:e
 nserver:      F.ROOT-SERVERS.NET 192.5.5.241 2001:500:2f:0:0:0:0:f
-nserver:      G.ROOT-SERVERS.NET 192.112.36.4
+nserver:      G.ROOT-SERVERS.NET 192.112.36.4 2001:500:12:0:0:0:0:d0d
 nserver:      H.ROOT-SERVERS.NET 198.97.190.53 2001:500:1:0:0:0:0:53
 nserver:      I.ROOT-SERVERS.NET 192.36.148.17 2001:7fe:0:0:0:0:0:53
 nserver:      K.ROOT-SERVERS.NET 193.0.14.129 2001:7fd:0:0:0:0:0:1
@@ -57,6 +57,6 @@ remarks:      IAB assigned the technical role to the IANA Department
 remarks:      of ICANN; see RFC 3172.
 
 created:      1985-01-01
-changed:      2016-08-25
+changed:      2016-10-20
 source:       IANA
 
