@@ -9,32 +9,44 @@ address:      1201 F Street NW Suite 675 Washington DC 20004
 address:      United States
 
 contact:      administrative
-name:         VP Sales and Marketing
+name:         VP Operations
 organisation: Republican State Leadership Committee
 address:      1201 F Street NW Suite 675 Washington DC 20004
 address:      United States
-phone:        +1.2024487988
-e-mail:       wmartinez@rslc.com
+phone:        +1.2024485279
+e-mail:       patrick@join.gop
 
 contact:      technical
-name:         Director of Software Development
-organisation: Minds + Machines Ltd
-address:      32 Nassau St, Dublin 2
-address:      Ireland
-phone:        +353.14301689
-e-mail:       support@mm-registry.com
+name:         TLD Registry Services Technical
+organisation: Nominet
+address:      Minerva House,
+address:      Edmund Halley Road,
+address:      Oxford Science Park,
+address:      Oxford,
+address:      OX4 4DQ
+address:      United Kingdom
+phone:        +44.1865332211
+e-mail:       registrytechnical@nominet.uk
 
 nserver:      A.NS.NIC.GOP 2620:0171:0a02:00ad:0:0:0:19 72.0.50.19
 nserver:      B.NS.NIC.GOP 2620:0171:0d02:00dc:0:0:0:19 72.42.114.19
 nserver:      C.NS.NIC.GOP 2620:0171:0c00:000c:0:0:0:19 70.40.0.19
 nserver:      D.NS.NIC.GOP 2620:0171:0f00:000d:0:0:0:19 70.40.8.19
+nserver:      DNS1.NIC.GOP 213.248.217.39 2a01:618:401:0:0:0:0:39
+nserver:      DNS2.NIC.GOP 103.49.81.39 2401:fd80:401:0:0:0:0:39
+nserver:      DNS3.NIC.GOP 213.248.221.39 2a01:618:405:0:0:0:0:39
+nserver:      DNS4.NIC.GOP 2401:fd80:405:0:0:0:0:39 43.230.49.39
+nserver:      DNSA.NIC.GOP 156.154.100.3 2001:502:ad09:0:0:0:0:3
+nserver:      DNSB.NIC.GOP 156.154.101.3
 ds-rdata:     3380 8 2 1A7111EAD180BD47D1A86E35D8B3A3936691C4DD2C4B7AFA39ACE1BF0A7BDB8A
+ds-rdata:     31562 8 2 13454BE0988354AE5CF482CC912C8D377E0D72ABADD4A7C55E6DFC923E26868F
 
-whois:        whois-cl01.mm-registry.com
+whois:        whois.nic.gop
 
 status:       ACTIVE
+remarks:      Registration information: http://join.gop
 
 created:      2014-03-06
-changed:      2014-12-01
+changed:      2016-10-20
 source:       IANA
 
