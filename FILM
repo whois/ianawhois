@@ -1,0 +1,47 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       FILM
+
+organisation: Motion Picture Domain Registry Pty Ltd
+address:      Level 8, 10 Queens Road,
+address:      Melbourne, Victoria 3004
+address:      Australia
+
+contact:      administrative
+name:         Patrick Donaldson
+organisation: Motion Picture Domain Registry Pty Ltd
+address:      Level 8, 10 Queens Road,
+address:      Melbourne, Victoria 3004
+address:      Australia
+phone:        +61390901726
+fax-no:       +61398661970
+e-mail:       p@go.film
+
+contact:      technical
+name:         Nikora Terrill
+organisation: ARI Registry Services
+address:      Level 8, 10 Queens Road,
+address:      Melbourne, Victoria 3004
+address:      Australia
+phone:        +61398663710
+fax-no:       +61398661970
+e-mail:       gtldsupport@ariservices.com
+
+nserver:      A.NIC.FILM 2001:dcd:1:0:0:0:0:10 37.209.192.10
+nserver:      B.NIC.FILM 2001:dcd:2:0:0:0:0:10 37.209.194.10
+nserver:      C.NIC.FILM 2001:dcd:3:0:0:0:0:10 37.209.196.10
+nserver:      D.NIC.FILM 2001:dcd:4:0:0:0:0:10 37.209.198.10
+ds-rdata:     9967 8 1 786B464133736F2067A34637CAFEC24952ED6541
+ds-rdata:     9967 8 2 B3E301E7289F3DD644DE918DE046C3BDD7BE301E944D0F687AB7706DEED71C06
+
+whois:        whois.nic.film
+
+status:       ACTIVE
+remarks:      Registration information: http://nic.film
+
+created:      2015-02-27
+changed:      2015-08-13
+source:       IANA
+
