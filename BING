@@ -1,0 +1,45 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       BING
+
+organisation: Microsoft Corporation
+address:      One Microsoft Way,
+address:      Redmond,
+address:      WA
+address:      98052
+address:      United States
+
+contact:      administrative
+name:         Program Manager
+organisation: Microsoft Corporation
+address:      One Microsoft Way, Redmond, WA 98052
+address:      United States
+phone:        425-706-3546
+fax-no:       425-457-2511
+e-mail:       tlddom@microsoft.com
+
+contact:      technical
+name:         Registry Customer Service
+organisation: Verisign, Inc
+address:      12061 Bluemont Way
+address:      Reston Virginia 20190
+address:      United States
+phone:        +1-703-925-6999
+fax-no:       +1-703-948-3978
+e-mail:       info@verisign-grs.com
+
+nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
+nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
+nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
+nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
+ds-rdata:     54939 8 2 AA18F258897855E86489C4A522EA45DA55918BCD1C6DD418322081331DF89E85
+
+status:       ACTIVE
+remarks:      Registration information: http://www.microsoft.com
+
+created:      2015-04-30
+changed:      2016-02-27
+source:       IANA
+
