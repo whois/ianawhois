@@ -30,16 +30,14 @@ address:      United Kingdom
 phone:        +44.1865332211
 e-mail:       registrytechnical@nominet.uk
 
-nserver:      A.NS.NIC.BAYERN 2620:0171:0a02:00ad:0:0:0:13 72.0.50.13
-nserver:      B.NS.NIC.BAYERN 2620:0171:0d02:00dc:0:0:0:13 72.42.114.13
-nserver:      C.NS.NIC.BAYERN 2620:0171:0c00:000c:0:0:0:13 70.40.0.13
-nserver:      D.NS.NIC.BAYERN 2620:0171:0f00:000d:0:0:0:13 70.40.8.13
 nserver:      DNS1.NIC.BAYERN 213.248.217.14 2a01:618:401:0:0:0:0:14
 nserver:      DNS2.NIC.BAYERN 103.49.81.14 2401:fd80:401:0:0:0:0:14
 nserver:      DNS3.NIC.BAYERN 213.248.221.14 2a01:618:405:0:0:0:0:14
 nserver:      DNS4.NIC.BAYERN 2401:fd80:405:0:0:0:0:14 43.230.49.14
 nserver:      DNSA.NIC.BAYERN 156.154.100.3 2001:502:ad09:0:0:0:0:3
 nserver:      DNSB.NIC.BAYERN 156.154.101.3
+nserver:      DNSC.NIC.BAYERN 156.154.102.3
+nserver:      DNSD.NIC.BAYERN 156.154.103.3
 ds-rdata:     50081 8 2 513BB010639ECE3D65785B712C85A219B8412F448EF9EB62523543F4AFF3ED13
 ds-rdata:     5450 8 2 0BE5B2CD561159EC40895CC8A8D79D74B3437A4CA4D4D48FE1863315C092CA98
 
@@ -49,6 +47,6 @@ status:       ACTIVE
 remarks:      Registration information: http://mm-registry.com
 
 created:      2014-03-13
-changed:      2016-10-20
+changed:      2016-10-29
 source:       IANA
 
