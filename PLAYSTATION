@@ -1,0 +1,51 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       PLAYSTATION
+
+organisation: Sony Computer Entertainment Inc.
+address:      1-7-1 Konan
+address:      Minato-ku
+address:      Tokyo
+address:      108-0075
+address:      Japan
+
+contact:      administrative
+name:         Chief Operating Officer
+organisation: Brights Consulting Inc.
+address:      30F, Kasumigaseki Bldg.
+address:      3-2-5 Kasumigaseki
+address:      Chiyoda-ku Tokyo 100-6030
+address:      Japan
+phone:        +81.355210107
+fax-no:       +81.355210117
+e-mail:       nakagawa_10@brights.jp
+
+contact:      technical
+name:         Director
+organisation: GMO Registry, Inc.
+address:      Cerulean Tower 26-1 Sakuragaoka-cho
+address:      Shibuya-ku
+address:      Tokyo
+address:      150-8512
+address:      Japan
+phone:        +81.354561601
+fax-no:       +81.337805239
+e-mail:       newgtld@gmoregistry.com
+
+nserver:      A.GMOREGISTRY.NET 2001:dcd:1:0:0:0:0:4 37.209.192.4
+nserver:      B.GMOREGISTRY.NET 2001:dcd:2:0:0:0:0:4 37.209.194.4
+nserver:      K.GMOREGISTRY.NET 37.209.196.4
+nserver:      L.GMOREGISTRY.NET 2001:dcd:4:0:0:0:0:4 37.209.198.4
+ds-rdata:     5336 8 2 b85f611c6579d93dbc9c53b20e8a4110a7848c29864496e31d94f2dfddf13a41
+
+whois:        whois.nic.playstation
+
+status:       ACTIVE
+remarks:      Registration information: http://www.playstation.com
+
+created:      2015-09-24
+changed:      2016-09-15
+source:       IANA
+
