@@ -1,0 +1,49 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       CASEIH
+
+organisation: CNH Industrial N.V.
+address:      Cranes Farm Road
+address:      Basildon, Essex
+address:      SS14 3AD
+address:      United Kingdom
+
+contact:      administrative
+name:         Global Director ICT
+organisation: CNH Industrial N.V.
+address:      Cranes Farm Road
+address:      Basildon, Essex
+address:      SS14 3AD
+address:      United Kingdom
+phone:        +44 1268 292545
+e-mail:       ngtld-cnh@cscglobal.com
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      Building 3, Suite 105
+address:      300 Welsh Road
+address:      Horsham, PA 19044
+address:      United States
+phone:        +1 215.706.5700
+fax-no:       +1 215.706.5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.CASEIH 2a01:8840:76:0:0:0:0:1 65.22.120.1
+nserver:      A2.NIC.CASEIH 2a01:8840:79:0:0:0:0:1 65.22.123.1
+nserver:      B0.NIC.CASEIH 2a01:8840:77:0:0:0:0:1 65.22.121.1
+nserver:      C0.NIC.CASEIH 2a01:8840:78:0:0:0:0:1 65.22.122.1
+ds-rdata:     26026 7 1 72b25f18a7d54a163b30bf8f07cbcd550e9c5fc5
+ds-rdata:     26026 7 2 19d2fd69f2d86272d2701b0945bb5e46b0c6c3bf1c88607e3ee342420b2c22b3
+
+whois:        whois.afilias-srs.net
+
+status:       ACTIVE
+remarks:      Registration information: http://www.cnhindustrial.com
+
+created:      2016-10-27
+changed:      2016-10-30
+source:       IANA
+
