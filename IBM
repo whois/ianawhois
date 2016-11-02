@@ -5,28 +5,25 @@
 domain:       IBM
 
 organisation: International Business Machines Corporation
-address:      One North Castle Drive,
-address:      Armonk,
-address:      NY 10504
+address:      New Orchard Road
+address:      Armonk, NY 10504
 address:      United States
 
 contact:      administrative
-name:         Tarn Rosenbaum
+name:         Senior Paralegal, Corporate Trademark Department
 organisation: International Business Machines Corporation
-address:      9201 ARBORETUM PKWY,
-address:      SUITE 300,
-address:      RICHMOND, VA
+address:      North Castle Drive
+address:      Armonk, NY 10504
 address:      United States
-phone:        +1.7203963242
-fax-no:       +1.7203963242
-e-mail:       trosenb@us.ibm.com
+phone:        +1-914-765-4227 
+fax-no:       +1-914-765-4390 
+e-mail:       gracem@us.ibm.com
 
 contact:      technical
-name:         Yaser Doleh
+name:         Senior Technical Staff Member
 organisation: International Business Machines Corporation
-address:      1228 EUCLID AVE,
-address:      9TH FLOOR,
-address:      CLEVELAND, OH 44115
+address:      1228 Euclid Ave., 9th Floor
+address:      Cleveland, OH 44115
 address:      United States
 phone:        +1.7204309191
 fax-no:       +1.8454913606
@@ -45,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.ibm.com
 
 created:      2014-09-25
-changed:      2014-10-01
+changed:      2016-11-01
 source:       IANA
 
