@@ -36,12 +36,12 @@ nserver:      D.NIC.OBSERVER 212.18.249.32 2a04:2b00:13ff:0:0:0:0:32
 ds-rdata:     7160 8 1 11EEE2E92F2015CC689D5259BAE0F47AD3DFC48C
 ds-rdata:     7160 8 2 5C223153E56665D646679D344182B70C68025039FDB198484E435EB7FC30E2BB
 
-whois:        whois.centralnic.com
+whois:        whois.nic.observer
 
 status:       ACTIVE
 remarks:      Registration information: http://www.topspectrum.com
 
 created:      2016-09-15
-changed:      2016-09-27
+changed:      2016-11-04
 source:       IANA
 
