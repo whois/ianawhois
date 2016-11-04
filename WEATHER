@@ -4,23 +4,26 @@
 
 domain:       WEATHER
 
-organisation: The Weather Channel, LLC
-address:      300 Interstate North, Atlanta, Georgia  30339
+organisation: International Business Machines Corporation
+address:      New Orchard Road
+address:      Armonk, NY 10504
 address:      United States
 
 contact:      administrative
-name:         Sheri Bachstein
-organisation: The Weather Channel, LLC
-address:      300 Interstate North, Atlanta, Georgia  30339
+name:         Senior Paralegal, Corporate Trademark Department
+organisation: International Business Machines Corporation
+address:      North Castle Drive
+address:      Armonk, NY 10504
 address:      United States
-phone:        +1-770-226-2487
-fax-no:       +1-770-226-2632
-e-mail:       weathergtld@weather.com
+phone:        +1-914-765-4227 
+fax-no:       +1-914-765-4390 
+e-mail:       gracem@us.ibm.com
 
 contact:      technical
-name:         Sean Kaine
+name:         Director of Product Management
 organisation: Neustar, Inc.
-address:      46000 Center Oak Plaza, Sterling, VA  20166
+address:      46000 Center Oak Plaza
+address:      Sterling, VA  20166
 address:      United States
 phone:        +1-571-434-5168
 fax-no:       +1-571-434-5401
@@ -39,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.weather.com
 
 created:      2015-12-23
-changed:      2016-01-12
+changed:      2016-11-04
 source:       IANA
 
