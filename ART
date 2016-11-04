@@ -35,12 +35,12 @@ nserver:      D.NIC.ART 212.18.249.49 2a04:2b00:13ff:0:0:0:0:49
 ds-rdata:     29485 8 1 6FD8A6CB40CAC76B1EAC4EE69075360D5C5EEA8E
 ds-rdata:     29485 8 2 BF041A7EC6CA857F5D85151C66F561DEB9C863B98E05670C345C9CF9ED199AEE
 
-whois:        whois.centralnic.com
+whois:        whois.nic.art
 
 status:       ACTIVE
-remarks:      Registration information: http://dotart.domains/
+remarks:      Registration information: http://art.art/
 
 created:      2016-06-09
-changed:      2016-06-23
+changed:      2016-11-04
 source:       IANA
 
