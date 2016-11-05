@@ -1,0 +1,45 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       AOL
+
+organisation: AOL Inc.
+address:      770 Broadway
+address:      New York, New York - 10003
+address:      United States
+
+contact:      administrative
+name:         General Counsel
+address:      770 Broadway
+address:      New York, New York - 10003
+address:      United States
+phone:        +1 212 206 4400
+fax-no:       n/a
+e-mail:       ngtld-aol@cscinfo.com
+
+contact:      technical
+name:         Registry Customer Service
+organisation: Verisign, Inc.
+address:      12061 Bluemont Way
+address:      Reston Virginia 20190
+address:      United States
+phone:        +1-703-925-6999
+fax-no:       +1-703-948-3978
+e-mail:       info@verisign-grs.com
+
+nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
+nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
+nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
+nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
+ds-rdata:     40743 8 2 3F32085E98A3E5BEA4E1CD9EA6DB43F4E7EAF8AEC7BFBEABFD748B4245FD6C57
+
+whois:        whois.nic.aol
+
+status:       ACTIVE
+remarks:      Registration information: http://www.aol.com
+
+created:      2016-10-27
+changed:      2016-11-04
+source:       IANA
+
