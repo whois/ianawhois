@@ -4,14 +4,16 @@
 
 domain:       MEO
 
-organisation: PT Comunicacoes S.A.
-address:      Rua Andrade Corvo nº 6 Lisbon - 1050-009
+organisation: MEO Serviços de Comunicações e Multimédia, S.A.
+address:      Avenida Fontes Pereira de Melo, no. 32
+address:      1069-219 Lisboa
 address:      Portugal
 
 contact:      administrative
 name:         Tiago Silva Lopes
-organisation: PT Comunicacoes S.A.
-address:      Rua Andrade Corvo nº 6 Lisbon - 1050-009
+organisation: MEO Serviços de Comunicações e Multimédia, S.A.
+address:      Avenida Fontes Pereira de Melo, no. 32
+address:      1069-219 Lisboa
 address:      Portugal
 phone:        +351215002000
 fax-no:       +351218006200
@@ -19,8 +21,9 @@ e-mail:       tsl-gtld@telecom.pt
 
 contact:      technical
 name:         Marco Ramos
-organisation: PT Comunicacoes S.A.
-address:      Rua Andrade Corvo nº 6 Lisbon - 1050-009
+organisation: MEO Serviços de Comunicações e Multimédia, S.A.
+address:      Avenida Fontes Pereira de Melo, no. 32
+address:      1069-219 Lisboa
 address:      Portugal
 phone:        +351215002000
 fax-no:       +351800216200
@@ -36,6 +39,6 @@ ds-rdata:     3051 7 2 7BA5B1B2FAB793AB2AE5E6A8DD6AC5E6BA9F7F9625F412267FF88A37C
 status:       ACTIVE
 
 created:      2015-01-15
-changed:      2016-02-18
+changed:      2016-11-07
 source:       IANA
 
