@@ -29,7 +29,6 @@ e-mail:       tech@nic.bi
 
 nserver:      ANYNS.NIC.BI 2001:500:14:6061:ad:0:0:1 204.61.216.61
 nserver:      BI.CCTLD.AUTHDNS.RIPE.NET 193.0.9.62 2001:67c:e0:0:0:0:0:62
-nserver:      DNS.PRINCETON.EDU 128.112.129.15
 nserver:      NS-BI.AFRINIC.NET 196.216.168.23 2001:43f8:120:0:0:0:0:23
 nserver:      NS.NIC.BI 196.2.8.205
 nserver:      NS1.NIC.BI 196.2.12.205
@@ -40,6 +39,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.bi
 
 created:      1996-10-21
-changed:      2012-04-21
+changed:      2016-11-08
 source:       IANA
 
