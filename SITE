@@ -36,12 +36,12 @@ nserver:      D.NIC.SITE 108.59.161.5 2a02:e180:4:0:0:0:0:5
 ds-rdata:     51676 8 1 90DDBEEEB973B0F8719ED763FB6EEDE97C73ABF5
 ds-rdata:     51676 8 2 883175F6F5C68EA81563B62D1B2B79B6A997D60DC6E20CC70AFD0CD6B7E82F62
 
-whois:        whois.centralnic.com
+whois:        whois.nic.site
 
 status:       ACTIVE
 remarks:      Registration information: http://www.radixregistry.com
 
 created:      2015-03-06
-changed:      2015-07-20
+changed:      2016-11-09
 source:       IANA
 
