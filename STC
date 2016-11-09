@@ -37,12 +37,12 @@ nserver:      D.NIC.STC 212.18.249.29 2a04:2b00:13ff:0:0:0:0:29
 ds-rdata:     42226 8 1 8956D12E91DC98337231BA5B16F75AD766051947
 ds-rdata:     42226 8 2 79A9D1A91D2DD8F3BCA16221E6FF11E7E5E852E63D0C3756F6E73F94296B12AB
 
-whois:        whois.centralnic.com
+whois:        whois.nic.stc
 
 status:       ACTIVE
 remarks:      Registration information: http://www.stc.com.sa
 
 created:      2015-08-20
-changed:      2015-10-21
+changed:      2016-11-09
 source:       IANA
 
