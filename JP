@@ -39,8 +39,8 @@ nserver:      D.DNS.JP 2001:240:0:0:0:0:0:53 210.138.175.244
 nserver:      E.DNS.JP 192.50.43.53 2001:200:c000:0:0:0:0:35
 nserver:      F.DNS.JP 150.100.6.8 2001:2f8:0:100:0:0:0:153
 nserver:      G.DNS.JP 203.119.40.1
-ds-rdata:     53899 8 2 C02BA0E5A47E49181EE132BB0612D950766AD9C62FD29BDEEAFBC463B9D37FDE
-ds-rdata:     53899 8 1 00DED0BB8203CFB6ABB054318EC95C4F13F4B5B0
+ds-rdata:     59950 8 2 D5648CC08AD7547D425ACFB8707E12D8DD5C0A61806CB006B8EE66AE131609A7
+ds-rdata:     59950 8 1 1468AE2382FFFCECF76585B5A397CB78D6715E4D
 
 whois:        whois.jprs.jp
 
@@ -48,6 +48,6 @@ status:       ACTIVE
 remarks:      Registration information: https://jprs.jp/
 
 created:      1986-08-05
-changed:      2016-05-26
+changed:      2016-11-10
 source:       IANA
 
