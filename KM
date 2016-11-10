@@ -5,29 +5,29 @@
 domain:       KM
 
 organisation: Comores Telecom
-address:      BP 7000 Place de France
+address:      Place Volovolo BP 7000
 address:      Moroni 98123
 address:      Comoros
 
 contact:      administrative
-name:         Abiamri Mahamoud
+name:         Oumara Mgomri
 organisation: Comores Telecom
-address:      BP 7000 Place de France
+address:      Place Volovolo BP 7000
 address:      Moroni 98123
 address:      Comoros
-phone:        +269 7634300
-fax-no:       +269 7731079
-e-mail:       abiamri.mahamoud@comorestelecom.km
+phone:        +2697734300
+fax-no:       +2697738912
+e-mail:       oumara.mgomri@comorestelecom.km
 
 contact:      technical
-name:         ALI Hadji Mmadi
+name:         Maoulida Mmadi Issihaka
 organisation: Comores Telecom
-address:      BP 7000 Place de France
+address:      Place Volovolo BP 7000
 address:      Moroni 98123
 address:      Comoros
-phone:        +269323001
-fax-no:       +269731079
-e-mail:       alihadji@comorestelecom.km
+phone:        +2693367900
+fax-no:       +2697738912
+e-mail:       maoulida.mmadi@comorestelecom.km
 
 nserver:      DNS1.NIC.KM 197.255.224.18
 nserver:      DNS2.NIC.KM 197.255.224.66
@@ -37,6 +37,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.domaine.km/
 
 created:      1998-06-08
-changed:      2013-01-10
+changed:      2016-11-09
 source:       IANA
 
