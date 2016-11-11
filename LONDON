@@ -17,26 +17,37 @@ phone:        +44 (0)20 7234 5800
 e-mail:       contact@dotlondondomains.london
 
 contact:      technical
-name:         Director of Software Development
-organisation: Minds + Machines Ltd
-address:      32 Nassau St, Dublin 2
-address:      Ireland
-phone:        +353.16778933
-e-mail:       support@mm-registry.com
+name:         TLD Registry Services Technical
+organisation: Nominet
+address:      Minerva House,
+address:      Edmund Halley Road,
+address:      Oxford Science Park,
+address:      Oxford,
+address:      OX4 4DQ
+address:      United Kingdom
+phone:        +44.1865332211
+e-mail:       registrytechnical@nominet.uk
 
 nserver:      A.NS.NIC.LONDON 2620:0171:0a02:00ad:0:0:0:11 72.0.50.11
 nserver:      B.NS.NIC.LONDON 2620:0171:0d02:00dc:0:0:0:11 72.42.114.11
 nserver:      C.NS.NIC.LONDON 2620:0171:0c00:000c:0:0:0:11 70.40.0.11
 nserver:      D.NS.NIC.LONDON 2620:0171:0f00:000d:0:0:0:11 70.40.8.11
+nserver:      DNS1.NIC.LONDON 213.248.217.28 2a01:618:401:0:0:0:0:28
+nserver:      DNS2.NIC.LONDON 103.49.81.28 2401:fd80:401:0:0:0:0:28
+nserver:      DNS3.NIC.LONDON 213.248.221.28 2a01:618:405:0:0:0:0:28
+nserver:      DNS4.NIC.LONDON 2401:fd80:405:0:0:0:0:28 43.230.49.28
+nserver:      DNSA.NIC.LONDON 156.154.100.3 2001:502:ad09:0:0:0:0:3
+nserver:      DNSB.NIC.LONDON 156.154.101.3
 ds-rdata:     27077 8 2 2756E9F7A79F2C26BA652C0C9BE19056AB89A0C7CFE90468713FDE7182DD393B
+ds-rdata:     11861 8 2 5083FACFD25EDC276C25D2D3DA986F370C82BF31A01821ABF462C35800548F77
 
-whois:        whois-lon.mm-registry.com
+whois:        whois.nic.london
 
 status:       ACTIVE
 remarks:      Registration information:
 remarks:      http://www.dotlondondomains.london/
 
 created:      2014-02-13
-changed:      2016-04-16
+changed:      2016-11-11
 source:       IANA
 
