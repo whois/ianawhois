@@ -28,16 +28,14 @@ address:      United Kingdom
 phone:        +44.1865332211
 e-mail:       registrytechnical@nominet.uk
 
-nserver:      A.NS.NIC.WORK 2620:0171:0a02:00ad:0:0:0:24 72.0.50.24
-nserver:      B.NS.NIC.WORK 2620:0171:0d02:00dc:0:0:0:24 72.42.114.24
-nserver:      C.NS.NIC.WORK 2620:0171:0c00:000c:0:0:0:24 70.40.0.24
-nserver:      D.NS.NIC.WORK 2620:0171:0f00:000d:0:0:0:24 70.40.8.24
 nserver:      DNS1.NIC.WORK 213.248.217.35 2a01:618:401:0:0:0:0:35
 nserver:      DNS2.NIC.WORK 103.49.81.35 2401:fd80:401:0:0:0:0:35
 nserver:      DNS3.NIC.WORK 213.248.221.35 2a01:618:405:0:0:0:0:35
 nserver:      DNS4.NIC.WORK 2401:fd80:405:0:0:0:0:35 43.230.49.35
 nserver:      DNSA.NIC.WORK 156.154.100.3 2001:502:ad09:0:0:0:0:3
 nserver:      DNSB.NIC.WORK 156.154.101.3
+nserver:      DNSC.NIC.WORK 156.154.102.3
+nserver:      DNSD.NIC.WORK 156.154.103.3
 ds-rdata:     54910 8 2 346CB1BEB6A89DA1F9839818CA81BE05A9C791FA9DF948A20EC3C452758EAB49
 ds-rdata:     7331 8 2 F6EBBE59BD6CF2D7D8F6AD1A31F38E84BE3C4613432E59703C4D90BC8D47E1C1
 
@@ -47,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://mm-registry.com/
 
 created:      2014-08-18
-changed:      2016-10-28
+changed:      2016-11-11
 source:       IANA
 
