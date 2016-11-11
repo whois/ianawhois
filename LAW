@@ -17,26 +17,36 @@ phone:        +353.14301689
 e-mail:       support@mm-registry.com
 
 contact:      technical
-name:         Technical Contact
-organisation: Minds + Machines Ltd
-address:      32 Nassau St, Dublin 2
-address:      Ireland
-phone:        +353.14301689
-e-mail:       support@mm-registry.com
+name:         TLD Registry Services Technical
+organisation: Nominet
+address:      Minerva House,
+address:      Edmund Halley Road,
+address:      Oxford Science Park,
+address:      Oxford,
+address:      OX4 4DQ
+address:      United Kingdom
+phone:        +44.1865332211
+e-mail:       registrytechnical@nominet.uk
 
 nserver:      A.NS.NIC.LAW 2620:171:a02:ad:0:0:0:29 72.0.50.29
 nserver:      B.NS.NIC.LAW 2620:171:d02:dc:0:0:0:29 72.42.114.29
 nserver:      C.NS.NIC.LAW 2620:0171:0c00:000c:0:0:0:29 70.40.0.29
 nserver:      D.NS.NIC.LAW 2620:0171:0f00:000d:0:0:0:29 70.40.8.29
-ds-rdata:     57100 8 2 8C41849EDE923127FC8A64386AB080059ABBC431DC2E295E8415F4F2A07A52C4
+nserver:      DNS1.NIC.LAW 213.248.217.26 2a01:618:401:0:0:0:0:26
+nserver:      DNS2.NIC.LAW 103.49.81.26 2401:fd80:401:0:0:0:0:26
+nserver:      DNS3.NIC.LAW 213.248.221.26 2a01:618:405:0:0:0:0:26
+nserver:      DNS4.NIC.LAW 2401:fd80:405:0:0:0:0:26 43.230.49.26
+nserver:      DNSA.NIC.LAW 156.154.100.3 2001:502:ad09:0:0:0:0:3
+nserver:      DNSB.NIC.LAW 156.154.101.3
 ds-rdata:     30985 8 2 43AC1029812A5B3484386A6F5CC0329A6AAD55FAD583B2EB9C03FE5D344EA5DB
+ds-rdata:     59981 8 2 59A00484D23B01CF601679A4010858BD1111416D534090708DD0EBC67B194A8A
 
-whois:        whois-dub.mm-registry.com
+whois:        whois.nic.law
 
 status:       ACTIVE
 remarks:      Registration information: http://mm-registry.com
 
 created:      2015-06-18
-changed:      2016-08-08
+changed:      2016-11-10
 source:       IANA
 
