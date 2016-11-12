@@ -1,0 +1,44 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       BOX
+
+organisation: NS1 Limited
+address:      12/F, Daily House, 35-37 Haiphong Road, Tsim Sha Tsui, Kowloon
+address:      Hong Kong
+
+contact:      administrative
+name:         Rebecca Chan
+organisation: Namesphere
+address:      12/F, Daily House, 35-37 Haiphong Road, Tsim Sha Tsui, Kowloon
+address:      Hong Kong
+phone:        +852.22447922
+fax-no:       +852.22447902
+e-mail:       rebecca@namesphere.asia
+
+contact:      technical
+name:         Edmon Chung
+organisation: Namesphere
+address:      12/F, Daily House, 35-37 Haiphong Road, Tsim Sha Tsui, Kowloon
+address:      Hong Kong
+phone:        +852.22447900
+fax-no:       +852.22447902
+e-mail:       edmon@namesphere.asia
+
+nserver:      A.NIC.BOX 2001:dcd:1:0:0:0:0:10 37.209.192.10
+nserver:      B.NIC.BOX 2001:dcd:2:0:0:0:0:10 37.209.194.10
+nserver:      C.NIC.BOX 2001:dcd:3:0:0:0:0:10 37.209.196.10
+nserver:      D.NIC.BOX 2001:dcd:4:0:0:0:0:10 37.209.198.10
+ds-rdata:     32737 8 1 A637BE5E3CC2E079DFF2BD5BEFF84DB3CFB2E801
+ds-rdata:     32737 8 2 2ABFC49F5DCD5655E7B32C6DCE32C11C8043AF5D31CD3C580B311D69BFB161B9
+
+whois:        whois.aridnrs.net.au
+
+status:       ACTIVE
+remarks:      Registration information: http://www.namesphere.asia
+
+created:      2016-10-27
+changed:      2016-11-11
+source:       IANA
+
