@@ -1,0 +1,43 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       MOTO
+
+organisation: Motorola Trademark Holdings, LLC
+address:      222 West Merchandise Mart Plaza, Suite #1800, Chicago, IL 60654
+address:      United States
+
+contact:      administrative
+name:         Brian Winterfeldt
+organisation: Mayer Brown LLP
+address:      1999 K Street NW, Washington, DC 20006
+address:      United States
+phone:        +1 202 263 3284
+fax-no:       +1 202 830 0330
+e-mail:       moto-bjw@mayerbrown.com
+
+contact:      technical
+name:         Sean Kaine
+organisation: Neustar, Inc.
+address:      46000 Center Oak Plaza, Sterling VA 20166
+address:      United States
+phone:        +1 571-434-5168
+e-mail:       registrytechnical1@neustar.biz
+
+nserver:      NS1.DNS.NIC.MOTO 156.154.169.81 2610:a1:1071:0:0:0:1:51
+nserver:      NS2.DNS.NIC.MOTO 156.154.170.81 2610:a1:1072:0:0:0:1:51
+nserver:      NS3.DNS.NIC.MOTO 156.154.171.81 2610:a1:1073:0:0:0:1:51
+nserver:      NS4.DNS.NIC.MOTO 156.154.172.81 2610:a1:1074:0:0:0:1:51
+nserver:      NS5.DNS.NIC.MOTO 156.154.173.81 2610:a1:1075:0:0:0:1:51
+nserver:      NS6.DNS.NIC.MOTO 156.154.174.81 2610:a1:1076:0:0:0:1:51
+ds-rdata:     54974 8 1 44D12F1E86E96AC6F2AEDCDFFC0E400249D0E901
+ds-rdata:     54974 8 2 D210F8B4D433A07FC7CF72BB2B616D88DF64FF90D743BD2863C2AF2283111F50
+
+status:       ACTIVE
+remarks:      Registration information: http://www.motorola.com
+
+created:      2016-09-30
+changed:      2016-11-12
+source:       IANA
+
