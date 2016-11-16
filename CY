@@ -10,14 +10,14 @@ address:      Nicosia  1678
 address:      Cyprus
 
 contact:      administrative
-name:         Agathoclis Stylianou
+name:         Christos Charalambous
 organisation: University of Cyprus
 address:      75 Kallipoleos Street
 address:      Nicosia  1678
 address:      Cyprus
-phone:        +357 22 892131
-fax-no:       +357 22 756082
-e-mail:       stylianou.agathoclis@ucy.ac.cy
+phone:        +357 2289 4445
+fax-no:       +357 2289 5520
+e-mail:       christos@ucy.ac.cy
 
 contact:      technical
 name:         Panayiotou Fotia
@@ -42,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.cy
 
 created:      1994-07-26
-changed:      2016-11-11
+changed:      2016-11-15
 source:       IANA
 
