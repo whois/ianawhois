@@ -5,17 +5,15 @@
 domain:       SX
 
 organisation: SX Registry SA B.V.
-address:      Cruise Terminal Building
-address:      Suite 1
-address:      Pointe Blanche
+address:      Skyline Drive #2
+address:      Indigo Bay
 address:      Sint Maarten (dutch Part)
 
 contact:      administrative
-name:         Rudia Mezas
+name:         CEO
 organisation: SX Registry SA B.V.
-address:      Cruise Terminal Building
-address:      Suite 1
-address:      Pointe Blanche
+address:      Skyline Drive #2
+address:      Indigo Bay
 address:      Sint Maarten (dutch Part)
 phone:        +1.5149071207
 fax-no:       +1.8776115877
@@ -43,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://registry.sx
 
 created:      2010-12-20
-changed:      2013-07-02
+changed:      2016-11-15
 source:       IANA
 
