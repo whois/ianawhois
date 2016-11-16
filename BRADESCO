@@ -28,16 +28,14 @@ address:      United Kingdom
 phone:        +44.1865332211
 e-mail:       registrytechnical@nominet.uk
 
-nserver:      A.NS.NIC.BRADESCO 2620:0171:0a02:00ad:0:0:0:16 72.0.50.16
-nserver:      B.NS.NIC.BRADESCO 2620:0171:0d02:00dc:0:0:0:16 72.42.114.16
-nserver:      C.NS.NIC.BRADESCO 2620:0171:0c00:000c:0:0:0:16 70.40.0.16
-nserver:      D.NS.NIC.BRADESCO 2620:0171:0f00:000d:0:0:0:16 70.40.8.16
 nserver:      DNS1.NIC.BRADESCO 213.248.217.37 2a01:618:401:0:0:0:0:37
 nserver:      DNS2.NIC.BRADESCO 103.49.81.37 2401:fd80:401:0:0:0:0:37
 nserver:      DNS3.NIC.BRADESCO 213.248.221.37 2a01:618:405:0:0:0:0:37
 nserver:      DNS4.NIC.BRADESCO 2401:fd80:405:0:0:0:0:37 43.230.49.37
 nserver:      DNSA.NIC.BRADESCO 156.154.100.3 2001:502:ad09:0:0:0:0:3
 nserver:      DNSB.NIC.BRADESCO 156.154.101.3
+nserver:      DNSC.NIC.BRADESCO 156.154.102.3
+nserver:      DNSD.NIC.BRADESCO 156.154.103.3
 ds-rdata:     7657 8 2 BC2C8FF25D9B0F83784709036CF90BD494C1B5481FA1CFEF62642714327AD616
 ds-rdata:     44254 8 2 49F78D30A829D5D40A7671F9831DF0F056FC7F4E8E39906C905AFB8EB1B54100
 
@@ -47,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://mm-registry.com
 
 created:      2015-05-29
-changed:      2016-11-11
+changed:      2016-11-16
 source:       IANA
 
