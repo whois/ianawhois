@@ -10,17 +10,17 @@ address:      Vaduz  LI-9490
 address:      Liechtenstein
 
 contact:      administrative
-name:         Markus Graf
-organisation: Universitaet Liechtenstein
-address:      Fuerst-Franz-Josef-Strasse
-address:      Vaduz  LI-9490
-address:      Liechtenstein
-phone:        +423 265 1212
-fax-no:       +423 265 1201
-e-mail:       markus.graf@uni.li
+name:         Key Account Manager
+organisation: SWITCH The Swiss Education & Research Network
+address:      Werdstrasse 2
+address:      Zurich  CH-8021
+address:      Switzerland
+phone:        +41 44 268 15 40
+fax-no:       +41 44 268 15 78
+e-mail:       tld-admin@switch.ch
 
 contact:      technical
-name:         SWITCH Network Operation Center TLD Manager
+name:         Security Engineer
 organisation: SWITCH The Swiss Education & Research Network
 address:      Werdstrasse 2
 address:      Zurich  CH-8004
@@ -44,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.li
 
 created:      1993-02-26
-changed:      2016-11-02
+changed:      2016-11-22
 source:       IANA
 
