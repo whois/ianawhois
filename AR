@@ -37,6 +37,8 @@ nserver:      D.DNS.AR 200.16.99.17
 nserver:      NS2.SWITCH.CH 130.59.31.29 2001:620:0:ff:0:0:0:2f
 ds-rdata:     19606 8 2 4415CF1A2CF10DE94B92BC020F21D1BF4163B2E90F2A6F6A5D2A1740339D566C
 
+whois:        whois.nic.ar
+
 status:       ACTIVE
 remarks:      Registration information: https://nic.ar
 
