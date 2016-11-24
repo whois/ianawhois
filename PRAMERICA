@@ -1,0 +1,46 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       PRAMERICA
+
+organisation: Prudential Financial, Inc.
+address:      751 Broad Street, Newark, NJ 07102
+address:      United States
+
+contact:      administrative
+name:         Hemant Narang
+organisation: Prudential Insurance Company of America
+address:      227 Washington Street, Newark, NJ 07102
+address:      United States
+phone:        +1 973 367 9867
+fax-no:       +1 973 802 3600
+e-mail:       hemant.narang@prudential.com
+
+contact:      technical
+name:         Sean Kaine
+organisation: Neustar, Inc.
+address:      46000 Center Oak Plaza, Sterling VA 20166
+address:      United States
+phone:        +1 571 434 5168
+fax-no:       +1 571 434 5401
+e-mail:       registrytechnical1@neustar.biz
+
+nserver:      NS1.DNS.NIC.PRAMERICA 156.154.144.138 2610:a1:1071:0:0:0:0:8a
+nserver:      NS2.DNS.NIC.PRAMERICA 156.154.145.138 2610:a1:1072:0:0:0:0:8a
+nserver:      NS3.DNS.NIC.PRAMERICA 156.154.159.138 2610:a1:1073:0:0:0:0:8a
+nserver:      NS4.DNS.NIC.PRAMERICA 156.154.156.138 2610:a1:1074:0:0:0:0:8a
+nserver:      NS5.DNS.NIC.PRAMERICA 156.154.157.138 2610:a1:1075:0:0:0:0:8a
+nserver:      NS6.DNS.NIC.PRAMERICA 156.154.158.138 2610:a1:1076:0:0:0:0:8a
+ds-rdata:     26347 8 1 998E7A0E462CF3FA2BB20608ED830488D2234D5E
+ds-rdata:     26347 8 2 A6751642B19B5E8DBFF8A17E4E5D8DAD3DF4503D9883342BAFDCEA66ABE6F570
+ds-rdata:     52417 8 2 2A03ABBCCC552531A805AC8AA9153E0E38708D012F1372D7B3877ED2C846FB0C
+ds-rdata:     52417 8 1 67BDDFEA9DB16CB2796E7BAB87C194E8007CCE77
+
+status:       ACTIVE
+remarks:      Registration information: https://www.prudential.com
+
+created:      2016-07-14
+changed:      2016-11-19
+source:       IANA
+
