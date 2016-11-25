@@ -1,0 +1,46 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       RMIT
+
+organisation: Royal Melbourne Institute of Technology
+address:      124 La Trobe Street
+address:      Melbourne, VIC, 3000
+address:      Australia
+
+contact:      administrative
+name:         Senior Analyst User Experience
+organisation: Royal Melbourne Institute of Technology
+address:      124 La Trobe Street
+address:      Melbourne, VIC, 3000
+address:      Australia
+phone:        +61 3 9925 8694
+fax-no:       +61 3 9925 3185
+e-mail:       ngtld-rmit@cscinfo.com
+
+contact:      technical
+name:         Dennis Rhee
+organisation: CSC Digital Brand Services
+address:      2711 Centerville Rd. suite 400
+address:      United States
+phone:        (302) 636-5400
+fax-no:       (302) 636-5454
+e-mail:       ngtlds-tech@cscinfo.com
+
+nserver:      A.NIC.RMIT 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.RMIT 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.RMIT 2001:dcd:3:0:0:0:0:9 37.209.196.9
+nserver:      D.NIC.RMIT 2001:dcd:4:0:0:0:0:9 37.209.198.9
+ds-rdata:     44956 8 1 D28C8343951659E1FF97698415A1D7DA331EEB3F
+ds-rdata:     44956 8 2 E3127207AE2F84F1478333A371823E46D8ABD5AC21CA5AEA896E3C33859AD067
+
+whois:        whois.aridnrs.net.au
+
+status:       ACTIVE
+remarks:      Registration information: http://www.rmit.edu.au/
+
+created:      2015-12-23
+changed:      2016-11-24
+source:       IANA
+
