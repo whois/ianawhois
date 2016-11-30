@@ -1,0 +1,54 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       BOSTON
+
+organisation: Boston TLD Management, LLC
+address:      3201 Wilshire Blvd
+address:      Suite 102
+address:      Santa Monica
+address:      CA 90403
+address:      United States
+
+contact:      administrative
+name:         TLD Registry Services Management
+organisation: Nominet
+address:      Minerva House
+address:      Edmund Halley Road
+address:      Oxford Science Park
+address:      Oxford OX4 4DQ
+address:      United Kingdom
+phone:        +44.1865332211
+e-mail:       registrymanagement@nominet.uk
+
+contact:      technical
+name:         TLD Registry Services Technical
+organisation: Nominet
+address:      Minerva House
+address:      Edmund Halley Road
+address:      Oxford Science Park
+address:      Oxford OX4 4DQ
+address:      United Kingdom
+phone:        +44.1865332211
+e-mail:       registrytechnical@nominet.uk
+
+nserver:      DNS1.NIC.BOSTON 213.248.217.16 2a01:618:401:0:0:0:0:16
+nserver:      DNS2.NIC.BOSTON 103.49.81.16 2401:fd80:401:0:0:0:0:16
+nserver:      DNS3.NIC.BOSTON 213.248.221.16 2a01:618:405:0:0:0:0:16
+nserver:      DNS4.NIC.BOSTON 2401:fd80:405:0:0:0:0:16 43.230.49.16
+nserver:      DNSA.NIC.BOSTON 156.154.100.3 2001:502:ad09:0:0:0:0:3
+nserver:      DNSB.NIC.BOSTON 156.154.101.3
+nserver:      DNSC.NIC.BOSTON 156.154.102.3
+nserver:      DNSD.NIC.BOSTON 156.154.103.3
+ds-rdata:     27680 8 2 C78971D9731512D23053441E6EE438571199DCCE831332D155B12530F92E2E8F
+
+whois:        whois.nic.boston
+
+status:       ACTIVE
+remarks:      Registration information: http://mm-registry.com/
+
+created:      2016-11-21
+changed:      2016-11-29
+source:       IANA
+
