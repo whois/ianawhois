@@ -5,9 +5,39 @@
 domain:       CATHOLIC
 
 organisation: Pontificium Consilium de Comunicationibus Socialibus (PCCS) (Pontifical Council for Social Communication)
+address:      Via della Conciliazione 5 Città del Vaticano 00120
+address:      Holy See (vatican City State)
 
-status:       NEW
+contact:      administrative
+name:         Administrative Contact
+organisation: Secretaria pro Communicatione
+address:      Piazza Pia 3 Città del Vaticano 00120
+address:      Holy See (vatican City State)
+phone:        00390669884002
+fax-no:       00390669885173
+e-mail:       administrative.catholictld@spc.va
+
+contact:      technical
+name:         Technical Contact
+address:      Piazza Pia 3 Città del Vaticano 00120
+address:      Holy See (vatican City State)
+phone:        00390669884002
+fax-no:       00390669885173
+e-mail:       technical.catholictld@spc.va
+
+nserver:      A.NIC.CATHOLIC 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.CATHOLIC 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.CATHOLIC 2001:dcd:3:0:0:0:0:9 37.209.196.9
+nserver:      D.NIC.CATHOLIC 2001:dcd:4:0:0:0:0:9 37.209.198.9
+ds-rdata:     36094 8 1 BA3D19AB47D2F0A9534AAFFAB0D1555F03A5DA2D
+ds-rdata:     36094 8 2 E591A673A3B2F896407F120D4EE5AFCF41D7B3D366B8C879138E85126F4C34CE
+
+whois:        whois.aridnrs.net.au
+
+status:       ACTIVE
+remarks:      Registration information: http://www.pccs.va
 
 created:      2016-11-16
+changed:      2016-12-01
 source:       IANA
 
