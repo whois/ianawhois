@@ -34,6 +34,8 @@ nserver:      NS5.DNS.NIC.CRICKET 156.154.157.220 2610:a1:1075:0:0:0:0:dc
 nserver:      NS6.DNS.NIC.CRICKET 156.154.158.220 2610:a1:1076:0:0:0:0:dc
 ds-rdata:     5282 8 1 451AD031FA7D68F4DA50293F02E6E63CE1AA6E6A
 ds-rdata:     5282 8 2 6CE9A87C578956C905BB79BD401CAC0313D0972DC41BF423EF0789E9F70C986F
+ds-rdata:     23734 8 1 5A9865D19CEA873191F545407B3904BAE3771D6A
+ds-rdata:     23734 8 2 76DFD09C478F7A0FB3326B6B21EA9CACFD2690D61FAAC2C44537A4C11D2F227F
 
 whois:        whois.nic.cricket
 
@@ -42,6 +44,6 @@ remarks:      Registration information:
 remarks:      http://www.famousfourmedia.com/cricket
 
 created:      2014-11-13
-changed:      2015-07-02
+changed:      2016-12-06
 source:       IANA
 
