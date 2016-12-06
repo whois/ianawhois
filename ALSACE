@@ -35,6 +35,7 @@ nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
 nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
 ds-rdata:     63935 8 2 02c2d3b7722b5a243e596c075bc90c8205008419bcd1f2843d307b0a5f63646b
 ds-rdata:     53312 8 2 536d295caf7751056e425f14cfec2c239824af4dbd1bc947211dc1d9920c1133
+ds-rdata:     61664 8 2 CEDC08929A1743A2A23B08FF2770544EB7A4064704303DB29678CC5D5617D6B8
 
 whois:        whois-alsace.nic.fr
 
@@ -42,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.alsace.com
 
 created:      2014-09-18
-changed:      2014-10-06
+changed:      2016-12-06
 source:       IANA
 
