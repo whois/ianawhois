@@ -31,16 +31,16 @@ e-mail:       nhthang@vnnic.net.vn
 
 nserver:      A.DNS-SERVERS.VN 194.0.1.18 2001:678:4:0:0:0:0:12
 nserver:      B.DNS-SERVERS.VN 2001:dc8:1:2:0:0:0:105 203.119.73.105
-nserver:      C.DNS-SERVERS.VN 203.119.38.105
+nserver:      C.DNS-SERVERS.VN 2001:dc8:c000:7:0:0:0:105 203.119.38.105
 nserver:      D.DNS-SERVERS.VN 203.119.44.105
 nserver:      E.DNS-SERVERS.VN 203.119.60.105
-nserver:      F.DNS-SERVERS.VN 203.119.68.105
+nserver:      F.DNS-SERVERS.VN 2001:dc8:d000:2:0:0:0:105 203.119.68.105
 nserver:      VN.CCTLD.AUTHDNS.RIPE.NET 193.0.9.126 2001:67c:e0:0:0:0:0:126
 
 status:       ACTIVE
 remarks:      Registration information: http://www.vnnic.net.vn
 
 created:      1994-04-14
-changed:      2016-08-02
+changed:      2016-12-06
 source:       IANA
 
