@@ -34,6 +34,8 @@ nserver:      NS5.DNS.NIC.PARTY 156.154.173.24 2610:a1:1075:0:0:0:1:18
 nserver:      NS6.DNS.NIC.PARTY 156.154.174.24 2610:a1:1076:0:0:0:1:18
 ds-rdata:     34145 8 1 0A01038CAB8FBDEF13F0D7CCEE6CB9402FF9B1E0
 ds-rdata:     34145 8 2 D591D326CCC6CE63710FB2803B40F60108DA589A434601E592906D98069529C2
+ds-rdata:     41374 8 2 7E3888381D736EDF9AEF9BA403F7336A7D1993C1EDDB2B2EA476C818C71A9A80
+ds-rdata:     41374 8 1 C394FB164F35F203D16BDFB07F27D3713B4A4465
 
 whois:        whois.nic.party
 
@@ -42,6 +44,6 @@ remarks:      Registration information:
 remarks:      http://www.famousfourmedia.com/party
 
 created:      2014-10-23
-changed:      2015-07-02
+changed:      2016-12-07
 source:       IANA
 
