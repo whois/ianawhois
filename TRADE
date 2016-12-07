@@ -35,6 +35,8 @@ nserver:      NS5.DNS.NIC.TRADE 156.154.157.165 2610:a1:1075:0:0:0:0:a5
 nserver:      NS6.DNS.NIC.TRADE 156.154.158.165 2610:a1:1076:0:0:0:0:a5
 ds-rdata:     8536 8 1 32A35A60DB7B829CB28D11DA9C2337D29518392C
 ds-rdata:     8536 8 2 B0CB84566089CEF9BC8654B2B4966724E83473AAF8C2621F489EBD06E7AFA6E1
+ds-rdata:     20971 8 1 BBA58C493FDF9215423C5B99317C43F93E16CA60
+ds-rdata:     20971 8 2 E2EFE7ACD760222A61BF44C636A4B7BBF15596E63CCF59A59DDA969C3FF3EAB5
 
 whois:        whois.nic.trade
 
@@ -43,6 +45,6 @@ remarks:      Registration information:
 remarks:      http://www.famousfourmedia.com/trade
 
 created:      2014-03-06
-changed:      2015-07-02
+changed:      2016-12-06
 source:       IANA
 
