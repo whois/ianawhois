@@ -35,6 +35,8 @@ nserver:      NS5.DNS.NIC.WEBCAM 156.154.173.60 2610:a1:1075:0:0:0:1:3c
 nserver:      NS6.DNS.NIC.WEBCAM 156.154.174.60 2610:a1:1076:0:0:0:1:3c
 ds-rdata:     57952 8 1 5668F73A1C2480F6111FD821CAFC5A737E8D580C
 ds-rdata:     57952 8 2 E61F53AF35E6C31B45CC2AEB6F9DCE6B265F91E8CF2B0FE1BE3762F2A57D45EC
+ds-rdata:     55027 8 2 5E9BDD4A35364404EA48C7CBB306D672ED58392421600B81FBCADF53D9F6321D
+ds-rdata:     55027 8 1 357CD0FA23A20D8071BDEB216E1E62BE817B881B
 
 whois:        whois.nic.webcam
 
@@ -43,6 +45,6 @@ remarks:      Registration information:
 remarks:      http://www.famousfourmedia.com/webcam
 
 created:      2014-03-06
-changed:      2015-07-02
+changed:      2016-12-06
 source:       IANA
 
