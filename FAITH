@@ -34,6 +34,8 @@ nserver:      NS5.DNS.NIC.FAITH 156.154.157.54 2610:a1:1075:0:0:0:0:36
 nserver:      NS6.DNS.NIC.FAITH 156.154.158.54 2610:a1:1076:0:0:0:0:36
 ds-rdata:     52700 8 1 8E7E62F3DB0136A2EB5D4443B178A4DBD830ED66
 ds-rdata:     52700 8 2 D5D3F0BAF5ADCBA0BB55EBA521EB1901D044620F5D752D7D0603E5A87CAD580A
+ds-rdata:     45007 8 1 4DEC0789B10D7F4F782FA9EB03155779511B7B60
+ds-rdata:     45007 8 2 4926B69BE085B64483A2E0C546D95076935FD1E2FEF4D47831548D06DF1FF046
 
 whois:        whois.nic.faith
 
@@ -42,6 +44,6 @@ remarks:      Registration information:
 remarks:      http://www.famousfourmedia.com/faith
 
 created:      2015-02-05
-changed:      2015-07-02
+changed:      2016-12-07
 source:       IANA
 
