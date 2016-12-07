@@ -36,7 +36,7 @@ nserver:      D.NIC.CH 200.160.0.5 2001:12ff:0:a20:0:0:0:5
 nserver:      E.NIC.CH 194.0.17.1 2001:678:3:0:0:0:0:1
 nserver:      F.NIC.CH 194.146.106.10 2001:67c:1010:2:0:0:0:53
 nserver:      H.NIC.CH 2a03:bd80:36:0:0:1:203:230 85.119.5.230
-ds-rdata:     30010 8 2 53EC0B45A417CBA93884BD1D2D22249274A6424BDD2CF9CAE55A0B09F73DEE54
+ds-rdata:     17062 8 2 B00FD1F2898F1F4A6CF5026656A336A183FF5902F9B9601608099796331BDF0B
 
 whois:        whois.nic.ch
 
@@ -44,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.ch/
 
 created:      1987-05-20
-changed:      2016-11-02
+changed:      2016-12-06
 source:       IANA
 
