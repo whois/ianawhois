@@ -34,6 +34,8 @@ nserver:      NS5.DNS.NIC.WIN 156.154.157.182 2610:a1:1075:0:0:0:0:b6
 nserver:      NS6.DNS.NIC.WIN 156.154.158.182 2610:a1:1076:0:0:0:0:b6
 ds-rdata:     41897 8 1 78A413B64D19AA89F6FBE8071D75EBF407F9051B
 ds-rdata:     41897 8 2 55CA18F99B24E4F1E873DA33B6199455E25C13875CA02B132B62E4F81A8D5A1C
+ds-rdata:     12580 8 1 5BFDDC4D34A5D94E29BA5C439842DEDCDB6EF453
+ds-rdata:     12580 8 2 4B05A5BD53FE40935BBFD59EEF4FB71B20C9F3D384265578CAC4185699F21708
 
 whois:        whois.nic.win
 
@@ -42,6 +44,6 @@ remarks:      Registration information:
 remarks:      http://www.famousfourmedia.com/win
 
 created:      2015-02-05
-changed:      2015-07-02
+changed:      2016-12-06
 source:       IANA
 
