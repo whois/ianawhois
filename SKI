@@ -28,10 +28,10 @@ phone:        +1 215 706 5700
 fax-no:       +1 215 706 5701
 e-mail:       tld-tech-poc@afilias.info
 
-nserver:      NS1A.KSREGISTRY.NET 2001:dd8:7:6075:dc:0:0:1 203.119.88.75
-nserver:      NS1B.KSREGISTRY.NET 2620:0171:0a00:00ad:0:0:0:75 72.0.48.75
-nserver:      NS2A.KSREGISTRY.COM 2001:dd8:7:6076:dc:0:0:1 203.119.88.76
-nserver:      NS2B.KSREGISTRY.COM 2620:0171:0a00:00ad:0:0:0:76 72.0.48.76
+nserver:      A0.NIC.SKI 2a01:8840:52:0:0:0:0:17 65.22.84.17
+nserver:      A2.NIC.SKI 2a01:8840:55:0:0:0:0:17 65.22.87.17
+nserver:      B0.NIC.SKI 2a01:8840:53:0:0:0:0:17 65.22.85.17
+nserver:      C0.NIC.SKI 2a01:8840:54:0:0:0:0:17 65.22.86.17
 ds-rdata:     27860 8 2 8a30c4da958dc8de537895692c4e9db1114e417453491a4d43e1ef7593e02a49
 ds-rdata:     62489 8 1 512d8b1cb41109fd9d142ca2e733d109f9c08cd3
 ds-rdata:     62489 8 2 d421064a672f86a83a4c7fe005ce8cd164fffdfab3e64415498c3413ba46fe10
@@ -42,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://startingdot.com/
 
 created:      2015-05-14
-changed:      2016-11-02
+changed:      2016-12-08
 source:       IANA
 
