@@ -34,6 +34,8 @@ nserver:      NS5.DNS.NIC.DATE 156.154.157.46 2610:a1:1075:0:0:0:0:2e
 nserver:      NS6.DNS.NIC.DATE 156.154.158.46 2610:a1:1076:0:0:0:0:2e
 ds-rdata:     31622 8 1 95B65078F79A70B56F57E0D9F6220C7FDFEC48EE
 ds-rdata:     31622 8 2 64EBF1EAC7C2A896EBC601027BD90417A1EF03AC3427C5CC09DAC821B2EFB687
+ds-rdata:     57811 8 2 6150A72D9039C7B609D2E4D9BBA712C593983BD41F2AF73ACE16020FE55009D8
+ds-rdata:     57811 8 1 962F5D2BD275971E2B05BFC8247531CEFC255CDB
 
 whois:        whois.nic.date
 
@@ -42,6 +44,6 @@ remarks:      Registration information:
 remarks:      http://www.famousfourmedia.com/date
 
 created:      2015-02-05
-changed:      2015-07-02
+changed:      2016-12-08
 source:       IANA
 
