@@ -10,14 +10,14 @@ address:      Woodland Hills CA 91367
 address:      United States
 
 contact:      administrative
-name:         Chief Operating Officer
+name:         Managing Director
 organisation: Dot Irish Global Connect Ltd.
 address:      Suite 221, Arena House, Sandyford Business Park,
 address:      Dublin 18
 address:      Ireland
 phone:        +353 1 213 0600
 fax-no:       +353 1 213 0515
-e-mail:       mervyn@dotirishllc.com
+e-mail:       sam@myname.irish
 
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
@@ -42,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.myname.irish
 
 created:      2014-11-06
-changed:      2015-12-23
+changed:      2016-12-09
 source:       IANA
 
