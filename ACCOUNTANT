@@ -34,6 +34,8 @@ nserver:      NS5.DNS.NIC.ACCOUNTANT 156.154.157.195 2610:a1:1075:0:0:0:0:c3
 nserver:      NS6.DNS.NIC.ACCOUNTANT 156.154.158.195 2610:a1:1076:0:0:0:0:c3
 ds-rdata:     33631 8 1 D9794E6E891EE62E553B1EC015D3563558BBFD69
 ds-rdata:     33631 8 2 82968A14D9F1F89863ABAA8FA27953DE4C3A4066B88F64EF38044EEB2D3D9105
+ds-rdata:     28099 8 1 C4CF4CC69F777DFB57501D5943337B01A8A5ECA2
+ds-rdata:     28099 8 2 FFBAC3E447FD25705104BB50F8652E7CCF6EECBFC956E1E65890C9B9DF92E888
 
 whois:        whois.nic.accountant
 
@@ -42,6 +44,6 @@ remarks:      Registration information:
 remarks:      http://www.famousfourmedia.com/accountant
 
 created:      2015-02-05
-changed:      2015-07-02
+changed:      2016-12-13
 source:       IANA
 
