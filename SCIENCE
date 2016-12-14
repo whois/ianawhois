@@ -34,6 +34,8 @@ nserver:      NS5.DNS.NIC.SCIENCE 156.154.173.41 2610:a1:1075:0:0:0:1:29
 nserver:      NS6.DNS.NIC.SCIENCE 156.154.174.41 2610:a1:1076:0:0:0:1:29
 ds-rdata:     59039 8 1 C98E986A5F18E457D87C10D1F1B339A3B8FD7D2F
 ds-rdata:     59039 8 2 4579AF39FB355F1880718E5574E054ADF7A42AA6816BD80CD1F5D224BC003B4F
+ds-rdata:     37147 8 2 B760F76BDA663A85B2120ADAC9E54AEB03F7751C42336006B28AD685579FF81B
+ds-rdata:     37147 8 1 AACB1DDB117A832F87D777E2B04818D6648E0C86
 
 whois:        whois.nic.science
 
@@ -42,6 +44,6 @@ remarks:      Registration information:
 remarks:      http://www.famousfourmedia.com/science
 
 created:      2014-10-23
-changed:      2015-07-02
+changed:      2016-12-14
 source:       IANA
 
