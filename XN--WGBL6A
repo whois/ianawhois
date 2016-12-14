@@ -37,7 +37,6 @@ nserver:      A.REGISTRY.QA 178.23.16.104
 nserver:      B.REGISTRY.QA 178.23.17.104
 nserver:      C.REGISTRY.QA 212.77.192.10
 nserver:      D.REGISTRY.QA 212.77.192.13
-nserver:      E.REGISTRY.QA 212.77.192.15
 nserver:      F.REGISTRY.QA 2001:dcd:1:0:0:0:0:6 37.209.192.6
 nserver:      G.REGISTRY.QA 2001:dcd:2:0:0:0:0:6 37.209.194.6
 nserver:      H.REGISTRY.QA 193.0.9.51 2001:67c:e0:0:0:0:0:51
@@ -49,6 +48,6 @@ status:       ACTIVE
 remarks:      Registration information: http://domains.qa
 
 created:      2010-12-24
-changed:      2016-05-16
+changed:      2016-12-14
 source:       IANA
 
