@@ -12,15 +12,13 @@ address:      CA 90403
 address:      United States
 
 contact:      administrative
-name:         TLD Registry Services Management
-organisation: Nominet
-address:      Minerva House
-address:      Edmund Halley Road
-address:      Oxford Science Park
-address:      Oxford OX4 4DQ
-address:      United Kingdom
-phone:        +44.1865332211
-e-mail:       registrymanagement@nominet.uk
+name:         Admin Contact
+organisation: Minds + Machines Ltd
+address:      32 Nassau St,
+address:      Dublin 2
+address:      Ireland
+phone:        +353.14301689
+e-mail:       support@mm-registry.com
 
 contact:      technical
 name:         TLD Registry Services Technical
@@ -49,6 +47,6 @@ status:       ACTIVE
 remarks:      Registration information: http://mm-registry.com/
 
 created:      2016-11-21
-changed:      2016-11-29
+changed:      2016-12-15
 source:       IANA
 
