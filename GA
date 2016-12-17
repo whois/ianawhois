@@ -17,7 +17,7 @@ address:      Cours Pasteur, (Immeuble de la Solde)
 address:      BP: 798
 address:      Libreville
 address:      Gabon
-phone:        +241 01 79 52 77
+phone:        +241 01 76 32 49
 e-mail:       cctldga-admin@nic.ga
 
 contact:      technical
@@ -27,7 +27,7 @@ address:      Cours Pasteur, (Immeuble de la Solde)
 address:      BP: 798
 address:      Libreville
 address:      Gabon
-phone:        +241 01 79 52 77
+phone:        +241 01 76 32 49
 e-mail:       cctldga-tech@nic.ga
 
 nserver:      A.NS.GA 185.21.168.49 2a04:1b00:c:0:0:0:0:1
@@ -38,6 +38,6 @@ nserver:      D.NS.GA 185.21.171.49 2a04:1b00:f:0:0:0:0:1
 status:       ACTIVE
 
 created:      1994-12-12
-changed:      2014-07-11
+changed:      2016-12-17
 source:       IANA
 
