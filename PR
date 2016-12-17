@@ -25,7 +25,7 @@ address:      Puerto Rico
 phone:        +1-787-281-0455
 e-mail:       tech@nic.pr
 
-nserver:      DESCARTES.NIC.PR 134.202.1.120
+nserver:      DESCARTES.NIC.PR 134.202.2.120
 nserver:      GOLOMB.NIC.PR 134.202.6.100 2001:500:10:0:0:0:6:100
 nserver:      PASCAL.NIC.PR 134.202.0.120 2001:500:10:0:0:0:0:120
 nserver:      PR-DNS.DENIC.DE 81.91.161.82
@@ -38,6 +38,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.pr
 
 created:      1989-08-27
-changed:      2015-09-15
+changed:      2016-12-17
 source:       IANA
 
