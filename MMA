@@ -34,7 +34,6 @@ e-mail:       pdtmma@afnic.fr
 nserver:      D.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
 nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
 nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
-ds-rdata:     1121 8 2 6e18c8aa1958e1bbde5c54fe74babceec7d9cce833d45b6a11ca58c8be78b9c4
 ds-rdata:     54041 8 2 0658e75221ece0ab0f8856e1d726ad5c898e911ef30e2f6e48c62217e391fef2
 ds-rdata:     55019 8 2 200F10B2987855E5D4EEF941A60C861BD567FFD362FBE7E17AFF242B9AD54CB1
 
@@ -44,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.mma.fr
 
 created:      2015-02-27
-changed:      2016-11-29
+changed:      2016-12-17
 source:       IANA
 
