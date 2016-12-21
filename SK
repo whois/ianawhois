@@ -11,13 +11,12 @@ address:      Slovakia
 
 contact:      administrative
 name:         GAC delegate
-organisation: Ministry of Finance of the Slovak Republic
-address:      Stefanovicova 5
-address:      Bratislava  81782
+organisation: Office of Deputy Prime Minister of the Slovak Republic for Investments and Informatization
+address:      Stefanikova 15
+address:      Bratislava  81105
 address:      Slovakia
-phone:        +421/2/595 82 426
-fax-no:       +421/2/595 82 498
-e-mail:       gac@mfsr.sk
+phone:        +421/2/209 28 160
+e-mail:       gac@vicepremier.gov.sk
 
 contact:      technical
 name:         Technical Director
@@ -40,6 +39,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.sk-nic.sk
 
 created:      1993-03-29
-changed:      2015-06-28
+changed:      2016-12-21
 source:       IANA
 
