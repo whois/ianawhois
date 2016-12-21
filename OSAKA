@@ -38,6 +38,8 @@ nserver:      NS5.DNS.NIC.OSAKA 156.154.157.130 2610:a1:1075:0:0:0:0:82
 nserver:      NS6.DNS.NIC.OSAKA 156.154.158.130 2610:a1:1076:0:0:0:0:82
 ds-rdata:     19351 8 1 48E07F8C6EA8496BD65F6A0A341003BCBC22F0FD
 ds-rdata:     19351 8 2 F71CE2DDEA3E7F938145F5DC16CC25119D1AE31E0A8094826AF5E55358B4116B
+ds-rdata:     41335 8 2 F856C6927CEFBC06A05A38A265B0AD56BEA33355E201B56060B06F0C964EE5EE
+ds-rdata:     41335 8 1 F6198B6A1CAC62D7EC4FCF707BBB88E4A160A229
 
 whois:        whois.nic.osaka
 
@@ -46,6 +48,6 @@ remarks:      Registration information:
 remarks:      http://www.interlink.or.jp/gtld/info.html
 
 created:      2014-12-04
-changed:      2014-12-15
+changed:      2016-12-21
 source:       IANA
 
