@@ -17,13 +17,15 @@ phone:        +6493070040
 e-mail:       info@hello.kiwi
 
 contact:      technical
-name:         Andy Wiens
-organisation: Minds + Machines Ltd
-address:      32 Nassau St, Minds + Machines Ltd., Dublin 2
+name:         Don Slaunwhite
+organisation: Canadian Internet Registration Authority (CIRA)
+address:      979 Bank Street, Suite 400
+address:      Ottawa, Ontario, K1S 5K5
 address:      ￼
-address:      Ireland
-phone:        +35316778933
-e-mail:       support@mm-registry.com
+address:      Canada
+phone:        +16132375335
+fax-no:       +16132370534
+e-mail:       support@fury.ca
 
 nserver:      A.NS.NIC.KIWI 2620:0171:0a02:00ad:0:0:0:4 72.0.50.4
 nserver:      B.NS.NIC.KIWI 2620:0171:0d02:00dc:0:0:0:4 72.42.114.4
@@ -39,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://hello.kiwi
 
 created:      2013-11-25
-changed:      2016-09-15
+changed:      2016-12-21
 source:       IANA
 
