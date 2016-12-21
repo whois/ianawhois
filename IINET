@@ -4,41 +4,34 @@
 
 domain:       IINET
 
-organisation: Connect West Pty. Ltd.
-address:      Level 1 502 Hay Street, Subiaco, WA 6008
-address:      Australia
+organisation: Retired
+address:      12025 Waterfront Dr., Suite 300
+address:      Los Angeles, CA 90094
+address:      United States
 
 contact:      administrative
-name:         Sebastien Ducos
-organisation: ARI Services
-address:      Level 8, 10 Queens Rd, Melbourne, 3004
-address:      Australia
-phone:        +61 449 623 491
-fax-no:       +61 449 623 491
-e-mail:       gtldsupport@ariservices.com
+name:         Internet Assigned Numbers Authority (IANA)
+organisation: Internet Corporation for Assigned Names and Numbers (ICANN)
+address:      12025 Waterfront Dr., Suite 300
+address:      Los Angeles, CA 90094
+address:      United States
+phone:        +1 310 301 5800
+fax-no:       +1 310 823 8649
+e-mail:       tld-contact@iana.org
 
 contact:      technical
-name:         Sebastien Ducos
-organisation: ARI Services
-address:      Level 8, 10 Queens Rd, Melbourne, 3004
-address:      Australia
-phone:        +61 449 623 491
-fax-no:       +61 449 623 491
-e-mail:       gtldsupport@ariservices.com
+name:         Internet Assigned Numbers Authority (IANA)
+organisation: Internet Corporation for Assigned Names and Numbers (ICANN)
+address:      12025 Waterfront Drive Suite 300
+address:      Los Angeles, CA 90094
+address:      United States
+phone:        +1 310 301 5800
+fax-no:       +1 310 823 8649
+e-mail:       tld-contact@iana.org
 
-nserver:      A.NIC.IINET 2001:dcd:1:0:0:0:0:9 37.209.192.9
-nserver:      B.NIC.IINET 2001:dcd:2:0:0:0:0:9 37.209.194.9
-nserver:      C.NIC.IINET 2001:dcd:3:0:0:0:0:9 37.209.196.9
-nserver:      D.NIC.IINET 2001:dcd:4:0:0:0:0:9 37.209.198.9
-ds-rdata:     54046 8 1 8D30BB045F94377312DCB9EED592FB9F289D3748
-ds-rdata:     54046 8 2 EB7A5CF70DD04A713C10AE406B0A7311ED0559BF592981E19F7A0D374AA59161
-
-whois:        whois.aridnrs.net.au
-
-status:       ACTIVE
-remarks:      Registration information: http://www.iinet.net.au/
+status:       INACTIVE
 
 created:      2014-08-18
-changed:      2015-07-09
+changed:      2016-12-21
 source:       IANA
 
