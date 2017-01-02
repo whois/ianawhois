@@ -11,26 +11,26 @@ address:      Montevideo
 address:      Uruguay
 
 contact:      administrative
-name:         Ida Holz
+name:         Director
 organisation: Servicio Central de Informatica (SECIU)
 address:      Colonia 2066
 address:      C.P. 11200
 address:      Montevideo
 address:      Uruguay
-phone:        +598 2 408 3901
-fax-no:       +598 2 401 5843
-e-mail:       holz@seciu.edu.uy
+phone:        +598 2408 3901
+fax-no:       +598 2401 5843
+e-mail:       admin-iana@seciu.edu.uy
 
 contact:      technical
-name:         Sergio Ramirez
+name:         Coordinador técnico de UYNIC
 organisation: Servicio Central de Informatica (SECIU)
 address:      Colonia 2066
 address:      C.P. 11200
 address:      Montevideo
 address:      Uruguay
-phone:        +598 2 408 3901
+phone:        +598 2408 3901
 fax-no:       +598 2 401 5843
-e-mail:       sramirez@seciu.edu.uy
+e-mail:       tech-iana@seciu.edu.uy
 
 nserver:      A.NIC.UY 164.73.128.5 2001:1328:6:0:0:0:0:5
 nserver:      B.NIC.UY 164.73.128.70
@@ -48,6 +48,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.org.uy/
 
 created:      1990-09-10
-changed:      2016-12-01
+changed:      2017-01-02
 source:       IANA
 
