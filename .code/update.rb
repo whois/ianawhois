@@ -48,6 +48,12 @@ active_tlds.each do |tld|
 
   sh "touch #{tld}"
   sh "whois -h whois.iana.org #{tld} > #{tld}"
+
+  # reset invalid updates
+  if File.size(tld) == 0
+    sh "git checkout #{tld}"
+  end
+
   status = sh "git status -s"
   unless status.empty?
     sh "git add #{tld}"
