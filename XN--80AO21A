@@ -31,7 +31,7 @@ fax-no:       +7 (7222) 60-47-40
 e-mail:       pg@nic.kz
 
 nserver:      KZ.CCTLD.AUTHDNS.RIPE.NET 193.0.9.87 2001:67c:e0:0:0:0:0:87
-nserver:      NS.NIC.KZ 194.0.21.5
+nserver:      NS.NIC.KZ 194.0.21.5 2001:678:98:1:0:0:0:5
 
 whois:        whois.nic.kz
 
