@@ -5,32 +5,34 @@
 domain:       QA
 
 organisation: Communications Regulatory Authority
-address:      Al Nasr Tower B., 19th Floor
+address:      Al Nasr Tower B.
 address:      Corniche Road
-address:      Doha  23264
+address:      Doha  23404
 address:      Qatar
 
 contact:      administrative
-name:         Saleh Al-Kuwari
+name:         Qatar Domains Registry Admin
 organisation: Communications Regulatory Authority
 address:      Al Nasr Tower B.
-address:      19th Floor
 address:      Corniche Road
-address:      Doha  23264
+address:      Doha 23404
 address:      Qatar
-phone:        +9744995344
-e-mail:       salkuwari@cra.gov.qa
+address:      Qatar
+phone:        +974 44995344
+fax-no:       +974 44830630
+e-mail:       admincctld@cra.gov.qa
 
 contact:      technical
-name:         Mohamed El Bashir
+name:         Qatar Domains Registry Tech
 organisation: Communications Regulatory Authority
 address:      Al Nasr Tower B.
-address:      19th Floor
 address:      Corniche Road
-address:      Doha  23264
+address:      Doha 23404
 address:      Qatar
-phone:        +9744995427
-e-mail:       mbashir@cra.gov.qa
+address:      Qatar
+phone:        +9744995312
+fax-no:       +974 44830630
+e-mail:       techcctld@cra.gov.qa
 
 nserver:      A.REGISTRY.QA 178.23.16.104
 nserver:      B.REGISTRY.QA 178.23.17.104
@@ -47,6 +49,6 @@ status:       ACTIVE
 remarks:      Registration information: http://domains.qa
 
 created:      1996-06-12
-changed:      2016-12-14
+changed:      2017-01-05
 source:       IANA
 
