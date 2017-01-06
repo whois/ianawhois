@@ -44,12 +44,12 @@ nserver:      D.NIC.FUN 212.18.249.72 2a04:2b00:13ff:0:0:0:0:72
 ds-rdata:     4594 8 1 E256D68D24212DD3355F3AE897504E47F847579C
 ds-rdata:     4594 8 2 58D070A391A5808DA071DE7234C293B2A4A32006F1FF152CCAC45E2EE66C3891
 
-whois:        whois.centralnic.com
+whois:        whois.nic.fun
 
 status:       ACTIVE
 remarks:      Registration information: http://www.radixregistry.com
 
 created:      2016-11-30
-changed:      2016-12-21
+changed:      2017-01-06
 source:       IANA
 
