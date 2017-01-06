@@ -35,6 +35,8 @@ nserver:      B0.NIC.IRISH 2a01:8840:bf:0:0:0:0:17 65.22.197.17
 nserver:      C0.NIC.IRISH 2a01:8840:c0:0:0:0:0:17 65.22.198.17
 ds-rdata:     34428 7 1 4a2234f0e16901bb0170e6d32709345804c11836
 ds-rdata:     34428 7 2 d3019432a8f0902b13ff4506f7169a6f6e729a9e676365d74d3b2c7e31003b34
+ds-rdata:     2571 7 1 df67883d5b2480f861feaff00315c22fe782f0a8
+ds-rdata:     2571 7 2 563bf44a746de844b5868c21577333b967e8f70f32e53e9092afcf29148df665
 
 whois:        whois.afilias-srs.net
 
@@ -42,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.myname.irish
 
 created:      2014-11-06
-changed:      2016-12-09
+changed:      2017-01-06
 source:       IANA
 
