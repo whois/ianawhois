@@ -34,6 +34,7 @@ nserver:      D.NS.NIC.KIWI 2620:0171:0f00:000d:0:0:0:4 70.40.8.4
 nserver:      E.NS.NIC.KIWI 162.219.54.254 2620:10a:80eb:0:0:0:0:254
 nserver:      F.NS.NIC.KIWI 162.219.55.254 2620:10a:80ec:0:0:0:0:254
 ds-rdata:     5786 8 2 ADFED621AFE74743D01AF9CD0F380F4F95EF756080321CD541A1D6B31B3FDD30
+ds-rdata:     18002 8 2 a9fb15d8951b9bca9a50b913240f679046a5b1d949c35969e23d46e042e3bcf9
 
 whois:        whois.nic.kiwi
 
@@ -41,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://hello.kiwi
 
 created:      2013-11-25
-changed:      2016-12-21
+changed:      2017-01-07
 source:       IANA
 
