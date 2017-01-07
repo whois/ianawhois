@@ -15,7 +15,7 @@ organisation: DERYachts, LLC
 address:      150 Granby Street
 address:      Norfolk, VA 23510
 address:      United States
-phone:        757-351-8207
+phone:        757-351-8096
 e-mail:       tldadmin@dominionenterprises.com
 
 contact:      technical
@@ -38,9 +38,10 @@ ds-rdata:     23151 7 2 3274bf993895f56c64538047445c393fddc0c5b17bebb23d1b6f1842
 whois:        whois.afilias-srs.net
 
 status:       ACTIVE
-remarks:      Registration information: http://nic.yachts/
+remarks:      Registration information:
+remarks:      http://www.dominionregistries.com
 
 created:      2014-05-01
-changed:      2015-03-13
+changed:      2017-01-07
 source:       IANA
 
