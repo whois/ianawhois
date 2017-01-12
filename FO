@@ -5,28 +5,25 @@
 domain:       FO
 
 organisation: FO Council
-address:      Hoydalsvegur 19
-address:      Torshavn FO 100
+address:      Tinghúsvegur 57
+address:      110 Tórshavn
 address:      Faroe Islands
 
 contact:      administrative
-name:         Isak N. Jacobsen
+name:         Guðrun Poulsen
 organisation: FO Council
-address:      Hoydalsvegur 19, P.O. Box 1255
-address:      Torshavn FO 110
+address:      Tinghúsvegur 57
+address:      110 Tórshavn
 address:      Faroe Islands
-phone:        +298 322 400
-fax-no:       +298 322 401
-e-mail:       inj@nic.fo
+phone:        +298 550050
+e-mail:       gudrun@nic.fo
 
 contact:      technical
 name:         FO-Umsitingin
 organisation: FO-Umsitingin
-address:      Hoydalsvegur 19, P.O. Box 1255
-address:      Torshavn FO 110
+address:      Tinghúsvegur 57
 address:      Faroe Islands
-phone:        +298 322 400
-fax-no:       +298 322 401
+phone:        +298 898900
 e-mail:       nic@nic.fo
 
 nserver:      ARNHEM.NIC.FO 193.176.144.24 2a00:d78:0:102:193:176:144:24
@@ -41,6 +38,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.fo/
 
 created:      1993-05-14
-changed:      2013-04-17
+changed:      2017-01-11
 source:       IANA
 
