@@ -31,7 +31,6 @@ e-mail:       paul.shafi@sgisland.org
 
 nserver:      A.GS.DYNTLD.NET 199.19.5.4 2001:500:92:0:0:0:0:4
 nserver:      B.GS.DYNTLD.NET 199.19.6.4 2001:500:96:0:0:0:0:4
-nserver:      GS.CCTLD.AUTHDNS.RIPE.NET 193.0.9.77 2001:67c:e0:0:0:0:0:77
 nserver:      NS.ANYCAST.NIC.GS 2001:500:14:6021:ad:0:0:1 204.61.216.21
 ds-rdata:     23990 8 2 2CBC82DA27FDB16662BF359F59DF1B63FA0AB720BFC2120F17BA369A3249FC5E
 
@@ -41,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://secure.nic.gs
 
 created:      1997-07-31
-changed:      2015-02-12
+changed:      2017-01-17
 source:       IANA
 
