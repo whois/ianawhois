@@ -38,6 +38,7 @@ nserver:      F.NS.SE 192.71.53.53 2a01:3f0:0:305:0:0:0:53
 nserver:      G.NS.SE 130.239.5.114 2001:6b0:e:3:0:0:0:1
 nserver:      I.NS.SE 194.146.106.22 2001:67c:1010:5:0:0:0:53
 nserver:      J.NS.SE 199.254.63.1 2001:500:2c:0:0:0:0:1
+nserver:      X.NS.SE 2001:67c:124c:e000:0:0:0:4 213.108.25.4
 ds-rdata:     59747 5 2 44388b3de9a22cafa8a12883f60a0f984472d0dfef0f63ed59a29be018658b28
 
 whois:        whois.iis.se
@@ -46,6 +47,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.iis.se
 
 created:      1986-09-04
-changed:      2016-06-09
+changed:      2017-01-19
 source:       IANA
 
