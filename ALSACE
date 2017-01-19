@@ -4,14 +4,14 @@
 
 domain:       ALSACE
 
-organisation: REGION D ALSACE
+organisation: REGION GRAND EST
 address:      1, Place Adrien Zeller
 address:      67070 Strasbourg
 address:      France
 
 contact:      administrative
 name:         Jean-Luc Schaller
-organisation: REGION ALSACE
+organisation: REGION GRAND EST
 address:      1, Place Adrien Zeller
 address:      67070 Strasbourg
 address:      France
@@ -39,9 +39,9 @@ ds-rdata:     61664 8 2 CEDC08929A1743A2A23B08FF2770544EB7A4064704303DB29678CC5D
 whois:        whois-alsace.nic.fr
 
 status:       ACTIVE
-remarks:      Registration information: http://www.alsace.com
+remarks:      Registration information: http://www.mondomaine.alsace
 
 created:      2014-09-18
-changed:      2017-01-06
+changed:      2017-01-18
 source:       IANA
 
