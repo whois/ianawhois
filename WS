@@ -35,6 +35,7 @@ nserver:      NS4.DNS.WS 173.228.153.148
 nserver:      NS5.DNS.WS 64.70.19.70
 nserver:      NS6.DNS.WS 77.92.65.172
 nserver:      NS7.DNS.WS 77.92.65.174
+ds-rdata:     36454 8 2 7DB7C8F0FAED1FF118C3F081487CEC39CEC5C89FE647ADC1E2D3643D1BC1F77D
 
 whois:        whois.website.ws
 
@@ -42,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.website.ws
 
 created:      1995-07-14
-changed:      2017-01-24
+changed:      2017-01-25
 source:       IANA
 
