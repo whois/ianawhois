@@ -4,20 +4,20 @@
 
 domain:       ACTIVE
 
-organisation: The Active Network, Inc
-address:      10182 Telesis Court, Suite 100
-address:      San Diego, CA 92121
+organisation: Active Network, LLC
+address:      717 North Harwood Street, Suite 2500
+address:      Dallas, TX 75201
 address:      United States
 
 contact:      administrative
-name:         System Administrator
-organisation: Active Network
-address:      10182 Telesis Court, Suite 100
-address:      San Diego, CA 92121
+name:         Director
+organisation: Active Network, LLC
+address:      717 North Harwood Street, Suite 2500
+address:      Dallas, TX 75201
 address:      United States
-phone:        +1 301.687.8609
-fax-no:       +1 301.687.8603
-e-mail:       bill.cowden@activenetwork.com
+phone:        +1 518-306-2583
+fax-no:       +1 518-580-1600
+e-mail:       frank.yuan@activenetwork.com
 
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.activenetwork.com/
 
 created:      2014-06-19
-changed:      2014-06-26
+changed:      2017-01-27
 source:       IANA
 
