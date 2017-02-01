@@ -37,7 +37,7 @@ nserver:      NS1A.KSREGISTRY.NET 2001:dd8:7:6075:dc:0:0:1 203.119.88.75
 nserver:      NS1B.KSREGISTRY.NET 2620:0171:0a00:00ad:0:0:0:75 72.0.48.75
 nserver:      NS2A.KSREGISTRY.COM 2001:dd8:7:6076:dc:0:0:1 203.119.88.76
 nserver:      NS2B.KSREGISTRY.COM 2620:0171:0a00:00ad:0:0:0:76 72.0.48.76
-ds-rdata:     41222 8 2 3245756fefe3d9b85d3ca1de1b1ad9950e0a93027f73a30ec9f3b23900a571c5
+ds-rdata:     53900 8 2 085337dfaf5fdf6789591e8c1c4174e4c2c51186ee2a4654344a0a42348b9d2a
 
 whois:        whois.ksregistry.net
 
@@ -45,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.dvag-registry.de
 
 created:      2014-09-18
-changed:      2016-01-28
+changed:      2017-02-01
 source:       IANA
 
