@@ -33,7 +33,7 @@ nserver:      NS1A.KSREGISTRY.NET 2001:dd8:7:6075:dc:0:0:1 203.119.88.75
 nserver:      NS1B.KSREGISTRY.NET 2620:0171:0a00:00ad:0:0:0:75 72.0.48.75
 nserver:      NS2A.KSREGISTRY.COM 2001:dd8:7:6076:dc:0:0:1 203.119.88.76
 nserver:      NS2B.KSREGISTRY.COM 2620:0171:0a00:00ad:0:0:0:76 72.0.48.76
-ds-rdata:     31499 8 2 fe9b425da544d38b915224de27e46db88639bce36b94f2b01c1a5a5f5cf52cf4
+ds-rdata:     590 8 2 76ecfa6c3270b726433fd0b64d139efb5e8cb3c4e8c01ec1eb9d84a5cb5073e9
 
 whois:        whois.ksregistry.net
 
@@ -42,6 +42,6 @@ remarks:      Registration information:
 remarks:      http://www.freseniusregistry.com
 
 created:      2015-12-17
-changed:      2016-01-29
+changed:      2017-02-01
 source:       IANA
 
