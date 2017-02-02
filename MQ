@@ -31,6 +31,8 @@ nserver:      NS1-FR.MEDIASERV.NET 188.165.38.14
 nserver:      NS1-GP.MEDIASERV.NET 213.188.172.1
 nserver:      NS1-MQ.MEDIASERV.NET 213.16.20.3
 
+whois:        whois.mediaserv.net
+
 status:       ACTIVE
 remarks:      Registration information: http://www.nic.mq/
 
