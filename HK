@@ -5,17 +5,13 @@
 domain:       HK
 
 organisation: Hong Kong Internet Registration Corporation Ltd.
-address:      Unit 2002-2005, 20/F, FWD Financial Centre
-address:      308 Des Voeux Road Central
-address:      Sheung Wan
+address:      Unit 501, Level 5, Core C, Cyberport 3, 100 Cyberport Road
 address:      Hong Kong
 
 contact:      administrative
 name:         Bonnie Chun
 organisation: Hong Kong Internet Registration Corporation Ltd.
-address:      Unit 2002-2005, 20/F, FWD Financial Centre
-address:      308 Des Voeux Road Central
-address:      Sheung Wan
+address:      Unit 501, Level 5, Core C, Cyberport 3, 100 Cyberport Road
 address:      Hong Kong
 phone:        +852 2319 2303
 fax-no:       +852 2319 2626
@@ -24,9 +20,7 @@ e-mail:       bonnie.chun@hkirc.hk
 contact:      technical
 name:         Ben Lee
 organisation: Hong Kong Internet Registration Corporation Ltd.
-address:      Unit 2002-2005, 20/F, FWD Financial Centre
-address:      308 Des Voeux Road Central
-address:      Sheung Wan
+address:      Unit 501, Level 5, Core C, Cyberport 3, 100 Cyberport Road
 address:      Hong Kong
 phone:        +852 2319 2303
 fax-no:       +852 2319 2626
@@ -49,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.hkirc.hk
 
 created:      1990-01-03
-changed:      2016-12-07
+changed:      2017-02-08
 source:       IANA
 
