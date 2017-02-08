@@ -13,7 +13,7 @@ address:      Hong Kong
 contact:      administrative
 name:         Bonnie Chun
 organisation: Hong Kong Internet Registration Corporation Limited
-address:      Unit 2002-2005, 20/F FWD Financial Centre, 308 Des Voeux Road Central, Sheung Wan, Hong Kong
+address:      Unit 501, Level 5, Core C, Cyberport 3, 100 Cyberport Road
 address:      Hong Kong
 phone:        +852 2319 2303
 fax-no:       +852 2319 2626
@@ -22,7 +22,7 @@ e-mail:       bonnie.chun@hkirc.hk
 contact:      technical
 name:         Ben Lee
 organisation: Hong Kong Internet Registration Corporation Limited
-address:      Unit 2002-2005, 20/F FWD Financial Centre, 308 Des Voeux Road Central, Sheung Wan, Hong Kong
+address:      Unit 501, Level 5, Core C, Cyberport 3, 100 Cyberport Road
 address:      Hong Kong
 phone:        +852 2319 2303
 fax-no:       +852 2319 2626
@@ -40,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.mtr
 
 created:      2015-07-31
-changed:      2016-10-01
+changed:      2017-02-08
 source:       IANA
 
