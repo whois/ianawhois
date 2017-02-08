@@ -10,24 +10,24 @@ address:      Leuven  3001
 address:      Belgium
 
 contact:      administrative
-name:         Philip Du Bois
+name:         CEO
 organisation: DNS Belgium vzw/asbl
 address:      Ubicenter, Philipssite 5, bus 13
 address:      Leuven  3001
 address:      Belgium
 phone:        +32 16 28 49 70
 fax-no:       +32 16 28 49 71
-e-mail:       legal@dnsbelgium.be
+e-mail:       iana-admin@dnsbelgium.be
 
 contact:      technical
-name:         David Goelen
+name:         CTO
 organisation: DNS Belgium vzw/asbl
 address:      Ubicenter, Philipssite 5, bus 13
 address:      Leuven  3001
 address:      Belgium
 phone:        +32 16 28 49 70
 fax-no:       +32 16 28 49 71
-e-mail:       tech@dnsbelgium.be
+e-mail:       iana-tech@dnsbelgium.be
 
 nserver:      A.NS.DNS.BE 194.0.6.1 2001:678:9:0:0:0:0:1
 nserver:      B.NS.DNS.BE 194.0.37.1 2001:678:64:0:0:0:0:1
@@ -46,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.dnsbelgium.be
 
 created:      1988-08-05
-changed:      2016-06-28
+changed:      2017-02-08
 source:       IANA
 
