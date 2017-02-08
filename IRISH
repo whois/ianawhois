@@ -29,14 +29,14 @@ phone:        +1 215 706 5700
 fax-no:       +1 215 706 5701
 e-mail:       tld-tech-poc@afilias.info
 
-nserver:      A0.NIC.IRISH 2a01:8840:be:0:0:0:0:17 65.22.196.17
-nserver:      A2.NIC.IRISH 2a01:8840:c1:0:0:0:0:17 65.22.199.17
-nserver:      B0.NIC.IRISH 2a01:8840:bf:0:0:0:0:17 65.22.197.17
-nserver:      C0.NIC.IRISH 2a01:8840:c0:0:0:0:0:17 65.22.198.17
-ds-rdata:     34428 7 1 4a2234f0e16901bb0170e6d32709345804c11836
-ds-rdata:     34428 7 2 d3019432a8f0902b13ff4506f7169a6f6e729a9e676365d74d3b2c7e31003b34
+nserver:      DEMAND.ALPHA.ARIDNS.NET.AU 2001:dcd:1:0:0:0:0:7 37.209.192.7
+nserver:      DEMAND.BETA.ARIDNS.NET.AU 2001:dcd:2:0:0:0:0:7 37.209.194.7
+nserver:      DEMAND.DELTA.ARIDNS.NET.AU 2001:dcd:4:0:0:0:0:7 37.209.198.7
+nserver:      DEMAND.GAMMA.ARIDNS.NET.AU 2001:dcd:3:0:0:0:0:7 37.209.196.7
 ds-rdata:     2571 7 1 df67883d5b2480f861feaff00315c22fe782f0a8
 ds-rdata:     2571 7 2 563bf44a746de844b5868c21577333b967e8f70f32e53e9092afcf29148df665
+ds-rdata:     56679 7 1 148D56F27D001D87738ECB14A6F6D46314989068
+ds-rdata:     56679 7 2 B9B0A18BCC18F2658551000D84B83B2EA551CC26B02FCC0D0B3F52E2EB7B04AE
 
 whois:        whois.afilias-srs.net
 
@@ -44,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.myname.irish
 
 created:      2014-11-06
-changed:      2017-01-06
+changed:      2017-02-08
 source:       IANA
 
