@@ -38,6 +38,7 @@ nserver:      F.FI 2a00:13f0:0:3:0:0:0:aaaa 87.239.127.198
 nserver:      G.FI 2001:500:14:6098:ad:0:0:1 204.61.216.98
 nserver:      H.FI 2001:678:a0:0:0:0:0:aaaa 87.239.120.11
 ds-rdata:     45860 8 2 6c3d104c3e343f725dde60bd868b26f169757fbc1c9c99aa5a58a3ec9bcc9cfc
+ds-rdata:     48592 8 2 8194468a0c3a0d49e2c9c038cffc79e7190401b454f3c15b12d2fb13de0d975b
 
 whois:        whois.fi
 
@@ -45,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: https://domain.fi
 
 created:      1986-12-17
-changed:      2016-05-26
+changed:      2017-02-12
 source:       IANA
 
