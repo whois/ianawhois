@@ -5,31 +5,31 @@
 domain:       BT
 
 organisation: Ministry of Information and Communications
-address:      Old DrukAir Office, Thimphu
-address:      Thimphu
+address:      Thori Lam, Upper Chubachu
+address:      Thimphu, Bhutan 11001
 address:      Bhutan
 
 contact:      administrative
-name:         Tshering Norbu, General Manager
-organisation: Bhutan Telecom Ltd.
+name:         General Manager
+organisation: Bhutan Telecom Limited
 address:      2/28 Drophen Lam
 address:      PO Box 134
-address:      Thimphu
+address:      Thimphu, Bhutan 11001
 address:      Bhutan
-phone:        +975 2 320118
-fax-no:       +975 2 328160
-e-mail:       tshering.norbu@bt.bt
+phone:        +975-2-343434
+fax-no:       +975-2-324312
+e-mail:       gmo@bt.bt
 
 contact:      technical
-name:         Tshering Norbu, General Manager
-organisation: Bhutan Telecom Ltd.
+name:         General Manager
+organisation: Bhutan Telecom Limited
 address:      2/28 Drophen Lam
 address:      PO Box 134
-address:      Thimphu
+address:      Thimphu, Bhutan 11001
 address:      Bhutan
-phone:        +975 2 320118
-fax-no:       +975 2 328160
-e-mail:       tshering.norbu@bt.bt
+phone:        +975-2-343434
+fax-no:       +975-2-324312
+e-mail:       gmo@bt.bt
 
 nserver:      AUTH00.NS.UU.NET 198.6.1.65 2600:803:408:2:0:0:0:10
 nserver:      AUTH61.NS.UU.NET 198.6.1.182
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.bt
 
 created:      1997-07-16
-changed:      2012-08-11
+changed:      2017-02-13
 source:       IANA
 
