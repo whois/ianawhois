@@ -10,24 +10,26 @@ address:      Woodland Hills CA 91367
 address:      United States
 
 contact:      administrative
-name:         Managing Director
-organisation: Dot Irish Global Connect Ltd.
-address:      Suite 221, Arena House, Sandyford Business Park,
-address:      Dublin 18
-address:      Ireland
-phone:        +353 1 213 0600
-fax-no:       +353 1 213 0515
-e-mail:       sam@myname.irish
+name:         Richard Tindal
+organisation: Donuts Inc.
+address:      c/o Donuts Inc., 10500 NE 8th Street, Suite 1450
+address:      Bellevue, Washington 98004
+address:      United States
+address:      United States
+phone:        +1.425.283.8248
+fax-no:       +1.425.671.0020
+e-mail:       richard@donuts.email
 
 contact:      technical
-name:         Senior Director, DNS Infrastructure Group
-organisation: Afilias
-address:      Building 3, Suite 105 300 Welsh Road
-address:      Horsham, PA 19044
+name:         Chris Cowherd
+organisation: Donuts Inc.
+address:      c/o Donuts Inc., 10500 NE 8th Street, Suite 1450
+address:      Bellevue, Washington 98004
 address:      United States
-phone:        +1 215 706 5700
-fax-no:       +1 215 706 5701
-e-mail:       tld-tech-poc@afilias.info
+address:      United States
+phone:        +1.425.296.6802
+fax-no:       +1.425.671.0020
+e-mail:       chris@donuts.email
 
 nserver:      DEMAND.ALPHA.ARIDNS.NET.AU 2001:dcd:1:0:0:0:0:7 37.209.192.7
 nserver:      DEMAND.BETA.ARIDNS.NET.AU 2001:dcd:2:0:0:0:0:7 37.209.194.7
@@ -44,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.myname.irish
 
 created:      2014-11-06
-changed:      2017-02-08
+changed:      2017-02-13
 source:       IANA
 
