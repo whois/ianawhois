@@ -9,22 +9,22 @@ address:      Ubicenter, Philipssite 5, b 13, 3001 Leuven
 address:      Belgium
 
 contact:      administrative
-name:         Philip Du Bois
-organisation: DNS.be vzw
+name:         CEO
+organisation: DNS Belgium vzw
 address:      Ubicenter, Philipssite 5, b 13, 3001 Leuven
 address:      Belgium
 phone:        +32 16 284970
 fax-no:       +32 16 284971
-e-mail:       admin@dns.be
+e-mail:       iana-admin@dnsbelgium.be
 
 contact:      technical
-name:         David Goelen
-organisation: DNS.be vzw
+name:         CTO
+organisation: DNS Belgium vzw
 address:      Ubicenter, Philipssite 5, b 13, 3001 Leuven
 address:      Belgium
 phone:        +32 16 284970
 fax-no:       +32 16 284971
-e-mail:       iana@dnsbelgium.be
+e-mail:       iana-tech@dnsbelgium.be
 
 nserver:      A.NIC.VLAANDEREN 194.0.6.1 2001:678:9:0:0:0:0:1
 nserver:      B.NIC.VLAANDEREN 194.0.37.1 2001:678:64:0:0:0:0:1
@@ -42,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.vlaanderen
 
 created:      2014-06-05
-changed:      2015-12-21
+changed:      2017-02-13
 source:       IANA
 
