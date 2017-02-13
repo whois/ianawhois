@@ -14,7 +14,7 @@ organisation: KredTLD Pty Ltd
 address:      Level 33, 88 Phillip Street, Sydney, NSW 2000, AU
 address:      Australia
 phone:        +61 2 9247 8230
-e-mail:       contact@peoplebrowsr.comm
+e-mail:       contact@peoplebrowsr.com
 
 contact:      technical
 name:         Sean Kaine
@@ -41,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.peoplebrowsr.com
 
 created:      2014-02-20
-changed:      2017-02-11
+changed:      2017-02-13
 source:       IANA
 
