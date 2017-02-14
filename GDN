@@ -34,7 +34,6 @@ phone:        +60123938783
 e-mail:       lee@nic.gdn
 
 nserver:      NS1.NIC.GDN 194.0.25.18 2001:678:20:0:0:0:0:18
-nserver:      NS2.NIC.GDN 2001:500:14:6099:ad:0:0:1 204.61.216.99
 nserver:      NS3.NIC.GDN 194.0.26.11 2001:67c:10e0:0:0:0:0:11
 nserver:      NS4.NIC.GDN 194.0.24.11 2001:678:24:0:0:0:0:11
 ds-rdata:     36700 8 1 4597D62D20DDCF0D082D7E9EFCBCD8163FA63AC9
@@ -45,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.gdn
 
 created:      2014-12-04
-changed:      2016-08-05
+changed:      2017-02-14
 source:       IANA
 
