@@ -36,6 +36,8 @@ nserver:      B0.NIC.BUY 2a01:8840:33:0:0:0:0:9 65.22.53.9
 nserver:      C0.NIC.BUY 2a01:8840:34:0:0:0:0:9 65.22.54.9
 ds-rdata:     3718 7 1 c45d8cd6ff03f5b72d168e650631853bab4cccdb
 ds-rdata:     3718 7 2 c79d7a63d38aca5b7d9dcfbb925dd1a443acf326d996b2e563b34f442d2918f5
+ds-rdata:     4854 7 2 371d372192dd7bf3fc22426df160fc3abaa66879aae97dd0020f932a82c60e1b
+ds-rdata:     4854 7 1 06be24acb6f52ba0505d81f191070a3b721cf8f1
 
 whois:        whois.afilias-srs.net
 
@@ -43,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://amazonregistry.com
 
 created:      2015-11-20
-changed:      2016-06-14
+changed:      2017-02-15
 source:       IANA
 
