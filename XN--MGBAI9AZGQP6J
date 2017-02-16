@@ -1,0 +1,44 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       پاکستان
+domain-ace:   XN--MGBAI9AZGQP6J
+
+organisation: National Telecommunication Corporation
+address:      NTC HQ Sector G-5/2
+address:      Islamabad, 44000
+address:      Pakistan
+
+contact:      administrative
+name:         Miraj Gul
+organisation: National Telecommunication Corporation
+address:      NTC HQ Sector G-5/2
+address:      Islamabad, 44000
+address:      Pakistan
+phone:        +92-51-9245888
+fax-no:       +92-51-9245886
+e-mail:       miraj.gul@ntc.org.pk
+
+contact:      technical
+name:         Muhammad Kashif Fayyaz
+organisation: National Telecommunication Corporation
+address:      NTC HQ Sector G-5/2
+address:      Islamabad, 44000
+address:      Pakistan
+phone:        +92-51-9209009
+fax-no:       +92-51-9201489
+e-mail:       kashif.fayyaz@ntc.org.pk
+
+nserver:      NS.NTC.NET.PK 202.83.164.110
+nserver:      NS1.NTC.NET.PK 202.83.164.111
+nserver:      NS2.NTC.NET.PK 175.107.192.11
+ds-rdata:     21720 7 1 9FC6318AA15A43B4CF11D3F64CD678935E40402F
+ds-rdata:     21720 7 2 BB7D853DFDFD7A39574CE1B5D3009E5C813264E614430C1B29C894C090393DD1
+
+status:       ACTIVE
+
+created:      2011-02-28
+changed:      2017-02-15
+source:       IANA
+
