@@ -11,7 +11,7 @@ address:      La Paz  13097
 address:      Bolivia, Plurinational State Of
 
 contact:      administrative
-name:         Jorge Alejandro Patiño Córdova (Director Ejecutivo a.i.)
+name:         Sylvain Damien Lesage
 organisation: Agencia para el Desarrollo de la Información de la Sociedad en Bolivia
 address:      Calle Ayacucho y Mercado No. 308 Piso 3
 address:      Edificio de la Vicepresidencia
@@ -19,7 +19,7 @@ address:      La Paz  13097
 address:      Bolivia, Plurinational State Of
 phone:        +591 2 2200720
 fax-no:       +591 2 2200720
-e-mail:       jpatino@adsib.gob.bo
+e-mail:       slesage@adsib.gob.bo
 
 contact:      technical
 name:         José Luís Machicado (Jefe de Unidad Técnica)
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.bo
 
 created:      1991-02-26
-changed:      2016-10-18
+changed:      2017-02-21
 source:       IANA
 
