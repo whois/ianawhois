@@ -11,14 +11,18 @@ address:      United States
 
 contact:      administrative
 name:         Admin Contact
-organisation: Minds + Machines Ltd
-address:      32 Nassau St, Dublin 2
-address:      Ireland
-phone:        +353.14301689
-e-mail:       support@mm-registry.com
+organisation: Nominet
+address:      Minerva House
+address:      Edmund Halley Road
+address:      Oxford Science Park,
+address:      Oxford,
+address:      OX4 4DQ
+address:      United Kingdom
+phone:        +44.1865332211
+e-mail:       registrymanagement@nominet.uk
 
 contact:      technical
-name:         Tim Phillips
+name:         TLD Registry Services Technical
 organisation: Nominet
 address:      Minerva House,
 address:      Edmund Halley Road,
@@ -43,9 +47,9 @@ ds-rdata:     47576 8 2 CCC4CE45AACB1C0ECD8181D968B86BEFF3B34D1A71576F137CA43529
 whois:        whois.nic.broadway
 
 status:       ACTIVE
-remarks:      Registration information: http://mm-registry.com
+remarks:      Registration information: http://nic.broadway
 
 created:      2015-10-08
-changed:      2016-10-20
+changed:      2017-02-21
 source:       IANA
 
