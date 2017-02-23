@@ -39,6 +39,7 @@ e-mail:       tld-tech-contact@nic.net.sa
 nserver:      NS1.ISU.NET.SA 2001:1490:0:800:0:0:0:3 212.26.18.3
 nserver:      NS1.NIC.NET.SA 2001:67c:130:410:0:0:0:9 86.111.192.9
 nserver:      NS2.NIC.NET.SA 2001:67c:130:10:0:0:0:9 86.111.196.9
+nserver:      S.NIC.NET.SA 2001:16a0:1:3002:0:0:0:2 37.107.223.170
 nserver:      SA-NS.ANYCAST.PCH.NET 2001:500:14:6041:ad:0:0:1 204.61.216.41
 ds-rdata:     44749 8 2 E6C1D51CD9B7D612F0C74F0B8491175E36EA7160373943D948D0901DC7F4C6BB
 ds-rdata:     44749 8 1 7D139B6C7B4E2765A5DA2626F749ABCC531DEFB6
@@ -49,6 +50,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.net.sa/
 
 created:      2010-05-05
-changed:      2016-10-19
+changed:      2017-02-23
 source:       IANA
 
