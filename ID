@@ -29,7 +29,7 @@ address:      Jakarta Pusat DKI Jakarta 10110
 address:      Indonesia
 phone:        +62 817758377
 fax-no:       +62 21 3845786
-e-mail:       aidil@pandi.or.id
+e-mail:       aidil@pandi.id
 
 nserver:      A.DNS.ID 2001:e00:1800:0:0:0:0:2 202.155.30.227
 nserver:      B.DNS.ID 103.19.179.179
@@ -45,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: https://register.pandi.or.id
 
 created:      1993-02-27
-changed:      2015-05-01
+changed:      2017-02-22
 source:       IANA
 
