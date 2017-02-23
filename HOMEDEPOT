@@ -4,16 +4,16 @@
 
 domain:       HOMEDEPOT
 
-organisation: Homer TLC, Inc.
-address:      1007 Orange Street Suite 1424
-address:      Wilmington, DE 19801
+organisation: Home Depot Product Authority, LLC
+address:      2455 Paces Ferry Road, NW
+address:      Atlanta, GA 30339
 address:      United States
 
 contact:      administrative
 name:         Senior Corporate Counsel
-organisation: Homer TLC, Inc.
-address:      1007 Orange Street Suite 1424
-address:      Wilmington, DE 19801
+organisation: Home Depot Product Authority, LLC
+address:      2455 Paces Ferry Road, NW
+address:      Atlanta, GA 30339
 address:      United States
 phone:        +1 770 433 8211
 fax-no:       +1 770 384 2293
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.homedepot.com
 
 created:      2015-05-29
-changed:      2015-06-04
+changed:      2017-02-22
 source:       IANA
 
