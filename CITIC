@@ -9,22 +9,22 @@ address:      Capital Mansion,6 Xinyuannanlu, Chaoyang District, Beijing 100004
 address:      China
 
 contact:      administrative
-name:         Qingfei Yang
-organisation: CITIC Group Corporation
-address:      Capital Mansion,6 Xinyuannanlu, Chaoyang District, Beijing 100004
-address:      China
-phone:        86 10 59661035
-fax-no:        86 10 59660035
-e-mail:       yangqf@citic.com
-
-contact:      technical
 name:         Xiaohui Ji
 organisation: CITIC Group Corporation
 address:      Capital Mansion,6 Xinyuannanlu, Chaoyang District, Beijing 100004
 address:      China
-phone:        86 10 59661016
-fax-no:       86 10 59660016
+phone:        86 10 59661088
+fax-no:       86 10 59660088
 e-mail:       jixh@citic.com
+
+contact:      technical
+name:         Jichao Fei
+organisation: CITIC Group Corporation
+address:      Capital Mansion,6 Xinyuannanlu, Chaoyang District, Beijing 100004
+address:      China
+phone:        86 10 59661013
+fax-no:       86 10 59660013
+e-mail:       feijc@citic.com
 
 nserver:      A.ZDNSCLOUD.COM 1.8.240.1
 nserver:      B.ZDNSCLOUD.COM 1.8.241.1
@@ -40,6 +40,6 @@ ds-rdata:     63352 8 2 55987f0bc208ebbe1dd5feff3da19a721c0f093b12771a71aa2cf4fe
 status:       ACTIVE
 
 created:      2014-04-17
-changed:      2016-09-07
+changed:      2017-02-24
 source:       IANA
 
