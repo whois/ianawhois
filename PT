@@ -32,6 +32,7 @@ e-mail:       assis.guerreiro@dns.pt
 nserver:      A.DNS.PT 185.39.208.1 2a04:6d80:0:0:0:0:0:1
 nserver:      B.DNS.PT 194.0.25.23 2001:678:20:0:0:0:0:23
 nserver:      C.DNS.PT 2001:500:14:6105:ad:0:0:1 204.61.216.105
+nserver:      D.DNS.PT 185.39.210.1 2a04:6d82:0:0:0:0:0:1
 nserver:      E.DNS.PT 193.136.192.64 2001:690:a00:4001:0:0:0:64
 nserver:      NS.DNS.BR 200.160.0.5 2001:12ff:0:a20:0:0:0:5
 nserver:      NS2.DNS.PT 193.136.2.226 2001:690:a80:4001:0:0:0:100
@@ -46,6 +47,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.dns.pt/
 
 created:      1988-06-30
-changed:      2016-04-13
+changed:      2017-02-24
 source:       IANA
 
