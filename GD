@@ -33,7 +33,7 @@ nserver:      A.GD.DYNTLD.NET 162.88.52.2 2600:2000:3000:0:0:0:0:2
 nserver:      B.GD.DYNTLD.NET 162.88.53.2 2600:2000:3001:0:0:0:0:2
 nserver:      GD-NS.ANYCAST.PCH.NET 2001:500:14:6047:ad:0:0:1 204.61.216.47
 nserver:      GD.CCTLD.AUTHDNS.RIPE.NET 193.0.9.75 2001:67c:e0:0:0:0:0:75
-ds-rdata:     7181 8 2 a25fc2103e63c3a66293cf463779a01bd2e134af5682a782aa53e110105379ef
+ds-rdata:     52907 8 2 03d3fdf79b36a910abf0a14a7132b2b5d5960ab0130155856001e56882e8ffca
 
 whois:        whois.nic.gd
 
@@ -41,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.gd
 
 created:      1992-06-03
-changed:      2016-06-08
+changed:      2017-02-24
 source:       IANA
 
