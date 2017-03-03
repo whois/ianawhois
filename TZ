@@ -6,7 +6,7 @@ domain:       TZ
 
 organisation: Tanzania Network Information Centre (tzNIC)
 address:      New Bagamoyo Road, LAPF Millennium Towers
-address:      Suite # 04, Ground floor
+address:      8th floor
 address:      P.O. Box 34543
 address:      Dar es Salaam
 address:      Tanzania, United Republic Of
@@ -15,7 +15,7 @@ contact:      administrative
 name:         Manager
 organisation: Tanzania Network Information Centre (tzNIC)
 address:      New Bagamoyo Road, LAPF Millennium Towers
-address:      Suite # 04, Ground floor
+address:      8th Floor
 address:      P.O. Box 34543
 address:      Dar es Salaam
 address:      Tanzania, United Republic Of
@@ -27,7 +27,7 @@ contact:      technical
 name:         Technical Officer
 organisation: Tanzania Network Information Centre (tzNIC)
 address:      New Bagamoyo Road, LAPF Millennium Towers
-address:      Suite # 04, Ground floor
+address:      8th Floor
 address:      P.O. Box 34543
 address:      Dar es Salaam
 address:      Tanzania, United Republic Of
@@ -51,6 +51,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.tznic.or.tz/
 
 created:      1995-07-14
-changed:      2017-02-23
+changed:      2017-03-03
 source:       IANA
 
