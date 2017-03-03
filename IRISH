@@ -4,9 +4,10 @@
 
 domain:       IRISH
 
-organisation: Dot-Irish LLC
-address:      21700 Oxnard St. Suite 400
-address:      Woodland Hills CA 91367
+organisation: Tin Mill LLC
+address:      c/o Donuts Inc.,
+address:      10500 NE 8th Street, Suite 1450
+address:      Bellevue, Washington 98004
 address:      United States
 
 contact:      administrative
@@ -38,12 +39,12 @@ nserver:      DEMAND.GAMMA.ARIDNS.NET.AU 2001:dcd:3:0:0:0:0:7 37.209.196.7
 ds-rdata:     56679 7 1 148D56F27D001D87738ECB14A6F6D46314989068
 ds-rdata:     56679 7 2 B9B0A18BCC18F2658551000D84B83B2EA551CC26B02FCC0D0B3F52E2EB7B04AE
 
-whois:        whois.afilias-srs.net
+whois:        whois.donuts.co
 
 status:       ACTIVE
-remarks:      Registration information: http://www.myname.irish
+remarks:      Registration information: http://www.donuts.domains/
 
 created:      2014-11-06
-changed:      2017-02-23
+changed:      2017-03-02
 source:       IANA
 
