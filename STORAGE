@@ -36,6 +36,8 @@ nserver:      B0.NIC.STORAGE 2a01:8840:73:0:0:0:0:9 65.22.117.9
 nserver:      C0.NIC.STORAGE 2a01:8840:74:0:0:0:0:9 65.22.118.9
 ds-rdata:     26149 7 1 d54d5dce8c41420b7caeaebca9ee9afb2a6aa526
 ds-rdata:     26149 7 2 c14c55fc7c0a511b94c5b1082748c2fa41b8d4833baee4c907fecc42f8e4425e
+ds-rdata:     7459 7 2 badc05dd997cfcae4eb954a0da9fe2bb44c90d36fc9f4bd74952312d81ee9baf
+ds-rdata:     7459 7 1 33e4cfaea1cba68fb29d461d46aba3207aecf966
 
 whois:        whois.afilias-srs.net
 
@@ -43,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.extraspace.com/
 
 created:      2015-12-10
-changed:      2015-12-18
+changed:      2017-03-03
 source:       IANA
 
