@@ -37,6 +37,8 @@ nserver:      NS5.DNS.NIC.TEL 156.154.173.10 2610:a1:1075:0:0:0:1:a
 nserver:      NS6.DNS.NIC.TEL 156.154.174.10 2610:a1:1076:0:0:0:1:a
 nserver:      NS7.DNS.NIC.TEL 194.146.106.38 2001:67c:1010:9:0:0:0:53
 nserver:      NS8.DNS.NIC.TEL 192.36.144.116 2a01:3f0:0:300:0:0:0:53
+ds-rdata:     34594 8 1 FA18752CDFBEAE03F400F671BA08E1D6E4BEF7E9
+ds-rdata:     34594 8 2 F7ED8F00CABAD18F27587228D3B51D169803D2BAE364A5D0A69E3B0BACE31822
 
 whois:        whois.nic.tel
 
@@ -44,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.tel
 
 created:      2007-03-01
-changed:      2017-03-02
+changed:      2017-03-03
 source:       IANA
 
