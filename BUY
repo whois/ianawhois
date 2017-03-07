@@ -20,15 +20,13 @@ fax-no:       +1 206.266.1350
 e-mail:       buy-rzm@amazon.com
 
 contact:      technical
-name:         Senior Director, DNS Infrastructure Group
-organisation: Afilias
-address:      Building 3, Suite 105
-address:      300 Welsh Road
-address:      Horsham, PA 19044
+name:         Sean Kaine
+organisation: Neustar, Inc.
+address:      46000 Center Oak Plaza, Sterling VA 20166
 address:      United States
-phone:        +1 215.706.5700
-fax-no:       +1 215.706.5701
-e-mail:       tld-tech-poc@afilias.info
+phone:        +1 571-434-5168
+fax-no:       +1 571-434-5401
+e-mail:       registrytechnical1@neustar.biz
 
 nserver:      A0.NIC.BUY 2a01:8840:32:0:0:0:0:9 65.22.52.9
 nserver:      A2.NIC.BUY 2a01:8840:35:0:0:0:0:9 65.22.55.9
@@ -43,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://amazonregistry.com
 
 created:      2015-11-20
-changed:      2017-03-03
+changed:      2017-03-07
 source:       IANA
 
