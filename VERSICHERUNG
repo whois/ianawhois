@@ -4,23 +4,23 @@
 
 domain:       VERSICHERUNG
 
-organisation: dotversicherung-registry GmbH
-address:      Itzenbütteler Mühlenweg 35a
-address:      21227 Bendestorf
-address:      Germany
+organisation: TLD-BOX Registrydienstleistungen GmbH
+address:      Jakob-Haringer-Strasse 8/V
+address:      5020 Salzburg
+address:      Austria
 
 contact:      administrative
-name:         Matthias Pfeifer
-organisation: dotversicherung-registry GmbH
-address:      Itzenbütteler Mühlenweg 35a
-address:      21227 Bendestorf
-address:      Germany
-phone:        +49 4183 7748915 
-fax-no:       +49 4183 7748919
-e-mail:       info@dotversicherung.de
+name:         Richard Wein
+organisation: TLD-BOX Registrydienstleistungen GmbH
+address:      Jakob-Haringer-Strasse 8/V
+address:      5020 Salzburg
+address:      Austria
+phone:        +43 662 234548 730
+fax-no:       +43 662 234548 29
+e-mail:       service@tld-box.at
 
 contact:      technical
-name:         CTO
+name:         Technical Operations
 organisation: TLD-BOX Registrydienstleistungen GmbH
 address:      Technical Operations
 address:      TLD-BOX Registrydienstleistungen GmbH
@@ -45,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.versicherung
 
 created:      2014-05-15
-changed:      2016-01-21
+changed:      2017-03-07
 source:       IANA
 
