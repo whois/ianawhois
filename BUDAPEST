@@ -36,7 +36,6 @@ nserver:      DNSA.NIC.BUDAPEST 156.154.100.3 2001:502:ad09:0:0:0:0:3
 nserver:      DNSB.NIC.BUDAPEST 156.154.101.3
 nserver:      DNSC.NIC.BUDAPEST 156.154.102.3
 nserver:      DNSD.NIC.BUDAPEST 156.154.103.3
-ds-rdata:     49886 8 2 8151518D311595937A9B56F2823F16079FC0CC7FCCF184D6CF1118A386FEF606
 ds-rdata:     54485 8 2 d121779c03367351f0751ff9043f5b1a3b516d398a06f1dfe4dbec179a8a865b
 
 whois:        whois.nic.budapest
@@ -45,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://mm-registry.com/
 
 created:      2014-02-28
-changed:      2016-09-21
+changed:      2017-03-07
 source:       IANA
 
