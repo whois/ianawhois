@@ -36,7 +36,6 @@ nserver:      DNSA.NIC.LUXE 156.154.100.3 2001:502:ad09:0:0:0:0:3
 nserver:      DNSB.NIC.LUXE 156.154.101.3
 nserver:      DNSC.NIC.LUXE 156.154.102.3
 nserver:      DNSD.NIC.LUXE 156.154.103.3
-ds-rdata:     26401 8 2 3D0B865FF0744B569805424152F2BEC66FCDCADB9DBF5D746BCF662E45C7AD83
 ds-rdata:     1681 8 2 759531175BCDD5D0D33500925B45A546F5D5AA7C644B10D2C29D44DBD8897772
 
 whois:        whois.nic.luxe
@@ -45,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://mm-registry.com
 
 created:      2014-03-13
-changed:      2016-09-21
+changed:      2017-03-07
 source:       IANA
 
