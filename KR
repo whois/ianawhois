@@ -5,13 +5,15 @@
 domain:       KR
 
 organisation: Korea Internet & Security Agency (KISA)
-address:      Korea Network Information Center(KRNIC), Daedong Bldg., 109 Jungdae-ro, Songpa-gu, Seoul,  138-803
+address:      Platinum Tower 11th floor, Seocho-ro 398, Seocho-gu
+address:      Seoul 06619
 address:      Korea, Republic Of
 
 contact:      administrative
 name:         Kilnam Chon
 organisation: Korea Network Information Center (KRNIC)
-address:      Korea Network Information Center(KRNIC), Daedong Bldg., 109 Jungdae-ro, Songpa-gu, Seoul,  138-803
+address:      Platinum Tower 11th floor, Seocho-ro 398, Seocho-gu
+address:      Seoul 06619
 address:      Korea, Republic Of
 phone:        +82 10 8581 3514
 fax-no:       +82 2 405 5149
@@ -20,7 +22,8 @@ e-mail:       chonkn@gmail.com
 contact:      technical
 name:         Internet Address Technology Team Manager
 organisation: Korea Internet & Security Agency (KISA)
-address:      Korea Network Information Center(KRNIC), Daedong Bldg., 109 Jungdae-ro, Songpa-gu, Seoul,  138-803
+address:      Platinum Tower 11th floor, Seocho-ro 398, Seocho-gu
+address:      Seoul 06619
 address:      Korea, Republic Of
 phone:        +82 2 405 6612
 fax-no:       +82 2 405 5149
@@ -41,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.or.kr/
 
 created:      1986-09-29
-changed:      2014-01-13
+changed:      2017-03-07
 source:       IANA
 
