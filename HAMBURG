@@ -29,9 +29,7 @@ e-mail:       iana@tld-box.at
 nserver:      A.DNS.NIC.HAMBURG 194.0.25.21 2001:678:20:0:0:0:0:21
 nserver:      M.DNS.NIC.HAMBURG 194.0.26.10 2001:67c:10e0:0:0:0:0:10
 nserver:      N.DNS.NIC.HAMBURG 194.0.24.10 2001:678:24:0:0:0:0:10
-ds-rdata:     26479 8 1 1c9f5d68c413e8a9a2c8e1c1637b8a4da2ca6827
 ds-rdata:     26479 8 2 4a48334ef87d7fc156e886e5a2b2682fcf0679ed6fcab59c85deb0fc52468cb2
-ds-rdata:     32630 8 1 9f06347db35fa582516ce3e6c58a6d7ed7b1e688
 ds-rdata:     32630 8 2 f836a55bec1b4a853bf9d80cd5c5c2e40313659aa8bfae43f55dddc9d5c31af1
 
 whois:        whois.nic.hamburg
@@ -40,6 +38,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.hamburg
 
 created:      2014-05-22
-changed:      2016-01-21
+changed:      2017-03-07
 source:       IANA
 
