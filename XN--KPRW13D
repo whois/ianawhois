@@ -30,7 +30,7 @@ phone:        +886 2 23411313 ext. 500
 fax-no:       +886 2 23968832
 e-mail:       snw@twnic.net.tw
 
-nserver:      D.DNS.TW 2001:c50:ffff:1:0:0:0:230 210.17.9.230
+nserver:      D.DNS.TW 2001:4541:9010:7:0:0:0:186 60.199.165.186
 nserver:      E.DNS.TW 2001:b000:1e0:c000:0:0:0:11 211.20.231.11
 nserver:      F.DNS.TW 163.28.1.10
 nserver:      G.DNS.TW 2001:cd8:400:0:0:0:0:195 220.229.225.195
