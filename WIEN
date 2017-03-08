@@ -32,10 +32,8 @@ e-mail:       iana@tld-box.at
 nserver:      A.DNS.NIC.WIEN 194.0.25.15 2001:678:20:0:0:0:0:15
 nserver:      M.DNS.NIC.WIEN 194.0.26.4 2001:67c:10e0:0:0:0:0:4
 nserver:      N.DNS.NIC.WIEN 194.0.24.4 2001:678:24:0:0:0:0:4
-ds-rdata:     14212 8 1 c13133146394c4d51f5821a57df7714c7758b354
 ds-rdata:     14212 8 2 0c2459e744411a5077304e63b4e20e4e877b34f6e1fc3110fea8133dd894bfbb
 ds-rdata:     40355 8 2 ead678337f838384d34b332c98d60ccbf743860fa920542cd7019db4ee92743f
-ds-rdata:     40355 8 1 441934a8920bd6568fb90017ff652e15a75bbfe1
 
 whois:        whois.nic.wien
 
@@ -43,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.wien
 
 created:      2013-12-19
-changed:      2016-01-21
+changed:      2017-03-07
 source:       IANA
 
