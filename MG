@@ -35,8 +35,7 @@ nserver:      CENSVRNS0001.IRD.FR 91.203.32.147
 nserver:      NS-MG.MALAGASY.COM 87.98.132.231
 nserver:      NS.DTS.MG 196.192.32.2
 nserver:      NS.NIC.MG 196.192.42.153
-ds-rdata:     43102 5 2 932a8ffc8baef1b05927330c438fa3090e463df8c902827df697d5aa8cd66f3c
-ds-rdata:     43102 5 1 acdabac6c3934fa86b73d3bf8204f820f663f62d
+ds-rdata:     64652 5 2 f55dcb5946c539f71b13fa83491864f672fc65589b313fc99dd65e4f14f8a8b3
 
 whois:        whois.nic.mg
 
@@ -44,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.mg
 
 created:      1995-07-25
-changed:      2016-03-18
+changed:      2017-03-20
 source:       IANA
 
