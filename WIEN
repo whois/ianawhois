@@ -34,6 +34,7 @@ nserver:      M.DNS.NIC.WIEN 194.0.26.4 2001:67c:10e0:0:0:0:0:4
 nserver:      N.DNS.NIC.WIEN 194.0.24.4 2001:678:24:0:0:0:0:4
 ds-rdata:     14212 8 2 0c2459e744411a5077304e63b4e20e4e877b34f6e1fc3110fea8133dd894bfbb
 ds-rdata:     40355 8 2 ead678337f838384d34b332c98d60ccbf743860fa920542cd7019db4ee92743f
+ds-rdata:     33794 8 2 963d03048903cab954ada8076e743751a97a246c4c7be0b5fe76e9ef12a248a4
 
 whois:        whois.nic.wien
 
@@ -41,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.wien
 
 created:      2013-12-19
-changed:      2017-03-07
+changed:      2017-03-27
 source:       IANA
 
