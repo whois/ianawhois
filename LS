@@ -19,15 +19,18 @@ fax-no:       +266 22310984
 e-mail:       lsadmin@lca.org.ls
 
 contact:      technical
-name:         Systems Manager
-organisation: Rhodes University
-address:      Information Technology Division
-address:      P.O. Box 94
-address:      Grahamstown Eastern Cape 6140
-address:      South Africa
-phone:        +27.46.603.8279
-fax-no:       +27.46.603.8012
-e-mail:       hostmaster@ru.ac.za
+name:         Mamothokoane Tlali
+organisation: Lesotho Network Information Centre
+address:      Lesotho Communications Authority
+address:      30 Princess margaret Road
+address:      Old Europa
+address:      P.O.Box 15896
+address:      Maseru 100
+address:      Lesotho
+address:      Lesotho
+phone:        +266 22224300
+fax-no:       +266 2231 0984
+e-mail:       mtlali@nic.ls
 
 nserver:      LS-NS.ANYCAST.PCH.NET 2001:500:14:6028:ad:0:0:1 204.61.216.28
 nserver:      NS-LS.AFRINIC.NET 196.216.168.70 2001:43f8:120:0:0:0:0:70
@@ -38,6 +41,6 @@ nserver:      RAIN.PSG.COM 147.28.0.34 2001:418:1:0:0:0:0:34
 status:       ACTIVE
 
 created:      1993-01-13
-changed:      2017-03-09
+changed:      2017-03-31
 source:       IANA
 
