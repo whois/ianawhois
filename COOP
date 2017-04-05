@@ -11,15 +11,15 @@ address:      Washington DC 20005
 address:      United States
 
 contact:      administrative
-name:         Patricia Sterner
+name:         Violetta Nafpaktiti
 organisation: DotCooperation LLC
 address:      1401 New York Avenue, N.W.
 address:      Suite 1100
 address:      Washington DC 20005
 address:      United States
-phone:        +1 202 383 5453
+phone:        +44 1865 403 136
 fax-no:       +1 202 628 6726
-e-mail:       psterner@ncba.coop
+e-mail:       violetta@nic.coop
 
 contact:      technical
 name:         CTO
@@ -45,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.coop
 
 created:      2001-12-15
-changed:      2016-02-19
+changed:      2017-04-04
 source:       IANA
 
