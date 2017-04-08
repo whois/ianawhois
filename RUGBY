@@ -1,0 +1,47 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       RUGBY
+
+organisation: World Rugby Strategic Developments Limited
+address:      World Rugby House
+address:      8-10 Pembroke Street
+address:      Lower Dublin - 2 IE
+address:      Ireland
+
+contact:      administrative
+name:         Ryan Nelsen
+organisation: World Rugby Strategic Developments Limited
+address:      World Rugby House
+address:      8-10 Pembroke Street
+address:      Lower Dublin - 2 IE
+address:      Ireland
+phone:        +1.9292946005
+e-mail:       primary@rugbydomains.co
+
+contact:      technical
+name:         CTO
+organisation: CentralNic
+address:      35-39 Moorgate
+address:      London EC2R 6AR
+address:      United Kingdom
+phone:        +44.2033880600
+fax-no:       +44.2033880601
+e-mail:       tld.ops@centralnic.com
+
+nserver:      A.NIC.RUGBY 194.169.218.73 2001:67c:13cc:0:0:0:1:73
+nserver:      B.NIC.RUGBY 185.24.64.73 2a04:2b00:13cc:0:0:0:1:73
+nserver:      C.NIC.RUGBY 212.18.248.73 2a04:2b00:13ee:0:0:0:0:73
+nserver:      D.NIC.RUGBY 212.18.249.73 2a04:2b00:13ff:0:0:0:0:73
+ds-rdata:     30467 8 1 CBF75F545BB5C1057CF13EDE91565F6CB3708D7C
+ds-rdata:     30467 8 2 D23F3E8A3EDED657AC88B27E95B1EB94CBA49F056E3FA1FC970E743DC3225817
+
+whois:        whois.centralnic.com
+
+status:       ACTIVE
+
+created:      2017-03-23
+changed:      2017-04-07
+source:       IANA
+
