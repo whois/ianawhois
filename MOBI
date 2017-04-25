@@ -21,14 +21,14 @@ phone:        +353 (0) 1 85 41 100
 e-mail:       domainadmin@mtld.mobi
 
 contact:      technical
-name:         MOBI Domain Technical Administrator
-organisation: Afilias Technologies Limited dba dotMobi
-address:      2 La Touche House
-address:      IFSC
-address:      Dublin  1
-address:      Ireland
-phone:        +353 (0) 1 85 41 100
-e-mail:       domaintech@mobitld.info
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      300 Welsh Rd. Bldg 3, Suite 105
+address:      Horsham, PA 19044
+address:      United States
+phone:        +1 215-706-5700
+fax-no:       +1 215-706-5701
+e-mail:       tld-tech-poc@afilias.info
 
 nserver:      A0.MOBI.AFILIAS-NST.INFO 199.254.55.1 2001:500:21:0:0:0:0:1
 nserver:      A2.MOBI.AFILIAS-NST.INFO 199.249.118.1 2001:500:46:0:0:0:0:1
@@ -36,6 +36,8 @@ nserver:      B0.MOBI.AFILIAS-NST.ORG 199.254.56.1 2001:500:22:0:0:0:0:1
 nserver:      B2.MOBI.AFILIAS-NST.ORG 199.249.126.1 2001:500:4e:0:0:0:0:1
 nserver:      C0.MOBI.AFILIAS-NST.INFO 199.254.57.1 2001:500:23:0:0:0:0:1
 nserver:      D0.MOBI.AFILIAS-NST.ORG 199.254.58.1 2001:500:24:0:0:0:0:1
+ds-rdata:     63018 7 1 cb9305b20dbc90cfd77685b61e805805a148a902
+ds-rdata:     63018 7 2 9e096946728a9b60d71957ae454a75f7aa03a62d44d26aa6bf702154a5307e2a
 
 whois:        whois.afilias.net
 
@@ -43,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.mtld.mobi
 
 created:      2005-10-17
-changed:      2016-08-25
+changed:      2017-04-24
 source:       IANA
 
