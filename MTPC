@@ -4,40 +4,44 @@
 
 domain:       MTPC
 
-organisation: Mitsubishi Tanabe Pharma Corporation
-address:      2-6-18, Kitahama, Chuo-ku Osaka - 541-8505 JP
-address:      Japan
+organisation: Emergency Back-End Registry Operator Program - ICANN
+address:      12025 Waterfront Dr., Suite 300
+address:      Los Angeles, CA 90094
+address:      United States
 
 contact:      administrative
-name:         Representative Director
-organisation: GMO Registry, Inc.
-address:      26-1 Sakuragaoka-cho Shibuya-ku, Tokyo - 1508512 JP
-address:      Japan
-phone:        +81-3-5456-1601
-fax-no:       +81-3-3780-5239
-e-mail:       newgtld@gmoregistry.com
+name:         EBERO Event Director
+organisation: Internet Corporation for Assigned Names and Numbers (ICANN)
+address:      12025 Waterfront Dr., Suite 300
+address:      Los Angeles, CA 90094
+address:      United States
+phone:        +1 310 301 5800
+fax-no:       +1 310 823 8649
+e-mail:       globalsupport@icann.org
 
 contact:      technical
-name:         Yoshitake Tamura
-organisation: GMO Registry, Inc.
-address:      26-1 Sakuragaoka-cho Shibuya-ku, Tokyo - 1508512 JP
-address:      Japan
-phone:        +81-3-5456-1601
-fax-no:       +81-3-3780-5239
-e-mail:       newgtld@gmoregistry.com
+name:         CORE EBERO Event Manager
+organisation: EBERO c/o CORE Association - Internet Council of Registrars
+address:      2, Cours de Rive
+address:      1204 Geneva
+address:      Switzerland
+phone:        +41 22 312 5610
+fax-no:       +41 22 312 5612
+e-mail:       ebero@rs.corenic.net
 
-nserver:      A.GMOREGISTRY.NET 2001:dcd:1:0:0:0:0:4 37.209.192.4
-nserver:      B.GMOREGISTRY.NET 2001:dcd:2:0:0:0:0:4 37.209.194.4
-nserver:      K.GMOREGISTRY.NET 37.209.196.4
-nserver:      L.GMOREGISTRY.NET 2001:dcd:4:0:0:0:0:4 37.209.198.4
-ds-rdata:     34490 8 2 3005907a203cd2af36bee8170382c202614b722be2c7898179fe3c24900893f6
+nserver:      ANYCAST10.IRONDNS.NET 195.253.64.12 2a01:5b0:4:0:0:0:0:c
+nserver:      ANYCAST23.IRONDNS.NET 195.253.65.11 2a01:5b0:5:0:0:0:0:b
+nserver:      ANYCAST24.IRONDNS.NET 195.253.65.12 2a01:5b0:5:0:0:0:0:c
+nserver:      ANYCAST9.IRONDNS.NET 195.253.64.11 2a01:5b0:4:0:0:0:0:b
+ds-rdata:     5532 10 2 C755B76B7305F60BBABECDA730EC9956E25FF16E123425D4BB5879B0434D97B2
 
-whois:        whois.nic.gmo
+whois:        whois.nic.mtpc
 
 status:       ACTIVE
-remarks:      Registration information: http://www.gmoregistry.com/en/
+remarks:      Registration information:
+remarks:      https://www.icann.org/resources/pages/ebero-2013-04-02-en
 
 created:      2015-02-27
-changed:      2016-08-25
+changed:      2017-04-26
 source:       IANA
 
