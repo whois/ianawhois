@@ -31,12 +31,8 @@ fax-no:       +1 215.706.5701
 e-mail:       tld-tech-poc@afilias.info
 
 nserver:      A.NIC.STORAGE 194.169.218.55 2001:67c:13cc:0:0:0:1:55
-nserver:      A0.NIC.STORAGE 2a01:8840:72:0:0:0:0:9 65.22.116.9
-nserver:      A2.NIC.STORAGE 2a01:8840:75:0:0:0:0:9 65.22.119.9
 nserver:      B.NIC.STORAGE 185.24.64.55 2a04:2b00:13cc:0:0:0:1:55
-nserver:      B0.NIC.STORAGE 2a01:8840:73:0:0:0:0:9 65.22.117.9
 nserver:      C.NIC.STORAGE 212.18.248.55 2a04:2b00:13ee:0:0:0:0:55
-nserver:      C0.NIC.STORAGE 2a01:8840:74:0:0:0:0:9 65.22.118.9
 nserver:      D.NIC.STORAGE 212.18.249.55 2a04:2b00:13ff:0:0:0:0:55
 ds-rdata:     7459 7 2 badc05dd997cfcae4eb954a0da9fe2bb44c90d36fc9f4bd74952312d81ee9baf
 ds-rdata:     7459 7 1 33e4cfaea1cba68fb29d461d46aba3207aecf966
@@ -49,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.extraspace.com/
 
 created:      2015-12-10
-changed:      2017-04-13
+changed:      2017-04-28
 source:       IANA
 
