@@ -33,7 +33,7 @@ nserver:      A.DNS.NIC.IKANO 194.0.25.12 2001:678:20:0:0:0:0:12
 nserver:      M.DNS.NIC.IKANO 194.0.26.7 2001:67c:10e0:0:0:0:0:7
 nserver:      N.DNS.NIC.IKANO 194.0.24.7 2001:678:24:0:0:0:0:7
 ds-rdata:     12889 8 2 023aeaf46000160e085c1baf4ef9e9e21c1b8b73bbbe0b8d06d89bb8acd7cebb
-ds-rdata:     12889 8 1 be0667fc178c30660ebd20d45646cfbd10f82ce9
+ds-rdata:     20306 8 2 F41B10D951DC5EE6D3EA0E63A2747C3FE3A8E21A8D739610FEE987118625055F
 
 whois:        whois.ikano.tld-box.at
 
@@ -41,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.ikano.lu
 
 created:      2016-06-03
-changed:      2016-07-02
+changed:      2017-04-28
 source:       IANA
 
