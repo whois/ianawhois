@@ -35,10 +35,10 @@ phone:        +1 415 462 3014
 fax-no:       +1 415 789 0522
 e-mail:       egullich@colo.to
 
-nserver:      AUTH02.NS.UU.NET 198.6.1.82
 nserver:      COLO.TO 216.74.32.104
 nserver:      FRANKFURT.TONIC.TO 46.101.233.168
-nserver:      NS1.IAFRICA.COM 196.7.0.139
+nserver:      NEWYORK.TONIC.TO 162.243.211.202
+nserver:      SINGAPORE.TONIC.TO 188.166.187.0
 nserver:      TONIC.TO 216.74.32.100
 
 whois:        whois.tonic.to
@@ -47,6 +47,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.tonic.to/
 
 created:      1995-12-18
-changed:      2017-04-17
+changed:      2017-05-02
 source:       IANA
 
