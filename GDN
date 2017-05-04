@@ -37,6 +37,7 @@ nserver:      NS1.NIC.GDN 194.0.25.18 2001:678:20:0:0:0:0:18
 nserver:      NS3.NIC.GDN 194.0.26.11 2001:67c:10e0:0:0:0:0:11
 nserver:      NS4.NIC.GDN 194.0.24.11 2001:678:24:0:0:0:0:11
 ds-rdata:     36700 8 1 4597D62D20DDCF0D082D7E9EFCBCD8163FA63AC9
+ds-rdata:     56824 8 1 7E031DD12103A0189278BAAA81191710AE5888E0
 
 whois:        whois.nic.gdn
 
@@ -44,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.gdn
 
 created:      2014-12-04
-changed:      2017-02-14
+changed:      2017-05-04
 source:       IANA
 
