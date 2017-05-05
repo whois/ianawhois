@@ -4,16 +4,18 @@
 
 domain:       TEL
 
-organisation: Telnic Ltd.
-address:      37 Percy Street
-address:      London  W1T 2DJ
+organisation: Telnames Ltd.
+address:      16 Charles II Street
+address:      London
+address:      SW1Y 4NW
 address:      United Kingdom
 
 contact:      administrative
 name:         TLD Administrative Contact
-organisation: Telnic Ltd.
-address:      37 Percy Street
-address:      London  W1T 2DJ
+organisation: Telnames Ltd.
+address:      16 Charles II Street
+address:      London
+address:      SW1Y 4NW
 address:      United Kingdom
 phone:        +44 20 7467 6450
 fax-no:       +44 20 7467 6451
@@ -21,9 +23,10 @@ e-mail:       tld-admin-contact@registry.nic.tel
 
 contact:      technical
 name:         TLD Technical Contact
-organisation: Telnic Limited
-address:      37 Percy Street
-address:      London  W1T 2DJ
+organisation: Telnames Ltd
+address:      16 Charles II Street
+address:      London
+address:      SW1Y 4NW
 address:      United Kingdom
 phone:        +44 20 7467 6450
 fax-no:       +44 20 7467 6451
@@ -46,6 +49,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.tel
 
 created:      2007-03-01
-changed:      2017-03-03
+changed:      2017-05-04
 source:       IANA
 
