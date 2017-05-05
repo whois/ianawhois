@@ -5,15 +5,15 @@
 domain:       SE
 
 organisation: The Internet Infrastructure Foundation
-address:      Box 7399
-address:      Stockholm  SE-103 91
+address:      Box 92073
+address:      Stockholm  SE-120 07
 address:      Sweden
 
 contact:      administrative
 name:         SE Administrative Contact
 organisation: The Internet Infrastructure Foundation
-address:      Box 7399
-address:      Stockholm  SE-103 91
+address:      Box 92073
+address:      Stockholm SE-120 07
 address:      Sweden
 phone:        +46 8 452 35 00
 fax-no:       +46 8 452 35 02
@@ -22,8 +22,8 @@ e-mail:       registry@iis.se
 contact:      technical
 name:         SE Technical Contact
 organisation: The Internet Infrastructure Foundation
-address:      Box 7399
-address:      Stockholm  SE-103 91
+address:      Box 92073
+address:      Stockholm SE-120 07
 address:      Sweden
 phone:        +46 8 452 35 00
 fax-no:       +46 8 452 35 02
@@ -47,6 +47,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.iis.se
 
 created:      1986-09-04
-changed:      2017-01-19
+changed:      2017-05-05
 source:       IANA
 
