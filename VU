@@ -10,22 +10,22 @@ address:      Port Vila
 address:      Vanuatu
 
 contact:      administrative
-name:         Anish GHUMARIA 
+name:         TVL CTO
 organisation: Telecom Vanuatu Ltd.
 address:      Lini Highway
 address:      Port Vila
 address:      Vanuatu
-phone:        +678 7400015
+phone:        +678 23000
 fax-no:       +678 24319
 e-mail:       iana@tvl.net.vu
 
 contact:      technical
-name:         Tchien TARI
+name:         TVL IANA Contact
 organisation: Telecom Vanuatu Ltd.
 address:      Lini Highway
 address:      Port Vila
 address:      Vanuatu
-phone:        +678 7400158
+phone:        +678 23000 EXT 210
 fax-no:       +678 24319
 e-mail:       iana@tvl.net.vu
 
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.vunic.vu
 
 created:      1995-04-10
-changed:      2017-03-31
+changed:      2017-05-08
 source:       IANA
 
