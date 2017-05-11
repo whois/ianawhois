@@ -24,7 +24,7 @@ address:      Block B Unit 403, Horizon International Tower No. 6 Zhichun Road, 
 address:      China
 phone:        +86.1082961219
 fax-no:       +86.1082961269
-e-mail:       zhangzhanyong@zodiacregistry.com
+e-mail:       vp@nic.wang
 
 nserver:      A.ZDNSCLOUD.COM 1.8.240.1
 nserver:      B.ZDNSCLOUD.COM 1.8.241.1
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.zodiacregistry.com
 
 created:      2013-12-12
-changed:      2016-09-03
+changed:      2017-05-10
 source:       IANA
 
