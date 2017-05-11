@@ -10,14 +10,14 @@ address:      Ljubljana  1000
 address:      Slovenia
 
 contact:      administrative
-name:         Marko Bonac
+name:         Barbara Povše
 organisation: Academic and Research Network of Slovenia (ARNES)
 address:      Tehnološki park 18
 address:      Ljubljana  1000
 address:      Slovenia
 phone:        +386 1 4798800
 fax-no:       +386 1 4798899
-e-mail:       bonac@arnes.si
+e-mail:       barbara.povse@register.si
 
 contact:      technical
 name:         Benjamin Zwittnig
@@ -44,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.registry.si/
 
 created:      1992-04-01
-changed:      2017-01-03
+changed:      2017-05-11
 source:       IANA
 
