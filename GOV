@@ -31,7 +31,9 @@ fax-no:       +1 540 301 0160
 e-mail:       registrar@dotgov.gov
 
 nserver:      A.GOV-SERVERS.NET 2001:500:4431:0:0:0:2:30 69.36.157.30
-nserver:      B.GOV-SERVERS.NET 209.112.123.30
+nserver:      B.GOV-SERVERS.NET 209.112.123.30 2620:74:27:0:0:0:2:30
+nserver:      C.GOV-SERVERS.NET 2620:74:28:0:0:0:2:30 69.36.153.30
+nserver:      D.GOV-SERVERS.NET 2620:74:29:0:0:0:2:30 81.19.194.30
 ds-rdata:     7698 8 1 6F109B46A80CEA9613DC86D5A3E065520505AAFE
 ds-rdata:     7698 8 2 6BC949E638442EAD0BDAF0935763C8D003760384FF15EBBD5CE86BB5559561F0
 
@@ -41,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.dotgov.gov
 
 created:      1985-01-01
-changed:      2013-09-10
+changed:      2017-05-12
 source:       IANA
 
