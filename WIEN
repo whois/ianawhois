@@ -33,9 +33,8 @@ nserver:      NS1.RYCE-RSP.COM 2a01:190:15ec:a000:0:0:0:153 91.195.198.153
 nserver:      NSA.NETNOD.SE 194.58.192.33 2a01:3f1:33:0:0:0:0:53
 nserver:      NSP.NETNOD.SE 194.58.198.33 2a01:3f1:3033:0:0:0:0:53
 nserver:      NSU.NETNOD.SE 185.42.137.99 2a01:3f0:400:0:0:0:0:33
-ds-rdata:     14212 8 2 0c2459e744411a5077304e63b4e20e4e877b34f6e1fc3110fea8133dd894bfbb
-ds-rdata:     40355 8 2 ead678337f838384d34b332c98d60ccbf743860fa920542cd7019db4ee92743f
 ds-rdata:     33794 8 2 963d03048903cab954ada8076e743751a97a246c4c7be0b5fe76e9ef12a248a4
+ds-rdata:     47234 8 2 4da111dc2af69cee1a99cd1a343cfd135fae937940954ca1e94a848a57cba1bb
 
 whois:        whois.nic.wien
 
@@ -43,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.wien
 
 created:      2013-12-19
-changed:      2017-04-18
+changed:      2017-05-12
 source:       IANA
 
