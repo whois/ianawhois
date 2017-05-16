@@ -36,6 +36,8 @@ nserver:      NS-D1.IO 2607:feb8:0:0:0:0:5:5 64.251.31.179
 nserver:      NS-L1.IO 2001:470:1f1d:244:0:0:0:57 80.249.100.57
 nserver:      NS-Y1.IO 2001:470:1f07:d0b:0:0:0:130 91.208.95.130
 ds-rdata:     64744 8 2 2E7D661097A76EAC145858E4FF8F3DDAE5EAEDFD527725BC6F8A943E4FE23A29
+ds-rdata:     57355 8 2 95a57c3bab7849dbcddf7c72ada71a88146b141110318ca5be672057e865c3e2
+ds-rdata:     57355 8 1 434e91e206134f5b3b0ac603b26f5e029346abc9
 
 whois:        whois.nic.io
 
@@ -43,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.io/
 
 created:      1997-09-16
-changed:      2016-02-26
+changed:      2017-05-16
 source:       IANA
 
