@@ -37,6 +37,8 @@ nserver:      NS-D1.AC 2607:feb8:0:0:0:0:5:5 64.251.31.177
 nserver:      NS-L1.AC 2001:470:1f1d:244:0:0:0:57 80.249.100.57
 nserver:      NS-Y1.AC 2001:470:1f07:d0b:0:0:0:130 91.208.95.130
 ds-rdata:     23014 8 2 9F135B4B4C69C92383B997632E821E3C8AB9699658674CC96FDE5405ACB68B65
+ds-rdata:     42665 8 1 d5e99d85351d361bd6b5b1582f634e8a85cf1bf7
+ds-rdata:     42665 8 2 4b15f405c98f4bc3a370b19e54dbe75df201edcd38577c51d277dc6559865d95
 
 whois:        whois.nic.ac
 
@@ -44,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.ac/
 
 created:      1997-12-19
-changed:      2016-02-26
+changed:      2017-05-16
 source:       IANA
 
