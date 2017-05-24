@@ -1,0 +1,43 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       ARAB
+
+organisation: League of Arab States
+address:      General Secretariat for the League of Arab States, Tahrir Square, Cairo, P.O.Box 11642
+address:      Egypt
+
+contact:      administrative
+name:         Khaled Fouda
+organisation: League of Arab States
+address:      General Secretariat for the League of Arab States, Tahrir Square, Cairo, P.O.Box 11642
+address:      Egypt
+phone:        +20227738092
+e-mail:       atldsecondary@las.int
+
+contact:      technical
+name:         Mohamed Alomran
+organisation: Telecommunications Regulatory Authority of UAE
+address:      Al Waheeda street Al Memzar
+address:      P.O.Box 116688
+address:      Dubai
+address:      United Arab Emirates
+phone:        +97147774018
+e-mail:       gtldsupport@aeda.ae
+
+nserver:      GTLD.ALPHA.ARIDNS.NET.AU 2001:dcd:1:0:0:0:0:10 37.209.192.10
+nserver:      GTLD.BETA.ARIDNS.NET.AU 2001:dcd:2:0:0:0:0:10 37.209.194.10
+nserver:      GTLD.DELTA.ARIDNS.NET.AU 2001:dcd:4:0:0:0:0:10 37.209.198.10
+nserver:      GTLD.GAMMA.ARIDNS.NET.AU 2001:dcd:3:0:0:0:0:10 37.209.196.10
+ds-rdata:     20671 8 1 A3CC3AD421EC53930B28B255900F9F005C881AE7
+ds-rdata:     20671 8 2 164F98C3DDC5C95932ED38AFC1EAC629B8B10484598DD6B3D288C6BD95778730
+
+whois:        whois.nic.arab
+
+status:       ACTIVE
+
+created:      2017-05-11
+changed:      2017-05-23
+source:       IANA
+
