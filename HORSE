@@ -36,7 +36,6 @@ nserver:      DNSA.NIC.HORSE 156.154.100.3 2001:502:ad09:0:0:0:0:3
 nserver:      DNSB.NIC.HORSE 156.154.101.3
 nserver:      DNSC.NIC.HORSE 156.154.102.3
 nserver:      DNSD.NIC.HORSE 156.154.103.3
-ds-rdata:     36637 8 2 665BE35CF145D55C223033FBF7B126B7E9E5D7D8A4C3A3F7CA2EA5609442FE05
 ds-rdata:     1771 8 2 E51B3058C2C94B496AC56DBCC25DE9EEEE577A408BC6F469E00505B5D56ED186
 
 whois:        whois.nic.horse
@@ -45,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://mmx.co
 
 created:      2014-02-28
-changed:      2017-04-20
+changed:      2017-05-25
 source:       IANA
 
