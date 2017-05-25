@@ -36,7 +36,6 @@ nserver:      DNSA.NIC.RODEO 156.154.100.3 2001:502:ad09:0:0:0:0:3
 nserver:      DNSB.NIC.RODEO 156.154.101.3
 nserver:      DNSC.NIC.RODEO 156.154.102.3
 nserver:      DNSD.NIC.RODEO 156.154.103.3
-ds-rdata:     28172 8 2 643B5BAC898709DE1EE7AE9D08D74B001085380E908D04E0903DC68FC3F81ACE
 ds-rdata:     60932 8 2 A2B0DE34D189EC512449B234452E2D196937B6348EB2DA406D59F73FFDE339CE
 
 whois:        whois.nic.rodeo
@@ -45,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://mmx.co
 
 created:      2014-02-28
-changed:      2017-04-20
+changed:      2017-05-25
 source:       IANA
 
