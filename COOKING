@@ -36,7 +36,6 @@ nserver:      DNSA.NIC.COOKING 156.154.100.3 2001:502:ad09:0:0:0:0:3
 nserver:      DNSB.NIC.COOKING 156.154.101.3
 nserver:      DNSC.NIC.COOKING 156.154.102.3
 nserver:      DNSD.NIC.COOKING 156.154.103.3
-ds-rdata:     57727 8 2 8899B23CE9872CA38EB6753A566D58F716313098726158CA6F292A9207C615ED
 ds-rdata:     38020 8 2 76C110F1D94CBD33D6217F454AD0C198386789536138B865BE7F91E2E7D2AF34
 
 whois:        whois.nic.cooking
@@ -45,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://mmx.co
 
 created:      2014-02-28
-changed:      2017-04-20
+changed:      2017-05-25
 source:       IANA
 
