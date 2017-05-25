@@ -36,7 +36,6 @@ nserver:      DNSA.NIC.YOGA 156.154.100.3 2001:502:ad09:0:0:0:0:3
 nserver:      DNSB.NIC.YOGA 156.154.101.3
 nserver:      DNSC.NIC.YOGA 156.154.102.3
 nserver:      DNSD.NIC.YOGA 156.154.103.3
-ds-rdata:     35365 8 2 C350E5319A7628DADE3EB2F0A9C88F32935793EB3A0C4413BBA6461734D73972
 ds-rdata:     16444 8 2 5BBB4BE10F21C02D518C73B32CDB4471E3CB9A512D0F288B8F1609775C9BAA08
 
 whois:        whois.nic.yoga
@@ -45,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://mm-registry.com
 
 created:      2014-08-15
-changed:      2017-04-20
+changed:      2017-05-25
 source:       IANA
 
