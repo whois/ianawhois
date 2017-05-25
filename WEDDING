@@ -36,7 +36,6 @@ nserver:      DNSA.NIC.WEDDING 156.154.100.3 2001:502:ad09:0:0:0:0:3
 nserver:      DNSB.NIC.WEDDING 156.154.101.3
 nserver:      DNSC.NIC.WEDDING 156.154.102.3
 nserver:      DNSD.NIC.WEDDING 156.154.103.3
-ds-rdata:     45704 8 2 7E3B63CE675A2A3F75A3FA19149EB5007B6E3C3AF53E910DC4905476CA5B68B4
 ds-rdata:     35737 8 2 52AD7F8E8997C0DF6451D998877608C5E1D06E66599435CEBFD7750D30831E58
 
 whois:        whois.nic.wedding
@@ -45,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://mm-registry.com
 
 created:      2014-07-10
-changed:      2017-04-20
+changed:      2017-05-25
 source:       IANA
 
