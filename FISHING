@@ -36,7 +36,6 @@ nserver:      DNSA.NIC.FISHING 156.154.100.3 2001:502:ad09:0:0:0:0:3
 nserver:      DNSB.NIC.FISHING 156.154.101.3
 nserver:      DNSC.NIC.FISHING 156.154.102.3
 nserver:      DNSD.NIC.FISHING 156.154.103.3
-ds-rdata:     64262 8 2 0FB7BC6935F3E4B3EE50474615D238A21CBD0ED00CD1C2E029AF21FF86F3AD4D
 ds-rdata:     62501 8 2 23B06D89F164F1743C5EFD761A77EFC552F19869369B96C5F1A1B37AE096AB37
 
 whois:        whois.nic.fishing
@@ -45,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://mmx.co
 
 created:      2014-02-28
-changed:      2017-04-20
+changed:      2017-05-25
 source:       IANA
 
