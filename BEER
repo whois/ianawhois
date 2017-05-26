@@ -36,7 +36,6 @@ nserver:      DNSA.NIC.BEER 156.154.100.3 2001:502:ad09:0:0:0:0:3
 nserver:      DNSB.NIC.BEER 156.154.101.3
 nserver:      DNSC.NIC.BEER 156.154.102.3
 nserver:      DNSD.NIC.BEER 156.154.103.3
-ds-rdata:     32401 8 2 A352C1475AFE55AACB6C1A7AF20BE661CFED0998707AE0365B73C3970497ED0B
 ds-rdata:     56125 8 2 C674B8966CB78A79E67A2ED674917CF39F96ED6C7E5460425C61EAFBAD7E2A87
 
 whois:        whois.nic.beer
@@ -45,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://mm-registry.com
 
 created:      2014-03-13
-changed:      2017-04-20
+changed:      2017-05-26
 source:       IANA
 
