@@ -36,7 +36,6 @@ nserver:      DNSA.NIC.LAW 156.154.100.3 2001:502:ad09:0:0:0:0:3
 nserver:      DNSB.NIC.LAW 156.154.101.3
 nserver:      DNSC.NIC.LAW 156.154.102.3
 nserver:      DNSD.NIC.LAW 156.154.103.3
-ds-rdata:     30985 8 2 43AC1029812A5B3484386A6F5CC0329A6AAD55FAD583B2EB9C03FE5D344EA5DB
 ds-rdata:     59981 8 2 59A00484D23B01CF601679A4010858BD1111416D534090708DD0EBC67B194A8A
 
 whois:        whois.nic.law
@@ -45,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://mm-registry.com
 
 created:      2015-06-18
-changed:      2017-04-20
+changed:      2017-05-26
 source:       IANA
 
