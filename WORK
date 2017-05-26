@@ -36,7 +36,6 @@ nserver:      DNSA.NIC.WORK 156.154.100.3 2001:502:ad09:0:0:0:0:3
 nserver:      DNSB.NIC.WORK 156.154.101.3
 nserver:      DNSC.NIC.WORK 156.154.102.3
 nserver:      DNSD.NIC.WORK 156.154.103.3
-ds-rdata:     54910 8 2 346CB1BEB6A89DA1F9839818CA81BE05A9C791FA9DF948A20EC3C452758EAB49
 ds-rdata:     7331 8 2 F6EBBE59BD6CF2D7D8F6AD1A31F38E84BE3C4613432E59703C4D90BC8D47E1C1
 
 whois:        whois.nic.work
@@ -45,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://mm-registry.com/
 
 created:      2014-08-18
-changed:      2017-04-20
+changed:      2017-05-26
 source:       IANA
 
