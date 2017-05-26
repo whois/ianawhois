@@ -36,7 +36,6 @@ nserver:      DNSA.NIC.FASHION 156.154.100.3 2001:502:ad09:0:0:0:0:3
 nserver:      DNSB.NIC.FASHION 156.154.101.3
 nserver:      DNSC.NIC.FASHION 156.154.102.3
 nserver:      DNSD.NIC.FASHION 156.154.103.3
-ds-rdata:     40490 8 2 871B59E1DCDD05CE9CF33D3B153564A8FA88FC9E6779A1E69AA6A81621FE5B8E
 ds-rdata:     7961 8 2 428A5995BE0AD827F2171BD7F5489614E912C8A78483BFCD046B915823757D93
 
 whois:        whois.nic.fashion
@@ -45,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://mm-registry.com
 
 created:      2014-10-23
-changed:      2017-04-20
+changed:      2017-05-26
 source:       IANA
 
