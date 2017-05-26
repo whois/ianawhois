@@ -36,7 +36,6 @@ nserver:      DNSA.NIC.CASA 156.154.100.3 2001:502:ad09:0:0:0:0:3
 nserver:      DNSB.NIC.CASA 156.154.101.3
 nserver:      DNSC.NIC.CASA 156.154.102.3
 nserver:      DNSD.NIC.CASA 156.154.103.3
-ds-rdata:     11222 8 2 05267127CA096A4BF3A9B98D87A06C35A925C1A9361D43B6AA5ABF8B182FCF5F
 ds-rdata:     13315 8 2 DD7E29958450ABEDF3862FAFEE3A925E34DFA87C91C7B20BB8B9D2C2E01B35D6
 
 whois:        whois.nic.casa
@@ -45,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://mm-registry.com/
 
 created:      2014-08-18
-changed:      2017-04-20
+changed:      2017-05-26
 source:       IANA
 
