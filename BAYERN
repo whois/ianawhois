@@ -38,7 +38,6 @@ nserver:      DNSA.NIC.BAYERN 156.154.100.3 2001:502:ad09:0:0:0:0:3
 nserver:      DNSB.NIC.BAYERN 156.154.101.3
 nserver:      DNSC.NIC.BAYERN 156.154.102.3
 nserver:      DNSD.NIC.BAYERN 156.154.103.3
-ds-rdata:     50081 8 2 513BB010639ECE3D65785B712C85A219B8412F448EF9EB62523543F4AFF3ED13
 ds-rdata:     5450 8 2 0BE5B2CD561159EC40895CC8A8D79D74B3437A4CA4D4D48FE1863315C092CA98
 
 whois:        whois.nic.bayern
@@ -47,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://mm-registry.com
 
 created:      2014-03-13
-changed:      2017-04-20
+changed:      2017-05-26
 source:       IANA
 
