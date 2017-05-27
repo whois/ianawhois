@@ -36,7 +36,6 @@ nserver:      DNSA.NIC.BRADESCO 156.154.100.3 2001:502:ad09:0:0:0:0:3
 nserver:      DNSB.NIC.BRADESCO 156.154.101.3
 nserver:      DNSC.NIC.BRADESCO 156.154.102.3
 nserver:      DNSD.NIC.BRADESCO 156.154.103.3
-ds-rdata:     7657 8 2 BC2C8FF25D9B0F83784709036CF90BD494C1B5481FA1CFEF62642714327AD616
 ds-rdata:     44254 8 2 49F78D30A829D5D40A7671F9831DF0F056FC7F4E8E39906C905AFB8EB1B54100
 
 whois:        whois.nic.bradesco
@@ -45,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://mm-registry.com
 
 created:      2015-05-29
-changed:      2017-04-20
+changed:      2017-05-26
 source:       IANA
 
