@@ -4,7 +4,7 @@
 
 domain:       OSAKA
 
-organisation: Interlink Co., Ltd.
+organisation: Osaka Registry Co., Ltd.
 address:      Level 19 Hilton Plaza West Office Tower
 address:      2-2-2 Umeda Kita-ku
 address:      Osaka 530-0001 Japan
@@ -12,7 +12,7 @@ address:      Japan
 
 contact:      administrative
 name:         Jacob Williams
-organisation: Interlink Co., Ltd.
+organisation: Osaka Registry Co., Ltd.
 address:      Level 19 Hilton Plaza West Office Tower
 address:      2-2-2 Umeda Kita-ku
 address:      Osaka 530-0001 Japan
@@ -44,10 +44,9 @@ ds-rdata:     41335 8 1 F6198B6A1CAC62D7EC4FCF707BBB88E4A160A229
 whois:        whois.nic.osaka
 
 status:       ACTIVE
-remarks:      Registration information:
-remarks:      http://www.interlink.or.jp/gtld/info.html
+remarks:      Registration information: http://domain.osaka/
 
 created:      2014-12-04
-changed:      2016-12-21
+changed:      2017-06-01
 source:       IANA
 
