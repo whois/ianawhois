@@ -36,7 +36,6 @@ nserver:      DNSA.NIC.LONDON 156.154.100.3 2001:502:ad09:0:0:0:0:3
 nserver:      DNSB.NIC.LONDON 156.154.101.3
 nserver:      DNSC.NIC.LONDON 156.154.102.3
 nserver:      DNSD.NIC.LONDON 156.154.103.3
-ds-rdata:     27077 8 2 2756E9F7A79F2C26BA652C0C9BE19056AB89A0C7CFE90468713FDE7182DD393B
 ds-rdata:     11861 8 2 5083FACFD25EDC276C25D2D3DA986F370C82BF31A01821ABF462C35800548F77
 
 whois:        whois.nic.london
@@ -46,6 +45,6 @@ remarks:      Registration information:
 remarks:      http://www.dotlondondomains.london/
 
 created:      2014-02-13
-changed:      2016-11-15
+changed:      2017-06-01
 source:       IANA
 
