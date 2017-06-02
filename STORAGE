@@ -4,31 +4,29 @@
 
 domain:       STORAGE
 
-organisation: Self Storage Company LLC
-address:      2795 E. Cottonwood Parkway Suite 400
-address:      Salt Lake City, UT 84121
+organisation: XYZ.COM LLC
+address:      2121 E Tropicana Ave, STE2
+address:      Las Vegas, NV 89119
 address:      United States
 
 contact:      administrative
-name:         Managing Partner
-organisation: FairWinds Partners
-address:      1000 Potomac Street NW Suite 350
-address:      Washington, DC 20007
+name:         General Counsel
+organisation: XYZ.COM LLC
+address:      2800 Olympic Blvd., #1
+address:      Santa Monica, CA 90404
 address:      United States
-phone:        +1 202 223 9252
-fax-no:       +1 202 223 9256
-e-mail:       storageregistry@fairwindspartners.com
+phone:        +1 7027576555
+e-mail:       grant@team.xyz
 
 contact:      technical
-name:         Senior Director, DNS Infrastructure Group
-organisation: Afilias
-address:      Building 3, Suite 105
-address:      300 Welsh Road
-address:      Horsham, PA 19044
-address:      United States
-phone:        +1 215.706.5700
-fax-no:       +1 215.706.5701
-e-mail:       tld-tech-poc@afilias.info
+name:         CTO
+organisation: CentralNic
+address:      35-39 Moorgate
+address:      London EC2R 6AR
+address:      United Kingdom
+phone:        +44.2033880600
+fax-no:       +44.2033880601
+e-mail:       tld.ops@centralnic.com
 
 nserver:      A.NIC.STORAGE 194.169.218.55 2001:67c:13cc:0:0:0:1:55
 nserver:      B.NIC.STORAGE 185.24.64.55 2a04:2b00:13cc:0:0:0:1:55
@@ -39,12 +37,12 @@ ds-rdata:     7459 7 1 33e4cfaea1cba68fb29d461d46aba3207aecf966
 ds-rdata:     50476 7 2 BF2260B22C8C9630DC3E5CE22130C4FB97EDD6B27805A05F8F526B951B465156
 ds-rdata:     50476 7 1 AD942D7FAEF7C429FEE5497A67162643E96E1841
 
-whois:        whois.afilias-srs.net
+whois:        whois.nic.storage
 
 status:       ACTIVE
-remarks:      Registration information: http://www.extraspace.com/
+remarks:      Registration information: https://get.storage/
 
 created:      2015-12-10
-changed:      2017-04-28
+changed:      2017-06-02
 source:       IANA
 
