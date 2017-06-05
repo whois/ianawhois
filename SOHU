@@ -13,8 +13,7 @@ name:         dns admin
 organisation: Sohu.com Limited
 address:      SOHU.com Media Plaza, Block 3, No.2 Kexueyuan South Road, Haidian District, Beijing, China
 address:      China
-phone:        +86-10-62726666
-fax-no:       +86-10-58722727
+phone:        +86-10-56602146
 e-mail:       dnsadmin@sohu-inc.com
 
 contact:      technical
@@ -22,8 +21,7 @@ name:         technical support
 organisation: Sohu.com Limited
 address:      SOHU.com Media Plaza, Block 3, No.2 Kexueyuan South Road, Haidian District, Beijing, China
 address:      China
-phone:        +86-10-62728472
-fax-no:       +86-10-58722727
+phone:        +86-10-56602146
 e-mail:       dnsadmin@sohu-inc.com
 
 nserver:      A.ZDNSCLOUD.COM 1.8.240.1
@@ -40,6 +38,6 @@ ds-rdata:     40006 8 2 ebca28d1719e42ce777578f4af7d7269f74bb740f72e18071c820d0e
 status:       ACTIVE
 
 created:      2014-02-27
-changed:      2016-10-12
+changed:      2017-06-05
 source:       IANA
 
