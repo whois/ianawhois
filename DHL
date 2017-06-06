@@ -20,14 +20,14 @@ fax-no:       +49 (0) 228 182-96799
 e-mail:       newgtlds.w.karagiannaki@deutschepost.de
 
 contact:      technical
-name:         Jan Jansen
-organisation: NCC Group Domain Services
-address:      21, rue Leon Laval
-address:      3372 Leudelange
-address:      Luxembourg
-phone:        +32 3 491 08 80
-fax-no:       +32 3 290 07 70
-e-mail:       dhl@openregistry.com
+name:         CTO
+organisation: KSregistry GmbH
+address:      Im Oberen Werk 1
+address:      66386 St. Ingbert
+address:      Germany
+phone:        +49.68949396250
+fax-no:       +49.68949396251
+e-mail:       icann@ksregistry.com
 
 nserver:      A.NS.NIC.DHL 2a02:2790:1:53:0:0:22:1 89.207.190.28
 nserver:      C.NS.NIC.DHL 46.137.111.0
@@ -39,6 +39,6 @@ ds-rdata:     33051 7 2 8F83E4018FB981E5F7D18DF96549EC57B31A143C6F8A6D0100381085
 status:       ACTIVE
 
 created:      2016-05-26
-changed:      2016-06-02
+changed:      2017-06-06
 source:       IANA
 
