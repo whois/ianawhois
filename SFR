@@ -23,14 +23,14 @@ fax-no:       +33488662220
 e-mail:       tldsfr@safebrands.com
 
 contact:      technical
-name:         Jan Jansen
-organisation: NCC Groups Domaine Services
-address:      2, Rue Leon Laval
-address:      3372 Leudelange
-address:      Luxembourg
-phone:        +3234910880
-fax-no:       +3232900770
-e-mail:       jan@openregistry.com
+name:         CTO
+organisation: KSregistry GmbH
+address:      Im Oberen Werk 1
+address:      66386 St. Ingbert
+address:      Germany
+phone:        +49.68949396250
+fax-no:       +49.68949396251
+e-mail:       icann@ksregistry.com
 
 nserver:      A.NS.NIC.SFR 2a02:2790:1:53:0:0:18:1 89.207.190.25
 nserver:      C.NS.NIC.SFR 54.228.236.26
@@ -44,6 +44,6 @@ whois:        whois.nic.sfr
 status:       ACTIVE
 
 created:      2015-11-12
-changed:      2015-12-01
+changed:      2017-06-06
 source:       IANA
 
