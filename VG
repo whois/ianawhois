@@ -32,7 +32,6 @@ e-mail:       support@ksregistry.net
 nserver:      A.VG.DYNTLD.NET 162.88.52.1 2600:2000:3000:0:0:0:0:1
 nserver:      B.VG.DYNTLD.NET 162.88.53.1 2600:2000:3001:0:0:0:0:1
 nserver:      VG-NS.ANYCAST.PCH.NET 2001:500:14:6084:ad:0:0:1 204.61.216.84
-nserver:      VG.CCTLD.AUTHDNS.RIPE.NET 193.0.9.124 2001:67c:e0:0:0:0:0:124
 
 whois:        whois.nic.vg
 
@@ -40,6 +39,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.vg
 
 created:      1997-02-20
-changed:      2016-06-06
+changed:      2017-06-09
 source:       IANA
 
