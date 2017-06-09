@@ -4,20 +4,19 @@
 
 domain:       TL
 
-organisation: Ministry of Transport and  Communications; National Division of  Information and Technology
-address:      Av. Bispo de Modeiros 8
+organisation: Autoridade Nacional de Comunicações
+address:      Avenida Bispo de Medeiros 8
 address:      Dili 10000
 address:      Timor-leste
 
 contact:      administrative
-name:         Nicolau Santos Celestino
-organisation: National Division of Information and  Technology (Ministry of Transport and  Communications)
-address:      Av. Bispo de Modeiros 8
+name:         Chairman
+organisation: Autoridade Nacional  de Comunicações (ANC) of Timor-Leste
+address:      Avenida Bispo de Medeiros 8
 address:      Dili 10000
 address:      Timor-leste
-phone:        +670 3339330
-fax-no:       +670 3339350
-e-mail:       nicolau.celestino@sapo.tl
+phone:        +670 3311415
+e-mail:       cctld@anc.tl
 
 contact:      technical
 name:         Garth Miller
@@ -40,6 +39,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.tl
 
 created:      2005-03-23
-changed:      2015-02-05
+changed:      2017-06-09
 source:       IANA
 
