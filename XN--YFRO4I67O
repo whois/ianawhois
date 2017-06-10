@@ -39,6 +39,7 @@ nserver:      NS2.CUHK.EDU.HK 137.189.6.21 2405:3000:3:6:0:0:0:15
 nserver:      SEC3.APNIC.NET 2001:dc0:1:0:4777:0:0:140 202.12.28.140
 nserver:      SG-NS.ANYCAST.PCH.NET 2001:500:14:6057:ad:0:0:1 204.61.216.57
 ds-rdata:     33379 8 2 5F23FB267547B28E2A5B835071212E63E01A8F34AD142CCEC78E1D854EEC1706
+ds-rdata:     52219 8 2 99EDE89CDA825BE2B6743C36F7ACF5E95FDF63CE76CD372EB6D1C5A49B006B41
 
 whois:        whois.sgnic.sg
 
@@ -46,6 +47,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.sgnic.sg/
 
 created:      2011-02-05
-changed:      2016-12-06
+changed:      2017-06-10
 source:       IANA
 
