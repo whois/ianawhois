@@ -1,0 +1,52 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       اتصالات
+domain-ace:   XN--MGBAAKC7DVF
+
+organisation: Emirates Telecommunications Corporation (trading as Etisalat)
+address:      Etisalat Building
+address:      Intersection of Zayed The 1st Street and Sheikh Rashid Bin Saeed Al Maktoum Street
+address:      P.O. Box 3838
+address:      Abu Dhabi
+address:      United Arab Emirates
+
+contact:      administrative
+name:         Primary Contact – Etisalat TLDs
+organisation: Emirates Telecommunications Corporation (trading as Etisalat)
+address:      Etisalat Building
+address:      Intersection of Zayed The 1st Street and Sheikh Rashid Bin Saeed Al Maktoum Street
+address:      P.O. Box 3838
+address:      Abu Dhabi
+address:      United Arab Emirates
+phone:        +44.2033880600
+fax-no:       +44.2033880601
+e-mail:       tas-etisalat-primary@centralnic.com
+
+contact:      technical
+name:         CTO
+organisation: CentralNic
+address:      35-39 Moorgate
+address:      London EC2R 6AR
+address:      United Kingdom
+phone:        +44.2033880600
+fax-no:       +44.2033880601
+e-mail:       tld.ops@centralnic.com
+
+nserver:      A.NIC.XN--MGBAAKC7DVF 194.169.218.23 2001:67c:13cc:0:0:0:1:23
+nserver:      B.NIC.XN--MGBAAKC7DVF 185.24.64.23 2a04:2b00:13cc:0:0:0:1:23
+nserver:      C.NIC.XN--MGBAAKC7DVF 212.18.248.23 2a04:2b00:13ee:0:0:0:0:23
+nserver:      D.NIC.XN--MGBAAKC7DVF 212.18.249.23 2a04:2b00:13ff:0:0:0:0:23
+ds-rdata:     1841 8 1 3ABD4823CF90E3891ACC13438DB4953AB99F5255
+ds-rdata:     1841 8 2 91BB6CEFFE38DDB9BD891A2A9D3CD1A86A6862F23F5E1BF5E9C77944BF47C030
+
+whois:        whois.centralnic.com
+
+status:       ACTIVE
+remarks:      Registration information: http://www.etisalat.ae/
+
+created:      2017-05-18
+changed:      2017-06-11
+source:       IANA
+
