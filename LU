@@ -10,24 +10,24 @@ address:      LU-4365 Esch-sur-Alzette
 address:      Luxembourg
 
 contact:      administrative
-name:         Antoine Barthel
-organisation: RESTENA
-address:      2, avenue de l'Université
-address:      LU-4365 Esch-sur-Alzette
-address:      Luxembourg
-phone:        +352.4244091
-fax-no:       +352.422473
-e-mail:       antoine.barthel@restena.lu
-
-contact:      technical
 name:         Gilles Massen
-organisation: RESTENA
+organisation: Fondation RESTENA
 address:      2, avenue de l'Université
 address:      LU-4365 Esch-sur-Alzette
 address:      Luxembourg
 phone:        +352.4244091
 fax-no:       +352.422473
 e-mail:       gilles.massen@restena.lu
+
+contact:      technical
+name:         NOC
+organisation: Fondation RESTENA
+address:      2, avenue de l'Université
+address:      LU-4365 Esch-sur-Alzette
+address:      Luxembourg
+phone:        +352.4244091
+fax-no:       +352.422473
+e-mail:       noc@restena.lu
 
 nserver:      G.DNS.LU 194.0.23.5 2001:678:1b:5:0:0:0:5
 nserver:      I.DNS.LU 194.146.106.66 2001:67c:1010:16:0:0:0:53
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.dns.lu
 
 created:      1995-01-27
-changed:      2016-07-16
+changed:      2017-06-12
 source:       IANA
 
