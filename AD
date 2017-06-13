@@ -20,14 +20,14 @@ fax-no:       +376 863667
 e-mail:       joan-marc.lauga@andorratelecom.ad
 
 contact:      technical
-name:         Sergi Lucas
+name:         Marc RODRÍGUEZ RAMOS
 organisation: Andorra Telecom
 address:      Carrer Mossèn Lluís Pujol, 8-14
 address:      Santa Coloma AD500
 address:      Andorra
-phone:        +376 875000
+phone:        +376 875295
 fax-no:       +376 863667
-e-mail:       sergi.lucas@andorratelecom.ad
+e-mail:       marc.rodriguez@andorratelecom.ad
 
 nserver:      AD.CCTLD.AUTHDNS.RIPE.NET 193.0.9.53 2001:67c:e0:0:0:0:0:53
 nserver:      AD.NS.NIC.ES 194.69.254.15
@@ -44,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.ad
 
 created:      1996-01-09
-changed:      2017-06-06
+changed:      2017-06-13
 source:       IANA
 
