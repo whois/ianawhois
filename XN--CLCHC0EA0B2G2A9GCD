@@ -38,7 +38,6 @@ nserver:      DSANY2.SGNIC.SG 194.0.1.16 2001:678:4:0:0:0:0:10
 nserver:      NS2.CUHK.EDU.HK 137.189.6.21 2405:3000:3:6:0:0:0:15
 nserver:      SEC3.APNIC.NET 2001:dc0:1:0:4777:0:0:140 202.12.28.140
 nserver:      SG-NS.ANYCAST.PCH.NET 2001:500:14:6057:ad:0:0:1 204.61.216.57
-ds-rdata:     18415 8 2 9741C89B88D57A7BD4A2B924CD4ED6331039932C4B530D3309E26E94ABEFEE54
 ds-rdata:     15226 8 2 8D5F2E015AB70852AB5D0F38BD34241FE57B9880988A21CB12E9D1A4B7C15794
 
 whois:        whois.sgnic.sg
@@ -47,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.sgnic.sg/
 
 created:      2011-02-05
-changed:      2017-06-10
+changed:      2017-06-13
 source:       IANA
 
