@@ -29,7 +29,7 @@ phone:        +678 23000 EXT 210
 fax-no:       +678 24319
 e-mail:       iana@tvl.net.vu
 
-nserver:      CCTLD-VU.ORANGE.MU 196.192.110.15
+nserver:      ANYTLD.APNIC.NET 2001:dd8:12:0:0:0:0:53 203.119.43.53
 nserver:      EFATE.VANUATU.COM.VU 202.80.32.5
 nserver:      NS1-CCTLD.VUNIC.VU 202.80.32.9
 nserver:      NS2-CCTLD.VUNIC.VU 202.80.32.10
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.vunic.vu
 
 created:      1995-04-10
-changed:      2017-05-08
+changed:      2017-06-15
 source:       IANA
 
