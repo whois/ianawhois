@@ -30,7 +30,7 @@ nserver:      A.GMOREGISTRY.NET 2001:dcd:1:0:0:0:0:4 37.209.192.4
 nserver:      B.GMOREGISTRY.NET 2001:dcd:2:0:0:0:0:4 37.209.194.4
 nserver:      K.GMOREGISTRY.NET 37.209.196.4
 nserver:      L.GMOREGISTRY.NET 2001:dcd:4:0:0:0:0:4 37.209.198.4
-ds-rdata:     21542 8 2 9c88026047ad1bd2d175582a38d0c5ea473a564e543034067e480a94710a9f23
+ds-rdata:     3289 8 2 a1918807db979facfe5ff50d117c8409010c6c9de5c68171ce8609039b00e462
 
 whois:        whois.nic.canon
 
@@ -38,6 +38,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.canon
 
 created:      2015-01-29
-changed:      2016-04-18
+changed:      2017-06-19
 source:       IANA
 
