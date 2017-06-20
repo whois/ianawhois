@@ -41,7 +41,7 @@ nserver:      A.GMOREGISTRY.NET 2001:dcd:1:0:0:0:0:4 37.209.192.4
 nserver:      B.GMOREGISTRY.NET 2001:dcd:2:0:0:0:0:4 37.209.194.4
 nserver:      K.GMOREGISTRY.NET 37.209.196.4
 nserver:      L.GMOREGISTRY.NET 2001:dcd:4:0:0:0:0:4 37.209.198.4
-ds-rdata:     59500 8 2 41df2bd2893b87fc2f2df52db9d8fdf19b41bc06959a91350abdcf10b1f008a2
+ds-rdata:     28984 8 2 58b328e736506e58298f3f91d27aa0053abcc24980e4afa4e9c561bfe44fbaec
 
 whois:        whois.nic.toyota
 
@@ -49,6 +49,6 @@ status:       ACTIVE
 remarks:      Registration information: http://toyota.jp/
 
 created:      2015-07-16
-changed:      2016-03-11
+changed:      2017-06-20
 source:       IANA
 
