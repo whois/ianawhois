@@ -5,28 +5,31 @@
 domain:       GU
 
 organisation: University of Guam
-organisation: Computer Center
+address:      Office of Information Technology
+address:      303 University Drive
 address:      UOG Station
-address:      Mangilao  96923
+address:      Mangilao, 96923
 address:      Guam
 
 contact:      administrative
-name:         Dr. Luan Nguyen
+name:         Network Operations Center
 organisation: University of Guam
-organisation: Computer Center
+address:      Office of Information Technology
+address:      303 University Drive
 address:      UOG Station
-address:      Mangilao  96923
+address:      Mangilao, 96923
 address:      Guam
-phone:        +671 735 2635
+phone:        +671 735 2640
 fax-no:       +671 734 9422
 e-mail:       uognoc@triton.uog.edu
 
 contact:      technical
-name:         Rudolph E. Villaverde
+name:         Network Operations Center
 organisation: University of Guam
-organisation: Computer Center
+address:      Office of Information Technology
 address:      303 University Drive
-address:      Mangilao  96923
+address:      UoG Station
+address:      Mangilao, 96923
 address:      Guam
 phone:        +671 735 2640
 fax-no:       +671 734 9422
@@ -40,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://gadao.gov.gu
 
 created:      1994-04-15
-changed:      2017-06-02
+changed:      2017-06-20
 source:       IANA
 
