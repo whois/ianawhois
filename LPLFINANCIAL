@@ -22,14 +22,14 @@ fax-no:       +1 704 329 4299
 e-mail:       tara.heptinstall@lpl.com
 
 contact:      technical
-name:         Jan Jansen
-organisation: NCC Group Domain Services
-address:      21, rue Leon Laval
-address:      3372 Leudelange
-address:      Luxembourg
-phone:        +32 3 491 08 80
-fax-no:       +32 3 290 07 70
-e-mail:       lplfinancial@openregistry.com
+name:         CTO
+organisation: KSregistry GmbH
+address:      Im Oberen Werk 1
+address:      66386 St. Ingbert
+address:      Germany
+phone:        +49.68949396250
+fax-no:       +49.68949396251
+e-mail:       icann@ksregistry.com
 
 nserver:      A.NS.NIC.LPLFINANCIAL 2a02:2790:1:53:0:0:23:1 89.207.190.29
 nserver:      C.NS.NIC.LPLFINANCIAL 54.228.237.11
@@ -43,6 +43,6 @@ whois:        whois.nic.lplfinancial
 status:       ACTIVE
 
 created:      2016-06-30
-changed:      2016-07-19
+changed:      2017-06-23
 source:       IANA
 
