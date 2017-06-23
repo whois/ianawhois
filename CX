@@ -22,13 +22,12 @@ e-mail:       admin@cxda.org.cx
 
 contact:      technical
 name:         Brad Waugh
-organisation: Christmas Island Domain Administration Limited
-address:      Christmas Island Technology Centre (6RCI)
-address:      Nursery Road, Drumsite
-address:      Indian Ocean 6798
-address:      Christmas Island
-phone:        +61.8.9467.5918
-e-mail:       registry@cxda.org.cx
+organisation: CoCCA XO Pty. Ltd.
+address:      Unit 552,  83-93 Dalmeny Avenue
+address:      Rosebery NSW 2018
+address:      Australia
+phone:        +61 (0)8 6102 7988
+e-mail:       iana@cocca.com.au
 
 nserver:      A.CX.DYNTLD.NET 199.19.5.3 2001:500:92:0:0:0:0:3
 nserver:      B.CX.DYNTLD.NET 199.19.6.3 2001:500:96:0:0:0:0:3
@@ -41,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://cxda.org.cx
 
 created:      1997-04-24
-changed:      2016-04-26
+changed:      2017-06-23
 source:       IANA
 
