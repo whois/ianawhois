@@ -20,12 +20,12 @@ e-mail:       nf-admin@nic.net.nf
 
 contact:      technical
 name:         Garth Miller
-organisation: CoCCA Registry Services(NZ) Limited
-address:      11a Wynyard Street
-address:      Devonport Auckland 0744
-address:      New Zealand
-phone:        64 9 446 6370
-e-mail:       noc@cocca.org.nz
+organisation: CoCCA XO Pty. Ltd.
+address:      Unit 552,  83-93 Dalmeny Avenue
+address:      Rosebery NSW 2018
+address:      Australia
+phone:        +61 (0)8 6102 7988
+e-mail:       iana@cocca.com.au
 
 nserver:      A.NF.DYNTLD.NET 199.19.5.10 2001:500:92:0:0:0:0:10
 nserver:      B.NF.DYNTLD.NET 199.19.6.10 2001:500:96:0:0:0:0:10
@@ -38,6 +38,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.nf
 
 created:      1996-03-18
-changed:      2015-04-02
+changed:      2017-06-23
 source:       IANA
 
