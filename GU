@@ -37,12 +37,13 @@ e-mail:       uognoc@triton.uog.edu
 
 nserver:      GOLD.UOG.EDU 168.123.250.66
 nserver:      GREEN.UOG.EDU 168.123.250.56
+nserver:      GU.CCTLD.AUTHDNS.RIPE.NET 193.0.9.78 2001:67c:e0:0:0:0:0:78
 nserver:      PHLOEM.UOREGON.EDU 128.223.32.35 2001:468:d01:20:0:0:80df:2023
 
 status:       ACTIVE
 remarks:      Registration information: http://gadao.gov.gu
 
 created:      1994-04-15
-changed:      2017-06-20
+changed:      2017-06-28
 source:       IANA
 
