@@ -9,13 +9,14 @@ address:      25 avenue Matignon | 75008 Paris | FRANCE
 address:      France
 
 contact:      administrative
-name:         Jean-Marc Moulin
-organisation: AXA GS
-address:      39, rue du Colisée
-address:      75008 Paris
+name:         Mark Wilson
+organisation: AXA Group
+address:      Tour Manhattan 5-6 Place de l’iris
+address:      La Défense Cedex
+address:      92400 PARIS
 address:      France
-phone:        +33 1 40 75 96 18
-e-mail:       jeanmarc.moulin@axa-groupsolutions.com
+phone:        +44 7977 917316
+e-mail:       mark.wilson@axa.com
 
 contact:      technical
 name:         Sean Kaine
@@ -41,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.axa.com
 
 created:      2014-03-13
-changed:      2016-11-23
+changed:      2017-06-27
 source:       IANA
 
