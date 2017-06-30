@@ -1,0 +1,48 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       بارت
+domain-ace:   XN--MGBBH1A
+
+organisation: National Internet eXchange of India
+address:      6C,6D,6E Hansalaya Building 15, Barakhamba Road
+address:      New Delhi 110 001
+address:      India
+
+contact:      administrative
+name:         Rajiv Kumar
+organisation: National Internet eXchange of India
+address:      6C,6D,6E Hansalaya Building 15, Barakhamba Road
+address:      New Delhi 110 001
+address:      India
+phone:        +91 11 4820 2011
+fax-no:       +91 11 4820 2013
+e-mail:       registry@nixi.in
+
+contact:      technical
+name:         Rajiv Kumar
+organisation: National Internet eXchange of India
+address:      6C,6D,6E Hansalaya Building 15, Barakhamba Road
+address:      New Delhi 110 001
+address:      India
+phone:        +91 11 4820 2011
+fax-no:       +91 11 4820 2013
+e-mail:       domaintech@registry.in
+
+nserver:      A0.IN.AFILIAS-NST.IN 199.7.87.1 2001:500:29:0:0:0:0:1
+nserver:      A1.IN.AFILIAS-NST.IN 115.249.164.142 2001:4528:fff:13:0:0:0:142
+nserver:      A2.IN.AFILIAS-NST.IN 199.249.117.1 2001:500:45:0:0:0:0:1
+nserver:      B0.IN.AFILIAS-NST.IN 199.253.56.1 2001:500:50:0:0:0:0:1
+nserver:      B1.IN.AFILIAS-NST.IN 180.179.215.70 2401:8800:411:8:0:0:0:70
+nserver:      B2.IN.AFILIAS-NST.IN 199.249.125.1 2001:500:4d:0:0:0:0:1
+nserver:      C0.IN.AFILIAS-NST.IN 199.253.57.1 2001:500:51:0:0:0:0:1
+ds-rdata:     34288 7 1 76331774785f9b2437c03143f32fd4225bd0751e
+ds-rdata:     34288 7 2 ed6e6e6566242a5dc846dd353fffbb27f6dd3b162a1365669d60b68b9cc115ad
+
+status:       ACTIVE
+
+created:      2016-08-15
+changed:      2017-06-30
+source:       IANA
+
