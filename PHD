@@ -1,0 +1,47 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       PHD
+
+organisation: Charleston Road Registry Inc.
+address:      1600 Amphitheatre Parkway
+address:      Mountain View, CA 94043
+address:      United States
+
+contact:      administrative
+name:         Stephanie Duchesneau
+organisation: Google Inc.
+address:      76 Ninth Avenue, 4th Floor
+address:      New York, NY 10011
+address:      United States
+phone:        1 202 642 2325
+fax-no:       1 650 492 5631
+e-mail:       crr-tech@google.com
+
+contact:      technical
+name:         Richard Roberto
+organisation: Google Inc.
+address:      76 9th Avenue, 4th Floor
+address:      New York, NY 10011
+address:      United States
+phone:        1 212 565 2633
+fax-no:       1 650 492 5631
+e-mail:       crr-tech@google.com
+
+nserver:      NS-TLD1.CHARLESTONROADREGISTRY.COM 2001:4860:4802:32:0:0:0:69 216.239.32.105
+nserver:      NS-TLD2.CHARLESTONROADREGISTRY.COM 2001:4860:4802:34:0:0:0:69 216.239.34.105
+nserver:      NS-TLD3.CHARLESTONROADREGISTRY.COM 2001:4860:4802:36:0:0:0:69 216.239.36.105
+nserver:      NS-TLD4.CHARLESTONROADREGISTRY.COM 2001:4860:4802:38:0:0:0:69 216.239.38.105
+nserver:      NS-TLD5.CHARLESTONROADREGISTRY.COM 2001:4860:4805:0:0:0:0:69 216.239.60.105
+ds-rdata:     34957 8 2 3e40ff4f32fd06cabe17d0ba3fcfe68b5ebcbc1af22a1e0b399002dd2b86d465
+
+whois:        whois.nic.google
+
+status:       ACTIVE
+remarks:      Registration information: http://www.registry.google
+
+created:      2017-06-15
+changed:      2017-06-30
+source:       IANA
+
