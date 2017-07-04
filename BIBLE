@@ -16,8 +16,8 @@ address:      101 North Independence Mall East FL8
 address:      Philadelphia, PA 19106-2112
 address:      United States
 phone:        +1 215-309-0900
-fax-no:       +1 215-309-0354
-e-mail:       operations@bibletld.org
+fax-no:       +1 215-689-4308
+e-mail:       operations@nic.bible
 
 contact:      technical
 name:         Sean Kaine
@@ -39,10 +39,12 @@ ds-rdata:     24694 8 2 9E1C7BB8888954DED329CAE7F87FAD3F251A990B6DDE56149391EECD
 ds-rdata:     33265 8 2 9279FC7830A22C459D134DAC81701D486749BDC302CC5080C1B5A0ADB2363BA1
 ds-rdata:     33265 8 1 25178E9A03ED171467358ADF0998BFEAE54923F6
 
+whois:        whois.nic.bible
+
 status:       ACTIVE
-remarks:      Registration information: http://bibletld.org
+remarks:      Registration information: http://get.bible
 
 created:      2015-05-14
-changed:      2016-12-15
+changed:      2017-07-03
 source:       IANA
 
