@@ -38,8 +38,8 @@ e-mail:       gr-noc@ics.forth.gr
 nserver:      ESTIA.ICS.FORTH.GR 139.91.191.3 2001:648:2c30:0:0:0:191:3
 nserver:      GR-AT.ICS.FORTH.GR 78.104.145.227
 nserver:      GR-C.ICS.FORTH.GR 194.0.1.25 2001:678:4:0:0:0:0:19
+nserver:      GR-D.ICS.FORTH.GR 194.0.11.102 2001:678:e:102:0:0:0:53
 nserver:      GR-M.ICS.FORTH.GR 194.0.4.10 2001:678:7:0:0:0:4:10
-nserver:      GRDNS-DE.DENIC.DE 81.91.161.80
 nserver:      GRDNS.ICS.FORTH.GR 139.91.1.1
 ds-rdata:     35136 7 2 F7BF4C362B838C2069C9083FD38846BBB5D79EDBDE298F9268997307EA7DD5C3
 
@@ -47,6 +47,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.gr
 
 created:      1989-02-19
-changed:      2016-06-17
+changed:      2017-07-07
 source:       IANA
 
