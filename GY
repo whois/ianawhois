@@ -31,9 +31,9 @@ phone:        +592 2225426
 fax-no:       +592 2225443
 e-mail:       tech@registry.gy
 
+nserver:      A.GY.DYNTLD.NET 199.19.5.5 2001:500:92:0:0:0:0:5
+nserver:      B.GY.DYNTLD.NET 199.19.6.5 2001:500:96:0:0:0:0:5
 nserver:      GY-NS.ANYCAST.PCH.NET 2001:500:14:6034:ad:0:0:1 204.61.216.34
-nserver:      NS1.GTT.CO.GY 190.80.0.41
-nserver:      NS2.GTT.CO.GY 190.80.0.42
 nserver:      PHLOEM.UOREGON.EDU 128.223.32.35 2001:468:d01:20:0:0:80df:2023
 nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e:0:0:0:0:1
 
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://registry.gy/
 
 created:      1994-09-13
-changed:      2017-06-23
+changed:      2017-07-07
 source:       IANA
 
