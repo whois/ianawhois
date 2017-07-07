@@ -29,7 +29,7 @@ address:      Chile
 phone:        +56 22 940 7700
 e-mail:       jpiquer@nic.cl
 
-nserver:      A.NIC.CL 200.1.121.10 2001:1398:121:0:190:124:27:10
+nserver:      A.NIC.CL 190.124.27.10 2001:1398:121:0:190:124:27:10
 nserver:      B.NIC.CL 200.7.4.7 2001:1398:274:0:200:7:4:7
 nserver:      C.NIC.CL 200.16.112.16
 nserver:      CL-NS.ANYCAST.PCH.NET 2001:500:14:6030:ad:0:0:1 204.61.216.30
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.cl/
 
 created:      1995-01-27
-changed:      2016-12-20
+changed:      2017-07-07
 source:       IANA
 
