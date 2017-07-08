@@ -33,7 +33,8 @@ e-mail:       moviedo@nic.cr
 
 nserver:      A.LACTLD.ORG 200.0.68.10 2801:14:a000:0:0:0:0:10
 nserver:      A.NS.CR 200.107.82.100 2001:13c7:7004:1:0:0:0:d100
-nserver:      C.NS.CR 193.0.9.69
+nserver:      CA1.NIC.CR 185.159.197.100 2620:10a:80aa:0:0:0:0:100
+nserver:      CA2.NIC.CR 185.159.198.100 2620:10a:80ab:0:0:0:0:100
 nserver:      DE.NIC.CR 194.0.11.107 2001:678:e:107:0:0:0:53
 nserver:      NS-EXT.NIC.CL 200.1.123.14
 nserver:      NS3.NIC.MX 200.33.111.1
@@ -46,6 +47,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.cr/
 
 created:      1990-09-10
-changed:      2016-12-17
+changed:      2017-07-08
 source:       IANA
 
