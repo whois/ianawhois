@@ -31,6 +31,8 @@ nserver:      B.NIC.BRUSSELS 194.0.37.1 2001:678:64:0:0:0:0:1
 nserver:      C.NS.DNS.BE 194.0.43.1 2001:678:68:0:0:0:0:1
 nserver:      D.NS.DNS.BE 194.0.44.1 2001:678:6c:0:0:0:0:1
 nserver:      W.NIC.BRUSSELS 194.0.25.14 2001:678:20:0:0:0:0:14
+nserver:      X.NIC.BRUSSELS 194.0.1.10 2001:678:4:0:0:0:0:a
+nserver:      Y.NS.DNS.BE 120.29.253.8 2001:dcd:7:0:0:0:0:8
 ds-rdata:     41317 8 1 219383b594756f8ec625e6fcc91be75f0b967cbb
 ds-rdata:     41317 8 2 aae43cd8b8e0015d2bf454796bf13d3870515cb45de1e725de6120c620bae5b1
 ds-rdata:     56467 8 1 0eab7473e857a9f2bcd4e39ad153fd6af0a69fe1
@@ -42,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.brussels
 
 created:      2014-06-05
-changed:      2017-02-13
+changed:      2017-07-08
 source:       IANA
 
