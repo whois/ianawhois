@@ -1,0 +1,43 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       MERCKMSD
+
+organisation: MSD Registry Holdings, Inc.
+address:      2000 Galloping Hill Road
+address:      Kenilworth NJ 07033-1310
+address:      United States
+
+contact:      administrative
+name:         Sr. Spclst, Compliance & Risk Management
+organisation: MSD Registery Holdings Inc
+address:      3070 Route 22 West
+address:      Branchburg NJ 08876-3598
+address:      United States
+phone:        908-243-2545
+e-mail:       merckdomains@merck.com
+
+contact:      technical
+name:         Registry Customer Service
+organisation: Verisign, Inc.
+address:      12061 Bluemont Way
+address:      Reston Virginia 20190
+address:      United States (US)
+address:      United States
+phone:        +1-703-925-6999
+fax-no:       +1-703-948-3978
+e-mail:       info@verisign-grs.com
+
+nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
+nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
+nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
+nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
+ds-rdata:     23340 8 2 F6643D8AE9760F8033A5A14B231851CEDFF97429EF22514CFCB1BA625EAC86A4
+
+status:       ACTIVE
+
+created:      2017-06-15
+changed:      2017-07-11
+source:       IANA
+
