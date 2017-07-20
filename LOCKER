@@ -37,12 +37,12 @@ nserver:      C0.NIC.LOCKER 2a01:8840:60:0:0:0:0:33 65.22.98.33
 ds-rdata:     54879 7 1 f8c9cd832185b0ab8ae8eb4d621ede101797d28d
 ds-rdata:     54879 7 2 0c069572fb6c734d7d753972461c9a72b3a6aaeb1f09bf6a0f41078cde97d570
 
-whois:        whois.afilias-srs.net
+whois:        whois.nic.locker
 
 status:       ACTIVE
 remarks:      Registration information: http://www.dish.com
 
 created:      2016-05-19
-changed:      2016-05-27
+changed:      2017-07-20
 source:       IANA
 
