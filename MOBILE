@@ -37,12 +37,12 @@ nserver:      C0.NIC.MOBILE 2a01:8840:60:0:0:0:0:9 65.22.98.9
 ds-rdata:     57184 7 1 12a5cc9855c54529d7dea1369928dfd9bbaf2abe
 ds-rdata:     57184 7 2 15ff86ae7686124b5b00470d612746b2b4c100fe1c1963acd6ea6326ed5fe8de
 
-whois:        whois.afilias-srs.net
+whois:        whois.nic.mobile
 
 status:       ACTIVE
 remarks:      Registration information: https://www.dish.com/
 
 created:      2016-12-15
-changed:      2016-12-20
+changed:      2017-07-20
 source:       IANA
 
