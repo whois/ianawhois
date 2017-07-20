@@ -37,12 +37,12 @@ nserver:      C0.NIC.LATINO 2a01:8840:5c:0:0:0:0:17 65.22.94.17
 ds-rdata:     53865 7 1 5c40427a61114b8cbbe89388d437119ce788c9ca
 ds-rdata:     53865 7 2 f7b3352b565c49c4ecaf7491af0731a392e492da71bb83e2d308c33f7371c82d
 
-whois:        whois.afilias-srs.net
+whois:        whois.nic.latino
 
 status:       ACTIVE
 remarks:      Registration information: http://www.dish.com/
 
 created:      2016-06-30
-changed:      2016-08-04
+changed:      2017-07-20
 source:       IANA
 
