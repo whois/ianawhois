@@ -37,12 +37,12 @@ nserver:      C0.NIC.SLING 2a01:8840:6c:0:0:0:0:9 65.22.110.9
 ds-rdata:     1935 7 1 58a4213e236fce58f6772240db43a63e61fe6801
 ds-rdata:     1935 7 2 7fafddb40a8428c6ae8eb6c473aae6a695443a6e6059b4f2f78f1ef8e471f48c
 
-whois:        whois.afilias-srs.net
+whois:        whois.nic.sling
 
 status:       ACTIVE
 remarks:      Registration information: http://www.echostar.com/
 
 created:      2016-08-04
-changed:      2016-08-10
+changed:      2017-07-20
 source:       IANA
 
