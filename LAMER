@@ -37,13 +37,13 @@ nserver:      C0.NIC.LAMER 2a01:8840:34:0:0:0:0:25 65.22.54.25
 ds-rdata:     24966 7 1 dba5bec22529691b6fc271c7722b4572ba5777a9
 ds-rdata:     24966 7 2 26882f121f1afbc725d7521ab2bfec09f7c5d9b15df1425250e305b9ad1f167e
 
-whois:        whois.afilias-srs.net
+whois:        whois.nic.lamer
 
 status:       ACTIVE
 remarks:      Registration information:
 remarks:      http://elcompanies.com/Pages/Homepage.aspx
 
 created:      2015-12-10
-changed:      2015-12-24
+changed:      2017-07-20
 source:       IANA
 
