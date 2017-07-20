@@ -37,12 +37,12 @@ nserver:      C0.NIC.HOMEDEPOT 2a01:8840:bc:0:0:0:0:1 65.22.194.1
 ds-rdata:     54618 7 1 b78a4f2ba895067de033f3ddbc154fa0aa002da0
 ds-rdata:     54618 7 2 0a490197f5193d09b6d7e63c3fe8415b98f43b3453bc954a29bb927fd6b05ce5
 
-whois:        whois.afilias-srs.net
+whois:        whois.nic.homedepot
 
 status:       ACTIVE
 remarks:      Registration information: http://www.homedepot.com
 
 created:      2015-05-29
-changed:      2017-02-22
+changed:      2017-07-20
 source:       IANA
 
