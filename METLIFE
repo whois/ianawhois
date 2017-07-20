@@ -36,12 +36,12 @@ nserver:      C0.NIC.METLIFE 2a01:8840:50:0:0:0:0:25 65.22.82.25
 ds-rdata:     50683 7 1 723137048f279d42edcc313f837bf93cb9a2eec1
 ds-rdata:     50683 7 2 2646407388289e3bc17a949e5d0fdd8a007a9b328aaac1e9f05709aa6baee436
 
-whois:        whois.afilias-srs.net
+whois:        whois.nic.metlife
 
 status:       ACTIVE
 remarks:      Registration information: http://www.metlife.com
 
 created:      2016-03-18
-changed:      2016-05-11
+changed:      2017-07-20
 source:       IANA
 
