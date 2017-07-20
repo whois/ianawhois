@@ -37,12 +37,12 @@ nserver:      C0.NIC.OTT 2a01:8840:5c:0:0:0:0:9 65.22.94.9
 ds-rdata:     47394 7 1 1dcaabf533a00b9a2cf33426ce8b478ed41beb96
 ds-rdata:     47394 7 2 276d39d5c44b679eeaba00f81b88be4155eb349a8f590f6a1fb820601dbb4e3d
 
-whois:        whois.afilias-srs.net
+whois:        whois.nic.ott
 
 status:       ACTIVE
 remarks:      Registration information: http://www.dish.com
 
 created:      2016-05-19
-changed:      2016-05-27
+changed:      2017-07-20
 source:       IANA
 
