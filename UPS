@@ -37,12 +37,12 @@ nserver:      C0.NIC.UPS 2a01:8840:ec:0:0:0:0:1 65.22.242.1
 ds-rdata:     1863 7 1 4984be9ea29cd9b939fcf553ba462fa634803dc2
 ds-rdata:     1863 7 2 9e9c0183b9ff4236950b4f4ae29e21845d55a676fd8b17d8821cf46fd2fbd603
 
-whois:        whois.afilias-srs.net
+whois:        whois.nic.ups
 
 status:       ACTIVE
 remarks:      Registration information: http://www.ups.com
 
 created:      2016-04-14
-changed:      2016-05-31
+changed:      2017-07-20
 source:       IANA
 
