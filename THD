@@ -37,12 +37,12 @@ nserver:      C0.NIC.THD 2a01:8840:bc:0:0:0:0:9 65.22.194.9
 ds-rdata:     43611 7 1 99f684f067434a0df49f283603446367ea4f1144
 ds-rdata:     43611 7 2 c4491dc711ebf4a5daf174ee62aa034b144e9ea1533f1a86284ba44510a3a8be
 
-whois:        whois.afilias-srs.net
+whois:        whois.nic.thd
 
 status:       ACTIVE
 remarks:      Registration information: http://www.homedepot.com
 
 created:      2015-05-14
-changed:      2017-02-22
+changed:      2017-07-20
 source:       IANA
 
