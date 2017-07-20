@@ -38,12 +38,12 @@ nserver:      C0.NIC.NEWHOLLAND 2a01:8840:78:0:0:0:0:25 65.22.122.25
 ds-rdata:     29119 7 1 b0e26f9f2d2a351a771367547cb98741d428f54e
 ds-rdata:     29119 7 2 cd3cd9bfdc2c3f9d5288762702ae8ce7c563c72ca7ac0257da4dec061789460a
 
-whois:        whois.afilias-srs.net
+whois:        whois.nic.newholland
 
 status:       ACTIVE
 remarks:      Registration information: http://www.cnhindustrial.com
 
 created:      2016-10-27
-changed:      2016-10-30
+changed:      2017-07-20
 source:       IANA
 
