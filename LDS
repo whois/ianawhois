@@ -41,12 +41,12 @@ nserver:      C0.NIC.LDS 2a01:8840:98:0:0:0:0:9 65.22.154.9
 ds-rdata:     934 7 1 b24b8b815c37c6448c2603f4d9ae6301c3a817b2
 ds-rdata:     934 7 2 be4afc3acfd9c657f3d3bd3eed892ee356e17fcb5df287e3755797eb66b28c21
 
-whois:        whois.afilias-srs.net
+whois:        whois.nic.lds
 
 status:       ACTIVE
 remarks:      Registration information: https://www.lds.org
 
 created:      2014-10-16
-changed:      2014-11-19
+changed:      2017-07-20
 source:       IANA
 
