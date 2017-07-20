@@ -37,13 +37,13 @@ nserver:      C0.NIC.ORIGINS 2a01:8840:34:0:0:0:0:33 65.22.54.33
 ds-rdata:     35613 7 1 7064997cbe4476be22dc96a4444b96827622a570
 ds-rdata:     35613 7 2 e0edb0c263046a70ab69c3ba5c97f1db1df87aa78cf8d9cb83827e0f2921eba4
 
-whois:        whois.afilias-srs.net
+whois:        whois.nic.origins
 
 status:       ACTIVE
 remarks:      Registration information:
 remarks:      http://elcompanies.com/Pages/Homepage.aspx
 
 created:      2015-12-10
-changed:      2015-12-24
+changed:      2017-07-20
 source:       IANA
 
