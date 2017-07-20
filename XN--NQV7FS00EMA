@@ -38,12 +38,12 @@ nserver:      C0.NIC.XN--NQV7FS00EMA 2a01:8840:b4:0:0:0:0:9 65.22.186.9
 ds-rdata:     106 7 1 0d5eb1936ce26f7b0a75b7fa933f20373cc15e8c
 ds-rdata:     106 7 2 aef34bc7fd52709036788d65dc65213dba93bb5f5a3d97655220dd30ec653d03
 
-whois:        whois.publicinterestregistry.net
+whois:        whois.nic.xn--nqv7fs00ema
 
 status:       ACTIVE
 remarks:      Registration information: http://www.pir.org
 
 created:      2014-02-27
-changed:      2016-05-09
+changed:      2017-07-20
 source:       IANA
 
