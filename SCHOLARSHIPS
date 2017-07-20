@@ -37,12 +37,12 @@ nserver:      C0.NIC.SCHOLARSHIPS 2a01:8840:8c:0:0:0:0:17 65.22.142.17
 ds-rdata:     43816 7 1 f2d1768fa10c0ec5008ebe998330fff69e77abbb
 ds-rdata:     43816 7 2 92a696c7cabfef17dc813055668579e387a56fca5de83d91c2eb81828624fdd6
 
-whois:        whois.afilias-srs.net
+whois:        whois.nic.scholarships
 
 status:       ACTIVE
 remarks:      Registration information: http://www.scholarships.com
 
 created:      2014-07-10
-changed:      2017-05-15
+changed:      2017-07-20
 source:       IANA
 
