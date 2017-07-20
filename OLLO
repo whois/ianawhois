@@ -37,12 +37,12 @@ nserver:      C0.NIC.OLLO 2a01:8840:60:0:0:0:0:1 65.22.98.1
 ds-rdata:     51379 7 1 7815633707d4a2bd28cd194b04f5b70d9a34a474
 ds-rdata:     51379 7 2 de0bc4796bfaebbdc19ca9a8dd731ec64e8d772292eeed0cbc71c046590dfdb9
 
-whois:        whois.afilias-srs.net
+whois:        whois.nic.ollo
 
 status:       ACTIVE
 remarks:      Registration information: http://www.dish.com
 
 created:      2016-05-19
-changed:      2016-05-27
+changed:      2017-07-20
 source:       IANA
 
