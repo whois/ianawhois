@@ -37,12 +37,12 @@ nserver:      C0.NIC.HUGHES 2a01:8840:6c:0:0:0:0:1 65.22.110.1
 ds-rdata:     4783 7 1 8db106545645b7f77e2a82c23a18aa8bf1a62146
 ds-rdata:     4783 7 2 73fd0a64dc60abeb6ddae94e835686c9759bf2e9d6aa11bd0aa70b67831c3a1e
 
-whois:        whois.afilias-srs.net
+whois:        whois.nic.hughes
 
 status:       ACTIVE
 remarks:      Registration information: http://www.hughes.com/
 
 created:      2016-08-04
-changed:      2016-08-10
+changed:      2017-07-20
 source:       IANA
 
