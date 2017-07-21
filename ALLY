@@ -36,12 +36,12 @@ nserver:      C0.NIC.ALLY 2a01:8840:40:0:0:0:0:33 65.22.66.33
 ds-rdata:     37575 7 1 edfab65412ef9ebfdcfd3e4ba386f9ccbe4bb624
 ds-rdata:     37575 7 2 2f79da3a40f57a18e64ff9f50aa41725d7ca022ec065177c39908c79a421cdd8
 
-whois:        whois.afilias-srs.net
+whois:        whois.nic.ally
 
 status:       ACTIVE
 remarks:      Registration information: http://www.ally.com
 
 created:      2015-10-22
-changed:      2016-03-24
+changed:      2017-07-20
 source:       IANA
 
