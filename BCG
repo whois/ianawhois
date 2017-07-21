@@ -37,12 +37,12 @@ nserver:      C0.NIC.BCG 2a01:8840:d4:0:0:0:0:25 65.22.218.25
 ds-rdata:     48108 7 1 1fcab02e25c47f8c985a150f983dc199d3e6b9be
 ds-rdata:     48108 7 2 e085676a3b8056349653315e5df6709bb16844ba1dbd701517ffea8b79f7a32e
 
-whois:        whois.afilias-srs.net
+whois:        whois.nic.bcg
 
 status:       ACTIVE
 remarks:      Registration information: http://www.bcg.com
 
 created:      2016-02-11
-changed:      2016-03-09
+changed:      2017-07-20
 source:       IANA
 
