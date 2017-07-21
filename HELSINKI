@@ -37,12 +37,12 @@ nserver:      C0.NIC.HELSINKI 2a01:8840:d8:0:0:0:0:33 65.22.222.33
 ds-rdata:     27610 7 1 eb480799777ccda35296ea62888d36e97b3c49d1
 ds-rdata:     27610 7 2 e609ee0e5dde156ba8965c6e00c325c77f1643f0d433b6e5723d3ca27865719d
 
-whois:        whois.afilias-srs.net
+whois:        whois.nic.helsinki
 
 status:       ACTIVE
 remarks:      Registration information: http://www.hel.fi
 
 created:      2015-12-10
-changed:      2016-03-15
+changed:      2017-07-20
 source:       IANA
 
