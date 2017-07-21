@@ -37,12 +37,12 @@ nserver:      C0.NIC.MONSTER 2a01:8840:64:0:0:0:0:25 65.22.102.25
 ds-rdata:     65523 7 1 a0927d13ff8d54a355b158d01af184962b0d9684
 ds-rdata:     65523 7 2 5a5b5575f92a04519f4c492d13f0f5039df17597db256444cda0ba6ca203a105
 
-whois:        whois.afilias-srs.net
+whois:        whois.nic.monster
 
 status:       ACTIVE
 remarks:      Registration information: http://www.monster.com/
 
 created:      2015-12-23
-changed:      2016-09-14
+changed:      2017-07-20
 source:       IANA
 
