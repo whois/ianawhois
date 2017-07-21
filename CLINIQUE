@@ -37,13 +37,13 @@ nserver:      C0.NIC.CLINIQUE 2a01:8840:34:0:0:0:0:41 65.22.54.41
 ds-rdata:     62341 7 1 dc2c1a2539146a03a2d989b6487fd2c3319954ac
 ds-rdata:     62341 7 2 eceb8cf9f7c2b915ab5a3c4d929960e9db21be3f0cd48ec489324c53314ea338
 
-whois:        whois.afilias-srs.net
+whois:        whois.nic.clinique
 
 status:       ACTIVE
 remarks:      Registration information:
 remarks:      http://elcompanies.com/Pages/Homepage.aspx
 
 created:      2015-12-10
-changed:      2015-12-28
+changed:      2017-07-20
 source:       IANA
 
