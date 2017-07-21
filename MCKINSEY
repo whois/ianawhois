@@ -37,12 +37,12 @@ nserver:      C0.NIC.MCKINSEY 2a01:8840:e8:0:0:0:0:25 65.22.238.25
 ds-rdata:     21081 7 1 1c77dd23709ad50c0ad2ba7aa8dd70cb6a06cfdb
 ds-rdata:     21081 7 2 e683f1c2c4249e0ee733ecb0c5cebe220c1fac450987b726ab6a304099bb17f1
 
-whois:        whois.afilias-srs.net
+whois:        whois.nic.mckinsey
 
 status:       ACTIVE
 remarks:      Registration information: http://www.mckinsey.com/
 
 created:      2016-07-21
-changed:      2016-07-31
+changed:      2017-07-20
 source:       IANA
 
