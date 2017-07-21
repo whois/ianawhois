@@ -37,12 +37,12 @@ nserver:      C0.NIC.FEDEX 2a01:8840:e0:0:0:0:0:33 65.22.230.33
 ds-rdata:     13356 7 1 942fdf70e7f4feb2f8ebb84de1a55048a5bf4db7
 ds-rdata:     13356 7 2 b2a4680b728b4c7cba02fd29d161c981fdd9dba002f93c746404965b1065719c
 
-whois:        whois.afilias-srs.net
+whois:        whois.nic.fedex
 
 status:       ACTIVE
 remarks:      Registration information: http://www.fedex.com/
 
 created:      2016-06-09
-changed:      2016-06-26
+changed:      2017-07-20
 source:       IANA
 
