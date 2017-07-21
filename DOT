@@ -36,12 +36,12 @@ nserver:      C0.NIC.DOT 2a01:8840:5c:0:0:0:0:1 65.22.94.1
 ds-rdata:     31240 7 1 9bc8f9df2406b71a5129200f9f1e2af8daa134dd
 ds-rdata:     31240 7 2 b6d82a83ff48e896f700cdc24582d02b8d035724750237e40ff4fcc5c37c7e5b
 
-whois:        whois.afilias-srs.net
+whois:        whois.nic.dot
 
 status:       ACTIVE
 remarks:      Registration information: http://www.dish.com
 
 created:      2016-04-21
-changed:      2016-05-18
+changed:      2017-07-20
 source:       IANA
 
