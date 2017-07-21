@@ -41,12 +41,12 @@ nserver:      C0.NIC.XN--5TZM5G 2a01:8840:14:0:0:0:0:9 65.22.18.9
 ds-rdata:     13249 7 1 800b951d452c29b9a21dfcf6535513d3cecbdbf2
 ds-rdata:     13249 7 2 f9c57d9b6594b8a8aa132fcc2e4d60f857a8dafd591fb3b9abeb312160dbf503
 
-whois:        whois.afilias-srs.net
+whois:        whois.nic.xn--5tzm5g
 
 status:       ACTIVE
 remarks:      Registration information: http://www.namesphere.asia
 
 created:      2015-12-04
-changed:      2016-04-17
+changed:      2017-07-20
 source:       IANA
 
