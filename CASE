@@ -38,12 +38,12 @@ nserver:      C0.NIC.CASE 2a01:8840:78:0:0:0:0:17 65.22.122.17
 ds-rdata:     5844 7 1 d1af65d9493fe00bc5bc2ded27b91f870645d559
 ds-rdata:     5844 7 2 4f478b408da99cb2d196cd2d61a8872b5d2f5a578fbd25e73f4ec19bc4f58579
 
-whois:        whois.afilias-srs.net
+whois:        whois.nic.case
 
 status:       ACTIVE
 remarks:      Registration information: http://www.cnhindustrial.com
 
 created:      2016-10-27
-changed:      2016-10-30
+changed:      2017-07-20
 source:       IANA
 
