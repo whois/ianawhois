@@ -12,17 +12,14 @@ address:      10017
 address:      United States
 
 contact:      administrative
-name:         Joshua Bourne
-organisation: FairWinds Partners, LLC
-address:      1000 Potomac Street NW #350
-address:      Washington
-address:      DC
-address:      20007
-address:      US
+name:         Rudy Mendoza
+organisation: MarkMonitor, Inc.
+address:      3540 E. Longwing Lane, Suite 300
+address:      Meridian, ID 83704
 address:      United States
-phone:        +1 202 223 9252
-fax-no:       +1 202 223 9256
-e-mail:       pfizerregistry@fairwindspartners.com
+phone:        +1 208 703 7282
+fax-no:       +1 415 278 8444
+e-mail:       dotpfizer@markmonitor.com
 
 contact:      technical
 name:         Sean Kaine
@@ -48,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.pfizer.com
 
 created:      2016-06-16
-changed:      2016-11-18
+changed:      2017-07-21
 source:       IANA
 
