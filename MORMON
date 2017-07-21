@@ -37,12 +37,12 @@ nserver:      C0.NIC.MORMON 2a01:8840:98:0:0:0:0:1 65.22.154.1
 ds-rdata:     12568 7 1 d6073d22bedbd7005a0e4781852c4bf9f63007ab
 ds-rdata:     12568 7 2 a7e4e331be6631713ba62063a4112b63132be342c1c38bff9a33bfd5fc270599
 
-whois:        whois.afilias-srs.net
+whois:        whois.nic.mormon
 
 status:       ACTIVE
 remarks:      Registration information: http://www.mormon.org
 
 created:      2014-10-16
-changed:      2014-11-19
+changed:      2017-07-20
 source:       IANA
 
