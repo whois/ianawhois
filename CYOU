@@ -39,12 +39,12 @@ nserver:      C0.NIC.CYOU 2a01:8840:80:0:0:0:0:9 65.22.130.9
 ds-rdata:     42985 7 1 f1be1321796afb34b2bec02ed9412966291b2c21
 ds-rdata:     42985 7 2 6c0507565b162ff6a377b4e7e5e33a126987de3c7fdbc1644e247fb60e1094e3
 
-whois:        whois.afilias-srs.net
+whois:        whois.nic.cyou
 
 status:       ACTIVE
 remarks:      Registration information: http://cy.changyou.com
 
 created:      2015-03-19
-changed:      2015-04-03
+changed:      2017-07-20
 source:       IANA
 
