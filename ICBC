@@ -33,13 +33,13 @@ nserver:      C0.NIC.ICBC 2a01:8840:80:0:0:0:0:33 65.22.130.33
 ds-rdata:     38979 7 1 fd19ce69343d2a4c732a06477a9c5f980985fd43
 ds-rdata:     38979 7 2 b12e9cbf0158c0304027fdc4de8ddd27426f0e8973cc84370f795162a1cb237d
 
-whois:        whois.afilias-srs.net
+whois:        whois.nic.icbc
 
 status:       ACTIVE
 remarks:      Registration information:
 remarks:      http://www.icbc.com.cn/ICBC/%E5%9F%9F%E5%90%8D%E6%B3%A8%E5%86%8C%E5%B1%80/default.htm
 
 created:      2015-04-09
-changed:      2015-05-13
+changed:      2017-07-20
 source:       IANA
 
