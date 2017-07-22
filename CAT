@@ -12,8 +12,8 @@ address:      Spain
 contact:      administrative
 name:         Director General
 organisation: Fundacio puntCAT
-address:      Carrer del Carme, 47
-address:      Barcelona Catalunya 08001
+address:      Aribau, 240 7e M
+address:      Barcelona Catalunya 08006
 address:      Spain
 phone:        +34 936 75 03 54
 fax-no:       +34 936 75 03 54
@@ -21,13 +21,13 @@ e-mail:       info@domini.cat
 
 contact:      technical
 name:         Werner Staub
-organisation: CORE Internet Council of Registrars
-address:      World Trade Center II
-address:      29 route de Pre-Bois
-address:      Geneva  1215
+organisation: CORE Association
+address:      Cours de Rive 2
+address:      Geneva  1204
+address:      CH
 address:      Switzerland
-phone:        +41 22 929 57 44
-fax-no:       +41 22 929 57 45
+phone:        +41 22 312 56 10
+fax-no:       +41 22 312 56 12
 e-mail:       dnsmaster@corenic.org
 
 nserver:      ANYC1.IRONDNS.NET 195.253.64.4 2a01:5b0:4:0:0:0:0:4
@@ -45,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.domini.cat
 
 created:      2005-12-19
-changed:      2016-06-02
+changed:      2017-07-22
 source:       IANA
 
