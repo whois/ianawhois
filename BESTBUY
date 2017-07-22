@@ -37,12 +37,12 @@ nserver:      C0.NIC.BESTBUY 2a01:8840:d4:0:0:0:0:9 65.22.218.9
 ds-rdata:     57538 7 1 a2206459743a9d928debb911dbe3ea192a70efa2
 ds-rdata:     57538 7 2 754902a9893db0ff2e37b44564121cb80c685cf3267bcae715a07e12151ba8d8
 
-whois:        whois.afilias-srs.net
+whois:        whois.nic.bestbuy
 
 status:       ACTIVE
-remarks:      Registration information: http://www.bestbuy.com
+remarks:      Registration information: http://nic.bestbuy
 
 created:      2015-12-10
-changed:      2016-07-19
+changed:      2017-07-21
 source:       IANA
 
