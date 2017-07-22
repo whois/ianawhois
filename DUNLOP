@@ -37,12 +37,12 @@ nserver:      C0.NIC.DUNLOP 2a01:8840:78:0:0:0:0:33 65.22.122.33
 ds-rdata:     47101 7 1 fb296a6c4e674b9359746ad3a43f18059a831455
 ds-rdata:     47101 7 2 e93007312ab67ee11773a50aa33357011d6dba8e9445e418b445735cc4fbd47d
 
-whois:        whois.afilias-srs.net
+whois:        whois.nic.dunlop
 
 status:       ACTIVE
-remarks:      Registration information: http://www.dunlop.com/
+remarks:      Registration information: http://www.goodyear.com
 
 created:      2015-12-17
-changed:      2016-06-10
+changed:      2017-07-21
 source:       IANA
 
