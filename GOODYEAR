@@ -37,12 +37,12 @@ nserver:      C0.NIC.GOODYEAR 2a01:8840:78:0:0:0:0:41 65.22.122.41
 ds-rdata:     16000 7 1 c1ec045e3d0f7804c2ced408518e6a036e8d02b6
 ds-rdata:     16000 7 2 e1e311ef8a614d2afa79b5128ac62fce8ce83251359a566eeb90f370662aa8cd
 
-whois:        whois.afilias-srs.net
+whois:        whois.nic.goodyear
 
 status:       ACTIVE
 remarks:      Registration information: https://www.goodyear.com/
 
 created:      2015-12-17
-changed:      2016-06-10
+changed:      2017-07-21
 source:       IANA
 
