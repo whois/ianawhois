@@ -40,6 +40,7 @@ nserver:      DNSB.NIC.LOCUS 156.154.101.3
 nserver:      DNSC.NIC.LOCUS 156.154.102.3
 nserver:      DNSD.NIC.LOCUS 156.154.103.3
 ds-rdata:     5281 8 2 be085e1b3a1ae0250a1c5696d9f2c98aa0ad14496b3b8ed980ce7ff0f0750d2e
+ds-rdata:     23735 8 2 FB7C38BE258C83CB17367AB656FE05F6A8A2A616FEAC4115DCECFA7DA03A1214
 
 whois:        whois.nic.locus
 
@@ -47,6 +48,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.locus
 
 created:      2016-02-26
-changed:      2016-03-15
+changed:      2017-07-21
 source:       IANA
 
