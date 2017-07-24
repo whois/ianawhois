@@ -21,15 +21,14 @@ fax-no:       +1 212 883 2299
 e-mail:       sean@tyemill.com
 
 contact:      technical
-name:         Barbara Bellis
-organisation: Nominet UK
+name:         TLD Registry Services Technical
+organisation: Nominet
 address:      Minerva House,
 address:      Edmund Halley Road
 address:      Oxford OX4 4DQ
 address:      United Kingdom
-phone:        +44 (0)1865 332343
-fax-no:       +44 (0)1865 332288
-e-mail:       barbara.bellis@nominet.uk
+phone:        +44.1865332211
+e-mail:       registrytechnical@nominet.uk
 
 nserver:      DNS1.NIC.LOCUS 213.248.217.11 2a01:618:401:0:0:0:0:11
 nserver:      DNS2.NIC.LOCUS 103.49.81.11 2401:fd80:401:0:0:0:0:11
@@ -48,6 +47,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.locus
 
 created:      2016-02-26
-changed:      2017-07-21
+changed:      2017-07-24
 source:       IANA
 
