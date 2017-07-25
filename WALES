@@ -25,7 +25,7 @@ phone:        +44(0)1865 332211
 e-mail:       od@nominet.org.uk
 
 contact:      technical
-name:         Chief Technology Officer
+name:         TLD Registry Services Technical
 organisation: Nominet UK
 address:      Minerva House,
 address:      Edmund Halley Road,
@@ -33,8 +33,8 @@ address:      Oxford Science Park,
 address:      Oxford,
 address:      OX4 4DQ
 address:      United Kingdom
-phone:        +44(0)1865 332211
-e-mail:       td@nominet.org.uk
+phone:        +44.1865332211
+e-mail:       registrytechnical@nominet.uk
 
 nserver:      DNS1.NIC.WALES 213.248.217.2 2a01:618:401:0:0:0:0:2
 nserver:      DNS2.NIC.WALES 103.49.81.2 2401:fd80:401:0:0:0:0:2
@@ -52,6 +52,6 @@ status:       ACTIVE
 remarks:      Registration information: http://ourhomeonline.org.uk
 
 created:      2014-07-31
-changed:      2015-08-18
+changed:      2017-07-25
 source:       IANA
 
