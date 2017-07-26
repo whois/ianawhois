@@ -11,13 +11,13 @@ address:      United States
 
 contact:      administrative
 name:         Associate Corporate Counsel, Intellectual Property - Digital
-organisation: BBY Solutions, Inc.
-address:      7601 Penn Avenue South
-address:      Richfield, MN 55423
+organisation: MarkMonitor, Inc.
+address:      3540 E. Longwing Lane, Suite 300
+address:      Meridian, ID 83704
 address:      United States
-phone:        +1 612 292 2300
-fax-no:       +1 612 292 2323
-e-mail:       bestbuyregistry@fairwindspartners.com
+phone:        +1 208 703 7282 
+fax-no:       +1 415 278 8444
+e-mail:       dotbestbuy@markmonitor.com
 
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.bestbuy
 
 created:      2015-12-10
-changed:      2017-07-21
+changed:      2017-07-25
 source:       IANA
 
