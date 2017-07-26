@@ -21,15 +21,15 @@ fax-no:       +40 21 316 5340
 e-mail:       ionut@rotld.ro
 
 contact:      technical
-name:         Ionut Sandu
+name:         .ro TLD Tech Contact
 organisation: National Institute for R&D in Informatics
-address:      Bd. Averescu 8-10
+address:      8-10, Bd. Averescu
 address:      Sector 1
 address:      Bucharest  011454
 address:      Romania
 phone:        +40 21 4057200
-fax-no:       +40 21 316 5340
-e-mail:       ionut@rotld.ro
+fax-no:       +40 21 316 1084
+e-mail:       dns@rotld.ro
 
 nserver:      DNS-AT.ROTLD.RO 2001:628:453:bb:0:0:0:6 78.104.145.6
 nserver:      DNS-RO.DENIC.DE 81.91.161.99
@@ -45,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.rotld.ro/
 
 created:      1993-02-26
-changed:      2017-07-12
+changed:      2017-07-25
 source:       IANA
 
