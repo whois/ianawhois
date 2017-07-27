@@ -45,6 +45,7 @@ nserver:      DNSB.NIC.CYMRU 156.154.101.3
 nserver:      DNSC.NIC.CYMRU 156.154.102.3
 nserver:      DNSD.NIC.CYMRU 156.154.103.3
 ds-rdata:     35389 8 2 1b2d8a367c28bc2534c6ae619c8586e5059c992ac035bf3971311550f39760db
+ds-rdata:     34255 8 2 B85680D4065DB4E7CFAF8B349DD43901EC51B78F5E9C57C332BC6D905BEBA702
 
 whois:        whois.nic.cymru
 
@@ -52,6 +53,6 @@ status:       ACTIVE
 remarks:      Registration information: http://ourhomeonline.org.uk
 
 created:      2014-07-31
-changed:      2017-07-25
+changed:      2017-07-27
 source:       IANA
 
