@@ -38,6 +38,7 @@ nserver:      SEC2.AUTHDNS.RIPE.NET 193.0.9.4 2001:67c:e0:0:0:0:0:4
 nserver:      X.IANA-SERVERS.NET 199.43.135.53 2001:500:8f:0:0:0:0:53
 nserver:      Y.IANA-SERVERS.NET 199.43.133.53 2001:500:8d:0:0:0:0:53
 nserver:      Z.IANA-SERVERS.NET 199.43.134.53 2001:500:8e:0:0:0:0:53
+ds-rdata:     27433 7 2 5864812d4df2a4a455d905af311389f479afcd96fd369060941c7e170b40ca4f
 
 whois:        whois.iana.org
 
@@ -46,6 +47,6 @@ remarks:      Registration information:
 remarks:      http://www.iana.org/int-dom/int.htm
 
 created:      1988-11-03
-changed:      2017-07-14
+changed:      2017-07-27
 source:       IANA
 
