@@ -45,6 +45,7 @@ nserver:      DNSB.NIC.WALES 156.154.101.3
 nserver:      DNSC.NIC.WALES 156.154.102.3
 nserver:      DNSD.NIC.WALES 156.154.103.3
 ds-rdata:     35036 8 2 909e201e00e796722f76aebb50ed2b242d7fe5a454e7c93067d9acae8f988058
+ds-rdata:     64480 8 2 5A296B3D4CDAAF2BB3B243EC31F31B283782BD5A930F84741AA3DD3CCDED6A6C
 
 whois:        whois.nic.wales
 
@@ -52,6 +53,6 @@ status:       ACTIVE
 remarks:      Registration information: http://ourhomeonline.org.uk
 
 created:      2014-07-31
-changed:      2017-07-25
+changed:      2017-07-27
 source:       IANA
 
