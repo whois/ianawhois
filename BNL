@@ -39,12 +39,12 @@ nserver:      C0.NIC.BNL 2a01:8840:40:0:0:0:0:1 65.22.66.1
 ds-rdata:     49953 7 1 1a4faa58fb885d0290d573addeabcac75a547255
 ds-rdata:     49953 7 2 c183f9cd6ecd80bf9cb0aff9d8f3c21dc7d14d866967c51924d0f6749a52b5bb
 
-whois:        whois.afilias-srs.net
+whois:        whois.nic.bnl
 
 status:       ACTIVE
 remarks:      Registration information: http://www.bnl.it
 
 created:      2015-06-11
-changed:      2015-06-27
+changed:      2017-07-27
 source:       IANA
 
