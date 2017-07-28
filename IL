@@ -38,7 +38,7 @@ nserver:      NSB.NS.IL 192.115.7.60
 nserver:      NSE.NS.IL 192.115.141.253
 nserver:      NSG.NS.IL 2a02:568:ffff:8:0:0:0:53 81.91.161.212
 nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e:0:0:0:0:1
-ds-rdata:     29119 8 2 3e7de4d194024e4e176b1390385aa7ebc05a3fabb9a216788e34c38b01d46295
+ds-rdata:     64036 8 2 757fffeef91ac24bccafee7c9f09fb5dd364ebcac877df465e0040a29039ab86
 
 whois:        whois.isoc.org.il
 
@@ -46,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.isoc.org.il/domains
 
 created:      1985-10-24
-changed:      2017-02-17
+changed:      2017-07-28
 source:       IANA
 
