@@ -44,12 +44,12 @@ nserver:      C0.NIC.STAR 2a01:8840:38:0:0:0:0:9 65.22.58.9
 ds-rdata:     63705 7 1 15a46255a52218b210c6c044799520aeb5955fa4
 ds-rdata:     63705 7 2 8a381553286116582d49543ef63de331232c9ea602f45d879feaadbcf622cfee
 
-whois:        whois.afilias-srs.net
+whois:        whois.nic.star
 
 status:       ACTIVE
 remarks:      Registration information: http://www.startv.com
 
 created:      2015-12-10
-changed:      2015-12-22
+changed:      2017-07-28
 source:       IANA
 
