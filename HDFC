@@ -41,12 +41,12 @@ nserver:      C0.NIC.HDFC 2a01:8840:ac:0:0:0:0:33 65.22.178.33
 ds-rdata:     43104 7 1 d53ced9832799749b3f2f2ff07f67edadf63396c
 ds-rdata:     43104 7 2 8aef49234bc4a9ab6557840e6a731bdce5eb03eccb6265f149b2eb9644a35d37
 
-whois:        whois.afilias-srs.net
+whois:        whois.nic.hdfc
 
 status:       ACTIVE
-remarks:      Registration information: http://www.hdfc.com
+remarks:      Registration information: http://nic.hdfc
 
 created:      2016-07-21
-changed:      2016-08-17
+changed:      2017-08-01
 source:       IANA
 
