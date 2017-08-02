@@ -31,7 +31,7 @@ e-mail:       snw@twnic.net.tw
 
 nserver:      A.DNS.TW 2001:45b1:0:5:0:0:0:25 203.73.24.25
 nserver:      B.DNS.TW 210.201.138.58 2404:0:10a0:0:0:0:0:58
-nserver:      C.DNS.TW 2001:b020:0:77:0:0:0:1 61.220.48.1
+nserver:      C.DNS.TW 2001:b020:0:77:0:0:0:1 203.66.87.201
 nserver:      D.DNS.TW 2001:4541:9010:7:0:0:0:186 60.199.165.186
 nserver:      E.DNS.TW 2001:b000:1e0:c000:0:0:0:11 211.20.231.11
 nserver:      F.DNS.TW 163.28.1.10
@@ -48,6 +48,6 @@ status:       ACTIVE
 remarks:      Registration information: http://rs.twnic.net.tw
 
 created:      1989-07-31
-changed:      2017-03-22
+changed:      2017-08-01
 source:       IANA
 
