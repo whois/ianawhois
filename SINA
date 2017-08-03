@@ -37,12 +37,12 @@ nserver:      C0.NIC.SINA 2a01:8840:8c:0:0:0:0:33 65.22.142.33
 ds-rdata:     16974 7 1 a95e97b13c8c7100566d280f34549762f1e4f429
 ds-rdata:     16974 7 2 67505289ebde95405ec11ba2821847051c791ee6b5c681728be44c92b65f14d9
 
-whois:        whois.afilias-srs.net
+whois:        whois.nic.sina
 
 status:       ACTIVE
 remarks:      Registration information: http://www.sina.com
 
 created:      2016-02-29
-changed:      2016-03-30
+changed:      2017-08-03
 source:       IANA
 
