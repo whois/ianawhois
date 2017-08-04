@@ -20,18 +20,19 @@ fax-no:       +358 18 19155
 e-mail:       axdoman@regeringen.ax
 
 contact:      technical
-name:         Conny Rosenberg
-organisation: Alands Datakommunikation AB
-address:      PB 233
-address:      Mariehamn  AX-22101
+name:         Valter Ulenius
+organisation: Ålands Telekommunikation Ab
+address:      Hantverkargränd 1
+address:      Jomala 22150
 address:      Åland Islands
 phone:        +358 18 23500
-fax-no:       +358 18 14643
-e-mail:       conny@alcom.ax
+e-mail:       domain@alcom.ax
 
-nserver:      NS1.AALNET.NET 194.112.0.1
-nserver:      NS2.AALNET.NET 194.112.0.5
-nserver:      NS3.AALNET.NET 82.199.186.130
+nserver:      NS1.ALAND.NET 194.112.0.1
+nserver:      NS2.ALAND.NET 194.112.0.5
+nserver:      NS3.ALCOM.FI 2a00:5500:1:6:0:0:0:130 82.199.186.130
+nserver:      NS4.ALCOM.FI 2a00:5500:1:7:0:0:0:194 82.199.184.194
+ds-rdata:     54055 8 2 4299C76D8767752C8A10579C4465CBC1C61AD2E1A0D68B42DF75645322F06202
 
 whois:        whois.ax
 
@@ -39,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.whois.ax
 
 created:      2006-06-21
-changed:      2012-12-04
+changed:      2017-08-04
 source:       IANA
 
