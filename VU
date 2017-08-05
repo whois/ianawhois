@@ -33,6 +33,7 @@ nserver:      ANYTLD.APNIC.NET 2001:dd8:12:0:0:0:0:53 203.119.43.53
 nserver:      EFATE.VANUATU.COM.VU 202.80.32.5
 nserver:      NS1-CCTLD.VUNIC.VU 202.80.32.9
 nserver:      NS2-CCTLD.VUNIC.VU 202.80.32.10
+nserver:      RIP.PSG.COM 147.28.0.39 2001:418:1:0:0:0:0:39
 nserver:      SANTO.VANUATU.COM.VU 202.80.32.7
 ds-rdata:     32532 10 1 77f5f1c79ba3382000ccd4bb82c1e39b1e8752b5
 ds-rdata:     32532 10 2 33849e9d4718faf292f13d7ca863b5836871e63e8d432509a1e6ec11aa0d1596
@@ -43,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.vunic.vu
 
 created:      1995-04-10
-changed:      2017-06-15
+changed:      2017-08-05
 source:       IANA
 
