@@ -5,26 +5,26 @@
 domain:       AI
 
 organisation: Government of Anguilla
-address:      The Valley
+address:      Coronation Avenue, PO Box 60
+address:      The Valley, AI2640
 address:      Anguilla
 
 contact:      administrative
-name:         Director of Public Utilities
-organisation: Government of Anguilla
-address:      Ministry of Infrastructure, Communications and Utilities, Coronation Avenue, P.O. Box 60
+name:         Telecommunications Officer
+organisation: Government of Anguilla, Ministry of Infrastructure, Communications and Utilities
+address:      Coronation Avenue, PO Box 60
+address:      The Valley, AI2640
 address:      Anguilla
-phone:        +1 264-497-2651/2442
-fax-no:       +1 264-497-3651
-e-mail:       crefton.niles@gov.ai
+phone:        +1 264 497 5233
+e-mail:       telecommunications.office@gov.ai
 
 contact:      technical
-name:         Vincent Aron Cate
+name:         Vincent Cate
 organisation: DataHaven.Net Ltd.
-address:      949 Shoal Bay
-address:      The Valley
+address:      949 Stoney Ground
+address:      The Valley, AI2640
 address:      Anguilla
 phone:        +1 264 497 3255
-fax-no:       +1 264 497 8470
 e-mail:       vincecate@gmail.com
 
 nserver:      NS1.PAIR.COM 209.68.1.11
@@ -37,6 +37,6 @@ status:       ACTIVE
 remarks:      Registration information: http://whois.ai
 
 created:      1995-02-16
-changed:      2012-05-02
+changed:      2017-08-10
 source:       IANA
 
