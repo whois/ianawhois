@@ -38,12 +38,12 @@ nserver:      C0.NIC.JIO 2a01:8840:d0:0:0:0:0:33 65.22.214.33
 ds-rdata:     61050 7 1 a463c2dd74094e7fcffcb08bf06e7cec18afaca7
 ds-rdata:     61050 7 2 13655a34e30627124697a3ae76d595e16bfc502051ef5cd06f1a2febcc187ec8
 
-whois:        whois.afilias-srs.net
+whois:        whois.nic.jio
 
 status:       ACTIVE
 remarks:      Registration information: http://www.ril.com
 
 created:      2016-08-11
-changed:      2016-11-15
+changed:      2017-08-10
 source:       IANA
 
