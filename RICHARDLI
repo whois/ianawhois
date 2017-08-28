@@ -37,13 +37,13 @@ nserver:      C0.NIC.RICHARDLI 2a01:8840:88:0:0:0:0:33 65.22.138.33
 ds-rdata:     60340 7 1 2e3e96f08cc10edff8287b0b01916222455079ed
 ds-rdata:     60340 7 2 37020c36172b3961eff1111ee7d1dddad08e89bf10245db24ab2c0c75e4c37e7
 
-whois:        whois.afilias-srs.net
+whois:        whois.nic.richardli
 
 status:       ACTIVE
 remarks:      Registration information:
 remarks:      http://www.dot.asia/namesphere/
 
 created:      2016-04-15
-changed:      2016-05-11
+changed:      2017-08-28
 source:       IANA
 
