@@ -5,16 +5,17 @@
 domain:       JETZT
 
 organisation: Wild Frostbite, LLC
-address:      10500 NE 8th Street, Suite 350
-address:      Bellevue, WA 98004
+address:      Donuts Inc.
+address:      5808 Lake Washington Blvd NE, Suite 300
+address:      Kirkland, WA 98033
 address:      United States
 
 contact:      administrative
-name:         COO
+name:         Controller
 organisation: Donuts Inc.
 address:      Donuts Inc.
-address:      10500 NE 8th Street, Suite 1450
-address:      Bellevue, WA 98004
+address:      5808 Lake Washington Blvd NE, Suite 300
+address:      Kirkland, WA 98033
 address:      United States
 phone:        +1 425 283 8248
 fax-no:       +1 425 671 0020
@@ -24,8 +25,8 @@ contact:      technical
 name:         CTO
 organisation: Donuts Inc.
 address:      Donuts Inc.
-address:      10500 NE 8th Street, Suite 1450
-address:      Bellevue, WA 98004
+address:      5808 Lake Washington Blvd NE, Suite 300
+address:      Kirkland, WA 98033
 address:      United States
 phone:        +1 425 296 6802
 fax-no:       +1 425 671 0020
@@ -42,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.donuts.domains/
 
 created:      2014-03-06
-changed:      2017-05-10
+changed:      2017-08-21
 source:       IANA
 
