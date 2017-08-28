@@ -37,13 +37,13 @@ nserver:      C0.NIC.HKT 2a01:8840:74:0:0:0:0:33 65.22.118.33
 ds-rdata:     23634 7 1 9e4e35bc0b5dc9327d0f7042c7ed5fcb043c8cc9
 ds-rdata:     23634 7 2 0aeabe2c3c77cf919059c8376ec7108e6811bea78ac731d4347cb15178267428
 
-whois:        whois.afilias-srs.net
+whois:        whois.nic.hkt
 
 status:       ACTIVE
 remarks:      Registration information:
 remarks:      http://www.dot.asia/namesphere/
 
 created:      2016-04-15
-changed:      2016-05-12
+changed:      2017-08-28
 source:       IANA
 
