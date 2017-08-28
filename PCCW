@@ -37,13 +37,13 @@ nserver:      C0.NIC.PCCW 2a01:8840:74:0:0:0:0:41 65.22.118.41
 ds-rdata:     29298 7 1 998ae96427d35e96d90b99baf3a79bdec3c34bfc
 ds-rdata:     29298 7 2 78dab43d4c64a9408db1ae27f1af13b10ed452cff04f5d91057ca8fa089a7553
 
-whois:        whois.afilias-srs.net
+whois:        whois.nic.pccw
 
 status:       ACTIVE
 remarks:      Registration information:
 remarks:      http://www.dot.asia/namesphere/
 
 created:      2016-04-15
-changed:      2016-05-11
+changed:      2017-08-28
 source:       IANA
 
