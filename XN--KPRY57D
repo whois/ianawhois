@@ -30,12 +30,12 @@ phone:        +886 2 23411313 ext. 500
 fax-no:       +886 2 23968832
 e-mail:       snw@twnic.net.tw
 
+nserver:      ANYTLD.APNIC.NET 2001:dd8:12:0:0:0:0:53 203.119.43.53
 nserver:      D.DNS.TW 2001:4541:9010:7:0:0:0:186 60.199.165.186
 nserver:      E.DNS.TW 2001:b000:1e0:c000:0:0:0:11 211.20.231.11
 nserver:      F.DNS.TW 163.28.1.10
 nserver:      G.DNS.TW 2001:cd8:400:0:0:0:0:195 220.229.225.195
-nserver:      H.DNS.TW 203.119.3.1 2405:7e00:1001:0:0:0:0:111
-nserver:      SEC4.APNIC.NET 2001:dc0:4001:1:0:1836:0:141 202.12.31.141
+nserver:      H.DNS.TW 2001:500:14:6119:ad:0:0:1 204.61.216.119
 ds-rdata:     57757 8 2 99EE3CDDCD2A85DB01D3A1E13D019821D30E3D4F6B49E4260B402FE7D8A3E85A
 
 whois:        whois.twnic.net.tw
@@ -44,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://rs.twnic.net.tw
 
 created:      2010-07-14
-changed:      2012-02-22
+changed:      2017-08-15
 source:       IANA
 
