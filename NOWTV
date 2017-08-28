@@ -37,13 +37,13 @@ nserver:      C0.NIC.NOWTV 2a01:8840:a8:0:0:0:0:1 65.22.174.1
 ds-rdata:     970 7 1 d5fbd89412c9b7f3af039913ba59e3bdeebef55b
 ds-rdata:     970 7 2 7f9668652bf0665a0dbbd61afe041727666616abb298c9729cbbbb5e892f9752
 
-whois:        whois.afilias-srs.net
+whois:        whois.nic.nowtv
 
 status:       ACTIVE
 remarks:      Registration information:
 remarks:      http://www.dot.asia/namesphere/
 
 created:      2016-04-15
-changed:      2016-05-11
+changed:      2017-08-28
 source:       IANA
 
