@@ -20,14 +20,14 @@ fax-no:       +972 3 9700901
 e-mail:       doron@isoc.org.il
 
 contact:      technical
-name:         Simon Shickman
-organisation: The Hebrew University of Jerusalem
-organisation: Computation Center
-address:      Givat-Ram
-address:      Jerusalem  91904
+name:         IL Technical Contact
+organisation: Internet Society of Israel
+address:      Bareket 6, POB 7210
+address:      Petach Tikva 49517
 address:      Israel
-phone:        +972 2 658 4138
-e-mail:       simon@cc.huji.ac.il
+phone:        +972 3 9700900
+fax-no:       +972 3 9700901
+e-mail:       tld-tech@isoc.org.il
 
 nserver:      ILNS.ILAN.NET.IL 128.139.35.5
 nserver:      LOOKUP.IUCC.AC.IL 128.139.34.240 2001:bf8:900:6:0:0:808b:22f0
@@ -46,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.isoc.org.il/domains
 
 created:      1985-10-24
-changed:      2017-07-28
+changed:      2017-08-24
 source:       IANA
 
