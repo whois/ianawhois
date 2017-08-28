@@ -10,24 +10,26 @@ address:      Dublin 2, Co. Dublin
 address:      Ireland
 
 contact:      administrative
-name:         Jeff Eckhaus
-organisation: United TLD Holdco Ltd.
-address:      5808 Lake Washington Blvd. NE
-address:      Suite 300
-address:      Kirkland WA 98033
+name:         Serina Ness
+organisation: Donuts Inc.
+address:      Donuts Inc.
+address:      5808 Lake Washington Blvd NE, Suite 300
+address:      Kirkland, WA 98033
 address:      United States
-phone:        425-298-2607
-e-mail:       jeff@unitedtld.com
+phone:        +1.425.283.8248
+fax-no:       +1.425.671.0020
+e-mail:       serina@donuts.email
 
 contact:      technical
-name:         Wayne MacLaurin
-organisation: United TLD Holdco Ltd.
-address:      5808 Lake Washington Blvd. NE
-address:      Suite 300
-address:      Kirkland WA 98033
+name:         Chris Cowherd
+organisation: Donuts Inc.
+address:      Donuts Inc.
+address:      5808 Lake Washington Blvd NE, Suite 300
+address:      Kirkland, WA 98033
 address:      United States
-phone:        425-298-2260
-e-mail:       wayne@unitedtld.com
+phone:        +1.425.296.6802
+fax-no:       +1.425.671.0020
+e-mail:       chris@donuts.email
 
 nserver:      DEMAND.ALPHA.ARIDNS.NET.AU 2001:dcd:1:0:0:0:0:7 37.209.192.7
 nserver:      DEMAND.BETA.ARIDNS.NET.AU 2001:dcd:2:0:0:0:0:7 37.209.194.7
@@ -39,9 +41,9 @@ ds-rdata:     61219 8 2 9671467C15B5117117D9A25326C10C466E13AE78D313B2A5CC7BA168
 whois:        whois.unitedtld.com
 
 status:       ACTIVE
-remarks:      Registration information: http://www.unitedtld.com
+remarks:      Registration information: http://www.donuts.domains/
 
 created:      2014-01-09
-changed:      2015-06-11
+changed:      2017-08-21
 source:       IANA
 
