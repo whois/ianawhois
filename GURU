@@ -5,16 +5,17 @@
 domain:       GURU
 
 organisation: Pioneer Cypress, LLC
-address:      c/o Donuts Inc., 10500 NE 8th Street, Suite 350
-address:      Bellevue, Washington 98004
+address:      Donuts Inc.
+address:      5808 Lake Washington Blvd NE, Suite 300
+address:      Kirkland, WA 98033
 address:      United States
 
 contact:      administrative
 name:         Serina Ness
 organisation: Donuts Inc.
 address:      Donuts Inc.
-address:      10500 NE 8th Street, Suite 1450
-address:      Bellevue, WA 98004
+address:      5808 Lake Washington Blvd NE, Suite 300
+address:      Kirkland, WA 98033
 address:      United States
 phone:        +1.425.283.8248
 fax-no:       +1.425.671.0020
@@ -24,8 +25,8 @@ contact:      technical
 name:         Chris Cowherd
 organisation: Donuts Inc.
 address:      Donuts Inc.
-address:      10500 NE 8th Street, Suite 1450
-address:      Bellevue, WA 98004
+address:      5808 Lake Washington Blvd NE, Suite 300
+address:      Kirkland, WA 98033
 address:      United States
 phone:        +1.425.296.6802
 fax-no:       +1.425.671.0020
@@ -41,9 +42,9 @@ ds-rdata:     1099 8 1 CB18983796C66403834575457BBF8E6348B78377
 whois:        whois.donuts.co
 
 status:       ACTIVE
-remarks:      Registration information: http://donuts.co
+remarks:      Registration information: http://www.donuts.domains/
 
 created:      2013-10-31
-changed:      2017-05-09
+changed:      2017-08-21
 source:       IANA
 
