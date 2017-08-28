@@ -11,26 +11,28 @@ address:      W14 0QH
 address:      United Kingdom
 
 contact:      administrative
-name:         David Taylor
-organisation: Hogan Lovells (Paris) LLP
-address:      17 avenue Matignon
-address:      Paris
-address:      75008
-address:      France
-phone:        +33153674747
-fax-no:       +33153674748
-e-mail:       dave.taylor@hoganlovells.com
+name:         TLD Registry Services Management
+organisation: Nominet
+address:      Minerva House
+address:      Edmund Halley Road
+address:      Oxford Science Park,
+address:      Oxford
+address:      OX4 4DQ
+address:      United Kingdom
+phone:        +44.1865332211
+e-mail:       registrymanagement@nominet.uk
 
 contact:      technical
-name:         David Taylor
-organisation: Hogan Lovells (Paris) LLP
-address:      17 avenue Matignon
-address:      Paris
-address:      75008
-address:      France
-phone:        +33153674747
-fax-no:       +33153674748
-e-mail:       dave.taylor@hoganlovells.com
+name:         TLD Registry Services Technical
+organisation: Nominet
+address:      Minerva House
+address:      Edmund Halley Road
+address:      Oxford Science Park
+address:      Oxford
+address:      OX4 4DQ
+address:      United Kingdom
+phone:        +44.1865332211
+e-mail:       registrytechnical@nominet.uk
 
 nserver:      DNS1.NIC.TELECITY 213.248.217.8 2a01:618:401:0:0:0:0:8
 nserver:      DNS2.NIC.TELECITY 103.49.81.8 2401:fd80:401:0:0:0:0:8
@@ -41,6 +43,7 @@ nserver:      DNSB.NIC.TELECITY 156.154.101.3
 nserver:      DNSC.NIC.TELECITY 156.154.102.3
 nserver:      DNSD.NIC.TELECITY 156.154.103.3
 ds-rdata:     20815 8 2 3bcef5eb74a3eede1006c97c0928614ed2a13c7cd2e57e5019f23ced3632729a
+ds-rdata:     60769 8 2 C979B7305EB09A7F0BC6E19EEAA6AF3F844CF5EAAFEBF79FB7273510A561B3FD
 
 whois:        whois.nic.telecity
 
@@ -48,6 +51,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.telecitygroup.com/
 
 created:      2016-02-11
-changed:      2016-02-25
+changed:      2017-08-17
 source:       IANA
 
