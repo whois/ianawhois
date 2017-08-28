@@ -33,12 +33,13 @@ fax-no:       00253 300013
 e-mail:       dj-tech@nic.dj
 
 nserver:      BOW.INTNET.DJ 193.251.143.162
-nserver:      BOW.RAIN.FR 194.51.3.49
+nserver:      BOW5.INTNET.DJ 196.201.196.41
+nserver:      VPS443605.OVH.NET 37.59.106.21
 
 status:       ACTIVE
 remarks:      Registration information: http://www.nic.dj
 
 created:      1996-05-22
-changed:      2010-03-08
+changed:      2017-08-16
 source:       IANA
 
