@@ -36,7 +36,7 @@ nserver:      A.GMOREGISTRY.NET 2001:dcd:1:0:0:0:0:4 37.209.192.4
 nserver:      B.GMOREGISTRY.NET 2001:dcd:2:0:0:0:0:4 37.209.194.4
 nserver:      K.GMOREGISTRY.NET 37.209.196.4
 nserver:      L.GMOREGISTRY.NET 2001:dcd:4:0:0:0:0:4 37.209.198.4
-ds-rdata:     30500 8 2 5a07cf62be2333c7b2642c8b16545fc1dac29e29e75561e0e01f7f066b8cfa90
+ds-rdata:     41036 8 2 80c1a9c02652c2993512adeac961ecc1f3909d523bb38d45c33f983671198ee9
 
 whois:        whois.nic.brother
 
@@ -44,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.brother.com/
 
 created:      2015-04-09
-changed:      2016-03-11
+changed:      2017-09-07
 source:       IANA
 
