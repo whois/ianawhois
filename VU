@@ -31,6 +31,7 @@ e-mail:       iana@tvl.net.vu
 
 nserver:      ANYTLD.APNIC.NET 2001:dd8:12:0:0:0:0:53 203.119.43.53
 nserver:      EFATE.VANUATU.COM.VU 202.80.32.5
+nserver:      FORK.STH.DNSNODE.NET 2a01:3f0:0:306:0:0:0:53 77.72.229.254
 nserver:      NS1-CCTLD.VUNIC.VU 202.80.32.9
 nserver:      NS2-CCTLD.VUNIC.VU 202.80.32.10
 nserver:      RIP.PSG.COM 147.28.0.39 2001:418:1:0:0:0:0:39
@@ -44,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.vunic.vu
 
 created:      1995-04-10
-changed:      2017-08-05
+changed:      2017-09-14
 source:       IANA
 
