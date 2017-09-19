@@ -38,12 +38,12 @@ nserver:      C0.NIC.XN--3OQ18VL8PN36A 2a01:8840:cc:0:0:0:0:1 65.22.210.1
 ds-rdata:     62449 7 1 07fa270d7b8f681da0505a8f1d286889bbe85914
 ds-rdata:     62449 7 2 285188dae1dd0af87a6ebc272ff7690fe94c9256ed4ee9b1adea8a0714dff3a4
 
-whois:        whois.afilias-srs.net
+whois:        whois.nic.xn--3oq18vl8pn36a
 
 status:       ACTIVE
 remarks:      Registration information: http://nic.xn--3oq18vl8pn36a
 
 created:      2016-07-21
-changed:      2017-09-16
+changed:      2017-09-19
 source:       IANA
 
