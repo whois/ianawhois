@@ -38,6 +38,7 @@ nserver:      G-DNS.PL 149.156.1.252 2001:06d8:1001:1:0:0:0:252
 nserver:      H-DNS.PL 194.0.1.2 2001:678:4:0:0:0:0:2
 nserver:      I-DNS.PL 156.154.100.15
 ds-rdata:     53575 8 2 D03FBB4F4E2270B333F2DD1004399A85FAB9E3B72FA1001FBA8CEDE3CBF23EE9
+ds-rdata:     14075 8 2 4D12B53E0A179C5E51719F606FC429EA03F444CDF5370FBBEEB6ECEB21E99F2B
 
 whois:        whois.dns.pl
 
@@ -45,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.dns.pl/english/
 
 created:      1990-07-30
-changed:      2017-05-12
+changed:      2017-09-19
 source:       IANA
 
