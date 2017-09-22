@@ -8,18 +8,19 @@ organisation: Swiss Confederation
 address:      Federal Office of Communications (OFCOM)
 address:      Rue de l'Avenir 44
 address:      P.O Box
-address:      CH-2501 Biel-Bienne BE
+address:      CH-2501 Biel/Bienne BE
 address:      Switzerland
 
 contact:      administrative
 name:         .swiss TLD Administrative Contact
-organisation: CORE Association
-address:      Cours de Rive 2
-address:      CH-1204 Geneva
+organisation: Federal Office of Communications (OFCOM)
+address:      Rue de l'Avenir 44
+address:      P.O Box
+address:      CH-2501 Biel/Bienne BE
 address:      Switzerland
-phone:        +41 22 312 5610
-fax-no:       +41 22 312 5612
-e-mail:       secretariat@corenic.org
+phone:        +41 58 461 89 49
+fax-no:       +41 58 460 55 49
+e-mail:       domainnames@bakom.admin.ch
 
 contact:      technical
 name:         .swiss TLD Technical Contact
@@ -40,9 +41,9 @@ ds-rdata:     16056 10 2 B974351F3624A85D4304C09A005203D8CBD8FF0D790095413B19C31
 whois:        whois.nic.swiss
 
 status:       ACTIVE
-remarks:      Registration information: http://www.dotswiss.ch/en/
+remarks:      Registration information: http://www.nic.swiss
 
 created:      2015-04-16
-changed:      2015-04-29
+changed:      2017-09-22
 source:       IANA
 
