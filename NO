@@ -29,10 +29,10 @@ phone:        +47 73 55 79 00
 fax-no:       +47 73 55 79 99
 e-mail:       jarle@uninett.no
 
-nserver:      I.NIC.NO 194.146.106.6
+nserver:      I.NIC.NO 194.146.106.6 2001:67c:1010:1:0:0:0:53
 nserver:      NJET.NORID.NO 156.154.101.12
 nserver:      NOT.NORID.NO 156.154.100.12 2001:502:ad09:0:0:0:0:12
-nserver:      X.NIC.NO 128.39.8.40
+nserver:      X.NIC.NO 128.39.8.40 2001:700:0:412f:0:0:0:40
 nserver:      Y.NIC.NO 193.75.4.22 2001:8c0:8200:1:0:0:0:2
 nserver:      Z.NIC.NO 158.38.8.133 2001:700:0:52d:158:38:8:133
 ds-rdata:     29471 8 2 915ede46ea5324ff86b11c9ed4e9c814ae8c462c165e5380a3999d90418841da
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.norid.no
 
 created:      1987-03-17
-changed:      2015-04-16
+changed:      2017-09-22
 source:       IANA
 
