@@ -21,13 +21,13 @@ fax-no:       +374 6027 2271
 e-mail:       imkrtumyan@isoc.am
 
 contact:      technical
-name:         Hrant Dadivanyan
+name:         Misak Khachatryan
 organisation: "Internet Society" Non-governmental Organization
 address:      17 A.Khachaturyan str. #3
 address:      Yerevan 0012
 address:      Armenia
-phone:        +374 91 420214
-e-mail:       ran@psg.com
+phone:        +374 93 199840
+e-mail:       misak@amnic.net
 
 nserver:      FORK.STH.DNSNODE.NET 2a01:3f0:0:306:0:0:0:53 77.72.229.254
 nserver:      NS-CDN.AMNIC.NET 194.0.1.26 2001:678:4:0:0:0:0:1a
@@ -42,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.amnic.net/
 
 created:      2014-11-26
-changed:      2017-07-14
+changed:      2017-09-25
 source:       IANA
 
