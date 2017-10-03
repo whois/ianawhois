@@ -34,11 +34,13 @@ nserver:      KADUSHI.CURINFO.CW 65.208.122.63
 nserver:      NS0.JA.NET 128.86.1.20 193.63.94.20 2001:630:0:8:0:0:0:14 2001:630:0:9:0:0:0:14
 nserver:      NS01-SERVER.CURINFO.CW 65.208.122.36
 nserver:      NS1.UOC.CW 198.93.177.21
+nserver:      NS2.UOC.CW 190.112.254.244
+nserver:      NS3.UOC.CW 200.26.199.99
 
 status:       ACTIVE
 remarks:      Registration information: http://www.uoc.cw/cw_registry
 
 created:      2010-12-20
-changed:      2017-03-23
+changed:      2017-10-03
 source:       IANA
 
