@@ -4,30 +4,27 @@
 
 domain:       CI
 
-organisation: INP-HB Institut National Polytechnique Felix Houphouet Boigny
-address:      BP 1093
-address:      Yamoussoukro
-address:      Cote d'Ivoire
+organisation: Autorité de Régulation des Télécommunications/TIC de Côte d’lvoire (ARTCI)
+address:      8BP 2203 Abidjan 18 Marcory Anoumanbo
+address:      Cote D'ivoire
 
 contact:      administrative
-name:         Bobouo Nakounou
-organisation: INP-HB Institut National Polytechnique Felix Houphouet Boigny
-address:      BP 1093
-address:      Yamoussoukro
-address:      Cote d'Ivoire
-phone:        +225 30 64 05 41
-fax-no:       +225 22 44 66 00
-e-mail:       bobouo@nic.ci
+name:         Administrative Manager
+organisation: Autorité de Régulation des Télécommunications/TIC de Côte d’lvoire (ARTCI)
+address:      18 BP 2203 Abidjan 18 Marcory Anoumanbo
+address:      Cote D'ivoire
+phone:        +225 20 34 43 73
+fax-no:       +225 20 34 43 75
+e-mail:       support@nic.ci
 
 contact:      technical
-name:         Souleymane Oumtanaga
-organisation: INP-HB Institut National Polytechnique Felix Houphouet Boigny
-address:      BP 1093
-address:      Yamoussoukro
-address:      Cote d'Ivoire
-phone:        +225 07 90 02 31
-fax-no:       +225 22 44 66 00
-e-mail:       oumtana@nic.ci
+name:         Technical Manager
+organisation: Autorité de Régulation des Télécommunications/TIC de Côte d’lvoire (ARTCI)
+address:      18 BP 2203 Abidjan 18 Marcory Anoumanbo
+address:      Cote D'ivoire
+phone:        +225 20 34 43 73
+fax-no:       +225 20 34 43 75
+e-mail:       support@nic.ci
 
 nserver:      CI.CCTLD.AUTHDNS.RIPE.NET 193.0.9.67 2001:67c:e0:0:0:0:0:67
 nserver:      CI.HOSTING.NIC.FR 192.134.0.49 2001:660:3006:1:0:0:1:1
@@ -40,9 +37,10 @@ nserver:      PHLOEM.UOREGON.EDU 128.223.32.35 2001:468:d01:20:0:0:80df:2023
 whois:        whois.nic.ci
 
 status:       ACTIVE
-remarks:      Registration information: http://www.nic.ci
+remarks:      Registration information:
+remarks:      https://registry.nic.ci/login.jsp
 
 created:      1995-02-14
-changed:      2016-09-20
+changed:      2017-10-05
 source:       IANA
 
