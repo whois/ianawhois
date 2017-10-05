@@ -9,13 +9,13 @@ address:      Rua Francisco Eugenio, 329 Sao Cristovao Rio de Janeiro, RJ 20941-
 address:      Brazil
 
 contact:      administrative
-name:         Marianne Rangel
-organisation: Ipiranga Produtos de Petroleo S.A.
-address:      Rua Francisco Eugenio, 329 Sao Cristovao Rio de Janeiro, RJ 20941-900
+name:         Fernanda Menezes
+organisation: Ipiranga Produtos de Petroleo
+address:      329 Sao Cristovao
+address:      Rio de Janeiro, RJ 20941-900
 address:      Brazil
 phone:        +55.2125745923
-fax-no:       +55.2125694886
-e-mail:       mariannes@ipiranga.com.br
+e-mail:       fernandarm@ipiranga.com.br
 
 contact:      technical
 name:         Sean Kaine
@@ -39,6 +39,6 @@ status:       ACTIVE
 remarks:      Registration information: http://ipiranga.com.br
 
 created:      2015-04-02
-changed:      2015-07-26
+changed:      2017-10-05
 source:       IANA
 
