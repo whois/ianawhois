@@ -5,10 +5,9 @@
 domain:       ID
 
 organisation: Perkumpulan Pengelola Nama Domain Internet Indonesia (PANDI)
-address:      Oleos 2 Building. 6th floor,
-address:      Jalan Kebagusan I No. 6,
-address:      Pasar Minggu
-address:      Jakarta Selatan, DKI Jakarta 12520
+address:      Icon Business Park, Unit L1-L2
+address:      Jalan Raya Cisauk - LAPAN
+address:      Tangerang, Banten 15345
 address:      Indonesia
 
 contact:      administrative
@@ -39,12 +38,12 @@ nserver:      SEC3.APNIC.NET 2001:dc0:1:0:4777:0:0:140 202.12.28.140
 ds-rdata:     26887 8 1 2F1E41B5BF7DA7F134B4025E8242D3A9EF54801C
 ds-rdata:     26887 8 2 28BE22003A1AFB1ED9A7BB82482274E2DB5F09A6C50702C731E040D2257347EA
 
-whois:        whois.pandi.or.id
+whois:        whois.id
 
 status:       ACTIVE
-remarks:      Registration information: https://register.pandi.or.id
+remarks:      Registration information: https://pandi.id
 
 created:      1993-02-27
-changed:      2017-02-23
+changed:      2017-10-06
 source:       IANA
 
