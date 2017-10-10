@@ -4,14 +4,16 @@
 
 domain:       BOFA
 
-organisation: NMS Services, Inc.
-address:      One Bryant Park New York, New York - 10036
+organisation: Bank of America Corporation
+address:      100 North Tryon Street
+address:      Charlotte, NC 28255
 address:      United States
 
 contact:      administrative
 name:         SVP, Digital Marketing Executive
-organisation: NMS Services, Inc.
-address:      One Bryant Park New York, New York - 10036
+organisation: Bank of America Corporation
+address:      100 North Tryon Street
+address:      Charlotte, NC 28255
 address:      United States
 phone:        +1 980 387 8445
 fax-no:       +1 980 388 2014
@@ -39,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://bofa.com
 
 created:      2016-07-28
-changed:      2016-08-02
+changed:      2017-10-09
 source:       IANA
 
