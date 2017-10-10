@@ -39,6 +39,9 @@ nserver:      A.BLACKFRIDAY.DYNTLD.NET 199.19.1.2 2a02:e180:0:0:0:0:0:2
 nserver:      B.BLACKFRIDAY.DYNTLD.NET 199.19.7.2 2a02:e180:1:0:0:0:0:2
 nserver:      C.BLACKFRIDAY.DYNTLD.NET 185.38.98.2 2a02:e180:2:0:0:0:0:2
 nserver:      NS1.UNIREGISTRY.NET 2620:57:4000:1:0:0:0:1 64.96.1.1
+nserver:      NS2.UNIREGISTRY.INFO 64.96.245.53
+nserver:      NS3.UNIREGISTRY.NET 185.159.197.3 2620:10a:80aa:0:0:0:0:3
+nserver:      NS4.UNIREGISTRY.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
 ds-rdata:     59063 5 1 9DCF1A9F05312ED04529F4A8AC5266028CBA6B0D
 ds-rdata:     59063 5 2 5515A03E97C2546AF3675E1F3C309BA809B7CCC5FA558F2D1EA4A73BFCDDCABD
 
@@ -48,6 +51,6 @@ status:       ACTIVE
 remarks:      Registration information: http://uniregistry.link
 
 created:      2014-04-17
-changed:      2015-09-09
+changed:      2017-10-10
 source:       IANA
 
