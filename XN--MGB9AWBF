@@ -34,6 +34,8 @@ nserver:      CCTLD.ALPHA.ARIDNS.NET.AU 2001:dcd:1:0:0:0:0:6 37.209.192.6
 nserver:      CCTLD.BETA.ARIDNS.NET.AU 2001:dcd:2:0:0:0:0:6 37.209.194.6
 nserver:      CCTLD.DELTA.ARIDNS.NET.AU 2001:dcd:4:0:0:0:0:6 37.209.198.6
 nserver:      CCTLD.GAMMA.ARIDNS.NET.AU 2001:dcd:3:0:0:0:0:6 37.209.196.6
+nserver:      NS1.REGISTRY.OM 185.27.88.50 2a00:9120:1:0:0:0:0:50
+nserver:      NS2.REGISTRY.OM 185.27.89.50
 
 whois:        whois.registry.om
 
@@ -41,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.registry.om
 
 created:      2011-02-05
-changed:      2017-10-11
+changed:      2017-10-12
 source:       IANA
 
