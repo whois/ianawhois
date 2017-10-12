@@ -37,8 +37,6 @@ nserver:      DNS2.NIC.NET.BW 168.167.98.218 2c0f:ff00:1:5:0:0:0:218
 nserver:      MASTER.BTC.NET.BW 168.167.168.37 2c0f:ff00:0:6:0:0:0:3 2c0f:ff00:0:6:0:0:0:5
 nserver:      NS-BW.AFRINIC.NET 196.216.168.72 2001:43f8:120:0:0:0:0:72
 nserver:      PCH.NIC.NET.BW 2001:500:14:6070:ad:0:0:1 204.61.216.70
-ds-rdata:     6919 8 2 2fd5bd844725991e9a7708c3b1134b05a3d2ea216d9e239f71caeea35e4cb928
-ds-rdata:     6919 8 1 5100f53e64928adc9ef0fbdfca6299dfb7081edf
 ds-rdata:     18880 8 1 a948aff07700c9f18ad356c5159b64cb65a0c487
 ds-rdata:     18880 8 2 56b561d20ee04927d24d8a7591c58a22a42e0a18202b4deed03caa5b66d4dd42
 
@@ -48,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: https://registry.nic.net.bw
 
 created:      1993-03-19
-changed:      2017-07-06
+changed:      2017-10-11
 source:       IANA
 
