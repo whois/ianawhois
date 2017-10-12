@@ -21,13 +21,13 @@ e-mail:       admin@registry.sx
 
 contact:      technical
 name:         CTO
-organisation: Open Registry SA
-address:      2, rue Leon Laval
-address:      Leudelange L3372
-address:      Luxembourg
-phone:        +32 475780594
-fax-no:       +32 2 894 59 01
-e-mail:       jan@openregistry.com
+organisation: KSregistry GmbH
+address:      Im Oberen Werk 1
+address:      66386 St. Ingbert
+address:      Germany
+phone:        +49.68949396250
+fax-no:       +49.68949396251
+e-mail:       icann@ksregistry.com
 
 nserver:      A.NS.SX 2a02:2790:0:0:0:0:600d:deed 89.207.184.65
 nserver:      B.NS.SX 80.92.90.160
@@ -41,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://registry.sx
 
 created:      2010-12-20
-changed:      2016-11-15
+changed:      2017-10-12
 source:       IANA
 
