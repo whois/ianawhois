@@ -39,6 +39,9 @@ nserver:      A.LINK.DYNTLD.NET 199.19.1.13 2a02:e180:0:0:0:0:0:13
 nserver:      B.LINK.DYNTLD.NET 199.19.7.13 2a02:e180:1:0:0:0:0:13
 nserver:      C.LINK.DYNTLD.NET 185.38.98.13 2a02:e180:2:0:0:0:0:13
 nserver:      NS1.UNIREGISTRY.NET 2620:57:4000:1:0:0:0:1 64.96.1.1
+nserver:      NS2.UNIREGISTRY.INFO 64.96.245.53
+nserver:      NS3.UNIREGISTRY.NET 185.159.197.3 2620:10a:80aa:0:0:0:0:3
+nserver:      NS4.UNIREGISTRY.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
 ds-rdata:     16378 5 1 4BAC0A7FB788380C75B12257AF422CF2F32EE828
 ds-rdata:     16378 5 2 22F61A68A2F1BFE7A3B8A71DE8DB12BAC9A51D98D8D1F44C1717396E395C180B
 
@@ -48,6 +51,6 @@ status:       ACTIVE
 remarks:      Registration information: http://uniregistry.link
 
 created:      2014-01-09
-changed:      2015-09-09
+changed:      2017-10-13
 source:       IANA
 
