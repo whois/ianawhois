@@ -35,6 +35,9 @@ nserver:      A.KY.DYNTLD.NET 199.19.1.19 2a02:e180:0:0:0:0:0:19
 nserver:      B.KY.DYNTLD.NET 199.19.7.19 2a02:e180:1:0:0:0:0:19
 nserver:      C.KY.DYNTLD.NET 185.38.98.19 2a02:e180:2:0:0:0:0:19
 nserver:      NS1.UNIREGISTRY.NET 2620:57:4000:1:0:0:0:1 64.96.1.1
+nserver:      NS2.UNIREGISTRY.INFO 64.96.245.53
+nserver:      NS3.UNIREGISTRY.NET 185.159.197.3 2620:10a:80aa:0:0:0:0:3
+nserver:      NS4.UNIREGISTRY.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
 ds-rdata:     27566 5 1 4010BC344088A61A41A2654EB5197C2B62EA6F47
 ds-rdata:     27566 5 2 7E3C406A1FF89436FCC8899A0A86F8798D3EAAB33018502F58F8328125B371F1
 
@@ -44,6 +47,6 @@ status:       ACTIVE
 remarks:      Registration information: http://uniregistry.com
 
 created:      1995-05-03
-changed:      2015-09-16
+changed:      2017-10-13
 source:       IANA
 
