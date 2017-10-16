@@ -13,7 +13,7 @@ address:      Bangkok  10300
 address:      Thailand
 
 contact:      administrative
-name:         Kanchana Kanchanasut
+name:         Chaya Limchitti
 organisation: Thai Network Information Center Foundation
 address:      159 Thanon Phichai
 address:      Khwaeng Thanon Nakhon Chaisi
@@ -22,7 +22,7 @@ address:      Bangkok  10300
 address:      Thailand
 phone:        +66 2 244 8261
 fax-no:       +66 2 244 8264
-e-mail:       kk@cs.ait.ac.th
+e-mail:       chaya@thnic.or.th
 
 contact:      technical
 name:         Pensri Arunwatanamongkol
@@ -47,6 +47,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.thnic.co.th
 
 created:      2010-08-19
-changed:      2016-02-13
+changed:      2017-10-16
 source:       IANA
 
