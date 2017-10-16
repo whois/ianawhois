@@ -9,12 +9,14 @@ address:      388 Greenwich St New York, New York – 10013 US
 address:      United States
 
 contact:      administrative
-name:         Brian Winterfeldt
-organisation: Mayer Brown LLP
-address:      1999 K. St. N.W. Washington DC – 20006 US
+name:         Senior Vice President
+organisation: Valideus USA
+address:      1751 Pinnacle Dr., Suite 600
+address:      McLean, VA 22102
 address:      United States
-phone:        +1 202 263 3284
-e-mail:       citi-bjw@mayerbrown.com
+phone:        +1 (703) 635-7514
+fax-no:       +1 (703) 635-7514
+e-mail:       primary_citi@valideus.com
 
 contact:      technical
 name:         Sean Kaine
@@ -40,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.citigroup.com
 
 created:      2016-07-21
-changed:      2016-11-10
+changed:      2017-10-16
 source:       IANA
 
