@@ -26,13 +26,12 @@ phone:        +82 70 4317 8217
 fax-no:       +82 2 2028 0011
 e-mail:       info@yesnic.com
 
-nserver:      B.DNS.KR 61.74.75.1
-nserver:      C.DNS.KR 203.248.246.220
-nserver:      D.DNS.KR 203.83.159.1
-nserver:      E.DNS.KR 2001:dcc:5:0:0:0:0:100 202.30.124.100
-nserver:      F.DNS.KR 218.38.181.90
-nserver:      G.DNS.KR 2001:dc5:a:0:0:0:0:1 202.31.190.1
-ds-rdata:     58716 7 2 920D4C0F50D51CD1DAA98D1C5E3DCB7A23A13EF345563E859E09B131DD99ADA4
+nserver:      A.SAMSUNG.DYNTLD.NET 162.88.40.2 2600:2000:3010:0:0:0:0:2
+nserver:      B.SAMSUNG.DYNTLD.NET 162.88.41.2 2600:2000:3011:0:0:0:0:2
+nserver:      C.SAMSUNG.DYNTLD.NET 162.88.42.2 2600:2000:3012:0:0:0:0:2
+nserver:      D.SAMSUNG.DYNTLD.NET 162.88.43.2 2600:2000:3013:0:0:0:0:2
+nserver:      NS1.DNS.SAMSUNG 119.81.172.206 2401:c900:1201:136:0:0:0:5
+ds-rdata:     19194 7 2 144b461cb8ad9212307c53173ef72139a418eab09997fc366484335d0aae91fe
 
 whois:        whois.nic.samsung
 
@@ -40,6 +39,6 @@ status:       ACTIVE
 remarks:      Registration information: http://samsungregistry.com
 
 created:      2014-10-30
-changed:      2017-01-12
+changed:      2017-10-17
 source:       IANA
 
