@@ -4,42 +4,41 @@
 
 domain:       KW
 
-organisation: Ministry of Communications
-address:      P.O. Box No. 318
-address:      Safat  11111
+organisation: Communications and Information Technology Regulatory Authority
+address:      Khaled Ibn Alwaleed street, block 6, plot 1, aldhow tower, 12th floor
+address:      Sharq, Al Asima 15300
 address:      Kuwait
 
 contact:      administrative
-name:         Saud Alshomer
-organisation: Ministry of Communications
-address:      P.O. Box No. 318
-address:      Safat  11111
+name:         Manal AlMazyad
+organisation: Communications and Information Technology Regulatory Authority
+address:      Khaled Ibn Alwaleed street, block 6, plot 1, aldhow tower, 12th floor
+address:      Sharq, Al Asima 15300
 address:      Kuwait
-phone:        +965 24843577
-fax-no:       +965 24998493
-e-mail:       saud@moc.gov.kw
+phone:        +965.22966000
+fax-no:       +965.00000000
+e-mail:       nic.admin@citra.gov.kw
 
 contact:      technical
-name:         Youssef Al-Mesfer
-organisation: Kuwait Institute for Scientific Research
-address:      P.O. Box 24885
-address:      Kuwait Safat 13109
+name:         Bashar Al-Abdulhadi
+organisation: Kuwaitnet General Trading & Contracting Co
+address:      P.O. Box 1230
+address:      Dasman, Al Asima 15463
 address:      Kuwait
-phone:        +965 2498 9774
-fax-no:       +965 2498 9699
-e-mail:       ymesfer@kisr.edu.kw
+phone:        +965.1807060
+fax-no:       +965.22257060
+e-mail:       nic.tech@citra.gov.kw
 
-nserver:      DNS1.KW 161.252.48.140
-nserver:      DNS2.KW 161.252.48.150
-nserver:      DNS3.KW 161.252.48.145
-nserver:      KWNS.KEMS.NET 168.187.5.12
+nserver:      A.KW.NIC.KW 199.19.5.25 2001:500:92:0:0:0:0:25
+nserver:      B.KW.NIC.KW 199.19.6.25 2001:500:96:0:0:0:0:25
+nserver:      PCH.NIC.KW 2001:500:14:6118:ad:0:0:1 204.61.216.118
 nserver:      SEC1.APNIC.NET 2001:dc0:2001:a:4608:0:0:59 202.12.29.59
 nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e:0:0:0:0:1
 
 status:       ACTIVE
-remarks:      Registration information: http://www.kw/
+remarks:      Registration information: http://www.nic.kw
 
 created:      1992-10-26
-changed:      2016-03-25
+changed:      2017-10-18
 source:       IANA
 
