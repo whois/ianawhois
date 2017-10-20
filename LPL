@@ -11,15 +11,13 @@ address:      North Carolina
 address:      United States
 
 contact:      administrative
-name:         Tara Heptinstall
-organisation: LPL Holdings, Inc.
-address:      4828 Parkway Plaza Blvd
-address:      28217 Charlotte
-address:      North Carolina
+name:         Richard Cook
+organisation: LPLFinancial
+address:      4707 Executive Drive
+address:      San Diego, CA 91921-3091
 address:      United States
-phone:        +1 980 321 1236
-fax-no:       +1 704 329 4299
-e-mail:       tara.heptinstall@lpl.com
+phone:        +1 858-779-5818
+e-mail:       richard.cook@lpl.com
 
 contact:      technical
 name:         CTO
@@ -43,6 +41,6 @@ whois:        whois.nic.lpl
 status:       ACTIVE
 
 created:      2016-06-30
-changed:      2017-06-23
+changed:      2017-10-19
 source:       IANA
 
