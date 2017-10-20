@@ -10,24 +10,24 @@ address:      74172 Neckarsulm
 address:      Germany
 
 contact:      administrative
-name:         Stefan Pleyer
-organisation: Schwarz Dienstleistung KG
+name:         Tim Wessäly
+organisation: Schwarz IT GmbH & Co. KG
 address:      Stiftsbergstraße 1
 address:      74172 Neckarsulm
 address:      Germany
-phone:        +49 7132 / 30-7314
-fax-no:       +49 7132 / 30-799009
-e-mail:       gtld@sbg.de
+phone:        +49 7132 / 304459
+fax-no:       +49 7132 / 302248
+e-mail:       gtld@mail.schwarz
 
 contact:      technical
-name:         Stefan Pleyer
-organisation: Schwarz Dienstleistung KG
-address:      Stiftsbergstraße 1
-address:      74172 Neckarsulm
+name:         Oliver Fries
+organisation: KSregistry GmbH
+address:      Im Oberen Werk 1
+address:      66386 St. Ingbert
 address:      Germany
-phone:        +49 7132 / 30-7314
-fax-no:       +49 7132 / 30-799009
-e-mail:       gtld@sbg.de
+phone:        +49 68949396250
+fax-no:       +49 68949396251
+e-mail:       icann@ksregistry.com
 
 nserver:      A.NS.NIC.LIDL 2a02:2790:1:53:0:0:5:1 89.207.190.18
 nserver:      C.NS.NIC.LIDL 54.75.243.206
@@ -41,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.nic.lidl
 
 created:      2014-12-04
-changed:      2014-12-15
+changed:      2017-10-19
 source:       IANA
 
