@@ -27,13 +27,9 @@ phone:        +298 898900
 e-mail:       nic@nic.fo
 
 nserver:      A.NIC.FO 194.169.218.27 2001:67c:13cc:0:0:0:1:27
-nserver:      ARNHEM.NIC.FO 193.176.144.24 2a00:d78:0:102:193:176:144:24
 nserver:      B.NIC.FO 185.24.64.27 2a04:2b00:13cc:0:0:0:1:27
 nserver:      C.NIC.FO 212.18.248.27 2a04:2b00:13ee:0:0:0:0:27
-nserver:      COPENHAGEN.NIC.FO 193.163.102.12 2a01:630:0:40:0:0:0:12
 nserver:      D.NIC.FO 212.18.249.27 2a04:2b00:13ff:0:0:0:0:27
-nserver:      FRANKFURT.NIC.FO 194.0.11.109
-nserver:      PCH.NIC.FO 2001:500:14:6065:ad:0:0:1 204.61.216.65
 ds-rdata:     41527 8 2 6E7925D8D6F243EF35381231B955528F25087DBF3E61CC5FCBCFE72948D0470B
 ds-rdata:     6691 8 2 A752CEAAE4E28B4232244E5486D55889F117A15B81D3128CE7E9359F1D47A445
 
@@ -43,6 +39,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.fo/
 
 created:      1993-05-14
-changed:      2017-10-06
+changed:      2017-10-20
 source:       IANA
 
