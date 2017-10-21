@@ -20,14 +20,14 @@ fax-no:       +31 (0) 58 84 50 145
 e-mail:       info@frlregistry.com
 
 contact:      technical
-name:         Technical Contact
-organisation: FRL Registry BV
-address:      Willemskade 3
-address:      8911AW  Leeuwarden
-address:      Netherlands
-phone:        +31 (0) 58 76 30 650
-fax-no:       +31 (0) 58 84 50 145
-e-mail:       info@frlregistry.com
+name:         CTO
+organisation: KSregistry GmbH
+address:      Im Oberen Werk 1
+address:      66386 St. Ingbert
+address:      Germany
+phone:        +49 6894 9396 250
+fax-no:       +49 6894 9396 251
+e-mail:       icann@ksregistry.com
 
 nserver:      A.NS.NIC.FRL 2a02:2790:1:53:0:0:2:1 89.207.190.16
 nserver:      C.NS.NIC.FRL 54.75.231.175
@@ -41,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: https://registreer.frl
 
 created:      2014-08-22
-changed:      2015-01-29
+changed:      2017-10-20
 source:       IANA
 
