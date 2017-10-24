@@ -23,14 +23,14 @@ e-mail:       admin@musedoma.museum
 
 contact:      technical
 name:         MUSEUM TLD Technical Contact
-organisation: CORE Internet Council of Registrars
-address:      World Trade Center II
-address:      29 route de Pre-Bois
-address:      Geneva  1215
-address:      Switzerland
-phone:        +41229295744
-fax-no:       +41229295745
-e-mail:       dnsmaster@corenic.org
+organisation: AFNIC
+address:      1 rue Stephenson
+address:      immeuble Stephenson
+address:      78180 Montigny-Le-Bretonneux
+address:      France
+phone:        +33 643432263
+fax-no:       +33 139308301
+e-mail:       museum@afnic.fr
 
 nserver:      ANYC1.IRONDNS.NET 195.253.64.4 2a01:5b0:4:0:0:0:0:4
 nserver:      NIC.MUSEUM 91.194.60.91
@@ -45,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://about.museum
 
 created:      2001-10-20
-changed:      2014-10-11
+changed:      2017-10-23
 source:       IANA
 
