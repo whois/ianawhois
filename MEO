@@ -20,14 +20,14 @@ fax-no:       +351218006200
 e-mail:       tsl-gtld@telecom.pt
 
 contact:      technical
-name:         Marco Ramos
-organisation: MEO Serviços de Comunicações e Multimédia, S.A.
-address:      Avenida Fontes Pereira de Melo, no. 32
-address:      1069-219 Lisboa
-address:      Portugal
-phone:        +351215002000
-fax-no:       +351800216200
-e-mail:       mramos@sl.pt
+name:         CTO
+organisation: KSregistry GmbH
+address:      Im Oberen Werk 1
+address:      66386 St. Ingbert
+address:      Germany
+phone:        +49.68949396250
+fax-no:       +49.68949396251
+e-mail:       icann@ksregistry.com
 
 nserver:      A.NS.NIC.MEO 2a02:2790:1:53:0:0:9:1 89.207.190.21
 nserver:      C.NS.NIC.MEO 54.75.248.230
@@ -39,6 +39,6 @@ ds-rdata:     3051 7 2 7BA5B1B2FAB793AB2AE5E6A8DD6AC5E6BA9F7F9625F412267FF88A37C
 status:       ACTIVE
 
 created:      2015-01-15
-changed:      2016-11-07
+changed:      2017-10-27
 source:       IANA
 
