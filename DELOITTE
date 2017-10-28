@@ -27,8 +27,10 @@ address:      United States
 phone:        +1 (312) 486-1191
 e-mail:       dttdomainadmin@deloitte.com
 
-nserver:      A.NS.NIC.DELOITTE 2a02:2790:1:53:0:0:17:1 89.207.190.24
-nserver:      C.NS.NIC.DELOITTE 54.228.194.18
+nserver:      NS1A.KSREGISTRY.NET 2001:dd8:7:6075:dc:0:0:1 203.119.88.75
+nserver:      NS1B.KSREGISTRY.NET 2620:0171:0a00:00ad:0:0:0:75 72.0.48.75
+nserver:      NS2A.KSREGISTRY.COM 2001:dd8:7:6076:dc:0:0:1 203.119.88.76
+nserver:      NS2B.KSREGISTRY.COM 2620:0171:0a00:00ad:0:0:0:76 72.0.48.76
 nserver:      X.NS.NIC.DELOITTE 195.253.64.4 2a01:5b0:4:0:0:0:0:4
 nserver:      Y.NS.NIC.DELOITTE 195.253.64.7 2a01:5b0:4:0:0:0:0:7
 ds-rdata:     43989 7 1 F7DABDF701ED2ED63D349D5DDAE4B2776EA541B5
@@ -40,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.deloitte
 
 created:      2015-12-23
-changed:      2016-01-29
+changed:      2017-10-28
 source:       IANA
 
