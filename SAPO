@@ -29,8 +29,10 @@ phone:        +49.68949396250
 fax-no:       +49.68949396251
 e-mail:       icann@ksregistry.com
 
-nserver:      A.NS.NIC.SAPO 2a02:2790:1:53:0:0:7:1 89.207.190.20
-nserver:      C.NS.NIC.SAPO 54.75.248.180
+nserver:      NS1A.KSREGISTRY.NET 2001:dd8:7:6075:dc:0:0:1 203.119.88.75
+nserver:      NS1B.KSREGISTRY.NET 2620:0171:0a00:00ad:0:0:0:75 72.0.48.75
+nserver:      NS2A.KSREGISTRY.COM 2001:dd8:7:6076:dc:0:0:1 203.119.88.76
+nserver:      NS2B.KSREGISTRY.COM 2620:0171:0a00:00ad:0:0:0:76 72.0.48.76
 nserver:      X.NS.NIC.SAPO 195.253.64.4 2a01:5b0:4:0:0:0:0:4
 nserver:      Y.NS.NIC.SAPO 195.253.64.7 2a01:5b0:4:0:0:0:0:7
 ds-rdata:     8934 7 1 6BA876673946A16A304832A3760F3C2F624709F1
@@ -39,6 +41,6 @@ ds-rdata:     8934 7 2 C843CBE3D178A465D9B614AA803A5ECE399FFAFA88DA813D674E12C18
 status:       ACTIVE
 
 created:      2015-01-15
-changed:      2017-10-30
+changed:      2017-10-31
 source:       IANA
 
