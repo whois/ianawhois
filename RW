@@ -35,12 +35,11 @@ nserver:      NS-RW.AFRINIC.NET 196.216.168.28 2001:43f8:120:0:0:0:0:28
 nserver:      NS1.RICTA.ORG.RW 41.74.173.250
 nserver:      NS3.RICTA.ORG.RW 41.138.85.98
 nserver:      PCH.RICTA.ORG.RW 2001:500:14:6091:ad:0:0:1 204.61.216.91
-nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e:0:0:0:0:1
 
 status:       ACTIVE
 remarks:      Registration information: http://www.ricta.org.rw
 
 created:      1996-10-21
-changed:      2017-10-04
+changed:      2017-11-01
 source:       IANA
 
