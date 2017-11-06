@@ -10,20 +10,20 @@ address:      Floor 1, Building 1, Software Park, Chinese Academy of Sciences, 4
 address:      China
 
 contact:      administrative
-name:         JIN Jian 
+name:         Yu Zeng
 organisation: Computer Network Information Center of Chinese Academy of Sciences （China Internet Network Information Center）
 address:      Floor 1, Building 1, Software Park, Chinese Academy of Sciences, 4 South 4th Street, Zhongguancun, Beijing
 address:      China
-phone:        +86(0)10-58812624 
-fax-no:       +86(0)10-58812666 
+phone:        +86(0)10-58813686
+fax-no:       +86(0)10-58813632
 e-mail:       ng@cnnic.cn
 
 contact:      technical
-name:         HE Zheng
+name:         Yuedong Zhang
 organisation: Computer Network Information Center of Chinese Academy of Sciences （China Internet Network Information Center）
 address:      Floor 1, Building 1, Software Park, Chinese Academy of Sciences, 4 South 4th Street, Zhongguancun, Beijing
 address:      China
-phone:        +86(0)10-58813200
+phone:        +86(0)10-58813202
 fax-no:       +86(0)10-58812666
 e-mail:       ngtech@cnnic.cn
 
@@ -40,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.cnnic.cn 
 
 created:      2014-01-09
-changed:      2014-01-20
+changed:      2017-11-06
 source:       IANA
 
