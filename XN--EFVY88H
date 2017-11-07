@@ -42,7 +42,7 @@ nserver:      F.ZDNSCLOUD.COM 182.131.23.22
 nserver:      G.ZDNSCLOUD.COM 42.62.2.16
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
-ds-rdata:     60047 8 2 80438ddfbe043407564feed63b7d61fd85313ea3a66b325108bc75607f2e61bf
+ds-rdata:     56027 8 2 fc0c177e79948c3e9a5480ef96ce5f52c65906ecaf3915fafb893ad523306136
 
 whois:        whois.nic.xn--efvy88h
 
@@ -50,6 +50,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.gd.xinhua.org
 
 created:      2015-08-06
-changed:      2016-10-04
+changed:      2017-11-06
 source:       IANA
 
