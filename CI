@@ -5,24 +5,24 @@
 domain:       CI
 
 organisation: Autorité de Régulation des Télécommunications/TIC de Côte d’lvoire (ARTCI)
-address:      8BP 2203 Abidjan 18 Marcory Anoumanbo
-address:      Cote D'ivoire
+address:      18 BP 2203 Abidjan 18 Marcory Anoumanbo
+address:      Cote d'Ivoire
 
 contact:      administrative
-name:         Administrative Manager
+name:         HOUNDJI Mireille epse BOTE
 organisation: Autorité de Régulation des Télécommunications/TIC de Côte d’lvoire (ARTCI)
 address:      18 BP 2203 Abidjan 18 Marcory Anoumanbo
-address:      Cote D'ivoire
+address:      Cote d'Ivoire
 phone:        +225 20 34 43 73
 fax-no:       +225 20 34 43 75
 e-mail:       support@nic.ci
 
 contact:      technical
-name:         Technical Manager
+name:         KOUADIO Assi Donald Landry
 organisation: Autorité de Régulation des Télécommunications/TIC de Côte d’lvoire (ARTCI)
 address:      18 BP 2203 Abidjan 18 Marcory Anoumanbo
-address:      Cote D'ivoire
-phone:        +225 20 34 43 73
+address:      Cote d'Ivoire
+phone:        +225 20 34 42 53
 fax-no:       +225 20 34 43 75
 e-mail:       support@nic.ci
 
@@ -41,6 +41,6 @@ remarks:      Registration information:
 remarks:      https://registry.nic.ci/login.jsp
 
 created:      1995-02-14
-changed:      2017-10-05
+changed:      2017-11-06
 source:       IANA
 
