@@ -12,14 +12,14 @@ address:      Beijing  100190
 address:      China
 
 contact:      administrative
-name:         Xiaodong Lee
+name:         Yu Zeng
 organisation: China Internet Network Information Center (CNNIC)
 address:      No.4, South 4th Street
 address:      Zhong Guan Cun
 address:      Beijing  100190
 address:      China
-phone:        +8610-58813020
-fax-no:       +8610-58813277
+phone:        +8610-58813686
+fax-no:       +8610-58813632
 e-mail:       ceo@cnnic.cn
 
 contact:      technical
@@ -46,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.cnnic.cn
 
 created:      2010-07-09
-changed:      2016-09-01
+changed:      2017-11-06
 source:       IANA
 
