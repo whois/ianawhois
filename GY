@@ -12,23 +12,23 @@ address:      Guyana
 
 contact:      administrative
 name:         Rayman Khan
-organisation: University of Guyana, Centre for Information Technology
+organisation: University of Guyana
 address:      Turkeyen Campus
 address:      P.O. Box 101110
 address:      Georgetown
 address:      Guyana
-phone:        +592 2225405
-fax-no:       +592 2225443
+phone:        +5926444135
+fax-no:       -
 e-mail:       admin@registry.gy
 
 contact:      technical
 name:         DNS Admin
-organisation: University of Guyana, Centre for Information Technology
+organisation: University of Guyana
 address:      Turkeyen Campus
 address:      Georgetown  P.O. Box 101110
 address:      Guyana
-phone:        +592 2225426
-fax-no:       +592 2225443
+phone:        +592 6112338
+fax-no:       -
 e-mail:       tech@registry.gy
 
 nserver:      A.GY.DYNTLD.NET 199.19.5.5 2001:500:92:0:0:0:0:5
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://registry.gy/
 
 created:      1994-09-13
-changed:      2017-07-07
+changed:      2017-11-06
 source:       IANA
 
