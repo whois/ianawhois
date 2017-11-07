@@ -33,11 +33,11 @@ nserver:      F.ZDNSCLOUD.COM 182.131.23.22
 nserver:      G.ZDNSCLOUD.COM 42.62.2.16
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
-ds-rdata:     40006 8 2 ebca28d1719e42ce777578f4af7d7269f74bb740f72e18071c820d0e2138474b
+ds-rdata:     9482 8 2 2af547bda8375c536e3b9b27ad3f158cc46fd1081b2d8ca570ba05d2c56d182b
 
 status:       ACTIVE
 
 created:      2014-02-27
-changed:      2017-06-05
+changed:      2017-11-06
 source:       IANA
 
