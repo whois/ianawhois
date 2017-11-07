@@ -34,7 +34,7 @@ nserver:      F.ZDNSCLOUD.COM 182.131.23.22
 nserver:      G.ZDNSCLOUD.COM 42.62.2.16
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
-ds-rdata:     16750 8 2 a4c6fb69242bb7f437527db7812f445120e0ff3d8031950d96e7b55fa98d554a
+ds-rdata:     8170 8 2 90b0dfaccc60de23948fc26a38149cc61b709ad79bdd276d5fae0f25cc79fb17
 
 whois:        whois.gtld.knet.cn
 
@@ -42,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.newgtld.cn
 
 created:      2015-03-12
-changed:      2016-09-03
+changed:      2017-11-07
 source:       IANA
 
