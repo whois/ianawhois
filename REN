@@ -5,23 +5,23 @@
 domain:       REN
 
 organisation: Beijing Qianxiang Wangjing Technology Development Co., Ltd.
-address:      1F Guo Tou Center. No.18 Jiu Xianqiao middle Road , Chao Yang District, Beijing
+address:      4F Guo Tou Center. No.18 Jiu Xianqiao middle Road , Chao Yang District, Beijing
 address:      China
 
 contact:      administrative
 name:         Senior Manager
 organisation: Network Operation Dept.
-address:      1F Guo Tou Center. No.18 Jiu Xianqiao middle Road , Chao Yang District, Beijing
+address:      4F Guo Tou Center. No.18 Jiu Xianqiao middle Road , Chao Yang District, Beijing
 address:      China
-phone:        86-10-84481818-1177
+phone:        86-10-84481818-1230
 e-mail:       dnsadmin@renren-inc.com
 
 contact:      technical
 name:         Senior Manager
 organisation: Network Operation Dept.
-address:      1F Guo Tou Center. No.18 Jiu Xianqiao middle Road , Chao Yang District, Beijing
+address:      4F Guo Tou Center. No.18 Jiu Xianqiao middle Road , Chao Yang District, Beijing
 address:      China
-phone:        86-10-84481818-1177
+phone:        86-10-84481818-1230
 e-mail:       dnsadmin@renren-inc.com
 
 nserver:      A.ZDNSCLOUD.COM 1.8.240.1
@@ -38,6 +38,6 @@ ds-rdata:     43406 8 2 8a967a3ec9c42d77f5704d97c0cedac78b201fac9a344cbfe291e7e3
 status:       ACTIVE
 
 created:      2014-02-28
-changed:      2017-05-26
+changed:      2017-11-07
 source:       IANA
 
