@@ -35,6 +35,7 @@ nserver:      M.DNS.IT 2001:1ac0:0:200:0:a5d1:6004:2 217.29.76.4
 nserver:      NAMESERVER.CNR.IT 194.119.192.34 2a00:1620:c0:220:194:119:192:34
 nserver:      R.DNS.IT 193.206.141.46 2001:760:ffff:ffff:0:0:0:ca
 nserver:      S.DNS.IT 194.146.106.30 2001:67c:1010:7:0:0:0:53
+ds-rdata:     41901 10 2 47F7F7BA21E48591F6172EED13E35B66B93AD9F2880FC9BADA64F68CE28EBB90
 
 whois:        whois.nic.it
 
@@ -42,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.it/
 
 created:      1987-12-23
-changed:      2017-10-25
+changed:      2017-11-08
 source:       IANA
 
