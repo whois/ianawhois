@@ -20,14 +20,14 @@ fax-no:       +1.8776115877
 e-mail:       admin@registry.sx
 
 contact:      technical
-name:         CTO
-organisation: KSregistry GmbH
-address:      Im Oberen Werk 1
-address:      66386 St. Ingbert
-address:      Germany
-phone:        +49.68949396250
-fax-no:       +49.68949396251
-e-mail:       icann@ksregistry.com
+name:         Don Slaunwhite
+organisation: Canadian Internet Registration Authority (CIRA)
+address:      979 Bank Street, Suite 400
+address:      Ottawa, Ontario, K1S 5K5
+address:      Canada
+phone:        +16132375335
+fax-no:       +16132370534
+e-mail:       support@fury.ca
 
 nserver:      A.NS.SX 2a02:2790:0:0:0:0:600d:deed 89.207.184.65
 nserver:      B.NS.SX 80.92.90.160
@@ -41,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://registry.sx
 
 created:      2010-12-20
-changed:      2017-10-12
+changed:      2017-11-11
 source:       IANA
 
