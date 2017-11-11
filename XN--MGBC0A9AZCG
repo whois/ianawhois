@@ -33,14 +33,15 @@ phone:        +212 537 71 84 00
 fax-no:       +212 537 71 64 89
 e-mail:       ma@anrt.ma
 
-nserver:      DNS2.MENARA.MA 81.192.108.228
-nserver:      DNS3.MENARA.MA 81.192.108.164
-nserver:      HARISS.ANRT.MA 194.204.241.140
+nserver:      DNS.MENARA.MA 81.192.21.33
+nserver:      DNS1.MENARA.MA 81.192.21.65
+nserver:      NS1.ANRT.MA 194.204.241.140
+nserver:      NS2.ANRT.MA 41.137.98.195
 nserver:      NS2.NIC.FR 192.93.0.4 2001:660:3005:1:0:0:1:2
 
 status:       ACTIVE
 
 created:      2011-02-05
-changed:      2012-06-23
+changed:      2017-11-11
 source:       IANA
 
