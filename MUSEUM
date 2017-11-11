@@ -32,11 +32,9 @@ phone:        +33 643432263
 fax-no:       +33 139308301
 e-mail:       museum@afnic.fr
 
-nserver:      ANYC1.IRONDNS.NET 195.253.64.4 2a01:5b0:4:0:0:0:0:4
-nserver:      NIC.MUSEUM 2001:67c:288:0:0:0:0:91 91.194.60.91
-nserver:      NS.ICANN.ORG 199.4.138.53 2001:500:89:0:0:0:0:53
-nserver:      NS5.KNIPP.DE 195.253.6.62 2a01:5b0:0:29:0:0:0:3e
-nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e:0:0:0:0:1
+nserver:      D.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
+nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
+nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
 ds-rdata:     17341 10 2 75e82017baf68eb9bf64c4392b47489db07317f8d9b522af644586c264c1b231
 
 whois:        whois.museum
@@ -45,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://about.museum
 
 created:      2001-10-20
-changed:      2017-10-31
+changed:      2017-11-11
 source:       IANA
 
