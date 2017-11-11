@@ -35,7 +35,7 @@ nserver:      F.ZDNSCLOUD.COM 182.131.23.22
 nserver:      G.ZDNSCLOUD.COM 42.62.2.16
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
-ds-rdata:     5869 8 2 b9825f9ca6dec3167b96da3d09d2d8ddc561bb46f425112670e2ec30638f6364
+ds-rdata:     18451 8 2 3f5e192f020d6f90c69ec3b46ebb725447acd57a38cbeda9b9b6b765883b90d5
 
 whois:        whois.nic.top
 
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.top
 
 created:      2014-07-24
-changed:      2016-09-03
+changed:      2017-11-11
 source:       IANA
 
