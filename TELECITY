@@ -42,7 +42,6 @@ nserver:      DNSA.NIC.TELECITY 156.154.100.3 2001:502:ad09:0:0:0:0:3
 nserver:      DNSB.NIC.TELECITY 156.154.101.3
 nserver:      DNSC.NIC.TELECITY 156.154.102.3
 nserver:      DNSD.NIC.TELECITY 156.154.103.3
-ds-rdata:     20815 8 2 3bcef5eb74a3eede1006c97c0928614ed2a13c7cd2e57e5019f23ced3632729a
 ds-rdata:     60769 8 2 C979B7305EB09A7F0BC6E19EEAA6AF3F844CF5EAAFEBF79FB7273510A561B3FD
 
 whois:        whois.nic.telecity
@@ -51,6 +50,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.telecitygroup.com/
 
 created:      2016-02-11
-changed:      2017-08-17
+changed:      2017-11-10
 source:       IANA
 
