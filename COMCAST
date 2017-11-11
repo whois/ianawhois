@@ -42,7 +42,6 @@ nserver:      DNSA.NIC.COMCAST 156.154.100.3 2001:502:ad09:0:0:0:0:3
 nserver:      DNSB.NIC.COMCAST 156.154.101.3
 nserver:      DNSC.NIC.COMCAST 156.154.102.3
 nserver:      DNSD.NIC.COMCAST 156.154.103.3
-ds-rdata:     30226 8 2 b4cf55b67b8751d5ccfbe5f77db632cd313565c871531cbd29772168b0019fdd
 ds-rdata:     21809 8 2 10E13E49F33ED1E42CA5D829093548118280D27664EB9DB6B52956189B5DBC67
 
 whois:        whois.nic.comcast
@@ -51,6 +50,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.comcast/
 
 created:      2016-06-16
-changed:      2017-07-26
+changed:      2017-11-10
 source:       IANA
 
