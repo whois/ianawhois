@@ -44,7 +44,6 @@ nserver:      DNSA.NIC.XFINITY 156.154.100.3 2001:502:ad09:0:0:0:0:3
 nserver:      DNSB.NIC.XFINITY 156.154.101.3
 nserver:      DNSC.NIC.XFINITY 156.154.102.3
 nserver:      DNSD.NIC.XFINITY 156.154.103.3
-ds-rdata:     29249 8 2 eaa3c204476d1b2cfde411fec47f0245274f6cf7bee96f139262fd44e223d5e3
 ds-rdata:     42454 8 2 C4D6CFEB973503EDAA89943505206BF8C406FC92C80ABAD132318165AA1CB445
 
 whois:        whois.nic.xfinity
@@ -53,6 +52,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.xfinity/
 
 created:      2016-06-16
-changed:      2017-07-26
+changed:      2017-11-10
 source:       IANA
 
