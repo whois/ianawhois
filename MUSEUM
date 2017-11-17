@@ -35,7 +35,6 @@ e-mail:       museum@afnic.fr
 nserver:      D.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
 nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
 nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
-ds-rdata:     17341 10 2 75e82017baf68eb9bf64c4392b47489db07317f8d9b522af644586c264c1b231
 ds-rdata:     34597 8 2 573e91cdc458f93df85253b0b94f9c2fa39bbec1d0ff82a2063fe043dfa3a1a8
 
 whois:        whois.nic.museum
@@ -44,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://about.museum
 
 created:      2001-10-20
-changed:      2017-11-15
+changed:      2017-11-17
 source:       IANA
 
