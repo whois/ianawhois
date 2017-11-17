@@ -4,20 +4,20 @@
 
 domain:       KY
 
-organisation: The Information and Communications Technology Authority
+organisation: Utility Regulation and Competition Office (OfReg)
 address:      P.O. Box 2502
 address:      Grand Cayman  KY1-1104
 address:      Cayman Islands
 
 contact:      administrative
-name:         Managing Director
-organisation: The Information and Communications Technology Authority
+name:         Deputy CEO
+organisation: Utility Regulation and Competition Office (OfReg)
 address:      P.O. Box 2502
 address:      Grand Cayman  KY1-1104
 address:      Cayman Islands
 phone:        1-345-946-4282
 fax-no:       1-345-945-8284
-e-mail:       md@icta.ky
+e-mail:       alee.faamoe@ofreg.ky
 
 contact:      technical
 name:         Francisco Obispo
@@ -44,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://uniregistry.com
 
 created:      1995-05-03
-changed:      2017-10-18
+changed:      2017-11-16
 source:       IANA
 
