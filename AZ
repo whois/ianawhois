@@ -29,7 +29,6 @@ phone:        +994 12 4939319
 e-mail:       intel@intrans.baku.az
 
 nserver:      AZ.HOSTMASTER.UA 195.47.253.13 2001:67c:258:0:0:0:0:13
-nserver:      NS.DEMOS.SU 194.87.0.8 194.87.0.9 2a00:1c88:d01:15:0:0:0:8 2a00:1c88:d01:15:0:0:0:9
 nserver:      RIP.PSG.COM 147.28.0.39 2001:418:1:0:0:0:0:39
 ds-rdata:     48544 8 2 4cb64b087166bd2a837efcedc5d210f3ffbedb7e6535998b27a1e43b948967cc
 
@@ -37,6 +36,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.whois.az/
 
 created:      1993-08-25
-changed:      2016-01-12
+changed:      2017-11-21
 source:       IANA
 
