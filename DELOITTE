@@ -10,21 +10,21 @@ address:      New York, NY 10112-0015
 address:      United States
 
 contact:      administrative
-name:         Matthew Yriart
+name:         Sarah Corley
+organisation: Deloitte Touche Tohmatsu Services, Inc.
+address:      111 S Wacker Dr
+address:      Chicago, IL 60611
+address:      United States
+phone:        +1 312 486 1191
+e-mail:       dttdomainadmin@deloitte.com
+
+contact:      technical
+name:         Scott E. Smith
 organisation: Deloitte Touche Tohmatsu Services, Inc.
 address:      4022 Sells Drive
 address:      Hermitage, TN 37076
 address:      United States
-phone:        +1 (615) 882-6081
-e-mail:       dttdomainadmin@deloitte.com
-
-contact:      technical
-name:         Sarah Corley
-organisation: Deloitte Touche Tohmatsu Services, Inc.
-address:      111 S. Wacker Drive
-address:      Chicago, IL 60606
-address:      United States
-phone:        +1 (312) 486-1191
+phone:        +1 610 479 5957
 e-mail:       dttdomainadmin@deloitte.com
 
 nserver:      NS1A.KSREGISTRY.NET 2001:dd8:7:6075:dc:0:0:1 203.119.88.75
@@ -42,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.deloitte
 
 created:      2015-12-23
-changed:      2017-10-28
+changed:      2017-11-20
 source:       IANA
 
