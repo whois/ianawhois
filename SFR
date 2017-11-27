@@ -32,20 +32,24 @@ phone:        +49.68949396250
 fax-no:       +49.68949396251
 e-mail:       icann@ksregistry.com
 
+nserver:      A.NIC.SFR 194.169.218.100 2001:67c:13cc:0:0:0:1:100
+nserver:      B.NIC.SFR 185.24.64.100 2a04:2b00:13cc:0:0:0:1:100
+nserver:      C.NIC.SFR 212.18.248.100 2a04:2b00:13ee:0:0:0:0:100
+nserver:      D.NIC.SFR 212.18.249.100 2a04:2b00:13ff:0:0:0:0:100
 nserver:      NS1A.KSREGISTRY.NET 2001:dd8:7:6075:dc:0:0:1 203.119.88.75
 nserver:      NS1B.KSREGISTRY.NET 2620:0171:0a00:00ad:0:0:0:75 72.0.48.75
 nserver:      NS2A.KSREGISTRY.COM 2001:dd8:7:6076:dc:0:0:1 203.119.88.76
 nserver:      NS2B.KSREGISTRY.COM 2620:0171:0a00:00ad:0:0:0:76 72.0.48.76
-nserver:      X.NS.NIC.SFR 195.253.64.4 2a01:5b0:4:0:0:0:0:4
-nserver:      Y.NS.NIC.SFR 195.253.64.7 2a01:5b0:4:0:0:0:0:7
 ds-rdata:     7923 7 1 E348A086A9BC4C214C16FC529E64BBEE506739C4
 ds-rdata:     7923 7 2 E3B4E6B0B3447C29949813283B4308546B1BB895FA1E2A39364F918BE581BF01
+ds-rdata:     51274 7 1 bf4509a051e4cb1206784fb08211043be36a495b
+ds-rdata:     51274 7 2 4be38a9fc56f65e77125940e4ffdaccffc39380f3e74bca025b0206eb8e8628d
 
 whois:        whois.nic.sfr
 
 status:       ACTIVE
 
 created:      2015-11-12
-changed:      2017-10-31
+changed:      2017-11-26
 source:       IANA
 
