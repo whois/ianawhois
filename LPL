@@ -29,20 +29,24 @@ phone:        +49.68949396250
 fax-no:       +49.68949396251
 e-mail:       icann@ksregistry.com
 
+nserver:      A.NIC.LPL 194.169.218.92 2001:67c:13cc:0:0:0:1:92
+nserver:      B.NIC.LPL 185.24.64.92 2a04:2b00:13cc:0:0:0:1:92
+nserver:      C.NIC.LPL 212.18.248.92 2a04:2b00:13ee:0:0:0:0:92
+nserver:      D.NIC.LPL 212.18.249.92 2a04:2b00:13ff:0:0:0:0:92
 nserver:      NS1A.KSREGISTRY.NET 2001:dd8:7:6075:dc:0:0:1 203.119.88.75
 nserver:      NS1B.KSREGISTRY.NET 2620:0171:0a00:00ad:0:0:0:75 72.0.48.75
 nserver:      NS2A.KSREGISTRY.COM 2001:dd8:7:6076:dc:0:0:1 203.119.88.76
 nserver:      NS2B.KSREGISTRY.COM 2620:0171:0a00:00ad:0:0:0:76 72.0.48.76
-nserver:      X.NS.NIC.LPL 195.253.64.4 2a01:5b0:4:0:0:0:0:4
-nserver:      Y.NS.NIC.LPL 195.253.64.7 2a01:5b0:4:0:0:0:0:7
 ds-rdata:     27378 7 1 CCC5B2D39BEFA0918768394724325608E076514F
 ds-rdata:     27378 7 2 6F3063778A89B0C993A6D80C0F86B1BF14D3F5669075FC98DC16B8FD1608846E
+ds-rdata:     50040 7 1 08a7f61b3c9cf7fa6658ea454a0e5d9c2c62e494
+ds-rdata:     50040 7 2 4aaf92273ea09ca7ed698d5785389a7703a5475def5962e813c000fa7893b328
 
 whois:        whois.nic.lpl
 
 status:       ACTIVE
 
 created:      2016-06-30
-changed:      2017-10-28
+changed:      2017-11-26
 source:       IANA
 
