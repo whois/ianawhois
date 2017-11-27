@@ -29,20 +29,24 @@ phone:        +49.68949396250
 fax-no:       +49.68949396251
 e-mail:       icann@ksregistry.com
 
+nserver:      A.NIC.LPLFINANCIAL 194.169.218.93 2001:67c:13cc:0:0:0:1:93
+nserver:      B.NIC.LPLFINANCIAL 185.24.64.93 2a04:2b00:13cc:0:0:0:1:93
+nserver:      C.NIC.LPLFINANCIAL 212.18.248.93 2a04:2b00:13ee:0:0:0:0:93
+nserver:      D.NIC.LPLFINANCIAL 212.18.249.93 2a04:2b00:13ff:0:0:0:0:93
 nserver:      NS1A.KSREGISTRY.NET 2001:dd8:7:6075:dc:0:0:1 203.119.88.75
 nserver:      NS1B.KSREGISTRY.NET 2620:0171:0a00:00ad:0:0:0:75 72.0.48.75
 nserver:      NS2A.KSREGISTRY.COM 2001:dd8:7:6076:dc:0:0:1 203.119.88.76
 nserver:      NS2B.KSREGISTRY.COM 2620:0171:0a00:00ad:0:0:0:76 72.0.48.76
-nserver:      X.NS.NIC.LPLFINANCIAL 195.253.64.4 2a01:5b0:4:0:0:0:0:4
-nserver:      Y.NS.NIC.LPLFINANCIAL 195.253.64.7 2a01:5b0:4:0:0:0:0:7
 ds-rdata:     3615 7 1 2D15EC1892F7E0AE2491B0CD144A114F65605778
 ds-rdata:     3615 7 2 0D3EA589CBD6C634CECF40050614EE0F1A4C364F7CC74E225D29138DB054A4FE
+ds-rdata:     8455 7 1 96f3c31c34d12d10939065bb2b1e0ea86176da0d
+ds-rdata:     8455 7 2 91d851ae03523f99d6c6def2d0ee451c6778ea3d58f4c347852972cc7b6b50b9
 
 whois:        whois.nic.lplfinancial
 
 status:       ACTIVE
 
 created:      2016-06-30
-changed:      2017-10-28
+changed:      2017-11-26
 source:       IANA
 
