@@ -32,10 +32,6 @@ nserver:      C.NS.DNS.BE 194.0.43.1 2001:678:68:0:0:0:0:1
 nserver:      D.NS.DNS.BE 194.0.44.1 2001:678:6c:0:0:0:0:1
 nserver:      X.NIC.VLAANDEREN 194.0.1.10 2001:678:4:0:0:0:0:a
 nserver:      Y.NS.DNS.BE 120.29.253.8 2001:dcd:7:0:0:0:0:8
-ds-rdata:     47150 8 2 5d1bc97166689377e01bd79ee1b5896db73a65fb4770762a29aac0dbf8682733
-ds-rdata:     47150 8 1 5925702da8d2044b278a3479dbb8e4a2e40ead6f
-ds-rdata:     48376 8 2 9edbaba0c244f11390c0e1cb0021a81927d905cc8a3f5be9e71fb910735a049d
-ds-rdata:     48376 8 1 352cf4dfea86e17c322aa38d31a7cee4b8b2d6af
 ds-rdata:     9286 8 1 D8689711ACE25FB8C7DFBD54443BF90411A75C57
 ds-rdata:     9286 8 2 F04E1190A18D3E63B8FD5261768EF06F8FA5F27F80F39C54AA81753B203E05E7
 
@@ -45,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.vlaanderen
 
 created:      2014-06-05
-changed:      2017-08-10
+changed:      2017-11-29
 source:       IANA
 
