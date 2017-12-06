@@ -11,15 +11,15 @@ address:      75002 Paris
 address:      France
 
 contact:      administrative
-name:         Manager of Information System Projects
-organisation: Museum Domain Management Association
-address:      International Council of Museums
-address:      22 rue de Palestro
-address:      75002 Paris
+name:         Account Manager
+organisation: AFNIC
+address:      1 rue Stephenson
+address:      Immeuble Le Stephenson
+address:      78180 Montigny-Le-Bretonneux
 address:      France
-phone:        +33 1 4734 0500
-fax-no:       +33 1 4306 7862
-e-mail:       admin@musedoma.museum
+phone:        +33139308300
+fax-no:       +33 139308301
+e-mail:       museum@afnic.fr
 
 contact:      technical
 name:         MUSEUM TLD Technical Contact
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://about.museum
 
 created:      2001-10-20
-changed:      2017-11-17
+changed:      2017-12-05
 source:       IANA
 
