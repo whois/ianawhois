@@ -29,13 +29,17 @@ phone:        +49.68949396250
 fax-no:       +49.68949396251
 e-mail:       icann@ksregistry.com
 
+nserver:      A.NIC.GENT 194.169.218.89 2001:67c:13cc:0:0:0:1:89
+nserver:      B.NIC.GENT 185.24.64.89 2a04:2b00:13cc:0:0:0:1:89
+nserver:      C.NIC.GENT 212.18.248.89 2a04:2b00:13ee:0:0:0:0:89
+nserver:      D.NIC.GENT 212.18.249.89 2a04:2b00:13ff:0:0:0:0:89
 nserver:      NS1A.KSREGISTRY.NET 2001:dd8:7:6075:dc:0:0:1 203.119.88.75
 nserver:      NS1B.KSREGISTRY.NET 2620:0171:0a00:00ad:0:0:0:75 72.0.48.75
 nserver:      NS2A.KSREGISTRY.COM 2001:dd8:7:6076:dc:0:0:1 203.119.88.76
 nserver:      NS2B.KSREGISTRY.COM 2620:0171:0a00:00ad:0:0:0:76 72.0.48.76
-nserver:      X.NS.NIC.GENT 195.253.64.4 2a01:5b0:4:0:0:0:0:4
-nserver:      Y.NS.NIC.GENT 195.253.64.7 2a01:5b0:4:0:0:0:0:7
 ds-rdata:     19200 7 2 11F029AD7E87D944ABD918B837C1E5D75E400598DCD66630B37E48D8D149F97E
+ds-rdata:     62361 7 1 EAD2AC343F82EF1BAF3889D76332590EF7D049E5
+ds-rdata:     62361 7 2 66AAE887EBB56145AD256557894BB78115EFAC0F9D3B1BDBC8B32EF87B7D9BED
 
 whois:        whois.nic.gent
 
@@ -43,6 +47,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.gent
 
 created:      2014-07-03
-changed:      2017-11-10
+changed:      2017-12-07
 source:       IANA
 
