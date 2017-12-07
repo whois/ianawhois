@@ -29,13 +29,17 @@ phone:        +49 68949396250
 fax-no:       +49 68949396251
 e-mail:       icann@ksregistry.com
 
+nserver:      A.NIC.LIDL 194.169.218.91 2001:67c:13cc:0:0:0:1:91
+nserver:      B.NIC.LIDL 185.24.64.91 2a04:2b00:13cc:0:0:0:1:91
+nserver:      C.NIC.LIDL 212.18.248.91 2a04:2b00:13ee:0:0:0:0:91
+nserver:      D.NIC.LIDL 212.18.249.91 2a04:2b00:13ff:0:0:0:0:91
 nserver:      NS1A.KSREGISTRY.NET 2001:dd8:7:6075:dc:0:0:1 203.119.88.75
 nserver:      NS1B.KSREGISTRY.NET 2620:0171:0a00:00ad:0:0:0:75 72.0.48.75
 nserver:      NS2A.KSREGISTRY.COM 2001:dd8:7:6076:dc:0:0:1 203.119.88.76
 nserver:      NS2B.KSREGISTRY.COM 2620:0171:0a00:00ad:0:0:0:76 72.0.48.76
-nserver:      X.NS.NIC.LIDL 195.253.64.4 2a01:5b0:4:0:0:0:0:4
-nserver:      Y.NS.NIC.LIDL 195.253.64.7 2a01:5b0:4:0:0:0:0:7
 ds-rdata:     25884 7 1 5D6DE6274D4355AFE0AEAB14A7090ECEEFEDFE0C
+ds-rdata:     54241 7 1 D4A5619A11199E9C1CCDB83C02F2F710DDD79EE8
+ds-rdata:     54241 7 2 12602BAA0FE5B77F6070A3E78C6BB5734BC8C415A7A74724D7060D8E23CB7A30
 
 whois:        whois.nic.lidl
 
@@ -43,6 +47,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.nic.lidl
 
 created:      2014-12-04
-changed:      2017-10-27
+changed:      2017-12-07
 source:       IANA
 
