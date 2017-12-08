@@ -29,13 +29,17 @@ phone:        +49 68949396250
 fax-no:       +49 68949396251
 e-mail:       icann@ksregistry.com
 
+nserver:      A.NIC.SCHWARZ 194.169.218.99 2001:67c:13cc:0:0:0:1:99
+nserver:      B.NIC.SCHWARZ 185.24.64.99 2a04:2b00:13cc:0:0:0:1:99
+nserver:      C.NIC.SCHWARZ 212.18.248.99 2a04:2b00:13ee:0:0:0:0:99
+nserver:      D.NIC.SCHWARZ 212.18.249.99 2a04:2b00:13ff:0:0:0:0:99
 nserver:      NS1A.KSREGISTRY.NET 2001:dd8:7:6075:dc:0:0:1 203.119.88.75
 nserver:      NS1B.KSREGISTRY.NET 2620:0171:0a00:00ad:0:0:0:75 72.0.48.75
 nserver:      NS2A.KSREGISTRY.COM 2001:dd8:7:6076:dc:0:0:1 203.119.88.76
 nserver:      NS2B.KSREGISTRY.COM 2620:0171:0a00:00ad:0:0:0:76 72.0.48.76
-nserver:      X.NS.NIC.SCHWARZ 195.253.64.4 2a01:5b0:4:0:0:0:0:4
-nserver:      Y.NS.NIC.SCHWARZ 195.253.64.7 2a01:5b0:4:0:0:0:0:7
 ds-rdata:     47349 7 1 96D2AE596E2D9525C309C0E69714AE8ED377D5EE
+ds-rdata:     51361 7 2 39D5A41F51DC9478526A8ECEB14C11095D7EEE368191936EF8519B15D2F0AAB7
+ds-rdata:     51361 7 1 CC70F9EE2A2E0AE7C59E1DBA91CC81265E8861CE
 
 whois:        whois.nic.schwarz
 
@@ -43,6 +47,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.nic.schwarz
 
 created:      2014-12-04
-changed:      2017-10-28
+changed:      2017-12-08
 source:       IANA
 
