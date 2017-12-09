@@ -40,6 +40,7 @@ nserver:      NS2B.KSREGISTRY.COM 2620:0171:0a00:00ad:0:0:0:76 72.0.48.76
 ds-rdata:     25884 7 1 5D6DE6274D4355AFE0AEAB14A7090ECEEFEDFE0C
 ds-rdata:     54241 7 1 D4A5619A11199E9C1CCDB83C02F2F710DDD79EE8
 ds-rdata:     54241 7 2 12602BAA0FE5B77F6070A3E78C6BB5734BC8C415A7A74724D7060D8E23CB7A30
+ds-rdata:     25884 7 2 417e1d3643742999e4f0041289835fcc4691e0462316515ece2cb61db57ef6e9
 
 whois:        whois.nic.lidl
 
@@ -47,6 +48,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.nic.lidl
 
 created:      2014-12-04
-changed:      2017-12-07
+changed:      2017-12-09
 source:       IANA
 
