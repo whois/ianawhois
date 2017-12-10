@@ -32,6 +32,10 @@ nserver:      DNS1.EMDNS.UK 213.248.217.153 2a01:618:401:0:0:0:0:153
 nserver:      DNS2.EMDNS.UK 103.49.81.153 2401:fd80:401:0:0:0:0:153
 nserver:      DNS3.EMDNS.UK 213.248.221.153 2a01:618:405:0:0:0:0:153
 nserver:      DNS4.EMDNS.UK 2401:fd80:405:0:0:0:0:153 43.230.49.153
+nserver:      DNSA.EMDNS.UK 156.154.100.3 2001:502:ad09:0:0:0:0:3
+nserver:      DNSB.EMDNS.UK 156.154.101.3
+nserver:      DNSC.EMDNS.UK 156.154.102.3
+nserver:      DNSD.EMDNS.UK 156.154.103.3
 ds-rdata:     60571 8 2 32ED00D841E724EAA980472283420EE9DE48905E1B04709E79FC418C08FA1561
 
 status:       ACTIVE
@@ -39,6 +43,6 @@ remarks:      Registration information:
 remarks:      https://www.icann.org/resources/pages/ebero-2013-04-02-en
 
 created:      2013-12-12
-changed:      2017-12-08
+changed:      2017-12-09
 source:       IANA
 
