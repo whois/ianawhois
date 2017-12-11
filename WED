@@ -38,6 +38,8 @@ nserver:      DNSC.EMDNS.UK 156.154.102.3
 nserver:      DNSD.EMDNS.UK 156.154.103.3
 ds-rdata:     60571 8 2 32ED00D841E724EAA980472283420EE9DE48905E1B04709E79FC418C08FA1561
 
+whois:        whois.nic.wed
+
 status:       ACTIVE
 remarks:      Registration information:
 remarks:      https://www.icann.org/resources/pages/ebero-2013-04-02-en
