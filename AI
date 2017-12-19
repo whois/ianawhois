@@ -31,12 +31,12 @@ nserver:      NS1.PAIR.COM 209.68.1.11
 nserver:      NS2.OFFSHORE.AI 108.166.113.245
 nserver:      WHOIS.AI 209.59.119.1
 
-whois:        whois.ai
+whois:        whois.nic.ai
 
 status:       ACTIVE
 remarks:      Registration information: http://whois.ai
 
 created:      1995-02-16
-changed:      2017-08-10
+changed:      2017-12-19
 source:       IANA
 
