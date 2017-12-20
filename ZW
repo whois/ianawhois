@@ -35,14 +35,14 @@ phone:        +263 4 791701
 fax-no:       +263 4 708981
 e-mail:       support@telone.co.zw
 
+nserver:      NS1.LIQUIDTELECOM.NET 2c0f:fe40:0:0:5:11:11:1 5.11.11.1
 nserver:      NS1.TELONE.CO.ZW 194.133.122.47
-nserver:      NS2.GIP.NET 204.59.1.222
+nserver:      NS2.LIQUIDTELECOM.NET 2c0f:fe40:0:0:5:11:11:10 5.11.11.10
 nserver:      NS2.TELONE.CO.ZW 194.133.122.42
-nserver:      NS3.TELONE.CO.ZW 194.133.122.34
 
 status:       ACTIVE
 
 created:      1991-11-06
-changed:      2014-06-23
+changed:      2017-12-19
 source:       IANA
 
