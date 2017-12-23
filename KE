@@ -36,7 +36,7 @@ nserver:      KENIC.ANYCASTDNS.CZ 185.28.194.194 185.38.108.108
 nserver:      MZIZI.KENIC.OR.KE 196.1.4.130 196.1.4.3 198.32.67.9
 nserver:      NS-KE.AFRINIC.NET 196.216.168.22 2001:43f8:120:0:0:0:0:22
 nserver:      NS.ANYCAST.KENIC.OR.KE 2001:500:14:6007:ad:0:0:1 204.61.216.7
-nserver:      NS1.COZA.NET.ZA 66.135.62.20
+nserver:      NS2.DNS.BUSINESS 2001:1978:2400:6:0:0:0:112 66.135.46.112
 ds-rdata:     55552 8 1 3F7008E72C4F10C8483AF68DFF268B92BBEC378C
 ds-rdata:     55552 8 2 75BDB888AE8CBFFE92D3C388CB30F16FB9DB5E7CE547D4A26B0569CEEA5C30CC
 
@@ -46,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.kenic.or.ke
 
 created:      1993-04-29
-changed:      2017-06-15
+changed:      2017-12-22
 source:       IANA
 
