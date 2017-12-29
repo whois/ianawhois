@@ -20,13 +20,12 @@ fax-no:       +86 10 5992 0062
 e-mail:       zhangweiling01@baidu.com
 
 contact:      technical
-name:         ZhangLi
-organisation: China Internet Network Information Center(CNNIC)
+name:         Gao Lei
+organisation: ZDNS
 address:      4 South 4th, Zhongguancun, Haidian District, Beijing, China
 address:      China
-phone:        +86.138 1063 5572
-fax-no:       +86.10 5881 2666
-e-mail:       zhangli@cnnic.cn
+phone:        +86.15011380586
+e-mail:       gaolei@zdns.cn
 
 nserver:      TA.NGTLD.CN 2001:dc7:ffd1:0:0:0:0:1 42.83.130.1
 nserver:      TB.NGTLD.CN 2001:dc7:ffd2:0:0:0:0:1 42.83.131.1
@@ -41,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.cnnic.cn
 
 created:      2015-12-17
-changed:      2016-01-05
+changed:      2017-12-29
 source:       IANA
 
