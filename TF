@@ -39,6 +39,7 @@ nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
 nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
 ds-rdata:     63746 8 2 c80a503f9a4594065684e1b4c6cd5c9aaacf855a9f3b4d9b4546970c6c37c0e0
 ds-rdata:     12520 8 2 2ec74274dd9aa7ffea33e695eff98f17f7c78abd2d76edbbde4edd4630d68fa2
+ds-rdata:     40501 8 2 F7619C58A5C6D4C62C74FF3EC3B9DBF575A1B814283CC72FB63EF72861BC9808
 
 whois:        whois.nic.tf
 
@@ -46,6 +47,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.tf/
 
 created:      1997-08-26
-changed:      2016-01-25
+changed:      2017-12-31
 source:       IANA
 
