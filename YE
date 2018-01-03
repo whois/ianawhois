@@ -11,35 +11,35 @@ address:      Sana'a
 address:      Yemen
 
 contact:      administrative
-name:         M. Abdulkader, Manager Enhanced Services
+name:         CCO
 organisation: TeleYemen
 address:      P.O.Box 168
 address:      26th September Street
 address:      Sana'a
 address:      Yemen
-phone:        +967 777009416
-fax-no:       +967 1 7523222
-e-mail:       ghaily@y.net.ye
+phone:        +967 777009406
+fax-no:       +967 1 270848
+e-mail:       a.rahim@teleyemen.com.ye
 
 contact:      technical
-name:         Ahmed Al-Qaifi, IT & Data Network Mgr.
+name:         IT Manager
 organisation: TeleYemen
 address:      P.O.Box 168
 address:      26th September Street
 address:      Sana'a
 address:      Yemen
-phone:        +967 777290146
-fax-no:       +967 1 7521406
-e-mail:       a.alqaifi@teleyemen.com.ye
+phone:        +967 771715858
+fax-no:       +967 1 7521403
+e-mail:       m.a.thabet@teleyemen.com.ye
 
-nserver:      NS1.YEMEN.NET.YE 65.162.184.33
-nserver:      NS2.YEMEN.NET.YE 65.162.184.34
-nserver:      SAH1.YE 195.94.0.34
-nserver:      SAH2.YE 195.94.0.35
+nserver:      NS1.YEMEN.NET.YE 2a02:2718:4:0:0:0:0:33 65.162.184.33
+nserver:      NS2.YEMEN.NET.YE 2a02:2718:4:0:0:0:0:34 65.162.184.34
+nserver:      SAH1.YE 195.94.0.34 2a02:e280:8:d000:0:0:0:34
+nserver:      SAH2.YE 195.94.0.35 2a02:e280:8:d000:0:0:0:35
 
 status:       ACTIVE
 
 created:      1996-08-19
-changed:      2011-01-12
+changed:      2018-01-03
 source:       IANA
 
