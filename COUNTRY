@@ -9,20 +9,25 @@ address:      Craigmuir Chambers, Road Town Tortola VG 1110
 address:      Virgin Islands, British
 
 contact:      administrative
-name:         Admin Contact
-organisation: Minds + Machines Ltd
-address:      32 Nassau St, Dublin 2
-address:      Ireland
-phone:        +353.14301689
-e-mail:       support@mm-registry.com
+name:         CTO
+organisation: Uniregistry Inc.
+address:      Governors Square, Unit 3-110, 23 Lime Tree Bay Avenue
+address:      Grand Cayman
+address:      KY1-1108
+address:      Cayman Islands
+phone:        +1.3457496263
+fax-no:       +1.3457466263
+e-mail:       ops@uniregistry.com
 
 contact:      technical
-name:         Director of Software Development
-organisation: Minds + Machines Ltd
-address:      32 Nassau St, Dublin 2
-address:      Ireland
-phone:        +353.14301689
-e-mail:       support@mm-registry.com
+name:         CTO
+organisation: Uniregistry Inc.
+address:      Governors Square, Unit 3-110, 23 Lime Tree Bay Avenue
+address:      Grand Cayman
+address:      KY1-1108
+address:      Cayman Islands
+phone:        +1.3457496263
+e-mail:       ops@uniregistry.com
 
 nserver:      A.NS.NIC.COUNTRY 2620:0171:0a02:00ad:0:0:0:17 72.0.50.17
 nserver:      B.NS.NIC.COUNTRY 2620:0171:0d02:00dc:0:0:0:17 72.42.114.17
@@ -35,6 +40,6 @@ whois:        whois-dub.mm-registry.com
 status:       ACTIVE
 
 created:      2014-02-28
-changed:      2016-04-16
+changed:      2018-01-06
 source:       IANA
 
