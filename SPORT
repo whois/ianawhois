@@ -1,0 +1,49 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       SPORT
+
+organisation: Global Association of International Sports Federations (GAISF)
+address:      Maison du Sport International
+address:      Avenue de Rhodanie 54
+address:      CH-1017 Lausanne VD
+address:      Switzerland
+
+contact:      administrative
+name:         .sport TLD Administrative Contact
+organisation: Global Association of International Sports Federations (GAISF)
+address:      Maison du Sport International
+address:      Avenue de Rhodanie 54
+address:      CH-1017 Lausanne VD
+address:      Switzerland
+phone:        +41 21 612 3070
+fax-no:       +41 21 612 3071
+e-mail:       pierre.germeau@gaisf.org
+
+contact:      technical
+name:         Werner Staub
+organisation: CORE Association
+address:      Cours de Rive 2
+address:      CH-1204 Geneva
+address:      Switzerland
+phone:        +41 22 312 5610
+fax-no:       +41 22 312 5612
+e-mail:       dnsmaster@corenic.org
+
+nserver:      ANYCAST10.IRONDNS.NET 195.253.64.12 2a01:5b0:4:0:0:0:0:c
+nserver:      ANYCAST23.IRONDNS.NET 195.253.65.11 2a01:5b0:5:0:0:0:0:b
+nserver:      ANYCAST24.IRONDNS.NET 195.253.65.12 2a01:5b0:5:0:0:0:0:c
+nserver:      ANYCAST9.IRONDNS.NET 195.253.64.11 2a01:5b0:4:0:0:0:0:b
+ds-rdata:     32491 10 2 3B39ADB8057A67441E2B11FDD23417E52F7F5B17E134F12027B3C382535972DA
+
+whois:        whois.nic.sport
+
+status:       ACTIVE
+remarks:      Registration information:
+remarks:      https://gaisf.org/sport-initiative/
+
+created:      2018-01-05
+changed:      2018-01-11
+source:       IANA
+
