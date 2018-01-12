@@ -16,7 +16,7 @@ address:      706 Collins Head Rd.
 address:      South Pacific 2899
 address:      Norfolk Island
 phone:        +672 3 23850
-e-mail:       nf-admin@nic.net.nf
+e-mail:       iana@nic.nf
 
 contact:      technical
 name:         Garth Miller
@@ -38,6 +38,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.nf
 
 created:      1996-03-18
-changed:      2017-06-23
+changed:      2018-01-12
 source:       IANA
 
