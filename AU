@@ -13,8 +13,8 @@ address:      Australia
 contact:      administrative
 name:         Cameron Boardman
 organisation: .au Domain Administration (auDA)
-address:      114 Cardigan Street
-address:      Carlton  VIC 3053
+address:      Lv 17 1 Collins St
+address:      Melbourne VIC 3000
 address:      Australia
 phone:        + 61 03 8341 4111, + 61 1300 732 929
 fax-no:       + 61 03 8341 4112
@@ -23,8 +23,8 @@ e-mail:       cameron.boardman@auda.org.au
 contact:      technical
 name:         Adam King, 
 organisation: .au Domain Administration (auDA)
-address:      114 Cardigan Street
-address:      Carlton  VIC 3053
+address:      Lv 17 1 Collins St
+address:      Melbourne VIC 3000
 address:      Australia
 phone:        +61 (0)3 8341 4111
 fax-no:       +61 (0)3 8341 4112
@@ -50,6 +50,6 @@ remarks:      Registration information:
 remarks:      http://www.auda.org.au/domains/au-domains/
 
 created:      1986-03-05
-changed:      2018-01-08
+changed:      2018-01-12
 source:       IANA
 
