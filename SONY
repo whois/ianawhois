@@ -9,15 +9,14 @@ address:      1-7-1 Konan, Minato-ku, Tokyo, 108-0075
 address:      Japan
 
 contact:      administrative
-name:         Mitsuaki Nakagawa
-organisation: Brights Consulting Inc.
-address:      30F, Kasumigaseki Bldg.,
-address:      3-2-5 Kasumigaseki Chiyoda-ku
-address:      Tokyo 100-6030
+name:         Chief Operating Officer
+organisation: GMO Brights Consulting Inc.
+address:      Cerulean Tower, 26-1, Sakuragaoka-cho,
+address:      Shibuya-ku Tokyo 150-8512, Japan
 address:      Japan
-phone:        +81355210107
-fax-no:       +81355210117
-e-mail:       nakagawa_09@brights.jp
+phone:        +81.357841069
+fax-no:       +81.334625040
+e-mail:       registry@brights.jp
 
 contact:      technical
 name:         Director
@@ -43,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.sony.com
 
 created:      2015-03-06
-changed:      2017-10-20
+changed:      2018-01-16
 source:       IANA
 
