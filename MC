@@ -7,17 +7,17 @@ domain:       MC
 organisation: Gouvernement de Monaco
 organisation: Direction des Communications Electroniques
 address:      23, Avenue Albert II
-address:      Principaute de Monaco  98000
+address:      98000 Monaco
 address:      Monaco
 
 contact:      administrative
-name:         Contact administratif
+name:         Administrator
 organisation: Gouvernement de Monaco
 organisation: Direction des Communications Electroniques
 address:      23, Avenue Albert II
-address:      Principaute de Monaco  98000
+address:      98000 Monaco
 address:      Monaco
-phone:        +377 98 98 84 39
+phone:        +377 98 98 88 00
 fax-no:       +377 97 98 56 57
 e-mail:       nic@gouv.mc
 
@@ -39,6 +39,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.mc/
 
 created:      1995-01-20
-changed:      2017-06-28
+changed:      2018-01-17
 source:       IANA
 
