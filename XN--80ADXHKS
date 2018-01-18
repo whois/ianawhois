@@ -32,6 +32,7 @@ nserver:      B.DNS.FLEXIREG.NET 195.253.64.6 2a01:5b0:4:0:0:0:0:6
 nserver:      C.DNS.FLEXIREG.ORG 195.253.65.6 2a01:5b0:5:0:0:0:0:6
 nserver:      D.DNS.FLEXIREG.DOMAINS 2a01:d8:8:0:0:0:0:1 89.111.135.1
 ds-rdata:     50611 8 2 65cb02dfb60adc3364625ce8394616977d83bff63e6f8b71e9360b1f10c55d7d
+ds-rdata:     33904 8 2 7af8634483e30e963abfbf03f2efe17732ba3c4d2f5020777a415420048f5fcf
 
 whois:        whois.nic.xn--80adxhks
 
@@ -39,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.faitid.org
 
 created:      2014-04-17
-changed:      2016-09-30
+changed:      2018-01-18
 source:       IANA
 
