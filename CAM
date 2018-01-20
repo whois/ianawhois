@@ -35,7 +35,7 @@ nserver:      NS1A.KSREGISTRY.NET 2001:dd8:7:6075:dc:0:0:1 203.119.88.75
 nserver:      NS1B.KSREGISTRY.NET 2620:0171:0a00:00ad:0:0:0:75 72.0.48.75
 nserver:      NS2A.KSREGISTRY.COM 2001:dd8:7:6076:dc:0:0:1 203.119.88.76
 nserver:      NS2B.KSREGISTRY.COM 2620:0171:0a00:00ad:0:0:0:76 72.0.48.76
-ds-rdata:     39401 8 2 35b92197cf78bb1ec5aee3e184ef6da9e27f25bebf4effd11260aa6801c2c4fe
+ds-rdata:     27179 8 2 f8c48547453f63fcc5bf62884a1f885fe50d467079e7b17da3c8d0a2dc92474d
 
 whois:        whois.ksregistry.net
 
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.acwebconnecting.com
 
 created:      2016-06-09
-changed:      2017-01-13
+changed:      2018-01-20
 source:       IANA
 
