@@ -34,6 +34,8 @@ nserver:      NS1.NIC.MR 41.188.65.193
 nserver:      NS2.NIC.MR 82.151.64.2
 nserver:      NS3.NIC.FR 192.134.0.49 2001:660:3006:1:0:0:1:1
 
+whois:        whois.nic.mr
+
 status:       ACTIVE
 remarks:      Registration information: http://www.nic.mr
 
