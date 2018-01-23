@@ -30,14 +30,14 @@ fax-no:       + 92-42-583-6602
 e-mail:       ashar@pknic.net.pk
 
 nserver:      N1.PKNIC.NET.PK 162.252.84.2
-nserver:      N2.PKNIC.NET.PK 107.6.141.90
 nserver:      NS3.PKNIC.NET.PK 199.192.75.54
+nserver:      ROOT-E.PKNIC.PK 107.6.178.178
 nserver:      ROOT-S.PKNIC.PK 119.81.34.90
 
 status:       ACTIVE
 remarks:      Registration information: http://www.pknic.net.pk/
 
 created:      1992-06-03
-changed:      2014-09-11
+changed:      2018-01-22
 source:       IANA
 
