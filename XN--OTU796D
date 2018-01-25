@@ -1,0 +1,46 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       招聘
+domain-ace:   XN--OTU796D
+
+organisation: Dot Trademark TLD Holding Company Limited
+address:      F/26, East Tower, Forturn Plaza, No.118, Tiyu Dong Rd, Guangzhou City, Guangdong Province
+address:      China
+
+contact:      administrative
+name:         Sonia LIANG
+organisation: Dot Trademark TLD Holding Company Limited
+address:      F/26, East Tower, Forturn Plaza, No.118, Tiyu Dong Rd, Guangzhou City, Guangdong Province
+address:      China
+phone:        +86-020-85720323
+fax-no:       N/A
+e-mail:       icann@trademarkdomain.com
+
+contact:      technical
+name:         Tao ZHANG
+organisation: Dot Trademark TLD Holding Company Limited
+address:      F/26, East Tower, Forturn Plaza, No.118, Tiyu Dong Rd, Guangzhou City, Guangdong Province
+address:      China
+phone:        +86-020-85720323
+fax-no:       N/A
+e-mail:       icann@trademarkdomain.com
+
+nserver:      A.ZDNSCLOUD.COM 1.8.240.1
+nserver:      B.ZDNSCLOUD.COM 1.8.241.1
+nserver:      C.ZDNSCLOUD.COM 1.8.242.1
+nserver:      D.ZDNSCLOUD.COM 1.8.243.1
+nserver:      E.ZDNSCLOUD.COM 119.167.248.154
+nserver:      F.ZDNSCLOUD.COM 182.131.23.22
+nserver:      G.ZDNSCLOUD.COM 42.62.2.16
+nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
+nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
+ds-rdata:     61882 8 2 EF3F494C35F4C2C571A0E5644F6E2760818F2EB7B08E1B05B522D995022B6786
+
+status:       ACTIVE
+
+created:      2017-12-21
+changed:      2018-01-24
+source:       IANA
+
