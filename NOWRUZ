@@ -35,11 +35,10 @@ phone:        +90 212 603 62 03
 fax-no:       +90 212 603 62 04
 e-mail:       registry@agitsys.com
 
-nserver:      A.NOWRUZ.DYNTLD.NET 199.19.5.22 2001:500:92:0:0:0:0:22
 nserver:      A.NS.NIC.NOWRUZ 2620:0171:0a01:00ad:0:0:0:10 72.0.49.10
-nserver:      B.NOWRUZ.DYNTLD.NET 199.19.6.22 2001:500:96:0:0:0:0:22
 nserver:      B.NS.NIC.NOWRUZ 2620:0171:0d01:00dc:0:0:0:10 72.42.113.10
-ds-rdata:     5414 8 2 98FBF3321C2CCC6BBA03539D36A0D5BD70F2B86FC5FF22B897CA205447B27A69
+nserver:      NS.COCCA.FR 185.17.236.93 2a03:dd40:3:0:0:0:0:93
+nserver:      NS.COCCAREGISTRY.ORG 185.17.236.111 2a03:dd40:3:0:0:0:0:111
 ds-rdata:     50845 8 2 F7691BFC344455BEE7376FCF659FCF623AD2FD081900F4FB32DB07C7BC6BDF57
 
 whois:        whois.agitsys.net
@@ -48,6 +47,6 @@ status:       ACTIVE
 remarks:      Registration information: http://agitsys.com
 
 created:      2015-11-25
-changed:      2016-08-31
+changed:      2018-01-30
 source:       IANA
 
