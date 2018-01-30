@@ -20,14 +20,14 @@ fax-no:       +27113140088
 e-mail:       icann@registry.net.za
 
 contact:      technical
-name:         Mike O'Connell
+name:         Theo Kramer
 organisation: DNS Africa Ltd
 address:      19th Floor Newton Tower
 address:      Sir William Newton Street
 address:      Port Louis
 address:      Mauritius
-phone:        +27113140077
-fax-no:       +27113140088
+phone:        +27115682800
+fax-no:       +27115681492
 e-mail:       icann@registry.net.za
 
 nserver:      COZA1.DNSNODE.NET 194.146.106.74 2001:67c:1010:18:0:0:0:53
@@ -42,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.africa
 
 created:      2017-02-11
-changed:      2018-01-26
+changed:      2018-01-29
 source:       IANA
 
