@@ -36,7 +36,7 @@ nserver:      NS1A.KSREGISTRY.NET 2001:dd8:7:6075:dc:0:0:1 203.119.88.75
 nserver:      NS1B.KSREGISTRY.NET 2620:0171:0a00:00ad:0:0:0:75 72.0.48.75
 nserver:      NS2A.KSREGISTRY.COM 2001:dd8:7:6076:dc:0:0:1 203.119.88.76
 nserver:      NS2B.KSREGISTRY.COM 2620:0171:0a00:00ad:0:0:0:76 72.0.48.76
-ds-rdata:     33584 8 2 c479021d67551f1804d369d6c4e8669a14820848956e008f25e65f318ed987c3
+ds-rdata:     39881 8 2 8619bc44828ee2cdfb00e0c8e67ac0f7522aaaab12149ea53b6b52c421120a0c
 
 whois:        whois.ksregistry.net
 
@@ -45,6 +45,6 @@ remarks:      Registration information:
 remarks:      http://www.allfinanz-registry.de
 
 created:      2014-09-25
-changed:      2017-01-28
+changed:      2018-01-31
 source:       IANA
 
