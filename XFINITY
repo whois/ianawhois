@@ -36,8 +36,8 @@ address:      United Kingdom
 phone:        +44.1865332211
 e-mail:       registrytechnical@nominet.uk
 
-nserver:      DNS1.NIC.XFINITY 213.248.217.7 2a01:618:401:0:0:0:0:7
-nserver:      DNS2.NIC.XFINITY 103.49.81.7 2401:fd80:401:0:0:0:0:7
+nserver:      DNS1.NIC.XFINITY 213.248.219.7 2a01:618:403:0:0:0:0:7
+nserver:      DNS2.NIC.XFINITY 103.49.83.7 2401:fd80:403:0:0:0:0:7
 nserver:      DNS3.NIC.XFINITY 213.248.221.7 2a01:618:405:0:0:0:0:7
 nserver:      DNS4.NIC.XFINITY 2401:fd80:405:0:0:0:0:7 43.230.49.7
 nserver:      DNSA.NIC.XFINITY 156.154.100.3 2001:502:ad09:0:0:0:0:3
@@ -52,6 +52,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.xfinity/
 
 created:      2016-06-16
-changed:      2017-11-10
+changed:      2018-01-31
 source:       IANA
 
