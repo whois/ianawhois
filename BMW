@@ -33,7 +33,7 @@ nserver:      NS1A.KSREGISTRY.NET 2001:dd8:7:6075:dc:0:0:1 203.119.88.75
 nserver:      NS1B.KSREGISTRY.NET 2620:0171:0a00:00ad:0:0:0:75 72.0.48.75
 nserver:      NS2A.KSREGISTRY.COM 2001:dd8:7:6076:dc:0:0:1 203.119.88.76
 nserver:      NS2B.KSREGISTRY.COM 2620:0171:0a00:00ad:0:0:0:76 72.0.48.76
-ds-rdata:     15332 8 2 6e4b855ec4ed8d050d8faadeaa797e4f094edcc2484cecaa2efb7e8262dc402f
+ds-rdata:     41084 8 2 6c86d7e525248df05c8dd7720648d4cb629daae2dcd163bfc74d28312fd5311a
 
 whois:        whois.ksregistry.net
 
@@ -41,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.bmw.com
 
 created:      2014-06-05
-changed:      2017-01-28
+changed:      2018-01-31
 source:       IANA
 
