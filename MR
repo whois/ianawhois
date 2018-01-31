@@ -15,19 +15,17 @@ organisation: Faculté des Sciences et Techniques
 address:      BP 5026
 address:      Nouakchott
 address:      Mauritania
-phone:        +222 646 83 17
-fax-no:       +222 525 39 97
-e-mail:       haouba@ustm.mr
+phone:        +222 46 46 83 17
+e-mail:       haouba@nic.mr
 
 contact:      technical
 name:         Ahmed Salem Ould Cheikh
-organisation: Faculte de Sciences et Techniques, USTM
+organisation: Faculte de Sciences et Techniques, UNA
 address:      BP 5026
 address:      Nouakchott
 address:      Mauritania
-phone:        +222 630 76 01
-fax-no:       +222 525 39 97
-e-mail:       ahdsalem@ustm.mr
+phone:        +222 36 30 76 01
+e-mail:       ahdsalem@nic.mr
 
 nserver:      CENSVRNS0001.IRD.FR 91.203.32.147
 nserver:      NS1.NIC.MR 41.188.65.193
@@ -40,6 +38,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.mr
 
 created:      1996-04-24
-changed:      2017-11-11
+changed:      2018-01-30
 source:       IANA
 
