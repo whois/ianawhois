@@ -34,8 +34,8 @@ address:      United Kingdom
 phone:        +44.1865332211
 e-mail:       registrytechnical@nominet.uk
 
-nserver:      DNS1.NIC.BLOG 213.248.217.9 2a01:618:401:0:0:0:0:9
-nserver:      DNS2.NIC.BLOG 103.49.81.9 2401:fd80:401:0:0:0:0:9
+nserver:      DNS1.NIC.BLOG 213.248.219.9 2a01:618:403:0:0:0:0:9
+nserver:      DNS2.NIC.BLOG 103.49.83.9 2401:fd80:403:0:0:0:0:9
 nserver:      DNS3.NIC.BLOG 213.248.221.9 2a01:618:405:0:0:0:0:9
 nserver:      DNS4.NIC.BLOG 2401:fd80:405:0:0:0:0:9 43.230.49.9
 nserver:      DNSA.NIC.BLOG 156.154.100.3 2001:502:ad09:0:0:0:0:3
@@ -50,6 +50,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.blog
 
 created:      2016-05-12
-changed:      2017-11-11
+changed:      2018-02-01
 source:       IANA
 
