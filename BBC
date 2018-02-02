@@ -36,8 +36,8 @@ phone:        +44 303 040 9777
 fax-no:       +44 2088118815
 e-mail:       hostmaster@bbc.co.uk
 
-nserver:      DNS1.NIC.BBC 213.248.217.4 2a01:618:401:0:0:0:0:4
-nserver:      DNS2.NIC.BBC 103.49.81.4 2401:fd80:401:0:0:0:0:4
+nserver:      DNS1.NIC.BBC 213.248.219.4 2a01:618:403:0:0:0:0:4
+nserver:      DNS2.NIC.BBC 103.49.83.4 2401:fd80:403:0:0:0:0:4
 nserver:      DNS3.NIC.BBC 213.248.221.4 2a01:618:405:0:0:0:0:4
 nserver:      DNS4.NIC.BBC 2401:fd80:405:0:0:0:0:4 43.230.49.4
 nserver:      DNSA.NIC.BBC 156.154.100.3 2001:502:ad09:0:0:0:0:3
@@ -52,6 +52,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.bbc.co.uk
 
 created:      2015-03-12
-changed:      2017-12-20
+changed:      2018-02-02
 source:       IANA
 
