@@ -38,8 +38,8 @@ e-mail:       registrytechnical@nominet.uk
 
 nserver:      DNS1.NIC.WALES 213.248.219.2 2a01:618:403:0:0:0:0:2
 nserver:      DNS2.NIC.WALES 103.49.83.2 2401:fd80:403:0:0:0:0:2
-nserver:      DNS3.NIC.WALES 213.248.221.2 2a01:618:405:0:0:0:0:2
-nserver:      DNS4.NIC.WALES 2401:fd80:405:0:0:0:0:2 43.230.49.2
+nserver:      DNS3.NIC.WALES 213.248.223.2 2a01:618:407:0:0:0:0:2
+nserver:      DNS4.NIC.WALES 2401:fd80:407:0:0:0:0:2 43.230.51.2
 nserver:      DNSA.NIC.WALES 156.154.100.3 2001:502:ad09:0:0:0:0:3
 nserver:      DNSB.NIC.WALES 156.154.101.3
 nserver:      DNSC.NIC.WALES 156.154.102.3
@@ -52,6 +52,6 @@ status:       ACTIVE
 remarks:      Registration information: http://ourhomeonline.org.uk
 
 created:      2014-07-31
-changed:      2018-02-02
+changed:      2018-02-07
 source:       IANA
 
