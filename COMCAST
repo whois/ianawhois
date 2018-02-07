@@ -36,8 +36,8 @@ e-mail:       registrytechnical@nominet.uk
 
 nserver:      DNS1.NIC.COMCAST 213.248.219.6 2a01:618:403:0:0:0:0:6
 nserver:      DNS2.NIC.COMCAST 103.49.83.6 2401:fd80:403:0:0:0:0:6
-nserver:      DNS3.NIC.COMCAST 213.248.221.6 2a01:618:405:0:0:0:0:6
-nserver:      DNS4.NIC.COMCAST 2401:fd80:405:0:0:0:0:6 43.230.49.6
+nserver:      DNS3.NIC.COMCAST 213.248.223.6 2a01:618:407:0:0:0:0:6
+nserver:      DNS4.NIC.COMCAST 2401:fd80:407:0:0:0:0:6 43.230.51.6
 nserver:      DNSA.NIC.COMCAST 156.154.100.3 2001:502:ad09:0:0:0:0:3
 nserver:      DNSB.NIC.COMCAST 156.154.101.3
 nserver:      DNSC.NIC.COMCAST 156.154.102.3
@@ -50,6 +50,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.comcast/
 
 created:      2016-06-16
-changed:      2018-01-31
+changed:      2018-02-07
 source:       IANA
 
