@@ -30,7 +30,7 @@ address:      78180 Montigny-Le-Bretonneux
 address:      France
 phone:        +33 643432263
 fax-no:       +33 139308301
-e-mail:       museum@afnic.fr
+e-mail:       pocmuseum@afnic.fr
 
 nserver:      D.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
 nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://about.museum
 
 created:      2001-10-20
-changed:      2017-12-05
+changed:      2018-02-08
 source:       IANA
 
