@@ -27,12 +27,16 @@ address:      China
 phone:        +86.15011380586
 e-mail:       gaolei@zdns.cn
 
-nserver:      TA.NGTLD.CN 2001:dc7:ffd1:0:0:0:0:1 42.83.130.1
-nserver:      TB.NGTLD.CN 2001:dc7:ffd2:0:0:0:0:1 42.83.131.1
-nserver:      TC.NGTLD.CN 2001:dc7:ffd3:0:0:0:0:1 42.83.132.1
-nserver:      TD.NGTLD.CN 42.83.133.1
-nserver:      TE.NGTLD.CN 42.83.134.1
-ds-rdata:     2506 8 2 171DBFA579FBD8E46EB3F93CE964705EF52AFEE5472DED83A5361BC9AC662229
+nserver:      A.ZDNSCLOUD.COM 1.8.240.1
+nserver:      B.ZDNSCLOUD.COM 1.8.241.1
+nserver:      C.ZDNSCLOUD.COM 1.8.242.1
+nserver:      D.ZDNSCLOUD.COM 1.8.243.1
+nserver:      E.ZDNSCLOUD.COM 119.167.248.154
+nserver:      F.ZDNSCLOUD.COM 182.131.23.22
+nserver:      G.ZDNSCLOUD.COM 42.62.2.16
+nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
+nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
+ds-rdata:     63817 8 2 13605EBD9736B66B1EB3B2DB5865CA66B5EFD2BE720087FE4441039F3AA4CF3D
 
 whois:        whois.ngtld.cn
 
@@ -40,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.cnnic.cn
 
 created:      2015-12-17
-changed:      2017-12-29
+changed:      2018-02-08
 source:       IANA
 
