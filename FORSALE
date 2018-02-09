@@ -37,12 +37,12 @@ nserver:      DEMAND.GAMMA.ARIDNS.NET.AU 2001:dcd:3:0:0:0:0:7 37.209.196.7
 ds-rdata:     1885 8 1 DE92C3427C6DE5CEF61C09A8130E7981512DB2AD
 ds-rdata:     1885 8 2 993F57692F5D6356F3F734B747DFBF5F8AF93E6AA36B22C2F4840F635BF176C9
 
-whois:        whois.unitedtld.com
+whois:        whois.nic.forsale
 
 status:       ACTIVE
 remarks:      Registration information: http://www.donuts.domains/
 
 created:      2014-09-24
-changed:      2017-08-21
+changed:      2018-02-09
 source:       IANA
 
