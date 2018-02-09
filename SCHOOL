@@ -39,12 +39,12 @@ nserver:      DEMAND.GAMMA.ARIDNS.NET.AU 2001:dcd:3:0:0:0:0:7 37.209.196.7
 ds-rdata:     37876 8 2 949632616DDC65064FBA7F90DF25402D3757F8586A6D7860444F63400FF3066D
 ds-rdata:     37876 8 1 2CA6E63FC24825749293CC1470546B7D3AB1CA6D
 
-whois:        whois.donuts.co
+whois:        whois.nic.school
 
 status:       ACTIVE
 remarks:      Registration information: http://www.donuts.domains/
 
 created:      2015-02-13
-changed:      2017-08-21
+changed:      2018-02-09
 source:       IANA
 
