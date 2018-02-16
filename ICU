@@ -4,30 +4,30 @@
 
 domain:       ICU
 
-organisation: One.com A/S
-address:      Kalvebod Brygge 24
-address:      Copenhagen - 1560 DK
-address:      Denmark
+organisation: Shortdot SA
+address:      29 Boulevard de la Grande-Duchesse Charlotte
+address:      L-1331 Luxembourg
+address:      Luxembourg
 
 contact:      administrative
-name:         Rieke Poppe
-organisation: One.com
-address:      Kalvebod Brygge 24
-address:      Copenhagen - 1560 DK
-address:      Denmark
-phone:        +4544453011
-fax-no:       +4570205872
-e-mail:       rieke@oneregistry.co
+name:         Lars Jensen
+organisation: Shortdot SA
+address:      29 Boulevard de la Grande-Duchesse Charlotte
+address:      L-1331 Luxembourg
+address:      Luxembourg
+phone:        +352621811103
+fax-no:       +35227862529
+e-mail:       lars@shortdot.one
 
 contact:      technical
-name:         Rieke Poppe
-organisation: One.com
-address:      Kalvebod Brygge 24
-address:      Copenhagen - 1560 DK
-address:      Denmark
-phone:        +4544453011
-fax-no:       +4570205872
-e-mail:       rieke@oneregistry.co
+name:         Lars Jensen
+organisation: Shortdot SA
+address:      29 Boulevard de la Grande-Duchesse Charlotte
+address:      L-1331 Luxembourg
+address:      Luxembourg
+phone:        +352621811103
+fax-no:       +35227862529
+e-mail:       lars@shortdot.one
 
 nserver:      A.NIC.ICU 2001:dcd:1:0:0:0:0:10 37.209.192.10
 nserver:      B.NIC.ICU 2001:dcd:2:0:0:0:0:10 37.209.194.10
@@ -42,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.one/
 
 created:      2015-03-06
-changed:      2015-05-02
+changed:      2018-02-15
 source:       IANA
 
