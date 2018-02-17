@@ -14,16 +14,15 @@ organisation: Smart Communications, Inc.
 address:      Smart Tower, 6799 Ayala Ave. Makati City Metro Manila 1226
 address:      Philippines
 phone:        +6325116132
-e-mail:       lsayson@smart.com.ph
+e-mail:       dotsmart@smart.com.ph
 
 contact:      technical
-name:         Victor Reyes
+name:         Leonard Palanca
 organisation: Smart Communications, Inc.
 address:      Smart Tower, 6799 Ayala Ave. Makati City Metro Manila 1226
 address:      Philippines
-phone:        +6325114280
-fax-no:       +6328110211 ext 10999
-e-mail:       vgreyes@smart.com.ph
+phone:        +6325113857
+e-mail:       ltpalanca@smart.com.ph
 
 nserver:      APDNS1.NIC.SMART 203.87.166.126 2407:9800:4000:4e01:0:0:0:17
 nserver:      APDNS2.NIC.SMART 203.87.166.125 2407:9800:4000:4e01:0:0:0:18
@@ -36,6 +35,6 @@ whois:        whois-gtld.smart.com.ph
 status:       ACTIVE
 
 created:      2016-04-21
-changed:      2016-10-07
+changed:      2018-02-16
 source:       IANA
 
