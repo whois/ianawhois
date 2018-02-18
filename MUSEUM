@@ -36,6 +36,7 @@ nserver:      D.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
 nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
 nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
 ds-rdata:     34597 8 2 573e91cdc458f93df85253b0b94f9c2fa39bbec1d0ff82a2063fe043dfa3a1a8
+ds-rdata:     53111 8 2 07270B11106E18C99EA85FC48A92C6D9DC519AC9F818D419B359B4A6DA7D1AEE
 
 whois:        whois.nic.museum
 
@@ -43,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://about.museum
 
 created:      2001-10-20
-changed:      2018-02-08
+changed:      2018-02-18
 source:       IANA
 
