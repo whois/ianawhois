@@ -17,19 +17,18 @@ organisation: Departement Genie Informatique
 address:      BP 11542
 address:      Dakar-Peytavin
 address:      Senegal
-phone:        +221 33 8242005
-fax-no:       +221 33 8242005
+phone:        +221 33 8219190
 e-mail:       alex.corenthin@nic.sn
 
 contact:      technical
-name:         Alioune Thioune
-organisation: Bibliotheque Universitaire
+name:         Mouhamed Tidiane SECK
+organisation: Ecole Supérieure Polytechnique
 address:      BP 16370
 address:      Dakar-Fann
 address:      Senegal
 phone:        +221 33 821 91 90
 fax-no:       +221 33 821 91 90
-e-mail:       alioune.thioune@nic.sn
+e-mail:       tidiane.seck@nic.sn
 
 nserver:      CENSVRNS0001.IRD.FR 91.203.32.147
 nserver:      NS.UCAD.SN 196.1.95.1
@@ -45,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.sn
 
 created:      1993-03-19
-changed:      2016-10-01
+changed:      2018-02-20
 source:       IANA
 
