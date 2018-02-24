@@ -30,7 +30,7 @@ fax-no:       +31 26 3525550
 e-mail:       tech@sidn.nl
 
 nserver:      NS1.NIC.AMSTERDAM 193.176.144.14 2a00:d78:0:102:193:176:144:14
-nserver:      NS2.NIC.AMSTERDAM 2001:7b8:606:0:0:0:0:83 213.154.241.83
+nserver:      NS2.NIC.AMSTERDAM 194.146.106.134 2001:67c:1010:34:0:0:0:53
 nserver:      NS3.NIC.AMSTERDAM 194.171.17.14 2001:610:0:800d:0:0:0:14
 nserver:      NS4.NIC.AMSTERDAM 2a00:1188:5:0:0:0:0:216 95.142.99.216
 nserver:      NS5.NIC.AMSTERDAM 194.0.28.4 2001:678:2c:0:194:0:28:4
@@ -41,6 +41,6 @@ remarks:      Registration information:
 remarks:      http://www.dotamsterdam.nl/policies
 
 created:      2014-11-20
-changed:      2014-12-26
+changed:      2018-02-23
 source:       IANA
 
