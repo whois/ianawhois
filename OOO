@@ -30,11 +30,13 @@ phone:        +1-703-925-6999
 fax-no:       +1-703-948-3978
 e-mail:       info@verisign-grs.com
 
-nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
-nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
-nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
-nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
+nserver:      A.NIC.OOO 194.169.218.33 2001:67c:13cc:0:0:0:1:33
+nserver:      B.NIC.OOO 185.24.64.33 2a04:2b00:13cc:0:0:0:1:33
+nserver:      C.NIC.OOO 212.18.248.33 2a04:2b00:13ee:0:0:0:0:33
+nserver:      D.NIC.OOO 212.18.249.33 2a04:2b00:13ff:0:0:0:0:33
 ds-rdata:     32919 8 2 2A406589BC010BBD09BB78E067DDE644946D1AF4389113341358CF135B6F4910
+ds-rdata:     41890 8 2 F9807556257F226660B308490776B72FEBD70DFDE2ECD9E850FA1127B37C7799
+ds-rdata:     41890 8 1 27DDE633B73DD1F2703C0A89695862B056A0D29F
 
 whois:        whois.nic.ooo
 
@@ -42,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.infibeam.com
 
 created:      2014-07-31
-changed:      2016-02-24
+changed:      2018-02-23
 source:       IANA
 
