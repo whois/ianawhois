@@ -38,12 +38,12 @@ nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
 ds-rdata:     63817 8 2 13605EBD9736B66B1EB3B2DB5865CA66B5EFD2BE720087FE4441039F3AA4CF3D
 
-whois:        whois.ngtld.cn
+whois:        whois.gtld.knet.cn
 
 status:       ACTIVE
-remarks:      Registration information: http://www.cnnic.cn
+remarks:      Registration information: http://www.zdns.cn
 
 created:      2015-12-17
-changed:      2018-02-08
+changed:      2018-02-27
 source:       IANA
 
