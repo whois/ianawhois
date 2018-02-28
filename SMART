@@ -24,10 +24,10 @@ address:      Philippines
 phone:        +6325113857
 e-mail:       ltpalanca@smart.com.ph
 
-nserver:      APDNS1.NIC.SMART 203.87.166.126 2407:9800:4000:4e01:0:0:0:17
-nserver:      APDNS2.NIC.SMART 203.87.166.125 2407:9800:4000:4e01:0:0:0:18
 nserver:      APDNS3.NIC.SMART 194.169.218.70 2001:67c:13cc:0:0:0:1:70
 nserver:      APDNS4.NIC.SMART 185.24.64.70 2a04:2b00:13cc:0:0:0:1:70
+nserver:      C.NIC.SMART 212.18.248.70 2a04:2b00:13ee:0:0:0:0:70
+nserver:      D.NIC.SMART 212.18.249.70 2a04:2b00:13ff:0:0:0:0:70
 ds-rdata:     10241 8 2 1FC272FD0BB0D9AE922348C5C63F401A9E1FBA71C8CB452AF5DF5E4E005237CF
 
 whois:        whois-gtld.smart.com.ph
@@ -35,6 +35,6 @@ whois:        whois-gtld.smart.com.ph
 status:       ACTIVE
 
 created:      2016-04-21
-changed:      2018-02-16
+changed:      2018-02-28
 source:       IANA
 
