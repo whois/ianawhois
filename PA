@@ -24,16 +24,16 @@ fax-no:       +507 560 3148
 e-mail:       jenifer.lopez@utp.ac.pa
 
 contact:      technical
-name:         Ernesto García
+name:         Francela Ching
 organisation: Universidad Tecnologica de Panama
 address:      Panamanian Academic National Network
 address:      Campus Victor Levi S.
 address:      Avenida Universidad Tecnologica de Panama, PANNet
 address:      Panama  0819-07289
 address:      Panama
-phone:        +507 560 3401
+phone:        +507 560 3506
 fax-no:       +507 560 3148
-e-mail:       ernesto.garcia@utp.ac.pa
+e-mail:       francela.ching@utp.ac.pa
 
 nserver:      DNS.NIC.CR 200.107.82.100 2001:13c7:7004:1:0:0:0:d100
 nserver:      NS-EXT.NIC.CL 200.1.123.14
@@ -47,6 +47,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.pa/
 
 created:      1994-05-25
-changed:      2016-09-08
+changed:      2018-02-28
 source:       IANA
 
