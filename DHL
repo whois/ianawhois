@@ -10,14 +10,14 @@ address:      53113 Bonn
 address:      Germany
 
 contact:      administrative
-name:         Wasiliki Karagiannaki
+name:         Corporate Domain Manager
 organisation: Deutsche Post AG
 address:      Koblenzer Str. 67
 address:      53177 Bonn
 address:      Germany
 phone:        +49 (0) 228 182-96701
 fax-no:       +49 (0) 228 182-96799
-e-mail:       newgtlds.w.karagiannaki@deutschepost.de
+e-mail:       technicalcontact.domain@deutschepost.de
 
 contact:      technical
 name:         CTO
@@ -41,6 +41,6 @@ ds-rdata:     31860 7 1 89fe558d6ea8dcaf797b2235dc3c246108a2b74e
 status:       ACTIVE
 
 created:      2016-05-26
-changed:      2017-11-28
+changed:      2018-03-01
 source:       IANA
 
