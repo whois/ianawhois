@@ -34,7 +34,6 @@ e-mail:       pdttotal@afnic.fr
 nserver:      D.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
 nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
 nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
-ds-rdata:     6724 8 2 75611c940645ff26bd9b14ed50b94627ff886cc79b928e52755c0117135358fa
 ds-rdata:     34775 8 2 362DEFC3D011518F8CF871BE111CE314FD20F54AF98C508996A93658C4D5EB43
 ds-rdata:     25376 8 2 351DC395783721D224F07B1B5D6152311449B58E38F4AEE9123E9DFDC0B0347B
 
@@ -44,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.total.com
 
 created:      2016-02-05
-changed:      2018-02-13
+changed:      2018-03-02
 source:       IANA
 
