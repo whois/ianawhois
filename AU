@@ -37,7 +37,7 @@ nserver:      R.AU 2a01:8840:bf:0:0:0:0:1 65.22.197.1
 nserver:      S.AU 2a01:8840:c0:0:0:0:0:1 65.22.198.1
 nserver:      T.AU 2a01:8840:c1:0:0:0:0:1 65.22.199.1
 nserver:      U.AU 211.29.133.32
-nserver:      V.AU 2001:dd8:12:0:0:0:0:53 203.119.43.53
+nserver:      V.AU 2001:dd8:12:0:0:0:0:53 202.12.31.53
 nserver:      W.AU 2001:dcd:1:0:0:0:0:5 37.209.192.5
 nserver:      X.AU 2001:dcd:2:0:0:0:0:5 37.209.194.5
 nserver:      Y.AU 2001:dcd:3:0:0:0:0:5 37.209.196.5
@@ -52,6 +52,6 @@ remarks:      Registration information:
 remarks:      http://www.auda.org.au/domains/au-domains/
 
 created:      1986-03-05
-changed:      2018-02-10
+changed:      2018-03-06
 source:       IANA
 
