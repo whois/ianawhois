@@ -33,7 +33,6 @@ nserver:      A.DNS.NIC.TIROL 194.0.25.20 2001:678:20:0:0:0:0:20
 nserver:      M.DNS.NIC.TIROL 194.0.26.9 2001:67c:10e0:0:0:0:0:9
 nserver:      N.DNS.NIC.TIROL 194.0.24.9 2001:678:24:0:0:0:0:9
 ds-rdata:     33037 8 2 d32782f6aab1a16f3842fb31c7877ef7acbe713dda74abd1dcaabb9368e451d4
-ds-rdata:     16684 8 2 f0018c3bb2a1472c2576908e844dd47f8647027cfa44bddcbc287559e1157b9d
 ds-rdata:     30605 8 2 591b17ffa36e8bc8417ed45aa3da8f0c14583eb4ee6e390268265d4aee75fcab
 
 whois:        whois.nic.tirol
@@ -42,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.tirol
 
 created:      2014-05-29
-changed:      2018-01-11
+changed:      2018-03-07
 source:       IANA
 
