@@ -5,26 +5,26 @@
 domain:       HT
 
 organisation: Consortium FDS/RDDH
-address:      1, angle rue Frémy et Ave. John Brown
-address:      Port-au-Prince
+address:      17, 2e Ruelle Wilson, Pacot
+address:      Port au Prince
 address:      Haiti
 
 contact:      administrative
-name:         Stéphane Bruno
-organisation: Réseau de Développement Durable d'Haïti
-address:      1, angle rue Frémy et Ave. John Brown
-address:      Port-au-Prince
+name:         Admin Contact
+organisation: Fondation Réseau de Développement Durable d'Haïti/ Faculté Des Sciences - UEH
+address:      17, 2e Ruelle Wilson, Pacot
+address:      Port au Prince
 address:      Haiti
-phone:        +1 (509) 34541498
-e-mail:       sbruno@nic.ht
+phone:        (509) 37357815
+e-mail:       jnahum.constant@frddh.org.ht
 
 contact:      technical
 name:         Contact Technique
-organisation: Faculté des Sciences de l'Université d'Etat d'Haïti
-address:      270, rue Mgr. Guilloux
-address:      Port-au-Prince
+organisation: Faculté des Sciences de l'Université d'Etat d'Haïti/ FRDDH
+address:      17, 2e Ruelle Wilson, Pacot
+address:      Port au Prince
 address:      Haiti
-phone:        +1 (305)407 3824, +1 (509) 34430957
+phone:        +1 (305)8316789., +(509) 37027275
 e-mail:       maxlarson.henry@transversal.ht
 
 nserver:      CHARLES.CDEC.POLYMTL.CA 132.207.144.2
@@ -38,6 +38,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.ht
 
 created:      1997-03-06
-changed:      2018-02-16
+changed:      2018-03-08
 source:       IANA
 
