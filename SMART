@@ -17,12 +17,14 @@ phone:        +6325116132
 e-mail:       dotsmart@smart.com.ph
 
 contact:      technical
-name:         Leonard Palanca
-organisation: Smart Communications, Inc.
-address:      Smart Tower, 6799 Ayala Ave. Makati City Metro Manila 1226
-address:      Philippines
-phone:        +6325113857
-e-mail:       ltpalanca@smart.com.ph
+name:         CTO
+organisation: CentralNic
+address:      35-39 Moorgate
+address:      London EC2R 6AR
+address:      United Kingdom
+phone:        +44.2033880600
+fax-no:       +44.2033880601
+e-mail:       tld.ops@centralnic.com
 
 nserver:      A.NIC.SMART 194.169.218.70 2001:67c:13cc:0:0:0:1:70
 nserver:      B.NIC.SMART 185.24.64.70 2a04:2b00:13cc:0:0:0:1:70
@@ -30,11 +32,11 @@ nserver:      C.NIC.SMART 212.18.248.70 2a04:2b00:13ee:0:0:0:0:70
 nserver:      D.NIC.SMART 212.18.249.70 2a04:2b00:13ff:0:0:0:0:70
 ds-rdata:     10241 8 2 1FC272FD0BB0D9AE922348C5C63F401A9E1FBA71C8CB452AF5DF5E4E005237CF
 
-whois:        whois-gtld.smart.com.ph
+whois:        whois.nic.smart
 
 status:       ACTIVE
 
 created:      2016-04-21
-changed:      2018-03-02
+changed:      2018-03-09
 source:       IANA
 
