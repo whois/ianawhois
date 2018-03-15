@@ -17,7 +17,7 @@ address:      L-1331 Luxembourg
 address:      Luxembourg
 phone:        +352621811103
 fax-no:       +35227862529
-e-mail:       lars@shortdot.one
+e-mail:       sales@nic.icu
 
 contact:      technical
 name:         Lars Jensen
@@ -27,7 +27,7 @@ address:      L-1331 Luxembourg
 address:      Luxembourg
 phone:        +352621811103
 fax-no:       +35227862529
-e-mail:       lars@shortdot.one
+e-mail:       sales@nic.icu
 
 nserver:      A.NIC.ICU 2001:dcd:1:0:0:0:0:10 37.209.192.10
 nserver:      B.NIC.ICU 2001:dcd:2:0:0:0:0:10 37.209.194.10
@@ -42,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.icu/
 
 created:      2015-03-06
-changed:      2018-02-27
+changed:      2018-03-14
 source:       IANA
 
