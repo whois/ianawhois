@@ -35,7 +35,7 @@ nserver:      B0.CCTLD.AFILIAS-NST.ORG 199.254.60.1 2001:500:26:0:0:0:0:1
 nserver:      B2.CCTLD.AFILIAS-NST.ORG 199.249.124.1 2001:500:4c:0:0:0:0:1
 nserver:      C0.CCTLD.AFILIAS-NST.INFO 199.254.61.1 2001:500:27:0:0:0:0:1
 nserver:      D0.CCTLD.AFILIAS-NST.ORG 199.254.62.1 2001:500:28:0:0:0:0:1
-nserver:      NS1.NIC.SC 41.191.121.129
+nserver:      NS1.NIC.SC 41.86.57.54
 ds-rdata:     32953 7 1 2989C1B61462537A50928B77A85E2AD373C50B66
 ds-rdata:     32953 7 2 E85C14114B092BF9D0B21C804CA878618BEE750ED714092180D59A2001C3708C
 
@@ -45,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.sc
 
 created:      1997-05-09
-changed:      2010-11-11
+changed:      2018-03-16
 source:       IANA
 
