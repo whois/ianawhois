@@ -4,39 +4,39 @@
 
 domain:       TD
 
-organisation: Société des télécommunications du Tchad (SOTEL TCHAD)
-address:      P.O. Horse-box 1132
-address:      N'djamena
+organisation: l'Agence de Développement des Technologies de l'Information et de la Communication (ADETIC)
+address:      Rue du colonel Hassan MOURSAL KOURDA
+address:      Ndjamena 240
 address:      Chad
 
 contact:      administrative
-name:         Yamta Noel
-organisation: Société des télécommunications du Tchad (SOTEL TCHAD)
-address:      P.O. Horse-box 1132
-address:      N'djamena
+name:         Ingenieur Systeme
+organisation: ADETIC
+address:      Rue du colonel Hassan MOURSAL KOURDA
+address:      Ndjamena 240
 address:      Chad
-phone:        +235 252 14 66
-fax-no:       +235 252 13 77
-e-mail:       yamta@intnet.td
+phone:        +235 63 24 24 92
+e-mail:       mahamat.hamid@adetic.td
 
 contact:      technical
-name:         Mahamat Charfadine Salim
-organisation: Société des télécommunications du Tchad (SOTEL TCHAD)
-address:      P.O. Horse-box 1132
-address:      N'djamena
+name:         Ingenieur en Reseaux Telecoms
+organisation: ADETIC
+address:      Rue du colonel Hassan MOURSAL KOURDA
+address:      Ndjamena 240
 address:      Chad
-phone:        +235 270 37 39
-fax-no:       +235 252 14 54
-e-mail:       mahamat.charfadine@groupe-soteltchad.td
+phone:        +235 63 31 90 90
+e-mail:       abatcha.moussa@adetic.td
 
 nserver:      NS-TD.AFRINIC.NET 196.216.168.31 2001:43f8:120:0:0:0:0:31
 nserver:      NS-TD.NIC.FR 192.134.0.49 2001:660:3006:1:0:0:1:1
 nserver:      NS1.NIC.TD 41.74.44.43
 
+whois:        41.74.44.44
+
 status:       ACTIVE
-remarks:      Registration information: http://www.sotel.td
+remarks:      Registration information: http://www.adetic.td
 
 created:      1997-11-03
-changed:      2012-09-27
+changed:      2018-03-19
 source:       IANA
 
