@@ -20,14 +20,14 @@ fax-no:       +35227862529
 e-mail:       sales@nic.icu
 
 contact:      technical
-name:         Lars Jensen
-organisation: Shortdot SA
-address:      29 Boulevard de la Grande-Duchesse Charlotte
-address:      L-1331 Luxembourg
-address:      Luxembourg
-phone:        +352621811103
-fax-no:       +35227862529
-e-mail:       sales@nic.icu
+name:         CTO
+organisation: KSregistry GmbH
+address:      Im Oberen Werk 1
+address:      66386 St. Ingbert
+address:      Germany
+phone:        +49 6894 9396 250
+fax-no:       +49 6894 93 96 251
+e-mail:       icann@ksregistry.com
 
 nserver:      A.NIC.ICU 2001:dcd:1:0:0:0:0:10 37.209.192.10
 nserver:      B.NIC.ICU 2001:dcd:2:0:0:0:0:10 37.209.194.10
@@ -42,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.icu/
 
 created:      2015-03-06
-changed:      2018-03-14
+changed:      2018-03-19
 source:       IANA
 
