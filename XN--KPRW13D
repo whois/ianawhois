@@ -30,7 +30,7 @@ phone:        +886 2 23411313 ext. 500
 fax-no:       +886 2 23968832
 e-mail:       snw@twnic.net.tw
 
-nserver:      ANYTLD.APNIC.NET 2001:dd8:12:0:0:0:0:53 203.119.43.53
+nserver:      ANYTLD.APNIC.NET 2001:dd8:12:0:0:0:0:53 202.12.31.53
 nserver:      D.DNS.TW 2001:4541:9010:7:0:0:0:186 60.199.165.186
 nserver:      E.DNS.TW 2001:b000:1e0:c000:0:0:0:11 211.20.231.11
 nserver:      F.DNS.TW 163.28.1.10
