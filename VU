@@ -29,7 +29,7 @@ phone:        +678 23000 EXT 210
 fax-no:       +678 24319
 e-mail:       iana@tvl.net.vu
 
-nserver:      ANYTLD.APNIC.NET 2001:dd8:12:0:0:0:0:53 203.119.43.53
+nserver:      ANYTLD.APNIC.NET 2001:dd8:12:0:0:0:0:53 202.12.31.53
 nserver:      EFATE.VANUATU.COM.VU 202.80.32.5
 nserver:      FORK.STH.DNSNODE.NET 2a01:3f0:0:306:0:0:0:53 77.72.229.254
 nserver:      NS1-CCTLD.VUNIC.VU 202.80.32.9
