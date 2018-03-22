@@ -5,10 +5,7 @@
 domain:       MO
 
 organisation: Macao Post and Telecommunications Bureau (CTT)
-address:      eSignTrust Registration Authority
-address:      Division of Electronic Certification Services
-address:      Macao Post and Telecommunications Bureau
-address:      Avenida da Praia Grande no.789, R/C
+address:      Largo do Senado, Edf. Sede dos CTT, Macau
 address:      Macao
 
 contact:      administrative
@@ -18,6 +15,7 @@ address:      eSignTrust Registration Authority
 address:      Division of Electronic Certification Services
 address:      Macao Post and Telecommunications Bureau
 address:      Avenida da Praia Grande no.789, R/C
+address:      Macau
 address:      Macao
 phone:        +853 28716636
 fax-no:       +853 28716606
@@ -50,6 +48,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.monic.mo
 
 created:      1992-09-17
-changed:      2017-12-01
+changed:      2018-03-22
 source:       IANA
 
