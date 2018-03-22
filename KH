@@ -35,7 +35,7 @@ e-mail:       daro@camnet.com.kh
 nserver:      DNS1.ONLINE.COM.KH 203.189.128.1
 nserver:      NS.CAMNET.COM.KH 203.223.32.3
 nserver:      NS1.DNS.NET.KH 203.223.32.21
-nserver:      NS4.APNIC.NET 2001:dd8:12:0:0:0:0:53 203.119.43.53
+nserver:      NS4.APNIC.NET 2001:dd8:12:0:0:0:0:53 202.12.31.53
 
 status:       ACTIVE
 remarks:      Registration information: http://www.tc.com.kh
