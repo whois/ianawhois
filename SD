@@ -36,7 +36,6 @@ nserver:      ANS1.CANAR.SD 196.29.180.14
 nserver:      ANS1.SIS.SD 196.29.166.134
 nserver:      ANS2.CANAR.SD 196.29.164.14
 nserver:      NS-SD.AFRINIC.NET 196.216.168.26 2001:43f8:120:0:0:0:0:26
-nserver:      NS1.COZA.NET.ZA 66.135.62.20
 nserver:      NS1.UAENIC.AE 213.42.0.226
 nserver:      NS2.UAENIC.AE 195.229.0.186
 nserver:      SD.CCTLD.AUTHDNS.RIPE.NET 193.0.9.109 2001:67c:e0:0:0:0:0:109
@@ -45,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.isoc.sd
 
 created:      1997-03-06
-changed:      2014-01-11
+changed:      2018-03-24
 source:       IANA
 
