@@ -27,9 +27,9 @@ address:      Afghanistan
 phone:        +93 70 6604794
 e-mail:       registry@nic.af
 
-nserver:      A.AF.DYNTLD.NET 199.19.5.1 2001:500:92:0:0:0:0:1
-nserver:      B.AF.DYNTLD.NET 199.19.6.1 2001:500:96:0:0:0:0:1
 nserver:      NS.ANYCAST.NIC.AF 2001:500:14:6013:ad:0:0:1 204.61.216.13
+nserver:      NS.COCCA.FR 185.17.236.93 2a03:dd40:3:0:0:0:0:93
+nserver:      NS.COCCAREGISTRY.ORG 185.17.236.111 2a03:dd40:3:0:0:0:0:111
 ds-rdata:     3691 8 2 56C77864A2CD726F252634C8804A2AF33EA2CE70C49091E08C223BD2BB33CF5C
 
 whois:        whois.nic.af
@@ -38,6 +38,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.af
 
 created:      1997-10-16
-changed:      2016-08-04
+changed:      2018-03-24
 source:       IANA
 
