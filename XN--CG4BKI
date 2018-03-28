@@ -31,7 +31,10 @@ nserver:      A.XN--CG4BKI.DYNTLD.NET 162.88.40.1 2600:2000:3010:0:0:0:0:1
 nserver:      B.XN--CG4BKI.DYNTLD.NET 162.88.41.1 2600:2000:3011:0:0:0:0:1
 nserver:      C.XN--CG4BKI.DYNTLD.NET 162.88.42.1 2600:2000:3012:0:0:0:0:1
 nserver:      D.XN--CG4BKI.DYNTLD.NET 162.88.43.1 2600:2000:3013:0:0:0:0:1
-nserver:      NS1.DNS.SAMSUNG 119.81.172.206 2401:c900:1201:136:0:0:0:5
+nserver:      NS1.XN--CG4BKI.CENTRALNIC-DNS.COM 194.169.218.113 2001:67c:13cc:0:0:0:1:113
+nserver:      NS2.XN--CG4BKI.CENTRALNIC-DNS.COM 185.24.64.113 2a04:2b00:13cc:0:0:0:1:113
+nserver:      NS3.XN--CG4BKI.CENTRALNIC-DNS.COM 212.18.248.113 2a04:2b00:13ee:0:0:0:0:113
+nserver:      NS4.XN--CG4BKI.CENTRALNIC-DNS.COM 212.18.249.113 2a04:2b00:13ff:0:0:0:0:113
 ds-rdata:     59631 7 2 7a16187809f4725a91f192336f6a9576f246df35edf500a1356b8c8dff2d59f1
 
 whois:        whois.kr
@@ -40,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://samsungregistry.com
 
 created:      2013-12-12
-changed:      2018-03-08
+changed:      2018-03-28
 source:       IANA
 
