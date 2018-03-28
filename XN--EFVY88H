@@ -5,7 +5,7 @@
 domain:       新闻
 domain-ace:   XN--EFVY88H
 
-organisation: Xinhua News Agency Guangdong Branch 新华通讯社广东分社
+organisation: Guangzhou YU Wei Information and Technology Co.,Ltd
 address:      No.1 Linhexi Road, Tianhe District
 address:      Guangzhou City
 address:      Guangdong Province
@@ -13,7 +13,7 @@ address:      China
 
 contact:      administrative
 name:         CEO
-organisation: Xinhua News Agency Guangdong Branch
+organisation: Guangzhou YU Wei Information and Technology Co.,Ltd
 address:      3302 International Trade Center
 address:      No.1 Linhe Xi Road
 address:      Guangzhou, Guangdong Province 510610
@@ -24,7 +24,7 @@ e-mail:       registry@xinhuagd.cn
 
 contact:      technical
 name:         CTO
-organisation: Xinhua News Agency Guangdong Branch
+organisation: Guangzhou YU Wei Information and Technology Co.,Ltd
 address:      3302 International Trade Center
 address:      No.1 Linhe Xi Road
 address:      Guangzhou, Guangdong Province 510610
@@ -50,6 +50,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.gd.xinhua.org
 
 created:      2015-08-06
-changed:      2017-11-06
+changed:      2018-03-27
 source:       IANA
 
