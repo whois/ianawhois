@@ -32,8 +32,8 @@ e-mail:       tech@sidn.nl
 nserver:      NS1.NIC.AMSTERDAM 193.176.144.14 2a00:d78:0:102:193:176:144:14
 nserver:      NS2.NIC.AMSTERDAM 194.146.106.134 2001:67c:1010:34:0:0:0:53
 nserver:      NS3.NIC.AMSTERDAM 194.171.17.14 2001:610:0:800d:0:0:0:14
-nserver:      NS4.NIC.AMSTERDAM 2a00:1188:5:0:0:0:0:216 95.142.99.216
 nserver:      NS5.NIC.AMSTERDAM 194.0.28.4 2001:678:2c:0:194:0:28:4
+nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e:0:0:0:0:1
 ds-rdata:     56530 8 2 af680a3c1300a58bd0b4a4c42b274c369ebd7fd1bba8669ed34759e18132d78d
 
 status:       ACTIVE
@@ -41,6 +41,6 @@ remarks:      Registration information:
 remarks:      http://www.dotamsterdam.nl/policies
 
 created:      2014-11-20
-changed:      2018-02-23
+changed:      2018-03-29
 source:       IANA
 
