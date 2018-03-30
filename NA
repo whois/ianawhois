@@ -35,8 +35,6 @@ nserver:      ANYC2.IRONDNS.NET 195.253.64.7 2a01:5b0:4:0:0:0:0:7
 nserver:      B.NA.DYNTLD.NET 108.59.163.1 2a02:e180:6:0:0:0:0:1
 nserver:      MERLIN.NET.NA 204.152.184.96
 nserver:      NA-NS.ANYCAST.PCH.NET 2001:500:14:6035:ad:0:0:1 204.61.216.35
-nserver:      NS5.NOMINUM.COM 74.121.127.35
-nserver:      NS6.NOMINUM.EU 81.200.69.35
 nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e:0:0:0:0:1
 ds-rdata:     24484 5 1 EFC19D4685751FF8E11F96142A083DCB9C708912
 
@@ -46,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.na-nic.com.na/
 
 created:      1991-05-08
-changed:      2017-06-15
+changed:      2018-03-30
 source:       IANA
 
