@@ -53,8 +53,6 @@ whois:        whois.iana.org
 
 status:       ACTIVE
 remarks:      Registration information: http://www.iana.org/arpa-dom/
-remarks:      IAB assigned the technical role to the IANA Department
-remarks:      of ICANN; see RFC 3172.
 
 created:      1985-01-01
 changed:      2017-06-01
