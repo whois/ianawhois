@@ -31,7 +31,6 @@ nserver:      A.ZDNSCLOUD.COM 1.8.240.1
 nserver:      B.ZDNSCLOUD.COM 1.8.241.1
 nserver:      C.ZDNSCLOUD.COM 1.8.242.1
 nserver:      D.ZDNSCLOUD.COM 1.8.243.1
-nserver:      E.ZDNSCLOUD.COM 119.167.248.154
 nserver:      F.ZDNSCLOUD.COM 114.67.46.12
 nserver:      G.ZDNSCLOUD.COM 42.62.2.16
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
@@ -41,6 +40,6 @@ ds-rdata:     61882 8 2 EF3F494C35F4C2C571A0E5644F6E2760818F2EB7B08E1B05B522D995
 status:       ACTIVE
 
 created:      2017-12-21
-changed:      2018-02-07
+changed:      2018-04-04
 source:       IANA
 
