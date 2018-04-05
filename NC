@@ -31,8 +31,8 @@ e-mail:       nicolas.soulard@opt.nc
 
 nserver:      ANY-NS1.NC 114.69.222.1 2001:500:14:8000:7245:de00:0:1
 nserver:      NC.CCTLD.AUTHDNS.RIPE.NET 193.0.9.100 2001:67c:e0:0:0:0:0:100
-nserver:      NS1.NC 202.87.129.16
-nserver:      NS2.NC 202.87.129.17
+nserver:      NS1.NC 202.87.129.16 2404:2200:10:1000:0:0:53:1
+nserver:      NS2.NC 202.87.129.17 2404:2200:10:1000:0:0:53:2
 ds-rdata:     49057 8 2 5957AB66CF4871C8C39EDEBC78DFAB2B6DCBB3EA5E97278EA27190539410B753
 
 whois:        whois.nc
@@ -41,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.domaine.nc
 
 created:      1993-10-13
-changed:      2017-10-16
+changed:      2018-04-04
 source:       IANA
 
