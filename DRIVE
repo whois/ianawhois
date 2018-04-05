@@ -34,6 +34,7 @@ nserver:      NS-TLD3.CHARLESTONROADREGISTRY.COM 2001:4860:4802:36:0:0:0:69 216.
 nserver:      NS-TLD4.CHARLESTONROADREGISTRY.COM 2001:4860:4802:38:0:0:0:69 216.239.38.105
 nserver:      NS-TLD5.CHARLESTONROADREGISTRY.COM 2001:4860:4805:0:0:0:0:69 216.239.60.105
 ds-rdata:     10210 8 2 0010484761E19DB606D19523D9B165C7452B5483C8E59B846997D24AD72EA2A6
+ds-rdata:     32974 8 2 be68de85ad9a87657ceb1f620fa37febfc725180e40117914886ccbb6947d619
 
 whois:        whois.nic.google
 
@@ -41,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.registry.google
 
 created:      2015-06-04
-changed:      2016-08-03
+changed:      2018-04-05
 source:       IANA
 
