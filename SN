@@ -11,24 +11,24 @@ address:      Dakar-Fann
 address:      Senegal
 
 contact:      administrative
-name:         Alex Corenthin
+name:         Gestionnaire administratif
 organisation: Ecole Superieure Polytechnique
 organisation: Departement Genie Informatique
-address:      BP 11542
-address:      Dakar-Peytavin
+address:      BP 16370
+address:      Dakar-Fann
 address:      Senegal
 phone:        +221 33 8219190
-e-mail:       alex.corenthin@nic.sn
+e-mail:       tldsn-admin@nic.sn
 
 contact:      technical
-name:         Mouhamed Tidiane SECK
+name:         Gestionnaire Technique
 organisation: Ecole Supérieure Polytechnique
 address:      BP 16370
 address:      Dakar-Fann
 address:      Senegal
 phone:        +221 33 821 91 90
 fax-no:       +221 33 821 91 90
-e-mail:       tidiane.seck@nic.sn
+e-mail:       tldsn-tech@nic.sn
 
 nserver:      CENSVRNS0001.IRD.FR 91.203.32.147
 nserver:      NS.UCAD.SN 196.1.95.1
@@ -44,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.sn
 
 created:      1993-03-19
-changed:      2018-02-20
+changed:      2018-04-06
 source:       IANA
 
