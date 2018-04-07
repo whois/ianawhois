@@ -35,6 +35,8 @@ nserver:      C.NIC.ICU 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      D.NIC.ICU 2001:dcd:4:0:0:0:0:10 37.209.198.10
 ds-rdata:     62704 8 1 D834EE1ED0374E28C49BE9C12FE1B93AE0FE9CCB
 ds-rdata:     62704 8 2 8C0442A126BA382CA5B05AE5B44744CDC5AB2845C83918E147083434F65790AA
+ds-rdata:     31762 8 2 ccc397a837f6491166129e1d99ed03cca6635166b2f5b58c65b5cf516ae92b8f
+ds-rdata:     31762 8 1 db42bc4b511c8f97e5a3c00666b76fb1f4c2e567
 
 whois:        whois.nic.icu
 
@@ -42,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.icu/
 
 created:      2015-03-06
-changed:      2018-03-19
+changed:      2018-04-06
 source:       IANA
 
