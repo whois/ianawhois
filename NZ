@@ -23,14 +23,13 @@ e-mail:       iana@internetnz.net.nz
 
 contact:      technical
 name:         IANA Administrator
-organisation: NZRS Ltd
+organisation: InternetNZ
 address:      Level 11
 address:      80 Boulcott Street
 address:      Wellington  6011
 address:      New Zealand
-phone:        +64 4 931 6970
-fax-no:       +64 4 931 6979
-e-mail:       iana@nzrs.net.nz
+phone:        +64 4 472 1600
+e-mail:       ianatech@internetnz.net.nz
 
 nserver:      NS1.DNS.NET.NZ 2001:dce:2000:2:0:0:0:130 202.46.190.130
 nserver:      NS2.DNS.NET.NZ 2001:dce:7000:2:0:0:0:130 202.46.187.130
@@ -48,6 +47,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.dnc.org.nz/
 
 created:      1987-01-19
-changed:      2017-08-04
+changed:      2018-04-09
 source:       IANA
 
