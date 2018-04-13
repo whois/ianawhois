@@ -29,10 +29,10 @@ phone:        +49 6894 9396 250
 fax-no:       +49 6894 93 96 251
 e-mail:       icann@ksregistry.com
 
-nserver:      A.NIC.ICU 2001:dcd:1:0:0:0:0:10 37.209.192.10
-nserver:      B.NIC.ICU 2001:dcd:2:0:0:0:0:10 37.209.194.10
-nserver:      C.NIC.ICU 2001:dcd:3:0:0:0:0:10 37.209.196.10
-nserver:      D.NIC.ICU 2001:dcd:4:0:0:0:0:10 37.209.198.10
+nserver:      A.NIC.ICU 194.169.218.108 2001:67c:13cc:0:0:0:1:108
+nserver:      B.NIC.ICU 185.24.64.108 2a04:2b00:13cc:0:0:0:1:108
+nserver:      C.NIC.ICU 212.18.248.108 2a04:2b00:13ee:0:0:0:0:108
+nserver:      D.NIC.ICU 212.18.249.108 2a04:2b00:13ff:0:0:0:0:108
 ds-rdata:     62704 8 1 D834EE1ED0374E28C49BE9C12FE1B93AE0FE9CCB
 ds-rdata:     62704 8 2 8C0442A126BA382CA5B05AE5B44744CDC5AB2845C83918E147083434F65790AA
 ds-rdata:     31762 8 2 ccc397a837f6491166129e1d99ed03cca6635166b2f5b58c65b5cf516ae92b8f
@@ -44,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.icu/
 
 created:      2015-03-06
-changed:      2018-04-06
+changed:      2018-04-13
 source:       IANA
 
