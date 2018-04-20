@@ -5,10 +5,9 @@
 domain:       WHOSWHO
 
 organisation: Who's Who Registry
-address:      Lee Garden One, 19th Floor, #1901
-address:      33 Hysan Avenue
-address:      Causeway Bay
-address:      Hong Kong
+address:      Box 300
+address:      New York, New York 10024
+address:      United States
 
 contact:      administrative
 name:         John McCabe
@@ -50,6 +49,6 @@ status:       ACTIVE
 remarks:      Registration information: http://domains.whoswho
 
 created:      2014-06-12
-changed:      2016-12-16
+changed:      2018-04-19
 source:       IANA
 
