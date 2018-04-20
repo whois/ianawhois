@@ -6,7 +6,7 @@ domain:       SG
 
 organisation: Singapore Network Information Centre (SGNIC) Pte Ltd
 address:      10 Pasir Panjang Road
-address:      #10-01 Mapletree Business City
+address:      #03-01 Mapletree Business City
 address:      Singapore 117438
 address:      Singapore
 
@@ -14,22 +14,20 @@ contact:      administrative
 name:         Head (Technical and Ops)
 organisation: Singapore Network Information Centre (SGNIC) Pte Ltd.
 address:      10 Pasir Panjang Road
-address:      #10-01 Mapletree Business City
+address:      #03-01 Mapletree Business City
 address:      Singapore 117438
 address:      Singapore
 phone:        +65 6659 2534 
-fax-no:       +65 6659 2532
 e-mail:       dna@sgnic.sg
 
 contact:      technical
 name:         Head (Technical and Ops)
 organisation: Singapore Network Information Centre (SGNIC) Pte Ltd.
 address:      10 Pasir Panjang Road
-address:      #10-01 Mapletree Business City
+address:      #03-01 Mapletree Business City
 address:      Singapore 117438
 address:      Singapore
 phone:        +65 6659 2534
-fax-no:       +65 6659 2532
 e-mail:       dna@sgnic.sg
 
 nserver:      DSANY.SGNIC.SG 194.0.11.106 2001:678:e:106:0:0:0:53
@@ -44,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.sgnic.sg
 
 created:      1988-10-19
-changed:      2017-12-04
+changed:      2018-04-19
 source:       IANA
 
