@@ -10,14 +10,14 @@ address:      Beijing
 address:      China
 
 contact:      administrative
-name:         Zhang Weiling
+name:         Nannan Xu
 organisation: Baidu, Inc.
 address:      Baidu Campus, No.10 Shangdi 10th Street Haidian DistrictBeijing
 address:      Beijing
 address:      China
-phone:        +86 185 1023 7020
+phone:        +86 188 1064 7965
 fax-no:       +86 10 5992 0062
-e-mail:       zhangweiling01@baidu.com
+e-mail:       xunannan02@baidu.com
 
 contact:      technical
 name:         Gao Lei
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.zdns.cn
 
 created:      2015-12-17
-changed:      2018-03-26
+changed:      2018-04-20
 source:       IANA
 
