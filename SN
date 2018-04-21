@@ -36,7 +36,7 @@ nserver:      NS1.SONATEL.SN 213.154.64.11
 nserver:      NS3.NIC.FR 192.134.0.49 2001:660:3006:1:0:0:1:1
 nserver:      SN.CCTLD.AUTHDNS.RIPE.NET 193.0.9.111 2001:67c:e0:0:0:0:0:111
 ds-rdata:     32482 8 2 7553c96a8b702f64c80477c1be7b3d9dcff833a3c08f39ca6a18c6dbff840576
-ds-rdata:     32482 8 1 ff3647e96b619e48569e27ce3b88c3f6fa474af6
+ds-rdata:     23447 8 2 271e63775a5c09a80ca8a0e6d68f5d31dbc3c3fc7ae7301517e57c1fcabc714b
 
 whois:        whois.nic.sn
 
@@ -44,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.sn
 
 created:      1993-03-19
-changed:      2018-04-06
+changed:      2018-04-21
 source:       IANA
 
