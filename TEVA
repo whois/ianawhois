@@ -9,13 +9,13 @@ address:      5 Basel Street Petach Tikva – 49131, Israel
 address:      Israel
 
 contact:      administrative
-name:         Herschel Perel
+name:         Domain Manager
 organisation: Teva Pharmaceutical Industries Limited
-address:      425 Privet Road, Horsham Pennsylvania 19044, United States of America
+address:      425 Privet Road
+address:      Horsham, Pennsylvania 19044
 address:      United States
-phone:        +1 215-293-6406
-fax-no:       +1 215 293 7200
-e-mail:       herschel.perel@tevapharm.com
+phone:        +1 215 293 6509 
+e-mail:       domainadmincorp@teva.co.il
 
 contact:      technical
 name:         Sean Kaine
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.teva
 
 created:      2016-02-19
-changed:      2016-11-08
+changed:      2018-04-23
 source:       IANA
 
