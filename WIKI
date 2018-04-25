@@ -25,8 +25,8 @@ organisation: CentralNic
 address:      35-39 Moorgate
 address:      London, EC2R 6AR
 address:      United Kingdom
-phone:        +44 (0)20 33 88 0600
-fax-no:       +44 (0)20 33 88 0601
+phone:        +44.2033880600
+fax-no:       +44.2033880601
 e-mail:       tld.ops@centralnic.com
 
 nserver:      A.NIC.WIKI 194.169.218.30 2001:67c:13cc:0:0:0:1:30
@@ -42,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.wiki
 
 created:      2014-02-06
-changed:      2015-10-16
+changed:      2018-04-25
 source:       IANA
 
