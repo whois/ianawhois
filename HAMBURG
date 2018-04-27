@@ -9,13 +9,13 @@ address:      Neuer Wall 10, Hamburg, 20354
 address:      Germany
 
 contact:      administrative
-name:         Oliver Joachim Sueme
+name:         Dirk Krischenowski
 organisation: Hamburg Top-Level-Domain GmbH
 address:      Neuer Wall 10, Hamburg, 20354
 address:      Germany
-phone:        +49 40 27806736
-fax-no:       +49 40 380 89 810
-e-mail:       os@dothamburg.de
+phone:        +49 40 6506 2020
+fax-no:       +49 30 69088706
+e-mail:       registry@nic.hamburg
 
 contact:      technical
 name:         Martin Schlicksbier
@@ -38,6 +38,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.hamburg
 
 created:      2014-05-22
-changed:      2018-03-06
+changed:      2018-04-26
 source:       IANA
 
