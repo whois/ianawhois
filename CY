@@ -31,17 +31,18 @@ e-mail:       panayiotou.fotia@ucy.ac.cy
 
 nserver:      CY-NS.ANYCAST.PCH.NET 2001:500:14:6044:ad:0:0:1 204.61.216.44
 nserver:      CYNIC.DNS.CY 194.42.29.1
+nserver:      CYNIC4.DNS.CY 194.42.29.16
+nserver:      CYNIC6.DNS.CY 194.42.20.31
 nserver:      ESTIA.ICS.FORTH.GR 139.91.191.3 2001:648:2c30:0:0:0:191:3
 nserver:      NS02.SAVVIS.NET 204.70.57.242
 nserver:      NS1.UCY.AC.CY 194.42.1.50
 nserver:      NS2.UCY.AC.CY 194.42.1.55
-nserver:      NS3.UCY.AC.CY 194.42.20.50
-nserver:      SEC3.APNIC.NET 2001:dc0:1:0:4777:0:0:140 202.12.28.140
+nserver:      NS4.APNIC.NET 2001:dd8:12:0:0:0:0:53 202.12.31.53
 
 status:       ACTIVE
 remarks:      Registration information: http://www.nic.cy
 
 created:      1994-07-26
-changed:      2016-11-23
+changed:      2018-04-26
 source:       IANA
 
