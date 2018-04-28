@@ -41,7 +41,7 @@ nserver:      A.GMOREGISTRY.NET 2001:dcd:1:0:0:0:0:4 37.209.192.4
 nserver:      B.GMOREGISTRY.NET 2001:dcd:2:0:0:0:0:4 37.209.194.4
 nserver:      K.GMOREGISTRY.NET 37.209.196.4
 nserver:      L.GMOREGISTRY.NET 2001:dcd:4:0:0:0:0:4 37.209.198.4
-ds-rdata:     31181 8 2 edd432b3962bbdaa46a2e199506b015449a15e057ba2ddd221543a063cd5a5f8
+ds-rdata:     12977 8 2 24f748bb3d6d7f2a30517a9bf6fe74991b2ef35a375c11f27071e73873b9314f
 
 whois:        whois.nic.lexus
 
@@ -49,6 +49,6 @@ status:       ACTIVE
 remarks:      Registration information: http://lexus.jp/
 
 created:      2015-07-16
-changed:      2017-06-20
+changed:      2018-04-27
 source:       IANA
 
