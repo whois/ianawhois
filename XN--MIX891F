@@ -6,10 +6,7 @@ domain:       澳門
 domain-ace:   XN--MIX891F
 
 organisation: Macao Post and Telecommunications Bureau (CTT)
-address:      eSignTrust Registration Authority
-address:      Division of Electronic Certification Services
-address:      Macao Post and Telecommunications Bureau
-address:      Avenida da Praia Grande no.789, R/C
+address:      Largo do Senado, Edf. Sede dos CTT, Macau
 address:      Macao
 
 contact:      administrative
@@ -18,7 +15,7 @@ organisation: Macao Network Information Centre (MONIC) - HNET Asia
 address:      eSignTrust Registration Authority
 address:      Division of Electronic Certification Services
 address:      Macao Post and Telecommunications Bureau
-address:      Avenida da Praia Grande no.789, R/C
+address:      Avenida da Praia Grande no.789, R/C, Macau
 address:      Macao
 phone:        +853 28716636
 fax-no:       +853 28716606
@@ -30,7 +27,7 @@ organisation: Macao Network Information Centre (MONIC) - HNET Asia
 address:      eSignTrust Registration Authority
 address:      Division of Electronic Certification Services
 address:      Macao Post and Telecommunications Bureau
-address:      Avenida da Praia Grande no.789, R/C
+address:      Avenida da Praia Grande no.789, R/C, Macau
 address:      Macao
 phone:        +853 28716636
 fax-no:       +853 28716606
@@ -50,6 +47,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.monic.mo
 
 created:      2015-04-21
-changed:      2018-04-07
+changed:      2018-04-30
 source:       IANA
 
