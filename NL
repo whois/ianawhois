@@ -29,11 +29,9 @@ phone:        +31 26 3525500
 fax-no:       +31 26 3525550
 e-mail:       tech@sidn.nl
 
-nserver:      NS-NL.NIC.FR 192.93.0.4 2001:660:3005:1:0:0:1:2
 nserver:      NS1.DNS.NL 193.176.144.5 2a00:d78:0:102:193:176:144:5
 nserver:      NS2.DNS.NL 194.146.106.42 2001:67c:1010:10:0:0:0:53
-nserver:      NS3.DNS.NL 194.171.17.10 2001:610:0:800d:0:0:0:10
-nserver:      NS4.DNS.NL 2a00:1188:5:0:0:0:0:212 95.142.99.212
+nserver:      NS3.DNS.NL 194.0.25.24 2001:678:20:0:0:0:0:24
 nserver:      NS5.DNS.NL 194.0.28.53 2001:678:2c:0:194:0:28:53
 nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e:0:0:0:0:1
 ds-rdata:     34112 8 2 3c5b5f9b3557455c50751a9be9ebe9238c88e19f5f07f930976917b51b95cd22
@@ -44,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.sidn.nl/
 
 created:      1986-04-25
-changed:      2018-03-02
+changed:      2018-04-30
 source:       IANA
 
