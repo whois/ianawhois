@@ -4,22 +4,21 @@
 
 domain:       COLOGNE
 
-organisation: NetCologne Gesellschaft für Telekommunikation mbH
-address:      Am Coloneum 9
-address:      50829 Cologne
-address:      North Rhine-Westphalia
-address:      Germany
+organisation: punkt.wien GmbH
+address:      Matznergasse 17
+address:      1140 Vienna
+address:      Austria
+address:      Austria
 
 contact:      administrative
-name:         Hartmut Schulz
-organisation: NetCologne Gesellschaft für Telekommunikation mbH
-address:      Am Coloneum 9
-address:      50829 Cologne
-address:      North Rhine-Westphalia
-address:      Germany
-phone:        +49 221 2222 228
-fax-no:       +49 221 2222 7228
-e-mail:       hschulz@dotkoeln.de
+name:         Ronald Schwaerzler
+organisation: punkt.wien GmbH
+address:      Matznergasse 17
+address:      1140 Vienna
+address:      Austria
+phone:        +43 1 98116-700
+fax-no:       +43 1 98116-111
+e-mail:       ronald.schwaerzler@nic.wien
 
 contact:      technical
 name:         ironDNS Support
@@ -41,9 +40,9 @@ ds-rdata:     59932 10 2 5945882FC8A2104BDF82FEFC2856DC07D6E26D89928C93C0054B980
 whois:        whois-fe1.pdt.cologne.tango.knipp.de
 
 status:       ACTIVE
-remarks:      Registration information: http://www.dotkoeln.de
+remarks:      Registration information: https://www.nic.koeln
 
 created:      2014-03-13
-changed:      2014-03-19
+changed:      2018-04-30
 source:       IANA
 
