@@ -35,10 +35,9 @@ e-mail:       hostmaster@setarnet.aw
 nserver:      AW01.SETARNET.AW 201.229.0.26
 nserver:      AW02.SETARNET.AW 201.229.0.27
 nserver:      NS1.DNS.AW 193.176.144.13 2a00:d78:0:102:193:176:144:13
-nserver:      NS2.DNS.AW 2001:7b8:606:0:0:0:0:88 213.154.241.88
 nserver:      NS3.DNS.AW 194.171.17.13 2001:610:0:800d:0:0:0:13
-nserver:      NS4.DNS.AW 2a00:1188:5:0:0:0:0:215 95.142.99.215
 nserver:      NS5.DNS.AW 194.0.28.2 2001:678:2c:0:194:0:28:2
+nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e:0:0:0:0:1
 ds-rdata:     38854 8 2 23fa5636c1d793336a1eb15bbd26aa902cf12fb88200c64512f065ae355a4d9b
 
 whois:        whois.nic.aw
@@ -46,6 +45,6 @@ whois:        whois.nic.aw
 status:       ACTIVE
 
 created:      1996-02-20
-changed:      2016-06-10
+changed:      2018-04-30
 source:       IANA
 
