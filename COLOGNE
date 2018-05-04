@@ -36,6 +36,7 @@ nserver:      ANYCAST23.IRONDNS.NET 195.253.65.11 2a01:5b0:5:0:0:0:0:b
 nserver:      ANYCAST24.IRONDNS.NET 195.253.65.12 2a01:5b0:5:0:0:0:0:c
 nserver:      ANYCAST9.IRONDNS.NET 195.253.64.11 2a01:5b0:4:0:0:0:0:b
 ds-rdata:     59932 10 2 5945882FC8A2104BDF82FEFC2856DC07D6E26D89928C93C0054B980B2F543D55
+ds-rdata:     47152 10 2 1172b9dba9c51b6cbcce1be2646081226b7da32ad84061e389ad2ce6ad80fa23
 
 whois:        whois-fe1.pdt.cologne.tango.knipp.de
 
@@ -43,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.nic.koeln
 
 created:      2014-03-13
-changed:      2018-04-30
+changed:      2018-05-04
 source:       IANA
 
