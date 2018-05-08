@@ -5,20 +5,21 @@
 domain:       VIRGIN
 
 organisation: Virgin Enterprises Limited
-address:      13-15 Cours de Rive
-address:      Geneva
-address:      1204
-address:      Switzerland
+address:      The Battleship Building
+address:      London, England
+address:      W2 6NB
+address:      United Kingdom
 
 contact:      administrative
 name:         TLD Manager
 organisation: Virgin Enterprises Limited
-address:      13-15 Cours de Rive
-address:      Geneva 1204
-address:      Switzerland
-phone:        +41.228190856
-fax-no:       +41.228190856
-e-mail:       victoria.wisener@virgin.com
+address:      The Battleship Building
+address:      London, England
+address:      W2 6NB
+address:      United Kingdom
+phone:        +44.2073132000
+fax-no:       +44.2031263610
+e-mail:       domain_admin@virgin.com
 
 contact:      technical
 name:         TLD Manager
@@ -45,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.virgin.com
 
 created:      2015-09-10
-changed:      2017-11-22
+changed:      2018-05-07
 source:       IANA
 
