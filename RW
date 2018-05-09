@@ -30,7 +30,7 @@ e-mail:       noc@ricta.org.rw
 
 nserver:      FORK.STH.DNSNODE.NET 2a01:3f0:0:306:0:0:0:53 77.72.229.254
 nserver:      NS-RW.AFRINIC.NET 196.216.168.28 2001:43f8:120:0:0:0:0:28
-nserver:      NS1.RICTA.ORG.RW 41.74.173.250
+nserver:      NS1.RICTA.ORG.RW 196.49.7.188
 nserver:      NS3.RICTA.ORG.RW 41.138.85.98
 nserver:      NS4.RICTA.ORG.RW 196.49.7.178
 nserver:      PCH.RICTA.ORG.RW 2001:500:14:6091:ad:0:0:1 204.61.216.91
@@ -39,6 +39,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.ricta.org.rw
 
 created:      1996-10-21
-changed:      2018-04-19
+changed:      2018-05-09
 source:       IANA
 
