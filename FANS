@@ -10,14 +10,14 @@ address:      96 Siena Avenue, Discovery Bay North
 address:      Hong Kong
 
 contact:      administrative
-name:         Vladimir Shadrunov
-organisation: Asiamix Digital Limited
-address:      Unit 15, 1/F, Block 2, Office Building
-address:      96 Siena Avenue, Discovery Bay North
-address:      Hong Kong
-phone:        +44.2036372155
-fax-no:       +44.2036372194
-e-mail:       registry@dotfans.net
+name:         Raedene McGary
+organisation: CentralNic Limited
+address:      35-39 Moorgate
+address:      London EC2R 6AR
+address:      United Kingdom
+phone:        +44.2033880600
+fax-no:       +44.2033880601
+e-mail:       fans.compliance@centralnic.com
 
 contact:      technical
 name:         CTO
@@ -42,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://dotfans.net/
 
 created:      2015-02-05
-changed:      2015-10-10
+changed:      2018-05-10
 source:       IANA
 
