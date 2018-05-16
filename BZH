@@ -34,7 +34,6 @@ nserver:      D.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
 nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
 nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
 ds-rdata:     18539 8 2 ddbf5e517a30d3b7fd41ff386843aa8ff6ef77961120e5fca794c0072cd63b9d
-ds-rdata:     40612 8 2 eea3d9378ce22027966adeb8330b3afd3f2ed80be4909572d7ce1bb3b3f9176d
 ds-rdata:     7592 8 2 51B6684414CC31053A591558A82D8A2520B9B0F0D68F2BC092162BA74CEDD455
 
 whois:        whois.nic.bzh
@@ -43,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.pik.bzh
 
 created:      2014-05-29
-changed:      2018-04-16
+changed:      2018-05-16
 source:       IANA
 
