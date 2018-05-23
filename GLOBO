@@ -32,7 +32,7 @@ nserver:      B.DNS.BR 200.189.41.10
 nserver:      C.DNS.BR 200.192.233.10
 nserver:      D.DNS.BR 200.219.154.10 2001:12f8:4:0:0:0:0:10
 nserver:      E.DNS.BR 200.229.248.10 2001:12f8:1:0:0:0:0:10
-nserver:      F.DNS.BR 200.219.159.10
+nserver:      F.DNS.BR 200.219.159.10 2001:12f8:c:0:0:0:0:10
 ds-rdata:     60907 8 1 B0947756D09A9CB5383CD570E187C413E780B072
 
 whois:        whois.gtlds.nic.br
