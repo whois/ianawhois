@@ -12,14 +12,15 @@ address:      CH8002
 address:      Switzerland
 
 contact:      administrative
-name:         Domain and Online Compliance Manager
-organisation: BSkyB
-address:      Dammstrasse 19 Zug
-address:      CH-6301
+name:         Head of Online Compliance Operations
+organisation: Sky International AG
+address:      Dreikönigstrasse 31a
+address:      Stockerhof
+address:      Zurich CH8002
 address:      Switzerland
 phone:        +44 7713264238
 fax-no:       +44 2079007112
-e-mail:       f.tallon@bskyb.com
+e-mail:       domains@sky.uk
 
 contact:      technical
 name:         Registry Customer Service
@@ -45,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.sky
 
 created:      2014-10-02
-changed:      2016-02-22
+changed:      2018-05-23
 source:       IANA
 
