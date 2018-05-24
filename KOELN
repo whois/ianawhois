@@ -20,15 +20,14 @@ fax-no:       +43 1 98116-111
 e-mail:       ronald.schwaerzler@nic.wien
 
 contact:      technical
-name:          ironDNS Support
-organisation: Knipp Medien und Kommunikation GmbH
-address:      Martin-Schmeisser-Weg 9
-address:      44227 Dortmund
-address:      North Rhine-Westphalia
-address:      Germany
-phone:        +49 231 9703 0
-fax-no:       +49 231 9703 200
-e-mail:       dnsmaster@irondns.net
+name:         Technical Operations
+organisation: RyCE GmbH
+address:      Matznergasse 17
+address:      1140 Wien
+address:      Austria
+phone:        +431981160
+fax-no:       +43198116111
+e-mail:       tech@dns.business
 
 nserver:      NS1.RYCE-RSP.COM 2a01:190:15ec:a000:0:0:0:153 91.195.198.153
 nserver:      NSA.NETNOD.SE 194.58.192.33 2a01:3f1:33:0:0:0:0:53
@@ -43,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.nic.koeln
 
 created:      2014-02-20
-changed:      2018-05-22
+changed:      2018-05-23
 source:       IANA
 
