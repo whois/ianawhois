@@ -37,7 +37,6 @@ nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
 nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
 nserver:      H.EXT.NIC.FR 195.253.66.2 2a01:5b0:6:0:0:0:0:2
 ds-rdata:     29639 8 2 b714d5f0c4b2a353d83332893935a8666982a871c0103bca787895fbfcc7b143
-ds-rdata:     58579 8 2 3afcaba4d510b8b933b2e33737e180c3fc33ace1a5a61b44e449d501bcecd1af
 ds-rdata:     16996 8 2 00F50D34779E521849DCC5D3B71BA10D003E4A790F1A68C32D60D08700404740
 
 whois:        whois-paris.nic.fr
@@ -46,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://mondomaine.paris.fr/
 
 created:      2014-03-27
-changed:      2018-05-16
+changed:      2018-05-26
 source:       IANA
 
