@@ -21,10 +21,10 @@ e-mail:       adm@dotdeti.ru
 contact:      technical
 name:         Network enginner
 organisation: Technical Center of Internet
-address:      123242, Moscow, Zoologicheskaya str., 8
+address:      127083, Moscow, 8 Marta street 1, bld 12
 address:      Russian Federation
-phone:        +7 495 737 9295
-fax-no:       +7 495 737 0684
+phone:        +7 495 730 29 69
+fax-no:       +7 495 730 29 68
 e-mail:       gtld-tech@tcinet.ru
 
 nserver:      A.DNS.RIPN.NET 193.232.128.6 2001:678:17:0:193:232:128:6
@@ -40,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.dotdeti.ru
 
 created:      2014-02-13
-changed:      2017-07-07
+changed:      2018-05-25
 source:       IANA
 
