@@ -37,7 +37,7 @@ nserver:      A.GMOREGISTRY.NET 2001:dcd:1:0:0:0:0:4 37.209.192.4
 nserver:      B.GMOREGISTRY.NET 2001:dcd:2:0:0:0:0:4 37.209.194.4
 nserver:      K.GMOREGISTRY.NET 37.209.196.4
 nserver:      L.GMOREGISTRY.NET 2001:dcd:4:0:0:0:0:4 37.209.198.4
-ds-rdata:     43039 8 2 d123be9b5ba943d7f1323e95cdf5d8ff5b92db825ccb735f91ac0e06a45a00fb
+ds-rdata:     1720 8 2 e99de850d466563aa916d949b16139535e72bb1725b31f5d53205a9e3b7b4f01
 
 whois:        whois.nic.honda
 
@@ -45,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://honda.com
 
 created:      2015-03-06
-changed:      2017-03-30
+changed:      2018-05-26
 source:       IANA
 
