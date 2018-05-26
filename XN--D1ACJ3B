@@ -32,7 +32,7 @@ nserver:      B.DNS.RIPN.NET 194.85.252.62 2001:678:16:0:194:85:252:62
 nserver:      D.DNS.RIPN.NET 194.190.124.17 2001:678:18:0:194:190:124:17
 nserver:      E.DNS.RIPN.NET 193.232.142.17 2001:678:15:0:193:232:142:17
 nserver:      F.DNS.RIPN.NET 193.232.156.17 2001:678:14:0:193:232:156:17
-ds-rdata:     26344 8 2 0E69939692CA5C37C62C294C9D2A9B17B976C81ACD9C80B9B86B53664E0AA6FA
+ds-rdata:     32821 8 2 48D646C45E69A3A7FCEFCB0390D1895EA12226FCCBF7E11ED3CB44C1E1C6BCA9
 
 whois:        whois.nic.xn--d1acj3b
 
@@ -40,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.dotdeti.ru
 
 created:      2014-02-13
-changed:      2018-05-25
+changed:      2018-05-26
 source:       IANA
 
