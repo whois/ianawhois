@@ -37,12 +37,12 @@ nserver:      ANYCAST24.IRONDNS.NET 195.253.65.12 2a01:5b0:5:0:0:0:0:c
 nserver:      ANYCAST9.IRONDNS.NET 195.253.64.11 2a01:5b0:4:0:0:0:0:b
 ds-rdata:     42309 10 2 3AFD388DCC7DE7AD4FA84EC0F897B59FAEF31877F80EF4D55E5ACBDFD8AB98DE
 
-whois:        whois.mango.coreregistry.net
+whois:        whois.nic.mango
 
 status:       ACTIVE
 remarks:      Registration information: http://www.mango.com
 
 created:      2014-01-23
-changed:      2015-03-31
+changed:      2018-05-30
 source:       IANA
 
