@@ -30,11 +30,11 @@ phone:        +62 817758377
 fax-no:       +62 21 3845786
 e-mail:       aidil@pandi.id
 
-nserver:      A.DNS.ID 2001:e00:1800:0:0:0:0:2 202.155.30.227
-nserver:      B.DNS.ID 103.19.179.179
-nserver:      C.DNS.ID 103.19.178.178
+nserver:      B.DNS.ID 103.19.179.179 2402:ee80:b:0:0:0:0:b
+nserver:      C.DNS.ID 103.19.178.178 2402:ee80:c:0:0:0:0:c
+nserver:      D.DNS.ID 2402:ee80:d:0:0:0:0:d 45.126.57.57
 nserver:      E.DNS.ID 103.19.177.177 2001:df5:4000:4:0:0:0:4
-nserver:      SEC3.APNIC.NET 2001:dc0:1:0:4777:0:0:140 202.12.28.140
+nserver:      NS4.APNIC.NET 2001:dd8:12:0:0:0:0:53 202.12.31.53
 ds-rdata:     26887 8 1 2F1E41B5BF7DA7F134B4025E8242D3A9EF54801C
 ds-rdata:     26887 8 2 28BE22003A1AFB1ED9A7BB82482274E2DB5F09A6C50702C731E040D2257347EA
 
@@ -44,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: https://pandi.id
 
 created:      1993-02-27
-changed:      2018-05-24
+changed:      2018-06-01
 source:       IANA
 
