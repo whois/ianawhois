@@ -16,18 +16,18 @@ organisation: KISA (Korea Internet & Security Agency)
 address:      Korea Network Information Center(KRNIC), 11F, Platinum Tower
 address:      398, Seochodae-ro, Seocho-gu, Seoul, 06619
 address:      Korea, Republic Of
-phone:        +82 2 405 5138
-fax-no:       +82 2 405 5209
+phone:        +82 61 820 1510
+fax-no:       +82 2 405 5149
 e-mail:       adminc@kisa.or.kr
 
 contact:      technical
-name:         Internet Address Technology Team Manager
+name:         Head of Korea Network Information Center
 organisation: KISA (Korea Internet & Security Agency)
 address:      Korea Network Information Center(KRNIC), 11F, Platinum Tower
 address:      398, Seochodae-ro, Seocho-gu, Seoul, 06619
 address:      Korea, Republic Of
-phone:        +82 2 405 5138
-fax-no:       +82 2 405 5209
+phone:        +82 61 820 1510
+fax-no:       +82 2 405 5149
 e-mail:       techc@kisa.or.kr
 
 nserver:      B.DNS.KR 61.74.75.1
@@ -45,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://domain.kisa.or.kr
 
 created:      2011-02-05
-changed:      2017-03-14
+changed:      2018-06-01
 source:       IANA
 
