@@ -11,10 +11,10 @@ address:      Moscow  123182
 address:      Russian Federation
 
 contact:      administrative
-name:         Alexei P. Platonov
-organisation: Russian Institute for Public Networks
-address:      1 Kurchatov Square
-address:      Moscow  123182
+name:         Foundation for Internet Development
+organisation: Foundation for Internet Development
+address:      17 Presnenskiy Val, bld 1
+address:      Moscow, 123557
 address:      Russian Federation
 phone:        +7 499 702 83 43
 fax-no:       +7 499 702 83 43
@@ -23,11 +23,11 @@ e-mail:       su-adm@fid.su
 contact:      technical
 name:         Technical Center of Internet
 organisation: Technical Center of Internet
-address:      8, Zoologicheskaya str
-address:      Moscow  123242
+address:      8 Marta street 1, bld 12
+address:      Moscow 127083
 address:      Russian Federation
-phone:        +7 495 737 92 95
-fax-no:       +7 495 737 06 84
+phone:        +7 495 730 29 69
+fax-no:       +7 495 730 29 68
 e-mail:       ru-tech@tcinet.ru
 
 nserver:      A.DNS.RIPN.NET 193.232.128.6 2001:678:17:0:193:232:128:6
@@ -42,6 +42,6 @@ whois:        whois.tcinet.ru
 status:       ACTIVE
 
 created:      1990-09-19
-changed:      2017-07-07
+changed:      2018-06-04
 source:       IANA
 
