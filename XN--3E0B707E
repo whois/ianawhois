@@ -32,7 +32,7 @@ e-mail:       techc@kisa.or.kr
 
 nserver:      B.DNS.KR 61.74.75.1
 nserver:      C.DNS.KR 203.248.246.220
-nserver:      D.DNS.KR 203.83.159.1
+nserver:      D.DNS.KR 2001:dcc:4:0:0:0:0:1 203.83.159.1
 nserver:      E.DNS.KR 2001:dcc:5:0:0:0:0:100 202.30.124.100
 nserver:      F.DNS.KR 218.38.181.90
 nserver:      G.DNS.KR 2001:dc5:a:0:0:0:0:1 202.31.190.1
@@ -45,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://domain.kisa.or.kr
 
 created:      2011-02-05
-changed:      2018-06-01
+changed:      2018-06-06
 source:       IANA
 
