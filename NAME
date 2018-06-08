@@ -29,10 +29,10 @@ phone:        +1 703 925 6999
 fax-no:       +1 703 948 3978
 e-mail:       info@verisign-grs.com
 
-nserver:      AN1.NSTLD.COM 192.82.135.30 2001:500:128:0:0:0:0:30
-nserver:      AN2.NSTLD.COM 192.82.136.30 2001:500:129:0:0:0:0:30
-nserver:      AN3.NSTLD.COM 192.82.137.30 2001:500:12a:0:0:0:0:30
-nserver:      AN4.NSTLD.COM 192.82.138.30 2001:500:12b:0:0:0:0:30
+nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
+nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
+nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
+nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
 ds-rdata:     52563 8 2 4E2671F0DBC3927D842053044C6A0CBF8B21E1E657DE8BBA99A4835031A85A41
 
 whois:        whois.nic.name
@@ -41,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.name
 
 created:      2001-08-17
-changed:      2016-02-26
+changed:      2018-06-07
 source:       IANA
 
