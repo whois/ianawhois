@@ -37,7 +37,6 @@ nserver:      E.DNS.KR 2001:dcc:5:0:0:0:0:100 202.30.124.100
 nserver:      F.DNS.KR 218.38.181.90
 nserver:      G.DNS.KR 2001:dc5:a:0:0:0:0:1 202.31.190.1
 ds-rdata:     27573 7 2 A1C0A1B101F2B31DA2DD995BD0994A6C1E9E34E325FA007E2EA8721DFC4C6CB4
-ds-rdata:     56335 7 2 ED307DC0902F1130ADBCB1B6FBA7C16F76927BD3E33D80FED23DAEFEFF2604C8
 
 whois:        whois.kr
 
@@ -45,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://domain.kisa.or.kr
 
 created:      2011-02-05
-changed:      2018-06-06
+changed:      2018-06-08
 source:       IANA
 
