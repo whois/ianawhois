@@ -5,15 +5,17 @@
 domain:       NIKON
 
 organisation: NIKON CORPORATION
-address:      4-6, Kanda-Surugadai, Chiyoda-ku
-address:      Tokyo 101-0062
+address:      Shinagawa Intercity Tower C
+address:      2-15-3, Konan, Minato-ku
+address:      Tokyo 108-6290
 address:      Japan
 
 contact:      administrative
 name:         General Manager
 organisation: NIKON CORPORATION
-address:      4-6, Kanda-Surugadai, Chiyoda-ku,
-address:      Tokyo 101-0062
+address:      Shinagawa Intercity Tower C
+address:      2-15-3, Konan, Minato-ku
+address:      Tokyo 108-6290
 address:      Japan
 phone:        +81 3 3773 1259
 fax-no:       +81 3 3773 8409
@@ -41,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nikon.com
 
 created:      2015-10-01
-changed:      2016-02-27
+changed:      2018-06-07
 source:       IANA
 
