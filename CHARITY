@@ -1,0 +1,49 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       CHARITY
+
+organisation: Corn Lake, LLC
+address:      5808 Lake Washington Blvd NE, Suite 300
+address:      Kirkland, WA 98033
+address:      US
+address:      United States
+
+contact:      administrative
+name:         Serina Ness
+organisation: Donuts INC
+address:      Headquarters
+address:      5808 Lake Washington Blvd NE, Suite 300
+address:      Kirkland, WA 98033
+address:      US
+address:      United States
+phone:        +1 (425) 298-2200
+e-mail:       serina@donuts.email
+
+contact:      technical
+name:         Benoit Levac
+organisation: Donuts INC
+address:      Headquarters
+address:      5808 Lake Washington Blvd NE, Suite 300
+address:      Kirkland, WA 98033
+address:      US
+address:      United States
+phone:        +1 (425) 298-2200
+e-mail:       ben@donuts.email
+
+nserver:      DEMAND.ALPHA.ARIDNS.NET.AU 2001:dcd:1:0:0:0:0:7 37.209.192.7
+nserver:      DEMAND.BETA.ARIDNS.NET.AU 2001:dcd:2:0:0:0:0:7 37.209.194.7
+nserver:      DEMAND.DELTA.ARIDNS.NET.AU 2001:dcd:4:0:0:0:0:7 37.209.198.7
+nserver:      DEMAND.GAMMA.ARIDNS.NET.AU 2001:dcd:3:0:0:0:0:7 37.209.196.7
+ds-rdata:     1267 8 2 F0F4A7CCFE3AADB8EC7BB2A757AA5E54FBBF8D69934DD6F0CCE277D22216352B
+
+whois:        whois.nic.charity
+
+status:       ACTIVE
+remarks:      Registration information: https://donuts.domains/
+
+created:      2018-05-17
+changed:      2018-06-08
+source:       IANA
+
