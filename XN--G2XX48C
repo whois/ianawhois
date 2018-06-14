@@ -11,13 +11,10 @@ address:      British Virgin Islands
 
 contact:      administrative
 name:         Senior Operations Manager
-organisation: Minds + Machines
-address:      10866 Washington Blvd
-address:      #84
-address:      Culver City CA 90232
-address:      United States
+organisation: Minds + Machines Group Limited
+address:      32 Nassau St, Dublin 2
+address:      Ireland
 phone:        +1 206 445 0359
-fax-no:       +1-310-455-6137
 e-mail:       ops@mmx.co
 
 contact:      technical
@@ -44,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://mm-registry.com
 
 created:      2016-01-08
-changed:      2018-04-23
+changed:      2018-06-14
 source:       IANA
 
