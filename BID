@@ -11,15 +11,13 @@ address:      GX11 1AA
 address:      Gibraltar
 
 contact:      administrative
-name:         Geir Rasmussen
-organisation: Famous Four Media Limited
-address:      2nd Floor, Leisure Island Business Centre
-address:      Ocean Village
+name:         Edgar Charles Andrew Lavarello
+organisation: Pricewaterhousecoopers Ltd.
+address:      327 Main Street
 address:      GX11 1AA
 address:      Gibraltar
-phone:        +350 216 50 000
-fax-no:       +35021628816
-e-mail:       registry@famousfourmedia.com
+phone:        +350 200 73520
+e-mail:       edgar.c.lavarello@gi.pwc.com
 
 contact:      technical
 name:         Sean Kaine
@@ -48,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.famousfourmedia.com
 
 created:      2014-02-13
-changed:      2016-12-08
+changed:      2018-06-15
 source:       IANA
 
