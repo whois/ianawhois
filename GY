@@ -33,8 +33,6 @@ e-mail:       tech@registry.gy
 
 nserver:      GY-NS.ANYCAST.PCH.NET 2001:500:14:6034:ad:0:0:1 204.61.216.34
 nserver:      NS.COCCA.FR 185.17.236.93 2a03:dd40:3:0:0:0:0:93
-nserver:      NS.COCCAREGISTRY.ORG 185.17.236.111 2a03:dd40:3:0:0:0:0:111
-nserver:      PHLOEM.UOREGON.EDU 128.223.32.35 2001:468:d01:20:0:0:80df:2023
 nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e:0:0:0:0:1
 
 whois:        whois.registry.gy
@@ -43,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://registry.gy/
 
 created:      1994-09-13
-changed:      2018-02-02
+changed:      2018-06-18
 source:       IANA
 
