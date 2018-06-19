@@ -36,6 +36,7 @@ nserver:      NS.UCAD.SN 196.1.95.1
 nserver:      NS1.SONATEL.SN 213.154.64.11
 nserver:      SN.CCTLD.AUTHDNS.RIPE.NET 193.0.9.111 2001:67c:e0:0:0:0:0:111
 ds-rdata:     23447 8 2 271e63775a5c09a80ca8a0e6d68f5d31dbc3c3fc7ae7301517e57c1fcabc714b
+ds-rdata:     42844 8 2 51ecb2a1b9a93e42b3cefdb344f02584434661c4986f0a53b97f7d23134f4c15
 
 whois:        whois.nic.sn
 
@@ -43,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.sn
 
 created:      1993-03-19
-changed:      2018-05-30
+changed:      2018-06-18
 source:       IANA
 
