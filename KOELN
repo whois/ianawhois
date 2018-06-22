@@ -4,20 +4,20 @@
 
 domain:       KOELN
 
-organisation: punkt.wien GmbH
+organisation: dotKoeln GmbH
 address:      Matznergasse 17
 address:      1140 Vienna
 address:      Austria
 
 contact:      administrative
 name:         Ronald Schwaerzler
-organisation: punkt.wien GmbH
+organisation: dotKoeln GmbH
 address:      Matznergasse 17
 address:      1140 Vienna
 address:      Austria
-phone:        +43 1 98116-700
+phone:        +43 1 198116-700
 fax-no:       +43 1 98116-111
-e-mail:       ronald.schwaerzler@nic.wien
+e-mail:       ronald.schwaerzler@domainworx.at
 
 contact:      technical
 name:         Technical Operations
@@ -33,15 +33,14 @@ nserver:      NS1.RYCE-RSP.COM 2a01:190:15ec:a000:0:0:0:153 91.195.198.153
 nserver:      NSA.NETNOD.SE 194.58.192.33 2a01:3f1:33:0:0:0:0:53
 nserver:      NSP.NETNOD.SE 194.58.198.33 2a01:3f1:3033:0:0:0:0:53
 nserver:      NSU.NETNOD.SE 185.42.137.99 2a01:3f0:400:0:0:0:0:33
-ds-rdata:     6046 10 2 72629095CBD39549967DDC7685372E9BB38B25F0412C6DF8F90CF09128E92627
 ds-rdata:     29499 10 2 9c4c26235413a4a3531ada11078a235e2f11c4245a4546f38baaa0ddbbcf2662
 
-whois:        whois-fe1.pdt.koeln.tango.knipp.de
+whois:        whois.ryce-rsp.com
 
 status:       ACTIVE
 remarks:      Registration information: https://www.nic.koeln
 
 created:      2014-02-20
-changed:      2018-05-23
+changed:      2018-06-21
 source:       IANA
 
