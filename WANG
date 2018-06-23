@@ -26,10 +26,10 @@ phone:        +86.1082961219
 fax-no:       +86.1082961269
 e-mail:       vp@nic.wang
 
-nserver:      A.ZDNSCLOUD.COM 1.8.240.1
-nserver:      B.ZDNSCLOUD.COM 1.8.241.1
-nserver:      C.ZDNSCLOUD.COM 1.8.242.1
-nserver:      D.ZDNSCLOUD.COM 1.8.243.1
+nserver:      A.ZDNSCLOUD.COM 203.99.24.1
+nserver:      B.ZDNSCLOUD.COM 203.99.25.1
+nserver:      C.ZDNSCLOUD.COM 203.99.26.1
+nserver:      D.ZDNSCLOUD.COM 203.99.27.1
 nserver:      F.ZDNSCLOUD.COM 114.67.46.12
 nserver:      G.ZDNSCLOUD.COM 42.62.2.16
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
