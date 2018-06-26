@@ -38,8 +38,6 @@ nserver:      NS4.DNS.NET.NZ 2001:dce:d454:0:0:0:0:53 202.46.189.130
 nserver:      NS5.DNS.NET.NZ 185.159.197.130 2620:10a:80aa:0:0:0:0:130
 nserver:      NS6.DNS.NET.NZ 185.159.198.130 2620:10a:80ab:0:0:0:0:130
 nserver:      NS7.DNS.NET.NZ 194.146.106.54 2001:67c:1010:13:0:0:0:53
-ds-rdata:     44171 8 1 7C642D99600C0EB12A1761D503966F829C62A587
-ds-rdata:     44171 8 2 9B8C5E51C9A8DD7254B54FA36B3A624A9EE84EB0BACABDF9DB059D82570CB1BD
 ds-rdata:     39119 8 1 c193af6b4e75927073e17adf55e18748b8649607
 ds-rdata:     39119 8 2 c4900f733c9ca25209c371ea2de2789230b0d9e7781d3984f99017afe4539c3f
 ds-rdata:     26894 8 2 8fa54cb5a460e39d4641d51d9bdd35634eace9c143a3399466a0abbac1f5a8c6
@@ -51,6 +49,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.dnc.org.nz/
 
 created:      1987-01-19
-changed:      2018-06-21
+changed:      2018-06-25
 source:       IANA
 
