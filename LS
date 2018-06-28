@@ -4,15 +4,18 @@
 
 domain:       LS
 
-organisation: National University of Lesotho
-address:      P.O. Roma 180
+organisation: Lesotho Network Information Centre Proprietary (LSNIC)
+address:      30 Princess Margaret Road
+address:      Old Europa
+address:      Maseru
 address:      Lesotho
 
 contact:      administrative
 name:         ICT Manager
-organisation: Lesotho Communications Authority
-address:      6th Floor, Moposo House, Kingsway Road
-address:      Maseru 100
+organisation: Lesotho Network Information Centre Proprietary (LSNIC)
+address:      30 Princess Margaret Road
+address:      Old Europa
+address:      Maseru
 address:      Lesotho
 phone:        +266 22224300
 fax-no:       +266 22310984
@@ -20,13 +23,10 @@ e-mail:       lsadmin@lca.org.ls
 
 contact:      technical
 name:         Mamothokoane Tlali
-organisation: Lesotho Network Information Centre
-address:      Lesotho Communications Authority
-address:      30 Princess margaret Road
+organisation: Lesotho Network Information Centre Proprietary (LSNIC)
+address:      30 Princess Margaret Road
 address:      Old Europa
-address:      P.O.Box 15896
-address:      Maseru 100
-address:      Lesotho
+address:      Maseru
 address:      Lesotho
 phone:        +266 22224300
 fax-no:       +266 2231 0984
@@ -44,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.ls
 
 created:      1993-01-13
-changed:      2017-03-31
+changed:      2018-06-27
 source:       IANA
 
