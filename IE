@@ -43,12 +43,12 @@ nserver:      G.NS.IE 192.111.39.100 2001:7c8:2:a:0:0:0:64
 nserver:      H.NS.IE 192.93.0.4 2001:660:3005:1:0:0:1:2
 ds-rdata:     25105 8 2 3883d06014fa40518a53c70442c3601a271c0f9631ea1426abe4148f83930732
 
-whois:        whois.domainregistry.ie
+whois:        whois.iedr.ie
 
 status:       ACTIVE
-remarks:      Registration information: http://www.domainregistry.ie
+remarks:      Registration information: http://www.iedr.ie
 
 created:      1988-01-27
-changed:      2014-12-15
+changed:      2018-06-28
 source:       IANA
 
