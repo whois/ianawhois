@@ -11,14 +11,13 @@ address:      Bejing, 100027
 address:      China
 
 contact:      administrative
-name:         Brand Marketing & Management
-organisation: Volkswagen (China) Investment Co., Ltd.
-address:      No. 3A, XiLiu Jie, Sanlitun Road
-address:      Bejing, 100028
-address:      China
-phone:        +86 10 6531 3000
-fax-no:       +86 10 8532 3232
-e-mail:       dotvcic@indeca.de
+name:         CEO
+organisation: INDECA GmbH
+address:      Etzelstrasse 1-25
+address:      Heilbronn, BW 74076
+address:      Germany
+phone:        +49 7131 7999 0
+e-mail:       dotvcic@domainexperten.de
 
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
@@ -44,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.xn--3oq18vl8pn36a
 
 created:      2016-07-21
-changed:      2017-09-19
+changed:      2018-06-29
 source:       IANA
 
