@@ -10,14 +10,13 @@ address:      85045 Ingolstadt, Bavaria
 address:      Germany
 
 contact:      administrative
-name:         Admin Audi
-organisation: Audi AG
-address:      Auto-Union-Strasse 1
-address:      85045 Ingolstadt, Bavaria
+name:         CEO
+organisation: INDECA GmbH
+address:      Etzelstrasse 1-25
+address:      Heilbronn, BW 74076
 address:      Germany
-phone:        +49 84189-0
-fax-no:       +49 84189-8436565
-e-mail:       dotaudi@indeca.de
+phone:        +49 7131 7999 0
+e-mail:       dotaudi@domainexperten.de
 
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
@@ -43,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.audi.com
 
 created:      2015-11-12
-changed:      2016-08-23
+changed:      2018-06-29
 source:       IANA
 
