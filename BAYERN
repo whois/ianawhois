@@ -10,13 +10,13 @@ address:      Munich
 address:      Germany
 
 contact:      administrative
-name:         Erik Hoang
+name:         Admin Contact
 organisation: Bayern Connect GmbH
 address:      Antonienstr. 3, 80802
 address:      Munich
 address:      Germany
-phone:        +353.14301689
-e-mail:       support@mm-registry.com
+phone:        +1-877-734-4783
+e-mail:       ops@mmx.co
 
 contact:      technical
 name:         TLD Registry Services Technical
@@ -46,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://mm-registry.com
 
 created:      2014-03-13
-changed:      2017-05-26
+changed:      2018-06-29
 source:       IANA
 
