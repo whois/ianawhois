@@ -10,14 +10,13 @@ address:      38436 Wolfsburg, Niedersachsen
 address:      Germany
 
 contact:      administrative
-name:         Admin Volkswagen
-organisation: Volkswagen AG
-address:      Berliner Ring 2
-address:      38436 Wolfsburg, Niedersachsen
+name:         CEO
+organisation: INDECA GmbH
+address:      Etzelstrasse 1-25
+address:      Heilbronn, BW 74076
 address:      Germany
-phone:        +49.536190
-fax-no:       +49.5361939607
-e-mail:       dotvw@indeca.de
+phone:        +49 7131 7999 0
+e-mail:       dotvw@domainexperten.de
 
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
@@ -43,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://volkswagen.com
 
 created:      2015-12-23
-changed:      2016-08-27
+changed:      2018-06-29
 source:       IANA
 
