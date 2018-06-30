@@ -21,10 +21,9 @@ e-mail:       alexeisozonov@rusnames.ru
 contact:      technical
 name:         GARTH MILLER
 organisation: CoCCA Registry Services (NZ) Limited (CoCCA)
-address:      11a Wynyard Street, Devonport, Auckland, New Zealand, 0624
+address:      11a Wynyard Street, Devonport, Auckland
 address:      New Zealand
 phone:        +64 9 446 6370
-fax-no:       +61 02 83 24 6336
 e-mail:       noc@cocca.org.nz
 
 nserver:      NS.COCCA.FR 185.17.236.93 2a03:dd40:3:0:0:0:0:93
@@ -39,6 +38,6 @@ status:       ACTIVE
 remarks:      Registration information: http://rusnames.ru/
 
 created:      2014-07-03
-changed:      2018-01-31
+changed:      2018-06-29
 source:       IANA
 
