@@ -9,12 +9,14 @@ address:      London & Partners, 6th Floor, 2 More London Riverside, London, SE1
 address:      United Kingdom
 
 contact:      administrative
-name:         Head of Technology
+name:         IT Systems Lead
 organisation: London & Partners
-address:      London & Partners, 6th Floor, 2 More London Riverside, London, SE1 2RR
+address:      6th Floor
+address:      2 More London Riverside
+address:      London, SE1 2RR
 address:      United Kingdom
-phone:        +44 (0)20 7234 5800
-e-mail:       contact@dotlondondomains.london
+phone:        +1-877-734-4783
+e-mail:       contact@domains.london
 
 contact:      technical
 name:         TLD Registry Services Technical
@@ -45,6 +47,6 @@ remarks:      Registration information:
 remarks:      http://www.dotlondondomains.london/
 
 created:      2014-02-13
-changed:      2017-06-01
+changed:      2018-06-29
 source:       IANA
 
