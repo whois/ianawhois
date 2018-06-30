@@ -29,7 +29,6 @@ e-mail:       iana@cocca.com.au
 
 nserver:      NS.ANYCAST.NIC.NF 2001:500:14:6051:ad:0:0:1 204.61.216.51
 nserver:      NS.COCCA.FR 185.17.236.93 2a03:dd40:3:0:0:0:0:93
-nserver:      NS.COCCAREGISTRY.ORG 185.17.236.111 2a03:dd40:3:0:0:0:0:111
 ds-rdata:     54236 8 2 DD87DD324E8360DEC8DAAF2DB771B8C52024D6CEFEB76F2B855E0FC3B8FDB7D7
 
 whois:        whois.nic.nf
@@ -38,6 +37,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.nf
 
 created:      1996-03-18
-changed:      2018-01-30
+changed:      2018-06-29
 source:       IANA
 
