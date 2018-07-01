@@ -27,7 +27,6 @@ phone:        +64 9 446 6370
 e-mail:       noc@cocca.org.nz
 
 nserver:      NS.COCCA.FR 185.17.236.93 2a03:dd40:3:0:0:0:0:93
-nserver:      NS.COCCAREGISTRY.ORG 185.17.236.111 2a03:dd40:3:0:0:0:0:111
 nserver:      TLD1.COCCAREGISTRY.NET 2620:0171:0a01:00ad:0:0:0:2 72.0.49.2
 nserver:      TLD1.COCCAREGISTRY.ORG 2620:0171:0d01:00dc:0:0:0:2 72.42.113.2
 ds-rdata:     11446 8 2 C39B9FB91B155CA7FF3F84BC7F7B7713E8D3B40AE9B7B0D9C3DE0FDC36FA325C
@@ -38,6 +37,6 @@ status:       ACTIVE
 remarks:      Registration information: http://rusnames.ru/
 
 created:      2014-07-03
-changed:      2018-06-29
+changed:      2018-06-30
 source:       IANA
 
