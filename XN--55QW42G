@@ -6,26 +6,32 @@ domain:       公益
 domain-ace:   XN--55QW42G
 
 organisation: China Organizational Name Administration Center
-address:      Jia 31, Guang Ximen Beili, Xibahe, Chaoyang District, Beijing, 100028
+address:      Beifa Mansion, Block D, Building 6, Compound 15
+address:      Xueyuan Nanlu, Haidian District
+address:      Beijing 100088
 address:      China
 
 contact:      administrative
-name:         Chief Executive Officer
+name:         Director of Department of International Affairs and Policy Analysis
 organisation: China Organizational Name Administration Center
-address:      Jia 31, Guangximen Beili, Xibahe, Chaoyang District, Beijing, China 100028
+address:      Beifa Mansion, Block D, Building 6, Compound 15
+address:      Xueyuan Nanlu, Haidian District
+address:      Beijing 100088
 address:      China
-phone:        +8610-5203 5263
-fax-no:       +8610-5203 5034
-e-mail:       conac-admin@conac.cn
+phone:        +8610-6900 1152
+fax-no:       +8610-6900 1153
+e-mail:       technical_cn@163.com
 
 contact:      technical
-name:         Director of New gTLD Lab
+name:         Director of Department of R&D
 organisation: China Organizational Name Administration Center
-address:      Jia 31, Guangximen Beili, Xibahe, Chaoyang District, Beijing, China 100028
+address:      Beifa Mansion, Block D, Building 6, Compound 15
+address:      Xueyuan Nanlu, Haidian District
+address:      Beijing 100088
 address:      China
-phone:        +8610-5203 5025
-fax-no:       +8610-5203 5034
-e-mail:       tech@conac.cn
+phone:        +8610-6900 1432
+fax-no:       +8610- 6900 1153
+e-mail:       technical_cn@163.com
 
 nserver:      NS1.CONAC.CN 111.235.161.1 2401:b400:1:0:0:0:0:1
 nserver:      NS2.CONAC.CN 111.235.162.1 2401:b400:8:0:0:0:0:1
@@ -40,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.conac.cn
 
 created:      2013-12-12
-changed:      2013-12-17
+changed:      2018-07-03
 source:       IANA
 
