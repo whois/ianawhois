@@ -22,13 +22,14 @@ fax-no:       +852 3972 2211
 e-mail:       jasondu@gmail.com
 
 contact:      technical
-name:         Sean Kaine
-organisation: Neustar, Inc.
-address:      46000 Center Oak Plaza, Sterling VA 20166
-address:      United States
-phone:        +1 571-434-5168 
-fax-no:       +1 571-434-5401
-e-mail:       registrytechnical1@neustar.biz
+name:         Jiagui Xie
+organisation: Teleinfo, Inc.
+address:      Building 21, 1 Gaolizhang Road, Haidian District
+address:      Beijing 10095
+address:      China
+phone:        +86.150 0138 5070
+fax-no:       +86.10 5884 6931
+e-mail:       xiejiagui@teleinfo.cn
 
 nserver:      NS1.TELEINFO.CN 103.61.60.1 2402:7d80:0:0:0:0:0:1
 nserver:      NS2.TELEINFOO.COM 103.61.61.1 2402:7d80:8888:0:0:0:0:1
@@ -44,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.stabletone.com
 
 created:      2015-03-12
-changed:      2018-05-31
+changed:      2018-07-02
 source:       IANA
 
