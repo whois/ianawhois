@@ -22,13 +22,14 @@ fax-no:       +91 07940503219
 e-mail:       ooocompliance@infibeam.net
 
 contact:      technical
-name:         Registry Customer Service
-organisation: Verisign, Inc
-address:      12061 Bluemont Way Reston Virginia 20190 United States (US)
-address:      United States
-phone:        +1-703-925-6999
-fax-no:       +1-703-948-3978
-e-mail:       info@verisign-grs.com
+name:         Chief Technology Officer
+organisation: CentralNic
+address:      35-39 Moorgate
+address:      London, EC2R 6AR
+address:      United Kingdom
+phone:        +44.2033880600 
+fax-no:       +44.2033880601 
+e-mail:       tld.ops@centralnic.com
 
 nserver:      A.NIC.OOO 194.169.218.33 2001:67c:13cc:0:0:0:1:33
 nserver:      B.NIC.OOO 185.24.64.33 2a04:2b00:13cc:0:0:0:1:33
@@ -44,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.infibeam.com
 
 created:      2014-07-31
-changed:      2018-02-23
+changed:      2018-07-05
 source:       IANA
 
