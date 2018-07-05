@@ -38,9 +38,9 @@ nserver:      DNS.NIC.BS 206.48.3.168
 nserver:      NS36.CDNS.NET 194.0.1.36 2001:678:4:0:0:0:0:24
 
 status:       ACTIVE
-remarks:      Registration information: http://www.cob.edu.bs/bsnic/
+remarks:      Registration information: http://www.register.bs
 
 created:      1991-09-03
-changed:      2016-09-15
+changed:      2018-07-05
 source:       IANA
 
