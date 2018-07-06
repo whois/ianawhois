@@ -34,7 +34,7 @@ e-mail:       bstech@cob.edu.bs
 
 nserver:      ANYNS.DNS.BS 204.61.216.68
 nserver:      ANYNS.PCH.NET 2001:500:14:6004:ad:0:0:1 204.61.216.4
-nserver:      DNS.NIC.BS 206.48.3.168
+nserver:      DNS.NIC.BS 65.75.73.213
 nserver:      NS36.CDNS.NET 194.0.1.36 2001:678:4:0:0:0:0:24
 
 status:       ACTIVE
