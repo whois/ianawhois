@@ -32,6 +32,8 @@ e-mail:       adam.king@auda.org.au
 
 nserver:      A.AU 2407:6e00:254:306:0:0:0:73 58.65.254.73
 nserver:      B.AU 2407:6e00:253:306:0:0:0:73 58.65.253.73
+nserver:      C.AU 162.159.24.179 2400:cb00:2049:1:0:0:a29f:18b3
+nserver:      D.AU 162.159.25.38 2400:cb00:2049:1:0:0:a29f:1926
 nserver:      Q.AU 2a01:8840:be:0:0:0:0:1 65.22.196.1
 nserver:      R.AU 2a01:8840:bf:0:0:0:0:1 65.22.197.1
 nserver:      S.AU 2a01:8840:c0:0:0:0:0:1 65.22.198.1
@@ -41,13 +43,13 @@ nserver:      V.AU 2001:dd8:12:0:0:0:0:53 202.12.31.53
 ds-rdata:     35197 8 1 DF3D2F347C04EAE8FFAD6EEA8BD52FD134088969
 ds-rdata:     35197 8 2 9EDA3EC27D09500AD52C510A86BCB1CD7C364444E3AB04B6EBB76378378A5C87
 
-whois:        whois.audns.net.au
+whois:        whois.auda.org.au
 
 status:       ACTIVE
 remarks:      Registration information:
-remarks:      http://www.auda.org.au/domains/au-domains/
+remarks:      https://www.auda.org.au/domains/au-domains/
 
 created:      1986-03-05
-changed:      2018-06-21
+changed:      2018-07-11
 source:       IANA
 
