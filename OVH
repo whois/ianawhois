@@ -34,6 +34,7 @@ nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
 nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
 ds-rdata:     4705 8 2 cc4575e3741879c344b3c77f4a92b8210a7c848495033fd954eefb83c2ab82ba
 ds-rdata:     44125 8 2 273d2d3952db90a56b49dcc8088d19f68e722e97eb839e5fbfe89917ffba479e
+ds-rdata:     25264 8 2 268A82BC274964D384B82B3F58501A40C84B5B5544A315EB956C273CEB7F3048
 
 whois:        whois-ovh.nic.fr
 
@@ -41,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.ovh.com
 
 created:      2014-05-01
-changed:      2016-12-06
+changed:      2018-07-11
 source:       IANA
 
