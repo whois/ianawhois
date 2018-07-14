@@ -33,8 +33,8 @@ e-mail:       pocfrogans@afnic.fr
 nserver:      D.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
 nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
 nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
-ds-rdata:     8152 8 2 28a56d69ea7f1d02a3a5452f5301c46341605c630dc0aa1b6b731d7b0517cee4
 ds-rdata:     10474 8 2 24E7C4016DDF988172A375FB491541050980B3905BA31CB72D8DEB7F51696DEB
+ds-rdata:     44230 8 2 50F935219610318D526521F0E31C70705B462BDE2C9FDBA142969B27207B3B7F
 
 whois:        whois-frogans.nic.fr
 
@@ -42,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.frogans/
 
 created:      2014-04-03
-changed:      2018-06-22
+changed:      2018-07-13
 source:       IANA
 
