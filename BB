@@ -21,12 +21,12 @@ address:      3rd Floor East
 address:      Warrens Complex
 address:      Warrens St. Michael BB12001
 address:      Barbados
-phone:        +1 246 310 2251
+phone:        +1 246 535 2502
 fax-no:       +1 246 620 0960
 e-mail:       reginald.bourne@telecoms.gov.bb
 
 contact:      technical
-name:         Mr. Winston Devonish, Senior Telecommunications Officer
+name:         Senior Telecommunications Officer
 organisation: Government of Barbados
 organisation: Ministry of Economic Affairs and Development
 organisation: Telecommunications Unit
@@ -34,18 +34,18 @@ address:      3rd Floor East
 address:      Warrens Complex
 address:      Warrens St. Michael BB12001
 address:      Barbados
-phone:        +1 246 310 2220
+phone:        +1 246 535 2570
 fax-no:       +1 246 620 0960
 e-mail:       winston.devonish@telecoms.gov.bb
 
 nserver:      NS1.BARBADOSDOMAIN.NET 200.50.92.195
-nserver:      NS2.BARBADOSDOMAIN.NET 204.212.242.113
+nserver:      NS2.BARBADOSDOMAIN.NET 64.119.204.139
 
 status:       ACTIVE
 remarks:      Registration information:
 remarks:      http://www.whois.telecoms.gov.bb/
 
 created:      1991-09-03
-changed:      2011-10-06
+changed:      2018-07-17
 source:       IANA
 
