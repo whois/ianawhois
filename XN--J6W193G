@@ -29,6 +29,7 @@ e-mail:       hk.tech@hkirc.hk
 
 nserver:      C.HKIRC.NET.HK 2001:dca:4000:0:0:0:cb77:2da 203.119.2.218
 nserver:      D.HKIRC.NET.HK 2001:dca:2000:0:0:0:cb77:57da 203.119.87.218
+nserver:      T.HKIRC.NET.HK 2001:dd8:12:0:0:0:0:53 202.12.31.53
 nserver:      U.HKIRC.NET.HK 210.201.138.58 2404:0:10a0:0:0:0:0:58
 nserver:      V.HKIRC.NET.HK 2001:500:14:6046:ad:0:0:1 204.61.216.46
 nserver:      W.HKIRC.NET.HK 2001:dc0:1:0:4777:0:0:140 202.12.28.140
@@ -44,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.hkirc.hk
 
 created:      2010-07-12
-changed:      2017-11-10
+changed:      2018-07-17
 source:       IANA
 
