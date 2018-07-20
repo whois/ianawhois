@@ -41,7 +41,7 @@ nserver:      C.TLD.LT 194.0.1.4 2001:678:4:0:0:0:0:4
 nserver:      D.TLD.LT 194.0.3.1 2001:678:6:0:0:0:0:1
 nserver:      E.TLD.LT 194.0.18.1
 nserver:      F.TLD.LT 194.0.19.1 2001:678:8c:0:0:0:0:1
-ds-rdata:     35365 8 2 d593e38a4cd1f00fdc48a7fc4dfbe23344efd1517e05b398e4d8a3e849f01c76
+ds-rdata:     51914 8 2 22363eb0900ecb4b34c041a952c7151ffc5b56439af354c954ca3a4ea818fbd8
 
 whois:        whois.domreg.lt
 
@@ -49,6 +49,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.domreg.lt
 
 created:      1992-06-03
-changed:      2016-09-30
+changed:      2018-07-19
 source:       IANA
 
