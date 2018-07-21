@@ -4,41 +4,12 @@
 
 domain:       XPERIA
 
-organisation: Sony Mobile Communications AB
-address:      Nya Vattentornet Lund - SE 221-88
-address:      Sweden
+whois:        
 
-contact:      administrative
-name:         Project Manager
-organisation: Sony Mobile Communications AB
-address:      Nya Vattentornet Lund - SE 221-88
-address:      Sweden
-phone:        +46 10 800 0000
-fax-no:       +46 10 800 0000
-e-mail:       ngtld-xperia@cscinfo.com
-
-contact:      technical
-name:         Registry Customer Service
-organisation: Verisign, Inc.
-address:      12061 Bluemont Way
-address:      Reston Virginia 20190
-address:      United States
-phone:        +1-703-925-6999
-fax-no:       +1-703-948-3978
-e-mail:       info@verisign-grs.com
-
-nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
-nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
-nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
-nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
-ds-rdata:     37065 8 2 2E012DA7D761DACE324A8FBD345D372A8507EC6392F6A1BDCBD2BBB061C412D5
-
-whois:        whois.nic.xperia
-
-status:       ACTIVE
-remarks:      Registration information: http://www.sonymobile.com
+status:       REMOVED
+remarks:      Registration information: 
 
 created:      2015-07-23
-changed:      2016-02-21
+changed:      2018-07-21
 source:       IANA
 
