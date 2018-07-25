@@ -36,7 +36,6 @@ e-mail:       dns@tld.sy
 nserver:      NS1.TLD.SY 82.137.200.85
 nserver:      PCH.ANYCAST.TLD.SY 2001:500:14:6071:ad:0:0:1 204.61.216.71
 nserver:      SY.CCTLD.AUTHDNS.RIPE.NET 193.0.9.113 2001:67c:e0:0:0:0:0:113
-ds-rdata:     5389 8 2 bda5ebba132a69f16af0ac54e75c67a11b767f3d7134ae19a8a916874fccbc0c
 
 whois:        whois.tld.sy
 
@@ -44,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://tld.sy
 
 created:      2011-02-05
-changed:      2018-02-13
+changed:      2018-07-25
 source:       IANA
 
