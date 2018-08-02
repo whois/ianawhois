@@ -29,10 +29,6 @@ phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
 e-mail:       ben@donuts.email
 
-nserver:      A.NIC.FAN 194.169.218.57 2001:67c:13cc:0:0:0:1:57
-nserver:      B.NIC.FAN 185.24.64.57 2a04:2b00:13cc:0:0:0:1:57
-nserver:      C.NIC.FAN 212.18.248.57 2a04:2b00:13ee:0:0:0:0:57
-nserver:      D.NIC.FAN 212.18.249.57 2a04:2b00:13ff:0:0:0:0:57
 nserver:      DEMAND.ALPHA.ARIDNS.NET.AU 2001:dcd:1:0:0:0:0:7 37.209.192.7
 nserver:      DEMAND.BETA.ARIDNS.NET.AU 2001:dcd:2:0:0:0:0:7 37.209.194.7
 nserver:      DEMAND.DELTA.ARIDNS.NET.AU 2001:dcd:4:0:0:0:0:7 37.209.198.7
@@ -48,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.fan/
 
 created:      2015-02-28
-changed:      2018-07-26
+changed:      2018-08-02
 source:       IANA
 
