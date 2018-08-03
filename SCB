@@ -30,7 +30,7 @@ nserver:      A.NIC.SCB 122.155.23.51 2001:c38:2000:183:0:0:0:17
 nserver:      B.NIC.SCB 2001:c00:4618:3000:0:0:0:17 203.159.64.51
 nserver:      C.NIC.SCB 194.0.1.35 2001:678:4:0:0:0:0:23
 nserver:      D.NIC.SCB 174.139.105.37 2607:f180:1a02:3:0:0:0:5
-ds-rdata:     9082 8 2 5B36D284183B1D222B65DBDA8D0F0EC172C50E200ED5FB2E2441EAF1214F8319
+ds-rdata:     20801 8 2 16BFF89DD2FAF9AC06221F6DE0E206ED57FEC2E29316779E30789D7E00A5BD2F
 
 whois:        whois.nic.scb
 
@@ -39,6 +39,6 @@ remarks:      Registration information:
 remarks:      http://www.scb.co.th/top-level-domain/index.html
 
 created:      2014-06-26
-changed:      2017-02-01
+changed:      2018-08-03
 source:       IANA
 
