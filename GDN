@@ -19,19 +19,19 @@ address:      Dubai Internet City,
 address:      P.O. Box 111230,
 address:      Dubai
 address:      United Arab Emirates
-phone:        +971505014748
-e-mail:       kausar@nic.gdn
+phone:        +14169980932
+e-mail:       kausar@gdnregistry.com
 
 contact:      technical
-name:         Lee Yen Chew
+name:         Muhammad Kausar Saleem
 organisation: GDN Registry FZ LLC
 address:      Building 14th, Office # 107
 address:      Dubai Internet City,
 address:      P.O. Box 111230,
 address:      Dubai
 address:      United Arab Emirates
-phone:        +60123938783
-e-mail:       lee@nic.gdn
+phone:        +14169980932
+e-mail:       kausar@gdnregistry.com
 
 nserver:      NS1.NIC.GDN 194.0.25.18 2001:678:20:0:0:0:0:18
 nserver:      NS3.NIC.GDN 194.0.26.11 2001:67c:10e0:0:0:0:0:11
@@ -45,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.gdn
 
 created:      2014-12-04
-changed:      2018-05-16
+changed:      2018-08-03
 source:       IANA
 
