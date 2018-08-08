@@ -9,13 +9,13 @@ address:      333 Continental Blvd., El Segundo, CA 90245 USA
 address:      United States
 
 contact:      administrative
-name:         Matt Solmon
+name:         Tom Lynch
 organisation: Mattel, Inc.
 address:      333 Continental Blvd., M1-1518, El Segundo, CA 90245 USA
 address:      United States
-phone:        +1 310-252-4220
+phone:        +1 310 252 3527
 fax-no:       +1 310-252-4991
-e-mail:       registrycontact@mattel.com
+e-mail:       proxyadm@mattel.com
 
 contact:      technical
 name:         Sean Kaine
@@ -41,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.mattel.com
 
 created:      2016-01-22
-changed:      2016-11-17
+changed:      2018-08-07
 source:       IANA
 
