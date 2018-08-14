@@ -12,7 +12,7 @@ address:      Honiara Honiara City Council
 address:      Solomon Islands
 
 contact:      administrative
-name:         Mr. Loyley Ngira, Chief Executive
+name:         Mr. Loyley Ngira
 organisation: Solomon Telekom Company Limited
 address:      Telekom Haus
 address:      Mendana Avenue
@@ -24,7 +24,7 @@ fax-no:       +677 23642
 e-mail:       loyley.ngira@telekom.com.sb
 
 contact:      technical
-name:         Mr. Andrew Rarumae
+name:         Mr. Royderitz Tati
 organisation: Solomon Telekom Company Limited
 address:      Telekom Haus
 address:      Mendana Avenue
@@ -33,7 +33,7 @@ address:      Honiara Honiara City Council
 address:      Solomon Islands
 phone:        +677 24832
 fax-no:       +677 38815
-e-mail:       andrew.rarumae@telekom.com.sb
+e-mail:       royderitz.tati@telekom.com.sb
 
 nserver:      NS.COCCA.FR 185.17.236.93 2a03:dd40:3:0:0:0:0:93
 nserver:      NS.COCCAREGISTRY.ORG 185.17.236.111 2a03:dd40:3:0:0:0:0:111
@@ -47,6 +47,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.net.sb/
 
 created:      1994-04-19
-changed:      2018-01-31
+changed:      2018-08-13
 source:       IANA
 
