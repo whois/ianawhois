@@ -4,43 +4,42 @@
 
 domain:       MM
 
-organisation: Ministry of Communications, Posts & Telegraphs
-address:      Office Building No. 2
-address:      Nay Pyi Taw  150111
+organisation: Ministry of Transport and Communications
+address:      Zayya Htar Ni Street
+address:      Nay Pyi Taw, Mandalay Division 150111
 address:      Myanmar
 
 contact:      administrative
-name:         U Zaw Min Oo
-organisation: Ministry of Communications, Posts & Telegraphs
-address:      Office Building No. 2
-address:      Nay Pyi Taw  150111
+name:         Mr. Myo Swe
+organisation: Posts and Telecommunications Department
+address:      Zayya Htar Ni Street
+address:      Nay Pyi Taw, Mandalay Division 150111
 address:      Myanmar
-phone:        +95 67 420351
-fax-no:       +95 67 420349
-e-mail:       zawminoo.zmo@mptmail.net.mm
+phone:        +95 67 407535
+fax-no:       +95 67 407227 
+e-mail:       mswe67@gmail.com
 
 contact:      technical
-name:         Daw Khin Swe Htay
-organisation: Ministry of Communications, Posts & Telegraphs
-address:      Overseas Communications Building,
-address:      Myanma Posts and Telecommunications,
-address:      Kabaraye Pagoda Road, Mayangone Township
-address:      Yangon  11061
+name:         Mr. Nay Lin
+organisation: Myanmar Posts and Telecommunications
+address:      Pyay Road
+address:      Yangon 11111
 address:      Myanmar
-phone:        +95 1 652372
-fax-no:       +95 1 662405
-e-mail:       kshtay@mpt.net.mm
+phone:        +95-1-511006
+fax-no:       +95-1-511008
+e-mail:       naylin@mptngw.net.mm
 
 nserver:      MM.CCTLD.AUTHDNS.RIPE.NET 193.0.9.96 2001:67c:e0:0:0:0:0:96
 nserver:      NS0.NIC.NET.MM 203.81.64.20
 nserver:      NS1.NIC.NET.MM 203.81.81.85
 nserver:      NS2.NIC.NET.MM 203.81.92.10
 ds-rdata:     14581 8 1 8B0ED592A997E801DAFADA2CD4CC31999BDA8782
+ds-rdata:     10294 8 1 31C1F0CFF7A6FE366A55E731855C78CF672E88CF
 
 status:       ACTIVE
 remarks:      Registration information: http://www.nic.mm/
 
 created:      1997-02-04
-changed:      2011-11-29
+changed:      2018-08-17
 source:       IANA
 
