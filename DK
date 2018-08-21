@@ -12,22 +12,22 @@ address:      Denmark
 contact:      administrative
 name:         DK Hostmaster Administrative Contact
 organisation: DK Hostmaster A/S
-address:      Kalvebod Brygge 45, 3rd Floor
-address:      Copenhagen V  DK-1560
+address:      Ørestads Boulevard 108, 11th floor
+address:      DK-2300 Copenhagen S
 address:      Denmark
-phone:        +45 33 64 60 60
-fax-no:       +45 33 64 60 66
-e-mail:       tld2015admin@dk-hostmaster.dk
+phone:        +45 3364 6060
+fax-no:       +45 3364 6066
+e-mail:       tld2018admin@dk-hostmaster.dk
 
 contact:      technical
 name:         DK Hostmaster Technical Contact
 organisation: DK Hostmaster A/S
-address:      Kalvebod Brygge 45, 3rd Floor
-address:      Copenhagen V  DK-1560
+address:      Ørestads Boulevard 108, 11th floor
+address:      DK-2300 Copenhagen S
 address:      Denmark
-phone:        +45 33 64 60 60
-fax-no:       +45 33 64 60 66
-e-mail:       tld2015tech@dk-hostmaster.dk
+phone:        +45 3364 6060
+fax-no:       +45 3364 6066
+e-mail:       tld2018tech@dk-hostmaster.dk
 
 nserver:      A.NIC.DK 212.88.78.122
 nserver:      B.NIC.DK 193.163.102.222 2a01:630:0:80:0:0:0:53
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.dk-hostmaster.dk/
 
 created:      1987-07-14
-changed:      2017-09-09
+changed:      2018-08-20
 source:       IANA
 
