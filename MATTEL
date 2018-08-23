@@ -18,13 +18,14 @@ fax-no:       +1 310-252-4991
 e-mail:       proxyadm@mattel.com
 
 contact:      technical
-name:         Sean Kaine
+name:         Director
 organisation: Neustar, Inc.
-address:      46000 Center Oak Plaza, Sterling VA 20166
+address:      21575 Ridgetop Circle
+address:      Sterling, VA 20166
 address:      United States
-phone:        +1 571-434-5168
+phone:        +1 844-677-2878
 fax-no:       +1 571-434-5401
-e-mail:       registrytechnical1@neustar.biz
+e-mail:       technical1@registry.neustar
 
 nserver:      NS1.DNS.NIC.MATTEL 156.154.144.109 2610:a1:1071:0:0:0:0:6d
 nserver:      NS2.DNS.NIC.MATTEL 156.154.145.109 2610:a1:1072:0:0:0:0:6d
@@ -41,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.mattel.com
 
 created:      2016-01-22
-changed:      2018-08-07
+changed:      2018-08-22
 source:       IANA
 
