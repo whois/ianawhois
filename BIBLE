@@ -20,13 +20,14 @@ fax-no:       +1 215-689-4308
 e-mail:       operations@nic.bible
 
 contact:      technical
-name:         Sean Kaine
+name:         Director
 organisation: Neustar, Inc.
-address:      46000 Center Oak Plaza, Sterling VA 20166
+address:      21575 Ridgetop Circle
+address:      Sterling, VA 20166
 address:      United States
-phone:        +1 571 434-5168
-fax-no:       +1 571 434-5401
-e-mail:       registrytechnical1@neustar.biz
+phone:        +1 844-677-2878
+fax-no:       +1 571-434-5401
+e-mail:       technical1@registry.neustar
 
 nserver:      NS1.DNS.NIC.BIBLE 156.154.169.100 2610:a1:1071:0:0:0:1:64
 nserver:      NS2.DNS.NIC.BIBLE 156.154.170.100 2610:a1:1072:0:0:0:1:64
@@ -45,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://get.bible
 
 created:      2015-05-14
-changed:      2017-07-03
+changed:      2018-08-22
 source:       IANA
 
