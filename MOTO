@@ -18,12 +18,14 @@ fax-no:       +1 202 830 0330
 e-mail:       moto-bjw@mayerbrown.com
 
 contact:      technical
-name:         Sean Kaine
+name:         Director
 organisation: Neustar, Inc.
-address:      46000 Center Oak Plaza, Sterling VA 20166
+address:      21575 Ridgetop Circle
+address:      Sterling, VA 20166
 address:      United States
-phone:        +1 571-434-5168
-e-mail:       registrytechnical1@neustar.biz
+phone:        +1 844-677-2878
+fax-no:       +1 571-434-5401
+e-mail:       technical1@registry.neustar
 
 nserver:      NS1.DNS.NIC.MOTO 156.154.169.81 2610:a1:1071:0:0:0:1:51
 nserver:      NS2.DNS.NIC.MOTO 156.154.170.81 2610:a1:1072:0:0:0:1:51
@@ -40,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.motorola.com
 
 created:      2016-09-30
-changed:      2016-12-05
+changed:      2018-08-22
 source:       IANA
 
