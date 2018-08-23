@@ -19,13 +19,14 @@ fax-no:       +1 206 946 7702
 e-mail:       point-rzm@amazon.com
 
 contact:      technical
-name:         Sean Kaine
+name:         Director
 organisation: Neustar, Inc.
-address:      46000 Center Oak Plaza, Sterling, VA  20166
+address:      21575 Ridgetop Circle
+address:      Sterling, VA 20166
 address:      United States
-phone:        +1-571-434-5168
-fax-no:       +1-571-434-5401
-e-mail:       registrytechnical1@neustar.biz
+phone:        +1 844-677-2878
+fax-no:       +1 571-434-5401
+e-mail:       technical1@registry.neustar
 
 nserver:      NS1.DNS.NIC.XN--ECKVDTC9D 156.154.169.66 2610:a1:1071:0:0:0:1:42
 nserver:      NS2.DNS.NIC.XN--ECKVDTC9D 156.154.170.66 2610:a1:1072:0:0:0:1:42
@@ -42,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.amazonregistry.com
 
 created:      2015-11-25
-changed:      2016-12-02
+changed:      2018-08-22
 source:       IANA
 
