@@ -21,13 +21,14 @@ fax-no:       +81 338953826
 e-mail:       chintai-registry@interlink.ad.jp
 
 contact:      technical
-name:         Sean Kaine
+name:         Director
 organisation: Neustar, Inc.
-address:      46000 Center Oak Plaza, Sterling VA 20166
+address:      21575 Ridgetop Circle
+address:      Sterling, VA 20166
 address:      United States
-phone:        +1 571-434-5168
+phone:        +1 844-677-2878
 fax-no:       +1 571-434-5401
-e-mail:       registrytechnical1@neustar.biz
+e-mail:       technical1@registry.neustar
 
 nserver:      NS1.DNS.NIC.CHINTAI 156.154.144.40 2610:a1:1071:0:0:0:0:28
 nserver:      NS2.DNS.NIC.CHINTAI 156.154.145.40 2610:a1:1072:0:0:0:0:28
@@ -46,6 +47,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.chintai
 
 created:      2016-03-03
-changed:      2016-11-10
+changed:      2018-08-22
 source:       IANA
 
