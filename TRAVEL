@@ -22,14 +22,14 @@ fax-no:       +1.425.671.0020
 e-mail:       serina@donuts.email
 
 contact:      technical
-name:         Sean Kaine
+name:         Director
 organisation: Neustar, Inc.
-address:      46000 Center Oak Plaza
-address:      Sterling Virginia 20166
+address:      21575 Ridgetop Circle
+address:      Sterling, VA 20166
 address:      United States
-phone:        +1 571-434-5168
+phone:        +1 844-677-2878
 fax-no:       +1 571-434-5401
-e-mail:       registrytechnical1@neustar.biz
+e-mail:       technical1@registry.neustar
 
 nserver:      A.GTLD.TRAVEL 156.154.100.1 2001:502:ad09:0:0:0:0:1
 nserver:      B.GTLD.TRAVEL 156.154.101.1 2610:a1:1009:0:0:0:0:1
@@ -48,6 +48,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.travel.travel/
 
 created:      2005-07-27
-changed:      2018-02-22
+changed:      2018-08-22
 source:       IANA
 
