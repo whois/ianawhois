@@ -18,13 +18,14 @@ fax-no:       +1 212 512 1986
 e-mail:       primary_hbo@valideus.com
 
 contact:      technical
-name:         Sean Kaine
+name:         Director
 organisation: Neustar, Inc.
-address:      46000 Center Oak Plaza, Sterling VA 20166
+address:      21575 Ridgetop Circle
+address:      Sterling, VA 20166
 address:      United States
-phone:        +1 571-434-5168
+phone:        +1 844-677-2878
 fax-no:       +1 571-434-5401
-e-mail:       registrytechnical1@neustar.biz
+e-mail:       technical1@registry.neustar
 
 nserver:      NS1.DNS.NIC.HBO 156.154.144.70 2610:a1:1071:0:0:0:0:46
 nserver:      NS2.DNS.NIC.HBO 156.154.145.70 2610:a1:1072:0:0:0:0:46
@@ -41,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.hbo.com
 
 created:      2016-07-08
-changed:      2016-11-18
+changed:      2018-08-22
 source:       IANA
 
