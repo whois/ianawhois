@@ -30,9 +30,10 @@ phone:        +33 672217740
 fax-no:       +33 139308301
 e-mail:       pocfrogans@afnic.fr
 
-nserver:      D.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
-nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
-nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
+nserver:      A0.NIC.FROGANS 2a01:8840:b6:0:0:0:0:1 65.22.188.1
+nserver:      A2.NIC.FROGANS 2a01:8840:b9:0:0:0:0:1 65.22.191.1
+nserver:      B0.NIC.FROGANS 2a01:8840:b7:0:0:0:0:1 65.22.189.1
+nserver:      C0.NIC.FROGANS 2a01:8840:b8:0:0:0:0:1 65.22.190.1
 ds-rdata:     10474 8 2 24E7C4016DDF988172A375FB491541050980B3905BA31CB72D8DEB7F51696DEB
 ds-rdata:     44230 8 2 50F935219610318D526521F0E31C70705B462BDE2C9FDBA142969B27207B3B7F
 
@@ -42,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.frogans/
 
 created:      2014-04-03
-changed:      2018-07-13
+changed:      2018-08-26
 source:       IANA
 
