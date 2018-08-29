@@ -4,29 +4,26 @@
 
 domain:       UZ
 
-organisation: Computerization and Information Technologies Developing Center
-organisation: UZINFOCOM
+organisation: Single Integrator for Creation and Support of State Information Systems UZINFOCOM
 address:      28-B
 address:      Navoi street
 address:      Tashkent  100011
 address:      Uzbekistan
 
 contact:      administrative
-name:         Eldar R. Ishimbaev
-organisation: Computerization and Information Technologies Developing Center
-organisation: UZINFOCOM
+name:         Emil I. Gimranov
+organisation: Single Integrator for Creation and Support of State Information Systems UZINFOCOM
 address:      28-B
 address:      Navoi street
 address:      Tashkent  100011
 address:      Uzbekistan
 phone:        +998 71 2384200
 fax-no:       +998 71 2384248
-e-mail:       e.ishimbaev@uzinfocom.uz
+e-mail:       e.gimranov@uzinfocom.uz
 
 contact:      technical
 name:         Dmitriy A. Muminov
-organisation: Computerization and Information Technologies Developing Center
-organisation: UZINFOCOM
+organisation: Single Integrator for Creation and Support of State Information Systems UZINFOCOM
 address:      28-B
 address:      Navoi street
 address:      Tashkent  100011
@@ -49,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.cctld.uz/
 
 created:      1995-04-29
-changed:      2017-02-03
+changed:      2018-08-28
 source:       IANA
 
