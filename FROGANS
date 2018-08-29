@@ -20,15 +20,14 @@ fax-no:       +33 153922846
 e-mail:       amaury.grimbert@op3ft.org
 
 contact:      technical
-name:         Project Manager
-organisation: AFNIC
-address:      1, rue Stephenson
-address:      Immeuble Stephenson
-address:      78180 Montigny-Le-Bretonneux
-address:      France
-phone:        +33 672217740
-fax-no:       +33 139308301
-e-mail:       pocfrogans@afnic.fr
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      300 Welsh Rd., Bldg. 3, Suite 105
+address:      Horsham, PA 19044
+address:      United States
+phone:        +1 215.706.5700
+fax-no:       +1 215.706.5701
+e-mail:       tld-tech-poc@afilias.info
 
 nserver:      A0.NIC.FROGANS 2a01:8840:b6:0:0:0:0:1 65.22.188.1
 nserver:      A2.NIC.FROGANS 2a01:8840:b9:0:0:0:0:1 65.22.191.1
@@ -37,12 +36,12 @@ nserver:      C0.NIC.FROGANS 2a01:8840:b8:0:0:0:0:1 65.22.190.1
 ds-rdata:     10474 8 2 24E7C4016DDF988172A375FB491541050980B3905BA31CB72D8DEB7F51696DEB
 ds-rdata:     44230 8 2 50F935219610318D526521F0E31C70705B462BDE2C9FDBA142969B27207B3B7F
 
-whois:        whois-frogans.nic.fr
+whois:        whois.nic.frogans
 
 status:       ACTIVE
 remarks:      Registration information: https://nic.frogans/
 
 created:      2014-04-03
-changed:      2018-08-26
+changed:      2018-08-28
 source:       IANA
 
