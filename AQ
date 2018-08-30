@@ -21,14 +21,13 @@ phone:        +64 21 279 4995
 e-mail:       info@icenic.aq
 
 contact:      technical
-name:         Peter Mott
-organisation: LocalCloud Limited
-address:      P O Box 105 271
-address:      Auckland City
-address:      Auckland 1143
+name:         Ewen McNeill
+organisation: Naos Limited
+address:      PO Box 5497
+address:      Wellington 6140
 address:      New Zealand
-phone:        +64 21 279 4995
-e-mail:       hostmaster@localcloud.co.nz
+phone:        +64 21 916 965
+e-mail:       hostmaster@naos.co.nz
 
 nserver:      A.AQ.DYNTLD.NET 162.88.52.6 2600:2000:3000:0:0:0:0:6
 nserver:      B.AQ.DYNTLD.NET 162.88.53.6 2600:2000:3001:0:0:0:0:6
@@ -39,6 +38,6 @@ nserver:      NS99.DNS.NET.NZ 2001:dce:2000:2:0:0:0:131 202.46.190.131
 status:       ACTIVE
 
 created:      1992-02-26
-changed:      2016-02-26
+changed:      2018-08-30
 source:       IANA
 
