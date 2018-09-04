@@ -9,13 +9,13 @@ address:      200 Vesey Street, New York, NY 10285
 address:      United States
 
 contact:      administrative
-name:         Director
+name:         Admin
 organisation: American Express Travel Related Services, Inc.
 address:      200 Vesey Street, New York, NY 10285
 address:      United States
 phone:        +1 212 640 2000
 fax-no:       +1 212 640 9212
-e-mail:       gtld@aexp.com
+e-mail:       ngtld-amex@cscglobal.com
 
 contact:      technical
 name:         Director
@@ -43,6 +43,6 @@ remarks:      Registration information:
 remarks:      https://www.americanexpress.com
 
 created:      2016-07-21
-changed:      2018-08-22
+changed:      2018-09-04
 source:       IANA
 
