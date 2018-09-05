@@ -36,7 +36,6 @@ nserver:      LS-NS.ANYCAST.PCH.NET 2001:500:14:6028:ad:0:0:1 204.61.216.28
 nserver:      NS-LS.AFRINIC.NET 196.216.168.70 2001:43f8:120:0:0:0:0:70
 nserver:      NS1.NIC.LS 196.43.249.1
 nserver:      NS2.NIC.LS 196.11.175.1
-nserver:      RAIN.PSG.COM 147.28.0.34 2001:418:1:0:0:0:0:34
 
 whois:        196.11.175.58
 
@@ -44,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.ls
 
 created:      1993-01-13
-changed:      2018-06-27
+changed:      2018-09-05
 source:       IANA
 
