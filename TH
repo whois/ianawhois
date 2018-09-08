@@ -37,8 +37,9 @@ nserver:      AMS.SNS-PB.ISC.ORG 199.6.1.30 2001:500:60:0:0:0:0:30
 nserver:      B.THAINS.CO.TH 2001:c00:4618:3000:0:0:0:30 203.159.64.64
 nserver:      C.THAINS.CO.TH 194.0.1.28 2001:678:4:0:0:0:0:1c
 nserver:      NS.THNIC.NET 202.28.0.1
+nserver:      P.THAINS.CO.TH 2001:500:14:6126:ad:0:0:1 204.61.216.126
 nserver:      SFBA.SNS-PB.ISC.ORG 149.20.64.3 2001:4f8:0:2:0:0:0:19
-ds-rdata:     31159 8 2 B93A04EDD2B7DA8726B08122B0D3FB52639EF801DCDBD10E75BA2DC86B1F6FB9
+ds-rdata:     19117 8 2 E26BF35F73234AC50C600632FC717AE491F4A8B4F662FB29234F5499ACFEBF64
 
 whois:        whois.thnic.co.th
 
@@ -46,6 +47,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.thnic.co.th
 
 created:      1988-09-07
-changed:      2017-10-16
+changed:      2018-09-07
 source:       IANA
 
