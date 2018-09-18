@@ -4,44 +4,10 @@
 
 domain:       PANERAI
 
-organisation: Richemont DNS Inc.
-address:      Hinterbergstrasse 22, Steinhausen, Geneva, CH, 6312
-address:      Switzerland
-
-contact:      administrative
-name:         Lorna Gradden
-organisation: Valideus Limited
-address:      2nd Floor, 28-30 Little Russell Street, London WC1A 2HN
-address:      United Kingdom
-phone:        + 44 2074217790
-fax-no:       + 44 8700118187
-e-mail:       lorna.gradden.ri@valideus.com
-
-contact:      technical
-name:         Director
-organisation: Neustar, Inc.
-address:      21575 Ridgetop Circle
-address:      Sterling, VA 20166
-address:      United States
-phone:        +1 844-677-2878
-fax-no:       +1 571-434-5401
-e-mail:       technical1@registry.neustar
-
-nserver:      NS1.DNS.NIC.PANERAI 156.154.144.132 2610:a1:1071:0:0:0:0:84
-nserver:      NS2.DNS.NIC.PANERAI 156.154.145.132 2610:a1:1072:0:0:0:0:84
-nserver:      NS3.DNS.NIC.PANERAI 156.154.159.132 2610:a1:1073:0:0:0:0:84
-nserver:      NS4.DNS.NIC.PANERAI 156.154.156.132 2610:a1:1074:0:0:0:0:84
-nserver:      NS5.DNS.NIC.PANERAI 156.154.157.132 2610:a1:1075:0:0:0:0:84
-nserver:      NS6.DNS.NIC.PANERAI 156.154.158.132 2610:a1:1076:0:0:0:0:84
-ds-rdata:     46187 8 1 B63789760142015156B01C9781309929EACAEB7E
-ds-rdata:     46187 8 2 9DBE929A63EFD1168D8D55732A7E90CBFC9357B9CE7CC7DA39F79342DF067915
-ds-rdata:     20569 8 1 F8F05BFFDFFAAF6FEFE2085A86FB0F2991702121
-ds-rdata:     20569 8 2 526D076DF6154A5C360C6B52B5F601F87FBBAF6BEA51433FE868FBFFFB757CBD
-
-status:       ACTIVE
-remarks:      Registration information: http://www.panerai.com
+status:       REMOVED
+remarks:      Registration information: 
 
 created:      2015-02-19
-changed:      2018-08-22
+changed:      2018-09-18
 source:       IANA
 
