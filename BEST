@@ -14,9 +14,8 @@ organisation: The Best SAS
 address:      295 Rue Du Professeur Paul Milliez
 address:      Champigny Sur Marne 94500
 address:      France
-phone:        +33.610828641
-fax-no:       +33.821915293
-e-mail:       cyril@premlead.com
+phone:        +1.310.6518061
+e-mail:       contact@dot.best
 
 contact:      technical
 name:         CEO
@@ -24,9 +23,8 @@ organisation: The Best SAS
 address:      295 Rue Du Professeur Paul Milliez
 address:      Champigny Sur Marne 94500
 address:      France
-phone:        +33.610828641
-fax-no:       +33.821915293
-e-mail:       cyril@premlead.com
+phone:        +1.310.6518061
+e-mail:       contact@dot.best
 
 nserver:      A.NIC.BEST 194.169.218.109 2001:67c:13cc:0:0:0:1:109
 nserver:      B.NIC.BEST 185.24.64.109 2a04:2b00:13cc:0:0:0:1:109
@@ -42,9 +40,9 @@ ds-rdata:     41279 8 1 851E9D6345C1644A71FF4402E818BBEF841971B2
 whois:        whois.nic.best
 
 status:       ACTIVE
-remarks:      Registration information: http://www.peoplebrowsr.com
+remarks:      Registration information: https://www.go.best
 
 created:      2014-02-20
-changed:      2018-09-10
+changed:      2018-09-20
 source:       IANA
 
