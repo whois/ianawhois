@@ -19,13 +19,14 @@ phone:        +44 (0)20 7991 0814
 e-mail:       kevinaudritt@hsbc.com
 
 contact:      technical
-name:         Sean Kaine
+name:         Director
 organisation: Neustar, Inc.
-address:      46000 Center Oak Plaza, Sterling VA 20166
+address:      21575 Ridgetop Circle
+address:      Sterling, VA 20166
 address:      United States
-phone:        +1 571 434 5168
-fax-no:       +1 571 434 5401
-e-mail:       registrytechnical1@neustar.biz
+phone:        +1 (844) 677-2878
+fax-no:       +1 (571) 434-5401
+e-mail:       technical1@registry.neustar
 
 nserver:      NS1.DNS.NIC.HSBC 156.154.144.76 2610:a1:1071:0:0:0:0:4c
 nserver:      NS2.DNS.NIC.HSBC 156.154.145.76 2610:a1:1072:0:0:0:0:4c
@@ -42,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.hsbc
 
 created:      2015-01-15
-changed:      2016-11-06
+changed:      2018-09-25
 source:       IANA
 
