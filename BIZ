@@ -11,15 +11,14 @@ address:      Sterling Virginia 20166
 address:      United States
 
 contact:      administrative
-name:         Sean Kaine
+name:         Director
 organisation: Neustar, Inc.
-address:      Loudoun Tech Center
-address:      46000 Center Oak Plaza
-address:      Sterling Virginia 20166
+address:      21575 Ridgetop Circle
+address:      Sterling, VA 20166
 address:      United States
-phone:        +1 571 434-5168
-fax-no:       +1 571 434-5401
-e-mail:       registrytechnical1@neustar.biz
+phone:        +1 (844) 677-2878
+fax-no:       +1 (571) 434-5401
+e-mail:       technical1@registry.neustar
 
 contact:      technical
 name:         Neustar Operations
@@ -49,6 +48,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.biz
 
 created:      2001-06-26
-changed:      2017-07-19
+changed:      2018-09-25
 source:       IANA
 
