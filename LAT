@@ -29,7 +29,6 @@ e-mail:       lat_tech@nic.mx
 nserver:      C.MX-NS.MX 192.100.224.1 2001:1258:0:0:0:0:0:1
 nserver:      M.MX-NS.MX 200.94.176.1 2001:13c7:7000:0:0:0:0:1
 nserver:      O.MX-NS.MX 200.23.1.1
-ds-rdata:     15445 8 2 8D5B62E6BF2A36B5FCFC9A15900A862402BD8E3369A70086D705B25FBF7C0FE3
 ds-rdata:     15620 8 2 523ACCC378D4F8F42B1952599AE9233B077788153FC4D684EEBE216B79BC310F
 
 whois:        whois.nic.lat
@@ -38,6 +37,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.puntolat.info
 
 created:      2014-12-04
-changed:      2018-09-11
+changed:      2018-09-28
 source:       IANA
 
