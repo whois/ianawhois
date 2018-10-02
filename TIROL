@@ -29,9 +29,6 @@ phone:        +43 662 234548 730
 fax-no:       +43 662 234548 29
 e-mail:       iana@tld-box.at
 
-nserver:      A.DNS.NIC.TIROL 194.0.25.20 2001:678:20:0:0:0:0:20
-nserver:      M.DNS.NIC.TIROL 194.0.26.9 2001:67c:10e0:0:0:0:0:9
-nserver:      N.DNS.NIC.TIROL 194.0.24.9 2001:678:24:0:0:0:0:9
 nserver:      NS1.RYCE-RSP.COM 2a01:190:15ec:a000:0:0:0:153 91.195.198.153
 nserver:      NSA.NETNOD.SE 194.58.192.33 2a01:3f1:33:0:0:0:0:53
 nserver:      NSP.NETNOD.SE 194.58.198.33 2a01:3f1:3033:0:0:0:0:53
@@ -46,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.tirol
 
 created:      2014-05-29
-changed:      2018-09-26
+changed:      2018-10-02
 source:       IANA
 
