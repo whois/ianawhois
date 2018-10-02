@@ -32,16 +32,14 @@ phone:        +233289518437
 fax-no:       +233302521696
 e-mail:       tevie@ghana.com
 
-nserver:      FORK.STH.DNSNODE.NET 2a01:3f0:0:306:0:0:0:53 77.72.229.254
 nserver:      NS.DNS.BR 200.160.0.5 2001:12ff:0:a20:0:0:0:5
 nserver:      NS1.NIC.GH 197.253.95.251
 nserver:      NS2.NIC.GH 197.253.127.251
-nserver:      RIP.PSG.COM 147.28.0.39 2001:418:1:0:0:0:0:39
 
 status:       ACTIVE
 remarks:      Registration information: http://www.nic.gh
 
 created:      1995-01-19
-changed:      2017-09-13
+changed:      2018-10-02
 source:       IANA
 
