@@ -10,14 +10,14 @@ address:      Stanley  FIQQ 1ZZ
 address:      Falkland Islands (malvinas)
 
 contact:      administrative
-name:         Head of Regulatory Services & Director of Civil Aviation
+name:         Communications Regulator
 organisation: Falkland Islands Government
-address:      Secretariat
+address:      Legal & Regulation Directorate
 address:      Stanley  FIQQ 1ZZ
-address:      Falkland Islands (malvinas)
-phone:        +500 27305
+address:      Falkland Islands (Malvinas)
+phone:        +500 28459
 fax-no:       +500 27306
-e-mail:       bwilks.civilaviation@sec.gov.fk
+e-mail:       regulator.telecoms@sec.gov.fk
 
 contact:      technical
 name:         IP Networks Manager
@@ -29,15 +29,13 @@ phone:        + 500 20800
 fax-no:       + 500 20890
 e-mail:       ipn.support@sure.co.fk
 
-nserver:      EURO-NS1.CW.NET 141.1.27.248
-nserver:      EURO-NS2.CW.NET 212.80.175.2
-nserver:      EURO-NS3.CW.NET 141.1.27.251
-nserver:      NS.HORIZON.NET.FK 195.248.193.250
+nserver:      NS1.HORIZON.NET.FK 195.248.193.250
+nserver:      NS2.HORIZON.NET.FK 195.248.193.251
 
 status:       ACTIVE
-remarks:      Registration information: http://www.fidc.co.fk/
+remarks:      Registration information: http://www.sure.co.fk
 
 created:      1997-03-26
-changed:      2014-09-10
+changed:      2018-10-06
 source:       IANA
 
