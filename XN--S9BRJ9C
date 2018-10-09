@@ -40,10 +40,12 @@ nserver:      C0.CCTLD.AFILIAS-NST.INFO 199.254.61.1 2001:500:27:0:0:0:0:1
 nserver:      D0.CCTLD.AFILIAS-NST.ORG 199.254.62.1 2001:500:28:0:0:0:0:1
 ds-rdata:     27634 7 1 5546f0c20da70fe4e46368886b93c429a9c45243
 ds-rdata:     27634 7 2 d51c760be4680a63afd5fc94434e07887cf531244a46fa5b4a9f4c8f1637cca4
+ds-rdata:     54546 7 1 d4af8a73df1a6506f6f7d15783d1d98d43b75095
+ds-rdata:     54546 7 2 b1f98709fc294bac70479901225dd01d063dcfbad7c616f027f174f797f260ff
 
 status:       ACTIVE
 
 created:      2011-02-05
-changed:      2016-08-13
+changed:      2018-10-09
 source:       IANA
 
