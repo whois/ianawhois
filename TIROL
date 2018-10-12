@@ -21,13 +21,13 @@ e-mail:       markus.kichl@nic.tirol
 
 contact:      technical
 name:         Technical Operations
-organisation: TLD-BOX  Registrydienstleistungen GmbH
-address:      Jakob-Haringer-Strasse 8/V
-address:      5020 Salzburg
+organisation: RyCE GmbH
+address:      Matznergasse 17
+address:      1140 Wien
 address:      Austria
-phone:        +43 662 234548 730
-fax-no:       +43 662 234548 29
-e-mail:       iana@tld-box.at
+phone:        +431981160
+fax-no:       +43198116111
+e-mail:       tech@dns.business
 
 nserver:      NS1.RYCE-RSP.COM 2a01:190:15ec:a000:0:0:0:153 91.195.198.153
 nserver:      NSA.NETNOD.SE 194.58.192.33 2a01:3f1:33:0:0:0:0:53
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.tirol
 
 created:      2014-05-29
-changed:      2018-10-02
+changed:      2018-10-12
 source:       IANA
 
