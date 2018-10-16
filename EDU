@@ -29,12 +29,19 @@ phone:        +1-703-925-6999
 fax-no:       +1-703-948-3978
 e-mail:       info@verisign-grs.com
 
-nserver:      A.EDU-SERVERS.NET 192.5.6.30
-nserver:      C.EDU-SERVERS.NET 192.26.92.30
-nserver:      D.EDU-SERVERS.NET 192.31.80.30
-nserver:      F.EDU-SERVERS.NET 192.35.51.30
-nserver:      G.EDU-SERVERS.NET 192.42.93.30 2001:503:cc2c:0:0:0:2:36
-nserver:      L.EDU-SERVERS.NET 192.41.162.30
+nserver:      A.EDU-SERVERS.NET 192.5.6.30 2001:503:a83e:0:0:0:2:30
+nserver:      B.EDU-SERVERS.NET 192.33.14.30 2001:503:231d:0:0:0:2:30
+nserver:      C.EDU-SERVERS.NET 192.26.92.30 2001:503:83eb:0:0:0:0:30
+nserver:      D.EDU-SERVERS.NET 192.31.80.30 2001:500:856e:0:0:0:0:30
+nserver:      E.EDU-SERVERS.NET 192.12.94.30 2001:502:1ca1:0:0:0:0:30
+nserver:      F.EDU-SERVERS.NET 192.35.51.30 2001:503:d414:0:0:0:0:30
+nserver:      G.EDU-SERVERS.NET 192.42.93.30 2001:503:eea3:0:0:0:0:30
+nserver:      H.EDU-SERVERS.NET 192.54.112.30 2001:502:8cc:0:0:0:0:30
+nserver:      I.EDU-SERVERS.NET 192.43.172.30 2001:503:39c1:0:0:0:0:30
+nserver:      J.EDU-SERVERS.NET 192.48.79.30 2001:502:7094:0:0:0:0:30
+nserver:      K.EDU-SERVERS.NET 192.52.178.30 2001:503:d2d:0:0:0:0:30
+nserver:      L.EDU-SERVERS.NET 192.41.162.30 2001:500:d937:0:0:0:0:30
+nserver:      M.EDU-SERVERS.NET 192.55.83.30 2001:501:b1f9:0:0:0:0:30
 ds-rdata:     28065 8 2 4172496CDE85534E51129040355BD04B1FCFEBAE996DFDDE652006F6F8B2CE76
 
 whois:        whois.educause.edu
@@ -44,6 +51,6 @@ remarks:      Registration information:
 remarks:      http://www.educause.edu/edudomain
 
 created:      1985-01-01
-changed:      2014-06-18
+changed:      2018-10-16
 source:       IANA
 
