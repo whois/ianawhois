@@ -31,7 +31,7 @@ nserver:      B.DNS.RIPN.NET 194.85.252.62 2001:678:16:0:194:85:252:62
 nserver:      D.DNS.RIPN.NET 194.190.124.17 2001:678:18:0:194:190:124:17
 nserver:      E.DNS.RIPN.NET 193.232.142.17 2001:678:15:0:193:232:142:17
 nserver:      F.DNS.RIPN.NET 193.232.156.17 2001:678:14:0:193:232:156:17
-ds-rdata:     26026 8 2 1B393FBD119F05D62AE510547B252E117923109BA49CA5BEBF6E5221A4D8EA52
+ds-rdata:     63647 8 2 9BCA5D7E90E0E215DC3B208CFABAC0A72F56A008F5A38B11CBA8E92F85E3718E
 
 whois:        whois.nic.tatar
 
@@ -39,6 +39,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.dottatar.ru
 
 created:      2014-07-03
-changed:      2018-05-24
+changed:      2018-10-16
 source:       IANA
 
