@@ -38,7 +38,6 @@ e-mail:       registry@agitsys.com
 nserver:      A.NS.NIC.PARS 2620:0171:0a01:00ad:0:0:0:5 72.0.49.5
 nserver:      B.NS.NIC.PARS 2620:0171:0d01:00dc:0:0:0:5 72.42.113.5
 nserver:      NS.COCCA.FR 185.17.236.93 2a03:dd40:3:0:0:0:0:93
-nserver:      NS.COCCAREGISTRY.ORG 185.17.236.111 2a03:dd40:3:0:0:0:0:111
 ds-rdata:     2911 8 2 BD1468967B866D21C106F1A2B92906604380E7787BE97AC2855219DDE2CD2285
 
 whois:        whois.agitsys.net
@@ -47,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://agitsys.com
 
 created:      2015-11-25
-changed:      2018-01-30
+changed:      2018-10-16
 source:       IANA
 
