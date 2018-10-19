@@ -5,8 +5,8 @@
 domain:       SK
 
 organisation: SK-NIC, a.s.
-address:      Borska 6
-address:      Bratislava  84104
+address:      Namestie SNP 14
+address:      Bratislava  81106
 address:      Slovakia
 
 contact:      administrative
@@ -21,8 +21,8 @@ e-mail:       gac@vicepremier.gov.sk
 contact:      technical
 name:         Technical Director
 organisation: SK-NIC, a.s.
-address:      Borska 6
-address:      Bratislava  84104
+address:      Namestie SNP 14
+address:      Bratislava  81106
 address:      Slovakia
 phone:        +421 2 350 350 30
 fax-no:       +421 2 350 350 39
@@ -42,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.sk-nic.sk
 
 created:      1993-03-29
-changed:      2018-05-24
+changed:      2018-10-19
 source:       IANA
 
