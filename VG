@@ -29,8 +29,12 @@ phone:        +49 6894 9396250
 fax-no:       +49 6894 9396251
 e-mail:       support@ksregistry.net
 
+nserver:      A.NIC.VG 194.169.218.104 2001:67c:13cc:0:0:0:1:104
 nserver:      A.VG.DYNTLD.NET 162.88.52.1 2600:2000:3000:0:0:0:0:1
+nserver:      B.NIC.VG 185.24.64.104 2a04:2b00:13cc:0:0:0:1:104
 nserver:      B.VG.DYNTLD.NET 162.88.53.1 2600:2000:3001:0:0:0:0:1
+nserver:      C.NIC.VG 212.18.248.104 2a04:2b00:13ee:0:0:0:0:104
+nserver:      D.NIC.VG 212.18.249.104 2a04:2b00:13ff:0:0:0:0:104
 nserver:      VG-NS.ANYCAST.PCH.NET 2001:500:14:6084:ad:0:0:1 204.61.216.84
 
 whois:        whois.nic.vg
@@ -39,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.vg
 
 created:      1997-02-20
-changed:      2017-06-09
+changed:      2018-10-24
 source:       IANA
 
