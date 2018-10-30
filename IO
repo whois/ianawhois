@@ -5,15 +5,19 @@
 domain:       IO
 
 organisation: IO Top Level Domain Registry
-organisation: Cable and Wireless
+address:      c/o Sure (Diego Garcia) Limited
 address:      Diego Garcia
+address:      British Indian Ocean Territories, PSC 466 Box 59
+address:      FPO-AP 96595-0059
 address:      British Indian Ocean Territory
 
 contact:      administrative
 name:         Internet Administrator
 organisation: IO Top Level Domain Registry
-organisation: Cable and Wireless
+address:      c/o Sure (Diego Garcia) Limited
 address:      Diego Garcia
+address:      British Indian Ocean Territories, PSC 466 Box 59
+address:      FPO-AP 96595-0059
 address:      British Indian Ocean Territory
 phone:        +246 9398
 fax-no:       +246 9398
@@ -21,11 +25,14 @@ e-mail:       administrator@nic.io
 
 contact:      technical
 name:         Administrator
-organisation: ICB Plc.
-address:      9 Queens Road
-address:      Bournemouth Dorset BH2 6BA
+organisation: Internet Computer Bureau Ltd
+address:      Greytown House, 221-227 High Street
+address:      Orpington
+address:      Kent
+address:      BR6 0NZ
 address:      United Kingdom
-fax-no:       +44 1225 580 550
+phone:        +44 (0)1689 827505
+fax-no:       +44 (0)1689 831478
 e-mail:       admin@icb.co.uk
 
 nserver:      A0.NIC.IO 2a01:8840:9e:0:0:0:0:17 65.22.160.17
@@ -44,6 +51,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.io/
 
 created:      1997-09-16
-changed:      2017-10-21
+changed:      2018-10-30
 source:       IANA
 
