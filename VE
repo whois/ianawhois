@@ -30,7 +30,7 @@ fax-no:       +58 212 9090329
 e-mail:       soportenicve@conatel.gob.ve
 
 nserver:      AZMODAN.ULA.VE 150.185.130.16
-nserver:      NS-EXT.NIC.CL 200.1.123.14
+nserver:      NS-EXT.NIC.CL 200.1.123.14 2001:1398:1:0:200:1:123:14
 nserver:      NS1.NIC.VE 150.188.228.4 2001:1338:0:0:0:0:0:2
 nserver:      NS2.NIC.VE 150.188.228.5 2001:1338:0:0:0:0:0:3
 nserver:      NS3.NIC.VE 190.9.129.56
