@@ -36,7 +36,7 @@ fax-no:       +507 560 3148
 e-mail:       francela.ching@utp.ac.pa
 
 nserver:      DNS.NIC.CR 200.107.82.100 2001:13c7:7004:1:0:0:0:d100
-nserver:      NS-EXT.NIC.CL 200.1.123.14
+nserver:      NS-EXT.NIC.CL 200.1.123.14 2001:1398:1:0:200:1:123:14
 nserver:      NS.DNS.BR 200.160.0.5 2001:12ff:0:a20:0:0:0:5
 nserver:      NS.NIC.PA 168.77.8.4
 nserver:      NS.PA 168.77.8.2
