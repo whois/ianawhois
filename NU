@@ -35,7 +35,7 @@ nserver:      C.NS.NU 192.36.144.107 2a01:3f0:0:301:0:0:0:53
 nserver:      D.NS.NU 2001:67c:124c:e000:0:0:0:4 213.108.25.4
 nserver:      Y.NS.NU 185.159.197.150 2620:10a:80aa:0:0:0:0:150
 nserver:      Z.NS.NU 185.159.198.150 2620:10a:80ab:0:0:0:0:150
-ds-rdata:     3453 7 2 270aad4fb6bc3af95cb66b2f9c61f615d4510c5702b54899c26ee2e37dbca6d8
+ds-rdata:     41209 13 2 46159142140bbf89ecb41e202f88da8c7d8a51b584aa5ea4a28ceaaaf9091185
 
 whois:        whois.iis.nu
 
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.iis.se
 
 created:      1997-06-20
-changed:      2018-04-16
+changed:      2018-10-30
 source:       IANA
 
