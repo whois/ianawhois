@@ -9,13 +9,14 @@ address:      170 West Tasman Drive San Jose, CA 95134 USA
 address:      United States
 
 contact:      administrative
-name:         Joshua Bourne
-organisation: FairWinds Partners, LLC
-address:      170 West Tasman Drive San Jose, CA 95134 USA
+name:         Manager, Domain Services
+organisation: MarkMonitor Inc.
+address:      3540 East Longwing Lane, Suite 300
+address:      Meridian, ID 83646
 address:      United States
-phone:        +1 202 223 9252
-fax-no:       +1 202 223 9256
-e-mail:       bourne.ci@fairwindspartners.com
+phone:        +1 208 389 5740
+fax-no:       +1 208 389 5771
+e-mail:       dotcisco@markmonitor.com
 
 contact:      technical
 name:         Director
@@ -42,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.cisco.com
 
 created:      2015-04-16
-changed:      2018-08-22
+changed:      2018-11-05
 source:       IANA
 
