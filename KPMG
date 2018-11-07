@@ -9,14 +9,14 @@ address:      Laan van Langerhuize 1, 1186 DS Amstelveen, Netherlands
 address:      Netherlands
 
 contact:      administrative
-name:         Nelly Radfar
-organisation: KPMG International
-address:      KPMG Global Resource Centre
-address:      333 Bay Street, Suite 4600
-address:      Toronto, Ontario M5H 2S5
-address:      Canada
-phone:        +1 647 777 5227
-e-mail:       nradfar@kpmg.ca
+name:         KPMG Domain Admin
+organisation: KPMG International Cooperative
+address:      Laan van Langerhuize 1
+address:      Amstelveen
+address:      1186 DS
+address:      Netherlands
+phone:        +31 20 656 6700
+e-mail:       domainadmin@kpmg.com
 
 contact:      technical
 name:         Director
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: https://home.kpmg.com
 
 created:      2016-01-14
-changed:      2018-08-22
+changed:      2018-11-07
 source:       IANA
 
