@@ -5,7 +5,7 @@
 domain:       POHL
 
 organisation: Deutsche Vermögensberatung Aktiengesellschaft DVAG
-address:      Münchener Strasse 1
+address:      Wilhelm-Leuschner-Straße 24
 address:      Hessen
 address:      60329 Frankfurt am Main
 address:      Germany
@@ -13,7 +13,7 @@ address:      Germany
 contact:      administrative
 name:         Director, Digital Media
 organisation: Deutsche Vermögensberatung Aktiengesellschaft DVAG
-address:      Münchener Strasse 1
+address:      Wilhelm-Leuschner-Straße 24
 address:      Hessen
 address:      60329 Frankfurt am Main
 address:      Germany
@@ -44,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.dvag-registry.de
 
 created:      2014-09-18
-changed:      2018-01-31
+changed:      2018-11-06
 source:       IANA
 
