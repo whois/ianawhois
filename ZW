@@ -36,13 +36,14 @@ fax-no:       +263 4 708981
 e-mail:       support@telone.co.zw
 
 nserver:      NS1.LIQUIDTELECOM.NET 2c0f:fe40:0:0:5:11:11:1 5.11.11.1
-nserver:      NS1.TELONE.CO.ZW 194.133.122.47
+nserver:      NS1.TELONE.CO.ZW 194.133.122.47 2c0f:f758:0:13:0:0:0:47
 nserver:      NS2.LIQUIDTELECOM.NET 2c0f:fe40:0:0:5:11:11:10 5.11.11.10
-nserver:      NS2.TELONE.CO.ZW 194.133.122.42
+nserver:      NS2.TELONE.CO.ZW 194.133.122.42 2c0f:f758:0:13:0:0:0:42
+nserver:      ZW-NS.ANYCAST.PCH.NET 2001:500:14:6128:ad:0:0:1 204.61.216.128
 
 status:       ACTIVE
 
 created:      1991-11-06
-changed:      2017-12-19
+changed:      2018-11-07
 source:       IANA
 
