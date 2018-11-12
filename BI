@@ -10,7 +10,7 @@ address:      Bujumbura  BP 2270
 address:      Burundi
 
 contact:      administrative
-name:         Victor Ciza
+name:         CNI
 organisation: Centre National de l'Informatique
 address:      157 Chee P. L. Rwagasore
 address:      Bujumbura  BP 2270
@@ -19,7 +19,7 @@ phone:        +257 22 22 5005
 e-mail:       admin@nic.bi
 
 contact:      technical
-name:         Felix Ndayirukiye
+name:         CNI
 organisation: Centre National de l'Informatique
 address:      157 Chee P. L. Rwagasore
 address:      Bujumbura  BP 2270
@@ -39,6 +39,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.bi
 
 created:      1996-10-21
-changed:      2016-11-08
+changed:      2018-11-12
 source:       IANA
 
