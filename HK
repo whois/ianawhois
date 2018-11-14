@@ -35,8 +35,8 @@ nserver:      W.HKIRC.NET.HK 2001:dc0:1:0:4777:0:0:140 202.12.28.140
 nserver:      X.HKIRC.NET.HK 202.45.188.39 2405:3001:1:3a:0:0:0:27
 nserver:      Y.HKIRC.NET.HK 137.189.6.21 2405:3000:3:6:0:0:0:15
 nserver:      Z.HKIRC.NET.HK 194.146.106.70 2001:67c:1010:17:0:0:0:53
-ds-rdata:     54722 8 1 72baa2a35a629457e16ecc2b9c572e4eca0638b1
-ds-rdata:     54722 8 2 c6b4f5d2d939415b429262a54f3b2c3d6cbcf8e14bd3f26f1bea96dce9d3633e
+ds-rdata:     53242 8 2 872f269df7adf721cedfddf2204b1a98ae155a16edf7cc6f4a7478b704e4c563
+ds-rdata:     53242 8 1 41968bd704ea60b99aad8615c4fae75f68a98847
 
 whois:        whois.hkirc.hk
 
@@ -44,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.hkirc.hk
 
 created:      1990-01-03
-changed:      2018-07-18
+changed:      2018-11-14
 source:       IANA
 
