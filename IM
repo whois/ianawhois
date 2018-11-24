@@ -33,7 +33,7 @@ e-mail:       padcock@domicilium.com
 nserver:      BARNEY.ADVSYS.CO.UK 217.23.160.50
 nserver:      HOPPY.IOM.COM 217.23.163.140
 nserver:      NS4.JA.NET 193.62.157.66 2001:630:0:47:0:0:0:42
-nserver:      PEBBLES.IOM.COM 80.168.83.242
+nserver:      PEBBLES.IOM.COM 83.218.14.53
 
 whois:        whois.nic.im
 
@@ -41,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.im
 
 created:      1996-09-11
-changed:      2010-01-07
+changed:      2018-11-24
 source:       IANA
 
