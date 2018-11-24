@@ -37,7 +37,7 @@ nserver:      E.NIC.LI 194.0.17.1 2001:678:3:0:0:0:0:1
 nserver:      F.NIC.LI 194.146.106.14 2001:67c:1010:3:0:0:0:53
 nserver:      G.NIC.LI 194.0.1.40 2001:678:4:0:0:0:0:28
 nserver:      H.NIC.LI 2a03:bd80:36:0:0:1:203:230 85.119.5.230
-ds-rdata:     13066 8 2 BAF289902CF37AE48AEB2231596385A7CC3C65ACAA8E5FE9E5294E0C488D5B12
+ds-rdata:     43587 13 2 B14D4CF3551DB52CF024E85CECA6AC7D0D78356E95C67AA6CD75257D1CAB268F
 
 whois:        whois.nic.li
 
@@ -45,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.li
 
 created:      1993-02-26
-changed:      2017-11-30
+changed:      2018-11-24
 source:       IANA
 
