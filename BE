@@ -39,6 +39,8 @@ ds-rdata:     12664 8 1 59462E9CB5520A36DD248D9DDC4EAA44672A5ED1
 ds-rdata:     12664 8 2 75141E9B1188A95A7A855BF47E278A742A5E3F2DDEED8E995D749D48F2F0E72D
 ds-rdata:     16684 8 1 8bd0806315e077b56d3d0e235727f31d8cb9bf3c
 ds-rdata:     16684 8 2 7ef0a483a7a96fcecf3d9067828baf7f3df22c3276671c2e88aa4636fd259f34
+ds-rdata:     52756 8 1 6047D5E44427530D6BE989ED58CAFC9A881F2810
+ds-rdata:     52756 8 2 5485AC33DD7C7ED237EA2A4BD269731C816960FE181042024484B5CECA6ECC9F
 
 whois:        whois.dns.be
 
@@ -46,6 +48,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.dnsbelgium.be
 
 created:      1988-08-05
-changed:      2017-02-08
+changed:      2018-12-03
 source:       IANA
 
