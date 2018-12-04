@@ -33,7 +33,7 @@ phone:        +65 6659 2534
 fax-no:       +65 6659 2532
 e-mail:       dna@sgnic.sg
 
-nserver:      DSANY.SGNIC.SG 194.0.11.106 2001:678:e:106:0:0:0:53
+nserver:      DSANY.SGNIC.SG 120.29.253.11 2001:dcd:7:0:0:0:0:11
 nserver:      DSANY2.SGNIC.SG 185.159.197.170 2620:10a:80aa:0:0:0:0:170
 nserver:      DSANY3.SGNIC.SG 185.159.198.170 2620:10a:80ab:0:0:0:0:170
 nserver:      NS2.CUHK.EDU.HK 137.189.6.21 2405:3000:3:6:0:0:0:15
