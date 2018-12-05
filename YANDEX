@@ -11,15 +11,15 @@ address:      RU
 address:      Russian Federation
 
 contact:      administrative
-name:         Tatiana Bakharevskaya
+name:         Anton Karpov
 organisation: YANDEX, LLC.
 address:      16, Leo Tolstoy Street,
 address:      Moscow 119021,
 address:      RU
 address:      Russian Federation
-phone:        +7 (495) 739-7000, ext 7101
+phone:        +7 (495) 739-7000, ext 2910
 fax-no:       +7 495 739-7070
-e-mail:       tvt@yandex-team.ru
+e-mail:       hostmaster@yandex.net
 
 contact:      technical
 name:         Director
@@ -46,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.yandex.ru/
 
 created:      2014-07-10
-changed:      2018-08-22
+changed:      2018-12-04
 source:       IANA
 
