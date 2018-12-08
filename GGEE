@@ -30,7 +30,7 @@ nserver:      A.GMOREGISTRY.NET 2001:dcd:1:0:0:0:0:4 37.209.192.4
 nserver:      B.GMOREGISTRY.NET 2001:dcd:2:0:0:0:0:4 37.209.194.4
 nserver:      K.GMOREGISTRY.NET 37.209.196.4
 nserver:      L.GMOREGISTRY.NET 2001:dcd:4:0:0:0:0:4 37.209.198.4
-ds-rdata:     65269 8 2 860303bc0ab13917a522d65c8381f985b3f6c4e6c3f73a560bb0f5c06a3351dc
+ds-rdata:     17114 8 2 7dec1dec83bd00f9a21e6986268dd6e116926832a3b9a9b214cdcf291dc34291
 
 whois:        whois.nic.ggee
 
@@ -38,6 +38,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.ggee
 
 created:      2014-12-18
-changed:      2017-11-18
+changed:      2018-12-08
 source:       IANA
 
