@@ -30,7 +30,7 @@ nserver:      A.GMOREGISTRY.NET 2001:dcd:1:0:0:0:0:4 37.209.192.4
 nserver:      B.GMOREGISTRY.NET 2001:dcd:2:0:0:0:0:4 37.209.194.4
 nserver:      K.GMOREGISTRY.NET 37.209.196.4
 nserver:      L.GMOREGISTRY.NET 2001:dcd:4:0:0:0:0:4 37.209.198.4
-ds-rdata:     21164 8 2 a633fafae581cdde7d13594128215a0b096e5af9d970066198679b284ed89129
+ds-rdata:     53452 8 2 b13d38a7be454b91651d93eb673575f0d03c46b5832abdd9e405e1011aa92b5f
 
 whois:        whois.nic.goldpoint
 
@@ -38,6 +38,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.goldpoint
 
 created:      2015-02-13
-changed:      2017-10-20
+changed:      2018-12-08
 source:       IANA
 
