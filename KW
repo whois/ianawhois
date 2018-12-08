@@ -29,16 +29,18 @@ phone:        +965.1807060
 fax-no:       +965.22257060
 e-mail:       nic.tech@citra.gov.kw
 
-nserver:      A.KW.NIC.KW 199.19.5.25 2001:500:92:0:0:0:0:25
-nserver:      B.KW.NIC.KW 199.19.6.25 2001:500:96:0:0:0:0:25
+nserver:      A.NIC.KW 51.141.6.252
+nserver:      B.NIC.KW 23.97.177.111
+nserver:      C.NIC.KW 162.88.160.51 2600:2003:1100:1000:0:0:0:15
+nserver:      D.NIC.KW 162.88.128.51 2600:2001:1100:1000:0:0:0:15
+nserver:      NS4.APNIC.NET 2001:dd8:12:0:0:0:0:53 202.12.31.53
 nserver:      PCH.NIC.KW 2001:500:14:6118:ad:0:0:1 204.61.216.118
-nserver:      SEC1.APNIC.NET 2001:dc0:2001:a:4608:0:0:59 202.12.29.59
 nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e:0:0:0:0:1
 
 status:       ACTIVE
 remarks:      Registration information: http://www.nic.kw
 
 created:      1992-10-26
-changed:      2017-10-18
+changed:      2018-12-08
 source:       IANA
 
