@@ -32,7 +32,7 @@ nserver:      A.GMOREGISTRY.NET 2001:dcd:1:0:0:0:0:4 37.209.192.4
 nserver:      B.GMOREGISTRY.NET 2001:dcd:2:0:0:0:0:4 37.209.194.4
 nserver:      K.GMOREGISTRY.NET 37.209.196.4
 nserver:      L.GMOREGISTRY.NET 2001:dcd:4:0:0:0:0:4 37.209.198.4
-ds-rdata:     5755 8 2 eed43bee33f933d744bb6e4c726970dd84c27a94961ae41ce2bfa1aa9b1662c3
+ds-rdata:     28484 8 2 ba7cffd3b3369455466dc28582534a6c963a1750632321da487554028bd81231
 
 whois:        whois.nic.gmo
 
@@ -40,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.gmoregistry.com/en/
 
 created:      2016-06-24
-changed:      2017-11-18
+changed:      2018-12-10
 source:       IANA
 
