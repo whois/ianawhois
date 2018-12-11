@@ -35,7 +35,7 @@ nserver:      F.ZDNSCLOUD.COM 114.67.46.12
 nserver:      G.ZDNSCLOUD.COM 42.62.2.16
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
-ds-rdata:     22382 8 2 1a7ee4183127659e99ba328ca3adbe0a8d733b012209f4882164a654d1e07123
+ds-rdata:     57266 8 2 a3c057a22744eb0ff0518d51e55b1271dab9d39391b55edc98443b22882b1c0c
 
 whois:        whois.registry.knet.cn
 
@@ -44,6 +44,6 @@ remarks:      Registration information:
 remarks:      http://www.knet.cn/domain/wagnzhi/
 
 created:      2014-03-13
-changed:      2018-06-22
+changed:      2018-12-11
 source:       IANA
 
