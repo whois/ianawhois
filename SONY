@@ -34,7 +34,7 @@ nserver:      A.GMOREGISTRY.NET 2001:dcd:1:0:0:0:0:4 37.209.192.4
 nserver:      B.GMOREGISTRY.NET 2001:dcd:2:0:0:0:0:4 37.209.194.4
 nserver:      K.GMOREGISTRY.NET 37.209.196.4
 nserver:      L.GMOREGISTRY.NET 2001:dcd:4:0:0:0:0:4 37.209.198.4
-ds-rdata:     30884 8 2 deb8a13cae2c61b33a604441c8c58ab9139c8e83817c914e7f31221c06aaae78
+ds-rdata:     23417 8 2 bcb15b51804b9b9b40a0e3f6031636ce1112590eb66478d1201e5f0411fe0766
 
 whois:        whois.nic.sony
 
@@ -42,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.sony.com
 
 created:      2015-03-06
-changed:      2018-01-16
+changed:      2018-12-10
 source:       IANA
 
