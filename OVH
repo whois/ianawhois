@@ -20,13 +20,14 @@ fax-no:       +33 320839928
 e-mail:       whois@domain.ovh.net
 
 contact:      technical
-name:         Project Manager
-organisation: AFNIC
-address:      1, rue Stephenson Immeuble Le Stephenson
-address:      78180 Montigny le Bretonneux
+name:         TLD Technical Contact
+organisation: Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)
+address:      Immeuble Le Stephenson
+address:      1, rue Stephenson
+address:      78180 Montigny-Le-Bretonneux
 address:      France
-phone:        +33 672217740
-fax-no:       +33 139308301
+phone:        +33 1 39 30 83 00
+fax-no:       +33 1 39 30 83 01
 e-mail:       pocovh@afnic.fr
 
 nserver:      D.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
@@ -41,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.ovh.com
 
 created:      2014-05-01
-changed:      2018-09-15
+changed:      2018-12-14
 source:       IANA
 
