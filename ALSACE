@@ -35,6 +35,7 @@ nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
 nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
 ds-rdata:     53312 8 2 536d295caf7751056e425f14cfec2c239824af4dbd1bc947211dc1d9920c1133
 ds-rdata:     61664 8 2 CEDC08929A1743A2A23B08FF2770544EB7A4064704303DB29678CC5D5617D6B8
+ds-rdata:     59651 8 2 404F9FDE3095EEE0BE0FAB74D81B951D0C011CE2DDE3A960715E50D7E83FD7CA
 
 whois:        whois-alsace.nic.fr
 
@@ -42,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.mondomaine.alsace
 
 created:      2014-09-18
-changed:      2018-11-09
+changed:      2018-12-16
 source:       IANA
 
