@@ -35,6 +35,7 @@ nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
 nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
 ds-rdata:     46847 8 2 e4f2e367883d743f9168875460f8bc3c344e5575f1ee1e167a8c91474edd5b51
 ds-rdata:     11492 8 2 EB48F6C2717F808E8C24F8EA5DA6110499227E6EE341D6B616BA9076906B28C4
+ds-rdata:     39644 8 2 14900897591F8EDCE1EEF2CD78C6764DCB1034801F5612EDAE3A2AAE1ADA152C
 
 whois:        whois-lancaster.nic.fr
 
@@ -42,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.lancaster.fr
 
 created:      2015-06-18
-changed:      2018-10-23
+changed:      2018-12-16
 source:       IANA
 
