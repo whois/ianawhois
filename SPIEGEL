@@ -4,41 +4,12 @@
 
 domain:       SPIEGEL
 
-organisation: SPIEGEL-Verlag Rudolf Augstein GmbH & Co. KG
-address:      Ericusspitze 1 20457 Hamburg
-address:      Germany
+whois:        
 
-contact:      administrative
-name:         IT Director
-organisation: SPIEGEL-Verlag Rudolf Augstein GmbH & Co. KG
-address:      Ericusspitze 1 20457 Hamburg
-address:      Germany
-phone:        +49.4030072557
-fax-no:       +49.4030072106
-e-mail:       mail@spiegelregistry.de
-
-contact:      technical
-name:         CTO
-organisation: KSregistry GmbH
-address:      Im Oberen Werk 1
-address:      66386 St. Ingbert
-address:      Germany
-phone:        +49.68949396250
-fax-no:       +49.68949396251
-e-mail:       icann@ksregistry.com
-
-nserver:      NS1A.KSREGISTRY.NET 2001:dd8:7:6075:dc:0:0:1 203.119.88.75
-nserver:      NS1B.KSREGISTRY.NET 2620:0171:0a00:00ad:0:0:0:75 72.0.48.75
-nserver:      NS2A.KSREGISTRY.COM 2001:dd8:7:6076:dc:0:0:1 203.119.88.76
-nserver:      NS2B.KSREGISTRY.COM 2620:0171:0a00:00ad:0:0:0:76 72.0.48.76
-ds-rdata:     55552 8 2 924aac7fb7d596ca81093f57744f81d2f2e197fd5551275cba17f5e2633d9148
-
-whois:        whois.ksregistry.net
-
-status:       ACTIVE
-remarks:      Registration information: http://www.spiegelregistry.de
+status:       REMOVED
+remarks:      Registration information: 
 
 created:      2014-06-19
-changed:      2018-02-07
+changed:      2018-12-16
 source:       IANA
 
