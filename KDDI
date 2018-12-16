@@ -30,7 +30,7 @@ nserver:      A.GMOREGISTRY.NET 2001:dcd:1:0:0:0:0:4 37.209.192.4
 nserver:      B.GMOREGISTRY.NET 2001:dcd:2:0:0:0:0:4 37.209.194.4
 nserver:      K.GMOREGISTRY.NET 37.209.196.4
 nserver:      L.GMOREGISTRY.NET 2001:dcd:4:0:0:0:0:4 37.209.198.4
-ds-rdata:     62701 8 2 44ee7650c715184f33cf0a404256e91573ca8a63637ca01304555882b759ce38
+ds-rdata:     9641 8 2 69dad0fdf6e58514a6cd4912e9d3d9146f7924ba5e32176d3e8229307fe93ae1
 
 whois:        whois.nic.kddi
 
@@ -38,6 +38,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.kddi
 
 created:      2014-12-18
-changed:      2017-12-19
+changed:      2018-12-16
 source:       IANA
 
