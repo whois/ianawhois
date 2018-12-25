@@ -22,14 +22,14 @@ fax-no:       +33495516775
 e-mail:       dotcorsica@ct-corse.fr
 
 contact:      technical
-name:         Project Manager
-organisation: AFNIC
-address:      1, rue Stephenson
+name:         TLD Technical Contact
+organisation: Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)
 address:      Immeuble Le Stephenson
-address:      78180 Montigny le Bretonneux
+address:      1, rue Stephenson
+address:      78180 Montigny-Le-Bretonneux
 address:      France
-phone:        +33672217740
-fax-no:       +33139308301
+phone:        +33 1 39 30 83 00
+fax-no:       +33 1 39 30 83 01
 e-mail:       pdtcorsica@afnic.fr
 
 nserver:      D.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
@@ -44,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.corse.fr
 
 created:      2015-04-23
-changed:      2017-04-29
+changed:      2018-12-25
 source:       IANA
 
