@@ -32,15 +32,13 @@ phone:        +251 911 256 562
 fax-no:       +251 115 523 296
 e-mail:       etc-adm@ethionet.et
 
-nserver:      ET.CCTLD.AUTHDNS.RIPE.NET 193.0.9.73 2001:67c:e0:0:0:0:0:73
-nserver:      NS1.TELECOM.NET.ET 213.55.64.36
-nserver:      NS2.TELECOM.NET.ET 213.55.64.38
-nserver:      PHLOEM.UOREGON.EDU 128.223.32.35 2001:468:d01:20:0:0:80df:2023
+nserver:      A.NIC.ET 197.156.74.192
+nserver:      B.NIC.ET 197.156.74.193
 
 status:       ACTIVE
 remarks:      Registration information: http://www.ethiotelecom.et
 
 created:      1995-10-15
-changed:      2012-01-05
+changed:      2018-12-27
 source:       IANA
 
