@@ -9,13 +9,12 @@ address:      701 First Avenue Sunnyvale, California - 94089 US
 address:      United States
 
 contact:      administrative
-name:         Lorna Gradden
-organisation: Valideus Ltd
-address:      28-30 Little Russell Street, London, WC1A 2HN, UK
-address:      United Kingdom
-phone:        +44 (0) 20 7421 7790
-fax-no:       +44 (0) 87 0011 8187
-e-mail:       lorna.gradden.ya@valideus.com
+name:         Domain Admin
+organisation: Yahoo! Domain Services Inc.
+address:      701 First Avenue Sunnyvale, California - 94089 US
+address:      United States
+phone:        +1 212 206 4400
+e-mail:       ngtld-oath@cscglobal.com
 
 contact:      technical
 name:         Director
@@ -42,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.flickr
 
 created:      2016-01-29
-changed:      2018-08-22
+changed:      2018-12-26
 source:       IANA
 
