@@ -10,24 +10,24 @@ address:      New York, NY 10271
 address:      United States
 
 contact:      administrative
-name:         Associate Counsel
+name:         Senior Paralegal
 organisation: World Trade Centers Association, Inc.
 address:      120 Broadway, Suite 3350
 address:      New York, NY 10271
 address:      United States
-phone:        (212) 432-2652
-fax-no:       (212) 488-0065
-e-mail:       lkassof@wtca.org
+phone:        (212) 432-2640
+fax-no:       (212) 488-0064
+e-mail:       trademark@wtca.org
 
 contact:      technical
-name:         Associate Counsel
+name:         Chief Operating Officer
 organisation: World Trade Centers Association, Inc.
 address:      120 Broadway, Suite 3350
 address:      New York, NY 10271
 address:      United States
-phone:        (212) 432-2652
-fax-no:       (212) 488-0065
-e-mail:       lkassof@wtca.org
+phone:        (212) 432-2647
+fax-no:       (212) 488-0064
+e-mail:       trademark@wtca.org
 
 nserver:      A.NIC.WTC 2001:dcd:1:0:0:0:0:9 37.209.192.9
 nserver:      B.NIC.WTC 2001:dcd:2:0:0:0:0:9 37.209.194.9
@@ -42,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.wtc/
 
 created:      2014-04-17
-changed:      2014-05-02
+changed:      2019-01-04
 source:       IANA
 
