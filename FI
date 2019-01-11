@@ -4,16 +4,18 @@
 
 domain:       FI
 
-organisation: Finnish Communications Regulatory Authority
-address:      PO Box 313
-address:      Helsinki  FI-00181
+organisation: Finnish Transport and Communications Agency Traficom
+address:      PO Box 320
+address:      Helsinki
+address:      FI-00059 TRAFICOM
+address:      Business ID 2924753-3
 address:      Finland
 
 contact:      administrative
 name:         Domain Names
-organisation: Finnish Communications Regulatory Authority
-address:      PO Box 313
-address:      Helsinki  FI-00181
+organisation: Finnish Transport and Communications Agency Traficom
+address:      PO Box 320
+address:      FI-00059 TRAFICOM
 address:      Finland
 phone:        +358 295 390 200
 fax-no:       +358 295 390 270
@@ -21,9 +23,9 @@ e-mail:       firootadmin@ficora.fi
 
 contact:      technical
 name:         Sami Salmensuo
-organisation: Finnish Communications Regulatory Authority
-address:      P.O. Box 313
-address:      Helsinki  FI-00181
+organisation: Finnish Transport and Communications Agency Traficom
+address:      PO Box 320
+address:      FI-00059 TRAFICOM
 address:      Finland
 phone:        +358 295 390 200
 fax-no:       +358 295 390 270 
@@ -47,6 +49,6 @@ status:       ACTIVE
 remarks:      Registration information: https://domain.fi
 
 created:      1986-12-17
-changed:      2018-12-02
+changed:      2019-01-11
 source:       IANA
 
