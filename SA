@@ -29,8 +29,8 @@ phone:        +966114618215
 fax-no:       +966114619497
 e-mail:       tld-tech-contact@nic.net.sa
 
+nserver:      I.NIC.NET.SA 2001:1490:0:800:0:0:0:3 212.26.18.3
 nserver:      N.NIC.NET.SA 194.146.106.102 2001:67c:1010:26:0:0:0:53
-nserver:      NS1.ISU.NET.SA 2001:1490:0:800:0:0:0:3 212.26.18.3
 nserver:      NS1.NIC.NET.SA 2001:67c:130:410:0:0:0:9 86.111.192.9
 nserver:      NS2.NIC.NET.SA 2001:67c:130:10:0:0:0:9 86.111.196.9
 nserver:      P.NIC.NET.SA 2001:500:14:6041:ad:0:0:1 204.61.216.41
@@ -44,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.net.sa/
 
 created:      1994-05-17
-changed:      2019-01-10
+changed:      2019-01-16
 source:       IANA
 
