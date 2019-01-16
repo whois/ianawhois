@@ -18,7 +18,7 @@ address:      Taipei  100
 address:      Taiwan
 phone:        +886 2 23411313 ext. 126
 fax-no:       +886 2 23968832
-e-mail:       tw-admin@twnic.net
+e-mail:       tw-admin@twnic.tw
 
 contact:      technical
 name:         Director of Technical Department
@@ -28,7 +28,7 @@ address:      Taipei 100
 address:      Taiwan 
 phone:        +886 2 23411313 ext. 500
 fax-no:       +886 2 23968832
-e-mail:       snw@twnic.net.tw
+e-mail:       tech-admin@twnic.tw
 
 nserver:      ANYTLD.APNIC.NET 2001:dd8:12:0:0:0:0:53 202.12.31.53
 nserver:      D.DNS.TW 2001:4541:9010:7:0:0:0:186 60.199.165.186
@@ -44,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://rs.twnic.net.tw
 
 created:      2010-07-14
-changed:      2018-11-07
+changed:      2019-01-15
 source:       IANA
 
