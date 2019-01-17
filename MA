@@ -39,7 +39,7 @@ nserver:      NS2.REGISTRE.MA 2001:4288:1800:186:0:0:0:4 81.192.171.132 81.192.1
 nserver:      NS3.REGISTRE.MA 2001:4288:1800:386:0:0:0:3 81.192.171.115 81.192.171.139
 nserver:      NS4.REGISTRE.MA 2001:4288:1800:386:0:0:0:4 81.192.171.116 81.192.171.140
 nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e:0:0:0:0:1
-ds-rdata:     15319 8 2 69C0229C3B381976C0BA84B65A63C01AA7EE4F2A807354FC9C028E5C59526C86
+ds-rdata:     33982 8 2 3B9F33C27C469841B58463BCBCCDF2A4F129B03723BFA760CC9AC6B08DA47C12
 
 whois:        whois.registre.ma
 
@@ -47,6 +47,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.registre.ma
 
 created:      1993-11-26
-changed:      2018-01-20
+changed:      2019-01-17
 source:       IANA
 
