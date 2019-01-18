@@ -38,9 +38,9 @@ nserver:      NS2.UOC.CW 190.112.254.244
 nserver:      NS3.UOC.CW 200.26.199.99
 
 status:       ACTIVE
-remarks:      Registration information: http://www.uoc.cw/cw_registry
+remarks:      Registration information: http://www.uoc.cw/cw-registry
 
 created:      2010-12-20
-changed:      2017-10-03
+changed:      2019-01-18
 source:       IANA
 
