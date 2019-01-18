@@ -34,7 +34,6 @@ nserver:      D.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
 nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
 nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
 ds-rdata:     26156 8 2 ad505fced82fc6ffee379acd133f0182cc4ddca82247b54cc557d93ff4823a64
-ds-rdata:     46852 8 2 CBEFCA15A28D0FA26C4D07B81B378DDC0763C308D2155E3148CD9CF0532FE90B
 ds-rdata:     60754 8 2 54A47CA7BF7D33F195BE3E8BF4455CE0CF2FAF8BB1D6D9B4BA1424DFE9C8D4A5
 
 whois:        whois-leclerc.nic.fr
@@ -44,6 +43,6 @@ remarks:      Registration information:
 remarks:      http://www.mouvement-leclerc.com
 
 created:      2015-01-29
-changed:      2018-12-21
+changed:      2019-01-18
 source:       IANA
 
