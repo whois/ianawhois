@@ -30,8 +30,6 @@ fax-no:       +387 33 213 773
 e-mail:       dnstech@utic.net.ba
 
 nserver:      AUTH03.NS.UU.NET 198.6.1.83
-nserver:      BA.ANYCASTDNS.CZ 185.28.194.194 185.38.108.108
-nserver:      MUNNARI.OZ.AU 2001:3c8:9007:1:0:0:0:21 2001:3c8:9009:181:0:0:0:2 202.29.151.3
 nserver:      NS.BA 195.130.35.5
 nserver:      SAVA.UTIC.NET.BA 195.130.35.3
 nserver:      UNA.UTIC.NET.BA 2001:500:14:6117:ad:0:0:1 204.61.216.117
@@ -40,6 +38,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.ba
 
 created:      1996-08-14
-changed:      2017-08-01
+changed:      2019-01-23
 source:       IANA
 
