@@ -35,6 +35,7 @@ nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
 nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
 ds-rdata:     7505 8 2 9a94880b7ca5ae5e4181ea15cacfd481f3b59aebefd36eb0653965e23e1352cd
 ds-rdata:     30041 8 2 F46778701F505D01B50A957795AF282FE4D3C942FAA1F8AB4E68B08B5D85AC25
+ds-rdata:     27239 8 2 44B66BCE18F1DF2D3A47F8F1F52421E8EE69601C27F047B10D9B612516C932B0
 
 whois:        whois-aquarelle.nic.fr
 
@@ -42,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.aquarelle.com
 
 created:      2014-11-06
-changed:      2019-01-09
+changed:      2019-01-23
 source:       IANA
 
