@@ -39,6 +39,7 @@ nserver:      R.NS.AT 194.0.25.10 2001:678:20:0:0:0:0:10
 nserver:      U.NS.AT 185.102.12.2 2a02:850:ffff:0:0:0:0:2
 ds-rdata:     56489 8 2 2e48d4aae2f5d5022f156516846803a58f3b2f8a854aad238ec766de6ad98af2
 ds-rdata:     26039 8 2 1dd90f83baa0f07fe4dbc286d3dee84a96bc7c14959908fa61b0d0cac322bb79
+ds-rdata:     19294 8 2 8F9D0ACD78FF2F88F5641C339F05862220AEF51A6DF480039C8D4DA4F1F8A0E0
 
 whois:        whois.nic.at
 
@@ -46,6 +47,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.at/
 
 created:      1988-01-20
-changed:      2018-02-28
+changed:      2019-01-30
 source:       IANA
 
