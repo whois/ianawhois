@@ -21,13 +21,13 @@ e-mail:       admin-iana@pwregistry.pw
 
 contact:      technical
 name:         .pw Technical Contact
-organisation: EnCirca Inc.
-address:      P.O. Box 164
-address:      Reading Massachusetts 01867
-address:      United States
-phone:        +1 781 942 9975
+organisation: Radix FZC
+address:      F/19, BC1, Ras Al Khaimah Economic Zone
+address:      P.O Box # 16113, Ras Al Khaimah - 16113
+address:      United Arab Emirates
+phone:        +1.4154494774
 fax-no:       +1 781 823 8911
-e-mail:       pwtech@encirca.com
+e-mail:       admin@radixregistry.com
 
 nserver:      NS1.NIC.PW 194.169.218.12 2001:67c:13cc:0:0:0:1:12
 nserver:      NS2.NIC.PW 185.24.64.12 2a04:2b00:13cc:0:0:0:1:12
@@ -42,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.registry.pw
 
 created:      1997-06-12
-changed:      2018-09-22
+changed:      2019-01-30
 source:       IANA
 
