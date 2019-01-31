@@ -1,0 +1,46 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       موريتانيا
+domain-ace:   XN--MGBAH1A3HJKRD
+
+organisation: Université de Nouakchott Al Aasriya
+address:      Campus Universitaire
+address:      Nouakchott
+address:      BP 5026
+address:      Mauritania
+
+contact:      administrative
+name:         Ahmedou HAOUBA
+organisation: Faculté des Sciences et Techniques (UNA)
+address:      Campus Universitaire
+address:      Nouakchott
+address:      BP 5026
+address:      Mauritania
+phone:        +222 46 46 83 17
+e-mail:       haouba@una.mr
+
+contact:      technical
+name:         Ahmed Salem Cheikh
+organisation: Faculté des Sciences et Techniques (UNA)
+address:      Campus Universitaire
+address:      Nouakchott
+address:      BP 4045
+address:      Mauritania
+phone:        +222 36 30 76 01
+e-mail:       ahdsalem@nic.mr
+
+nserver:      NS-MR.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
+nserver:      NS1.NIC.MR 41.188.65.193
+nserver:      NS2.NIC.MR 82.151.64.2
+
+whois:        whois.nic.mr
+
+status:       ACTIVE
+remarks:      Registration information: http://www.nic.mr
+
+created:      2017-11-28
+changed:      2019-01-30
+source:       IANA
+
