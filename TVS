@@ -44,12 +44,3 @@ nserver:      C0.NIC.TVS 2a01:8840:c8:0:0:0:0:9 65.22.206.9
 ds-rdata:     9544 7 1 576f18d90579172ae7739828c581643731b2d3be
 ds-rdata:     9544 7 2 72fad7b3803609421622c1b13c877c2ac7a5a1009f835f39a267414b82e155d2
 
-whois:        whois.nic.tvs
-
-status:       ACTIVE
-remarks:      Registration information: http://www.tvs.in
-
-created:      2016-02-05
-changed:      2017-07-25
-source:       IANA
-
