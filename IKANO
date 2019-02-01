@@ -32,8 +32,8 @@ e-mail:       iana@tld-box.at
 nserver:      A.DNS.NIC.IKANO 194.0.25.12 2001:678:20:0:0:0:0:12
 nserver:      M.DNS.NIC.IKANO 194.0.26.7 2001:67c:10e0:0:0:0:0:7
 nserver:      N.DNS.NIC.IKANO 194.0.24.7 2001:678:24:0:0:0:0:7
-ds-rdata:     20306 8 2 F41B10D951DC5EE6D3EA0E63A2747C3FE3A8E21A8D739610FEE987118625055F
 ds-rdata:     54980 8 2 17df03cb251403ded6f535bd35efa85a0d633eaf2a6fae83a642b82933efb25d
+ds-rdata:     11692 8 2 E041CEBAF350D90D1D6235AD11B5F2091C89B0A0B6799C56262F60BC9CE02C68
 
 whois:        whois.ikano.tld-box.at
 
@@ -41,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.ikano.lu
 
 created:      2016-06-03
-changed:      2018-03-07
+changed:      2019-02-01
 source:       IANA
 
