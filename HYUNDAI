@@ -40,7 +40,7 @@ nserver:      A.GMOREGISTRY.NET 2001:dcd:1:0:0:0:0:4 37.209.192.4
 nserver:      B.GMOREGISTRY.NET 2001:dcd:2:0:0:0:0:4 37.209.194.4
 nserver:      K.GMOREGISTRY.NET 37.209.196.4
 nserver:      L.GMOREGISTRY.NET 2001:dcd:4:0:0:0:0:4 37.209.198.4
-ds-rdata:     17774 8 2 634b1d40dbb1cafc32c44dd77028e583bbb89ab7b8951c656edde79d8b0d61da
+ds-rdata:     17755 8 2 8baa367547efe4641e025f151f6722b0a83ca1584c16fb69a23dcfc45abe4aec
 
 whois:        whois.nic.hyundai
 
@@ -48,6 +48,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.hyundai.com
 
 created:      2015-09-17
-changed:      2017-10-03
+changed:      2019-02-02
 source:       IANA
 
