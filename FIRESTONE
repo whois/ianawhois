@@ -33,7 +33,7 @@ nserver:      A.GMOREGISTRY.NET 2001:dcd:1:0:0:0:0:4 37.209.192.4
 nserver:      B.GMOREGISTRY.NET 2001:dcd:2:0:0:0:0:4 37.209.194.4
 nserver:      K.GMOREGISTRY.NET 37.209.196.4
 nserver:      L.GMOREGISTRY.NET 2001:dcd:4:0:0:0:0:4 37.209.198.4
-ds-rdata:     51172 8 2 a8c1d22a8eaee4322a658d62e4e00ef1bbc91bc868e4abe7503c862736a3c068
+ds-rdata:     542 8 2 e185d089ab8b3d90485ee6212215c9c769883c4286aef4f8e0d387447debf9f9
 
 whois:        whois.nic.firestone
 
@@ -41,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.firestone.com/
 
 created:      2015-10-29
-changed:      2019-01-17
+changed:      2019-02-02
 source:       IANA
 
