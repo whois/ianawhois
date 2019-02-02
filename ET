@@ -11,26 +11,24 @@ address:      Addis Ababa Region 14
 address:      Ethiopia
 
 contact:      administrative
-name:         Project Management Office
-organisation: Ethio telecom
-address:      P.O. Box 1047
+name:         Chief Information Officer (CIO)
+organisation: Ethio Telecom
 address:      W. Churchill Rd.
 address:      Addis Ababa Region 14
 address:      Ethiopia
-phone:        +251 911 528 585
-fax-no:       +251 115 515 777
-e-mail:       jean-marie.veron@ethiotelecom.et
+phone:         +251 911 208321
+fax-no:        +251 115 53 15 69
+e-mail:       endale.asrat@ethiotelecom.et
 
 contact:      technical
-name:         IT Services Officer
-organisation: Ethio telecom
-address:      P.O. Box 1047
+name:         IT Technical Specialist
+organisation: Ethio Telecom
 address:      W. Churchill Rd.
 address:      Addis Ababa Region 14
 address:      Ethiopia
-phone:        +251 911 256 562
+phone:        +251 911 246572
 fax-no:       +251 115 523 296
-e-mail:       etc-adm@ethionet.et
+e-mail:       yared.mariam@ethiotelecom.et
 
 nserver:      A.NIC.ET 197.156.74.192
 nserver:      B.NIC.ET 197.156.74.193
@@ -39,6 +37,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.ethiotelecom.et
 
 created:      1995-10-15
-changed:      2018-12-27
+changed:      2019-02-01
 source:       IANA
 
