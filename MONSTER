@@ -4,45 +4,46 @@
 
 domain:       MONSTER
 
-organisation: Monster Worldwide, Inc.
-address:      622 Third Avenue, 39th Floor
-address:      New York, NY 10017
+organisation: XYZ.COM LLC
+address:      2121 E Tropicana Ave, STE2
+address:      Las Vegas, NV 89119
 address:      United States
 
 contact:      administrative
-name:         SVP, Deputy General Counsel
-organisation: Monster Worldwide, Inc.
-address:      622 Third Avenue, 39th Floor
-address:      New York, NY 10017
+name:         Grant Carpenter
+organisation: XYZ.COM LLC
+address:      2800 Olympic Blvd., #1
+address:      Santa Monica, CA 90404
 address:      United States
-phone:        +1.212.351.7000
-fax-no:       +1.212.351.7097
-e-mail:       ngtld-monster@cscinfo.com
+phone:        +17027576555
+e-mail:       gc@xyz.xyz
 
 contact:      technical
-name:         Senior Director, DNS Infrastructure Group
-organisation: Afilias
-address:      Building 3, Suite 105
-address:      300 Welsh Road
-address:      Horsham, PA 19044
-address:      United States
-phone:        +1 215.706.5700
-fax-no:       +1 215.706.5701
-e-mail:       tld-tech-poc@afilias.info
+name:         Gavin Brown
+organisation: CentralNic
+address:      35-39 Moorgate
+address:      London
+address:      EC2R 6AR
+address:      United Kingdom
+phone:        +44.2033880600
+fax-no:       +44.2033880601
+e-mail:       tld.ops@centralnic.com
 
-nserver:      A0.NIC.MONSTER 2a01:8840:62:0:0:0:0:25 65.22.100.25
-nserver:      A2.NIC.MONSTER 2a01:8840:65:0:0:0:0:25 65.22.103.25
-nserver:      B0.NIC.MONSTER 2a01:8840:63:0:0:0:0:25 65.22.101.25
-nserver:      C0.NIC.MONSTER 2a01:8840:64:0:0:0:0:25 65.22.102.25
+nserver:      A.NIC.MONSTER 194.169.218.83 2001:67c:13cc:0:0:0:1:83
+nserver:      B.NIC.MONSTER 185.24.64.83 2a04:2b00:13cc:0:0:0:1:83
+nserver:      C.NIC.MONSTER 212.18.248.83 2a04:2b00:13ee:0:0:0:0:83
+nserver:      D.NIC.MONSTER 212.18.249.83 2a04:2b00:13ff:0:0:0:0:83
 ds-rdata:     65523 7 1 a0927d13ff8d54a355b158d01af184962b0d9684
 ds-rdata:     65523 7 2 5a5b5575f92a04519f4c492d13f0f5039df17597db256444cda0ba6ca203a105
+ds-rdata:     56230 7 2 7de5a740d6e45c95c348209c877cb97736350694e595608da72a0645960937ce
+ds-rdata:     56230 7 1 9dd1cfcf93b8d7f4cbcaffb882c6dd820c345b3e
 
 whois:        whois.nic.monster
 
 status:       ACTIVE
-remarks:      Registration information: http://www.monster.com/
+remarks:      Registration information: http://get.monster
 
 created:      2015-12-23
-changed:      2017-07-20
+changed:      2019-02-02
 source:       IANA
 
