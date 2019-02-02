@@ -1,0 +1,42 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       SS
+
+organisation: National Communication Authority (NCA)
+address:      2nd Floor-Ministry of ICT & Postal Services Main Building
+address:      Juba, Jubek State
+address:      P.O. Box 531
+address:      South Sudan
+
+contact:      administrative
+name:         Eng. Virginio Kenyi Lomena
+organisation: National Communication Authority (NCA)
+address:      2nd Floor-Ministry of ICT & Postal Services Main Building
+address:      Juba, Jubek State
+address:      P.O. Box 531
+address:      South Sudan
+phone:        +211 (0)915623252
+e-mail:       kenyi.lomena@gmail.com
+
+contact:      technical
+name:         Unguec Stephen Kang Ilario
+organisation: National Communication Authority (NCA)
+address:      2nd Floor-Ministry of ICT & Postal Services Main Building
+address:      Juba, Jubek State
+address:      P.O. Box 531
+address:      South Sudan
+phone:        +211 (0)922338781
+e-mail:       unguecstephen@gmail.com
+
+nserver:      B.NS.TZNIC.OR.TZ 196.216.162.70 2001:43f8:e0:1:0:0:0:70
+nserver:      ROOT.SSNIC.GOV.SS 196.1.4.230
+nserver:      SSNIC.ANYCASTDNS.CZ 185.28.194.194 185.38.108.108
+
+status:       ACTIVE
+
+created:      2011-08-31
+changed:      2019-02-02
+source:       IANA
+
