@@ -40,8 +40,6 @@ nserver:      S.AU 2a01:8840:c0:0:0:0:0:1 65.22.198.1
 nserver:      T.AU 2a01:8840:c1:0:0:0:0:1 65.22.199.1
 nserver:      U.AU 211.29.133.32
 nserver:      V.AU 2001:dd8:12:0:0:0:0:53 202.12.31.53
-ds-rdata:     35197 8 1 DF3D2F347C04EAE8FFAD6EEA8BD52FD134088969
-ds-rdata:     35197 8 2 9EDA3EC27D09500AD52C510A86BCB1CD7C364444E3AB04B6EBB76378378A5C87
 ds-rdata:     20647 8 1 A1C2F3602CD171CF3FBCDA25523C086867D29CC6
 ds-rdata:     20647 8 2 EFC7975FCA1FED2B5DF3624A7EFAB5ED20AF42DC83F5D9EC1D3B4C990B8E2B54
 
@@ -52,6 +50,6 @@ remarks:      Registration information:
 remarks:      https://www.auda.org.au/domains/au-domains/
 
 created:      1986-03-05
-changed:      2018-12-08
+changed:      2019-02-06
 source:       IANA
 
