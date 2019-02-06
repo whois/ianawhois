@@ -17,7 +17,7 @@ address:      DK-2300 Copenhagen S
 address:      Denmark
 phone:        +45 3364 6060
 fax-no:       +45 3364 6066
-e-mail:       tld2018admin@dk-hostmaster.dk
+e-mail:       tld2019admin@dk-hostmaster.dk
 
 contact:      technical
 name:         DK Hostmaster Technical Contact
@@ -27,7 +27,7 @@ address:      DK-2300 Copenhagen S
 address:      Denmark
 phone:        +45 3364 6060
 fax-no:       +45 3364 6066
-e-mail:       tld2018tech@dk-hostmaster.dk
+e-mail:       tld2019tech@dk-hostmaster.dk
 
 nserver:      A.NIC.DK 212.88.78.122
 nserver:      B.NIC.DK 193.163.102.222 2a01:630:0:80:0:0:0:53
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.dk-hostmaster.dk/
 
 created:      1987-07-14
-changed:      2018-08-20
+changed:      2019-02-06
 source:       IANA
 
