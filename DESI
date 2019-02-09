@@ -28,11 +28,17 @@ phone:        +49 6894 9396 250
 fax-no:       +49 6894 93 96 251
 e-mail:       icann@ksregistry.com
 
+nserver:      A.NIC.DESI 194.169.218.81 2001:67c:13cc:0:0:0:1:81
+nserver:      B.NIC.DESI 185.24.64.81 2a04:2b00:13cc:0:0:0:1:81
+nserver:      C.NIC.DESI 212.18.248.81 2a04:2b00:13ee:0:0:0:0:81
+nserver:      D.NIC.DESI 212.18.249.81 2a04:2b00:13ff:0:0:0:0:81
 nserver:      NS1A.KSREGISTRY.NET 2001:dd8:7:6075:dc:0:0:1 203.119.88.75
 nserver:      NS1B.KSREGISTRY.NET 2620:0171:0a00:00ad:0:0:0:75 72.0.48.75
 nserver:      NS2A.KSREGISTRY.COM 2001:dd8:7:6076:dc:0:0:1 203.119.88.76
 nserver:      NS2B.KSREGISTRY.COM 2620:0171:0a00:00ad:0:0:0:76 72.0.48.76
 ds-rdata:     39859 8 2 1382964834be4f7bf4830a27955ec8f6a1557ec20479ae946f6910a131e54ab9
+ds-rdata:     32296 8 2 948f1b60d22606e7488f84c0ad2e0546376aeedfd15b6ded198127add5d8928f
+ds-rdata:     11020 8 2 5017e17ac3f43d2dcca968723fddb1b641765a38f53afba0469e33c9ac75c582
 
 whois:        whois.ksregistry.net
 
@@ -40,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.dotdesi.com/
 
 created:      2014-03-06
-changed:      2018-02-08
+changed:      2019-02-08
 source:       IANA
 
