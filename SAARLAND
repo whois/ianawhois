@@ -30,11 +30,16 @@ phone:        +49 6894 9396 250
 fax-no:       +49 6894 93 96 251
 e-mail:       info@nic.saarland
 
+nserver:      A.NIC.SAARLAND 194.169.218.97 2001:67c:13cc:0:0:0:1:97
+nserver:      B.NIC.SAARLAND 185.24.64.97 2a04:2b00:13cc:0:0:0:1:97
+nserver:      C.NIC.SAARLAND 212.18.248.97 2a04:2b00:13ee:0:0:0:0:97
+nserver:      D.NIC.SAARLAND 212.18.249.97 2a04:2b00:13ff:0:0:0:0:97
 nserver:      NS1A.KSREGISTRY.NET 2001:dd8:7:6075:dc:0:0:1 203.119.88.75
 nserver:      NS1B.KSREGISTRY.NET 2620:0171:0a00:00ad:0:0:0:75 72.0.48.75
 nserver:      NS2A.KSREGISTRY.COM 2001:dd8:7:6076:dc:0:0:1 203.119.88.76
 nserver:      NS2B.KSREGISTRY.COM 2620:0171:0a00:00ad:0:0:0:76 72.0.48.76
 ds-rdata:     7844 8 2 dfe5f176f88838e618aa262e829ec782074a1440a0ac6d7fdaa2015d6dede1e7
+ds-rdata:     46559 8 2 ad4f2ac407e370565df690b65cc4db568a2f4396403fab61d2dcf21cf7d2d823
 
 whois:        whois.ksregistry.net
 
@@ -42,6 +47,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic-saarland.de
 
 created:      2014-03-20
-changed:      2019-02-08
+changed:      2019-02-09
 source:       IANA
 
