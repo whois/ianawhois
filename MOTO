@@ -9,13 +9,13 @@ address:      222 West Merchandise Mart Plaza, Suite #1800, Chicago, IL 60654
 address:      United States
 
 contact:      administrative
-name:         Brian Winterfeldt
-organisation: Mayer Brown LLP
-address:      1999 K Street NW, Washington, DC 20006
+name:         Brian J. Winterfeldt
+organisation: Winterfeldt IP Group PLLC
+address:      1200 17th Street NW, Suite 501
+address:      Washington, DC 20036
 address:      United States
-phone:        +1 202 263 3284
-fax-no:       +1 202 830 0330
-e-mail:       moto-bjw@mayerbrown.com
+phone:        +1 202 903 4422
+e-mail:       motorola@winterfeldt.law
 
 contact:      technical
 name:         Director
@@ -42,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.motorola.com
 
 created:      2016-09-30
-changed:      2018-08-22
+changed:      2019-02-11
 source:       IANA
 
