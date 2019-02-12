@@ -37,3 +37,20 @@ nserver:      E.EDU-SERVERS.NET 192.12.94.30 2001:502:1ca1:0:0:0:0:30
 nserver:      F.EDU-SERVERS.NET 192.35.51.30 2001:503:d414:0:0:0:0:30
 nserver:      G.EDU-SERVERS.NET 192.42.93.30 2001:503:eea3:0:0:0:0:30
 nserver:      H.EDU-SERVERS.NET 192.54.112.30 2001:502:8cc:0:0:0:0:30
+nserver:      I.EDU-SERVERS.NET 192.43.172.30 2001:503:39c1:0:0:0:0:30
+nserver:      J.EDU-SERVERS.NET 192.48.79.30 2001:502:7094:0:0:0:0:30
+nserver:      K.EDU-SERVERS.NET 192.52.178.30 2001:503:d2d:0:0:0:0:30
+nserver:      L.EDU-SERVERS.NET 192.41.162.30 2001:500:d937:0:0:0:0:30
+nserver:      M.EDU-SERVERS.NET 192.55.83.30 2001:501:b1f9:0:0:0:0:30
+ds-rdata:     28065 8 2 4172496CDE85534E51129040355BD04B1FCFEBAE996DFDDE652006F6F8B2CE76
+
+whois:        whois.educause.edu
+
+status:       ACTIVE
+remarks:      Registration information:
+remarks:      http://www.educause.edu/edudomain
+
+created:      1985-01-01
+changed:      2018-10-16
+source:       IANA
+
