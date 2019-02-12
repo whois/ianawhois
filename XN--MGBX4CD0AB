@@ -33,6 +33,7 @@ phone:        +603 8943 5510
 fax-no:       +603 8943 5520
 e-mail:       dnsadmin@mynic.my
 
+nserver:      A.MYNIC.CENTRALNIC-DNS.COM 194.169.218.114 2001:67c:13cc:0:0:0:1:114
 nserver:      A.NIC.MY 103.44.108.53 2001:ddc:0:53:0:0:0:53
 nserver:      A1.MYNIC.MY 202.171.47.204
 nserver:      NS-MY.NIC.FR 192.134.0.49 2001:660:3006:1:0:0:1:1
@@ -53,6 +54,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.mynic.my
 
 created:      2011-10-22
-changed:      2019-02-02
+changed:      2019-02-11
 source:       IANA
 
