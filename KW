@@ -31,8 +31,8 @@ e-mail:       nic.tech@citra.gov.kw
 
 nserver:      A.NIC.KW 51.141.6.252
 nserver:      B.NIC.KW 23.97.177.111
-nserver:      C.NIC.KW 162.88.160.51 2600:2003:1100:1000:0:0:0:15
-nserver:      D.NIC.KW 162.88.128.51 2600:2001:1100:1000:0:0:0:15
+nserver:      C.NIC.KW 162.88.46.1 2600:2000:3020:0:0:0:0:1
+nserver:      D.NIC.KW 162.88.47.1 2600:2000:3021:0:0:0:0:1
 nserver:      NS4.APNIC.NET 2001:dd8:12:0:0:0:0:53 202.12.31.53
 nserver:      PCH.NIC.KW 2001:500:14:6118:ad:0:0:1 204.61.216.118
 nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e:0:0:0:0:1
