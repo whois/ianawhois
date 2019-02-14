@@ -9,13 +9,12 @@ address:      751 Broad Street, Newark, NJ 07102
 address:      United States
 
 contact:      administrative
-name:         Hemant Narang 
-organisation: Prudential Insurance Company of America
-address:      227 Washington Street, Newark, NJ 07102
+name:         Michael Boatwright
+organisation: Prudential Financial
+address:      751 Broad Street, Newark, NJ 07102
 address:      United States
-phone:        +1 973 367 9867 
-fax-no:       +1 973 802 3600
-e-mail:       hemant.narang@prudential.com
+phone:        +1 973 716 6545
+e-mail:       inet-admin@prudential.com
 
 contact:      technical
 name:         Director
@@ -42,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.prudential.com
 
 created:      2016-07-14
-changed:      2018-08-22
+changed:      2019-02-13
 source:       IANA
 
