@@ -5,9 +5,10 @@
 domain:       INC
 
 organisation: Intercap Holdings Inc.
-address:      40 Linwood Street
-address:      Grand Cayman, Cayman Islands
-address:      PO Box 2503, George Town, KY1-1104
+address:      Governors Square, Unit 3-110
+address:      PO Box 1361
+address:      Grand Cayman KY1-1108
+address:      Cayman Islands
 address:      Cayman Islands
 
 contact:      administrative
@@ -46,9 +47,9 @@ ds-rdata:     13636 8 2 1F6E64CBE2F9FF7A4D33195D8EE394E09E58CB89477523A1B5B1113B
 whois:        whois.nic.inc
 
 status:       ACTIVE
-remarks:      Registration information: https://inc.link
+remarks:      Registration information: https://nic.inc
 
 created:      2018-07-03
-changed:      2018-07-17
+changed:      2019-02-15
 source:       IANA
 
