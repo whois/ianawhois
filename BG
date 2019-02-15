@@ -37,6 +37,8 @@ nserver:      NS5.REGISTER.BG 185.143.80.1 2a02:6a80:0:0:193:68:21:71
 nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e:0:0:0:0:1
 ds-rdata:     46846 5 1 1D83F503CCED4A4B6F7F8DB1CF43D38F9133A3EA
 ds-rdata:     46846 5 2 26811E459C850F50A85D1EAF589E30DC14D09D1A6E6262E8D36B6BFFC605334C
+ds-rdata:     58606 8 2 305151ebb808cfa54a262403982d4c27e081b1c4accdad4b4d83ce091188b1a0
+ds-rdata:     58606 8 1 037ec344df072e8e46977a841b8c1aad3105dc3a
 
 whois:        whois.register.bg
 
@@ -44,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.register.bg
 
 created:      1995-01-03
-changed:      2017-08-25
+changed:      2019-02-15
 source:       IANA
 
