@@ -5,29 +5,27 @@
 domain:       FILM
 
 organisation: Motion Picture Domain Registry Pty Ltd
-address:      Level 8, 10 Queens Road,
-address:      Melbourne, Victoria 3004
+address:      Level 1, 11-19 Bank Place
+address:      Melbourne, Victoria 3000
 address:      Australia
 
 contact:      administrative
-name:         Patrick Donaldson
+name:         Adrian Kinderis
 organisation: Motion Picture Domain Registry Pty Ltd
-address:      Level 8, 10 Queens Road,
-address:      Melbourne, Victoria 3004
+address:      Level 1, 11 - 17 Bank Place
+address:      Melbourne, Victoria 3000
 address:      Australia
-phone:        +61390901726
-fax-no:       +61398661970
-e-mail:       p@go.film
+phone:        +61416163791
+e-mail:       info@go.film
 
 contact:      technical
-name:         Nikora Terrill
-organisation: ARI Registry Services
-address:      Level 8, 10 Queens Road,
-address:      Melbourne, Victoria 3004
+name:         Adrian Kinderis
+organisation: Motion Picture Domain Registry
+address:      Level 1, 11-17 Bank Place
+address:      Melbourne, Victoria 3000
 address:      Australia
-phone:        +61398663710
-fax-no:       +61398661970
-e-mail:       gtldsupport@ariservices.com
+phone:        +61416163791
+e-mail:       info@go.film
 
 nserver:      A.NIC.FILM 2001:dcd:1:0:0:0:0:10 37.209.192.10
 nserver:      B.NIC.FILM 2001:dcd:2:0:0:0:0:10 37.209.194.10
@@ -42,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.film
 
 created:      2015-02-27
-changed:      2015-08-13
+changed:      2019-02-19
 source:       IANA
 
