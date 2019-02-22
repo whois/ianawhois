@@ -33,8 +33,8 @@ fax-no:       +212 537 71 64 89
 e-mail:       ma@anrt.ma
 
 nserver:      DNS.INRIA.FR 193.51.208.13
+nserver:      NS-MA.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
 nserver:      NS1.REGISTRE.MA 2001:4288:1800:186:0:0:0:3 81.192.171.131 81.192.171.83
-nserver:      NS2.NIC.FR 192.93.0.4 2001:660:3005:1:0:0:1:2
 nserver:      NS2.REGISTRE.MA 2001:4288:1800:186:0:0:0:4 81.192.171.132 81.192.171.84
 nserver:      NS3.REGISTRE.MA 2001:4288:1800:386:0:0:0:3 81.192.171.115 81.192.171.139
 nserver:      NS4.REGISTRE.MA 2001:4288:1800:386:0:0:0:4 81.192.171.116 81.192.171.140
@@ -47,6 +47,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.registre.ma
 
 created:      1993-11-26
-changed:      2019-01-17
+changed:      2019-02-22
 source:       IANA
 
