@@ -33,10 +33,8 @@ phone:        +91 11 3061 4627
 fax-no:       +91 11 3061 4629
 e-mail:       domaintech@registry.in
 
-nserver:      A1.IN.AFILIAS-NST.IN 115.249.164.142 2001:4528:fff:13:0:0:0:142
-nserver:      B0.CCTLD.AFILIAS-NST.ORG 199.254.60.1 2001:500:26:0:0:0:0:1
-nserver:      B1.IN.AFILIAS-NST.IN 180.179.215.70 2401:8800:411:8:0:0:0:70
-nserver:      C0.CCTLD.AFILIAS-NST.INFO 199.254.61.1 2001:500:27:0:0:0:0:1
+nserver:      NS1.NEUSTAR.IN 2001:dcd:1:0:0:0:0:12 37.209.192.12
+nserver:      NS2.NEUSTAR.IN 2001:dcd:2:0:0:0:0:12 37.209.194.12
 nserver:      NS3.NEUSTAR.IN 2001:dcd:3:0:0:0:0:12 37.209.196.12
 nserver:      NS4.NEUSTAR.IN 2001:dcd:4:0:0:0:0:12 37.209.198.12
 nserver:      NS5.NEUSTAR.IN 156.154.100.20 2001:0502:2eda:0:0:0:0:20
@@ -49,6 +47,6 @@ ds-rdata:     30198 7 1 5EDB1F10B1EAEF0BD7E9AEA44F148BCC99089C87
 status:       ACTIVE
 
 created:      2011-02-05
-changed:      2019-02-22
+changed:      2019-02-25
 source:       IANA
 
