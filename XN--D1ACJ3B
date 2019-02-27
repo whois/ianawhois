@@ -6,16 +6,16 @@ domain:       дети
 domain-ace:   XN--D1ACJ3B
 
 organisation: The Foundation for Network Initiatives “The Smart Internet”
-address:      123242, Moscow, Zoologicheskaya str., 8
+address:      127083 Moscow, 8 Marta str., 1 bld. 12
 address:      Russian Federation
 
 contact:      administrative
 name:         Deputy Director
 organisation: The Foundation for Network Initiatives "The Smart Internet"
-address:      123242, Moscow, Zoologicheskaya str., 8
+address:      127083 Moscow, 8 Marta str., 1 bld. 12
 address:      Russian Federation
-phone:        +7 499 254 8894
-fax-no:       +7 499 254 8963
+phone:        +7 495 730 29 65
+fax-no:       +7 495 730 29 68
 e-mail:       adm@dotdeti.ru
 
 contact:      technical
@@ -40,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.dotdeti.ru
 
 created:      2014-02-13
-changed:      2018-05-26
+changed:      2019-02-26
 source:       IANA
 
