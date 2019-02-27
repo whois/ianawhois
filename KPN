@@ -12,7 +12,8 @@ address:      Netherlands
 contact:      administrative
 name:         Laura Jansen
 organisation: Koninklijke KPN N.V.
-address:      Postbus 95321
+address:      P.O. Box 25110
+address:      3001 HC Rotterdam
 address:      Netherlands
 phone:        +31610163500
 e-mail:       laura.jansen@kpn.com
@@ -39,6 +40,6 @@ ds-rdata:     10051 7 2 F265871198C769849F8ACF952F01FCD412C9B3DC5DBF8FCA98911D50
 status:       ACTIVE
 
 created:      2015-12-04
-changed:      2017-12-08
+changed:      2019-02-26
 source:       IANA
 
