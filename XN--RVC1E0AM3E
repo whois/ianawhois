@@ -41,6 +41,8 @@ ds-rdata:     32815 7 2 7fe773ef71ae6cb09aaa70fcc3e2dcc0af1bba704c3fb85ddca8ef5f
 ds-rdata:     51945 7 2 0F8228B25E25BD8FEFEBF7604318EDB1A10619CBC83ECDF30C6C803AE496B5F4
 ds-rdata:     51945 7 1 C8F56B0A9A4FF5B8599986DE6BBA8AA2E8F4B010
 
+whois:        whois.registry.in
+
 status:       ACTIVE
 
 created:      2016-04-18
