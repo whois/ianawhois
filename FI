@@ -17,9 +17,8 @@ organisation: Finnish Transport and Communications Agency Traficom
 address:      PO Box 320
 address:      FI-00059 TRAFICOM
 address:      Finland
-phone:        +358 295 390 200
-fax-no:       +358 295 390 270
-e-mail:       firootadmin@ficora.fi
+phone:        +358 295 345 000
+e-mail:       firootadmin@traficom.fi
 
 contact:      technical
 name:         Sami Salmensuo
@@ -27,9 +26,8 @@ organisation: Finnish Transport and Communications Agency Traficom
 address:      PO Box 320
 address:      FI-00059 TRAFICOM
 address:      Finland
-phone:        +358 295 390 200
-fax-no:       +358 295 390 270 
-e-mail:       firootadmin@ficora.fi
+phone:        +358 295 345 000
+e-mail:       firootadmin@traficom.fi
 
 nserver:      A.FI 193.166.4.1 2001:708:10:53:0:0:0:53
 nserver:      B.FI 194.146.106.26 2001:67c:1010:6:0:0:0:53
@@ -49,6 +47,6 @@ status:       ACTIVE
 remarks:      Registration information: https://domain.fi
 
 created:      1986-12-17
-changed:      2019-01-11
+changed:      2019-02-28
 source:       IANA
 
