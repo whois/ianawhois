@@ -22,11 +22,13 @@ fax-no:       +350 47272
 e-mail:       nic@sapphire.gi
 
 contact:      technical
-name:         Technical Domain Administrator
+name:         Senior Director, DNS Infrastructure Group
 organisation: Afilias Limited
-address:      Office 110, 52 Broomhill Road
-address:      Tallaght Dublin 24
-address:      Ireland
+address:      C/O Afilias USA, Inc.
+address:      300 Welsh Road, Building 3
+address:      Suite 105
+address:      Horsham Pennsylvania 19044
+address:      United States
 phone:        +1 215 706 5700
 fax-no:       +1 215 706 5701
 e-mail:       domaintech@afilias.info
@@ -46,6 +48,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.gi
 
 created:      1995-12-05
-changed:      2010-11-03
+changed:      2019-02-28
 source:       IANA
 
