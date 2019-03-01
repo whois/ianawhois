@@ -31,11 +31,16 @@ phone:        +49.68949396250
 fax-no:       +49.68949396251
 e-mail:       icann@ksregistry.com
 
+nserver:      A.NIC.ZUERICH 194.169.218.107 2001:67c:13cc:0:0:0:1:107
+nserver:      B.NIC.ZUERICH 185.24.64.107 2a04:2b00:13cc:0:0:0:1:107
+nserver:      C.NIC.ZUERICH 212.18.248.107 2a04:2b00:13ee:0:0:0:0:107
+nserver:      D.NIC.ZUERICH 212.18.249.107 2a04:2b00:13ff:0:0:0:0:107
 nserver:      NS1A.KSREGISTRY.NET 2001:dd8:7:6075:dc:0:0:1 203.119.88.75
 nserver:      NS1B.KSREGISTRY.NET 2620:0171:0a00:00ad:0:0:0:75 72.0.48.75
 nserver:      NS2A.KSREGISTRY.COM 2001:dd8:7:6076:dc:0:0:1 203.119.88.76
 nserver:      NS2B.KSREGISTRY.COM 2620:0171:0a00:00ad:0:0:0:76 72.0.48.76
 ds-rdata:     52375 8 2 e3ebd91bbf29be88d075c43ac313a9db174267e858061316ec4c942728a3829e
+ds-rdata:     7399 8 2 69407fe45988e2c569855c70330a24520db734481082c668317e8bbb764551d3
 
 whois:        whois.ksregistry.net
 
@@ -43,6 +48,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.dotzuerich.ch
 
 created:      2014-12-18
-changed:      2018-02-07
+changed:      2019-03-01
 source:       IANA
 
