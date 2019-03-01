@@ -32,11 +32,16 @@ phone:        +49.68949396250
 fax-no:       +49.68949396251
 e-mail:       icann@ksregistry.com
 
+nserver:      A.NIC.POHL 194.169.218.96 2001:67c:13cc:0:0:0:1:96
+nserver:      B.NIC.POHL 185.24.64.96 2a04:2b00:13cc:0:0:0:1:96
+nserver:      C.NIC.POHL 212.18.248.96 2a04:2b00:13ee:0:0:0:0:96
+nserver:      D.NIC.POHL 212.18.249.96 2a04:2b00:13ff:0:0:0:0:96
 nserver:      NS1A.KSREGISTRY.NET 2001:dd8:7:6075:dc:0:0:1 203.119.88.75
 nserver:      NS1B.KSREGISTRY.NET 2620:0171:0a00:00ad:0:0:0:75 72.0.48.75
 nserver:      NS2A.KSREGISTRY.COM 2001:dd8:7:6076:dc:0:0:1 203.119.88.76
 nserver:      NS2B.KSREGISTRY.COM 2620:0171:0a00:00ad:0:0:0:76 72.0.48.76
 ds-rdata:     52324 8 2 f733939f77fe6a3f4fc63546cf69c4a86cf432bd6f41147b287818bfc87661c5
+ds-rdata:     41627 8 2 d31963884932152ac788383aba38b83f187291afb59092a43185734ec561f506
 
 whois:        whois.ksregistry.net
 
@@ -44,6 +49,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.dvag-registry.de
 
 created:      2014-09-18
-changed:      2018-11-06
+changed:      2019-03-01
 source:       IANA
 
