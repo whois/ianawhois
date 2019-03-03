@@ -29,11 +29,16 @@ phone:        +49.68949396250
 fax-no:       +49.68949396251
 e-mail:       icann@ksregistry.com
 
+nserver:      A.NIC.FRESENIUS 194.169.218.86 2001:67c:13cc:0:0:0:1:86
+nserver:      B.NIC.FRESENIUS 185.24.64.86 2a04:2b00:13cc:0:0:0:1:86
+nserver:      C.NIC.FRESENIUS 212.18.248.86 2a04:2b00:13ee:0:0:0:0:86
+nserver:      D.NIC.FRESENIUS 212.18.249.86 2a04:2b00:13ff:0:0:0:0:86
 nserver:      NS1A.KSREGISTRY.NET 2001:dd8:7:6075:dc:0:0:1 203.119.88.75
 nserver:      NS1B.KSREGISTRY.NET 2620:0171:0a00:00ad:0:0:0:75 72.0.48.75
 nserver:      NS2A.KSREGISTRY.COM 2001:dd8:7:6076:dc:0:0:1 203.119.88.76
 nserver:      NS2B.KSREGISTRY.COM 2620:0171:0a00:00ad:0:0:0:76 72.0.48.76
 ds-rdata:     43201 8 2 b8b450ba7043973a3f43e9e8a70fac6a6b979838254e439553f17f403d24425e
+ds-rdata:     14099 8 2 3a1c09d9328367d2077aa1418dacab1e9799c6e419409c35416ed57ad0d61dd2
 
 whois:        whois.ksregistry.net
 
@@ -42,6 +47,6 @@ remarks:      Registration information:
 remarks:      http://www.freseniusregistry.com
 
 created:      2015-12-17
-changed:      2018-02-03
+changed:      2019-03-03
 source:       IANA
 
