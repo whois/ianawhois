@@ -34,12 +34,15 @@ nserver:      B.NS.NIC.COUNTRY 2620:0171:0d02:00dc:0:0:0:17 72.42.114.17
 nserver:      C.NS.NIC.COUNTRY 2620:0171:0c00:000c:0:0:0:17 70.40.0.17
 nserver:      D.NS.NIC.COUNTRY 2620:0171:0f00:000d:0:0:0:17 70.40.8.17
 ds-rdata:     2705 8 2 6EE6B796B61C72E15174930066AA40B92E0183A406561272E6B574770551652E
+ds-rdata:     28444 8 2 4B4F87A36B53C3B32E01E850A40F3E2513427AFC8D685609CBE6E2F633FAC5D5
+ds-rdata:     36424 8 2 11200C3276096AAF5C427492437D031F24D2B059A194AA99B938F69576EE7324
 
-whois:        whois-dub.mm-registry.com
+whois:        whois.uniregistry.net
 
 status:       ACTIVE
+remarks:      Registration information: http://uniregistry.link
 
 created:      2014-02-28
-changed:      2018-01-06
+changed:      2019-03-03
 source:       IANA
 
