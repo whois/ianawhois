@@ -32,11 +32,16 @@ phone:        +49.68949396250
 fax-no:       +49.68949396251
 e-mail:       icann@ksregistry.com
 
+nserver:      A.NIC.ALLFINANZ 194.169.218.75 2001:67c:13cc:0:0:0:1:75
+nserver:      B.NIC.ALLFINANZ 185.24.64.75 2a04:2b00:13cc:0:0:0:1:75
+nserver:      C.NIC.ALLFINANZ 212.18.248.75 2a04:2b00:13ee:0:0:0:0:75
+nserver:      D.NIC.ALLFINANZ 212.18.249.75 2a04:2b00:13ff:0:0:0:0:75
 nserver:      NS1A.KSREGISTRY.NET 2001:dd8:7:6075:dc:0:0:1 203.119.88.75
 nserver:      NS1B.KSREGISTRY.NET 2620:0171:0a00:00ad:0:0:0:75 72.0.48.75
 nserver:      NS2A.KSREGISTRY.COM 2001:dd8:7:6076:dc:0:0:1 203.119.88.76
 nserver:      NS2B.KSREGISTRY.COM 2620:0171:0a00:00ad:0:0:0:76 72.0.48.76
 ds-rdata:     39881 8 2 8619bc44828ee2cdfb00e0c8e67ac0f7522aaaab12149ea53b6b52c421120a0c
+ds-rdata:     11155 8 2 2337b2a34993e96d38fc18da0873463c467385bfe16e09e51245673f027f913a
 
 whois:        whois.ksregistry.net
 
@@ -45,6 +50,6 @@ remarks:      Registration information:
 remarks:      http://www.allfinanz-registry.de
 
 created:      2014-09-25
-changed:      2018-11-07
+changed:      2019-03-03
 source:       IANA
 
