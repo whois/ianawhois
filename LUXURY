@@ -5,26 +5,29 @@
 domain:       LUXURY
 
 organisation: Luxury Partners LLC
-address:      427 North Camden Drive, Beverly Hills, CA 90210
+address:      888 South Figueroa Street, Suite 2150
+address:      Los Angeles, CA 90017
 address:      United States
 
 contact:      administrative
-name:         Kirsten Hansen
+name:         Jennifer Molina
 organisation: Luxury Partners LLC
-address:      427 North Camden Drive, Beverly Hills, CA 90210
+address:      888 South Figueroa Street, Suite 2150
+address:      Los Angeles, CA 90017
 address:      United States
 phone:        +1 310 402 2487
 fax-no:       +1 310 402 2491
-e-mail:       management@dotluxury.com
+e-mail:       jennifer.molina@join.luxury
 
 contact:      technical
 name:         Monica Kirchner
 organisation: Luxury Partners LLC
-address:      427 North Camden Drive, Beverly Hills, CA 90210
+address:      888 South Figueroa Street, Suite 2150
+address:      Los Angeles, CA 90017
 address:      United States
 phone:        +1 310 402 2487
 fax-no:       +1 310 402 2491
-e-mail:       monica.kirchner@dotluxury.com
+e-mail:       monica.kirchner@join.luxury
 
 nserver:      A.NIC.LUXURY 2001:dcd:1:0:0:0:0:10 37.209.192.10
 nserver:      B.NIC.LUXURY 2001:dcd:2:0:0:0:0:10 37.209.194.10
@@ -35,9 +38,9 @@ ds-rdata:     3664 8 2 D602E8F4FD9729146D1FB1D249544DCEECE615E528EB2E4997FB1760B
 whois:        whois.nic.luxury
 
 status:       ACTIVE
-remarks:      Registration information: http://www.dotluxury.com
+remarks:      Registration information: https://join.luxury/
 
 created:      2014-01-09
-changed:      2014-02-20
+changed:      2019-03-06
 source:       IANA
 
