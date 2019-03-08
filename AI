@@ -28,10 +28,7 @@ phone:        +1 264 497 3255
 e-mail:       vincecate@gmail.com
 
 nserver:      NS.COCCA.FR 185.17.236.93 2a03:dd40:3:0:0:0:0:93
-nserver:      NS1.PAIR.COM 209.68.1.11
-nserver:      NS2.OFFSHORE.AI 108.166.113.245
 nserver:      PCH.WHOIS.AI 2001:500:14:6123:ad:0:0:1 204.61.216.123
-nserver:      WHOIS.AI 209.59.119.1
 
 whois:        whois.nic.ai
 
@@ -39,6 +36,6 @@ status:       ACTIVE
 remarks:      Registration information: http://whois.ai
 
 created:      1995-02-16
-changed:      2018-01-06
+changed:      2019-03-08
 source:       IANA
 
