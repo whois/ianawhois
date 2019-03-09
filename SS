@@ -34,6 +34,8 @@ nserver:      B.NS.TZNIC.OR.TZ 196.216.162.70 2001:43f8:e0:1:0:0:0:70
 nserver:      ROOT.SSNIC.GOV.SS 196.1.4.230
 nserver:      SSNIC.ANYCASTDNS.CZ 185.28.194.194 185.38.108.108
 
+whois:        whois.nic.ss
+
 status:       ACTIVE
 
 created:      2011-08-31
