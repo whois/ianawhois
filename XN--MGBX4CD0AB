@@ -36,6 +36,7 @@ e-mail:       dnsadmin@mynic.my
 nserver:      A.MYNIC.CENTRALNIC-DNS.COM 194.169.218.114 2001:67c:13cc:0:0:0:1:114
 nserver:      A.NIC.MY 103.44.108.53 2001:ddc:0:53:0:0:0:53
 nserver:      A1.MYNIC.MY 202.171.47.204
+nserver:      B.MYNIC.CENTRALNIC-DNS.COM 185.24.64.114 2a04:2b00:13cc:0:0:0:1:114
 nserver:      NS2.CUHK.EDU.HK 137.189.6.21 2405:3000:3:6:0:0:0:15
 nserver:      NS30.CDNS.NET 194.0.1.30 2001:678:4:0:0:0:0:1e
 ds-rdata:     46104 8 1 41C46D23D83225DB67B11B9C7911F3079C6D9555
@@ -53,6 +54,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.mynic.my
 
 created:      2011-10-22
-changed:      2019-02-25
+changed:      2019-03-12
 source:       IANA
 
