@@ -36,13 +36,13 @@ nserver:      D.NIC.FRESENIUS 212.18.249.86 2a04:2b00:13ff:0:0:0:0:86
 ds-rdata:     43201 8 2 b8b450ba7043973a3f43e9e8a70fac6a6b979838254e439553f17f403d24425e
 ds-rdata:     14099 8 2 3a1c09d9328367d2077aa1418dacab1e9799c6e419409c35416ed57ad0d61dd2
 
-whois:        whois.ksregistry.net
+whois:        whois.nic.fresenius
 
 status:       ACTIVE
 remarks:      Registration information:
 remarks:      http://www.freseniusregistry.com
 
 created:      2015-12-17
-changed:      2019-03-07
+changed:      2019-03-14
 source:       IANA
 
