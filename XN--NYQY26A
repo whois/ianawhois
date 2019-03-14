@@ -12,14 +12,15 @@ address:      KOWLOON, HONG KONG
 address:      Hong Kong
 
 contact:      administrative
-name:         Jason Du
+name:         Johnny Du
 organisation: Stable Tone Limited
-address:      800 West El Camino Real
-address:      Mountain View, CA  94040
-address:      United States
+address:      UNIT 10-18, 32/F, TOWER 1 MILLENNIUM CITY 1
+address:      388 KWUN TONG ROAD, KWUN TONG
+address:      KOWLOON, HONG KONG
+address:      Hong Kong
 phone:        +86 13980716857
 fax-no:       +852 3972 2211
-e-mail:       jasondu@gmail.com
+e-mail:       johnnydu@stabletone.com
 
 contact:      technical
 name:         Jiagui Xie
@@ -45,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.stabletone.com
 
 created:      2015-03-12
-changed:      2018-07-02
+changed:      2019-03-14
 source:       IANA
 
