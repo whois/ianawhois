@@ -40,12 +40,12 @@ nserver:      D.NIC.XN--VERMGENSBERATUNG-PWB 212.18.249.106 2a04:2b00:13ff:0:0:0
 ds-rdata:     17870 8 2 4eee971c6228837580afa24873862426612e75b8c6f2b79ba370e5a6a0403b08
 ds-rdata:     30509 8 2 b1d9b6e7e50bd1ac597183b160050a398919dde4a33fac3714bccaedd4bfd2ef
 
-whois:        whois.ksregistry.net
+whois:        whois.nic.xn--vermgensberatung-pwb
 
 status:       ACTIVE
 remarks:      Registration information: http://www.dvag-registry.de
 
 created:      2014-09-18
-changed:      2019-03-07
+changed:      2019-03-14
 source:       IANA
 
