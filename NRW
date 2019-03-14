@@ -10,14 +10,15 @@ address:      80802 Munich
 address:      Germany
 
 contact:      administrative
-name:         Caspar Veltheim
+name:         Geschäftsführer
 organisation: Minds + Machines GmbH
-address:      Antonienstr. 3
-address:      80802 Munich
+address:      Prannerstr. 10
+address:      Munich
+address:      80333
 address:      Germany
-phone:        +49 89 360 351 05
+phone:        +49(0)8995807616
 fax-no:       +49 89 921 858 41
-e-mail:       cv@mindsandmachines.com
+e-mail:       cv@mmx.co
 
 contact:      technical
 name:         ironDNS Support
@@ -41,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://mindsandmachines.com
 
 created:      2014-05-29
-changed:      2015-11-17
+changed:      2019-03-14
 source:       IANA
 
