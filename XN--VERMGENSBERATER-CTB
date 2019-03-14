@@ -40,12 +40,12 @@ nserver:      D.NIC.XN--VERMGENSBERATER-CTB 212.18.249.105 2a04:2b00:13ff:0:0:0:
 ds-rdata:     34601 8 2 7f669ea129f71b09eb87d520812d21758207ebdaae560cbb5019fbba4a20a016
 ds-rdata:     60320 8 2 bd736c840d3b1b3fdd1679d500c5f5bd82cf0323e9706932bc5b2d847d5644b5
 
-whois:        whois.ksregistry.net
+whois:        whois.nic.xn--vermgensberater-ctb
 
 status:       ACTIVE
 remarks:      Registration information: http://www.dvag-registry.de
 
 created:      2014-09-18
-changed:      2019-03-07
+changed:      2019-03-14
 source:       IANA
 
