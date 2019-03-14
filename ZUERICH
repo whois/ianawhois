@@ -38,12 +38,12 @@ nserver:      D.NIC.ZUERICH 212.18.249.107 2a04:2b00:13ff:0:0:0:0:107
 ds-rdata:     52375 8 2 e3ebd91bbf29be88d075c43ac313a9db174267e858061316ec4c942728a3829e
 ds-rdata:     7399 8 2 69407fe45988e2c569855c70330a24520db734481082c668317e8bbb764551d3
 
-whois:        whois.ksregistry.net
+whois:        whois.nic.zuerich
 
 status:       ACTIVE
 remarks:      Registration information: http://www.dotzuerich.ch
 
 created:      2014-12-18
-changed:      2019-03-07
+changed:      2019-03-14
 source:       IANA
 
