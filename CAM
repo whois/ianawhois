@@ -38,12 +38,12 @@ nserver:      D.NIC.CAM 212.18.249.77 2a04:2b00:13ff:0:0:0:0:77
 ds-rdata:     27179 8 2 f8c48547453f63fcc5bf62884a1f885fe50d467079e7b17da3c8d0a2dc92474d
 ds-rdata:     5089 8 2 a17021ada565f6b13749741dc51a25b0f524bae6b753343155cfe8426cd29462
 
-whois:        whois.ksregistry.net
+whois:        whois.nic.cam
 
 status:       ACTIVE
-remarks:      Registration information: http://www.acwebconnecting.com
+remarks:      Registration information: https://nic.cam/
 
 created:      2016-06-09
-changed:      2019-03-07
+changed:      2019-03-14
 source:       IANA
 
