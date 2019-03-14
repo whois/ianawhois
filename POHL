@@ -39,12 +39,12 @@ nserver:      D.NIC.POHL 212.18.249.96 2a04:2b00:13ff:0:0:0:0:96
 ds-rdata:     52324 8 2 f733939f77fe6a3f4fc63546cf69c4a86cf432bd6f41147b287818bfc87661c5
 ds-rdata:     41627 8 2 d31963884932152ac788383aba38b83f187291afb59092a43185734ec561f506
 
-whois:        whois.ksregistry.net
+whois:        whois.nic.pohl
 
 status:       ACTIVE
 remarks:      Registration information: http://www.dvag-registry.de
 
 created:      2014-09-18
-changed:      2019-03-07
+changed:      2019-03-14
 source:       IANA
 
