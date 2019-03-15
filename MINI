@@ -36,12 +36,12 @@ nserver:      D.NIC.MINI 212.18.249.95 2a04:2b00:13ff:0:0:0:0:95
 ds-rdata:     54260 8 2 0da865b8e8a60553b90380aec9da84a2de372a2a098ec5f2f6e3502414947f88
 ds-rdata:     82 8 2 6f84e8b483f6fefc9832a282ea80d4f30497393b5353cc6854431fa7fcb240f6
 
-whois:        whois.ksregistry.net
+whois:        whois.nic.mini
 
 status:       ACTIVE
 remarks:      Registration information: http://nic.mini.com
 
 created:      2014-06-05
-changed:      2019-03-07
+changed:      2019-03-15
 source:       IANA
 
