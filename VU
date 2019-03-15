@@ -4,20 +4,20 @@
 
 domain:       VU
 
-organisation: Telecom Vanuatu Limited
-address:      Lini Highway
-address:      Port Vila
+organisation: Telecommunications Radiocommunications and Broadcasting Regulator (TRBR)
+address:      Kumul Highway
+address:      Port Vila 3547
 address:      Vanuatu
 
 contact:      administrative
-name:         TVL CTO
-organisation: Telecom Vanuatu Ltd.
-address:      Lini Highway
-address:      Port Vila
+name:         Regulator
+organisation: Telecommunications, Radiocommunications and Broadcasting Regulator (TRBR)
+address:      Kumul Highway
+address:      Port Vila 3547
 address:      Vanuatu
-phone:        +678 23000
-fax-no:       +678 24319
-e-mail:       iana@tvl.net.vu
+phone:        +678 27621
+fax-no:       +678 27440
+e-mail:       iana@trbr.vu
 
 contact:      technical
 name:         TVL IANA Contact
@@ -45,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.vunic.vu
 
 created:      1995-04-10
-changed:      2017-09-14
+changed:      2019-03-15
 source:       IANA
 
