@@ -37,12 +37,12 @@ nserver:      D.NIC.SAARLAND 212.18.249.97 2a04:2b00:13ff:0:0:0:0:97
 ds-rdata:     7844 8 2 dfe5f176f88838e618aa262e829ec782074a1440a0ac6d7fdaa2015d6dede1e7
 ds-rdata:     46559 8 2 ad4f2ac407e370565df690b65cc4db568a2f4396403fab61d2dcf21cf7d2d823
 
-whois:        whois.ksregistry.net
+whois:        whois.nic.saarland
 
 status:       ACTIVE
 remarks:      Registration information: http://www.nic-saarland.de
 
 created:      2014-03-20
-changed:      2019-02-11
+changed:      2019-03-18
 source:       IANA
 
