@@ -32,6 +32,7 @@ nserver:      B.GMOREGISTRY.NET 2001:dcd:2:0:0:0:0:4 37.209.194.4
 nserver:      K.GMOREGISTRY.NET 37.209.196.4
 nserver:      L.GMOREGISTRY.NET 2001:dcd:4:0:0:0:0:4 37.209.198.4
 ds-rdata:     30557 8 2 533c77edfb9e60e2544a4e9ba53c783021c118ab8e7cf7767073350f54d2270e
+ds-rdata:     34384 8 2 7a7cde44c2c68ce4d0440e7f9f01a1a0358ede57a9e007ae01ff94cb0506513a
 
 whois:        whois.nic.softbank
 
@@ -39,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://softbank.com/
 
 created:      2015-12-23
-changed:      2019-02-02
+changed:      2019-03-20
 source:       IANA
 
