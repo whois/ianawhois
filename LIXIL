@@ -42,6 +42,7 @@ nserver:      B.GMOREGISTRY.NET 2001:dcd:2:0:0:0:0:4 37.209.194.4
 nserver:      K.GMOREGISTRY.NET 37.209.196.4
 nserver:      L.GMOREGISTRY.NET 2001:dcd:4:0:0:0:0:4 37.209.198.4
 ds-rdata:     61715 8 2 58b2ed7e35fb325167016268846ab5890edf6aaa53d1d1a7a63b873f4adca32a
+ds-rdata:     52865 8 2 325d70cde69242071c68da325ac825f77e8bcffdd82daa56ea017a80598c94af
 
 whois:        whois.nic.lixil
 
@@ -49,6 +50,6 @@ status:       ACTIVE
 remarks:      Registration information: http://global.lixil.co.jp/
 
 created:      2015-07-16
-changed:      2018-04-27
+changed:      2019-03-20
 source:       IANA
 
