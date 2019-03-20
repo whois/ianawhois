@@ -31,6 +31,7 @@ nserver:      B.GMOREGISTRY.NET 2001:dcd:2:0:0:0:0:4 37.209.194.4
 nserver:      K.GMOREGISTRY.NET 37.209.196.4
 nserver:      L.GMOREGISTRY.NET 2001:dcd:4:0:0:0:0:4 37.209.198.4
 ds-rdata:     23987 8 2 1beb3fd1cca3552ae0b1db9c15866bc2cc28157fe94fcedfdb31bdb8f59f3ae1
+ds-rdata:     8039 8 2 a21f8529ce9b38a28a4b03251ca112bf0528655d5cd28901b8585389de8261fd
 
 whois:        whois.nic.gmo
 
@@ -38,6 +39,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.jcb
 
 created:      2015-01-08
-changed:      2018-12-08
+changed:      2019-03-20
 source:       IANA
 
