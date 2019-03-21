@@ -5,18 +5,17 @@
 domain:       MAN
 
 organisation: MAN SE
-address:      Ungererstr. 69
-address:      80805 München
+address:      Dachauer Strasse 641
+address:      80995 München
 address:      Germany
 
 contact:      administrative
-name:         Head of e-Communications
-organisation: MAN SE
-address:      Ungererstr. 69
-address:      80805 München
+name:         Projectmanager, HoD, Sales operation digital
+organisation: MAN Truck & Bus SE
+address:      Dachauer Strasse 667
+address:      80995 München
 address:      Germany
-phone:        +49-89-36098-0
-fax-no:       +49-89-36098-250
+phone:        +49-89-1580 67377
 e-mail:       manfred.schurer@man.eu
 
 contact:      technical
@@ -41,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.man.eu
 
 created:      2015-02-27
-changed:      2015-07-27
+changed:      2019-03-21
 source:       IANA
 
