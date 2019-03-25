@@ -30,10 +30,10 @@ fax-no:       +82 2 405 5149
 e-mail:       techc@kisa.or.kr
 
 nserver:      B.DNS.KR 61.74.75.1
-nserver:      C.DNS.KR 203.248.246.220
+nserver:      C.DNS.KR 210.101.61.1
 nserver:      D.DNS.KR 2001:dcc:4:0:0:0:0:1 203.83.159.1
 nserver:      E.DNS.KR 2001:dcc:5:0:0:0:0:100 202.30.124.100
-nserver:      F.DNS.KR 210.101.62.1
+nserver:      F.DNS.KR 2001:dcc:6:0:0:0:0:1 210.101.62.1
 nserver:      G.DNS.KR 2001:dc5:a:0:0:0:0:1 202.31.190.1
 ds-rdata:     17625 7 2 FB939059F4B67BBA1E8AC37E35811E506488B2D8CFF807AF873B2116B5676B5C
 
