@@ -6,7 +6,7 @@ domain:       SY
 
 organisation: National Agency for Network Services (NANS)
 address:      Sahara-Sabboura crossroads
-address:      P.O. Box 47/Kudsaya
+address:      P.O. Box 60/Al-Sabboura
 address:      Damascus
 address:      Syrian Arab Republic
 
@@ -14,7 +14,7 @@ contact:      administrative
 name:         Head of Licensing Department
 organisation: National Agency for Network Services (NANS)
 address:      Sahara-Sabboura crossroads
-address:      P.O. Box 47/Kudsaya
+address:      P.O. Box 60/Al-Sabboura
 address:      Damascus
 address:      Syrian Arab Republic
 phone:        +963 11 3937096
@@ -25,7 +25,7 @@ contact:      technical
 name:         NANS DNS Technical Department
 organisation: National Agency for Network Services (NANS)
 address:      Sahara-Sabboura crossroads
-address:      P.O. Box 47/Kudsaya
+address:      P.O. Box 60/Al-Sabboura
 address:      Damascus
 address:      Syrian Arab Republic
 phone:        +963 11 3937047
@@ -42,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://tld.sy
 
 created:      1996-02-20
-changed:      2018-07-25
+changed:      2019-03-25
 source:       IANA
 
