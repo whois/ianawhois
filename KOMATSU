@@ -38,6 +38,7 @@ nserver:      B.GMOREGISTRY.NET 2001:dcd:2:0:0:0:0:4 37.209.194.4
 nserver:      K.GMOREGISTRY.NET 37.209.196.4
 nserver:      L.GMOREGISTRY.NET 2001:dcd:4:0:0:0:0:4 37.209.198.4
 ds-rdata:     25835 8 2 6620a6fc5b2abc517492e2da5ea491d9b28d710c34d998e1d02d1b7b552bbac9
+ds-rdata:     11065 8 2 2bad7d0a51246fef1f7924da2d095396b030d518f3e6fb791299b4618ef8b2fc
 
 whois:        whois.nic.komatsu
 
@@ -45,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.komatsu.com/
 
 created:      2015-03-06
-changed:      2018-03-01
+changed:      2019-03-26
 source:       IANA
 
