@@ -38,6 +38,7 @@ nserver:      B.GMOREGISTRY.NET 2001:dcd:2:0:0:0:0:4 37.209.194.4
 nserver:      K.GMOREGISTRY.NET 37.209.196.4
 nserver:      L.GMOREGISTRY.NET 2001:dcd:4:0:0:0:0:4 37.209.198.4
 ds-rdata:     56617 8 2 491df8ed2e0a348ce934fff6d42a8506e131bc6fef8f88d336a6318b98b48228
+ds-rdata:     53057 8 2 940a6f87f2d2482fc5541e20e646f38bb0535e7700d3317690bb42030c822d2c
 
 whois:        whois.nic.toray
 
@@ -45,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.toray.com
 
 created:      2015-04-16
-changed:      2018-12-10
+changed:      2019-03-26
 source:       IANA
 
