@@ -17,7 +17,7 @@ address:      8274 Taegerwilen
 address:      Switzerland
 phone:        +41 71 6772020
 fax-no:       +41 71 6772022
-e-mail:       registry@votingdomain.com
+e-mail:       dh@nic.voting
 
 contact:      technical
 name:         Technical Operations
@@ -41,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.voting
 
 created:      2014-01-16
-changed:      2018-03-06
+changed:      2019-03-26
 source:       IANA
 
