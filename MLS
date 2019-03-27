@@ -22,16 +22,15 @@ fax-no:       1-613-234-2567
 e-mail:       legal@crea.ca
 
 contact:      technical
-name:         Registry Customer Service
-organisation: Verisign, Inc.
-address:      Verisign, Inc.
-address:      12061 Bluemont Way
-address:      Reston Virginia 20190
-address:      United States (US)
-address:      United States
-phone:        +1-703-925-6999
-fax-no:       +1-703-948-3978
-e-mail:       info@verisign-grs.com
+name:         Fury Registry Services
+organisation: Canadian Internet Registration Authority (CIRA)
+address:      979 Bank Street, Suite 400
+address:      Ottawa, Ontario
+address:      K1S 5K5
+address:      Canada
+phone:        +1-613-237-5335
+fax-no:       +1-613-237-0534
+e-mail:       support@fury.ca
 
 nserver:      A.NS.NIC.MLS 185.159.197.8 2620:10a:80aa:0:0:0:0:8
 nserver:      B.NS.NIC.MLS 185.159.198.8 2620:10a:80ab:0:0:0:0:8
@@ -43,6 +42,6 @@ whois:        whois.nic.mls
 status:       ACTIVE
 
 created:      2015-08-20
-changed:      2019-03-16
+changed:      2019-03-27
 source:       IANA
 
