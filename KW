@@ -36,11 +36,12 @@ nserver:      D.NIC.KW 162.88.47.1 2600:2000:3021:0:0:0:0:1
 nserver:      NS4.APNIC.NET 2001:dd8:12:0:0:0:0:53 202.12.31.53
 nserver:      PCH.NIC.KW 2001:500:14:6118:ad:0:0:1 204.61.216.118
 nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e:0:0:0:0:1
+ds-rdata:     53599 8 2 C5646A4E1BEE8C2699D3CC3C4F597F8767B85A134FE5EE5DFE8B3D25B1534D3A
 
 status:       ACTIVE
 remarks:      Registration information: http://www.nic.kw
 
 created:      1992-10-26
-changed:      2019-02-12
+changed:      2019-03-27
 source:       IANA
 
