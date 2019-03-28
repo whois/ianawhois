@@ -17,14 +17,15 @@ phone:        +61 2 9247 8230
 e-mail:       contact@peoplebrowsr.com
 
 contact:      technical
-name:         Director
-organisation: Neustar, Inc.
-address:      21575 Ridgetop Circle
-address:      Sterling, VA 20166
-address:      United States
-phone:        +1 844-677-2878
-fax-no:       +1 571-434-5401
-e-mail:       technical1@registry.neustar
+name:         CTO
+organisation: CentralNic
+address:      35-39 Moorgate
+address:      London
+address:      EC2R 6AR
+address:      United Kingdom
+phone:        +44 2033880600
+fax-no:       +44 2033880601
+e-mail:       tld.ops@centralnic.com
 
 nserver:      A.NIC.KRED 194.169.218.79 2001:67c:13cc:0:0:0:1:79
 nserver:      B.NIC.KRED 185.24.64.79 2a04:2b00:13cc:0:0:0:1:79
@@ -41,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.peoplebrowsr.com
 
 created:      2014-02-20
-changed:      2018-08-22
+changed:      2019-03-28
 source:       IANA
 
