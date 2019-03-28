@@ -38,12 +38,12 @@ nserver:      C0.NIC.ECO 2a01:8840:d4:0:0:0:0:17 65.22.218.17
 ds-rdata:     58611 7 1 68f1d907fd681333f86712f1fe03e8ae17ea2eaf
 ds-rdata:     58611 7 2 68c4ad6711006396b87d983573ecfde8a92bf547df72eca7fa43ade76f729ce9
 
-whois:        whois.afilias-srs.net
+whois:        whois.nic.eco
 
 status:       ACTIVE
-remarks:      Registration information: http://www.bigroom.ca
+remarks:      Registration information: https://www.bigroom.eco
 
 created:      2016-08-18
-changed:      2016-09-08
+changed:      2019-03-27
 source:       IANA
 
