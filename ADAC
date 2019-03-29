@@ -21,13 +21,13 @@ e-mail:       tldadac@adac.de
 
 contact:      technical
 name:         CTO
-organisation: KSregistry GmbH
-address:      Im Oberen Werk 1
-address:      66386 St. Ingbert
-address:      Germany
-phone:         +49.68949396250
-fax-no:       +49.68949396251
-e-mail:       icann@ksregistry.com
+organisation: CentralNic
+address:      35-39 Moorgate
+address:      London EC2R 6AR
+address:      United Kingdom
+phone:        +44.2033880600
+fax-no:       +44.2033880601
+e-mail:       tld.ops@centralnic.com
 
 nserver:      A.NIC.ADAC 194.169.218.74 2001:67c:13cc:0:0:0:1:74
 nserver:      B.NIC.ADAC 185.24.64.74 2a04:2b00:13cc:0:0:0:1:74
@@ -44,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.adac
 
 created:      2015-11-20
-changed:      2019-03-25
+changed:      2019-03-29
 source:       IANA
 
