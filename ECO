@@ -5,7 +5,7 @@
 domain:       ECO
 
 organisation: Big Room Inc.
-address:      332 - 237 Keefer St
+address:      332 - 237 Keefer Street
 address:      Vancouver, BC
 address:      V6A 1X6
 address:      Canada
@@ -13,12 +13,12 @@ address:      Canada
 contact:      administrative
 name:         Registry Policy and Compliance
 organisation: Big Room Inc.
-address:      332 - 237 Keefer St
+address:      332 - 237 Keefer Street
 address:      Vancouver, BC
 address:      V6A 1X6
 address:      Canada
 phone:        16046826673
-e-mail:       iana-contact@bigroom.ca
+e-mail:       iana-contact@bigroom.eco
 
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
@@ -44,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.bigroom.eco
 
 created:      2016-08-18
-changed:      2019-03-27
+changed:      2019-03-29
 source:       IANA
 
