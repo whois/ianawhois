@@ -27,9 +27,10 @@ phone:        +1 844-677-2878
 fax-no:       +1 571-434-5401
 e-mail:       technical1@registry.neustar
 
-nserver:      NS1.DNS.NIC.AUDIBLE 156.154.144.17 2610:a1:1071:0:0:0:0:11
-nserver:      NS2.DNS.NIC.AUDIBLE 156.154.145.17 2610:a1:1072:0:0:0:0:11
-nserver:      NS3.DNS.NIC.AUDIBLE 156.154.159.17 2610:a1:1073:0:0:0:0:11
+nserver:      DNS1.NIC.AUDIBLE 213.248.218.56 2a01:618:402:0:0:0:0:56
+nserver:      DNS2.NIC.AUDIBLE 103.49.82.56 2401:fd80:402:0:0:0:0:56
+nserver:      DNS3.NIC.AUDIBLE 213.248.222.56 2a01:618:406:0:0:0:0:56
+nserver:      DNS4.NIC.AUDIBLE 2401:fd80:406:0:0:0:0:56 43.230.50.56
 nserver:      NS4.DNS.NIC.AUDIBLE 156.154.156.17 2610:a1:1074:0:0:0:0:11
 nserver:      NS5.DNS.NIC.AUDIBLE 156.154.157.17 2610:a1:1075:0:0:0:0:11
 nserver:      NS6.DNS.NIC.AUDIBLE 156.154.158.17 2610:a1:1076:0:0:0:0:11
@@ -43,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.amazonregistry.com/
 
 created:      2016-05-19
-changed:      2019-02-22
+changed:      2019-03-31
 source:       IANA
 
