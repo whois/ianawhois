@@ -5,15 +5,15 @@
 domain:       QUEBEC
 
 organisation: PointQuébec Inc
-address:      355 rue Peel, suite 111
-address:      Montréal (Québec) H3C 2G9
+address:      330-55, rue de Louvain Ouest
+address:      Montréal (Québec) H2N 1A4
 address:      Canada
 
 contact:      administrative
 name:         Normand Fortier
 organisation: PointQuébec Inc
-address:      355 rue Peel, bureau 111
-address:      Montréal (Québec) H3C 2G9
+address:      330-55, rue de Louvain Ouest
+address:      Montréal (Québec) H2N 1A4
 address:      Canada
 phone:        +1.514-972-7777
 fax-no:       +1.877-917-9904
@@ -41,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.registre.quebec
 
 created:      2014-03-13
-changed:      2015-09-12
+changed:      2019-04-02
 source:       IANA
 
