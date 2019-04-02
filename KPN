@@ -20,13 +20,14 @@ e-mail:       laura.jansen@kpn.com
 
 contact:      technical
 name:         CTO
-organisation: KSregistry GmbH
-address:      Im Oberen Werk 1
-address:      66386 St. Ingbert
-address:      Germany
-phone:        +49.68949396250
-fax-no:       +49.68949396251
-e-mail:       icann@ksregistry.com
+organisation: CentralNic
+address:      35-39 Moorgate
+address:      London EC2R 6AR
+address:      UK
+address:      United Kingdom
+phone:        +44.2033880600
+fax-no:       +44.2033880601
+e-mail:       tld.ops@centralnic.com
 
 nserver:      A.NIC.KPN 194.169.218.90 2001:67c:13cc:0:0:0:1:90
 nserver:      B.NIC.KPN 185.24.64.90 2a04:2b00:13cc:0:0:0:1:90
@@ -40,6 +41,6 @@ ds-rdata:     10051 7 2 F265871198C769849F8ACF952F01FCD412C9B3DC5DBF8FCA98911D50
 status:       ACTIVE
 
 created:      2015-12-04
-changed:      2019-03-18
+changed:      2019-04-01
 source:       IANA
 
