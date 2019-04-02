@@ -5,15 +5,15 @@
 domain:       BAYERN
 
 organisation: Bayern Connect GmbH
-address:      Antonienstr. 3, 80802
-address:      Munich
+address:      Prannerstr. 10
+address:      Munich 80333
 address:      Germany
 
 contact:      administrative
 name:         Admin Contact
 organisation: Bayern Connect GmbH
-address:      Antonienstr. 3, 80802
-address:      Munich
+address:      Prannerstr. 10
+address:      Munich 80333
 address:      Germany
 phone:        +1-877-734-4783
 e-mail:       ops@mmx.co
@@ -46,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://mm-registry.com
 
 created:      2014-03-13
-changed:      2018-06-29
+changed:      2019-04-01
 source:       IANA
 
