@@ -32,8 +32,8 @@ e-mail:       iana@tld-box.at
 nserver:      A.DNS.NIC.VOTING 194.0.25.17 2001:678:20:0:0:0:0:17
 nserver:      M.DNS.NIC.VOTING 194.0.26.6 2001:67c:10e0:0:0:0:0:6
 nserver:      N.DNS.NIC.VOTING 194.0.24.6 2001:678:24:0:0:0:0:6
-ds-rdata:     20851 8 2 cf3979c7e9feac1519e3661f76d5ed7a43dc7d8dc14dbecf0a2dc757f38061ce
 ds-rdata:     51755 8 2 c65cb6885d44ef372400824799d8d6731e52dca6711cd1f7840329d49dc74e9a
+ds-rdata:     17941 8 2 E6BC6D8C2136BE07A700BBA0F4CEC5505DAFFCB3F6078BC612B50C6540C7D638
 
 whois:        whois.voting.tld-box.at
 
@@ -41,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.voting
 
 created:      2014-01-16
-changed:      2019-03-26
+changed:      2019-04-03
 source:       IANA
 
