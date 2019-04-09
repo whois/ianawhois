@@ -27,9 +27,10 @@ phone:        +1 844-677-2878
 fax-no:       +1 571-434-5401
 e-mail:       technical1@registry.neustar
 
-nserver:      NS1.DNS.NIC.ZAPPOS 156.154.144.187 2610:a1:1071:0:0:0:0:bb
-nserver:      NS2.DNS.NIC.ZAPPOS 156.154.145.187 2610:a1:1072:0:0:0:0:bb
-nserver:      NS3.DNS.NIC.ZAPPOS 156.154.159.187 2610:a1:1073:0:0:0:0:bb
+nserver:      DNS1.NIC.ZAPPOS 213.248.218.52 2a01:618:402:0:0:0:0:52
+nserver:      DNS2.NIC.ZAPPOS 103.49.82.52 2401:fd80:402:0:0:0:0:52
+nserver:      DNS3.NIC.ZAPPOS 213.248.222.52 2a01:618:406:0:0:0:0:52
+nserver:      DNS4.NIC.ZAPPOS 2401:fd80:406:0:0:0:0:52 43.230.50.52
 nserver:      NS4.DNS.NIC.ZAPPOS 156.154.156.187 2610:a1:1074:0:0:0:0:bb
 nserver:      NS5.DNS.NIC.ZAPPOS 156.154.157.187 2610:a1:1075:0:0:0:0:bb
 nserver:      NS6.DNS.NIC.ZAPPOS 156.154.158.187 2610:a1:1076:0:0:0:0:bb
@@ -43,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.amazonregistry.com/
 
 created:      2016-05-19
-changed:      2019-02-21
+changed:      2019-04-09
 source:       IANA
 
