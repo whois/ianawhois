@@ -18,22 +18,25 @@ fax-no:       +1 206 946 7702
 e-mail:       wanggou-rzm@amazon.com
 
 contact:      technical
-name:         Director
-organisation: Neustar, Inc.
-address:      21575 Ridgetop Circle
-address:      Sterling, VA 20166
-address:      United States
-phone:        +1 844-677-2878
-fax-no:       +1 571-434-5401
-e-mail:       technical1@registry.neustar
+name:         TLD Registry Services Technical
+organisation: Nominet
+address:      Minerva House,
+address:      Edmund Halley Road,
+address:      Oxford Science Park,
+address:      Oxford
+address:      OX4 4DQ
+address:      United Kingdom
+phone:        +44.1865332211
+e-mail:       registrytechnical@nominet.uk
 
 nserver:      DNS1.NIC.WANGGOU 213.248.218.86 2a01:618:402:0:0:0:0:86
 nserver:      DNS2.NIC.WANGGOU 103.49.82.86 2401:fd80:402:0:0:0:0:86
 nserver:      DNS3.NIC.WANGGOU 213.248.222.86 2a01:618:406:0:0:0:0:86
 nserver:      DNS4.NIC.WANGGOU 2401:fd80:406:0:0:0:0:86 43.230.50.86
-nserver:      NS4.DNS.NIC.WANGGOU 156.154.156.177 2610:a1:1074:0:0:0:0:b1
-nserver:      NS5.DNS.NIC.WANGGOU 156.154.157.177 2610:a1:1075:0:0:0:0:b1
-nserver:      NS6.DNS.NIC.WANGGOU 156.154.158.177 2610:a1:1076:0:0:0:0:b1
+nserver:      DNSA.NIC.WANGGOU 156.154.100.3 2001:502:ad09:0:0:0:0:3
+nserver:      DNSB.NIC.WANGGOU 156.154.101.3
+nserver:      DNSC.NIC.WANGGOU 156.154.102.3
+nserver:      DNSD.NIC.WANGGOU 156.154.103.3
 ds-rdata:     63689 8 1 75754E9E01A3BBFCFD77C82173F08BA7D71DF0F5
 ds-rdata:     63689 8 2 C62FA5DD0560B314B918B9826EB7D298C0399784AE2550F7BEDB182C075B014D
 ds-rdata:     12085 8 1 D8E7604182CF05875A71BF104D58D1FF9D872D8F
@@ -44,6 +47,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.amazonregistry.com
 
 created:      2015-11-12
-changed:      2019-03-31
+changed:      2019-04-10
 source:       IANA
 
