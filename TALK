@@ -18,22 +18,25 @@ fax-no:       +1-206-946-7702
 e-mail:       talk-rzm@amazon.com
 
 contact:      technical
-name:         Director
-organisation: Neustar, Inc.
-address:      21575 Ridgetop Circle
-address:      Sterling, VA 20166
-address:      United States
-phone:        +1 844-677-2878
-fax-no:       +1 571-434-5401
-e-mail:       technical1@registry.neustar
+name:         TLD Registry Services Technical
+organisation: Nominet
+address:      Minerva House,
+address:      Edmund Halley Road,
+address:      Oxford Science Park,
+address:      Oxford
+address:      OX4 4DQ
+address:      United Kingdom
+phone:        +44.1865332211
+e-mail:       registrytechnical@nominet.uk
 
 nserver:      DNS1.NIC.TALK 213.248.218.83 2a01:618:402:0:0:0:0:83
 nserver:      DNS2.NIC.TALK 103.49.82.83 2401:fd80:402:0:0:0:0:83
 nserver:      DNS3.NIC.TALK 213.248.222.83 2a01:618:406:0:0:0:0:83
 nserver:      DNS4.NIC.TALK 2401:fd80:406:0:0:0:0:83 43.230.50.83
-nserver:      NS4.DNS.NIC.TALK 156.154.172.51 2610:a1:1074:0:0:0:1:33
-nserver:      NS5.DNS.NIC.TALK 156.154.173.51 2610:a1:1075:0:0:0:1:33
-nserver:      NS6.DNS.NIC.TALK 156.154.174.51 2610:a1:1076:0:0:0:1:33
+nserver:      DNSA.NIC.TALK 156.154.100.3 2001:502:ad09:0:0:0:0:3
+nserver:      DNSB.NIC.TALK 156.154.101.3
+nserver:      DNSC.NIC.TALK 156.154.102.3
+nserver:      DNSD.NIC.TALK 156.154.103.3
 ds-rdata:     38215 8 1 11C94EFF332BF672C9C908EAD31D6EA5549AD875
 ds-rdata:     38215 8 2 2DB39FDB4335C039E40D3B6D94A6D761DB7E7CC7D81D07FECE06C1D4F5821B46
 ds-rdata:     34492 8 1 6A11FC6633798507FF203F936971489561B17981
@@ -44,6 +47,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.amazonregistry.com
 
 created:      2016-03-18
-changed:      2019-03-31
+changed:      2019-04-10
 source:       IANA
 
