@@ -18,22 +18,25 @@ fax-no:       +1-206-946-7702
 e-mail:       tunes-rzm@amazon.com
 
 contact:      technical
-name:         Director
-organisation: Neustar, Inc.
-address:      21575 Ridgetop Circle
-address:      Sterling, VA 20166
-address:      United States
-phone:        +1 844-677-2878
-fax-no:       +1 571-434-5401
-e-mail:       technical1@registry.neustar
+name:         TLD Registry Services Technical
+organisation: Nominet
+address:      Minerva House,
+address:      Edmund Halley Road,
+address:      Oxford Science Park,
+address:      Oxford
+address:      OX4 4DQ
+address:      United Kingdom
+phone:        +44.1865332211
+e-mail:       registrytechnical@nominet.uk
 
 nserver:      DNS1.NIC.TUNES 213.248.218.84 2a01:618:402:0:0:0:0:84
 nserver:      DNS2.NIC.TUNES 103.49.82.84 2401:fd80:402:0:0:0:0:84
 nserver:      DNS3.NIC.TUNES 213.248.222.84 2a01:618:406:0:0:0:0:84
 nserver:      DNS4.NIC.TUNES 2401:fd80:406:0:0:0:0:84 43.230.50.84
-nserver:      NS4.DNS.NIC.TUNES 156.154.156.168 2610:a1:1074:0:0:0:0:a8
-nserver:      NS5.DNS.NIC.TUNES 156.154.157.168 2610:a1:1075:0:0:0:0:a8
-nserver:      NS6.DNS.NIC.TUNES 156.154.158.168 2610:a1:1076:0:0:0:0:a8
+nserver:      DNSA.NIC.TUNES 156.154.100.3 2001:502:ad09:0:0:0:0:3
+nserver:      DNSB.NIC.TUNES 156.154.101.3
+nserver:      DNSC.NIC.TUNES 156.154.102.3
+nserver:      DNSD.NIC.TUNES 156.154.103.3
 ds-rdata:     1952 8 1 DA268028DFB65C47BF42700B41E23AA4A4E6046F
 ds-rdata:     1952 8 2 D8926A9E743C9A2F574FFABD3BB33D623E698CA9BC34BEA68DBB6C7C90ED2BC0
 ds-rdata:     55972 8 2 5F22A27B9DC653BAF3D5CDD8F914E0DEBADB0571AD2ED42A7810E69573853896
@@ -44,6 +47,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.amazonregistry.com
 
 created:      2016-01-29
-changed:      2019-03-31
+changed:      2019-04-10
 source:       IANA
 
