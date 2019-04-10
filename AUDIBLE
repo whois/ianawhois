@@ -18,22 +18,26 @@ fax-no:       +12069467702
 e-mail:       audible-rzm@amazon.com
 
 contact:      technical
-name:         Director
-organisation: Neustar, Inc.
-address:      21575 Ridgetop Circle
-address:      Sterling, VA 20166
-address:      United States
-phone:        +1 844-677-2878
+name:         TLD Registry Services Technical
+organisation: Nominet
+address:      Minerva House,
+address:      Edmund Halley Road,
+address:      Oxford Science Park,
+address:      Oxford
+address:      OX4 4DQ
+address:      United Kingdom
+phone:        +44.1865332211
 fax-no:       +1 571-434-5401
-e-mail:       technical1@registry.neustar
+e-mail:       registrytechnical@nominet.uk
 
 nserver:      DNS1.NIC.AUDIBLE 213.248.218.56 2a01:618:402:0:0:0:0:56
 nserver:      DNS2.NIC.AUDIBLE 103.49.82.56 2401:fd80:402:0:0:0:0:56
 nserver:      DNS3.NIC.AUDIBLE 213.248.222.56 2a01:618:406:0:0:0:0:56
 nserver:      DNS4.NIC.AUDIBLE 2401:fd80:406:0:0:0:0:56 43.230.50.56
-nserver:      NS4.DNS.NIC.AUDIBLE 156.154.156.17 2610:a1:1074:0:0:0:0:11
-nserver:      NS5.DNS.NIC.AUDIBLE 156.154.157.17 2610:a1:1075:0:0:0:0:11
-nserver:      NS6.DNS.NIC.AUDIBLE 156.154.158.17 2610:a1:1076:0:0:0:0:11
+nserver:      DNSA.NIC.AUDIBLE 156.154.100.3 2001:502:ad09:0:0:0:0:3
+nserver:      DNSB.NIC.AUDIBLE 156.154.101.3
+nserver:      DNSC.NIC.AUDIBLE 156.154.102.3
+nserver:      DNSD.NIC.AUDIBLE 156.154.103.3
 ds-rdata:     48172 8 1 0683AF44470D668F0FB522B524AF18AB7F9268DB
 ds-rdata:     48172 8 2 DA9546B9F958878427E72DA357A438301F38F756D616C975D66A5BE30BC3F455
 ds-rdata:     24172 8 1 C9D5F3C66A298835A5E099FD03544C9BDCE1917A
@@ -44,6 +48,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.amazonregistry.com/
 
 created:      2016-05-19
-changed:      2019-03-31
+changed:      2019-04-10
 source:       IANA
 
