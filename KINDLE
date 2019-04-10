@@ -18,22 +18,25 @@ fax-no:       +12069467702
 e-mail:       kindle-rzm@amazon.com
 
 contact:      technical
-name:         Director
-organisation: Neustar, Inc.
-address:      21575 Ridgetop Circle
-address:      Sterling, VA 20166
-address:      United States
-phone:        +1 844-677-2878
-fax-no:       +1 571-434-5401
-e-mail:       technical1@registry.neustar
+name:         TLD Registry Services Technical
+organisation: Nominet
+address:      Minerva House,
+address:      Edmund Halley Road,
+address:      Oxford Science Park,
+address:      Oxford
+address:      OX4 4DQ
+address:      United Kingdom
+phone:        +44.1865332211
+e-mail:       registrytechnical@nominet.uk
 
 nserver:      DNS1.NIC.KINDLE 213.248.218.58 2a01:618:402:0:0:0:0:58
 nserver:      DNS2.NIC.KINDLE 103.49.82.58 2401:fd80:402:0:0:0:0:58
 nserver:      DNS3.NIC.KINDLE 213.248.222.58 2a01:618:406:0:0:0:0:58
 nserver:      DNS4.NIC.KINDLE 2401:fd80:406:0:0:0:0:58 43.230.50.58
-nserver:      NS4.DNS.NIC.KINDLE 156.154.156.97 2610:a1:1074:0:0:0:0:61
-nserver:      NS5.DNS.NIC.KINDLE 156.154.157.97 2610:a1:1075:0:0:0:0:61
-nserver:      NS6.DNS.NIC.KINDLE 156.154.158.97 2610:a1:1076:0:0:0:0:61
+nserver:      DNSA.NIC.KINDLE 156.154.100.3 2001:502:ad09:0:0:0:0:3
+nserver:      DNSB.NIC.KINDLE 156.154.101.3
+nserver:      DNSC.NIC.KINDLE 156.154.102.3
+nserver:      DNSD.NIC.KINDLE 156.154.103.3
 ds-rdata:     47782 8 2 45963D18CBA1E64A54A8BDCDFB7C6CE5A6BD49033E8C7D3D35E7EB673B293FF5
 ds-rdata:     47782 8 1 DD92323D9FC025BFE17E5CA27C020A5FC804B705
 ds-rdata:     39250 8 1 C1FEEF1887830097939100FCE93C978E0FDA1288
@@ -44,6 +47,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.amazonregistry.com/
 
 created:      2016-05-19
-changed:      2019-04-01
+changed:      2019-04-10
 source:       IANA
 
