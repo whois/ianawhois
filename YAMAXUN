@@ -20,22 +20,25 @@ fax-no:       +12062661350
 e-mail:       yamaxun-rzm@amazon.com
 
 contact:      technical
-name:         Director
-organisation: Neustar, Inc.
-address:      21575 Ridgetop Circle
-address:      Sterling, VA 20166
-address:      United States
-phone:        +1 844-677-2878
-fax-no:       +1 571-434-5401
-e-mail:       technical1@registry.neustar
+name:         TLD Registry Services Technical
+organisation: Nominet
+address:      Minerva House,
+address:      Edmund Halley Road,
+address:      Oxford Science Park,
+address:      Oxford
+address:      OX4 4DQ
+address:      United Kingdom
+phone:        +44.1865332211
+e-mail:       registrytechnical@nominet.uk
 
 nserver:      DNS1.NIC.YAMAXUN 213.248.218.88 2a01:618:402:0:0:0:0:88
 nserver:      DNS2.NIC.YAMAXUN 103.49.82.88 2401:fd80:402:0:0:0:0:88
 nserver:      DNS3.NIC.YAMAXUN 213.248.222.88 2a01:618:406:0:0:0:0:88
 nserver:      DNS4.NIC.YAMAXUN 2401:fd80:406:0:0:0:0:88 43.230.50.88
-nserver:      NS4.DNS.NIC.YAMAXUN 156.154.156.185 2610:a1:1074:0:0:0:0:b9
-nserver:      NS5.DNS.NIC.YAMAXUN 156.154.157.185 2610:a1:1075:0:0:0:0:b9
-nserver:      NS6.DNS.NIC.YAMAXUN 156.154.158.185 2610:a1:1076:0:0:0:0:b9
+nserver:      DNSA.NIC.YAMAXUN 156.154.100.3 2001:502:ad09:0:0:0:0:3
+nserver:      DNSB.NIC.YAMAXUN 156.154.101.3
+nserver:      DNSC.NIC.YAMAXUN 156.154.102.3
+nserver:      DNSD.NIC.YAMAXUN 156.154.103.3
 ds-rdata:     40780 8 1 CAB17A91DA8F1F6635F0043FBCBEFF7BD68417A7
 ds-rdata:     40780 8 2 AB9C6B8F9F530B88A0A148734E2CA04F1301FE9AAF1F8FE557C47D929335FBBC
 ds-rdata:     54934 8 1 7C505D7B0E0B52BBEA563EAA45964769550BB2F3
@@ -46,6 +49,6 @@ status:       ACTIVE
 remarks:      Registration information: http://amazonregistry.com
 
 created:      2015-09-10
-changed:      2019-03-31
+changed:      2019-04-10
 source:       IANA
 
