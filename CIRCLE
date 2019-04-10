@@ -18,22 +18,25 @@ fax-no:       +1 206 946 7702
 e-mail:       circle-rzm@amazon.com
 
 contact:      technical
-name:         Director
-organisation: Neustar, Inc.
-address:      21575 Ridgetop Circle
-address:      Sterling, VA 20166
-address:      United States
-phone:        +1 844-677-2878
-fax-no:       +1 571-434-5401
-e-mail:       technical1@registry.neustar
+name:         TLD Registry Services Technical
+organisation: Nominet
+address:      Minerva House,
+address:      Edmund Halley Road,
+address:      Oxford Science Park,
+address:      Oxford
+address:      OX4 4DQ
+address:      United Kingdom
+phone:        +44.1865332211
+e-mail:       registrytechnical@nominet.uk
 
 nserver:      DNS1.NIC.CIRCLE 213.248.218.64 2a01:618:402:0:0:0:0:64
 nserver:      DNS2.NIC.CIRCLE 103.49.82.64 2401:fd80:402:0:0:0:0:64
 nserver:      DNS3.NIC.CIRCLE 213.248.222.64 2a01:618:406:0:0:0:0:64
 nserver:      DNS4.NIC.CIRCLE 2401:fd80:406:0:0:0:0:64 43.230.50.64
-nserver:      NS4.DNS.NIC.CIRCLE 156.154.156.43 2610:a1:1074:0:0:0:0:2b
-nserver:      NS5.DNS.NIC.CIRCLE 156.154.157.43 2610:a1:1075:0:0:0:0:2b
-nserver:      NS6.DNS.NIC.CIRCLE 156.154.158.43 2610:a1:1076:0:0:0:0:2b
+nserver:      DNSA.NIC.CIRCLE 156.154.100.3 2001:502:ad09:0:0:0:0:3
+nserver:      DNSB.NIC.CIRCLE 156.154.101.3
+nserver:      DNSC.NIC.CIRCLE 156.154.102.3
+nserver:      DNSD.NIC.CIRCLE 156.154.103.3
 ds-rdata:     6832 8 1 E7CCAAB2EA3C9134EB0E1ADC9D17356F3492AAEF
 ds-rdata:     6832 8 2 BDB1610AD69AABE78C4491242C151FD6DA0131A2071B1A332F3665922D947DF7
 ds-rdata:     12949 8 2 75A9C725B37AB8524589A51EB76EA66AE585A7569E6B3CC4288F2E43B5A577D2
@@ -44,6 +47,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.amazonregistry.com
 
 created:      2015-11-12
-changed:      2019-04-01
+changed:      2019-04-10
 source:       IANA
 
