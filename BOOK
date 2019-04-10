@@ -18,22 +18,25 @@ fax-no:       +1 206 946 7702
 e-mail:       book-rzm@amazon.com
 
 contact:      technical
-name:         Director
-organisation: Neustar, Inc.
-address:      21575 Ridgetop Circle
-address:      Sterling, VA 20166
-address:      United States
-phone:        +1 844-677-2878
-fax-no:       +1 571-434-5401
-e-mail:       technical1@registry.neustar
+name:         TLD Registry Services Technical
+organisation: Nominet
+address:      Minerva House,
+address:      Edmund Halley Road,
+address:      Oxford Science Park,
+address:      Oxford
+address:      OX4 4DQ
+address:      United Kingdom
+phone:        +44.1865332211
+e-mail:       registrytechnical@nominet.uk
 
 nserver:      DNS1.NIC.BOOK 213.248.218.61 2a01:618:402:0:0:0:0:61
 nserver:      DNS2.NIC.BOOK 103.49.82.61 2401:fd80:402:0:0:0:0:61
 nserver:      DNS3.NIC.BOOK 213.248.222.61 2a01:618:406:0:0:0:0:61
 nserver:      DNS4.NIC.BOOK 2401:fd80:406:0:0:0:0:61 43.230.50.61
-nserver:      NS4.DNS.NIC.BOOK 156.154.156.204 2610:a1:1074:0:0:0:0:cc
-nserver:      NS5.DNS.NIC.BOOK 156.154.157.204 2610:a1:1075:0:0:0:0:cc
-nserver:      NS6.DNS.NIC.BOOK 156.154.158.204 2610:a1:1076:0:0:0:0:cc
+nserver:      DNSA.NIC.BOOK 156.154.100.3 2001:502:ad09:0:0:0:0:3
+nserver:      DNSB.NIC.BOOK 156.154.101.3
+nserver:      DNSC.NIC.BOOK 156.154.102.3
+nserver:      DNSD.NIC.BOOK 156.154.103.3
 ds-rdata:     45407 8 1 2DBEEB57D0479131741440B82FDC3AB456C3D832
 ds-rdata:     45407 8 2 77DA14EAFB506982A000C43C08938BD70E7B27D429FC6461542BCAFE3152FBC9
 ds-rdata:     48415 8 1 10C15186B996D73003285E0CBA06DC40DD52ABD0
@@ -44,6 +47,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.amazonregistry.com
 
 created:      2015-11-12
-changed:      2019-04-01
+changed:      2019-04-10
 source:       IANA
 
