@@ -18,22 +18,25 @@ fax-no:       +1-206-946-7702
 e-mail:       pay-rzm@amazon.com
 
 contact:      technical
-name:         Director
-organisation: Neustar, Inc.
-address:      21575 Ridgetop Circle
-address:      Sterling, VA 20166
-address:      United States
-phone:        +1 844-677-2878
-fax-no:       +1 571-434-5401
-e-mail:       technical1@registry.neustar
+name:         TLD Registry Services Technical
+organisation: Nominet
+address:      Minerva House,
+address:      Edmund Halley Road,
+address:      Oxford Science Park,
+address:      Oxford
+address:      OX4 4DQ
+address:      United Kingdom
+phone:        +44.1865332211
+e-mail:       registrytechnical@nominet.uk
 
 nserver:      DNS1.NIC.PAY 213.248.218.74 2a01:618:402:0:0:0:0:74
 nserver:      DNS2.NIC.PAY 103.49.82.74 2401:fd80:402:0:0:0:0:74
 nserver:      DNS3.NIC.PAY 213.248.222.74 2a01:618:406:0:0:0:0:74
 nserver:      DNS4.NIC.PAY 2401:fd80:406:0:0:0:0:74 43.230.50.74
-nserver:      NS4.DNS.NIC.PAY 156.154.172.26 2610:a1:1074:0:0:0:1:1a
-nserver:      NS5.DNS.NIC.PAY 156.154.173.26 2610:a1:1075:0:0:0:1:1a
-nserver:      NS6.DNS.NIC.PAY 156.154.174.26 2610:a1:1076:0:0:0:1:1a
+nserver:      DNSA.NIC.PAY 156.154.100.3 2001:502:ad09:0:0:0:0:3
+nserver:      DNSB.NIC.PAY 156.154.101.3
+nserver:      DNSC.NIC.PAY 156.154.102.3
+nserver:      DNSD.NIC.PAY 156.154.103.3
 ds-rdata:     12212 8 1 1E610A73A69455DE95C08A535DD5A06BCB0D4FAC
 ds-rdata:     12212 8 2 5D12A80C7BCA3BA5607BA0FF846C827199382728241B18B7606113FD19C22AE4
 ds-rdata:     36610 8 1 AC611AF824EED42BDAF03FC56F1CEED329AB6A56
@@ -44,6 +47,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.amazonregistry.com/
 
 created:      2016-07-21
-changed:      2019-04-01
+changed:      2019-04-10
 source:       IANA
 
