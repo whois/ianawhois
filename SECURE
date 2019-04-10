@@ -18,22 +18,25 @@ fax-no:       +1-206-946-7702
 e-mail:       secure-rzm@amazon.com
 
 contact:      technical
-name:         Director
-organisation: Neustar, Inc.
-address:      21575 Ridgetop Circle
-address:      Sterling, VA 20166
-address:      United States
-phone:        +1 844-677-2878
-fax-no:       +1 571-434-5401
-e-mail:       technical1@registry.neustar
+name:         TLD Registry Services Technical
+organisation: Nominet
+address:      Minerva House,
+address:      Edmund Halley Road,
+address:      Oxford Science Park,
+address:      Oxford
+address:      OX4 4DQ
+address:      United Kingdom
+phone:        +44.1865332211
+e-mail:       registrytechnical@nominet.uk
 
 nserver:      DNS1.NIC.SECURE 213.248.218.80 2a01:618:402:0:0:0:0:80
 nserver:      DNS2.NIC.SECURE 103.49.82.80 2401:fd80:402:0:0:0:0:80
 nserver:      DNS3.NIC.SECURE 213.248.222.80 2a01:618:406:0:0:0:0:80
 nserver:      DNS4.NIC.SECURE 2401:fd80:406:0:0:0:0:80 43.230.50.80
-nserver:      NS4.DNS.NIC.SECURE 156.154.172.43 2610:a1:1074:0:0:0:1:2b
-nserver:      NS5.DNS.NIC.SECURE 156.154.173.43 2610:a1:1075:0:0:0:1:2b
-nserver:      NS6.DNS.NIC.SECURE 156.154.174.43 2610:a1:1076:0:0:0:1:2b
+nserver:      DNSA.NIC.SECURE 156.154.100.3 2001:502:ad09:0:0:0:0:3
+nserver:      DNSB.NIC.SECURE 156.154.101.3
+nserver:      DNSC.NIC.SECURE 156.154.102.3
+nserver:      DNSD.NIC.SECURE 156.154.103.3
 ds-rdata:     59105 8 1 889346D3DCE3584C4E4A7D48C4D8208B6AF4DB04
 ds-rdata:     59105 8 2 8B0F0BFEE70B6A1EEFEF801085EAE62DD371562B5ADD48FFD752CD44F748F02F
 ds-rdata:     65185 8 1 B9B18292853E2BB2EEB3AA783A13459FB0579CF5
@@ -44,6 +47,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.amazonregistry.com/
 
 created:      2016-07-21
-changed:      2019-04-01
+changed:      2019-04-10
 source:       IANA
 
