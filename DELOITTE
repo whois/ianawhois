@@ -10,7 +10,7 @@ address:      New York, NY 10112-0015
 address:      United States
 
 contact:      administrative
-name:         Sarah Corley
+name:         Manager
 organisation: Deloitte Touche Tohmatsu Services, Inc.
 address:      111 S Wacker Dr
 address:      Chicago, IL 60611
@@ -42,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.deloitte
 
 created:      2015-12-23
-changed:      2019-03-27
+changed:      2019-04-11
 source:       IANA
 
