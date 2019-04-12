@@ -30,7 +30,7 @@ phone:        +82 61 820 1510
 fax-no:       +82 2 405 5149
 e-mail:       techc@kisa.or.kr
 
-nserver:      B.DNS.KR 61.74.75.1
+nserver:      B.DNS.KR 210.101.60.1
 nserver:      C.DNS.KR 210.101.61.1
 nserver:      D.DNS.KR 2001:dcc:4:0:0:0:0:1 203.83.159.1
 nserver:      E.DNS.KR 2001:dcc:5:0:0:0:0:100 202.30.124.100
@@ -44,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.or.kr
 
 created:      2011-02-05
-changed:      2019-03-25
+changed:      2019-04-12
 source:       IANA
 
