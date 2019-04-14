@@ -33,6 +33,7 @@ nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
 nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
 ds-rdata:     36355 8 2 f26dbb78243d733e151a2d027cba30c8a88d60bd0453e684973b4eb34bf01a8d
 ds-rdata:     4871 8 2 F340F11BF3E65776AA8708BF48D18D19480D51259224DCCA843B2A58774F6384
+ds-rdata:     9985 8 2 A44606E0A167E5AD0EB099046781D8BC633CD7729568E1DB513193777402CE87
 
 whois:        whois-sncf.nic.fr
 
@@ -40,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.sncf.com
 
 created:      2015-05-08
-changed:      2018-10-12
+changed:      2019-04-14
 source:       IANA
 
