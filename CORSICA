@@ -37,6 +37,7 @@ nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
 nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
 ds-rdata:     63082 8 2 84c01935da9b0dc9b26fee9d2c390f5fc2bd946cd5c0b325327bf83914349ae2
 ds-rdata:     59795 8 2 7B36A72EFFC1881D030FC7FC030A9C8B14DE72E5E65E85D21BCFAE9979375C5D
+ds-rdata:     50284 8 2 EB18B1852A73C378572BF3D3B86DE99BEC9B56657AF8A18F89CE9DF0647B6850
 
 whois:        whois-corsica.nic.fr
 
@@ -44,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.corse.fr
 
 created:      2015-04-23
-changed:      2019-02-26
+changed:      2019-04-16
 source:       IANA
 
