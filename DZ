@@ -10,14 +10,14 @@ address:      Algiers  16035
 address:      Algeria
 
 contact:      administrative
-name:         Moussa Benhamadi
+name:         Administrative Manager
 organisation: CERIST
 address:      Rue des Trois Feres Aissiou, Ben-Aknoun
 address:      Algiers  16035
 address:      Algeria
-phone:        +213 21 91 54 34
-fax-no:       +213 21 91 62 10
-e-mail:       mbenhamadi@wissal.dz
+phone:        +213 23 25 54 08
+fax-no:       +213 23 25 54 02
+e-mail:       dznicman@nic.dz
 
 contact:      technical
 name:         Aouaouche El-Maouhab
@@ -25,8 +25,8 @@ organisation: CERIST
 address:      Rue des Trois Freres Aissiou, Ben-Aknoun
 address:      Algiers  16035
 address:      Algeria
-phone:        +213 21 91 54 34
-fax-no:       +213 21 91 62 10
+phone:        +213 23 25 54 08
+fax-no:       +213 23 25 54 02
 e-mail:       elmaouhab@wissal.dz
 
 nserver:      NS-DZ.AFRINIC.NET 196.216.168.36 2001:43f8:120:0:0:0:0:36
@@ -42,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.dz
 
 created:      1994-01-03
-changed:      2015-12-29
+changed:      2019-04-15
 source:       IANA
 
