@@ -21,14 +21,14 @@ fax-no:       +49 6894 93 96 251
 e-mail:       info@nic.saarland
 
 contact:      technical
-name:         Registry Service
-organisation: KSregistry GmbH
-address:      Im Oberen Werk 1
-address:      66386 St. Ingbert
-address:      Germany
-phone:        +49 6894 9396 250
-fax-no:       +49 6894 93 96 251
-e-mail:       info@nic.saarland
+name:         CTO
+organisation: CentralNic
+address:      35-39 Moorgate
+address:      London, EC2R 6AR
+address:      United Kingdom
+phone:        +44.2033880600
+fax-no:       +44.2033880601
+e-mail:       tld.ops@centralnic.com
 
 nserver:      A.NIC.SAARLAND 194.169.218.97 2001:67c:13cc:0:0:0:1:97
 nserver:      B.NIC.SAARLAND 185.24.64.97 2a04:2b00:13cc:0:0:0:1:97
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic-saarland.de
 
 created:      2014-03-20
-changed:      2019-03-22
+changed:      2019-04-16
 source:       IANA
 
