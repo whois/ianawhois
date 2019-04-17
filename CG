@@ -4,37 +4,40 @@
 
 domain:       CG
 
-organisation: ONPT Congo and Interpoint Switzerland
-address:      Avenue E. Patrice Lumumba
-address:      Brazzaville  BRV
+organisation: Interpoint Switzerland
+address:      c/o ARPCE
+address:      Avenue de l’Amitié, Centre-Ville
+address:      Brazzaville
 address:      Congo
 
 contact:      administrative
 name:         Monsieur Romuald Bonvin
 organisation: Interpoint Switzerland
-address:      Avenue Patrice Lumumba
+address:      c/o ARPCE
+address:      Avenue de l’Amitié, Centre-Ville
 address:      Brazzaville
 address:      Congo
 phone:        +41 44 519 00 60
-e-mail:       admin-cg-contact@dnsafrica.net
+e-mail:       contact-admin@dnsafrica.net
 
 contact:      technical
 name:         Monsieur Frédéric Grégoire
 organisation: Interpoint Switzerland
-address:      Case Postale 1336
-address:      Lausanne  1001
+address:      Swiss Post Box 100703
+address:      Zürcherstrasse 161
+address:      8010 Zürich
 address:      Switzerland
 phone:        +41 44 519 00 60
-e-mail:       tech-cg-contact@dnsafrica.net
+e-mail:       contact-tech@dnsafrica.net
 
 nserver:      DNS-FR.DNSAFRICA.NET 151.80.35.161
 nserver:      DNS-ZA.DNSAFRICA.NET 41.185.30.170
 nserver:      SUNIC.SUNET.SE 192.36.125.2 2001:6b0:7:0:0:0:0:2
 
 status:       ACTIVE
-remarks:      Registration information: http://www.nic.cg
+remarks:      Registration information: https://www.dnsafrica.net
 
 created:      1997-01-14
-changed:      2017-05-19
+changed:      2019-04-17
 source:       IANA
 
