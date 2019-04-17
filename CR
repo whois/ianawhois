@@ -40,6 +40,7 @@ nserver:      NS-EXT.NIC.CL 200.1.123.14 2001:1398:1:0:200:1:123:14
 nserver:      NS3.NIC.MX 200.33.111.1
 nserver:      P.NIC.CR 2001:500:14:6089:ad:0:0:1 204.61.216.89
 ds-rdata:     39844 8 2 53273C8AC1D0ACF9030D907C3A731BE98241E5EF6DBB51F5CE91CDB09534AB1C
+ds-rdata:     41186 8 2 5B49B4D158051E05927C5096668A0193D669A797E1D3EEF6CC50C521B949CA96
 
 whois:        whois.nic.cr
 
@@ -47,6 +48,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.cr/
 
 created:      1990-09-10
-changed:      2018-10-29
+changed:      2019-04-17
 source:       IANA
 
