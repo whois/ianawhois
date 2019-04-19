@@ -35,6 +35,8 @@ nserver:      NS2.NIC.DZ 213.179.160.66
 nserver:      NS3.NIC.FR 192.134.0.49 2001:660:3006:1:0:0:1:1
 nserver:      NS4.NIC.DZ 2001:500:14:6103:ad:0:0:1 204.61.216.103
 nserver:      NS5.NIC.DZ 193.0.9.71 2001:67c:e0:0:0:0:0:71
+ds-rdata:     17380 8 1 E624A5121244D5706C2126AE7B48CE7546DB0E21
+ds-rdata:     17380 8 2 71034E42FCAA30ABC99190C2B1D99D4D3D9C7CE005E020699A047D2B36E28AEF
 
 whois:        whois.nic.dz
 
@@ -42,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.dz
 
 created:      1994-01-03
-changed:      2019-04-15
+changed:      2019-04-19
 source:       IANA
 
