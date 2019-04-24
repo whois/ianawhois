@@ -19,12 +19,15 @@ phone:        +298 550050
 e-mail:       gudrun@nic.fo
 
 contact:      technical
-name:         FO-Umsitingin
-organisation: FO-Umsitingin
-address:      Tinghúsvegur 57
-address:      Faroe Islands
-phone:        +298 898900
-e-mail:       nic@nic.fo
+name:         CTO
+organisation: CentralNic
+address:      35-39 Moorgate
+address:      London
+address:      EC2R 6AR
+address:      United Kingdom
+phone:        +44 2033880600
+fax-no:       +44 2033880601
+e-mail:       tld.ops@centralnic.com
 
 nserver:      A.NIC.FO 194.169.218.27 2001:67c:13cc:0:0:0:1:27
 nserver:      B.NIC.FO 185.24.64.27 2a04:2b00:13cc:0:0:0:1:27
@@ -39,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.fo/
 
 created:      1993-05-14
-changed:      2017-10-20
+changed:      2019-04-23
 source:       IANA
 
