@@ -11,16 +11,16 @@ address:      Kigali
 address:      Rwanda
 
 contact:      administrative
-name:         CEO
+name:         IT Manager
 organisation: Rwanda Internet Community and Technology  Alliance (RICTA) Ltd
 address:      6th floor, Telecom House building, KG #7, Kacyiru Sector, Gasabo District, Kigali City
 address:      Republic of Rwanda
 address:      Rwanda
-phone:        +250788470507
+phone:        +250788424148
 e-mail:       rw-adm@ricta.org.rw
 
 contact:      technical
-name:         ccTLD Technical Manager
+name:         IT Manager
 organisation: Rwanda Internet Community and Technology  Alliance (RICTA) Ltd
 address:      6th floor, Telecom House Building, KG #7, Kacyiru Sector, Gasabo District, Kigali City
 address:      Republic of Rwanda
@@ -38,6 +38,6 @@ status:       ACTIVE
 remarks:      Registration information: https://registry.ricta.org.rw
 
 created:      1996-10-21
-changed:      2018-06-22
+changed:      2019-04-29
 source:       IANA
 
