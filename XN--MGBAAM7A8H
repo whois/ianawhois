@@ -12,25 +12,21 @@ address:      Dubai
 address:      United Arab Emirates
 
 contact:      administrative
-name:         Mohammed Gheyath, Executive Director Technology Development Affairs
+name:         Director Policies and Programs
 organisation: Telecommunications Regulatory Authority (TRA)
-address:      P.O. Box 116688
-address:      EMAAR Square, Bld #4, Floor #6, Office 601
+address:      P.O. Box: 116688
 address:      Dubai
 address:      United Arab Emirates
-phone:        +971 4 428 8888
-fax-no:       +971 4 428 8800
-e-mail:       iana@tra.ae
+phone:        +971 4 7774018
+e-mail:       iana@tra.gov.ae
 
 contact:      technical
-name:         DNS Admin
+name:         Senior Manager .aeDA
 organisation: .ae Domain Administration (.aeDA)
-address:      P.O. Box 116688
-address:      EMAAR Square, Bld #4, Floor #6, Office 601
+address:      P.O. Box: 116688
 address:      Dubai
 address:      United Arab Emirates
-phone:        +971 4 428 8818
-fax-no:       +971 4 428 8811
+phone:        +971 4 7774018
 e-mail:       dns@aeda.ae
 
 nserver:      NS1.AEDNS.AE 79.98.120.73
@@ -44,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://aeda.ae/
 
 created:      2010-05-05
-changed:      2011-03-10
+changed:      2019-04-29
 source:       IANA
 
