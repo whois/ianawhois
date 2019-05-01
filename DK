@@ -29,7 +29,7 @@ phone:        +45 3364 6060
 fax-no:       +45 3364 6066
 e-mail:       tld2019tech@dk-hostmaster.dk
 
-nserver:      A.NIC.DK 212.88.78.122
+nserver:      A.NIC.DK 2001:1580:0:180d:0:0:0:122 212.88.78.122
 nserver:      B.NIC.DK 193.163.102.222 2a01:630:0:80:0:0:0:53
 nserver:      C.NIC.DK 194.0.46.53 2001:678:74:0:0:0:0:53
 nserver:      L.NIC.DK 192.38.7.242 2001:7f8:1f:0:0:1835:242:0
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.dk-hostmaster.dk/
 
 created:      1987-07-14
-changed:      2019-02-06
+changed:      2019-05-01
 source:       IANA
 
