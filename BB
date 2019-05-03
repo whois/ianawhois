@@ -38,14 +38,17 @@ phone:        +1 246 535 2570
 fax-no:       +1 246 620 0960
 e-mail:       winston.devonish@telecoms.gov.bb
 
-nserver:      NS1.BARBADOSDOMAIN.NET 200.50.92.195
-nserver:      NS2.BARBADOSDOMAIN.NET 64.119.204.139
+nserver:      NS1.NIC.BB 2400:cb00:2049:1:0:0:a29f:1835 64.68.192.10
+nserver:      NS2.NIC.BB 198.41.222.254 2400:cb00:2049:1:0:0:c629:defe
+nserver:      NS3.NIC.BB 2620:49:3:0:0:0:0:10 64.68.196.10
+nserver:      NS4.NIC.BB 2620:49:4:0:0:0:0:10 64.68.197.10
+nserver:      NS5.NIC.BB 200.50.92.195
 
 status:       ACTIVE
 remarks:      Registration information:
 remarks:      http://www.whois.telecoms.gov.bb/
 
 created:      1991-09-03
-changed:      2018-07-17
+changed:      2019-05-02
 source:       IANA
 
