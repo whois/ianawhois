@@ -32,9 +32,7 @@ phone:        +260 (021) 1 378219
 fax-no:       +260 (021) 1 246 701
 e-mail:       zmtech@zicta.zm
 
-nserver:      NS-ZM.AFRINIC.NET 196.216.168.44 2001:43f8:120:0:0:0:0:44
-nserver:      NS1.ZAMNET.ZM 196.46.192.26
-nserver:      NS2.ZAMNET.ZM 196.46.192.21
+nserver:      COCCA.NIC.ZM 185.17.236.93 2a03:dd40:3:0:0:0:0:93
 nserver:      PCH.NIC.ZM 2001:500:14:6073:ad:0:0:1 204.61.216.73
 
 whois:        whois.nic.zm
@@ -43,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: https://registry.zicta.zm
 
 created:      1994-03-25
-changed:      2019-04-27
+changed:      2019-05-03
 source:       IANA
 
