@@ -10,23 +10,23 @@ address:      No.21 Financial Street, Xicheng District,  Beijing, Beijing  10003
 address:      China
 
 contact:      administrative
-name:         XiaoMin Zhou
+name:         Yun Zhou
 organisation: China United Network Communciations Corporation Limited
 address:      No.21 Financial Street, Xicheng District, Beijing, Beijing  100033
 address:      China
-phone:        +861066259626
-fax-no:       +861066259154
-e-mail:       zhouxm@chinaunicom.cn
+phone:        + 86 1066 259 710
+fax-no:       + 86 1066 259 154 
+e-mail:       hqs-gtld@chinaunicom.cn
 
 contact:      technical
-name:         Director
-organisation: Neustar, Inc.
-address:      21575 Ridgetop Circle
-address:      Sterling, VA 20166
-address:      United States
-phone:        +1 844-677-2878
-fax-no:       +1 571-434-5401
-e-mail:       technical1@registry.neustar
+name:         Lei Gao
+organisation: ZDNS, Ltd.
+address:      No.4,  South 4th Street, Zhongguancun
+address:      Haidian district, Beijing
+address:      China
+address:      China
+phone:        +86 150 1138 0586
+e-mail:       gaolei@zdns.cn
 
 nserver:      NS1.DNS.NIC.XN--8Y0A063A 156.154.144.172 2610:a1:1071:0:0:0:0:ac
 nserver:      NS2.DNS.NIC.XN--8Y0A063A 156.154.145.172 2610:a1:1072:0:0:0:0:ac
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://eng.chinaunicom.com
 
 created:      2015-12-10
-changed:      2018-08-22
+changed:      2019-05-04
 source:       IANA
 
