@@ -4,33 +4,30 @@
 
 domain:       TR
 
-organisation: Middle East Technical University
-organisation: Department of Computer Engineering
-address:      Inonu Bulvari
-address:      Ankara  06531
+organisation: Bilgi Teknolojileri ve İletişim Kurumu (BTK)
+address:      Eskisehir Yolu 10.Km No:276 Çankaya
+address:      Ankara 06530
 address:      Turkey
 
 contact:      administrative
-name:         Attila Ozgit
-organisation: Middle East Technical University
-organisation: Department of Computer Engineering
-address:      Inonu Bulvari
-address:      Ankara  06531
+name:         ICT Expert
+organisation: Bilgi Teknolojileri ve İletişim Kurumu
+address:      Eskisehir Yolu 10.Km No:276 Çankaya
+address:      Ankara 06530
 address:      Turkey
-phone:        +90 312 210 5555
-fax-no:       +90 312 210 5544
-e-mail:       ozgit@metu.edu.tr
+phone:        +90 (312) 403 15 82
+fax-no:       +90 (312) 294 71 45
+e-mail:       sezen.yesil@btk.gov.tr
 
 contact:      technical
-name:         Kursat Cagiltay
-organisation: Middle East Technical University
-organisation: Computer Center
-address:      Inonu Bulvari
-address:      Ankara  06531
+name:         ICT Expert 
+organisation: Bilgi Teknolojileri ve İletişim Kurumu
+address:      Eskisehir Yolu 10.Km No:276 Çankaya
+address:      Ankara 06530
 address:      Turkey
-phone:        +90 312 210 3683
-fax-no:       +90 312 210 1227
-e-mail:       kursat@metu.edu.tr
+phone:        +90 (312) 403 15 78
+fax-no:       +90 (312) 294 71 45
+e-mail:       onur.gencer@btk.gov.tr
 
 nserver:      NS21.NIC.TR 213.14.246.2
 nserver:      NS22.NIC.TR 213.14.246.6
@@ -46,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.tr
 
 created:      1990-09-17
-changed:      2018-04-11
+changed:      2019-05-06
 source:       IANA
 
