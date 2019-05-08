@@ -38,6 +38,7 @@ nserver:      SEC-DNS-A.ROTLD.RO 192.162.16.20 2a03:5e80:0:4:192:162:16:20
 nserver:      SEC-DNS-B.ROTLD.RO 193.230.31.230 2a03:5e80:0:5:193:230:31:230
 nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e:0:0:0:0:1
 ds-rdata:     19267 8 2 499357E3CC1449108F1E2BB70A1B952D140871A50E41138786EB51A2316468EA
+ds-rdata:     61747 8 2 B811661B569943E0EF75F722B4BB7379D9E70620516DD88809077D9F33578780
 
 whois:        whois.rotld.ro
 
@@ -45,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.rotld.ro/
 
 created:      1993-02-26
-changed:      2018-05-11
+changed:      2019-05-07
 source:       IANA
 
