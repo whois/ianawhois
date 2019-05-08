@@ -5,17 +5,15 @@
 domain:       EU
 
 organisation: EURid vzw/asbl
-address:      Parkstation
-address:      Woluwelaan 150
-address:      Diegem Vlaams Brabant 1831
+address:      Telecomlaan 9
+address:      1831 Diegem
 address:      Belgium
 
 contact:      administrative
 name:         Marc Van Wesemael
 organisation: EURid vzw/asbl
-address:      Parkstation
-address:      Woluwelaan 150
-address:      Diegem Vlaams Brabant 1831
+address:      Telecomlaan 9
+address:      1831 Diegem
 address:      Belgium
 phone:        +32 2 401 27 50
 fax-no:       +32 2 401 27 51
@@ -24,9 +22,8 @@ e-mail:       domain-admin@eurid.eu
 contact:      technical
 name:         Peter Janssen
 organisation: EURid vzw/asbl
-address:      Parkstation
-address:      Woluwelaan 150
-address:      Diegem Vlaams Brabant 1831
+address:      Telecomlaan 9
+address:      1831 Diegem
 address:      Belgium
 phone:        +32 2 401 27 50
 fax-no:       +32 2 401 27 51
@@ -47,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.eurid.eu
 
 created:      2005-04-28
-changed:      2017-02-08
+changed:      2019-05-07
 source:       IANA
 
