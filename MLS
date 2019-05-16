@@ -34,7 +34,6 @@ e-mail:       support@fury.ca
 
 nserver:      A.NS.NIC.MLS 185.159.197.8 2620:10a:80aa:0:0:0:0:8
 nserver:      B.NS.NIC.MLS 185.159.198.8 2620:10a:80ab:0:0:0:0:8
-ds-rdata:     50649 8 2 4494D7D0A0196BA6B36FB055B227D400043ADA39C0BEC75C14320271264660CB
 ds-rdata:     63482 8 2 84A8B5964A7017A28E640EAD02169E7DD92092A42729ACF08F924935A12F975E
 
 whois:        whois.nic.mls
@@ -42,6 +41,6 @@ whois:        whois.nic.mls
 status:       ACTIVE
 
 created:      2015-08-20
-changed:      2019-03-27
+changed:      2019-05-16
 source:       IANA
 
