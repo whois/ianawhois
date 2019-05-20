@@ -23,15 +23,15 @@ fax-no:       +371 6782 0153
 e-mail:       guntis@latnet.lv
 
 contact:      technical
-name:         Martins Medens
+name:         Ivo Kutts
 organisation: Institute of Mathematics and Computer Science
 organisation: Department of Network Solutions (DNS)
-address:      Rainis Boulevard 29
+address:      Raina bulvaris 29
 address:      Riga  LV-1459
 address:      Latvia
-phone:        +371 67 085858
-fax-no:       +371 67 820 153
-e-mail:       hostmaster@latnet.lv
+phone:        +371 6708 5858
+fax-no:       +371 6782 0153
+e-mail:       tech-c@nic.lv
 
 nserver:      A.NIC.LV 194.0.48.1 2001:678:7c:0:0:0:0:7c
 nserver:      B.NIC.LV 92.240.70.1
@@ -46,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.lv/
 
 created:      1993-04-29
-changed:      2016-03-23
+changed:      2019-05-20
 source:       IANA
 
