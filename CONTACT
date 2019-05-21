@@ -29,10 +29,6 @@ phone:        +44.2033880600
 fax-no:       +14256710020
 e-mail:       ben@donuts.email
 
-nserver:      A.NIC.CONTACT 194.169.218.40 2001:67c:13cc:0:0:0:1:40
-nserver:      B.NIC.CONTACT 185.24.64.40 2a04:2b00:13cc:0:0:0:1:40
-nserver:      C.NIC.CONTACT 212.18.248.40 2a04:2b00:13ee:0:0:0:0:40
-nserver:      D.NIC.CONTACT 212.18.249.40 2a04:2b00:13ff:0:0:0:0:40
 nserver:      DEMAND.ALPHA.ARIDNS.NET.AU 2001:dcd:1:0:0:0:0:7 37.209.192.7
 nserver:      DEMAND.BETA.ARIDNS.NET.AU 2001:dcd:2:0:0:0:0:7 37.209.194.7
 nserver:      DEMAND.DELTA.ARIDNS.NET.AU 2001:dcd:4:0:0:0:0:7 37.209.198.7
@@ -48,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.topspectrum.com/
 
 created:      2015-12-10
-changed:      2019-05-16
+changed:      2019-05-20
 source:       IANA
 
