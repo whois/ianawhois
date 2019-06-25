@@ -4,15 +4,15 @@
 
 domain:       CORSICA
 
-organisation: Collectivité Territoriale de Corse
+organisation: Collectivité de Corse
 address:      22, cours Grandval
 address:      Ajaccio cedex Corse 20187
 address:      FRANCE
 address:      France
 
 contact:      administrative
-name:         Chef du service du developpement technologique
-organisation: Collectivité Territoriale de Corse
+name:         Directeur du developpement numérique
+organisation: Collectivité de Corse
 address:      22, cours Grandval
 address:      Ajaccio cedex Corse 20187
 address:      FRANCE
@@ -41,9 +41,9 @@ ds-rdata:     50284 8 2 EB18B1852A73C378572BF3D3B86DE99BEC9B56657AF8A18F89CE9DF0
 whois:        whois-corsica.nic.fr
 
 status:       ACTIVE
-remarks:      Registration information: http://www.corse.fr
+remarks:      Registration information: https://www.puntu.corsica
 
 created:      2015-04-23
-changed:      2019-05-14
+changed:      2019-06-06
 source:       IANA
 
