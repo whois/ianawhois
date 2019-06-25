@@ -43,7 +43,7 @@ removed_tlds.each do |tld|
 end
 
 active_tlds.each do |tld|
-  newtld = !File.exists?(tld)
+  newtld = !File.exist?(tld)
   message = newtld ? "Create #{tld} (#{DATE})" : "Update #{tld} (#{DATE})"
 
   sh "touch #{tld}"
