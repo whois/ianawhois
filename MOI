@@ -5,18 +5,18 @@
 domain:       MOI
 
 organisation: Amazon Registry Services, Inc.
-address:      535 Terry Avenue North
+address:      410 Terry Avenue North
 address:      Seattle, WA  98109
 address:      United States
 
 contact:      administrative
-name:         Stacey King
+name:         General Manager
 organisation: Amazon Registry Services, Inc.
-address:      535 Terry Avenue North
+address:      410 Terry Avenue North
 address:      Seattle, WA  98109
 address:      United States
 phone:        +12067408515
-fax-no:       +12062661350
+fax-no:       +12069467702
 e-mail:       moi-rzm@amazon.com
 
 contact:      technical
@@ -39,16 +39,14 @@ nserver:      DNSA.NIC.MOI 156.154.100.3 2001:502:ad09:0:0:0:0:3
 nserver:      DNSB.NIC.MOI 156.154.101.3
 nserver:      DNSC.NIC.MOI 156.154.102.3
 nserver:      DNSD.NIC.MOI 156.154.103.3
-ds-rdata:     10922 8 1 88880EB4C266BAA8970790DA23F0762A554EF4D9
-ds-rdata:     10922 8 2 79AE2EF7222FA5B84797F9E4501809501BBAA2D1831C5F904F54BE200E0B7EDE
-ds-rdata:     11077 8 2 0F22F5F87142031AA436C09FBD18EE92A90AA6ED96BD315C82905428A958E22B
-ds-rdata:     11077 8 1 8C6A3ACADA5450DFA739381C2B600B9BAB2669CB
 ds-rdata:     50647 8 2 D3F69D4C3A87516B81285C3CC392CC7B1A27EAC534DD8A5DF41B6DFD323576B9
 
+whois:        whois.nic.moi
+
 status:       ACTIVE
-remarks:      Registration information: http://amazonregistry.com
+remarks:      Registration information: https://www.amazonregistry.com
 
 created:      2015-09-10
-changed:      2019-04-10
+changed:      2019-06-04
 source:       IANA
 
