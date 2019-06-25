@@ -11,26 +11,24 @@ address:      VIC 3000
 address:      Australia
 
 contact:      administrative
-name:         Eamon McGrath
-organisation: ARI Registry Services
-address:      Level 8, 10 Queens Road,
-address:      Melbourne,
-address:      VIC 3004
-address:      Australia
-phone:        +61398663710
-fax-no:       +61398661970
-e-mail:       eamon.mcgrath@ariservices.com
+name:         Senior Director
+organisation: Neustar, Inc.
+address:      21575 Ridgetop Circle
+address:      Sterling, VA 20166
+address:      United States
+phone:        +1 571 434 5400
+fax-no:       +1 571 434 5735
+e-mail:       technical1@registry.neustar
 
 contact:      technical
-name:         Ryan Miller
-organisation: ARI Registry Services
-address:      Level 8, 10 Queens Road,
-address:      Melbourne,
-address:      VIC 3004
-address:      Australia
-phone:        +61398663710
-fax-no:       +61398661970
-e-mail:       gtldsupport@ariservices.com
+name:         Director
+organisation: Neustar, Inc.
+address:      21575 Ridgetop Circle
+address:      Sterling, VA 20166
+address:      United States
+phone:        +1 844 677 2878
+fax-no:       +1 571 434 5401
+e-mail:       technical1@registry.neustar
 
 nserver:      A.NIC.STUDY 2001:dcd:1:0:0:0:0:10 37.209.192.10
 nserver:      B.NIC.STUDY 2001:dcd:2:0:0:0:0:10 37.209.194.10
@@ -45,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.open.edu.au/
 
 created:      2015-02-19
-changed:      2015-10-06
+changed:      2019-06-20
 source:       IANA
 
