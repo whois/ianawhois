@@ -5,18 +5,18 @@
 domain:       BUY
 
 organisation: Amazon Registry Services, INC
-address:      535 Terry Avenue North
+address:      410 Terry Avenue North
 address:      Seattle, WA 98109
 address:      United States
 
 contact:      administrative
-name:         Stacy King
+name:         General Manager
 organisation: Amazon Registry Services, Inc.
-address:      535 Terry Avenue North
+address:      410 Terry Avenue North
 address:      Seattle, WA 98109
 address:      United States
-phone:        +1 206.740.8515
-fax-no:       +1 206.266.1350
+phone:        +1 206 740 8515
+fax-no:       +1 206 946 7702
 e-mail:       buy-rzm@amazon.com
 
 contact:      technical
@@ -39,18 +39,14 @@ nserver:      DNSA.NIC.BUY 156.154.100.3 2001:502:ad09:0:0:0:0:3
 nserver:      DNSB.NIC.BUY 156.154.101.3
 nserver:      DNSC.NIC.BUY 156.154.102.3
 nserver:      DNSD.NIC.BUY 156.154.103.3
-ds-rdata:     18204 7 2 45DBB359B2C47BD51DA14AC518F34FE289298B64324D277E4F8C7C90AB1A6644
-ds-rdata:     18204 7 1 8551D4F0DEFE003DB9A3398AB6C5211F2174371C
-ds-rdata:     37087 8 1 6A8196E5CEDEFD88983AE0AA459440A22E8AD4C4
-ds-rdata:     37087 8 2 B375DB69E9947E8CB448AA8618E8E6DB87361989DA44B7DAC317A646C594975D
 ds-rdata:     16411 8 2 C9C2D0F38695BCF73FE5C6FE4A049282848F45F887C4C72B337BCA9FB50ABC33
 
-whois:        whois.afilias-srs.net
+whois:        whois.nic.buy
 
 status:       ACTIVE
-remarks:      Registration information: http://amazonregistry.com
+remarks:      Registration information: https://www.amazonregistry.com
 
 created:      2015-11-20
-changed:      2019-04-10
+changed:      2019-05-22
 source:       IANA
 
