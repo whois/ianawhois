@@ -9,8 +9,8 @@ address:      410 Terry Avenue North, Seattle, WA 98109 USA
 address:      United States
 
 contact:      administrative
-name:         Stacey King
-organisation: Amazon Registry Service, Inc.
+name:         General Manager
+organisation: Amazon Registry Services, Inc.
 address:      410 Terry Avenue North, Seattle, WA 98109 USA
 address:      United States
 phone:        1 206 740 8515
@@ -37,16 +37,15 @@ nserver:      DNSA.NIC.ZAPPOS 156.154.100.3 2001:502:ad09:0:0:0:0:3
 nserver:      DNSB.NIC.ZAPPOS 156.154.101.3
 nserver:      DNSC.NIC.ZAPPOS 156.154.102.3
 nserver:      DNSD.NIC.ZAPPOS 156.154.103.3
-ds-rdata:     13144 8 1 E7BAE50BE363D99F4A75B6C77CBF2F6DA5E67810
-ds-rdata:     13144 8 2 9848D2ED4CA1C2D399D07E4305B83CB3CFF7FBE397314F6732648708AB06589D
-ds-rdata:     23116 8 1 F8E7E1FDFDAF515FFE04BF6B101F7A88740DEA27
-ds-rdata:     23116 8 2 649BE84611E0A28EEB643A6A76536B41BB839AF06033772C2011CCBCF567A291
 ds-rdata:     36265 8 2 A8426C392C1C10535D73C70C91860AB821CE7CCFBEC9567ED6C015C0C3541CA7
 
+whois:        whois.nic.zappos
+
 status:       ACTIVE
-remarks:      Registration information: http://www.amazonregistry.com/
+remarks:      Registration information:
+remarks:      https://www.amazonregistry.com/
 
 created:      2016-05-19
-changed:      2019-04-24
+changed:      2019-06-04
 source:       IANA
 
