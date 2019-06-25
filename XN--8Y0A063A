@@ -11,7 +11,7 @@ address:      China
 
 contact:      administrative
 name:         Yun Zhou
-organisation: China United Network Communciations Corporation Limited
+organisation: China United Network Communications Corporation Limited
 address:      No.21 Financial Street, Xicheng District, Beijing, Beijing  100033
 address:      China
 phone:        + 86 1066 259 710
@@ -28,21 +28,20 @@ address:      China
 phone:        +86 150 1138 0586
 e-mail:       gaolei@zdns.cn
 
-nserver:      NS1.DNS.NIC.XN--8Y0A063A 156.154.144.172 2610:a1:1071:0:0:0:0:ac
-nserver:      NS2.DNS.NIC.XN--8Y0A063A 156.154.145.172 2610:a1:1072:0:0:0:0:ac
-nserver:      NS3.DNS.NIC.XN--8Y0A063A 156.154.159.172 2610:a1:1073:0:0:0:0:ac
-nserver:      NS4.DNS.NIC.XN--8Y0A063A 156.154.156.172 2610:a1:1074:0:0:0:0:ac
-nserver:      NS5.DNS.NIC.XN--8Y0A063A 156.154.157.172 2610:a1:1075:0:0:0:0:ac
-nserver:      NS6.DNS.NIC.XN--8Y0A063A 156.154.158.172 2610:a1:1076:0:0:0:0:ac
-ds-rdata:     37805 8 1 723FC62539C8A4D0DAEE325095A42BFCB5D42C1C
-ds-rdata:     37805 8 2 946531D624EEC481125BECEB8C81DB794B9A5914604F798600C7699F07560192
-ds-rdata:     59182 8 2 DA933FFAD17478E38721DC9A1296E0FAC1592767A558D1D36C0EDF25DB5D391B
-ds-rdata:     59182 8 1 66C2DDEBD5EB7DE11E62E2C9C116EAD3911E6719
+nserver:      A.ZDNSCLOUD.COM 203.99.24.1
+nserver:      B.ZDNSCLOUD.COM 203.99.25.1
+nserver:      C.ZDNSCLOUD.COM 203.99.26.1
+nserver:      D.ZDNSCLOUD.COM 203.99.27.1
+nserver:      F.ZDNSCLOUD.COM 114.67.46.12
+nserver:      G.ZDNSCLOUD.COM 42.62.2.16
+nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
+nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
+ds-rdata:     44995 8 2 75EC90F39171D405CB5D609AB0C62F21B2C53DA70D28D642D226121A4DC9A917
 
 status:       ACTIVE
 remarks:      Registration information: http://eng.chinaunicom.com
 
 created:      2015-12-10
-changed:      2019-05-04
+changed:      2019-06-18
 source:       IANA
 
