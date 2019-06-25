@@ -11,28 +11,24 @@ address:      Victoria 3000
 address:      Australia
 
 contact:      administrative
-name:         George Pongas
-organisation: ARI Registry Services
-address:      PO Box 33125
-address:      Melbourne
-address:      Victoria
-address:      3004
-address:      Australia
-phone:        +61398663710
-fax-no:       +61398661970
-e-mail:       melbourne@ariservices.com
+name:         Senior Director
+organisation: Neustar, Inc.
+address:      21575 Ridgetop Circle
+address:      Sterling, VA 20166
+address:      United States
+phone:        +1 571 434 5400
+fax-no:       +1 571 434 5735
+e-mail:       technical1@registry.neustar
 
 contact:      technical
-name:         Nikora Terrill
-organisation: ARI Registry Services
-address:      PO Box 33125
-address:      Melbourne
-address:      Victoria
-address:      3004
-address:      Australia
-phone:        +61398661700
-fax-no:       +61398661970
-e-mail:       gtldsupport@ariservices.com
+name:         Director
+organisation: Neustar, Inc.
+address:      21575 Ridgetop Circle
+address:      Sterling, VA 20166
+address:      United States
+phone:        +1 844 677 2878
+fax-no:       +1 571 434 5401
+e-mail:       technical1@registry.neustar
 
 nserver:      A.NIC.MELBOURNE 2001:dcd:1:0:0:0:0:10 37.209.192.10
 nserver:      B.NIC.MELBOURNE 2001:dcd:2:0:0:0:0:10 37.209.194.10
@@ -47,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.melbourne/
 
 created:      2014-07-03
-changed:      2015-11-27
+changed:      2019-06-20
 source:       IANA
 
