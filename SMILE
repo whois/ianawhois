@@ -9,7 +9,7 @@ address:      410 Terry Avenue North, Seattle, WA  98109
 address:      United States
 
 contact:      administrative
-name:         Stacey King
+name:         General Manager
 organisation: Amazon Registry Services, Inc.
 address:      410 Terry Avenue North, Seattle, WA  98109
 address:      United States
@@ -37,16 +37,14 @@ nserver:      DNSA.NIC.SMILE 156.154.100.3 2001:502:ad09:0:0:0:0:3
 nserver:      DNSB.NIC.SMILE 156.154.101.3
 nserver:      DNSC.NIC.SMILE 156.154.102.3
 nserver:      DNSD.NIC.SMILE 156.154.103.3
-ds-rdata:     18280 8 1 06D5E73E9F15A7E0C3AF229BCA232CEE4842E43E
-ds-rdata:     18280 8 2 C160BA10935FB757B8976631429623160121EFF152201BD4180D3C6DEAA04698
-ds-rdata:     25021 8 2 F9B80796A7588439CA72841CAEAEEEA243A590B6BF1EEEB68D28E4C5DE8CC267
-ds-rdata:     25021 8 1 33E3A192911997B4B002E922D908E26A148FC7EA
 ds-rdata:     34961 8 2 BE86EE1B42B863C89283BF8EB0B013D6C16DB2B0702A3C28299EB318540FBEAA
 
+whois:        whois.nic.smile
+
 status:       ACTIVE
-remarks:      Registration information: http://www.amazonregistry.com
+remarks:      Registration information: https://www.amazonregistry.com
 
 created:      2015-11-12
-changed:      2019-04-10
+changed:      2019-05-22
 source:       IANA
 
