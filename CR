@@ -22,14 +22,14 @@ fax-no:       +506 2283 4101
 e-mail:       gdt@ns.cr
 
 contact:      technical
-name:         Mauricio Oviedo Calderón
+name:         Glenn Peace Clarence
 organisation: NIC Costa Rica, Academia Nacional de Ciencias
 address:      Barrio Francisco Peralta, de la Casa Italia 100 metros al oeste y 15 metros sur
 address:      San José  1367-2050
 address:      Costa Rica
 phone:        +506 4020.5000
 fax-no:       +506 2280.5261
-e-mail:       moviedo@nic.cr
+e-mail:       gtpeace@nic.cr
 
 nserver:      A.LACTLD.ORG 200.0.68.10 2801:14:a000:0:0:0:0:10
 nserver:      A.NS.CR 200.107.82.100 2001:13c7:7004:1:0:0:0:d100
@@ -39,7 +39,6 @@ nserver:      DE.NIC.CR 194.0.11.107 2001:678:e:107:0:0:0:53
 nserver:      NS-EXT.NIC.CL 200.1.123.14 2001:1398:1:0:200:1:123:14
 nserver:      NS3.NIC.MX 200.33.111.1
 nserver:      P.NIC.CR 2001:500:14:6089:ad:0:0:1 204.61.216.89
-ds-rdata:     39844 8 2 53273C8AC1D0ACF9030D907C3A731BE98241E5EF6DBB51F5CE91CDB09534AB1C
 ds-rdata:     41186 8 2 5B49B4D158051E05927C5096668A0193D669A797E1D3EEF6CC50C521B949CA96
 
 whois:        whois.nic.cr
@@ -48,6 +47,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.cr/
 
 created:      1990-09-10
-changed:      2019-04-17
+changed:      2019-06-14
 source:       IANA
 
