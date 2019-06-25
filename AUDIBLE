@@ -9,8 +9,8 @@ address:      410 Terry Avenue North, Seattle, WA 98109
 address:      United States
 
 contact:      administrative
-name:         Stacey King
-organisation: Amazon Registry Service, Inc.
+name:         General Manager
+organisation: Amazon Registry Services, Inc.
 address:      410 Terry Avenue North, Seattle, WA 98109
 address:      United States
 phone:        +12067408515
@@ -27,7 +27,6 @@ address:      Oxford
 address:      OX4 4DQ
 address:      United Kingdom
 phone:        +44.1865332211
-fax-no:       +1 571-434-5401
 e-mail:       registrytechnical@nominet.uk
 
 nserver:      DNS1.NIC.AUDIBLE 213.248.218.56 2a01:618:402:0:0:0:0:56
@@ -38,16 +37,15 @@ nserver:      DNSA.NIC.AUDIBLE 156.154.100.3 2001:502:ad09:0:0:0:0:3
 nserver:      DNSB.NIC.AUDIBLE 156.154.101.3
 nserver:      DNSC.NIC.AUDIBLE 156.154.102.3
 nserver:      DNSD.NIC.AUDIBLE 156.154.103.3
-ds-rdata:     48172 8 1 0683AF44470D668F0FB522B524AF18AB7F9268DB
-ds-rdata:     48172 8 2 DA9546B9F958878427E72DA357A438301F38F756D616C975D66A5BE30BC3F455
-ds-rdata:     24172 8 1 C9D5F3C66A298835A5E099FD03544C9BDCE1917A
-ds-rdata:     24172 8 2 4A3D9FC57AE74F784179541E7BA89670E2398C6684FA510BAB1EB35035BCE208
 ds-rdata:     14606 8 2 616BFE32B134D3ADA721660AEB86F2065FF600A1511530F3180F4F2E89588913
 
+whois:        whois.nic.audible
+
 status:       ACTIVE
-remarks:      Registration information: http://www.amazonregistry.com/
+remarks:      Registration information:
+remarks:      https://www.amazonregistry.com/
 
 created:      2016-05-19
-changed:      2019-04-10
+changed:      2019-05-22
 source:       IANA
 
