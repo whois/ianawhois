@@ -12,40 +12,40 @@ address:      Bahcelievler / Istanbul
 address:      Turkey
 
 contact:      administrative
-name:         Tolga Kaprol
+name:         CEO
 organisation: Asia Green IT System Bilgisayar San. ve Tic. Ltd. Sti.
 address:      Cobancesme Mah. Semt Sanayi Cd.
 address:      Nish Istanbul
 address:      No 44 D 174
 address:      Bahcelievler / Istanbul
 address:      Turkey
-phone:        +90 212 603 62 03
+phone:        +90 530 460 52 31
 fax-no:       +90 212 603 62 04
-e-mail:       registry@agitsys.com
+e-mail:       iana-admin@agitsys.com
 
 contact:      technical
-name:         Tolga Kaprol
+name:         CTO
 organisation: Asia Green IT System Bilgisayar San. ve Tic. Ltd. Sti.
 address:      Cobancesme Mah. Semt Sanayi Cd.
 address:      Nish Istanbul
 address:      No 44 D 174
 address:      Bahcelievler / Istanbul
 address:      Turkey
-phone:        +90 212 603 62 03
+phone:        +90 555 001 66 80
 fax-no:       +90 212 603 62 04
-e-mail:       registry@agitsys.com
+e-mail:       iana-tech@agitsys.com
 
 nserver:      A.NS.NIC.TCI 2620:0171:0a01:00ad:0:0:0:8 72.0.49.8
 nserver:      B.NS.NIC.TCI 2620:0171:0d01:00dc:0:0:0:8 72.42.113.8
 nserver:      NS.COCCA.FR 185.17.236.93 2a03:dd40:3:0:0:0:0:93
 ds-rdata:     12317 8 2 1D37F5016C69D56F3A3732434A0471FFF1FFFD580E4A7CE26816BC525095DE83
 
-whois:        whois.agitsys.net
+whois:        whois.nic.tci
 
 status:       ACTIVE
-remarks:      Registration information: http://agitsys.com
+remarks:      Registration information: http://nic.tci
 
 created:      2015-11-25
-changed:      2018-10-16
+changed:      2019-06-05
 source:       IANA
 
