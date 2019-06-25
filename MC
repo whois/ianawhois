@@ -34,11 +34,12 @@ e-mail:       nic@gouv.mc
 nserver:      MC.CCTLD.AUTHDNS.RIPE.NET 193.0.9.92 2001:67c:e0:0:0:0:0:92
 nserver:      NS1.NIC.MC 88.209.82.210
 nserver:      NS2.NIC.MC 149.5.230.10
+ds-rdata:     20677 8 2 81E94624EA1EDD7AC7A412F0E5311B7D4D9500FFDB005E98B2FC610239331A9B
 
 status:       ACTIVE
 remarks:      Registration information: http://www.nic.mc/
 
 created:      1995-01-20
-changed:      2018-01-17
+changed:      2019-06-22
 source:       IANA
 
