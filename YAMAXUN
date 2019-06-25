@@ -5,18 +5,18 @@
 domain:       YAMAXUN
 
 organisation: Amazon Registry Services, Inc.
-address:      535 Terry Avenue North
+address:      410 Terry Avenue North
 address:      Seattle, WA  98109
 address:      United States
 
 contact:      administrative
-name:         Stacey King
+name:         General Manager
 organisation: Amazon Registry Services, Inc.
-address:      535 Terry Avenue North
+address:      410 Terry Avenue North
 address:      Seattle, WA  98109
 address:      United States
 phone:        +12067408515
-fax-no:       +12062661350
+fax-no:       +12069467702
 e-mail:       yamaxun-rzm@amazon.com
 
 contact:      technical
@@ -39,16 +39,14 @@ nserver:      DNSA.NIC.YAMAXUN 156.154.100.3 2001:502:ad09:0:0:0:0:3
 nserver:      DNSB.NIC.YAMAXUN 156.154.101.3
 nserver:      DNSC.NIC.YAMAXUN 156.154.102.3
 nserver:      DNSD.NIC.YAMAXUN 156.154.103.3
-ds-rdata:     40780 8 1 CAB17A91DA8F1F6635F0043FBCBEFF7BD68417A7
-ds-rdata:     40780 8 2 AB9C6B8F9F530B88A0A148734E2CA04F1301FE9AAF1F8FE557C47D929335FBBC
-ds-rdata:     54934 8 1 7C505D7B0E0B52BBEA563EAA45964769550BB2F3
-ds-rdata:     54934 8 2 6567DD1B20E5ABD23316A1C63D3D2E2A80A5952C91CA5AB99D556D40C45A1C32
 ds-rdata:     24775 8 2 FD24CFE326A910CBB3F11CDDC381ABC7E296BD29E75DAC6DE13B4B5DBB130EA7
 
+whois:        whois.nic.yamaxun
+
 status:       ACTIVE
-remarks:      Registration information: http://amazonregistry.com
+remarks:      Registration information: https://www.amazonregistry.com
 
 created:      2015-09-10
-changed:      2019-04-10
+changed:      2019-05-22
 source:       IANA
 
