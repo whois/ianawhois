@@ -33,7 +33,7 @@ phone:        +353 1 236 5421
 fax-no:       +353 1 230 1273
 e-mail:       tld-tech@iedr.ie
 
-nserver:      A.NS.IE 2a01:4b0:0:0:0:0:0:3 77.72.72.44
+nserver:      A.NS.IE 2a01:4b0:2:2:0:0:0:91 77.72.78.91
 nserver:      B.NS.IE 2a01:4b0:0:0:0:0:0:2 77.72.72.34
 nserver:      C.NS.IE 194.146.106.98 2001:67c:1010:25:0:0:0:53
 nserver:      D.NS.IE 2a01:3f0:0:309:0:0:0:53 77.72.229.245
@@ -49,6 +49,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.iedr.ie
 
 created:      1988-01-27
-changed:      2018-12-02
+changed:      2019-06-13
 source:       IANA
 
