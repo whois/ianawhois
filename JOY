@@ -9,7 +9,7 @@ address:      410 Terry Avenue North, Seattle, WA  98109
 address:      United States
 
 contact:      administrative
-name:         Stacey King
+name:         General Manager
 organisation: Amazon Registry Services, Inc.
 address:      410 Terry Avenue North, Seattle, WA  98109
 address:      United States
@@ -37,16 +37,14 @@ nserver:      DNSA.NIC.JOY 156.154.100.3 2001:502:ad09:0:0:0:0:3
 nserver:      DNSB.NIC.JOY 156.154.101.3
 nserver:      DNSC.NIC.JOY 156.154.102.3
 nserver:      DNSD.NIC.JOY 156.154.103.3
-ds-rdata:     10945 8 1 2FEA622336B260E438A7D2958E4C157719E51E3B
-ds-rdata:     10945 8 2 3BD52A23C52AB1C1F035EBC38FB6814EA2BDEE9C885731A9EDD67DABD503ACCE
-ds-rdata:     35791 8 1 1F06EB987530796FD80D6A5F4A3A2A50B3BEF00E
-ds-rdata:     35791 8 2 685FD8C038EBD2F0D0291BD813A17EA13F9D965BB6FF7AC8C189BC3519FF1ACC
 ds-rdata:     33604 8 2 7DBDD304C79FBC1BC471A74B57D8DD1E286976E6203512356146DF3AF37AC916
 
+whois:        whois.nic.joy
+
 status:       ACTIVE
-remarks:      Registration information: http://www.amazonregistry.com
+remarks:      Registration information: https://www.amazonregistry.com
 
 created:      2015-11-12
-changed:      2019-04-10
+changed:      2019-05-22
 source:       IANA
 
