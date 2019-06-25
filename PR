@@ -25,6 +25,7 @@ address:      Puerto Rico
 phone:        +1-787-281-0455
 e-mail:       tech@nic.pr
 
+nserver:      A.LACTLD.ORG 200.0.68.10 2801:14:a000:0:0:0:0:10
 nserver:      A0.PR.AFILIAS-NST.INFO 199.254.59.17 2001:500:25:0:0:0:0:17
 nserver:      A2.PR.AFILIAS-NST.INFO 199.249.116.17 2001:500:44:0:0:0:0:17
 nserver:      B0.PR.AFILIAS-NST.ORG 199.254.60.17 2001:500:26:0:0:0:0:17
@@ -32,7 +33,6 @@ nserver:      B2.PR.AFILIAS-NST.ORG 199.249.124.17 2001:500:4c:0:0:0:0:17
 nserver:      C0.PR.AFILIAS-NST.INFO 199.254.61.17 2001:500:27:0:0:0:0:17
 nserver:      D0.PR.AFILIAS-NST.ORG 199.254.62.17 2001:500:28:0:0:0:0:17
 nserver:      PR-DNS.DENIC.DE 194.0.11.111 2001:678:e:111:0:0:0:53
-ds-rdata:     53986 5 1 C2B7576022FE56A3340409053A7AA5D6EED8EB09
 ds-rdata:     21436 5 1 749b940f0d9471ff349536d22aaf36d26bbca219
 
 whois:        whois.afilias-srs.net
@@ -41,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.pr
 
 created:      1989-08-27
-changed:      2018-05-31
+changed:      2019-06-13
 source:       IANA
 
