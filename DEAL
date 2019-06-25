@@ -9,7 +9,7 @@ address:      410 Terry Avenue North, Seattle, WA 98109
 address:      United States
 
 contact:      administrative
-name:         Stacey King
+name:         General Manager
 organisation: Amazon Registry Service, Inc.
 address:      410 Terry Avenue North, Seattle, WA 98109
 address:      United States
@@ -37,16 +37,15 @@ nserver:      DNSA.NIC.DEAL 156.154.100.3 2001:502:ad09:0:0:0:0:3
 nserver:      DNSB.NIC.DEAL 156.154.101.3
 nserver:      DNSC.NIC.DEAL 156.154.102.3
 nserver:      DNSD.NIC.DEAL 156.154.103.3
-ds-rdata:     52079 8 1 0331FB61A947A2519DBD8EC3A2B7A6D6240B0D0A
-ds-rdata:     52079 8 2 B1CD2A7724E307DDB72333666E66D4A321819939689BE1EAA58021F82C61666C
-ds-rdata:     19189 8 2 BC26C645C8F435DBCD4CC64D6C5142229843C8C8F0CCE7F61F49848DDE7DC7C8
-ds-rdata:     19189 8 1 6B70384A86B35639A2F17FE3BB338D349085F880
 ds-rdata:     1547 8 2 D803CD689AF6D85A8D11D95F330D35E7587831DC01F61886D4C47F3E5398AF29
 
+whois:        whois.nic.deal
+
 status:       ACTIVE
-remarks:      Registration information: http://www.amazonregistry.com/
+remarks:      Registration information:
+remarks:      https://www.amazonregistry.com/
 
 created:      2016-05-19
-changed:      2019-04-10
+changed:      2019-05-22
 source:       IANA
 
