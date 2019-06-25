@@ -9,7 +9,7 @@ address:      410 Terry Avenue North, Seattle, WA  98109
 address:      United States
 
 contact:      administrative
-name:         Stacey King
+name:         General Manager
 organisation: Amazon Registry Services, Inc.
 address:      410 Terry Avenue North, Seattle, WA  98109
 address:      United States
@@ -37,16 +37,14 @@ nserver:      DNSA.NIC.WANGGOU 156.154.100.3 2001:502:ad09:0:0:0:0:3
 nserver:      DNSB.NIC.WANGGOU 156.154.101.3
 nserver:      DNSC.NIC.WANGGOU 156.154.102.3
 nserver:      DNSD.NIC.WANGGOU 156.154.103.3
-ds-rdata:     63689 8 1 75754E9E01A3BBFCFD77C82173F08BA7D71DF0F5
-ds-rdata:     63689 8 2 C62FA5DD0560B314B918B9826EB7D298C0399784AE2550F7BEDB182C075B014D
-ds-rdata:     12085 8 1 D8E7604182CF05875A71BF104D58D1FF9D872D8F
-ds-rdata:     12085 8 2 CE6F4B253AE612D9606A504AB0DD3D58B3967FF5C11008E27CC75B8E66187FEB
 ds-rdata:     3407 8 2 AC4CB98B121B9214B4432A123BCE7930F5152BF7A496EEBD7602731AB44615E3
 
+whois:        whois.nic.wanggou
+
 status:       ACTIVE
-remarks:      Registration information: http://www.amazonregistry.com
+remarks:      Registration information: https://www.amazonregistry.com
 
 created:      2015-11-12
-changed:      2019-04-10
+changed:      2019-05-22
 source:       IANA
 
