@@ -10,7 +10,7 @@ address:      Freetown
 address:      Sierra Leone
 
 contact:      administrative
-name:         Adel Suliman, Administrative Head
+name:         Adel Suliman
 organisation: Sierratel
 address:      7 Wallace Johnson Street
 address:      Freetown
@@ -20,7 +20,7 @@ fax-no:       +232 22 224439
 e-mail:       adel@afcomnetwork.net
 
 contact:      technical
-name:         Adam Ben-Gur, Network Consultant
+name:         Adam Ben-Gur
 organisation: Sierratel
 address:      7 Wallace Johnson Street
 address:      Freetown
@@ -30,12 +30,12 @@ fax-no:       +232 22 224439
 e-mail:       adam@neoip.com
 
 nserver:      NS1.NEOIP.COM 62.90.247.118
-nserver:      NS2.NEOIP.COM 208.109.17.150
+nserver:      NS2.NEOIP.COM 64.202.189.47
 
 status:       ACTIVE
-remarks:      Registration information: http://www.nic.sl
+remarks:      Registration information: https://www.nic.sl
 
 created:      1997-05-09
-changed:      2011-06-03
+changed:      2019-09-25
 source:       IANA
 
