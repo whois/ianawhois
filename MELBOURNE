@@ -37,12 +37,12 @@ nserver:      D.NIC.MELBOURNE 2001:dcd:4:0:0:0:0:10 37.209.198.10
 ds-rdata:     57856 8 1 D1CC74CD88318559962BDFB56525C822D2A8A11F
 ds-rdata:     57856 8 2 E71A2E50EE30225FA38F059E967A9F700545E3C7E8506B42D73778D3143EBD9B
 
-whois:        whois.aridnrs.net.au
+whois:        whois.nic.melbourne
 
 status:       ACTIVE
-remarks:      Registration information: http://nic.melbourne/
+remarks:      Registration information: https://www.live.melbourne/
 
 created:      2014-07-03
-changed:      2019-06-20
+changed:      2019-08-07
 source:       IANA
 
