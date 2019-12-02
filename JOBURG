@@ -36,9 +36,8 @@ e-mail:       theo@dnservices.co.za
 
 nserver:      COZA1.DNSNODE.NET 194.146.106.74 2001:67c:1010:18:0:0:0:53
 nserver:      NS.COZA.NET.ZA 2001:43f8:30:0:0:0:0:200 206.223.136.200
-nserver:      NS2.DNS.BUSINESS 2001:1978:2400:6:0:0:0:112 66.135.46.112
-ds-rdata:     36859 8 2 5f24c749e14c794b7f1f9191d24895c810cd4b8e77d8577a636ace4cb0697562
-ds-rdata:     28967 8 2 74547d0b8dfdef7470db5920188f6b95a14ea7d28c31fe3167731279b929ca5c
+nserver:      NS2US.DNS.BUSINESS 147.135.106.236 2604:2dc0:200:2eb:0:0:0:2
+ds-rdata:     65032 8 2 4abf29a076fc19ac89283bed93457b56d2b0c8ad90dc24d70f70988a7d8bb574
 
 whois:        joburg-whois.registry.net.za
 
@@ -46,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.registry.net.za
 
 created:      2014-06-05
-changed:      2018-01-26
+changed:      2019-09-27
 source:       IANA
 
