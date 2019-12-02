@@ -29,6 +29,7 @@ phone:        (503) 2230-5075
 fax-no:       (503) 2210-6636
 e-mail:       galara@conexion.sv
 
+nserver:      A.LACTLD.ORG 200.0.68.10 2801:14:a000:0:0:0:0:10
 nserver:      AUTH02.NS.UU.NET 198.6.1.82
 nserver:      CIR.RED.SV 168.243.254.1
 nserver:      DNS.NIC.CR 200.107.82.100 2001:13c7:7004:1:0:0:0:d100
@@ -41,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.svnet.sv
 
 created:      1994-11-04
-changed:      2017-10-28
+changed:      2019-08-28
 source:       IANA
 
