@@ -4,25 +4,25 @@
 
 domain:       REN
 
-organisation: Beijing Qianxiang Wangjing Technology Development Co., Ltd.
-address:      4F Guo Tou Center. No.18 Jiu Xianqiao middle Road , Chao Yang District, Beijing
+organisation: ZDNS International Limited
+address:      4, South 4th Street, Zhonguancun, Haidian District, Beijing, China, 100190
 address:      China
 
 contact:      administrative
-name:         Senior Manager
-organisation: Network Operation Dept.
-address:      4F Guo Tou Center. No.18 Jiu Xianqiao middle Road , Chao Yang District, Beijing
+name:         Director
+organisation: ZDNS
+address:      4, South 4th Street, Zhonguancun, Haidian District, Beijing, China, 100190
 address:      China
-phone:        86-10-84481818-1230
-e-mail:       dnsadmin@renren-inc.com
+phone:        86-10-58812426
+e-mail:       sophia@zdns.ren
 
 contact:      technical
-name:         Senior Manager
-organisation: Network Operation Dept.
-address:      4F Guo Tou Center. No.18 Jiu Xianqiao middle Road , Chao Yang District, Beijing
+name:         Director
+organisation: ZDNS
+address:      4, South 4th Street, Zhonguancun, Haidian Distrcit, Beijing, China, 100190
 address:      China
-phone:        86-10-84481818-1230
-e-mail:       dnsadmin@renren-inc.com
+phone:        86-10-58812426
+e-mail:       gaolei@zdns.cn
 
 nserver:      A.ZDNSCLOUD.COM 203.99.24.1
 nserver:      B.ZDNSCLOUD.COM 203.99.25.1
@@ -34,9 +34,12 @@ nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
 ds-rdata:     770 8 2 897ea15932fa4407809d32ca7c7da4b0c0e455316a897970f152109f18ce6cd9
 
+whois:        whois.nic.ren
+
 status:       ACTIVE
+remarks:      Registration information: http://nic.ren/
 
 created:      2014-02-28
-changed:      2018-12-11
+changed:      2019-10-23
 source:       IANA
 
