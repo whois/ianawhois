@@ -38,15 +38,14 @@ nserver:      A.GMOREGISTRY.NET 2001:dcd:1:0:0:0:0:4 37.209.192.4
 nserver:      B.GMOREGISTRY.NET 2001:dcd:2:0:0:0:0:4 37.209.194.4
 nserver:      K.GMOREGISTRY.NET 37.209.196.4
 nserver:      L.GMOREGISTRY.NET 2001:dcd:4:0:0:0:0:4 37.209.198.4
-ds-rdata:     39736 8 2 e3f47a7db58a6c33f7ee93198b00f5f34279dee21be60747863f79b7e34c616f
 ds-rdata:     61387 8 2 9183de01e842231d1f1f951de9b25c160dfddbab7411aadfc6fa69764b7d44e2
 
-whois:        whois.aridnrs.net.au
+whois:        whois.nic.epson
 
 status:       ACTIVE
 remarks:      Registration information: http://www.epson.com
 
 created:      2015-02-19
-changed:      2019-03-20
+changed:      2019-08-19
 source:       IANA
 
