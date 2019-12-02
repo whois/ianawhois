@@ -28,6 +28,7 @@ phone:        +222 36 30 76 01
 e-mail:       ahdsalem@nic.mr
 
 nserver:      CENSVRNS0001.IRD.FR 91.203.32.147
+nserver:      NS-MR.AFRINIC.NET 196.216.168.53 2001:43f8:120:0:0:0:0:53
 nserver:      NS-MR.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
 nserver:      NS-MR.NIC.TN 41.228.63.70
 nserver:      NS1.NIC.MR 41.188.65.193
@@ -39,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.mr
 
 created:      1996-04-24
-changed:      2018-04-16
+changed:      2019-08-01
 source:       IANA
 
