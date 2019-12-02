@@ -41,10 +41,9 @@ ds-rdata:     28099 8 2 FFBAC3E447FD25705104BB50F8652E7CCF6EECBFC956E1E65890C9B9
 whois:        whois.nic.accountant
 
 status:       ACTIVE
-remarks:      Registration information:
-remarks:      http://www.famousfourmedia.com/accountant
+remarks:      Registration information: http://nic.accountant
 
 created:      2015-02-05
-changed:      2018-08-22
+changed:      2019-08-07
 source:       IANA
 
