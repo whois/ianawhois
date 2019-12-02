@@ -22,16 +22,14 @@ fax-no:       +44.2031263610
 e-mail:       domain_admin@virgin.com
 
 contact:      technical
-name:         TLD Manager
-organisation: Rodenbaugh Law
-address:      548 Market Street
-address:      Box No. 55819
-address:      San Francisco
-address:      CA
+name:         Jason Loyer
+organisation: Neustar, Inc.
+address:      21575 Ridgetop Circle
+address:      Sterling, VA 20166
 address:      United States
-phone:        +1.4157388087
-fax-no:       +1.4157388087
-e-mail:       vgtld@rodenbaugh.com
+phone:        +1 844-677-2878
+fax-no:       +1 571-434-5401
+e-mail:       technical1@registry.neustar
 
 nserver:      A.NIC.VIRGIN 2001:dcd:1:0:0:0:0:9 37.209.192.9
 nserver:      B.NIC.VIRGIN 2001:dcd:2:0:0:0:0:9 37.209.194.9
@@ -46,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.virgin.com
 
 created:      2015-09-10
-changed:      2018-05-07
+changed:      2019-07-19
 source:       IANA
 
