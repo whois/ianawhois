@@ -9,12 +9,15 @@ address:      1201 F Street NW Suite 675 Washington DC 20004
 address:      United States
 
 contact:      administrative
-name:         VP Operations
+name:         CFO
 organisation: Republican State Leadership Committee
-address:      1201 F Street NW Suite 675 Washington DC 20004
+address:      1201 F Street, NW, Suite 675
+address:      Washington
+address:      DC
+address:      20004
 address:      United States
-phone:        +1.2024485279
-e-mail:       patrick@join.gop
+phone:        +1 202-448-5160
+e-mail:       sgoede@rslc.gop
 
 contact:      technical
 name:         TLD Registry Services Technical
@@ -44,6 +47,6 @@ status:       ACTIVE
 remarks:      Registration information: http://join.gop
 
 created:      2014-03-06
-changed:      2017-05-25
+changed:      2019-08-28
 source:       IANA
 
