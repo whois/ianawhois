@@ -49,9 +49,10 @@ ds-rdata:     34255 8 2 B85680D4065DB4E7CFAF8B349DD43901EC51B78F5E9C57C332BC6D90
 whois:        whois.nic.cymru
 
 status:       ACTIVE
-remarks:      Registration information: http://ourhomeonline.org.uk
+remarks:      Registration information:
+remarks:      https://eincartrefarlein.cymru/
 
 created:      2014-07-31
-changed:      2018-02-07
+changed:      2019-08-20
 source:       IANA
 
