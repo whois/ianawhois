@@ -10,7 +10,7 @@ address:      Zurich CH-8021
 address:      Switzerland
 
 contact:      administrative
-name:         Key Account Manager
+name:         SWITCH TLD Administration
 organisation: SWITCH The Swiss Education & Research Network
 address:      Werdstrasse 2
 address:      Zurich  CH-8021
@@ -20,10 +20,10 @@ fax-no:       +41 44 268 15 78
 e-mail:       tld-admin@switch.ch
 
 contact:      technical
-name:         Security Engineer
+name:         DNS Operations
 organisation: SWITCH The Swiss Education & Research Network
 address:      Werdstrasse 2
-address:      Zurich  CH-8004
+address:      Zurich  CH-8021
 address:      Switzerland
 phone:        +41 44 268 15 40
 fax-no:       +41 44 268 15 78
@@ -37,14 +37,14 @@ nserver:      E.NIC.LI 194.0.17.1 2001:678:3:0:0:0:0:1
 nserver:      F.NIC.LI 194.146.106.14 2001:67c:1010:3:0:0:0:53
 nserver:      G.NIC.LI 194.0.1.40 2001:678:4:0:0:0:0:28
 nserver:      H.NIC.LI 2a03:bd80:36:0:0:1:203:230 85.119.5.230
-ds-rdata:     43587 13 2 B14D4CF3551DB52CF024E85CECA6AC7D0D78356E95C67AA6CD75257D1CAB268F
+ds-rdata:     30904 13 2 63725534B907CFC0E2326A640327C70C8E44D747AABEEF0D1A14AFB7836A7894
 
 whois:        whois.nic.li
 
 status:       ACTIVE
-remarks:      Registration information: http://www.nic.li
+remarks:      Registration information: https://www.nic.li
 
 created:      1993-02-26
-changed:      2018-11-24
+changed:      2019-11-21
 source:       IANA
 
