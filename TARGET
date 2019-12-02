@@ -9,9 +9,10 @@ address:      1000 Nicollet Mall, Minneapolis, Minnesota 55403, U.S.A.
 address:      United States
 
 contact:      administrative
-name:         Target Domain Holdings, LLC
+name:         Administrative Contact
 organisation: Target Domain Holdings, LLC
-address:      1000 Nicollet Mall, Minneapolis, Minnesota 55403, U.S.A.
+address:      1000 Nicollet Mall
+address:      Minneapolis, Minnesota 55403
 address:      United States
 phone:        +1 612 696-3400
 fax-no:       +1 612 696-3399
@@ -42,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.target.com
 
 created:      2016-07-21
-changed:      2018-08-22
+changed:      2019-09-16
 source:       IANA
 
