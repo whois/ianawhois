@@ -9,12 +9,13 @@ address:      Urb. Madre Selva, Av. El Espino, Edificio Avianca, Antiguo Cuscatl
 address:      El Salvador
 
 contact:      administrative
-name:         IT Infrastructure Specialist
+name:         Digital Operations and Services Analyst
 organisation: Aerovias del Continente Americano S.A. Avianca
-address:      Urb. Madre Selva, Av. El Espino, Edificio Avianca, Antiguo Cuscatlan, La Libertad
-address:      El Salvador
+address:      Calle 26 #59-15
+address:      Bogota D.C.
+address:      Colombia
 phone:        +503-2247-2151
-e-mail:       hector.lopez@avianca.com
+e-mail:       sebastian.correa@avianca.com
 
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
@@ -38,6 +39,6 @@ status:       ACTIVE
 remarks:      Registration information:  http://avianca.com/es-us/
 
 created:      2016-02-26
-changed:      2016-03-09
+changed:      2019-09-11
 source:       IANA
 
