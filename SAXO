@@ -36,12 +36,12 @@ nserver:      D.NIC.SAXO 2001:dcd:4:0:0:0:0:9 37.209.198.9
 ds-rdata:     18382 8 2 929D50A6D1A53DA801CAB5F5FF1787CE632AD143B67AB98D35ACF470507A2525
 ds-rdata:     18382 8 1 83553DFCD25E5C6DE80237650C780716A49C7BAF
 
-whois:        whois.aridnrs.net.au
+whois:        whois.nic.saxo
 
 status:       ACTIVE
 remarks:      Registration information: http://nic.saxo
 
 created:      2015-01-15
-changed:      2016-04-01
+changed:      2019-09-03
 source:       IANA
 
