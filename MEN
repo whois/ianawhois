@@ -19,14 +19,14 @@ phone:        +350 200 73520
 e-mail:       edgar.c.lavarello@gi.pwc.com
 
 contact:      technical
-name:         Geir Rasmussen
-organisation: Famous Four Media/Exclusive Registry Limited
-address:      Famous Four Media/Exclusive Registry Limited
-address:      2nd Floor Leisure Island Business Centre
-address:      Gibraltar
-phone:        35021650000
-fax-no:       35021628816
-e-mail:       registry@famousfourmedia.com
+name:         Director
+organisation: Neustar, Inc.
+address:      21575 Ridgetop Circle
+address:      Sterling, VA 20166
+address:      United States
+phone:        +1 844 677 2878
+fax-no:        +1 571 434 5401
+e-mail:       technical1@registry.neustar
 
 nserver:      A.NIC.MEN 2001:dcd:1:0:0:0:0:10 37.209.192.10
 nserver:      B.NIC.MEN 2001:dcd:2:0:0:0:0:10 37.209.194.10
@@ -38,9 +38,9 @@ ds-rdata:     31777 8 2 AACC8C03C369479DA4905E75EEF8C55A2B48277BD38132A83E967B35
 whois:        whois.nic.men
 
 status:       ACTIVE
-remarks:      Registration information: http://www.famousfourmedia.com
+remarks:      Registration information: http://nic.men
 
 created:      2015-05-08
-changed:      2018-06-15
+changed:      2019-08-07
 source:       IANA
 
