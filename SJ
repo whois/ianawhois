@@ -4,30 +4,28 @@
 
 domain:       SJ
 
-organisation: UNINETT Norid A/S
+organisation: Norid A/S
 address:      Abelsgate 5
 address:      Trondheim  N-7465
 address:      Norway
 
 contact:      administrative
 name:         Hilde Thunem
-organisation: UNINETT Norid A/S
+organisation: Norid A/S
 address:      Postboks 4769 Sluppen
 address:      Trondheim  NO-7465
 address:      Norway
-phone:        +47 73 55 79 00
-fax-no:       +47 73 55 79 99
-e-mail:       hilde.thunem@uninett.no
+phone:        +47 73 55 73 55
+e-mail:       hilde.thunem@norid.no
 
 contact:      technical
 name:         Jarle Greipsland
-organisation: UNINETT Norid A/S
+organisation: Norid A/S
 address:      Postboks 4769 Sluppen
 address:      Trondheim  NO-7465
 address:      Norway
-phone:        +47 73 55 79 00
-fax-no:       +47 73 55 79 99
-e-mail:       jarle@uninett.no
+phone:        +47 73 55 73 55
+e-mail:       jarle@norid.no
 
 nserver:      NAC.NO 128.39.2.22 2001:700:0:102:0:0:0:aa53
 nserver:      NN.UNINETT.NO 158.38.0.181 2001:700:0:503:0:0:aa:5302
@@ -39,6 +37,6 @@ remarks:      Registration information:
 remarks:      http://www.norid.no/omnorid/toppdomenet-sj.en.html
 
 created:      1997-08-21
-changed:      2015-04-16
+changed:      2019-08-01
 source:       IANA
 
