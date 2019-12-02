@@ -33,7 +33,7 @@ nserver:      NS1.RYCE-RSP.COM 193.56.204.153 2a0c:8f40:0:701:0:0:0:153
 nserver:      NSA.NETNOD.SE 194.58.192.33 2a01:3f1:33:0:0:0:0:53
 nserver:      NSP.NETNOD.SE 194.58.198.33 2a01:3f1:3033:0:0:0:0:53
 nserver:      NSU.NETNOD.SE 185.42.137.99 2a01:3f0:400:0:0:0:0:33
-ds-rdata:     46835 8 2 62d4825871c06ae1fdd41bdc280595b6776aa58bddbefb23714e781b8b87c135
+ds-rdata:     49289 8 2 79fe828514049fe47cf888bd5bcc827503356c085951aaf089894c61c28f7496
 
 whois:        whois.nic.tirol
 
@@ -41,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.tirol
 
 created:      2014-05-29
-changed:      2018-11-01
+changed:      2019-09-18
 source:       IANA
 
