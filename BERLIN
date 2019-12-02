@@ -15,7 +15,7 @@ address:      Gustav-Mueller-Strasse 1, 10829 Berlin, Berlin, Germany
 address:      Germany
 phone:        +49 30 49782354
 fax-no:       +49 30 49782356
-e-mail:       registry@dotberlin.de
+e-mail:       registry@dot.berlin
 
 contact:      technical
 name:         Technical Operations
@@ -38,6 +38,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.berlin/
 
 created:      2013-12-19
-changed:      2019-01-30
+changed:      2019-10-16
 source:       IANA
 
