@@ -6,18 +6,19 @@ domain:       FJ
 
 organisation: The University of the South Pacific
 organisation: IT Services
+address:      Laucala Bay Campus,
+address:      ICT Building A
 address:      Suva
 address:      Fiji
 
 contact:      administrative
-name:         Manager Systems & Networks
+name:         Manager Enterprise Systems & Networks
 organisation: The University of the South Pacific
 organisation: IT Services
 address:      Suva
 address:      Fiji
-phone:        +679 321 2114
-fax-no:       +679 330 4089
-e-mail:       domreg@usp.ac.fj
+phone:        +679 323 2117
+e-mail:       systems.manager@usp.ac.fj
 
 contact:      technical
 name:         Manager Systems & Networks
@@ -25,8 +26,7 @@ organisation: The University of the South Pacific
 organisation: IT Services
 address:      Suva
 address:      Fiji
-phone:        +679 321 2114
-fax-no:       +679 330 4089
+phone:        +679 323 2117
 e-mail:       domreg@usp.ac.fj
 
 nserver:      ADNS1.BERKELEY.EDU 128.32.136.3 2607:f140:ffff:fffe:0:0:0:3
@@ -40,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://domains.fj/
 
 created:      1992-06-03
-changed:      2009-05-26
+changed:      2019-11-08
 source:       IANA
 
