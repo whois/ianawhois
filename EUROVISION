@@ -39,10 +39,9 @@ ds-rdata:     52357 10 2 FC1CA626451621109D8314D5BBBB3DA8C607E36FB0C5493BD6F2377
 whois:        whois.nic.eurovision
 
 status:       ACTIVE
-remarks:      Registration information:
-remarks:      http://www.eurovision.tv/page/timeline
+remarks:      Registration information: https://www.ebu.ch/
 
 created:      2014-08-28
-changed:      2014-12-08
+changed:      2019-08-29
 source:       IANA
 
