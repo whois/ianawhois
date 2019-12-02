@@ -10,40 +10,41 @@ address:      Palm Beach Gardens FL 33420
 address:      United States
 
 contact:      administrative
-name:         General Counsel
-organisation: ICM Registry PN LLC
+name:         Len Bayles
+organisation: ICM Registry LLC
 address:      P.O. Box 30129
 address:      Palm Beach Gardens FL 33420
 address:      United States
-phone:        +1 877 809 3182
+phone:        +1 801 647 1705 
 fax-no:       +1 877 809 3183
-e-mail:       legal@icmregistry.com
+e-mail:       lbay@icmregistry.com
 
 contact:      technical
-name:         Senior Director, DNS Infrastructure Group
-organisation: Afilias
-address:      Building 3, Suite 105 300 Welsh Road
-address:      Horsham, PA 19044
-address:      United States
-phone:        +1 215 706 5700
-fax-no:       +1 215 706 5701
-e-mail:       tld-tech-poc@afilias.info
+name:         VP Of Technology
+organisation: Uniregistry Corp.
+address:      Governors Square, Unit 3-110
+address:      23 Lime Tree Bay Avenue
+address:      Grand Cayman, Cayman Islands KY1-1108
+address:      Cayman Islands
+phone:        +1 345 749 6263
+fax-no:       +1 345 746 6263
+e-mail:       ops@uniregistry.com
 
-nserver:      A0.NIC.PORN 199.115.152.1 2001:500:a0:0:0:0:0:1
-nserver:      A2.NIC.PORN 199.115.156.1 2001:500:a4:0:0:0:0:1
-nserver:      B0.NIC.PORN 199.115.153.1 2001:500:a1:0:0:0:0:1
-nserver:      B2.NIC.PORN 199.115.157.1 2001:500:a5:0:0:0:0:1
-nserver:      C0.NIC.PORN 199.115.154.1 2001:500:a2:0:0:0:0:1
-nserver:      D0.NIC.PORN 199.115.155.1 2001:500:a3:0:0:0:0:1
-ds-rdata:     59953 7 1 3e82eb87282065a1d28f29c3e53c86566d0f9de7
-ds-rdata:     59953 7 2 daeee0a9c1ea6fde419df7c24ddd151c3c679db50245f5deb6caee78b29d7994
+nserver:      NS1.UNIREGISTRY.NET 2620:57:4000:1:0:0:0:1 64.96.1.1
+nserver:      NS2.UNIREGISTRY.INFO 64.96.245.53
+nserver:      NS5.UNIREGISTRY.NET 2001:500:14:7002:ad:0:0:1 204.61.217.2
+nserver:      NS6.UNIREGISTRY.INFO 206.51.254.2 2620:171:804:ad2:0:0:0:2
+ds-rdata:     26964 7 1 4df87bf971aee6ece3bdb18b479cd8c706d0940a
+ds-rdata:     26964 7 2 65d5b46a3c6fb2714e0777892902a0b9f92d75a5f5a52db2ca0de0960d06d06d
+ds-rdata:     40125 7 2 06B17A8FDD0D63DBE40C6907F6F5A4CE0955B47773BEA7220CD858C058F48C51
+ds-rdata:     40125 7 1 17A4C622EA3F7CE1B491EFAB5C0245439F558C87
 
-whois:        whois.afilias-srs.net
+whois:        whois.registrar.adult
 
 status:       ACTIVE
 remarks:      Registration information: http://icmregistry.com
 
 created:      2014-11-26
-changed:      2014-12-08
+changed:      2019-10-30
 source:       IANA
 
