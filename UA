@@ -33,7 +33,7 @@ nserver:      HO1.NS.UA 195.47.253.1 2001:67c:258:0:0:0:0:1
 nserver:      IN1.NS.UA 2604:ee00:0:101:0:0:0:40 74.123.224.40
 nserver:      PCH.NS.UA 2001:500:14:6012:ad:0:0:1 204.61.216.12
 nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e:0:0:0:0:1
-ds-rdata:     56514 10 2 bdd7a310534f76b2b6b25c94f816f9b9f260a2e35f526a9287e3307fb2cd16d8
+ds-rdata:     48349 13 2 D8456DF0EAB0DB7D2422B4110722F5772D7B2F1FD41D487E956A54F1039D53C8
 
 whois:        whois.ua
 
@@ -41,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://hostmaster.ua/
 
 created:      1992-12-01
-changed:      2018-12-13
+changed:      2019-11-15
 source:       IANA
 
