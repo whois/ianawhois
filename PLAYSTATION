@@ -38,7 +38,6 @@ nserver:      A.GMOREGISTRY.NET 2001:dcd:1:0:0:0:0:4 37.209.192.4
 nserver:      B.GMOREGISTRY.NET 2001:dcd:2:0:0:0:0:4 37.209.194.4
 nserver:      K.GMOREGISTRY.NET 37.209.196.4
 nserver:      L.GMOREGISTRY.NET 2001:dcd:4:0:0:0:0:4 37.209.198.4
-ds-rdata:     32780 8 2 bf07dc2b242e3888cc520c8d1502188ac6613f4c61f4288cb13d36d0c2fa0b4e
 ds-rdata:     32839 8 2 a730646c6d6a5e9ad966881eea96e688600d163a409ae2bfe3a33bdbc780211a
 
 whois:        whois.nic.playstation
@@ -47,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.playstation.com
 
 created:      2015-09-24
-changed:      2019-03-26
+changed:      2019-08-20
 source:       IANA
 
