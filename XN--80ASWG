@@ -36,12 +36,12 @@ nserver:      ANYCAST24.IRONDNS.NET 195.253.65.12 2a01:5b0:5:0:0:0:0:c
 nserver:      ANYCAST9.IRONDNS.NET 195.253.64.11 2a01:5b0:4:0:0:0:0:b
 ds-rdata:     61281 10 2 FD5803E5D6CA1B8B5B3345B8E6AEA0E640988D973AE153713A7BC890A84E3400
 
-whois:        whois.site.rs.corenic.net
+whois:        whois.nic.xn--80aswg
 
 status:       ACTIVE
 remarks:      Registration information: http://corenic.org
 
 created:      2013-10-21
-changed:      2015-03-31
+changed:      2019-08-09
 source:       IANA
 
