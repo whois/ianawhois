@@ -37,11 +37,12 @@ nserver:      D.NIC.RUGBY 212.18.249.73 2a04:2b00:13ff:0:0:0:0:73
 ds-rdata:     30467 8 1 CBF75F545BB5C1057CF13EDE91565F6CB3708D7C
 ds-rdata:     30467 8 2 D23F3E8A3EDED657AC88B27E95B1EB94CBA49F056E3FA1FC970E743DC3225817
 
-whois:        whois.centralnic.com
+whois:        whois.nic.rugby
 
 status:       ACTIVE
+remarks:      Registration information: https://nic.rugby/
 
 created:      2017-03-23
-changed:      2018-04-26
+changed:      2019-08-22
 source:       IANA
 
