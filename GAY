@@ -1,0 +1,48 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       GAY
+
+organisation: Top Level Design, LLC
+address:      742 Ocean Club Place
+address:      Fernandina Beach, FL 32034
+address:      United States
+
+contact:      administrative
+name:         Raymond King
+organisation: Top Level Design, LLC
+address:      742 Ocean Club Place
+address:      Fernandina Beach, FL 32034
+address:      United States
+phone:        +1.503.888.8808
+fax-no:       +1.678.884.1468
+e-mail:       ray@tldesign.co
+
+contact:      technical
+name:         CTO
+organisation: CentralNic Registry
+address:      Saddlers House, 4th Floor
+address:      44 Gutter Lane
+address:      London EC2V 6BR
+address:      United Kingdom
+phone:        +44.2033880600
+fax-no:       +44.2033880601
+e-mail:       tld.ops@centralnic.com
+
+nserver:      A.NIC.GAY 194.169.218.57 2001:67c:13cc:0:0:0:1:57
+nserver:      B.NIC.GAY 185.24.64.57 2a04:2b00:13cc:0:0:0:1:57
+nserver:      C.NIC.GAY 212.18.248.57 2a04:2b00:13ee:0:0:0:0:57
+nserver:      D.NIC.GAY 212.18.249.57 2a04:2b00:13ff:0:0:0:0:57
+ds-rdata:     25142 8 1 aafb0c1750566bbadac4f588c9e1a6a642dda429
+ds-rdata:     25142 8 2 91ab29861d9a4c854adf3de6315526e3345cb4c42cf870358aa498207fc45d6f
+
+whois:        whois.nic.gay
+
+status:       ACTIVE
+remarks:      Registration information: http://toplevel.design/gay/
+
+created:      2019-07-19
+changed:      2019-08-10
+source:       IANA
+
