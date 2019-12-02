@@ -29,15 +29,15 @@ phone:        +387 33 560 240
 fax-no:       +387 33 213 773
 e-mail:       dnstech@utic.net.ba
 
-nserver:      AUTH03.NS.UU.NET 198.6.1.83
 nserver:      NS.BA 195.130.35.5
 nserver:      SAVA.UTIC.NET.BA 195.130.35.3
+nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e:0:0:0:0:1
 nserver:      UNA.UTIC.NET.BA 2001:500:14:6117:ad:0:0:1 204.61.216.117
 
 status:       ACTIVE
 remarks:      Registration information: http://www.nic.ba
 
 created:      1996-08-14
-changed:      2019-01-23
+changed:      2019-08-06
 source:       IANA
 
