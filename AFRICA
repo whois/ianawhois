@@ -32,9 +32,8 @@ e-mail:       icann@registry.net.za
 
 nserver:      COZA1.DNSNODE.NET 194.146.106.74 2001:67c:1010:18:0:0:0:53
 nserver:      NS.COZA.NET.ZA 2001:43f8:30:0:0:0:0:200 206.223.136.200
-nserver:      NS2.DNS.BUSINESS 2001:1978:2400:6:0:0:0:112 66.135.46.112
-ds-rdata:     48004 8 2 5c4a9348e95f9442fa99ea45bdad7899322e4838d0ab2a9d413497882080ec99
-ds-rdata:     28189 8 2 e2edcc413c3bbfebb9e6f34d1ee5a7b33ce43e0208c7e46d18c8caa4f0bc05f3
+nserver:      NS2US.DNS.BUSINESS 147.135.106.236 2604:2dc0:200:2eb:0:0:0:2
+ds-rdata:     44605 8 2 872009b128134f098aeb415390e1ccce0df64338f7d3345df140c59fb15c7d82
 
 whois:        africa-whois.registry.net.za
 
@@ -42,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.africa
 
 created:      2017-02-11
-changed:      2018-01-29
+changed:      2019-09-27
 source:       IANA
 
