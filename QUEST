@@ -4,18 +4,19 @@
 
 domain:       QUEST
 
-organisation: Quest ION Limited
-address:      Unit F, 26/F, MG Tower, 133 Hoi Bun Road, Kwun Tong, Kowloon East, Hong Kong
-address:      Hong Kong
+organisation: XYZ.COM LLC
+address:      2121 E Tropicana Ave, STE2
+address:      Las Vegas, NV 89119
+address:      United States
 
 contact:      administrative
-name:         Chief Technology Officer
-organisation: Quest ION Limited
-address:      Unit F, 26/F, MG Tower, 133 Hoi Bun Road, Kwun Tong, Kowloon East, Hong Kong
-address:      Hong Kong
-phone:        +85228271899
-fax-no:       +85228271833
-e-mail:       ngtld-quest@cscinfo.com
+name:         Grant Carpenter
+organisation: XYZ.COM LLC
+address:      2121 E Tropicana Ave, STE2
+address:      Las Vegas, NV 89119
+address:      United States
+phone:        +1 702 757 6555
+e-mail:       gc@xyz.xyz
 
 contact:      technical
 name:         Dennis Rhee
@@ -39,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.qigroup.com/
 
 created:      2015-08-06
-changed:      2016-02-06
+changed:      2019-11-14
 source:       IANA
 
