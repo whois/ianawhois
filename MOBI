@@ -11,14 +11,14 @@ address:      Dublin  1
 address:      Ireland
 
 contact:      administrative
-name:         MOBI Domain Administrator
+name:         Senior Vice President
 organisation: Afilias Technologies Limited dba dotMobi
 address:      2 La Touche House
 address:      IFSC
 address:      Dublin  1
 address:      Ireland
 phone:        +353 (0) 1 85 41 100
-e-mail:       domainadmin@mtld.mobi
+e-mail:       tld-admin-poc@afilias.info
 
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
@@ -39,12 +39,12 @@ nserver:      D0.MOBI.AFILIAS-NST.ORG 199.254.58.1 2001:500:24:0:0:0:0:1
 ds-rdata:     63018 7 1 cb9305b20dbc90cfd77685b61e805805a148a902
 ds-rdata:     63018 7 2 9e096946728a9b60d71957ae454a75f7aa03a62d44d26aa6bf702154a5307e2a
 
-whois:        whois.afilias.net
+whois:        whois.nic.mobi
 
 status:       ACTIVE
 remarks:      Registration information: http://www.mtld.mobi
 
 created:      2005-10-17
-changed:      2017-04-24
+changed:      2019-11-04
 source:       IANA
 
