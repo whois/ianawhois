@@ -37,12 +37,12 @@ nserver:      D.NIC.COURSES 2001:dcd:4:0:0:0:0:9 37.209.198.9
 ds-rdata:     17152 8 1 B73BF1B4349938FE78983BC109E8A2C0DAACD339
 ds-rdata:     17152 8 2 02DEE3F9EB388216ADCA7C11EA5E117BD018FB79E73B13A939DA7B574126A769
 
-whois:        whois.aridnrs.net.au
+whois:        whois.nic.courses
 
 status:       ACTIVE
-remarks:      Registration information: http://www.open.edu.au/
+remarks:      Registration information: https://www.get.courses/
 
 created:      2015-02-19
-changed:      2019-06-20
+changed:      2019-08-07
 source:       IANA
 
