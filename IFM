@@ -10,14 +10,14 @@ address:      45128 Essen
 address:      Germany
 
 contact:      administrative
-name:         Dietmar Schettgen
+name:         Kevin Kampeter
 organisation: ifm electronic gmbh
 address:      Friedrichstr. 1
 address:      45128 Essen
 address:      Germany
 phone:        +49-201-24220
 fax-no:       +49-201-24221200
-e-mail:       info@ifm.com
+e-mail:       security@ifm.com
 
 contact:      technical
 name:         ironDNS Support
@@ -41,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.ifm.com
 
 created:      2015-01-15
-changed:      2015-01-25
+changed:      2019-10-24
 source:       IANA
 
