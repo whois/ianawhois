@@ -20,26 +20,25 @@ fax-no:       +95 67 407227
 e-mail:       mswe67@gmail.com
 
 contact:      technical
-name:         Mr. Nay Lin
-organisation: Myanmar Posts and Telecommunications
-address:      Pyay Road
-address:      Yangon 11111
+name:         Mr. Nang Deih Cin
+organisation: Posts and Telecommunications Department
+address:      Zayya Htar Ni Street
+address:      Nay Pyi Taw 150111
 address:      Myanmar
-phone:        +95-1-511006
-fax-no:       +95-1-511008
-e-mail:       naylin@mptngw.net.mm
+address:      Myanmar
+phone:        +95 67 3407626
+fax-no:       +95 67 407227
+e-mail:       ndeihcin@gmail.com
 
-nserver:      MM.CCTLD.AUTHDNS.RIPE.NET 193.0.9.96 2001:67c:e0:0:0:0:0:96
-nserver:      NS0.NIC.NET.MM 203.81.64.20
-nserver:      NS1.NIC.NET.MM 203.81.81.85
-nserver:      NS2.NIC.NET.MM 203.81.92.10
-ds-rdata:     14581 8 1 8B0ED592A997E801DAFADA2CD4CC31999BDA8782
-ds-rdata:     10294 8 1 31C1F0CFF7A6FE366A55E731855C78CF672E88CF
+nserver:      A.NIC.NET.MM 37.209.192.4
+nserver:      B.NIC.NET.MM 37.209.194.4
+nserver:      C.NIC.NET.MM 37.209.196.4
+nserver:      D.NIC.NET.MM 37.209.198.4
 
 status:       ACTIVE
 remarks:      Registration information: http://www.nic.mm/
 
 created:      1997-02-04
-changed:      2018-08-17
+changed:      2019-10-07
 source:       IANA
 
