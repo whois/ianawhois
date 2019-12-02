@@ -31,11 +31,15 @@ phone:        +1-703-925-6999
 fax-no:       +1-703-948-3978
 e-mail:       info@verisign-grs.com
 
-nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
-nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
-nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
-nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
+nserver:      A.NIC.INSURANCE 156.154.100.22 2001:0502:2eda:0:0:0:0:22
+nserver:      B.NIC.INSURANCE 156.154.101.22 2001:0502:ad09:0:0:0:0:22
+nserver:      C.NIC.INSURANCE 156.154.102.22 2610:a1:1009:0:0:0:0:22
+nserver:      D.NIC.INSURANCE 156.154.103.22 2610:a1:1010:0:0:0:0:22
+nserver:      E.NIC.INSURANCE 156.154.104.22 2610:a1:1011:0:0:0:0:22
+nserver:      F.NIC.INSURANCE 156.154.105.22 2610:a1:1012:0:0:0:0:22
 ds-rdata:     26106 8 2 6FA68E9C22C5591EBB6BAF0213849102AF30B71B65B51ED890639F8299AAD1D8
+ds-rdata:     48811 8 2 C6677658BFC5B11FEC39E0D7F7266091FC7979EAAE5AA6C51673B1A53BCED3FA
+ds-rdata:     48811 8 1 B575048BA3D8644F995DBE7AF524C6EAF5E0E40F
 
 whois:        whois.nic.insurance
 
@@ -43,6 +47,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.ftld.com/
 
 created:      2015-11-06
-changed:      2016-02-21
+changed:      2019-11-24
 source:       IANA
 
