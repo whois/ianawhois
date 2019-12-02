@@ -16,7 +16,6 @@ address:      Katrinartun 2
 address:      Reykjavik  105
 address:      Iceland
 phone:        +354 578 2030
-fax-no:       + 354 578 2031
 e-mail:       jens@isnic.is
 
 contact:      technical
@@ -40,9 +39,9 @@ ds-rdata:     26726 8 2 6984fef569cfdb2ce00afc62b5763ad50306eb0d4816a7c6cf921bf6
 whois:        whois.isnic.is
 
 status:       ACTIVE
-remarks:      Registration information: http://www.isnic.is/
+remarks:      Registration information: https://www.isnic.is/
 
 created:      1987-11-18
-changed:      2016-10-28
+changed:      2019-10-18
 source:       IANA
 
