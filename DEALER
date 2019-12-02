@@ -4,28 +4,37 @@
 
 domain:       DEALER
 
-organisation: Dealer Dot Com, Inc.
-address:      1 Howard St., Burlington, VT 05401
-address:      United States
+organisation: Intercap Registry Inc.
+address:      4th Floor, Harbour Place, 103 South Church Street
+address:      PO Box 10240
+address:      Grand Cayman, KY1-1002
+address:      Cayman Islands
+address:      Cayman Islands
 
 contact:      administrative
-name:         Karl Polifka-Rivas
-organisation: Dealer Dot Com, Inc
-address:      1 Howard St., Burlington, VT 05401
-address:      United States
-phone:        +1-802-540-7379
-fax-no:       +1-802-658-0926
-e-mail:       dotdealerregistry@dealer.com
+name:         Registry Administrator
+organisation: Intercap Registry Inc.
+address:      4th Floor, Harbour Place, 103 South Church Street
+address:      PO Box 10240
+address:      Grand Cayman, KY1-1002
+address:      Cayman Islands
+address:      Cayman Islands
+phone:        +1.833.4DOT.INC
+fax-no:       +1.3457466263
+e-mail:       ask@get.dealer
 
 contact:      technical
-name:         Director
-organisation: Neustar, Inc.
-address:      21575 Ridgetop Circle
-address:      Sterling, VA 20166
-address:      United States
-phone:        +1 844-677-2878
-fax-no:       +1 571-434-5401
-e-mail:       technical1@registry.neustar
+name:         VP Of Technology
+organisation: Uniregistry Corp.
+address:      Governors Square, Unit 3-110
+address:      23 Lime Tree Bay Avenue
+address:      Grand Cayman
+address:      Cayman Islands
+address:      KY1-1108
+address:      Cayman Islands
+phone:        +1 3457496263
+fax-no:       +1 3457466263
+e-mail:       ops@uniregistry.com
 
 nserver:      NS1.DNS.NIC.DEALER 156.154.144.223 2610:a1:1071:0:0:0:0:df
 nserver:      NS2.DNS.NIC.DEALER 156.154.145.223 2610:a1:1072:0:0:0:0:df
@@ -37,11 +46,15 @@ ds-rdata:     46391 8 1 23AF0F956ACE3233046775E31617378B08BD6575
 ds-rdata:     46391 8 2 7D3C3132C9B69189301D4D639F701EA7CB5D2A453609698D7FAB8112CBB4A474
 ds-rdata:     45754 8 1 117BF190BE0889B18B577ED72022209F1BF26C87
 ds-rdata:     45754 8 2 D1BF7EBBCC042B957FDDDFEC69D8D4DCE3AF12A1BF2F8173A561E36A031ED616
+ds-rdata:     43516 8 2 AFFEE7DB437839677F9B16547175BFA4F22A0CFC0FC2F374AF5884C523EFA54C
+ds-rdata:     43516 8 1 E4209E3F2BFDBF136D547329F367AE9BD03A3BEB
+
+whois:        whois.nic.dealer
 
 status:       ACTIVE
-remarks:      Registration information: http://www.dealer.com
+remarks:      Registration information: http://nic.dealer
 
 created:      2015-11-25
-changed:      2018-08-22
+changed:      2019-11-15
 source:       IANA
 
