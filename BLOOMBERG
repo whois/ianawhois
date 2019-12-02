@@ -10,14 +10,14 @@ address:      New York, New York  10075
 address:      United States
 
 contact:      administrative
-name:         William Ried
+name:         Brendan Kehoe, Esq.
 organisation: Bloomberg IP Holdings LLC
 address:      731 Lexington Avenue
 address:      New York, New York  10022
 address:      United States
-phone:        212-617-0765
-fax-no:       917-522-2600
-e-mail:       ried@bloomberg.net
+phone:        212-617-7697
+fax-no:       917-522-2727
+e-mail:       trademarks@bloomberg.net
 
 contact:      technical
 name:         Registry Customer Service
@@ -38,6 +38,6 @@ ds-rdata:     46338 8 2 98A66BE30959371E15EAF5D4A65ADA3393050610A2E5B7AE321B694C
 status:       ACTIVE
 
 created:      2014-10-16
-changed:      2016-02-22
+changed:      2019-08-16
 source:       IANA
 
