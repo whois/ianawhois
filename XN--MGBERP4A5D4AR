@@ -43,7 +43,7 @@ nserver:      NS2.NIC.NET.SA 2001:67c:130:10:0:0:0:9 86.111.196.9
 nserver:      P.NIC.NET.SA 2001:500:14:6041:ad:0:0:1 204.61.216.41
 nserver:      S.NIC.NET.SA 2001:16a0:1:3002:0:0:0:2 37.107.223.170
 nserver:      S2.NIC.NET.SA 2001:16a0:2:3002:0:0:0:2 37.107.255.170
-ds-rdata:     57601 8 2 843c82b8468ca13a4d14cedea890a589158b637a7aaccebe4a656d8ee5c94c5b
+ds-rdata:     53896 8 2 d66348676f6598dcb6ceb730c4c20fce468d2f6f23096c2a0484b6cbe896db07
 
 whois:        whois.nic.net.sa
 
@@ -51,6 +51,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.net.sa/
 
 created:      2010-05-05
-changed:      2019-01-17
+changed:      2019-06-27
 source:       IANA
 
