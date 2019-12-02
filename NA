@@ -7,14 +7,16 @@ domain:       NA
 organisation: Namibian Network Information Center
 address:      PO Box 7022
 address:      Swakopmund
+address:      13002
 address:      Namibia
 
 contact:      administrative
 name:         NA Domain Administrators
 organisation: Namibian Network Information Center
-address:      PO Box 7022
 address:      106, Fischreiher Street
+address:      PO Box 7022
 address:      Swakopmund
+address:      13002
 address:      Namibia
 phone:        +264 81 124 6733
 fax-no:       +264 88 624273
@@ -25,6 +27,7 @@ name:         NA Domain Techs
 organisation: Namibian Network Information Center
 address:      PO Box 7022
 address:      Swakopmund
+address:      13002
 address:      Namibia
 phone:        +264 81 124 6733
 fax-no:       +264 88 624273
@@ -44,6 +47,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.na-nic.com.na/
 
 created:      1991-05-08
-changed:      2018-03-30
+changed:      2019-10-11
 source:       IANA
 
