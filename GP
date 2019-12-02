@@ -34,10 +34,12 @@ e-mail:       jbroom@nic.gp
 nserver:      GP.CCTLD.AUTHDNS.RIPE.NET 193.0.9.76 2001:67c:e0:0:0:0:0:76
 nserver:      NS1.NIC.GP 193.218.114.2
 
+whois:        whois.nic.gp
+
 status:       ACTIVE
 remarks:      Registration information: http://www.nic.gp/
 
 created:      1996-10-21
-changed:      2016-01-12
+changed:      2019-11-06
 source:       IANA
 
