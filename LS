@@ -12,8 +12,8 @@ address:      Maseru
 address:      Lesotho
 
 contact:      administrative
-name:         ICT Manager
-organisation: Lesotho Network Information Centre Proprietary (LSNIC)
+name:         Molupe Molupe
+organisation: Lesotho Communications Authority
 address:      30 Princess Margaret Road
 address:      Old Europa
 address:      Maseru
@@ -23,15 +23,15 @@ fax-no:       +266 22310984
 e-mail:       lsadmin@lca.org.ls
 
 contact:      technical
-name:         Mamothokoane Tlali
-organisation: Lesotho Network Information Centre Proprietary (LSNIC)
+name:         System Engineer-LsNIC
+organisation: Lesotho Communications Authority
 address:      30 Princess Margaret Road
 address:      Old Europa
 address:      Maseru
 address:      Lesotho
 phone:        +266 22224300
 fax-no:       +266 2231 0984
-e-mail:       mtlali@nic.ls
+e-mail:       mmaphoi@nic.ls
 
 nserver:      LS-NS.ANYCAST.PCH.NET 2001:500:14:6028:ad:0:0:1 204.61.216.28
 nserver:      NS-LS.AFRINIC.NET 196.216.168.70 2001:43f8:120:0:0:0:0:70
@@ -44,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.ls
 
 created:      1993-01-13
-changed:      2019-01-11
+changed:      2019-10-28
 source:       IANA
 
