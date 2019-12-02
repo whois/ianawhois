@@ -27,19 +27,20 @@ address:      Brazil
 phone:        +55 11 5509 3505
 e-mail:       gtlds-tech@registro.br
 
-nserver:      A.DNS.BR 200.160.0.10 2001:12ff:0:0:0:0:0:10
-nserver:      B.DNS.BR 200.189.41.10
-nserver:      C.DNS.BR 200.192.233.10
+nserver:      A.DNS.BR 200.219.148.10 2001:12f8:6:0:0:0:0:10
+nserver:      B.DNS.BR 200.189.41.10 2001:12f8:8:0:0:0:0:10
+nserver:      C.DNS.BR 200.192.233.10 2001:12f8:a:0:0:0:0:10
 nserver:      D.DNS.BR 200.219.154.10 2001:12f8:4:0:0:0:0:10
-nserver:      E.DNS.BR 200.229.248.10 2001:12f8:1:0:0:0:0:10
+nserver:      E.DNS.BR 200.229.248.10 2001:12f8:2:0:0:0:0:10
 nserver:      F.DNS.BR 200.219.159.10 2001:12f8:c:0:0:0:0:10
-ds-rdata:     60907 8 1 EDC582ABA2CC384A7F3D6A49DD573A879AD53207
+ds-rdata:     60907 8 2 6AE88F8F31320A1ACBEC8C82A5D3B5A22AB7F4283DB00F67A697884055D3BC05
 
 whois:        whois.gtlds.nic.br
 
 status:       ACTIVE
+remarks:      Registration information: https://nic.rio/
 
 created:      2014-05-15
-changed:      2014-05-22
+changed:      2019-08-02
 source:       IANA
 
