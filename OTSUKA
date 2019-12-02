@@ -30,13 +30,14 @@ nserver:      A.GMOREGISTRY.NET 2001:dcd:1:0:0:0:0:4 37.209.192.4
 nserver:      B.GMOREGISTRY.NET 2001:dcd:2:0:0:0:0:4 37.209.194.4
 nserver:      K.GMOREGISTRY.NET 37.209.196.4
 nserver:      L.GMOREGISTRY.NET 2001:dcd:4:0:0:0:0:4 37.209.198.4
-ds-rdata:     40279 8 2 5d0441d65ccca92aeb0db9a775058c6afbac71decb8530f01334fcfcc9ba214a
 ds-rdata:     1147 8 2 99fa7ba5260c1c400fc5d65616fd3d796a6ab5aea557314cab10392de8fc90b3
+
+whois:        whois.nic.otsuka
 
 status:       ACTIVE
 remarks:      Registration information: http://www.gmoregistry.com/en/
 
 created:      2014-06-26
-changed:      2019-03-20
+changed:      2019-08-20
 source:       IANA
 
