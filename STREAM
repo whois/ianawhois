@@ -38,11 +38,12 @@ ds-rdata:     6266 8 2 6A5660650097FD8B13283E970742CF25BF9FE98F4835335FD9268962B
 ds-rdata:     50650 8 2 F62CFA88DF4653A4D5F43E5C8C9FA471E1D7A8151D6D9A0348A3270D34A8DB07
 ds-rdata:     50650 8 1 F7EDE28434E8901D703F0D79B453DD831D9497E3
 
+whois:        whois.nic.stream
+
 status:       ACTIVE
-remarks:      Registration information:
-remarks:      http://www.famousfourmedia.com/stream
+remarks:      Registration information: http://nic.stream
 
 created:      2016-02-26
-changed:      2018-08-22
+changed:      2019-08-07
 source:       IANA
 
