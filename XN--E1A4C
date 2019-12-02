@@ -30,13 +30,12 @@ phone:        +32 2 401 27 50
 fax-no:       +32 2 401 27 51
 e-mail:       domain-tech@eurid.eu
 
-nserver:      CZ.DNS.EU 93.190.128.138
 nserver:      NL.DNS.EU 91.200.16.100
 nserver:      SI.DNS.EU 193.2.221.60 2001:1470:8000:100:0:0:0:1
 nserver:      UK.DNS.EU 195.66.241.178
+nserver:      W.DNS.EU 194.0.25.28 2001:678:20:0:0:0:0:28
 nserver:      X.DNS.EU 185.151.141.1 2a02:568:fe00:0:0:0:0:6575
 nserver:      Y.DNS.EU 194.146.106.90 2001:67c:1010:23:0:0:0:53
-nserver:      Z.DNS.EU 162.88.56.1 2600:2000:3004:0:0:0:0:1
 ds-rdata:     274 8 2 36E1E0D1BEC89138564A3E2906764BB2DADAE21274FEC1F9CEACE4B7AC42DF9B
 
 whois:        whois.eu
@@ -45,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.registry.eu
 
 created:      2015-12-08
-changed:      2019-05-07
+changed:      2019-08-27
 source:       IANA
 
