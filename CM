@@ -30,7 +30,6 @@ fax-no:       +237 223 0303
 e-mail:       jean-ernest.bikoe@camnet.cm
 
 nserver:      AUTH02.NS.UU.NET 198.6.1.82
-nserver:      CM.CCTLD.AUTHDNS.RIPE.NET 193.0.9.68 2001:67c:e0:0:0:0:0:68
 nserver:      KIM.CAMNET.CM 195.24.192.35
 nserver:      LOM.CAMNET.CM 195.24.192.34
 nserver:      NS.ITU.CH 156.106.192.121 2a00:7580:60:2141:0:0:0:10
@@ -40,6 +39,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.info.camnet.cm
 
 created:      1995-04-29
-changed:      2012-07-12
+changed:      2019-07-26
 source:       IANA
 
