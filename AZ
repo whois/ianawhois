@@ -5,15 +5,15 @@
 domain:       AZ
 
 organisation: IntraNS
-address:      196, Dilara Aliyeva str
-address:      Baku  1000
+address:      AZ1000 Baku
+address:      ap 30/34 home 35 Zarifa Aliyeva street
 address:      Azerbaijan
 
 contact:      administrative
 name:         Faig Farmanov
 organisation: IntraNS
-address:      196, Dilara Aliyeva str
-address:      Baku  1000
+address:      AZ1000 Baku
+address:      ap 30/34 home 35 Zarifa Aliyeva street
 address:      Azerbaijan
 phone:        +994 12 4980522
 fax-no:       +994 12 4980522
@@ -22,8 +22,8 @@ e-mail:       fa@fa.az
 contact:      technical
 name:         Timur Khanjanov
 organisation: IntraNS
-address:      196, Dilara Aliyeva str
-address:      Baku  1000
+address:      AZ1000 Baku
+address:      ap 30/34 home 35 Zarifa Aliyeva street
 address:      Azerbaijan
 phone:        +994 12 4939319
 e-mail:       intel@intrans.baku.az
@@ -36,6 +36,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.whois.az/
 
 created:      1993-08-25
-changed:      2017-11-21
+changed:      2019-09-11
 source:       IANA
 
