@@ -5,14 +5,21 @@
 domain:       GENTING
 
 organisation: Resorts World Inc. Pte. Ltd.
-address:      9 Penang Road #13-10 Park Mall, Singapore 238459
+address:      3 Lim Teck Kim Road
+address:      #09-02 Genting Centre
+address:      Singapore 088934
 address:      Singapore
 
 contact:      administrative
 name:         VP
 organisation: Resorts World Inc. Pte. Ltd.
-address:      9 Penang Road #13-10 Park Mall, Singapore 238459
-address:      Singapore
+address:      RW Tech Labs Sdn Bhd
+address:      Jalan Sultan Ismail 28
+address:      2nd Floor Wisma Genting
+address:      Kuala Lumpur
+address:      50250
+address:      Malaysia
+address:      Malaysia
 phone:        +65 6823 9106
 fax-no:       +65 6720 0866
 e-mail:       ngtld-genting@cscglobal.com
@@ -40,6 +47,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.genting/
 
 created:      2015-06-11
-changed:      2016-02-19
+changed:      2019-09-09
 source:       IANA
 
