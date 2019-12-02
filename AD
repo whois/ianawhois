@@ -20,14 +20,14 @@ fax-no:       +376 863667
 e-mail:       joan-marc.lauga@andorratelecom.ad
 
 contact:      technical
-name:         Marc RODRÍGUEZ RAMOS
+name:         Josep Batalla Camacho
 organisation: Andorra Telecom
 address:      Carrer Mossèn Lluís Pujol, 8-14
 address:      Santa Coloma AD500
 address:      Andorra
-phone:        +376 875295
+phone:        +376 875297
 fax-no:       +376 863667
-e-mail:       marc.rodriguez@andorratelecom.ad
+e-mail:       josep.batalla@andorratelecom.ad
 
 nserver:      AD.CCTLD.AUTHDNS.RIPE.NET 193.0.9.53 2001:67c:e0:0:0:0:0:53
 nserver:      AD.NS.NIC.ES 194.69.254.15
@@ -37,11 +37,13 @@ nserver:      NS-EXT.ISC.ORG 2001:4f8:0:2:0:0:0:13 204.152.184.64
 nserver:      NS3.NIC.FR 192.134.0.49 2001:660:3006:1:0:0:1:1
 ds-rdata:     60892 8 2 90C3C642C6EB60EAC3C982ED697339A8EE3F70AEA644AC185BD9997790AFABC4
 ds-rdata:     60892 8 1 A107006ADE4CA8B6381660A96A606E20B13E2546
+ds-rdata:     61909 8 2 77FDC5A5B818B3231AAF5B11E096E2DB5D0DC14280072FE23F4B24E8A164DE1F
+ds-rdata:     61909 8 1 27209E62E4F85159D47D17B1B3691A49253638A6
 
 status:       ACTIVE
 remarks:      Registration information: http://www.nic.ad
 
 created:      1996-01-09
-changed:      2018-11-07
+changed:      2019-09-24
 source:       IANA
 
