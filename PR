@@ -23,7 +23,7 @@ organisation: Gauss Research Laboratory Inc.
 address:      #4 Georgetti, Río Piedras, San Juan, PR 00925
 address:      Puerto Rico
 phone:        +1-787-281-0455
-e-mail:       tech@nic.pr
+e-mail:       admin@nic.pr
 
 nserver:      A.LACTLD.ORG 200.0.68.10 2801:14:a000:0:0:0:0:10
 nserver:      A0.PR.AFILIAS-NST.INFO 199.254.59.17 2001:500:25:0:0:0:0:17
@@ -41,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.pr
 
 created:      1989-08-27
-changed:      2019-06-13
+changed:      2019-07-09
 source:       IANA
 
