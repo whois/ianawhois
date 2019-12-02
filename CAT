@@ -5,15 +5,15 @@
 domain:       CAT
 
 organisation: Fundacio puntCAT
-address:      Carrer del Carme, 47
-address:      Barcelona Catalunya 08001
+address:      Plaça Nova 5, 7ena planta
+address:      Barcelona 08002
 address:      Spain
 
 contact:      administrative
 name:         Director General
 organisation: Fundacio puntCAT
-address:      Aribau, 240 7e M
-address:      Barcelona Catalunya 08006
+address:      Plaça Nova 5, 7ena planta
+address:      Barcelona 08002
 address:      Spain
 phone:        +34 936 75 03 54
 fax-no:       +34 936 75 03 54
@@ -45,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.domini.cat
 
 created:      2005-12-19
-changed:      2017-11-27
+changed:      2019-09-10
 source:       IANA
 
