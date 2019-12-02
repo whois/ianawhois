@@ -29,7 +29,6 @@ e-mail:       regsupport@mninet.ms
 
 nserver:      MS-NS.ANYCAST.PCH.NET 2001:500:14:6033:ad:0:0:1 204.61.216.33
 nserver:      NS.COCCA.FR 185.17.236.93 2a03:dd40:3:0:0:0:0:93
-nserver:      NS.COCCAREGISTRY.ORG 185.17.236.111 2a03:dd40:3:0:0:0:0:111
 
 whois:        whois.nic.ms
 
@@ -37,6 +36,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.ms
 
 created:      1997-03-06
-changed:      2018-02-01
+changed:      2019-09-26
 source:       IANA
 
