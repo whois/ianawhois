@@ -32,12 +32,12 @@ nserver:      D.NIC.CATHOLIC 2001:dcd:4:0:0:0:0:9 37.209.198.9
 ds-rdata:     36094 8 1 BA3D19AB47D2F0A9534AAFFAB0D1555F03A5DA2D
 ds-rdata:     36094 8 2 E591A673A3B2F896407F120D4EE5AFCF41D7B3D366B8C879138E85126F4C34CE
 
-whois:        whois.aridnrs.net.au
+whois:        whois.nic.catholic
 
 status:       ACTIVE
 remarks:      Registration information: http://www.pccs.va
 
 created:      2016-11-16
-changed:      2016-12-01
+changed:      2019-07-15
 source:       IANA
 
