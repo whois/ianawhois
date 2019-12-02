@@ -10,14 +10,12 @@ address:      Atlanta, GA 30320
 address:      United States
 
 contact:      administrative
-name:         Director of Operations
-organisation: Ladas Domains LLC
-address:      224 South Michigan Avenue, Suite 1600
-address:      Chicago, IL 60624
+name:         Director of Digital Brand Services
+organisation: Corsearch Inc.
+address:      220 West 42nd Street, 11th Floor, New York, NY 10036
 address:      United States
-phone:        +1 312 427 9866
-fax-no:       +1 312 276 8366
-e-mail:       deltaregistry@ladasdomains.com
+phone:        +1 800 732 7241
+e-mail:       domains-dotdelta@corsearch.com
 
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
@@ -43,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.delta.com
 
 created:      2015-06-25
-changed:      2017-07-28
+changed:      2019-08-27
 source:       IANA
 
