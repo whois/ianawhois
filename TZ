@@ -4,36 +4,33 @@
 
 domain:       TZ
 
-organisation: Tanzania Network Information Centre (tzNIC)
-address:      New Bagamoyo Road, LAPF Millennium Towers
-address:      8th floor
-address:      P.O. Box 34543
-address:      Dar es Salaam
+organisation: Tanzania Communications Regulatory Authority
+address:      20 Sam Nujoma Road
+address:      Mawasiliano Towers
+address:      14414 Dar es Salaam
 address:      Tanzania, United Republic Of
 
 contact:      administrative
-name:         Manager
-organisation: Tanzania Network Information Centre (tzNIC)
-address:      New Bagamoyo Road, LAPF Millennium Towers
-address:      8th Floor
-address:      P.O. Box 34543
-address:      Dar es Salaam
+name:         Director - ICT and Application Services
+organisation: Tanzania Communications Regulatory Authority
+address:      20 Sam Nujoma Road
+address:      Mawasiliano Towers
+address:      14414 Dar es Salaam
 address:      Tanzania, United Republic Of
-phone:        +255 22 277 2 659
-fax-no:       +255 22 277 2 660
-e-mail:       manager@tznic.or.tz
+phone:        +255 22 2199760–8
+fax-no:       +255 22 2412010
+e-mail:       connie.francis@tcra.go.tz
 
 contact:      technical
-name:         Technical Officer
-organisation: Tanzania Network Information Centre (tzNIC)
-address:      New Bagamoyo Road, LAPF Millennium Towers
-address:      8th Floor
-address:      P.O. Box 34543
-address:      Dar es Salaam
+name:         Senior ICT Officer
+organisation: Tanzania Communications Regulatory Authority
+address:      20 Sam Nujoma Road
+address:      Mawasiliano Towers
+address:      14414 Dar es Salaam
 address:      Tanzania, United Republic Of
-phone:        +255 22 277 2 659
-fax-no:       +255 22 277 2 660
-e-mail:       technical@tznic.or.tz
+phone:        +255 22 2199760–8
+fax-no:       +255 22 2412010
+e-mail:       simon.balthazar@tcra.go.tz
 
 nserver:      D.EXT.NIC.CZ 193.29.206.2 2001:678:1:0:0:0:0:2
 nserver:      FORK.STH.DNSNODE.NET 2a01:3f0:0:306:0:0:0:53 77.72.229.254
@@ -50,6 +47,6 @@ status:       ACTIVE
 remarks:      Registration information: https://karibu.tz/
 
 created:      1995-07-14
-changed:      2019-03-03
+changed:      2019-11-07
 source:       IANA
 
