@@ -10,7 +10,7 @@ address:      Manama
 address:      Bahrain
 
 contact:      administrative
-name:         Domain Name
+name:         Technical Affairs Supervisor
 organisation: Telecommunications Regulatory Authority (TRA)
 address:      PO Box 10353
 address:      Manama
@@ -20,23 +20,22 @@ fax-no:       +973 17532125
 e-mail:       dn@tra.org.bh
 
 contact:      technical
-name:         Domain Name
-organisation: Telecommunications Regulatory Authority (TRA)
-address:      PO Box 10353
-address:      Manama
-address:      Bahrain
-phone:        +973 17520000
-fax-no:       +973 17532125
-e-mail:       dn@tra.org.bh
+name:         CentralNic Operations
+organisation: CentralNic
+address:      35-39 Moorgate, London, EC2R 6AR
+address:      United Kingdom
+phone:        +44 2033880600
+fax-no:       +44 2033880601
+e-mail:       tld.ops@centralnic.com
 
-nserver:      NS.BATELCO.COM.BH 193.188.97.197
-nserver:      NS2.BATELCO.COM.BH 193.188.97.212
-nserver:      NS3.BATELCO.COM.BH 193.188.97.193
-nserver:      NS4.BATELCO.COM.BH 193.188.97.209
+nserver:      A.BH.CENTRALNIC-DNS.COM 194.169.218.115 2001:67c:13cc:0:0:0:1:115
+nserver:      B.BH.CENTRALNIC-DNS.COM 185.24.64.115 2a04:2b00:13cc:0:0:0:1:115
+nserver:      C.BH.CENTRALNIC-DNS.COM 212.18.248.115 2a04:2b00:13ee:0:0:0:0:115
+nserver:      D.BH.CENTRALNIC-DNS.COM 212.18.249.115 2a04:2b00:13ff:0:0:0:0:115
 
 status:       ACTIVE
 
 created:      1994-02-01
-changed:      2014-01-13
+changed:      2019-07-08
 source:       IANA
 
