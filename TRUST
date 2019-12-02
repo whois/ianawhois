@@ -11,25 +11,21 @@ address:      CA 94105
 address:      United States
 
 contact:      administrative
-name:         Jean-Christophe Vignes
-organisation: Artemis Internet Inc
-address:      123 Mission Street #900
-address:      San Francisco
-address:      CA 94105
+name:         Associate US Legal Counsel
+organisation: NCC Group
+address:      123 Mission Street, Suite 900
+address:      San Francisco, CA 94105
 address:      United States
-phone:        +18556841212
-fax-no:       +16506369462
+phone:        +1 415 530 7307
 e-mail:       icanntrust@nccgroup.com
 
 contact:      technical
-name:         Kyle Rankin
-organisation: Artemis Internet Inc
-address:      123 Mission Street #900
-address:      San Francisco
-address:      CA 94105
-address:      United States
-phone:        +18556841212
-fax-no:       +16506369462
+name:         Technical Director
+organisation: NCC Group
+address:      XYZ Building, 2 Hardman Boulevard
+address:      Manchester M3 3AQ
+address:      United Kingdom
+phone:        +44 7703501143
 e-mail:       icanntrust@nccgroup.com
 
 nserver:      A.NIC.TRUST 2001:dcd:1:0:0:0:0:10 37.209.192.10
@@ -42,10 +38,9 @@ ds-rdata:     40726 8 2 788057610FACD85888BFC0B942FE0EA3B828B628177F584411C35E27
 whois:        whois.nic.trust
 
 status:       ACTIVE
-remarks:      Registration information:
-remarks:      https://nccgroupdomainservices.com
+remarks:      Registration information:  https://whodoyou.trust/
 
 created:      2014-11-26
-changed:      2014-12-08
+changed:      2019-08-30
 source:       IANA
 
