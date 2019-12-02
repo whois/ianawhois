@@ -10,7 +10,7 @@ address:      Santana de Parnaíba - SP - 06543-001
 address:      Brazil
 
 contact:      administrative
-name:         Renato Targa
+name:         UOL Network Engineering
 organisation: UBN Internet Ltda.
 address:      Av. Marcos Penteado Ulhoa Rodrigues, 700 - Parte
 address:      Santana de Parnaíba - SP - 06543-001
@@ -27,19 +27,20 @@ address:      Brazil
 phone:        +55 11 5509 3505
 e-mail:       gtlds-tech@registro.br
 
-nserver:      A.DNS.BR 200.160.0.10 2001:12ff:0:0:0:0:0:10
-nserver:      B.DNS.BR 200.189.41.10
-nserver:      C.DNS.BR 200.192.233.10
+nserver:      A.DNS.BR 200.219.148.10 2001:12f8:6:0:0:0:0:10
+nserver:      B.DNS.BR 200.189.41.10 2001:12f8:8:0:0:0:0:10
+nserver:      C.DNS.BR 200.192.233.10 2001:12f8:a:0:0:0:0:10
 nserver:      D.DNS.BR 200.219.154.10 2001:12f8:4:0:0:0:0:10
-nserver:      E.DNS.BR 200.229.248.10 2001:12f8:1:0:0:0:0:10
+nserver:      E.DNS.BR 200.229.248.10 2001:12f8:2:0:0:0:0:10
 nserver:      F.DNS.BR 200.219.159.10 2001:12f8:c:0:0:0:0:10
-ds-rdata:     60907 8 1 0358D8578B9157E2B49AEDF2F17439BDAC3759C5
+ds-rdata:     60907 8 2 3E642751A8C7698E0B08CFD2963E9A7225A571B130A73D8596641008E2314861
 
 whois:        whois.gtlds.nic.br
 
 status:       ACTIVE
+remarks:      Registration information: https://nic.uol/
 
 created:      2014-08-07
-changed:      2014-08-16
+changed:      2019-08-03
 source:       IANA
 
