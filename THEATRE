@@ -22,9 +22,10 @@ e-mail:       hello@xyz.com
 
 contact:      technical
 name:         CTO
-organisation: CentralNic
-address:      35-39 Moorgate
-address:      London EC2R 6AR
+organisation: CentralNic Registry
+address:      Saddlers House, 4th Floor
+address:      44 Gutter Lane
+address:      London EC2V 6BR
 address:      United Kingdom
 phone:        +44.2033880600
 fax-no:       +44.2033880601
@@ -43,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://gen.xyz/theatre
 
 created:      2015-08-13
-changed:      2019-03-18
+changed:      2019-10-14
 source:       IANA
 
