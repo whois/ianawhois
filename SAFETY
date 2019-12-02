@@ -38,11 +38,12 @@ ds-rdata:     24946 8 2 D2BD12F4FCA62D1C1A51C28A84315147659CC6BD89DCB4A30304C259
 ds-rdata:     4555 8 2 9AC04823808516E6D11FD4DBF17E1068E43887F4567FC12FFC2F88D93977400D
 ds-rdata:     4555 8 1 BB68F3DF095BF5DA15EF8CD1AC9F4905A2878EA8
 
+whois:        whois.nic.safety
+
 status:       ACTIVE
-remarks:      Registration information:
-remarks:      http://safetyregistryservices.com
+remarks:      Registration information: https://nic.safety
 
 created:      2015-04-23
-changed:      2018-08-22
+changed:      2019-09-03
 source:       IANA
 
