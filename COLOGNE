@@ -34,7 +34,7 @@ nserver:      NS1.RYCE-RSP.COM 193.56.204.153 2a0c:8f40:0:701:0:0:0:153
 nserver:      NSA.NETNOD.SE 194.58.192.33 2a01:3f1:33:0:0:0:0:53
 nserver:      NSP.NETNOD.SE 194.58.198.33 2a01:3f1:3033:0:0:0:0:53
 nserver:      NSU.NETNOD.SE 185.42.137.99 2a01:3f0:400:0:0:0:0:33
-ds-rdata:     47152 10 2 1172b9dba9c51b6cbcce1be2646081226b7da32ad84061e389ad2ce6ad80fa23
+ds-rdata:     26533 10 2 b3a50f0fe5e706e83b98eafe1ae7ac0dbb95219c8c6eafb94ce1de36b2a7f51f
 
 whois:        whois.ryce-rsp.com
 
@@ -42,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.nic.koeln
 
 created:      2014-03-13
-changed:      2018-06-21
+changed:      2019-09-18
 source:       IANA
 
