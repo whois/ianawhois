@@ -30,23 +30,20 @@ address:      Brazil
 phone:        +55 11 5509 3505
 e-mail:       gtlds-tech@registro.br
 
-nserver:      A.DNS.BR 200.160.0.10 2001:12ff:0:0:0:0:0:10
-nserver:      B.DNS.BR 200.189.41.10
-nserver:      C.DNS.BR 200.192.233.10
+nserver:      A.DNS.BR 200.219.148.10 2001:12f8:6:0:0:0:0:10
+nserver:      B.DNS.BR 200.189.41.10 2001:12f8:8:0:0:0:0:10
+nserver:      C.DNS.BR 200.192.233.10 2001:12f8:a:0:0:0:0:10
 nserver:      D.DNS.BR 200.219.154.10 2001:12f8:4:0:0:0:0:10
-nserver:      E.DNS.BR 200.229.248.10 2001:12f8:1:0:0:0:0:10
+nserver:      E.DNS.BR 200.229.248.10 2001:12f8:2:0:0:0:0:10
 nserver:      F.DNS.BR 200.219.159.10 2001:12f8:c:0:0:0:0:10
-ds-rdata:     47374 7 1 cbf625dd9bc6c9f24bc9ba737a1aa08972345d2e
-ds-rdata:     47374 7 2 c078e140ada11bfe3aaa1bfd60d0ceda8de4c3a2c6d7c1d4a6ce866998fee115
 ds-rdata:     60906 7 2 C0AFFE9C5BB961362C3D0DFCD919A8E3CE32FBA12365F858010B212FFB2509A1
-ds-rdata:     60906 7 1 15E830664422393174F72EFDA96C948A1C8DC75D
 
-whois:        whois.afilias-srs.net
+whois:        whois.gtlds.nic.br
 
 status:       ACTIVE
-remarks:      Registration information: http://www.natura.com.br
+remarks:      Registration information: https://nic.natura
 
 created:      2016-01-29
-changed:      2019-06-19
+changed:      2019-08-03
 source:       IANA
 
