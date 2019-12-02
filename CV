@@ -4,22 +4,22 @@
 
 domain:       CV
 
-organisation: Agência Nacional das Comunicações (ANAC)
-address:      Edifício do MIT
-address:      Ponta Belém
+organisation: Agência Reguladora Multissectorial da Economia (ARME)
+address:      Avenida da China
+address:      Chã d'Areia
 address:      Praia, Santiago  892
 address:      Cape Verde
 
 contact:      administrative
 name:         Suzete Júlia Dias Monteiro Centeio
-organisation: Agência Nacional das Comunicações (ANAC)
-address:      Edifício do MIT
-address:      Ponta Belém
+organisation: Agência Reguladora Multissectorial da Economia (ARME)
+address:      Avenida da China
+address:      Chã d' Areia
 address:      Praia, Santiago  892
 address:      Cape Verde
-phone:        +238 260 4400/10
-fax-no:       +238 261 3079
-e-mail:       suzete.centeio@anac.cv
+phone:        +238 260 4400
+fax-no:       +238 261 3069
+e-mail:       suzete.centeio@arme.cv
 
 contact:      technical
 name:         Assis Neves Guerreiro
@@ -42,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.dns.cv/
 
 created:      1996-10-21
-changed:      2017-09-30
+changed:      2019-10-23
 source:       IANA
 
