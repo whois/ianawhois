@@ -1,0 +1,44 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       CPA
+
+organisation: American Institute of Certified Public Accountants
+address:      220 Leigh Farm Road, Durham, North Carolina 27707-8110
+address:      United States
+
+contact:      administrative
+name:         Domain Operator
+organisation: CPA.com
+address:      PO Box 4836, New York, NY 10185
+address:      United States
+phone:        408-653-4400
+fax-no:       408-653-4500
+e-mail:       domains@hq.cpa.com
+
+contact:      technical
+name:         Domain Operator
+organisation: CPA.com
+address:      PO Box 4836, New York, NY 10185
+address:      United States
+phone:        408-653-4400
+fax-no:       408-653-4500
+e-mail:       domains@hq.cpa.com
+
+nserver:      A.NIC.CPA 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.CPA 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.CPA 2001:dcd:3:0:0:0:0:9 37.209.196.9
+nserver:      D.NIC.CPA 2001:dcd:4:0:0:0:0:9 37.209.198.9
+ds-rdata:     52687 8 1 F77BA3551EDD844A0F78AD9B94B84E978F54B6B0
+ds-rdata:     52687 8 2 714D5960FB7739FA1005D9AC29C143E61C57D43A3388EC39A8FE7801B599AA86
+
+whois:        whois.nic.cpa
+
+status:       ACTIVE
+remarks:      Registration information: http://www.aicpa.org
+
+created:      2019-09-11
+changed:      2019-09-23
+source:       IANA
+
