@@ -29,13 +29,13 @@ phone:        +58 212 9090435
 fax-no:       +58 212 9090329
 e-mail:       soportenicve@conatel.gob.ve
 
-nserver:      AZMODAN.ULA.VE 150.185.130.16
-nserver:      NS-EXT.NIC.CL 200.1.123.14 2001:1398:1:0:200:1:123:14
-nserver:      NS1.NIC.VE 150.188.228.4 2001:1338:0:0:0:0:0:2
-nserver:      NS2.NIC.VE 150.188.228.5 2001:1338:0:0:0:0:0:3
 nserver:      NS3.NIC.VE 190.9.129.56
 nserver:      NS4.NIC.VE 190.202.128.43
-nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e:0:0:0:0:1
+nserver:      NS5.NIC.VE 2801:18:8800:3:18ba:beff:fe61:d08b 45.175.22.88
+nserver:      NS6.NIC.VE 2801:18:8800:1:0:0:0:4 45.175.22.4
+nserver:      SSDNS-TLD.NIC.CL 200.7.5.14 2001:1398:276:0:200:7:5:14
+ds-rdata:     11958 7 1 947CB68E3EB8A27CF7BC90BD782828CDC6FAFE97
+ds-rdata:     11958 7 2 DF4F2FCAF5D7899B6C20518E867A0B13D848E93EBC92194AFA6CD18BA67FC852
 
 whois:        whois.nic.ve
 
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.ve/
 
 created:      1991-03-07
-changed:      2015-07-15
+changed:      2019-12-01
 source:       IANA
 
