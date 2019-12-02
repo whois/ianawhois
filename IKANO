@@ -10,14 +10,14 @@ address:      2740 Luxembourg
 address:      Luxembourg
 
 contact:      administrative
-name:         Contract, Vendor and License Manager
-organisation: Ikano S.A.
-address:      1, rue Nicolas Welter
-address:      2740 Luxembourg
-address:      Luxembourg
-phone:        +352 26 4422
-fax-no:       +352 26 4422100
-e-mail:       nic@ikano.lu
+name:         CEO
+organisation: DOTZON GmbH
+address:      Akazienstr 28
+address:      10823 Berlin
+address:      Germany
+phone:        +49 30 4980 2722
+fax-no:       +49 30 4980 2727
+e-mail:       ikano@dotzon.com
 
 contact:      technical
 name:         Technical Operations
@@ -35,12 +35,12 @@ nserver:      N.DNS.NIC.IKANO 194.0.24.7 2001:678:24:0:0:0:0:7
 ds-rdata:     54980 8 2 17df03cb251403ded6f535bd35efa85a0d633eaf2a6fae83a642b82933efb25d
 ds-rdata:     11692 8 2 E041CEBAF350D90D1D6235AD11B5F2091C89B0A0B6799C56262F60BC9CE02C68
 
-whois:        whois.ikano.tld-box.at
+whois:        whois.nic.ikano
 
 status:       ACTIVE
 remarks:      Registration information: http://www.ikano.lu
 
 created:      2016-06-03
-changed:      2019-02-01
+changed:      2019-09-05
 source:       IANA
 
