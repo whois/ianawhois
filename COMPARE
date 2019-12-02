@@ -4,30 +4,30 @@
 
 domain:       COMPARE
 
-organisation: iSelect Ltd
-address:      294 Bay Rd, Cheltenham,
-address:      VIC 3192, Australia
-address:      Australia
+organisation: Registry Services, LLC
+address:      21575 Ridgetop Circle
+address:      Sterling, VA 20166
+address:      United States
 
 contact:      administrative
-name:         Matthew Starmer
-organisation: iSelect Ltd
-address:      294 Bay Rd, Cheltenham,
-address:      VIC 3192, Australia
-address:      Australia
-phone:        +61392768113
-fax-no:       +61392768080 
-e-mail:       mstarmer@iselect.com.au
+name:         Senior Director
+organisation: Neustar, Inc.
+address:      21575 Ridgetop Circle
+address:      Sterling, VA 20166
+address:      United States
+phone:        +1(571)434-5400
+fax-no:       +1(571)434-5735
+e-mail:       technical1@registry.neustar
 
 contact:      technical
-name:         Matthew Starmer
-organisation: iSelect Ltd
-address:      294 Bay Rd, Cheltenham,
-address:      VIC 3192, Australia
-address:      Australia
-phone:        +61392768113
-fax-no:       +61392768080
-e-mail:       mstarmer@iselect.com.au
+name:         Director
+organisation: Neustar, Inc.
+address:      21575 Ridgetop Circle
+address:      Sterling, VA 20166
+address:      United States
+phone:        +1(844)677-2878
+fax-no:       +1(571)434-5401
+e-mail:       technical1@registry.neustar
 
 nserver:      A.NIC.COMPARE 2001:dcd:1:0:0:0:0:9 37.209.192.9
 nserver:      B.NIC.COMPARE 2001:dcd:2:0:0:0:0:9 37.209.194.9
@@ -39,9 +39,9 @@ ds-rdata:     13492 8 2 257F5B52FD1FD1201432D46FC3F979267FE1A5DBDCF5BBB70AB83FE0
 whois:        whois.nic.compare
 
 status:       ACTIVE
-remarks:      Registration information: http://www.iselect.com.au/
+remarks:      Registration information: http://nic.compare/
 
 created:      2015-12-23
-changed:      2016-01-15
+changed:      2019-08-07
 source:       IANA
 
