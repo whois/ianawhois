@@ -22,7 +22,7 @@ fax-no:       +34 91 555 76 64
 e-mail:       esnic-admin@red.es
 
 contact:      technical
-name:         Jesús García Tello
+name:         Juan Antonio Gutierrez Gil
 organisation: Red.es
 address:      Edificio Bronce
 address:      Plaza Manuel Gomez Moreno
@@ -35,6 +35,7 @@ e-mail:       esnic-tech@red.es
 nserver:      A.NIC.ES 194.69.254.1 2001:67c:21cc:2000:0:0:64:41
 nserver:      F.NIC.ES 130.206.1.7 2001:720:418:caf1:0:0:0:7
 nserver:      G.NIC.ES 2001:500:14:7001:ad:0:0:1 204.61.217.1
+nserver:      H.NIC.ES 194.0.33.53 2001:678:40:0:0:0:0:53
 nserver:      NS-ES.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
 nserver:      NS-EXT.NIC.CL 200.1.123.14 2001:1398:1:0:200:1:123:14
 nserver:      NS1.CESCA.ES 2001:40b0:1:1122:ce5c:a000:0:3 84.88.0.3
@@ -48,6 +49,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.es/
 
 created:      1988-04-14
-changed:      2018-12-25
+changed:      2019-07-04
 source:       IANA
 
