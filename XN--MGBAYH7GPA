@@ -12,15 +12,15 @@ address:      Amman  11941
 address:      Jordan
 
 contact:      administrative
-name:         Dr. Baha Khasawneh
-organisation: National Information Technology Center (NITC)
-address:      Al-Jubeiha
-address:      P.O.Box 259
-address:      Amman  11937
+name:         Eng. Nader Thneibat
+organisation: Ministry of Digital Economy and Entrepreneurship (MoDEE)
+address:      8th Circle - Bayader Wadi Al Seer
+address:      P.O.Box 9903
+address:      Amman 11191
 address:      Jordan
-phone:        +962 6 5300260
-fax-no:       +962 6 5300265
-e-mail:       baha.khasawneh@nitc.gov.jo
+phone:        +962 6 5805700
+fax-no:       +962 6 5861059
+e-mail:       nader.thneibat@modee.gov.jo
 
 contact:      technical
 name:         National Domain Names Division
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.idn.jo/
 
 created:      2010-08-20
-changed:      2016-03-14
+changed:      2019-07-29
 source:       IANA
 
