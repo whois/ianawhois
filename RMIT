@@ -35,12 +35,12 @@ nserver:      D.NIC.RMIT 2001:dcd:4:0:0:0:0:9 37.209.198.9
 ds-rdata:     44956 8 1 D28C8343951659E1FF97698415A1D7DA331EEB3F
 ds-rdata:     44956 8 2 E3127207AE2F84F1478333A371823E46D8ABD5AC21CA5AEA896E3C33859AD067
 
-whois:        whois.aridnrs.net.au
+whois:        whois.nic.rmit
 
 status:       ACTIVE
 remarks:      Registration information: http://www.rmit.edu.au/
 
 created:      2015-12-23
-changed:      2016-11-24
+changed:      2019-07-05
 source:       IANA
 
