@@ -4,33 +4,31 @@
 
 domain:       BS
 
-organisation: The College of the Bahamas
-address:      Thompson Blvd.
+organisation: University of The Bahamas
+address:      University Drive (Thompson Blvd.)
 address:      P.O. Box N4912
 address:      Nassau New Providence
 address:      Bahamas
 
 contact:      administrative
 name:         Administrator, BSNIC - Carla Glinton
-organisation: The College of the Bahamas
-address:      Thompson Blvd.
+organisation: University of The Bahamas
+address:      University Drive (Thompson Blvd.)
 address:      P.O. Box N 4912
 address:      Nassau New Providence
 address:      Bahamas
 phone:        +1 242 302 4549
-fax-no:       +1 242 356 0241
-e-mail:       bsadmin@cob.edu.bs
+e-mail:       bsadmin@ub.edu.bs
 
 contact:      technical
 name:         Technical Contact, BSNIC - Rudyard Burton
-organisation: The College of The Bahamas
-address:      Thompson Blvd.
+organisation: University of The Bahamas
+address:      University Drive (Thompson Blvd.)
 address:      P.O. Box N4912
 address:      Nassau New Providence
 address:      Bahamas
 phone:        +1 242 302 4528
-fax-no:       +1 242 356 0241
-e-mail:       bstech@cob.edu.bs
+e-mail:       bstech@ub.edu.bs
 
 nserver:      ANYNS.DNS.BS 2001:500:14:6068:ad:0:0:1 204.61.216.68
 nserver:      ANYNS.PCH.NET 2001:500:14:6004:ad:0:0:1 204.61.216.4
@@ -40,6 +38,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.register.bs
 
 created:      1991-09-03
-changed:      2019-03-09
+changed:      2019-08-12
 source:       IANA
 
