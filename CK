@@ -10,24 +10,22 @@ address:      Avarua Rarotonga
 address:      Cook Islands
 
 contact:      administrative
-name:         Joseph Wichman
-organisation: Telecom Cook Islands Ltd.
+name:         Andreas Pareanga
+organisation: Bluesky Cook Islands
 address:      Parekura
 address:      Avarua Rarotonga
 address:      Cook Islands
-phone:        +682 26171
-fax-no:       +682 26174
-e-mail:       joe@telecom.co.ck
+phone:        +682 29680
+e-mail:       apareanga@blueskypacificgroup.com
 
 contact:      technical
 name:         Robert McFadzien
-organisation: Telecom Cook Islands Ltd.
+organisation: Bluesky Cook Islands
 address:      Parekura
 address:      Avarua Rarotonga
 address:      Cook Islands
-phone:        +682 26171 x225
-fax-no:       +682 26174
-e-mail:       robert@telecom.co.ck
+phone:        +682 29680
+e-mail:       rmcfadzien@blueskypacificgroup.com
 
 nserver:      CIRCA.MCS.VUW.AC.NZ 130.195.5.12
 nserver:      DOWNSTAGE.MCS.VUW.AC.NZ 130.195.6.10
@@ -35,9 +33,9 @@ nserver:      PARAU.OYSTER.NET.CK 202.65.32.128
 nserver:      POIPARAU.OYSTER.NET.CK 202.65.32.127
 
 status:       ACTIVE
-remarks:      Registration information: http://www.oyster.net.ck
+remarks:      Registration information: http://www.bluesky.co.ck
 
 created:      1995-08-08
-changed:      2005-10-07
+changed:      2019-08-16
 source:       IANA
 
