@@ -27,19 +27,20 @@ address:      Brazil
 phone:        +55 11 5509 3505
 e-mail:       gtlds-tech@registro.br
 
-nserver:      A.DNS.BR 200.160.0.10 2001:12ff:0:0:0:0:0:10
-nserver:      B.DNS.BR 200.189.41.10
-nserver:      C.DNS.BR 200.192.233.10
+nserver:      A.DNS.BR 200.219.148.10 2001:12f8:6:0:0:0:0:10
+nserver:      B.DNS.BR 200.189.41.10 2001:12f8:8:0:0:0:0:10
+nserver:      C.DNS.BR 200.192.233.10 2001:12f8:a:0:0:0:0:10
 nserver:      D.DNS.BR 200.219.154.10 2001:12f8:4:0:0:0:0:10
-nserver:      E.DNS.BR 200.229.248.10 2001:12f8:1:0:0:0:0:10
+nserver:      E.DNS.BR 200.229.248.10 2001:12f8:2:0:0:0:0:10
 nserver:      F.DNS.BR 200.219.159.10 2001:12f8:c:0:0:0:0:10
-ds-rdata:     60907 8 1 B0947756D09A9CB5383CD570E187C413E780B072
+ds-rdata:     60907 8 2 9488F00F28179960D88EF0D9BDA26BDA785D8D47BACECDD10BABD8AF1F1DE96F
 
 whois:        whois.gtlds.nic.br
 
 status:       ACTIVE
+remarks:      Registration information: https://nic.globo/
 
 created:      2014-02-20
-changed:      2014-05-05
+changed:      2019-08-03
 source:       IANA
 
