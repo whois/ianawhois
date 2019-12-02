@@ -10,16 +10,7 @@ address:      Ndjamena 240
 address:      Chad
 
 contact:      administrative
-name:         Ingenieur Systeme
-organisation: ADETIC
-address:      Rue du colonel Hassan MOURSAL KOURDA
-address:      Ndjamena 240
-address:      Chad
-phone:        +23566231668
-e-mail:       mahamat.hamid@adetic.td
-
-contact:      technical
-name:         Ingenieur en Reseaux Telecoms
+name:         Ingenieur en Réseaux Telecoms
 organisation: ADETIC
 address:      Rue du colonel Hassan MOURSAL KOURDA
 address:      Ndjamena 240
@@ -27,16 +18,26 @@ address:      Chad
 phone:        +235 63 31 90 90
 e-mail:       abatcha.moussa@adetic.td
 
-nserver:      NS-TD.AFRINIC.NET 196.216.168.31 2001:43f8:120:0:0:0:0:31
-nserver:      NS-TD.NIC.FR 192.134.0.49 2001:660:3006:1:0:0:1:1
-nserver:      NS1.NIC.TD 41.74.44.43
+contact:      technical
+name:         Ingenieur Systéme
+organisation: ADETIC
+address:      Rue du colonel Hassan MOURSAL KOURDA
+address:      Ndjamena 240
+address:      Chad
+phone:        +235 66 23 16 68
+e-mail:       mahamat.hamid@adetic.td
 
-whois:        41.74.44.44
+nserver:      NS-TD.AFRINIC.NET 196.216.168.31 2001:43f8:120:0:0:0:0:31
+nserver:      NS.COCCA.FR 185.17.236.93 2a03:dd40:3:0:0:0:0:93
+nserver:      NSA.NIC.TD 154.68.159.246
+nserver:      PCH.NIC.TD 2001:500:14:6129:ad:0:0:1 204.61.216.129
+
+whois:        whois.nic.td
 
 status:       ACTIVE
-remarks:      Registration information: http://www.adetic.td
+remarks:      Registration information: http://www.nic.td
 
 created:      1997-11-03
-changed:      2018-08-14
+changed:      2019-09-20
 source:       IANA
 
