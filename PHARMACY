@@ -9,13 +9,14 @@ address:      1600 Feehanville Drive, Mount Prospect, IL 60056
 address:      United States
 
 contact:      administrative
-name:         Carmen Catizone
+name:         Gertrude Levine
 organisation: National Association of Boards of Pharmacy
-address:      1600 Feehanville Drive, Mount Prospect, IL 60056
+address:      1600 Feehanville Drive
+address:      Mount Prospect
+address:      IL 60056
 address:      United States
-phone:        1-847-391-4423
-fax-no:       1-847-391-4500
-e-mail:       exec-office@nabp.net
+phone:        847-391-4497
+e-mail:       registry@safe.pharmacy
 
 contact:      technical
 name:         Director
@@ -38,10 +39,12 @@ ds-rdata:     7486 8 2 39215A3C67EA6DE3349151FF5693F0B432D5B0CBB5FEFA495A716504A
 ds-rdata:     19039 8 1 B77593B26C66FC67B03577B9599849CE2129A143
 ds-rdata:     19039 8 2 E753E770B59A3BEF4983A2B5727722710182DCBDA0FE91A63626CB37C0C71AF8
 
+whois:        whois.nic.pharmacy
+
 status:       ACTIVE
-remarks:      Registration information: http://www.dotpharmacy.net
+remarks:      Registration information: https://nabp.pharmacy
 
 created:      2014-08-28
-changed:      2018-08-22
+changed:      2019-08-29
 source:       IANA
 
