@@ -35,12 +35,12 @@ nserver:      N.DNS.NIC.VOTING 194.0.24.6 2001:678:24:0:0:0:0:6
 ds-rdata:     51755 8 2 c65cb6885d44ef372400824799d8d6731e52dca6711cd1f7840329d49dc74e9a
 ds-rdata:     17941 8 2 E6BC6D8C2136BE07A700BBA0F4CEC5505DAFFCB3F6078BC612B50C6540C7D638
 
-whois:        whois.voting.tld-box.at
+whois:        whois.nic.voting
 
 status:       ACTIVE
 remarks:      Registration information: http://www.nic.voting
 
 created:      2014-01-16
-changed:      2019-04-03
+changed:      2019-08-22
 source:       IANA
 
