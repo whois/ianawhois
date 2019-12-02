@@ -35,11 +35,12 @@ nserver:      NS3.NIC.AMSTERDAM 194.0.25.26 2001:678:20:0:0:0:0:26
 nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e:0:0:0:0:1
 ds-rdata:     56530 8 2 af680a3c1300a58bd0b4a4c42b274c369ebd7fd1bba8669ed34759e18132d78d
 
+whois:        whois.nic.amsterdam
+
 status:       ACTIVE
-remarks:      Registration information:
-remarks:      http://www.dotamsterdam.nl/policies
+remarks:      Registration information: http://www.nic.amsterdam
 
 created:      2014-11-20
-changed:      2018-05-04
+changed:      2019-08-23
 source:       IANA
 
