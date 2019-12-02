@@ -34,12 +34,12 @@ nserver:      D.NIC.XN--MGBI4ECEXP 2001:dcd:4:0:0:0:0:9 37.209.198.9
 ds-rdata:     4660 8 1 E697EAEEBB45B581F8CDE80905C51762214C5FCB
 ds-rdata:     4660 8 2 8A17731680953E982843D840AC7DFBBE29A313D1BC6263F05056B314724441BB
 
-whois:        whois.aridnrs.net.au
+whois:        whois.nic.xn--mgbi4ecexp
 
 status:       ACTIVE
 remarks:      Registration information: http://www.pccs.va
 
 created:      2016-11-16
-changed:      2016-12-01
+changed:      2019-07-15
 source:       IANA
 
