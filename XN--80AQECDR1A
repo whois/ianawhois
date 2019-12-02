@@ -34,12 +34,12 @@ nserver:      D.NIC.XN--80AQECDR1A 2001:dcd:4:0:0:0:0:9 37.209.198.9
 ds-rdata:     20614 8 1 C0B44C35CCF1B75B35B2A63B61B00A5721A09069
 ds-rdata:     20614 8 2 150A3CEF3514BD1342081FB2820CF8CD044002AAB171B456139C87CF26736394
 
-whois:        whois.aridnrs.net.au
+whois:        whois.nic.xn--80aqecdr1a
 
 status:       ACTIVE
 remarks:      Registration information: http://www.pccs.va
 
 created:      2016-11-16
-changed:      2016-12-01
+changed:      2019-07-15
 source:       IANA
 
