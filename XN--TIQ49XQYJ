@@ -34,12 +34,12 @@ nserver:      D.NIC.XN--TIQ49XQYJ 2001:dcd:4:0:0:0:0:9 37.209.198.9
 ds-rdata:     62137 8 1 AB5628608304FD91DC0208AE700BC5963335E2DB
 ds-rdata:     62137 8 2 9ED91B8EC166AF53F2554DB51FA05CE0BC2C1E9D51E7D7937FF438900FCA5CF1
 
-whois:        whois.aridnrs.net.au
+whois:        whois.nic.xn--tiq49xqyj
 
 status:       ACTIVE
 remarks:      Registration information: http://www.pccs.va
 
 created:      2016-11-16
-changed:      2016-12-01
+changed:      2019-07-15
 source:       IANA
 
