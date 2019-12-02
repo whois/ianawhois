@@ -4,7 +4,7 @@
 
 domain:       IO
 
-organisation: IO Top Level Domain Registry
+organisation: Internet Computer Bureau Limited
 address:      c/o Sure (Diego Garcia) Limited
 address:      Diego Garcia
 address:      British Indian Ocean Territories, PSC 466 Box 59
@@ -13,7 +13,7 @@ address:      British Indian Ocean Territory
 
 contact:      administrative
 name:         Internet Administrator
-organisation: IO Top Level Domain Registry
+organisation: Internet Computer Bureau Limited
 address:      c/o Sure (Diego Garcia) Limited
 address:      Diego Garcia
 address:      British Indian Ocean Territories, PSC 466 Box 59
@@ -39,9 +39,6 @@ nserver:      A0.NIC.IO 2a01:8840:9e:0:0:0:0:17 65.22.160.17
 nserver:      A2.NIC.IO 2a01:8840:a1:0:0:0:0:17 65.22.163.17
 nserver:      B0.NIC.IO 2a01:8840:9f:0:0:0:0:17 65.22.161.17
 nserver:      C0.NIC.IO 2a01:8840:a0:0:0:0:0:17 65.22.162.17
-nserver:      NS-A1.IO 194.0.1.1 2001:678:4:0:0:0:0:1
-nserver:      NS-A3.IO 74.116.178.1
-ds-rdata:     64744 8 2 2E7D661097A76EAC145858E4FF8F3DDAE5EAEDFD527725BC6F8A943E4FE23A29
 ds-rdata:     57355 8 2 95a57c3bab7849dbcddf7c72ada71a88146b141110318ca5be672057e865c3e2
 ds-rdata:     57355 8 1 434e91e206134f5b3b0ac603b26f5e029346abc9
 
@@ -51,6 +48,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.io/
 
 created:      1997-09-16
-changed:      2018-11-02
+changed:      2019-10-29
 source:       IANA
 
