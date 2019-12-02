@@ -37,10 +37,12 @@ nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
 ds-rdata:     51527 8 2 79FE987F5EDEF21F8AFC9A56DFE663D4B6AE8E2B046F82EA092571B6B2871D96
 
+whois:        whois.nic.unicom
+
 status:       ACTIVE
-remarks:      Registration information: http://eng.chinaunicom.com
+remarks:      Registration information: http://www.chinaunicom.cn
 
 created:      2016-01-22
-changed:      2019-06-18
+changed:      2019-09-03
 source:       IANA
 
