@@ -40,7 +40,6 @@ nserver:      A.GMOREGISTRY.NET 2001:dcd:1:0:0:0:0:4 37.209.192.4
 nserver:      B.GMOREGISTRY.NET 2001:dcd:2:0:0:0:0:4 37.209.194.4
 nserver:      K.GMOREGISTRY.NET 37.209.196.4
 nserver:      L.GMOREGISTRY.NET 2001:dcd:4:0:0:0:0:4 37.209.198.4
-ds-rdata:     33385 8 2 b6401e5e77ba1d6739c76da4bd0e8ce09e9187b11a287140b56ad42cfd5167cf
 ds-rdata:     2195 8 2 f0e9a6aaf2b84cdd23a98ec5926f0d9f921351207278b1d02ef8067895466377
 
 whois:        whois.nic.kia
@@ -49,6 +48,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.kia.com
 
 created:      2015-09-17
-changed:      2019-03-26
+changed:      2019-08-20
 source:       IANA
 
