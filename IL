@@ -23,7 +23,7 @@ contact:      technical
 name:         IL Technical Contact
 organisation: Internet Society of Israel
 address:      Bareket 6, POB 7210
-address:      Petach Tikva 49517
+address:      Petach Tikva 4951774
 address:      Israel
 phone:        +972 3 9700900
 fax-no:       +972 3 9700901
@@ -38,7 +38,7 @@ nserver:      NSA.NS.IL 192.115.7.53
 nserver:      NSB.NS.IL 192.115.7.60
 nserver:      NSE.NS.IL 192.115.141.253
 nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e:0:0:0:0:1
-ds-rdata:     44729 8 2 7fa5a2fd091c340d4a01864b4f82d66d0769f3d3a0a1c48f8abd2a64b1689921
+ds-rdata:     38495 8 2 cd89f213712829a920cc89c9d20ec89c3eaff922d4dd03b76c7923aa7c43fb08
 
 whois:        whois.isoc.org.il
 
@@ -46,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.isoc.org.il/domains
 
 created:      1985-10-24
-changed:      2018-08-03
+changed:      2019-09-03
 source:       IANA
 
