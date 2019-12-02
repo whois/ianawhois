@@ -4,30 +4,38 @@
 
 domain:       UNO
 
-organisation: Dot Latin LLC
-address:      6600 College Blvd., Suite 125,
-address:      Overland Park, KS, 66211
-address:      United States
+organisation: DotSite Inc.
+address:      Directiplex
+address:      Next to Andheri Subway
+address:      Old Nagardas Road, Andheri (East)
+address:      Mumbai
+address:      400069 Maharashtra
+address:      India
 
 contact:      administrative
-name:         Tess Pattison-Wade
-organisation: Dot Latin LLC
-address:      6600 College Blvd, Suite 125,
-address:      Overland Park, Kansas 66211
-address:      United States
-phone:        8168986598
-fax-no:       8169949333
-e-mail:       info@cedarhillmusic.com
+name:         Neha Naik
+organisation: DotSite Inc.
+address:      Directiplex
+address:      Next to Andheri Subway
+address:      Old Nagardas Road, Andheri (East)
+address:      Mumbai
+address:      Maharashtra
+address:      400069
+address:      India
+phone:        +1.4154494774x8522
+fax-no:       +91.2230797508
+e-mail:       admin@radixregistry.com
 
 contact:      technical
-name:         Director
-organisation: Neustar, Inc.
-address:      21575 Ridgetop Circle
-address:      Sterling, VA 20166
-address:      United States
-phone:        +1 844-677-2878
-fax-no:       +1 571-434-5401
-e-mail:       technical1@registry.neustar
+name:         CtO
+organisation: CentralNic Registry
+address:      Saddlers House, 4th Floor
+address:      44 Gutter Lane
+address:      London EC2V 6BR
+address:      United Kingdom
+phone:        +442033880600
+fax-no:       +44.2033880601
+e-mail:       tld.ops@centralnic.com
 
 nserver:      NS1.DNS.NIC.UNO 156.154.144.173 2610:a1:1071:0:0:0:0:ad
 nserver:      NS2.DNS.NIC.UNO 156.154.145.173 2610:a1:1072:0:0:0:0:ad
@@ -40,10 +48,12 @@ ds-rdata:     57892 8 2 C156DD21B3B96A50FA94BE322CDF6F0144E86C9597E4AA56D53E9B49
 ds-rdata:     64285 8 1 E0D6F2ECBE3F28F3F59D4193198240F9966011E8
 ds-rdata:     64285 8 2 3B4DD0FEBFBD51CB5F15DB43CCFC832DE0989445D6BB70C31A9B96F681CC6C77
 
+whois:        whois.nic.uno
+
 status:       ACTIVE
-remarks:      Registration information: http://www.unodominio.com
+remarks:      Registration information: http://www.radix.website 
 
 created:      2013-11-13
-changed:      2018-08-22
+changed:      2019-10-23
 source:       IANA
 
