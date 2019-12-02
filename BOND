@@ -4,36 +4,39 @@
 
 domain:       BOND
 
-organisation: Bond University Limited
-address:      University Drive Robina
-address:      Queensland 4226
-address:      Australia
+organisation: Shortdot SA
+address:      29 Boulevard de la Grande-Duchesse Charlotte
+address:      L-1331 Luxembourg
+address:      Luxembourg
 
 contact:      administrative
-name:         Registry Administrator
-organisation: Bond University Limited
-address:      University Drive Robina,
-address:      Queensland 4226
-address:      Australia
-phone:        +61755951111
-fax-no:       +61755953340
-e-mail:       ngtld-bond@cscinfo.com
+name:         CEO
+organisation: Shortdot SA
+address:      29 Boulevard de la Grande-Duchesse Charlotte
+address:      Luxembourg
+phone:        +352621811103
+fax-no:       +35227862529
+e-mail:       sales@nic.icu
 
 contact:      technical
-name:         Dennis Rhee
-organisation: CSC Digital Brand Services
-address:      2711 Centerville Rd. suite 400
-address:      United States
-phone:        +13026365400
-fax-no:       +13026365454
-e-mail:       ngtlds-tech@cscinfo.com
+name:         Nathan Van Overloop
+organisation: CentralNic
+address:      Saddlers House, 4th Floor
+address:      44 Gutter Lane
+address:      London EC2V 6BR
+address:      United Kingdom
+phone:        +442033880600
+fax-no:       +44.2033880601
+e-mail:       tld.ops@centralnic.com
 
-nserver:      A.NIC.BOND 2001:dcd:1:0:0:0:0:9 37.209.192.9
-nserver:      B.NIC.BOND 2001:dcd:2:0:0:0:0:9 37.209.194.9
-nserver:      C.NIC.BOND 2001:dcd:3:0:0:0:0:9 37.209.196.9
-nserver:      D.NIC.BOND 2001:dcd:4:0:0:0:0:9 37.209.198.9
+nserver:      A.NIC.BOND 194.169.218.85 2001:67c:13cc:0:0:0:1:85
+nserver:      B.NIC.BOND 185.24.64.85 2a04:2b00:13cc:0:0:0:1:85
+nserver:      C.NIC.BOND 212.18.248.85 2a04:2b00:13ee:0:0:0:0:85
+nserver:      D.NIC.BOND 212.18.249.85 2a04:2b00:13ff:0:0:0:0:85
 ds-rdata:     3382 8 1 8B5E8796FACE73374EF18FDC7026D07E33837D14
 ds-rdata:     3382 8 2 01EAECD8CEC3A76F05C299AA2FAE504063BC2A8CC9CE36672FD4EDA9D5BB9A91
+ds-rdata:     35002 8 1 1e60372475211f06d4c90b265e05f6e7aba094ee
+ds-rdata:     35002 8 2 fa12aa0eba1f60642345ceefbdd7a36ec310eb1602547beaad5a1793ecca9dd5
 
 whois:        whois.nic.bond
 
@@ -41,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.bond
 
 created:      2014-10-30
-changed:      2018-08-22
+changed:      2019-10-02
 source:       IANA
 
