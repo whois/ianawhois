@@ -39,7 +39,6 @@ nserver:      A.GMOREGISTRY.NET 2001:dcd:1:0:0:0:0:4 37.209.192.4
 nserver:      B.GMOREGISTRY.NET 2001:dcd:2:0:0:0:0:4 37.209.194.4
 nserver:      K.GMOREGISTRY.NET 37.209.196.4
 nserver:      L.GMOREGISTRY.NET 2001:dcd:4:0:0:0:0:4 37.209.198.4
-ds-rdata:     9199 8 2 954de73ce0f8bdef2086a7225047d637639112570d551884fa841a78744b7eb0
 ds-rdata:     7006 8 2 60ff4ce45e722bc253d21348e4b285a44c77c60f75bfe704b033685bddd4f63d
 
 whois:        whois.nic.ricoh
@@ -48,6 +47,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.ricoh.com
 
 created:      2015-03-06
-changed:      2019-03-20
+changed:      2019-08-20
 source:       IANA
 
