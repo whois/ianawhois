@@ -33,12 +33,12 @@ nserver:      D.NIC.BOX 2001:dcd:4:0:0:0:0:10 37.209.198.10
 ds-rdata:     32737 8 1 A637BE5E3CC2E079DFF2BD5BEFF84DB3CFB2E801
 ds-rdata:     32737 8 2 2ABFC49F5DCD5655E7B32C6DCE32C11C8043AF5D31CD3C580B311D69BFB161B9
 
-whois:        whois.aridnrs.net.au
+whois:        whois.nic.box
 
 status:       ACTIVE
 remarks:      Registration information: http://www.namesphere.asia
 
 created:      2016-10-27
-changed:      2016-11-11
+changed:      2019-08-19
 source:       IANA
 
