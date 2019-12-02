@@ -4,35 +4,34 @@
 
 domain:       BJ
 
-organisation: Benin Telecoms S.A.
-address:      Avenue Clozel GANHI
-address:      Cotonou 01 BP 5959
+organisation: Autorité de Régulation des Communications Electroniques et de la Poste du Bénin (ARCEP BENIN)
+address:      COTONOU /GANHI, Immeuble MAERSK House zone OCBN
+address:      COTONOU, 01BP 2034
 address:      Benin
 
 contact:      administrative
-name:         Abdoul-Akim ADJIBOLA
-organisation: Benin Telecoms S.A.
-address:      Avenue Clozel GANHI
-address:      Cotonou 01 BP 5959
+name:         Secrétaire Exécutif (Executive Secretary)
+organisation: ARCEP BENIN
+address:      COTONOU /GANHI, Immeuble MAERSK House zone OCBN
+address:      COTONOU, 01BP 2034
 address:      Benin
-phone:        +229 90 15 09 15
-fax-no:       +229 21 31 38 43
-e-mail:       aadjibola@benintelecoms.bj
+phone:        +229 21 31 00 65
+fax-no:       +229 21 31 00 67
+e-mail:       contacts@arcep.bj
 
 contact:      technical
-name:         Marius SAH
-organisation: Benin Telecoms S.A.
-address:      Avenue Clozel GANHI
-address:      Cotonou 01 BP 5959
+name:         Directeur Technique (Technical Manager)
+organisation: JENY SAS
+address:      Carré 321 Immeuble EL WAKIL (BOA ZONGO)
+address:      Cotonou 01 BP 3885
 address:      Benin
-phone:        +229 90 07 75 56
-e-mail:       msah@benintelecoms.bj
+phone:        +229 96 80 52 52
+e-mail:       tech@nic.bj
 
-nserver:      BJ.CCTLD.AUTHDNS.RIPE.NET 193.0.9.63 2001:67c:e0:0:0:0:0:63
-nserver:      BOW.RAIN.FR 194.51.3.49
-nserver:      NAKAYO.LELAND.BJ 81.91.225.1
-nserver:      NS-BJ.AFRINIC.NET 196.216.168.33 2001:43f8:120:0:0:0:0:33
-nserver:      NS1.INTNET.BJ 81.91.225.18
+nserver:      NS.COCCA.FR 185.17.236.93 2a03:dd40:3:0:0:0:0:93
+nserver:      NS1.NIC.BJ 154.65.31.84
+nserver:      NS2.NIC.BJ 41.85.191.2
+nserver:      PCH.NIC.BJ 2001:500:14:6125:ad:0:0:1 204.61.216.125
 
 whois:        whois.nic.bj
 
@@ -40,6 +39,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.bj
 
 created:      1996-01-18
-changed:      2012-09-29
+changed:      2019-06-26
 source:       IANA
 
