@@ -42,12 +42,12 @@ nserver:      D.NIC.KRD 2001:dcd:4:0:0:0:0:10 37.209.198.10
 ds-rdata:     7987 8 2 B3806AC713561D874F3F7AA8127AEB324BD1AF93337CCA2D14492D5E30F6B0C9
 ds-rdata:     7987 8 1 E202510D66482E4573CADE50450CD4D8CF8CD8AD
 
-whois:        whois.aridnrs.net.au
+whois:        whois.nic.krd
 
 status:       ACTIVE
-remarks:      Registration information: http://nic.krd
+remarks:      Registration information: https://dot.krd
 
 created:      2014-07-10
-changed:      2015-10-08
+changed:      2019-08-07
 source:       IANA
 
