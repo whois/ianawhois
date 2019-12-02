@@ -11,38 +11,34 @@ address:      CA 94110
 address:      United States
 
 contact:      administrative
-name:         TLD Registry Services Management
-organisation: Nominet
-address:      Minerva House,
-address:      Edmund Halley Road,
-address:      Oxford Science Park,
-address:      Oxford,
-address:      OX4 4DQ
-address:      United Kingdom
-phone:        +44.1865332211
-e-mail:       registrymanagement@nominet.uk
+name:         Head of Business Development
+organisation: Knock Knock WhoIS There, LLC (KKWT)
+address:      60 29th St.
+address:      San Francisco
+address:      CA 94110
+address:      United States
+phone:        +1.8772733049
+e-mail:       welcome@my.blog
 
 contact:      technical
-name:         TLD Registry Services Technical
-organisation: Nominet
-address:      Minerva House,
-address:      Edmund Halley Road,
-address:      Oxford Science Park,
-address:      Oxford,
-address:      OX4 4DQ
+name:         CTO
+organisation: CentralNic
+address:      4th Floor
+address:      Saddlers House
+address:      44 Gutter Lane
+address:      London
+address:      EC2V 6BR
 address:      United Kingdom
-phone:        +44.1865332211
-e-mail:       registrytechnical@nominet.uk
+phone:        +44.2033880600
+e-mail:       tld.ops@centralnic.com
 
-nserver:      DNS1.NIC.BLOG 213.248.219.9 2a01:618:403:0:0:0:0:9
-nserver:      DNS2.NIC.BLOG 103.49.83.9 2401:fd80:403:0:0:0:0:9
-nserver:      DNS3.NIC.BLOG 213.248.223.9 2a01:618:407:0:0:0:0:9
-nserver:      DNS4.NIC.BLOG 2401:fd80:407:0:0:0:0:9 43.230.51.9
-nserver:      DNSA.NIC.BLOG 156.154.100.3 2001:502:ad09:0:0:0:0:3
-nserver:      DNSB.NIC.BLOG 156.154.101.3
-nserver:      DNSC.NIC.BLOG 156.154.102.3
-nserver:      DNSD.NIC.BLOG 156.154.103.3
+nserver:      A.NIC.BLOG 194.169.218.94 2001:67c:13cc:0:0:0:1:94
+nserver:      B.NIC.BLOG 185.24.64.94 2a04:2b00:13cc:0:0:0:1:94
+nserver:      C.NIC.BLOG 212.18.248.94 2a04:2b00:13ee:0:0:0:0:94
+nserver:      D.NIC.BLOG 212.18.249.94 2a04:2b00:13ff:0:0:0:0:94
 ds-rdata:     43975 8 2 94023BE3A769704F45ECB9FEA13BBBAB6ADCDB4D8BB39E621E3CBF223FB5CA53
+ds-rdata:     16976 8 1 f4535c694f892ffeb740c35cc9665b52e360df7d
+ds-rdata:     16976 8 2 9862de44e1e7e44215165000c4b87bd3f46d439c686166da0ca79e06896958b7
 
 whois:        whois.nic.blog
 
@@ -50,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.blog
 
 created:      2016-05-12
-changed:      2018-02-08
+changed:      2019-08-19
 source:       IANA
 
