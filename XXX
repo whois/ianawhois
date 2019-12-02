@@ -10,40 +10,41 @@ address:      Palm Beach Gardens Florida 33420
 address:      United States
 
 contact:      administrative
-name:         Chief Operating Officer
+name:         Len Bayles
 organisation: ICM Registry LLC
 address:      PO Box 30129
-address:      Palm Beach Gardens Florida 33420
+address:      Palm Beach Gardens, Florida 33420
 address:      United States
-phone:        +1 877 809 3182
-fax-no:       +1 877 809 3183
-e-mail:       tfarrow@icmregistry.com
-
-contact:      technical
-name:         CTO
-organisation: ICM Registry LLC
-address:      PO Box 30129
-address:      Palm Beach Gardens Florida 33420
-address:      United States
-phone:        +1 877 809 3182
+phone:        +1 801 647 1705 
 fax-no:       +1 877 809 3183
 e-mail:       lbay@icmregistry.com
 
-nserver:      A0.XXX.AFILIAS-NST.INFO 199.115.152.1 2001:500:a0:0:0:0:0:1
-nserver:      A2.XXX.AFILIAS-NST.INFO 199.115.156.1 2001:500:a4:0:0:0:0:1
-nserver:      B0.XXX.AFILIAS-NST.ORG 199.115.153.1 2001:500:a1:0:0:0:0:1
-nserver:      B2.XXX.AFILIAS-NST.ORG 199.115.157.1 2001:500:a5:0:0:0:0:1
-nserver:      C0.XXX.AFILIAS-NST.INFO 199.115.154.1 2001:500:a2:0:0:0:0:1
-nserver:      D0.XXX.AFILIAS-NST.ORG 199.115.155.1 2001:500:a3:0:0:0:0:1
-ds-rdata:     50386 7 1 c7dbecbc434d3a3455e9e6f0b971b1ac6a2bab10
-ds-rdata:     50386 7 2 10a34e6d723755e2d605be1490316d214d41909e9414bf069dd0c6afe03c2e73
+contact:      technical
+name:         VP Of Technology
+organisation: Uniregistry Corp.
+address:      Governors Square, Unit 3-110
+address:      23 Lime Tree Bay Avenue
+address:      Grand Cayman, Cayman Islands KY1-1108
+address:      Cayman Islands
+phone:        +1 345 749 6263
+fax-no:       +1 345 749 6263
+e-mail:       ops@uniregistry.com
 
-whois:        whois.nic.xxx
+nserver:      NS1.UNIREGISTRY.NET 2620:57:4000:1:0:0:0:1 64.96.1.1
+nserver:      NS2.UNIREGISTRY.INFO 64.96.245.53
+nserver:      NS5.UNIREGISTRY.NET 2001:500:14:7002:ad:0:0:1 204.61.217.2
+nserver:      NS6.UNIREGISTRY.INFO 206.51.254.2 2620:171:804:ad2:0:0:0:2
+ds-rdata:     28246 7 2 79470475aae20bf9ceab59e7cb3ee166cefc35a1b38702c6df08d7518cd8562a
+ds-rdata:     28246 7 1 31172701f24f34fb4aedccd311ca0707a32cef28
+ds-rdata:     38310 7 1 5F0706CED612A3B0CD8A98FB88B90F5311435FA0
+ds-rdata:     38310 7 2 BA73B98A2C0CE7E8CA325628DAF3EB0BA194F101DADFF2883DFC0833F29ED7F2
+
+whois:        whois.registrar.adult
 
 status:       ACTIVE
 remarks:      Registration information: http://www.icmregistry.com/
 
 created:      2011-04-15
-changed:      2015-06-16
+changed:      2019-10-30
 source:       IANA
 
