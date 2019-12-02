@@ -1,0 +1,52 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       ευ
+domain-ace:   XN--QXA6A
+
+organisation: EURid vzw/asbl
+address:      Telecomlaan 9
+address:      1831 Diegem
+address:      Vlaams Brabant
+address:      Belgium
+
+contact:      administrative
+name:         Marc Van Wesemael
+organisation: EURid vzw/asbl
+address:      Telecomlaan 9
+address:      1831 Diegem
+address:      Vlaams Brabant
+address:      Belgium
+phone:        +32 2 401 27 50
+fax-no:       +32 2 401 27 51
+e-mail:       domain-admin@eurid.eu
+
+contact:      technical
+name:         Peter Janssen
+organisation: EURid vzw/asbl
+address:      Telecomlaan 9
+address:      1831 Diegem
+address:      Vlaams Brabant
+address:      Belgium
+phone:        +32 2 401 27 50
+fax-no:       +32 2 401 27 51
+e-mail:       domain-tech@eurid.eu
+
+nserver:      NL.DNS.EU 91.200.16.100
+nserver:      SI.DNS.EU 193.2.221.60 2001:1470:8000:100:0:0:0:1
+nserver:      UK.DNS.EU 195.66.241.178
+nserver:      W.DNS.EU 194.0.25.28 2001:678:20:0:0:0:0:28
+nserver:      X.DNS.EU 185.151.141.1 2a02:568:fe00:0:0:0:0:6575
+nserver:      Y.DNS.EU 194.146.106.90 2001:67c:1010:23:0:0:0:53
+ds-rdata:     26332 8 2 34225110142F806839BD3B7C99FB22ABB2DBA331B6632A719EB2E1A817CAC646
+
+whois:        whois.eu
+
+status:       ACTIVE
+remarks:      Registration information: https://www.registry.eu
+
+created:      2019-07-18
+changed:      2019-09-12
+source:       IANA
+
