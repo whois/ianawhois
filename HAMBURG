@@ -14,7 +14,6 @@ organisation: Hamburg Top-Level-Domain GmbH
 address:      Neuer Wall 10, Hamburg, 20354
 address:      Germany
 phone:        +49 40 6506 2020
-fax-no:       +49 30 69088706
 e-mail:       registry@nic.hamburg
 
 contact:      technical
@@ -38,6 +37,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.hamburg
 
 created:      2014-05-22
-changed:      2019-04-04
+changed:      2019-10-16
 source:       IANA
 
