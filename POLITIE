@@ -16,22 +16,20 @@ address:      P.O. Box 5022
 address:      6802 EA Arnhem
 address:      Netherlands
 phone:        +31 26 3525500
-fax-no:       +31 26 3525505
 e-mail:       admin@sidn.nl
 
 contact:      technical
-name:         Manager ICT
+name:         Operational Director
 organisation: SIDN (Stichting Internet Domeinregistratie Nederland)
 address:      P.O. Box 5022
 address:      6802 EA Arnhem
 address:      Netherlands
 phone:        +31 26 3525500
-fax-no:       +31 26 3525505
 e-mail:       tech@sidn.nl
 
 nserver:      NS1.NIC.POLITIE 194.0.28.5 2001:678:2c:0:194:0:28:5
+nserver:      NS2.NIC.POLITIE 194.146.106.42 2001:67c:1010:10:0:0:0:53
 nserver:      NS3.NIC.POLITIE 194.0.25.27 2001:678:20:0:0:0:0:27
-nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e:0:0:0:0:1
 ds-rdata:     63485 8 2 98f1793434c640fcb733f3a17c6bbe63d32666debe54bb4d264bc22f273a4e15
 
 whois:        whois.nic.politie
@@ -39,6 +37,6 @@ whois:        whois.nic.politie
 status:       ACTIVE
 
 created:      2016-06-16
-changed:      2018-05-01
+changed:      2020-01-24
 source:       IANA
 
