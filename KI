@@ -32,7 +32,6 @@ e-mail:       kaboterenga.romatoa@cck.ki
 
 nserver:      NS.COCCA.FR 185.17.236.93 2a03:dd40:3:0:0:0:0:93
 nserver:      PCH.NIC.KI 2001:500:14:6026:ad:0:0:1 204.61.216.26
-nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e:0:0:0:0:1
 ds-rdata:     59540 8 2 FD3B27E5C171B883FE2815DDE7FBBE7F2E5AF826BFF47C33B5970F53E2A855DE
 
 whois:        whois.nic.ki
@@ -41,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.ki
 
 created:      1995-04-19
-changed:      2018-04-11
+changed:      2020-01-31
 source:       IANA
 
