@@ -32,13 +32,11 @@ phone:        +33 1 39 30 83 81
 fax-no:       +33 1 39 30 83 01
 e-mail:       tld-tech@nic.fr
 
-nserver:      D.EXT.NIC.FR 192.5.4.2 2001:500:2e:0:0:0:0:2
 nserver:      D.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
 nserver:      E.EXT.NIC.FR 193.176.144.22 2a00:d78:0:102:193:176:144:22
 nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
 nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
 ds-rdata:     33562 8 2 8fc2e75050231829a3468f447d14d28c3cb6a7a1de814fdc6287180b06d23111
-ds-rdata:     48599 8 2 E96EDEF3DFF8D4ABF5B563D9F5365A1D6426A234C77D8CF7E75A3211E21C80FD
 
 whois:        whois.nic.wf
 
@@ -46,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.wf/
 
 created:      1997-11-14
-changed:      2019-01-16
+changed:      2020-01-09
 source:       IANA
 
