@@ -33,16 +33,15 @@ fax-no:       +502 2369 3452
 e-mail:       alejandra.reynoso@cctld.gt
 
 nserver:      A.LACTLD.ORG 200.0.68.10 2801:14:a000:0:0:0:0:10
-nserver:      NS-EXT.NIC.CL 200.1.123.14 2001:1398:1:0:200:1:123:14
+nserver:      NS-CZ.GT 193.29.206.2 2001:678:1:0:0:0:0:2
 nserver:      NS.DNS.BR 200.160.0.5 2001:12ff:0:a20:0:0:0:5
-nserver:      NS3.NIC.MX 200.33.111.1
 nserver:      PCH.GT 2001:500:14:6095:ad:0:0:1 204.61.216.95
-nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e:0:0:0:0:1
+nserver:      SSDNS-TLD.NIC.CL 200.7.5.14 2001:1398:276:0:200:7:5:14
 
 status:       ACTIVE
 remarks:      Registration information: http://www.gt
 
 created:      1992-08-14
-changed:      2019-02-25
+changed:      2020-02-11
 source:       IANA
 
