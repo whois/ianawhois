@@ -32,6 +32,7 @@ phone:        +598 2408 3901
 fax-no:       +598 2 401 5843
 e-mail:       tech-iana@seciu.edu.uy
 
+nserver:      A.LACTLD.ORG 200.0.68.10 2801:14:a000:0:0:0:0:10
 nserver:      A.NIC.UY 164.73.128.5 2001:1328:6:0:0:0:0:5
 nserver:      B.NIC.UY 164.73.128.70
 nserver:      D.NIC.UY 2a01:8840:1bb:0:0:0:0:1 65.22.41.1
@@ -39,7 +40,6 @@ nserver:      NS.DNS.BR 200.160.0.5 2001:12ff:0:a20:0:0:0:5
 nserver:      NS1.ANTELDATA.COM.UY 200.40.30.254 2800:a0:53:1001:0:0:0:1
 nserver:      NS2.ANTELDATA.COM.UY 200.40.220.254 2800:a0:53:1002:0:0:0:1
 nserver:      NS3.NIC.MX 200.33.111.1
-nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e:0:0:0:0:1
 ds-rdata:     19730 8 2 E85A089D69F869CF923DF395F279F1C92BD136A33B60988748B0186E12F7B88E
 
 whois:        whois.nic.org.uy
@@ -48,6 +48,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.org.uy/
 
 created:      1990-09-10
-changed:      2017-01-02
+changed:      2019-12-17
 source:       IANA
 
