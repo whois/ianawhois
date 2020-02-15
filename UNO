@@ -37,16 +37,18 @@ phone:        +442033880600
 fax-no:       +44.2033880601
 e-mail:       tld.ops@centralnic.com
 
+nserver:      A.NIC.UNO 194.169.218.21 2001:67c:13cc:0:0:0:1:21
+nserver:      B.NIC.UNO 185.24.64.21 2a04:2b00:13cc:0:0:0:1:21
 nserver:      NS1.DNS.NIC.UNO 156.154.144.173 2610:a1:1071:0:0:0:0:ad
 nserver:      NS2.DNS.NIC.UNO 156.154.145.173 2610:a1:1072:0:0:0:0:ad
 nserver:      NS3.DNS.NIC.UNO 156.154.159.173 2610:a1:1073:0:0:0:0:ad
 nserver:      NS4.DNS.NIC.UNO 156.154.156.173 2610:a1:1074:0:0:0:0:ad
-nserver:      NS5.DNS.NIC.UNO 156.154.157.173 2610:a1:1075:0:0:0:0:ad
-nserver:      NS6.DNS.NIC.UNO 156.154.158.173 2610:a1:1076:0:0:0:0:ad
 ds-rdata:     57892 8 1 3B49FDC11DAEE5187A4170A5BADF77A917BCE481
 ds-rdata:     57892 8 2 C156DD21B3B96A50FA94BE322CDF6F0144E86C9597E4AA56D53E9B490C94A537
 ds-rdata:     64285 8 1 E0D6F2ECBE3F28F3F59D4193198240F9966011E8
 ds-rdata:     64285 8 2 3B4DD0FEBFBD51CB5F15DB43CCFC832DE0989445D6BB70C31A9B96F681CC6C77
+ds-rdata:     35737 8 1 a6654717b1b97394de61bfe6d043459ba3a0112a
+ds-rdata:     35737 8 2 0dfccfc8e90286393539413d9f228fd96f7b08b8f15143020c07e32e3d254936
 
 whois:        whois.nic.uno
 
@@ -54,6 +56,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.radix.website 
 
 created:      2013-11-13
-changed:      2019-10-23
+changed:      2020-02-11
 source:       IANA
 
