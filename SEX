@@ -5,19 +5,19 @@
 domain:       SEX
 
 organisation: ICM Registry SX LLC
-address:      P.O. Box 30129
-address:      Palm Beach Gardens, FL 33420
+address:      2505 Second Ave, Suite 520
+address:      Seattle, Washington 98121
 address:      United States
 
 contact:      administrative
-name:         Len Bayles
+name:         Admin Contact
 organisation: ICM Registry LLC
-address:      P.O. Box 30129
-address:      Palm Beach Gardens, FL 33420
+address:      2505 Second Ave, Suite 520
+address:      Seattle, Washington 98121
 address:      United States
-phone:        +1 801 647 1705
+phone:        +1 877 734 4783
 fax-no:       +1 877 809 3183
-e-mail:       lbay@icmregistry.com
+e-mail:       ops@mmx.co
 
 contact:      technical
 name:         VP Of Technology
@@ -45,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://icmregistry.com
 
 created:      2015-04-09
-changed:      2019-10-30
+changed:      2020-01-28
 source:       IANA
 
