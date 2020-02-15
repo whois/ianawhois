@@ -32,7 +32,6 @@ nserver:      BES.ISNIC.IS 2001:500:14:6116:ad:0:0:1 204.61.216.116
 nserver:      DURINN.RHNET.IS 130.208.16.20 2a00:c88:10:16:0:0:0:20
 nserver:      ISGATE.IS 193.4.58.51 2001:67c:6c:58:0:0:0:51
 nserver:      SAB.ISNIC.IS 194.146.106.58 2001:67c:1010:14:0:0:0:53
-nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e:0:0:0:0:1
 nserver:      SUNIC.SUNET.SE 192.36.125.2 2001:6b0:7:0:0:0:0:2
 ds-rdata:     26726 8 2 6984fef569cfdb2ce00afc62b5763ad50306eb0d4816a7c6cf921bf66b12245a
 
@@ -42,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.isnic.is/
 
 created:      1987-11-18
-changed:      2019-10-18
+changed:      2020-01-06
 source:       IANA
 
