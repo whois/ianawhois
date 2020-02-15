@@ -32,12 +32,11 @@ e-mail:       tld-tech@isoc.org.il
 nserver:      ILNS.ILAN.NET.IL 128.139.35.5
 nserver:      LOOKUP.IUCC.AC.IL 128.139.34.240 2001:bf8:900:6:0:0:808b:22f0
 nserver:      NS1.NS.IL 194.146.106.122 2001:67c:1010:31:0:0:0:53
-nserver:      NS2.NS.IL 162.88.57.1 2600:2000:3005:0:0:0:0:1
 nserver:      NS3.NS.IL 194.0.11.103 2001:678:e:103:0:0:0:53
+nserver:      NS4.NS.IL 2001:500:14:6134:ad:0:0:1 204.61.216.134
 nserver:      NSA.NS.IL 192.115.7.53
 nserver:      NSB.NS.IL 192.115.7.60
 nserver:      NSE.NS.IL 192.115.141.253
-nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e:0:0:0:0:1
 ds-rdata:     38495 8 2 cd89f213712829a920cc89c9d20ec89c3eaff922d4dd03b76c7923aa7c43fb08
 
 whois:        whois.isoc.org.il
@@ -46,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.isoc.org.il/domains
 
 created:      1985-10-24
-changed:      2019-09-03
+changed:      2020-01-14
 source:       IANA
 
