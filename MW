@@ -37,6 +37,7 @@ nserver:      CHAMBO.SDNP.ORG.MW 196.45.188.5 41.221.99.135
 nserver:      DOMWE.SDN.MW 196.45.190.9 41.87.5.162
 nserver:      MW.CCTLD.AUTHDNS.RIPE.NET 193.0.9.99 2001:67c:e0:0:0:0:0:99
 nserver:      NS4.APNIC.NET 2001:dd8:12:0:0:0:0:53 202.12.31.53
+nserver:      PCH1.NIC.MW 2001:500:14:6131:ad:0:0:1 204.61.216.131
 nserver:      RIP.PSG.COM 147.28.0.39 2001:418:1:0:0:0:0:39
 
 whois:        whois.nic.mw
@@ -45,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.registrar.mw
 
 created:      1997-01-03
-changed:      2018-12-21
+changed:      2019-12-11
 source:       IANA
 
