@@ -33,15 +33,16 @@ phone:        +212 537 71 84 00
 fax-no:       +212 537 71 64 89
 e-mail:       ma@anrt.ma
 
+nserver:      A.TLD.MA 2001:4288:1800:186:0:0:0:3 81.192.171.131 81.192.171.83
 nserver:      B.TLD.MA 2001:4288:1800:186:0:0:0:4 81.192.171.132 81.192.171.84
 nserver:      C.TLD.MA 2001:4288:1800:386:0:0:0:3 81.192.171.115 81.192.171.139
 nserver:      D.TLD.MA 2001:4288:1800:386:0:0:0:4 81.192.171.116 81.192.171.140
 nserver:      NS-MA.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
-nserver:      NS1.REGISTRE.MA 2001:4288:1800:186:0:0:0:3 81.192.171.131 81.192.171.83
 
 status:       ACTIVE
+remarks:      Registration information: http://www.registre.ma
 
 created:      2011-02-05
-changed:      2019-11-27
+changed:      2020-02-05
 source:       IANA
 
