@@ -33,13 +33,12 @@ phone:        +264 81 124 6733
 fax-no:       +264 88 624273
 e-mail:       dns-admin@na-nic.com
 
-nserver:      A.NA.DYNTLD.NET 108.59.162.1 2a02:e180:5:0:0:0:0:1
 nserver:      ANYC2.IRONDNS.NET 195.253.64.7 2a01:5b0:4:0:0:0:0:7
-nserver:      B.NA.DYNTLD.NET 108.59.163.1 2a02:e180:6:0:0:0:0:1
-nserver:      MERLIN.NET.NA 204.152.184.96
+nserver:      KATIMA.OMADHINA.NET 185.2.66.100
 nserver:      NA-NS.ANYCAST.PCH.NET 2001:500:14:6035:ad:0:0:1 204.61.216.35
-nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e:0:0:0:0:1
+nserver:      SDC.OMADHINA.CO.NA 200.25.20.98
 ds-rdata:     24484 5 1 EFC19D4685751FF8E11F96142A083DCB9C708912
+ds-rdata:     25076 5 1 E3273B3172968F416BCEADF4620A18C85ABB6DC5
 
 whois:        whois.na-nic.com.na
 
@@ -47,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.na-nic.com.na/
 
 created:      1991-05-08
-changed:      2019-10-11
+changed:      2020-02-05
 source:       IANA
 
