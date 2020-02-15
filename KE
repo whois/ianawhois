@@ -33,10 +33,10 @@ fax-no:       +254 20 4450087
 e-mail:       tech@kenic.or.ke
 
 nserver:      KENIC.ANYCASTDNS.CZ 185.28.194.194 185.38.108.108
-nserver:      MZIZI.KENIC.OR.KE 196.1.4.130 196.1.4.3 198.32.67.9
+nserver:      MZIZI.KENIC.OR.KE 196.1.4.130 196.1.4.3 198.32.67.9 2001:43f8:10:0:50c0:a8ff:feee:30
 nserver:      NS-KE.AFRINIC.NET 196.216.168.22 2001:43f8:120:0:0:0:0:22
 nserver:      NS.ANYCAST.KENIC.OR.KE 2001:500:14:6007:ad:0:0:1 204.61.216.7
-nserver:      NS2.DNS.BUSINESS 2001:1978:2400:6:0:0:0:112 66.135.46.112
+nserver:      NS2KE.DNS.BUSINESS 147.135.106.237 2604:2dc0:200:2eb:0:0:0:237
 ds-rdata:     41201 8 2 e841ac6daf0f028b35f2f23ef025f0b2a11fe6953a87b36df354412cd218125e
 ds-rdata:     41201 8 1 b058c8efcb0e064bff7fceaa28ecdfd6c09678db
 
@@ -46,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.kenic.or.ke
 
 created:      1993-04-29
-changed:      2018-02-03
+changed:      2019-12-19
 source:       IANA
 
