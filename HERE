@@ -39,9 +39,9 @@ ds-rdata:     32584 8 2 dc704ba2007a9f1f254659a40fc55762434b742f3919b6f31fdc53b8
 whois:        whois.nic.google
 
 status:       ACTIVE
-remarks:      Registration information: http://www.registry.google
+remarks:      Registration information: https://www.registry.google
 
 created:      2014-06-12
-changed:      2019-07-02
+changed:      2020-01-08
 source:       IANA
 
