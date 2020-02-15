@@ -31,7 +31,6 @@ e-mail:       dnsadmin@usvi.net
 
 nserver:      AUTH100.NS.UU.NET 198.6.1.202
 nserver:      AUTH110.NS.UU.NET 198.6.1.114
-nserver:      NS1.NIC.VI 192.5.4.1 2001:500:2e:0:0:0:0:1
 nserver:      NS3.NIC.VI 185.17.236.230
 nserver:      PCH.NIC.VI 2001:500:14:6133:ad:0:0:1 204.61.216.133
 
@@ -39,6 +38,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.vi
 
 created:      1995-08-31
-changed:      2019-11-23
+changed:      2019-12-12
 source:       IANA
 
