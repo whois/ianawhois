@@ -30,13 +30,12 @@ e-mail:       tech@nic.org.mt
 nserver:      A.NS.MT 193.188.47.252
 nserver:      B.NS.MT 193.188.34.241
 nserver:      F.NS.MT 192.93.0.4 2001:660:3005:1:0:0:1:2
-nserver:      I.NS.MT 192.5.4.1 2001:500:2e:0:0:0:0:1
 nserver:      P.NS.MT 2001:500:14:6045:ad:0:0:1 204.61.216.45
 
 status:       ACTIVE
 remarks:      Registration information: https://www.nic.org.mt/
 
 created:      1992-12-02
-changed:      2017-06-13
+changed:      2020-01-23
 source:       IANA
 
