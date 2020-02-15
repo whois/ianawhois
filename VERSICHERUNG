@@ -34,8 +34,8 @@ e-mail:       iana@tld-box.at
 nserver:      A.DNS.NIC.VERSICHERUNG 194.0.25.13 2001:678:20:0:0:0:0:13
 nserver:      M.DNS.NIC.VERSICHERUNG 194.0.26.2 2001:67c:10e0:0:0:0:0:2
 nserver:      N.DNS.NIC.VERSICHERUNG 194.0.24.2 2001:678:24:0:0:0:0:2
-ds-rdata:     9400 8 2 385fdc53c679534605c1e1fbb070e5c86cf109fbd0b6151b991cadd9d33fa389
 ds-rdata:     26134 8 2 925EE924B5BC6876443E476C16EAF5BF02885ACADBDF27CA2C87BE8EEB7F3B41
+ds-rdata:     50227 8 2 5d0d0da59be4750137e7b2b9e44c5a5cc19d5c7cdf5bb542adb7630ff3d1fb90
 
 whois:        whois.nic.versicherung
 
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.versicherung
 
 created:      2014-05-15
-changed:      2019-08-20
+changed:      2020-01-24
 source:       IANA
 
