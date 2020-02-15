@@ -17,7 +17,7 @@ address:      Stockholm SE-120 07
 address:      Sweden
 phone:        +46 8 452 35 00
 fax-no:       +46 8 452 35 02
-e-mail:       registry@iis.se
+e-mail:       registry@internetstiftelsen.se
 
 contact:      technical
 name:         SE Technical Contact
@@ -27,7 +27,7 @@ address:      Stockholm SE-120 07
 address:      Sweden
 phone:        +46 8 452 35 00
 fax-no:       +46 8 452 35 02
-e-mail:       hostmaster@iis.se
+e-mail:       hostmaster@internetstiftelsen.se
 
 nserver:      A.NS.SE 192.36.144.107 2a01:3f0:0:0301:0:0:0:53
 nserver:      B.NS.SE 192.36.133.107 2001:67c:254c:301:0:0:0:53
@@ -35,7 +35,7 @@ nserver:      C.NS.SE 192.36.135.107 2001:67c:2554:301:0:0:0:53
 nserver:      F.NS.SE 192.71.53.53 2a01:3f0:0:305:0:0:0:53
 nserver:      G.NS.SE 130.239.5.114 2001:6b0:e:3:0:0:0:1
 nserver:      I.NS.SE 194.146.106.22 2001:67c:1010:5:0:0:0:53
-nserver:      J.NS.SE 199.254.63.1 2001:500:2c:0:0:0:0:1
+nserver:      M.NS.SE 194.0.11.112 2001:678:e:112:0:0:0:53
 nserver:      X.NS.SE 2001:67c:124c:e000:0:0:0:4 213.108.25.4
 nserver:      Y.NS.SE 185.159.197.150 2620:10a:80aa:0:0:0:0:150
 nserver:      Z.NS.SE 185.159.198.150 2620:10a:80ab:0:0:0:0:150
@@ -44,9 +44,10 @@ ds-rdata:     59407 8 2 67a8e06fcefdd9397f77f26c41ade4ec142f299bcfa1827f0ef8fd87
 whois:        whois.iis.se
 
 status:       ACTIVE
-remarks:      Registration information: https://www.iis.se
+remarks:      Registration information:
+remarks:      https://www.internetstiftelsen.se
 
 created:      1986-09-04
-changed:      2018-02-02
+changed:      2020-02-14
 source:       IANA
 
