@@ -10,24 +10,24 @@ address:      Tehran  1954851167
 address:      Iran, Islamic Republic Of
 
 contact:      administrative
-name:         Siavash Shahshahani
-organisation: Institute for Research in Fundamental Sciences
+name:         Director
+organisation: Institute for Research in Fundamental Sciences (IPM)
 address:      Shahid Bahonar (Niavaran) Square
 address:      Tehran  1954851167
 address:      Iran, Islamic Republic Of
-phone:        +98 21 22 82 80 81, ext.113
-fax-no:       +98 21 22 29 57 00
-e-mail:       siavash.shahshahani@irnic.ir
+phone:        +98 21 22828081
+fax-no:       +98 21 22295700
+e-mail:       admin@irnic.ir
 
 contact:      technical
-name:         Alireza Saleh
-organisation: Institute for Research in Fundamental Sciences
+name:         CTO
+organisation: Institute for Research in Fundamental Sciences (IPM)
 address:      Shahid Bahonar (Niavaran) Square
 address:      Tehran  1954851167
 address:      Iran, Islamic Republic Of
-phone:        +98 21 22 82 80 80
-fax-no:       +98 21 22 29 57 00
-e-mail:       alireza.saleh@irnic.ir
+phone:        +98 21 22828080
+fax-no:       +98 21 22295700
+e-mail:       cto@irnic.ir
 
 nserver:      A.NIC.IR 193.189.123.2
 nserver:      B.NIC.IR 193.189.122.83
@@ -40,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.ir
 
 created:      1994-04-06
-changed:      2018-02-13
+changed:      2020-01-29
 source:       IANA
 
