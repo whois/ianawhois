@@ -20,31 +20,28 @@ fax-no:       +678 27440
 e-mail:       iana@trbr.vu
 
 contact:      technical
-name:         TVL IANA Contact
-organisation: Telecom Vanuatu Ltd.
-address:      Lini Highway
-address:      Port Vila
-address:      Vanuatu
-phone:        +678 23000 EXT 210
-fax-no:       +678 24319
-e-mail:       iana@tvl.net.vu
+name:         Director
+organisation: Neustar, Inc.
+address:      21575 Ridgetop Circle
+address:      Sterling, VA 20166
+address:      United States
+phone:        +1 844-677-2878
+fax-no:       +1 571-434-5401
+e-mail:       technical1@registry.neustar
 
-nserver:      ANYTLD.APNIC.NET 2001:dd8:12:0:0:0:0:53 202.12.31.53
-nserver:      EFATE.VANUATU.COM.VU 202.80.32.5
-nserver:      FORK.STH.DNSNODE.NET 2a01:3f0:0:306:0:0:0:53 77.72.229.254
-nserver:      NS1-CCTLD.VUNIC.VU 202.80.32.9
-nserver:      NS2-CCTLD.VUNIC.VU 202.80.32.10
-nserver:      RIP.PSG.COM 147.28.0.39 2001:418:1:0:0:0:0:39
-nserver:      SANTO.VANUATU.COM.VU 202.80.32.7
-ds-rdata:     32532 10 1 77f5f1c79ba3382000ccd4bb82c1e39b1e8752b5
-ds-rdata:     32532 10 2 33849e9d4718faf292f13d7ca863b5836871e63e8d432509a1e6ec11aa0d1596
+nserver:      NS1.NEUSTAR.VU 2001:dcd:1:0:0:0:0:6 37.209.192.6
+nserver:      NS2.NEUSTAR.VU 2001:dcd:2:0:0:0:0:6 37.209.194.6
+nserver:      NS3.NEUSTAR.VU 2001:dcd:3:0:0:0:0:6 37.209.196.6
+nserver:      NS4.NEUSTAR.VU 2001:dcd:4:0:0:0:0:6 37.209.198.6
+ds-rdata:     56121 10 1 0A1901B122DBB2E5F5807AAA8E39702E2D193628
+ds-rdata:     56121 10 2 339738EB082D604F2FC2255DFCDA3325C0A87D36EB26F546FDB49AE8A4F990B5
 
-whois:        vunic.vu
+whois:        whois.dnrs.neustar
 
 status:       ACTIVE
-remarks:      Registration information: http://www.vunic.vu
+remarks:      Registration information: http://www.hello.vu
 
 created:      1995-04-10
-changed:      2019-09-17
+changed:      2019-12-17
 source:       IANA
 
