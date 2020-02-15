@@ -5,28 +5,31 @@
 domain:       MIL
 
 organisation: DoD Network Information Center
-address:      3990 East Broad Street
-address:      Columbus Ohio 43213
+address:      DISA-Columbus
+address:      300 North James Road
+address:      Whitehall, Ohio 43213
 address:      United States
 
 contact:      administrative
 name:         DoD NIC Registry Services
 organisation: DoD Network Information Center
-address:      3990 East Broad Street
-address:      Columbus Ohio 43213
+address:      DISA-Columbus
+address:      300 North James Road
+address:      Whitehall, Ohio 43213
 address:      United States
-phone:        (614)692-6640
-fax-no:       (614)692-3452
+phone:        +1 614 692 6640
+fax-no:       +1 614 692 3452
 e-mail:       disa.columbus.ns.mbx.hostmaster-dod-nic@mail.mil
 
 contact:      technical
 name:         DoD NIC Registry Services
 organisation: DoD Network Information Center
-address:      3990 East Broad Street
-address:      Columbus Ohio 43213
+address:      DISA-Columbus
+address:      300 North James Road
+address:      Whitehall, Ohio 43213
 address:      United States
-phone:        (614)692-6640
-fax-no:       (614)692-3452
+phone:        +1 614 692 6640
+fax-no:       +1 614 692 3452
 e-mail:       disa.columbus.ns.mbx.hostmaster-dod-nic@mail.mil
 
 nserver:      CON1.NIPR.MIL 199.252.157.234
@@ -41,6 +44,6 @@ ds-rdata:     7765 8 2 49E8705D169873922E701EE46D3063CD1B7C5EADC714815241C54E439
 status:       ACTIVE
 
 created:      1985-01-01
-changed:      2019-09-20
+changed:      2020-02-13
 source:       IANA
 
