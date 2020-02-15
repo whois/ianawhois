@@ -28,12 +28,11 @@ address:      Turkeyen Campus
 address:      Georgetown  P.O. Box 101110
 address:      Guyana
 phone:        +5926444135
-fax-no:       -
 e-mail:       tech@registry.gy
 
+nserver:      A.LACTLD.ORG 200.0.68.10 2801:14:a000:0:0:0:0:10
 nserver:      GY-NS.ANYCAST.PCH.NET 2001:500:14:6034:ad:0:0:1 204.61.216.34
 nserver:      NS.COCCA.FR 185.17.236.93 2a03:dd40:3:0:0:0:0:93
-nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e:0:0:0:0:1
 ds-rdata:     50885 8 2 6B06025ECCB7EFB21793E58AFD2CE16D5949884F4AC352047DACCD841627A3DF
 
 whois:        whois.registry.gy
@@ -42,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://registry.gy/
 
 created:      1994-09-13
-changed:      2019-05-07
+changed:      2020-01-16
 source:       IANA
 
