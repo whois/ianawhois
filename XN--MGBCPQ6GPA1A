@@ -1,0 +1,43 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       البحرين
+domain-ace:   XN--MGBCPQ6GPA1A
+
+organisation: Telecommunications Regulatory Authority (TRA)
+address:      PO Box 10353
+address:      Manama
+address:      Bahrain
+
+contact:      administrative
+name:         Technical Affairs Supervisor
+organisation: Telecommunications Regulatory Authority (TRA)
+address:      PO Box 10353
+address:      Manama
+address:      Bahrain
+phone:        +973 17520000
+fax-no:       +973 17532125
+e-mail:       dn@tra.org.bh
+
+contact:      technical
+name:         CentralNic Operations
+organisation: CentralNic
+address:      35-39 Moorgate
+address:      London, EC2R 6AR
+address:      United Kingdom
+phone:        +44 2033880600
+fax-no:       +44 2033880601
+e-mail:       tld.ops@centralnic.com
+
+nserver:      A.NIC.XN--MGBCPQ6GPA1A 194.169.218.115 2001:67c:13cc:0:0:0:1:115
+nserver:      B.NIC.XN--MGBCPQ6GPA1A 185.24.64.115 2a04:2b00:13cc:0:0:0:1:115
+nserver:      C.NIC.XN--MGBCPQ6GPA1A 212.18.248.115 2a04:2b00:13ee:0:0:0:0:115
+nserver:      D.NIC.XN--MGBCPQ6GPA1A 212.18.249.115 2a04:2b00:13ff:0:0:0:0:115
+
+status:       ACTIVE
+
+created:      2019-06-13
+changed:      2020-01-30
+source:       IANA
+
