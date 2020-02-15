@@ -1,0 +1,53 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       ລາວ
+domain-ace:   XN--Q7CE6A
+
+organisation: Lao National Internet Center (LANIC)
+address:      Ministry of Posts and Telecommunications
+address:      Lane Xang Avenue, Chanthaboury
+address:      Vientiane
+address:      01000
+address:      Lao People's Democratic Republic
+
+contact:      administrative
+name:         Deputy Director General of LANIC
+organisation: Lao National Internet Center (LANIC)
+address:      Ministry of Posts and Telecommunications
+address:      Saylom Road, Chanthaboury District
+address:      Vientiane
+address:      10000
+address:      Lao People's Democratic Republic
+phone:        +856 21 254150
+fax-no:       +856 21 254150
+e-mail:       admincontact@lanic.la
+
+contact:      technical
+name:         Director of ccTLD .LA Division
+organisation: Lao National Internet Center (LANIC)
+address:      Ministry of Posts and Telecommunications
+address:      Saylom Road, Chanthaboury District
+address:      Vientiane
+address:      10000
+address:      Lao People's Democratic Republic
+phone:        +856 21 255780
+fax-no:       +856 21 254150
+e-mail:       technicalcontact@lanic.la
+
+nserver:      A.XN--Q7CE6A.CENTRALNIC-DNS.COM 194.169.218.17 2001:67c:13cc:0:0:0:1:17
+nserver:      B.XN--Q7CE6A.CENTRALNIC-DNS.COM 185.24.64.17 2a04:2b00:13cc:0:0:0:1:17
+nserver:      C.XN--Q7CE6A.CENTRALNIC-DNS.COM 212.18.248.17 2a04:2b00:13ee:0:0:0:0:17
+nserver:      D.XN--Q7CE6A.CENTRALNIC-DNS.COM 212.18.249.17 2a04:2b00:13ff:0:0:0:0:17
+ds-rdata:     10705 7 2 0ABE3FC3E0D788CC7EDA69271C7ACB9ED5D23460D381B86253B44C57716A89E9
+
+whois:        whois.nic.la
+
+status:       ACTIVE
+remarks:      Registration information: https://www.la
+
+created:      2019-06-10
+changed:      2020-01-30
+source:       IANA
+
