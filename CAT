@@ -35,7 +35,6 @@ nserver:      CAT.PCH.NET 2001:500:14:6020:ad:0:0:1 204.61.216.20
 nserver:      NS.NIC.CAT 2001:40b0:1:3:0:0:0:2 84.88.0.162
 nserver:      NS1.NIC.ES 194.69.254.1 2001:67c:21cc:2000:0:0:64:41
 nserver:      NSC.NIC.DE 194.0.11.110 2001:678:e:110:0:0:0:53
-nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e:0:0:0:0:1
 nserver:      SWITCH.NIC.CAT 130.59.31.29 2001:620:0:ff:0:0:0:2f
 ds-rdata:     58737 10 2 4DCE567C12F637D51A755B9585C0C3C4036ABA446261AC994F7F5E91EED4C365
 
@@ -45,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.domini.cat
 
 created:      2005-12-19
-changed:      2019-09-10
+changed:      2020-01-15
 source:       IANA
 
