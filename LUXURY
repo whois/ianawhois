@@ -20,20 +20,22 @@ fax-no:       +1 310 402 2491
 e-mail:       jennifer.molina@join.luxury
 
 contact:      technical
-name:         Monica Kirchner
-organisation: Luxury Partners LLC
-address:      888 South Figueroa Street, Suite 2150
-address:      Los Angeles, CA 90017
-address:      United States
-phone:        +1 310 402 2487
-fax-no:       +1 310 402 2491
-e-mail:       monica.kirchner@join.luxury
+name:         CTO
+organisation: Centralnic
+address:      Saddlers House, 4th Floor
+address:      44 Gutter Lane
+address:      London EC2V 6BR
+address:      United Kingdom
+phone:        +442033880600
+fax-no:       +442033880601
+e-mail:       tld.ops@centralnic.com
 
-nserver:      A.NIC.LUXURY 2001:dcd:1:0:0:0:0:10 37.209.192.10
-nserver:      B.NIC.LUXURY 2001:dcd:2:0:0:0:0:10 37.209.194.10
-nserver:      C.NIC.LUXURY 2001:dcd:3:0:0:0:0:10 37.209.196.10
-nserver:      D.NIC.LUXURY 2001:dcd:4:0:0:0:0:10 37.209.198.10
+nserver:      A.NIC.LUXURY 194.169.218.98 2001:67c:13cc:0:0:0:1:98
+nserver:      B.NIC.LUXURY 185.24.64.98 2a04:2b00:13cc:0:0:0:1:98
+nserver:      C.NIC.LUXURY 212.18.248.98 2a04:2b00:13ee:0:0:0:0:85
+nserver:      D.NIC.LUXURY 212.18.249.98 2a04:2b00:13ff:0:0:0:0:98
 ds-rdata:     3664 8 2 D602E8F4FD9729146D1FB1D249544DCEECE615E528EB2E4997FB1760B004D67E
+ds-rdata:     32039 8 2 deb7fe904a2e04500acc98f3f5b9d6db275139fbc92ebb2938bcf9e842812935
 
 whois:        whois.nic.luxury
 
@@ -41,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: https://join.luxury/
 
 created:      2014-01-09
-changed:      2019-07-26
+changed:      2019-12-10
 source:       IANA
 
