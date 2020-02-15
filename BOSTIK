@@ -34,7 +34,7 @@ nserver:      D.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
 nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
 nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
 ds-rdata:     3734 8 2 5ec62d0b9c87d8b59e901550ff4c0d5366c9d14448fdf8c02112511b6dbb0dbf
-ds-rdata:     1529 8 2 17130BCA01074440A04CCD3F1F18CC9DE61CB8D70960A4AC0E08411900737C48
+ds-rdata:     39586 8 2 5756D7914FA837812CCE8869102EAD6AA7E08788E84F246BC0F2BC4DC2BE989E
 
 whois:        whois-bostik.nic.fr
 
@@ -42,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.bostik.com
 
 created:      2015-11-06
-changed:      2019-01-29
+changed:      2020-01-15
 source:       IANA
 
