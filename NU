@@ -30,9 +30,9 @@ fax-no:       +46 8 452 35 02
 e-mail:       noc@nic.nu
 
 nserver:      A.NS.NU 194.146.106.22 2001:67c:1010:5:0:0:0:53
-nserver:      B.NS.NU 2a01:8840:10:0:0:0:0:1 65.22.164.1
 nserver:      C.NS.NU 192.36.144.107 2a01:3f0:0:301:0:0:0:53
 nserver:      D.NS.NU 2001:67c:124c:e000:0:0:0:4 213.108.25.4
+nserver:      M.NS.NU 194.0.11.112 2001:678:e:112:0:0:0:53
 nserver:      Y.NS.NU 185.159.197.150 2620:10a:80aa:0:0:0:0:150
 nserver:      Z.NS.NU 185.159.198.150 2620:10a:80ab:0:0:0:0:150
 ds-rdata:     41209 13 2 46159142140bbf89ecb41e202f88da8c7d8a51b584aa5ea4a28ceaaaf9091185
@@ -40,9 +40,10 @@ ds-rdata:     41209 13 2 46159142140bbf89ecb41e202f88da8c7d8a51b584aa5ea4a28ceaa
 whois:        whois.iis.nu
 
 status:       ACTIVE
-remarks:      Registration information: http://www.iis.se
+remarks:      Registration information:
+remarks:      https://www.internetstiftelsen.se
 
 created:      1997-06-20
-changed:      2018-10-30
+changed:      2020-02-13
 source:       IANA
 
