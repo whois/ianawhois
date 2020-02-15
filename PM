@@ -32,13 +32,11 @@ phone:        +33 1 39 30 83 81
 fax-no:       +33 1 39 30 83 01
 e-mail:       tld-tech@nic.fr
 
-nserver:      D.EXT.NIC.FR 192.5.4.2 2001:500:2e:0:0:0:0:2
 nserver:      D.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
 nserver:      E.EXT.NIC.FR 193.176.144.22 2a00:d78:0:102:193:176:144:22
 nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
 nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
 ds-rdata:     56192 8 2 b49959ab8fff95a45bf5f7130ab1a64c7ef1cefb6f50ca1be003281503325f67
-ds-rdata:     45104 8 2 5F4A1BF0ED0DF545553B0D97EEEC234DE7AAF6BB308F9B6A8C7741BA98720B31
 
 whois:        whois.nic.pm
 
@@ -46,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.pm/
 
 created:      1997-08-20
-changed:      2019-01-16
+changed:      2020-01-09
 source:       IANA
 
