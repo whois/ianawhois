@@ -21,9 +21,10 @@ e-mail:       mxkeita@gmail.com
 
 contact:      technical
 name:         Randy Bush
-address:      PO Box 128
-address:      Kapa`au Hawai`i 96755
+address:      5147 Crystal Springs Drive NE
+address:      Bainbridge Island, WA  98110
 address:      United States
+phone:        +1 206 356 8341
 e-mail:       randy@psg.com
 
 nserver:      FORK.STH.DNSNODE.NET 2a01:3f0:0:306:0:0:0:53 77.72.229.254
@@ -35,6 +36,6 @@ status:       ACTIVE
 remarks:      Registration information: http://psg.com/dns/gn
 
 created:      1994-08-09
-changed:      2019-03-02
+changed:      2020-02-03
 source:       IANA
 
