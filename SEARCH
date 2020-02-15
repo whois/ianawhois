@@ -10,23 +10,23 @@ address:      Mountain View, CA 94043
 address:      United States
 
 contact:      administrative
-name:         Stephanie Duchesneau
+name:         TLD Admin
 organisation: Google Inc.
-address:      76 9th Avenue, 4th Floor
+address:      111 8th Avenue
 address:      New York, NY 10011
 address:      United States
-phone:        1 202 642 2325
-fax-no:       1 650 492 5631
+phone:        +1 404 978 8419
+fax-no:       +1 650 492 5631
 e-mail:       iana-contact@google.com
 
 contact:      technical
-name:         Richard Roberto
+name:         TLD Engineering
 organisation: Google Inc.
 address:      76 9th Avenue, 4th Floor
 address:      New York, NY 10011
 address:      United States
-phone:        1 212 565 2633
-fax-no:       1 650 492 5631
+phone:        +1 404 978 8419
+fax-no:       +1 650 492 5631
 e-mail:       crr-tech@google.com
 
 nserver:      NS-TLD1.CHARLESTONROADREGISTRY.COM 2001:4860:4802:32:0:0:0:69 216.239.32.105
@@ -39,9 +39,9 @@ ds-rdata:     36497 8 2 afaec406996df5555fc4365c07c7c74de82fe7cf5264fc5fad9d1ab9
 whois:        whois.nic.google
 
 status:       ACTIVE
-remarks:      Registration information: http://www.registry.google
+remarks:      Registration information: https://www.registry.google
 
 created:      2017-06-08
-changed:      2018-06-14
+changed:      2020-02-12
 source:       IANA
 
