@@ -36,9 +36,9 @@ nserver:      D.DNS.PT 185.39.210.1 2a04:6d82:0:0:0:0:0:1
 nserver:      E.DNS.PT 193.136.192.64 2001:690:a00:4001:0:0:0:64
 nserver:      F.DNS.PT 162.88.45.1 2600:2000:3009:0:0:0:0:1
 nserver:      G.DNS.PT 193.136.2.226 2001:690:a80:4001:0:0:0:100
+nserver:      H.DNS.PT 194.146.106.138 2001:67c:1010:35:0:0:0:53
 nserver:      NS.DNS.BR 200.160.0.5 2001:12ff:0:a20:0:0:0:5
 nserver:      NS2.NIC.FR 192.93.0.4 2001:660:3005:1:0:0:1:2
-nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e:0:0:0:0:1
 ds-rdata:     40995 7 2 ABF415ED56E88C5F05434BBF62CDD90B574D6445A37AE5CC9B84638AB5B9E656
 ds-rdata:     40995 7 1 43DEDCEEBA41380680784AA531819A6ED8172B6D
 
@@ -48,6 +48,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.dns.pt/
 
 created:      1988-06-30
-changed:      2018-08-10
+changed:      2020-01-17
 source:       IANA
 
