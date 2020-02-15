@@ -29,13 +29,13 @@ phone:        +232 22 235981
 fax-no:       +232 22 224439
 e-mail:       adam@neoip.com
 
-nserver:      NS1.NEOIP.COM 62.90.247.118
+nserver:      NS1.NEOIP.COM 45.83.41.38
 nserver:      NS2.NEOIP.COM 64.202.189.47
 
 status:       ACTIVE
 remarks:      Registration information: https://www.nic.sl
 
 created:      1997-05-09
-changed:      2019-09-25
+changed:      2019-12-19
 source:       IANA
 
