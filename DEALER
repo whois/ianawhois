@@ -36,12 +36,10 @@ phone:        +1 3457496263
 fax-no:       +1 3457466263
 e-mail:       ops@uniregistry.com
 
-nserver:      NS1.DNS.NIC.DEALER 156.154.144.223 2610:a1:1071:0:0:0:0:df
-nserver:      NS2.DNS.NIC.DEALER 156.154.145.223 2610:a1:1072:0:0:0:0:df
-nserver:      NS3.DNS.NIC.DEALER 156.154.159.223 2610:a1:1073:0:0:0:0:df
-nserver:      NS4.DNS.NIC.DEALER 156.154.156.223 2610:a1:1074:0:0:0:0:df
-nserver:      NS5.DNS.NIC.DEALER 156.154.157.223 2610:a1:1075:0:0:0:0:df
-nserver:      NS6.DNS.NIC.DEALER 156.154.158.223 2610:a1:1076:0:0:0:0:df
+nserver:      NS1.UNIREGISTRY.NET 2620:57:4000:1:0:0:0:1 64.96.1.1
+nserver:      NS2.UNIREGISTRY.INFO 64.96.245.53
+nserver:      NS3.UNIREGISTRY.NET 185.159.197.3 2620:10a:80aa:0:0:0:0:3
+nserver:      NS4.UNIREGISTRY.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
 ds-rdata:     46391 8 1 23AF0F956ACE3233046775E31617378B08BD6575
 ds-rdata:     46391 8 2 7D3C3132C9B69189301D4D639F701EA7CB5D2A453609698D7FAB8112CBB4A474
 ds-rdata:     45754 8 1 117BF190BE0889B18B577ED72022209F1BF26C87
@@ -55,6 +53,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.dealer
 
 created:      2015-11-25
-changed:      2019-11-15
+changed:      2020-01-14
 source:       IANA
 
