@@ -4,29 +4,31 @@
 
 domain:       AC
 
-organisation: Network Information Center (AC Domain Registry)
-organisation: c/o Cable and Wireless (Ascension Island)
-address:      South Atlantic Ocean
+organisation: Internet Computer Bureau Limited
+address:      c/o Sure (Ascension Island)
+address:      Georgetown
+address:      ASCN 1ZZ
 address:      Ascension Island
-address:      United Kingdom
 
 contact:      administrative
-name:         Internet Manager
-organisation: Network Information Center (AC Domain Registry)
-organisation: c/o Cable and Wireless (Ascension Island)
-address:      South Atlantic Ocean
+name:         Managing Director
+organisation: Internet Computer Bureau Limited
+address:      c/o Sure (Ascension Island)
+address:      Georgetown
+address:      ASCN 1ZZ
 address:      Ascension Island
-address:      United Kingdom
-fax-no:       +247 6464
 e-mail:       administrator@nic.ac
 
 contact:      technical
-name:         Administrator
-organisation: ICB Plc.
-address:      9 Queens Road
-address:      Bournemouth Dorset BH2 6BA
+name:         Technical Director
+organisation: Internet Computer Bureau Limited
+address:      Greytown House, 221-227 High Street
+address:      Orpington
+address:      Kent
+address:      BR6 0NZ
 address:      United Kingdom
-fax-no:       +44 1225 580 550
+phone:        +44 (0)1689 827505
+fax-no:       +44 (0)1689 831478
 e-mail:       admin@icb.co.uk
 
 nserver:      A0.NIC.AC 2a01:8840:9e:0:0:0:0:1 65.22.160.1
@@ -42,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.ac/
 
 created:      1997-12-19
-changed:      2019-07-04
+changed:      2019-12-03
 source:       IANA
 
