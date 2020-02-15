@@ -23,9 +23,10 @@ e-mail:       murey@wulkifarms.com
 
 contact:      technical
 name:         Randy Bush
-address:      PO Box 128
-address:      Kapa`au Hawai`i 96755
+address:      5147 Crystal Springs Drive NE
+address:      Bainbridge Island, WA  98110
 address:      United States
+phone:        +1 206 356 8341
 e-mail:       randy@psg.com
 
 nserver:      FORK.STH.DNSNODE.NET 2a01:3f0:0:306:0:0:0:53 77.72.229.254
@@ -38,6 +39,6 @@ status:       ACTIVE
 remarks:      Registration information: http://psg.com/dns/lr
 
 created:      1997-04-09
-changed:      2017-12-14
+changed:      2020-01-24
 source:       IANA
 
