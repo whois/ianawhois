@@ -10,13 +10,13 @@ address:      80995 München
 address:      Germany
 
 contact:      administrative
-name:         Projectmanager, HoD, Sales operation digital
-organisation: MAN Truck & Bus SE
+name:         Head of Communications
+organisation: MAN SE
 address:      Dachauer Strasse 667
 address:      80995 München
 address:      Germany
-phone:        +49-89-1580 67377
-e-mail:       manfred.schurer@man.eu
+phone:        +49 89 36098-0
+e-mail:       sacha.klingner@man.eu
 
 contact:      technical
 name:         ironDNS Support
@@ -40,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.man.eu
 
 created:      2015-02-27
-changed:      2019-08-19
+changed:      2019-12-23
 source:       IANA
 
