@@ -32,7 +32,9 @@ phone:        +34 675404304
 e-mail:       jbroom@nic.gp
 
 nserver:      GP.CCTLD.AUTHDNS.RIPE.NET 193.0.9.76 2001:67c:e0:0:0:0:0:76
+nserver:      NS-GP.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
 nserver:      NS1.NIC.GP 193.218.114.2
+nserver:      NS2.NIC.GP 193.218.114.34
 
 whois:        whois.nic.gp
 
@@ -40,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.gp/
 
 created:      1996-10-21
-changed:      2019-11-06
+changed:      2019-12-19
 source:       IANA
 
