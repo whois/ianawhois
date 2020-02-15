@@ -34,8 +34,8 @@ nserver:      A.NIC.BG 192.92.129.99 2a02:6a80:0:0:192:92:129:99
 nserver:      B.NIC.BG 193.68.3.232 2a02:6a80:0:0:193:68:3:232
 nserver:      C.NIC.BG 193.68.99.99 2a02:6a80:0:0:193:68:99:99
 nserver:      D.NIC.BG 194.0.32.1 2001:678:3c:0:0:0:0:1
+nserver:      E.NIC.BG 185.143.80.1 2a02:6a80:530e:0:0:0:0:1
 nserver:      P.NIC.BG 2001:500:14:6110:ad:0:0:1 204.61.216.110
-nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e:0:0:0:0:1
 ds-rdata:     55126 8 2 0669c2eb01c870dae3ef098917da83562b431531334a531e9814f117557509d7
 
 whois:        whois.imena.bg
@@ -44,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.imena.bg
 
 created:      2016-03-05
-changed:      2018-03-27
+changed:      2020-01-25
 source:       IANA
 
