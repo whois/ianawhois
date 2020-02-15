@@ -14,7 +14,7 @@ name:         Communications Regulator
 organisation: Falkland Islands Government
 address:      Legal & Regulation Directorate
 address:      Stanley  FIQQ 1ZZ
-address:      Falkland Islands (Malvinas)
+address:      Falkland Islands (malvinas)
 phone:        +500 28459
 fax-no:       +500 27306
 e-mail:       regulator.telecoms@sec.gov.fk
@@ -29,13 +29,14 @@ phone:        + 500 20800
 fax-no:       + 500 20890
 e-mail:       ipn.support@sure.co.fk
 
-nserver:      NS1.HORIZON.NET.FK 195.248.193.250
-nserver:      NS2.HORIZON.NET.FK 195.248.193.251
+nserver:      NS1.HORIZON.NET.FK 80.73.216.250
+nserver:      NS2.HORIZON.NET.FK 80.73.216.251
+nserver:      NS3.HORIZON.NET.FK 93.187.151.193
 
 status:       ACTIVE
 remarks:      Registration information: http://www.sure.co.fk
 
 created:      1997-03-26
-changed:      2018-10-06
+changed:      2020-01-24
 source:       IANA
 
