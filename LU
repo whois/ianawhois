@@ -35,7 +35,7 @@ nserver:      J.DNS.LU 2a01:3f0:0:307:0:0:0:53 77.72.229.247
 nserver:      K.DNS.LU 194.0.1.13 2001:678:4:0:0:0:0:d
 nserver:      NS1.DNS.LU 158.64.229.18 2001:a18:4:1:0:0:0:18
 nserver:      P.DNS.LU 194.0.42.42 2001:678:60:0:0:0:42:42
-ds-rdata:     17314 8 2 b3d09ea4961045f62a3153ff01689725785d0960a433ac15c44a2ae7069ebb20
+ds-rdata:     20752 8 2 2bbe0b0c438f336ca96f655dccb9a72d7359064225d9e38a0a09804f9be20415
 
 whois:        whois.dns.lu
 
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.dns.lu
 
 created:      1995-01-27
-changed:      2019-01-22
+changed:      2020-01-24
 source:       IANA
 
