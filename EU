@@ -31,7 +31,6 @@ e-mail:       domain-tech@eurid.eu
 
 nserver:      NL.DNS.EU 91.200.16.100
 nserver:      SI.DNS.EU 193.2.221.60 2001:1470:8000:100:0:0:0:1
-nserver:      UK.DNS.EU 195.66.241.178
 nserver:      W.DNS.EU 194.0.25.28 2001:678:20:0:0:0:0:28
 nserver:      X.DNS.EU 185.151.141.1 2a02:568:fe00:0:0:0:0:6575
 nserver:      Y.DNS.EU 194.146.106.90 2001:67c:1010:23:0:0:0:53
@@ -43,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.eurid.eu
 
 created:      2005-04-28
-changed:      2019-08-27
+changed:      2020-01-15
 source:       IANA
 
