@@ -5,34 +5,34 @@
 domain:       PE
 
 organisation: Red Cientifica Peruana
-address:      Pablo Carriquirry 410
-address:      Lima  27
+address:      Jr. Gonzales Prada # 585
+address:      Surquillo
+address:      Lima  15047
 address:      Peru
 
 contact:      administrative
 name:         Rolando Toledo
 organisation: Red Cientifica Peruana
-address:      Pablo Carriquirry 410
-address:      Lima  27
+address:      Jr. Gonzales Prada # 585
+address:      Surquillo
+address:      Lima  15047
 address:      Peru
 phone:        +51 1 7020000
-fax-no:       +51 1 7020148
 e-mail:       tld-admin@nic.pe
 
 contact:      technical
-name:         Oscar Valdez
+name:         David Rios
 organisation: Red Cientifica Peruana
-address:      Pablo Carriquirry 410
-address:      Lima  27
+address:      Jr. Gonzales Prada # 585
+address:      Surquillo
+address:      Lima  15047
 address:      Peru
 phone:        +51 1 7020000
-fax-no:       +51 1 7020148
 e-mail:       tld-tech@nic.pe
 
 nserver:      PCH.RCP.PE 2001:500:14:6085:ad:0:0:1 204.61.216.85
 nserver:      PE1.DNSNODE.NET 194.146.106.82 2001:67c:1010:20:0:0:0:53
 nserver:      QUIPU.RCP.NET.PE 200.1.176.4
-nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e:0:0:0:0:1
 ds-rdata:     7981 8 2 7C4B12C0D916694718131C7B7607561393FB86E2A3159CE7A74EA9E29AFB26F3
 
 whois:        kero.yachay.pe
@@ -41,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.pe
 
 created:      1991-11-25
-changed:      2014-01-20
+changed:      2020-01-28
 source:       IANA
 
