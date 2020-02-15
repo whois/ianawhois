@@ -29,14 +29,12 @@ phone:        +359 52 702563
 fax-no:       +359 52 702561
 e-mail:       daniel@digsys.bg
 
-nserver:      NS.REGISTER.BG 192.92.129.99 2a02:6a80:0:0:192:92:129:99
-nserver:      NS2.REGISTER.BG 193.68.3.232 2a02:6a80:0:0:193:68:3:232
-nserver:      NS3.REGISTER.BG 193.68.99.99 2a02:6a80:0:0:193:68:99:99
-nserver:      NS4.REGISTER.BG 194.0.32.1 2001:678:3c:0:0:0:0:1
-nserver:      NS5.REGISTER.BG 185.143.80.1 2a02:6a80:0:0:193:68:21:71
-nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e:0:0:0:0:1
-ds-rdata:     46846 5 1 1D83F503CCED4A4B6F7F8DB1CF43D38F9133A3EA
-ds-rdata:     46846 5 2 26811E459C850F50A85D1EAF589E30DC14D09D1A6E6262E8D36B6BFFC605334C
+nserver:      A.NIC.BG 192.92.129.99 2a02:6a80:0:0:192:92:129:99
+nserver:      B.NIC.BG 193.68.3.232 2a02:6a80:0:0:193:68:3:232
+nserver:      C.NIC.BG 193.68.99.99 2a02:6a80:0:0:193:68:99:99
+nserver:      D.NIC.BG 194.0.32.1 2001:678:3c:0:0:0:0:1
+nserver:      E.NIC.BG 185.143.80.1 2a02:6a80:530e:0:0:0:0:1
+nserver:      P.NIC.BG 2001:500:14:6110:ad:0:0:1 204.61.216.110
 ds-rdata:     58606 8 2 305151ebb808cfa54a262403982d4c27e081b1c4accdad4b4d83ce091188b1a0
 ds-rdata:     58606 8 1 037ec344df072e8e46977a841b8c1aad3105dc3a
 
@@ -46,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.register.bg
 
 created:      1995-01-03
-changed:      2019-02-15
+changed:      2020-02-13
 source:       IANA
 
