@@ -11,14 +11,14 @@ address:      Moscow  123182
 address:      Russian Federation
 
 contact:      administrative
-name:         Foundation for Internet Development
-organisation: Foundation for Internet Development
-address:      17 Presnenskiy Val, bld 1
-address:      Moscow, 123557
+name:         ROSNIIROS
+organisation: Russian Institute for Development of Public Networks (ROSNIIROS)
+address:      1, Kurchatov Sq.
+address:      Moscow 123182
 address:      Russian Federation
-phone:        +7 499 702 83 43
-fax-no:       +7 499 702 83 43
-e-mail:       su-adm@fid.su
+phone:        +7 499 196 49 84
+fax-no:       +7 499 196 49 84
+e-mail:       su-adm@ripn.su
 
 contact:      technical
 name:         Technical Center of Internet
@@ -42,6 +42,6 @@ whois:        whois.tcinet.ru
 status:       ACTIVE
 
 created:      1990-09-19
-changed:      2019-04-15
+changed:      2020-02-03
 source:       IANA
 
