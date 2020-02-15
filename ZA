@@ -36,7 +36,6 @@ fax-no:       +27 (0)10 020 3919
 e-mail:       dnsadmin@zadna.org.za
 
 nserver:      NSZA.IS.CO.ZA 196.4.160.27
-nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e:0:0:0:0:1
 nserver:      ZA-NS.ANYCAST.PCH.NET 2001:500:14:6055:ad:0:0:1 204.61.216.55
 nserver:      ZA1.DNSNODE.NET 194.146.106.78 2001:67c:1010:19:0:0:0:53
 ds-rdata:     45749 8 2 3e2b0b7e6063ca11400fa4b54d8a530888234cd0eb3b5fbf820c0750784da84e
@@ -45,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.zadna.org.za/
 
 created:      1990-11-07
-changed:      2019-10-01
+changed:      2020-01-15
 source:       IANA
 
