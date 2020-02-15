@@ -22,9 +22,10 @@ e-mail:       contact@dot.best
 contact:      technical
 name:         CTO
 organisation: CentralNic
-address:      35-39 Moorgate
+address:      4th Floor, Saddlers House
+address:      44 Gutter Lane
 address:      London
-address:      EC2R 6AR
+address:      EC2V 6BR
 address:      United Kingdom
 phone:        +44 2033880600
 fax-no:       +44 2033880601
@@ -34,10 +35,6 @@ nserver:      A.NIC.BEST 194.169.218.109 2001:67c:13cc:0:0:0:1:109
 nserver:      B.NIC.BEST 185.24.64.109 2a04:2b00:13cc:0:0:0:1:109
 nserver:      C.NIC.BEST 212.18.248.109 2a04:2b00:13ee:0:0:0:0:109
 nserver:      D.NIC.BEST 212.18.249.109 2a04:2b00:13ff:0:0:0:0:109
-ds-rdata:     13891 8 1 7BA8044052DD9EE3800258F6A74E2EA71758D63D
-ds-rdata:     13891 8 2 1EA72B6C84425B7BE18766B90CF3AFD3B8C410656B306D8D9134E905DDE6792B
-ds-rdata:     23074 8 1 2E44114FAE82D8F8A6D4F3C4D790AEB818A70124
-ds-rdata:     23074 8 2 0178CF851507E3D7C970CC8C52B1EA3EF07246D9399190B6B5C1F7089077A6C7
 ds-rdata:     41279 8 2 D0C266B147E9FA7122215CCCA36B23D43407BD2F03B2E3B6E917D350B31AA5FD
 ds-rdata:     41279 8 1 851E9D6345C1644A71FF4402E818BBEF841971B2
 
@@ -47,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.go.best
 
 created:      2014-02-20
-changed:      2019-04-08
+changed:      2019-12-25
 source:       IANA
 
