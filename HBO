@@ -5,17 +5,19 @@
 domain:       HBO
 
 organisation: HBO Registry Services, Inc.
-address:      1100 Avenue of the Americas, New York, 10036
+address:      30 Hudson Yards, 45th Floor
+address:      New York, NY 10001
 address:      United States
 
 contact:      administrative
-name:         Judy McCool
-organisation: HBO Registry Services, Inc
-address:      1100 Avenue of the Americas, New York, 10036
+name:         Rick McMurtry
+organisation: Warner Media, LLC
+address:      1050 Techwood Drive
+address:      Atlanta, GA 30318
 address:      United States
 phone:        +1 212 512 1000
 fax-no:       +1 212 512 1986
-e-mail:       primary_hbo@valideus.com
+e-mail:       domain@warnermediagroup.com
 
 contact:      technical
 name:         Director
@@ -42,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.hbo.com
 
 created:      2016-07-08
-changed:      2018-08-22
+changed:      2020-02-04
 source:       IANA
 
