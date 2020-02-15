@@ -42,12 +42,12 @@ nserver:      NS.THNIC.NET 202.28.0.1
 nserver:      P.THAINS.CO.TH 2001:500:14:6126:ad:0:0:1 204.61.216.126
 ds-rdata:     27061 8 2 53856679AC45EA6562EF4ECD2DE7AEA57D786870979F09C4BC1D5244C2E2A9C9
 
-whois:        whois.thnic.co.th
+whois:        whois.thains.co.th
 
 status:       ACTIVE
 remarks:      Registration information: http://www.thnic.co.th
 
 created:      2010-08-19
-changed:      2018-09-09
+changed:      2020-01-28
 source:       IANA
 
