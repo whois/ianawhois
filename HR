@@ -31,7 +31,6 @@ e-mail:       hostmaster@carnet.hr
 
 nserver:      HR-NS-1.CARNET.HR 161.53.160.100 2001:b68:ff:1:0:0:0:100
 nserver:      PCH.CARNET.HR 2001:500:14:6090:ad:0:0:1 204.61.216.90
-nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e:0:0:0:0:1
 ds-rdata:     63025 8 1 D2E75CC74208F81B1EE50EFF524259BDA1F72AC1
 ds-rdata:     63025 8 2 1493B6F67A78F844E72953B29B7FEE9F6301F41E998BED94427C79A5AB60BAE6
 
@@ -41,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.dns.hr
 
 created:      1993-02-27
-changed:      2015-01-25
+changed:      2020-04-30
 source:       IANA
 
