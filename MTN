@@ -35,6 +35,8 @@ nserver:      C.NIC.MTN 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      D.NIC.MTN 2001:dcd:4:0:0:0:0:9 37.209.198.9
 ds-rdata:     46552 8 1 528157932617537C96221BA9DC975845F540CD26
 ds-rdata:     46552 8 2 43FC61FA552C84C35BFBC2A50CB61D51CD4D66C6C8A13907A34A15EB2A19730C
+ds-rdata:     14299 8 2 1C92588CD061388B8AF4E8B3A5ED11D1063D98AF22157EE73854EF9651039C57
+ds-rdata:     14299 8 1 89F5FF0785FD2F6C4B7B7098F3FB533992C72468
 
 whois:        whois.nic.mtn
 
@@ -42,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.mtn.com
 
 created:      2015-03-12
-changed:      2019-12-17
+changed:      2020-04-30
 source:       IANA
 
