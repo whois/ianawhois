@@ -44,6 +44,8 @@ nserver:      C.NIC.GIVING 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      D.NIC.GIVING 2001:dcd:4:0:0:0:0:9 37.209.198.9
 ds-rdata:     47470 8 1 6F4469FA1BF2BF0E91E701CFABF32D8862609B48
 ds-rdata:     47470 8 2 A6600A5F7859D2A44E4339BE2803E944DCE80FA0D85A3925106536811C7850A9
+ds-rdata:     1765 8 1 1463D1513D5B0296F33785535432D39ECC5828DF
+ds-rdata:     1765 8 2 1618DF5C2A76CCE748AAC4E7EC13769279985630D1025A03BA6B1827307E3F72
 
 whois:        whois.nic.giving
 
@@ -51,6 +53,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.justgiving.com
 
 created:      2015-06-11
-changed:      2019-07-26
+changed:      2020-04-30
 source:       IANA
 
