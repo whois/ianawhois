@@ -35,8 +35,8 @@ nserver:      NS-SN.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
 nserver:      NS.UCAD.SN 196.1.95.1
 nserver:      NS1.SONATEL.SN 213.154.64.11
 nserver:      SN.CCTLD.AUTHDNS.RIPE.NET 193.0.9.111 2001:67c:e0:0:0:0:0:111
-ds-rdata:     23447 8 2 271e63775a5c09a80ca8a0e6d68f5d31dbc3c3fc7ae7301517e57c1fcabc714b
 ds-rdata:     42844 8 2 51ecb2a1b9a93e42b3cefdb344f02584434661c4986f0a53b97f7d23134f4c15
+ds-rdata:     3836 8 2 E222E635330DEA2002B714F787C6EEFB512D3A63F1C09659DA1CB8F58BA47ACD
 
 whois:        whois.nic.sn
 
@@ -44,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.sn
 
 created:      1993-03-19
-changed:      2018-09-05
+changed:      2020-04-17
 source:       IANA
 
