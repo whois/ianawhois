@@ -34,6 +34,8 @@ nserver:      C.NIC.MEN 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      D.NIC.MEN 2001:dcd:4:0:0:0:0:10 37.209.198.10
 ds-rdata:     31777 8 1 A6665FAF359C93F4E03334195CB679B422CDB975
 ds-rdata:     31777 8 2 AACC8C03C369479DA4905E75EEF8C55A2B48277BD38132A83E967B35E9556A19
+ds-rdata:     37756 8 2 F2602E2FF049BB5332059A1E4E498B8ED5AC161243A2EE3EF2665ABB680892D8
+ds-rdata:     37756 8 1 C3DF2395CBFD91D57E80204C5BD941C049ACE110
 
 whois:        whois.nic.men
 
@@ -41,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.men
 
 created:      2015-05-08
-changed:      2019-08-07
+changed:      2020-05-01
 source:       IANA
 
