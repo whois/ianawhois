@@ -22,8 +22,9 @@ e-mail:       technicalcontact.domain@deutschepost.de
 contact:      technical
 name:         CTO
 organisation: CentralNic
-address:      35-39 Moorgate
-address:      London EC2R 6AR
+address:      Saddlers House, 4th Floor
+address:      44 Gutter Lane
+address:      London EC2V 6BR
 address:      United Kingdom
 phone:        +44.2033880600
 fax-no:       +44.2033880601
@@ -41,6 +42,6 @@ ds-rdata:     31860 7 1 89fe558d6ea8dcaf797b2235dc3c246108a2b74e
 status:       ACTIVE
 
 created:      2016-05-26
-changed:      2019-03-28
+changed:      2020-04-20
 source:       IANA
 
