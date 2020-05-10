@@ -34,6 +34,8 @@ nserver:      C.NIC.TRUST 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      D.NIC.TRUST 2001:dcd:4:0:0:0:0:10 37.209.198.10
 ds-rdata:     40726 8 1 55ED0FE365EAE7E30004258A492DD4494B821E65
 ds-rdata:     40726 8 2 788057610FACD85888BFC0B942FE0EA3B828B628177F584411C35E2737558010
+ds-rdata:     39295 8 1 B30B3B225650F153214471B5F824354D5D2920E9
+ds-rdata:     39295 8 2 B874A22C7EBD631978D59ACE3B634D4B1DEC3EF0C8FBC7A4051AC0AE15661753
 
 whois:        whois.nic.trust
 
@@ -41,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information:  https://whodoyou.trust/
 
 created:      2014-11-26
-changed:      2019-08-30
+changed:      2020-04-30
 source:       IANA
 
