@@ -21,8 +21,9 @@ e-mail:       kp@art.art
 contact:      technical
 name:         CTO
 organisation: CentralNic
-address:      35-39 Moorgate
-address:      London EC2R 6AR
+address:      Saddlers House, 4th Floor
+address:      44 Gutter Lane
+address:      London EC2V 6BR
 address:      United Kingdom
 phone:        +44.2033880600
 fax-no:       +44.2033880601
@@ -32,7 +33,6 @@ nserver:      A.NIC.ART 194.169.218.49 2001:67c:13cc:0:0:0:1:49
 nserver:      B.NIC.ART 185.24.64.49 2a04:2b00:13cc:0:0:0:1:49
 nserver:      C.NIC.ART 212.18.248.49 2a04:2b00:13ee:0:0:0:0:49
 nserver:      D.NIC.ART 212.18.249.49 2a04:2b00:13ff:0:0:0:0:49
-ds-rdata:     29485 8 1 6FD8A6CB40CAC76B1EAC4EE69075360D5C5EEA8E
 ds-rdata:     29485 8 2 BF041A7EC6CA857F5D85151C66F561DEB9C863B98E05670C345C9CF9ED199AEE
 
 whois:        whois.nic.art
@@ -41,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://art.art/
 
 created:      2016-06-09
-changed:      2018-07-23
+changed:      2020-04-15
 source:       IANA
 
