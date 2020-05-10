@@ -29,6 +29,9 @@ nserver:      B.NIC.MONASH 2001:dcd:2:0:0:0:0:9 37.209.194.9
 nserver:      C.NIC.MONASH 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      D.NIC.MONASH 2001:dcd:4:0:0:0:0:9 37.209.198.9
 ds-rdata:     6355 8 2 BC8C82B3E65FC95A0610ED0F56190D4D0B78033F437EB48C2DD54F0E0AEB3BBD
+ds-rdata:     6355 8 1 CB9607C1D8E4B7C1FE325514E641E6ED0017658C
+ds-rdata:     5434 8 2 62EA79CC91697BFF821138D91AA9E914A98A26782E81D591EA95E06D066E99F4
+ds-rdata:     5434 8 1 35C6FA4A15F0CDBDC7601F5F289CABD3660919D8
 
 whois:        whois.nic.monash
 
@@ -36,6 +39,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.monash
 
 created:      2014-01-09
-changed:      2019-07-08
+changed:      2020-04-30
 source:       IANA
 
