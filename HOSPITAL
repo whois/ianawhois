@@ -36,7 +36,8 @@ nserver:      DEMAND.ALPHA.ARIDNS.NET.AU 2001:dcd:1:0:0:0:0:7 37.209.192.7
 nserver:      DEMAND.BETA.ARIDNS.NET.AU 2001:dcd:2:0:0:0:0:7 37.209.194.7
 nserver:      DEMAND.DELTA.ARIDNS.NET.AU 2001:dcd:4:0:0:0:0:7 37.209.198.7
 nserver:      DEMAND.GAMMA.ARIDNS.NET.AU 2001:dcd:3:0:0:0:0:7 37.209.196.7
-ds-rdata:     48226 8 2 D16D946AA4E0C5E5D77BC9C210AA07E7DAAA1C1EC507AF9AAE72A7A35E836A4B
+ds-rdata:     19486 8 1 82F6959B2771C1858CFF64BC164CD3ACDA20B68B
+ds-rdata:     19486 8 2 81AC3130FACCD820E31A7FF21A3C9FC6CEC9A6B32BA58062AFBDBCF5E721C72C
 
 whois:        whois.nic.hospital
 
@@ -44,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.donuts.domains/
 
 created:      2016-12-02
-changed:      2018-03-07
+changed:      2020-04-17
 source:       IANA
 
