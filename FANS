@@ -4,26 +4,30 @@
 
 domain:       FANS
 
-organisation: Fans TLD Ltd
-address:      35-39 Moorgate
-address:      London EC2R 6AR
-address:      United Kingdom
+organisation: ZDNS International Limited
+address:      4, South 4th Street,
+address:      Zhonguancun,
+address:      Haidian District
+address:      100190 Beijing
+address:      China
 
 contact:      administrative
-name:         Raedene McGary
-organisation: CentralNic Limited
-address:      35-39 Moorgate
-address:      London EC2R 6AR
-address:      United Kingdom
-phone:        +44.2033880600
-fax-no:       +44.2033880601
-e-mail:       fans.compliance@centralnic.com
+name:         VP
+organisation: ZDNS
+address:      4, South 4th Street,
+address:      Zhonguancun,
+address:      Haidian District
+address:      100190 Beijing
+address:      China
+phone:        +86.1058812426
+e-mail:       sophia@nic.fans
 
 contact:      technical
 name:         CTO
 organisation: CentralNic
-address:      35-39 Moorgate
-address:      London EC2R 6AR
+address:      Saddlers House, 4th Floor
+address:      44 Gutter Lane
+address:      London EC2V 6BR
 address:      United Kingdom
 phone:        +44.2033880600
 fax-no:       +44.2033880601
@@ -42,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.fans/
 
 created:      2015-02-05
-changed:      2018-09-06
+changed:      2020-03-09
 source:       IANA
 
