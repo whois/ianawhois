@@ -18,7 +18,7 @@ address:      1140 Vienna
 address:      Austria
 phone:        +43 1 98116-700
 fax-no:       +43 1 98116-111
-e-mail:       ronald.schwaerzler@domainworx.at
+e-mail:       ronald.schwaerzler@domainworx.consulting
 
 contact:      technical
 name:         Technical Operations
@@ -30,10 +30,9 @@ phone:        +431981160
 fax-no:       +43198116111
 e-mail:       tech@dns.business
 
+nserver:      DNS.RYCE-RSP.COM 194.0.11.114 2001:678:e:114:0:0:0:53
+nserver:      NS1.DNS.BUSINESS 2001:41d0:1000:d4:0:0:0:86 51.255.23.86
 nserver:      NS1.RYCE-RSP.COM 193.56.204.153 2a0c:8f40:0:701:0:0:0:153
-nserver:      NSA.NETNOD.SE 194.58.192.33 2a01:3f1:33:0:0:0:0:53
-nserver:      NSP.NETNOD.SE 194.58.198.33 2a01:3f1:3033:0:0:0:0:53
-nserver:      NSU.NETNOD.SE 185.42.137.99 2a01:3f0:400:0:0:0:0:33
 ds-rdata:     26533 10 2 b3a50f0fe5e706e83b98eafe1ae7ac0dbb95219c8c6eafb94ce1de36b2a7f51f
 
 whois:        whois.ryce-rsp.com
@@ -42,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.nic.koeln
 
 created:      2014-03-13
-changed:      2019-09-18
+changed:      2020-04-28
 source:       IANA
 
