@@ -16,8 +16,8 @@ organisation: Serbian National Internet Domain Registry (RNIDS)
 address:      Zorza Klemansoa 18a
 address:      Belgrade 11000
 address:      Serbia
-phone:        +381 117281281
-fax-no:       +381 117281282
+phone:        +381 11 7281281
+fax-no:       +381 11 7281282
 e-mail:       tld-admin@rnids.rs
 
 contact:      technical
@@ -26,8 +26,8 @@ organisation: Serbian National Internet Domain Registry (RNIDS)
 address:      Zorza Klemansoa 18a
 address:      Belgrade 11000
 address:      Serbia
-phone:        +381 117281281
-fax-no:       +381 117281282
+phone:        +381 11 7281281
+fax-no:       +381 11 7281282
 e-mail:       tld-tech@rnids.rs
 
 nserver:      A.NIC.RS 2001:067c:069c:0000:0000:0000:0000:0059 91.199.17.59
@@ -44,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.rnids.rs/
 
 created:      2011-02-05
-changed:      2020-01-10
+changed:      2020-02-28
 source:       IANA
 
