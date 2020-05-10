@@ -5,28 +5,28 @@
 domain:       BARCLAYCARD
 
 organisation: Barclays Bank PLC
-address:      1 Churchill Place,
-address:      London E14 5HP
+address:      BTCR (Radbroke Hall)
+address:      Knutsford, Cheshire, WA16 9EU
 address:      United Kingdom
 
 contact:      administrative
-name:         Elliot Antrobus-Holder
+name:         Simon Edlington
 organisation: Barclays Bank PLC
-address:      1 Churchill Place
-address:      London E14 5HP
+address:      BTCR (Radbroke Hall)
+address:      Knutsford, Cheshire, WA16 9EU
 address:      United Kingdom
-phone:        +442071161000
-fax-no:       +442071167663
+phone:        +44 7825 023892
+fax-no:       +44 2071 167663
 e-mail:       iplegal@barclays.com
 
 contact:      technical
-name:         Elliot Antrobus-Holder
+name:         Simon Edlington
 organisation: Barclays Bank PLC
-address:      1 Churchill Place,
-address:      London E14 5HP
+address:      BTCR (Radbroke Hall)
+address:      Knutsford, Cheshire, WA16 9EU
 address:      United Kingdom
-phone:        +442071161000
-fax-no:       +442071167663
+phone:        +44 7825 023892
+fax-no:       +44 2071 167663
 e-mail:       iplegal@barclays.com
 
 nserver:      A.NIC.BARCLAYCARD 2001:dcd:1:0:0:0:0:9 37.209.192.9
@@ -35,6 +35,8 @@ nserver:      C.NIC.BARCLAYCARD 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      D.NIC.BARCLAYCARD 2001:dcd:4:0:0:0:0:9 37.209.198.9
 ds-rdata:     59326 8 1 D49336A16E9884982A53DDB02E8ACB494DFD0143
 ds-rdata:     59326 8 2 9B09E119FEFD3BA13928CF43312198F3EC0B22A0169B35A4A28278F6E77E8ECD
+ds-rdata:     28894 8 2 3A8F6A7733425D561D3C93B3459DD41DE9523AB48C2E63902141DE3C53160847
+ds-rdata:     28894 8 1 DCDAA8C8C256134AC4EEC49149BC55D62D358144
 
 whois:        whois.nic.barclaycard
 
@@ -42,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.barclaycard.com/
 
 created:      2015-01-08
-changed:      2019-07-25
+changed:      2020-04-30
 source:       IANA
 
