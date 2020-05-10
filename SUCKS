@@ -40,6 +40,8 @@ nserver:      C.NIC.SUCKS 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      D.NIC.SUCKS 2001:dcd:4:0:0:0:0:10 37.209.198.10
 ds-rdata:     53287 8 1 852A2FB0FA5A7708417B403A96A1FB84F8DC0967
 ds-rdata:     53287 8 2 9BA55749B9F3922FAAD173E938AA807F825F0B63E15905E36AD10F724B0DEDE2
+ds-rdata:     24706 8 1 6FF95FDA359DD456294FB1E52317DF50504E7639
+ds-rdata:     24706 8 2 6DF4D51F19C50831D26386F0F714BA179081AFB6A250074267069B18F43D6C38
 
 whois:        whois.nic.sucks
 
@@ -47,6 +49,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.voxpopregistry.com
 
 created:      2015-02-19
-changed:      2019-07-26
+changed:      2020-04-30
 source:       IANA
 
