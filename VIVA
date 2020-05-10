@@ -11,10 +11,11 @@ address:      PO Box 87912 Riyadh - 11652
 address:      Saudi Arabia
 
 contact:      administrative
-name:         Director of Legal and Policy
+name:         Head of Registry Services
 organisation: CentralNic
-address:      35-39 Moorgate
-address:      London EC2R 6AR
+address:      Saddlers House, 4th Floor
+address:      44 Gutter Lane
+address:      London EC2V 6BR
 address:      United Kingdom
 phone:        +44.2033880600
 fax-no:       +44.2033880601
@@ -23,8 +24,9 @@ e-mail:       stc.admin@centralnic.com
 contact:      technical
 name:         CTO
 organisation: CentralNic
-address:      35-39 Moorgate
-address:      London EC2R 6AR
+address:      Saddlers House, 4th Floor
+address:      44 Gutter Lane
+address:      London EC2V 6BR
 address:      United Kingdom
 phone:        +44.2033880600
 fax-no:       +44.2033880601
@@ -43,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.stc.com.sa
 
 created:      2015-08-20
-changed:      2019-03-18
+changed:      2020-05-07
 source:       IANA
 
