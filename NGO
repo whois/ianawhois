@@ -5,10 +5,9 @@
 domain:       NGO
 
 organisation: Public Interest Registry
-address:      1775 Wiehle Avenue, Suite 100
-address:      Reston
-address:      VA
-address:      20190
+address:      1775 Wiehle Avenue
+address:      Suite 100
+address:      Reston, VA 20190
 address:      United States
 
 contact:      administrative
@@ -17,7 +16,7 @@ organisation: Public Interest Registry (PIR)
 address:      1775 Wiehle Avenue
 address:      Reston, VA 20190
 address:      United States
-phone:        +1 919 369 4161
+phone:        +1 703 889 5778
 fax-no:       +1 703 889 5779
 e-mail:       ops@pir.org
 
@@ -25,9 +24,7 @@ contact:      technical
 name:         Senior Director, DNS Infrastructure Group
 organisation: Afilias
 address:      Building 3, Suite 105, 300 Welsh Road
-address:      Horsham
-address:      PA
-address:      19044
+address:      Horsham, PA 19044
 address:      United States
 phone:        +1 215.706.5700
 fax-no:       +1 215.706.5701
@@ -39,8 +36,8 @@ nserver:      B0.NIC.NGO 199.19.54.1 2001:500:c:0:0:0:0:1
 nserver:      B2.NIC.NGO 199.249.120.1 2001:500:48:0:0:0:0:1
 nserver:      C0.NIC.NGO 199.19.53.1 2001:500:b:0:0:0:0:1
 nserver:      D0.NIC.NGO 199.19.57.1 2001:500:f:0:0:0:0:1
-ds-rdata:     22501 7 1 4f101338eac9effb72baac213b69921d9243c546
-ds-rdata:     22501 7 2 6e38db3504552123de5f25c472feec7323ca61e4f8f3d0ddc90dd7ff07903ed3
+ds-rdata:     61593 7 1 668811da52abbd23d8ce739514f28cfce6e4bbe7
+ds-rdata:     61593 7 2 31ffe6b3994b6317dac14d3aa82fbab2ff9039706f678e95aa914889b5a7d3d8
 
 whois:        whois.publicinterestregistry.net
 
@@ -48,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.pir.org
 
 created:      2014-07-10
-changed:      2019-08-21
+changed:      2020-04-17
 source:       IANA
 
