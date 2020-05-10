@@ -31,15 +31,12 @@ e-mail:       assis.guerreiro@dns.pt
 
 nserver:      AO01.DNS.PT 185.39.208.17 2a04:6d80:0:0:0:0:0:17
 nserver:      AO03.DNS.PT 2001:500:14:6113:ad:0:0:1 204.61.216.113
-nserver:      AUTH02.NS.UU.NET 198.6.1.82
-nserver:      NS-EXT.ISC.ORG 2001:4f8:0:2:0:0:0:13 204.152.184.64
-nserver:      NS02.DNS.AO 197.149.149.11
-nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e:0:0:0:0:1
+nserver:      H.DNS.PT 194.146.106.138 2001:67c:1010:35:0:0:0:53
 
 status:       ACTIVE
 remarks:      Registration information: http://www.dns.ao/
 
 created:      1995-11-15
-changed:      2017-11-24
+changed:      2020-03-25
 source:       IANA
 
