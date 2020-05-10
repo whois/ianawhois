@@ -21,7 +21,7 @@ fax-no:       +7 499 196 49 84
 e-mail:       su-adm@ripn.su
 
 contact:      technical
-name:         Technical Center of Internet
+name:         Technical Center of Internet 
 organisation: Technical Center of Internet
 address:      8 Marta street 1, bld 12
 address:      Moscow 127083
@@ -35,13 +35,13 @@ nserver:      B.DNS.RIPN.NET 194.85.252.62 2001:678:16:0:194:85:252:62
 nserver:      D.DNS.RIPN.NET 194.190.124.17 2001:678:18:0:194:190:124:17
 nserver:      E.DNS.RIPN.NET 193.232.142.17 2001:678:15:0:193:232:142:17
 nserver:      F.DNS.RIPN.NET 193.232.156.17 2001:678:14:0:193:232:156:17
-ds-rdata:     57857 8 2 0754F6F81EDABC9B710C837BCD2B8CE61FA2B44E9EEFEA71FC2A0E6D6F16B43D
+ds-rdata:     58831 8 2 0995806B7CB30C12D620F549AE54E2159626A7A22130CCDE1C12A5E02410A518
 
 whois:        whois.tcinet.ru
 
 status:       ACTIVE
 
 created:      1990-09-19
-changed:      2020-02-03
+changed:      2020-03-13
 source:       IANA
 
