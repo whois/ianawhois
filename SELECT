@@ -35,6 +35,8 @@ nserver:      C.NIC.SELECT 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      D.NIC.SELECT 2001:dcd:4:0:0:0:0:9 37.209.198.9
 ds-rdata:     30049 8 1 74E8DF2DFD9CBA3C607F33C783BAA8FF04832397
 ds-rdata:     30049 8 2 331A955BE5888C91D7F816081016C41322129A4C15BE8EDEE73279D459970E7F
+ds-rdata:     29959 8 1 FAFC55E79B3CBD46D36CFFBB8F662DAFAA25C1C0
+ds-rdata:     29959 8 2 E0AB27E345702401C6C3A5780C94663A07F64B728BFEB2186D76B720679F5911
 
 whois:        whois.nic.select
 
@@ -42,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.select/
 
 created:      2015-12-23
-changed:      2019-08-07
+changed:      2020-04-30
 source:       IANA
 
