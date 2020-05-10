@@ -39,10 +39,8 @@ e-mail:       tld.ops@centralnic.com
 
 nserver:      A.NIC.UNO 194.169.218.21 2001:67c:13cc:0:0:0:1:21
 nserver:      B.NIC.UNO 185.24.64.21 2a04:2b00:13cc:0:0:0:1:21
-nserver:      NS1.DNS.NIC.UNO 156.154.144.173 2610:a1:1071:0:0:0:0:ad
-nserver:      NS2.DNS.NIC.UNO 156.154.145.173 2610:a1:1072:0:0:0:0:ad
-nserver:      NS3.DNS.NIC.UNO 156.154.159.173 2610:a1:1073:0:0:0:0:ad
-nserver:      NS4.DNS.NIC.UNO 156.154.156.173 2610:a1:1074:0:0:0:0:ad
+nserver:      C.NIC.UNO 212.18.248.21 2a04:2b00:13ee:0:0:0:0:21
+nserver:      D.NIC.UNO 212.18.249.21 2a04:2b00:13ff:0:0:0:0:21
 ds-rdata:     57892 8 1 3B49FDC11DAEE5187A4170A5BADF77A917BCE481
 ds-rdata:     57892 8 2 C156DD21B3B96A50FA94BE322CDF6F0144E86C9597E4AA56D53E9B490C94A537
 ds-rdata:     64285 8 1 E0D6F2ECBE3F28F3F59D4193198240F9966011E8
@@ -56,6 +54,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.radix.website 
 
 created:      2013-11-13
-changed:      2020-02-11
+changed:      2020-02-19
 source:       IANA
 
