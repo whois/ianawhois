@@ -44,6 +44,8 @@ nserver:      C.NIC.NETBANK 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      D.NIC.NETBANK 2001:dcd:4:0:0:0:0:9 37.209.198.9
 ds-rdata:     62149 8 1 07BD57390E80C5335F44D2EBE351923224FB4918
 ds-rdata:     62149 8 2 3D72887EBDA1F86229AC846ED46C2F5F56D567EA69D161B58B9ABB4D599E20F1
+ds-rdata:     35902 8 2 57B153566EAFA87641E479A573411D17200C41F7657A6942C2E4A031CF336C70
+ds-rdata:     35902 8 1 89B17043D0D3CE7AF0EB8A31C85A73DEAA0CF97D
 
 whois:        whois.nic.netbank
 
@@ -51,6 +53,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.commbank.com.au
 
 created:      2015-03-26
-changed:      2019-07-26
+changed:      2020-04-30
 source:       IANA
 
