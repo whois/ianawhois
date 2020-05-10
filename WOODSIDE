@@ -34,6 +34,8 @@ nserver:      C.NIC.WOODSIDE 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      D.NIC.WOODSIDE 2001:dcd:4:0:0:0:0:9 37.209.198.9
 ds-rdata:     44164 8 1 40F8AC1DFE7CDF2C4E4C47197492BCE3516EAA9E
 ds-rdata:     44164 8 2 CE549F4ADD4F9B0344A25B1A9F333EE62E0E65150F6D51A4AC354B371D12E502
+ds-rdata:     33931 8 1 E3795EF38FB707AF751BDEF9AD80D86EFCA322AD
+ds-rdata:     33931 8 2 6B8487D5193A0B9C714C5058E3D9180F918484E8B5298FA3036CC0FC0F292EB9
 
 whois:        whois.nic.woodside
 
@@ -41,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.woodside.com.au/
 
 created:      2016-01-08
-changed:      2016-06-23
+changed:      2020-04-30
 source:       IANA
 
