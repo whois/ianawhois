@@ -32,6 +32,8 @@ nserver:      C.NIC.ANZ 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      D.NIC.ANZ 2001:dcd:4:0:0:0:0:9 37.209.198.9
 ds-rdata:     11722 8 1 66C406C9A8FB0E17B2B0D5C9F16F34B8B7753BEB
 ds-rdata:     11722 8 2 4EA18C79C33B5B13F0390238BD1D018FE773AFE5B90B5AE1B009170E61E0FC8B
+ds-rdata:     31474 8 2 B9404EAC9D71E7BACF521D21D3B42E1E26D193326B2E301D262991838873B840
+ds-rdata:     31474 8 1 4D5B3EE1E4B72F036B4D07B4F0A1E1CF983683D7
 
 whois:        whois.nic.anz
 
@@ -39,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.anz.com/
 
 created:      2016-06-09
-changed:      2016-06-22
+changed:      2020-04-30
 source:       IANA
 
