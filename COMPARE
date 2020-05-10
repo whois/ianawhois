@@ -35,6 +35,8 @@ nserver:      C.NIC.COMPARE 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      D.NIC.COMPARE 2001:dcd:4:0:0:0:0:9 37.209.198.9
 ds-rdata:     13492 8 1 CC70B48BE5F6A6A66462729DC8DD6263F6D1088A
 ds-rdata:     13492 8 2 257F5B52FD1FD1201432D46FC3F979267FE1A5DBDCF5BBB70AB83FE0E39D4B44
+ds-rdata:     27247 8 2 9C040B1ABF9E9BA4163DF955D707CAAD1C16FF61536325442A53A17A5E62FB9D
+ds-rdata:     27247 8 1 9632B83062D105D5127ADAAF48A903EA59412B7C
 
 whois:        whois.nic.compare
 
@@ -42,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.compare/
 
 created:      2015-12-23
-changed:      2019-08-07
+changed:      2020-04-30
 source:       IANA
 
