@@ -22,13 +22,13 @@ fax-no:       +33 1 39 30 83 01
 e-mail:       tld-admin@nic.fr
 
 contact:      technical
-name:         TLD Tech Contact
+name:         TLD Technical Contact
 organisation: Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)
 address:      Immeuble Le Stephenson
 address:      1 rue Stephenson
 address:      78180 Montigny-le-Bretonneux
 address:      France
-phone:        +33 1 39 30 83 81
+phone:        +33 1 39 30 83 00
 fax-no:       +33 1 39 30 83 01
 e-mail:       tld-tech@nic.fr
 
@@ -44,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.fr/
 
 created:      1986-09-02
-changed:      2020-01-09
+changed:      2020-03-23
 source:       IANA
 
