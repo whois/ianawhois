@@ -5,28 +5,28 @@
 domain:       BARCLAYS
 
 organisation: Barclays Bank PLC
-address:      1 Churchill Place,
-address:      London E14 5HP
+address:      BTCR (Radbroke Hall)
+address:      Knutsford, Cheshire, WA16 9EU
 address:      United Kingdom
 
 contact:      administrative
-name:         Elliot Antrobus-Holder
+name:         Simon Edlington
 organisation: Barclays Bank PLC
-address:      1 Churchill Place
-address:      London E14 5HP
+address:      BTCR (Radbroke Hall)
+address:      Knutsford, Cheshire, WA16 9EU
 address:      United Kingdom
-phone:        +442071161000 
-fax-no:       +442071167663
+phone:        +44 7825 023892
+fax-no:       +44 2071 167663
 e-mail:       iplegal@barclays.com
 
 contact:      technical
-name:         Elliot Antrobus-Holder
+name:         Simon Edlington
 organisation: Barclays Bank PLC
-address:      1 Churchill Place
-address:      London E14 5HP
+address:      BTCR (Radbroke Hall)
+address:      Knutsford, Cheshire, WA16 9EU
 address:      United Kingdom
-phone:        +442071161000 
-fax-no:       +442071167663
+phone:        +44 7825 023892
+fax-no:       +44 2071 167663
 e-mail:       iplegal@barclays.com
 
 nserver:      A.NIC.BARCLAYS 2001:dcd:1:0:0:0:0:9 37.209.192.9
@@ -35,6 +35,8 @@ nserver:      C.NIC.BARCLAYS 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      D.NIC.BARCLAYS 2001:dcd:4:0:0:0:0:9 37.209.198.9
 ds-rdata:     50194 8 1 C841A595D9C7E1B4BEE311F12133695EA1D5EBDF
 ds-rdata:     50194 8 2 F5792478893C3C0A8338E061C3CE0D017D688FD4771D809B00552F527CF7AD41
+ds-rdata:     42991 8 1 D47F4296DBFF9B5EDB41F80BD370648E1E7F6951
+ds-rdata:     42991 8 2 42FF60DBBD4508DDF636154DFADCFEC173BD3A58381624682AB19828DB7812EC
 
 whois:        whois.nic.barclays
 
@@ -42,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.barclays.com/
 
 created:      2015-01-08
-changed:      2019-07-25
+changed:      2020-04-30
 source:       IANA
 
