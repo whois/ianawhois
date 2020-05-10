@@ -36,6 +36,8 @@ nserver:      C.NIC.AFL 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      D.NIC.AFL 2001:dcd:4:0:0:0:0:9 37.209.198.9
 ds-rdata:     45196 8 1 A2F895918A4E109BFE0B7AC66EDA63460D771DCB
 ds-rdata:     45196 8 2 80CFA69B497EC1631C4E1C9F9814DFEEA8A4C466D64C1B33E1321B0C2541F923
+ds-rdata:     11824 8 2 6D9C4EB8B0982E626B54D872A3AA7985052BCDC51F8B36331EFC643607A8A6C5
+ds-rdata:     11824 8 1 F0A5CB9B1C8B1E444A54255D0FC4D7DE092B7495
 
 whois:        whois.nic.afl
 
@@ -43,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.afl
 
 created:      2015-02-19
-changed:      2019-07-25
+changed:      2020-04-30
 source:       IANA
 
