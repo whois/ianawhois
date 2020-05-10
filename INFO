@@ -5,13 +5,14 @@
 domain:       INFO
 
 organisation: Afilias Limited
-address:      4th Floor, International House, 3 Harbourmaster Pl
-address:      IFSC
-address:      Dublin 1
+address:      Level 2, Plaza 3
+address:      Custom House Plaza
+address:      Harbourmaster Place
+address:      Dublin D01 VY76
 address:      Ireland
 
 contact:      administrative
-name:         Ram Mohan
+name:         Senior Vice President
 organisation: Afilias Limited
 address:      C/O Afilias USA, Inc.
 address:      300 Welsh Road, Building 3
@@ -20,10 +21,10 @@ address:      Horsham Pennsylvania 19044
 address:      United States
 phone:        +1 215 706 5700
 fax-no:       +1 215 706 5701
-e-mail:       domainadmin@afilias.info
+e-mail:       tld-admin-poc@afilias.info
 
 contact:      technical
-name:         Howard Eland
+name:         Senior Director, DNS Infrastructure Group
 organisation: Afilias Limited
 address:      C/O Afilias USA, Inc.
 address:      300 Welsh Road, Building 3
@@ -32,7 +33,7 @@ address:      Horsham Pennsylvania 19044
 address:      United States
 phone:        +1 215 706 5700
 fax-no:       +1 215 706 5701
-e-mail:       domaintech@afilias.info
+e-mail:       tld-tech-poc@afilias.info
 
 nserver:      A0.INFO.AFILIAS-NST.INFO 199.254.31.1 2001:500:19:0:0:0:0:1
 nserver:      A2.INFO.AFILIAS-NST.INFO 199.249.113.1 2001:500:41:0:0:0:0:1
@@ -49,6 +50,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.info
 
 created:      2001-06-26
-changed:      2019-03-20
+changed:      2020-05-07
 source:       IANA
 
