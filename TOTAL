@@ -11,14 +11,15 @@ address:      92078 Paris La Defense Cedex
 address:      France
 
 contact:      administrative
-name:         COO
-organisation: SafeBrands
-address:      37 rue Guibal
-address:      13003 Marseille
+name:         .total Admin Contact
+organisation: TOTAL SA
+address:      2 place Jean Millier
+address:      La Defense 6
+address:      92078 Paris La Defense Cedex
 address:      France
-phone:        +33488662207
-fax-no:       +33488662220
-e-mail:       tldtotal@safebrands.com
+phone:        +33 2 41 18 28 28
+fax-no:       +33 2 41 18 28 29
+e-mail:       total-tld@nameshield.net
 
 contact:      technical
 name:         TLD Technical Contact
@@ -35,14 +36,14 @@ nserver:      D.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
 nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
 nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
 ds-rdata:     34775 8 2 362DEFC3D011518F8CF871BE111CE314FD20F54AF98C508996A93658C4D5EB43
-ds-rdata:     25376 8 2 351DC395783721D224F07B1B5D6152311449B58E38F4AEE9123E9DFDC0B0347B
+ds-rdata:     51389 8 2 202CD816EC69ACAF0853982C508B9C371406730E13523FFD08DD534352A1FEAB
 
 whois:        whois-total.nic.fr
 
 status:       ACTIVE
-remarks:      Registration information: http://www.total.com
+remarks:      Registration information: http://www.nic.total
 
 created:      2016-02-05
-changed:      2019-08-12
+changed:      2020-03-10
 source:       IANA
 
