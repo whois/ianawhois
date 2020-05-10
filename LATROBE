@@ -36,6 +36,8 @@ nserver:      C.NIC.LATROBE 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      D.NIC.LATROBE 2001:dcd:4:0:0:0:0:9 37.209.198.9
 ds-rdata:     50242 8 1 B7151A045A99039023312F284B7161504798C13A
 ds-rdata:     50242 8 2 C085B290D3707A7632A85309D32F68E8950B24F3FB04CC471785D05C8D440D6D
+ds-rdata:     1216 8 2 50FB3D6F77823EC0D5C4646CAE48F6BF6D94353C5A0B51F393CE39A9C2E3A19E
+ds-rdata:     1216 8 1 A32B85992A8BB0705F2373B56120F74DABF7EA68
 
 whois:        whois.nic.latrobe
 
@@ -43,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.latrobe
 
 created:      2014-11-06
-changed:      2019-07-26
+changed:      2020-05-01
 source:       IANA
 
