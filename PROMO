@@ -5,10 +5,10 @@
 domain:       PROMO
 
 organisation: Afilias Limited
-address:      4th Floor, International House
-address:      3 Harbourmaster Place
-address:      IFSC
-address:      Dublin 1
+address:      Level 2, Plaza 3
+address:      Custom House Plaza
+address:      Harbourmaster Place
+address:      Dublin D01 VY76
 address:      Ireland
 
 contact:      administrative
@@ -31,7 +31,7 @@ address:      Horsham, PA 19044
 address:      United States
 phone:        +1 215.706.5700
 fax-no:       +1 215.706.5701
-e-mail:       tld-admin-poc@afilias.info
+e-mail:       tld-tech-poc@afilias.info
 
 nserver:      A0.NIC.PROMO 2a01:8840:ee:0:0:0:0:9 65.22.244.9
 nserver:      A2.NIC.PROMO 2a01:8840:f1:0:0:0:0:9 65.22.247.9
@@ -47,6 +47,6 @@ remarks:      Registration information:
 remarks:      http://www.afilias.info/contact-us
 
 created:      2015-12-18
-changed:      2019-08-19
+changed:      2020-05-01
 source:       IANA
 
