@@ -5,32 +5,32 @@
 domain:       COOP
 
 organisation: DotCooperation LLC
-address:      1401 New York Avenue, N.W.
-address:      Suite 1100
-address:      Washington DC 20005
+address:      1775 Eye Street, NW
+address:      8th Floor
+address:      Washington DC 20006
 address:      United States
 
 contact:      administrative
 name:         Violetta Nafpaktiti
 organisation: DotCooperation LLC
-address:      1401 New York Avenue, N.W.
-address:      Suite 1100
-address:      Washington DC 20005
+address:      1775 Eye Street, NW
+address:      8th Floor
+address:      Washington DC 20006
 address:      United States
-phone:        +44 1865 403 136
+phone:        +1 202 383 5453
 fax-no:       +1 202 628 6726
-e-mail:       violetta@nic.coop
+e-mail:       violetta@identity.coop
 
 contact:      technical
 name:         CTO
 organisation: CentralNic
-address:      35-39 Moorgate
-address:      London
-address:      EC2R 6AR
+address:      Saddlers House, 4th Floor
+address:      44 Gutter Lane
+address:      London EC2V 6BR
 address:      United Kingdom
-phone:        +44.2033880600
-fax-no:       +44.2033880601
-e-mail:       tld.ops@centralnic.com
+phone:        +44 2033880600
+fax-no:       +44 2033880601
+e-mail:       ops@centralnic.com
 
 nserver:      A.NIC.COOP 194.169.218.64 2001:67c:13cc:0:0:0:1:64
 nserver:      B.NIC.COOP 185.24.64.64 2a04:2b00:13cc:0:0:0:1:64
@@ -45,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.coop
 
 created:      2001-12-15
-changed:      2019-03-21
+changed:      2020-03-19
 source:       IANA
 
