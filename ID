@@ -12,23 +12,25 @@ address:      Indonesia
 
 contact:      administrative
 name:         Muhammad Neil El Himam
-organisation: Ministry of Communication and Information Technology
-address:      Jalan Medan Merdeka Barat No.17
-address:      Jakarta Pusat DKI Jakarta 10110
+organisation: Perkumpulan Pengelola Nama Domain Internet Indonesia (PANDI)
+address:      Icon Business Park, Unit L1-L2
+address:      Jalan Raya Cisauk - LAPAN
+address:      Tangerang, Banten 15345
 address:      Indonesia
 phone:        +62 82111610360
-fax-no:       +62 21 3835845
-e-mail:       neil@pandi.id
+fax-no:       +62 21 3005 5789
+e-mail:       admin@pandi.id
 
 contact:      technical
 name:         Aidil Chendramata
-organisation: Ministry of Communication and Information Technology
-address:      Jalan Medan Merdeka Barat No.9
-address:      Jakarta Pusat DKI Jakarta 10110
+organisation: Perkumpulan Pengelola Nama Domain Internet Indonesia (PANDI)
+address:      Icon Business Park, Unit L1-L2
+address:      Jalan Raya Cisauk - LAPAN
+address:      Tangerang, Banten 15345
 address:      Indonesia
 phone:        +62 817758377
-fax-no:       +62 21 3845786
-e-mail:       aidil@pandi.id
+fax-no:       +62 21 3005 5789
+e-mail:       tech@pandi.id
 
 nserver:      B.DNS.ID 103.19.179.179 2402:ee80:b:0:0:0:0:b
 nserver:      C.DNS.ID 103.19.178.178 2402:ee80:c:0:0:0:0:c
@@ -44,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: https://pandi.id
 
 created:      1993-02-27
-changed:      2018-06-01
+changed:      2020-03-12
 source:       IANA
 
