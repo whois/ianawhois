@@ -10,13 +10,13 @@ address:      Unit 501, Level 5, Core C, Cyberport 3, 100 Cyberport Road
 address:      Hong Kong
 
 contact:      administrative
-name:         Bonnie Chun
+name:         Wilson Wong
 organisation: Hong Kong Internet Registration Corporation Ltd.
 address:      Unit 501, Level 5, Core C, Cyberport 3, 100 Cyberport Road
 address:      Hong Kong
 phone:        +852 2319 2303
 fax-no:       +852 2319 2626
-e-mail:       bonnie.chun@hkirc.hk
+e-mail:       wilson.wong@hkirc.hk
 
 contact:      technical
 name:         Ben Lee
@@ -44,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.hkirc.hk
 
 created:      2010-07-12
-changed:      2019-11-26
+changed:      2020-04-16
 source:       IANA
 
