@@ -31,7 +31,9 @@ phone:        +211 (0)922338781
 e-mail:       unguecstephen@gmail.com
 
 nserver:      B.NS.TZNIC.OR.TZ 196.216.162.70 2001:43f8:e0:1:0:0:0:70
-nserver:      ROOT.SSNIC.GOV.SS 196.1.4.230
+nserver:      NS-SS.AFRINIC.NET 196.216.168.27 2001:43f8:120:0:0:0:0:27
+nserver:      PCH.NIC.SS 2001:500:14:6130:ad:0:0:1 204.61.216.130
+nserver:      ROOT.NIC.SS 196.1.4.230
 nserver:      SSNIC.ANYCASTDNS.CZ 185.28.194.194 185.38.108.108
 ds-rdata:     43817 8 1 65fb691da6eb488ed99195e7609837f787eafc4a
 ds-rdata:     43817 8 2 f85d36a2e056ff8cbb8dc79c748e4ec1e862c4f739891f9595669aa3384a252d
@@ -41,6 +43,6 @@ whois:        whois.nic.ss
 status:       ACTIVE
 
 created:      2011-08-31
-changed:      2019-09-01
+changed:      2020-03-11
 source:       IANA
 
