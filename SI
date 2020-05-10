@@ -30,13 +30,13 @@ fax-no:       +386 1 4798899
 e-mail:       benjamin.zwittnig@register.si
 
 nserver:      B.DNS.SI 194.249.4.44 2001:1470:8000:53:0:0:0:44
-nserver:      C.DNS.SI 192.93.0.4 2001:660:3005:1:0:0:1:2
 nserver:      F.DNS.SI 194.146.106.62 2001:67c:1010:15:0:0:0:53
 nserver:      G.DNS.SI 194.0.1.20 2001:678:4:0:0:0:0:14
 nserver:      H.DNS.SI 2001:500:14:6054:ad:0:0:1 204.61.216.54
 nserver:      I.DNS.SI 194.0.25.22 2001:678:20:0:0:0:0:22
-nserver:      J.DNS.SI 108.59.164.1 2a02:e180:7:0:0:0:0:1
-ds-rdata:     2174 8 2 8134257f1cf791876d8060a372ef082e6c2e57d6a59093b81d3efb42dcf81f7f
+nserver:      K.DNS.SI 185.159.197.11 2620:10a:80aa:0:0:0:0:11
+nserver:      L.DNS.SI 185.159.198.11 2620:10a:80ab:0:0:0:0:11
+ds-rdata:     39337 8 2 a9f4a1bcca3714be2b2bd010be54c37e9b8fb25c73418a1ceb8283a229e67b6a
 
 whois:        whois.register.si
 
@@ -44,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.registry.si/
 
 created:      1992-04-01
-changed:      2019-02-06
+changed:      2020-04-16
 source:       IANA
 
