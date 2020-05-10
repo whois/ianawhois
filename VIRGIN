@@ -37,6 +37,8 @@ nserver:      C.NIC.VIRGIN 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      D.NIC.VIRGIN 2001:dcd:4:0:0:0:0:9 37.209.198.9
 ds-rdata:     24871 8 1 D339608670FDA6194F61DF747A10DD24E16ECAE7
 ds-rdata:     24871 8 2 1006A2ADAC60DFC763D62E9AE99E3267C7FB7799A79D3B13F96271ED8BB40E7D
+ds-rdata:     52249 8 2 AA6E74273DB69ED386359979CC0EC1E28213609D5C76D3C05EDA280F8435C693
+ds-rdata:     52249 8 1 453B608A7855C7943232E468B5E85E7F68463DD4
 
 whois:        whois.nic.virgin
 
@@ -44,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.virgin.com
 
 created:      2015-09-10
-changed:      2019-07-19
+changed:      2020-04-30
 source:       IANA
 
