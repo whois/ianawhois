@@ -34,6 +34,7 @@ fax-no:       +265 (0) 1 873944
 e-mail:       mwsdnptech@sdnp.org.mw
 
 nserver:      CHAMBO.SDNP.ORG.MW 196.45.188.5 41.221.99.135
+nserver:      D.EXT.NIC.CZ 193.29.206.2 2001:678:1:0:0:0:0:2
 nserver:      DOMWE.SDN.MW 196.45.190.9 41.87.5.162
 nserver:      MW.CCTLD.AUTHDNS.RIPE.NET 193.0.9.99 2001:67c:e0:0:0:0:0:99
 nserver:      NS4.APNIC.NET 2001:dd8:12:0:0:0:0:53 202.12.31.53
@@ -46,6 +47,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.registrar.mw
 
 created:      1997-01-03
-changed:      2019-12-11
+changed:      2020-03-24
 source:       IANA
 
