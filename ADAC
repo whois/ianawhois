@@ -22,8 +22,9 @@ e-mail:       tldadac@adac.de
 contact:      technical
 name:         CTO
 organisation: CentralNic
-address:      35-39 Moorgate
-address:      London EC2R 6AR
+address:      Saddlers House, 4th Floor
+address:      44 Gutter Lane
+address:      London EC2V 6BR
 address:      United Kingdom
 phone:        +44.2033880600
 fax-no:       +44.2033880601
@@ -33,9 +34,6 @@ nserver:      A.NIC.ADAC 194.169.218.74 2001:67c:13cc:0:0:0:1:74
 nserver:      B.NIC.ADAC 185.24.64.74 2a04:2b00:13cc:0:0:0:1:74
 nserver:      C.NIC.ADAC 212.18.248.74 2a04:2b00:13ee:0:0:0:0:74
 nserver:      D.NIC.ADAC 212.18.249.74 2a04:2b00:13ff:0:0:0:0:74
-ds-rdata:     59289 7 1 A6DC4FDE7C2A1248641A9C2568A0A3A36E5CB584
-ds-rdata:     59289 7 2 45D9CB125D3BD55B12532F56C07708E5E7DC9A7117820D78811C5B1D36736831
-ds-rdata:     16410 7 1 f2f49f534c1fbe869839c50c826eee76cf86c515
 ds-rdata:     16410 7 2 f4a30ad82717154b532b185003e45a8a3e4b4ef99914f7c842c9fb7f8c5ed628
 
 whois:        whois.nic.adac
@@ -44,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.adac
 
 created:      2015-11-20
-changed:      2019-03-29
+changed:      2020-04-09
 source:       IANA
 
