@@ -21,13 +21,14 @@ phone:        +64 21 279 4995
 e-mail:       info@icenic.aq
 
 contact:      technical
-name:         Ewen McNeill
-organisation: Naos Limited
-address:      PO Box 5497
-address:      Wellington 6140
+name:         IANA Administrator
+organisation: InternetNZ
+address:      Level 11
+address:      80 Boulcott Street
+address:      Wellington 6011
 address:      New Zealand
-phone:        +64 21 916 965
-e-mail:       hostmaster@naos.co.nz
+phone:        +64 4 472 1600
+e-mail:       ianatech@internetnz.net.nz
 
 nserver:      FORK.STH.DNSNODE.NET 2a01:3f0:0:306:0:0:0:53 77.72.229.254
 nserver:      NS1.ANYCAST.DNS.AQ 2001:500:14:6132:ad:0:0:1 204.61.216.132
@@ -36,6 +37,6 @@ nserver:      NS99.DNS.NET.NZ 2001:dce:2000:2:0:0:0:131 202.46.190.131
 status:       ACTIVE
 
 created:      1992-02-26
-changed:      2019-10-08
+changed:      2020-04-29
 source:       IANA
 
