@@ -13,10 +13,7 @@ contact:      administrative
 name:         John McCabe
 organisation: Who's Who Online Ltd.
 address:      Box 800
-address:      New York
-address:      New York
-address:      10024
-address:      US
+address:      New York, NY 10024
 address:      United States
 phone:        +1 212-877-8943
 fax-no:        +1 212-877-1905
@@ -24,24 +21,20 @@ e-mail:       mccabe@whoswho.com
 
 contact:      technical
 name:         Director
-organisation: Neustar, Inc.
-address:      21575 Ridgetop Circle
-address:      Sterling, VA 20166
-address:      United States
-phone:        +1 844-677-2878
-fax-no:       +1 571-434-5401
-e-mail:       technical1@registry.neustar
+organisation: Knipp Medien und Kommunikation GmbH
+address:      Martin-Schmeisser-Weg 9
+address:      44227 Dortmund
+address:      North Rhine-Westphalia
+address:      Germany
+phone:        +49 231 9703 0
+fax-no:       +49 231 9703 200
+e-mail:       dnsmaster@irondns.net
 
 nserver:      ANYCAST10.IRONDNS.NET 195.253.64.12 2a01:5b0:4:0:0:0:0:c
 nserver:      ANYCAST23.IRONDNS.NET 195.253.65.11 2a01:5b0:5:0:0:0:0:b
 nserver:      ANYCAST24.IRONDNS.NET 195.253.65.12 2a01:5b0:5:0:0:0:0:c
 nserver:      ANYCAST9.IRONDNS.NET 195.253.64.11 2a01:5b0:4:0:0:0:0:b
-ds-rdata:     58916 8 1 01F95656C7FCFD4A6FF78CDA9CFE955FCC957C1D
-ds-rdata:     58916 8 2 145BD1D896F63317FD06FBD4D676AB1E4C4050F385ABBEF6766767DA1E606DA1
-ds-rdata:     42079 8 1 929AA125DF759EBFCB08CB8E64C2E15AE27C5995
-ds-rdata:     42079 8 2 A77725C79385BA1C9C875F29DA654F3E7C3A0B1616C29C932FFF1C5FD87843BD
 ds-rdata:     1094 8 2 b35d9bcf8c51a71118e63f2d38a06e25418db690dbabfb35f0cf9635959b5e5b
-ds-rdata:     1094 8 1 fe0748df3c28c6b03289bbb55e6418f58544cdac
 
 whois:        whois.nic.whoswho
 
@@ -49,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://domains.whoswho
 
 created:      2014-06-12
-changed:      2020-01-30
+changed:      2020-03-11
 source:       IANA
 
