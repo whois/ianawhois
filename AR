@@ -10,24 +10,24 @@ address:      Buenos Aires C1064AAB
 address:      Argentina
 
 contact:      administrative
-name:         Lic. Julian Dunayevich
+name:         Mg. Marcelo Patricio Funes
 organisation: Presidencia de la Nación – Secretaría Legal y Técnica - Dirección Nacional del Registro de Dominios de Internet
 address:      San Martín 536 – Piso 1
 address:      Buenos Aires C1004AAL
 address:      Argentina
-phone:        +54 11 5235-1160
-fax-no:       +54 11 5235-1160
-e-mail:       dunayevichj@nic.gob.ar
+phone:        +54 11 5235 1160
+fax-no:       +54 11 5235 1160
+e-mail:       funesmp@nic.gob.ar
 
 contact:      technical
-name:         Sr. Santiago Alberch
+name:         Sr. Juan Olmos
 organisation: Presidencia de la Nación – Secretaría Legal y Técnica - Dirección General de Sistemas Informaticos
-address:      juncal N°847 – Planta Baja
+address:      Balcarce N°50 - Planta Baja
 address:      Buenos Aires C1064AAB
 address:      Argentina
-phone:        +54 11 5235-1160
-fax-no:       +54 11 5235-1160
-e-mail:       alberchs@nic.gob.ar
+phone:        +54 11 5235 1160
+fax-no:       +54 11 5235 1160
+e-mail:       jolmos@nic.gob.ar
 
 nserver:      A.DNS.AR 200.108.145.50 2801:140:0:0:0:0:0:10
 nserver:      AR.CCTLD.AUTHDNS.RIPE.NET 193.0.9.59 2001:67c:e0:0:0:0:0:59
@@ -44,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.ar
 
 created:      1987-09-23
-changed:      2019-08-15
+changed:      2020-04-28
 source:       IANA
 
