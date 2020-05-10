@@ -32,12 +32,18 @@ phone:        +1 215.706.5700
 fax-no:       +1 215.706.5701
 e-mail:       tld-tech-poc@afilias.info
 
+nserver:      A.NIC.CYOU 194.169.218.120 2001:67c:13cc:0:0:0:1:120
 nserver:      A0.NIC.CYOU 2a01:8840:7e:0:0:0:0:9 65.22.128.9
 nserver:      A2.NIC.CYOU 2a01:8840:81:0:0:0:0:9 65.22.131.9
+nserver:      B.NIC.CYOU 185.24.64.120 2a04:2b00:13cc:0:0:0:1:120
 nserver:      B0.NIC.CYOU 2a01:8840:7f:0:0:0:0:9 65.22.129.9
+nserver:      C.NIC.CYOU 212.18.248.120 2a04:2b00:13ee:0:0:0:0:120
 nserver:      C0.NIC.CYOU 2a01:8840:80:0:0:0:0:9 65.22.130.9
+nserver:      D.NIC.CYOU 212.18.249.120 2a04:2b00:13ff:0:0:0:0:120
 ds-rdata:     42985 7 1 f1be1321796afb34b2bec02ed9412966291b2c21
 ds-rdata:     42985 7 2 6c0507565b162ff6a377b4e7e5e33a126987de3c7fdbc1644e247fb60e1094e3
+ds-rdata:     26224 7 1 cf7780dc4e67ffd559828422b6747ce2dc7649dd
+ds-rdata:     26224 7 2 b19fafbc97d17eb0fb2c1d86170d4aeba7896b36c66bbb9d22796595056c986b
 
 whois:        whois.nic.cyou
 
@@ -45,6 +51,6 @@ status:       ACTIVE
 remarks:      Registration information: http://cy.changyou.com
 
 created:      2015-03-19
-changed:      2019-08-27
+changed:      2020-05-08
 source:       IANA
 
