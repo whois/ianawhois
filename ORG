@@ -6,7 +6,7 @@ domain:       ORG
 
 organisation: Public Interest Registry (PIR)
 address:      1775 Wiehle Avenue
-address:      Suite 102A
+address:      Suite 100
 address:      Reston Virginia 20190
 address:      United States
 
@@ -16,7 +16,7 @@ organisation: Public Interest Registry (PIR)
 address:      1775 Wiehle Avenue
 address:      Reston Virginia 20190
 address:      United States
-phone:        +1 919 369 4161
+phone:        +1 703 889 5778
 fax-no:       +1 703 889 5779
 e-mail:       ops@pir.org
 
@@ -37,8 +37,8 @@ nserver:      B0.ORG.AFILIAS-NST.ORG 199.19.54.1 2001:500:c:0:0:0:0:1
 nserver:      B2.ORG.AFILIAS-NST.ORG 199.249.120.1 2001:500:48:0:0:0:0:1
 nserver:      C0.ORG.AFILIAS-NST.INFO 199.19.53.1 2001:500:b:0:0:0:0:1
 nserver:      D0.ORG.AFILIAS-NST.ORG 199.19.57.1 2001:500:f:0:0:0:0:1
-ds-rdata:     9795 7 2 3922b31b6f3a4ea92b19eb7b52120f031fd8e05ff0b03bafcf9f891bfe7ff8e5
-ds-rdata:     9795 7 1 364dfab3daf254cab477b5675b10766ddaa24982
+ds-rdata:     17883 7 2 d889cad790f01979e860d6627b58f85ab554e0e491fe06515f35548d1eb4e6ee
+ds-rdata:     17883 7 1 38c5cf93b369c7557e0515faaa57060f1bfb12c1
 
 whois:        whois.pir.org
 
@@ -46,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.pir.org
 
 created:      1985-01-01
-changed:      2019-08-21
+changed:      2020-04-29
 source:       IANA
 
