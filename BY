@@ -32,7 +32,6 @@ nserver:      DNS2.TLD.TUTBY.COM 2a04:2e80:7:1:0:0:0:2 93.125.30.44
 nserver:      DNS3.TLD.TUTBY.COM 195.209.35.70 2a05:4800:1:100:0:0:0:0
 nserver:      DNS4.TLD.TUTBY.COM 2001:1af8:4010:a049:1:0:0:0 62.212.73.101
 nserver:      DNS5.TLD.TUTBY.COM 2a00:c98:2200:a012:1:0:0:0 46.165.217.94
-nserver:      DNS7.TLD.TUTBY.COM 128.199.68.43 2400:6180:0:d0:0:0:3d:b001
 ds-rdata:     43875 7 1 B5667014733F0FD07D096B2FA2AD175186ADF48C
 ds-rdata:     43875 7 2 27A33067E54A8C4CEE091DB22156EF02A79A76CCC1E48D6D195DFEF6D520C48E
 
@@ -42,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://cctld.by
 
 created:      1994-05-10
-changed:      2018-12-07
+changed:      2020-04-02
 source:       IANA
 
