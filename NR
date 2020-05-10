@@ -16,7 +16,7 @@ address:      Civic Centre
 address:      Aiwo District
 address:      Nauru
 phone:        +674 5573086
-e-mail:       criden.appi@naurugov.nr
+e-mail:       cdappi@gmail.com
 
 contact:      technical
 name:         Director for ICT
@@ -26,15 +26,15 @@ address:      Nauru
 phone:        +674 5587116
 e-mail:       management@cenpac.net.nr
 
-nserver:      NS0.CENPAC.NET.NR 203.98.224.66 2403:f600:0:224:0:0:0:66
-nserver:      NS1.CENPAC.NET.NR 203.98.225.9 2403:f600:0:225:0:0:0:9
+nserver:      NS0.CENPAC.NET.NR 203.98.224.66
+nserver:      NS1.CENPAC.NET.NR 203.98.225.9
 nserver:      NS2.CENPAC.NET.NR 202.144.128.200 2405:d000:0:100:0:0:0:200
-nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e:0:0:0:0:1
+nserver:      PHLOEM.UOREGON.EDU 128.223.32.35 2001:468:d01:20:0:0:80df:2023
 
 status:       ACTIVE
 remarks:      Registration information: http://www.cenpac.net.nr
 
 created:      1998-03-30
-changed:      2017-09-27
+changed:      2020-03-09
 source:       IANA
 
