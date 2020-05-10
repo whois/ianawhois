@@ -21,10 +21,11 @@ fax-no:       +973 17532125
 e-mail:       dn@tra.org.bh
 
 contact:      technical
-name:         CentralNic Operations
+name:         CTO
 organisation: CentralNic
-address:      35-39 Moorgate
-address:      London, EC2R 6AR
+address:      Saddlers House, 4th Floor
+address:      44 Gutter Lane
+address:      London EC2V 6BR
 address:      United Kingdom
 phone:        +44 2033880600
 fax-no:       +44 2033880601
@@ -38,6 +39,6 @@ nserver:      D.NIC.XN--MGBCPQ6GPA1A 212.18.249.115 2a04:2b00:13ff:0:0:0:0:115
 status:       ACTIVE
 
 created:      2019-06-13
-changed:      2020-01-30
+changed:      2020-04-13
 source:       IANA
 
