@@ -37,10 +37,12 @@ nserver:      F.NIC.ES 130.206.1.7 2001:720:418:caf1:0:0:0:7
 nserver:      G.NIC.ES 2001:500:14:7001:ad:0:0:1 204.61.217.1
 nserver:      H.NIC.ES 194.0.33.53 2001:678:40:0:0:0:0:53
 nserver:      NS-ES.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
-nserver:      NS-EXT.NIC.CL 200.1.123.14 2001:1398:1:0:200:1:123:14
 nserver:      NS1.CESCA.ES 2001:40b0:1:1122:ce5c:a000:0:3 84.88.0.3
+nserver:      SSDNS-TLD.NIC.CL 200.7.5.14 2001:1398:276:0:200:7:5:14
 ds-rdata:     29450 8 2 8BEC32A2C9CFE42E393BAF81FFE71B521D3E940612A4590B4763ADC539E4B563
 ds-rdata:     29450 8 1 417BEAFB46ABF3430B75C5C29AEF785D476B60E1
+ds-rdata:     50252 8 2 dd2b515da6dbc0e826006e6ae02864c05825694a84b3e4e0e59918c78c1bc8eb
+ds-rdata:     50252 8 1 9bf0115b43a4ee8f7223fbf5b294d91cdeed2dbe
 
 whois:        whois.nic.es
 
@@ -48,6 +50,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.es/
 
 created:      1988-04-14
-changed:      2020-01-23
+changed:      2020-04-05
 source:       IANA
 
