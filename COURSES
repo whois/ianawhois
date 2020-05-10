@@ -36,6 +36,8 @@ nserver:      C.NIC.COURSES 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      D.NIC.COURSES 2001:dcd:4:0:0:0:0:9 37.209.198.9
 ds-rdata:     17152 8 1 B73BF1B4349938FE78983BC109E8A2C0DAACD339
 ds-rdata:     17152 8 2 02DEE3F9EB388216ADCA7C11EA5E117BD018FB79E73B13A939DA7B574126A769
+ds-rdata:     24019 8 2 8EBDE93DC2260C5BCC11FEB6D32816D499B62ECC2AD87352E7CA56C736EC7835
+ds-rdata:     24019 8 1 21D98E9F78B45406F909E6CF3EF2FE04AC663B0F
 
 whois:        whois.nic.courses
 
@@ -43,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.get.courses/
 
 created:      2015-02-19
-changed:      2019-08-07
+changed:      2020-04-30
 source:       IANA
 
