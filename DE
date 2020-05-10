@@ -34,7 +34,7 @@ nserver:      F.NIC.DE 2a02:568:0:2:0:0:0:53 81.91.164.5
 nserver:      L.DE.NET 2001:668:1f:11:0:0:0:105 77.67.63.105
 nserver:      N.DE.NET 194.146.107.6 2001:67c:1011:1:0:0:0:53
 nserver:      S.DE.NET 195.243.137.26 2003:8:14:0:0:0:0:53
-nserver:      Z.NIC.DE 194.246.96.1
+nserver:      Z.NIC.DE 194.246.96.1 2a02:568:fe02:0:0:0:0:de
 ds-rdata:     45580 8 2 918c32e2f12211766be6226674f447458f2259b9a0d87b44d29d55afeca6b2e1
 
 whois:        whois.denic.de
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.denic.de/
 
 created:      1986-11-05
-changed:      2020-02-05
+changed:      2020-03-25
 source:       IANA
 
