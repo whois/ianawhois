@@ -31,6 +31,9 @@ nserver:      B.NIC.MENU 2001:dcd:2:0:0:0:0:10 37.209.194.10
 nserver:      C.NIC.MENU 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      D.NIC.MENU 2001:dcd:4:0:0:0:0:10 37.209.198.10
 ds-rdata:     51916 8 2 AA3C98EE447CFA3BBF57D8A2899626324DE2097353FB5DBF031519A4FE6964E6
+ds-rdata:     12709 8 1 60E2EFC44D0AEA4EA1184A173A32BCCAF4AD3ECD
+ds-rdata:     51916 8 1 92315CE6F604589BB17B6A30B81ED20AAFEC55C2
+ds-rdata:     12709 8 2 25BB11D71F6E0BFD1B158E8595D2FB6CF6F899733CFD19890604F8BC2D4C0DF3
 
 whois:        whois.nic.menu
 
@@ -38,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.menu
 
 created:      2013-11-13
-changed:      2019-07-26
+changed:      2020-05-01
 source:       IANA
 
