@@ -5,15 +5,14 @@
 domain:       FILM
 
 organisation: Motion Picture Domain Registry Pty Ltd
-address:      Level 1, 11-19 Bank Place
-address:      Melbourne, Victoria 3000
+address:      169 Domain Rd, South Yarra 3141
 address:      Australia
 
 contact:      administrative
 name:         Adrian Kinderis
 organisation: Motion Picture Domain Registry Pty Ltd
-address:      Level 1, 11 - 17 Bank Place
-address:      Melbourne, Victoria 3000
+address:      P.O. Box 82
+address:      South Yarra, 3141
 address:      Australia
 phone:        +61416163791
 e-mail:       info@go.film
@@ -21,8 +20,8 @@ e-mail:       info@go.film
 contact:      technical
 name:         Adrian Kinderis
 organisation: Motion Picture Domain Registry
-address:      Level 1, 11-17 Bank Place
-address:      Melbourne, Victoria 3000
+address:      P.O. Box 82
+address:      South Yarra 3141
 address:      Australia
 phone:        +61416163791
 e-mail:       info@go.film
@@ -33,6 +32,8 @@ nserver:      C.NIC.FILM 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      D.NIC.FILM 2001:dcd:4:0:0:0:0:10 37.209.198.10
 ds-rdata:     9967 8 1 786B464133736F2067A34637CAFEC24952ED6541
 ds-rdata:     9967 8 2 B3E301E7289F3DD644DE918DE046C3BDD7BE301E944D0F687AB7706DEED71C06
+ds-rdata:     27529 8 1 B833405F96CCFB29D081B92439C6CE52C2C8EBB0
+ds-rdata:     27529 8 2 440987EB442B23E5D43B8A909E7FB7D4B83AF74DDF8524CC7705627EB246C7A5
 
 whois:        whois.nic.film
 
@@ -40,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.film
 
 created:      2015-02-27
-changed:      2019-07-26
+changed:      2020-04-30
 source:       IANA
 
