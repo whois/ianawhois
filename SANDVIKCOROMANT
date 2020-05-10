@@ -32,6 +32,8 @@ nserver:      C.NIC.SANDVIKCOROMANT 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      D.NIC.SANDVIKCOROMANT 2001:dcd:4:0:0:0:0:9 37.209.198.9
 ds-rdata:     22654 8 2 2504BBF838B7BFFD1A5A4B745939D9033E5222DE25F6D651FFCD0706840BF73C
 ds-rdata:     22654 8 1 23968239AC81F58A3BC92191AE8C99972D3A883C
+ds-rdata:     60577 8 2 A78BAC4D2605436C3B6E72010148E9F242FCD3B2380C9C4B3F3ED31C701C574A
+ds-rdata:     60577 8 1 D99C8BE1677C78FEABD9985EDAE331D41B6A9C4E
 
 whois:        whois.nic.sandvikcoromant
 
@@ -39,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.sandvikcoromant
 
 created:      2015-05-14
-changed:      2019-07-26
+changed:      2020-05-01
 source:       IANA
 
