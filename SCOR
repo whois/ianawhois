@@ -32,6 +32,8 @@ nserver:      C.NIC.SCOR 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      D.NIC.SCOR 2001:dcd:4:0:0:0:0:9 37.209.198.9
 ds-rdata:     4927 8 1 52AE77E33018AA56A7B3C8AB93A8E69B436DE4E5
 ds-rdata:     4927 8 2 477960075A546A89101623F4A0BB0322848822D0C934640F355CC1409BC1B817
+ds-rdata:     28312 8 1 F23EE010EBFFB960A4F24628B4568EEAFDAF3411
+ds-rdata:     28312 8 2 E2560232F6106B888AD5280173466EBD5EC91B59DD6A2D283B48C0C40F96BB03
 
 whois:        whois.nic.scor
 
@@ -39,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://scor.com/
 
 created:      2015-04-30
-changed:      2019-07-26
+changed:      2020-04-30
 source:       IANA
 
