@@ -22,13 +22,13 @@ fax-no:       +33 1 39 30 83 01
 e-mail:       tld-admin@nic.fr
 
 contact:      technical
-name:         TLD Tech Contact
+name:         TLD Technical Contact
 organisation: Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)
 address:      Immeuble Le Stephenson
 address:      1 rue Stephenson
 address:      78180 Montigny-le-Bretonneux
 address:      France
-phone:        +33 1 39 30 83 81
+phone:        +33 1 39 30 83 00
 fax-no:       +33 1 39 30 83 01
 e-mail:       tld-tech@nic.fr
 
@@ -36,7 +36,7 @@ nserver:      D.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
 nserver:      E.EXT.NIC.FR 193.176.144.22 2a00:d78:0:102:193:176:144:22
 nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
 nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
-ds-rdata:     27026 8 2 fc7f430d839fa81ce34fbbc3c687834184685e3312fa3284354b00aff6c9f2d2
+ds-rdata:     52825 13 2 AFC7C347395CA52E36E8851599EFBF883DAFB7F79FDEEE5D849C2BA476D9F16B
 
 whois:        whois.nic.re
 
@@ -44,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.re/
 
 created:      1997-04-07
-changed:      2020-01-09
+changed:      2020-04-27
 source:       IANA
 
