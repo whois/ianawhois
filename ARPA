@@ -5,22 +5,22 @@
 domain:       ARPA
 
 organisation: Internet Architecture Board (IAB)
-address:      c/o IETF Administrative Support Activity, ISOC
-address:      1775 Wiehle Ave.
-address:      Suite 102
-address:      Reston, Virginia 20190-5108
+address:      c/o IETF Administration LLC
+address:      1000 N. West St.
+address:      Suite 1200
+address:      Wilmington, DE 19801
 address:      United States
 
 contact:      administrative
 name:         Internet Architecture Board (IAB)
 organisation: Internet Architecture Board (IAB)
-address:      c/o IETF Administrative Support Activity, ISOC
-address:      1775 Wiehle Ave.
-address:      Suite 102
-address:      Reston, Virginia 20190-5108
+address:      c/o IETF Administration LLC
+address:      1000 N. West St.
+address:      Suite 1200
+address:      Wilmington, DE 19801
 address:      United States
-phone:        +1 703 326 9880
-fax-no:       +1 703 326 9881
+phone:        +1 510 492 4080
+fax-no:       +1 510 492 4001
 e-mail:       iab@iab.org
 
 contact:      technical
@@ -55,6 +55,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.iana.org/arpa-dom/
 
 created:      1985-01-01
-changed:      2017-06-01
+changed:      2020-03-13
 source:       IANA
 
