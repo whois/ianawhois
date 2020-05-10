@@ -31,6 +31,9 @@ nserver:      B.NIC.BUILD 2001:dcd:2:0:0:0:0:10 37.209.194.10
 nserver:      C.NIC.BUILD 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      D.NIC.BUILD 2001:dcd:4:0:0:0:0:10 37.209.198.10
 ds-rdata:     18634 8 2 97A275D8F2C987FB681D6E7C650FEFBF8EAE8ED9743822A3D9767F0DC3502938
+ds-rdata:     54832 8 1 7A463E0B93D57753BF3B3959C080ABDF24BC3843
+ds-rdata:     18634 8 1 134D068CC9CAABC5C5C3C1EF66B9FE08B9A8DF0D
+ds-rdata:     54832 8 2 8D0F5D4D637295690E42166227E1A5FD97F412E9EBDC1CB30254F7B8F8AA3792
 
 whois:        whois.nic.build
 
@@ -38,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.dotbuild.co
 
 created:      2014-01-09
-changed:      2019-07-11
+changed:      2020-04-30
 source:       IANA
 
