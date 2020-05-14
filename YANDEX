@@ -21,14 +21,16 @@ fax-no:       +7 495 739-7070
 e-mail:       hostmaster@yandex.net
 
 contact:      technical
-name:         Director
-organisation: Neustar, Inc.
-address:      21575 Ridgetop Circle
-address:      Sterling, VA 20166
-address:      United States
-phone:        +1 844-677-2878
-fax-no:       +1 571-434-5401
-e-mail:       technical1@registry.neustar
+name:         Vice President Of Technology
+organisation: Uniregistry, Inc.
+address:      Governors Square, Unit 3-110
+address:      23 Lime Tree Bay Avenue
+address:      Grand Cayman, Cayman Islands
+address:      PO Box 1361, George Town, KY1-1108
+address:      Cayman Islands
+phone:        +1.3457496263
+fax-no:       +1.3457466263
+e-mail:       ops@uniregistry.com
 
 nserver:      NS1.DNS.NIC.YANDEX 156.154.144.186 2610:a1:1071:0:0:0:0:ba
 nserver:      NS2.DNS.NIC.YANDEX 156.154.145.186 2610:a1:1072:0:0:0:0:ba
@@ -36,15 +38,15 @@ nserver:      NS3.DNS.NIC.YANDEX 156.154.159.186 2610:a1:1073:0:0:0:0:ba
 nserver:      NS4.DNS.NIC.YANDEX 156.154.156.186 2610:a1:1074:0:0:0:0:ba
 nserver:      NS5.DNS.NIC.YANDEX 156.154.157.186 2610:a1:1075:0:0:0:0:ba
 nserver:      NS6.DNS.NIC.YANDEX 156.154.158.186 2610:a1:1076:0:0:0:0:ba
-ds-rdata:     7111 8 1 F25B22CFF80ECD613FF315C65D1EED757BD1992A
-ds-rdata:     7111 8 2 A40FF8296903D83D067166351B2159A375F7917D3FE2FF494AFF6D40DF9391A3
 ds-rdata:     3106 8 2 308055CDDB876A1247567DEC82979C86DCE7815EBAF89E3A06C892D77630274E
 ds-rdata:     3106 8 1 013D34FAB5D7C8CB307FD7A16AF29E3F4F59B83A
+ds-rdata:     43915 8 2 14567E2EA9A252E0A0BD301830EDB16880568A8E6F2BA4ED076F128C8B554DA1
+ds-rdata:     43915 8 1 7FF6B054177699C54B9EFA0C4B82821AABD4AEF2
 
 status:       ACTIVE
 remarks:      Registration information: http://www.yandex.ru/
 
 created:      2014-07-10
-changed:      2019-06-28
+changed:      2020-05-01
 source:       IANA
 
