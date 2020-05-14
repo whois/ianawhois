@@ -4,41 +4,35 @@
 
 domain:       CYOU
 
-organisation: Beijing Gamease Age Digital Technology Co., Ltd.
-address:      Changyou Building
-address:      East Bajiao Street No.65 Block B, Shijingshan District
-address:      100043 Beijing
-address:      China
+organisation: Shortdot SA
+address:      29 Boulevard de la Grande-Duchesse Charlotte
+address:      L-1331 Luxembourg
+address:      Luxembourg
 
 contact:      administrative
-name:         YANG Qiumi
-organisation: Beijing Gamease Age Digital Technology Co., Ltd.
-address:      Changyou Building
-address:      East Bajiao Street No.65 Block B, Shijingshan District
-address:      100043 Beijing
-address:      China
-phone:        86 10 61926635
-fax-no:       86 10 61920961
-e-mail:       yangqiumi@cyou-inc.com
+name:         Lars Jensen
+organisation: Shortdot SA
+address:      29 Boulevard de la Grande-Duchesse Charlotte
+address:      L-1331 Luxembourg
+address:      Luxembourg
+phone:        +352621811103
+fax-no:       +35227862529
+e-mail:       sales@nic.icu
 
 contact:      technical
-name:         Senior Director, DNS Infrastructure Group
-organisation: Afilias
-address:      Building 3, Suite 105
-address:      300 Welsh Road
-address:      Horsham, PA 19044
-address:      United States
-phone:        +1 215.706.5700
-fax-no:       +1 215.706.5701
-e-mail:       tld-tech-poc@afilias.info
+name:         CTO
+organisation: CentralNic
+address:      Saddlers House, 4th Floor
+address:      44 Gutter Lane
+address:      London EC2V 6BR
+address:      United Kingdom
+phone:        +44 2033 880600
+fax-no:       +44 2033 880601
+e-mail:       tld.ops@centralnic.com
 
 nserver:      A.NIC.CYOU 194.169.218.120 2001:67c:13cc:0:0:0:1:120
-nserver:      A0.NIC.CYOU 2a01:8840:7e:0:0:0:0:9 65.22.128.9
-nserver:      A2.NIC.CYOU 2a01:8840:81:0:0:0:0:9 65.22.131.9
 nserver:      B.NIC.CYOU 185.24.64.120 2a04:2b00:13cc:0:0:0:1:120
-nserver:      B0.NIC.CYOU 2a01:8840:7f:0:0:0:0:9 65.22.129.9
 nserver:      C.NIC.CYOU 212.18.248.120 2a04:2b00:13ee:0:0:0:0:120
-nserver:      C0.NIC.CYOU 2a01:8840:80:0:0:0:0:9 65.22.130.9
 nserver:      D.NIC.CYOU 212.18.249.120 2a04:2b00:13ff:0:0:0:0:120
 ds-rdata:     42985 7 1 f1be1321796afb34b2bec02ed9412966291b2c21
 ds-rdata:     42985 7 2 6c0507565b162ff6a377b4e7e5e33a126987de3c7fdbc1644e247fb60e1094e3
@@ -51,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://cy.changyou.com
 
 created:      2015-03-19
-changed:      2020-05-08
+changed:      2020-05-14
 source:       IANA
 
