@@ -36,6 +36,8 @@ nserver:      C.NIC.XN--NGBC5AZD 2001:dcd:3:0:0:0:0:3 37.209.196.3
 nserver:      D.NIC.XN--NGBC5AZD 2001:dcd:4:0:0:0:0:3 37.209.198.3
 ds-rdata:     58699 8 2 09545CA064C8792154FACDAAEC7795850D27D052D743546CB90CA9B6572CEB99
 ds-rdata:     58699 8 1 7B9A90E5A2B290341A2FD161BB5F4C6AAF5DA44F
+ds-rdata:     46762 8 1 67DC52FA808CE60FB67D8683316BA514839948AC
+ds-rdata:     46762 8 2 809E729E2DC01C83D02E580D26949BD77F8B2D4ADFAE98B685C95242FF13C4AA
 
 whois:        whois.nic.xn--ngbc5azd
 
@@ -43,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.dotshabaka.com
 
 created:      2013-10-21
-changed:      2019-06-28
+changed:      2020-04-30
 source:       IANA
 
