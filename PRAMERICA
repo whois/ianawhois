@@ -9,11 +9,11 @@ address:      751 Broad Street, Newark, NJ 07102
 address:      United States
 
 contact:      administrative
-name:         Michael Boatwright
+name:         Adam Kaye
 organisation: Prudential Financial
-address:      751 Broad Street, Newark, NJ 07102
+address:      213 Washington St, Newark, NJ, 07102
 address:      United States
-phone:        +1 973 716 6545
+phone:        +1 973 716 6632
 e-mail:       inet-admin@prudential.com
 
 contact:      technical
@@ -41,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.prudential.com
 
 created:      2016-07-14
-changed:      2019-02-13
+changed:      2020-05-13
 source:       IANA
 
