@@ -14,8 +14,8 @@ name:         Administrative Contact
 organisation: Secretaria pro Communicatione
 address:      Piazza Pia 3 Città del Vaticano 00120
 address:      Holy See (vatican City State)
-phone:        00390669884002
-fax-no:       00390669885173
+phone:        +39 06 698 45204
+fax-no:       +39 06 698 45210
 e-mail:       administrative.catholictld@spc.va
 
 contact:      technical
@@ -23,8 +23,8 @@ name:         Technical Contact
 organisation: Secretaria pro Communicatione
 address:      Piazza Pia 3 Città del Vaticano 00120
 address:      Holy See (vatican City State)
-phone:        00390669884002
-fax-no:       00390669885173
+phone:        +39 06 698 45204
+fax-no:       +39 06 698 45210
 e-mail:       technical.catholictld@spc.va
 
 nserver:      A.NIC.XN--TIQ49XQYJ 2001:dcd:1:0:0:0:0:9 37.209.192.9
@@ -33,6 +33,8 @@ nserver:      C.NIC.XN--TIQ49XQYJ 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      D.NIC.XN--TIQ49XQYJ 2001:dcd:4:0:0:0:0:9 37.209.198.9
 ds-rdata:     62137 8 1 AB5628608304FD91DC0208AE700BC5963335E2DB
 ds-rdata:     62137 8 2 9ED91B8EC166AF53F2554DB51FA05CE0BC2C1E9D51E7D7937FF438900FCA5CF1
+ds-rdata:     23401 8 1 89192F8E835B6060A9532BC3FD8A60FAC85D6D85
+ds-rdata:     23401 8 2 3311487590F0984F7B7BC77342FE96CDDC57682EFC1AAD4DC9D10CAE1A5C4EE9
 
 whois:        whois.nic.xn--tiq49xqyj
 
@@ -40,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.pccs.va
 
 created:      2016-11-16
-changed:      2019-07-15
+changed:      2020-05-06
 source:       IANA
 
