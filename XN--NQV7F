@@ -16,7 +16,7 @@ organisation: Public Interest Registry (PIR)
 address:      1775 Wiehle Avenue
 address:      Reston, VA 20190
 address:      United States
-phone:        +1 919 369 4161
+phone:        +1 703 889 5778
 fax-no:       +1 703 889 5779
 e-mail:       ops@pir.org
 
@@ -35,8 +35,8 @@ nserver:      A0.NIC.XN--NQV7F 2a01:8840:b2:0:0:0:0:17 65.22.184.17
 nserver:      A2.NIC.XN--NQV7F 2a01:8840:b5:0:0:0:0:17 65.22.187.17
 nserver:      B0.NIC.XN--NQV7F 2a01:8840:b3:0:0:0:0:17 65.22.185.17
 nserver:      C0.NIC.XN--NQV7F 2a01:8840:b4:0:0:0:0:17 65.22.186.17
-ds-rdata:     3673 7 1 66c31a8845def74cefea62b709baebcb372af076
-ds-rdata:     3673 7 2 94f0ec6bdb0d46beb7c626a7682ad10e1a9e3ca5ee7221c38fbfc723bf013730
+ds-rdata:     48928 7 1 8034a486a658abaeb86c46399d42f37e52b74249
+ds-rdata:     48928 7 2 735851450cc762e7b884f6340a4a8abb3d2485df65fd8c5f32d9c193fc016a22
 
 whois:        whois.publicinterestregistry.net
 
@@ -44,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.pir.org
 
 created:      2014-02-27
-changed:      2019-08-21
+changed:      2020-04-17
 source:       IANA
 
