@@ -11,12 +11,13 @@ address:      United States
 
 contact:      administrative
 name:         Director, Shared Services | Email, Preferences, Domain and Brand Monitoring
+organisation: Ally Financial Inc.
 address:      200 Renaissance Center
 address:      Detroit, MI 48243
 address:      United States
 phone:        +1.877.351.7626
 fax-no:       +1.877.351.7626
-e-mail:       ngtld-ally@cscglobal.com
+e-mail:       allygtld@brandsight.com
 
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
@@ -33,8 +34,7 @@ nserver:      A0.NIC.ALLY 2a01:8840:3e:0:0:0:0:33 65.22.64.33
 nserver:      A2.NIC.ALLY 2a01:8840:41:0:0:0:0:33 65.22.67.33
 nserver:      B0.NIC.ALLY 2a01:8840:3f:0:0:0:0:33 65.22.65.33
 nserver:      C0.NIC.ALLY 2a01:8840:40:0:0:0:0:33 65.22.66.33
-ds-rdata:     37575 7 1 edfab65412ef9ebfdcfd3e4ba386f9ccbe4bb624
-ds-rdata:     37575 7 2 2f79da3a40f57a18e64ff9f50aa41725d7ca022ec065177c39908c79a421cdd8
+ds-rdata:     63106 8 2 b7f4550d13de48a5217e2dccbd18fb872db47c843028f48d413318271cc15261
 
 whois:        whois.nic.ally
 
@@ -42,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.ally.com
 
 created:      2015-10-22
-changed:      2019-08-21
+changed:      2021-01-27
 source:       IANA
 
