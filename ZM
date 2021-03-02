@@ -11,25 +11,23 @@ address:      Lusaka
 address:      Zambia
 
 contact:      administrative
-name:         Manager - Numbering and Naming
+name:         Manager - Standards and Networks
 organisation: Zambia Information and Communications Technology Authority (ZICTA)
 address:      Stand 4909, Corner of Independence and United Nations Avenue
 address:      Lusaka  10101
 address:      Lusaka
 address:      Zambia
-phone:        +260 (021) 1 246702
-fax-no:       +260 (021) 1 246 701
+phone:        +260 211 378200
 e-mail:       zmadmin@zicta.zm
 
 contact:      technical
-name:         Manager - Numbering and Naming
+name:         Manager - Standards and Networks
 organisation: Zambia Information and Communications Technology Authority (ZICTA)
 address:      Stand 4909, Corner of Independence and United Nations Avenue
 address:      Lusaka  10101
 address:      Lusaka
 address:      Zambia
-phone:        +260 (021) 1 378219
-fax-no:       +260 (021) 1 246 701
+phone:        +260 211 378200
 e-mail:       zmtech@zicta.zm
 
 nserver:      COCCA.NIC.ZM 185.17.236.93 2a03:dd40:3:0:0:0:0:93
@@ -42,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: https://registry.zicta.zm
 
 created:      1994-03-25
-changed:      2019-05-23
+changed:      2020-12-09
 source:       IANA
 
