@@ -23,32 +23,30 @@ fax-no:       +1 818 739 0683
 e-mail:       steve@dotqpon.com
 
 contact:      technical
-name:         Director
-organisation: Neustar, Inc.
-address:      21575 Ridgetop Circle
-address:      Sterling, VA 20166
-address:      United States
-phone:        +1 844-677-2878
-fax-no:       +1 571-434-5401
-e-mail:       technical1@registry.neustar
+name:         CTO
+organisation: CentralNic
+address:      Saddlers House, 4th Floor, 44 Gutter Lane
+address:      London, United Kingdom, EC2V 6BR
+address:      United Kingdom
+phone:        +442033880600
+fax-no:       +442033880601
+e-mail:       tld.ops@centralnic.com
 
-nserver:      NS1.DNS.NIC.QPON 156.154.169.32 2610:a1:1071:0:0:0:1:20
-nserver:      NS2.DNS.NIC.QPON 156.154.170.32 2610:a1:1072:0:0:0:1:20
-nserver:      NS3.DNS.NIC.QPON 156.154.171.32 2610:a1:1073:0:0:0:1:20
-nserver:      NS4.DNS.NIC.QPON 156.154.172.32 2610:a1:1074:0:0:0:1:20
-nserver:      NS5.DNS.NIC.QPON 156.154.173.32 2610:a1:1075:0:0:0:1:20
-nserver:      NS6.DNS.NIC.QPON 156.154.174.32 2610:a1:1076:0:0:0:1:20
-ds-rdata:     45064 8 1 9CEDBA9EF47AF7B7B5D86F79C7E9C5587CA3D3AE
-ds-rdata:     45064 8 2 F8EE0C2B01E4E2F5959100914C6018645897B8EEE26071C5E94910F7E10AC352
-ds-rdata:     17206 8 1 906193507A920B30AB59BE7D9A615935F90A48C2
-ds-rdata:     17206 8 2 3A226721C98ADFDD3C60BD6E64EDE9E4AD6CA4BEF848568955C40659F2004B32
+nserver:      A.NIC.QPON 194.169.218.128 2001:67c:13cc:0:0:0:1:128
+nserver:      B.NIC.QPON 185.24.64.128 2a04:2b00:13cc:0:0:0:1:128
+nserver:      C.NIC.QPON 212.18.248.128 2a04:2b00:13ee:0:0:0:0:128
+nserver:      D.NIC.QPON 212.18.249.128 2a04:2b00:13ff:0:0:0:0:128
 ds-rdata:     29890 8 2 7467925EA4AFC0A3A7E0E36A640721385FFC85B26B7002B492EA8CF45F4C9A90
 ds-rdata:     29890 8 1 44C89222BC6F471572A2D95AF068D70D82D99D65
+ds-rdata:     2327 8 2 3862ebe8922407508c2915d29ada122bfdc2385e90e14f0b98145665d794e347
+ds-rdata:     2327 8 1 c3a7db5bb487a23ba948a762681a1899980dedc0
+
+whois:        whois.nic.qpon
 
 status:       ACTIVE
 remarks:      Registration information: http://www.dotqpon.com/
 
 created:      2014-01-09
-changed:      2020-05-01
+changed:      2021-01-12
 source:       IANA
 
