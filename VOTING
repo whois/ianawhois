@@ -20,20 +20,22 @@ fax-no:       +41 71 6772022
 e-mail:       dh@nic.voting
 
 contact:      technical
-name:         Technical Operations
-organisation: TLD-BOX Registrydienstleistungen GmbH
-address:      Jakob-Haringer-Strasse 8/V
-address:      5020 Salzburg
-address:      Austria
-phone:        +43 662 234548 730
-fax-no:       +43 662 234548 29
-e-mail:       iana@tld-box.at
+name:         Director
+organisation: Neustar, Inc.
+address:      21575 Ridgetop Circle
+address:      Sterling, VA 20166
+address:      United States
+phone:        +1 844-677-2878
+fax-no:       +1 571-434-5401
+e-mail:       technical1@registry.neustar
 
-nserver:      A.DNS.NIC.VOTING 194.0.25.17 2001:678:20:0:0:0:0:17
-nserver:      M.DNS.NIC.VOTING 194.0.26.6 2001:67c:10e0:0:0:0:0:6
-nserver:      N.DNS.NIC.VOTING 194.0.24.6 2001:678:24:0:0:0:0:6
+nserver:      A.NIC.VOTING 2001:dcd:1:0:0:0:0:10 37.209.192.10
+nserver:      B.NIC.VOTING 2001:dcd:2:0:0:0:0:10 37.209.194.10
+nserver:      C.NIC.VOTING 2001:dcd:3:0:0:0:0:10 37.209.196.10
+nserver:      D.NIC.VOTING 2001:dcd:4:0:0:0:0:10 37.209.198.10
 ds-rdata:     51755 8 2 c65cb6885d44ef372400824799d8d6731e52dca6711cd1f7840329d49dc74e9a
 ds-rdata:     17941 8 2 E6BC6D8C2136BE07A700BBA0F4CEC5505DAFFCB3F6078BC612B50C6540C7D638
+ds-rdata:     50080 8 2 C92C59443E44B4F08CDAC7869D4FD41AD869E8FB22031F04FF64CEC71015BBC3
 
 whois:        whois.nic.voting
 
@@ -41,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.voting
 
 created:      2014-01-16
-changed:      2019-08-22
+changed:      2020-08-19
 source:       IANA
 
