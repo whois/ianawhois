@@ -18,14 +18,14 @@ fax-no:       +19196774444
 e-mail:       gtldinfo@sas.com
 
 contact:      technical
-name:         Director
-organisation: Neustar, Inc.
-address:      21575 Ridgetop Circle
-address:      Sterling, VA 20166
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      14455 North Hayden Rd.
+address:      Scottsdale, AZ 85260
 address:      United States
-phone:        +1 844-677-2878
-fax-no:       +1 571-434-5401
-e-mail:       technical1@registry.neustar
+phone:        +1 480-505-8800
+fax-no:       +1 480-393-4275
+e-mail:       iana@registry.godaddy
 
 nserver:      NS1.DNS.NIC.ANALYTICS 156.154.144.12 2610:a1:1071:0:0:0:0:c
 nserver:      NS2.DNS.NIC.ANALYTICS 156.154.145.12 2610:a1:1072:0:0:0:0:c
@@ -33,10 +33,6 @@ nserver:      NS3.DNS.NIC.ANALYTICS 156.154.159.12 2610:a1:1073:0:0:0:0:c
 nserver:      NS4.DNS.NIC.ANALYTICS 156.154.156.12 2610:a1:1074:0:0:0:0:c
 nserver:      NS5.DNS.NIC.ANALYTICS 156.154.157.12 2610:a1:1075:0:0:0:0:c
 nserver:      NS6.DNS.NIC.ANALYTICS 156.154.158.12 2610:a1:1076:0:0:0:0:c
-ds-rdata:     16801 8 1 72F0D064EA8066C9E2D8461BCBD610F340072731
-ds-rdata:     16801 8 2 C27779D52DE507E3883D2DF52926A284513561B65BB370A0A6D558F1CDAD20D8
-ds-rdata:     62914 8 2 64D2AD26A23E2D1AA708A9596229BF66DB099B0A04DB4C99503391BAD41B6C97
-ds-rdata:     62914 8 1 CA3074A661AC06BC309CC2D5F89B68CBF84B1FA9
 ds-rdata:     37117 8 1 91AF3A0177CE63C1BB43D26CAE930DBC87872840
 ds-rdata:     37117 8 2 6AECD7C4BB3FFC0946CBDADBD3612CBD2057613FB12695BA356ACB9C3D3558A9
 
@@ -44,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.sas.com
 
 created:      2015-11-20
-changed:      2020-04-30
+changed:      2020-10-12
 source:       IANA
 
