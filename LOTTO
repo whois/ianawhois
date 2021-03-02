@@ -37,8 +37,7 @@ nserver:      A0.NIC.LOTTO 2a01:8840:1e:0:0:0:0:25 65.22.28.25
 nserver:      A2.NIC.LOTTO 2a01:8840:21:0:0:0:0:25 65.22.31.25
 nserver:      B0.NIC.LOTTO 2a01:8840:1f:0:0:0:0:25 65.22.29.25
 nserver:      C0.NIC.LOTTO 2a01:8840:20:0:0:0:0:25 65.22.30.25
-ds-rdata:     7423 7 1 710366ed9bc579189753497510f1ad9e5b8f11cc
-ds-rdata:     7423 7 2 6ab77222150520ee2c05b26ee79292e996d62a78f0f41ffe4b0fb6f8fc6a6c72
+ds-rdata:     45466 8 2 6ffe76934a3634a61f99fad76fa0506a7682c5541452cf7b289f348fedd124bf
 
 whois:        whois.afilias.net
 
@@ -47,6 +46,6 @@ remarks:      Registration information:
 remarks:      http://www.afilias.info/contact-us
 
 created:      2014-06-05
-changed:      2019-08-19
+changed:      2020-09-30
 source:       IANA
 
