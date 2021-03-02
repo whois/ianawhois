@@ -34,8 +34,7 @@ nserver:      A0.NIC.RICHARDLI 2a01:8840:86:0:0:0:0:33 65.22.136.33
 nserver:      A2.NIC.RICHARDLI 2a01:8840:89:0:0:0:0:33 65.22.139.33
 nserver:      B0.NIC.RICHARDLI 2a01:8840:87:0:0:0:0:33 65.22.137.33
 nserver:      C0.NIC.RICHARDLI 2a01:8840:88:0:0:0:0:33 65.22.138.33
-ds-rdata:     60340 7 1 2e3e96f08cc10edff8287b0b01916222455079ed
-ds-rdata:     60340 7 2 37020c36172b3961eff1111ee7d1dddad08e89bf10245db24ab2c0c75e4c37e7
+ds-rdata:     41074 8 2 ff2e8b0f81588f0266003eb8ac2d8617607069c425dde1bb7734fcc4f93c8d88
 
 whois:        whois.nic.richardli
 
@@ -44,6 +43,6 @@ remarks:      Registration information:
 remarks:      http://www.dot.asia/namesphere/
 
 created:      2016-04-15
-changed:      2017-08-28
+changed:      2020-11-05
 source:       IANA
 
