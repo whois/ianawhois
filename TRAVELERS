@@ -33,8 +33,7 @@ nserver:      A0.NIC.TRAVELERS 2a01:8840:c2:0:0:0:0:9 65.22.200.9
 nserver:      A2.NIC.TRAVELERS 2a01:8840:c5:0:0:0:0:9 65.22.203.9
 nserver:      B0.NIC.TRAVELERS 2a01:8840:c3:0:0:0:0:9 65.22.201.9
 nserver:      C0.NIC.TRAVELERS 2a01:8840:c4:0:0:0:0:9 65.22.202.9
-ds-rdata:     55405 7 1 4de444ab5096a42a5536c5e73d92ae0e4a3925fa
-ds-rdata:     55405 7 2 4597259fc2c930d955185465cb7cce4f7b4258c0797c9f639aa5153a1f848651
+ds-rdata:     967 8 2 975d9fd3b056e286263f680f31106c7509ed466eae0aa08b3b045abae39945f6
 
 whois:        whois.afilias-srs.net
 
@@ -42,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.travelers.com
 
 created:      2015-11-25
-changed:      2019-08-21
+changed:      2020-11-17
 source:       IANA
 
