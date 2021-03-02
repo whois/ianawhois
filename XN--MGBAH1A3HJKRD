@@ -33,7 +33,7 @@ e-mail:       ahdsalem@nic.mr
 
 nserver:      NS-MR.AFRINIC.NET 196.216.168.53 2001:43f8:120:0:0:0:0:53
 nserver:      NS-MR.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
-nserver:      NS1.NIC.MR 41.188.65.193
+nserver:      NS1.NIC.MR 193.146.150.193
 nserver:      NS2.NIC.MR 82.151.64.2
 nserver:      NS3.NIC.MR 2001:500:14:6135:ad:0:0:1 204.61.216.135
 ds-rdata:     19030 8 2 9C1324BBE5B1726510CA3EA47E2D42F7E6C6A09BAF424AC344F32DE5488AE5A9
@@ -44,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.mr
 
 created:      2017-11-28
-changed:      2020-04-13
+changed:      2020-11-25
 source:       IANA
 
