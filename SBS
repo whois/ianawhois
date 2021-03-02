@@ -18,27 +18,29 @@ fax-no:       +612 9430 3047
 e-mail:       ngtld-sbs@cscinfo.com
 
 contact:      technical
-name:         Registry Customer Service
-organisation: Verisign, Inc.
-address:      12061 Bluemont Way
-address:      Reston Virginia 20190
-address:      United States
-phone:        +1-703-925-6999
-fax-no:       +1-703-948-3978
-e-mail:       info@verisign-grs.com
+name:         CTO
+organisation: CentralNic
+address:      Saddlers House, 4th Floor
+address:      44 Gutter Lane
+address:      London EC2V 6BR
+address:      United Kingdom
+phone:        +44.2033880600
+fax-no:       +44.2033880601
+e-mail:       tld.ops@centralnic.com
 
-nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
-nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
-nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
-nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
+nserver:      A.NIC.SBS 194.169.218.127 2001:67c:13cc:0:0:0:1:127
+nserver:      B.NIC.SBS 185.24.64.127 2a04:2b00:13cc:0:0:0:1:127
+nserver:      C.NIC.SBS 212.18.248.127 2a04:2b00:13ee:0:0:0:0:127
+nserver:      D.NIC.SBS 212.18.249.127 2a04:2b00:13ff:0:0:0:0:127
 ds-rdata:     49074 8 2 DBDB6A00E2AAC5F3C8EE371B1E46F69DA8BF7B985F837CDB9FAC21BEEE2F7FCF
+ds-rdata:     56056 8 2 EF6D326E9513EA4C07F99A08AFCDC5F3D9E3F6EB73000AF57D6FC3DECA1CA31C
 
 whois:        whois.nic.sbs
 
 status:       ACTIVE
-remarks:      Registration information: http://nic.sbs
+remarks:      Registration information: http://nic.icu
 
 created:      2015-09-24
-changed:      2019-08-16
+changed:      2021-02-08
 source:       IANA
 
