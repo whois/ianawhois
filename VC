@@ -10,17 +10,17 @@ address:      Kingstown
 address:      Saint Vincent And The Grenadines
 
 contact:      administrative
-name:         Andre Bailey
+name:         Jacqueline Creese
 organisation: Ministry of Telecommunications, Science, Technology and Industry
 address:      Egmont Steet
 address:      Kingstown
 address:      Saint Vincent And The Grenadines
 phone:        +1 784 457 1007
 fax-no:       +1 784 457 2880
-e-mail:       abailey.itsd@mail.gov.vc
+e-mail:       jcreese@gov.vc
 
 contact:      technical
-name:         Technical Domain Administrator
+name:         Senior Director, DNS Infrastructure Group
 organisation: Afilias
 address:      300 Welsh Road, Bldg. 3,
 address:      Suite 105
@@ -28,7 +28,7 @@ address:      Horsham Pennsylvania 19044
 address:      United States
 phone:        +1 215 706 5700
 fax-no:       +1 215 706 5701
-e-mail:       domaintech@afilias.info
+e-mail:       tld-tech-poc@afilias.info
 
 nserver:      A0.CCTLD.AFILIAS-NST.INFO 199.254.59.1 2001:500:25:0:0:0:0:1
 nserver:      A2.CCTLD.AFILIAS-NST.INFO 199.249.116.1 2001:500:44:0:0:0:0:1
@@ -36,16 +36,13 @@ nserver:      B0.CCTLD.AFILIAS-NST.ORG 199.254.60.1 2001:500:26:0:0:0:0:1
 nserver:      B2.CCTLD.AFILIAS-NST.ORG 199.249.124.1 2001:500:4c:0:0:0:0:1
 nserver:      C0.CCTLD.AFILIAS-NST.INFO 199.254.61.1 2001:500:27:0:0:0:0:1
 nserver:      D0.CCTLD.AFILIAS-NST.ORG 199.254.62.1 2001:500:28:0:0:0:0:1
-ds-rdata:     36820 7 1 5871026DA2BC184C8FBB99EEC885644559B470BD
-ds-rdata:     36820 7 2 36CA5D2DB63D23FA957EAB4529A4951C2A487188A039C9B7624E1690298B8316
-ds-rdata:     31338 7 1 E075B7B5AEACFB81B93E348C18AF51C34CD3EA5D
-ds-rdata:     31338 7 2 3F91762173655F80A5A62CDB317CE27F8D2AE508317535BCBBE45C8DF3692115
+ds-rdata:     54391 8 2 8e38107261b61499f2e57a72e762ef501798a0462cb69e6afcc9c4a2539e6bff
 
 whois:        whois2.afilias-grs.net
 
 status:       ACTIVE
 
 created:      1991-09-03
-changed:      2018-06-15
+changed:      2020-12-19
 source:       IANA
 
