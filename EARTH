@@ -5,27 +5,27 @@
 domain:       EARTH
 
 organisation: Interlink Co., Ltd.
-address:      3-1-1 Higashi Ikebukuro Sunshine 60 Bldg. 37F, Toshima, Tokyo 170-6037 JAPAN
+address:      Sunshine 60 Bldg. 45F 3-1-1 Higashi Ikebukuro, Toshima, Tokyo 170-6045 JAPAN
 address:      Japan
 
 contact:      administrative
 name:         Jacob Williams
 organisation: Interlink Co., Ltd.
-address:      3-1-1 Higashi Ikebukuro Sunshine 60 Bldg. 37F, Toshima, Tokyo 170-6037 JAPAN
+address:      Sunshine 60 Bldg. 45F 3-1-1 Higashi Ikebukuro, Toshima, Tokyo 170-6045 JAPAN
 address:      Japan
-phone:        +81 5058061875
-fax-no:       +81 338953826
+phone:        +81 50-5525-7438
+fax-no:       +81 3-5979-2337
 e-mail:       gtld@interlink.ad.jp
 
 contact:      technical
-name:         Director
-organisation: Neustar, Inc.
-address:      21575 Ridgetop Circle
-address:      Sterling, VA 20166
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      14455 North Hayden Rd.
+address:      Scottsdale, AZ 85260
 address:      United States
-phone:        +1 844-677-2878
-fax-no:       +1 571-434-5401
-e-mail:       technical1@registry.neustar
+phone:        +1 480-505-8800
+fax-no:       +1 480-393-4275
+e-mail:       iana@registry.godaddy
 
 nserver:      NS1.DNS.NIC.EARTH 156.154.144.230 2610:a1:1071:0:0:0:0:e6
 nserver:      NS2.DNS.NIC.EARTH 156.154.145.230 2610:a1:1072:0:0:0:0:e6
@@ -33,18 +33,15 @@ nserver:      NS3.DNS.NIC.EARTH 156.154.159.230 2610:a1:1073:0:0:0:0:e6
 nserver:      NS4.DNS.NIC.EARTH 156.154.156.230 2610:a1:1074:0:0:0:0:e6
 nserver:      NS5.DNS.NIC.EARTH 156.154.157.230 2610:a1:1075:0:0:0:0:e6
 nserver:      NS6.DNS.NIC.EARTH 156.154.158.230 2610:a1:1076:0:0:0:0:e6
-ds-rdata:     51080 8 1 4958C964D3915C2D2BE329EC3B6F58C48F90E78D
-ds-rdata:     51080 8 2 6C4ECBD765F57628C46D0494358AE9A0F21EB72B0F6E33DFE93EDBDD1D679D36
-ds-rdata:     2215 8 1 DEBAD45C4D1AB73F24F5542D55B2F404859722F5
-ds-rdata:     2215 8 2 A9E97095DB4F4D91C2BC2F75CA3422B68132769E7906353AF8F850AF34A3C4BA
 ds-rdata:     29926 8 2 C28E8452C5515C3A6B06A2ABC5F868A39048E16886620A07923386BA8894EDC5
 ds-rdata:     29926 8 1 1AA46F34887A843C698F27AA2B47F97318E89459
 
+whois:        whois.nic.earth
+
 status:       ACTIVE
-remarks:      Registration information:
-remarks:      http://www.interlink.or.jp/gtld/info.html
+remarks:      Registration information: https://domain.earth/
 
 created:      2015-04-16
-changed:      2020-04-30
+changed:      2020-10-12
 source:       IANA
 
