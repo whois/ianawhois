@@ -38,7 +38,7 @@ nserver:      NS-TZ.AFRINIC.NET 196.216.168.20 2001:43f8:120:0:0:0:0:20
 nserver:      NS.ANYCAST.CO.TZ 2001:500:14:6015:ad:0:0:1 204.61.216.15
 nserver:      NS2.TZNIC.OR.TZ 196.216.162.67 2001:43f8:e0:1:0:0:0:67
 nserver:      RIP.PSG.COM 147.28.0.39 2001:418:1:0:0:0:0:39
-ds-rdata:     35251 10 2 c248af42d75ca88355736fe3e5209e844efdd6909a1b282fbfa0f7048c37a913
+ds-rdata:     63382 10 2 b1e836eaef0a4e2428fb04d8ad443c15abb3281ed7466408c1882f9122ef5d52
 
 whois:        whois.tznic.or.tz
 
@@ -46,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: https://karibu.tz/
 
 created:      1995-07-14
-changed:      2020-02-03
+changed:      2021-01-20
 source:       IANA
 
