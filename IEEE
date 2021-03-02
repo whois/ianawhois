@@ -18,14 +18,14 @@ fax-no:       +1 732 981 0027
 e-mail:       primary_ieee@valideus.com
 
 contact:      technical
-name:         Director
-organisation: Neustar, Inc.
-address:      21575 Ridgetop Circle
-address:      Sterling, VA 20166
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      14455 North Hayden Rd.
+address:      Scottsdale, AZ 85260
 address:      United States
-phone:        +1 844-677-2878
-fax-no:       +1 571-434-5401
-e-mail:       technical1@registry.neustar
+phone:        +1 480-505-8800
+fax-no:       +1 480-393-4275
+e-mail:       iana@registry.godaddy
 
 nserver:      NS1.DNS.NIC.IEEE 156.154.144.79 2610:a1:1071:0:0:0:0:4f
 nserver:      NS2.DNS.NIC.IEEE 156.154.145.79 2610:a1:1072:0:0:0:0:4f
@@ -33,10 +33,6 @@ nserver:      NS3.DNS.NIC.IEEE 156.154.159.79 2610:a1:1073:0:0:0:0:4f
 nserver:      NS4.DNS.NIC.IEEE 156.154.156.79 2610:a1:1074:0:0:0:0:4f
 nserver:      NS5.DNS.NIC.IEEE 156.154.157.79 2610:a1:1075:0:0:0:0:4f
 nserver:      NS6.DNS.NIC.IEEE 156.154.158.79 2610:a1:1076:0:0:0:0:4f
-ds-rdata:     25109 8 1 96B4232B5F6D32FB5A64A011FB2E44C71E7EB0B9
-ds-rdata:     25109 8 2 C2617FB0A6DC2BDC444C1EB7A330AB2E8A5D5947235F30E219F8C02B9F4CA9C9
-ds-rdata:     1855 8 2 96EB6CB056820569B24058CAFE73861523A05FF9AB3D953EB29521E6AAA86985
-ds-rdata:     1855 8 1 D066BE9750D3DF20668D5EC21EC85FE8AB802895
 ds-rdata:     39700 8 2 F12A037A0D1108BDF15C5A58CC488EFC19F3B9100C643C67181703E2747BE9AB
 ds-rdata:     39700 8 1 06C34DD64A4FD24D00D2341FFD4C4A6378EDB7B7
 
@@ -44,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.ieee.org
 
 created:      2016-06-09
-changed:      2020-04-30
+changed:      2020-10-12
 source:       IANA
 
