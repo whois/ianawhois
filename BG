@@ -36,7 +36,6 @@ nserver:      D.NIC.BG 194.0.32.1 2001:678:3c:0:0:0:0:1
 nserver:      E.NIC.BG 185.143.80.1 2a02:6a80:530e:0:0:0:0:1
 nserver:      P.NIC.BG 2001:500:14:6110:ad:0:0:1 204.61.216.110
 ds-rdata:     58606 8 2 305151ebb808cfa54a262403982d4c27e081b1c4accdad4b4d83ce091188b1a0
-ds-rdata:     58606 8 1 037ec344df072e8e46977a841b8c1aad3105dc3a
 
 whois:        whois.register.bg
 
@@ -44,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.register.bg
 
 created:      1995-01-03
-changed:      2020-02-13
+changed:      2021-02-24
 source:       IANA
 
