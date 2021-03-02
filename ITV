@@ -35,8 +35,7 @@ nserver:      A0.NIC.ITV 2a01:8840:56:0:0:0:0:25 65.22.88.25
 nserver:      A2.NIC.ITV 2a01:8840:59:0:0:0:0:25 65.22.91.25
 nserver:      B0.NIC.ITV 2a01:8840:57:0:0:0:0:25 65.22.89.25
 nserver:      C0.NIC.ITV 2a01:8840:58:0:0:0:0:25 65.22.90.25
-ds-rdata:     30558 7 1 44a43507e232590dccabee9bb4bc5617d37e1694
-ds-rdata:     30558 7 2 a675a7b443e3d3f78c1110ca7e37c007eb1913b81009f0b8520e2fa12d2cdb49
+ds-rdata:     47554 8 2 b40bd9c46f4ea1a9a496c57c37a91938af59778971851d7d91c54dc203649c13
 
 whois:        whois.afilias-srs.net
 
@@ -44,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.itv.com
 
 created:      2016-05-19
-changed:      2016-06-24
+changed:      2020-11-17
 source:       IANA
 
