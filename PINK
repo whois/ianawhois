@@ -36,9 +36,9 @@ e-mail:       tld-tech-poc@afilias.info
 nserver:      A0.NIC.PINK 2a01:8840:1e:0:0:0:0:17 65.22.28.17
 nserver:      A2.NIC.PINK 2a01:8840:21:0:0:0:0:17 65.22.31.17
 nserver:      B0.NIC.PINK 2a01:8840:1f:0:0:0:0:17 65.22.29.17
+nserver:      B2.NIC.PINK 2a01:8840:21:0:0:0:0:21 65.22.31.21
 nserver:      C0.NIC.PINK 2a01:8840:20:0:0:0:0:17 65.22.30.17
-ds-rdata:     45756 7 1 d4496ff46e35cc9a206da310b24c36af205a2bd1
-ds-rdata:     45756 7 2 71cda61fca2b38fd3c93b8a69b2300cd7bc91ff32c306f1f3f831bba7686a149
+ds-rdata:     53032 8 2 54475c411977fb9c94c01453633eb43b8dc64b154462de278a0644c6b83a79d1
 
 whois:        whois.afilias.net
 
@@ -46,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://afilias.info/contact-us
 
 created:      2013-12-19
-changed:      2020-05-01
+changed:      2020-10-06
 source:       IANA
 
