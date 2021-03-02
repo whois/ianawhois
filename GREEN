@@ -37,8 +37,7 @@ nserver:      A0.NIC.GREEN 2a01:8840:22:0:0:0:0:9 65.22.32.9
 nserver:      A2.NIC.GREEN 2a01:8840:25:0:0:0:0:9 65.22.35.9
 nserver:      B0.NIC.GREEN 2a01:8840:23:0:0:0:0:9 65.22.33.9
 nserver:      C0.NIC.GREEN 2a01:8840:24:0:0:0:0:9 65.22.34.9
-ds-rdata:     10671 7 1 5883309fabdaf8dfed06812d6b438553cd85fd1f
-ds-rdata:     10671 7 2 b713508bdf0a965472409ea6321967db856c7ce7b99b9396ed25cdc406bcca5a
+ds-rdata:     49042 8 2 b0a053bc2903459bd6dc6060a822285c492fbb5f20346821a48c5ef3e6b0d29a
 
 whois:        whois.afilias.net
 
@@ -47,6 +46,6 @@ remarks:      Registration information:
 remarks:      http://www.afilias.info/contact-us
 
 created:      2014-06-12
-changed:      2019-08-19
+changed:      2020-09-30
 source:       IANA
 
