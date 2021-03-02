@@ -10,7 +10,7 @@ address:      P.O Box # 16113, Ras Al Khaimah - 16113.
 address:      United Arab Emirates
 
 contact:      administrative
-name:         Shweta Sahjwani
+name:         Manager
 organisation: DotOnline Inc.
 address:      Directiplex, Old Nagardas Road
 address:      Andheri (East), Mumbai - 400069.
@@ -32,8 +32,8 @@ e-mail:       tld.ops@centralnic.com
 
 nserver:      A.NIC.ONLINE 194.169.218.54 2001:67c:13cc:0:0:0:1:54
 nserver:      B.NIC.ONLINE 185.24.64.54 2a04:2b00:13cc:0:0:0:1:54
-nserver:      C.NIC.ONLINE 185.38.99.7 2a02:e180:3:0:0:0:0:7
-nserver:      D.NIC.ONLINE 108.59.161.7 2a02:e180:4:0:0:0:0:7
+nserver:      E.NIC.ONLINE 212.18.248.54 2a04:2b00:13ee:0:0:0:0:54
+nserver:      F.NIC.ONLINE 212.18.249.54 2a04:2b00:13ff:0:0:0:0:54
 ds-rdata:     4267 8 1 A038DA06A96AD8E9BFE2BA78C392FF7804B4CD2B
 ds-rdata:     4267 8 2 66D7010609CB19E99AD1DA2833DDAB8CA2E7ACC1CE870CC28D29E76EB53D39BA
 
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.radixregistry.com
 
 created:      2015-03-06
-changed:      2020-04-09
+changed:      2021-01-27
 source:       IANA
 
