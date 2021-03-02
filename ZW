@@ -37,13 +37,15 @@ e-mail:       support@telone.co.zw
 
 nserver:      NS1.LIQUIDTELECOM.NET 2c0f:fe40:0:0:5:11:11:1 5.11.11.1
 nserver:      NS1.TELONE.CO.ZW 194.133.122.47 2c0f:f758:0:13:0:0:0:47
+nserver:      NS1ZIM.TELONE.CO.ZW 2c0f:f758:0:a:0:0:0:81 41.220.30.81
 nserver:      NS2.LIQUIDTELECOM.NET 2c0f:fe40:0:0:5:11:11:10 5.11.11.10
 nserver:      NS2.TELONE.CO.ZW 194.133.122.42 2c0f:f758:0:13:0:0:0:42
+nserver:      NS2ZIM.TELONE.CO.ZW 2c0f:f758:0:a:0:0:0:82 41.220.30.82
 nserver:      ZW-NS.ANYCAST.PCH.NET 2001:500:14:6128:ad:0:0:1 204.61.216.128
 
 status:       ACTIVE
 
 created:      1991-11-06
-changed:      2018-11-07
+changed:      2020-09-22
 source:       IANA
 
