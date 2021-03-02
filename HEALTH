@@ -18,14 +18,14 @@ fax-no:       +1-305-372-0076
 e-mail:       admin@dothealth.co
 
 contact:      technical
-name:         Director
-organisation: Neustar, Inc.
-address:      21575 Ridgetop Circle
-address:      Sterling, VA 20166
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      14455 North Hayden Rd.
+address:      Scottsdale, AZ 85260
 address:      United States
-phone:        +1 844-677-2878
-fax-no:       +1 571-434-5401
-e-mail:       technical1@registry.neustar
+phone:        +1 480-505-8800
+fax-no:       +1 480-393-4275
+e-mail:       iana@registry.godaddy
 
 nserver:      NS1.DNS.NIC.HEALTH 156.154.144.247 2610:a1:1071:0:0:0:0:f7
 nserver:      NS2.DNS.NIC.HEALTH 156.154.145.247 2610:a1:1072:0:0:0:0:f7
@@ -33,10 +33,6 @@ nserver:      NS3.DNS.NIC.HEALTH 156.154.159.247 2610:a1:1073:0:0:0:0:f7
 nserver:      NS4.DNS.NIC.HEALTH 156.154.156.247 2610:a1:1074:0:0:0:0:f7
 nserver:      NS5.DNS.NIC.HEALTH 156.154.157.247 2610:a1:1075:0:0:0:0:f7
 nserver:      NS6.DNS.NIC.HEALTH 156.154.158.247 2610:a1:1076:0:0:0:0:f7
-ds-rdata:     55942 8 1 FA3FCF181B93DDD4FFF016ACDECC0F8C6BA38464
-ds-rdata:     55942 8 2 F2492F9AE07DEB8AC93925B1770E2F7C37963629981E7D93055A65FD4D667A5D
-ds-rdata:     8281 8 1 E97BB9E993DA1D943D05221B340ED02DDEACCBAF
-ds-rdata:     8281 8 2 67D06076588F03BC8F3CA2595C264F6FF3990F7911FD67355BC71D18E08F2636
 ds-rdata:     59692 8 1 E771ED3F0FF0827E1099E0F4F184678A795825EC
 ds-rdata:     59692 8 2 9B2E1E578601FC9A4651066B3C68E9DB30040E7A6D3324F872AA7CE8E1F74728
 
@@ -44,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.dothealth.co
 
 created:      2015-09-17
-changed:      2020-04-30
+changed:      2020-10-12
 source:       IANA
 
