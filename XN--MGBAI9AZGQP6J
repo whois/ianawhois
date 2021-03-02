@@ -32,13 +32,13 @@ e-mail:       kashif.fayyaz@ntc.org.pk
 
 nserver:      NS.NTC.NET.PK 202.83.164.166
 nserver:      NS1.NTC.NET.PK 202.83.164.167
-nserver:      NS2.NTC.NET.PK 175.107.192.11
+nserver:      NS2.NTC.NET.PK 175.107.198.150
 ds-rdata:     21720 7 1 9FC6318AA15A43B4CF11D3F64CD678935E40402F
 ds-rdata:     21720 7 2 BB7D853DFDFD7A39574CE1B5D3009E5C813264E614430C1B29C894C090393DD1
 
 status:       ACTIVE
 
 created:      2011-02-28
-changed:      2017-03-30
+changed:      2020-09-22
 source:       IANA
 
