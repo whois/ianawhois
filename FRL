@@ -35,7 +35,6 @@ nserver:      C.NIC.FRL 212.18.248.87 2a04:2b00:13ee:0:0:0:0:87
 nserver:      D.NIC.FRL 212.18.249.87 2a04:2b00:13ff:0:0:0:0:87
 ds-rdata:     61803 7 2 6101027B61B7A1E6434BAFDAFF9A5D7DBB2E5EFA1BE76D85B031BCD601D1A54C
 ds-rdata:     29449 7 2 37DED35C8C21D344247A0FA8450B3D39E0304BD07266E38D795EB62E9E9D3D07
-ds-rdata:     29449 7 1 C943E51EA26C4F3E3F618F045C1E80C53A0B3C20
 
 whois:        whois.nic.frl
 
@@ -43,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: https://registreer.frl
 
 created:      2014-08-22
-changed:      2019-03-30
+changed:      2021-02-16
 source:       IANA
 
