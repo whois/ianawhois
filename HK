@@ -9,13 +9,13 @@ address:      Unit 501, Level 5, Core C, Cyberport 3, 100 Cyberport Road
 address:      Hong Kong
 
 contact:      administrative
-name:         Wilson Wong
+name:         Noel Ng
 organisation: Hong Kong Internet Registration Corporation Ltd.
 address:      Unit 501, Level 5, Core C, Cyberport 3, 100 Cyberport Road
 address:      Hong Kong
 phone:        +852 2319 2303
 fax-no:       +852 2319 2626
-e-mail:       wilson.wong@hkirc.hk
+e-mail:       noel.ng@hkirc.hk
 
 contact:      technical
 name:         Ben Lee
@@ -34,8 +34,8 @@ nserver:      V.HKIRC.NET.HK 2001:500:14:6046:ad:0:0:1 204.61.216.46
 nserver:      X.HKIRC.NET.HK 202.45.188.39 2405:3001:1:3a:0:0:0:27
 nserver:      Y.HKIRC.NET.HK 137.189.6.21 2405:3000:3:6:0:0:0:15
 nserver:      Z.HKIRC.NET.HK 194.146.106.70 2001:67c:1010:17:0:0:0:53
-ds-rdata:     36746 8 2 2aa25edbea1519de7e1e264165bbc72627868f1a2b19dc7de5417add9b56e02e
-ds-rdata:     36746 8 1 3f84e13235ba03d337b1d95d1f2a9549dbd91636
+ds-rdata:     38227 8 2 80561534799648df777a3b0f7aacdb518170404f355007fe8b118a4998a50da6
+ds-rdata:     38227 8 1 1fba2deec4911051d5192e5e1c29d068b056fdf3
 
 whois:        whois.hkirc.hk
 
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.hkirc.hk
 
 created:      1990-01-03
-changed:      2020-04-16
+changed:      2020-11-16
 source:       IANA
 
