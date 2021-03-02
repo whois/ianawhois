@@ -34,11 +34,14 @@ nserver:      A.NIC.NET.MM 37.209.192.4
 nserver:      B.NIC.NET.MM 37.209.194.4
 nserver:      C.NIC.NET.MM 37.209.196.4
 nserver:      D.NIC.NET.MM 37.209.198.4
+ds-rdata:     18589 8 2 0a66403da2ceb4c3960750739074d5ca799334b45c85e3fedd7838e01a2435d8
+
+whois:        whois.registry.gov.mm
 
 status:       ACTIVE
-remarks:      Registration information: http://www.nic.mm/
+remarks:      Registration information: http://www.ptd.gov.mm/
 
 created:      1997-02-04
-changed:      2019-10-07
+changed:      2020-06-25
 source:       IANA
 
