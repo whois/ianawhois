@@ -38,6 +38,8 @@ nserver:      PCH.ATI.TN 2001:500:14:6004:ad:0:0:1 204.61.216.94
 nserver:      RIP.PSG.COM 147.28.0.39 2001:418:1:0:0:0:0:39
 ds-rdata:     23341 8 2 D7A6ED1FD619775C26CEB15A96586B3C1D7AC38574E44F1ABC100FF2F50198A2
 
+whois:        whois.ati.tn
+
 status:       ACTIVE
 remarks:      Registration information: http://www.ati.tn
 
