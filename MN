@@ -45,8 +45,7 @@ nserver:      NS1.MAGIC.MN 202.131.0.10
 nserver:      NS2.MAGIC.MN 202.72.241.5
 nserver:      NS3.MAGIC.MN 202.131.224.80
 nserver:      NS4.MAGIC.MN 218.100.84.26
-ds-rdata:     61299 7 1 7aed0b5bf96d4a045071fe60b6b1be8f41a3d8a4
-ds-rdata:     61299 7 2 35ad84ba39ff62258fe6052f8e31e67c341d6cfa41d38a4698f9f35fb68e30b6
+ds-rdata:     22489 8 2 c069cd3e147e1f008fd2394a7112509c96d26094f876e48e56192779e1c47ba6
 
 whois:        whois.nic.mn
 
@@ -54,6 +53,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.mn
 
 created:      1995-03-02
-changed:      2012-11-01
+changed:      2020-11-05
 source:       IANA
 
