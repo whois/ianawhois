@@ -11,29 +11,29 @@ address:      P.O. Box 531
 address:      South Sudan
 
 contact:      administrative
-name:         Eng. Virginio Kenyi Lomena
+name:         Admin
 organisation: National Communication Authority (NCA)
 address:      2nd Floor-Ministry of ICT & Postal Services Main Building
 address:      Juba, Jubek State
 address:      P.O. Box 531
 address:      South Sudan
-phone:        +211 (0)915623252
-e-mail:       kenyi.lomena@gmail.com
+phone:        +211 922338781
+e-mail:       admin@nic.ss
 
 contact:      technical
-name:         Unguec Stephen Kang Ilario
+name:         Technical Support
 organisation: National Communication Authority (NCA)
 address:      2nd Floor-Ministry of ICT & Postal Services Main Building
 address:      Juba, Jubek State
 address:      P.O. Box 531
 address:      South Sudan
-phone:        +211 (0)922338781
-e-mail:       unguecstephen@gmail.com
+phone:        +211 922338781
+e-mail:       technical@nic.ss
 
 nserver:      B.NS.TZNIC.OR.TZ 196.216.162.70 2001:43f8:e0:1:0:0:0:70
 nserver:      NS-SS.AFRINIC.NET 196.216.168.27 2001:43f8:120:0:0:0:0:27
 nserver:      PCH.NIC.SS 2001:500:14:6130:ad:0:0:1 204.61.216.130
-nserver:      ROOT.NIC.SS 196.1.4.230
+nserver:      ROOT.NIC.SS 185.17.236.20 2a03:dd40:3:0:0:0:0:20
 nserver:      SSNIC.ANYCASTDNS.CZ 185.28.194.194 185.38.108.108
 ds-rdata:     43817 8 1 65fb691da6eb488ed99195e7609837f787eafc4a
 ds-rdata:     43817 8 2 f85d36a2e056ff8cbb8dc79c748e4ec1e862c4f739891f9595669aa3384a252d
@@ -41,8 +41,9 @@ ds-rdata:     43817 8 2 f85d36a2e056ff8cbb8dc79c748e4ec1e862c4f739891f9595669aa3
 whois:        whois.nic.ss
 
 status:       ACTIVE
+remarks:      Registration information: https://nic.ss/
 
 created:      2011-08-31
-changed:      2020-03-11
+changed:      2020-10-10
 source:       IANA
 
