@@ -41,10 +41,9 @@ nserver:      GU.CCTLD.AUTHDNS.RIPE.NET 193.0.9.78 2001:67c:e0:0:0:0:0:78
 nserver:      PHLOEM.UOREGON.EDU 128.223.32.35 2001:468:d01:20:0:0:80df:2023
 
 status:       ACTIVE
-remarks:      Registration information:
-remarks:      https://www.supportuog.org/collections/all/products/gu-domain
+remarks:      Registration information: https://give.uog.edu/shop/
 
 created:      1994-04-15
-changed:      2019-05-30
+changed:      2020-11-23
 source:       IANA
 
