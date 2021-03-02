@@ -11,24 +11,24 @@ address:      Hanoi  100000
 address:      Viet Nam
 
 contact:      administrative
-name:         Tran Minh Tan
-organisation: Vietnam Internet Network Information Center (VNNIC)
-address:      18 Nguyen Du
-address:      Hanoi  10000
-address:      Viet Nam
-phone:        +84 4 35564944 ext 512
-fax-no:       +84 4 37821462
-e-mail:       tantm@vnnic.vn
-
-contact:      technical
 name:         Nguyen Hong Thang
 organisation: Vietnam Internet Network Information Center (VNNIC)
 address:      18 Nguyen Du
 address:      Hanoi  10000
 address:      Viet Nam
-phone:        +84 4 35564944 ext 301
-fax-no:       +84 4 37821462
+phone:        +84 24 35564944 ext 301
+fax-no:       +84 24 37821462
 e-mail:       nhthang@vnnic.net.vn
+
+contact:      technical
+name:         Nguyen Truong Thanh
+organisation: Vietnam Internet Network Information Center (VNNIC)
+address:      18 Nguyen Du
+address:      Hanoi  10000
+address:      Viet Nam
+phone:        +84 24 35564944 ext 302
+fax-no:       +84 24 37821462
+e-mail:       thanh@vnnic.vn
 
 nserver:      A.DNS-SERVERS.VN 194.0.1.18 2001:678:4:0:0:0:0:12
 nserver:      B.DNS-SERVERS.VN 2001:dc8:1:2:0:0:0:105 203.119.73.105
@@ -44,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.vnnic.net.vn
 
 created:      1994-04-14
-changed:      2019-05-12
+changed:      2020-09-09
 source:       IANA
 
