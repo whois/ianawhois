@@ -28,14 +28,13 @@ address:      Horsham, PA 19044
 address:      United States
 phone:        +1 215.706.5700
 fax-no:       +1 215.706.5701
-e-mail:       tld-admin-poc@afilias.info
+e-mail:       tld-tech-poc@afilias.info
 
 nserver:      A0.NIC.MORMON 2a01:8840:96:0:0:0:0:1 65.22.152.1
 nserver:      A2.NIC.MORMON 2a01:8840:99:0:0:0:0:1 65.22.155.1
 nserver:      B0.NIC.MORMON 2a01:8840:97:0:0:0:0:1 65.22.153.1
 nserver:      C0.NIC.MORMON 2a01:8840:98:0:0:0:0:1 65.22.154.1
-ds-rdata:     12568 7 1 d6073d22bedbd7005a0e4781852c4bf9f63007ab
-ds-rdata:     12568 7 2 a7e4e331be6631713ba62063a4112b63132be342c1c38bff9a33bfd5fc270599
+ds-rdata:     25606 8 2 32bc7847356b87ef6e35d7ca36f19e481361d235c1e4ab7593012db12280425d
 
 whois:        whois.nic.mormon
 
@@ -43,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.mormon.org
 
 created:      2014-10-16
-changed:      2019-08-22
+changed:      2020-10-30
 source:       IANA
 
