@@ -38,12 +38,13 @@ nserver:      B.TLD.MA 2001:4288:1800:186:0:0:0:4 81.192.171.132 81.192.171.84
 nserver:      C.TLD.MA 2001:4288:1800:386:0:0:0:3 81.192.171.115 81.192.171.139
 nserver:      D.TLD.MA 2001:4288:1800:386:0:0:0:4 81.192.171.116 81.192.171.140
 nserver:      E.TLD.MA 105.73.80.236
+nserver:      F.TLD.MA 41.214.240.4
 nserver:      NS-MA.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
 
 status:       ACTIVE
 remarks:      Registration information: http://www.registre.ma
 
 created:      2011-02-05
-changed:      2020-03-26
+changed:      2020-09-02
 source:       IANA
 
