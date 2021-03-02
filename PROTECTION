@@ -33,17 +33,17 @@ e-mail:       tld.ops@centralnic.com
 
 nserver:      A.NIC.PROTECTION 194.169.218.67 2001:67c:13cc:0:0:0:1:67
 nserver:      B.NIC.PROTECTION 185.24.64.67 2a04:2b00:13cc:0:0:0:1:67
-nserver:      C.NIC.PROTECTION 185.38.99.10 2a02:e180:3:0:0:0:0:10
-nserver:      D.NIC.PROTECTION 108.59.161.10 2a02:e180:4:0:0:0:0:10
+nserver:      E.NIC.PROTECTION 212.18.248.67 2a04:2b00:13ee:0:0:0:0:67
+nserver:      F.NIC.PROTECTION 212.18.249.67 2a04:2b00:13ff:0:0:0:0:67
 ds-rdata:     46846 8 1 44911D0CB6AE4931C66C83C2881085E48866B075
 ds-rdata:     46846 8 2 3E780717CC500405E3E7869AEBBE9F3D49AC770B338E216FCA3F096EFE92F2CF
 
 whois:        whois.nic.protection
 
 status:       ACTIVE
-remarks:      Registration information: http://gen.xyz/protection
+remarks:      Registration information: https://nic.protection/
 
 created:      2015-08-13
-changed:      2019-10-14
+changed:      2020-10-09
 source:       IANA
 
