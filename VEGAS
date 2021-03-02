@@ -38,8 +38,7 @@ nserver:      A0.NIC.VEGAS 2a01:8840:42:0:0:0:0:17 65.22.68.17
 nserver:      A2.NIC.VEGAS 2a01:8840:45:0:0:0:0:17 65.22.71.17
 nserver:      B0.NIC.VEGAS 2a01:8840:43:0:0:0:0:17 65.22.69.17
 nserver:      C0.NIC.VEGAS 2a01:8840:44:0:0:0:0:17 65.22.70.17
-ds-rdata:     33606 7 1 e9d5d36b05c18a59a093ea2ffcb8d5c0a89e84d1
-ds-rdata:     33606 7 2 e9e9318a2607ef6645efd73a7c5dad01aaa2c506b9bbde38d65f4803ab4076e2
+ds-rdata:     13336 8 2 612d11e84db7671f5dc9b54fb8944d57474de91ca498ca80b6ebc05c162c3af0
 
 whois:        whois.afilias-srs.net
 
@@ -47,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.dotvegasinc.com/
 
 created:      2014-03-20
-changed:      2019-09-03
+changed:      2020-12-02
 source:       IANA
 
