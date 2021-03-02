@@ -18,14 +18,14 @@ fax-no:       +1 503 646 6926
 e-mail:       domains@nike.com
 
 contact:      technical
-name:         Director
-organisation: Neustar, Inc.
-address:      21575 Ridgetop Circle
-address:      Sterling, VA 20166
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      14455 North Hayden Rd.
+address:      Scottsdale, AZ 85260
 address:      United States
-phone:        +1 844-677-2878
-fax-no:       +1 571-434-5401
-e-mail:       technical1@registry.neustar
+phone:        +1 480-505-8800
+fax-no:       +1 480-393-4275
+e-mail:       iana@registry.godaddy
 
 nserver:      NS1.DNS.NIC.NIKE 156.154.144.123 2610:a1:1071:0:0:0:0:7b
 nserver:      NS2.DNS.NIC.NIKE 156.154.145.123 2610:a1:1072:0:0:0:0:7b
@@ -33,8 +33,6 @@ nserver:      NS3.DNS.NIC.NIKE 156.154.159.123 2610:a1:1073:0:0:0:0:7b
 nserver:      NS4.DNS.NIC.NIKE 156.154.156.123 2610:a1:1074:0:0:0:0:7b
 nserver:      NS5.DNS.NIC.NIKE 156.154.157.123 2610:a1:1075:0:0:0:0:7b
 nserver:      NS6.DNS.NIC.NIKE 156.154.158.123 2610:a1:1076:0:0:0:0:7b
-ds-rdata:     61525 8 2 15D72AB047D6A7FF1D33F1A25BC1CC9BD9B3DDEEAAD85EEABB251EBC79284134
-ds-rdata:     61525 8 1 362B5F6FB9A14E3239340BF1A1DDEBE3BF2181F0
 ds-rdata:     26524 8 2 71F0D99CA5C9BFF67E5CA14152257533BE43CBF90C07415DF0728FEA8BD10ADC
 ds-rdata:     26524 8 1 3EC279BEA40414F280555120BB2CC8271921DC43
 
@@ -42,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nike.com
 
 created:      2015-10-29
-changed:      2020-04-30
+changed:      2020-10-12
 source:       IANA
 
