@@ -34,8 +34,7 @@ nserver:      A0.NIC.ABBOTT 2a01:8840:9a:0:0:0:0:41 65.22.156.41
 nserver:      A2.NIC.ABBOTT 2a01:8840:9d:0:0:0:0:41 65.22.159.41
 nserver:      B0.NIC.ABBOTT 2a01:8840:9b:0:0:0:0:41 65.22.157.41
 nserver:      C0.NIC.ABBOTT 2a01:8840:9c:0:0:0:0:41 65.22.158.41
-ds-rdata:     24508 7 1 67fe3983f553bb6562134abfce80536f8e9229fc
-ds-rdata:     24508 7 2 cfb26f43d88c4f11ef6ca9cef82d125c95cd35f01d97129a056307590983c529
+ds-rdata:     41764 8 2 04c4003cf06316c866df2dcf23304b3a25d30778ac1a838f986350010d2647ce
 
 whois:        whois.afilias-srs.net
 
@@ -43,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.abbott.com
 
 created:      2014-11-20
-changed:      2019-08-21
+changed:      2020-12-25
 source:       IANA
 
