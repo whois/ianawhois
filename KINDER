@@ -18,14 +18,14 @@ fax-no:       +352 349411
 e-mail:       stefano.marzocchi@ferrero.com
 
 contact:      technical
-name:         Director
-organisation: Neustar, Inc.
-address:      21575 Ridgetop Circle
-address:      Sterling, VA 20166
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      14455 North Hayden Rd.
+address:      Scottsdale, AZ 85260
 address:      United States
-phone:        +1 844-677-2878
-fax-no:       +1 571-434-5401
-e-mail:       technical1@registry.neustar
+phone:        +1 480-505-8800
+fax-no:       +1 480-393-4275
+e-mail:       iana@registry.godaddy
 
 nserver:      NS1.DNS.NIC.KINDER 156.154.144.96 2610:a1:1071:0:0:0:0:60
 nserver:      NS2.DNS.NIC.KINDER 156.154.145.96 2610:a1:1072:0:0:0:0:60
@@ -33,10 +33,6 @@ nserver:      NS3.DNS.NIC.KINDER 156.154.159.96 2610:a1:1073:0:0:0:0:60
 nserver:      NS4.DNS.NIC.KINDER 156.154.156.96 2610:a1:1074:0:0:0:0:60
 nserver:      NS5.DNS.NIC.KINDER 156.154.157.96 2610:a1:1075:0:0:0:0:60
 nserver:      NS6.DNS.NIC.KINDER 156.154.158.96 2610:a1:1076:0:0:0:0:60
-ds-rdata:     62039 8 1 25130FBACD6D3503BAA8FF9F553AF341CDB23F03
-ds-rdata:     62039 8 2 7EF3B410953EEB02538BA489A7E8A6B2D36852394B553E4D0337AB595D4AF842
-ds-rdata:     20800 8 2 4118F549B0A01F0CA7A6A59B700D96D265B4D44BE1B2E02CC2364EE848DFE72C
-ds-rdata:     20800 8 1 55AAC3640D64E8D41F16ABFD9DA5D5E75DD73E2B
 ds-rdata:     6220 8 2 D77B06FC0996DF3814BB12E5C467B9030590AF3F6ED626445EE64A0A59805A7A
 ds-rdata:     6220 8 1 9DD835E956FCF7D6A002E803F056E017DFD5AC8A
 
@@ -44,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.kinder.com
 
 created:      2015-09-10
-changed:      2020-05-01
+changed:      2020-10-12
 source:       IANA
 
