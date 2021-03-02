@@ -36,7 +36,7 @@ nserver:      C.DNS.BR 200.192.233.10 2001:12f8:a:0:0:0:0:10
 nserver:      D.DNS.BR 200.219.154.10 2001:12f8:4:0:0:0:0:10
 nserver:      E.DNS.BR 200.229.248.10 2001:12f8:2:0:0:0:0:10
 nserver:      F.DNS.BR 200.219.159.10 2001:12f8:c:0:0:0:0:10
-ds-rdata:     60906 7 2 C0AFFE9C5BB961362C3D0DFCD919A8E3CE32FBA12365F858010B212FFB2509A1
+ds-rdata:     2471 13 2 c42365fcde0c1898ab38a492ea636e38437fc87c5ef161bdc3c27893bfac9b6e
 
 whois:        whois.gtlds.nic.br
 
@@ -44,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.natura
 
 created:      2016-01-29
-changed:      2019-08-03
+changed:      2020-06-15
 source:       IANA
 
