@@ -35,7 +35,6 @@ nserver:      A0.NIC.AC 2a01:8840:9e:0:0:0:0:1 65.22.160.1
 nserver:      A2.NIC.AC 2a01:8840:a1:0:0:0:0:1 65.22.163.1
 nserver:      B0.NIC.AC 2a01:8840:9f:0:0:0:0:1 65.22.161.1
 nserver:      C0.NIC.AC 2a01:8840:a0:0:0:0:0:1 65.22.162.1
-ds-rdata:     42665 8 1 d5e99d85351d361bd6b5b1582f634e8a85cf1bf7
 ds-rdata:     42665 8 2 4b15f405c98f4bc3a370b19e54dbe75df201edcd38577c51d277dc6559865d95
 
 whois:        whois.nic.ac
@@ -44,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.ac/
 
 created:      1997-12-19
-changed:      2019-12-03
+changed:      2020-09-19
 source:       IANA
 
