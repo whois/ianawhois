@@ -1,49 +1,5 @@
 % IANA WHOIS server
 % for more information on IANA, visit http://www.iana.org
-% This query returned 1 object
-
-domain:       BEER
-
-organisation: Minds + Machines Group Limited
-address:      Craigmuir Chambers, Road Town Tortola VG 1110
-address:      Virgin Islands, British
-
-contact:      administrative
-name:         Admin Contact
-organisation: Minds + Machines Ltd
-address:      32 Nassau St, Dublin 2
-address:      Ireland
-phone:        +1-877-734-4783
-e-mail:       ops@mmx.co
-
-contact:      technical
-name:         TLD Registry Services Technical
-organisation: Nominet
-address:      Minerva House,
-address:      Edmund Halley Road,
-address:      Oxford Science Park,
-address:      Oxford,
-address:      OX4 4DQ
-address:      United Kingdom
-phone:        +44.1865332211
-e-mail:       registrytechnical@nominet.uk
-
-nserver:      DNS1.NIC.BEER 213.248.217.15 2a01:618:401:0:0:0:0:15
-nserver:      DNS2.NIC.BEER 103.49.81.15 2401:fd80:401:0:0:0:0:15
-nserver:      DNS3.NIC.BEER 213.248.221.15 2a01:618:405:0:0:0:0:15
-nserver:      DNS4.NIC.BEER 2401:fd80:405:0:0:0:0:15 43.230.49.15
-nserver:      DNSA.NIC.BEER 156.154.100.3 2001:502:ad09:0:0:0:0:3
-nserver:      DNSB.NIC.BEER 156.154.101.3
-nserver:      DNSC.NIC.BEER 156.154.102.3
-nserver:      DNSD.NIC.BEER 156.154.103.3
-ds-rdata:     56125 8 2 C674B8966CB78A79E67A2ED674917CF39F96ED6C7E5460425C61EAFBAD7E2A87
-
-whois:        whois.nic.beer
-
-status:       ACTIVE
-remarks:      Registration information: http://mm-registry.com
-
-created:      2014-03-13
-changed:      2019-08-22
-source:       IANA
-
+%
+% WHOIS server encountered an error.
+% Please report the issue to http://www.iana.org.
