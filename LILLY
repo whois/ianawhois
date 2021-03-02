@@ -15,17 +15,17 @@ address:      639 South Delaware Street Indianapolis, Indiana - 46285 US
 address:      United States
 phone:        +1 317 276 2000
 fax-no:       +1 317 276 1919
-e-mail:       ngtld-lilly@cscinfo.com
+e-mail:       elilillydomains@brandsight.com
 
 contact:      technical
-name:         Director
-organisation: Neustar, Inc.
-address:      21575 Ridgetop Circle
-address:      Sterling, VA 20166
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      14455 North Hayden Rd.
+address:      Scottsdale, AZ 85260
 address:      United States
-phone:        +1 844-677-2878
-fax-no:       +1 571-434-5401
-e-mail:       technical1@registry.neustar
+phone:        +1 480-505-8800
+fax-no:       +1 480-393-4275
+e-mail:       iana@registry.godaddy
 
 nserver:      NS1.DNS.NIC.LILLY 156.154.144.104 2610:a1:1071:0:0:0:0:68
 nserver:      NS2.DNS.NIC.LILLY 156.154.145.104 2610:a1:1072:0:0:0:0:68
@@ -33,10 +33,6 @@ nserver:      NS3.DNS.NIC.LILLY 156.154.159.104 2610:a1:1073:0:0:0:0:68
 nserver:      NS4.DNS.NIC.LILLY 156.154.156.104 2610:a1:1074:0:0:0:0:68
 nserver:      NS5.DNS.NIC.LILLY 156.154.157.104 2610:a1:1075:0:0:0:0:68
 nserver:      NS6.DNS.NIC.LILLY 156.154.158.104 2610:a1:1076:0:0:0:0:68
-ds-rdata:     34979 8 1 A642E7161CDCBEF5203B052C57C599766EB8CD1C
-ds-rdata:     34979 8 2 FF5E29409419FB32E92562EE8F7E6637A5622861C890A1762B529FC161EE6D12
-ds-rdata:     28705 8 2 C1F40540B063E067996B4CC335045E22AF4C1F1743D36681ED21C03CB3E72C55
-ds-rdata:     28705 8 1 0FA8AE4FAE1A2A06680DC032FB00570E12E44AC4
 ds-rdata:     9697 8 2 63DD48EC728DE49D9D3233D8E1A08C8B4BDA89971F590890D9B5414F29CDBA5F
 ds-rdata:     9697 8 1 07D59C0F464E0C89A15A34DD329E80E12DBD784C
 
@@ -44,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.lilly.com
 
 created:      2016-05-19
-changed:      2020-05-01
+changed:      2021-02-17
 source:       IANA
 
