@@ -18,14 +18,14 @@ phone:        +350 200 73520
 e-mail:       edgar.c.lavarello@gi.pwc.com
 
 contact:      technical
-name:         Director
-organisation: Neustar, Inc.
-address:      21575 Ridgetop Circle
-address:      Sterling, VA 20166
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      14455 North Hayden Rd.
+address:      Scottsdale, AZ 85260
 address:      United States
-phone:        +1 844-677-2878
-fax-no:       +1 571-434-5401
-e-mail:       technical1@registry.neustar
+phone:        +1 480-505-8800
+fax-no:       +1 480-393-4275
+e-mail:       iana@registry.godaddy
 
 nserver:      NS1.DNS.NIC.CRICKET 156.154.144.220 2610:a1:1071:0:0:0:0:dc
 nserver:      NS2.DNS.NIC.CRICKET 156.154.145.220 2610:a1:1072:0:0:0:0:dc
@@ -33,10 +33,6 @@ nserver:      NS3.DNS.NIC.CRICKET 156.154.159.220 2610:a1:1073:0:0:0:0:dc
 nserver:      NS4.DNS.NIC.CRICKET 156.154.156.220 2610:a1:1074:0:0:0:0:dc
 nserver:      NS5.DNS.NIC.CRICKET 156.154.157.220 2610:a1:1075:0:0:0:0:dc
 nserver:      NS6.DNS.NIC.CRICKET 156.154.158.220 2610:a1:1076:0:0:0:0:dc
-ds-rdata:     5282 8 1 451AD031FA7D68F4DA50293F02E6E63CE1AA6E6A
-ds-rdata:     5282 8 2 6CE9A87C578956C905BB79BD401CAC0313D0972DC41BF423EF0789E9F70C986F
-ds-rdata:     23734 8 1 5A9865D19CEA873191F545407B3904BAE3771D6A
-ds-rdata:     23734 8 2 76DFD09C478F7A0FB3326B6B21EA9CACFD2690D61FAAC2C44537A4C11D2F227F
 ds-rdata:     28141 8 1 F657E27E8E72A10D0C6C73B59E5CE5E835660459
 ds-rdata:     28141 8 2 17E6E25642BA0D3C5CD6A9FE9DDA84F7115B49F7B34B8648E5563B2B87B2CDCA
 
@@ -46,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.cricket
 
 created:      2014-11-13
-changed:      2020-04-30
+changed:      2020-10-12
 source:       IANA
 
