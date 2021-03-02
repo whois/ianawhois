@@ -22,14 +22,14 @@ fax-no:       +1 415 278 8444
 e-mail:       dotpfizer@markmonitor.com
 
 contact:      technical
-name:         Director
-organisation: Neustar, Inc.
-address:      21575 Ridgetop Circle
-address:      Sterling, VA 20166
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      14455 North Hayden Rd.
+address:      Scottsdale, AZ 85260
 address:      United States
-phone:        +1 844-677-2878
-fax-no:       +1 571-434-5401
-e-mail:       technical1@registry.neustar
+phone:        +1 480-505-8800
+fax-no:       +1 480-393-4275
+e-mail:       iana@registry.godaddy
 
 nserver:      NS1.DNS.NIC.PFIZER 156.154.144.134 2610:a1:1071:0:0:0:0:86
 nserver:      NS2.DNS.NIC.PFIZER 156.154.145.134 2610:a1:1072:0:0:0:0:86
@@ -37,8 +37,6 @@ nserver:      NS3.DNS.NIC.PFIZER 156.154.159.134 2610:a1:1073:0:0:0:0:86
 nserver:      NS4.DNS.NIC.PFIZER 156.154.156.134 2610:a1:1074:0:0:0:0:86
 nserver:      NS5.DNS.NIC.PFIZER 156.154.157.134 2610:a1:1075:0:0:0:0:86
 nserver:      NS6.DNS.NIC.PFIZER 156.154.158.134 2610:a1:1076:0:0:0:0:86
-ds-rdata:     55237 8 1 BD33B4E03069F80B6B5C00031F5CD13DE4281A04
-ds-rdata:     55237 8 2 9D46BCA564CA9EC9B11A6AFCEFC0284D2C482383A80D4F488D265EE57310B692
 ds-rdata:     13027 8 2 E4F8779447A1437169483F1255FAF003C56823267A6155E8074B0DBFEB85D8D9
 ds-rdata:     13027 8 1 773165A0A5DBD25D6959DFB9D8D37F05491629EA
 
@@ -46,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.pfizer.com
 
 created:      2016-06-16
-changed:      2020-05-01
+changed:      2020-10-12
 source:       IANA
 
