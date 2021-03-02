@@ -38,7 +38,6 @@ nserver:      A.NIC.ETISALAT 194.169.218.48 2001:67c:13cc:0:0:0:1:48
 nserver:      B.NIC.ETISALAT 185.24.64.48 2a04:2b00:13cc:0:0:0:1:48
 nserver:      C.NIC.ETISALAT 212.18.248.48 2a04:2b00:13ee:0:0:0:0:48
 nserver:      D.NIC.ETISALAT 212.18.249.48 2a04:2b00:13ff:0:0:0:0:48
-ds-rdata:     3857 8 1 F4719BD222CE2B63763E0EA9FA05713251B7287C
 ds-rdata:     3857 8 2 389B8D170BF2914ABE8CDD4BCCDF454BCA62523FAA83F6F5F30CB8E672A75803
 
 whois:        whois.centralnic.com
@@ -47,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.etisalat.ae/
 
 created:      2017-05-11
-changed:      2020-04-09
+changed:      2021-02-16
 source:       IANA
 
