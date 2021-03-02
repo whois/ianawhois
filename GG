@@ -32,10 +32,11 @@ e-mail:       hostmaster2016@iana-contact.gg
 
 nserver:      C.CI-SERVERS.ORG 194.146.106.86 2001:67c:1010:22:0:0:0:53
 nserver:      DNS1.NOMINETDNS.UK 213.248.219.254 2a01:618:403:0:0:0:0:254
-nserver:      E.CI-SERVERS.GG 2001:500:14:6074:ad:0:0:1 204.61.216.74
-nserver:      F.CI-SERVERS.JE 213.248.223.254 2a01:618:407:0:0:0:0:254
-nserver:      NS0.JA.NET 128.86.1.20 193.63.94.20 2001:630:0:8:0:0:0:14 2001:630:0:9:0:0:0:14
-nserver:      NS99.DNS.NET.NZ 2001:dce:2000:2:0:0:0:131 202.46.190.131
+nserver:      DNS2.NOMINETDNS.UK 103.49.83.254 2401:fd80:403:0:0:0:0:254
+nserver:      DNS3.NOMINETDNS.UK 213.248.223.254 2a01:618:407:0:0:0:0:254
+nserver:      DNS4.NOMINETDNS.UK 2401:fd80:407:0:0:0:0:254 43.230.51.254
+nserver:      E.CI-SERVERS.NET 2001:500:14:6074:ad:0:0:1 204.61.216.74
+ds-rdata:     4975 8 2 6B95DA44B57BF3BDFCE8E9CF6D28DF4B0FF999A374EFF7909E095AB1C7000630
 
 whois:        whois.gg
 
@@ -43,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.gg
 
 created:      1996-08-07
-changed:      2020-04-14
+changed:      2020-12-13
 source:       IANA
 
