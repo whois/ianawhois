@@ -17,14 +17,14 @@ phone:        +1 973 716 6632
 e-mail:       inet-admin@prudential.com
 
 contact:      technical
-name:         Director
-organisation: Neustar, Inc.
-address:      21575 Ridgetop Circle
-address:      Sterling, VA 20166
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      14455 North Hayden Rd.
+address:      Scottsdale, AZ 85260
 address:      United States
-phone:        +1 844-677-2878
-fax-no:       +1 571-434-5401
-e-mail:       technical1@registry.neustar
+phone:        +1 480-505-8800
+fax-no:       +1 480-393-4275
+e-mail:       iana@registry.godaddy
 
 nserver:      NS1.DNS.NIC.PRAMERICA 156.154.144.138 2610:a1:1071:0:0:0:0:8a
 nserver:      NS2.DNS.NIC.PRAMERICA 156.154.145.138 2610:a1:1072:0:0:0:0:8a
@@ -32,15 +32,13 @@ nserver:      NS3.DNS.NIC.PRAMERICA 156.154.159.138 2610:a1:1073:0:0:0:0:8a
 nserver:      NS4.DNS.NIC.PRAMERICA 156.154.156.138 2610:a1:1074:0:0:0:0:8a
 nserver:      NS5.DNS.NIC.PRAMERICA 156.154.157.138 2610:a1:1075:0:0:0:0:8a
 nserver:      NS6.DNS.NIC.PRAMERICA 156.154.158.138 2610:a1:1076:0:0:0:0:8a
-ds-rdata:     26347 8 1 998E7A0E462CF3FA2BB20608ED830488D2234D5E
-ds-rdata:     26347 8 2 A6751642B19B5E8DBFF8A17E4E5D8DAD3DF4503D9883342BAFDCEA66ABE6F570
-ds-rdata:     52417 8 2 2A03ABBCCC552531A805AC8AA9153E0E38708D012F1372D7B3877ED2C846FB0C
-ds-rdata:     52417 8 1 67BDDFEA9DB16CB2796E7BAB87C194E8007CCE77
+ds-rdata:     42121 8 1 2B91B8FFC7421235144BBCF2842C003135102A11
+ds-rdata:     42121 8 2 3AC345E344CA7A196D6449E6EA5D5A37CB336A7AB8B640098DD3E771F2814B97
 
 status:       ACTIVE
 remarks:      Registration information: https://www.prudential.com
 
 created:      2016-07-14
-changed:      2020-05-13
+changed:      2020-10-12
 source:       IANA
 
