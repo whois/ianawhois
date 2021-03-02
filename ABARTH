@@ -33,8 +33,7 @@ nserver:      A0.NIC.ABARTH 2a01:8840:1a:0:0:0:0:17 65.22.24.17
 nserver:      A2.NIC.ABARTH 2a01:8840:1d:0:0:0:0:17 65.22.27.17
 nserver:      B0.NIC.ABARTH 2a01:8840:1b:0:0:0:0:17 65.22.25.17
 nserver:      C0.NIC.ABARTH 2a01:8840:1c:0:0:0:0:17 65.22.26.17
-ds-rdata:     3648 7 1 bbe522e3f7151a144522bf4e5bfc2d4e503727e3
-ds-rdata:     3648 7 2 ac305c0759443e2e43a06fc9af1004ea466d21879b19fbbc35f6d752f792fa35
+ds-rdata:     62281 8 2 8be9e8b680bc10289ea71a8b7c34fe0cdbaa86242b2c38541de454526df041a4
 
 whois:        whois.afilias-srs.net
 
@@ -42,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.abarth.com/
 
 created:      2016-07-14
-changed:      2016-08-04
+changed:      2020-11-05
 source:       IANA
 
