@@ -38,8 +38,7 @@ nserver:      A0.NIC.MOTORCYCLES 2a01:8840:66:0:0:0:0:1 65.22.104.1
 nserver:      A2.NIC.MOTORCYCLES 2a01:8840:69:0:0:0:0:1 65.22.107.1
 nserver:      B0.NIC.MOTORCYCLES 2a01:8840:67:0:0:0:0:1 65.22.105.1
 nserver:      C0.NIC.MOTORCYCLES 2a01:8840:68:0:0:0:0:1 65.22.106.1
-ds-rdata:     64395 7 1 1dd446fbce7ac93b30c0d391bd5bffe4ed1f3552
-ds-rdata:     64395 7 2 eaf5dd8adf1bd90a49589178df573b10b4971f34618861e546a075bb897ccd53
+ds-rdata:     21907 8 2 6aca9a367926ed9773d6feea4671eedf7bf4ddc8c08b7cd8fec415e9dbdfcc66
 
 whois:        whois.afilias-srs.net
 
@@ -48,6 +47,6 @@ remarks:      Registration information:
 remarks:      http://www.dominionregistries.com
 
 created:      2014-05-01
-changed:      2019-08-26
+changed:      2020-12-09
 source:       IANA
 
