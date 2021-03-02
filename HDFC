@@ -38,8 +38,7 @@ nserver:      A0.NIC.HDFC 2a01:8840:aa:0:0:0:0:33 65.22.176.33
 nserver:      A2.NIC.HDFC 2a01:8840:ad:0:0:0:0:33 65.22.179.33
 nserver:      B0.NIC.HDFC 2a01:8840:ab:0:0:0:0:33 65.22.177.33
 nserver:      C0.NIC.HDFC 2a01:8840:ac:0:0:0:0:33 65.22.178.33
-ds-rdata:     43104 7 1 d53ced9832799749b3f2f2ff07f67edadf63396c
-ds-rdata:     43104 7 2 8aef49234bc4a9ab6557840e6a731bdce5eb03eccb6265f149b2eb9644a35d37
+ds-rdata:     23122 8 2 f73544d186ef971c4e3172eddd985d4579c4bb60b5d04396921d25ff9095dc6a
 
 whois:        whois.nic.hdfc
 
@@ -47,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.hdfc
 
 created:      2016-07-21
-changed:      2017-08-01
+changed:      2020-10-30
 source:       IANA
 
