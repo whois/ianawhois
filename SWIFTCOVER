@@ -18,14 +18,14 @@ fax-no:       +1 208-389-5771
 e-mail:       dotswiftcover@markmonitor.com
 
 contact:      technical
-name:         Director
-organisation: Neustar, Inc.
-address:      21575 Ridgetop Circle
-address:      Sterling, VA 20166
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      14455 North Hayden Rd.
+address:      Scottsdale, AZ 85260
 address:      United States
-phone:        +1 844-677-2878
-fax-no:       +1 571-434-5401
-e-mail:       technical1@registry.neustar
+phone:        +1 480-505-8800
+fax-no:       +1 480-393-4275
+e-mail:       iana@registry.godaddy
 
 nserver:      NS1.DNS.NIC.SWIFTCOVER 156.154.144.155 2610:a1:1071:0:0:0:0:9b
 nserver:      NS2.DNS.NIC.SWIFTCOVER 156.154.145.155 2610:a1:1072:0:0:0:0:9b
@@ -33,10 +33,6 @@ nserver:      NS3.DNS.NIC.SWIFTCOVER 156.154.159.155 2610:a1:1073:0:0:0:0:9b
 nserver:      NS4.DNS.NIC.SWIFTCOVER 156.154.156.155 2610:a1:1074:0:0:0:0:9b
 nserver:      NS5.DNS.NIC.SWIFTCOVER 156.154.157.155 2610:a1:1075:0:0:0:0:9b
 nserver:      NS6.DNS.NIC.SWIFTCOVER 156.154.158.155 2610:a1:1076:0:0:0:0:9b
-ds-rdata:     32744 8 1 51B653B5EAB4F1CBDB31136C44936CC4679DD0D6
-ds-rdata:     32744 8 2 CD5A505B4076DB643A259BC133E9EE760FB5EF186A2B6BBE6FACB7CD9BD87513
-ds-rdata:     40021 8 2 516B516EAEC5E505F58BE48E870BAB59FCB50975C5090A31F49D4C96A5162DC4
-ds-rdata:     40021 8 1 C818E8786553AA6CA4E718F45C797D6894A7223E
 ds-rdata:     24196 8 1 6DADE726A307B7E0B795839F250E9278E0BD22BA
 ds-rdata:     24196 8 2 43D442460D7B3A786EF22CA4BC97E3BE7D2BF33669666A2540B34F21003DCD5A
 
@@ -44,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.swiftcover.com
 
 created:      2016-06-09
-changed:      2020-04-30
+changed:      2020-10-12
 source:       IANA
 
