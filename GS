@@ -15,8 +15,8 @@ organisation: Atlantis North Ltd
 address:      556 Strathmartine Road
 address:      Dundee DD3 9ER
 address:      United Kingdom
-phone:        +44 141 416 2239
-fax-no:       +44 141 416 2239
+phone:        +44 121 318 6707
+fax-no:       +44 121 318 6707
 e-mail:       helpdesk@nic.gs
 
 contact:      technical
@@ -25,12 +25,13 @@ organisation: Atlantis North Ltd
 address:      556 Strathmartine Road
 address:      Dundee DD3 9ER
 address:      United Kingdom
-phone:        +44 141 416 2239
-fax-no:       +44 141 416 2239
+phone:        +44 121 318 6707
+fax-no:       +44 121 318 6707
 e-mail:       paul.shafi@sgisland.org
 
 nserver:      NS.ANYCAST.NIC.GS 2001:500:14:6021:ad:0:0:1 204.61.216.21
-nserver:      NS.COCCA.FR 185.17.236.93 2a03:dd40:3:0:0:0:0:93
+nserver:      NS1.ANYCASTDNS.CZ 185.38.108.108 2a00:fea0:dead:0:0:0:0:beef
+nserver:      NS2.ANYCASTDNS.CZ 185.28.194.194
 ds-rdata:     23990 8 2 2CBC82DA27FDB16662BF359F59DF1B63FA0AB720BFC2120F17BA369A3249FC5E
 
 whois:        whois.nic.gs
@@ -39,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://secure.nic.gs
 
 created:      1997-07-31
-changed:      2018-02-10
+changed:      2021-01-11
 source:       IANA
 
