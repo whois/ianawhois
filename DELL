@@ -18,14 +18,14 @@ fax-no:       +1-202-223-9256
 e-mail:       dellregistry@fairwindspartners.com
 
 contact:      technical
-name:         Director
-organisation: Neustar, Inc.
-address:      21575 Ridgetop Circle
-address:      Sterling, VA 20166
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      14455 North Hayden Rd.
+address:      Scottsdale, AZ 85260
 address:      United States
-phone:        +1 844-677-2878
-fax-no:       +1 571-434-5401
-e-mail:       technical1@registry.neustar
+phone:        +1 480-505-8800
+fax-no:       +1 480-393-4275
+e-mail:       iana@registry.godaddy
 
 nserver:      NS1.DNS.NIC.DELL 156.154.144.47 2610:a1:1071:0:0:0:0:2f
 nserver:      NS2.DNS.NIC.DELL 156.154.145.47 2610:a1:1072:0:0:0:0:2f
@@ -33,10 +33,6 @@ nserver:      NS3.DNS.NIC.DELL 156.154.159.47 2610:a1:1073:0:0:0:0:2f
 nserver:      NS4.DNS.NIC.DELL 156.154.156.47 2610:a1:1074:0:0:0:0:2f
 nserver:      NS5.DNS.NIC.DELL 156.154.157.47 2610:a1:1075:0:0:0:0:2f
 nserver:      NS6.DNS.NIC.DELL 156.154.158.47 2610:a1:1076:0:0:0:0:2f
-ds-rdata:     41026 8 1 94E31096C29CEA422519EF7C9E9511CBD8E63AB9
-ds-rdata:     41026 8 2 8DA9D3809DEFE3DB4BDFFB5D411AC8112F6F198A29C7383E03B6A5CB9E52E3B6
-ds-rdata:     28570 8 1 431FCFCA18CD7A56E6535B5D988C89D730485FE7
-ds-rdata:     28570 8 2 4FBEA9BE65494FA8727A8CFA657F1B01F39972A76AA4F96DF793A164573C31F5
 ds-rdata:     52264 8 1 02DC4424E44377206F85E850D2DF603BE780D87A
 ds-rdata:     52264 8 2 2E905176005A54631CFF78D28542BB1DEA2441304423892AD1C963DCA3F93BF9
 
@@ -44,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.dell.com
 
 created:      2015-04-30
-changed:      2020-04-30
+changed:      2020-10-12
 source:       IANA
 
