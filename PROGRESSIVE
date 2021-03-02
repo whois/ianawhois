@@ -34,8 +34,7 @@ nserver:      A0.NIC.PROGRESSIVE 2a01:8840:c2:0:0:0:0:33 65.22.200.33
 nserver:      A2.NIC.PROGRESSIVE 2a01:8840:c5:0:0:0:0:33 65.22.203.33
 nserver:      B0.NIC.PROGRESSIVE 2a01:8840:c3:0:0:0:0:33 65.22.201.33
 nserver:      C0.NIC.PROGRESSIVE 2a01:8840:c4:0:0:0:0:33 65.22.202.33
-ds-rdata:     17860 7 1 4a585de14429f9b1e2ca4b0c451809fb215ff962
-ds-rdata:     17860 7 2 2919bddda258d0f505a33b1749945a7df4689cd3639393401e28f8bfa16c18c0
+ds-rdata:     17329 8 2 f6623efa3c197e122f7037a659f8e7fb2cec4d91af518653d04b44f15a72abc9
 
 whois:        whois.afilias-srs.net
 
@@ -43,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.progressive.com
 
 created:      2016-02-19
-changed:      2019-08-21
+changed:      2020-11-17
 source:       IANA
 
