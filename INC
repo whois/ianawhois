@@ -4,34 +4,33 @@
 
 domain:       INC
 
-organisation: Intercap Holdings Inc.
-address:      Governors Square, Unit 3-110
-address:      PO Box 1361
-address:      Grand Cayman KY1-1108
-address:      Cayman Islands
+organisation: Intercap Registry Inc.
+address:      4th Floor, Harbour Place, 103 South Church Street
+address:      PO Box 10240
+address:      Grand Cayman, KY1-1002
 address:      Cayman Islands
 
 contact:      administrative
-name:         Chief Registry Officer
-organisation: Intercap Holdings Inc.
-address:      40 Linwood Street
-address:      Grand Cayman, Cayman Islands
-address:      PO Box 2503, George Town, KY1-1104
+name:         General Manager
+organisation: Intercap Registry Inc.
+address:      4th Floor, Harbour Place, 103 South Church Street
+address:      PO Box 10240
+address:      Grand Cayman, KY1-1002
 address:      Cayman Islands
-phone:        +1.4164773490x204
-fax-no:       +1.3457466263
+phone:        +1 4164773490 x204
+fax-no:       +1 4164770964
 e-mail:       ask@intercap.com
 
 contact:      technical
-name:         Vice President of Technology
-organisation: Uniregistry, Corp.
-address:      23 Lime Tree Bay Avenue
+name:         Chief Technical Officer
+organisation: UNR Corp.
+address:      Third Floor, Monaco Towers, Georgetown
 address:      Grand Cayman, Cayman Islands
-address:      PO Box 1361, George Town, KY1-1108
+address:      30369SMB-KY11202
 address:      Cayman Islands
-phone:        +1.3457496263
-fax-no:       +1.3457466263
-e-mail:       ops@uniregistry.com
+phone:        +1 345 746 3687
+fax-no:       +1 345 746 3687
+e-mail:       ops@unr.com
 
 nserver:      NS1.UNIREGISTRY.NET 2620:57:4000:1:0:0:0:1 64.96.1.1
 nserver:      NS2.UNIREGISTRY.INFO 64.96.2.1
@@ -50,6 +49,6 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.inc
 
 created:      2018-07-03
-changed:      2019-02-15
+changed:      2020-11-03
 source:       IANA
 
