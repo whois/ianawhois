@@ -33,8 +33,7 @@ nserver:      A0.NIC.SCHAEFFLER 2a01:8840:ee:0:0:0:0:17 65.22.244.17
 nserver:      A2.NIC.SCHAEFFLER 2a01:8840:f1:0:0:0:0:17 65.22.247.17
 nserver:      B0.NIC.SCHAEFFLER 2a01:8840:ef:0:0:0:0:17 65.22.245.17
 nserver:      C0.NIC.SCHAEFFLER 2a01:8840:f0:0:0:0:0:17 65.22.246.17
-ds-rdata:     7108 7 1 87a999ce0e4cf68915060f0227415ede3c4c165f
-ds-rdata:     7108 7 2 e6eeaa01cd11d2d5acd5714c4996e7de5c5940b9044d6a041cdb60c693691ec8
+ds-rdata:     54004 8 2 91d3c23450a60ef3b6b8f6b647cdb8ec0cdba6cb67e79a6578b614231a1b1cad
 
 whois:        whois.afilias-srs.net
 
@@ -42,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.schaeffler.com
 
 created:      2015-12-17
-changed:      2019-08-21
+changed:      2020-12-16
 source:       IANA
 
