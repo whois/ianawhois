@@ -34,8 +34,7 @@ nserver:      A0.NIC.CRUISE 2a01:8840:ba:0:0:0:0:25 65.22.192.25
 nserver:      A2.NIC.CRUISE 2a01:8840:bd:0:0:0:0:25 65.22.195.25
 nserver:      B0.NIC.CRUISE 2a01:8840:bb:0:0:0:0:25 65.22.193.25
 nserver:      C0.NIC.CRUISE 2a01:8840:bc:0:0:0:0:25 65.22.194.25
-ds-rdata:     62550 7 1 6be1fa931719330e44c14f8bcdb0aec8c1765718
-ds-rdata:     62550 7 2 f4a23d33454784d337840885289dfa81cb23a2f65009decf86c2c84c03de91f2
+ds-rdata:     33220 8 2 254d748f9e700bd632010eeffe96cc5a1dfef5b4a85a18a1ab4962ea81f9937f
 
 whois:        whois.nic.cruise
 
@@ -44,6 +43,6 @@ remarks:      Registration information:
 remarks:      http://www.vikingrivercruises.com
 
 created:      2016-10-21
-changed:      2017-07-20
+changed:      2020-10-30
 source:       IANA
 
