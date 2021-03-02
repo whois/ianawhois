@@ -19,7 +19,7 @@ address:      201010
 address:      India
 phone:        +91.1203982000
 fax-no:       +91.1204374935
-e-mail:       domain.owner@mail.dabur
+e-mail:       domain.owner@dabur.com
 
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
@@ -36,8 +36,7 @@ nserver:      A0.NIC.DABUR 2a01:8840:ae:0:0:0:0:25 65.22.180.25
 nserver:      A2.NIC.DABUR 2a01:8840:b1:0:0:0:0:25 65.22.183.25
 nserver:      B0.NIC.DABUR 2a01:8840:af:0:0:0:0:25 65.22.181.25
 nserver:      C0.NIC.DABUR 2a01:8840:b0:0:0:0:0:25 65.22.182.25
-ds-rdata:     19761 7 1 07a2f4a7e8d08de6e5e6447912e600b0db1b6469
-ds-rdata:     19761 7 2 53a018fe3e95bfb559c780b1ad542730ad65f3d723d80749c2535cbe8df83fc5
+ds-rdata:     12355 8 2 bc18991e60b16ed8791d94ea935d83e9d40e2cba9ac8b824a40191e5f5f50ae4
 
 whois:        whois.afilias-srs.net
 
@@ -45,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.dabur.com
 
 created:      2015-01-15
-changed:      2019-08-23
+changed:      2020-11-05
 source:       IANA
 
