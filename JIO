@@ -35,8 +35,7 @@ nserver:      A0.NIC.JIO 2a01:8840:ce:0:0:0:0:33 65.22.212.33
 nserver:      A2.NIC.JIO 2a01:8840:d1:0:0:0:0:33 65.22.215.33
 nserver:      B0.NIC.JIO 2a01:8840:cf:0:0:0:0:33 65.22.213.33
 nserver:      C0.NIC.JIO 2a01:8840:d0:0:0:0:0:33 65.22.214.33
-ds-rdata:     61050 7 1 a463c2dd74094e7fcffcb08bf06e7cec18afaca7
-ds-rdata:     61050 7 2 13655a34e30627124697a3ae76d595e16bfc502051ef5cd06f1a2febcc187ec8
+ds-rdata:     5476 8 2 d03f2390954d50f114b39620e940a7de9d1fb60661cdeb43757b5d4a76fa8180
 
 whois:        whois.nic.jio
 
@@ -44,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.ril.com
 
 created:      2016-08-11
-changed:      2017-08-10
+changed:      2020-10-21
 source:       IANA
 
