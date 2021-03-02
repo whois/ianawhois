@@ -5,17 +5,17 @@
 domain:       ECO
 
 organisation: Big Room Inc.
-address:      332 - 237 Keefer Street
+address:      1231 Pacific Boulevard, Suite 581
 address:      Vancouver, BC
-address:      V6A 1X6
+address:      V6Z 0E2
 address:      Canada
 
 contact:      administrative
 name:         Registry Policy and Compliance
 organisation: Big Room Inc.
-address:      332 - 237 Keefer Street
+address:      1231 Pacific Boulevard, Suite 581
 address:      Vancouver, BC
-address:      V6A 1X6
+address:      V6Z 0E2
 address:      Canada
 phone:        16046826673
 e-mail:       iana-contact@bigroom.eco
@@ -35,8 +35,7 @@ nserver:      A0.NIC.ECO 2a01:8840:d2:0:0:0:0:17 65.22.216.17
 nserver:      A2.NIC.ECO 2a01:8840:d5:0:0:0:0:17 65.22.219.17
 nserver:      B0.NIC.ECO 2a01:8840:d3:0:0:0:0:17 65.22.217.17
 nserver:      C0.NIC.ECO 2a01:8840:d4:0:0:0:0:17 65.22.218.17
-ds-rdata:     58611 7 1 68f1d907fd681333f86712f1fe03e8ae17ea2eaf
-ds-rdata:     58611 7 2 68c4ad6711006396b87d983573ecfde8a92bf547df72eca7fa43ade76f729ce9
+ds-rdata:     6925 8 2 1ac66ee24a758b8df7ac8473d8ae26acefeb1e8b51486f846875ef6020a0fd15
 
 whois:        whois.nic.eco
 
@@ -44,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.bigroom.eco
 
 created:      2016-08-18
-changed:      2019-03-29
+changed:      2020-11-16
 source:       IANA
 
