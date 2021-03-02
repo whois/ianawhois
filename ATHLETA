@@ -18,14 +18,14 @@ fax-no:       +1 202 223 9256
 e-mail:       gapregistries@fairwindspartners.com
 
 contact:      technical
-name:         Director
-organisation: Neustar, Inc.
-address:      21575 Ridgetop Circle
-address:      Sterling, VA 20166
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      14455 North Hayden Rd.
+address:      Scottsdale, AZ 85260
 address:      United States
-phone:        +1 844-677-2878
-fax-no:       +1 571-434-5401
-e-mail:       technical1@registry.neustar
+phone:        +1 480-505-8800
+fax-no:       +1 480-393-4275
+e-mail:       iana@registry.godaddy
 
 nserver:      NS1.DNS.NIC.ATHLETA 156.154.144.16 2610:a1:1071:0:0:0:0:10
 nserver:      NS2.DNS.NIC.ATHLETA 156.154.145.16 2610:a1:1072:0:0:0:0:10
@@ -33,10 +33,6 @@ nserver:      NS3.DNS.NIC.ATHLETA 156.154.159.16 2610:a1:1073:0:0:0:0:10
 nserver:      NS4.DNS.NIC.ATHLETA 156.154.156.16 2610:a1:1074:0:0:0:0:10
 nserver:      NS5.DNS.NIC.ATHLETA 156.154.157.16 2610:a1:1075:0:0:0:0:10
 nserver:      NS6.DNS.NIC.ATHLETA 156.154.158.16 2610:a1:1076:0:0:0:0:10
-ds-rdata:     53254 8 1 AB7F102800502537A5A0BA03103EB5578FA6FFC5
-ds-rdata:     53254 8 2 A8B9454AADFF50A39E51D6254935536CC29BB01BFF7DC5906B727193385F2A89
-ds-rdata:     53017 8 1 5FEFB9CC58B92E9A317C8EF0F6C0DAC03E1F7608
-ds-rdata:     53017 8 2 0DEDD29EF0F656E15C8F4FFAE51602CC1353263EA04E9C4F409A4F903CDFC9F7
 ds-rdata:     15835 8 2 FA08722BB0007F644249FB9F285BC23788A48AC671FF05FD64C12A78123D689B
 ds-rdata:     15835 8 1 528482863545290007D20CF4E1248F4DB270C199
 
@@ -44,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.gap.com
 
 created:      2016-07-14
-changed:      2020-04-30
+changed:      2020-10-12
 source:       IANA
 
