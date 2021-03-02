@@ -34,8 +34,7 @@ nserver:      A0.NIC.THD 2a01:8840:ba:0:0:0:0:9 65.22.192.9
 nserver:      A2.NIC.THD 2a01:8840:bd:0:0:0:0:9 65.22.195.9
 nserver:      B0.NIC.THD 2a01:8840:bb:0:0:0:0:9 65.22.193.9
 nserver:      C0.NIC.THD 2a01:8840:bc:0:0:0:0:9 65.22.194.9
-ds-rdata:     43611 7 1 99f684f067434a0df49f283603446367ea4f1144
-ds-rdata:     43611 7 2 c4491dc711ebf4a5daf174ee62aa034b144e9ea1533f1a86284ba44510a3a8be
+ds-rdata:     16237 8 2 a2b1e70ec2a5831a069b94ccf9b39e547cd9a351055ea87f4b74dd99f7b061e1
 
 whois:        whois.nic.thd
 
@@ -43,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.homedepot.com
 
 created:      2015-05-14
-changed:      2019-08-21
+changed:      2020-11-17
 source:       IANA
 
