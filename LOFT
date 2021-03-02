@@ -17,14 +17,14 @@ phone:        +1 312 701 8713
 e-mail:       madams2@mayerbrown.com
 
 contact:      technical
-name:         Director
-organisation: Neustar, Inc.
-address:      21575 Ridgetop Circle
-address:      Sterling, VA 20166
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      14455 North Hayden Rd.
+address:      Scottsdale, AZ 85260
 address:      United States
-phone:        +1 844-677-2878
-fax-no:       +1 571-434-5401
-e-mail:       technical1@registry.neustar
+phone:        +1 480-505-8800
+fax-no:       +1 480-393-4275
+e-mail:       iana@registry.godaddy
 
 nserver:      NS1.DNS.NIC.LOFT 156.154.144.107 2610:a1:1071:0:0:0:0:6b
 nserver:      NS2.DNS.NIC.LOFT 156.154.145.107 2610:a1:1072:0:0:0:0:6b
@@ -32,8 +32,6 @@ nserver:      NS3.DNS.NIC.LOFT 156.154.159.107 2610:a1:1073:0:0:0:0:6b
 nserver:      NS4.DNS.NIC.LOFT 156.154.156.107 2610:a1:1074:0:0:0:0:6b
 nserver:      NS5.DNS.NIC.LOFT 156.154.157.107 2610:a1:1075:0:0:0:0:6b
 nserver:      NS6.DNS.NIC.LOFT 156.154.158.107 2610:a1:1076:0:0:0:0:6b
-ds-rdata:     18505 8 2 027EF108565B53BE83D86691E3E7583F7356E57C6942DFE03AFB92D9FD49EDC9
-ds-rdata:     18505 8 1 1883F1226D6EF2C6AD53D502D8D9DDB12091B46F
 ds-rdata:     22306 8 1 C70B4E8F9D9F3F6DC527AA299FF1C1070A3E4A5C
 ds-rdata:     22306 8 2 B6B1EDB9E55E48706791BBE597458070F5A2CC8EFF4A08983F497AE3A3A44F76
 
@@ -41,6 +39,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.loft.com
 
 created:      2016-07-21
-changed:      2020-05-01
+changed:      2020-10-12
 source:       IANA
 
