@@ -4,18 +4,18 @@
 
 domain:       AWS
 
-organisation: Amazon Registry Services, Inc.
+organisation: AWS Registry LLC
 address:      410 Terry Avenue North, Seattle, WA  98109
 address:      United States
 
 contact:      administrative
-name:         General Manager
-organisation: Amazon Registry Services, Inc.
+name:         Sr. Manager
+organisation: AWS Registry LLC
 address:      410 Terry Avenue North, Seattle, WA  98109
 address:      United States
-phone:        +1-206-740-8515
+phone:        +1-206-765-5360
 fax-no:       +1-206-946-7702
-e-mail:       aws-rzm@amazon.com
+e-mail:       aws-registry@amazon.com
 
 contact:      technical
 name:         TLD Registry Services Technical
@@ -45,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.amazonregistry.com
 
 created:      2016-03-18
-changed:      2019-06-04
+changed:      2021-01-05
 source:       IANA
 
