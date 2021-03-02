@@ -18,14 +18,14 @@ phone:        +1 215 293 6509
 e-mail:       domainadmincorp@teva.co.il
 
 contact:      technical
-name:         Director
-organisation: Neustar, Inc.
-address:      21575 Ridgetop Circle
-address:      Sterling, VA 20166
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      14455 North Hayden Rd.
+address:      Scottsdale, AZ 85260
 address:      United States
-phone:        +1 844-677-2878
-fax-no:       +1 571-434-5401
-e-mail:       technical1@registry.neustar
+phone:        +1 480-505-8800
+fax-no:       +1 480-393-4275
+e-mail:       iana@registry.godaddy
 
 nserver:      NS1.DNS.NIC.TEVA 156.154.144.160 2610:a1:1071:0:0:0:0:a0
 nserver:      NS2.DNS.NIC.TEVA 156.154.145.160 2610:a1:1072:0:0:0:0:a0
@@ -33,10 +33,6 @@ nserver:      NS3.DNS.NIC.TEVA 156.154.159.160 2610:a1:1073:0:0:0:0:a0
 nserver:      NS4.DNS.NIC.TEVA 156.154.156.160 2610:a1:1074:0:0:0:0:a0
 nserver:      NS5.DNS.NIC.TEVA 156.154.157.160 2610:a1:1075:0:0:0:0:a0
 nserver:      NS6.DNS.NIC.TEVA 156.154.158.160 2610:a1:1076:0:0:0:0:a0
-ds-rdata:     41870 8 1 462E4E2C6401806D4ECB27812C3A6C73AF2E2BCC
-ds-rdata:     41870 8 2 FA78847E5F71E44A7B435A3DC2B5AB8023FE9C60BB8BDD8636D2F74DAA501F4A
-ds-rdata:     42649 8 2 BD38C904FF1B5EF919E0A5152CC8FF05906DFD4CCC4D70CEDBA1B9A293A0C299
-ds-rdata:     42649 8 1 DD6DFC154701A2C743267890CE066E789CA8C531
 ds-rdata:     54892 8 1 0F8F36F371F8973853E650C59678F953CF5DE24C
 ds-rdata:     54892 8 2 E7222EFCD2A27D8955B133CFF4BA6BCB983C4A4260C50529AC604AF7B008A8CE
 
@@ -46,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.teva
 
 created:      2016-02-19
-changed:      2020-04-30
+changed:      2020-10-12
 source:       IANA
 
