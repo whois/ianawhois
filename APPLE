@@ -34,10 +34,10 @@ nserver:      A0.NIC.APPLE 2a01:8840:3a:0:0:0:0:1 65.22.60.1
 nserver:      A2.NIC.APPLE 2a01:8840:3d:0:0:0:0:1 65.22.63.1
 nserver:      B0.NIC.APPLE 2a01:8840:3b:0:0:0:0:1 65.22.61.1
 nserver:      C0.NIC.APPLE 2a01:8840:3c:0:0:0:0:1 65.22.62.1
-ds-rdata:     64704 7 1 b56889e52340692958f9d844fa179e2d0805af49
-ds-rdata:     64704 7 2 25f2dc612aa65f739ce8de6adf5f6ddbcc53b4feb66bb18aef44f3db2477e328
 ds-rdata:     54541 7 1 07eca60632b3a62af2be9e597d7c5b6f1bb1fc21
 ds-rdata:     54541 7 2 eb3a275c32eeab32b6f7f6a9ec1d19e327c68eaf1a55bd5b8dac634bc416e8c6
+ds-rdata:     50166 7 2 B8038B6449B548E38FC74CE04D21726C9F052213A55573256C6867AED2E6C091
+ds-rdata:     50166 7 1 20DE4DA26E31E393746200E709C6F4E91FE65D4F
 
 whois:        whois.afilias-srs.net
 
@@ -45,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.apple.com/
 
 created:      2015-07-02
-changed:      2019-08-21
+changed:      2020-09-16
 source:       IANA
 
