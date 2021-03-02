@@ -9,13 +9,14 @@ address:      1 N. Waukegan Road, North Chicago, IL, 60064
 address:      United States
 
 contact:      administrative
-name:         Vice President, Consulting and Strategy
-organisation: Fairwinds Partners
-address:      1000 Potomac Street NW #350, Washington, DC, 20007,
-address:      United States
-phone:        1-202-222-9252
-fax-no:       1-202-223-9256
-e-mail:       abbvieregistry@fairwindspartners.com
+name:         Domain Manager
+organisation: Valideus
+address:      28-30 Little Russell Street
+address:      London WC1A 2HN
+address:      United Kingdom
+phone:        +44 2074218299
+fax-no:       +44 8700118187
+e-mail:       technical@valideus.com
 
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
@@ -30,8 +31,7 @@ nserver:      A0.NIC.ABBVIE 2a01:8840:9a:0:0:0:0:17 65.22.156.17
 nserver:      A2.NIC.ABBVIE 2a01:8840:9d:0:0:0:0:17 65.22.159.17
 nserver:      B0.NIC.ABBVIE 2a01:8840:9b:0:0:0:0:17 65.22.157.17
 nserver:      C0.NIC.ABBVIE 2a01:8840:9c:0:0:0:0:17 65.22.158.17
-ds-rdata:     9948 7 1 c721da6a58b9e1ccae45d1fed8a4c6e9cb39c593
-ds-rdata:     9948 7 2 fc4e743bfb6063586a678b8015da63354195249c84fcfcc362642a3c0a4e3639
+ds-rdata:     40162 8 2 248fd3c8f1e9d870b09594bf45b7de53d29f984ce81f57f750d4bd0052e7b46e
 
 whois:        whois.afilias-srs.net
 
@@ -39,6 +39,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.abbvie.com
 
 created:      2016-02-26
-changed:      2019-08-21
+changed:      2020-12-10
 source:       IANA
 
