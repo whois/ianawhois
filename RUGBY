@@ -31,12 +31,12 @@ phone:        +44.2033880600
 fax-no:       +44.2033880601
 e-mail:       tld.ops@centralnic.com
 
-nserver:      A.NIC.RUGBY 194.169.218.73 2001:67c:13cc:0:0:0:1:73
-nserver:      B.NIC.RUGBY 185.24.64.73 2a04:2b00:13cc:0:0:0:1:73
+nserver:      A.NIC.RUGBY 2001:dcd:1:0:0:0:0:10 37.209.192.10
+nserver:      B.NIC.RUGBY 2001:dcd:2:0:0:0:0:10 37.209.194.10
 nserver:      C.NIC.RUGBY 212.18.248.73 2a04:2b00:13ee:0:0:0:0:73
 nserver:      D.NIC.RUGBY 212.18.249.73 2a04:2b00:13ff:0:0:0:0:73
-ds-rdata:     30467 8 1 CBF75F545BB5C1057CF13EDE91565F6CB3708D7C
 ds-rdata:     30467 8 2 D23F3E8A3EDED657AC88B27E95B1EB94CBA49F056E3FA1FC970E743DC3225817
+ds-rdata:     63277 8 2 1183FCA31B96229383BDD1240E4A1A383C6A4459A6CEA0B13CBF995F9DF85E68
 
 whois:        whois.nic.rugby
 
@@ -44,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.rugby/
 
 created:      2017-03-23
-changed:      2020-04-09
+changed:      2021-02-25
 source:       IANA
 
