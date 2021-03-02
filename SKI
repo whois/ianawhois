@@ -35,7 +35,6 @@ nserver:      A0.NIC.SKI 2a01:8840:52:0:0:0:0:17 65.22.84.17
 nserver:      A2.NIC.SKI 2a01:8840:55:0:0:0:0:17 65.22.87.17
 nserver:      B0.NIC.SKI 2a01:8840:53:0:0:0:0:17 65.22.85.17
 nserver:      C0.NIC.SKI 2a01:8840:54:0:0:0:0:17 65.22.86.17
-ds-rdata:     62489 8 1 512d8b1cb41109fd9d142ca2e733d109f9c08cd3
 ds-rdata:     62489 8 2 d421064a672f86a83a4c7fe005ce8cd164fffdfab3e64415498c3413ba46fe10
 
 whois:        whois.afilias.net
@@ -44,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://afilias.info/contact-us
 
 created:      2015-05-14
-changed:      2019-08-19
+changed:      2020-10-01
 source:       IANA
 
