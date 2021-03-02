@@ -26,14 +26,12 @@ e-mail:       contact@itdc.ge
 
 contact:      technical
 name:         Konstantine Karosanidze
-organisation: Information Technologies Development Center (ITDC)
-address:      Shalva Nutsubidze Plato
-address:      4th Mico District
-address:      7 Painters Settlement
-address:      Tbilisi 0183
+organisation: Cloud9 LTD
+address:      A. Tsereteli Ave 2
+address:      Tbilisi, 0112
 address:      Georgia
-phone:        +995 32 249 00 49
-e-mail:       kotso@itdc.ge
+phone:        +995 555 482 482
+e-mail:       konstantine@cloud9.ge
 
 nserver:      A.XN--NODE.GLOBALANYCASTCLOUD.FREENOM.NET 185.21.168.36 2a04:1b00:8:0:0:0:0:4
 nserver:      B.XN--NODE.GLOBALANYCASTCLOUD.FREENOM.NET 185.21.169.36 2a04:1b00:9:0:0:0:0:4
@@ -47,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://billing.itdc.ge
 
 created:      2011-02-11
-changed:      2014-12-04
+changed:      2021-01-28
 source:       IANA
 
