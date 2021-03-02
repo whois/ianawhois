@@ -18,14 +18,14 @@ fax-no:       +1 202 223 9256
 e-mail:       gapregistries@fairwindspartners.com
 
 contact:      technical
-name:         Director
-organisation: Neustar, Inc.
-address:      21575 Ridgetop Circle
-address:      Sterling, VA 20166
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      14455 North Hayden Rd.
+address:      Scottsdale, AZ 85260
 address:      United States
-phone:        +1 844-677-2878
-fax-no:       +1 571-434-5401
-e-mail:       technical1@registry.neustar
+phone:        +1 480-505-8800
+fax-no:       +1 480-393-4275
+e-mail:       iana@registry.godaddy
 
 nserver:      NS1.DNS.NIC.BANANAREPUBLIC 156.154.144.22 2610:a1:1071:0:0:0:0:16
 nserver:      NS2.DNS.NIC.BANANAREPUBLIC 156.154.145.22 2610:a1:1072:0:0:0:0:16
@@ -33,10 +33,6 @@ nserver:      NS3.DNS.NIC.BANANAREPUBLIC 156.154.159.22 2610:a1:1073:0:0:0:0:16
 nserver:      NS4.DNS.NIC.BANANAREPUBLIC 156.154.156.22 2610:a1:1074:0:0:0:0:16
 nserver:      NS5.DNS.NIC.BANANAREPUBLIC 156.154.157.22 2610:a1:1075:0:0:0:0:16
 nserver:      NS6.DNS.NIC.BANANAREPUBLIC 156.154.158.22 2610:a1:1076:0:0:0:0:16
-ds-rdata:     26441 8 1 7F10CDBC750F167AC45EA15D7E50F98CE853D2E3
-ds-rdata:     26441 8 2 E5138A15C78342C8CDE7B48E56B9CEF825358D18ED1203DE88849696AF2C27BB
-ds-rdata:     31327 8 2 F825404D81295703C0C17EF69E21B30FF9E9B6E02DF75F67709FB81E8E11A8EC
-ds-rdata:     31327 8 1 E66FECAC4089CE76A44122C2611DD22E7536B4E5
 ds-rdata:     36151 8 1 61DDCF18BB5D470D66D1BA5B831442B822A10EB1
 ds-rdata:     36151 8 2 428E67D93726312E7B4E93132FB90EEB6AF9C07A7A3A31F50F016271A84B01B1
 
@@ -44,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.gap.com
 
 created:      2016-07-14
-changed:      2020-04-30
+changed:      2020-10-12
 source:       IANA
 
