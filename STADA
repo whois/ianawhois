@@ -31,8 +31,7 @@ nserver:      A0.NIC.STADA 2a01:8840:9a:0:0:0:0:25 65.22.156.25
 nserver:      A2.NIC.STADA 2a01:8840:9d:0:0:0:0:25 65.22.159.25
 nserver:      B0.NIC.STADA 2a01:8840:9b:0:0:0:0:25 65.22.157.25
 nserver:      C0.NIC.STADA 2a01:8840:9c:0:0:0:0:25 65.22.158.25
-ds-rdata:     45904 7 1 319dbec4788c44ba971dc517f4f17bb48beb28d7
-ds-rdata:     45904 7 2 3bf55ae7e6a66f5afef9fa500b3b52e3d2dfefad73b427b1dec242d69544e364
+ds-rdata:     10585 8 2 0bdb59ef7db2dbdd103cf1cda4ecbddd6befc6f4d074ef177311fc3358c14941
 
 whois:        whois.afilias-srs.net
 
@@ -40,6 +39,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.stada.com
 
 created:      2015-08-13
-changed:      2019-08-21
+changed:      2020-12-10
 source:       IANA
 
