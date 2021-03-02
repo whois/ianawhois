@@ -34,8 +34,7 @@ nserver:      A0.NIC.PNC 2a01:8840:3e:0:0:0:0:25 65.22.64.25
 nserver:      A2.NIC.PNC 2a01:8840:41:0:0:0:0:25 65.22.67.25
 nserver:      B0.NIC.PNC 2a01:8840:3f:0:0:0:0:25 65.22.65.25
 nserver:      C0.NIC.PNC 2a01:8840:40:0:0:0:0:25 65.22.66.25
-ds-rdata:     54006 7 1 615f82a68b6ec43597cf64b429549d5529b2b4a4
-ds-rdata:     54006 7 2 ed3f8476ad8c82b1b2d0b29cd5b9af7a1654732c77748ae6ec5ddf6cccc19adb
+ds-rdata:     40264 8 2 137c7b7b6be3d79ff1c7f5ddb9525cd8bf14b821dcec08ff5a3a7b128e58660b
 
 whois:        whois.nic.pnc
 
@@ -43,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.pnc.com
 
 created:      2015-10-29
-changed:      2019-08-21
+changed:      2020-10-30
 source:       IANA
 
