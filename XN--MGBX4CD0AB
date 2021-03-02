@@ -6,45 +6,42 @@ domain:       مليسيا
 domain-ace:   XN--MGBX4CD0AB
 
 organisation: MYNIC Berhad
-address:      Level 3, Block C, Mines Waterfront
-address:      Business Park, No. 3, Jalan Tasik, Mines Resort City
-address:      Seri Kembangan Selangor 43300
+address:      Level 3, Tower 2, Menara Cyber Axis
+address:      Jalan Impact, 63000 Cyberjaya
+address:      Selangor Darul Ehsan
 address:      Malaysia
 
 contact:      administrative
 name:         CEO
 organisation: MYNIC Berhad
-address:      Level 3, Block C, Mines Waterfront
-address:      Business Park, No. 3, Jalan Tasik, Mines Resort City
-address:      Seri Kembangan Selangor 43300
+address:      Level 3, Tower 2, Menara Cyber Axis
+address:      Jalan Impact, 63000 Cyberjaya
+address:      Selangor Darul Ehsan
 address:      Malaysia
-phone:        +603 8943 5510
-fax-no:       +603 8943 5520
+phone:        +603 8008 2000
+fax-no:       +603 8008 2020
 e-mail:       dnsadmin@mynic.my
 
 contact:      technical
 name:         CEO
 organisation: MYNIC Berhad
-address:      Level 3, Block C, Mines Waterfront
-address:      Business Park, No. 3, Jalan Tasik, Mines Resort City
-address:      Seri Kembangan Selangor 43300
+address:      Level 3, Tower 2, Menara Cyber Axis
+address:      Jalan Impact, 63000 Cyberjaya
+address:      Selangor Darul Ehsan
 address:      Malaysia
-phone:        +603 8943 5510
-fax-no:       +603 8943 5520
+phone:        +603 8008 2000
+fax-no:       +603 8008 2020
 e-mail:       dnsadmin@mynic.my
 
 nserver:      A.MYNIC.CENTRALNIC-DNS.COM 194.169.218.114 2001:67c:13cc:0:0:0:1:114
 nserver:      A.NIC.MY 103.44.108.53 2001:ddc:0:53:0:0:0:53
-nserver:      A1.MYNIC.MY 202.171.47.204
+nserver:      A1.NIC.MY 202.171.47.204
 nserver:      B.MYNIC.CENTRALNIC-DNS.COM 185.24.64.114 2a04:2b00:13cc:0:0:0:1:114
 nserver:      C.MYNIC.CENTRALNIC-DNS.COM 212.18.248.114 2a04:2b00:13ee:0:0:0:0:114
 nserver:      D.MYNIC.CENTRALNIC-DNS.COM 212.18.249.114 2a04:2b00:13ff:0:0:0:0:114
-ds-rdata:     15654 8 1 4429176FA91B8991008ADB00AE167EFC3F054AC3
 ds-rdata:     15654 8 2 E7E6D7D1BBA6E0443EBE51946759FDCB9E370BA14F95B61091B9B989B1A90340
 ds-rdata:     37866 8 2 9818EC191CFCE9EF77E5E458BCF471D5AFCFA30D40F9A62BDD69A1863187247C
 ds-rdata:     1998 8 2 DE4C45D877C64E9C3EBCBC79BADBC104D7C5292D72BC6CA47090B31BE24212E0
-ds-rdata:     37866 8 1 071FEAC6220886F105BDC32346548DEAC4A0DB37
-ds-rdata:     1998 8 1 60C87D53F741F6452301D8BB42D6A09081E2B71D
 
 whois:        whois.mynic.my
 
@@ -52,6 +49,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.mynic.my
 
 created:      2011-10-22
-changed:      2019-05-09
+changed:      2021-02-08
 source:       IANA
 
