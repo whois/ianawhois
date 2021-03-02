@@ -30,8 +30,7 @@ nserver:      A0.NIC.AVIANCA 2a01:8840:4e:0:0:0:0:17 65.22.80.17
 nserver:      A2.NIC.AVIANCA 2a01:8840:51:0:0:0:0:17 65.22.83.17
 nserver:      B0.NIC.AVIANCA 2a01:8840:4f:0:0:0:0:17 65.22.81.17
 nserver:      C0.NIC.AVIANCA 2a01:8840:50:0:0:0:0:17 65.22.82.17
-ds-rdata:     2665 7 1 4badb4c4fa071676d9b64eeeaab056c0af12a988
-ds-rdata:     2665 7 2 002eef1e834f8cac8f69c08eb81dc651806a1e34f775da95f127adcb39b11828
+ds-rdata:     16027 8 2 a87ec8292b65cd932f5b29c32773dabfff897e71b9921fa4f000f826542f65cc
 
 whois:        whois.afilias-srs.net
 
@@ -39,6 +38,6 @@ status:       ACTIVE
 remarks:      Registration information:  http://avianca.com/es-us/
 
 created:      2016-02-26
-changed:      2019-09-11
+changed:      2020-12-08
 source:       IANA
 
