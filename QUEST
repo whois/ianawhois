@@ -41,9 +41,9 @@ ds-rdata:     50071 8 1 118c9e561b08fc2c993ca75545ff688ecff4ffcb
 whois:        whois.nic.quest
 
 status:       ACTIVE
-remarks:      Registration information: http://nic.quest
+remarks:      Registration information: https://nic.quest/
 
 created:      2015-08-06
-changed:      2020-03-03
+changed:      2020-10-09
 source:       IANA
 
