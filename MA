@@ -38,8 +38,9 @@ nserver:      C.TLD.MA 2001:4288:1800:386:0:0:0:3 81.192.171.115 81.192.171.139
 nserver:      D.TLD.MA 2001:4288:1800:386:0:0:0:4 81.192.171.116 81.192.171.140
 nserver:      DNS.INRIA.FR 193.51.208.13
 nserver:      E.TLD.MA 105.73.80.236
+nserver:      F.TLD.MA 41.214.240.4
 nserver:      NS-MA.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
-ds-rdata:     33982 8 2 3B9F33C27C469841B58463BCBCCDF2A4F129B03723BFA760CC9AC6B08DA47C12
+ds-rdata:     46261 8 2 CAA9A73C53C77391CB1C3C6962379F184BA4DE89695FF8212AB368EFAC30FBF6
 
 whois:        whois.registre.ma
 
@@ -47,6 +48,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.registre.ma
 
 created:      1993-11-26
-changed:      2020-03-26
+changed:      2020-12-31
 source:       IANA
 
