@@ -35,8 +35,7 @@ nserver:      A0.NIC.XN--9KRT00A 2a01:8840:6e:0:0:0:0:1 65.22.112.1
 nserver:      A2.NIC.XN--9KRT00A 2a01:8840:71:0:0:0:0:1 65.22.115.1
 nserver:      B0.NIC.XN--9KRT00A 2a01:8840:6f:0:0:0:0:1 65.22.113.1
 nserver:      C0.NIC.XN--9KRT00A 2a01:8840:70:0:0:0:0:1 65.22.114.1
-ds-rdata:     48046 7 1 418be4a49d0e918967ee13542671dca14495af66
-ds-rdata:     48046 7 2 ce65e46bb962c0425fca5b12be919a4cdc0cd9d535cf58b7eeb3a96ce1611387
+ds-rdata:     6052 8 2 e5aea197b5fb7f042833684bbf64fd1f9341baa2007b2db2958c9dfaa5884b78
 
 whois:        whois.nic.xn--9krt00a
 
@@ -44,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.sina.com
 
 created:      2016-02-29
-changed:      2017-08-03
+changed:      2020-11-20
 source:       IANA
 
