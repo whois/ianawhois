@@ -34,8 +34,7 @@ nserver:      A0.NIC.NOWTV 2a01:8840:a6:0:0:0:0:1 65.22.172.1
 nserver:      A2.NIC.NOWTV 2a01:8840:a9:0:0:0:0:1 65.22.175.1
 nserver:      B0.NIC.NOWTV 2a01:8840:a7:0:0:0:0:1 65.22.173.1
 nserver:      C0.NIC.NOWTV 2a01:8840:a8:0:0:0:0:1 65.22.174.1
-ds-rdata:     970 7 1 d5fbd89412c9b7f3af039913ba59e3bdeebef55b
-ds-rdata:     970 7 2 7f9668652bf0665a0dbbd61afe041727666616abb298c9729cbbbb5e892f9752
+ds-rdata:     30316 8 2 06bcb6632fc4327ba1d5abff7caca06f7d01fcadefba3aea17db0839c5c9cc4a
 
 whois:        whois.nic.nowtv
 
@@ -44,6 +43,6 @@ remarks:      Registration information:
 remarks:      http://www.dot.asia/namesphere/
 
 created:      2016-04-15
-changed:      2017-08-28
+changed:      2020-11-05
 source:       IANA
 
