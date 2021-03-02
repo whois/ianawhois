@@ -18,14 +18,14 @@ fax-no:       +1.2144388606
 e-mail:       ngtld-cbre@cscglobal.com
 
 contact:      technical
-name:         Director
-organisation: Neustar, Inc.
-address:      21575 Ridgetop Circle
-address:      Sterling, VA 20166
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      14455 North Hayden Rd.
+address:      Scottsdale, AZ 85260
 address:      United States
-phone:        +1 844-677-2878
-fax-no:       +1 571-434-5401
-e-mail:       technical1@registry.neustar
+phone:        +1 480-505-8800
+fax-no:       +1 480-393-4275
+e-mail:       iana@registry.godaddy
 
 nserver:      NS1.DNS.NIC.CBRE 156.154.144.36 2610:a1:1071:0:0:0:0:24
 nserver:      NS2.DNS.NIC.CBRE 156.154.145.36 2610:a1:1072:0:0:0:0:24
@@ -33,8 +33,6 @@ nserver:      NS3.DNS.NIC.CBRE 156.154.159.36 2610:a1:1073:0:0:0:0:24
 nserver:      NS4.DNS.NIC.CBRE 156.154.156.36 2610:a1:1074:0:0:0:0:24
 nserver:      NS5.DNS.NIC.CBRE 156.154.157.36 2610:a1:1075:0:0:0:0:24
 nserver:      NS6.DNS.NIC.CBRE 156.154.158.36 2610:a1:1076:0:0:0:0:24
-ds-rdata:     38140 8 2 381F6ACF9EB992A133C26A6D748486CD9A373EC9645F3E3ED80FFA2CD80C8D2A
-ds-rdata:     38140 8 1 367AACE3200791C0835D3CF1F337059310D31530
 ds-rdata:     51994 8 2 4DABEAD4547B450CC76DB5D6B9EA975BCE56D38CB807B2ED2699845B8C4A4F52
 ds-rdata:     51994 8 1 F55E54A0AD5284105AD6A7749B975289A3CE7839
 
@@ -42,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://cbre.com 
 
 created:      2016-06-16
-changed:      2020-04-30
+changed:      2020-10-12
 source:       IANA
 
