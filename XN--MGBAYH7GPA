@@ -5,14 +5,14 @@
 domain:       الاردن
 domain-ace:   XN--MGBAYH7GPA
 
-organisation: National Information Technology Center (NITC)
-address:      Al-Jubeiha
-address:      P.O.Box 259
-address:      Amman  11941
+organisation: Ministry of Digital Economy and Entrepreneurship (MoDEE)
+address:      8th Circle Bayader Wadi Al Seer
+address:      P.O. Box 9903
+address:      Amman 11191
 address:      Jordan
 
 contact:      administrative
-name:         Eng. Nader Thneibat
+name:         Eng. Nabil Abu-Sall
 organisation: Ministry of Digital Economy and Entrepreneurship (MoDEE)
 address:      8th Circle - Bayader Wadi Al Seer
 address:      P.O.Box 9903
@@ -20,18 +20,18 @@ address:      Amman 11191
 address:      Jordan
 phone:        +962 6 5805700
 fax-no:       +962 6 5861059
-e-mail:       nader.thneibat@modee.gov.jo
+e-mail:       nabil.abusall@modee.gov.jo
 
 contact:      technical
 name:         National Domain Names Division
-organisation: National Information Technology Center (NITC)
-address:      Royal Scientific Society, Al-Jubeiha
-address:      P.O. Box 259
-address:      Amman  11937
+organisation: Ministry of Digital Economy and Entrepreneurship (MoDEE)
+address:      8th Circle Bayader Wadi Al Seer
+address:      P.O. Box 9903
+address:      Amman 11191
 address:      Jordan
-phone:        +962 6 5300222
-fax-no:       +962 6 5300277
-e-mail:       dns@nitc.gov.jo
+phone:        +962 6 5805700
+fax-no:       +962 6 5861059
+e-mail:       dns@modee.gov.jo
 
 nserver:      AMRA.NIC.GOV.JO 193.188.66.103
 nserver:      JO.CCTLD.AUTHDNS.RIPE.NET 193.0.9.83 2001:67c:e0:0:0:0:0:83
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.idn.jo/
 
 created:      2010-08-20
-changed:      2019-07-29
+changed:      2021-01-27
 source:       IANA
 
