@@ -4,43 +4,50 @@
 
 domain:       BOX
 
-organisation: NS1 Limited
-address:      12/F, Daily House, 35-37 Haiphong Road, Tsim Sha Tsui, Kowloon
-address:      Hong Kong
+organisation: Intercap Registry Inc.
+address:      103 South Church Street, 4th Floor, Harbour Place, PO Box 10240
+address:      George Town
+address:      Grand Cayman
+address:      KY1-1002
+address:      Cayman Islands
 
 contact:      administrative
-name:         Rebecca Chan
-organisation: Namesphere
-address:      12/F, Daily House, 35-37 Haiphong Road, Tsim Sha Tsui, Kowloon
-address:      Hong Kong
-phone:        +852.22447922
-fax-no:       +852.22447902
-e-mail:       rebecca@namesphere.asia
+name:         General Manager
+organisation: Intercap Registry Inc.
+address:      103 South Church Street, 4th Floor, Harbour Place, PO Box 10240
+address:      George Town
+address:      Grand Cayman
+address:      KY1-1002
+address:      Cayman Islands
+phone:        +1 4164773490 xt. 215
+fax-no:       +1 4164770964
+e-mail:       eisner@intercap.inc
 
 contact:      technical
-name:         Edmon Chung
-organisation: Namesphere
-address:      12/F, Daily House, 35-37 Haiphong Road, Tsim Sha Tsui, Kowloon
-address:      Hong Kong
-phone:        +852.22447900
-fax-no:       +852.22447902
-e-mail:       edmon@namesphere.asia
+name:         Director of Operations
+organisation: Intercap Registry Inc.
+address:      103 South Church Street, 4th Floor, Harbour Place, PO Box 10240
+address:      George Town
+address:      Grand Cayman
+address:      KY1-1002
+address:      Cayman Islands
+phone:        +1 4164773490 xt. 203
+fax-no:       +1 4164770964
+e-mail:       adam@intercap.com
 
 nserver:      A.NIC.BOX 2001:dcd:1:0:0:0:0:10 37.209.192.10
 nserver:      B.NIC.BOX 2001:dcd:2:0:0:0:0:10 37.209.194.10
 nserver:      C.NIC.BOX 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      D.NIC.BOX 2001:dcd:4:0:0:0:0:10 37.209.198.10
-ds-rdata:     32737 8 1 A637BE5E3CC2E079DFF2BD5BEFF84DB3CFB2E801
-ds-rdata:     32737 8 2 2ABFC49F5DCD5655E7B32C6DCE32C11C8043AF5D31CD3C580B311D69BFB161B9
 ds-rdata:     47542 8 2 31CC9F53054303443FA06F368C54971D8E12C89655CB768A951D908701E82800
 ds-rdata:     47542 8 1 F59D467614D996277C9EA8E52EB920623B9FA4FE
 
 whois:        whois.nic.box
 
 status:       ACTIVE
-remarks:      Registration information: http://www.namesphere.asia
+remarks:      Registration information: https://intercap.inc
 
 created:      2016-10-27
-changed:      2020-04-30
+changed:      2020-10-13
 source:       IANA
 
