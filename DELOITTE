@@ -10,12 +10,12 @@ address:      New York, NY 10112-0015
 address:      United States
 
 contact:      administrative
-name:         Manager
+name:         Lead Network Analyst
 organisation: Deloitte Touche Tohmatsu Services, Inc.
 address:      111 S Wacker Dr
-address:      Chicago, IL 60611
+address:      Chicago, IL 60606
 address:      United States
-phone:        +1 312 486 1191
+phone:        +1 312 486 4145
 e-mail:       dttdomainadmin@deloitte.com
 
 contact:      technical
@@ -42,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.deloitte
 
 created:      2015-12-23
-changed:      2019-04-11
+changed:      2020-11-18
 source:       IANA
 
