@@ -18,14 +18,14 @@ fax-no:       +49 221 8885 5274
 e-mail:       ngtld-lanxess@cscglobal.com
 
 contact:      technical
-name:         Director
-organisation: Neustar, Inc.
-address:      21575 Ridgetop Circle
-address:      Sterling, VA 20166
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      14455 North Hayden Rd.
+address:      Scottsdale, AZ 85260
 address:      United States
-phone:        +1 844-677-2878
-fax-no:       +1 571-434-5401
-e-mail:       technical1@registry.neustar
+phone:        +1 480-505-8800
+fax-no:       +1 480-393-4275
+e-mail:       iana@registry.godaddy
 
 nserver:      NS1.DNS.NIC.LANXESS 156.154.144.101 2610:a1:1071:0:0:0:0:65
 nserver:      NS2.DNS.NIC.LANXESS 156.154.145.101 2610:a1:1072:0:0:0:0:65
@@ -33,8 +33,6 @@ nserver:      NS3.DNS.NIC.LANXESS 156.154.159.101 2610:a1:1073:0:0:0:0:65
 nserver:      NS4.DNS.NIC.LANXESS 156.154.156.101 2610:a1:1074:0:0:0:0:65
 nserver:      NS5.DNS.NIC.LANXESS 156.154.157.101 2610:a1:1075:0:0:0:0:65
 nserver:      NS6.DNS.NIC.LANXESS 156.154.158.101 2610:a1:1076:0:0:0:0:65
-ds-rdata:     46009 8 1 0EE0560222FECAFD3CE8B2218F9EA58B08121D25
-ds-rdata:     46009 8 2 58E1F4050ABB2AD9E477DE05373BD15BF26C1A2D54DD47CAF0BA71270D062739
 ds-rdata:     42844 8 2 F70A11C0E9406CE474776728756638F707E1E8B3441764E75435BF1E54712F72
 ds-rdata:     42844 8 1 16C814AED6AE403A1B9E48DDF9EA3DF76E662CAB
 
@@ -42,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.lanxess.com
 
 created:      2016-01-08
-changed:      2020-05-01
+changed:      2020-10-12
 source:       IANA
 
