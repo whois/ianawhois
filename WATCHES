@@ -18,32 +18,28 @@ fax-no:       00448700118187
 e-mail:       lorna.gradden.ri@valideus.com
 
 contact:      technical
-name:         Director
-organisation: Neustar, Inc.
-address:      21575 Ridgetop Circle
-address:      Sterling, VA 20166
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      300 Welsh Road, Building 3, Suite 105
+address:      Horsham, PA 19044
 address:      United States
-phone:        +1 844-677-2878
-fax-no:       +1 571-434-5401
-e-mail:       technical1@registry.neustar
+phone:        +1 215 706 5700
+fax-no:       +1 215 706 5701
+e-mail:       tld-tech-poc@afilias.info
 
-nserver:      NS1.DNS.NIC.WATCHES 156.154.169.58 2610:a1:1071:0:0:0:1:3a
-nserver:      NS2.DNS.NIC.WATCHES 156.154.170.58 2610:a1:1072:0:0:0:1:3a
-nserver:      NS3.DNS.NIC.WATCHES 156.154.171.58 2610:a1:1073:0:0:0:1:3a
-nserver:      NS4.DNS.NIC.WATCHES 156.154.172.58 2610:a1:1074:0:0:0:1:3a
-nserver:      NS5.DNS.NIC.WATCHES 156.154.173.58 2610:a1:1075:0:0:0:1:3a
-nserver:      NS6.DNS.NIC.WATCHES 156.154.174.58 2610:a1:1076:0:0:0:1:3a
-ds-rdata:     2590 8 1 F5A086119340862C8192F81EB143E0D5CF899FD8
-ds-rdata:     2590 8 2 A753BE140491C76B712E0B32145D62D4C2E676800813932B03E4A8C30A2FF472
-ds-rdata:     56326 8 2 2C978CAE25EE22D1B7CE6CDE019DA7F64E98FF62205330EE8AC97889C611B6DD
-ds-rdata:     56326 8 1 930809D9155E65855487B57AF20B4D4BBA5029C2
-ds-rdata:     6175 8 1 B09EF35773508A97CF59489088F42996DA1AD30F
-ds-rdata:     6175 8 2 AD4D7F8E54810AD4F6BB9D1C7E3FE5B4CCF2B07120F6631C27ACFBD1355BE5F8
+nserver:      A0.NIC.WATCHES 2a01:8840:c6:0:0:0:0:1 65.22.204.1
+nserver:      A2.NIC.WATCHES 2a01:8840:c9:0:0:0:0:1 65.22.207.1
+nserver:      B0.NIC.WATCHES 2a01:8840:c7:0:0:0:0:1 65.22.205.1
+nserver:      C0.NIC.WATCHES 2a01:8840:c8:0:0:0:0:1 65.22.206.1
+ds-rdata:     61699 8 2 9110905c79b0c95933eb1f037a0d7a150819f1d1553ad89187a7849039a97ebe
+
+whois:        whois.nic.watches
 
 status:       ACTIVE
-remarks:      Registration information: http://www.richemont.com
+remarks:      Registration information:
+remarks:      https://afilias.info/contact-us
 
 created:      2015-11-12
-changed:      2020-04-30
+changed:      2020-12-17
 source:       IANA
 
