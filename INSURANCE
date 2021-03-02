@@ -17,19 +17,18 @@ address:      600 13th Street, NW
 address:      Suite 400
 address:      Washington, DC 20005
 address:      United States
-phone:        +1 202 589 2532
-fax-no:       +1 202 589 2525
+phone:        +1 202 236 1154
 e-mail:       ftld@ftld.com
 
 contact:      technical
-name:         Raymond Zylstra
-organisation: Neustar, Inc.
-address:      21575 Ridgetop Circle
-address:      Sterling Virginia 20166
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      14455 North Hayden Rd.
+address:      Scottsdale, AZ 85260
 address:      United States
-phone:        +1-844-677-2878
-fax-no:       +1-571-434-5401
-e-mail:       technical1@registry.neustar
+phone:        +1 480-505-8800
+fax-no:       +1 480-393-4275
+e-mail:       iana@registry.godaddy
 
 nserver:      A.NIC.INSURANCE 156.154.100.22 2001:0502:2eda:0:0:0:0:22
 nserver:      B.NIC.INSURANCE 156.154.101.22 2001:0502:ad09:0:0:0:0:22
@@ -37,8 +36,6 @@ nserver:      C.NIC.INSURANCE 156.154.102.22 2610:a1:1009:0:0:0:0:22
 nserver:      D.NIC.INSURANCE 156.154.103.22 2610:a1:1010:0:0:0:0:22
 nserver:      E.NIC.INSURANCE 156.154.104.22 2610:a1:1011:0:0:0:0:22
 nserver:      F.NIC.INSURANCE 156.154.105.22 2610:a1:1012:0:0:0:0:22
-ds-rdata:     48811 8 2 C6677658BFC5B11FEC39E0D7F7266091FC7979EAAE5AA6C51673B1A53BCED3FA
-ds-rdata:     48811 8 1 B575048BA3D8644F995DBE7AF524C6EAF5E0E40F
 ds-rdata:     53170 8 2 DB3EA911BF99D3A6BF689737CE4828A26FA00E9049F1FABBC7F5280723C86129
 ds-rdata:     53170 8 1 2E75ACA08CCE271F682CBD6C8BCAF23388D3842B
 
@@ -48,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.ftld.com/
 
 created:      2015-11-06
-changed:      2020-04-30
+changed:      2020-12-02
 source:       IANA
 
