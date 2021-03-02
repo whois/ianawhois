@@ -20,13 +20,13 @@ fax-no:       +689 40 532 801
 e-mail:       contact@dgen.gov.pf
 
 contact:      technical
-name:         Chef de section Systemes & Réseaux
-organisation: VINI SA
+name:         System & Network Administrator
+organisation: ONATI SA
 address:      immeuble jissang - BP 40001
 address:      PAPEETE TAHITI 98713
 address:      French Polynesia
-phone:        +689 479958
-fax-no:       +689 479 915
+phone:        +689 40463705
+fax-no:       +689 40487287
 e-mail:       support-technique@mana.pf
 
 nserver:      NS1.MANA.PF 202.3.225.10
@@ -37,6 +37,6 @@ whois:        whois.registry.pf
 status:       ACTIVE
 
 created:      1996-03-19
-changed:      2015-01-23
+changed:      2020-10-27
 source:       IANA
 
