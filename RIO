@@ -10,7 +10,7 @@ address:      Rio de Janeiro - RJ - 20210-030
 address:      Brazil
 
 contact:      administrative
-name:         Ricardo de Oliveira
+name:         Diretor Presidente
 organisation: Empresa Municipal de Informática SA - IPLANRIO
 address:      Av. Presidente Vargas, 3131 Sala 1204
 address:      Rio de Janeiro - RJ - 20210-030
@@ -33,7 +33,7 @@ nserver:      C.DNS.BR 200.192.233.10 2001:12f8:a:0:0:0:0:10
 nserver:      D.DNS.BR 200.219.154.10 2001:12f8:4:0:0:0:0:10
 nserver:      E.DNS.BR 200.229.248.10 2001:12f8:2:0:0:0:0:10
 nserver:      F.DNS.BR 200.219.159.10 2001:12f8:c:0:0:0:0:10
-ds-rdata:     60907 8 2 6AE88F8F31320A1ACBEC8C82A5D3B5A22AB7F4283DB00F67A697884055D3BC05
+ds-rdata:     2471 13 2 452f6bd5cb271080aad2425fb762a32d0880d6c706f16ed4d0c8797342a91a80
 
 whois:        whois.gtlds.nic.br
 
@@ -41,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.rio/
 
 created:      2014-05-15
-changed:      2019-08-02
+changed:      2020-08-14
 source:       IANA
 
