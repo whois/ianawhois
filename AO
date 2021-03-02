@@ -4,20 +4,19 @@
 
 domain:       AO
 
-organisation: Faculdade de Engenharia da Universidade Agostinho Neto
-address:      Av. 4 de Fevereiro, nº 7, 2º andar
-address:      Luanda  CP 815
+organisation: Ministry of Telecommunications and Information Technologies (MTTI)
+address:      Customs street, nº10
+address:      Luanda  CP 1459
 address:      Angola
 
 contact:      administrative
-name:         João Sebastião Teta
-organisation: Faculdade de Engenharia da Universidade Agostinho Neto
-address:      Casa A09, Rua do Dande, Condomínio Caju, Talatona, Luanda
-address:      Postal code: 1556
+name:         Secretary of State
+organisation: Ministry of Telecommunications and Information Technologies, Government of Angola
+address:      Customs street, nº10
+address:      Luanda CP 1459
 address:      Angola
-phone:        +244 222 331500
-fax-no:       +244 222 331500
-e-mail:       joao.teta@uan.ao
+phone:        +244 924 782 278
+e-mail:       manuel.homem@mtti.gov.ao
 
 contact:      technical
 name:         Assis Guerreiro
@@ -37,6 +36,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.dns.ao/
 
 created:      1995-11-15
-changed:      2020-03-25
+changed:      2020-06-23
 source:       IANA
 
