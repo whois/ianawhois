@@ -9,24 +9,24 @@ address:      255 Greenwich Street, 9th Floor, New York, NY 10007
 address:      United States
 
 contact:      administrative
-name:         Director
-organisation: Neustar, Inc.
-address:      21575 Ridgetop Circle
-address:      Sterling, VA 20166
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      14455 North Hayden Rd.
+address:      Scottsdale, AZ 85260
 address:      United States
-phone:        +1 (844) 677-2878
-fax-no:       +1 (571) 434-5401
-e-mail:       technical1@registry.neustar
+phone:        +1 480-505-8800
+fax-no:       +1 480-393-4275
+e-mail:       iana@registry.godaddy
 
 contact:      technical
-name:         Director
-organisation: Neustar, Inc.
-address:      21575 Ridgetop Circle
-address:      Sterling, VA 20166
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      14455 North Hayden Rd.
+address:      Scottsdale, AZ 85260
 address:      United States
-phone:        +1 (844) 677-2878
-fax-no:       +1 (571) 434-5401
-e-mail:       technical1@registry.neustar
+phone:        +1 480-505-8800
+fax-no:       +1 480-393-4275
+e-mail:       iana@registry.godaddy
 
 nserver:      NS1.DNS.NIC.NYC 156.154.144.125 2610:a1:1071:0:0:0:0:7d
 nserver:      NS2.DNS.NIC.NYC 156.154.145.125 2610:a1:1072:0:0:0:0:7d
@@ -34,10 +34,6 @@ nserver:      NS3.DNS.NIC.NYC 156.154.159.125 2610:a1:1073:0:0:0:0:7d
 nserver:      NS4.DNS.NIC.NYC 156.154.156.125 2610:a1:1074:0:0:0:0:7d
 nserver:      NS5.DNS.NIC.NYC 156.154.157.125 2610:a1:1075:0:0:0:0:7d
 nserver:      NS6.DNS.NIC.NYC 156.154.158.125 2610:a1:1076:0:0:0:0:7d
-ds-rdata:     28484 8 1 3126DF0202D1B35CF95167B92A3927BD9E4213AC
-ds-rdata:     28484 8 2 0966D2F0A166F4F8A64F112BFFA0E70F394B26800494734D4944339AD838B760
-ds-rdata:     13444 8 2 2D324E695E66E867B661CBB3A6F48C5EF168A153302F9673F3C132366A0B1F99
-ds-rdata:     13444 8 1 DA739999FA1703D854057AB2A1F3146100E4CB65
 ds-rdata:     3301 8 1 E777B9D2E920F23430CE42D1178AEC328CCC7565
 ds-rdata:     3301 8 2 F2AD13A31174FDEC87007EA1BCBADFB94E3EDE6BD69F10EAB0165F6518BD010F
 
@@ -45,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.mydotnyc.com
 
 created:      2014-03-13
-changed:      2020-04-30
+changed:      2020-10-12
 source:       IANA
 
