@@ -34,8 +34,7 @@ nserver:      A0.NIC.BLOCKBUSTER 2a01:8840:5a:0:0:0:0:25 65.22.92.25
 nserver:      A2.NIC.BLOCKBUSTER 2a01:8840:5d:0:0:0:0:25 65.22.95.25
 nserver:      B0.NIC.BLOCKBUSTER 2a01:8840:5b:0:0:0:0:25 65.22.93.25
 nserver:      C0.NIC.BLOCKBUSTER 2a01:8840:5c:0:0:0:0:25 65.22.94.25
-ds-rdata:     30318 7 1 5fa090d590d9d15ef82916100f70f967c5240366
-ds-rdata:     30318 7 2 4f6038260ee31da7e62a7165052091029399af4da8b44ba13bf972dfc6d97a13
+ds-rdata:     20059 8 2 7cc46ee5db147183b41bda17ac3a5ce97963064f139e80a7c2b60aa8bd5200e7
 
 whois:        whois.nic.blockbuster
 
@@ -43,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.dish.com/
 
 created:      2016-06-30
-changed:      2017-07-20
+changed:      2020-10-30
 source:       IANA
 
