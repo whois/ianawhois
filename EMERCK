@@ -36,6 +36,7 @@ nserver:      B0.NIC.EMERCK 2a01:8840:9b:0:0:0:0:1 65.22.157.1
 nserver:      C0.NIC.EMERCK 2a01:8840:9c:0:0:0:0:1 65.22.158.1
 ds-rdata:     42495 7 1 f432b7a703847401cb700f6f18e5e9602b21033f
 ds-rdata:     42495 7 2 8258ba47a67c6b1cc9ae8f76ba46e9e683f57542af7cf18cc0f190b6266b1019
+ds-rdata:     45915 7 2 e072fd57c870a22bfc2607259065f05c62f03b40464b8fa10f6edb3f218351c5
 
 whois:        whois.afilias-srs.net
 
@@ -43,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.emerck
 
 created:      2014-09-11
-changed:      2019-08-26
+changed:      2021-02-02
 source:       IANA
 
