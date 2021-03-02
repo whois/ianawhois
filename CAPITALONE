@@ -9,13 +9,13 @@ address:      1680 Capital One Drive McLean, VA 22102
 address:      United States
 
 contact:      administrative
-name:         Manager, Domain Services
-organisation: MarkMonitor Inc.
-address:      3540 East Longwing Lane, Suite 300 Meridian, ID 83646
+name:         Brand Governance
+organisation: Capital One Financial Corporation
+address:      1680 Capital One Drive
+address:      McLean, VA 22102
 address:      United States
-phone:        (208) 685-1857 
-fax-no:       (208) 389-5771 
-e-mail:       dotcapitalone@markmonitor.com
+phone:        +1 302 636 5400
+e-mail:       ngtld-capitalone@cscglobal.com
 
 contact:      technical
 name:         Registry Customer Service
@@ -38,6 +38,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.capitalone.com
 
 created:      2016-08-04
-changed:      2016-08-10
+changed:      2020-07-10
 source:       IANA
 
