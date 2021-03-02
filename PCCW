@@ -34,8 +34,7 @@ nserver:      A0.NIC.PCCW 2a01:8840:72:0:0:0:0:41 65.22.116.41
 nserver:      A2.NIC.PCCW 2a01:8840:75:0:0:0:0:41 65.22.119.41
 nserver:      B0.NIC.PCCW 2a01:8840:73:0:0:0:0:41 65.22.117.41
 nserver:      C0.NIC.PCCW 2a01:8840:74:0:0:0:0:41 65.22.118.41
-ds-rdata:     29298 7 1 998ae96427d35e96d90b99baf3a79bdec3c34bfc
-ds-rdata:     29298 7 2 78dab43d4c64a9408db1ae27f1af13b10ed452cff04f5d91057ca8fa089a7553
+ds-rdata:     43702 8 2 59e6008039a16f566f18227380a702f8168707059629da13cbfb9d1203e5ef93
 
 whois:        whois.nic.pccw
 
@@ -44,6 +43,6 @@ remarks:      Registration information:
 remarks:      http://www.dot.asia/namesphere/
 
 created:      2016-04-15
-changed:      2017-08-28
+changed:      2020-11-05
 source:       IANA
 
