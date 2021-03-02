@@ -34,8 +34,7 @@ nserver:      A0.NIC.HKT 2a01:8840:72:0:0:0:0:33 65.22.116.33
 nserver:      A2.NIC.HKT 2a01:8840:75:0:0:0:0:33 65.22.119.33
 nserver:      B0.NIC.HKT 2a01:8840:73:0:0:0:0:33 65.22.117.33
 nserver:      C0.NIC.HKT 2a01:8840:74:0:0:0:0:33 65.22.118.33
-ds-rdata:     23634 7 1 9e4e35bc0b5dc9327d0f7042c7ed5fcb043c8cc9
-ds-rdata:     23634 7 2 0aeabe2c3c77cf919059c8376ec7108e6811bea78ac731d4347cb15178267428
+ds-rdata:     2077 8 2 b467734f0f2a8287ba3a0eddf252055d740f2fd0072f81095eb6a56be2405ee0
 
 whois:        whois.nic.hkt
 
@@ -44,6 +43,6 @@ remarks:      Registration information:
 remarks:      http://www.dot.asia/namesphere/
 
 created:      2016-04-15
-changed:      2017-08-28
+changed:      2020-11-05
 source:       IANA
 
