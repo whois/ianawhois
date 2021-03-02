@@ -9,22 +9,23 @@ address:      2500 Lake Cook Road Riverwoods IL 60015
 address:      United States
 
 contact:      administrative
-name:         Michael Adams
-organisation: Mayer Brown LLP
-address:      71 South Wacker Chicago Illinois 60606
+name:         Senior Manager, E-Business
+organisation: Discover Financial Services
+address:      2500 Lake Cook Road
+address:      Riverwoods, IL 60015
 address:      United States
-phone:        +1 312 701 8713
-e-mail:       michaeladams@mayerbrown.com
+phone:        +1 224 405 0640
+e-mail:       vikramjeetgill@discover.com
 
 contact:      technical
-name:         Director
-organisation: Neustar, Inc.
-address:      21575 Ridgetop Circle
-address:      Sterling, VA 20166
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      14455 North Hayden Rd.
+address:      Scottsdale, AZ 85260
 address:      United States
-phone:        +1 844-677-2878
-fax-no:       +1 571-434-5401
-e-mail:       technical1@registry.neustar
+phone:        +1 480-505-8800
+fax-no:       +1 480-393-4275
+e-mail:       iana@registry.godaddy
 
 nserver:      NS1.DNS.NIC.DISCOVER 156.154.144.48 2610:a1:1071:0:0:0:0:30
 nserver:      NS2.DNS.NIC.DISCOVER 156.154.145.48 2610:a1:1072:0:0:0:0:30
@@ -32,10 +33,6 @@ nserver:      NS3.DNS.NIC.DISCOVER 156.154.159.48 2610:a1:1073:0:0:0:0:30
 nserver:      NS4.DNS.NIC.DISCOVER 156.154.156.48 2610:a1:1074:0:0:0:0:30
 nserver:      NS5.DNS.NIC.DISCOVER 156.154.157.48 2610:a1:1075:0:0:0:0:30
 nserver:      NS6.DNS.NIC.DISCOVER 156.154.158.48 2610:a1:1076:0:0:0:0:30
-ds-rdata:     61276 8 1 D3F5055E547365A9B0F78AD5F769EF8E37DC94A5
-ds-rdata:     61276 8 2 EEE05B9CBA47EE8BA48A1ACB4230C85C7AE1DDF3B99E1E563A5A86A5537ED06C
-ds-rdata:     2731 8 2 06890236F997AE173B94D0EE2ABC5380B9B142AB62BCD0978EC37ADEFF74A67F
-ds-rdata:     2731 8 1 A1ECD7CBE3E1D5C118D96F782A70861700C1521C
 ds-rdata:     35119 8 2 DBD98E31681AABC29B0D23A39F98DDB87F57DA54105A4078F66E2E0B4594A6E0
 ds-rdata:     35119 8 1 679A7F3328EDC0BD9B8778C7FA4F22446A7F5DAB
 
@@ -43,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.discover.com/
 
 created:      2016-07-14
-changed:      2020-05-10
+changed:      2020-10-12
 source:       IANA
 
