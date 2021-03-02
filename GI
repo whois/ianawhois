@@ -31,7 +31,7 @@ address:      Horsham Pennsylvania 19044
 address:      United States
 phone:        +1 215 706 5700
 fax-no:       +1 215 706 5701
-e-mail:       domaintech@afilias.info
+e-mail:       tld-tech-poc@afilias.info
 
 nserver:      A0.CCTLD.AFILIAS-NST.INFO 199.254.59.1 2001:500:25:0:0:0:0:1
 nserver:      A2.CCTLD.AFILIAS-NST.INFO 199.249.116.1 2001:500:44:0:0:0:0:1
@@ -39,8 +39,7 @@ nserver:      B0.CCTLD.AFILIAS-NST.ORG 199.254.60.1 2001:500:26:0:0:0:0:1
 nserver:      B2.CCTLD.AFILIAS-NST.ORG 199.249.124.1 2001:500:4c:0:0:0:0:1
 nserver:      C0.CCTLD.AFILIAS-NST.INFO 199.254.61.1 2001:500:27:0:0:0:0:1
 nserver:      D0.CCTLD.AFILIAS-NST.ORG 199.254.62.1 2001:500:28:0:0:0:0:1
-ds-rdata:     40935 7 1 a6110bbab0c51f4712cf1df57f960cc73c7645f6
-ds-rdata:     40935 7 2 9f19ccce0100976d6a4ed5d0afa3d66e88c6974722d62ee6251f9d3dfa74a23f
+ds-rdata:     33934 8 2 3db5809de2e1052b00e010f54b404bd59cb5cba0c8306e1799623bda45a1cfb7
 
 whois:        whois2.afilias-grs.net
 
@@ -48,6 +47,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.gi
 
 created:      1995-12-05
-changed:      2019-02-28
+changed:      2020-10-30
 source:       IANA
 
