@@ -35,7 +35,7 @@ phone:        +507 560 3506
 fax-no:       +507 560 3148
 e-mail:       francela.ching@utp.ac.pa
 
-nserver:      DNS.NIC.CR 200.107.82.100 2001:13c7:7004:1:0:0:0:d100
+nserver:      DNS-EXT.NIC.CR 200.107.82.219 2001:13c7:7004:110:0:0:0:219
 nserver:      NS.DNS.BR 200.160.0.5 2001:12ff:0:a20:0:0:0:5
 nserver:      NS.NIC.PA 168.77.8.4
 nserver:      NS.PA 168.77.8.2
@@ -46,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.pa/
 
 created:      1994-05-25
-changed:      2020-03-28
+changed:      2020-08-01
 source:       IANA
 
