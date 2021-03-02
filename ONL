@@ -4,14 +4,14 @@
 
 domain:       ONL
 
-organisation: I-REGISTRY Ltd., Niederlassung Deutschland
+organisation: iRegistry GmbH
 address:      Friedrichstr. 90
 address:      10117 Berlin
 address:      Germany
 
 contact:      administrative
-name:         Executive Director
-organisation: I-REGISTRY Ltd., Niederlassung Deutschland
+name:         General Manager
+organisation: iRegistry GmbH
 address:      Friedrichstr. 90
 address:      10117 Berlin
 address:      Germany
@@ -33,8 +33,7 @@ nserver:      A0.NIC.ONL 2a01:8840:86:0:0:0:0:1 65.22.136.1
 nserver:      A2.NIC.ONL 2a01:8840:89:0:0:0:0:1 65.22.139.1
 nserver:      B0.NIC.ONL 2a01:8840:87:0:0:0:0:1 65.22.137.1
 nserver:      C0.NIC.ONL 2a01:8840:88:0:0:0:0:1 65.22.138.1
-ds-rdata:     28830 7 1 43c8d1479e0457ead6020024017fdec8cce2260d
-ds-rdata:     28830 7 2 18eb9faa635692104783c62a7f6f51aa17365bb07689093a247183d39b88338d
+ds-rdata:     40711 8 2 2144e3a641835a0f4944a2bab8df4dd9eecc76a76c330690765966c1c81a2d78
 
 whois:        whois.afilias-srs.net
 
@@ -42,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.i-registry.com
 
 created:      2013-12-12
-changed:      2019-09-24
+changed:      2020-12-02
 source:       IANA
 
