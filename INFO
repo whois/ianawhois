@@ -41,8 +41,7 @@ nserver:      B0.INFO.AFILIAS-NST.ORG 199.254.48.1 2001:500:1a:0:0:0:0:1
 nserver:      B2.INFO.AFILIAS-NST.ORG 199.249.121.1 2001:500:49:0:0:0:0:1
 nserver:      C0.INFO.AFILIAS-NST.INFO 199.254.49.1 2001:500:1b:0:0:0:0:1
 nserver:      D0.INFO.AFILIAS-NST.ORG 199.254.50.1 2001:500:1c:0:0:0:0:1
-ds-rdata:     8674 7 1 197789a2cbaba6fecd0b5ac88c5bc414ce1fc309
-ds-rdata:     8674 7 2 ec9b6082b96b5f87143696f2b483acc9b2c433dce0c94e70f1ff5648ca18008b
+ds-rdata:     5104 8 2 1af7548a8d3e2950c20303757df9390c26cfa39e26c8b6a8f6c8b1e72dd8f744
 
 whois:        whois.afilias.net
 
@@ -50,6 +49,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.info
 
 created:      2001-06-26
-changed:      2020-05-07
+changed:      2020-10-15
 source:       IANA
 
