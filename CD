@@ -22,27 +22,24 @@ phone:        +243 81 063 8578
 e-mail:       david.k@ocpt.cd
 
 contact:      technical
-name:         Jaco Lesch
+name:         Maurice MUFUSI NTETE UBAKA
 organisation: Office Congolais des Postes et Télécommunications - OCPT
 address:      95, Boulevard du 30 Juin
 address:      Immeuble INSS, 1ier Etage
 address:      Gombe
 address:      Kinshasa  7070 Kin 1
 address:      Congo, The Democratic Republic Of The
-phone:        +243 81 806 88 89
-e-mail:       jacol@openserve.co.za
+phone:        +243 822983889
+e-mail:       maurice.mufusi@scpt.cd
 
-nserver:      IGUBU.SAIX.NET 196.25.1.1 2c0e:2001:4000:1:0:0:c419:101
-nserver:      NS-ROOT-1.SCPT-NETWORK.COM 41.79.235.66
-nserver:      NS-ROOT-2.SCPT-NETWORK.COM 41.79.235.67
-nserver:      NS-ROOT-5.SCPT-NETWORK.COM 92.222.179.91
-nserver:      SABELA.SAIX.NET 196.43.1.9 2c0e:2001:0:1:0:0:c42b:109
-nserver:      SANGOMA.SAIX.NET 196.25.1.9 2c0e:2001:4000:1:0:0:c419:109
+nserver:      NS-ROOT-21.SCPT-NETWORK.NET 102.68.62.15
+nserver:      NS-ROOT-22.SCPT-NETWORK.NET 102.68.60.15
+nserver:      NS-ROOT-23.SCPT-NETWORK.NET 161.97.87.130
 
 status:       ACTIVE
 remarks:      Registration information: http://www.nic.cd/
 
 created:      1997-08-20
-changed:      2017-09-07
+changed:      2021-02-10
 source:       IANA
 
