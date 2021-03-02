@@ -20,14 +20,14 @@ fax-no:       888-886-0462
 e-mail:       howard@get.club
 
 contact:      technical
-name:         Director
-organisation: Neustar, Inc.
-address:      21575 Ridgetop Circle
-address:      Sterling, VA 20166
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      14455 North Hayden Rd.
+address:      Scottsdale, AZ 85260
 address:      United States
-phone:        +1 844-677-2878
-fax-no:       +1 571-434-5401
-e-mail:       technical1@registry.neustar
+phone:        +1 480-505-8800
+fax-no:       +1 480-393-4275
+e-mail:       iana@registry.godaddy
 
 nserver:      NS1.DNS.NIC.CLUB 156.154.144.215 2610:a1:1071:0:0:0:0:d7
 nserver:      NS2.DNS.NIC.CLUB 156.154.145.215 2610:a1:1072:0:0:0:0:d7
@@ -35,8 +35,6 @@ nserver:      NS3.DNS.NIC.CLUB 156.154.159.215 2610:a1:1073:0:0:0:0:d7
 nserver:      NS4.DNS.NIC.CLUB 156.154.156.215 2610:a1:1074:0:0:0:0:d7
 nserver:      NS5.DNS.NIC.CLUB 156.154.157.215 2610:a1:1075:0:0:0:0:d7
 nserver:      NS6.DNS.NIC.CLUB 156.154.158.215 2610:a1:1076:0:0:0:0:d7
-ds-rdata:     41146 8 1 8EC15F269816729B0A8D1541E1061D534CE24EC1
-ds-rdata:     41146 8 2 4373EF44409BFE938DB0A2710E36A1A523017A3E74F67BC1C5216A89FC112ECF
 ds-rdata:     29815 8 2 3B67F899B57454E924DD1EFAE729B8741D61BA9BC8D76CD888919E5C0950CA23
 ds-rdata:     29815 8 1 7F2B8E1D8B715BB382111A84F4552A599462017A
 
@@ -46,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://dotclub.com
 
 created:      2014-01-09
-changed:      2020-04-30
+changed:      2020-10-12
 source:       IANA
 
