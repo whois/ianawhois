@@ -22,8 +22,9 @@ e-mail:       jay@fegistry.com
 contact:      technical
 name:         CTO
 organisation: CentralNic
-address:      35-39 Moorgate
-address:      London EC2R 6AR
+address:      Saddlers House, 4th Floor
+address:      44 Gutter Lane
+address:      London EC2V 6BR
 address:      United Kingdom
 phone:        +44.2033880600
 fax-no:       +44.2033880601
@@ -33,7 +34,6 @@ nserver:      A.NIC.FORUM 194.169.218.65 2001:67c:13cc:0:0:0:1:65
 nserver:      B.NIC.FORUM 185.24.64.65 2a04:2b00:13cc:0:0:0:1:65
 nserver:      C.NIC.FORUM 212.18.248.65 2a04:2b00:13ee:0:0:0:0:65
 nserver:      D.NIC.FORUM 212.18.249.65 2a04:2b00:13ff:0:0:0:0:65
-ds-rdata:     9475 8 1 811DB232A91825F5F7B3720338F4E02F7CF4882E
 ds-rdata:     9475 8 2 A53A95D8AB4105B83918A104F8828B1E0DDDB48C290A8EFF1960918E01EAFAE6
 
 whois:        whois.nic.forum
@@ -42,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.topspectrum.com
 
 created:      2015-06-11
-changed:      2019-03-18
+changed:      2020-05-15
 source:       IANA
 
