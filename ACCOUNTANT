@@ -18,14 +18,14 @@ phone:        +350 200 73520
 e-mail:       edgar.c.lavarello@gi.pwc.com
 
 contact:      technical
-name:         Director
-organisation: Neustar, Inc.
-address:      21575 Ridgetop Circle
-address:      Sterling, VA 20166
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      14455 North Hayden Rd.
+address:      Scottsdale, AZ 85260
 address:      United States
-phone:        +1 844-677-2878
-fax-no:       +1 571-434-5401
-e-mail:       technical1@registry.neustar
+phone:        +1 480-505-8800
+fax-no:       +1 480-393-4275
+e-mail:       iana@registry.godaddy
 
 nserver:      NS1.DNS.NIC.ACCOUNTANT 156.154.144.195 2610:a1:1071:0:0:0:0:c3
 nserver:      NS2.DNS.NIC.ACCOUNTANT 156.154.145.195 2610:a1:1072:0:0:0:0:c3
@@ -33,10 +33,6 @@ nserver:      NS3.DNS.NIC.ACCOUNTANT 156.154.159.195 2610:a1:1073:0:0:0:0:c3
 nserver:      NS4.DNS.NIC.ACCOUNTANT 156.154.156.195 2610:a1:1074:0:0:0:0:c3
 nserver:      NS5.DNS.NIC.ACCOUNTANT 156.154.157.195 2610:a1:1075:0:0:0:0:c3
 nserver:      NS6.DNS.NIC.ACCOUNTANT 156.154.158.195 2610:a1:1076:0:0:0:0:c3
-ds-rdata:     33631 8 1 D9794E6E891EE62E553B1EC015D3563558BBFD69
-ds-rdata:     33631 8 2 82968A14D9F1F89863ABAA8FA27953DE4C3A4066B88F64EF38044EEB2D3D9105
-ds-rdata:     28099 8 1 C4CF4CC69F777DFB57501D5943337B01A8A5ECA2
-ds-rdata:     28099 8 2 FFBAC3E447FD25705104BB50F8652E7CCF6EECBFC956E1E65890C9B9DF92E888
 ds-rdata:     91 8 1 4EE930D6B366C3C0391FD6F5B6C11B8F196171B7
 ds-rdata:     91 8 2 7BAE218C1A84B43422351B54694F99FE034DFAD1932A0D9182D79C5734B85A1B
 
@@ -46,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.accountant
 
 created:      2015-02-05
-changed:      2020-04-30
+changed:      2020-10-12
 source:       IANA
 
