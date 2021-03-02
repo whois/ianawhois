@@ -29,7 +29,8 @@ phone:        +64 9 446 6370
 e-mail:       noc@cocca.org.nz
 
 nserver:      NS.ANYCAST.NIC.TL 2001:500:14:6019:ad:0:0:1 204.61.216.19
-nserver:      NS.COCCA.FR 185.17.236.93 2a03:dd40:3:0:0:0:0:93
+nserver:      NS1.ANYCASTDNS.CZ 185.38.108.108 2a00:fea0:dead:0:0:0:0:beef
+nserver:      NS2.ANYCASTDNS.CZ 185.28.194.194
 ds-rdata:     25307 8 2 BC0412D59817424A34040676F1AE1205B1F33FC9510E7E30114711851FFCEDE4
 
 whois:        whois.nic.tl
@@ -38,6 +39,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.tl
 
 created:      2005-03-23
-changed:      2019-08-28
+changed:      2021-01-02
 source:       IANA
 
