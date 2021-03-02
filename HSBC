@@ -19,14 +19,14 @@ phone:        +44 (0)20 7991 0814
 e-mail:       kevinaudritt@hsbc.com
 
 contact:      technical
-name:         Director
-organisation: Neustar, Inc.
-address:      21575 Ridgetop Circle
-address:      Sterling, VA 20166
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      14455 North Hayden Rd.
+address:      Scottsdale, AZ 85260
 address:      United States
-phone:        +1 (844) 677-2878
-fax-no:       +1 (571) 434-5401
-e-mail:       technical1@registry.neustar
+phone:        +1 480-505-8800
+fax-no:       +1 480-393-4275
+e-mail:       iana@registry.godaddy
 
 nserver:      NS1.DNS.NIC.HSBC 156.154.144.76 2610:a1:1071:0:0:0:0:4c
 nserver:      NS2.DNS.NIC.HSBC 156.154.145.76 2610:a1:1072:0:0:0:0:4c
@@ -34,10 +34,6 @@ nserver:      NS3.DNS.NIC.HSBC 156.154.159.76 2610:a1:1073:0:0:0:0:4c
 nserver:      NS4.DNS.NIC.HSBC 156.154.156.76 2610:a1:1074:0:0:0:0:4c
 nserver:      NS5.DNS.NIC.HSBC 156.154.157.76 2610:a1:1075:0:0:0:0:4c
 nserver:      NS6.DNS.NIC.HSBC 156.154.158.76 2610:a1:1076:0:0:0:0:4c
-ds-rdata:     37864 8 1 F3D989F25E2141A4DC6916A4948871B806A2A330
-ds-rdata:     37864 8 2 5ABDC07752E6CDDED4D12E28E1AED235A0BF7A091E8631CAD9B6D0D76EB2FB7C
-ds-rdata:     59572 8 1 74B712C3208E35F187C9FC8D8B28CB90848B0ADA
-ds-rdata:     59572 8 2 E6387199A7A5656EFEF61739E7D5E772D76B99A1903053B1FFA0CC5B49B8B42F
 ds-rdata:     862 8 2 D275BD5AD8A36C8235ADDA6C4FA419FD69FA519E92F9CFE272F4BF48EF8863B7
 ds-rdata:     862 8 1 2FEE68FDFB43836C8290EA78F435A6B66A859EE7
 
@@ -45,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.hsbc
 
 created:      2015-01-15
-changed:      2020-05-01
+changed:      2020-10-12
 source:       IANA
 
