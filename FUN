@@ -30,8 +30,9 @@ e-mail:       admin@radixregistry.com
 contact:      technical
 name:         CTO
 organisation: CentralNic
-address:      35-39 Moorgate
-address:      London EC2R 6AR
+address:      Saddlers House, 4th Floor
+address:      44 Gutter Lane
+address:      London EC2V 6BR
 address:      United Kingdom
 phone:        +44.2033880600
 fax-no:       +44.2033880601
@@ -39,8 +40,8 @@ e-mail:       tld.ops@centralnic.com
 
 nserver:      A.NIC.FUN 194.169.218.72 2001:67c:13cc:0:0:0:1:72
 nserver:      B.NIC.FUN 185.24.64.72 2a04:2b00:13cc:0:0:0:1:72
-nserver:      C.NIC.FUN 185.38.99.12 2a02:e180:3:0:0:0:0:12
-nserver:      D.NIC.FUN 108.59.161.12 2a02:e180:4:0:0:0:0:12
+nserver:      E.NIC.FUN 212.18.248.72 2a04:2b00:13ee:0:0:0:0:72
+nserver:      F.NIC.FUN 212.18.249.72 2a04:2b00:13ff:0:0:0:0:72
 ds-rdata:     4594 8 1 E256D68D24212DD3355F3AE897504E47F847579C
 ds-rdata:     4594 8 2 58D070A391A5808DA071DE7234C293B2A4A32006F1FF152CCAC45E2EE66C3891
 
@@ -50,6 +51,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.radixregistry.com
 
 created:      2016-11-30
-changed:      2018-04-25
+changed:      2020-08-28
 source:       IANA
 
