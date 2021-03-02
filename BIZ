@@ -4,30 +4,30 @@
 
 domain:       BIZ
 
-organisation: Neustar, Inc.
-address:      21575 Ridgetop Circle
-address:      Sterling, VA 20166
+organisation: Registry Services, LLC
+address:      14455 North Hayden Rd.
+address:      Scottsdale, AZ 85260
 address:      United States
 
 contact:      administrative
-name:         Director
-organisation: Neustar, Inc.
-address:      21575 Ridgetop Circle
-address:      Sterling, VA 20166
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      14455 North Hayden Rd.
+address:      Scottsdale, AZ 85260
 address:      United States
-phone:        +1 (571) 434-5400
-fax-no:       +1 (571) 434-5735
-e-mail:       technical1@registry.neustar
+phone:        +1 480-505-8800
+fax-no:       +1 480-393-4275
+e-mail:       iana@registry.godaddy
 
 contact:      technical
-name:         Director
-organisation: Neustar, Inc.
-address:      21575 Ridgetop Circle
-address:      Sterling, VA 20166
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      14455 North Hayden Rd.
+address:      Scottsdale, AZ 85260
 address:      United States
-phone:        +1 (844) 677-2878
-fax-no:       +1 (571) 434-5401
-e-mail:       technical1@registry.neustar
+phone:        +1 480-505-8800
+fax-no:       +1 480-393-4275
+e-mail:       iana@registry.godaddy
 
 nserver:      A.GTLD.BIZ 156.154.124.65 2001:0502:ad09:0:0:0:0:30
 nserver:      B.GTLD.BIZ 156.154.125.65
@@ -35,8 +35,6 @@ nserver:      C.GTLD.BIZ 156.154.127.65
 nserver:      E.GTLD.BIZ 156.154.126.65
 nserver:      F.GTLD.BIZ 2001:500:3682:0:0:0:0:12 209.173.58.66
 nserver:      K.GTLD.BIZ 156.154.128.65 2001:503:e239:0:0:0:3:2
-ds-rdata:     28450 8 1 D9C2F912C657E4005CF0C13BA55C5AAA291AEF56
-ds-rdata:     28450 8 2 403F234609C56B3A221BC4CFB694948AB5DDF4A26AE17439BF1279CFC5CF21AB
 ds-rdata:     24415 8 2 FFF5283786C2F37BA32F931210C57203907B993C8CEB5371A42F37F4600B05E4
 ds-rdata:     24415 8 1 C4C132AB72B9AA33C24C563F2F31F0BB0FA716FA
 
@@ -46,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.biz
 
 created:      2001-06-26
-changed:      2020-04-30
+changed:      2020-10-19
 source:       IANA
 
