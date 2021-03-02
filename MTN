@@ -10,33 +10,40 @@ address:      Dubai
 address:      United Arab Emirates
 
 contact:      administrative
-name:         Seunayo Ayileka
-organisation: MTN
-address:      Private Bag 9955
-address:      Cresta
-address:      2118
-address:      South Africa
-phone:        +27 83 209 0408
-e-mail:       seunayo.ayileka@mtn.com
+name:         TLD Registry Services Management
+organisation: Nominet
+address:      Minerva House,
+address:      Edmund Halley Road,
+address:      Oxford Science Park
+address:      Oxford
+address:      OX4 4DQ
+address:      United Kingdom
+phone:        +44 1865332211
+e-mail:       registrymanagement@nominet.uk
 
 contact:      technical
-name:         Michael Paul
-organisation: MTN
-address:      P.O Box, 506735
-address:      Dubai
-address:      United Arab Emirates
-phone:        +97144398627
-fax-no:       +97144479719
-e-mail:       michael.paul@mtn.com
+name:         TLD Registry Services Technical
+organisation: Nominet
+address:      Minerva House,
+address:      Edmund Halley Road,
+address:      Oxford Science Park
+address:      Oxford
+address:      OX4 4DQ
+address:      United Kingdom
+phone:        +44.1865332211
+e-mail:       registrytechnical@nominet.uk
 
-nserver:      A.NIC.MTN 2001:dcd:1:0:0:0:0:9 37.209.192.9
-nserver:      B.NIC.MTN 2001:dcd:2:0:0:0:0:9 37.209.194.9
-nserver:      C.NIC.MTN 2001:dcd:3:0:0:0:0:9 37.209.196.9
-nserver:      D.NIC.MTN 2001:dcd:4:0:0:0:0:9 37.209.198.9
-ds-rdata:     46552 8 1 528157932617537C96221BA9DC975845F540CD26
-ds-rdata:     46552 8 2 43FC61FA552C84C35BFBC2A50CB61D51CD4D66C6C8A13907A34A15EB2A19730C
+nserver:      DNS1.NIC.MTN 213.248.219.42 2a01:618:403:0:0:0:0:42
+nserver:      DNS2.NIC.MTN 103.49.83.42 2401:fd80:403:0:0:0:0:42
+nserver:      DNS3.NIC.MTN 213.248.223.42 2a01:618:407:0:0:0:0:42
+nserver:      DNS4.NIC.MTN 2401:fd80:407:0:0:0:0:42 43.230.51.42
+nserver:      DNSA.NIC.MTN 156.154.100.3 2001:502:ad09:0:0:0:0:3
+nserver:      DNSB.NIC.MTN 156.154.101.3
+nserver:      DNSC.NIC.MTN 156.154.102.3
+nserver:      DNSD.NIC.MTN 156.154.103.3
 ds-rdata:     14299 8 2 1C92588CD061388B8AF4E8B3A5ED11D1063D98AF22157EE73854EF9651039C57
 ds-rdata:     14299 8 1 89F5FF0785FD2F6C4B7B7098F3FB533992C72468
+ds-rdata:     18374 8 2 58114B80A64F8617AF3EC29668C55519D8CCB44A203562D746E7F2CC8850A1EB
 
 whois:        whois.nic.mtn
 
@@ -44,6 +51,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.mtn.com
 
 created:      2015-03-12
-changed:      2020-04-30
+changed:      2021-01-28
 source:       IANA
 
