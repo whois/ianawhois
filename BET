@@ -37,8 +37,7 @@ nserver:      A0.NIC.BET 2a01:8840:26:0:0:0:0:17 65.22.36.17
 nserver:      A2.NIC.BET 2a01:8840:29:0:0:0:0:17 65.22.39.17
 nserver:      B0.NIC.BET 2a01:8840:27:0:0:0:0:17 65.22.37.17
 nserver:      C0.NIC.BET 2a01:8840:28:0:0:0:0:17 65.22.38.17
-ds-rdata:     8103 7 1 269eb934169b6cc792b71c03a7bf120d2ca5b38a
-ds-rdata:     8103 7 2 c8724f921be7a62655202bc3a0514be4c7bd68d91d0de9921b93b5c9e4024573
+ds-rdata:     34666 8 2 e514f93c9ff69ec196e47cdfa00e39946382363cf2cac7df3df562f35b31a2bc
 
 whois:        whois.afilias.net
 
@@ -46,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://afilias.info/contact-us
 
 created:      2015-07-16
-changed:      2019-08-19
+changed:      2020-09-30
 source:       IANA
 
