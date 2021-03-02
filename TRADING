@@ -13,33 +13,37 @@ address:      EC4R 2YA
 address:      United Kingdom
 
 contact:      administrative
-name:         Head of Operations
+name:         Head of Registry Services
 organisation: DOTTRADING REGISTRY LTD
 address:      Boston Ivy
 address:      Cannon Bridge House
 address:      25 Dowgate Hill
 address:      EC4R 2YA
 address:      United Kingdom
-phone:        +442078960011
-fax-no:       +442078960010
-e-mail:       mike.clark@bostonivy.co
+phone:        +44.2033880600
+e-mail:       ig@centralnic.com
 
 contact:      technical
-name:         Registry Customer Service
-organisation: Verisign, Inc.
-address:      12061 Bluemont Way
-address:      Reston Virginia
-address:      20190
-address:      United States
-phone:        +1-703-925-6999 
-fax-no:       +1-703-948-3978
-e-mail:       info@verisign-grs.com
+name:         Nathan Van Overloop
+organisation: CentralNic
+address:      Saddlers House, 4th Floor
+address:      44 Gutter Lane
+address:      London EC2V 6BR
+address:      United Kingdom
+phone:        +44.2033880600
+fax-no:       +44.2033880601
+e-mail:       tld.ops@centralnic.com
 
-nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
-nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
-nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
-nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
-ds-rdata:     50349 8 2 B887649FD0693BDD6CDD8C98F365DCDDF52049E0DAA62422005CA7D2F4243510
+nserver:      A.NIC.TRADING 194.169.218.125 2001:67c:13cc:0:0:0:1:125
+nserver:      B.NIC.TRADING 185.24.64.125 2a04:2b00:13cc:0:0:0:1:125
+nserver:      C.NIC.TRADING 212.18.248.125 2a04:2b00:13ee:0:0:0:0:125
+nserver:      D.NIC.TRADING 212.18.249.125 2a04:2b00:13ff:0:0:0:0:125
+nserver:      DEMAND.ALPHA.ARIDNS.NET.AU 2001:dcd:1:0:0:0:0:7 37.209.192.7
+nserver:      DEMAND.BETA.ARIDNS.NET.AU 2001:dcd:2:0:0:0:0:7 37.209.194.7
+nserver:      DEMAND.DELTA.ARIDNS.NET.AU 2001:dcd:4:0:0:0:0:7 37.209.198.7
+nserver:      DEMAND.GAMMA.ARIDNS.NET.AU 2001:dcd:3:0:0:0:0:7 37.209.196.7
+ds-rdata:     45886 8 2 27A7DA05164AEE70F59BD61A8C3B2C8CE7F4785FB6D321B9A55400A22C8B96C7
+ds-rdata:     4756 8 2 99D34B4B27E039402475D40B1B73D877E0614FA4A9B62F58856B79CC97B6CB3D
 
 whois:        whois.nic.trading
 
@@ -47,6 +51,6 @@ status:       ACTIVE
 remarks:      Registration information: http://bostonivy.co
 
 created:      2015-03-06
-changed:      2019-08-27
+changed:      2021-02-26
 source:       IANA
 
