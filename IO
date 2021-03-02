@@ -40,7 +40,6 @@ nserver:      A2.NIC.IO 2a01:8840:a1:0:0:0:0:17 65.22.163.17
 nserver:      B0.NIC.IO 2a01:8840:9f:0:0:0:0:17 65.22.161.17
 nserver:      C0.NIC.IO 2a01:8840:a0:0:0:0:0:17 65.22.162.17
 ds-rdata:     57355 8 2 95a57c3bab7849dbcddf7c72ada71a88146b141110318ca5be672057e865c3e2
-ds-rdata:     57355 8 1 434e91e206134f5b3b0ac603b26f5e029346abc9
 
 whois:        whois.nic.io
 
@@ -48,6 +47,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.io/
 
 created:      1997-09-16
-changed:      2019-10-29
+changed:      2020-09-19
 source:       IANA
 
