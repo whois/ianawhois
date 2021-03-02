@@ -35,15 +35,14 @@ e-mail:       poctotal@afnic.fr
 nserver:      D.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
 nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
 nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
-ds-rdata:     34775 8 2 362DEFC3D011518F8CF871BE111CE314FD20F54AF98C508996A93658C4D5EB43
-ds-rdata:     51389 8 2 202CD816EC69ACAF0853982C508B9C371406730E13523FFD08DD534352A1FEAB
+ds-rdata:     2392 13 2 b4bf08f83435826190131f4da5d7799998922e8ff367693b4f903ac86717ed03
 
-whois:        whois-total.nic.fr
+whois:        whois.nic.total
 
 status:       ACTIVE
 remarks:      Registration information: http://www.nic.total
 
 created:      2016-02-05
-changed:      2020-03-10
+changed:      2020-07-20
 source:       IANA
 
