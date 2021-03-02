@@ -34,8 +34,7 @@ nserver:      A0.NIC.DUNLOP 2a01:8840:76:0:0:0:0:33 65.22.120.33
 nserver:      A2.NIC.DUNLOP 2a01:8840:79:0:0:0:0:33 65.22.123.33
 nserver:      B0.NIC.DUNLOP 2a01:8840:77:0:0:0:0:33 65.22.121.33
 nserver:      C0.NIC.DUNLOP 2a01:8840:78:0:0:0:0:33 65.22.122.33
-ds-rdata:     47101 7 1 fb296a6c4e674b9359746ad3a43f18059a831455
-ds-rdata:     47101 7 2 e93007312ab67ee11773a50aa33357011d6dba8e9445e418b445735cc4fbd47d
+ds-rdata:     22897 8 2 03cd996f132ffd32bc1bb4f08122d4a4f6570bb9c2ab647be9b1af174e79afaa
 
 whois:        whois.nic.dunlop
 
@@ -43,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.goodyear.com
 
 created:      2015-12-17
-changed:      2019-08-21
+changed:      2020-11-17
 source:       IANA
 
