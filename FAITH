@@ -18,14 +18,14 @@ phone:        +350 200 73520
 e-mail:       edgar.c.lavarello@gi.pwc.com
 
 contact:      technical
-name:         Director
-organisation: Neustar, Inc.
-address:      21575 Ridgetop Circle
-address:      Sterling, VA 20166
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      14455 North Hayden Rd.
+address:      Scottsdale, AZ 85260
 address:      United States
-phone:        +1 844-677-2878
-fax-no:       +1 571-434-5401
-e-mail:       technical1@registry.neustar
+phone:        +1 480-505-8800
+fax-no:       +1 480-393-4275
+e-mail:       iana@registry.godaddy
 
 nserver:      NS1.DNS.NIC.FAITH 156.154.144.54 2610:a1:1071:0:0:0:0:36
 nserver:      NS2.DNS.NIC.FAITH 156.154.145.54 2610:a1:1072:0:0:0:0:36
@@ -33,10 +33,6 @@ nserver:      NS3.DNS.NIC.FAITH 156.154.159.54 2610:a1:1073:0:0:0:0:36
 nserver:      NS4.DNS.NIC.FAITH 156.154.156.54 2610:a1:1074:0:0:0:0:36
 nserver:      NS5.DNS.NIC.FAITH 156.154.157.54 2610:a1:1075:0:0:0:0:36
 nserver:      NS6.DNS.NIC.FAITH 156.154.158.54 2610:a1:1076:0:0:0:0:36
-ds-rdata:     52700 8 1 8E7E62F3DB0136A2EB5D4443B178A4DBD830ED66
-ds-rdata:     52700 8 2 D5D3F0BAF5ADCBA0BB55EBA521EB1901D044620F5D752D7D0603E5A87CAD580A
-ds-rdata:     45007 8 1 4DEC0789B10D7F4F782FA9EB03155779511B7B60
-ds-rdata:     45007 8 2 4926B69BE085B64483A2E0C546D95076935FD1E2FEF4D47831548D06DF1FF046
 ds-rdata:     21814 8 1 1411A2BAFAF332B4CE7DD8AC573A994910FF79F0
 ds-rdata:     21814 8 2 2AA214D91DB57ADC1DDDE29CAD46A7F6588364B3E9DE90E6506B4BBFE3F8DD79
 
@@ -46,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.faith
 
 created:      2015-02-05
-changed:      2020-04-30
+changed:      2020-10-12
 source:       IANA
 
