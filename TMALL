@@ -18,14 +18,14 @@ fax-no:       +852-2215-5200
 e-mail:       newgtld@hk.alibaba-inc.com
 
 contact:      technical
-name:         Director
-organisation: Neustar, Inc.
-address:      21575 Ridgetop Circle
-address:      Sterling, VA 20166
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      14455 North Hayden Rd.
+address:      Scottsdale, AZ 85260
 address:      United States
-phone:        +1 844-677-2878
-fax-no:       +1 571-434-5401
-e-mail:       technical1@registry.neustar
+phone:        +1 480-505-8800
+fax-no:       +1 480-393-4275
+e-mail:       iana@registry.godaddy
 
 nserver:      NS1.DNS.NIC.TMALL 156.154.144.164 2610:a1:1071:0:0:0:0:a4
 nserver:      NS2.DNS.NIC.TMALL 156.154.145.164 2610:a1:1072:0:0:0:0:a4
@@ -33,8 +33,6 @@ nserver:      NS3.DNS.NIC.TMALL 156.154.159.164 2610:a1:1073:0:0:0:0:a4
 nserver:      NS4.DNS.NIC.TMALL 156.154.156.164 2610:a1:1074:0:0:0:0:a4
 nserver:      NS5.DNS.NIC.TMALL 156.154.157.164 2610:a1:1075:0:0:0:0:a4
 nserver:      NS6.DNS.NIC.TMALL 156.154.158.164 2610:a1:1076:0:0:0:0:a4
-ds-rdata:     33859 8 1 D45AF9B330B00BB0367703F7E20C9478549B357E
-ds-rdata:     33859 8 2 3A6519623FBC4E24CFCFD7E42736DED6BAC592E406D1CD0D9E36D7B62B1E5396
 ds-rdata:     51061 8 1 9D2CFE5A9220AAF312D116D15D94F3516A9319F9
 ds-rdata:     51061 8 2 363A7986FD2A6B5EFCCA78D57A4CA512E82DCA8335C68D42167EE1AFF256417F
 
@@ -42,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.alibabagroup.com
 
 created:      2016-01-08
-changed:      2020-04-30
+changed:      2020-10-12
 source:       IANA
 
