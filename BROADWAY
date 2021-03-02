@@ -10,7 +10,7 @@ address:      New York, NY 10019
 address:      United States
 
 contact:      administrative
-name:         Admin Contact
+name:         TLD Registry Services Management
 organisation: Nominet
 address:      Minerva House
 address:      Edmund Halley Road
@@ -49,6 +49,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.broadway
 
 created:      2015-10-08
-changed:      2019-08-21
+changed:      2021-01-25
 source:       IANA
 
