@@ -38,8 +38,7 @@ nserver:      A0.NIC.XN--6FRZ82G 2a01:8840:1a:0:0:0:0:9 65.22.24.9
 nserver:      A2.NIC.XN--6FRZ82G 2a01:8840:1d:0:0:0:0:9 65.22.27.9
 nserver:      B0.NIC.XN--6FRZ82G 2a01:8840:1b:0:0:0:0:9 65.22.25.9
 nserver:      C0.NIC.XN--6FRZ82G 2a01:8840:1c:0:0:0:0:9 65.22.26.9
-ds-rdata:     32256 7 1 fce18b0eee7f8da4999a515cf554f4cfe6fbc8ce
-ds-rdata:     32256 7 2 aaa6b908bcdbff82a49f4817a147a7e604a612616845fb3811e9b21b3bc6d2af
+ds-rdata:     51310 8 2 b725fa381426f5e3a9338c5c5a57447611aba619e9675d9bf973d1d2a3b14b5e
 
 whois:        whois.afilias.net
 
@@ -48,6 +47,6 @@ remarks:      Registration information:
 remarks:      http://www.afilias.info/contact-us
 
 created:      2014-01-23
-changed:      2019-08-19
+changed:      2020-09-30
 source:       IANA
 
