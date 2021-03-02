@@ -35,8 +35,7 @@ nserver:      A0.NIC.VOTO 2a01:8840:a2:0:0:0:0:1 65.22.168.1
 nserver:      A2.NIC.VOTO 2a01:8840:a5:0:0:0:0:1 65.22.171.1
 nserver:      B0.NIC.VOTO 2a01:8840:a3:0:0:0:0:1 65.22.169.1
 nserver:      C0.NIC.VOTO 2a01:8840:a4:0:0:0:0:1 65.22.170.1
-ds-rdata:     8311 7 1 a538165168f076d2f400506d3a3fc7ae81e483a8
-ds-rdata:     8311 7 2 f689ff513836e44d785d8039338648d469b73d86d7000fb6d41624744a922dd6
+ds-rdata:     26875 8 2 847371b1a0a21ae134a0e0c15b0e505bb4c88a26ed401daff4f4e8794c5b31a1
 
 whois:        whois.afilias.net
 
@@ -44,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://afilias.info/contact-us
 
 created:      2014-02-13
-changed:      2019-08-19
+changed:      2020-10-30
 source:       IANA
 
