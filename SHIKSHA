@@ -37,8 +37,7 @@ nserver:      A0.NIC.SHIKSHA 2a01:8840:22:0:0:0:0:33 65.22.32.33
 nserver:      A2.NIC.SHIKSHA 2a01:8840:25:0:0:0:0:33 65.22.35.33
 nserver:      B0.NIC.SHIKSHA 2a01:8840:23:0:0:0:0:33 65.22.33.33
 nserver:      C0.NIC.SHIKSHA 2a01:8840:24:0:0:0:0:33 65.22.34.33
-ds-rdata:     19339 7 1 a8f93c5ca81d7f38880f12cad5d43f8bc522747c
-ds-rdata:     19339 7 2 ccdbbe400e7fce7c2caf32b1315d1cdf09289e69988abd89a9e0a4280d0752ad
+ds-rdata:     54049 8 2 b4dd9094c19c5a3be8d6921d695f16cd6412258fa8302e5d7879405e2c0ef7dc
 
 whois:        whois.afilias.net
 
@@ -46,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://afilias.info/contact-us
 
 created:      2014-01-16
-changed:      2019-08-19
+changed:      2020-09-30
 source:       IANA
 
