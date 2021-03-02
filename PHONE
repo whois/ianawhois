@@ -34,8 +34,7 @@ nserver:      A0.NIC.PHONE 2a01:8840:5e:0:0:0:0:17 65.22.96.17
 nserver:      A2.NIC.PHONE 2a01:8840:61:0:0:0:0:17 65.22.99.17
 nserver:      B0.NIC.PHONE 2a01:8840:5f:0:0:0:0:17 65.22.97.17
 nserver:      C0.NIC.PHONE 2a01:8840:60:0:0:0:0:17 65.22.98.17
-ds-rdata:     39136 7 1 cdd1d5514cc834fea33fe328ff3adc5b48047892
-ds-rdata:     39136 7 2 628a9b396badf11d234c74c29881403af3238ce9d8c6f6d4db29756d56268e47
+ds-rdata:     18829 8 2 b7809834406510fcbea1aafa42f0bd2e7f4096bee97d8b7fd5964cdb39c607b4
 
 whois:        whois.nic.phone
 
@@ -43,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.dish.com/
 
 created:      2016-12-15
-changed:      2017-07-20
+changed:      2020-10-30
 source:       IANA
 
