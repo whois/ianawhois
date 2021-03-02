@@ -32,8 +32,7 @@ nserver:      A0.NIC.DELTA 2a01:8840:da:0:0:0:0:25 65.22.224.25
 nserver:      A2.NIC.DELTA 2a01:8840:dd:0:0:0:0:25 65.22.227.25
 nserver:      B0.NIC.DELTA 2a01:8840:db:0:0:0:0:25 65.22.225.25
 nserver:      C0.NIC.DELTA 2a01:8840:dc:0:0:0:0:25 65.22.226.25
-ds-rdata:     65368 7 1 cb155aa74908637ac99c07c4f27f402da4c186f3
-ds-rdata:     65368 7 2 3527086b8cf82d172f26b888143b48160f5d1c990d515a4d8bb34836341a823a
+ds-rdata:     64069 8 2 88613e5643f713d61b4e642f2638bd959492c3e0d116fbe27af764dc6c0ed75b
 
 whois:        whois.nic.delta
 
@@ -41,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.delta.com
 
 created:      2015-06-25
-changed:      2019-08-27
+changed:      2020-12-10
 source:       IANA
 
