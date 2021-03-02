@@ -5,15 +5,16 @@
 domain:       ONG
 
 organisation: Public Interest Registry
-address:      1775 Wiehle Avenue
-address:      Suite 100
+address:      11911 Freedom Drive 10th Floor,
+address:      Suite 1000
 address:      Reston, VA 20190
 address:      United States
 
 contact:      administrative
 name:         Director of Operations, Compliance and Customer Support
 organisation: Public Interest Registry (PIR)
-address:      1775 Wiehle Avenue
+address:      11911 Freedom Drive 10th Floor,
+address:      Suite 1000
 address:      Reston, VA 20190
 address:      United States
 phone:        +1 703 889 5778
@@ -36,8 +37,7 @@ nserver:      B0.NIC.ONG 199.19.54.1 2001:500:c:0:0:0:0:1
 nserver:      B2.NIC.ONG 199.249.120.1 2001:500:48:0:0:0:0:1
 nserver:      C0.NIC.ONG 199.19.53.1 2001:500:b:0:0:0:0:1
 nserver:      D0.NIC.ONG 199.19.57.1 2001:500:f:0:0:0:0:1
-ds-rdata:     48366 7 1 ac3a8c7fdceb9f596a87a7da53bb9c97b5a02f8b
-ds-rdata:     48366 7 2 57513e7f090220db009bb7e1b2797bb410a8ef80c280b6fb263e8c154bb0507c
+ds-rdata:     45685 8 2 535cba6cfb082ffcce6584c2958dcbdf706a21de784096a2738b3acd8d643032
 
 whois:        whois.publicinterestregistry.net
 
@@ -45,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.pir.org 
 
 created:      2014-07-10
-changed:      2020-04-17
+changed:      2020-10-27
 source:       IANA
 
