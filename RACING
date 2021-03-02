@@ -18,14 +18,14 @@ phone:        +350 200 73520
 e-mail:       edgar.c.lavarello@gi.pwc.com
 
 contact:      technical
-name:         Director
-organisation: Neustar, Inc.
-address:      21575 Ridgetop Circle
-address:      Sterling, VA 20166
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      14455 North Hayden Rd.
+address:      Scottsdale, AZ 85260
 address:      United States
-phone:        +1 844-677-2878
-fax-no:       +1 571-434-5401
-e-mail:       technical1@registry.neustar
+phone:        +1 480-505-8800
+fax-no:       +1 480-393-4275
+e-mail:       iana@registry.godaddy
 
 nserver:      NS1.DNS.NIC.RACING 156.154.169.33 2610:a1:1071:0:0:0:1:21
 nserver:      NS2.DNS.NIC.RACING 156.154.170.33 2610:a1:1072:0:0:0:1:21
@@ -33,10 +33,6 @@ nserver:      NS3.DNS.NIC.RACING 156.154.171.33 2610:a1:1073:0:0:0:1:21
 nserver:      NS4.DNS.NIC.RACING 156.154.172.33 2610:a1:1074:0:0:0:1:21
 nserver:      NS5.DNS.NIC.RACING 156.154.173.33 2610:a1:1075:0:0:0:1:21
 nserver:      NS6.DNS.NIC.RACING 156.154.174.33 2610:a1:1076:0:0:0:1:21
-ds-rdata:     54886 8 1 D00D09A117035869B0E7FF7465FFF55C16373D14
-ds-rdata:     54886 8 2 D954FB0C26C0DEF0187D42BB69B12615863D61FA9EEAEC87593A7613121E1695
-ds-rdata:     352 8 2 8C49DC51B6E8087AFB2B3BBBED13B208F932CB5FFD83D0AC15FEEFEFEC7BB2F0
-ds-rdata:     352 8 1 848D8F9426CC0E34E3341BC07B417B51E665B01C
 ds-rdata:     41521 8 2 EA2DA9624D77D22EF37ABC4F6828B798E226309127C5DB8CBC99E7BFACB025D5
 ds-rdata:     41521 8 1 FC7C517C77060B033F7CE55173FA6102533BADDB
 
@@ -46,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.racing
 
 created:      2015-03-26
-changed:      2020-05-01
+changed:      2020-10-12
 source:       IANA
 
