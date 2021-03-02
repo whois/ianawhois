@@ -5,27 +5,27 @@
 domain:       MOE
 
 organisation: Interlink Co., Ltd.
-address:      3-1-1 Higashi Ikebukuro Sunshine 60 Bldg. 37F, Toshima, Tokyo 170-6037 JAPAN
+address:      Sunshine 60 Bldg. 45F 3-1-1 Higashi Ikebukuro, Toshima, Tokyo 170-6045 JAPAN
 address:      Japan
 
 contact:      administrative
 name:         Jacob Williams
 organisation: Interlink Co., Ltd.
-address:      3-1-1 Higashi Ikebukuro Sunshine 60 Bldg. 37F, Toshima, Tokyo 170-6037 JAPAN
+address:      Sunshine 60 Bldg. 45F 3-1-1 Higashi Ikebukuro, Toshima, Tokyo 170-6045 JAPAN
 address:      Japan
-phone:        +81 5058061875 
-fax-no:       +81 338953826 
+phone:        81 50-5525-7438
+fax-no:       81 3-5979-2337
 e-mail:       gtld@interlink.ad.jp
 
 contact:      technical
-name:         Director
-organisation: Neustar, Inc.
-address:      21575 Ridgetop Circle
-address:      Sterling, VA 20166
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      14455 North Hayden Rd.
+address:      Scottsdale, AZ 85260
 address:      United States
-phone:        +1 844-677-2878
-fax-no:       +1 571-434-5401
-e-mail:       technical1@registry.neustar
+phone:        +1 480-505-8800
+fax-no:       +1 480-393-4275
+e-mail:       iana@registry.godaddy
 
 nserver:      NS1.DNS.NIC.MOE 156.154.144.114 2610:a1:1071:0:0:0:0:72
 nserver:      NS2.DNS.NIC.MOE 156.154.145.114 2610:a1:1072:0:0:0:0:72
@@ -33,20 +33,15 @@ nserver:      NS3.DNS.NIC.MOE 156.154.159.114 2610:a1:1073:0:0:0:0:72
 nserver:      NS4.DNS.NIC.MOE 156.154.156.114 2610:a1:1074:0:0:0:0:72
 nserver:      NS5.DNS.NIC.MOE 156.154.157.114 2610:a1:1075:0:0:0:0:72
 nserver:      NS6.DNS.NIC.MOE 156.154.158.114 2610:a1:1076:0:0:0:0:72
-ds-rdata:     53752 8 1 03E44314F5CC5A2ECA20AE2DB5548F67F412F740
-ds-rdata:     53752 8 2 126A3A4446C04641ED8FC06C3D6D606C1170D6C030308A17F349EB47EB646DC4
-ds-rdata:     35434 8 2 9DDFFB9FE0AF1BED54E5338A253FB0BC4801BE0C46538E46F2F2C362DCCF0920
-ds-rdata:     35434 8 1 41D64B013B0B6610CD83F505D3F0DF26A78470E6
 ds-rdata:     24571 8 1 55C5369DFA89EA76011DD4F2FBE235E3A876D3AB
 ds-rdata:     24571 8 2 211E1F328274C67BB2060BBA17FC02FE7A5099E67E93D6C3B2EE50626ECE2705
 
 whois:        whois.nic.moe
 
 status:       ACTIVE
-remarks:      Registration information:
-remarks:      http://www.interlink.or.jp/gtld/info.html
+remarks:      Registration information: https://get.moe/
 
 created:      2014-03-13
-changed:      2020-05-01
+changed:      2020-10-12
 source:       IANA
 
