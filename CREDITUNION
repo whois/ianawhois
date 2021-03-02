@@ -4,45 +4,47 @@
 
 domain:       CREDITUNION
 
-organisation: CUNA Performance Resources, LLC
-address:      5710 Mineral Point Road
-address:      Madison, WI 53705
+organisation: DotCooperation, LLC
+address:      1775 I Street NW, 8th Floor
+address:      Washington, DC 20006
 address:      United States
 
 contact:      administrative
-name:         Executive Assistant
-organisation: CUNA Performance Resources, LLC.
-address:      5710 Mineral Point Road
-address:      Madison, WI 53705
+name:         Chief Marketing Officer
+organisation: DotCooperation, LLC.
+address:      1775 I Street NW, 8th Floor
+address:      Washington, DC 20006
 address:      United States
-phone:        +01 608 231 4289
-fax-no:       +01 608 231 4127
-e-mail:       tsonn@cuna.com
+phone:         +1 703 728 4176
+e-mail:       lance@identity.coop
 
 contact:      technical
-name:         Senior Director, DNS Infrastructure Group
-organisation: Afilias
-address:      Building 3, Suite 105
-address:      300 Welsh Road
-address:      Horsham, PA 19044
-address:      United States
-phone:        +1 215.706.5700
-fax-no:       +1 215.706.5701
-e-mail:       tld-tech-poc@afilias.info
+name:         Chief Technical Officer
+organisation: UNR Corp.
+address:      Third Floor, Monaco Towers,
+address:      Georgetown, Grand Cayman
+address:      30369SMB-KY11202
+address:      Cayman Islands
+phone:        +1 345 746 3687
+fax-no:       +1 345 746 3687
+e-mail:       ops@unr.com
 
-nserver:      A0.NIC.CREDITUNION 2a01:8840:da:0:0:0:0:9 65.22.224.9
-nserver:      A2.NIC.CREDITUNION 2a01:8840:dd:0:0:0:0:9 65.22.227.9
-nserver:      B0.NIC.CREDITUNION 2a01:8840:db:0:0:0:0:9 65.22.225.9
-nserver:      C0.NIC.CREDITUNION 2a01:8840:dc:0:0:0:0:9 65.22.226.9
-ds-rdata:     54858 7 1 240eef679a896baa76e88eab67e349bbab449471
-ds-rdata:     54858 7 2 2a51356ce0fa71ab22ceb6e8d027adb7d80dbdb626c6c6ded57cbe23357e7a61
+nserver:      NS1.UNIREGISTRY.NET 2620:57:4000:1:0:0:0:1 64.96.1.1
+nserver:      NS2.UNIREGISTRY.INFO 64.96.2.1
+nserver:      NS5.UNIREGISTRY.NET 2001:500:14:7002:ad:0:0:1 204.61.217.2
+nserver:      NS6.UNIREGISTRY.INFO 206.51.254.2 2620:171:804:ad2:0:0:0:2
+ds-rdata:     48786 7 2 61f50bb61118f71c007efd169af69373b932b8bf9ac3f1519f8867a3accefa50
+ds-rdata:     43458 7 1 5187937CA95DE001561CD7DDDBA6672DCD2CE738
+ds-rdata:     43458 7 2 208A31F7F1E6CDC93BBBA0A1D2B3F5B7B5920E8530F261CE05E667D6D62F0EA6
+ds-rdata:     48786 7 1 6161D8BD943AD2B8240DFD17FDC752516FE489FE
 
 whois:        whois.afilias-srs.net
 
 status:       ACTIVE
-remarks:      Registration information: http://www.cuna.org/registry/
+remarks:      Registration information:
+remarks:      http://www.identity.coop/creditunion
 
 created:      2015-10-15
-changed:      2019-08-23
+changed:      2021-02-18
 source:       IANA
 
