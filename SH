@@ -31,7 +31,6 @@ nserver:      A0.NIC.SH 2a01:8840:9e:0:0:0:0:9 65.22.160.9
 nserver:      A2.NIC.SH 2a01:8840:a1:0:0:0:0:9 65.22.163.9
 nserver:      B0.NIC.SH 2a01:8840:9f:0:0:0:0:9 65.22.161.9
 nserver:      C0.NIC.SH 2a01:8840:a0:0:0:0:0:9 65.22.162.9
-ds-rdata:     55297 8 1 59e1077efcf663d4e2b3db25a170c735786793ef
 ds-rdata:     55297 8 2 ba339ad6e081dad292a3f473cbdd5adc53a0222769a7c6125f506dd6a813787f
 
 whois:        whois.nic.sh
@@ -40,6 +39,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.sh/
 
 created:      1997-09-23
-changed:      2019-07-04
+changed:      2020-09-19
 source:       IANA
 
