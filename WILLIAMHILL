@@ -25,14 +25,14 @@ fax-no:       +44.2089183726
 e-mail:       domains@williamhill.com
 
 contact:      technical
-name:         Director
-organisation: Neustar, Inc.
-address:      21575 Ridgetop Circle
-address:      Sterling, VA 20166
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      14455 North Hayden Rd.
+address:      Scottsdale, AZ 85260
 address:      United States
-phone:        +1 844-677-2878
-fax-no:       +1 571-434-5401
-e-mail:       technical1@registry.neustar
+phone:        +1 480-505-8800
+fax-no:       +1 480-393-4275
+e-mail:       iana@registry.godaddy
 
 nserver:      NS1.DNS.NIC.WILLIAMHILL 156.154.144.181 2610:a1:1071:0:0:0:0:b5
 nserver:      NS2.DNS.NIC.WILLIAMHILL 156.154.145.181 2610:a1:1072:0:0:0:0:b5
@@ -40,8 +40,6 @@ nserver:      NS3.DNS.NIC.WILLIAMHILL 156.154.159.181 2610:a1:1073:0:0:0:0:b5
 nserver:      NS4.DNS.NIC.WILLIAMHILL 156.154.156.181 2610:a1:1074:0:0:0:0:b5
 nserver:      NS5.DNS.NIC.WILLIAMHILL 156.154.157.181 2610:a1:1075:0:0:0:0:b5
 nserver:      NS6.DNS.NIC.WILLIAMHILL 156.154.158.181 2610:a1:1076:0:0:0:0:b5
-ds-rdata:     10330 8 1 76085DCEA9F2DBB67B6105DE0EA5DDC0F535F154
-ds-rdata:     10330 8 2 D0542155292219349EE8ED85648AB59E1D6FEA4D000889288E2ABAE6531E12A9
 ds-rdata:     25291 8 2 9D5863476BE2973D7172CF33F2B6DAC3E613502A59D0D032BA9436CF10FCAD0A
 ds-rdata:     25291 8 1 91E67CCB71C62730D192A1420A860A660E0F56E1
 
@@ -49,6 +47,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.williamhill.com/
 
 created:      2014-07-03
-changed:      2020-04-30
+changed:      2020-10-12
 source:       IANA
 
