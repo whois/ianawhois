@@ -27,9 +27,9 @@ address:      Chad
 phone:        +235 66 23 16 68
 e-mail:       mahamat.hamid@adetic.td
 
+nserver:      ANYCASTDNS1.NIC.TD 185.38.108.108 2a00:fea0:dead:0:0:0:0:beef
+nserver:      ANYCASTDNS2.NIC.TD 185.28.194.194
 nserver:      NS-TD.AFRINIC.NET 196.216.168.31 2001:43f8:120:0:0:0:0:31
-nserver:      NS.COCCA.FR 185.17.236.93 2a03:dd40:3:0:0:0:0:93
-nserver:      NSA.NIC.TD 154.68.159.246
 nserver:      PCH.NIC.TD 2001:500:14:6129:ad:0:0:1 204.61.216.129
 
 whois:        whois.nic.td
@@ -38,6 +38,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.td
 
 created:      1997-11-03
-changed:      2019-09-20
+changed:      2021-02-09
 source:       IANA
 
