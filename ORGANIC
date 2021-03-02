@@ -37,8 +37,7 @@ nserver:      A0.NIC.ORGANIC 2a01:8840:16:0:0:0:0:40 65.22.20.40
 nserver:      A2.NIC.ORGANIC 2a01:8840:19:0:0:0:0:40 65.22.23.40
 nserver:      B0.NIC.ORGANIC 2a01:8840:17:0:0:0:0:40 65.22.21.40
 nserver:      C0.NIC.ORGANIC 2a01:8840:18:0:0:0:0:40 65.22.22.40
-ds-rdata:     53418 7 1 ee9cb0590f8a62301d2e7d4db6d5e50405019146
-ds-rdata:     53418 7 2 158da177f06e185437cf0d4c7647206c89c9d6ea73a7f3fe5c5ec004bb0a21c7
+ds-rdata:     22474 8 2 5803fbc9f1fc0d4aa172dc24f6b2b099f18dc13e04cee7f605777d798a3a812f
 
 whois:        whois.afilias.net
 
@@ -47,6 +46,6 @@ remarks:      Registration information:
 remarks:      http://www.afilias.info/contact-us
 
 created:      2014-05-29
-changed:      2019-08-19
+changed:      2020-09-30
 source:       IANA
 
