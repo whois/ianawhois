@@ -20,14 +20,14 @@ fax-no:       +1 310 969 1063
 e-mail:       admin@domains.fox
 
 contact:      technical
-name:         Director
-organisation: Neustar, Inc.
-address:      21575 Ridgetop Circle
-address:      Sterling, VA 20166
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      14455 North Hayden Rd.
+address:      Scottsdale, AZ 85260
 address:      United States
-phone:        +1 844-677-2878
-fax-no:       +1 571-434-5401
-e-mail:       technical1@registry.neustar
+phone:        +1 480-505-8800
+fax-no:       +1 480-393-4275
+e-mail:       iana@registry.godaddy
 
 nserver:      NS1.DNS.NIC.FOX 156.154.144.63 2610:a1:1071:0:0:0:0:3f
 nserver:      NS2.DNS.NIC.FOX 156.154.145.63 2610:a1:1072:0:0:0:0:3f
@@ -35,10 +35,6 @@ nserver:      NS3.DNS.NIC.FOX 156.154.159.63 2610:a1:1073:0:0:0:0:3f
 nserver:      NS4.DNS.NIC.FOX 156.154.156.63 2610:a1:1074:0:0:0:0:3f
 nserver:      NS5.DNS.NIC.FOX 156.154.157.63 2610:a1:1075:0:0:0:0:3f
 nserver:      NS6.DNS.NIC.FOX 156.154.158.63 2610:a1:1076:0:0:0:0:3f
-ds-rdata:     61619 8 1 292AA5646B3CDCA9E0427AC0752997BAFB8FCE6A
-ds-rdata:     61619 8 2 5D74B180F41D3F4B9A296C0838723744FE687F8F8BE2A9891784149C2655B767
-ds-rdata:     4960 8 1 CB41FC435C7A4543F1ECCFE7CFFE6323C5875482
-ds-rdata:     4960 8 2 A236FBEC5787FAB9442CD13A968C6A1387E4FF69CA5077AEC02C745356116E58
 ds-rdata:     45574 8 2 4BD11C2E4E4F43BD310520222372E87C5BBA78EF4DA78710B9A2E71656A77C9F
 ds-rdata:     45574 8 1 E66C31E8F88021EB84D46F9465809DE85B2743A8
 
@@ -48,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.fox.com
 
 created:      2015-11-20
-changed:      2020-04-30
+changed:      2020-10-12
 source:       IANA
 
