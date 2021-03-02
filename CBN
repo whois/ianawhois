@@ -18,14 +18,14 @@ fax-no:       +1 757-226-6230
 e-mail:       jack.doussard@cbn.org
 
 contact:      technical
-name:         Director
-organisation: Neustar, Inc.
-address:      21575 Ridgetop Circle
-address:      Sterling, VA 20166
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      14455 North Hayden Rd.
+address:      Scottsdale, AZ 85260
 address:      United States
-phone:        +1 844-677-2878
-fax-no:       +1 571-434-5401
-e-mail:       technical1@registry.neustar
+phone:        +1 480-505-8800
+fax-no:       +1 480-393-4275
+e-mail:       iana@registry.godaddy
 
 nserver:      NS1.DNS.NIC.CBN 156.154.144.35 2610:a1:1071:0:0:0:0:23
 nserver:      NS2.DNS.NIC.CBN 156.154.145.35 2610:a1:1072:0:0:0:0:23
@@ -33,10 +33,6 @@ nserver:      NS3.DNS.NIC.CBN 156.154.159.35 2610:a1:1073:0:0:0:0:23
 nserver:      NS4.DNS.NIC.CBN 156.154.156.35 2610:a1:1074:0:0:0:0:23
 nserver:      NS5.DNS.NIC.CBN 156.154.157.35 2610:a1:1075:0:0:0:0:23
 nserver:      NS6.DNS.NIC.CBN 156.154.158.35 2610:a1:1076:0:0:0:0:23
-ds-rdata:     44665 8 1 560E25CF5088CF8DB6F5B3F8AF53A99D64DC90B7
-ds-rdata:     44665 8 2 AD7D9616853E89E5A4FBCD55D91079C2DC5C986FEEFF9473FB7761112BC91B1F
-ds-rdata:     47560 8 1 5DC1C253CBAC0155BCF18E5C523B881B0CE10C88
-ds-rdata:     47560 8 2 ED561E5F419736AEB4F8A9896891C5813D92FA6F63739AE88109478F4F6805A2
 ds-rdata:     8434 8 2 0A12A8C97B331D7E7BBC94AEF3C30EE998D6252DCB1F1D7AD3FBCDACBB433A3E
 ds-rdata:     8434 8 1 443A31C0075B5ECC6200B238B09F343EF4A133FF
 
@@ -44,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.cbn.com
 
 created:      2014-11-20
-changed:      2020-04-30
+changed:      2020-10-12
 source:       IANA
 
