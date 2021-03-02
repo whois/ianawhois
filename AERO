@@ -21,23 +21,22 @@ fax-no:       +41 22 747 63 33
 e-mail:       aero.enquiries@sita.aero
 
 contact:      technical
-name:         .AERO Domain Technical Administrator
-organisation: Afilias Limited
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      Building 3, Suite 105
 address:      300 Welsh Road
-address:      Building 3
-address:      Suite 105
-address:      Horsham Pennsylvania 19044
+address:      Horsham, PA 19044
 address:      United States
 phone:        +1 215 706 5700
 fax-no:       +1 215 706 5701
-e-mail:       domaintech@afilias.info
+e-mail:       tld-tech-poc@afilias.info
 
-nserver:      A0.AERO.AFILIAS-NST.INFO 199.254.51.1 2001:500:1d:0:0:0:0:1
-nserver:      A2.AERO.AFILIAS-NST.INFO 199.249.115.1 2001:500:43:0:0:0:0:1
-nserver:      B0.AERO.AFILIAS-NST.ORG 199.254.52.1 2001:500:1e:0:0:0:0:1
-nserver:      B2.AERO.AFILIAS-NST.ORG 199.249.123.1 2001:500:4b:0:0:0:0:1
-nserver:      C0.AERO.AFILIAS-NST.INFO 199.254.53.1 2001:500:1f:0:0:0:0:1
-nserver:      D0.AERO.AFILIAS-NST.ORG 199.254.54.1 2001:500:20:0:0:0:0:1
+nserver:      A0.NIC.AERO 199.254.51.1 2001:500:1d:0:0:0:0:1
+nserver:      A2.NIC.AERO 199.249.115.1 2001:500:43:0:0:0:0:1
+nserver:      B0.NIC.AERO 199.254.52.1 2001:500:1e:0:0:0:0:1
+nserver:      B2.NIC.AERO 199.249.123.1 2001:500:4b:0:0:0:0:1
+nserver:      C0.NIC.AERO 199.254.54.1 2001:500:20:0:0:0:0:1
+ds-rdata:     59071 8 2 1d81d38a696e94ade581ebdec47a2473a4a22712c33e5501d9756f98ce8b1714
 
 whois:        whois.aero
 
@@ -45,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.information.aero
 
 created:      2001-12-21
-changed:      2015-12-07
+changed:      2021-01-07
 source:       IANA
 
