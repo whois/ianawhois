@@ -32,8 +32,7 @@ nserver:      A0.NIC.YACHTS 2a01:8840:62:0:0:0:0:1 65.22.100.1
 nserver:      A2.NIC.YACHTS 2a01:8840:65:0:0:0:0:1 65.22.103.1
 nserver:      B0.NIC.YACHTS 2a01:8840:63:0:0:0:0:1 65.22.101.1
 nserver:      C0.NIC.YACHTS 2a01:8840:64:0:0:0:0:1 65.22.102.1
-ds-rdata:     23151 7 1 5b7a603354db71fe12a8eb02c543870b9d32ca50
-ds-rdata:     23151 7 2 3274bf993895f56c64538047445c393fddc0c5b17bebb23d1b6f1842973c0abd
+ds-rdata:     50071 8 2 bf1b2d1657ad8be12fbedad8af0999d1e9185c100937ac023d01c9a6cca78dae
 
 whois:        whois.afilias-srs.net
 
@@ -42,6 +41,6 @@ remarks:      Registration information:
 remarks:      http://www.dominionregistries.com
 
 created:      2014-05-01
-changed:      2019-08-26
+changed:      2020-12-09
 source:       IANA
 
