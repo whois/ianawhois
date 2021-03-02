@@ -18,14 +18,14 @@ fax-no:       +1-208-389-5771
 e-mail:       dotchase@markmonitor.com
 
 contact:      technical
-name:         Director
-organisation: Neustar, Inc.
-address:      21575 Ridgetop Circle
-address:      Sterling, VA 20166
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      14455 North Hayden Rd.
+address:      Scottsdale, AZ 85260
 address:      United States
-phone:        +1 844-677-2878
-fax-no:       +1 571-434-5401
-e-mail:       technical1@registry.neustar
+phone:        +1 480-505-8800
+fax-no:       +1 480-393-4275
+e-mail:       iana@registry.godaddy
 
 nserver:      NS1.DNS.NIC.JPMORGAN 156.154.144.92 2610:a1:1071:0:0:0:0:5c
 nserver:      NS2.DNS.NIC.JPMORGAN 156.154.145.92 2610:a1:1072:0:0:0:0:5c
@@ -33,10 +33,6 @@ nserver:      NS3.DNS.NIC.JPMORGAN 156.154.159.92 2610:a1:1073:0:0:0:0:5c
 nserver:      NS4.DNS.NIC.JPMORGAN 156.154.156.92 2610:a1:1074:0:0:0:0:5c
 nserver:      NS5.DNS.NIC.JPMORGAN 156.154.157.92 2610:a1:1075:0:0:0:0:5c
 nserver:      NS6.DNS.NIC.JPMORGAN 156.154.158.92 2610:a1:1076:0:0:0:0:5c
-ds-rdata:     4180 8 1 8F4FC940F08164E9502CB7DD006AEF820FC571BD
-ds-rdata:     4180 8 2 469D0667ACCA0E1A7D88F1445B614FC8A2570B329C34656D224EE0B4DC2D7CA5
-ds-rdata:     12457 8 2 FA73FD99A3547539415C992429EF409EA4E24F5900DEBF850AA11D94BDA76312
-ds-rdata:     12457 8 1 23A5D2F5DB4D8766D0A0F6F21CBB8EDBC63E82E1
 ds-rdata:     26884 8 2 D60AC7C1CFEA8ABF25E402753D3555B4C48B487BBD44454D036492248A5D93F1
 ds-rdata:     26884 8 1 3F9D072BB79A8A4C7D9BF2173476D35BDA7D49CE
 
@@ -44,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.jpmorganchase.com
 
 created:      2016-01-14
-changed:      2020-05-01
+changed:      2020-10-12
 source:       IANA
 
