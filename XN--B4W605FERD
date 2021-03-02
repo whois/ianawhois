@@ -37,8 +37,7 @@ nserver:      A0.NIC.XN--B4W605FERD 2a01:8840:8a:0:0:0:0:1 65.22.140.1
 nserver:      A2.NIC.XN--B4W605FERD 2a01:8840:8d:0:0:0:0:1 65.22.143.1
 nserver:      B0.NIC.XN--B4W605FERD 2a01:8840:8b:0:0:0:0:1 65.22.141.1
 nserver:      C0.NIC.XN--B4W605FERD 2a01:8840:8c:0:0:0:0:1 65.22.142.1
-ds-rdata:     16669 7 1 2dc5701a45ef3beb7a84aefaf6dbd3b4145f56e3
-ds-rdata:     16669 7 2 bd4c6bcaabde7a16df54e658c57955802bf98ad2eb5f2ba696fa66495825c740
+ds-rdata:     56659 8 2 bd5e5982605e7ec6077b7742d7894a6959657afbfe9ee345eda682a9a4bf0252
 
 whois:        whois.afilias-srs.net
 
@@ -47,6 +46,6 @@ remarks:      Registration information:
 remarks:      http://www.temasek.com.sg/nicdan4ma3xi1
 
 created:      2014-12-18
-changed:      2019-10-15
+changed:      2020-11-17
 source:       IANA
 
