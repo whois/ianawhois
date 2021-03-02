@@ -30,8 +30,7 @@ nserver:      A0.NIC.SBI 2a01:8840:aa:0:0:0:0:9 65.22.176.9
 nserver:      A2.NIC.SBI 2a01:8840:ad:0:0:0:0:9 65.22.179.9
 nserver:      B0.NIC.SBI 2a01:8840:ab:0:0:0:0:9 65.22.177.9
 nserver:      C0.NIC.SBI 2a01:8840:ac:0:0:0:0:9 65.22.178.9
-ds-rdata:     52755 7 1 4aa48d9eed8ee9f780fc29c1ae06af0df013dddc
-ds-rdata:     52755 7 2 a9a05829c13fbe142e4388fefa7a0ac7318e807c6c1a9c589e956eba9433d941
+ds-rdata:     31606 8 2 70193b642aefe13270d7ff55a3fd26bcb1c6cdf4d43b04f694509de430381f4b
 
 whois:        whois.nic.sbi
 
@@ -39,6 +38,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.sbi.co.in
 
 created:      2016-03-24
-changed:      2017-07-20
+changed:      2020-11-05
 source:       IANA
 
