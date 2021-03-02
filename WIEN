@@ -5,15 +5,15 @@
 domain:       WIEN
 
 organisation: punkt.wien GmbH
-address:      Matznergasse 17
-address:      1140 Wien
+address:      Schoenbrunner Strasse 231
+address:      1120 Wien
 address:      Austria
 
 contact:      administrative
 name:         Ronald Schwaerzler
 organisation: punkt.wien GmbH
-address:      Matznergasse 17
-address:      1140 Wien
+address:      Schoenbrunner Strasse 231
+address:      1120 Wien
 address:      Austria
 phone:        +431981160
 fax-no:       +43198116111
@@ -22,8 +22,8 @@ e-mail:       ronald.schwaerzler@nic.wien
 contact:      technical
 name:         Technical Operations
 organisation: RyCE GmbH
-address:      Matznergasse 17
-address:      1140 Wien
+address:      Schoenbrunner Strasse 231
+address:      1120 Wien
 address:      Austria
 phone:        +431981160
 fax-no:       +43198116111
@@ -37,9 +37,9 @@ ds-rdata:     57889 8 2 e2aa9ba196c7d4f10a8320a710fc24ad4bc86ce362239c307af3b875
 whois:        whois.nic.wien
 
 status:       ACTIVE
-remarks:      Registration information: http://www.nic.wien
+remarks:      Registration information: https://www.nic.wien
 
 created:      2013-12-19
-changed:      2020-03-26
+changed:      2020-10-06
 source:       IANA
 
