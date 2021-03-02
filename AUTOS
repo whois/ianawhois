@@ -32,8 +32,7 @@ nserver:      A0.NIC.AUTOS 2a01:8840:62:0:0:0:0:9 65.22.100.9
 nserver:      A2.NIC.AUTOS 2a01:8840:65:0:0:0:0:9 65.22.103.9
 nserver:      B0.NIC.AUTOS 2a01:8840:63:0:0:0:0:9 65.22.101.9
 nserver:      C0.NIC.AUTOS 2a01:8840:64:0:0:0:0:9 65.22.102.9
-ds-rdata:     9921 7 1 301e847de091749f937c4db50ac5e04f932c79a2
-ds-rdata:     9921 7 2 efa96a0007f3e902ea89ea6116964cb4a3b8230739e67885332462b4c676eb00
+ds-rdata:     12979 8 2 b803b9558f22efb130a7b8a43e1cb855b94de8dc5558a1bc350dba0560e27bcd
 
 whois:        whois.afilias-srs.net
 
@@ -42,6 +41,6 @@ remarks:      Registration information:
 remarks:      http://www.dominionregistries.com
 
 created:      2014-05-01
-changed:      2019-08-26
+changed:      2020-12-09
 source:       IANA
 
