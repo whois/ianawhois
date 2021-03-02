@@ -32,7 +32,7 @@ nserver:      I.MX-NS.MX 207.248.68.1
 nserver:      M.MX-NS.MX 200.94.176.1 2001:13c7:7000:0:0:0:0:1
 nserver:      O.MX-NS.MX 200.23.1.1
 nserver:      X.MX-NS.MX 201.131.252.1
-ds-rdata:     51802 8 2 3A561EC32168F35264981F2952AEF94E97654919AA5904CE1058C1D000F07492
+ds-rdata:     58444 8 2 F14F358BE16FFABADAFC9E8BAD037978F2B04B3B180BAA82141BFD85F3B42726
 
 whois:        whois.nic.lat
 
@@ -40,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.puntolat.info
 
 created:      2014-12-04
-changed:      2019-12-06
+changed:      2020-09-30
 source:       IANA
 
