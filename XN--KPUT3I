@@ -35,8 +35,7 @@ nserver:      A0.NIC.XN--KPUT3I 2a01:8840:d2:0:0:0:0:1 65.22.216.1
 nserver:      A2.NIC.XN--KPUT3I 2a01:8840:d5:0:0:0:0:1 65.22.219.1
 nserver:      B0.NIC.XN--KPUT3I 2a01:8840:d3:0:0:0:0:1 65.22.217.1
 nserver:      C0.NIC.XN--KPUT3I 2a01:8840:d4:0:0:0:0:1 65.22.218.1
-ds-rdata:     63238 7 1 914e46cedd3d5584cf4a875df104b16c6652c6fb
-ds-rdata:     63238 7 2 733d6be493cc3b34671cf4aec50d7ccc5fa2685418ab52ee5f87f38de98da8cd
+ds-rdata:     52711 8 2 5f79e365d1534c004a0b4ca879766111accb9350241c0de57cdff36ab8cf87f1
 
 whois:        whois.nic.xn--kput3i
 
@@ -44,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.rntd.cn
 
 created:      2014-06-05
-changed:      2019-08-21
+changed:      2020-11-20
 source:       IANA
 
