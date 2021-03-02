@@ -35,8 +35,7 @@ nserver:      A0.NIC.IVECO 2a01:8840:76:0:0:0:0:9 65.22.120.9
 nserver:      A2.NIC.IVECO 2a01:8840:79:0:0:0:0:9 65.22.123.9
 nserver:      B0.NIC.IVECO 2a01:8840:77:0:0:0:0:9 65.22.121.9
 nserver:      C0.NIC.IVECO 2a01:8840:78:0:0:0:0:9 65.22.122.9
-ds-rdata:     52228 7 1 eee086916966669b8cdb9eb2803d93b20e6012e1
-ds-rdata:     52228 7 2 25162d8ce8527d237145ecc462475af54fdb1da1889c9d9156c6f94719f9f9ad
+ds-rdata:     46609 8 2 a27e3339511f70361002c1105dea6048e05e175d1809ef566c342be3b4af4826
 
 whois:        whois.nic.iveco
 
@@ -44,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.cnhindustrial.com
 
 created:      2016-10-27
-changed:      2017-07-20
+changed:      2020-10-30
 source:       IANA
 
