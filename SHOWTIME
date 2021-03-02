@@ -30,8 +30,7 @@ nserver:      A0.NIC.SHOWTIME 2a01:8840:42:0:0:0:0:1 65.22.68.1
 nserver:      A2.NIC.SHOWTIME 2a01:8840:45:0:0:0:0:1 65.22.71.1
 nserver:      B0.NIC.SHOWTIME 2a01:8840:43:0:0:0:0:1 65.22.69.1
 nserver:      C0.NIC.SHOWTIME 2a01:8840:44:0:0:0:0:1 65.22.70.1
-ds-rdata:     33033 7 1 37f3ca509f7b293243fb72855eb348cdb396fd42
-ds-rdata:     33033 7 2 8e68841a9df682561d42d6509148bbac6e0839c8bc18793d3198dcb661bb8ba8
+ds-rdata:     18211 8 2 127adbfe87ea3d320525990c4783db7eafb3fc10de688eb7b593836b6ce02cca
 
 whois:        whois.afilias-srs.net
 
@@ -39,6 +38,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.showtime.com
 
 created:      2016-07-21
-changed:      2016-08-04
+changed:      2020-10-15
 source:       IANA
 
