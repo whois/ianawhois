@@ -18,14 +18,14 @@ fax-no:       +1 206 946 7702
 e-mail:       zero-rzm@amazon.com
 
 contact:      technical
-name:         Director
-organisation: Neustar, Inc.
-address:      21575 Ridgetop Circle
-address:      Sterling, VA 20166
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      14455 North Hayden Rd.
+address:      Scottsdale, AZ 85260
 address:      United States
-phone:        +1 844-677-2878
-fax-no:       +1 571-434-5401
-e-mail:       technical1@registry.neustar
+phone:        +1 480-505-8800
+fax-no:       +1 480-393-4275
+e-mail:       iana@registry.godaddy
 
 nserver:      NS1.DNS.NIC.ZERO 156.154.144.188 2610:a1:1071:0:0:0:0:bc
 nserver:      NS2.DNS.NIC.ZERO 156.154.145.188 2610:a1:1072:0:0:0:0:bc
@@ -33,8 +33,6 @@ nserver:      NS3.DNS.NIC.ZERO 156.154.159.188 2610:a1:1073:0:0:0:0:bc
 nserver:      NS4.DNS.NIC.ZERO 156.154.156.188 2610:a1:1074:0:0:0:0:bc
 nserver:      NS5.DNS.NIC.ZERO 156.154.157.188 2610:a1:1075:0:0:0:0:bc
 nserver:      NS6.DNS.NIC.ZERO 156.154.158.188 2610:a1:1076:0:0:0:0:bc
-ds-rdata:     1561 8 2 A6069B150C3DC041FD697D3AF9D70B42F55AF3AC36F3C68F1C3F0A86477AF4A3
-ds-rdata:     1561 8 1 5BE75C2258442F289130FE2696A20B46D1DC95B7
 ds-rdata:     31510 8 1 326FF13B58C8D18B1FCE68D23888EED113B29A06
 ds-rdata:     31510 8 2 AA678667F6EE4D0A0FEEC4DE865D5294F6699519657B8C7F94018E05B3C10F13
 
@@ -42,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.amazonregistry.com
 
 created:      2015-11-12
-changed:      2020-04-30
+changed:      2020-10-12
 source:       IANA
 
