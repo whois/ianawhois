@@ -37,8 +37,7 @@ nserver:      A0.NIC.XIN 2a01:8840:7e:0:0:0:0:17 65.22.128.17
 nserver:      A2.NIC.XIN 2a01:8840:81:0:0:0:0:17 65.22.131.17
 nserver:      B0.NIC.XIN 2a01:8840:7f:0:0:0:0:17 65.22.129.17
 nserver:      C0.NIC.XIN 2a01:8840:80:0:0:0:0:17 65.22.130.17
-ds-rdata:     57339 7 1 8b256cf077c63884bdf213c796db6f32a4289717
-ds-rdata:     57339 7 2 617b4a512b4cebe63595c1f27504b5b99c2e4319eb7ad56e48b8679bd137e7f1
+ds-rdata:     2809 8 2 3bbba82ef5ee5583f6743af83a583f203153df0c2066f8707a735dc514474bf4
 
 whois:        whois.nic.xin
 
@@ -46,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.dotxin.org
 
 created:      2015-02-19
-changed:      2019-08-21
+changed:      2021-02-09
 source:       IANA
 
