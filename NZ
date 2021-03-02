@@ -11,7 +11,7 @@ address:      Wellington  6011
 address:      New Zealand
 
 contact:      administrative
-name:         IANA Administrator
+name:         Group Chief Executive
 organisation: InternetNZ
 address:      Level 11
 address:      80 Boulcott Street
@@ -22,7 +22,7 @@ fax-no:       +64 4 495 2115
 e-mail:       iana@internetnz.net.nz
 
 contact:      technical
-name:         IANA Administrator
+name:         .NZ Operations Manager
 organisation: InternetNZ
 address:      Level 11
 address:      80 Boulcott Street
@@ -38,10 +38,10 @@ nserver:      NS4.DNS.NET.NZ 2001:dce:d454:0:0:0:0:53 202.46.189.130
 nserver:      NS5.DNS.NET.NZ 185.159.197.130 2620:10a:80aa:0:0:0:0:130
 nserver:      NS6.DNS.NET.NZ 185.159.198.130 2620:10a:80ab:0:0:0:0:130
 nserver:      NS7.DNS.NET.NZ 194.146.106.54 2001:67c:1010:13:0:0:0:53
-ds-rdata:     5029 8 1 483115a784fa8cf8c8910d7a19b66949b42f67ea
-ds-rdata:     5029 8 2 983251e9bb3309c81b075e44c0a1ddfd0a10057ff1e3a4c4cd014372a673a644
-ds-rdata:     45320 8 1 bb940c35d63821617adfc8a3a9cf3d859af3c202
-ds-rdata:     45320 8 2 2921eabc7d5ef803f53135974e30d2f3c970156a7553782f737cae996aa5f90a
+ds-rdata:     25234 8 2 74d03214a4381428a421bfda1a45f1a91b9325d9938164854a55e79a665fc833
+ds-rdata:     1324 8 2 e29b5616b1444ffca9fdda248ab23dd84dcc13126cc589ec0d8e5d43a6c28460
+ds-rdata:     1324 8 1 389234bdc40be8f25035e997ca9d25988605c247
+ds-rdata:     25234 8 1 cd56f0a2c3724e21bdeb4c67ec4a20f6f8e94559
 
 whois:        whois.srs.net.nz
 
@@ -49,6 +49,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.dnc.org.nz/
 
 created:      1987-01-19
-changed:      2019-05-30
+changed:      2020-07-28
 source:       IANA
 
