@@ -35,8 +35,7 @@ nserver:      A0.NIC.XN--FZYS8D69UVGM 2a01:8840:a6:0:0:0:0:33 65.22.172.33
 nserver:      A2.NIC.XN--FZYS8D69UVGM 2a01:8840:a9:0:0:0:0:33 65.22.175.33
 nserver:      B0.NIC.XN--FZYS8D69UVGM 2a01:8840:a7:0:0:0:0:33 65.22.173.33
 nserver:      C0.NIC.XN--FZYS8D69UVGM 2a01:8840:a8:0:0:0:0:33 65.22.174.33
-ds-rdata:     54556 7 1 b20cf58a31d06d347dfa35ea82405584af194932
-ds-rdata:     54556 7 2 eb9dd82dd06ed607b443e885ff60c65606555be2d9701c2f39133b11b53122ac
+ds-rdata:     5302 8 2 1d8b69a4fcfc475fb7d9d7b5b1366b92c51826a503a530f2ea1c6d07d58b9d2a
 
 whois:        whois.nic.xn--fzys8d69uvgm
 
@@ -45,6 +44,6 @@ remarks:      Registration information:
 remarks:      http://www.dot.asia/namesphere/
 
 created:      2016-04-15
-changed:      2017-08-28
+changed:      2020-11-05
 source:       IANA
 
