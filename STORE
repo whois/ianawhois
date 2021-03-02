@@ -40,8 +40,8 @@ e-mail:       tld.ops@centralnic.com
 
 nserver:      A.NIC.STORE 194.169.218.45 2001:67c:13cc:0:0:0:1:45
 nserver:      B.NIC.STORE 185.24.64.45 2a04:2b00:13cc:0:0:0:1:45
-nserver:      C.NIC.STORE 185.38.99.8 2a02:e180:3:0:0:0:0:8
-nserver:      D.NIC.STORE 108.59.161.8 2a02:e180:4:0:0:0:0:8
+nserver:      E.NIC.STORE 212.18.248.45 2a04:2b00:13ee:0:0:0:0:45
+nserver:      F.NIC.STORE 212.18.249.45 2a04:2b00:13ff:0:0:0:0:45
 ds-rdata:     16342 8 1 C6D41FB11396E2B908BD82ADD46457DAA960EC23
 ds-rdata:     16342 8 2 E59827295E51C4F46D5208ED454BCD78DD6FFA49F01BD203B24E1380AA535675
 
@@ -51,6 +51,6 @@ status:       ACTIVE
 remarks:      Registration information: http://radix.website/
 
 created:      2016-02-11
-changed:      2020-04-09
+changed:      2020-08-27
 source:       IANA
 
