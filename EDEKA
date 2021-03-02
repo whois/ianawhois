@@ -30,8 +30,7 @@ nserver:      A0.NIC.EDEKA 2a01:8840:12:0:0:0:0:25 65.22.16.25
 nserver:      A2.NIC.EDEKA 2a01:8840:15:0:0:0:0:25 65.22.19.25
 nserver:      B0.NIC.EDEKA 2a01:8840:13:0:0:0:0:25 65.22.17.25
 nserver:      C0.NIC.EDEKA 2a01:8840:14:0:0:0:0:25 65.22.18.25
-ds-rdata:     38836 7 1 5d68602bc30a38d2c7cc2658dbce51e34cec6d21
-ds-rdata:     38836 7 2 a7c0986c3192e9b9d35cd22830ffd53231e88e097c69754ced7d14f4e91e7ec7
+ds-rdata:     5236 8 2 1423f0e6f60e7ba10535b7b7b88dea2b02a8ce3309e68ed2e9698687cdb95065
 
 whois:        whois.afilias-srs.net
 
@@ -39,6 +38,6 @@ status:       ACTIVE
 remarks:      Registration information: http://edeka.de
 
 created:      2016-01-08
-changed:      2019-08-21
+changed:      2020-12-08
 source:       IANA
 
