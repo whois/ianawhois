@@ -27,8 +27,8 @@ address:      United Arab Emirates
 phone:        +971 4 7774018
 e-mail:       dns@aeda.ae
 
-nserver:      NS1.AEDNS.AE 79.98.120.73
-nserver:      NS2.AEDNS.AE 79.98.121.73
+nserver:      NS1.AEDNS.AE 2a00:d30:124:0:0:0:0:189 79.98.120.73
+nserver:      NS2.AEDNS.AE 2a00:d30:125:0:0:0:0:189 79.98.121.73
 nserver:      NS4.APNIC.NET 2001:dd8:12:0:0:0:0:53 202.12.31.53
 nserver:      NSEXT-PCH.AEDNS.AE 199.4.137.1 2001:500:7d:0:0:0:0:1
 
@@ -38,6 +38,6 @@ status:       ACTIVE
 remarks:      Registration information: http://aeda.ae/
 
 created:      1992-12-01
-changed:      2020-01-22
+changed:      2020-07-16
 source:       IANA
 
