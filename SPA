@@ -1,0 +1,50 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       SPA
+
+organisation: Asia Spa and Wellness Promotion Council Limited
+address:      The Campus, Level 6, Menara Kelana Parkview, Jalan SS6/2
+address:      Petaling Jaya
+address:      Selangor
+address:      47301
+address:      Malaysia
+
+contact:      administrative
+name:         Senior Vice President
+organisation: Afilias
+address:      300 Welsh Road
+address:      Building 3, Suite 105
+address:      Horsham, PA 19044
+address:      United States
+phone:        +1 215.706.5700
+fax-no:       +1 215.706.5701
+e-mail:       tld-admin-poc@afilias.info
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Afilias
+address:      300 Welsh Road
+address:      Building 3, Suite 105
+address:      Horsham, PA 19044
+address:      United States
+phone:        +1 215.706.5700
+fax-no:       +1 215.706.5701
+e-mail:       tld-tech-poc@afilias.info
+
+nserver:      A0.NIC.SPA 2a01:8840:2e:0:0:0:0:17 65.22.48.17
+nserver:      A2.NIC.SPA 2a01:8840:31:0:0:0:0:17 65.22.51.17
+nserver:      B0.NIC.SPA 2a01:8840:2f:0:0:0:0:17 65.22.49.17
+nserver:      C0.NIC.SPA 2a01:8840:30:0:0:0:0:17 65.22.50.17
+ds-rdata:     11881 8 2 5f494f6958801e119d309bf6cd627c42d1fd04055703aeaac2c2d1b98db00b97
+
+whois:        whois.afilias-srs.net
+
+status:       ACTIVE
+remarks:      Registration information: https://dotspa.xyz
+
+created:      2020-09-25
+changed:      2020-10-30
+source:       IANA
+
