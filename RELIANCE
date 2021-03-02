@@ -35,8 +35,7 @@ nserver:      A0.NIC.RELIANCE 2a01:8840:6a:0:0:0:0:25 65.22.108.25
 nserver:      A2.NIC.RELIANCE 2a01:8840:6d:0:0:0:0:25 65.22.111.25
 nserver:      B0.NIC.RELIANCE 2a01:8840:6b:0:0:0:0:25 65.22.109.25
 nserver:      C0.NIC.RELIANCE 2a01:8840:6c:0:0:0:0:25 65.22.110.25
-ds-rdata:     54214 7 1 d7b1272496615834548fd39b38ad9104718f288e
-ds-rdata:     54214 7 2 72f9f4415ebe13628d09dfcd5fdc5c079b07ec5186cb89f28541c7a5c42a457e
+ds-rdata:     19927 8 2 db9d2dcf05506fcb1f593ce8f9b5a0155e68706cb9bdfe7a945074312bc8f896
 
 whois:        whois.nic.reliance
 
@@ -44,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.ril.com
 
 created:      2016-08-11
-changed:      2017-08-10
+changed:      2020-10-16
 source:       IANA
 
