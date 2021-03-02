@@ -34,15 +34,14 @@ e-mail:       pocmma@afnic.fr
 nserver:      D.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
 nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
 nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
-ds-rdata:     54041 8 2 0658e75221ece0ab0f8856e1d726ad5c898e911ef30e2f6e48c62217e391fef2
-ds-rdata:     18437 8 2 CC5B8A8FEE878F723D21CAD8D014D74235D3E67055739E235CE8D9F3E4457059
+ds-rdata:     29313 13 2 be2c9005f5594d4d8d9b8e6a708448335f2c589ee25cc20196671e5a16d9796f
 
-whois:        whois-mma.nic.fr
+whois:        whois.nic.mma
 
 status:       ACTIVE
 remarks:      Registration information: http://www.mma.fr
 
 created:      2015-02-27
-changed:      2019-08-12
+changed:      2020-07-20
 source:       IANA
 
