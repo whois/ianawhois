@@ -10,31 +10,29 @@ address:      New South Wales 2000
 address:      Australia
 
 contact:      administrative
-name:         Senior Director
-organisation: Neustar, Inc.
-address:      21575 Ridgetop Circle
-address:      Sterling, VA 20166
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      14455 North Hayden Rd.
+address:      Scottsdale, AZ 85260
 address:      United States
-phone:        +1 571 434 5400
-fax-no:       +1 571 434 5735
-e-mail:       technical1@registry.neustar
+phone:        +1 480-505-8800
+fax-no:       +1 480-393-4275
+e-mail:       iana@registry.godaddy
 
 contact:      technical
-name:         Director
-organisation: Neustar, Inc.
-address:      21575 Ridgetop Circle
-address:      Sterling, VA 20166
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      14455 North Hayden Rd.
+address:      Scottsdale, AZ 85260
 address:      United States
-phone:        +1 844 677 2878
-fax-no:       +1 571 434 5401
-e-mail:       technical1@registry.neustar
+phone:        +1 480-505-8800
+fax-no:       +1 480-393-4275
+e-mail:       iana@registry.godaddy
 
 nserver:      A.NIC.SYDNEY 2001:dcd:1:0:0:0:0:10 37.209.192.10
 nserver:      B.NIC.SYDNEY 2001:dcd:2:0:0:0:0:10 37.209.194.10
 nserver:      C.NIC.SYDNEY 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      D.NIC.SYDNEY 2001:dcd:4:0:0:0:0:10 37.209.198.10
-ds-rdata:     58114 8 2 77D5604398757FEBEF20916550FBCDBDA112404D1C62E0C9BF10F1E2B6721481
-ds-rdata:     58114 8 1 7B42D71BF52E6395490139628CDFEFD552BD3F00
 ds-rdata:     55807 8 2 8FEECD2CA0AF01AAC8D261B48E9C4F1AFE8A143ED47F3783443C11BD9A1ED38C
 ds-rdata:     55807 8 1 AC954040A2F5F44232A82BE3FBAA328E9912E99A
 
@@ -45,6 +43,6 @@ remarks:      Registration information:
 remarks:      http://www.ariservices.com/dotsydney
 
 created:      2014-10-30
-changed:      2020-04-30
+changed:      2020-10-19
 source:       IANA
 
