@@ -19,14 +19,14 @@ fax-no:       +1-206-946-7702
 e-mail:       cloud-rzm@amazon.com
 
 contact:      technical
-name:         Director
-organisation: Neustar, Inc.
-address:      21575 Ridgetop Circle
-address:      Sterling, VA 20166
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      14455 North Hayden Rd.
+address:      Scottsdale, AZ 85260
 address:      United States
-phone:        +1 844-677-2878
-fax-no:       +1 571-434-5401
-e-mail:       technical1@registry.neustar
+phone:        +1 480-505-8800
+fax-no:       +1 480-393-4275
+e-mail:       iana@registry.godaddy
 
 nserver:      NS1.DNS.NIC.XN--GCKR3F0F 156.154.169.69 2610:a1:1071:0:0:0:1:45
 nserver:      NS2.DNS.NIC.XN--GCKR3F0F 156.154.170.69 2610:a1:1072:0:0:0:1:45
@@ -34,10 +34,6 @@ nserver:      NS3.DNS.NIC.XN--GCKR3F0F 156.154.171.69 2610:a1:1073:0:0:0:1:45
 nserver:      NS4.DNS.NIC.XN--GCKR3F0F 156.154.172.69 2610:a1:1074:0:0:0:1:45
 nserver:      NS5.DNS.NIC.XN--GCKR3F0F 156.154.173.69 2610:a1:1075:0:0:0:1:45
 nserver:      NS6.DNS.NIC.XN--GCKR3F0F 156.154.174.69 2610:a1:1076:0:0:0:1:45
-ds-rdata:     11267 8 1 D887C87165A267C61B60A48976A273639B140A14
-ds-rdata:     11267 8 2 CDC94598203F08280DAE67E79FC36C0213CA3712917495B8756AEA8A7FE62ED0
-ds-rdata:     23131 8 1 51AC86D0ACF53AC3094FA566D427FBB9F5602331
-ds-rdata:     23131 8 2 523349D2CF1DB591BB07F69948671813D604C98A894E70C20F1318D18C2BA42F
 ds-rdata:     18589 8 1 608B2A17B13AD247ECF4EEF6520CBEFDE1E96B20
 ds-rdata:     18589 8 2 91EF3FA2D38A7D0802956F950CC91F5396D1E12129DBDE89AED5AC0318ED2E21
 
@@ -45,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.amazonregistry.com
 
 created:      2016-01-29
-changed:      2020-04-30
+changed:      2020-10-12
 source:       IANA
 
