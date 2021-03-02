@@ -18,14 +18,14 @@ fax-no:       +1 425-457-2511
 e-mail:       tlddom@microsoft.com
 
 contact:      technical
-name:         Director
-organisation: Neustar, Inc.
-address:      21575 Ridgetop Circle
-address:      Sterling, VA 20166
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      14455 North Hayden Rd.
+address:      Scottsdale, AZ 85260
 address:      United States
-phone:        +1 844-677-2878
-fax-no:       +1 571-434-5401
-e-mail:       technical1@registry.neustar
+phone:        +1 480-505-8800
+fax-no:       +1 480-393-4275
+e-mail:       iana@registry.godaddy
 
 nserver:      NS1.DNS.NIC.SKYPE 156.154.144.151 2610:a1:1071:0:0:0:0:97
 nserver:      NS2.DNS.NIC.SKYPE 156.154.145.151 2610:a1:1072:0:0:0:0:97
@@ -33,10 +33,6 @@ nserver:      NS3.DNS.NIC.SKYPE 156.154.159.151 2610:a1:1073:0:0:0:0:97
 nserver:      NS4.DNS.NIC.SKYPE 156.154.156.151 2610:a1:1074:0:0:0:0:97
 nserver:      NS5.DNS.NIC.SKYPE 156.154.157.151 2610:a1:1075:0:0:0:0:97
 nserver:      NS6.DNS.NIC.SKYPE 156.154.158.151 2610:a1:1076:0:0:0:0:97
-ds-rdata:     44947 8 1 78A62B2C72F2EB52617C654013E1856F88DB493D
-ds-rdata:     44947 8 2 8C7BA66D5D1B149C8BC5467D61C62068E35999C007DD80E55F1AC245433701CB
-ds-rdata:     1339 8 1 C988670152A92B959D06B931FEFD6F8BE903DB7A
-ds-rdata:     1339 8 2 D12397530C9396B80FDAC3CCCB6AB438C3FB192EE0CFBFE5E3E631B1298382C1
 ds-rdata:     36946 8 2 BCFE09A00680254D3563689BD72662D288DFD02CB95202F2FB295DEAD301A6CD
 ds-rdata:     36946 8 1 A69CFDB7DF7D60FBC6249F3382B81E38267DE840
 
@@ -44,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.skype.com
 
 created:      2015-03-19
-changed:      2020-04-30
+changed:      2020-10-12
 source:       IANA
 
