@@ -18,14 +18,14 @@ fax-no:       +1 208-389-5771
 e-mail:       dotintuit@markmonitor.com
 
 contact:      technical
-name:         Director
-organisation: Neustar, Inc.
-address:      21575 Ridgetop Circle
-address:      Sterling, VA 20166
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      14455 North Hayden Rd.
+address:      Scottsdale, AZ 85260
 address:      United States
-phone:        +1 844-677-2878
-fax-no:       +1 571-434-5401
-e-mail:       technical1@registry.neustar
+phone:        +1 480-505-8800
+fax-no:       +1 480-393-4275
+e-mail:       iana@registry.godaddy
 
 nserver:      NS1.DNS.NIC.INTUIT 156.154.144.82 2610:a1:1071:0:0:0:0:52
 nserver:      NS2.DNS.NIC.INTUIT 156.154.145.82 2610:a1:1072:0:0:0:0:52
@@ -33,10 +33,6 @@ nserver:      NS3.DNS.NIC.INTUIT 156.154.159.82 2610:a1:1073:0:0:0:0:52
 nserver:      NS4.DNS.NIC.INTUIT 156.154.156.82 2610:a1:1074:0:0:0:0:52
 nserver:      NS5.DNS.NIC.INTUIT 156.154.157.82 2610:a1:1075:0:0:0:0:52
 nserver:      NS6.DNS.NIC.INTUIT 156.154.158.82 2610:a1:1076:0:0:0:0:52
-ds-rdata:     52609 8 1 D1E495C7762BABE02E8776DFC78ECD45AA32C130
-ds-rdata:     52609 8 2 D2C29987570235F42FE7A22FEA1485A9752C34674ACCD902D133BEC1F806891E
-ds-rdata:     7159 8 1 894FA855940F8B627B63BBDEEC7F2D4D3F6AA06D
-ds-rdata:     7159 8 2 448BB98AF841D413B299CD5EFAAED652AD7EC67AE6D80FBB732C40A917EF63D3
 ds-rdata:     6625 8 2 6E8008BDD07C2639CA2D93C4183D73E0370EA511CDF40D8BF14951E3613EE525
 ds-rdata:     6625 8 1 01463CF07FEF7C3E37B2818E9317F55812C21D75
 
@@ -44,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.intuit.com/
 
 created:      2016-06-09
-changed:      2020-05-01
+changed:      2020-10-12
 source:       IANA
 
