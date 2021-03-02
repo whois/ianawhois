@@ -20,28 +20,27 @@ phone:        +49 461 5050 35 0
 e-mail:       gearegistry@lemarit.com
 
 contact:      technical
-name:         Senior Director, DNS Infrastructure Group
-organisation: Afilias
-address:      Building 3, Suite 105, 300 Welsh Road
-address:      Horsham, PA 19044
-address:      United States
-phone:        +1 215 706 5700
-fax-no:       +1 215 706 5701
-e-mail:       tld-tech-poc@afilias.info
+name:         CTO
+organisation: LEMARIT GmbH
+address:      Werkstrasse 12, Harrislee
+address:      Schleswig-Holstein
+address:      24955
+address:      Germany
+phone:        +49 4615050350
+fax-no:       +49 461 50503535
+e-mail:       gearegistry@lemarit.com
 
-nserver:      A0.NIC.GEA 2a01:8840:e2:0:0:0:0:1 65.22.232.1
-nserver:      A2.NIC.GEA 2a01:8840:e5:0:0:0:0:1 65.22.235.1
-nserver:      B0.NIC.GEA 2a01:8840:e3:0:0:0:0:1 65.22.233.1
-nserver:      C0.NIC.GEA 2a01:8840:e4:0:0:0:0:1 65.22.234.1
-ds-rdata:     10125 7 1 b3f7174f912ee39bbea6617155f123972a70499f
-ds-rdata:     10125 7 2 7ef0d08ab7bbe4e44745ba5ed584f63e6fd5a41870c8ac4074008423b829ba9a
+nserver:      A.DNS.NIC.GEA 194.0.25.33 2001:678:20:0:0:0:0:33
+nserver:      M.DNS.NIC.GEA 194.0.26.13 2001:67c:10e0:0:0:0:0:13
+nserver:      N.DNS.NIC.GEA 194.0.24.13 2001:678:24:0:0:0:0:13
+ds-rdata:     1696 7 2 961bcdc4141b8d37ebce830773fadb2994f929b32041a588ae6892104c4020cb
 
-whois:        whois.afilias-srs.net
+whois:        whois.nic.gea
 
 status:       ACTIVE
 remarks:      Registration information: http://www.geagroup.com
 
 created:      2015-07-09
-changed:      2019-08-21
+changed:      2020-12-10
 source:       IANA
 
