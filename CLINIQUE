@@ -34,8 +34,7 @@ nserver:      A0.NIC.CLINIQUE 2a01:8840:32:0:0:0:0:41 65.22.52.41
 nserver:      A2.NIC.CLINIQUE 2a01:8840:35:0:0:0:0:41 65.22.55.41
 nserver:      B0.NIC.CLINIQUE 2a01:8840:33:0:0:0:0:41 65.22.53.41
 nserver:      C0.NIC.CLINIQUE 2a01:8840:34:0:0:0:0:41 65.22.54.41
-ds-rdata:     62341 7 1 dc2c1a2539146a03a2d989b6487fd2c3319954ac
-ds-rdata:     62341 7 2 eceb8cf9f7c2b915ab5a3c4d929960e9db21be3f0cd48ec489324c53314ea338
+ds-rdata:     51286 8 2 2456b103e69d9f788b97912b8dfba0fbfdf574abfa166ddd1c773dcf252b3bde
 
 whois:        whois.nic.clinique
 
@@ -44,6 +43,6 @@ remarks:      Registration information:
 remarks:      http://elcompanies.com/Pages/Homepage.aspx
 
 created:      2015-12-10
-changed:      2019-08-21
+changed:      2020-11-17
 source:       IANA
 
