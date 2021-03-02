@@ -34,8 +34,7 @@ nserver:      A0.NIC.ALLSTATE 2a01:8840:2e:0:0:0:0:9 65.22.48.9
 nserver:      A2.NIC.ALLSTATE 2a01:8840:31:0:0:0:0:9 65.22.51.9
 nserver:      B0.NIC.ALLSTATE 2a01:8840:2f:0:0:0:0:9 65.22.49.9
 nserver:      C0.NIC.ALLSTATE 2a01:8840:30:0:0:0:0:9 65.22.50.9
-ds-rdata:     34735 7 1 25fe3d771952f12df2fd12032d9260e32e6a0780
-ds-rdata:     34735 7 2 c1ee5208db531753e0d94ec79cec132a4d495d8bc0519a5e3a34913d2510f04c
+ds-rdata:     47509 8 2 101757b35bfec8d399987d94b495b60acc0da525cf92d900c7566bce6ecf9356
 
 whois:        whois.afilias-srs.net
 
@@ -43,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.allstate.com/
 
 created:      2016-02-05
-changed:      2019-08-22
+changed:      2020-11-18
 source:       IANA
 
