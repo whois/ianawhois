@@ -18,22 +18,21 @@ fax-no:       +01 310 450 6988
 e-mail:       george@dotbuild.co
 
 contact:      technical
-name:         George Minardos
-organisation: Plan Bee LLC
-address:      2800 28th St., Suite 170, Santa Monica, CA 90405
-address:      United States
-phone:        +01 310  450-6900
-fax-no:       +01 310 450 6988
-e-mail:       george@dotbuild.co
+name:         CTO
+organisation: CentralNic
+address:      4th Floor, 44 Gutter Lane
+address:      London, EC2V 6BR
+address:      United Kingdom
+phone:        +44 203 388 0600
+fax-no:       +44 203 388 0601
+e-mail:       tld.ops@centralnic.com
 
-nserver:      A.NIC.BUILD 2001:dcd:1:0:0:0:0:10 37.209.192.10
-nserver:      B.NIC.BUILD 2001:dcd:2:0:0:0:0:10 37.209.194.10
-nserver:      C.NIC.BUILD 2001:dcd:3:0:0:0:0:10 37.209.196.10
-nserver:      D.NIC.BUILD 2001:dcd:4:0:0:0:0:10 37.209.198.10
-ds-rdata:     18634 8 2 97A275D8F2C987FB681D6E7C650FEFBF8EAE8ED9743822A3D9767F0DC3502938
-ds-rdata:     54832 8 1 7A463E0B93D57753BF3B3959C080ABDF24BC3843
-ds-rdata:     18634 8 1 134D068CC9CAABC5C5C3C1EF66B9FE08B9A8DF0D
+nserver:      A.NIC.BUILD 194.169.218.20 2001:67c:13cc:0:0:0:1:20
+nserver:      B.NIC.BUILD 185.24.64.20 2a04:2b00:13cc:0:0:0:1:20
+nserver:      C.NIC.BUILD 212.18.248.20 2a04:2b00:13ee:0:0:0:0:20
+nserver:      D.NIC.BUILD 212.18.249.20 2a04:2b00:13ff:0:0:0:0:20
 ds-rdata:     54832 8 2 8D0F5D4D637295690E42166227E1A5FD97F412E9EBDC1CB30254F7B8F8AA3792
+ds-rdata:     30770 8 2 68e3857b46d09fe8c87b6144a5d61f9613440a6407331ac598970c29809b56f7
 
 whois:        whois.nic.build
 
@@ -41,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.dotbuild.co
 
 created:      2014-01-09
-changed:      2020-04-30
+changed:      2020-11-20
 source:       IANA
 
