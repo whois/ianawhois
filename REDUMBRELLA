@@ -33,8 +33,7 @@ nserver:      A0.NIC.REDUMBRELLA 2a01:8840:c2:0:0:0:0:1 65.22.200.1
 nserver:      A2.NIC.REDUMBRELLA 2a01:8840:c5:0:0:0:0:1 65.22.203.1
 nserver:      B0.NIC.REDUMBRELLA 2a01:8840:c3:0:0:0:0:1 65.22.201.1
 nserver:      C0.NIC.REDUMBRELLA 2a01:8840:c4:0:0:0:0:1 65.22.202.1
-ds-rdata:     29898 7 1 5e4b94324c4aae37080bd1141dff141037bacdd4
-ds-rdata:     29898 7 2 8b3ca8067270b2d8a33da55fe89323ddec801609d18435ec2e22995d13809eda
+ds-rdata:     44047 8 2 1a8a582ff781ccfa13c4928d373e2f29e7db7e4027174c68bd7b3e5772ef76c7
 
 whois:        whois.afilias-srs.net
 
@@ -42,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.travelers.com
 
 created:      2015-11-20
-changed:      2019-08-21
+changed:      2020-11-17
 source:       IANA
 
