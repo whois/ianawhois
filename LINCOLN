@@ -19,14 +19,14 @@ fax-no:       1-313-322-7162
 e-mail:       dnsmgr@ford.com
 
 contact:      technical
-name:         Director
-organisation: Neustar, Inc.
-address:      21575 Ridgetop Circle
-address:      Sterling, VA 20166
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      14455 North Hayden Rd.
+address:      Scottsdale, AZ 85260
 address:      United States
-phone:        +1 844-677-2878
-fax-no:       +1 571-434-5401
-e-mail:       technical1@registry.neustar
+phone:        +1 480-505-8800
+fax-no:       +1 480-393-4275
+e-mail:       iana@registry.godaddy
 
 nserver:      NS1.DNS.NIC.LINCOLN 156.154.144.105 2610:a1:1071:0:0:0:0:69
 nserver:      NS2.DNS.NIC.LINCOLN 156.154.145.105 2610:a1:1072:0:0:0:0:69
@@ -34,10 +34,6 @@ nserver:      NS3.DNS.NIC.LINCOLN 156.154.159.105 2610:a1:1073:0:0:0:0:69
 nserver:      NS4.DNS.NIC.LINCOLN 156.154.156.105 2610:a1:1074:0:0:0:0:69
 nserver:      NS5.DNS.NIC.LINCOLN 156.154.157.105 2610:a1:1075:0:0:0:0:69
 nserver:      NS6.DNS.NIC.LINCOLN 156.154.158.105 2610:a1:1076:0:0:0:0:69
-ds-rdata:     35714 8 1 61986863F42AA1C4ACFEC9A21D3855EF85B00846
-ds-rdata:     35714 8 2 C588B9505F51EB82BBB815FB8485ADFE9D1B3F1CE7FA8498D6B2BD558CFB7011
-ds-rdata:     6649 8 2 4E149C629DA80A0C252D85485EA318F01D970006A6AF8142630D4E5C6F4E01A5
-ds-rdata:     6649 8 1 1D06881FD00ACD27058CAB45B8FF154B3F203070
 ds-rdata:     8452 8 1 BA26D5F90D08515A76D80D9D6C4210E90CB8717C
 ds-rdata:     8452 8 2 F052A21F9871741EA5066EC218A660DDD2D86896E877D29481A7DB3F71BB4BE5
 
@@ -45,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.lincoln.com
 
 created:      2015-12-10
-changed:      2020-05-01
+changed:      2020-10-12
 source:       IANA
 
