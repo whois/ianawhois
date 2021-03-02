@@ -34,8 +34,7 @@ nserver:      A0.NIC.SHAW 2a01:8840:56:0:0:0:0:17 65.22.88.17
 nserver:      A2.NIC.SHAW 2a01:8840:59:0:0:0:0:17 65.22.91.17
 nserver:      B0.NIC.SHAW 2a01:8840:57:0:0:0:0:17 65.22.89.17
 nserver:      C0.NIC.SHAW 2a01:8840:58:0:0:0:0:17 65.22.90.17
-ds-rdata:     5320 7 1 228a9b2338ff7c909c8003a5aeb6bdd2d2b6dc65
-ds-rdata:     5320 7 2 8767c1a5634794795594d6a86864f2d998b76f7245cc1d061b10c51c24b2c215
+ds-rdata:     29284 8 2 a5d4cf180ae979a32069cfc69304ad40f0bd7e0b6cfbd0b5611e49d1540edba4
 
 whois:        whois.afilias-srs.net
 
@@ -43,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.shaw.ca
 
 created:      2016-03-10
-changed:      2016-03-22
+changed:      2020-12-16
 source:       IANA
 
