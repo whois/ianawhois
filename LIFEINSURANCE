@@ -18,14 +18,14 @@ fax-no:       (+1) 866-953-4096
 e-mail:       webadmin@acli.com
 
 contact:      technical
-name:         Director
-organisation: Neustar, Inc.
-address:      21575 Ridgetop Circle
-address:      Sterling, VA 20166
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      14455 North Hayden Rd.
+address:      Scottsdale, AZ 85260
 address:      United States
-phone:        +1 844-677-2878
-fax-no:       +1 571-434-5401
-e-mail:       technical1@registry.neustar
+phone:        +1 480-505-8800
+fax-no:       +1 480-393-4275
+e-mail:       iana@registry.godaddy
 
 nserver:      NS1.DNS.NIC.LIFEINSURANCE 156.154.144.102 2610:a1:1071:0:0:0:0:66
 nserver:      NS2.DNS.NIC.LIFEINSURANCE 156.154.145.102 2610:a1:1072:0:0:0:0:66
@@ -33,8 +33,6 @@ nserver:      NS3.DNS.NIC.LIFEINSURANCE 156.154.159.102 2610:a1:1073:0:0:0:0:66
 nserver:      NS4.DNS.NIC.LIFEINSURANCE 156.154.156.102 2610:a1:1074:0:0:0:0:66
 nserver:      NS5.DNS.NIC.LIFEINSURANCE 156.154.157.102 2610:a1:1075:0:0:0:0:66
 nserver:      NS6.DNS.NIC.LIFEINSURANCE 156.154.158.102 2610:a1:1076:0:0:0:0:66
-ds-rdata:     12619 8 1 B3182095CEAF8F33086629CCB54FAD4FEF54E089
-ds-rdata:     12619 8 2 E0E1AEDE5BAFB616CE79796C3E6D24F0D97031D858B521E402905F5A1EA3A8D6
 ds-rdata:     27190 8 2 F34C139643C45DBD42D57CE9BE8D420FAEA3504AD7020B4E981870134AFF3892
 ds-rdata:     27190 8 1 F648F105FD2A937C476A3A41B3BC587D4C35E2F0
 
@@ -42,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://acli.com
 
 created:      2015-07-09
-changed:      2020-05-01
+changed:      2020-10-12
 source:       IANA
 
