@@ -20,7 +20,7 @@ address:      Co. Dublin
 address:      Ireland
 phone:        +353 1 236 5412
 fax-no:       +353 1 230 1273
-e-mail:       tld-admin@iedr.ie
+e-mail:       tld-admin@weare.ie
 
 contact:      technical
 name:         Technical Services Manager
@@ -31,7 +31,7 @@ address:      Co. Dublin
 address:      Ireland
 phone:        +353 1 236 5421
 fax-no:       +353 1 230 1273
-e-mail:       tld-tech@iedr.ie
+e-mail:       tld-tech@weare.ie
 
 nserver:      B.NS.IE 2a01:4b0:0:0:0:0:0:2 77.72.72.34
 nserver:      C.NS.IE 194.146.106.98 2001:67c:1010:25:0:0:0:53
@@ -39,14 +39,14 @@ nserver:      D.NS.IE 2a01:3f0:0:309:0:0:0:53 77.72.229.245
 nserver:      G.NS.IE 192.111.39.100 2001:7c8:2:a:0:0:0:64
 nserver:      H.NS.IE 192.93.0.4 2001:660:3005:1:0:0:1:2
 nserver:      I.NS.IE 194.0.25.35 2001:678:20:0:0:0:0:35
-ds-rdata:     16976 8 2 6B9A10D37E2485FBC3C793C2CDAFA9540E9106549B8097928ED029EB239C1B14
+ds-rdata:     15040 13 2 966EC13E38AD71EB585FB1982308930D96CF88873A065188AC11C469435ABD39
 
-whois:        whois.iedr.ie
+whois:        whois.weare.ie
 
 status:       ACTIVE
-remarks:      Registration information: http://www.iedr.ie
+remarks:      Registration information: http://www.weare.ie
 
 created:      1988-01-27
-changed:      2020-04-30
+changed:      2020-11-29
 source:       IANA
 
