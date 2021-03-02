@@ -18,14 +18,14 @@ fax-no:       +1 208-389-5771
 e-mail:       dotbooking@markmonitor.com
 
 contact:      technical
-name:         Director
-organisation: Neustar, Inc.
-address:      21575 Ridgetop Circle
-address:      Sterling, VA 20166
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      14455 North Hayden Rd.
+address:      Scottsdale, AZ 85260
 address:      United States
-phone:        +1 844-677-2878
-fax-no:       +1 571-434-5401
-e-mail:       technical1@registry.neustar
+phone:        +1 480-505-8800
+fax-no:       +1 480-393-4275
+e-mail:       iana@registry.godaddy
 
 nserver:      NS1.DNS.NIC.BOOKING 156.154.144.27 2610:a1:1071:0:0:0:0:1b
 nserver:      NS2.DNS.NIC.BOOKING 156.154.145.27 2610:a1:1072:0:0:0:0:1b
@@ -33,10 +33,6 @@ nserver:      NS3.DNS.NIC.BOOKING 156.154.159.27 2610:a1:1073:0:0:0:0:1b
 nserver:      NS4.DNS.NIC.BOOKING 156.154.156.27 2610:a1:1074:0:0:0:0:1b
 nserver:      NS5.DNS.NIC.BOOKING 156.154.157.27 2610:a1:1075:0:0:0:0:1b
 nserver:      NS6.DNS.NIC.BOOKING 156.154.158.27 2610:a1:1076:0:0:0:0:1b
-ds-rdata:     59455 8 1 D1CBC1E5C9A4020E290AC82C6182254CA261C9A9
-ds-rdata:     59455 8 2 82CC44E56A8AEC3EB18B21366FEB46C8044C4A89D50A25312F8D11E26DA4D46E
-ds-rdata:     39676 8 1 AB2A36141D426D8284EC2B778E5FF4C073B0A673
-ds-rdata:     39676 8 2 1F70C5E617CBEFF1FCB2CE9B14456450F1EE4B548A598EF6BF0F19465B03D1AA
 ds-rdata:     1519 8 2 68A7D93DCACD3003E2BD80E022CAF0238BFE5BD4993868CB6AEA6C24AE92DBBA
 ds-rdata:     1519 8 1 3C7C96543F4862F3DDCA5E4E79E89EB3AFF6B52B
 
@@ -44,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.booking.com
 
 created:      2016-07-07
-changed:      2020-04-30
+changed:      2020-10-12
 source:       IANA
 
