@@ -28,14 +28,13 @@ address:      Horsham, PA 19044
 address:      United States
 phone:        +1 215.706.5700
 fax-no:       +1 215.706.5701
-e-mail:       tld-admin-poc@afilias.info
+e-mail:       tld-tech-poc@afilias.info
 
 nserver:      A0.NIC.ROGERS 2a01:8840:6a:0:0:0:0:33 65.22.108.33
 nserver:      A2.NIC.ROGERS 2a01:8840:6d:0:0:0:0:33 65.22.111.33
 nserver:      B0.NIC.ROGERS 2a01:8840:6b:0:0:0:0:33 65.22.109.33
 nserver:      C0.NIC.ROGERS 2a01:8840:6c:0:0:0:0:33 65.22.110.33
-ds-rdata:     59283 7 1 a302bfe8a8310053e31cbaea9822ac9c89cd02fd
-ds-rdata:     59283 7 2 a799a2143184a61d7bf63a4c20f4cebf1dcf40b6d501837131e0cd3f5ebd5ee3
+ds-rdata:     46654 8 2 36dcb391639dbef1612bffc2103e2ce37d3167bba29aa713fae7ceb540f6eb71
 
 whois:        whois.afilias-srs.net
 
@@ -44,6 +43,6 @@ remarks:      Registration information:
 remarks:      http://www.rogers.com/consumer/home
 
 created:      2016-08-18
-changed:      2016-09-20
+changed:      2020-10-30
 source:       IANA
 
