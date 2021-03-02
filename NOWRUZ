@@ -37,7 +37,8 @@ e-mail:       iana-tech@agitsys.com
 
 nserver:      A.NS.NIC.NOWRUZ 2620:0171:0a01:00ad:0:0:0:10 72.0.49.10
 nserver:      B.NS.NIC.NOWRUZ 2620:0171:0d01:00dc:0:0:0:10 72.42.113.10
-nserver:      NS.COCCA.FR 185.17.236.93 2a03:dd40:3:0:0:0:0:93
+nserver:      NS1.ANYCASTDNS.CZ 185.38.108.108 2a00:fea0:dead:0:0:0:0:beef
+nserver:      NS2.ANYCASTDNS.CZ 185.28.194.194
 ds-rdata:     50845 8 2 F7691BFC344455BEE7376FCF659FCF623AD2FD081900F4FB32DB07C7BC6BDF57
 
 whois:        whois.nic.nowruz
@@ -46,6 +47,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.nowruz
 
 created:      2015-11-25
-changed:      2020-01-07
+changed:      2021-01-06
 source:       IANA
 
