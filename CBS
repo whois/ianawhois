@@ -30,8 +30,7 @@ nserver:      A0.NIC.CBS 2a01:8840:42:0:0:0:0:9 65.22.68.9
 nserver:      A2.NIC.CBS 2a01:8840:45:0:0:0:0:9 65.22.71.9
 nserver:      B0.NIC.CBS 2a01:8840:43:0:0:0:0:9 65.22.69.9
 nserver:      C0.NIC.CBS 2a01:8840:44:0:0:0:0:9 65.22.70.9
-ds-rdata:     7539 7 1 b29b8d3b6bdb075f5f37d476c8b2a52e36fc5de9
-ds-rdata:     7539 7 2 506142cc0504f515838d01a7ac0f7b3b25c5f301425c6615f87976759d5270f7
+ds-rdata:     30409 8 2 ea9d4289fab50bab2a4f682a1f450a0d5b7802aac66b478703be109fbd489959
 
 whois:        whois.afilias-srs.net
 
@@ -39,6 +38,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.cbs.com/
 
 created:      2016-07-21
-changed:      2016-08-04
+changed:      2020-10-15
 source:       IANA
 
