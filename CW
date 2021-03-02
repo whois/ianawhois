@@ -16,8 +16,8 @@ address:      Jan Noorduynweg 111
 address:      Willemstad
 address:      Curaçao
 phone:        +59997442248
-fax-no:       +59997442255
-e-mail:       registry@una.net
+fax-no:       +59997442100
+e-mail:       leendert.pengel@uoc.cw
 
 contact:      technical
 name:         Leendert J.J. Pengel
@@ -26,8 +26,8 @@ address:      Jan Noorduynweg 111
 address:      Willemstad
 address:      Curaçao
 phone:        +59997442248
-fax-no:       +59997442255
-e-mail:       registry@una.net
+fax-no:       +59997442100
+e-mail:       registry@uoc.cw
 
 nserver:      CW.CCTLD.AUTHDNS.RIPE.NET 193.0.9.86 2001:67c:e0:0:0:0:0:86
 nserver:      KADUSHI.CURINFO.CW 65.208.122.63
@@ -41,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.uoc.cw/cw-registry
 
 created:      2010-12-20
-changed:      2019-01-18
+changed:      2021-02-11
 source:       IANA
 
