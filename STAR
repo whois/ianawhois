@@ -41,8 +41,7 @@ nserver:      A0.NIC.STAR 2a01:8840:36:0:0:0:0:9 65.22.56.9
 nserver:      A2.NIC.STAR 2a01:8840:39:0:0:0:0:9 65.22.59.9
 nserver:      B0.NIC.STAR 2a01:8840:37:0:0:0:0:9 65.22.57.9
 nserver:      C0.NIC.STAR 2a01:8840:38:0:0:0:0:9 65.22.58.9
-ds-rdata:     63705 7 1 15a46255a52218b210c6c044799520aeb5955fa4
-ds-rdata:     63705 7 2 8a381553286116582d49543ef63de331232c9ea602f45d879feaadbcf622cfee
+ds-rdata:     59872 8 2 306c152bc34676bf135928882fc21c5702bf37c893f71d4df51e3a84ad6b62e1
 
 whois:        whois.nic.star
 
@@ -50,6 +49,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.startv.com
 
 created:      2015-12-10
-changed:      2019-08-23
+changed:      2020-11-06
 source:       IANA
 
