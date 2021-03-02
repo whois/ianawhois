@@ -19,16 +19,17 @@ phone:        +672 3 23850
 e-mail:       iana@nic.nf
 
 contact:      technical
-name:         Garth Miller
-organisation: CoCCA XO Pty. Ltd.
-address:      Unit 552,  83-93 Dalmeny Avenue
-address:      Rosebery NSW 2018
-address:      Australia
-phone:        +61 (0)8 6102 7988
-e-mail:       iana@cocca.com.au
+name:         Project Manager, CoCCA
+organisation: Norfolk Island Data Services
+address:      706 Collins Head Rd.
+address:      South Pacific 2899
+address:      Norfolk Island
+phone:        +672323850
+e-mail:       tech@nic.nf
 
 nserver:      NS.ANYCAST.NIC.NF 2001:500:14:6051:ad:0:0:1 204.61.216.51
-nserver:      NS.COCCA.FR 185.17.236.93 2a03:dd40:3:0:0:0:0:93
+nserver:      NS1.ANYCASTDNS.CZ 185.38.108.108 2a00:fea0:dead:0:0:0:0:beef
+nserver:      NS2.ANYCASTDNS.CZ 185.28.194.194
 ds-rdata:     54236 8 2 DD87DD324E8360DEC8DAAF2DB771B8C52024D6CEFEB76F2B855E0FC3B8FDB7D7
 
 whois:        whois.nic.nf
@@ -37,6 +38,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.nf
 
 created:      1996-03-18
-changed:      2018-06-29
+changed:      2020-12-31
 source:       IANA
 
