@@ -4,28 +4,29 @@
 
 domain:       AXA
 
-organisation: AXA SA
-address:      25 avenue Matignon | 75008 Paris | FRANCE
+organisation: AXA Group Operations SAS
+address:      81 Rue Mstislav Rostropovitch
+address:      75017 Paris
 address:      France
 
 contact:      administrative
 name:         Mark Wilson
-organisation: AXA Group Operations
-address:      Enjoy - 81 Rue Mstislav Rostropovitch
+organisation: AXA Group Operations SAS
+address:      81 Rue Mstislav Rostropovitch
 address:      75017 Paris
 address:      France
 phone:        +44 7977 917316
 e-mail:       mark.wilson@axa.com
 
 contact:      technical
-name:         Director
-organisation: Neustar, Inc.
-address:      21575 Ridgetop Circle
-address:      Sterling, VA 20166
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      14455 North Hayden Rd.
+address:      Scottsdale, AZ 85260
 address:      United States
-phone:        +1 844-677-2878
-fax-no:       +1 571-434-5401
-e-mail:       technical1@registry.neustar
+phone:        +1 480-505-8800
+fax-no:       +1 480-393-4275
+e-mail:       iana@registry.godaddy
 
 nserver:      NS1.DNS.NIC.AXA 156.154.144.20 2610:a1:1071:0:0:0:0:14
 nserver:      NS2.DNS.NIC.AXA 156.154.145.20 2610:a1:1072:0:0:0:0:14
@@ -33,15 +34,13 @@ nserver:      NS3.DNS.NIC.AXA 156.154.159.20 2610:a1:1073:0:0:0:0:14
 nserver:      NS4.DNS.NIC.AXA 156.154.156.20 2610:a1:1074:0:0:0:0:14
 nserver:      NS5.DNS.NIC.AXA 156.154.157.20 2610:a1:1075:0:0:0:0:14
 nserver:      NS6.DNS.NIC.AXA 156.154.158.20 2610:a1:1076:0:0:0:0:14
-ds-rdata:     15799 8 2 0B7F3CB2F77D9EF7AC3BFFD3F8F2F53ACF74A16DD7AD50C3FC9BD75F61931007
-ds-rdata:     15799 8 1 45EEC353221771E356F61ED56DDC0B91AAC14AC0
 ds-rdata:     65407 8 1 F8BFA1815C480DDE6791EB0E8CB42AA2A7968FF7
 ds-rdata:     65407 8 2 57987248DF55A8DAAEB38484E0BF77F079C992D7BB9A1039764EFCFF53A39709
 
 status:       ACTIVE
-remarks:      Registration information: http://www.axa.com
+remarks:      Registration information: https://domains.axa/
 
 created:      2014-03-13
-changed:      2020-04-30
+changed:      2020-11-11
 source:       IANA
 
