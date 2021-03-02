@@ -41,7 +41,7 @@ nserver:      D.REGISTRY.QA 212.77.192.13
 nserver:      E.REGISTRY.QA 178.23.20.60
 nserver:      F.REGISTRY.QA 2001:dcd:1:0:0:0:0:6 37.209.192.6
 nserver:      G.REGISTRY.QA 2001:dcd:2:0:0:0:0:6 37.209.194.6
-nserver:      H.REGISTRY.QA 178.23.22.60
+nserver:      H.REGISTRY.QA 178.23.22.60 2a0c:a640:1:22:0:0:0:60
 nserver:      I.REGISTRY.QA 2001:500:14:6062:ad:0:0:1 204.61.216.62
 
 whois:        whois.registry.qa
@@ -50,6 +50,6 @@ status:       ACTIVE
 remarks:      Registration information: http://domains.qa
 
 created:      1996-06-12
-changed:      2018-04-06
+changed:      2020-08-13
 source:       IANA
 
