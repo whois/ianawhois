@@ -40,8 +40,8 @@ e-mail:       tld.ops@centralnic.com
 
 nserver:      A.NIC.WEBSITE 194.169.218.52 2001:67c:13cc:0:0:0:1:52
 nserver:      B.NIC.WEBSITE 185.24.64.52 2a04:2b00:13cc:0:0:0:1:52
-nserver:      C.NIC.WEBSITE 185.38.99.1 2a02:e180:3:0:0:0:0:1
-nserver:      D.NIC.WEBSITE 108.59.161.1 2a02:e180:4:0:0:0:0:1
+nserver:      E.NIC.WEBSITE 212.18.248.52 2a04:2b00:13ee:0:0:0:0:52
+nserver:      F.NIC.WEBSITE 212.18.249.52 2a04:2b00:13ff:0:0:0:0:52
 ds-rdata:     47815 8 1 34C5E08B2F09248A85BE31CD465DB919AF06DA90
 ds-rdata:     47815 8 2 CB5F31743F17C1C1641D7ECC4C7DC40217363645E7AC25C509393C6709D933A8
 
@@ -51,6 +51,6 @@ status:       ACTIVE
 remarks:      Registration information: http://radixregistry.com/
 
 created:      2014-05-22
-changed:      2020-04-14
+changed:      2020-08-27
 source:       IANA
 
