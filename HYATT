@@ -18,14 +18,14 @@ phone:        +1 518 966 9187
 e-mail:       hyattgtld@brandsight.com
 
 contact:      technical
-name:         Director
-organisation: Neustar, Inc.
-address:      21575 Ridgetop Circle
-address:      Sterling, VA 20166
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      14455 North Hayden Rd.
+address:      Scottsdale, AZ 85260
 address:      United States
-phone:        +1 844-677-2878
-fax-no:       +1 571-434-5401
-e-mail:       technical1@registry.neustar
+phone:        +1 480-505-8800
+fax-no:       +1 480-393-4275
+e-mail:       iana@registry.godaddy
 
 nserver:      NS1.DNS.NIC.HYATT 156.154.144.78 2610:a1:1071:0:0:0:0:4e
 nserver:      NS2.DNS.NIC.HYATT 156.154.145.78 2610:a1:1072:0:0:0:0:4e
@@ -33,10 +33,6 @@ nserver:      NS3.DNS.NIC.HYATT 156.154.159.78 2610:a1:1073:0:0:0:0:4e
 nserver:      NS4.DNS.NIC.HYATT 156.154.156.78 2610:a1:1074:0:0:0:0:4e
 nserver:      NS5.DNS.NIC.HYATT 156.154.157.78 2610:a1:1075:0:0:0:0:4e
 nserver:      NS6.DNS.NIC.HYATT 156.154.158.78 2610:a1:1076:0:0:0:0:4e
-ds-rdata:     27631 8 1 2DB43CB6E735F60CB692F81D09487CCDECAE58D0
-ds-rdata:     27631 8 2 68CC45C838E797266569854D442311A0F3CB5248A8CCB17DB0AB25E8548ED8E6
-ds-rdata:     58411 8 2 A06243B4628966F29824FBF43A5BD12390EC8357940B022FA2E11E02EE3DCAA2
-ds-rdata:     58411 8 1 B3AF0B58FF1BD00FEDA47F295B7B4DF327456777
 ds-rdata:     9637 8 1 222EC1D35F056C20D397E6F112D604A066D49DA2
 ds-rdata:     9637 8 2 D256E27803C2CA5FA03EA40A49A9A944CA05F1FD0D4FF90723E0AC99FC4B05E5
 
@@ -44,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.hyatt.com
 
 created:      2016-07-22
-changed:      2020-04-30
+changed:      2020-10-12
 source:       IANA
 
