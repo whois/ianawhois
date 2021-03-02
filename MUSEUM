@@ -35,8 +35,7 @@ e-mail:       pocmuseum@afnic.fr
 nserver:      D.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
 nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
 nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
-ds-rdata:     53111 8 2 07270B11106E18C99EA85FC48A92C6D9DC519AC9F818D419B359B4A6DA7D1AEE
-ds-rdata:     22289 8 2 229739df4f32a081b4e0e4c8d3eff6b263a61cf0cf812ea5c67b7640f1bb21a0
+ds-rdata:     34255 13 2 ab6006dc5304a478302d70cd0454d57022dede074dc55983eae47c1dc9c08b8a
 
 whois:        whois.nic.museum
 
@@ -44,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://about.museum
 
 created:      2001-10-20
-changed:      2020-01-07
+changed:      2020-07-22
 source:       IANA
 
