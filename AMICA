@@ -18,14 +18,14 @@ fax-no:       +1 401 333-5349
 e-mail:       dotamica_questions@amica.com
 
 contact:      technical
-name:         Director
-organisation: Neustar, Inc.
-address:      21575 Ridgetop Circle
-address:      Sterling, VA 20166
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      14455 North Hayden Rd.
+address:      Scottsdale, AZ 85260
 address:      United States
-phone:        +1 844-677-2878
-fax-no:       +1 571-434-5401
-e-mail:       technical1@registry.neustar
+phone:        +1 480-505-8800
+fax-no:       +1 480-393-4275
+e-mail:       iana@registry.godaddy
 
 nserver:      NS1.DNS.NIC.AMICA 156.154.144.11 2610:a1:1071:0:0:0:0:b
 nserver:      NS2.DNS.NIC.AMICA 156.154.145.11 2610:a1:1072:0:0:0:0:b
@@ -33,8 +33,6 @@ nserver:      NS3.DNS.NIC.AMICA 156.154.159.11 2610:a1:1073:0:0:0:0:b
 nserver:      NS4.DNS.NIC.AMICA 156.154.156.11 2610:a1:1074:0:0:0:0:b
 nserver:      NS5.DNS.NIC.AMICA 156.154.157.11 2610:a1:1075:0:0:0:0:b
 nserver:      NS6.DNS.NIC.AMICA 156.154.158.11 2610:a1:1076:0:0:0:0:b
-ds-rdata:     37327 8 2 2B2BACE20BB1E4AE3F2D7D0F2A0B50769AD893C8FED6B6BFED3DD222416BB28C
-ds-rdata:     37327 8 1 4A8E08A902391BAAA12285368756B58454AA7BE1
 ds-rdata:     43177 8 2 BF9D10BE767D3717D99D55822E0273ECEBD33FC9CE050C5B780065A94E1F8ACE
 ds-rdata:     43177 8 1 03FDC07E04F4633C229E45FC6EE1186B6E772B76
 
@@ -42,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.amica.com
 
 created:      2015-08-06
-changed:      2020-04-30
+changed:      2020-10-12
 source:       IANA
 
