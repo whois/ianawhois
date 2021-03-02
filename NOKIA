@@ -33,8 +33,7 @@ nserver:      A0.NIC.NOKIA 2a01:8840:92:0:0:0:0:17 65.22.148.17
 nserver:      A2.NIC.NOKIA 2a01:8840:95:0:0:0:0:17 65.22.151.17
 nserver:      B0.NIC.NOKIA 2a01:8840:93:0:0:0:0:17 65.22.149.17
 nserver:      C0.NIC.NOKIA 2a01:8840:94:0:0:0:0:17 65.22.150.17
-ds-rdata:     29661 7 1 8ff2e988bf04ad610e68536645f11267972c28b3
-ds-rdata:     29661 7 2 c6a6724f8e4e6361c7349bf9703f95ee1261060e60ce8c6fee468f9d41d79d59
+ds-rdata:     38794 8 2 5d3c0f0b92084eb734e6e06364681b3bb051087a15ebe6f468b2974c5f197ab1
 
 whois:        whois.afilias-srs.net
 
@@ -42,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.nokia/
 
 created:      2015-04-23
-changed:      2019-09-17
+changed:      2020-11-09
 source:       IANA
 
