@@ -13,7 +13,7 @@ address:      EC4R 2YA
 address:      United Kingdom
 
 contact:      administrative
-name:         Head of Operations
+name:         Head of Registry Services
 organisation: DOTMARKETS REGISTRY LTD
 address:      Boston ivy
 address:      Cannon Bridge House,
@@ -21,30 +21,37 @@ address:      25 Dowgate Hill,
 address:      London,
 address:      EC4R 2YA
 address:      United Kingdom
-phone:        +442078960011
-fax-no:       +442078960010
-e-mail:       mike.clark@bostonivy.co
+phone:        +44.2033880600
+e-mail:       ig@centralnic.com
 
 contact:      technical
-name:         Registry Customer Service
-organisation: Verisign, Inc.
-address:      12061 Bluemont Way Reston Virginia 20190
-address:      United States
-phone:        +1-703-925-6999 
-fax-no:       +1-703-948-3978
-e-mail:       info@verisign-grs.com
+name:         Nathan Van Overloop
+organisation: CentralNic
+address:      Saddlers House, 4th Floor
+address:      44 Gutter Lane
+address:      London EC2V 6BR
+address:      United Kingdom
+phone:        +44.2033880600
+fax-no:       +44.2033880601
+e-mail:       tld.ops@centralnic.com
 
-nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
-nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
-nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
-nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
-ds-rdata:     42663 8 2 E7DFD2FC57BCA7A736B5348F9573C2138D370ACE8659856F9D2460F1B636369A
+nserver:      A.NIC.MARKETS 194.169.218.123 2001:67c:13cc:0:0:0:1:123
+nserver:      B.NIC.MARKETS 185.24.64.123 2a04:2b00:13cc:0:0:0:1:123
+nserver:      C.NIC.MARKETS 212.18.248.123 2a04:2b00:13ee:0:0:0:0:123
+nserver:      D.NIC.MARKETS 212.18.249.123 2a04:2b00:13ff:0:0:0:0:123
+nserver:      DEMAND.ALPHA.ARIDNS.NET.AU 2001:dcd:1:0:0:0:0:7 37.209.192.7
+nserver:      DEMAND.BETA.ARIDNS.NET.AU 2001:dcd:2:0:0:0:0:7 37.209.194.7
+nserver:      DEMAND.DELTA.ARIDNS.NET.AU 2001:dcd:4:0:0:0:0:7 37.209.198.7
+nserver:      DEMAND.GAMMA.ARIDNS.NET.AU 2001:dcd:3:0:0:0:0:7 37.209.196.7
+ds-rdata:     9644 8 2 82BE670A03A9B3B10697FEF833108CC0360C9EC729378C64E5DBEB6F3CB3FF0F
+ds-rdata:     45121 8 2 3C60A8823F55CF6A8FE20A4CB25A3D63B37E9A7599CA42932C19DDDF5AF3EC7E
 
 whois:        whois.nic.markets
 
 status:       ACTIVE
+remarks:      Registration information: http://nic.markets
 
 created:      2015-03-06
-changed:      2019-08-27
+changed:      2021-02-26
 source:       IANA
 
