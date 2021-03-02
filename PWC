@@ -30,8 +30,7 @@ nserver:      A0.NIC.PWC 2a01:8840:4e:0:0:0:0:9 65.22.80.9
 nserver:      A2.NIC.PWC 2a01:8840:51:0:0:0:0:9 65.22.83.9
 nserver:      B0.NIC.PWC 2a01:8840:4f:0:0:0:0:9 65.22.81.9
 nserver:      C0.NIC.PWC 2a01:8840:50:0:0:0:0:9 65.22.82.9
-ds-rdata:     46395 7 1 0370d2a8ffc791acb8728c6a384a9fd1667bae38
-ds-rdata:     46395 7 2 f12ac63cdb08f8c0b9312f41c41a6e791045a16b8435011ec6411af191a21335
+ds-rdata:     50191 8 2 53a702c1bc2e7246d8027839bc8c43ecb48a28139d2ecbc0350e4c6ca3bc623a
 
 whois:        whois.afilias-srs.net
 
@@ -39,6 +38,6 @@ status:       ACTIVE
 remarks:      Registration information: http://pwc.com
 
 created:      2016-01-15
-changed:      2019-08-21
+changed:      2020-11-17
 source:       IANA
 
