@@ -17,30 +17,25 @@ phone:        +1 212 206 4400
 e-mail:       ngtld-oath@cscglobal.com
 
 contact:      technical
-name:         Director
-organisation: Neustar, Inc.
-address:      21575 Ridgetop Circle
-address:      Sterling, VA 20166
+name:         Registry Customer Service 
+organisation: Verisign, Inc.
+address:      12061 Bluemont Way
+address:      Reston, Virginia 20190
 address:      United States
-phone:        +1 844-677-2878
-fax-no:       +1 571-434-5401
-e-mail:       technical1@registry.neustar
+phone:        +1-703-925-6999 
+fax-no:       +1-703-948-3978 
+e-mail:       info@verisign-grs.com
 
-nserver:      NS1.DNS.NIC.YAHOO 156.154.144.184 2610:a1:1071:0:0:0:0:b8
-nserver:      NS2.DNS.NIC.YAHOO 156.154.145.184 2610:a1:1072:0:0:0:0:b8
-nserver:      NS3.DNS.NIC.YAHOO 156.154.159.184 2610:a1:1073:0:0:0:0:b8
-nserver:      NS4.DNS.NIC.YAHOO 156.154.156.184 2610:a1:1074:0:0:0:0:b8
-nserver:      NS5.DNS.NIC.YAHOO 156.154.157.184 2610:a1:1075:0:0:0:0:b8
-nserver:      NS6.DNS.NIC.YAHOO 156.154.158.184 2610:a1:1076:0:0:0:0:b8
-ds-rdata:     50224 8 1 348AA52BC5E0B10486432188C46906F0F5E3B80C
-ds-rdata:     50224 8 2 AA2E909D8280F45C0C0DB470D2D811AAB9DD4125096F22BA5E98921485D1177F
-ds-rdata:     5785 8 2 EF452167E7A3999DC64231CDBD770FCE0B2B977DCF38FF703E7CD2A0044CFDF1
-ds-rdata:     5785 8 1 978E8A0C7BF8E0171D2E9AA9D610531060399C52
+nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
+nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
+nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
+nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
+ds-rdata:     52260 8 2 99DA5ED59CA94FC8C28C5C7A4A817E7FC0C52688B115DCF743FB914BE65BA447
 
 status:       ACTIVE
 remarks:      Registration information: http://nic.yahoo
 
 created:      2016-01-29
-changed:      2020-04-30
+changed:      2020-10-13
 source:       IANA
 
