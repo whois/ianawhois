@@ -17,14 +17,14 @@ phone:        +1 323-762-0611
 e-mail:       andy.1.kim@farmersinsurance.com
 
 contact:      technical
-name:         Director
-organisation: Neustar, Inc.
-address:      21575 Ridgetop Circle
-address:      Sterling, VA 20166
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      14455 North Hayden Rd.
+address:      Scottsdale, AZ 85260
 address:      United States
-phone:        +1 844-677-2878
-fax-no:       +1 571-434-5401
-e-mail:       technical1@registry.neustar
+phone:        +1 480-505-8800
+fax-no:       +1 480-393-4275
+e-mail:       iana@registry.godaddy
 
 nserver:      NS1.DNS.NIC.FARMERS 156.154.144.55 2610:a1:1071:0:0:0:0:37
 nserver:      NS2.DNS.NIC.FARMERS 156.154.145.55 2610:a1:1072:0:0:0:0:37
@@ -32,10 +32,6 @@ nserver:      NS3.DNS.NIC.FARMERS 156.154.159.55 2610:a1:1073:0:0:0:0:37
 nserver:      NS4.DNS.NIC.FARMERS 156.154.156.55 2610:a1:1074:0:0:0:0:37
 nserver:      NS5.DNS.NIC.FARMERS 156.154.157.55 2610:a1:1075:0:0:0:0:37
 nserver:      NS6.DNS.NIC.FARMERS 156.154.158.55 2610:a1:1076:0:0:0:0:37
-ds-rdata:     19006 8 1 6DD6A5B1ADDA7C2A73724F317BD168FD261017BC
-ds-rdata:     19006 8 2 D3E5C9ADBA1CE134D7F58FD22E359BE23D3E616025249516F1081B7FA03517AC
-ds-rdata:     27472 8 2 4BD9A0A5736A9D0B2BD6F641399AC8045DAC4A727286525776C03184085AE807
-ds-rdata:     27472 8 1 DFB113F6D0DDA8A053B7985FAD2563BA1CFD79E1
 ds-rdata:     8194 8 1 BC12074D491ADAD2D329D583CCEE4AF93C01DD47
 ds-rdata:     8194 8 2 AB6430BBC936AFCD953FBA86D904EE685A09879AB284BFDC20827BF094666911
 
@@ -43,6 +39,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.farmers.com
 
 created:      2016-04-21
-changed:      2020-04-30
+changed:      2020-10-12
 source:       IANA
 
