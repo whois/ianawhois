@@ -30,6 +30,7 @@ address:      Peru
 phone:        +51 1 7020000
 e-mail:       tld-tech@nic.pe
 
+nserver:      A.LACTLD.ORG 200.0.68.10 2801:14:a000:0:0:0:0:10
 nserver:      PCH.RCP.PE 2001:500:14:6085:ad:0:0:1 204.61.216.85
 nserver:      PE1.DNSNODE.NET 194.146.106.82 2001:67c:1010:20:0:0:0:53
 nserver:      QUIPU.RCP.NET.PE 200.1.176.4
@@ -41,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.pe
 
 created:      1991-11-25
-changed:      2020-01-28
+changed:      2020-10-16
 source:       IANA
 
