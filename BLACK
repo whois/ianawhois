@@ -37,8 +37,7 @@ nserver:      A0.NIC.BLACK 2a01:8840:42:0:0:0:0:33 65.22.68.33
 nserver:      A2.NIC.BLACK 2a01:8840:45:0:0:0:0:33 65.22.71.33
 nserver:      B0.NIC.BLACK 2a01:8840:43:0:0:0:0:33 65.22.69.33
 nserver:      C0.NIC.BLACK 2a01:8840:44:0:0:0:0:33 65.22.70.33
-ds-rdata:     39 7 1 a1462cf4f5b99c3a9bf14777d4fb2835ade492e0
-ds-rdata:     39 7 2 44d91c33ff67b97266cc4ac23d0455f5a99d7dcb2b85bc2c08f222dd1ae77b7e
+ds-rdata:     28819 8 2 fa6792252a660261b2c191a71bcedbe4cdd7bf61c33aa5f04e558abeb8f96bd9
 
 whois:        whois.afilias.net
 
@@ -46,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://afilias.info/contact-us
 
 created:      2014-03-20
-changed:      2019-08-19
+changed:      2020-06-16
 source:       IANA
 
