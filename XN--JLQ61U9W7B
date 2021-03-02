@@ -36,8 +36,7 @@ nserver:      A0.NIC.XN--JLQ61U9W7B 2a01:8840:ee:0:0:0:0:1 65.22.244.1
 nserver:      A2.NIC.XN--JLQ61U9W7B 2a01:8840:f1:0:0:0:0:1 65.22.247.1
 nserver:      B0.NIC.XN--JLQ61U9W7B 2a01:8840:ef:0:0:0:0:1 65.22.245.1
 nserver:      C0.NIC.XN--JLQ61U9W7B 2a01:8840:f0:0:0:0:0:1 65.22.246.1
-ds-rdata:     41248 7 1 41dfb5cfc83d153291d2b6cf700cf8a002381bb8
-ds-rdata:     41248 7 2 0ec20da00bc41ab2fd073614e98dfe93a25e21873a9beaea53c0baf998bb6b60
+ds-rdata:     1039 8 2 bf62b17707761b613c23bdbbdb00c0a3127ae7497ff1c62e17177b44222cba26
 
 whois:        whois.nic.xn--jlq61u9w7b
 
@@ -45,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nokia.com
 
 created:      2015-04-23
-changed:      2019-09-19
+changed:      2020-11-09
 source:       IANA
 
