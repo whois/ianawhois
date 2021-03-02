@@ -18,14 +18,14 @@ fax-no:       +1 212-485-8111
 e-mail:       mlbam-dh@mlb.com
 
 contact:      technical
-name:         Director
-organisation: Neustar, Inc.
-address:      21575 Ridgetop Circle
-address:      Sterling, VA 20166
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      14455 North Hayden Rd.
+address:      Scottsdale, AZ 85260
 address:      United States
-phone:        +1 844-677-2878
-fax-no:       +1 571-434-5401
-e-mail:       technical1@registry.neustar
+phone:        +1 480-505-8800
+fax-no:       +1 480-393-4275
+e-mail:       iana@registry.godaddy
 
 nserver:      NS1.DNS.NIC.BASEBALL 156.154.144.200 2610:a1:1071:0:0:0:0:c8
 nserver:      NS2.DNS.NIC.BASEBALL 156.154.145.200 2610:a1:1072:0:0:0:0:c8
@@ -33,10 +33,6 @@ nserver:      NS3.DNS.NIC.BASEBALL 156.154.159.200 2610:a1:1073:0:0:0:0:c8
 nserver:      NS4.DNS.NIC.BASEBALL 156.154.156.200 2610:a1:1074:0:0:0:0:c8
 nserver:      NS5.DNS.NIC.BASEBALL 156.154.157.200 2610:a1:1075:0:0:0:0:c8
 nserver:      NS6.DNS.NIC.BASEBALL 156.154.158.200 2610:a1:1076:0:0:0:0:c8
-ds-rdata:     19630 8 1 288A66D943307267AA2CD52FA683C8080B8A09D5
-ds-rdata:     19630 8 2 5287DE1AE680A1EB603013C8238470F6A79B05D3FDE6363F94AA4D8675CB5434
-ds-rdata:     26845 8 1 CA0047513EF6E702252D6213D7EC569D171E85EC
-ds-rdata:     26845 8 2 E1BB502AC23CD0F87F3DCCA19A50B74564E06555C91620DBAA29D1BE27369346
 ds-rdata:     27280 8 1 BEF9CE979BCEA72ACCC5399E1200EEA1C14BA79E
 ds-rdata:     27280 8 2 086CAB04F35A7066BDB657E9107587E006D895DA600183F2AC6115855BBE70C4
 
@@ -44,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.mlb.com
 
 created:      2016-09-29
-changed:      2020-04-30
+changed:      2020-10-12
 source:       IANA
 
