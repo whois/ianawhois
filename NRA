@@ -34,8 +34,7 @@ nserver:      A0.NIC.NRA 2a01:8840:ea:0:0:0:0:25 65.22.240.25
 nserver:      A2.NIC.NRA 2a01:8840:ed:0:0:0:0:25 65.22.243.25
 nserver:      B0.NIC.NRA 2a01:8840:eb:0:0:0:0:25 65.22.241.25
 nserver:      C0.NIC.NRA 2a01:8840:ec:0:0:0:0:25 65.22.242.25
-ds-rdata:     48666 7 1 0948c42cfc7dc0a91bc1476fec1c66c0fb33bb47
-ds-rdata:     48666 7 2 cb465e0eb7e32e7035eeeba96e39410c7a6047d9677522c5af5f208ff9800413
+ds-rdata:     44089 8 2 c9ce8fb22e6e9eaa566d79696115fc26158be3f19c520de9490748be01982f4d
 
 whois:        whois.afilias-srs.net
 
@@ -44,6 +43,6 @@ remarks:      Registration information:
 remarks:      http://contact.nra.org/contact-us.aspx
 
 created:      2014-07-10
-changed:      2019-08-21
+changed:      2020-12-10
 source:       IANA
 
