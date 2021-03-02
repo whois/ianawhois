@@ -30,8 +30,8 @@ phone:        +886 2 2341 1313 ext. 500
 fax-no:       +886 2 2396 8832
 e-mail:       snw@twnic.net.tw
 
-nserver:      NS.COCCA.FR 185.17.236.93 2a03:dd40:3:0:0:0:0:93
-nserver:      NS.COCCAREGISTRY.ORG 185.17.236.111 2a03:dd40:3:0:0:0:0:111
+nserver:      NS1.ANYCASTDNS.CZ 185.38.108.108 2a00:fea0:dead:0:0:0:0:beef
+nserver:      NS2.ANYCASTDNS.CZ 185.28.194.194
 nserver:      PCH.NIC.KN 2001:500:14:6109:ad:0:0:1 204.61.216.109
 
 whois:        whois.nic.kn
@@ -39,6 +39,6 @@ whois:        whois.nic.kn
 status:       ACTIVE
 
 created:      1991-09-03
-changed:      2018-01-31
+changed:      2021-01-10
 source:       IANA
 
