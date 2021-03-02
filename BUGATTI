@@ -33,8 +33,7 @@ nserver:      A0.NIC.BUGATTI 2a01:8840:ca:0:0:0:0:9 65.22.208.9
 nserver:      A2.NIC.BUGATTI 2a01:8840:cd:0:0:0:0:9 65.22.211.9
 nserver:      B0.NIC.BUGATTI 2a01:8840:cb:0:0:0:0:9 65.22.209.9
 nserver:      C0.NIC.BUGATTI 2a01:8840:cc:0:0:0:0:9 65.22.210.9
-ds-rdata:     51639 7 1 7911024343f6f74fa5c3118c70dfdf4df373e244
-ds-rdata:     51639 7 2 dea83825105400048b4b1e0ec5cad54a90202dd1ac8274a7c103c2d53b4f8a49
+ds-rdata:     10399 8 2 17c37a53a30ba66764799366c013355427adb2782a2612978e17ab89a9fd4243
 
 whois:        whois.afilias-srs.net
 
@@ -42,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.bugatti.com
 
 created:      2015-11-12
-changed:      2019-08-21
+changed:      2020-12-16
 source:       IANA
 
