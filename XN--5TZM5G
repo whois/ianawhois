@@ -38,8 +38,7 @@ nserver:      A0.NIC.XN--5TZM5G 2a01:8840:12:0:0:0:0:9 65.22.16.9
 nserver:      A2.NIC.XN--5TZM5G 2a01:8840:15:0:0:0:0:9 65.22.19.9
 nserver:      B0.NIC.XN--5TZM5G 2a01:8840:13:0:0:0:0:9 65.22.17.9
 nserver:      C0.NIC.XN--5TZM5G 2a01:8840:14:0:0:0:0:9 65.22.18.9
-ds-rdata:     13249 7 1 800b951d452c29b9a21dfcf6535513d3cecbdbf2
-ds-rdata:     13249 7 2 f9c57d9b6594b8a8aa132fcc2e4d60f857a8dafd591fb3b9abeb312160dbf503
+ds-rdata:     26359 8 2 7d1e023bbb026ac5d19ae62d5f13ee6e01f3450a1e6629e25a9205dcf2a31f9e
 
 whois:        whois.nic.xn--5tzm5g
 
@@ -47,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.namesphere.asia
 
 created:      2015-12-04
-changed:      2017-07-20
+changed:      2020-10-15
 source:       IANA
 
