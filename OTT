@@ -34,8 +34,7 @@ nserver:      A0.NIC.OTT 2a01:8840:5a:0:0:0:0:9 65.22.92.9
 nserver:      A2.NIC.OTT 2a01:8840:5d:0:0:0:0:9 65.22.95.9
 nserver:      B0.NIC.OTT 2a01:8840:5b:0:0:0:0:9 65.22.93.9
 nserver:      C0.NIC.OTT 2a01:8840:5c:0:0:0:0:9 65.22.94.9
-ds-rdata:     47394 7 1 1dcaabf533a00b9a2cf33426ce8b478ed41beb96
-ds-rdata:     47394 7 2 276d39d5c44b679eeaba00f81b88be4155eb349a8f590f6a1fb820601dbb4e3d
+ds-rdata:     39925 8 2 ea35cb20303ca3e610c87e77947bf04693f3e14933c59a60beff384bd0ca0654
 
 whois:        whois.nic.ott
 
@@ -43,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.dish.com
 
 created:      2016-05-19
-changed:      2017-07-20
+changed:      2020-11-17
 source:       IANA
 
