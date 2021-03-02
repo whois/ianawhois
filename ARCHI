@@ -35,7 +35,6 @@ nserver:      A0.NIC.ARCHI 2a01:8840:52:0:0:0:0:1 65.22.84.1
 nserver:      A2.NIC.ARCHI 2a01:8840:55:0:0:0:0:1 65.22.87.1
 nserver:      B0.NIC.ARCHI 2a01:8840:53:0:0:0:0:1 65.22.85.1
 nserver:      C0.NIC.ARCHI 2a01:8840:54:0:0:0:0:1 65.22.86.1
-ds-rdata:     11134 8 1 5b998950c57c68a0bab93200a187fcdcd079bee1
 ds-rdata:     11134 8 2 ed2b030f401540096b716481cd8897e37d9a8cecbdfd98c709f4860c77501680
 
 whois:        whois.afilias.net
@@ -44,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://afilias.info/contact-us
 
 created:      2014-03-20
-changed:      2019-08-19
+changed:      2020-10-01
 source:       IANA
 
