@@ -18,14 +18,14 @@ fax-no:       +1 302 992 3165
 e-mail:       contact@dupont.com
 
 contact:      technical
-name:         Director
-organisation: Neustar, Inc.
-address:      21575 Ridgetop Circle
-address:      Sterling, VA 20166
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      14455 North Hayden Rd.
+address:      Scottsdale, AZ 85260
 address:      United States
-phone:        +1 844-677-2878
-fax-no:       +1 571-434-5401
-e-mail:       technical1@registry.neustar
+phone:        +1 480-505-8800
+fax-no:       +1 480-393-4275
+e-mail:       iana@registry.godaddy
 
 nserver:      NS1.DNS.NIC.DUPONT 156.154.144.52 2610:a1:1071:0:0:0:0:34
 nserver:      NS2.DNS.NIC.DUPONT 156.154.145.52 2610:a1:1072:0:0:0:0:34
@@ -33,10 +33,6 @@ nserver:      NS3.DNS.NIC.DUPONT 156.154.159.52 2610:a1:1073:0:0:0:0:34
 nserver:      NS4.DNS.NIC.DUPONT 156.154.156.52 2610:a1:1074:0:0:0:0:34
 nserver:      NS5.DNS.NIC.DUPONT 156.154.157.52 2610:a1:1075:0:0:0:0:34
 nserver:      NS6.DNS.NIC.DUPONT 156.154.158.52 2610:a1:1076:0:0:0:0:34
-ds-rdata:     4186 8 1 72278E7D25C0E7AB6418B385C441B0BC3C844082
-ds-rdata:     4186 8 2 48E19C1C1FAB9CF9B0EE669C6066E33B67DBECF40B1A6A9F5E3F8486A9E5C4F8
-ds-rdata:     51340 8 2 0EC9379235D9A44010F9E1D0044ACE272C29BFCB9B8064EB3EFDAA0C6E9D5989
-ds-rdata:     51340 8 1 1DA3BE4EC7298C9496D9C64E34843DEFC4AA7A38
 ds-rdata:     37999 8 1 D290463A62CA2394AD792195CE711F3E43CF2B42
 ds-rdata:     37999 8 2 F8403C44323D408D7360B9C4F238952B66F20B7F91D5D3CA3CE89297B7BCC1D4
 
@@ -44,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.dupont.com
 
 created:      2016-05-05
-changed:      2020-04-30
+changed:      2020-10-12
 source:       IANA
 
