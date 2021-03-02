@@ -35,8 +35,7 @@ nserver:      A0.NIC.XN--4GBRIM 2a01:8840:ee:0:0:0:0:33 65.22.244.33
 nserver:      A2.NIC.XN--4GBRIM 2a01:8840:f1:0:0:0:0:33 65.22.247.33
 nserver:      B0.NIC.XN--4GBRIM 2a01:8840:ef:0:0:0:0:33 65.22.245.33
 nserver:      C0.NIC.XN--4GBRIM 2a01:8840:f0:0:0:0:0:33 65.22.246.33
-ds-rdata:     21430 7 1 c4da13c32bdc30090e91ad6889d5137ef1097fff
-ds-rdata:     21430 7 2 10eb900d8a6d23890ef9200a8c149fdb0d412a7137e78c58f89b07c66dc50b25
+ds-rdata:     38332 8 2 14e1f26f8b51f92bd671dbe97f651903fa1f26df07e2e882dd997a1d73971426
 
 whois:        whois.afilias-srs.net
 
@@ -44,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.dotmawqe.com
 
 created:      2014-05-15
-changed:      2019-08-23
+changed:      2020-11-23
 source:       IANA
 
