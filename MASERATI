@@ -29,8 +29,7 @@ nserver:      A0.NIC.MASERATI 2a01:8840:7a:0:0:0:0:33 65.22.124.33
 nserver:      A2.NIC.MASERATI 2a01:8840:7d:0:0:0:0:33 65.22.127.33
 nserver:      B0.NIC.MASERATI 2a01:8840:7b:0:0:0:0:33 65.22.125.33
 nserver:      C0.NIC.MASERATI 2a01:8840:7c:0:0:0:0:33 65.22.126.33
-ds-rdata:     52146 7 1 901a94250210c575dd41938b4064dffce6b443dc
-ds-rdata:     52146 7 2 c798f7039f390f0851ff3c9aa3825ed0e971730aaa2143109185625da8add7f1
+ds-rdata:     26605 8 2 193bbcaafe96b6e4c1fb29d6c85445acee4f86ca3197ea9922518d5241cc3a97
 
 whois:        whois.nic.maserati
 
@@ -39,6 +38,6 @@ remarks:      Registration information:
 remarks:      http://www.maserati.com/maserati/international/en
 
 created:      2016-07-14
-changed:      2017-07-20
+changed:      2020-10-30
 source:       IANA
 
