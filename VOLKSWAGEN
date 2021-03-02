@@ -33,8 +33,7 @@ nserver:      A0.NIC.VOLKSWAGEN 2a01:8840:ca:0:0:0:0:25 65.22.208.25
 nserver:      A2.NIC.VOLKSWAGEN 2a01:8840:cd:0:0:0:0:25 65.22.211.25
 nserver:      B0.NIC.VOLKSWAGEN 2a01:8840:cb:0:0:0:0:25 65.22.209.25
 nserver:      C0.NIC.VOLKSWAGEN 2a01:8840:cc:0:0:0:0:25 65.22.210.25
-ds-rdata:     8646 7 1 aa89f3782e6d49fe389693b64f70f1052ac9bc2d
-ds-rdata:     8646 7 2 f43ae9e9a2453cb664ae9387212050a17fc5a9de7d847bf177c76624613d1ce2
+ds-rdata:     52507 8 2 10dc75d4a1277934c86bd53c004ec0109396f5cdca83c2b25c09cbdfe59ff6e5
 
 whois:        whois.afilias-srs.net
 
@@ -42,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://volkswagen.com
 
 created:      2015-12-23
-changed:      2019-08-21
+changed:      2020-12-16
 source:       IANA
 
