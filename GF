@@ -4,34 +4,28 @@
 
 domain:       GF
 
-organisation: Net Plus
-address:      Boulevard de la Republique 2
-address:      BP 125
-address:      97 323 Cayenne cedex
-address:      97300
-address:      French Guiana
+organisation: CANAL+ TELECOM
+address:      ZAC de Moudong Centre
+address:      Baie-Mahault 97122
+address:      France
 
 contact:      administrative
-name:         Frederic Trichet
-organisation: Net Plus
-address:      Boulevard de la Republique 2
-address:      BP 125
-address:      97 323 Cayenne cedex
-address:      97300
-address:      French Guiana
-phone:        +594 29 13 31
-fax-no:       +594 29 13 27
-e-mail:       admin@nic.gf
+name:         Laurent Villacampa
+organisation: CANAL+ TELECOM
+address:      ZAC de Moudong Centre
+address:      Baie-Mahault 97122
+address:      France
+phone:        +590 590 571 090
+e-mail:       cplustelecom.exploit-sys@canal-plus.com
 
 contact:      technical
-name:         David Cyrille
-organisation: Mediaserv
-address:      ZI Champigny
-address:      Ducos  97224
-address:      Martinique
-phone:        +596 596 77 25 11
-fax-no:       +596 596 56 41 29
-e-mail:       tech@nic.gf
+name:         Jean-Félix Desir
+organisation: CANAL+ TELECOM
+address:      ZAC de Moudong Centre
+address:      Baie-Mahault 97122
+address:      France
+phone:        +590 590 571 090
+e-mail:       cplustelecom.exploit-sys@canal-plus.com
 
 nserver:      NS1-GP.MEDIASERV.NET 213.188.172.1
 nserver:      NS1-MQ.MEDIASERV.NET 213.16.20.3
@@ -39,9 +33,9 @@ nserver:      NS1-MQ.MEDIASERV.NET 213.16.20.3
 whois:        whois.mediaserv.net
 
 status:       ACTIVE
-remarks:      Registration information: http://www.nplus.gf/
+remarks:      Registration information: https://www.dom-enic.com
 
 created:      1996-07-25
-changed:      2017-02-22
+changed:      2020-10-27
 source:       IANA
 
