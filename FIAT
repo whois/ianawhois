@@ -32,8 +32,7 @@ nserver:      A0.NIC.FIAT 2a01:8840:7a:0:0:0:0:1 65.22.124.1
 nserver:      A2.NIC.FIAT 2a01:8840:7d:0:0:0:0:1 65.22.127.1
 nserver:      B0.NIC.FIAT 2a01:8840:7b:0:0:0:0:1 65.22.125.1
 nserver:      C0.NIC.FIAT 2a01:8840:7c:0:0:0:0:1 65.22.126.1
-ds-rdata:     22158 7 1 66e6fcf72dcabf00e09ed09ae18cb6f78f184774
-ds-rdata:     22158 7 2 e8a59d826789180190382764195e981dffbe1e35e799be3490addbae7305c309
+ds-rdata:     1339 8 2 4bbbff995d2b4cf8e709dec8be78ca00b480ddf6c2c1d7879041e79f8e9d04b8
 
 whois:        whois.afilias-srs.net
 
@@ -41,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.fiat.com/
 
 created:      2016-07-14
-changed:      2016-08-02
+changed:      2020-10-30
 source:       IANA
 
