@@ -10,36 +10,39 @@ address:      Kolonia Pohnpei 96941
 address:      Micronesia, Federated States Of
 
 contact:      administrative
-name:         Fredy Perman
+name:         Chief Executive Officer
 organisation: FSM Telecommunications Corporation
 address:      P.O. Box 1210
 address:      Kolonia Pohnpei 96941
 address:      Micronesia, Federated States Of
 phone:        +691 320 2740
 fax-no:       +691 320 2745
-e-mail:       fredy.perman@fsmtc.fm
+e-mail:       dotfm-admin@fsmtc.fm
 
 contact:      technical
-name:         Tyler Hubbard
+name:         IT Manager
 organisation: FSM Telecommunications Corporation
 address:      P.O. Box 1210
 address:      Kolonia Pohnpei 96941
 address:      Micronesia, Federated States Of
 phone:        +691 320 2740
 fax-no:       +691 320 2745
-e-mail:       thubbard@fsmtc.fm
+e-mail:       dotfm-technical@fsmtc.fm
 
-nserver:      TLD1.ULTRADNS.NET 2001:502:d399:0:0:0:0:1 204.74.112.1
-nserver:      TLD2.ULTRADNS.NET 204.74.113.1
-nserver:      TLD3.ULTRADNS.ORG 199.7.66.1
-nserver:      TLD4.ULTRADNS.ORG 199.7.67.1 2001:502:100e:0:0:0:0:1
-nserver:      TLD5.ULTRADNS.INFO 192.100.59.11
-nserver:      TLD6.ULTRADNS.CO.UK 198.133.199.11
+nserver:      A.NIC.FM 194.169.218.26 2001:67c:13cc:0:0:0:1:26
+nserver:      B.NIC.FM 185.24.64.26 2a04:2b00:13cc:0:0:0:1:26
+nserver:      C.NIC.FM 212.18.248.26 2a04:2b00:13ee:0:0:0:0:26
+nserver:      D.NIC.FM 212.18.249.26 2a04:2b00:13ff:0:0:0:0:26
+nserver:      E.NIC.FM 2001:500:14:6137:ad:0:0:1 204.61.216.137
+nserver:      F.NIC.FM 206.51.254.3 2620:171:804:ad2:0:0:0:3
+ds-rdata:     26186 8 2 DB3703697384A6F8B3A944A21C1A81FFD921000B23AA4241380B4BA3AA28DEA0
+
+whois:        whois.nic.fm
 
 status:       ACTIVE
-remarks:      Registration information: http://www.dot.fm/
+remarks:      Registration information: https://www.dot.fm/
 
 created:      1995-04-19
-changed:      2013-05-16
+changed:      2021-02-04
 source:       IANA
 
