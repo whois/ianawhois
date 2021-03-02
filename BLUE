@@ -36,9 +36,9 @@ e-mail:       tld-tech-poc@afilias.info
 nserver:      A0.NIC.BLUE 2a01:8840:1e:0:0:0:0:9 65.22.28.9
 nserver:      A2.NIC.BLUE 2a01:8840:21:0:0:0:0:9 65.22.31.9
 nserver:      B0.NIC.BLUE 2a01:8840:1f:0:0:0:0:9 65.22.29.9
+nserver:      B2.NIC.BLUE 2a01:8840:21:0:0:0:0:13 65.22.31.13
 nserver:      C0.NIC.BLUE 2a01:8840:20:0:0:0:0:9 65.22.30.9
-ds-rdata:     26950 7 1 a6de389755abbaf7b58547b03f0d46e3c210687b
-ds-rdata:     26950 7 2 aeca57d8557c1f9f486ad18216fae2da2e8539e6f157dbf876ba6df1fee1604d
+ds-rdata:     13015 8 2 337188914037f0d7831c5c732516d7310c1d291f55ecfe67cd8b9f4ced0b706a
 
 whois:        whois.afilias.net
 
@@ -47,6 +47,6 @@ remarks:      Registration information:
 remarks:      http://www.afilias.info/contact-us
 
 created:      2014-01-23
-changed:      2019-08-19
+changed:      2020-10-06
 source:       IANA
 
