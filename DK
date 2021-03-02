@@ -36,7 +36,7 @@ nserver:      D.NIC.DK 185.159.198.45 2620:10a:80ab:0:0:0:0:45
 nserver:      L.NIC.DK 192.38.7.242 2001:7f8:1f:0:0:1835:242:0
 nserver:      P.NIC.DK 194.0.47.42 2001:678:78:42:ad:0:0:53
 nserver:      S.NIC.DK 193.176.144.15 2a00:d78:0:102:193:176:144:15
-ds-rdata:     32195 8 2 167cb3652048f478222e958d1cad907d7ecb28e7a545de01b8591ad29eac6444
+ds-rdata:     9280 13 2 3a93091a1a8a850e72a86ddad3c79b2e3d426cc275bc11980e85c0ac2854612b
 
 whois:        whois.dk-hostmaster.dk
 
@@ -44,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.dk-hostmaster.dk/
 
 created:      1987-07-14
-changed:      2020-03-05
+changed:      2020-06-18
 source:       IANA
 
