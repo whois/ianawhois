@@ -11,31 +11,29 @@ address:      Victoria 3000
 address:      Australia
 
 contact:      administrative
-name:         Senior Director
-organisation: Neustar, Inc.
-address:      21575 Ridgetop Circle
-address:      Sterling, VA 20166
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      14455 North Hayden Rd.
+address:      Scottsdale, AZ 85260
 address:      United States
-phone:        +1 571 434 5400
-fax-no:       +1 571 434 5735
-e-mail:       technical1@registry.neustar
+phone:        +1 480-505-8800
+fax-no:       +1 480-393-4275
+e-mail:       iana@registry.godaddy
 
 contact:      technical
-name:         Director
-organisation: Neustar, Inc.
-address:      21575 Ridgetop Circle
-address:      Sterling, VA 20166
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      14455 North Hayden Rd.
+address:      Scottsdale, AZ 85260
 address:      United States
-phone:        +1 844 677 2878
-fax-no:       +1 571 434 5401
-e-mail:       technical1@registry.neustar
+phone:        +1 480-505-8800
+fax-no:       +1 480-393-4275
+e-mail:       iana@registry.godaddy
 
 nserver:      A.NIC.MELBOURNE 2001:dcd:1:0:0:0:0:10 37.209.192.10
 nserver:      B.NIC.MELBOURNE 2001:dcd:2:0:0:0:0:10 37.209.194.10
 nserver:      C.NIC.MELBOURNE 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      D.NIC.MELBOURNE 2001:dcd:4:0:0:0:0:10 37.209.198.10
-ds-rdata:     57856 8 1 D1CC74CD88318559962BDFB56525C822D2A8A11F
-ds-rdata:     57856 8 2 E71A2E50EE30225FA38F059E967A9F700545E3C7E8506B42D73778D3143EBD9B
 ds-rdata:     13069 8 2 21A0F9A377A102CAA47B4AB6E7E10278C50F1E57702BD20C6E6A1C1A02E2E314
 ds-rdata:     13069 8 1 2772AB2CDA84AFAD2EA615DF3672BE03CD8CDA4A
 
@@ -45,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.live.melbourne/
 
 created:      2014-07-03
-changed:      2020-05-01
+changed:      2020-10-19
 source:       IANA
 
