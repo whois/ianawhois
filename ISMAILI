@@ -36,6 +36,7 @@ nserver:      B0.NIC.ISMAILI 2a01:8840:2b:0:0:0:0:25 65.22.45.25
 nserver:      C0.NIC.ISMAILI 2a01:8840:2c:0:0:0:0:25 65.22.46.25
 ds-rdata:     9774 7 1 14205bf7e714fdf73de69b10ba2f38e35856087b
 ds-rdata:     9774 7 2 aec620cedc82140bdc27d5a53b78e09c7eb929331f3d99e24c0cbbd0fe4fdacd
+ds-rdata:     36648 7 2 25d33dabf42197eedf519f82a05f2c8dff7fc82d892c8cc80d78d3adcfdbed20
 
 whois:        whois.afilias-srs.net
 
@@ -43,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.akdn.org/
 
 created:      2016-04-07
-changed:      2016-04-16
+changed:      2021-01-30
 source:       IANA
 
