@@ -30,8 +30,7 @@ nserver:      A0.NIC.STATEBANK 2a01:8840:aa:0:0:0:0:1 65.22.176.1
 nserver:      A2.NIC.STATEBANK 2a01:8840:ad:0:0:0:0:1 65.22.179.1
 nserver:      B0.NIC.STATEBANK 2a01:8840:ab:0:0:0:0:1 65.22.177.1
 nserver:      C0.NIC.STATEBANK 2a01:8840:ac:0:0:0:0:1 65.22.178.1
-ds-rdata:     23235 7 1 f81317706cd1fb277ece0582c1fb1369c1b9fa94
-ds-rdata:     23235 7 2 e2e22d92c1b8ad2f0cc366a43a4a2d51986c1d625c631063cbc5b73cdbb5d953
+ds-rdata:     6556 8 2 cef021e759c80743ac2b871f39db1aac7bfb542244b74ebd5c98776f5d4d844a
 
 whois:        whois.nic.statebank
 
@@ -39,6 +38,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.sbi.co.in
 
 created:      2016-03-24
-changed:      2017-07-20
+changed:      2020-10-30
 source:       IANA
 
