@@ -18,14 +18,14 @@ fax-no:       +1 212 888 7931
 e-mail:       ngtld-nba@cscglobal.com
 
 contact:      technical
-name:         Director
-organisation: Neustar, Inc.
-address:      21575 Ridgetop Circle
-address:      Sterling, VA 20166
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      14455 North Hayden Rd.
+address:      Scottsdale, AZ 85260
 address:      United States
-phone:        +1 844-677-2878
-fax-no:       +1 571-434-5401
-e-mail:       technical1@registry.neustar
+phone:        +1 480-505-8800
+fax-no:       +1 480-393-4275
+e-mail:       iana@registry.godaddy
 
 nserver:      NS1.DNS.NIC.NBA 156.154.144.119 2610:a1:1071:0:0:0:0:77
 nserver:      NS2.DNS.NIC.NBA 156.154.145.119 2610:a1:1072:0:0:0:0:77
@@ -33,8 +33,6 @@ nserver:      NS3.DNS.NIC.NBA 156.154.159.119 2610:a1:1073:0:0:0:0:77
 nserver:      NS4.DNS.NIC.NBA 156.154.156.119 2610:a1:1074:0:0:0:0:77
 nserver:      NS5.DNS.NIC.NBA 156.154.157.119 2610:a1:1075:0:0:0:0:77
 nserver:      NS6.DNS.NIC.NBA 156.154.158.119 2610:a1:1076:0:0:0:0:77
-ds-rdata:     50266 8 1 1138618AA8F74943EAA5EA018316DE07EDB832E5
-ds-rdata:     50266 8 2 8879EF07AC2C1F853A31E36A40A6378C7FBF8FA35105B4B9701817A0B48B4CE4
 ds-rdata:     6154 8 2 A9E6B5CCBFDCFCEBD038AC833165101DAEB02E28DC89CC2BD0CF24295FB203A0
 ds-rdata:     6154 8 1 E47C248A44057756A32E3BCC3D765C69AE6D4006
 
@@ -42,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nba.com
 
 created:      2016-07-14
-changed:      2020-04-30
+changed:      2020-10-12
 source:       IANA
 
