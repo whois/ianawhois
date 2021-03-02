@@ -37,7 +37,6 @@ nserver:      A.NIC.FANS 194.169.218.39 2001:67c:13cc:0:0:0:1:39
 nserver:      B.NIC.FANS 185.24.64.39 2a04:2b00:13cc:0:0:0:1:39
 nserver:      C.NIC.FANS 212.18.248.39 2a04:2b00:13ee:0:0:0:0:39
 nserver:      D.NIC.FANS 212.18.249.39 2a04:2b00:13ff:0:0:0:0:39
-ds-rdata:     25466 8 1 A3852426105E4C37721101DE1ECA4D38E7071E79
 ds-rdata:     25466 8 2 7842246F760A21E694F1D8B64754F0D5BB27EF6A33F25E2F3F2DEE26B33B118B
 
 whois:        whois.nic.fans
@@ -46,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.fans/
 
 created:      2015-02-05
-changed:      2020-03-09
+changed:      2021-02-08
 source:       IANA
 
