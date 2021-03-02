@@ -10,24 +10,24 @@ address:      Moroni 98123
 address:      Comoros
 
 contact:      administrative
-name:         Oumara Mgomri
+name:         General Manager
 organisation: Comores Telecom
 address:      Place Volovolo BP 7000
 address:      Moroni 98123
 address:      Comoros
-phone:        +2697734300
-fax-no:       +2697738912
-e-mail:       oumara.mgomri@comorestelecom.km
+phone:        +269 7734300
+fax-no:       +269 7738912
+e-mail:       directeur.general@comorestelecom.km
 
 contact:      technical
-name:         Maoulida Mmadi Issihaka
+name:         IT Engineer
 organisation: Comores Telecom
 address:      Place Volovolo BP 7000
 address:      Moroni 98123
 address:      Comoros
-phone:        +2693367900
-fax-no:       +2697738912
-e-mail:       maoulida.mmadi@comorestelecom.km
+phone:        +269 3323001
+fax-no:       +269 7738912
+e-mail:       alihadji90@gmail.com
 
 nserver:      DNS1.NIC.KM 197.255.224.18
 nserver:      DNS2.NIC.KM 197.255.224.66
@@ -37,6 +37,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.domaine.km/
 
 created:      1998-06-08
-changed:      2016-11-09
+changed:      2020-06-01
 source:       IANA
 
