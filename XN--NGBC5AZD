@@ -11,31 +11,29 @@ address:      Melbourne, Victoria 3004
 address:      Australia
 
 contact:      administrative
-name:         Senior Director
-organisation: Neustar, Inc.
-address:      21575 Ridgetop Circle
-address:      Sterling, VA 20166
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      14455 North Hayden Rd.
+address:      Scottsdale, AZ 85260
 address:      United States
-phone:        +1 571 434 5400
-fax-no:       +1 571 434 5735
-e-mail:       technical1@registry.neustar
+phone:        +1 480-505-8800
+fax-no:       +1 480-393-4275
+e-mail:       iana@registry.godaddy
 
 contact:      technical
-name:         Director
-organisation: Neustar, Inc.
-address:      21575 Ridgetop Circle
-address:      Sterling, VA 20166
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      14455 North Hayden Rd.
+address:      Scottsdale, AZ 85260
 address:      United States
-phone:        +1 844 677 2878
-fax-no:       +1 571 434 5401
-e-mail:       technical1@registry.neustar
+phone:        +1 480-505-8800
+fax-no:       +1 480-393-4275
+e-mail:       iana@registry.godaddy
 
 nserver:      A.NIC.XN--NGBC5AZD 2001:dcd:1:0:0:0:0:3 37.209.192.3
 nserver:      B.NIC.XN--NGBC5AZD 2001:dcd:2:0:0:0:0:3 37.209.194.3
 nserver:      C.NIC.XN--NGBC5AZD 2001:dcd:3:0:0:0:0:3 37.209.196.3
 nserver:      D.NIC.XN--NGBC5AZD 2001:dcd:4:0:0:0:0:3 37.209.198.3
-ds-rdata:     58699 8 2 09545CA064C8792154FACDAAEC7795850D27D052D743546CB90CA9B6572CEB99
-ds-rdata:     58699 8 1 7B9A90E5A2B290341A2FD161BB5F4C6AAF5DA44F
 ds-rdata:     46762 8 1 67DC52FA808CE60FB67D8683316BA514839948AC
 ds-rdata:     46762 8 2 809E729E2DC01C83D02E580D26949BD77F8B2D4ADFAE98B685C95242FF13C4AA
 
@@ -45,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.dotshabaka.com
 
 created:      2013-10-21
-changed:      2020-04-30
+changed:      2020-10-19
 source:       IANA
 
