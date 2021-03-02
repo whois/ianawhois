@@ -35,7 +35,6 @@ nserver:      A0.NIC.BIO 2a01:8840:52:0:0:0:0:9 65.22.84.9
 nserver:      A2.NIC.BIO 2a01:8840:55:0:0:0:0:9 65.22.87.9
 nserver:      B0.NIC.BIO 2a01:8840:53:0:0:0:0:9 65.22.85.9
 nserver:      C0.NIC.BIO 2a01:8840:54:0:0:0:0:9 65.22.86.9
-ds-rdata:     16334 8 1 ba50cad975afdc62a0b131148daac33420fc9e01
 ds-rdata:     16334 8 2 aeaf99ce9c6f64b1607605dae987d3bd0acd4c5490691322b98c592c9c27b14b
 
 whois:        whois.afilias.net
@@ -44,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://afilias.info/contact-us
 
 created:      2014-05-15
-changed:      2019-08-19
+changed:      2020-10-01
 source:       IANA
 
