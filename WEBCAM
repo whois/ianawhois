@@ -18,14 +18,14 @@ phone:        +350 200 73520
 e-mail:       edgar.c.lavarello@gi.pwc.com
 
 contact:      technical
-name:         Director
-organisation: Neustar, Inc.
-address:      21575 Ridgetop Circle
-address:      Sterling, VA 20166
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      14455 North Hayden Rd.
+address:      Scottsdale, AZ 85260
 address:      United States
-phone:        +1 844-677-2878
-fax-no:       +1 571-434-5401
-e-mail:       technical1@registry.neustar
+phone:        +1 480-505-8800
+fax-no:       +1 480-393-4275
+e-mail:       iana@registry.godaddy
 
 nserver:      NS1.DNS.NIC.WEBCAM 156.154.169.60 2610:a1:1071:0:0:0:1:3c
 nserver:      NS2.DNS.NIC.WEBCAM 156.154.170.60 2610:a1:1072:0:0:0:1:3c
@@ -33,10 +33,6 @@ nserver:      NS3.DNS.NIC.WEBCAM 156.154.171.60 2610:a1:1073:0:0:0:1:3c
 nserver:      NS4.DNS.NIC.WEBCAM 156.154.172.60 2610:a1:1074:0:0:0:1:3c
 nserver:      NS5.DNS.NIC.WEBCAM 156.154.173.60 2610:a1:1075:0:0:0:1:3c
 nserver:      NS6.DNS.NIC.WEBCAM 156.154.174.60 2610:a1:1076:0:0:0:1:3c
-ds-rdata:     57952 8 1 5668F73A1C2480F6111FD821CAFC5A737E8D580C
-ds-rdata:     57952 8 2 E61F53AF35E6C31B45CC2AEB6F9DCE6B265F91E8CF2B0FE1BE3762F2A57D45EC
-ds-rdata:     55027 8 2 5E9BDD4A35364404EA48C7CBB306D672ED58392421600B81FBCADF53D9F6321D
-ds-rdata:     55027 8 1 357CD0FA23A20D8071BDEB216E1E62BE817B881B
 ds-rdata:     51376 8 1 3AC22A8F5708755CDEDBE9998E3E88D00F7D2E97
 ds-rdata:     51376 8 2 6AC7CE04AED542F851B42F85894CD1EA6FF124EF9655F7DCD51FCA9F89E9767B
 
@@ -46,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.webcam
 
 created:      2014-03-06
-changed:      2020-05-01
+changed:      2020-10-12
 source:       IANA
 
