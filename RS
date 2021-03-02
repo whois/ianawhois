@@ -30,7 +30,7 @@ fax-no:       +381 11 7281282
 e-mail:       tld-tech@rnids.rs
 
 nserver:      A.NIC.RS 2001:067c:069c:0000:0000:0000:0000:0059 91.199.17.59
-nserver:      B.NIC.RS 195.178.32.2
+nserver:      B.NIC.RS 195.178.32.2 2a00:e90:0:3:0:0:0:3
 nserver:      F.NIC.RS 2001:500:14:6032:ad:0:0:1 204.61.216.32
 nserver:      G.NIC.RS 147.91.8.6
 nserver:      H.NIC.RS 2001:067c:069c:0000:0000:0000:0000:0060 91.199.17.60
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.rnids.rs
 
 created:      2007-09-24
-changed:      2020-02-28
+changed:      2020-12-17
 source:       IANA
 
