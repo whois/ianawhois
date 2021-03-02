@@ -39,8 +39,6 @@ nserver:      A.NIC.SEEK 2001:dcd:1:0:0:0:0:9 37.209.192.9
 nserver:      B.NIC.SEEK 2001:dcd:2:0:0:0:0:9 37.209.194.9
 nserver:      C.NIC.SEEK 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      D.NIC.SEEK 2001:dcd:4:0:0:0:0:9 37.209.198.9
-ds-rdata:     26182 8 1 E48E448AE73A061E9C628DABDAF6507C5A41DDF4
-ds-rdata:     26182 8 2 2B0D7F0C29E7A60711BDE81D5AABD2AB1A2E64FC99515610FDD746279810F348
 ds-rdata:     56266 8 2 A29ACA43A76EE9A455652FECEF960160C58CEC62E318A8A4B69A8542207A33FE
 ds-rdata:     56266 8 1 3EEA899BBF17FF6F07D206A75EE097770875226B
 
@@ -50,6 +48,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.seek.com.au/about/
 
 created:      2015-04-16
-changed:      2020-04-30
+changed:      2020-06-02
 source:       IANA
 
