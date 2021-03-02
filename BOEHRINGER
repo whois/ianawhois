@@ -34,8 +34,7 @@ nserver:      A0.NIC.BOEHRINGER 2a01:8840:b6:0:0:0:0:17 65.22.188.17
 nserver:      A2.NIC.BOEHRINGER 2a01:8840:b9:0:0:0:0:17 65.22.191.17
 nserver:      B0.NIC.BOEHRINGER 2a01:8840:b7:0:0:0:0:17 65.22.189.17
 nserver:      C0.NIC.BOEHRINGER 2a01:8840:b8:0:0:0:0:17 65.22.190.17
-ds-rdata:     7348 7 1 aa5c90cdb6c32b24f2167c6e99803e1c57e4e9e3
-ds-rdata:     7348 7 2 5ab79185d38dd02de1094f45ae43943bfca4e6ca405ed9c8b78ffb470743bf1a
+ds-rdata:     37117 8 2 98508b91e23eef16223b93512b6ffd370f83ced809a7a157a98a8b07be84e0ce
 
 whois:        whois.afilias-srs.net
 
@@ -44,6 +43,6 @@ remarks:      Registration information:
 remarks:      http://www.boehringer-ingelheim.com/
 
 created:      2015-11-06
-changed:      2019-08-21
+changed:      2020-11-17
 source:       IANA
 
