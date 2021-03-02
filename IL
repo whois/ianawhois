@@ -4,7 +4,7 @@
 
 domain:       IL
 
-organisation: Internet Society of Israel
+organisation: The Israel Internet Association (RA)
 address:      Bareket 6, POB 7210
 address:      Petach Tikva  49517
 address:      Israel
@@ -37,7 +37,7 @@ nserver:      NS4.NS.IL 2001:500:14:6134:ad:0:0:1 204.61.216.134
 nserver:      NSA.NS.IL 192.115.7.53
 nserver:      NSB.NS.IL 192.115.7.60
 nserver:      NSE.NS.IL 192.115.141.253
-ds-rdata:     38495 8 2 cd89f213712829a920cc89c9d20ec89c3eaff922d4dd03b76c7923aa7c43fb08
+ds-rdata:     3301 13 2 b47195efd3e1bd63a7a5768e3736728e385b11cd48927e35a4f16f6d1f02685f
 
 whois:        whois.isoc.org.il
 
@@ -45,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.isoc.org.il/domains
 
 created:      1985-10-24
-changed:      2020-01-14
+changed:      2021-01-04
 source:       IANA
 
