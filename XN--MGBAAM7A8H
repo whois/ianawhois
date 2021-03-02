@@ -29,8 +29,8 @@ address:      United Arab Emirates
 phone:        +971 4 7774018
 e-mail:       dns@aeda.ae
 
-nserver:      NS1.AEDNS.AE 79.98.120.73
-nserver:      NS2.AEDNS.AE 79.98.121.73
+nserver:      NS1.AEDNS.AE 2a00:d30:124:0:0:0:0:189 79.98.120.73
+nserver:      NS2.AEDNS.AE 2a00:d30:125:0:0:0:0:189 79.98.121.73
 nserver:      NSEXT-PCH.AEDNS.AE 199.4.137.1 2001:500:7d:0:0:0:0:1
 
 whois:        whois.aeda.net.ae
