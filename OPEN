@@ -18,14 +18,14 @@ fax-no:       +1 212 640 9212
 e-mail:       ngtld-amex@cscglobal.com
 
 contact:      technical
-name:         Director
-organisation: Neustar, Inc.
-address:      21575 Ridgetop Circle
-address:      Sterling, VA 20166
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      14455 North Hayden Rd.
+address:      Scottsdale, AZ 85260
 address:      United States
-phone:        +1 844-677-2878
-fax-no:       +1 571-434-5401
-e-mail:       technical1@registry.neustar
+phone:        +1 480-505-8800
+fax-no:       +1 480-393-4275
+e-mail:       iana@registry.godaddy
 
 nserver:      NS1.DNS.NIC.OPEN 156.154.144.128 2610:a1:1071:0:0:0:0:80
 nserver:      NS2.DNS.NIC.OPEN 156.154.145.128 2610:a1:1072:0:0:0:0:80
@@ -33,10 +33,6 @@ nserver:      NS3.DNS.NIC.OPEN 156.154.159.128 2610:a1:1073:0:0:0:0:80
 nserver:      NS4.DNS.NIC.OPEN 156.154.156.128 2610:a1:1074:0:0:0:0:80
 nserver:      NS5.DNS.NIC.OPEN 156.154.157.128 2610:a1:1075:0:0:0:0:80
 nserver:      NS6.DNS.NIC.OPEN 156.154.158.128 2610:a1:1076:0:0:0:0:80
-ds-rdata:     48181 8 1 5225AC1D5B1C63E64955B1D03C5F9D10ADD6761C
-ds-rdata:     48181 8 2 995EB2811174C5FF83FCE22D4E6243430DCBE7D3AB44C5564E46EF434CF04767
-ds-rdata:     28864 8 1 5F74BA41BD4D47A66FAFA2A164A6C0EACC7039A4
-ds-rdata:     28864 8 2 EF37DF17A31829D70E7C1A7154BA286F304EB3FF44C20A16FA2AB6BAAE3E12F2
 ds-rdata:     60019 8 1 3C62AAFFAD79FD509A644703702C9A750B0280DD
 ds-rdata:     60019 8 2 0D8B30CA985C5F0AAFEA2BE9201F7FB51DDC6B0A9C275D3A8CBFB11819299129
 
@@ -45,6 +41,6 @@ remarks:      Registration information:
 remarks:      https://www.americanexpress.com
 
 created:      2016-07-21
-changed:      2020-05-01
+changed:      2021-01-19
 source:       IANA
 
