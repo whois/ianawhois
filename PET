@@ -37,8 +37,7 @@ nserver:      A0.NIC.PET 2a01:8840:12:0:0:0:0:17 65.22.16.17
 nserver:      A2.NIC.PET 2a01:8840:15:0:0:0:0:17 65.22.19.17
 nserver:      B0.NIC.PET 2a01:8840:13:0:0:0:0:17 65.22.17.17
 nserver:      C0.NIC.PET 2a01:8840:14:0:0:0:0:17 65.22.18.17
-ds-rdata:     55770 7 1 4da7e881abae60550a8e530a9988b09ce90b48f8
-ds-rdata:     55770 7 2 2b9416b5422e475c1963e8374776a278814547aa49020de2b2c79a186d0ea4d6
+ds-rdata:     42856 8 2 ee6c6c84eff7b00eb70d9bd8a29cee8a04d29d4d006cc1f61a95fff873fde974
 
 whois:        whois.afilias.net
 
@@ -46,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://afilias.info/contact-us
 
 created:      2015-07-16
-changed:      2019-08-19
+changed:      2020-09-30
 source:       IANA
 
