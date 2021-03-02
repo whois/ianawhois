@@ -34,8 +34,7 @@ nserver:      A0.NIC.LTDA 2a01:8840:72:0:0:0:0:17 65.22.116.17
 nserver:      A2.NIC.LTDA 2a01:8840:75:0:0:0:0:17 65.22.119.17
 nserver:      B0.NIC.LTDA 2a01:8840:73:0:0:0:0:17 65.22.117.17
 nserver:      C0.NIC.LTDA 2a01:8840:74:0:0:0:0:17 65.22.118.17
-ds-rdata:     7078 7 1 870dc0fb8e72df2b1079c894ea292bac09b9318a
-ds-rdata:     7078 7 2 de58138bde0e73ac067cc8b976cc7fd7c5e438f5d5f6c489ca57dada5c9146df
+ds-rdata:     28549 8 2 44371eb8133d637de5a5f08b4465f9f92624d581808bb4547635815d455bd804
 
 whois:        whois.afilias-srs.net
 
@@ -43,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.internetx.info
 
 created:      2014-07-03
-changed:      2019-08-21
+changed:      2020-10-30
 source:       IANA
 
