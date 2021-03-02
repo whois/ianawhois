@@ -20,14 +20,14 @@ fax-no:       +1 212 512 1986
 e-mail:       domain@warnermediagroup.com
 
 contact:      technical
-name:         Director
-organisation: Neustar, Inc.
-address:      21575 Ridgetop Circle
-address:      Sterling, VA 20166
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      14455 North Hayden Rd.
+address:      Scottsdale, AZ 85260
 address:      United States
-phone:        +1 844-677-2878
-fax-no:       +1 571-434-5401
-e-mail:       technical1@registry.neustar
+phone:        +1 480-505-8800
+fax-no:       +1 480-393-4275
+e-mail:       iana@registry.godaddy
 
 nserver:      NS1.DNS.NIC.HBO 156.154.144.70 2610:a1:1071:0:0:0:0:46
 nserver:      NS2.DNS.NIC.HBO 156.154.145.70 2610:a1:1072:0:0:0:0:46
@@ -35,8 +35,6 @@ nserver:      NS3.DNS.NIC.HBO 156.154.159.70 2610:a1:1073:0:0:0:0:46
 nserver:      NS4.DNS.NIC.HBO 156.154.156.70 2610:a1:1074:0:0:0:0:46
 nserver:      NS5.DNS.NIC.HBO 156.154.157.70 2610:a1:1075:0:0:0:0:46
 nserver:      NS6.DNS.NIC.HBO 156.154.158.70 2610:a1:1076:0:0:0:0:46
-ds-rdata:     48514 8 1 E6EA86176159796E7B5C58DEA2471B8FD4E680DD
-ds-rdata:     48514 8 2 DB10FD39E63033031579D911CDA01AD02CF871D3379B30515B17EE5E4C881E62
 ds-rdata:     45766 8 2 12CBE390D9AC40C01E1C159A9ECA4E5C49718695A6D8AD4E20F6824331733FCF
 ds-rdata:     45766 8 1 7A8CCC9B0062D0180D125C0D0CBC170ABBF1DE90
 
@@ -44,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.hbo.com
 
 created:      2016-07-08
-changed:      2020-05-01
+changed:      2020-10-12
 source:       IANA
 
