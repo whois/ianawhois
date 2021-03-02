@@ -33,6 +33,7 @@ nserver:      BN-NS.ANYCAST.PCH.NET 2001:500:14:6087:ad:0:0:1 204.61.216.87
 nserver:      NS1.BNNIC.BN 194.0.1.33
 nserver:      NS2.BNNIC.BN 202.93.214.163
 nserver:      NS4.APNIC.NET 2001:dd8:12:0:0:0:0:53 202.12.31.53
+ds-rdata:     9994 8 2 F4CCE04AF960518CDD2773EA47DC0BB43EE99A3D55A1A468F46D433AFE6A6B9C
 
 whois:        whois.bnnic.bn
 
@@ -40,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.bnnic.bn
 
 created:      1994-06-03
-changed:      2018-03-22
+changed:      2020-06-12
 source:       IANA
 
