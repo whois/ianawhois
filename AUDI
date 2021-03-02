@@ -33,8 +33,7 @@ nserver:      A0.NIC.AUDI 2a01:8840:ca:0:0:0:0:17 65.22.208.17
 nserver:      A2.NIC.AUDI 2a01:8840:cd:0:0:0:0:17 65.22.211.17
 nserver:      B0.NIC.AUDI 2a01:8840:cb:0:0:0:0:17 65.22.209.17
 nserver:      C0.NIC.AUDI 2a01:8840:cc:0:0:0:0:17 65.22.210.17
-ds-rdata:     42306 7 1 4cae38ca1368871277bf41702a82a2323aa688b9
-ds-rdata:     42306 7 2 731d4763b9ab8d1269e36aef78fffd3ef51c815171310168c02011d8c7026939
+ds-rdata:     47809 8 2 aa1fa212d47d097669f357c0c70ed8be45edcd5ba04d951f4ed9f9a260476fca
 
 whois:        whois.afilias-srs.net
 
@@ -42,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.audi.com
 
 created:      2015-11-12
-changed:      2019-08-21
+changed:      2020-12-16
 source:       IANA
 
