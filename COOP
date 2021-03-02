@@ -5,17 +5,15 @@
 domain:       COOP
 
 organisation: DotCooperation LLC
-address:      1775 Eye Street, NW
-address:      8th Floor
-address:      Washington DC 20006
+address:      1775 I Street NW, 8th Floor
+address:      Washington, DC 20006
 address:      United States
 
 contact:      administrative
 name:         Violetta Nafpaktiti
 organisation: DotCooperation LLC
-address:      1775 Eye Street, NW
-address:      8th Floor
-address:      Washington DC 20006
+address:      1775 I Street NW, 8th Floor
+address:      Washington, DC 20006
 address:      United States
 phone:        +1 202 383 5453
 fax-no:       +1 202 628 6726
@@ -45,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.coop
 
 created:      2001-12-15
-changed:      2020-03-19
+changed:      2021-02-03
 source:       IANA
 
