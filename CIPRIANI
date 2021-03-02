@@ -36,8 +36,7 @@ nserver:      A0.NIC.CIPRIANI 2a01:8840:e6:0:0:0:0:41 65.22.236.41
 nserver:      A2.NIC.CIPRIANI 2a01:8840:e9:0:0:0:0:41 65.22.239.41
 nserver:      B0.NIC.CIPRIANI 2a01:8840:e7:0:0:0:0:41 65.22.237.41
 nserver:      C0.NIC.CIPRIANI 2a01:8840:e8:0:0:0:0:41 65.22.238.41
-ds-rdata:     20710 7 1 f918e435a52ab4fcbd6d130e42bab3e0cdab22b9
-ds-rdata:     20710 7 2 b894a5e84537d8a0fcc80f60cd7eb282a465152f60569387ed763943b5efc3b4
+ds-rdata:     17209 8 2 41adac2bf52a4a5ea210ce9db7ab6114a28cf916f1e06b1f4c3eee90077d6147
 
 whois:        whois.afilias-srs.net
 
@@ -45,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.cipriani.com/
 
 created:      2015-07-30
-changed:      2019-08-22
+changed:      2020-11-17
 source:       IANA
 
