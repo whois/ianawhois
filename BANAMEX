@@ -19,14 +19,14 @@ fax-no:       +1 (703) 635-7514
 e-mail:       primary_banamex@valideus.com
 
 contact:      technical
-name:         Director
-organisation: Neustar, Inc.
-address:      21575 Ridgetop Circle
-address:      Sterling, VA 20166
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      14455 North Hayden Rd.
+address:      Scottsdale, AZ 85260
 address:      United States
-phone:        +1 844-677-2878
-fax-no:       +1 571-434-5401
-e-mail:       technical1@registry.neustar
+phone:        +1 480-505-8800
+fax-no:       +1 480-393-4275
+e-mail:       iana@registry.godaddy
 
 nserver:      NS1.DNS.NIC.BANAMEX 156.154.144.21 2610:a1:1071:0:0:0:0:15
 nserver:      NS2.DNS.NIC.BANAMEX 156.154.145.21 2610:a1:1072:0:0:0:0:15
@@ -34,10 +34,6 @@ nserver:      NS3.DNS.NIC.BANAMEX 156.154.159.21 2610:a1:1073:0:0:0:0:15
 nserver:      NS4.DNS.NIC.BANAMEX 156.154.156.21 2610:a1:1074:0:0:0:0:15
 nserver:      NS5.DNS.NIC.BANAMEX 156.154.157.21 2610:a1:1075:0:0:0:0:15
 nserver:      NS6.DNS.NIC.BANAMEX 156.154.158.21 2610:a1:1076:0:0:0:0:15
-ds-rdata:     52075 8 1 BB51BAF1263456744F8435B57B1D7E881EE06A12
-ds-rdata:     52075 8 2 AD7A92BB1818106F35F78050C0EACE038BFB11D3ECF6BA9A492FFBD282E45E1B
-ds-rdata:     9355 8 2 11700047C60E7F64E87D4BE2AD2EF254689D08871EA0C4D04EEE21E75091D960
-ds-rdata:     9355 8 1 F908558C1ED6E741F22A06233050FF9A24C2BF44
 ds-rdata:     41752 8 2 B2C1F60E2AF88721DFA1D95AF7687794492FBB1199E7CB33506D142930DCA8EE
 ds-rdata:     41752 8 1 DF921DE92CDED4EE4EB80D253CD6DFE5433887BE
 
@@ -45,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.citigroup.com
 
 created:      2016-07-21
-changed:      2020-04-30
+changed:      2020-10-12
 source:       IANA
 
