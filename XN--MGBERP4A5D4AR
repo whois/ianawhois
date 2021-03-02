@@ -25,15 +25,14 @@ fax-no:       +966114619497
 e-mail:       tld-admin-contact@nic.net.sa
 
 contact:      technical
-name:         SA-TLD Technical Contact
+name:         Saudi Domain Names Director
 organisation: Communications and Information Technology Commission
 address:      SaudiNIC
 address:      Communications and Information Technology Commission (CITC)
 address:      P.O Box 75606
 address:      Riyadh 11588
 address:      Saudi Arabia
-phone:        +966114618215
-fax-no:       +966114619497
+phone:        +966114618179
 e-mail:       tld-tech-contact@nic.net.sa
 
 nserver:      C1.DNS.SA 2001:67c:130:410:0:0:0:9 86.111.192.9
@@ -43,7 +42,7 @@ nserver:      N1.DNS.SA 194.146.106.102 2001:67c:1010:26:0:0:0:53
 nserver:      P1.DNS.SA 2001:500:14:6041:ad:0:0:1 204.61.216.41
 nserver:      S1.DNS.SA 2001:16a0:1:3002:0:0:0:2 37.107.223.170
 nserver:      S2.DNS.SA 2001:16a0:2:3002:0:0:0:2 37.107.255.170
-ds-rdata:     53896 8 2 d66348676f6598dcb6ceb730c4c20fce468d2f6f23096c2a0484b6cbe896db07
+ds-rdata:     60379 8 2 c9a8ea8504470a6d9c5ce9572a23851f293e48e910382a2a8818b0848f230d4a
 
 whois:        whois.nic.net.sa
 
@@ -51,6 +50,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.net.sa/
 
 created:      2010-05-05
-changed:      2020-01-31
+changed:      2020-12-08
 source:       IANA
 
