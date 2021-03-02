@@ -31,8 +31,7 @@ nserver:      A0.NIC.CERN 2a01:8840:da:0:0:0:0:1 65.22.224.1
 nserver:      A2.NIC.CERN 2a01:8840:dd:0:0:0:0:1 65.22.227.1
 nserver:      B0.NIC.CERN 2a01:8840:db:0:0:0:0:1 65.22.225.1
 nserver:      C0.NIC.CERN 2a01:8840:dc:0:0:0:0:1 65.22.226.1
-ds-rdata:     63043 7 1 c4095a121939e6e0b2000850f63010ce003f1907
-ds-rdata:     63043 7 2 61e362b956dc54fffaad2a41b5f81b2967febacf39ae1bcb78a8fa76699ffc0f
+ds-rdata:     20371 8 2 5a48eab25c4cf4978949d677c182876c48a6c5b7e2282926a954e8e9c8bec393
 
 whois:        whois.afilias-srs.net
 
@@ -40,6 +39,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.cern.ch
 
 created:      2014-08-13
-changed:      2019-08-21
+changed:      2020-11-16
 source:       IANA
 
