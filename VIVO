@@ -17,14 +17,14 @@ phone:        +55 11 3430-5278
 e-mail:       luciana.teixeiras@telefonica.com
 
 contact:      technical
-name:         Director
-organisation: Neustar, Inc.
-address:      21575 Ridgetop Circle
-address:      Sterling, VA 20166
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      14455 North Hayden Rd.
+address:      Scottsdale, AZ 85260
 address:      United States
-phone:        +1 844-677-2878
-fax-no:       +1 571-434-5401
-e-mail:       technical1@registry.neustar
+phone:        +1 480-505-8800
+fax-no:       +1 480-393-4275
+e-mail:       iana@registry.godaddy
 
 nserver:      NS1.DNS.NIC.VIVO 156.154.169.57 2610:a1:1071:0:0:0:1:39
 nserver:      NS2.DNS.NIC.VIVO 156.154.170.57 2610:a1:1072:0:0:0:1:39
@@ -32,10 +32,6 @@ nserver:      NS3.DNS.NIC.VIVO 156.154.171.57 2610:a1:1073:0:0:0:1:39
 nserver:      NS4.DNS.NIC.VIVO 156.154.172.57 2610:a1:1074:0:0:0:1:39
 nserver:      NS5.DNS.NIC.VIVO 156.154.173.57 2610:a1:1075:0:0:0:1:39
 nserver:      NS6.DNS.NIC.VIVO 156.154.174.57 2610:a1:1076:0:0:0:1:39
-ds-rdata:     7612 8 1 F9F1646528104931ADACD7C71CFCA7EAE80190EE
-ds-rdata:     7612 8 2 83BD83A7D300F16E74A023742BFE6ECDD59F0ACA715B4BD0B12AB300523CD96A
-ds-rdata:     7309 8 2 91539973AA885D3C939F6CE75BE260ABE0AD1F94E946F4CBDC8B8632F3F7F552
-ds-rdata:     7309 8 1 19F7294B3153001C94B3597319A4FED898BD6142
 ds-rdata:     38887 8 2 142B4DE6DD2DCDF7D24B585891CB1C72EE0EFCFA194E7CDC837216FEA5708EC8
 ds-rdata:     38887 8 1 63DA24B60CF5C35941212B599C9B055E9E58618D
 
@@ -43,6 +39,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.vivo.com.br
 
 created:      2016-05-26
-changed:      2020-04-30
+changed:      2020-10-12
 source:       IANA
 
