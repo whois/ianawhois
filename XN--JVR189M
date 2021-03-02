@@ -19,14 +19,14 @@ fax-no:       +1-206-946-7702
 e-mail:       food-rzm@amazon.com
 
 contact:      technical
-name:         Director
-organisation: Neustar, Inc.
-address:      21575 Ridgetop Circle
-address:      Sterling, VA 20166
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      14455 North Hayden Rd.
+address:      Scottsdale, AZ 85260
 address:      United States
-phone:        +1 844-677-2878
-fax-no:       +1 571-434-5401
-e-mail:       technical1@registry.neustar
+phone:        +1 480-505-8800
+fax-no:       +1 480-393-4275
+e-mail:       iana@registry.godaddy
 
 nserver:      NS1.DNS.NIC.XN--JVR189M 156.154.169.72 2610:a1:1071:0:0:0:1:48
 nserver:      NS2.DNS.NIC.XN--JVR189M 156.154.170.72 2610:a1:1072:0:0:0:1:48
@@ -34,10 +34,6 @@ nserver:      NS3.DNS.NIC.XN--JVR189M 156.154.171.72 2610:a1:1073:0:0:0:1:48
 nserver:      NS4.DNS.NIC.XN--JVR189M 156.154.172.72 2610:a1:1074:0:0:0:1:48
 nserver:      NS5.DNS.NIC.XN--JVR189M 156.154.173.72 2610:a1:1075:0:0:0:1:48
 nserver:      NS6.DNS.NIC.XN--JVR189M 156.154.174.72 2610:a1:1076:0:0:0:1:48
-ds-rdata:     14792 8 1 703C16AAA1C175D5F8C0B94E773947E01DE3B0C0
-ds-rdata:     14792 8 2 CEB5AD60AB5D2151B2A3D9697F7D3B104CD7FA62F7082FEB1B003261E1B904B6
-ds-rdata:     54805 8 1 71CA5F88F8E959F28BB0CBDCFB503A1575648DC0
-ds-rdata:     54805 8 2 D0BBFCCEF622B9713071D681997A138841308EED1D9D703A79A27E81CCA1470C
 ds-rdata:     2689 8 1 396EDCB785EDB92C9A1B06A02E0D00A8B9B1BB2B
 ds-rdata:     2689 8 2 A3AE4DCAF0C605663D2F6D398A02766BF40418DD79C153A1F928D96ADFE33060
 
@@ -45,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.amazonregistry.com
 
 created:      2016-01-29
-changed:      2020-04-30
+changed:      2020-10-12
 source:       IANA
 
