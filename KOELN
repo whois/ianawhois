@@ -5,15 +5,15 @@
 domain:       KOELN
 
 organisation: dotKoeln GmbH
-address:      Matznergasse 17
-address:      1140 Vienna
+address:      Schoenbrunner Strasse 231
+address:      1120 Vienna
 address:      Austria
 
 contact:      administrative
 name:         Ronald Schwaerzler
 organisation: dotKoeln GmbH
-address:      Matznergasse 17
-address:      1140 Vienna
+address:      Schoenbrunner Strasse 231
+address:      1120 Vienna
 address:      Austria
 phone:        +43 1 198116-700
 fax-no:       +43 1 98116-111
@@ -22,8 +22,8 @@ e-mail:       ronald.schwaerzler@domainworx.consulting
 contact:      technical
 name:         Technical Operations
 organisation: RyCE GmbH
-address:      Matznergasse 17
-address:      1140 Wien
+address:      Schoenbrunner Strasse 231
+address:      1120 Vienna
 address:      Austria
 phone:        +431981160
 fax-no:       +43198116111
@@ -40,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.nic.koeln
 
 created:      2014-02-20
-changed:      2020-04-28
+changed:      2020-10-06
 source:       IANA
 
