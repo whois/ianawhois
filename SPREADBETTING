@@ -13,7 +13,7 @@ address:      EC4R 2YA
 address:      United Kingdom
 
 contact:      administrative
-name:         Head of Operations
+name:         Head of Registry Services
 organisation: DOTSPREADBETTING REGISTRY LTD
 address:      Boston Ivy
 address:      Cannon Bridge House
@@ -21,25 +21,26 @@ address:      25 Dowgate Hill
 address:      London
 address:      EC4R 2YA
 address:      United Kingdom
-phone:        +442078960011
-fax-no:       +442078960010
-e-mail:       mike.clark@bostonivy.co
+phone:        +44.2033880600
+e-mail:       ig@centralnic.com
 
 contact:      technical
-name:         Registry Customer Service
-organisation: Verisign, Inc.
-address:      12061 Bluemont Way
-address:      Reston Virginia 20190
-address:      United States
-phone:        +1-703-925-6999 
-fax-no:       +1-703-948-3978
-e-mail:       info@verisign-grs.com
+name:         Nathan Van Overloop
+organisation: CentralNic
+address:      Saddlers House, 4th Floor
+address:      44 Gutter Lane
+address:      London EC2V 6BR
+address:      United Kingdom
+phone:        +44.2033880600
+fax-no:       +44.2033880601
+e-mail:       nathan.van.overloop@centralnic.com
 
-nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
-nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
-nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
-nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
+nserver:      A.NIC.SPREADBETTING 194.169.218.124 2001:67c:13cc:0:0:0:1:124
+nserver:      B.NIC.SPREADBETTING 185.24.64.124 2a04:2b00:13cc:0:0:0:1:124
+nserver:      C.NIC.SPREADBETTING 212.18.248.124 2a04:2b00:13ee:0:0:0:0:124
+nserver:      D.NIC.SPREADBETTING 212.18.249.124 2a04:2b00:13ff:0:0:0:0:124
 ds-rdata:     48138 8 2 60E64FDBD4651B0BFB9F4394CF12E88B53AF759CB7E693C991C61EB8454737DF
+ds-rdata:     41200 8 2 41681390105222B0E91FED4A6EA44F88685DD9756A3FD632FD0E23C04B084E01
 
 whois:        whois.nic.spreadbetting
 
@@ -47,6 +48,6 @@ status:       ACTIVE
 remarks:      Registration information: http://bostonivy.co
 
 created:      2015-03-06
-changed:      2019-08-27
+changed:      2020-12-04
 source:       IANA
 
