@@ -32,8 +32,7 @@ nserver:      A0.NIC.ALFAROMEO 2a01:8840:7a:0:0:0:0:17 65.22.124.17
 nserver:      A2.NIC.ALFAROMEO 2a01:8840:7d:0:0:0:0:17 65.22.127.17
 nserver:      B0.NIC.ALFAROMEO 2a01:8840:7b:0:0:0:0:17 65.22.125.17
 nserver:      C0.NIC.ALFAROMEO 2a01:8840:7c:0:0:0:0:17 65.22.126.17
-ds-rdata:     44769 7 1 04aab9de5d239f493b55531013269b368b9c72f0
-ds-rdata:     44769 7 2 d05e811b7b466b5ec91565ea1306158f482449351d99734814b89f1c765ec2fc
+ds-rdata:     61387 8 2 64c23c01756936c2c088966c6540fc74e30e194d2c874ddb24e99d0e4bc58f96
 
 whois:        whois.afilias-srs.net
 
@@ -41,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.alfaromeo.com
 
 created:      2016-07-21
-changed:      2016-08-02
+changed:      2020-10-30
 source:       IANA
 
