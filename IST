@@ -5,18 +5,18 @@
 domain:       IST
 
 organisation: Istanbul Metropolitan Municipality
-address:      Istanbul Metropolitan Municipality Department of Electrical Engineering Mehmet Nezihi Ozmen Mh. Kasim Sk. N.62 Zemin Kat A Bl. Gungoren
-address:      Istanbul, Merter 34010
+address:      Istanbul Metropolitan Municipality Department of Electrical Engineering Hacı ahmet mahallesi Muhsin yazıcıoğlu caddesi no:1 34440
+address:      Beyoğlu/İstanbul
 address:      Turkey
 
 contact:      administrative
 name:         Registry Manager
 organisation: Istanbul Metropolitan Municipality / Medya A.S.
-address:      Istanbul Metropolitan Municipality Department of Electrical Engineering Mehmet Nezihi Ozmen Mh. Kasim Sk. N.62 Zemin Kat A Bl. Gungoren
-address:      Istanbul, Merter 34010
+address:      Istanbul Metropolitan Municipality Department of Electrical Engineering Hacı ahmet mahallesi Muhsin yazıcıoğlu caddesi no:1 34440
+address:      Beyoğlu/İstanbul
 address:      Turkey
-phone:        +90 2124495839
-fax-no:       +90 2124495111
+phone:        +90 2123128920
+fax-no:       +90 2124495115
 e-mail:       registry.iana@ibb.gov.tr
 
 contact:      technical
@@ -34,8 +34,7 @@ nserver:      A0.NIC.IST 2a01:8840:8e:0:0:0:0:1 65.22.144.1
 nserver:      A2.NIC.IST 2a01:8840:91:0:0:0:0:1 65.22.147.1
 nserver:      B0.NIC.IST 2a01:8840:8f:0:0:0:0:1 65.22.145.1
 nserver:      C0.NIC.IST 2a01:8840:90:0:0:0:0:1 65.22.146.1
-ds-rdata:     64746 7 1 c73cc6ffc540bb0f6fee745ca78a6c9a6e6aa436
-ds-rdata:     64746 7 2 ad2c997ec6de185c9396ec62dc249984be7bcfb8250aff7ea1294ce1045a0536
+ds-rdata:     2221 8 2 7f26778aff98dad019476832c62ce0399f247ba6f4f8e10bf26b8c80db6e30d9
 
 whois:        whois.afilias-srs.net
 
@@ -43,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.istanbul
 
 created:      2015-05-29
-changed:      2019-08-23
+changed:      2021-02-20
 source:       IANA
 
