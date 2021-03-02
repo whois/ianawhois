@@ -35,8 +35,7 @@ nserver:      A0.NIC.RIL 2a01:8840:ae:0:0:0:0:17 65.22.180.17
 nserver:      A2.NIC.RIL 2a01:8840:b1:0:0:0:0:17 65.22.183.17
 nserver:      B0.NIC.RIL 2a01:8840:af:0:0:0:0:17 65.22.181.17
 nserver:      C0.NIC.RIL 2a01:8840:b0:0:0:0:0:17 65.22.182.17
-ds-rdata:     62953 7 1 0be36f202719dbb172f1e771ad856928b3c7e2f1
-ds-rdata:     62953 7 2 3295417336f81048bd61f840d192f33ea3164252b75856f95329cae87a7ba5b1
+ds-rdata:     19549 8 2 aebd50284035552652975d96493c1394e8c652c43ac366f019b0fed4ce3b5abf
 
 whois:        whois.nic.ril
 
@@ -44,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.ril.com
 
 created:      2016-08-11
-changed:      2017-08-10
+changed:      2020-10-16
 source:       IANA
 
