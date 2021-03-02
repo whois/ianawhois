@@ -7,19 +7,17 @@ domain:       CORSICA
 organisation: Collectivité de Corse
 address:      22, cours Grandval
 address:      Ajaccio cedex Corse 20187
-address:      FRANCE
 address:      France
 
 contact:      administrative
-name:         Directeur du developpement numérique
+name:         Directeur du l'aménagement et de la transformation numérique de la Corse
 organisation: Collectivité de Corse
 address:      22, cours Grandval
 address:      Ajaccio cedex Corse 20187
-address:      FRANCE
 address:      France
-phone:        +33495516464
-fax-no:       +33495516775
-e-mail:       dotcorsica@ct-corse.fr
+phone:        +33 4 95 51 69 00
+fax-no:       +33 4 95 51 67 75
+e-mail:       support@puntu.corsica
 
 contact:      technical
 name:         TLD Technical Contact
@@ -35,8 +33,7 @@ e-mail:       pdtcorsica@afnic.fr
 nserver:      D.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
 nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
 nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
-ds-rdata:     63082 8 2 84c01935da9b0dc9b26fee9d2c390f5fc2bd946cd5c0b325327bf83914349ae2
-ds-rdata:     50284 8 2 EB18B1852A73C378572BF3D3B86DE99BEC9B56657AF8A18F89CE9DF0647B6850
+ds-rdata:     18960 13 2 89841e201926a237e22a8442c6e557dcf3c60f973d0ffb2b40d4ae07931f080d
 
 whois:        whois-corsica.nic.fr
 
@@ -44,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.puntu.corsica
 
 created:      2015-04-23
-changed:      2019-06-06
+changed:      2020-09-08
 source:       IANA
 
