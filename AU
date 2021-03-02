@@ -33,14 +33,13 @@ e-mail:       auda.iana@auda.org.au
 nserver:      A.AU 2407:6e00:254:306:0:0:0:73 58.65.254.73
 nserver:      C.AU 162.159.24.179 2400:cb00:2049:1:0:0:a29f:18b3
 nserver:      D.AU 162.159.25.38 2400:cb00:2049:1:0:0:a29f:1926
-nserver:      M.AU 156.154.100.24 2001:502:2eda:0:0:0:0:24
-nserver:      N.AU 156.154.101.24 2001:502:ad09:0:0:0:0:24
+nserver:      M.AU 2001:502:2eda:0:0:0:0:24 37.209.192.5
+nserver:      N.AU 2001:502:ad09:0:0:0:0:24 37.209.194.5
 nserver:      Q.AU 2a01:8840:be:0:0:0:0:1 65.22.196.1
 nserver:      R.AU 2a01:8840:bf:0:0:0:0:1 65.22.197.1
 nserver:      S.AU 2a01:8840:c0:0:0:0:0:1 65.22.198.1
 nserver:      T.AU 2a01:8840:c1:0:0:0:0:1 65.22.199.1
-ds-rdata:     18875 8 1 A6362D938429477C0F5E51E1F47A3516B39D281B
-ds-rdata:     18875 8 2 FE773B2F77BB6A6DD31BA27EB19E8F64257937622CAB98F3926EE77FEA2BE79F
+ds-rdata:     43126 8 2 369DA1B3A768FDFD10728830C51B59493C1F74F9CD2254DA63720D5249B59D4C
 
 whois:        whois.auda.org.au
 
@@ -49,6 +48,6 @@ remarks:      Registration information:
 remarks:      https://www.auda.org.au/domains/au-domains/
 
 created:      1986-03-05
-changed:      2020-02-10
+changed:      2021-02-01
 source:       IANA
 
