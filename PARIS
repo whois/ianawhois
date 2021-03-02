@@ -7,7 +7,7 @@ domain:       PARIS
 organisation: City of Paris
 address:      Ville de Paris
 address:      5 rue Lobau
-address:      Paris - 75004
+address:      Paris 75004
 address:      France
 
 contact:      administrative
@@ -36,8 +36,7 @@ nserver:      D.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
 nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
 nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
 nserver:      H.EXT.NIC.FR 195.253.66.2 2a01:5b0:6:0:0:0:0:2
-ds-rdata:     29639 8 2 b714d5f0c4b2a353d83332893935a8666982a871c0103bca787895fbfcc7b143
-ds-rdata:     16996 8 2 00F50D34779E521849DCC5D3B71BA10D003E4A790F1A68C32D60D08700404740
+ds-rdata:     53702 13 2 6c5260b4abb0a1ea2b55d3e9e281f72a64ce9265220734b808a9f550feba3722
 
 whois:        whois-paris.nic.fr
 
@@ -45,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://mondomaine.paris.fr/
 
 created:      2014-03-27
-changed:      2019-08-12
+changed:      2020-07-22
 source:       IANA
 
