@@ -19,14 +19,14 @@ fax-no:       +1-713-432-8309
 e-mail:       coleman.works@aramcoservices.com
 
 contact:      technical
-name:         Director
-organisation: Neustar, Inc.
-address:      21575 Ridgetop Circle
-address:      Sterling, VA 20166
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      14455 North Hayden Rd.
+address:      Scottsdale, AZ 85260
 address:      United States
-phone:        +1 844-677-2878
-fax-no:       +1 571-434-5401
-e-mail:       technical1@registry.neustar
+phone:        +1 480-505-8800
+fax-no:       +1 480-393-4275
+e-mail:       iana@registry.godaddy
 
 nserver:      NS1.DNS.NIC.XN--MGBA3A3EJT 156.154.144.15 2610:a1:1071:0:0:0:0:f
 nserver:      NS2.DNS.NIC.XN--MGBA3A3EJT 156.154.145.15 2610:a1:1072:0:0:0:0:f
@@ -34,8 +34,6 @@ nserver:      NS3.DNS.NIC.XN--MGBA3A3EJT 156.154.159.15 2610:a1:1073:0:0:0:0:f
 nserver:      NS4.DNS.NIC.XN--MGBA3A3EJT 156.154.156.15 2610:a1:1074:0:0:0:0:f
 nserver:      NS5.DNS.NIC.XN--MGBA3A3EJT 156.154.157.15 2610:a1:1075:0:0:0:0:f
 nserver:      NS6.DNS.NIC.XN--MGBA3A3EJT 156.154.158.15 2610:a1:1076:0:0:0:0:f
-ds-rdata:     39637 8 1 717727166F18E7B29052CD8F9BBBA5D67E4D9E8E
-ds-rdata:     39637 8 2 F2C31CC015211C8FAB741799E75E4E2537CB8EBCCC226C3BBB340D9C397EF077
 ds-rdata:     11896 8 2 50D1509E19C1B998555BCED4ED82CC311139C2E56B6ED5D936DC2BCF505C8A19
 ds-rdata:     11896 8 1 7960108196EB361E94DAB73C4E384E6172C00DEC
 
@@ -43,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.aramco.com
 
 created:      2015-08-20
-changed:      2020-04-30
+changed:      2020-10-12
 source:       IANA
 
