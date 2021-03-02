@@ -21,13 +21,12 @@ e-mail:       registry@internetstiftelsen.se
 
 contact:      technical
 name:         SE Technical Contact
-organisation: The Internet Infrastructure Foundation
-address:      Box 92073
-address:      Stockholm SE-120 07
+organisation: Netnod Internet Exchange I Sverige AB
+address:      Greta Garbos väg 13
+address:      Solna, 169 40
 address:      Sweden
-phone:        +46 8 452 35 00
-fax-no:       +46 8 452 35 02
-e-mail:       hostmaster@internetstiftelsen.se
+phone:        +46 8 562 860 10
+e-mail:       ops@netnod.se
 
 nserver:      A.NS.SE 192.36.144.107 2a01:3f0:0:0301:0:0:0:53
 nserver:      B.NS.SE 192.36.133.107 2001:67c:254c:301:0:0:0:53
@@ -48,6 +47,6 @@ remarks:      Registration information:
 remarks:      https://www.internetstiftelsen.se
 
 created:      1986-09-04
-changed:      2020-03-18
+changed:      2020-06-08
 source:       IANA
 
