@@ -20,14 +20,14 @@ fax-no:       +678 27440
 e-mail:       iana@trbr.vu
 
 contact:      technical
-name:         Director
-organisation: Neustar, Inc.
-address:      21575 Ridgetop Circle
-address:      Sterling, VA 20166
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      14455 North Hayden Rd.
+address:      Scottsdale, AZ 85260
 address:      United States
-phone:        +1 844-677-2878
-fax-no:       +1 571-434-5401
-e-mail:       technical1@registry.neustar
+phone:        +1 480-505-8800
+fax-no:       +1 480-393-4275
+e-mail:       iana@registry.godaddy
 
 nserver:      NS1.NEUSTAR.VU 2001:dcd:1:0:0:0:0:6 37.209.192.6
 nserver:      NS2.NEUSTAR.VU 2001:dcd:2:0:0:0:0:6 37.209.194.6
@@ -42,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.hello.vu
 
 created:      1995-04-10
-changed:      2019-12-17
+changed:      2020-10-12
 source:       IANA
 
