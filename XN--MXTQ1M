@@ -33,7 +33,7 @@ e-mail:       snw@twnic.net.tw
 nserver:      A.NIC.XN--MXTQ1M 2001:c08:175:128:0:0:175:128 202.169.175.130
 nserver:      B.NIC.XN--MXTQ1M 2001:cd8:800:0:0:0:0:25 203.73.24.25
 nserver:      C.NIC.XN--MXTQ1M 2001:b000:1e0:c000:0:0:0:7 211.20.231.7
-nserver:      D.NIC.XN--MXTQ1M 2001:c50:ffff:1:0:0:0:185 60.199.165.185
+nserver:      D.NIC.XN--MXTQ1M 2001:4541:9010:7:0:0:0:185 60.199.165.185
 ds-rdata:     65200 8 2 24F4E4C9AF4E4B45EC7EBEEB231C572496F89D13CF403DF4FDCFFC326333CA73
 
 whois:        whois.nic.xn--mxtq1m
@@ -42,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.netc.tw
 
 created:      2015-01-08
-changed:      2019-08-15
+changed:      2021-01-15
 source:       IANA
 
