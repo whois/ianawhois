@@ -32,8 +32,7 @@ nserver:      A0.NIC.BOATS 2a01:8840:66:0:0:0:0:17 65.22.104.17
 nserver:      A2.NIC.BOATS 2a01:8840:69:0:0:0:0:17 65.22.107.17
 nserver:      B0.NIC.BOATS 2a01:8840:67:0:0:0:0:17 65.22.105.17
 nserver:      C0.NIC.BOATS 2a01:8840:68:0:0:0:0:17 65.22.106.17
-ds-rdata:     50710 7 1 9c5d5c9eaf6bf0db42cfb639295966d46216e5ba
-ds-rdata:     50710 7 2 bdb608e0a18c7a65768c7d18857fca78381382cb6d048c4b507fd8631dd38dc5
+ds-rdata:     184 8 2 a4a33b365286abb2176f9f617093d4dade9cd2af1c8b4955db2b0ad92b6940d5
 
 whois:        whois.afilias-srs.net
 
@@ -42,6 +41,6 @@ remarks:      Registration information:
 remarks:      http://www.dominionregistries.com
 
 created:      2015-02-13
-changed:      2019-08-26
+changed:      2020-12-09
 source:       IANA
 
