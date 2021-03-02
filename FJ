@@ -29,17 +29,16 @@ address:      Fiji
 phone:        +679 323 2117
 e-mail:       domreg@usp.ac.fj
 
-nserver:      ADNS1.BERKELEY.EDU 128.32.136.3 2607:f140:ffff:fffe:0:0:0:3
-nserver:      ADNS2.BERKELEY.EDU 128.32.136.14
-nserver:      AUTH00.NS.UU.NET 198.6.1.65
-nserver:      MANU.USP.AC.FJ 144.120.8.10
-nserver:      RIP.PSG.COM 147.28.0.39 2001:418:1:0:0:0:0:39
-nserver:      TERI.USP.AC.FJ 144.120.8.1
+nserver:      NS1.FJ 144.120.146.1 2402:2940:100:100c:0:0:0:1
+nserver:      NS2.FJ 144.120.146.65 2402:2940:100:100d:0:0:0:1
+nserver:      NS3.FJ 185.38.108.108
+nserver:      NS4.FJ 185.28.194.194
+nserver:      NS5.FJ 204.61.216.138
 
 status:       ACTIVE
 remarks:      Registration information: http://domains.fj/
 
 created:      1992-06-03
-changed:      2019-11-08
+changed:      2021-02-10
 source:       IANA
 
