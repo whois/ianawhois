@@ -13,22 +13,21 @@ address:      Japan
 contact:      administrative
 name:         Jacob Williams
 organisation: Interlink Co., Ltd.
-address:      3-1-1 Higashi Ikebukuro Sunshine 60 Bldg. 37F
-address:      Toshima, Tokyo 170-6037 JAPAN
+address:      Sunshine 60 Bldg. 45F 3-1-1 Higashi Ikebukuro, Toshima, Tokyo 170-6045 JAPAN
 address:      Japan
-phone:        +81 5058061875
-fax-no:       +81 338953826
+phone:        +81 50-5525-7438
+fax-no:       +81 3-5979-2337
 e-mail:       chintai-registry@interlink.ad.jp
 
 contact:      technical
-name:         Director
-organisation: Neustar, Inc.
-address:      21575 Ridgetop Circle
-address:      Sterling, VA 20166
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      14455 North Hayden Rd.
+address:      Scottsdale, AZ 85260
 address:      United States
-phone:        +1 844-677-2878
-fax-no:       +1 571-434-5401
-e-mail:       technical1@registry.neustar
+phone:        +1 480-505-8800
+fax-no:       +1 480-393-4275
+e-mail:       iana@registry.godaddy
 
 nserver:      NS1.DNS.NIC.CHINTAI 156.154.144.40 2610:a1:1071:0:0:0:0:28
 nserver:      NS2.DNS.NIC.CHINTAI 156.154.145.40 2610:a1:1072:0:0:0:0:28
@@ -36,10 +35,6 @@ nserver:      NS3.DNS.NIC.CHINTAI 156.154.159.40 2610:a1:1073:0:0:0:0:28
 nserver:      NS4.DNS.NIC.CHINTAI 156.154.156.40 2610:a1:1074:0:0:0:0:28
 nserver:      NS5.DNS.NIC.CHINTAI 156.154.157.40 2610:a1:1075:0:0:0:0:28
 nserver:      NS6.DNS.NIC.CHINTAI 156.154.158.40 2610:a1:1076:0:0:0:0:28
-ds-rdata:     1366 8 1 1ED265B1F5C4F982799BB3FF28F19C72E1F479D6
-ds-rdata:     1366 8 2 E826A92E08E613FC063F6583F15FE82C910E5ACA7A4C9315218E27E2DB03DD5C
-ds-rdata:     2791 8 2 AEF99F9661D34C9E6A1F1D78B57C74E6EF4F5B380DD137D3DE11C5EE837BBDD5
-ds-rdata:     2791 8 1 805CE51B95EE0C6CBCBBDCA4059FF1839F306F78
 ds-rdata:     37675 8 1 1027BABF1FEDF70EEC477E7DA2014CBC0DE4971C
 ds-rdata:     37675 8 2 B6F37125DE721393EE3D52AE2040BDEB8405737ABDB1A0DEDB5045A35756752C
 
@@ -49,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.chintai
 
 created:      2016-03-03
-changed:      2020-04-30
+changed:      2020-10-12
 source:       IANA
 
