@@ -28,7 +28,8 @@ phone:        +93 70 6604794
 e-mail:       registry@nic.af
 
 nserver:      NS.ANYCAST.NIC.AF 2001:500:14:6013:ad:0:0:1 204.61.216.13
-nserver:      NS.COCCA.FR 185.17.236.93 2a03:dd40:3:0:0:0:0:93
+nserver:      NS1.ANYCASTDNS.CZ 185.38.108.108 2a00:fea0:dead:0:0:0:0:beef
+nserver:      NS2.ANYCASTDNS.CZ 185.28.194.194
 ds-rdata:     3691 8 2 56C77864A2CD726F252634C8804A2AF33EA2CE70C49091E08C223BD2BB33CF5C
 
 whois:        whois.nic.af
@@ -37,6 +38,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.af
 
 created:      1997-10-16
-changed:      2019-09-04
+changed:      2021-01-05
 source:       IANA
 
