@@ -41,8 +41,7 @@ nserver:      A0.NIC.TVS 2a01:8840:c6:0:0:0:0:9 65.22.204.9
 nserver:      A2.NIC.TVS 2a01:8840:c9:0:0:0:0:9 65.22.207.9
 nserver:      B0.NIC.TVS 2a01:8840:c7:0:0:0:0:9 65.22.205.9
 nserver:      C0.NIC.TVS 2a01:8840:c8:0:0:0:0:9 65.22.206.9
-ds-rdata:     9544 7 1 576f18d90579172ae7739828c581643731b2d3be
-ds-rdata:     9544 7 2 72fad7b3803609421622c1b13c877c2ac7a5a1009f835f39a267414b82e155d2
+ds-rdata:     29161 8 2 a36cbb75c2c810d16fdd5562c334351bdd007f5aeb008537115586951ac39240
 
 whois:        whois.nic.tvs
 
@@ -50,6 +49,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.tvs.in
 
 created:      2016-02-05
-changed:      2019-08-22
+changed:      2020-10-30
 source:       IANA
 
