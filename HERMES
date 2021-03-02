@@ -34,8 +34,7 @@ nserver:      A0.NIC.HERMES 2a01:8840:e2:0:0:0:0:25 65.22.232.25
 nserver:      A2.NIC.HERMES 2a01:8840:e5:0:0:0:0:25 65.22.235.25
 nserver:      B0.NIC.HERMES 2a01:8840:e3:0:0:0:0:25 65.22.233.25
 nserver:      C0.NIC.HERMES 2a01:8840:e4:0:0:0:0:25 65.22.234.25
-ds-rdata:     58041 7 1 c8b636838ec6bda63cc39c12404b686c20e61884
-ds-rdata:     58041 7 2 df0ca4c6c7d2092c643a0189f918d1b50acc39a3300de7df26257c8369b54df3
+ds-rdata:     17194 8 2 f38ae5e161d402739020cc92a88dfa905a59972426ef42044c37ea6240bb9614
 
 whois:        whois.afilias-srs.net
 
@@ -43,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://hermes.com
 
 created:      2014-10-30
-changed:      2019-08-22
+changed:      2020-12-08
 source:       IANA
 
