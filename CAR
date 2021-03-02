@@ -4,54 +4,48 @@
 
 domain:       CAR
 
-organisation: Cars Registry Limited
-address:      Governors Square, Unit 3-110
-address:      23 Lime Tree Bay Avenue
-address:      Grand Cayman, Cayman Islands
-address:      PO Box 1361, George Town, KY1-1108
-address:      Cayman Islands
+organisation: XYZ.COM LLC
+address:      2121 E Tropicana Ave, STE2
+address:      Las Vegas, NV 89119
+address:      United States
 
 contact:      administrative
-name:         Managing Director
-organisation: Cars Registry Limited
-address:      Governors Square, Unit 3-110
-address:      23 Lime Tree Bay Avenue
-address:      Grand Cayman, Cayman Islands
-address:      PO Box 1361, George Town, KY1-1108
-address:      Cayman Islands
-phone:        +1.3457496263
-fax-no:       +1.3457466263
-e-mail:       contact@uniregistry.com
+name:         Grant Carpenter
+organisation: XYZ.COM LLC
+address:      2121 E Tropicana Ave, STE2
+address:      Las Vegas, NV 89119
+address:      United States
+phone:        +1 702 757 6555
+e-mail:       gc@xyz.xyz
 
 contact:      technical
-name:         Chief Technical Officer - Registry Operations
-organisation: Uniregistry Inc.
-address:      Governors Square, Unit 3-110
-address:      23 Lime Tree Bay Avenue
-address:      Grand Cayman, Cayman Islands
-address:      PO Box 1361, George Town, KY1-1108
-address:      Cayman Islands
-phone:        +1.3457496263
-fax-no:       +1.3457466263
-e-mail:       ops@uniregistry.com
+name:         Chief Technical Officer
+organisation: CentralNic
+address:      Saddlers House, 4th Floor 44
+address:      Gutter Lane
+address:      London EC2V 6BR
+address:      United Kingdom
+phone:        +44.2033880600
+fax-no:       +44.2033880601
+e-mail:       tld.ops@centralnic.com
 
-nserver:      NS1.UNIREGISTRY.NET 2620:57:4000:1:0:0:0:1 64.96.1.1
-nserver:      NS2.UNIREGISTRY.INFO 64.96.2.1
-nserver:      NS3.UNIREGISTRY.NET 185.159.197.3 2620:10a:80aa:0:0:0:0:3
-nserver:      NS4.UNIREGISTRY.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
-ds-rdata:     22307 5 1 A829D7EAE806E497132B46179DCC5B8824010320
-ds-rdata:     22307 5 2 EF40B9A2A119F93103931DB003BE4EF9B2C97437DA26F4EA519555499A71B64E
+nserver:      A.NIC.CAR 194.169.218.130 2001:67c:13cc:0:0:0:1:130
+nserver:      B.NIC.CAR 185.24.64.130 2a04:2b00:13cc:0:0:0:1:130
+nserver:      C.NIC.CAR 212.18.248.130 2a04:2b00:13ee:0:0:0:0:130
+nserver:      D.NIC.CAR 212.18.249.130 2a04:2b00:13ff:0:0:0:0:130
 ds-rdata:     64561 5 2 D89C304C66E6377AA7825C3A1A348DE1EAE69D6FA75902A6F927F903E2B91E58
 ds-rdata:     14236 5 1 949A3158DB82EBC73FA34ADAA6B6088CA1CA7459
 ds-rdata:     64561 5 1 26020EE1BEBE558D91ED45B54890B8C9FCEB1940
 ds-rdata:     14236 5 2 A35069C1E396B842C2BCBEB250C72E33C41FFDB0B053074D35A47C5B3E99791A
+ds-rdata:     6293 5 2 519D12765966B6F6E6BE8236B0A6510B86025FDC7BCBAA1630B8632A9471A4D3
+ds-rdata:     6293 5 1 5F4D85436E50896F89715EE4BB9F18F4B8C876D5
 
-whois:        whois.uniregistry.net
+whois:        whois.nic.car
 
 status:       ACTIVE
-remarks:      Registration information: http://uniregistry.link
+remarks:      Registration information: http://www.nic.car
 
 created:      2015-08-26
-changed:      2019-08-15
+changed:      2020-11-30
 source:       IANA
 
