@@ -30,8 +30,7 @@ nserver:      A0.NIC.MARRIOTT 2a01:8840:e6:0:0:0:0:9 65.22.236.9
 nserver:      A2.NIC.MARRIOTT 2a01:8840:e9:0:0:0:0:9 65.22.239.9
 nserver:      B0.NIC.MARRIOTT 2a01:8840:e7:0:0:0:0:9 65.22.237.9
 nserver:      C0.NIC.MARRIOTT 2a01:8840:e8:0:0:0:0:9 65.22.238.9
-ds-rdata:     50985 7 1 ee94d8a343ef8b907f7b0da305c1726f56463bbb
-ds-rdata:     50985 7 2 5a56680a2425ee9a6fbcbd808dad63fad3551670bc67ec3f347c726cc13efd22
+ds-rdata:     24409 8 2 8684c74574a7d00d562dcd780c7deb8554f2de761bc6bf4f59197d8d9b0656a6
 
 whois:        whois.afilias-srs.net
 
@@ -39,6 +38,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.marriott.com
 
 created:      2014-12-18
-changed:      2019-08-21
+changed:      2020-12-25
 source:       IANA
 
