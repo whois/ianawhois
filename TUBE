@@ -18,14 +18,14 @@ fax-no:       +1-267 907-8043
 e-mail:       jason@tubegtld.com
 
 contact:      technical
-name:         Director
-organisation: Neustar, Inc.
-address:      21575 Ridgetop Circle
-address:      Sterling, VA 20166
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      14455 North Hayden Rd.
+address:      Scottsdale, AZ 85260
 address:      United States
-phone:        +1 844-677-2878
-fax-no:       +1 571-434-5401
-e-mail:       technical1@registry.neustar
+phone:        +1 480-505-8800
+fax-no:       +1 480-393-4275
+e-mail:       iana@registry.godaddy
 
 nserver:      NS1.DNS.NIC.TUBE 156.154.169.80 2610:a1:1071:0:0:0:1:50
 nserver:      NS2.DNS.NIC.TUBE 156.154.170.80 2610:a1:1072:0:0:0:1:50
@@ -33,10 +33,6 @@ nserver:      NS3.DNS.NIC.TUBE 156.154.171.80 2610:a1:1073:0:0:0:1:50
 nserver:      NS4.DNS.NIC.TUBE 156.154.172.80 2610:a1:1074:0:0:0:1:50
 nserver:      NS5.DNS.NIC.TUBE 156.154.173.80 2610:a1:1075:0:0:0:1:50
 nserver:      NS6.DNS.NIC.TUBE 156.154.174.80 2610:a1:1076:0:0:0:1:50
-ds-rdata:     5270 8 1 A5CE9EA2AAB4B8BB89F49719CC7FD71F66808FD7
-ds-rdata:     5270 8 2 94F50EDD91C8BDC17CC4800597AEA45134CB5A5A3F08F1BB60A916AF51650745
-ds-rdata:     23419 8 1 9F444E31075BE49BB9744BA18322BE84F4A32758
-ds-rdata:     23419 8 2 369BF994F203B4A9A1C1B34641075F5FC4041A4E7D84AF5DF3E6300839308E8A
 ds-rdata:     53062 8 2 6811175118523FC3F254829D527EE316157E21BDAD3E2953BD076BB4412A08E9
 ds-rdata:     53062 8 1 4EE2ED8D5A3E7327E180140E1A7FAA6181A2737E
 
@@ -44,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://tubetld.com
 
 created:      2015-12-23
-changed:      2020-04-30
+changed:      2020-10-12
 source:       IANA
 
