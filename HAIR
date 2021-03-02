@@ -4,39 +4,44 @@
 
 domain:       HAIR
 
-organisation: L'Oreal
-address:      41, rue Martre Clichy - 92117
-address:      France
+organisation: XYZ.COM LLC
+address:      2121 E Tropicana Ave, STE2
+address:      Las Vegas, NV 89119
+address:      United States
 
 contact:      administrative
-name:         Vice President
-organisation: FairWinds Partners, LLC
-address:      1000 Potomac Street NW, Suite 350
-address:      Washington, DC 20007
+name:         Grant Carpenter
+organisation: XYZ.COM LLC
+address:      2121 E Tropicana Ave, STE2
+address:      Las Vegas, NV 89119
 address:      United States
-phone:        +1 202-223-9252
-fax-no:       +1 202-223-9256
-e-mail:       hairregistry@fairwindspartners.com
+phone:        +1 702 757 6555
+e-mail:       gc@xyz.xyz
 
 contact:      technical
-name:         Registry Customer Service
-organisation: Verisign, Inc.
-address:      12061 Bluemont Way
-address:      Reston Virginia 20190
-address:      United States
-phone:        +1-703-925-6999
-fax-no:       +1-703-948-3978
-e-mail:       info@verisign-grs.com
+name:         CTO
+organisation: CentralNic
+address:      Saddlers House, 4th Floor
+address:      44 Gutter Lane
+address:      London EC2V 6BR
+address:      United Kingdom
+phone:        +44 2033880600
+fax-no:       +44 2033880601
+e-mail:       tld.ops@centralnic.com
 
-nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
-nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
-nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
-nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
+nserver:      A.NIC.HAIR 194.169.218.117 2001:67c:13cc:0:0:0:1:117
+nserver:      B.NIC.HAIR 185.24.64.117 2a04:2b00:13cc:0:0:0:1:117
+nserver:      C.NIC.HAIR 212.18.248.117 2a04:2b00:13ee:0:0:0:0:117
+nserver:      D.NIC.HAIR 212.18.249.117 2a04:2b00:13ff:0:0:0:0:117
 ds-rdata:     30150 8 2 50CCA06C1ED8718A9398F347566C5FA6773222E7B3F152847292A5697CD8A7DD
+ds-rdata:     39236 8 2 D8C88DAA478496C4F99A8CB5CACB0746CDDE2612E9668BEB6F7D683AC220313B
+
+whois:        whois.nic.hair
 
 status:       ACTIVE
+remarks:      Registration information: https://nic.hair/
 
 created:      2016-09-16
-changed:      2016-12-02
+changed:      2020-10-09
 source:       IANA
 
