@@ -29,12 +29,12 @@ nserver:      TLD1.NIC.NTT 103.47.2.2 2001:dda:0:0:0:0:0:2
 nserver:      TLD2.NIC.NTT 117.104.133.17 2001:218:3001:0:0:0:0:2
 nserver:      TLD3.NIC.NTT 2a01:8840:1ba:0:0:0:0:17 65.22.40.17
 nserver:      TLD5.NIC.NTT 2a01:8840:1ba:0:0:0:0:145 65.22.40.145
-ds-rdata:     8662 8 2 E1ECAA1409BFD92F37336045E45B2B2B58025815CEBB7574F67917250F5FE92E
+ds-rdata:     277 8 2 74B0F591536EE2463A5BCE83F4A23B02E674F2BC6876A52B339994CA261F0DF8
 
 status:       ACTIVE
 remarks:      Registration information: http://www.ntt.co.jp/dotntt/
 
 created:      2015-01-08
-changed:      2020-03-05
+changed:      2020-12-03
 source:       IANA
 
