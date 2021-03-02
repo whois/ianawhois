@@ -33,8 +33,7 @@ nserver:      A0.NIC.FERRARI 2a01:8840:7a:0:0:0:0:25 65.22.124.25
 nserver:      A2.NIC.FERRARI 2a01:8840:7d:0:0:0:0:25 65.22.127.25
 nserver:      B0.NIC.FERRARI 2a01:8840:7b:0:0:0:0:25 65.22.125.25
 nserver:      C0.NIC.FERRARI 2a01:8840:7c:0:0:0:0:25 65.22.126.25
-ds-rdata:     54001 7 1 fac117f83c610585a360dab74a942de166cf2a91
-ds-rdata:     54001 7 2 b264fbfcaea7e63c58001e081b998e7035d97e98d5b0ca34bea76ca2b0b6ed85
+ds-rdata:     24796 8 2 33fcab9b1f82f04ca4ad6685fad6e660cfe968c2d0c97c08107de4ba5c5735fa
 
 whois:        whois.nic.ferrari
 
@@ -42,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.ferrari.com/en_us/
 
 created:      2016-07-14
-changed:      2017-07-20
+changed:      2020-10-30
 source:       IANA
 
