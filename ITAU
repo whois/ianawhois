@@ -18,14 +18,14 @@ fax-no:       55.11 5019 1133
 e-mail:       notices@itau-unibanco.com.br
 
 contact:      technical
-name:         Director
-organisation: Neustar, Inc.
-address:      21575 Ridgetop Circle
-address:      Sterling, VA 20166
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      14455 North Hayden Rd.
+address:      Scottsdale, AZ 85260
 address:      United States
-phone:        +1 844-677-2878
-fax-no:       +1 571-434-5401
-e-mail:       technical1@registry.neustar
+phone:        +1 480-505-8800
+fax-no:       +1 480-393-4275
+e-mail:       iana@registry.godaddy
 
 nserver:      NS1.DNS.NIC.ITAU 156.154.144.84 2610:a1:1071:0:0:0:0:54
 nserver:      NS2.DNS.NIC.ITAU 156.154.145.84 2610:a1:1072:0:0:0:0:54
@@ -33,8 +33,6 @@ nserver:      NS3.DNS.NIC.ITAU 156.154.159.84 2610:a1:1073:0:0:0:0:54
 nserver:      NS4.DNS.NIC.ITAU 156.154.156.84 2610:a1:1074:0:0:0:0:54
 nserver:      NS5.DNS.NIC.ITAU 156.154.157.84 2610:a1:1075:0:0:0:0:54
 nserver:      NS6.DNS.NIC.ITAU 156.154.158.84 2610:a1:1076:0:0:0:0:54
-ds-rdata:     18946 8 1 2AB6919C53B10FC05F0B0925450BD293F46C00F4
-ds-rdata:     18946 8 2 09C64A6902158E929B7BCA23E3D4B0BE8E6F169FFF40C7B40F5EF8FC61331556
 ds-rdata:     44935 8 2 022F7D3CE9963CEB8C1731F8B31F7B18D7EAEAE5C99FAE7EA289E7F97883E2F9
 ds-rdata:     44935 8 1 59FC2A1D217813B04B3110734CC263731468267E
 
@@ -42,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.itau.com
 
 created:      2015-05-29
-changed:      2020-05-01
+changed:      2020-10-12
 source:       IANA
 
