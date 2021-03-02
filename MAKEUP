@@ -4,43 +4,44 @@
 
 domain:       MAKEUP
 
-organisation: L'Oréal
-address:      41, rue Martre Clichy - 92117
-address:      France
+organisation: XYZ.COM LLC
+address:      2121 E Tropicana Ave, STE2
+address:      Las Vegas, NV 89119
+address:      United States
 
 contact:      administrative
-name:         Vice President
-organisation: FairWinds Partners, LLC
-address:      1000 Potomac Street NW
-address:      Suite 350
-address:      Washington, DC 20007
+name:         Grant Carpenter
+organisation: XYZ.COM LLC
+address:      2121 E Tropicana Ave, STE2
+address:      Las Vegas, NV 89119
 address:      United States
-phone:        2022239252
-fax-no:       2022239256
-e-mail:       makeupregistry@fairwindspartners.com
+phone:        +1 702 757 6555
+e-mail:       gc@xyz.xyz
 
 contact:      technical
-name:         Registry Customer Service
-organisation: Verisign, Inc.
-address:      12061 Bluemont Way
-address:      Reston Virginia 20190
-address:      United States
-phone:        +1-703-925-6999
-fax-no:       +1-703-948-3978
-e-mail:       info@verisign-grs.com
+name:         CTO
+organisation: CentralNic
+address:      Saddlers House, 4th Floor
+address:      44 Gutter Lane
+address:      London EC2V 6BR
+address:      United Kingdom
+phone:        +44 2033880600
+fax-no:       +44 2033880601
+e-mail:       tld.ops@centralnic.com
 
-nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
-nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
-nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
-nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
+nserver:      A.NIC.MAKEUP 194.169.218.116 2001:67c:13cc:0:0:0:1:116
+nserver:      B.NIC.MAKEUP 185.24.64.116 2a04:2b00:13cc:0:0:0:1:116
+nserver:      C.NIC.MAKEUP 212.18.248.116 2a04:2b00:13ee:0:0:0:0:116
+nserver:      D.NIC.MAKEUP 212.18.249.116 2a04:2b00:13ff:0:0:0:0:116
 ds-rdata:     64251 8 2 D35BAFB6C94CCFFF2DD894B0B745C49C0717BCC5348CA5422B1A9405DB1CAFB8
+ds-rdata:     49310 8 2 335D21FA55D5E1E94AD51A0CD89E8BEF3F034C5F842C2AD0A305ABEDB2603257
 
 whois:        whois.nic.makeup
 
 status:       ACTIVE
-remarks:      Registration information: http://loreal.com
+remarks:      Registration information: https://nic.makeup/
 
 created:      2015-12-23
-changed:      2019-08-16
+changed:      2020-10-09
 source:       IANA
 
