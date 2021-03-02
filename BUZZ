@@ -21,14 +21,14 @@ fax-no:       5015683834
 e-mail:       bill@nameshops.com
 
 contact:      technical
-name:         Director
-organisation: Neustar, Inc.
-address:      21575 Ridgetop Circle
-address:      Sterling, VA 20166
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      14455 North Hayden Rd.
+address:      Scottsdale, AZ 85260
 address:      United States
-phone:        +1 844-677-2878
-fax-no:       +1 571-434-5401
-e-mail:       technical1@registry.neustar
+phone:        +1 480-505-8800
+fax-no:       +1 480-393-4275
+e-mail:       iana@registry.godaddy
 
 nserver:      NS1.DNS.NIC.BUZZ 156.154.144.29 2610:a1:1071:0:0:0:0:1d
 nserver:      NS2.DNS.NIC.BUZZ 156.154.145.29 2610:a1:1072:0:0:0:0:1d
@@ -36,10 +36,6 @@ nserver:      NS3.DNS.NIC.BUZZ 156.154.159.29 2610:a1:1073:0:0:0:0:1d
 nserver:      NS4.DNS.NIC.BUZZ 156.154.156.29 2610:a1:1074:0:0:0:0:1d
 nserver:      NS5.DNS.NIC.BUZZ 156.154.157.29 2610:a1:1075:0:0:0:0:1d
 nserver:      NS6.DNS.NIC.BUZZ 156.154.158.29 2610:a1:1076:0:0:0:0:1d
-ds-rdata:     47864 8 1 455F2C4738D8D597E70EE16AD30C249839C13EC9
-ds-rdata:     47864 8 2 A7178B083CB8C38492BBA8B7BF71F2D86B892CD851FECB81EE2FFFB55097F78A
-ds-rdata:     57259 8 1 21279E38829F45E51C9EB5B49BD4C76244634F09
-ds-rdata:     57259 8 2 FE7A1037514D3B1542056A5B803AAD979AFD9CE067B1AA0F1F042FC2BC7B7C22
 ds-rdata:     23320 8 2 780196BF4D830F01D4E2B3FCD7817EC12F3BF9CF5310453CB7EB5EB658571728
 ds-rdata:     23320 8 1 1E3B6A96D7AC44A06299EAD98F66C918C780987E
 
@@ -47,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.buzznames.biz
 
 created:      2013-12-12
-changed:      2020-05-01
+changed:      2020-10-12
 source:       IANA
 
