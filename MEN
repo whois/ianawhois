@@ -19,21 +19,19 @@ phone:        +350 200 73520
 e-mail:       edgar.c.lavarello@gi.pwc.com
 
 contact:      technical
-name:         Director
-organisation: Neustar, Inc.
-address:      21575 Ridgetop Circle
-address:      Sterling, VA 20166
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      14455 North Hayden Rd.
+address:      Scottsdale, AZ 85260
 address:      United States
-phone:        +1 844 677 2878
-fax-no:        +1 571 434 5401
-e-mail:       technical1@registry.neustar
+phone:        +1 480-505-8800
+fax-no:       +1 480-393-4275
+e-mail:       iana@registry.godaddy
 
 nserver:      A.NIC.MEN 2001:dcd:1:0:0:0:0:10 37.209.192.10
 nserver:      B.NIC.MEN 2001:dcd:2:0:0:0:0:10 37.209.194.10
 nserver:      C.NIC.MEN 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      D.NIC.MEN 2001:dcd:4:0:0:0:0:10 37.209.198.10
-ds-rdata:     31777 8 1 A6665FAF359C93F4E03334195CB679B422CDB975
-ds-rdata:     31777 8 2 AACC8C03C369479DA4905E75EEF8C55A2B48277BD38132A83E967B35E9556A19
 ds-rdata:     37756 8 2 F2602E2FF049BB5332059A1E4E498B8ED5AC161243A2EE3EF2665ABB680892D8
 ds-rdata:     37756 8 1 C3DF2395CBFD91D57E80204C5BD941C049ACE110
 
@@ -43,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.men
 
 created:      2015-05-08
-changed:      2020-05-01
+changed:      2020-10-12
 source:       IANA
 
