@@ -30,8 +30,7 @@ nserver:      A0.NIC.GALLUP 2a01:8840:a2:0:0:0:0:17 65.22.168.17
 nserver:      A2.NIC.GALLUP 2a01:8840:a5:0:0:0:0:17 65.22.171.17
 nserver:      B0.NIC.GALLUP 2a01:8840:a3:0:0:0:0:17 65.22.169.17
 nserver:      C0.NIC.GALLUP 2a01:8840:a4:0:0:0:0:17 65.22.170.17
-ds-rdata:     23110 7 1 00f395ae705a7870b16482b0426a47bef6af6089
-ds-rdata:     23110 7 2 24d417c21b6927c970ebdc04663366eed8e5e03a6f05453152d70e7633339cc8
+ds-rdata:     34159 8 2 ae9bba11562a260aaa062e2eb9881443044fdb8998b6a81c25d34d0d6bf49cb5
 
 whois:        whois.nic.gallup
 
@@ -39,6 +38,6 @@ status:       ACTIVE
 remarks:      Registration information: http://gallup.com
 
 created:      2015-10-15
-changed:      2019-08-21
+changed:      2020-11-17
 source:       IANA
 
