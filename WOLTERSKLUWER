@@ -40,8 +40,7 @@ nserver:      A0.NIC.WOLTERSKLUWER 2a01:8840:c6:0:0:0:0:25 65.22.204.25
 nserver:      A2.NIC.WOLTERSKLUWER 2a01:8840:c9:0:0:0:0:25 65.22.207.25
 nserver:      B0.NIC.WOLTERSKLUWER 2a01:8840:c7:0:0:0:0:25 65.22.205.25
 nserver:      C0.NIC.WOLTERSKLUWER 2a01:8840:c8:0:0:0:0:25 65.22.206.25
-ds-rdata:     46705 7 1 3fb2f5953f5dc83e35d8468980ca4f680699c1d2
-ds-rdata:     46705 7 2 81c1c9504e49e199f0cab91c3edf206a89c0f1d487099486e49f7aa31de8b050
+ds-rdata:     58234 8 2 97dce05d28c78af0b76524df031d5fad0e1901b5ae12515be48fc758af56e473
 
 whois:        whois.nic.wolterskluwer
 
@@ -49,6 +48,6 @@ status:       ACTIVE
 remarks:      Registration information: http://wolterskluwer.com
 
 created:      2016-02-05
-changed:      2019-08-21
+changed:      2020-11-02
 source:       IANA
 
