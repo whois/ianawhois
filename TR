@@ -34,8 +34,7 @@ nserver:      NS22.NIC.TR 213.14.246.6
 nserver:      NS31.NIC.TR 31.210.155.2
 nserver:      NS41.NIC.TR 185.7.0.2 2001:a98:10:eeee:0:0:0:41
 nserver:      NS42.NIC.TR 185.7.0.3 2001:a98:10:eeee:0:0:0:42
-nserver:      NS91.NIC.TR 162.88.54.1 2600:2000:3002:0:0:0:0:1
-nserver:      NS92.NIC.TR 162.88.55.1 2600:2000:3003:0:0:0:0:1
+nserver:      NS61.NIC.TR 206.51.254.1 2620:171:804:ad2:0:0:0:1
 
 whois:        whois.nic.tr
 
@@ -43,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.tr
 
 created:      1990-09-17
-changed:      2019-05-06
+changed:      2020-08-27
 source:       IANA
 
