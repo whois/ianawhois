@@ -10,24 +10,24 @@ address:      Santiago RM 832-0198
 address:      Chile
 
 contact:      administrative
-name:         Patricio V. Poblete, Director
+name:         TLD Admin Contact
 organisation: NIC Chile
 organisation: University of Chile
 address:      Miraflores 222, Piso 14
 address:      Santiago RM 832-0198
 address:      Chile
 phone:        +56 22 940 7700
-e-mail:       ppoblete@nic.cl
+e-mail:       admincl@nic.cl
 
 contact:      technical
-name:         Jose M. Piquer, Technical Director
+name:         TLD Technical Contact
 organisation: NIC Chile
 organisation: University of Chile
 address:      Miraflores 222, Piso 14
 address:      Santiago RM 832-0198
 address:      Chile
 phone:        +56 22 940 7700
-e-mail:       jpiquer@nic.cl
+e-mail:       techcl@nic.cl
 
 nserver:      A.NIC.CL 190.124.27.10 2001:1398:121:0:190:124:27:10
 nserver:      B.NIC.CL 200.7.4.7 2001:1398:274:0:200:7:4:7
@@ -44,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.cl/
 
 created:      1995-01-27
-changed:      2019-03-27
+changed:      2020-10-10
 source:       IANA
 
