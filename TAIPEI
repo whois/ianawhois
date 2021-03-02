@@ -18,14 +18,14 @@ fax-no:       886 2 2758 7388
 e-mail:       ic-eric86422000@mail.taipei.gov.tw
 
 contact:      technical
-name:         Director
-organisation: Neustar, Inc.
-address:      21575 Ridgetop Circle
-address:      Sterling, VA 20166
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      14455 North Hayden Rd.
+address:      Scottsdale, AZ 85260
 address:      United States
-phone:        +1 844-677-2878
-fax-no:       +1 571-434-5401
-e-mail:       technical1@registry.neustar
+phone:        +1 480-505-8800
+fax-no:       +1 480-393-4275
+e-mail:       iana@registry.godaddy
 
 nserver:      NS1.DNS.NIC.TAIPEI 156.154.144.156 2610:a1:1071:0:0:0:0:9c
 nserver:      NS2.DNS.NIC.TAIPEI 156.154.145.156 2610:a1:1072:0:0:0:0:9c
@@ -33,10 +33,6 @@ nserver:      NS3.DNS.NIC.TAIPEI 156.154.159.156 2610:a1:1073:0:0:0:0:9c
 nserver:      NS4.DNS.NIC.TAIPEI 156.154.156.156 2610:a1:1074:0:0:0:0:9c
 nserver:      NS5.DNS.NIC.TAIPEI 156.154.157.156 2610:a1:1075:0:0:0:0:9c
 nserver:      NS6.DNS.NIC.TAIPEI 156.154.158.156 2610:a1:1076:0:0:0:0:9c
-ds-rdata:     34897 8 1 6EF244ECC424C650310CC3F847DDA972011D44B0
-ds-rdata:     34897 8 2 851A6DBAB62D8B007CA6E11ADAF79D3DF6D2868B3EF4DE2AFA0A60862413A5AD
-ds-rdata:     63961 8 2 210655375C15827CC8A6DD30A1E610521160AD6DF561FBC8C4C9972D4F9D1172
-ds-rdata:     63961 8 1 1D8AE3F6CA4613A6FEDAFBEF4B46DAF35DA78317
 ds-rdata:     33640 8 2 61189CD32FF818D9C8A38B7ECB82451BB42C557B67F2810AB0D47DBBC04C3F04
 ds-rdata:     33640 8 1 F4B313D44429B323678000CC372F39A783EA91E7
 
@@ -46,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nictaipei.net
 
 created:      2014-09-25
-changed:      2020-04-30
+changed:      2020-10-12
 source:       IANA
 
