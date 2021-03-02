@@ -30,8 +30,7 @@ nserver:      A0.NIC.LASALLE 2a01:8840:92:0:0:0:0:1 65.22.148.1
 nserver:      A2.NIC.LASALLE 2a01:8840:95:0:0:0:0:1 65.22.151.1
 nserver:      B0.NIC.LASALLE 2a01:8840:93:0:0:0:0:1 65.22.149.1
 nserver:      C0.NIC.LASALLE 2a01:8840:94:0:0:0:0:1 65.22.150.1
-ds-rdata:     25206 7 1 b5f7ee824df381d671690718977488d0756ef665
-ds-rdata:     25206 7 2 a5dfdc18f4ccfb1bd8d4ac1c88c1c4864795dc7a1be2c22d11e0d473b25c2462
+ds-rdata:     6184 8 2 b7ceb81d5279786be446c8d6981f911d3cb31dfc7e192de510c6d489ca3ba370
 
 whois:        whois.afilias-srs.net
 
@@ -39,6 +38,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.jll.com
 
 created:      2015-06-04
-changed:      2019-08-21
+changed:      2020-11-17
 source:       IANA
 
