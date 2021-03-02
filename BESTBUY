@@ -34,8 +34,7 @@ nserver:      A0.NIC.BESTBUY 2a01:8840:d2:0:0:0:0:9 65.22.216.9
 nserver:      A2.NIC.BESTBUY 2a01:8840:d5:0:0:0:0:9 65.22.219.9
 nserver:      B0.NIC.BESTBUY 2a01:8840:d3:0:0:0:0:9 65.22.217.9
 nserver:      C0.NIC.BESTBUY 2a01:8840:d4:0:0:0:0:9 65.22.218.9
-ds-rdata:     57538 7 1 a2206459743a9d928debb911dbe3ea192a70efa2
-ds-rdata:     57538 7 2 754902a9893db0ff2e37b44564121cb80c685cf3267bcae715a07e12151ba8d8
+ds-rdata:     1501 8 2 6e98e0865f6a8cd3e69f0a03cb0d9d80333a31d113ad85bba7571f87262c5d32
 
 whois:        whois.nic.bestbuy
 
@@ -43,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.bestbuy
 
 created:      2015-12-10
-changed:      2019-08-21
+changed:      2020-11-17
 source:       IANA
 
