@@ -26,10 +26,6 @@ phone:        +82 70 4310 9630
 fax-no:       +82 2 2028 0011
 e-mail:       info@yesnic.com
 
-nserver:      A.SAMSUNG.DYNTLD.NET 162.88.40.2 2600:2000:3010:0:0:0:0:2
-nserver:      B.SAMSUNG.DYNTLD.NET 162.88.41.2 2600:2000:3011:0:0:0:0:2
-nserver:      C.SAMSUNG.DYNTLD.NET 162.88.42.2 2600:2000:3012:0:0:0:0:2
-nserver:      D.SAMSUNG.DYNTLD.NET 162.88.43.2 2600:2000:3013:0:0:0:0:2
 nserver:      NS1.SAMSUNG.CENTRALNIC-DNS.COM 194.169.218.112 2001:67c:13cc:0:0:0:1:112
 nserver:      NS2.SAMSUNG.CENTRALNIC-DNS.COM 185.24.64.112 2a04:2b00:13cc:0:0:0:1:112
 nserver:      NS3.SAMSUNG.CENTRALNIC-DNS.COM 212.18.248.112 2a04:2b00:13ee:0:0:0:0:112
@@ -42,6 +38,6 @@ status:       ACTIVE
 remarks:      Registration information: http://samsungregistry.com
 
 created:      2014-10-30
-changed:      2018-03-28
+changed:      2020-08-06
 source:       IANA
 
