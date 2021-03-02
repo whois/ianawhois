@@ -34,8 +34,7 @@ nserver:      A0.NIC.WEIBO 2a01:8840:36:0:0:0:0:41 65.22.56.41
 nserver:      A2.NIC.WEIBO 2a01:8840:39:0:0:0:0:41 65.22.59.41
 nserver:      B0.NIC.WEIBO 2a01:8840:37:0:0:0:0:41 65.22.57.41
 nserver:      C0.NIC.WEIBO 2a01:8840:38:0:0:0:0:41 65.22.58.41
-ds-rdata:     48381 7 1 25267f578dd92971bab8d4c78d994ef95faeedf4
-ds-rdata:     48381 7 2 5794faeb90dd944d20c1d1a989ac7eb97fd8d72ec457780dc8a2411e128ecea9
+ds-rdata:     40642 8 2 930edcd3b0036bcdebf43862ad49f6b7486dfecfc2e42f769ab66f21938cf112
 
 whois:        whois.nic.weibo
 
@@ -43,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.sina.com
 
 created:      2016-02-29
-changed:      2017-08-03
+changed:      2020-11-20
 source:       IANA
 
