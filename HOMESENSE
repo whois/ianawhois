@@ -18,14 +18,14 @@ fax-no:       1.202.223.9256
 e-mail:       tjxregistries@fairwindspartners.com
 
 contact:      technical
-name:         Director
-organisation: Neustar, Inc.
-address:      21575 Ridgetop Circle
-address:      Sterling, VA 20166
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      14455 North Hayden Rd.
+address:      Scottsdale, AZ 85260
 address:      United States
-phone:        +1 844-677-2878
-fax-no:       +1 571-434-5401
-e-mail:       technical1@registry.neustar
+phone:        +1 480-505-8800
+fax-no:       +1 480-393-4275
+e-mail:       iana@registry.godaddy
 
 nserver:      NS1.DNS.NIC.HOMESENSE 156.154.144.74 2610:a1:1071:0:0:0:0:4a
 nserver:      NS2.DNS.NIC.HOMESENSE 156.154.145.74 2610:a1:1072:0:0:0:0:4a
@@ -33,10 +33,6 @@ nserver:      NS3.DNS.NIC.HOMESENSE 156.154.159.74 2610:a1:1073:0:0:0:0:4a
 nserver:      NS4.DNS.NIC.HOMESENSE 156.154.156.74 2610:a1:1074:0:0:0:0:4a
 nserver:      NS5.DNS.NIC.HOMESENSE 156.154.157.74 2610:a1:1075:0:0:0:0:4a
 nserver:      NS6.DNS.NIC.HOMESENSE 156.154.158.74 2610:a1:1076:0:0:0:0:4a
-ds-rdata:     39395 8 1 5FC0FCD790EABBAA5A8B66BD08E51DA4252D771D
-ds-rdata:     39395 8 2 835B34D570B7E737AEE760E1E86813AB95C1962DD64CC9D594F8B2DC97D07CBD
-ds-rdata:     51079 8 1 B18526F80711182F61F673F0FD37BD451BBEA657
-ds-rdata:     51079 8 2 06379B62388AB270C973D7C1C222564613FBB18743EC2DDCEFE93C55FA453AAF
 ds-rdata:     61732 8 1 C534223620B8AED34F1BAB18BD85A3447A176049
 ds-rdata:     61732 8 2 D2EC8C7BA48EBE9BB255D263F60D67EB1350A2C94DD4324B6D1C41FC8A489BB1
 
@@ -44,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.tjx.com
 
 created:      2016-04-07
-changed:      2020-05-01
+changed:      2020-10-12
 source:       IANA
 
