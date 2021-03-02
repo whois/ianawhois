@@ -4,38 +4,43 @@
 
 domain:       OBSERVER
 
-organisation: Top Level Spectrum, Inc.
-address:      1845 W Mercer Way
-address:      Mercer Island, WA 98040
+organisation: Dog Beach, LLC
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
 address:      United States
 
 contact:      administrative
-name:         Jay Westerdal
-organisation: Top Level Spectrum, Inc.
-address:      1845 W Mercer Way
-address:      Mercer Island, WA 98040
+name:         Serina Ness
+organisation: Donuts Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
 address:      United States
-phone:        +1 206-397-8825
-fax-no:       +1 206-238-1232
-e-mail:       contact@topspectrum.com
+phone:        +1 425 283 8248
+fax-no:       +1 425 671 0020
+e-mail:       serina@donuts.email
 
 contact:      technical
-name:         CTO
-organisation: CentralNic
-address:      Saddlers House, 4th Floor
-address:      44 Gutter Lane
-address:      London EC2V 6BR
-address:      United Kingdom
-phone:        +44.2033880600
-fax-no:       +44.2033880601
-e-mail:       tld.ops@centralnic.com
+name:         Ben Levac
+organisation: Donuts Inc
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
+address:      United States
+phone:        +1 425 298 2200
+fax-no:       +1 425 671 0020
+e-mail:       ben@donuts.email
 
 nserver:      A.NIC.OBSERVER 194.169.218.32 2001:67c:13cc:0:0:0:1:32
 nserver:      B.NIC.OBSERVER 185.24.64.32 2a04:2b00:13cc:0:0:0:1:32
 nserver:      C.NIC.OBSERVER 212.18.248.32 2a04:2b00:13ee:0:0:0:0:32
 nserver:      D.NIC.OBSERVER 212.18.249.32 2a04:2b00:13ff:0:0:0:0:32
+nserver:      DEMAND.ALPHA.ARIDNS.NET.AU 2001:dcd:1:0:0:0:0:7 37.209.192.7
+nserver:      DEMAND.BETA.ARIDNS.NET.AU 2001:dcd:2:0:0:0:0:7 37.209.194.7
+nserver:      DEMAND.DELTA.ARIDNS.NET.AU 2001:dcd:4:0:0:0:0:7 37.209.198.7
+nserver:      DEMAND.GAMMA.ARIDNS.NET.AU 2001:dcd:3:0:0:0:0:7 37.209.196.7
 ds-rdata:     7160 8 1 11EEE2E92F2015CC689D5259BAE0F47AD3DFC48C
 ds-rdata:     7160 8 2 5C223153E56665D646679D344182B70C68025039FDB198484E435EB7FC30E2BB
+ds-rdata:     58939 8 2 0FC0DDFB5014B2312B831345EE8B1D4CF271C0FD6AA63715A9220A0DFE14EBC0
+ds-rdata:     58939 8 1 17B09B8C4896BB5CA1E31E5BA708846190223AAB
 
 whois:        whois.nic.observer
 
@@ -43,6 +48,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.topspectrum.com
 
 created:      2016-09-15
-changed:      2020-04-09
+changed:      2021-02-26
 source:       IANA
 
