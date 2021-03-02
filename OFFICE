@@ -18,14 +18,14 @@ fax-no:       +1 425-457-2511
 e-mail:       tlddom@microsoft.com
 
 contact:      technical
-name:         Director
-organisation: Neustar, Inc.
-address:      21575 Ridgetop Circle
-address:      Sterling, VA 20166
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      14455 North Hayden Rd.
+address:      Scottsdale, AZ 85260
 address:      United States
-phone:        +1 844-677-2878
-fax-no:       +1 571-434-5401
-e-mail:       technical1@registry.neustar
+phone:        +1 480-505-8800
+fax-no:       +1 480-393-4275
+e-mail:       iana@registry.godaddy
 
 nserver:      NS1.DNS.NIC.OFFICE 156.154.144.126 2610:a1:1071:0:0:0:0:7e
 nserver:      NS2.DNS.NIC.OFFICE 156.154.145.126 2610:a1:1072:0:0:0:0:7e
@@ -33,10 +33,6 @@ nserver:      NS3.DNS.NIC.OFFICE 156.154.159.126 2610:a1:1073:0:0:0:0:7e
 nserver:      NS4.DNS.NIC.OFFICE 156.154.156.126 2610:a1:1074:0:0:0:0:7e
 nserver:      NS5.DNS.NIC.OFFICE 156.154.157.126 2610:a1:1075:0:0:0:0:7e
 nserver:      NS6.DNS.NIC.OFFICE 156.154.158.126 2610:a1:1076:0:0:0:0:7e
-ds-rdata:     11212 8 1 C15EC8C91F53F5E028886BB64E5CC704C16430DD
-ds-rdata:     11212 8 2 A1A8B0E362D5F3BE7A055A3436871A38E31ED0E4CA49D398FEC9C452E9C02641
-ds-rdata:     36997 8 1 B9677C51C097B8A0383915DFB202408DB835D2AA
-ds-rdata:     36997 8 2 4745175570F8C25677B69A0EC8DA0DDBA2348C6B8051B2FCD0A661DBE1658E19
 ds-rdata:     19591 8 1 F42250EDC3494936DBB179B0CE5F0AF080FC84AD
 ds-rdata:     19591 8 2 3A28C31AF8AB67A54C489E21E36143C7E655BFEF344B87BD7C19669D48EDEAE2
 
@@ -44,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.office.com
 
 created:      2015-06-04
-changed:      2020-04-30
+changed:      2020-10-12
 source:       IANA
 
