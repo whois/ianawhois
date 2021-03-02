@@ -6,28 +6,25 @@ domain:       한국
 domain-ace:   XN--3E0B707E
 
 organisation: KISA (Korea Internet & Security Agency)
-address:      Korea Network Information Center(KRNIC), 11F, Platinum Tower
-address:      398, Seochodae-ro, Seocho-gu, Seoul, 06619
+address:      9, Jinheung-gil, Naju-si, Jeollanam-do, 58324
 address:      Korea, Republic Of
 
 contact:      administrative
-name:         Head of Korea Network Information Center
+name:         KRNIC Policy Team Manager
 organisation: KISA (Korea Internet & Security Agency)
-address:      Korea Network Information Center(KRNIC), 11F, Platinum Tower
-address:      398, Seochodae-ro, Seocho-gu, Seoul, 06619
+address:      9, Jinheung-gil, Naju-si, Jeollanam-do, 58324
 address:      Korea, Republic Of
-phone:        +82 61 820 1510
-fax-no:       +82 2 405 5149
+phone:        +82 61 820 1176
+fax-no:       +82 61 820 2611
 e-mail:       adminc@kisa.or.kr
 
 contact:      technical
-name:         Head of Korea Network Information Center
+name:         KRNIC Tech Team Manager
 organisation: KISA (Korea Internet & Security Agency)
-address:      Korea Network Information Center(KRNIC), 11F, Platinum Tower
-address:      398, Seochodae-ro, Seocho-gu, Seoul, 06619
+address:      9, Jinheung-gil, Naju-si, Jeollanam-do, 58324
 address:      Korea, Republic Of
-phone:        +82 61 820 1510
-fax-no:       +82 2 405 5149
+phone:        +82 61 820 1161
+fax-no:       +82 61 820 2611
 e-mail:       techc@kisa.or.kr
 
 nserver:      B.DNS.KR 210.101.60.1
@@ -36,7 +33,7 @@ nserver:      D.DNS.KR 2001:dcc:4:0:0:0:0:1 203.83.159.1
 nserver:      E.DNS.KR 2001:dcc:5:0:0:0:0:100 202.30.124.100
 nserver:      F.DNS.KR 2001:dcc:6:0:0:0:0:1 210.101.62.1
 nserver:      G.DNS.KR 2001:dc5:a:0:0:0:0:1 202.31.190.1
-ds-rdata:     27573 7 2 A1C0A1B101F2B31DA2DD995BD0994A6C1E9E34E325FA007E2EA8721DFC4C6CB4
+ds-rdata:     48379 8 2 88372B74ADB821C79FAC26E1883CC6BD96FF6EB97AAA1A9486BB4B3B26076D02
 
 whois:        whois.kr
 
@@ -44,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.or.kr
 
 created:      2011-02-05
-changed:      2019-04-12
+changed:      2020-07-14
 source:       IANA
 
