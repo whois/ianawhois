@@ -36,8 +36,7 @@ nserver:      A0.NIC.REDSTONE 2a01:8840:82:0:0:0:0:17 65.22.132.17
 nserver:      A2.NIC.REDSTONE 2a01:8840:85:0:0:0:0:17 65.22.135.17
 nserver:      B0.NIC.REDSTONE 2a01:8840:83:0:0:0:0:17 65.22.133.17
 nserver:      C0.NIC.REDSTONE 2a01:8840:84:0:0:0:0:17 65.22.134.17
-ds-rdata:     26920 7 1 3bc2ae75a80fe4cddf8936c557574a1c44da276b
-ds-rdata:     26920 7 2 b61ffe8f6b0a2dc6827df447aecba2c57c2bb70429246cbf4fbd996fa28f4088
+ds-rdata:     55555 8 2 425cc5bc7add435160d3c70cba9d545be2ff5466ecc27fb46e520be2ec1f9d0d
 
 whois:        whois.nic.redstone
 
@@ -45,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www/redstone-cn.com
 
 created:      2015-03-06
-changed:      2019-08-26
+changed:      2020-12-03
 source:       IANA
 
