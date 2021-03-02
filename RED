@@ -37,8 +37,7 @@ nserver:      A0.NIC.RED 2a01:8840:26:0:0:0:0:25 65.22.36.25
 nserver:      A2.NIC.RED 2a01:8840:29:0:0:0:0:25 65.22.39.25
 nserver:      B0.NIC.RED 2a01:8840:27:0:0:0:0:25 65.22.37.25
 nserver:      C0.NIC.RED 2a01:8840:28:0:0:0:0:25 65.22.38.25
-ds-rdata:     20431 7 1 429a68cbbf8ace08d911071d13fd47892b1efef7
-ds-rdata:     20431 7 2 7ed8016e603f6e4b0aebda756b01aae19ae9c65d9a8da32c1fd1cc74bce999f4
+ds-rdata:     20191 8 2 a838978f76dab8c9a0057b3fdddbd9883e760764e5ae1cea04f0961d61a4bb28
 
 whois:        whois.afilias.net
 
@@ -46,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://afilias.info/contact-us
 
 created:      2014-01-16
-changed:      2019-08-19
+changed:      2020-09-30
 source:       IANA
 
