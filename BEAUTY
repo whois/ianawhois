@@ -4,42 +4,44 @@
 
 domain:       BEAUTY
 
-organisation: L'Oréal
-address:      41, rue Martre Clichy - 92117
-address:      France
+organisation: XYZ.COM LLC
+address:      2121 E Tropicana Ave, STE2
+address:      Las Vegas, NV 89119
+address:      United States
 
 contact:      administrative
-name:         Vice President
-organisation: FairWinds Partners, LLC
-address:      1000 Potomac Street NW, Suite 350
-address:      Washington, DC 20007
+name:         Grant Carpenter
+organisation: XYZ.COM LLC
+address:      2121 E Tropicana Ave, STE2
+address:      Las Vegas, NV 89119
 address:      United States
-phone:        +1 202-223-9252
-fax-no:       +1 202-223-9256
-e-mail:       beautyregistry@fairwindspartners.com
+phone:        +1 702 757 6555
+e-mail:       gc@xyz.xyz
 
 contact:      technical
-name:         Registry Customer Service
-organisation: Verisign, Inc.
-address:      12061 Bluemont Way
-address:      Reston, Virginia 20190
-address:      United States
-phone:        +1-703-925-6999
-fax-no:       +1-703-948-3978
-e-mail:       info@verisign-grs.com
+name:         CTO
+organisation: CentralNic
+address:      Saddlers House, 4th Floor
+address:      44 Gutter Lane
+address:      London EC2V 6BR
+address:      United Kingdom
+phone:        +44 2033880600
+fax-no:       +44 2033880601
+e-mail:       tld.ops@centralnic.com
 
-nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
-nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
-nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
-nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
+nserver:      A.NIC.BEAUTY 194.169.218.119 2001:67c:13cc:0:0:0:1:119
+nserver:      B.NIC.BEAUTY 185.24.64.119 2a04:2b00:13cc:0:0:0:1:119
+nserver:      C.NIC.BEAUTY 212.18.248.119 2a04:2b00:13ee:0:0:0:0:119
+nserver:      D.NIC.BEAUTY 212.18.249.119 2a04:2b00:13ff:0:0:0:0:119
 ds-rdata:     35340 8 2 2489479F7A6E57341C7C5508C55113491C519DD846258A6593C4D1ABA57D463E
+ds-rdata:     52406 8 2 C5C45B79DBE67A132237B020F4966FE32FBE61553487E38D47918561568E9957
 
 whois:        whois.nic.beauty
 
 status:       ACTIVE
-remarks:      Registration information: http://loreal.com
+remarks:      Registration information: https://nic.beauty/
 
 created:      2016-04-07
-changed:      2016-07-16
+changed:      2020-10-09
 source:       IANA
 
