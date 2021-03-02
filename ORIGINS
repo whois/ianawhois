@@ -34,8 +34,7 @@ nserver:      A0.NIC.ORIGINS 2a01:8840:32:0:0:0:0:33 65.22.52.33
 nserver:      A2.NIC.ORIGINS 2a01:8840:35:0:0:0:0:33 65.22.55.33
 nserver:      B0.NIC.ORIGINS 2a01:8840:33:0:0:0:0:33 65.22.53.33
 nserver:      C0.NIC.ORIGINS 2a01:8840:34:0:0:0:0:33 65.22.54.33
-ds-rdata:     35613 7 1 7064997cbe4476be22dc96a4444b96827622a570
-ds-rdata:     35613 7 2 e0edb0c263046a70ab69c3ba5c97f1db1df87aa78cf8d9cb83827e0f2921eba4
+ds-rdata:     25234 8 2 5290155e291fba766eb200f5e95ac883babfbbfda64f5ad243068c7c8dc6019b
 
 whois:        whois.nic.origins
 
@@ -44,6 +43,6 @@ remarks:      Registration information:
 remarks:      http://elcompanies.com/Pages/Homepage.aspx
 
 created:      2015-12-10
-changed:      2019-08-21
+changed:      2020-11-17
 source:       IANA
 
