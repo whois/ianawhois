@@ -6,14 +6,16 @@ domain:       संगठन
 domain-ace:   XN--I1B6B1A6A2E
 
 organisation: Public Interest Registry
-address:      1775 Wiehle Avenue, Suite 100
+address:      11911 Freedom Drive 10th Floor,
+address:      Suite 1000
 address:      Reston, VA 20190
 address:      United States
 
 contact:      administrative
 name:         Director of Operations, Compliance and Customer Support
 organisation: Public Interest Registry (PIR)
-address:      1775 Wiehle Avenue
+address:      11911 Freedom Drive 10th Floor,
+address:      Suite 1000
 address:      Reston, VA 20190
 address:      United States
 phone:        +1 703 889 5778
@@ -35,8 +37,7 @@ nserver:      A0.NIC.XN--I1B6B1A6A2E 2a01:8840:b2:0:0:0:0:1 65.22.184.1
 nserver:      A2.NIC.XN--I1B6B1A6A2E 2a01:8840:b5:0:0:0:0:1 65.22.187.1
 nserver:      B0.NIC.XN--I1B6B1A6A2E 2a01:8840:b3:0:0:0:0:1 65.22.185.1
 nserver:      C0.NIC.XN--I1B6B1A6A2E 2a01:8840:b4:0:0:0:0:1 65.22.186.1
-ds-rdata:     16573 7 1 7c1a115977dad3c59987490274854e013d8b5fce
-ds-rdata:     16573 7 2 811cf69d0fa4f6337b5f5488e243e2401b53d6058f041532b24525ddca4fd35c
+ds-rdata:     45889 8 2 1ef7aca91f4ef292f518f1fcf77a646c21d7aa2594e3bd4af18906af70774604
 
 whois:        whois.publicinterestregistry.net
 
@@ -44,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.pir.org
 
 created:      2014-02-27
-changed:      2020-04-17
+changed:      2020-10-27
 source:       IANA
 
