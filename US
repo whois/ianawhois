@@ -4,32 +4,30 @@
 
 domain:       US
 
-organisation: NeuStar, Inc.
-address:      Loudoun Tech Center
-address:      46000 Center Oak Plaza
-address:      Sterling Virginia 20166
+organisation: Registry Services, LLC
+address:      14455 North Hayden Rd.
+address:      Scottsdale, AZ 85260
 address:      United States
 
 contact:      administrative
-name:         Director
-organisation: NeuStar, Inc.
-address:      21575 Ridgetop Circle
-address:      Sterling, VA 20166
+name:         IANA Contact
+organisation: Registry Services, LLC
+address:      14455 North Hayden Rd.
+address:      Scottsdale, AZ 85260
 address:      United States
-phone:        +1 (844) 677-2878
-fax-no:       +1 (571) 434-5401
-e-mail:       technical1@registry.neustar
+phone:        +1 480 505 8800
+fax-no:       +1 480 393 4275
+e-mail:       iana@about.us
 
 contact:      technical
-name:         Neustar Operations 
-organisation: NeuStar, Inc.
-address:      Loudoun Tech Center
-address:      46000 Center Oak Plaza
-address:      Sterling Virginia 20166
+name:         IANA Contact
+organisation: Registry Services, LLC
+address:      14455 North Hayden Rd.
+address:      Scottsdale, AZ 85260
 address:      United States
-phone:        +1 571 434 5487
-fax-no:       +1 571 434 5401
-e-mail:       registrytechnical2@neustar.biz
+phone:        +1 480 505 8800
+fax-no:       +1 480 393 4275
+e-mail:       iana@about.us
 
 nserver:      A.CCTLD.US 156.154.124.70
 nserver:      B.CCTLD.US 156.154.125.70 2001:0502:ad09:0:0:0:0:29
@@ -37,8 +35,6 @@ nserver:      C.CCTLD.US 156.154.127.70
 nserver:      E.CCTLD.US 156.154.126.70
 nserver:      F.CCTLD.US 2001:500:3682:0:0:0:0:11 209.173.58.70
 nserver:      K.CCTLD.US 156.154.128.70 2001:503:e239:0:0:0:3:1
-ds-rdata:     39361 8 1 09E0AF18E54225F87A3B10E95C9DA3F1E58E5B59
-ds-rdata:     39361 8 2 415D8DAE2299D2C2DAB7458ED4C715268CD2EB3AE3C1C249FF1696BF62112201
 ds-rdata:     21364 8 1 260D0461242BCF8F05473A08B05ED01E6FA59B9C
 ds-rdata:     21364 8 2 B499CFA7B54D25FDE1E6FE93076FB013DAA664DA1F26585324740A1E6EBDAB26
 
@@ -48,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.us
 
 created:      1985-02-15
-changed:      2020-05-05
+changed:      2021-01-21
 source:       IANA
 
