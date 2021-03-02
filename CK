@@ -16,7 +16,7 @@ address:      Parekura
 address:      Avarua Rarotonga
 address:      Cook Islands
 phone:        +682 29680
-e-mail:       apareanga@blueskypacificgroup.com
+e-mail:       apareanga@vodafone.co.ck
 
 contact:      technical
 name:         Robert McFadzien
@@ -25,7 +25,7 @@ address:      Parekura
 address:      Avarua Rarotonga
 address:      Cook Islands
 phone:        +682 29680
-e-mail:       rmcfadzien@blueskypacificgroup.com
+e-mail:       rmcfadzien@vodafone.co.ck
 
 nserver:      CIRCA.MCS.VUW.AC.NZ 130.195.5.12
 nserver:      DOWNSTAGE.MCS.VUW.AC.NZ 130.195.6.10
@@ -33,9 +33,9 @@ nserver:      PARAU.OYSTER.NET.CK 202.65.32.128
 nserver:      POIPARAU.OYSTER.NET.CK 202.65.32.127
 
 status:       ACTIVE
-remarks:      Registration information: http://www.bluesky.co.ck
+remarks:      Registration information: http://www.vodafone.co.ck
 
 created:      1995-08-08
-changed:      2019-08-16
+changed:      2020-06-17
 source:       IANA
 
