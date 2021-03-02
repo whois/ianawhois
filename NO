@@ -12,7 +12,7 @@ address:      Norway
 contact:      administrative
 name:         Hilde Thunem
 organisation: Norid A/S
-address:      Postboks 4769 Sluppen
+address:      Postboks 4769 Torgarden
 address:      Trondheim  NO-7465
 address:      Norway
 phone:        +47 73 55 73 55
@@ -21,7 +21,7 @@ e-mail:       hilde.thunem@norid.no
 contact:      technical
 name:         Jarle Greipsland
 organisation: Norid A/S
-address:      Postboks 4769 Sluppen
+address:      Postboks 4769 Torgarden
 address:      Trondheim  NO-7465
 address:      Norway
 phone:        +47 73 55 73 55
@@ -41,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.norid.no
 
 created:      1987-03-17
-changed:      2020-03-24
+changed:      2020-07-06
 source:       IANA
 
