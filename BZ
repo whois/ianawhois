@@ -38,13 +38,12 @@ nserver:      B0.CCTLD.AFILIAS-NST.ORG 199.254.60.1 2001:500:26:0:0:0:0:1
 nserver:      B2.CCTLD.AFILIAS-NST.ORG 199.249.124.1 2001:500:4c:0:0:0:0:1
 nserver:      C0.CCTLD.AFILIAS-NST.INFO 199.254.61.1 2001:500:27:0:0:0:0:1
 nserver:      D0.CCTLD.AFILIAS-NST.ORG 199.254.62.1 2001:500:28:0:0:0:0:1
-ds-rdata:     16455 7 1 409aa5cd776352aeab7a46b64ee7ba8061cb9374
-ds-rdata:     16455 7 2 457c64669c357af4aabdeb16a6a119b22d3fcb339bbf3c1701aa84cbc3e105f3
+ds-rdata:     22882 8 2 088ad52a5e8e9adf54345cb21753a54f71bfb8e2674f08b02b64ab53f45eab9f
 
 status:       ACTIVE
 remarks:      Registration information: http://www.belizenic.bz
 
 created:      1991-09-03
-changed:      2010-10-18
+changed:      2020-11-23
 source:       IANA
 
