@@ -41,6 +41,7 @@ nserver:      B0.NIC.ALIBABA 2a01:8840:83:0:0:0:0:9 65.22.133.9
 nserver:      C0.NIC.ALIBABA 2a01:8840:84:0:0:0:0:9 65.22.134.9
 ds-rdata:     61834 7 1 6fb706bb2edcee2193416aab5cdb70e3f24ae179
 ds-rdata:     61834 7 2 1979936491c3000d1613b6ced37c7ee8085bad291cefbc61a97246e51908f1e0
+ds-rdata:     44191 7 2 9b7c7352026ea095c526aff4b8fad0bce6b6c0b08c46a9f921e1852c03d28cf9
 
 whois:        whois.nic.alibaba
 
@@ -48,6 +49,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.alibabagroup.com
 
 created:      2016-01-08
-changed:      2019-08-26
+changed:      2021-02-05
 source:       IANA
 
