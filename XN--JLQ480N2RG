@@ -1,0 +1,52 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       亚马逊
+domain-ace:   XN--JLQ480N2RG
+
+organisation: Amazon Registry Services, Inc.
+address:      410 Terry Avenue North, Seattle, WA 98109
+address:      United States
+
+contact:      administrative
+name:         General Manager
+organisation: Amazon Registry Services, Inc
+address:      410 Terry Avenue North, Seattle, WA 98109
+address:      United States
+phone:        +1-206-740-8515
+fax-no:       +1-206-946-7702
+e-mail:       dotamazon-cn-rzm@amazon.com
+
+contact:      technical
+name:         TLD Registry Services Technical
+organisation: Nominet
+address:      Minerva House,
+address:      Edmund Halley Road,
+address:      Oxford Science Park,
+address:      Oxford
+address:      OX4 4DQ
+address:      United Kingdom
+phone:        +44.1865332211
+e-mail:       registrytechnical@nominet.uk
+
+nserver:      DNS1.NIC.XN--JLQ480N2RG 213.248.218.91 2a01:618:402:0:0:0:0:91
+nserver:      DNS2.NIC.XN--JLQ480N2RG 103.49.82.91 2401:fd80:402:0:0:0:0:91
+nserver:      DNS3.NIC.XN--JLQ480N2RG 213.248.222.91 2a01:618:406:0:0:0:0:91
+nserver:      DNS4.NIC.XN--JLQ480N2RG 2401:fd80:406:0:0:0:0:91 43.230.50.91
+nserver:      DNSA.NIC.XN--JLQ480N2RG 156.154.100.3 2001:502:ad09:0:0:0:0:3
+nserver:      DNSB.NIC.XN--JLQ480N2RG 156.154.101.3
+nserver:      DNSC.NIC.XN--JLQ480N2RG 156.154.102.3
+nserver:      DNSD.NIC.XN--JLQ480N2RG 156.154.103.3
+ds-rdata:     31571 8 2 3CCFC69C090A34CA30DB066549363F433AF1B5066FA8BD957F9116D5404D12C1
+
+whois:        whois.nic.xn--jlq480n2rg
+
+status:       ACTIVE
+remarks:      Registration information:
+remarks:      https://www.amazonregistry.com/
+
+created:      2020-05-28
+changed:      2020-06-03
+source:       IANA
+
