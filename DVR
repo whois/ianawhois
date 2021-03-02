@@ -34,8 +34,7 @@ nserver:      A0.NIC.DVR 2a01:8840:6a:0:0:0:0:17 65.22.108.17
 nserver:      A2.NIC.DVR 2a01:8840:6d:0:0:0:0:17 65.22.111.17
 nserver:      B0.NIC.DVR 2a01:8840:6b:0:0:0:0:17 65.22.109.17
 nserver:      C0.NIC.DVR 2a01:8840:6c:0:0:0:0:17 65.22.110.17
-ds-rdata:     16495 7 1 b4a9cba07a2d53143a6d6d96a750427ee0f0f333
-ds-rdata:     16495 7 2 4ff81958bd69007c911aea73330ddf07aa2f8c1a1ef462d222ecfda3fc0ecae5
+ds-rdata:     28879 8 2 fe84d723dc95eeee237ed7452871da942fc883f0154cdead6bcfa3a36ef52dc9
 
 whois:        whois.nic.dvr
 
@@ -43,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.echostar.com
 
 created:      2016-09-22
-changed:      2017-07-20
+changed:      2020-10-30
 source:       IANA
 
