@@ -38,8 +38,7 @@ nserver:      A0.NIC.KIM 2a01:8840:1e:0:0:0:0:1 65.22.28.1
 nserver:      A2.NIC.KIM 2a01:8840:21:0:0:0:0:1 65.22.31.1
 nserver:      B0.NIC.KIM 2a01:8840:1f:0:0:0:0:1 65.22.29.1
 nserver:      C0.NIC.KIM 2a01:8840:20:0:0:0:0:1 65.22.30.1
-ds-rdata:     24474 7 1 2dd484eef79401cbfca231e6cbf4f1bb165cce14
-ds-rdata:     24474 7 2 2384a0380782da192d1c1f6da55a106551ef4c5233cd479536101921d35411e5
+ds-rdata:     12277 8 2 ba18a744991a561ab09a464ff96864573db04fd61a29e9d37f7551989e7e5535
 
 whois:        whois.afilias.net
 
@@ -47,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://afilias.info
 
 created:      2013-12-19
-changed:      2020-05-01
+changed:      2020-09-30
 source:       IANA
 
