@@ -20,14 +20,14 @@ fax-no:       +39 011 6502429
 e-mail:       andrea.delmonte@praxi.com
 
 contact:      technical
-name:         Director
-organisation: Neustar, Inc.
-address:      21575 Ridgetop Circle
-address:      Sterling, VA 20166
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      14455 North Hayden Rd.
+address:      Scottsdale, AZ 85260
 address:      United States
-phone:        +1 844-677-2878
-fax-no:       +1 571-434-5401
-e-mail:       technical1@registry.neustar
+phone:        +1 480-505-8800
+fax-no:       +1 480-393-4275
+e-mail:       iana@registry.godaddy
 
 nserver:      NS1.DNS.NIC.PRAXI 156.154.144.139 2610:a1:1071:0:0:0:0:8b
 nserver:      NS2.DNS.NIC.PRAXI 156.154.145.139 2610:a1:1072:0:0:0:0:8b
@@ -35,10 +35,6 @@ nserver:      NS3.DNS.NIC.PRAXI 156.154.159.139 2610:a1:1073:0:0:0:0:8b
 nserver:      NS4.DNS.NIC.PRAXI 156.154.156.139 2610:a1:1074:0:0:0:0:8b
 nserver:      NS5.DNS.NIC.PRAXI 156.154.157.139 2610:a1:1075:0:0:0:0:8b
 nserver:      NS6.DNS.NIC.PRAXI 156.154.158.139 2610:a1:1076:0:0:0:0:8b
-ds-rdata:     60529 8 1 EA70917A11FCB7E0C3ADBA19E0375376C816392C
-ds-rdata:     60529 8 2 329D21C63D4BF10E6AD4DF37A4A33FA1876F94C9FC0B78990E34182F99323043
-ds-rdata:     2074 8 1 2D320D500BA7BB23E4030AFAA89C6E61EC470E7D
-ds-rdata:     2074 8 2 E6149995F355F5004E4F784393C30A3CA4E08E8BD0594A303C3741B59A77C55F
 ds-rdata:     38416 8 1 4911515FF8BA0E522F6A377DD3C25131870DD00D
 ds-rdata:     38416 8 2 D295EBC44EB7D54ED9E95C059938C9A53363FAB1AAD77BF85246B28A32F168FD
 
@@ -46,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.praxi.com
 
 created:      2014-03-27
-changed:      2020-05-01
+changed:      2020-10-12
 source:       IANA
 
