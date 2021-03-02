@@ -22,23 +22,19 @@ fax-no:       +1.425.671.0020
 e-mail:       serina@donuts.email
 
 contact:      technical
-name:         Director
-organisation: Neustar, Inc.
-address:      21575 Ridgetop Circle
-address:      Sterling, VA 20166
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      14455 North Hayden Rd.
+address:      Scottsdale, AZ 85260
 address:      United States
-phone:        +1 844-677-2878
-fax-no:       +1 571-434-5401
-e-mail:       technical1@registry.neustar
+phone:        +1 480-505-8800
+fax-no:       +1 480-393-4275
+e-mail:       iana@registry.godaddy
 
-nserver:      A.GTLD.TRAVEL 156.154.100.1 2001:502:ad09:0:0:0:0:1
-nserver:      B.GTLD.TRAVEL 156.154.101.1 2610:a1:1009:0:0:0:0:1
-nserver:      C.GTLD.TRAVEL 156.154.102.1 2610:a1:1010:0:0:0:0:1
-nserver:      D.GTLD.TRAVEL 156.154.103.1 2001:502:2eda:0:0:0:0:1
-nserver:      E.GTLD.TRAVEL 156.154.104.1 2610:a1:1011:0:0:0:0:1
-nserver:      F.GTLD.TRAVEL 156.154.105.1 2610:a1:1012:0:0:0:0:1
-ds-rdata:     23764 8 2 25F405D3DA254E8A682D4EFAD1D8E31273A4883EAE7CE2F1D22BCA9B580CDF5A
-ds-rdata:     23764 8 1 E09105D6E22596AE547C52D8720DE6254742D9EE
+nserver:      DEMAND.ALPHA.ARIDNS.NET.AU 2001:dcd:1:0:0:0:0:7 37.209.192.7
+nserver:      DEMAND.BETA.ARIDNS.NET.AU 2001:dcd:2:0:0:0:0:7 37.209.194.7
+nserver:      DEMAND.DELTA.ARIDNS.NET.AU 2001:dcd:4:0:0:0:0:7 37.209.198.7
+nserver:      DEMAND.GAMMA.ARIDNS.NET.AU 2001:dcd:3:0:0:0:0:7 37.209.196.7
 ds-rdata:     31990 8 2 BC0515A824EA46DA5447380066C64BE8A132BE4EF8D689327E4FA29A8F8763FB
 ds-rdata:     31990 8 1 8FA0B7EABE1DDCBD66B983FCBB4FD70EE8022CD1
 
@@ -48,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.travel.travel/
 
 created:      2005-07-27
-changed:      2020-04-30
+changed:      2021-01-28
 source:       IANA
 
