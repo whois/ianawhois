@@ -16,7 +16,7 @@ address:      2800 Olympic Blvd., #1
 address:      Santa Monica, CA 90404
 address:      United States
 phone:        +1 7027576555
-e-mail:       grant@team.xyz
+e-mail:       gc@xyz.xyz
 
 contact:      technical
 name:         CTO
@@ -39,9 +39,9 @@ ds-rdata:     50476 7 1 AD942D7FAEF7C429FEE5497A67162643E96E1841
 whois:        whois.nic.storage
 
 status:       ACTIVE
-remarks:      Registration information: https://get.storage/
+remarks:      Registration information: https://nic.storage/
 
 created:      2015-12-10
-changed:      2019-10-22
+changed:      2020-10-20
 source:       IANA
 
