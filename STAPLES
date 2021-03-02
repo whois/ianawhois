@@ -18,14 +18,14 @@ fax-no:       1.508.253.7805
 e-mail:       ipmailbox@staples.com
 
 contact:      technical
-name:         Director
-organisation: Neustar, Inc.
-address:      21575 Ridgetop Circle
-address:      Sterling, VA 20166
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      14455 North Hayden Rd.
+address:      Scottsdale, AZ 85260
 address:      United States
-phone:        +1 844-677-2878
-fax-no:       +1 571-434-5401
-e-mail:       technical1@registry.neustar
+phone:        +1 480-505-8800
+fax-no:       +1 480-393-4275
+e-mail:       iana@registry.godaddy
 
 nserver:      NS1.DNS.NIC.STAPLES 156.154.169.79 2610:a1:1071:0:0:0:1:4f
 nserver:      NS2.DNS.NIC.STAPLES 156.154.170.79 2610:a1:1072:0:0:0:1:4f
@@ -33,8 +33,6 @@ nserver:      NS3.DNS.NIC.STAPLES 156.154.171.79 2610:a1:1073:0:0:0:1:4f
 nserver:      NS4.DNS.NIC.STAPLES 156.154.172.79 2610:a1:1074:0:0:0:1:4f
 nserver:      NS5.DNS.NIC.STAPLES 156.154.173.79 2610:a1:1075:0:0:0:1:4f
 nserver:      NS6.DNS.NIC.STAPLES 156.154.174.79 2610:a1:1076:0:0:0:1:4f
-ds-rdata:     33031 8 1 7EA91EC7C91E6CA9EEADFA247FA46FBCCCC53BF8
-ds-rdata:     33031 8 2 0C7E4F9A63A259B715FE77B34C8D0791FBE1386490736D3023D79AB8675A8251
 ds-rdata:     32635 8 2 EDD60B213526D56A9B4A9E4345FAB8BB66D6D940A4948DC7E453D96194F1DB2F
 ds-rdata:     32635 8 1 40AE987B92AADAEBF22B224DDD7E790427F74EE4
 
@@ -42,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.staples.com/
 
 created:      2016-06-09
-changed:      2020-04-30
+changed:      2020-10-12
 source:       IANA
 
