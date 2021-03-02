@@ -5,17 +5,19 @@
 domain:       MOBI
 
 organisation: Afilias Technologies Limited dba dotMobi
-address:      2 La Touche House
-address:      IFSC
-address:      Dublin  1
+address:      Level 2, Plaza 3
+address:      Custom House Plaza
+address:      Harbourmaster Place
+address:      Dublin D01 VY76
 address:      Ireland
 
 contact:      administrative
 name:         Senior Vice President
 organisation: Afilias Technologies Limited dba dotMobi
-address:      2 La Touche House
-address:      IFSC
-address:      Dublin  1
+address:      Level 2, Plaza 3
+address:      Custom House Plaza
+address:      Harbourmaster Place
+address:      Dublin D01 VY76
 address:      Ireland
 phone:        +353 (0) 1 85 41 100
 e-mail:       tld-admin-poc@afilias.info
@@ -36,8 +38,7 @@ nserver:      B0.MOBI.AFILIAS-NST.ORG 199.254.56.1 2001:500:22:0:0:0:0:1
 nserver:      B2.MOBI.AFILIAS-NST.ORG 199.249.126.1 2001:500:4e:0:0:0:0:1
 nserver:      C0.MOBI.AFILIAS-NST.INFO 199.254.57.1 2001:500:23:0:0:0:0:1
 nserver:      D0.MOBI.AFILIAS-NST.ORG 199.254.58.1 2001:500:24:0:0:0:0:1
-ds-rdata:     63018 7 1 cb9305b20dbc90cfd77685b61e805805a148a902
-ds-rdata:     63018 7 2 9e096946728a9b60d71957ae454a75f7aa03a62d44d26aa6bf702154a5307e2a
+ds-rdata:     56191 8 2 016c0d8022bef2cabb827ce75dabd8fd24cd0160ac277a95ecd5e79b1a95592c
 
 whois:        whois.nic.mobi
 
@@ -45,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.mtld.mobi
 
 created:      2005-10-17
-changed:      2019-11-04
+changed:      2020-09-30
 source:       IANA
 
