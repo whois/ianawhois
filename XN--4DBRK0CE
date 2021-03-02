@@ -1,0 +1,50 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       ישראל
+domain-ace:   XN--4DBRK0CE
+
+organisation: The Israel Internet Association (RA)
+address:      6 Bareket St.
+address:      Petach-Tikva, Israel 4951477
+address:      Israel
+
+contact:      administrative
+name:         CEO
+organisation: The Israel Internet Association (RA)
+address:      6 Bareket St.
+address:      Petach-Tikva, Israel 4951477
+address:      Israel
+phone:        +972 3 9700900
+fax-no:       +972 3 9700901
+e-mail:       ceo@isoc.org.il
+
+contact:      technical
+name:         IL Technical Contact
+organisation: The Israel Internet Association (RA)
+address:      6 Bareket St.
+address:      Petach-Tikva, Israel 4951477
+address:      Israel
+phone:        +972 3 9700900
+fax-no:       +972 3 9700901
+e-mail:       tld-tech@isoc.org.il
+
+nserver:      ILNS.ILAN.NET.IL 128.139.35.5
+nserver:      LOOKUP.IUCC.AC.IL 128.139.34.240 2001:bf8:900:6:0:0:808b:22f0
+nserver:      NS1.NS.IL 194.146.106.122 2001:67c:1010:31:0:0:0:53
+nserver:      NS4.NS.IL 2001:500:14:6134:ad:0:0:1 204.61.216.134
+nserver:      NSA.NS.IL 192.115.7.53
+nserver:      NSB.NS.IL 192.115.7.60
+nserver:      NSE.NS.IL 192.115.141.253
+
+whois:        whois.isoc.org.il
+
+status:       ACTIVE
+remarks:      Registration information:
+remarks:      http://en.isoc.org.il/il-cctld/accredited-registrars/domain-name-registrars
+
+created:      2020-06-16
+changed:      2021-02-10
+source:       IANA
+
