@@ -37,8 +37,7 @@ nserver:      A0.NIC.LGBT 2a01:8840:22:0:0:0:0:1 65.22.32.1
 nserver:      A2.NIC.LGBT 2a01:8840:25:0:0:0:0:1 65.22.35.1
 nserver:      B0.NIC.LGBT 2a01:8840:23:0:0:0:0:1 65.22.33.1
 nserver:      C0.NIC.LGBT 2a01:8840:24:0:0:0:0:1 65.22.34.1
-ds-rdata:     58564 7 1 cec20dec329596bf1aba47ba1ca47ebaa1ab543b
-ds-rdata:     58564 7 2 40c36c222c2cda089502f1f320c49dade0237f269a2b8f4ef5906a3df1707ca8
+ds-rdata:     16912 8 2 58fc6791daa780f1b589fb72ce7f1e43f39dcd185df0e57ae60178e81fa174b6
 
 whois:        whois.afilias.net
 
@@ -47,6 +46,6 @@ remarks:      Registration information:
 remarks:      http://www.afilias.info/contact-us
 
 created:      2014-06-26
-changed:      2019-08-19
+changed:      2020-09-30
 source:       IANA
 
