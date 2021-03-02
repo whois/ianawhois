@@ -4,39 +4,38 @@
 
 domain:       MQ
 
-organisation: MEDIASERV
-address:      Tour SECID 6 eme Etage
-address:      Pointe à Pitre 97110
+organisation: CANAL+ TELECOM
+address:      ZAC de Moudong Centre
+address:      Baie-Mahault 97122
 address:      France
 
 contact:      administrative
-name:         System Administrator
-organisation: MEDIASERV
-address:      Tour SECID 6 eme Etage
-address:      Pointe à Pitre 97110
+name:         RP technique Guadeloupe
+organisation: CANAL+ TELECOM
+address:      ZAC de Moudong Centre
+address:      Baie-Mahault 97122
 address:      France
-phone:        +33 590 571131
-e-mail:       exploit-sys@mediaserv.com
+phone:        +590 590 571 090
+e-mail:       cplustelecom.exploit-sys@canal-plus.com
 
 contact:      technical
-name:         System Administrator
-organisation: MEDIASERV
-address:      Tour SECID 6 eme Etage
-address:      Pointe à Pitre 97110
+name:         RP pôle exploitation système
+organisation: CANAL+ TELECOM
+address:      ZAC de Moudong Centre
+address:      Baie-Mahault 97122
 address:      France
-phone:        +33 590 571131
-e-mail:       exploit-sys@mediaserv.com
+phone:        +590 590 571 090
+e-mail:       cplustelecom.exploit-sys@canal-plus.com
 
-nserver:      NS1-FR.MEDIASERV.NET 188.165.38.14
 nserver:      NS1-GP.MEDIASERV.NET 213.188.172.1
 nserver:      NS1-MQ.MEDIASERV.NET 213.16.20.3
 
 whois:        whois.mediaserv.net
 
 status:       ACTIVE
-remarks:      Registration information: http://www.nic.mq/
+remarks:      Registration information: https://www.dom-enic.com
 
 created:      1997-03-28
-changed:      2020-03-23
+changed:      2020-10-28
 source:       IANA
 
