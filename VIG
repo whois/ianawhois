@@ -30,8 +30,7 @@ nserver:      A0.NIC.VIG 2a01:8840:2e:0:0:0:0:25 65.22.48.25
 nserver:      A2.NIC.VIG 2a01:8840:31:0:0:0:0:25 65.22.51.25
 nserver:      B0.NIC.VIG 2a01:8840:2f:0:0:0:0:25 65.22.49.25
 nserver:      C0.NIC.VIG 2a01:8840:30:0:0:0:0:25 65.22.50.25
-ds-rdata:     13359 7 1 49a568b2dd9388ef481e8d528ae79df53a1452b1
-ds-rdata:     13359 7 2 c4d90123d581b1486a53f83ceb20ed7798fe3be8b0bb3f9dee464a368571286e
+ds-rdata:     64474 8 2 4dd8d2a7168f0358e8945f0558e2a643f3e941f6440fd26aa0d91b4e2b54b0e1
 
 whois:        whois.afilias-srs.net
 
@@ -39,6 +38,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.vig.com
 
 created:      2015-11-25
-changed:      2019-08-22
+changed:      2020-12-02
 source:       IANA
 
