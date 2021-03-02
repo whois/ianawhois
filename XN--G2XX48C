@@ -5,27 +5,29 @@
 domain:       购物
 domain-ace:   XN--G2XX48C
 
-organisation: Minds + Machines Group Limited
-address:      Craigmuir Chambers, Road Town, Tortola, VG 1110
-address:      Virgin Islands, British
+organisation: Nawang Heli(Xiamen) Network Service Co., LTD.
+address:      Unit 03-11, 8th floor, building D, Xiamen International Shipping Center, No.97
+address:      Xiangyu Road, Xiamen Area of China (Fujian) Pilot Free Trade Zone
+address:      China
 
 contact:      administrative
 name:         Admin Contact
-organisation: Minds + Machines Group Limited
-address:      32 Nassau St, Dublin 2
-address:      Ireland
-phone:        +1-877-734-4783
-e-mail:       ops@mmx.co
+organisation: Nawang Heli(Xiamen) Network Service Co., LTD.
+address:      Unit 03-11, 8th floor, building D, Xiamen International Shipping Center, No.97
+address:      Xiangyu Road, Xiamen Area of China (Fujian) Pilot Free Trade Zone
+address:      China
+phone:        00860592-3180008
+e-mail:       contact1@nicgouwu.com
 
 contact:      technical
-name:         Director
-organisation: Neustar, Inc.
-address:      21575 Ridgetop Circle
-address:      Sterling, VA 20166
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      14455 North Hayden Rd.
+address:      Scottsdale, AZ 85260
 address:      United States
-phone:        +1 844-677-2878
-fax-no:       +1 571-434-5401
-e-mail:       technical1@registry.neustar
+phone:        +1 480-505-8800
+fax-no:       +1 480-393-4275
+e-mail:       iana@registry.godaddy
 
 nserver:      NS1.DNS.NIC.XN--G2XX48C 156.154.169.68 2610:a1:1071:0:0:0:1:44
 nserver:      NS2.DNS.NIC.XN--G2XX48C 156.154.170.68 2610:a1:1072:0:0:0:1:44
@@ -33,17 +35,13 @@ nserver:      NS3.DNS.NIC.XN--G2XX48C 156.154.171.68 2610:a1:1073:0:0:0:1:44
 nserver:      NS4.DNS.NIC.XN--G2XX48C 156.154.172.68 2610:a1:1074:0:0:0:1:44
 nserver:      NS5.DNS.NIC.XN--G2XX48C 156.154.173.68 2610:a1:1075:0:0:0:1:44
 nserver:      NS6.DNS.NIC.XN--G2XX48C 156.154.174.68 2610:a1:1076:0:0:0:1:44
-ds-rdata:     15431 8 1 E834E2A8B59D4C0C1F7E7D514B10B4467D00BBBF
-ds-rdata:     15431 8 2 9AC660EBB53A80A9738C8DB16BE979BD84D01016818E96527B7662127C66518B
-ds-rdata:     10054 8 1 C5D42D41D1F44593872EDE0E46AE92E2074ABF46
-ds-rdata:     10054 8 2 E24CA980470ACC9A1FCCB7D277B5F0ACEAB556902E9F12E1A40E90FB827B08D3
 ds-rdata:     14602 8 1 0A10B99E18E7C2640632B4C42F2F48C34F30158E
 ds-rdata:     14602 8 2 89C8DD3C91B9E3BBBB7363254B75A36FC0091582BFFFCBBB3DB007A233B4EFAD
 
 status:       ACTIVE
-remarks:      Registration information: http://mm-registry.com
+remarks:      Registration information: http://nicgouwu.com/
 
 created:      2016-01-08
-changed:      2020-04-30
+changed:      2020-11-11
 source:       IANA
 
