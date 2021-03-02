@@ -34,8 +34,7 @@ nserver:      A0.NIC.XN--3OQ18VL8PN36A 2a01:8840:ca:0:0:0:0:1 65.22.208.1
 nserver:      A2.NIC.XN--3OQ18VL8PN36A 2a01:8840:cd:0:0:0:0:1 65.22.211.1
 nserver:      B0.NIC.XN--3OQ18VL8PN36A 2a01:8840:cb:0:0:0:0:1 65.22.209.1
 nserver:      C0.NIC.XN--3OQ18VL8PN36A 2a01:8840:cc:0:0:0:0:1 65.22.210.1
-ds-rdata:     62449 7 1 07fa270d7b8f681da0505a8f1d286889bbe85914
-ds-rdata:     62449 7 2 285188dae1dd0af87a6ebc272ff7690fe94c9256ed4ee9b1adea8a0714dff3a4
+ds-rdata:     59236 8 2 bc29589725f48472d4d1f8b70ccf885cb674f13acdb34faaddf9cd6c01d9ff29
 
 whois:        whois.nic.xn--3oq18vl8pn36a
 
@@ -43,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.xn--3oq18vl8pn36a
 
 created:      2016-07-21
-changed:      2018-06-29
+changed:      2020-11-16
 source:       IANA
 
