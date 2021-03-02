@@ -33,8 +33,7 @@ nserver:      A0.NIC.DOT 2a01:8840:5a:0:0:0:0:1 65.22.92.1
 nserver:      A2.NIC.DOT 2a01:8840:5d:0:0:0:0:1 65.22.95.1
 nserver:      B0.NIC.DOT 2a01:8840:5b:0:0:0:0:1 65.22.93.1
 nserver:      C0.NIC.DOT 2a01:8840:5c:0:0:0:0:1 65.22.94.1
-ds-rdata:     31240 7 1 9bc8f9df2406b71a5129200f9f1e2af8daa134dd
-ds-rdata:     31240 7 2 b6d82a83ff48e896f700cdc24582d02b8d035724750237e40ff4fcc5c37c7e5b
+ds-rdata:     52639 8 2 e2bc058f7515c31dfdd8aded00ba870071ab84e0f32db3003c533c9a6d4f6f84
 
 whois:        whois.nic.dot
 
@@ -42,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.dish.com
 
 created:      2016-04-21
-changed:      2017-07-20
+changed:      2020-11-17
 source:       IANA
 
