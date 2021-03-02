@@ -31,17 +31,15 @@ phone:        (+351) 211308200
 fax-no:       (+351) 211312720
 e-mail:       assis.guerreiro@dns.pt
 
-nserver:      AUTH02.NS.UU.NET 198.6.1.82
 nserver:      C.DNS.PT 2001:500:14:6105:ad:0:0:1 204.61.216.105
 nserver:      CV01.DNS.PT 185.39.208.18 2a04:6d80:0:0:0:0:0:18
 nserver:      NS-EXT.ISC.ORG 2001:4f8:0:2:0:0:0:13 204.152.184.64
 nserver:      NS.DNS.CV 41.221.192.220
-nserver:      SNS-PB.ISC.ORG 192.5.4.1 2001:500:2e:0:0:0:0:1
 
 status:       ACTIVE
 remarks:      Registration information: http://www.dns.cv/
 
 created:      1996-10-21
-changed:      2019-10-23
+changed:      2020-07-28
 source:       IANA
 
