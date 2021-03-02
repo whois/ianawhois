@@ -4,42 +4,44 @@
 
 domain:       SKIN
 
-organisation: L'Oréal
-address:      41, rue Martre Clichy - 92117
-address:      France
+organisation: XYZ.COM LLC
+address:      2121 E Tropicana Ave, STE2
+address:      Las Vegas, NV 89119
+address:      United States
 
 contact:      administrative
-name:         Vice President
-organisation: FairWinds Partners, LLC
-address:      1000 Potomac Street NW, Suite 350
-address:      Washington, DC 20007
+name:         Grant Carpenter
+organisation: XYZ.COM LLC
+address:      2121 E Tropicana Ave, STE2
+address:      Las Vegas, NV 89119
 address:      United States
-phone:        2022239252
-fax-no:       2022239256
-e-mail:       skinregistry@fairwindspartners.com
+phone:        +1 702 757 6555
+e-mail:       gc@xyz.xyz
 
 contact:      technical
-name:         Registry Customer Service
-organisation: Verisign, Inc.
-address:      12061 Bluemont Way
-address:      Reston Virginia 20190
-address:      United States
-phone:        +1-703-925-6999
-fax-no:       +1-703-948-3978
-e-mail:       info@verisign-grs.com
+name:         CTO
+organisation: CentralNic
+address:      Saddlers House, 4th Floor
+address:      44 Gutter Lane
+address:      London EC2V 6BR
+address:      United Kingdom
+phone:        +44 2033880600
+fax-no:       +44 2033880601
+e-mail:       tld.ops@centralnic.com
 
-nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
-nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
-nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
-nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
+nserver:      A.NIC.SKIN 194.169.218.118 2001:67c:13cc:0:0:0:1:118
+nserver:      B.NIC.SKIN 185.24.64.118 2a04:2b00:13cc:0:0:0:1:118
+nserver:      C.NIC.SKIN 212.18.248.118 2a04:2b00:13ee:0:0:0:0:118
+nserver:      D.NIC.SKIN 212.18.249.118 2a04:2b00:13ff:0:0:0:0:118
 ds-rdata:     8175 8 2 5B2D4845730F45F86F38D3FD6271B5E212BDE653A75FE7A3BCA1267E0429D386
+ds-rdata:     24104 8 2 3EAEBED2323950252487A9E9F953157A1BBE8B0B7D82906FCD2816C623778B0A
 
 whois:        whois.nic.skin
 
 status:       ACTIVE
-remarks:      Registration information: http://loreal.com
+remarks:      Registration information: https://nic.skin/
 
 created:      2015-12-23
-changed:      2019-08-16
+changed:      2020-10-09
 source:       IANA
 
