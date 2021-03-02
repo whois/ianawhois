@@ -37,13 +37,12 @@ nserver:      DNS4.NOMINETDNS.UK 2401:fd80:407:0:0:0:0:254 43.230.51.254
 nserver:      FORK.STH.DNSNODE.NET 2a01:3f0:0:306:0:0:0:53 77.72.229.254
 nserver:      NS0.PITCAIRN.NET.PN 173.230.153.180
 nserver:      NS1.PITCAIRN.NET.PN 2001:500:14:6136:ad:0:0:1 204.61.216.136
-nserver:      NS2.PITCAIRN.NET.PN 80.68.93.100
 
 status:       ACTIVE
 remarks:      Registration information:
 remarks:      http://www.government.pn/PnRegistry/PnRegistry.htm
 
 created:      1997-07-10
-changed:      2020-03-25
+changed:      2020-08-18
 source:       IANA
 
