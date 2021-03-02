@@ -33,8 +33,7 @@ nserver:      A0.NIC.LAMBORGHINI 2a01:8840:ca:0:0:0:0:33 65.22.208.33
 nserver:      A2.NIC.LAMBORGHINI 2a01:8840:cd:0:0:0:0:33 65.22.211.33
 nserver:      B0.NIC.LAMBORGHINI 2a01:8840:cb:0:0:0:0:33 65.22.209.33
 nserver:      C0.NIC.LAMBORGHINI 2a01:8840:cc:0:0:0:0:33 65.22.210.33
-ds-rdata:     17188 7 1 a3921ba6f838a497feb62a189b61e030d73ee99d
-ds-rdata:     17188 7 2 d276c0bf02ac2974fd961445187051a85c228c22579d319bf93645f51ffb5e66
+ds-rdata:     61360 8 2 a10d1ea44cb7fb0a404807548f2cabd4def69b874ce31632c870e108c673cb09
 
 whois:        whois.afilias-srs.net
 
@@ -42,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.lamborghini.com
 
 created:      2015-11-12
-changed:      2019-08-21
+changed:      2020-12-16
 source:       IANA
 
