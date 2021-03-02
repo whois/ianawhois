@@ -35,8 +35,7 @@ nserver:      B0.POST.AFILIAS-NST.ORG 2a01:8840:1:0:0:0:0:1 65.22.1.1
 nserver:      B2.POST.AFILIAS-NST.ORG 2a01:8840:5:0:0:0:0:1 65.22.5.1
 nserver:      C0.POST.AFILIAS-NST.INFO 2a01:8840:2:0:0:0:0:1 65.22.2.1
 nserver:      D0.POST.AFILIAS-NST.ORG 2a01:8840:3:0:0:0:0:1 65.22.3.1
-ds-rdata:     32869 7 1 6bdf7f6e05265e97b88e44c56d86e686fdb75ac7
-ds-rdata:     32869 7 2 0333cb4618c912888f923f60e876ba9b160602cced7b3b8bf35c522289c84de7
+ds-rdata:     35725 8 2 5b8265dc3f1952980ab5369253c4a4ed9d674d91b8c39360b22a7deaef168fe0
 
 whois:        whois.dotpostregistry.net
 
@@ -44,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.upu.int
 
 created:      2012-08-07
-changed:      2019-08-21
+changed:      2020-12-09
 source:       IANA
 
