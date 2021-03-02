@@ -5,15 +5,15 @@
 domain:       SM
 
 organisation: Telecom Italia San Marino S.p.A.
-address:      Strada degli Angariari, 3
-address:      Rovereta Falciano 47891
+address:      Via Ventotto Luglio, 212
+address:      47893 Borgo Maggiore
 address:      San Marino
 
 contact:      administrative
 name:         TISM Hostmaster
 organisation: Telecom Italia San Marino S.p.A.
-address:      Strada degli Angariari, 3
-address:      Rovereta Falciano 47891
+address:      Via Ventotto Luglio, 212
+address:      47893 Borgo Maggiore
 address:      San Marino
 phone:        +378 0549 886111
 fax-no:       +378 0549 886188
@@ -22,8 +22,8 @@ e-mail:       hostmaster@telecomitalia.sm
 contact:      technical
 name:         TISM Hostmaster
 organisation: Telecom Italia San Marino S.p.A.
-address:      Strada degli Angariari, 3
-address:      Rovereta Falciano 47891
+address:      Via Ventotto Luglio, 212
+address:      47893 Borgo Maggiore
 address:      San Marino
 phone:        +378 0549 886111
 fax-no:       +378 0549 886188
@@ -37,9 +37,9 @@ nserver:      SM.CCTLD.AUTHDNS.RIPE.NET 193.0.9.110 2001:67c:e0:0:0:0:0:110
 whois:        whois.nic.sm
 
 status:       ACTIVE
-remarks:      Registration information: http://www.nic.sm
+remarks:      Registration information: https://www.nic.sm
 
 created:      1995-08-16
-changed:      2011-10-18
+changed:      2020-11-12
 source:       IANA
 
