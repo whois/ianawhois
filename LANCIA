@@ -33,8 +33,7 @@ nserver:      A0.NIC.LANCIA 2a01:8840:7a:0:0:0:0:9 65.22.124.9
 nserver:      A2.NIC.LANCIA 2a01:8840:7d:0:0:0:0:9 65.22.127.9
 nserver:      B0.NIC.LANCIA 2a01:8840:7b:0:0:0:0:9 65.22.125.9
 nserver:      C0.NIC.LANCIA 2a01:8840:7c:0:0:0:0:9 65.22.126.9
-ds-rdata:     19923 7 1 b5d8ad2d04fa910982af961d28d7b967a8c6220f
-ds-rdata:     19923 7 2 9bc26e45cdbf80bbe2119249681341fff1f7b21ff6636ddf9c599ecb92369f94
+ds-rdata:     29554 8 2 be7697ab47ace6c5d414f7a2d14ce1a0c4e4e2ac392fb9a31a6be506a3476a67
 
 whois:        whois.afilias-srs.net
 
@@ -42,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.lancia.com
 
 created:      2016-07-14
-changed:      2016-08-04
+changed:      2020-10-30
 source:       IANA
 
