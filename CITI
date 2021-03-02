@@ -19,14 +19,14 @@ fax-no:       +1 (703) 635-7514
 e-mail:       primary_citi@valideus.com
 
 contact:      technical
-name:         Director
-organisation: Neustar, Inc.
-address:      21575 Ridgetop Circle
-address:      Sterling, VA 20166
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      14455 North Hayden Rd.
+address:      Scottsdale, AZ 85260
 address:      United States
-phone:        +1 844-677-2878
-fax-no:       +1 571-434-5401
-e-mail:       technical1@registry.neustar
+phone:        +1 480-505-8800
+fax-no:       +1 480-393-4275
+e-mail:       iana@registry.godaddy
 
 nserver:      NS1.DNS.NIC.CITI 156.154.144.213 2610:a1:1071:0:0:0:0:d5
 nserver:      NS2.DNS.NIC.CITI 156.154.145.213 2610:a1:1072:0:0:0:0:d5
@@ -34,10 +34,6 @@ nserver:      NS3.DNS.NIC.CITI 156.154.159.213 2610:a1:1073:0:0:0:0:d5
 nserver:      NS4.DNS.NIC.CITI 156.154.156.213 2610:a1:1074:0:0:0:0:d5
 nserver:      NS5.DNS.NIC.CITI 156.154.157.213 2610:a1:1075:0:0:0:0:d5
 nserver:      NS6.DNS.NIC.CITI 156.154.158.213 2610:a1:1076:0:0:0:0:d5
-ds-rdata:     33314 8 1 80058EDB47B966631C76A8A0EF6B6C470E3DCFAB
-ds-rdata:     33314 8 2 D81113524F34AEBA9AF6BDD6359781DA660C8468973CA7A73D6D523BC5B260AB
-ds-rdata:     58084 8 2 B4958F4EF5B186D364ABF85C05C1D18A826360FAA3465AD17CDFB8A57E973AEF
-ds-rdata:     58084 8 1 4C414EA08BEB4E0C890D3CE22EF241A44A4DC828
 ds-rdata:     10750 8 2 A83CCC78AB57A8C49AE7F127FFCE8B5BE63B98EB3A018C86371B64FF14254422
 ds-rdata:     10750 8 1 09ACF0EE66D744C923373FEC19D1B512FE0815CF
 
@@ -45,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.citigroup.com
 
 created:      2016-07-21
-changed:      2020-04-30
+changed:      2020-10-12
 source:       IANA
 
