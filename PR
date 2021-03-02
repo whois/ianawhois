@@ -33,7 +33,7 @@ nserver:      B2.PR.AFILIAS-NST.ORG 199.249.124.17 2001:500:4c:0:0:0:0:17
 nserver:      C0.PR.AFILIAS-NST.INFO 199.254.61.17 2001:500:27:0:0:0:0:17
 nserver:      D0.PR.AFILIAS-NST.ORG 199.254.62.17 2001:500:28:0:0:0:0:17
 nserver:      PR-DNS.DENIC.DE 194.0.11.111 2001:678:e:111:0:0:0:53
-ds-rdata:     21436 5 1 749b940f0d9471ff349536d22aaf36d26bbca219
+ds-rdata:     5134 8 2 2e7f12833596203dbef32dbcebc2cfd2f6d3aa4432a9bb39927394c6cf1a844a
 
 whois:        whois.afilias-srs.net
 
@@ -41,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.pr
 
 created:      1989-08-27
-changed:      2019-07-09
+changed:      2020-11-23
 source:       IANA
 
