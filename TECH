@@ -4,17 +4,21 @@
 
 domain:       TECH
 
-organisation: Dot Tech LLC
-address:      F/19, BC1, Ras Al Khaimah FTZ
-address:      P.O Box # 16113, Ras Al Khaimah - 16113
-address:      United Arab Emirates
+organisation: Personals TLD Inc.
+address:      Directiplex
+address:      Next to Andheri Subway
+address:      Old Nagardas Road, Andheri (East)
+address:      Mumbai - 400069
+address:      India
 
 contact:      administrative
 name:         Manager
-organisation: DotTech, Inc
-address:      F/19, BC1, Ras Al Khaimah FTZ
-address:      P.O Box # 16113, Ras Al Khaimah - 16113
-address:      United Arab Emirates
+organisation: Personals TLD Inc.
+address:      Directiplex
+address:      Next to Andheri Subway
+address:      Old Nagardas Road, Andheri (East)
+address:      Mumbai - 400069
+address:      India
 phone:        +1.4154494774
 fax-no:       +91.2230797508
 e-mail:       admin@radixregistry.com
@@ -32,8 +36,8 @@ e-mail:       tld.ops@centralnic.com
 
 nserver:      A.NIC.TECH 194.169.218.60 2001:67c:13cc:0:0:0:1:60
 nserver:      B.NIC.TECH 185.24.64.60 2a04:2b00:13cc:0:0:0:1:60
-nserver:      C.NIC.TECH 185.38.99.6 2a02:e180:3:0:0:0:0:6
-nserver:      D.NIC.TECH 108.59.161.6 2a02:e180:4:0:0:0:0:6
+nserver:      E.NIC.TECH 212.18.248.60 2a04:2b00:13ee:0:0:0:0:60
+nserver:      F.NIC.TECH 212.18.249.60 2a04:2b00:13ff:0:0:0:0:60
 ds-rdata:     50095 8 1 82F72F2462DEE25B99DA2470535AD0A7D131F1EB
 ds-rdata:     50095 8 2 83F40D01141484D8F07305E5D2E44AC5663149054C598D6E9D993C661686C6EE
 
@@ -43,6 +47,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.radixregistry.com
 
 created:      2015-03-12
-changed:      2020-04-15
+changed:      2021-02-01
 source:       IANA
 
