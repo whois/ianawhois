@@ -26,16 +26,14 @@ phone:        +32 16 284970
 fax-no:       +32 16 284971
 e-mail:       iana-tech@dnsbelgium.be
 
-nserver:      A.NIC.VLAANDEREN 194.0.6.1 2001:678:9:0:0:0:0:1
-nserver:      B.NIC.VLAANDEREN 194.0.37.1 2001:678:64:0:0:0:0:1
-nserver:      C.NS.DNS.BE 194.0.43.1 2001:678:68:0:0:0:0:1
-nserver:      D.NS.DNS.BE 194.0.44.1 2001:678:6c:0:0:0:0:1
-nserver:      Y.NS.DNS.BE 120.29.253.8 2001:dcd:7:0:0:0:0:8
+nserver:      A.NSSET.VLAANDEREN 194.0.6.1 2001:678:9:0:0:0:0:1
+nserver:      B.NSSET.VLAANDEREN 194.0.37.1 2001:678:64:0:0:0:0:1
+nserver:      C.NSSET.VLAANDEREN 194.0.43.1 2001:678:68:0:0:0:0:1
+nserver:      D.NSSET.VLAANDEREN 194.0.44.1 2001:678:6c:0:0:0:0:1
+nserver:      Y.NSSET.VLAANDEREN 120.29.253.8 2001:dcd:7:0:0:0:0:8
 nserver:      Z.NSSET.VLAANDEREN 194.0.25.19 2001:678:20:0:0:0:0:19
-ds-rdata:     9286 8 1 D8689711ACE25FB8C7DFBD54443BF90411A75C57
 ds-rdata:     9286 8 2 F04E1190A18D3E63B8FD5261768EF06F8FA5F27F80F39C54AA81753B203E05E7
 ds-rdata:     54397 8 2 2D655A3F1A0C26AD210018757FFBB754B2C4B167673283DDC1496C614AE7A9F5
-ds-rdata:     54397 8 1 00689FA2394B6E5D080887DF8C162368B362D855
 
 whois:        whois.nic.vlaanderen
 
@@ -43,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.vlaanderen
 
 created:      2014-06-05
-changed:      2020-05-08
+changed:      2021-02-16
 source:       IANA
 
