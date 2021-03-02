@@ -20,14 +20,14 @@ fax-no:       +1 215-689-4308
 e-mail:       operations@nic.bible
 
 contact:      technical
-name:         Director
-organisation: Neustar, Inc.
-address:      21575 Ridgetop Circle
-address:      Sterling, VA 20166
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      14455 North Hayden Rd.
+address:      Scottsdale, AZ 85260
 address:      United States
-phone:        +1 844-677-2878
-fax-no:       +1 571-434-5401
-e-mail:       technical1@registry.neustar
+phone:        +1 480-505-8800
+fax-no:       +1 480-393-4275
+e-mail:       iana@registry.godaddy
 
 nserver:      NS1.DNS.NIC.BIBLE 156.154.169.100 2610:a1:1071:0:0:0:1:64
 nserver:      NS2.DNS.NIC.BIBLE 156.154.170.100 2610:a1:1072:0:0:0:1:64
@@ -35,10 +35,6 @@ nserver:      NS3.DNS.NIC.BIBLE 156.154.171.100 2610:a1:1073:0:0:0:1:64
 nserver:      NS4.DNS.NIC.BIBLE 156.154.172.100 2610:a1:1074:0:0:0:1:64
 nserver:      NS5.DNS.NIC.BIBLE 156.154.173.100 2610:a1:1075:0:0:0:1:64
 nserver:      NS6.DNS.NIC.BIBLE 156.154.174.100 2610:a1:1076:0:0:0:1:64
-ds-rdata:     24694 8 1 20AACA7AC17268816A98CBC14B4E62B664F3D62A
-ds-rdata:     24694 8 2 9E1C7BB8888954DED329CAE7F87FAD3F251A990B6DDE56149391EECD78159AA4
-ds-rdata:     33265 8 2 9279FC7830A22C459D134DAC81701D486749BDC302CC5080C1B5A0ADB2363BA1
-ds-rdata:     33265 8 1 25178E9A03ED171467358ADF0998BFEAE54923F6
 ds-rdata:     31699 8 2 E3BFC3F878D1F0800B3E7FF95CCEFA6C395C01EA1DFBEFB692A8F319B822653E
 ds-rdata:     31699 8 1 C9DDD5B7054C02E6870AE9F2B239EBC82F20D4AC
 
@@ -48,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://get.bible
 
 created:      2015-05-14
-changed:      2020-04-30
+changed:      2020-10-12
 source:       IANA
 
