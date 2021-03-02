@@ -5,17 +5,17 @@
 domain:       AQ
 
 organisation: Antarctica Network Information Centre Limited
-address:      10 Paine Brown Way
-address:      RD 1
-address:      Russell 0272
+address:      16/197 Hereford Street
+address:      Christchurch Central
+address:      Christchurch 8011
 address:      New Zealand
 
 contact:      administrative
 name:         Peter Mott
 organisation: Antarctica Network Information Centre Limited
-address:      10 Paine Brown Way
-address:      RD 1
-address:      Russell 0272
+address:      16/197 Hereford Street
+address:      Christchurch Central
+address:      Christchurch 8011
 address:      New Zealand
 phone:        +64 21 279 4995
 e-mail:       info@icenic.aq
@@ -37,6 +37,6 @@ nserver:      NS99.DNS.NET.NZ 2001:dce:2000:2:0:0:0:131 202.46.190.131
 status:       ACTIVE
 
 created:      1992-02-26
-changed:      2020-04-29
+changed:      2021-02-16
 source:       IANA
 
