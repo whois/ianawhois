@@ -19,14 +19,14 @@ phone:        +31 20 656 6700
 e-mail:       domainadmin@kpmg.com
 
 contact:      technical
-name:         Director
-organisation: Neustar, Inc.
-address:      21575 Ridgetop Circle
-address:      Sterling, VA 20166
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      14455 North Hayden Rd.
+address:      Scottsdale, AZ 85260
 address:      United States
-phone:        +1 844-677-2878
-fax-no:       +1 571-434-5401
-e-mail:       technical1@registry.neustar
+phone:        +1 480-505-8800
+fax-no:       +1 480-393-4275
+e-mail:       iana@registry.godaddy
 
 nserver:      NS1.DNS.NIC.KPMG 156.154.144.98 2610:a1:1071:0:0:0:0:62
 nserver:      NS2.DNS.NIC.KPMG 156.154.145.98 2610:a1:1072:0:0:0:0:62
@@ -34,10 +34,6 @@ nserver:      NS3.DNS.NIC.KPMG 156.154.159.98 2610:a1:1073:0:0:0:0:62
 nserver:      NS4.DNS.NIC.KPMG 156.154.156.98 2610:a1:1074:0:0:0:0:62
 nserver:      NS5.DNS.NIC.KPMG 156.154.157.98 2610:a1:1075:0:0:0:0:62
 nserver:      NS6.DNS.NIC.KPMG 156.154.158.98 2610:a1:1076:0:0:0:0:62
-ds-rdata:     61049 8 1 97FA18CC418C2465D60785EF2D615660D1EE7C7B
-ds-rdata:     61049 8 2 A104C5E2EEE1929A096AAF89C346956B8B91A8677E444E24BB6DC2A7FD58070A
-ds-rdata:     14764 8 1 61FCCC4F4AF320DA1A12010B19A92B99CDB1A265
-ds-rdata:     14764 8 2 0A87EE3CC5898985B2582CD6B697D6BCB2E10D89A683D0DF1FF1A1D3576D96B8
 ds-rdata:     49339 8 2 AE29DD8A4FE769F9C9D8B76861AFFBBB33DF50C3C12B65429B17A2393908334F
 ds-rdata:     49339 8 1 7EA7C5EEF28BF0593D031531CBF453956CF38AD1
 
@@ -45,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: https://home.kpmg.com
 
 created:      2016-01-14
-changed:      2020-04-30
+changed:      2020-11-13
 source:       IANA
 
