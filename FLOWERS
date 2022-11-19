@@ -4,51 +4,48 @@
 
 domain:       FLOWERS
 
-organisation: UNR Corp.
-address:      Third Floor, Monaco Towers, Georgetown
-address:      Grand Cayman, Cayman Islands
-address:      30369SMB-KY11202
-address:      Cayman Islands
+organisation: XYZ.COM LLC
+address:      2121 E Tropicana Ave, Suite 2
+address:      Las Vegas, NV 89119
+address:      United States
 
 contact:      administrative
-name:         Frank Schilling
-organisation: UNR Corp.
-address:      Third Floor, Monaco Towers, Georgetown
-address:      Grand Cayman, Cayman Islands
-address:      30369SMB-KY11202
-address:      Cayman Islands
-phone:        +1 345 746 3687 
-fax-no:       +1 345 746 3687 
-e-mail:       contact@unr.com
+name:         General Counsel
+organisation: XYZ.COM LLC
+address:      2121 E Tropicana Ave, Suite 2
+address:      Las Vegas, NV 89119
+address:      United States
+phone:        +1 702 763 2191
+e-mail:       hello@xyz.com
 
 contact:      technical
-name:         Francisco Obispo
-organisation: UNR Corp.
-address:      Third Floor, Monaco Towers, Georgetown
-address:      Grand Cayman, Cayman Islands
-address:      30369SMB-KY11202
-address:      Cayman Islands
-phone:        +1 345 746 3687 
-fax-no:       +1 345 746 3687 
-e-mail:       ops@unr.com
+name:         CTO
+organisation: CentralNic
+address:      Saddlers House, 4th Floor
+address:      44 Gutter Lane
+address:      London EC2V 6BR
+address:      United Kingdom
+phone:        +44 20 33 88 0600
+fax-no:       +44 20 33 88 0601
+e-mail:       tld.ops@centralnic.com
 
-nserver:      NS1.UNIREGISTRY.NET 2620:57:4000:1:0:0:0:1 64.96.1.1
-nserver:      NS2.UNIREGISTRY.INFO 64.96.2.1
-nserver:      NS3.UNIREGISTRY.NET 185.159.197.3 2620:10a:80aa:0:0:0:0:3
-nserver:      NS4.UNIREGISTRY.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
-ds-rdata:     58987 5 1 8137481080ACC7007ADA62A232F6583006B13CD4
-ds-rdata:     58987 5 2 09B09C4F8A0BC8650035E4C10DF28AF3195CAD5997D3E722A7C620004EA6DD08
+nserver:      A.NIC.FLOWERS 194.169.218.154 2001:67c:13cc:0:0:0:1:154
+nserver:      B.NIC.FLOWERS 185.24.64.154 2a04:2b00:13cc:0:0:0:1:154
+nserver:      C.NIC.FLOWERS 212.18.248.154 2a04:2b00:13ee:0:0:0:0:154
+nserver:      D.NIC.FLOWERS 212.18.249.154 2a04:2b00:13ff:0:0:0:0:154
 ds-rdata:     53083 5 2 9F8BF09B0D588D739D4F88D9E2AB870C3EE1368EC69089EA744353CA27B49C21
 ds-rdata:     53083 5 1 FF6D6BA7638E7D8010867C4334D20EED0D8F0D0D
 ds-rdata:     44614 5 2 E504240FF007EAA0829D9CF47F27FDD2B8C4C03E113C9D163FA0766D6716609D
 ds-rdata:     44614 5 1 16E65148CD02D28C72BE03EC2AD4F0B7B8EA156D
+ds-rdata:     11746 5 2 d3d6c0d4a9e2e40e92da8203b7ee72a80ce3b9220fb51b212c6cb25a1b886d5e
+ds-rdata:     11746 5 1 48bdcf4cddc2a930612a0d41e3dcbdfdefd6b433
 
-whois:        whois.uniregistry.net
+whois:        whois.nic.flowers
 
 status:       ACTIVE
-remarks:      Registration information: http://uniregistry.link
+remarks:      Registration information: https://nic.flowers
 
 created:      2014-12-18
-changed:      2020-11-03
+changed:      2022-08-16
 source:       IANA
 
