@@ -7,38 +7,37 @@ domain-ace:   XN--CZRS0T
 
 organisation: Binky Moon, LLC
 address:      Donuts Inc.
-address:      5808 Lake Washington Blvd NE, Suite 300
-address:      Kirkland, WA 98033
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
 address:      United States
 
 contact:      administrative
-name:         Serina Ness
+name:         Vice President, Engineering
 organisation: Donuts Inc.
-address:      Donuts Inc.
-address:      5808 Lake Washington Blvd NE, Suite 300
-address:      Kirkland, WA 98033
-address:      United States
-phone:        +1.425.283.8248
-fax-no:       +1.425.671.0020
-e-mail:       serina@donuts.email
-
-contact:      technical
-name:         Ben Levac
-organisation: Donuts Inc.
-address:      Donuts Inc.
-address:      5808 Lake Washington Blvd NE, Suite 300
-address:      Kirkland, WA 98033
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
 address:      United States
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       ben@donuts.email
+e-mail:       tldadmin@donuts.email
 
-nserver:      DEMAND.ALPHA.ARIDNS.NET.AU 2001:dcd:1:0:0:0:0:7 37.209.192.7
-nserver:      DEMAND.BETA.ARIDNS.NET.AU 2001:dcd:2:0:0:0:0:7 37.209.194.7
-nserver:      DEMAND.DELTA.ARIDNS.NET.AU 2001:dcd:4:0:0:0:0:7 37.209.198.7
-nserver:      DEMAND.GAMMA.ARIDNS.NET.AU 2001:dcd:3:0:0:0:0:7 37.209.196.7
-ds-rdata:     40171 8 2 A0CF5099A1BCE01FC6F07CEE8E346A0E68B9526339EA7D24CE43D3DCD011A8C7
-ds-rdata:     40171 8 1 6DB3BF315FBD700DCCFEA8CA5B65B6AD4EC36F75
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Donuts Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
+address:      United States
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@donuts.email
+
+nserver:      V0N0.NIC.XN--CZRS0T 2a01:8840:1e:0:0:0:0:64 65.22.28.64
+nserver:      V0N1.NIC.XN--CZRS0T 2a01:8840:1f:0:0:0:0:64 65.22.29.64
+nserver:      V0N2.NIC.XN--CZRS0T 2a01:8840:20:0:0:0:0:64 65.22.30.64
+nserver:      V0N3.NIC.XN--CZRS0T 161.232.14.64 2a01:8840:f8:0:0:0:0:64
+nserver:      V2N0.NIC.XN--CZRS0T 2a01:8840:21:0:0:0:0:64 65.22.31.64
+nserver:      V2N1.NIC.XN--CZRS0T 161.232.15.64 2a01:8840:f9:0:0:0:0:64
+ds-rdata:     1450 8 2 ee874dd50ba3cecb8187c1d3fb2f8c72fae826a33c0c6a96dab7c16db8a70d84
 
 whois:        whois.nic.xn--czrs0t
 
@@ -46,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.donuts.domains/
 
 created:      2014-11-20
-changed:      2020-04-16
+changed:      2021-11-10
 source:       IANA
 
