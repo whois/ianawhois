@@ -30,10 +30,10 @@ fax-no:       +32 16 28 49 71
 e-mail:       iana-tech@dnsbelgium.be
 
 nserver:      A.NSSET.BE 194.0.6.1 2001:678:9:0:0:0:0:1
-nserver:      B.NS.DNS.BE 194.0.37.1 2001:678:64:0:0:0:0:1
-nserver:      C.NS.DNS.BE 194.0.43.1 2001:678:68:0:0:0:0:1
-nserver:      D.NS.DNS.BE 194.0.44.1 2001:678:6c:0:0:0:0:1
-nserver:      Y.NS.DNS.BE 120.29.253.8 2001:dcd:7:0:0:0:0:8
+nserver:      B.NSSET.BE 194.0.37.1 2001:678:64:0:0:0:0:1
+nserver:      C.NSSET.BE 194.0.43.1 2001:678:68:0:0:0:0:1
+nserver:      D.NSSET.BE 194.0.44.1 2001:678:6c:0:0:0:0:1
+nserver:      Y.NSSET.BE 120.29.253.8 2001:dcd:7:0:0:0:0:8
 nserver:      Z.NSSET.BE 194.0.25.36 2001:678:20:0:0:0:0:36
 ds-rdata:     12664 8 2 75141E9B1188A95A7A855BF47E278A742A5E3F2DDEED8E995D749D48F2F0E72D
 ds-rdata:     52756 8 2 5485AC33DD7C7ED237EA2A4BD269731C816960FE181042024484B5CECA6ECC9F
@@ -44,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.dnsbelgium.be
 
 created:      1988-08-05
-changed:      2021-02-22
+changed:      2021-03-22
 source:       IANA
 
