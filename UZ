@@ -32,14 +32,14 @@ phone:        +998 71 2384200
 fax-no:       +998 71 2384248
 e-mail:       cctld@uzinfocom.uz
 
-nserver:      NS.UZ 91.212.89.8
 nserver:      NS1.UZ 91.212.89.244
 nserver:      NS2.UZ 81.95.225.245
-nserver:      NS3.UZ 195.158.1.22
+nserver:      NS3.UZ 185.74.6.29
 nserver:      NS4.UZ 185.196.212.7
 nserver:      NS5.UZ 217.12.81.129
 nserver:      NS6.UZ 83.69.129.33
 nserver:      NS7.UZ 104.238.81.247
+ds-rdata:     3685 8 2 D058D5A354EFB638058DABD7E0310AF31BD168FFDCCF49405750BF4D5CE5AE0B
 
 whois:        whois.cctld.uz
 
@@ -47,6 +47,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.cctld.uz/
 
 created:      1995-04-29
-changed:      2021-01-28
+changed:      2022-07-06
 source:       IANA
 
