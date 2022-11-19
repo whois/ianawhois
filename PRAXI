@@ -22,26 +22,25 @@ e-mail:       andrea.delmonte@praxi.com
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      14455 North Hayden Rd.
-address:      Scottsdale, AZ 85260
+address:      2155 E GoDaddy Way
+address:      Tempe, AZ 85284
 address:      United States
-phone:        +1 480-505-8800
-fax-no:       +1 480-393-4275
+phone:        +1 480 505 8800
+fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
 
+nserver:      A.NIC.PRAXI 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.PRAXI 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.PRAXI 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.PRAXI 156.154.144.139 2610:a1:1071:0:0:0:0:8b
 nserver:      NS2.DNS.NIC.PRAXI 156.154.145.139 2610:a1:1072:0:0:0:0:8b
 nserver:      NS3.DNS.NIC.PRAXI 156.154.159.139 2610:a1:1073:0:0:0:0:8b
-nserver:      NS4.DNS.NIC.PRAXI 156.154.156.139 2610:a1:1074:0:0:0:0:8b
-nserver:      NS5.DNS.NIC.PRAXI 156.154.157.139 2610:a1:1075:0:0:0:0:8b
-nserver:      NS6.DNS.NIC.PRAXI 156.154.158.139 2610:a1:1076:0:0:0:0:8b
-ds-rdata:     38416 8 1 4911515FF8BA0E522F6A377DD3C25131870DD00D
-ds-rdata:     38416 8 2 D295EBC44EB7D54ED9E95C059938C9A53363FAB1AAD77BF85246B28A32F168FD
+ds-rdata:     56446 8 2 B6EB17A0657C338C939960A1B134AF133254BB756D7211CB3D9AA4DCD2495656
 
 status:       ACTIVE
 remarks:      Registration information: http://www.praxi.com
 
 created:      2014-03-27
-changed:      2020-10-12
+changed:      2022-07-21
 source:       IANA
 
