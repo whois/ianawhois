@@ -4,14 +4,14 @@
 
 domain:       EARTH
 
-organisation: Interlink Co., Ltd.
-address:      Sunshine 60 Bldg. 45F 3-1-1 Higashi Ikebukuro, Toshima, Tokyo 170-6045 JAPAN
+organisation: Interlink Systems Innovation Institute K.K.
+address:      1-17-11 Higashi Ikebukuro, Toshima, Tokyo 170-0013
 address:      Japan
 
 contact:      administrative
 name:         Jacob Williams
-organisation: Interlink Co., Ltd.
-address:      Sunshine 60 Bldg. 45F 3-1-1 Higashi Ikebukuro, Toshima, Tokyo 170-6045 JAPAN
+organisation: Interlink Systems Innovation Institute K.K.
+address:      1-17-11 Higashi Ikebukuro, Toshima, Tokyo 170-0013
 address:      Japan
 phone:        +81 50-5525-7438
 fax-no:       +81 3-5979-2337
@@ -20,21 +20,20 @@ e-mail:       gtld@interlink.ad.jp
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      14455 North Hayden Rd.
-address:      Scottsdale, AZ 85260
+address:      2155 E GoDaddy Way
+address:      Tempe, AZ 85284
 address:      United States
-phone:        +1 480-505-8800
-fax-no:       +1 480-393-4275
+phone:        +1 480 505 8800
+fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
 
+nserver:      A.NIC.EARTH 2001:dcd:1:0:0:0:0:10 37.209.192.10
+nserver:      B.NIC.EARTH 2001:dcd:2:0:0:0:0:10 37.209.194.10
+nserver:      C.NIC.EARTH 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      NS1.DNS.NIC.EARTH 156.154.144.230 2610:a1:1071:0:0:0:0:e6
 nserver:      NS2.DNS.NIC.EARTH 156.154.145.230 2610:a1:1072:0:0:0:0:e6
 nserver:      NS3.DNS.NIC.EARTH 156.154.159.230 2610:a1:1073:0:0:0:0:e6
-nserver:      NS4.DNS.NIC.EARTH 156.154.156.230 2610:a1:1074:0:0:0:0:e6
-nserver:      NS5.DNS.NIC.EARTH 156.154.157.230 2610:a1:1075:0:0:0:0:e6
-nserver:      NS6.DNS.NIC.EARTH 156.154.158.230 2610:a1:1076:0:0:0:0:e6
-ds-rdata:     29926 8 2 C28E8452C5515C3A6B06A2ABC5F868A39048E16886620A07923386BA8894EDC5
-ds-rdata:     29926 8 1 1AA46F34887A843C698F27AA2B47F97318E89459
+ds-rdata:     38176 8 2 6BB59812C4FDD633997053989F89EE0E3B466B694C11B739C8F79995176B3920
 
 whois:        whois.nic.earth
 
@@ -42,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: https://domain.earth/
 
 created:      2015-04-16
-changed:      2020-10-12
+changed:      2022-07-21
 source:       IANA
 
