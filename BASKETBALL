@@ -20,22 +20,20 @@ fax-no:       +44.2033880601
 e-mail:       primary@dotbasketball.co
 
 contact:      technical
-name:         CTO
-organisation: CentralNic
-address:      Saddlers House, 4th Floor
-address:      44 Gutter Lane
-address:      London EC2V 6BR
-address:      United Kingdom
-phone:        +44.2033880600
-fax-no:       +44.2033880601
-e-mail:       tld.ops@centralnic.com
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      2155 E GoDaddy Way
+address:      Tempe, AZ 85284
+address:      United States
+phone:        +1 480 505 8800
+fax-no:       +1 480 624 2546
+e-mail:       iana@registry.godaddy
 
 nserver:      A.NIC.BASKETBALL 2001:dcd:1:0:0:0:0:10 37.209.192.10
 nserver:      B.NIC.BASKETBALL 2001:dcd:2:0:0:0:0:10 37.209.194.10
-nserver:      C.NIC.BASKETBALL 212.18.248.71 2a04:2b00:13ee:0:0:0:0:71
-nserver:      D.NIC.BASKETBALL 212.18.249.71 2a04:2b00:13ff:0:0:0:0:71
-ds-rdata:     43195 8 2 3FF79D0D21848F03BD9D98ED5F3D340AB4CA6FE01A62DAB26B2BB8E6ECC41C9A
-ds-rdata:     54631 8 2 9FCAB708697CE66405EE91E563C6000B982529FF899DEBA6567CC1B97169E2CA
+nserver:      C.NIC.BASKETBALL 2001:dcd:3:0:0:0:0:10 37.209.196.10
+nserver:      D.NIC.BASKETBALL 2001:dcd:4:0:0:0:0:10 37.209.198.10
+ds-rdata:     46201 8 2 CA5C951D022F3965AB936D403CFBB48F2D753D7B32DDE3AC146B419693DFBF30
 
 whois:        whois.nic.basketball
 
@@ -43,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.fiba.com/
 
 created:      2016-10-13
-changed:      2021-02-25
+changed:      2022-07-21
 source:       IANA
 
