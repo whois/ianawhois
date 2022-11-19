@@ -29,14 +29,17 @@ phone:        +966114618179
 fax-no:       +966114619497
 e-mail:       tld-tech-contact@nic.net.sa
 
-nserver:      C1.DNS.SA 2001:67c:130:410:0:0:0:9 86.111.192.9
-nserver:      C2.DNS.SA 2001:67c:130:10:0:0:0:9 86.111.196.9
+nserver:      C1.DNS.SA 2001:67c:18c8:c0:0:0:0:c1 86.111.192.9
+nserver:      C2.DNS.SA 86.111.196.9
 nserver:      I1.DNS.SA 2001:1490:0:800:0:0:0:118 212.138.118.118
+nserver:      M1.DNS.SA 2a02:ce0:1:30:0:0:0:5 86.51.77.213
+nserver:      M2.DNS.SA 2a02:ce0:1:91:0:0:0:5 86.51.28.37
 nserver:      N1.DNS.SA 194.146.106.102 2001:67c:1010:26:0:0:0:53
 nserver:      P1.DNS.SA 2001:500:14:6041:ad:0:0:1 204.61.216.41
 nserver:      S1.DNS.SA 2001:16a0:1:3002:0:0:0:2 37.107.223.170
 nserver:      S2.DNS.SA 2001:16a0:2:3002:0:0:0:2 37.107.255.170
-ds-rdata:     63715 8 2 d2d5c5c66ee5afba14ab2b089d1fc273bb15edd7422dae4fc3b92805f0aedbfb
+nserver:      SH1.DNS.SA 213.236.36.92 2a02:d70:64:68:0:0:0:2
+ds-rdata:     51091 8 2 884f556d23ca7c53d5546b3fe49e2c5aa147b0f6d65c91c096b13c085b3f9a64
 
 whois:        whois.nic.net.sa
 
@@ -44,6 +47,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.net.sa/
 
 created:      1994-05-17
-changed:      2020-12-16
+changed:      2022-10-03
 source:       IANA
 
