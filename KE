@@ -17,8 +17,7 @@ address:      P.O. Box 1461
 address:      Waiyaki Way, CA Centre
 address:      Nairobi  00606
 address:      Kenya
-phone:        +254 20 4450059, +254 20 4450058, +254715275483, 
-fax-no:       +254 20 4450087
+phone:        +254702693515, +254715275483
 e-mail:       admin@kenic.or.ke
 
 contact:      technical
@@ -37,8 +36,6 @@ nserver:      MZIZI.KENIC.OR.KE 196.1.4.130 196.1.4.3 198.32.67.9 2001:43f8:10:0
 nserver:      NS-KE.AFRINIC.NET 196.216.168.22 2001:43f8:120:0:0:0:0:22
 nserver:      NS.ANYCAST.KENIC.OR.KE 2001:500:14:6007:ad:0:0:1 204.61.216.7
 nserver:      NS2KE.DNS.BUSINESS 147.135.106.237 2604:2dc0:200:2eb:0:0:0:237
-ds-rdata:     41201 8 2 e841ac6daf0f028b35f2f23ef025f0b2a11fe6953a87b36df354412cd218125e
-ds-rdata:     41201 8 1 b058c8efcb0e064bff7fceaa28ecdfd6c09678db
 
 whois:        whois.kenic.or.ke
 
@@ -46,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.kenic.or.ke
 
 created:      1993-04-29
-changed:      2019-12-19
+changed:      2022-10-19
 source:       IANA
 
