@@ -12,7 +12,7 @@ address:      KY1-1103
 address:      Cayman Islands
 
 contact:      administrative
-name:         General Council
+name:         Project & Process Manager
 organisation: Alibaba Group Holding Limited
 address:      Fourth Floor, One Capital Place, P.O Box 847
 address:      George Town
@@ -21,7 +21,7 @@ address:      KY1-1103
 address:      Cayman Islands
 phone:        852.2215.5100
 fax-no:       852.2215.5200
-e-mail:       newgtld@hk.alibaba-inc.com
+e-mail:       ngtld-alibaba@cscglobal.com
 
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
@@ -39,9 +39,7 @@ nserver:      A0.NIC.ALIBABA 2a01:8840:82:0:0:0:0:9 65.22.132.9
 nserver:      A2.NIC.ALIBABA 2a01:8840:85:0:0:0:0:9 65.22.135.9
 nserver:      B0.NIC.ALIBABA 2a01:8840:83:0:0:0:0:9 65.22.133.9
 nserver:      C0.NIC.ALIBABA 2a01:8840:84:0:0:0:0:9 65.22.134.9
-ds-rdata:     61834 7 1 6fb706bb2edcee2193416aab5cdb70e3f24ae179
-ds-rdata:     61834 7 2 1979936491c3000d1613b6ced37c7ee8085bad291cefbc61a97246e51908f1e0
-ds-rdata:     44191 7 2 9b7c7352026ea095c526aff4b8fad0bce6b6c0b08c46a9f921e1852c03d28cf9
+ds-rdata:     7516 8 2 9bb7ac1c7877373106e72e767ef0a772f43682d030ad67b2c7e3e473a9b7b69f
 
 whois:        whois.nic.alibaba
 
@@ -49,6 +47,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.alibabagroup.com
 
 created:      2016-01-08
-changed:      2021-02-05
+changed:      2022-07-26
 source:       IANA
 
