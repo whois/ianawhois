@@ -16,27 +16,22 @@ address:      2121 E Tropicana Ave, STE2
 address:      Las Vegas, NV 89119
 address:      United States
 phone:        +1 702 757 6555
-e-mail:       gc@xyz.xyz
+e-mail:       hello@xyz.com
 
 contact:      technical
-name:         Chief Technical Officer 
+name:         CTO
 organisation: CentralNic
-address:      Saddlers House, 4th Floor 44
-address:      Gutter Lane
+address:      Saddlers House 4th Floor 44 Gutter Lane
 address:      London EC2V 6BR
 address:      United Kingdom
-phone:        +44.2033880600
-fax-no:       +44.2033880601
+phone:        +44 20 33 88 0600
+fax-no:       +44 20 33 88 0601
 e-mail:       tld.ops@centralnic.com
 
 nserver:      A.NIC.AUTO 194.169.218.131 2001:67c:13cc:0:0:0:1:131
 nserver:      B.NIC.AUTO 185.24.64.131 2a04:2b00:13cc:0:0:0:1:131
 nserver:      C.NIC.AUTO 212.18.248.131 2a04:2b00:13ee:0:0:0:0:131
 nserver:      D.NIC.AUTO 212.18.249.131 2a04:2b00:13ff:0:0:0:0:131
-ds-rdata:     12796 5 2 478BDF9D17C3D08B8EAC59B810562878B5A7193862136FD9401B0A869D5FB4C7
-ds-rdata:     11008 5 1 672945EED07F5A43569C427F1941D298CAC59CB9
-ds-rdata:     11008 5 2 B8F16C5D7575CA069575D63B7AD4BB66AF436C3BC83E736ABAB7A8AE89979FE2
-ds-rdata:     12796 5 1 B91D65FB021FD6F68A8BF94D1F07436F133D6043
 ds-rdata:     41492 5 1 4EF1EDDD59DAEE765CD1ED0205081D46D25BBE7C
 ds-rdata:     41492 5 2 01B3B92918B955D84A70F1BC254513D6FD90A33E8ABABC0AAFCF8830AC259C2C
 
@@ -46,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.nic.auto
 
 created:      2015-03-12
-changed:      2020-11-30
+changed:      2022-08-16
 source:       IANA
 
