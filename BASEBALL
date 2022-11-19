@@ -11,7 +11,9 @@ address:      United States
 contact:      administrative
 name:         Domain Administrator
 organisation: MLB Advanced Media, L.P.
-address:      75 Ninth Avenue, New York, NY 10011
+address:      1271 Avenue of the Americas
+address:      9th Fl.
+address:      New York, NY 10020
 address:      United States
 phone:        +1 212-485-3444
 fax-no:       +1 212-485-8111
@@ -20,26 +22,25 @@ e-mail:       mlbam-dh@mlb.com
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      14455 North Hayden Rd.
-address:      Scottsdale, AZ 85260
+address:      2155 E GoDaddy Way
+address:      Tempe, AZ 85284
 address:      United States
-phone:        +1 480-505-8800
-fax-no:       +1 480-393-4275
+phone:        +1 480 505 8800
+fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
 
+nserver:      A.NIC.BASEBALL 2001:dcd:1:0:0:0:0:10 37.209.192.10
+nserver:      B.NIC.BASEBALL 2001:dcd:2:0:0:0:0:10 37.209.194.10
+nserver:      C.NIC.BASEBALL 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      NS1.DNS.NIC.BASEBALL 156.154.144.200 2610:a1:1071:0:0:0:0:c8
 nserver:      NS2.DNS.NIC.BASEBALL 156.154.145.200 2610:a1:1072:0:0:0:0:c8
 nserver:      NS3.DNS.NIC.BASEBALL 156.154.159.200 2610:a1:1073:0:0:0:0:c8
-nserver:      NS4.DNS.NIC.BASEBALL 156.154.156.200 2610:a1:1074:0:0:0:0:c8
-nserver:      NS5.DNS.NIC.BASEBALL 156.154.157.200 2610:a1:1075:0:0:0:0:c8
-nserver:      NS6.DNS.NIC.BASEBALL 156.154.158.200 2610:a1:1076:0:0:0:0:c8
-ds-rdata:     27280 8 1 BEF9CE979BCEA72ACCC5399E1200EEA1C14BA79E
-ds-rdata:     27280 8 2 086CAB04F35A7066BDB657E9107587E006D895DA600183F2AC6115855BBE70C4
+ds-rdata:     28711 8 2 349E8B6A2E0890837FF4B69F7EFB0F44E3C32DC976FA74962DD8F812D7712F66
 
 status:       ACTIVE
 remarks:      Registration information: http://www.mlb.com
 
 created:      2016-09-29
-changed:      2020-10-12
+changed:      2022-09-28
 source:       IANA
 
