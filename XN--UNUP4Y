@@ -7,38 +7,37 @@ domain-ace:   XN--UNUP4Y
 
 organisation: Binky Moon, LLC
 address:      Donuts Inc.
-address:      5808 Lake Washington Blvd NE, Suite 300
-address:      Kirkland, WA 98033
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
 address:      United States
 
 contact:      administrative
-name:         Serina Ness
+name:         Vice President, Engineering
 organisation: Donuts Inc.
-address:      Donuts Inc.
-address:      5808 Lake Washington Blvd NE, Suite 300
-address:      Kirkland, WA 98033
-address:      United States
-phone:        +1.425.283.8248
-fax-no:       +1.425.671.0020
-e-mail:       serina@donuts.email
-
-contact:      technical
-name:         Ben Levac
-organisation: Donuts Inc.
-address:      Donuts Inc.
-address:      5808 Lake Washington Blvd NE, Suite 300
-address:      Kirkland, WA 98033
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
 address:      United States
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       ben@donuts.email
+e-mail:       tldadmin@donuts.email
 
-nserver:      DEMAND.ALPHA.ARIDNS.NET.AU 2001:dcd:1:0:0:0:0:7 37.209.192.7
-nserver:      DEMAND.BETA.ARIDNS.NET.AU 2001:dcd:2:0:0:0:0:7 37.209.194.7
-nserver:      DEMAND.DELTA.ARIDNS.NET.AU 2001:dcd:4:0:0:0:0:7 37.209.198.7
-nserver:      DEMAND.GAMMA.ARIDNS.NET.AU 2001:dcd:3:0:0:0:0:7 37.209.196.7
-ds-rdata:     30109 8 2 290F13680B10C1D864EF293B193758C3180E7E216EDE52B2D110D1E1576EA4D0
-ds-rdata:     30109 8 1 0A41F1EAC86B9E3801F94C81238312E2FE287465
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Donuts Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
+address:      United States
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@donuts.email
+
+nserver:      V0N0.NIC.XN--UNUP4Y 2a01:8840:16:0:0:0:0:34 65.22.20.34
+nserver:      V0N1.NIC.XN--UNUP4Y 2a01:8840:17:0:0:0:0:34 65.22.21.34
+nserver:      V0N2.NIC.XN--UNUP4Y 2a01:8840:18:0:0:0:0:34 65.22.22.34
+nserver:      V0N3.NIC.XN--UNUP4Y 161.232.10.34 2a01:8840:f4:0:0:0:0:34
+nserver:      V2N0.NIC.XN--UNUP4Y 2a01:8840:19:0:0:0:0:34 65.22.23.34
+nserver:      V2N1.NIC.XN--UNUP4Y 161.232.11.34 2a01:8840:f5:0:0:0:0:34
+ds-rdata:     57331 8 2 98698bf6004dcfe48f3c5beb164f75d63fbac726ae652da39af2929a8f836f92
 
 whois:        whois.nic.xn--unup4y
 
@@ -46,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.donuts.domains/
 
 created:      2013-10-21
-changed:      2020-04-16
+changed:      2021-10-27
 source:       IANA
 
