@@ -13,32 +13,31 @@ name:         Systems Administrator
 organisation: Frontier Communications Corporation
 address:      120 N Plymouth Ave, Rochester, NY 14608, United States
 address:      United States
-phone:        +1 585-777-4396
-e-mail:       joshua.sawicki@ftr.com
+phone:        +1 570-631-1245
+e-mail:       hostmaster@frontier.com
 
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      14455 North Hayden Rd.
-address:      Scottsdale, AZ 85260
+address:      2155 E GoDaddy Way
+address:      Tempe, AZ 85284
 address:      United States
-phone:        +1 480-505-8800
-fax-no:       +1 480-393-4275
+phone:        +1 480 505 8800
+fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
 
+nserver:      A.NIC.FRONTIER 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.FRONTIER 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.FRONTIER 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.FRONTIER 156.154.144.64 2610:a1:1071:0:0:0:0:40
 nserver:      NS2.DNS.NIC.FRONTIER 156.154.145.64 2610:a1:1072:0:0:0:0:40
 nserver:      NS3.DNS.NIC.FRONTIER 156.154.159.64 2610:a1:1073:0:0:0:0:40
-nserver:      NS4.DNS.NIC.FRONTIER 156.154.156.64 2610:a1:1074:0:0:0:0:40
-nserver:      NS5.DNS.NIC.FRONTIER 156.154.157.64 2610:a1:1075:0:0:0:0:40
-nserver:      NS6.DNS.NIC.FRONTIER 156.154.158.64 2610:a1:1076:0:0:0:0:40
-ds-rdata:     46351 8 2 12ACDA0D99C7CCD6A0BC77E8C7CF5E813A2D05CF5540EC5011E3254DC30F396C
-ds-rdata:     46351 8 1 89D5F2C63341B56981432DC318F04F76AFA4260C
+ds-rdata:     50689 8 2 B81514D86B0AE37D16A0676680B70B9C714036DE9993AFB8D38FDBC6879A0062
 
 status:       ACTIVE
 remarks:      Registration information: http://frontier.com
 
 created:      2016-01-29
-changed:      2020-10-12
+changed:      2022-07-21
 source:       IANA
 
