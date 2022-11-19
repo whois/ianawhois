@@ -13,7 +13,7 @@ address:      OX4 4DQ
 address:      United Kingdom
 
 contact:      administrative
-name:         Chief Operating Officer
+name:         TLD Registry Services Management
 organisation: Nominet UK
 address:      Minerva House,
 address:      Edmund Halley Road,
@@ -22,7 +22,7 @@ address:      Oxford,
 address:      OX4 4DQ
 address:      United Kingdom
 phone:        +44(0) 1865 332211
-e-mail:       od@nominet.org.uk
+e-mail:       registrymanagement@nominet.uk
 
 contact:      technical
 name:         TLD Registry Services Technical
@@ -41,9 +41,9 @@ nserver:      DNS2.NIC.CYMRU 103.49.83.3 2401:fd80:403:0:0:0:0:3
 nserver:      DNS3.NIC.CYMRU 213.248.223.3 2a01:618:407:0:0:0:0:3
 nserver:      DNS4.NIC.CYMRU 2401:fd80:407:0:0:0:0:3 43.230.51.3
 nserver:      DNSA.NIC.CYMRU 156.154.100.3 2001:502:ad09:0:0:0:0:3
-nserver:      DNSB.NIC.CYMRU 156.154.101.3
-nserver:      DNSC.NIC.CYMRU 156.154.102.3
-nserver:      DNSD.NIC.CYMRU 156.154.103.3
+nserver:      DNSB.NIC.CYMRU 156.154.101.3 2001:502:2eda:0:0:0:0:3
+nserver:      DNSC.NIC.CYMRU 156.154.102.3 2610:a1:1009:0:0:0:0:3
+nserver:      DNSD.NIC.CYMRU 156.154.103.3 2610:a1:1010:0:0:0:0:3
 ds-rdata:     34255 8 2 B85680D4065DB4E7CFAF8B349DD43901EC51B78F5E9C57C332BC6D905BEBA702
 
 whois:        whois.nic.cymru
@@ -53,6 +53,6 @@ remarks:      Registration information:
 remarks:      https://eincartrefarlein.cymru/
 
 created:      2014-07-31
-changed:      2019-08-20
+changed:      2022-08-18
 source:       IANA
 
