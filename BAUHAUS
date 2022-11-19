@@ -10,13 +10,13 @@ address:      68167 Mannheim
 address:      Germany
 
 contact:      administrative
-name:         Department Manager e-Business
-organisation: Werkhaus GmbH
-address:      Gutenbergstraße 21
-address:      68167 Mannheim
+name:         E-Business | DevOps Team Lead
+organisation: BAHAG Baus Handelsgesellschaft AG Zug/Schweiz Zweigniederlassung Mannheim
+address:      Gutenbergstrasse 21
+address:      Mannheim 68167
 address:      Germany
-phone:        +49-6213905-0
-fax-no:       +49-6213905-140
+phone:        +49 621 3905 393
+fax-no:       +49 621 3905 7393
 e-mail:       domains@bahag.com
 
 contact:      technical
@@ -42,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.bauhaus.info
 
 created:      2015-03-12
-changed:      2019-08-22
+changed:      2021-03-11
 source:       IANA
 
