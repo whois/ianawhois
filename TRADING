@@ -4,53 +4,45 @@
 
 domain:       TRADING
 
-organisation: DOTTRADING REGISTRY LTD
-address:      Boston ivy
-address:      Cannon Bridge House,
-address:      25 Dowgate Hill,
-address:      London,
-address:      EC4R 2YA
-address:      United Kingdom
+organisation: Dog Beach, LLC
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
+address:      United States
 
 contact:      administrative
-name:         Head of Registry Services
-organisation: DOTTRADING REGISTRY LTD
-address:      Boston Ivy
-address:      Cannon Bridge House
-address:      25 Dowgate Hill
-address:      EC4R 2YA
-address:      United Kingdom
-phone:        +44.2033880600
-e-mail:       ig@centralnic.com
+name:         Vice President, Engineering
+organisation: Donuts Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
+address:      United States
+phone:         +1 425 298 2200
+fax-no:       +1 425 671 0020
+e-mail:       tldadmin@donuts.email
 
 contact:      technical
-name:         Nathan Van Overloop
-organisation: CentralNic
-address:      Saddlers House, 4th Floor
-address:      44 Gutter Lane
-address:      London EC2V 6BR
-address:      United Kingdom
-phone:        +44.2033880600
-fax-no:       +44.2033880601
-e-mail:       tld.ops@centralnic.com
+name:         Senior Director, DNS Infrastructure Group
+organisation: Donuts Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
+address:      United States
+phone:        +1 425 298 2200
+fax-no:       +1 425 671 0020
+e-mail:       tldtech@donuts.email
 
-nserver:      A.NIC.TRADING 194.169.218.125 2001:67c:13cc:0:0:0:1:125
-nserver:      B.NIC.TRADING 185.24.64.125 2a04:2b00:13cc:0:0:0:1:125
-nserver:      C.NIC.TRADING 212.18.248.125 2a04:2b00:13ee:0:0:0:0:125
-nserver:      D.NIC.TRADING 212.18.249.125 2a04:2b00:13ff:0:0:0:0:125
-nserver:      DEMAND.ALPHA.ARIDNS.NET.AU 2001:dcd:1:0:0:0:0:7 37.209.192.7
-nserver:      DEMAND.BETA.ARIDNS.NET.AU 2001:dcd:2:0:0:0:0:7 37.209.194.7
-nserver:      DEMAND.DELTA.ARIDNS.NET.AU 2001:dcd:4:0:0:0:0:7 37.209.198.7
-nserver:      DEMAND.GAMMA.ARIDNS.NET.AU 2001:dcd:3:0:0:0:0:7 37.209.196.7
-ds-rdata:     45886 8 2 27A7DA05164AEE70F59BD61A8C3B2C8CE7F4785FB6D321B9A55400A22C8B96C7
-ds-rdata:     4756 8 2 99D34B4B27E039402475D40B1B73D877E0614FA4A9B62F58856B79CC97B6CB3D
+nserver:      V0N0.NIC.TRADING 2a01:8840:22:0:0:0:0:66 65.22.32.66
+nserver:      V0N1.NIC.TRADING 2a01:8840:23:0:0:0:0:66 65.22.33.66
+nserver:      V0N2.NIC.TRADING 2a01:8840:24:0:0:0:0:66 65.22.34.66
+nserver:      V0N3.NIC.TRADING 161.232.16.66 2a01:8840:fa:0:0:0:0:66
+nserver:      V2N0.NIC.TRADING 2a01:8840:25:0:0:0:0:66 65.22.35.66
+nserver:      V2N1.NIC.TRADING 161.232.17.66 2a01:8840:fb:0:0:0:0:66
+ds-rdata:     49129 8 2 ef6ca74a84fbac616c85ddfc58eac5475041c67daec11fe64fa0c481968a0790
 
 whois:        whois.nic.trading
 
 status:       ACTIVE
-remarks:      Registration information: http://bostonivy.co
+remarks:      Registration information: https://donuts.domains/
 
 created:      2015-03-06
-changed:      2021-02-26
+changed:      2021-11-18
 source:       IANA
 
