@@ -4,44 +4,37 @@
 
 domain:       LINK
 
-organisation: UNR Corp.
-address:      Third Floor, Monaco Towers, Georgetown
-address:      Grand Cayman, Cayman Islands
-address:      30369SMB-KY11202
-address:      Cayman Islands
+organisation: Nova Registry Ltd.
+address:      136, St. Christopher Street
+address:      Valletta
+address:      VLT1463
+address:      Malta
 
 contact:      administrative
-name:         Frank Schilling
-organisation: UNR Corp.
-address:      Third Floor, Monaco Towers, Georgetown
-address:      Grand Cayman, Cayman Islands
-address:      30369SMB-KY11202
-address:      Cayman Islands
-phone:        +1 345 746 3687 
-fax-no:       +1 345 746 3687 
-e-mail:       contact@unr.com
+name:         Vaughn Liley
+organisation: Nova Registry Ltd
+address:      136, St. Christopher Street
+address:      Valletta
+address:      VLT1463
+address:      Malta
+phone:        +34 686 084 480
+fax-no:       +34 686 084 480
+e-mail:       vaughn@nova.link
 
 contact:      technical
-name:         Francisco Obispo
-organisation: UNR Corp.
-address:      Third Floor, Monaco Towers, Georgetown
-address:      Grand Cayman, Cayman Islands
-address:      30369SMB-KY11202
-address:      Cayman Islands
-phone:        +1 345 746 3687 
-fax-no:       +1 345 746 3687 
-e-mail:       ops@unr.com
+name:         Vice President, Engineering
+organisation: Tucows Inc
+address:      96 Mowat Avenue
+address:      Toronto, Ontario, M6K3M1
+address:      Canada
+phone:        +1.949.903.3449
+e-mail:       trs-ops@tucows.com
 
 nserver:      NS1.UNIREGISTRY.NET 2620:57:4000:1:0:0:0:1 64.96.1.1
 nserver:      NS2.UNIREGISTRY.INFO 64.96.2.1
 nserver:      NS3.UNIREGISTRY.NET 185.159.197.3 2620:10a:80aa:0:0:0:0:3
 nserver:      NS4.UNIREGISTRY.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
-ds-rdata:     16378 5 1 4BAC0A7FB788380C75B12257AF422CF2F32EE828
-ds-rdata:     16378 5 2 22F61A68A2F1BFE7A3B8A71DE8DB12BAC9A51D98D8D1F44C1717396E395C180B
-ds-rdata:     33631 5 1 3B75B8FA70D02DD2318B92DBAF7C19E97227CBD3
-ds-rdata:     51802 5 2 2D24B7DF7EFCB55786172F5927D12F15FBB5905EC98C9FAB2525A9015119DF29
-ds-rdata:     51802 5 1 4F1558597AEC14F10D869F5F43D4905CDF6189DF
-ds-rdata:     33631 5 2 98C5361E319C349C3135070138A0A8B34D5CA3CFFE87B3D27294E313E696F101
+ds-rdata:     16766 13 2 40F1045035D7BA48D27A66442B2C71CA159D219756D3AD4D35CF1E80419228B5
 
 whois:        whois.uniregistry.net
 
@@ -49,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://uniregistry.link
 
 created:      2014-01-09
-changed:      2020-11-05
+changed:      2022-08-29
 source:       IANA
 
