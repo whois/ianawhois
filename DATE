@@ -20,21 +20,20 @@ e-mail:       edgar.c.lavarello@gi.pwc.com
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      14455 North Hayden Rd.
-address:      Scottsdale, AZ 85260
+address:      2155 E GoDaddy Way
+address:      Tempe, AZ 85284
 address:      United States
-phone:        +1 480-505-8800
-fax-no:       +1 480-393-4275
+phone:        +1 480 505 8800
+fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
 
+nserver:      A.NIC.DATE 2001:dcd:1:0:0:0:0:10 37.209.192.10
+nserver:      B.NIC.DATE 2001:dcd:2:0:0:0:0:10 37.209.194.10
+nserver:      C.NIC.DATE 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      NS1.DNS.NIC.DATE 156.154.144.46 2610:a1:1071:0:0:0:0:2e
 nserver:      NS2.DNS.NIC.DATE 156.154.145.46 2610:a1:1072:0:0:0:0:2e
 nserver:      NS3.DNS.NIC.DATE 156.154.159.46 2610:a1:1073:0:0:0:0:2e
-nserver:      NS4.DNS.NIC.DATE 156.154.156.46 2610:a1:1074:0:0:0:0:2e
-nserver:      NS5.DNS.NIC.DATE 156.154.157.46 2610:a1:1075:0:0:0:0:2e
-nserver:      NS6.DNS.NIC.DATE 156.154.158.46 2610:a1:1076:0:0:0:0:2e
-ds-rdata:     26959 8 1 7E21D23111E913C5959C138582F2D437947ECF4A
-ds-rdata:     26959 8 2 B20E420ACA56F71FF6013EEA255E19AC5B641984F1EFDECE1802C0659EF72CF9
+ds-rdata:     30325 8 2 B0A4309D9AD85D8050259A80A8261B1003251CB1D2F3C74AA30E09335AAF2501
 
 whois:        whois.nic.date
 
@@ -42,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.date
 
 created:      2015-02-05
-changed:      2020-10-12
+changed:      2022-07-21
 source:       IANA
 
