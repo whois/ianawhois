@@ -6,38 +6,37 @@ domain:       COOL
 
 organisation: Binky Moon, LLC
 address:      Donuts Inc.
-address:      5808 Lake Washington Blvd NE, Suite 300
-address:      Kirkland, WA 98033
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
 address:      United States
 
 contact:      administrative
-name:         Serina Ness
+name:         Vice President, Engineering
 organisation: Donuts Inc.
-address:      Donuts Inc.
-address:      5808 Lake Washington Blvd NE, Suite 300
-address:      Kirkland, WA 98033
-address:      United States
-phone:        +1.425.283.8248
-fax-no:       +1.425.671.0020
-e-mail:       serina@donuts.email
-
-contact:      technical
-name:         Ben Levac
-organisation: Donuts Inc.
-address:      Donuts Inc.
-address:      5808 Lake Washington Blvd NE, Suite 300
-address:      Kirkland, WA 98033
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
 address:      United States
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       ben@donuts.email
+e-mail:       tldadmin@donuts.email
 
-nserver:      DEMAND.ALPHA.ARIDNS.NET.AU 2001:dcd:1:0:0:0:0:7 37.209.192.7
-nserver:      DEMAND.BETA.ARIDNS.NET.AU 2001:dcd:2:0:0:0:0:7 37.209.194.7
-nserver:      DEMAND.DELTA.ARIDNS.NET.AU 2001:dcd:4:0:0:0:0:7 37.209.198.7
-nserver:      DEMAND.GAMMA.ARIDNS.NET.AU 2001:dcd:3:0:0:0:0:7 37.209.196.7
-ds-rdata:     62554 8 2 9B38B1F80D4785D3A8B61EAF479906875BC7E40000BB09B928D871B41E5A5895
-ds-rdata:     62554 8 1 2A63F5295A666BB3771725943E22B1313BBDF5E3
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Donuts Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
+address:      United States
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@donuts.email
+
+nserver:      V0N0.NIC.COOL 2a01:8840:1a:0:0:0:0:38 65.22.24.38
+nserver:      V0N1.NIC.COOL 2a01:8840:1b:0:0:0:0:38 65.22.25.38
+nserver:      V0N2.NIC.COOL 2a01:8840:1c:0:0:0:0:38 65.22.26.38
+nserver:      V0N3.NIC.COOL 161.232.12.38 2a01:8840:f6:0:0:0:0:38
+nserver:      V2N0.NIC.COOL 2a01:8840:1d:0:0:0:0:38 65.22.27.38
+nserver:      V2N1.NIC.COOL 161.232.13.38 2a01:8840:f7:0:0:0:0:38
+ds-rdata:     62176 8 2 96734f338d4e0324b2d2d4749966fd092409783ec337bab67574d72bcab7c19e
 
 whois:        whois.nic.cool
 
@@ -45,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.donuts.domains/
 
 created:      2014-01-16
-changed:      2020-04-17
+changed:      2021-11-03
 source:       IANA
 
