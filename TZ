@@ -32,13 +32,13 @@ phone:        +255 22 2199760–8
 fax-no:       +255 22 2412010
 e-mail:       simon.balthazar@tcra.go.tz
 
-nserver:      D.EXT.NIC.CZ 193.29.206.2 2001:678:1:0:0:0:0:2
 nserver:      FORK.STH.DNSNODE.NET 2a01:3f0:0:306:0:0:0:53 77.72.229.254
 nserver:      NS-TZ.AFRINIC.NET 196.216.168.20 2001:43f8:120:0:0:0:0:20
 nserver:      NS.ANYCAST.CO.TZ 2001:500:14:6015:ad:0:0:1 204.61.216.15
 nserver:      NS2.TZNIC.OR.TZ 196.216.162.67 2001:43f8:e0:1:0:0:0:67
 nserver:      RIP.PSG.COM 147.28.0.39 2001:418:1:0:0:0:0:39
-ds-rdata:     63382 10 2 b1e836eaef0a4e2428fb04d8ad443c15abb3281ed7466408c1882f9122ef5d52
+nserver:      TZ-E.NS.NIC.CZ 185.43.134.11 2001:148f:fffd:0:0:0:0:11
+ds-rdata:     30234 13 2 3D83825B9F7D66F9B28B5566BA5371798E8D3B88EF079BB88F52617811C1B9A0
 
 whois:        whois.tznic.or.tz
 
@@ -46,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: https://karibu.tz/
 
 created:      1995-07-14
-changed:      2021-01-20
+changed:      2022-08-25
 source:       IANA
 
