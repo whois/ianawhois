@@ -18,28 +18,33 @@ fax-no:       +1 732 981 0027
 e-mail:       primary_ieee@valideus.com
 
 contact:      technical
-name:         IANA Contact
-organisation: GoDaddy Registry
-address:      14455 North Hayden Rd.
-address:      Scottsdale, AZ 85260
-address:      United States
-phone:        +1 480-505-8800
-fax-no:       +1 480-393-4275
-e-mail:       iana@registry.godaddy
+name:         TLD Registry Services Technical
+organisation: Nominet
+address:      Minerva House,
+address:      Edmund Halley Road,
+address:      Oxford Science Park,
+address:      Oxford
+address:      OX4 4DQ
+address:      United Kingdom (GB)
+address:      United Kingdom
+phone:        +44.1865332211
+e-mail:       registrytechnical@nominet.uk
 
-nserver:      NS1.DNS.NIC.IEEE 156.154.144.79 2610:a1:1071:0:0:0:0:4f
-nserver:      NS2.DNS.NIC.IEEE 156.154.145.79 2610:a1:1072:0:0:0:0:4f
-nserver:      NS3.DNS.NIC.IEEE 156.154.159.79 2610:a1:1073:0:0:0:0:4f
-nserver:      NS4.DNS.NIC.IEEE 156.154.156.79 2610:a1:1074:0:0:0:0:4f
-nserver:      NS5.DNS.NIC.IEEE 156.154.157.79 2610:a1:1075:0:0:0:0:4f
-nserver:      NS6.DNS.NIC.IEEE 156.154.158.79 2610:a1:1076:0:0:0:0:4f
+nserver:      DNS1.NIC.IEEE 213.248.219.125 2a01:618:403:0:0:0:0:125
+nserver:      DNS2.NIC.IEEE 103.49.83.125 2401:fd80:403:0:0:0:0:125
+nserver:      DNS3.NIC.IEEE 213.248.223.125 2a01:618:407:0:0:0:0:125
+nserver:      DNS4.NIC.IEEE 2401:fd80:407:0:0:0:0:125 43.230.51.125
+nserver:      DNSA.NIC.IEEE 156.154.100.3 2001:502:ad09:0:0:0:0:3
+nserver:      DNSB.NIC.IEEE 156.154.101.3 2001:502:2eda:0:0:0:0:3
+nserver:      DNSC.NIC.IEEE 156.154.102.3 2610:a1:1009:0:0:0:0:3
+nserver:      DNSD.NIC.IEEE 156.154.103.3 2610:a1:1010:0:0:0:0:3
 ds-rdata:     39700 8 2 F12A037A0D1108BDF15C5A58CC488EFC19F3B9100C643C67181703E2747BE9AB
-ds-rdata:     39700 8 1 06C34DD64A4FD24D00D2341FFD4C4A6378EDB7B7
+ds-rdata:     16667 8 2 BABDAA67D51EE0C44AB2A25B88427F9BDAC5BD271DCF6074684D0356DE2469B6
 
 status:       ACTIVE
 remarks:      Registration information: http://www.ieee.org
 
 created:      2016-06-09
-changed:      2020-10-12
+changed:      2022-03-23
 source:       IANA
 
