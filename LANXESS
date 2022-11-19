@@ -20,26 +20,25 @@ e-mail:       ngtld-lanxess@cscglobal.com
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      14455 North Hayden Rd.
-address:      Scottsdale, AZ 85260
+address:      2155 E GoDaddy Way
+address:      Tempe, AZ 85284
 address:      United States
-phone:        +1 480-505-8800
-fax-no:       +1 480-393-4275
+phone:        +1 480 505 8800
+fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
 
+nserver:      A.NIC.LANXESS 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.LANXESS 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.LANXESS 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.LANXESS 156.154.144.101 2610:a1:1071:0:0:0:0:65
 nserver:      NS2.DNS.NIC.LANXESS 156.154.145.101 2610:a1:1072:0:0:0:0:65
 nserver:      NS3.DNS.NIC.LANXESS 156.154.159.101 2610:a1:1073:0:0:0:0:65
-nserver:      NS4.DNS.NIC.LANXESS 156.154.156.101 2610:a1:1074:0:0:0:0:65
-nserver:      NS5.DNS.NIC.LANXESS 156.154.157.101 2610:a1:1075:0:0:0:0:65
-nserver:      NS6.DNS.NIC.LANXESS 156.154.158.101 2610:a1:1076:0:0:0:0:65
-ds-rdata:     42844 8 2 F70A11C0E9406CE474776728756638F707E1E8B3441764E75435BF1E54712F72
-ds-rdata:     42844 8 1 16C814AED6AE403A1B9E48DDF9EA3DF76E662CAB
+ds-rdata:     27220 8 2 E7715A76B9EC7C6F1F6553100BC86F7C705078B27A8AEEF20A3CEE83A939069F
 
 status:       ACTIVE
 remarks:      Registration information: http://www.lanxess.com
 
 created:      2016-01-08
-changed:      2020-10-12
+changed:      2022-07-21
 source:       IANA
 
