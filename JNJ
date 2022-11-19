@@ -20,26 +20,25 @@ e-mail:       jnjregistry@fairwindspartners.com
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      14455 North Hayden Rd.
-address:      Scottsdale, AZ 85260
+address:      2155 E GoDaddy Way
+address:      Tempe, AZ 85284
 address:      United States
-phone:        +1 480-505-8800
-fax-no:       +1 480-393-4275
+phone:        +1 480 505 8800
+fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
 
+nserver:      A.NIC.JNJ 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.JNJ 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.JNJ 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.JNJ 156.154.144.89 2610:a1:1071:0:0:0:0:59
 nserver:      NS2.DNS.NIC.JNJ 156.154.145.89 2610:a1:1072:0:0:0:0:59
 nserver:      NS3.DNS.NIC.JNJ 156.154.159.89 2610:a1:1073:0:0:0:0:59
-nserver:      NS4.DNS.NIC.JNJ 156.154.156.89 2610:a1:1074:0:0:0:0:59
-nserver:      NS5.DNS.NIC.JNJ 156.154.157.89 2610:a1:1075:0:0:0:0:59
-nserver:      NS6.DNS.NIC.JNJ 156.154.158.89 2610:a1:1076:0:0:0:0:59
-ds-rdata:     38749 8 1 CA6868C95AD55208FB245B0C98042A6FE997D072
-ds-rdata:     38749 8 2 2EA26C7A3E1A1A61286F3ABCF8FE2FD97EA6D0D3E68CD346547095B89147EEB4
+ds-rdata:     16897 8 2 8E9740B903122D7DFED99CF66764BBB9B24EABE8B5A3C37BD0D876F47D69956F
 
 status:       ACTIVE
 remarks:      Registration information: http://www.jnj.com/
 
 created:      2016-01-14
-changed:      2020-10-12
+changed:      2022-07-21
 source:       IANA
 
