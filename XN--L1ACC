@@ -6,32 +6,32 @@ domain:       мон
 domain-ace:   XN--L1ACC
 
 organisation: Datacom Co.,Ltd
-address:      San Business Center Building,
-address:      Sukhbaatar district 8th khoroo, Amar's street
-address:      Ulaanbaatar 14200
+address:      Galaxy Tower Office Bldg, #5007,
+address:      Mahatma Gandhi Street, 17010,
+address:      Khan-Uul district, Ulaanbaatar
 address:      Mongolia
 
 contact:      administrative
 name:         Enkhbat Dangaasuren
 organisation: Datacom Co.,Ltd
-address:      San Business Center Building,
-address:      Sukhbaatar district 8th khoroo, Amar's street
-address:      Ulaanbaatar 14200
+address:      Galaxy Tower Office Bldg, #5007,
+address:      Mahatma Gandhi Street, 17010,
+address:      Khan-Uul district, Ulaanbaatar
 address:      Mongolia
-phone:        +976 11 318048
+phone:        +976 11 311411
 fax-no:       +976 11 320210
 e-mail:       enkhbat@datacom.mn
 
 contact:      technical
 name:         Enkhbold Gombo
 organisation: Datacom Co.,Ltd
-address:      San Business Center Building,
-address:      Sukhbaatar district 8th khoroo, Amar's street
-address:      Ulaanbaatar 14200
+address:      Galaxy Tower Office Bldg, #5007,
+address:      Mahatma Gandhi Street, 17010,
+address:      Khan-Uul district, Ulaanbaatar
 address:      Mongolia
-phone:        +976 11 318048
+phone:        +976 7000 0505
 fax-no:       +976 11 320210
-e-mail:       hostmaster@datacom.mn
+e-mail:       enkhbold@datacom.mn
 
 nserver:      NS1.IDN.MN 218.100.84.27
 nserver:      NS2.IDN.MN 202.170.80.40
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.mon.mn/
 
 created:      2012-06-21
-changed:      2014-11-04
+changed:      2022-06-15
 source:       IANA
 
