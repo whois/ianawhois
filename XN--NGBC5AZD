@@ -13,29 +13,28 @@ address:      Australia
 contact:      administrative
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      14455 North Hayden Rd.
-address:      Scottsdale, AZ 85260
+address:      2155 E GoDaddy Way
+address:      Tempe, AZ 85284
 address:      United States
 phone:        +1 480-505-8800
-fax-no:       +1 480-393-4275
+fax-no:       +1 480-624-2546
 e-mail:       iana@registry.godaddy
 
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      14455 North Hayden Rd.
-address:      Scottsdale, AZ 85260
+address:      2155 E GoDaddy Way
+address:      Tempe, AZ 85284
 address:      United States
 phone:        +1 480-505-8800
-fax-no:       +1 480-393-4275
+fax-no:       +1 480-624-2546
 e-mail:       iana@registry.godaddy
 
 nserver:      A.NIC.XN--NGBC5AZD 2001:dcd:1:0:0:0:0:3 37.209.192.3
 nserver:      B.NIC.XN--NGBC5AZD 2001:dcd:2:0:0:0:0:3 37.209.194.3
 nserver:      C.NIC.XN--NGBC5AZD 2001:dcd:3:0:0:0:0:3 37.209.196.3
 nserver:      D.NIC.XN--NGBC5AZD 2001:dcd:4:0:0:0:0:3 37.209.198.3
-ds-rdata:     46762 8 1 67DC52FA808CE60FB67D8683316BA514839948AC
-ds-rdata:     46762 8 2 809E729E2DC01C83D02E580D26949BD77F8B2D4ADFAE98B685C95242FF13C4AA
+ds-rdata:     57991 8 2 2CD63A89A2BD11A0D1F2A5AEAF04D5B07FB24F6CE9227FB2B5FC4C9D39C0AE20
 
 whois:        whois.nic.xn--ngbc5azd
 
@@ -43,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.dotshabaka.com
 
 created:      2013-10-21
-changed:      2020-10-19
+changed:      2022-07-21
 source:       IANA
 
