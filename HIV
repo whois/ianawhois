@@ -4,51 +4,43 @@
 
 domain:       HIV
 
-organisation: UNR Corp.
-address:      Third Floor, Monaco Towers, Georgetown
+organisation: Internet Naming Co.
+address:      23 Lime Tree Bay, West Bay
 address:      Grand Cayman, Cayman Islands
-address:      30369SMB-KY11202
+address:      KY1-1505
 address:      Cayman Islands
 
 contact:      administrative
-name:         Frank Schilling
-organisation: UNR Corp.
-address:      Third Floor, Monaco Towers, Georgetown
+name:         Shayan Rostam
+organisation: Internet Naming Co.
+address:      23 Lime Tree Bay, West Bay
 address:      Grand Cayman, Cayman Islands
-address:      30369SMB-KY11202
+address:      KY1-1505
 address:      Cayman Islands
-phone:        +1 345 746 3687 
-fax-no:       +1 345 746 3687 
-e-mail:       contact@unr.com
+phone:        +1.424.888.0690
+e-mail:       partners@inaming.co
 
 contact:      technical
 name:         Francisco Obispo
-organisation: UNR Corp.
-address:      Third Floor, Monaco Towers, Georgetown
-address:      Grand Cayman, Cayman Islands
-address:      30369SMB-KY11202
-address:      Cayman Islands
-phone:        +1 345 746 3687 
-fax-no:       +1 345 746 3687 
-e-mail:       ops@unr.com
+organisation: Tucows Inc
+address:      96 Mowat Avenue
+address:      Toronto, Ontario M6K3M1
+address:      Canada
+phone:        +1.949.903.3449
+e-mail:       trs-ops@tucows.com
 
 nserver:      NS1.UNIREGISTRY.NET 2620:57:4000:1:0:0:0:1 64.96.1.1
 nserver:      NS2.UNIREGISTRY.INFO 64.96.2.1
 nserver:      NS3.UNIREGISTRY.NET 185.159.197.3 2620:10a:80aa:0:0:0:0:3
 nserver:      NS4.UNIREGISTRY.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
-ds-rdata:     43515 7 2 DEEBB9290635F6DFC67AB526063A2B00192713E4BB9DE8C2AB741C2C0A41BDB3
-ds-rdata:     43515 7 1 04F332A08624803A8C07BDED35BEB8091005A67F
-ds-rdata:     27525 7 1 56F19BAE9988A63B0F5ADC5A84810B59D99DEBC4
-ds-rdata:     27525 7 2 7B9FEDF325D12E7E8A469CE589B7C16A0DCBF50F00DCBA9867FCA04A3FCCE6DB
-ds-rdata:     51708 7 1 6E523215708ED1251D472150594B7B0B5F778F7B
-ds-rdata:     51708 7 2 A775C0ABA7B1BB211C11C08EF328C574CBBA7F8B1990D8235F8CDB285AC21D82
+ds-rdata:     50937 13 2 139053A1DD36C05B171D5ADB695CEDCD3DB6EEA7B7A2B0700AADC4C8712B1344
 
-whois:        whois.uniregistry.net
+whois:        whois.nic.hiv
 
 status:       ACTIVE
-remarks:      Registration information: http://uniregistry.link
+remarks:      Registration information: https://internetnaming.co
 
 created:      2014-05-22
-changed:      2020-11-03
+changed:      2022-11-16
 source:       IANA
 
