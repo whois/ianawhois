@@ -36,7 +36,7 @@ nserver:      DSANY2.SGNIC.SG 185.159.197.170 2620:10a:80aa:0:0:0:0:170
 nserver:      DSANY3.SGNIC.SG 185.159.198.170 2620:10a:80ab:0:0:0:0:170
 nserver:      NS4.APNIC.NET 2001:dd8:12:0:0:0:0:53 202.12.31.53
 nserver:      PCH.SGZONES.SG 2001:500:14:6057:ad:0:0:1 204.61.216.57
-ds-rdata:     39581 8 2 B0D5C02493DF56DBD95608E23CA16EBF54FD7057C227083075C5865A6ACAFF8E
+ds-rdata:     48176 8 2 C1C692E8BB1ECAB17A80C5829445D6301787A275B6091A95754C4AC9681FB50E
 
 whois:        whois.sgnic.sg
 
@@ -44,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.sgnic.sg/
 
 created:      2011-02-05
-changed:      2020-06-18
+changed:      2022-06-15
 source:       IANA
 
