@@ -21,22 +21,20 @@ phone:        +1.9292946005
 e-mail:       primary@rugbydomains.co
 
 contact:      technical
-name:         CTO
-organisation: CentralNic
-address:      Saddlers House, 4th Floor
-address:      44 Gutter Lane
-address:      London EC2V 6BR
-address:      United Kingdom
-phone:        +44.2033880600
-fax-no:       +44.2033880601
-e-mail:       tld.ops@centralnic.com
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      2155 E GoDaddy Way
+address:      Tempe, AZ 85284
+address:      United States
+phone:        +1 480 505 8800
+fax-no:       +1 480 624 2546
+e-mail:       iana@registry.godaddy
 
 nserver:      A.NIC.RUGBY 2001:dcd:1:0:0:0:0:10 37.209.192.10
 nserver:      B.NIC.RUGBY 2001:dcd:2:0:0:0:0:10 37.209.194.10
-nserver:      C.NIC.RUGBY 212.18.248.73 2a04:2b00:13ee:0:0:0:0:73
-nserver:      D.NIC.RUGBY 212.18.249.73 2a04:2b00:13ff:0:0:0:0:73
-ds-rdata:     30467 8 2 D23F3E8A3EDED657AC88B27E95B1EB94CBA49F056E3FA1FC970E743DC3225817
-ds-rdata:     63277 8 2 1183FCA31B96229383BDD1240E4A1A383C6A4459A6CEA0B13CBF995F9DF85E68
+nserver:      C.NIC.RUGBY 2001:dcd:3:0:0:0:0:10 37.209.196.10
+nserver:      D.NIC.RUGBY 2001:dcd:4:0:0:0:0:10 37.209.198.10
+ds-rdata:     62356 8 2 DF8506247C16FF7EE32EB239208B60960639AF729379A13C135C52D606E8520D
 
 whois:        whois.nic.rugby
 
@@ -44,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.rugby/
 
 created:      2017-03-23
-changed:      2021-02-25
+changed:      2022-07-21
 source:       IANA
 
