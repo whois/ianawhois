@@ -4,14 +4,14 @@
 
 domain:       MOE
 
-organisation: Interlink Co., Ltd.
-address:      Sunshine 60 Bldg. 45F 3-1-1 Higashi Ikebukuro, Toshima, Tokyo 170-6045 JAPAN
+organisation: Interlink Systems Innovation Institute K.K.
+address:      1-17-11 Higashi Ikebukuro, Toshima, Tokyo 170-0013
 address:      Japan
 
 contact:      administrative
 name:         Jacob Williams
-organisation: Interlink Co., Ltd.
-address:      Sunshine 60 Bldg. 45F 3-1-1 Higashi Ikebukuro, Toshima, Tokyo 170-6045 JAPAN
+organisation: Interlink Systems Innovation Institute K.K.
+address:      1-17-11 Higashi Ikebukuro, Toshima, Tokyo 170-0013
 address:      Japan
 phone:        81 50-5525-7438
 fax-no:       81 3-5979-2337
@@ -20,21 +20,20 @@ e-mail:       gtld@interlink.ad.jp
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      14455 North Hayden Rd.
-address:      Scottsdale, AZ 85260
+address:      2155 E GoDaddy Way
+address:      Tempe, AZ 85284
 address:      United States
-phone:        +1 480-505-8800
-fax-no:       +1 480-393-4275
+phone:        +1 480 505 8800
+fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
 
+nserver:      A.NIC.MOE 2001:dcd:1:0:0:0:0:10 37.209.192.10
+nserver:      B.NIC.MOE 2001:dcd:2:0:0:0:0:10 37.209.194.10
+nserver:      C.NIC.MOE 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      NS1.DNS.NIC.MOE 156.154.144.114 2610:a1:1071:0:0:0:0:72
 nserver:      NS2.DNS.NIC.MOE 156.154.145.114 2610:a1:1072:0:0:0:0:72
 nserver:      NS3.DNS.NIC.MOE 156.154.159.114 2610:a1:1073:0:0:0:0:72
-nserver:      NS4.DNS.NIC.MOE 156.154.156.114 2610:a1:1074:0:0:0:0:72
-nserver:      NS5.DNS.NIC.MOE 156.154.157.114 2610:a1:1075:0:0:0:0:72
-nserver:      NS6.DNS.NIC.MOE 156.154.158.114 2610:a1:1076:0:0:0:0:72
-ds-rdata:     24571 8 1 55C5369DFA89EA76011DD4F2FBE235E3A876D3AB
-ds-rdata:     24571 8 2 211E1F328274C67BB2060BBA17FC02FE7A5099E67E93D6C3B2EE50626ECE2705
+ds-rdata:     8980 8 2 0107DD039F8BD0049A6803271A15D71793A5234EEF881013701E481774A8BA19
 
 whois:        whois.nic.moe
 
@@ -42,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: https://get.moe/
 
 created:      2014-03-13
-changed:      2020-10-12
+changed:      2022-07-21
 source:       IANA
 
