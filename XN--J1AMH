@@ -6,23 +6,23 @@ domain:       укр
 domain-ace:   XN--J1AMH
 
 organisation: Ukrainian Network Information Centre (UANIC), Inc.
-address:      31-33, Smolenska str.
-address:      Kyiv 03005
+address:      10, Volodymyrska str.
+address:      Kyiv 01025
 address:      Ukraine
 
 contact:      administrative
 name:         CEO
 organisation: Ukrainian Network Information Centre (UANIC), Inc.
-address:      P.O.Box 45
-address:      Kyiv 04053
+address:      10, Volodymyrska str.
+address:      Kyiv 01025
 address:      Ukraine
 phone:        +380442309344
 fax-no:       +380442309344
 e-mail:       ceo@uanic.net
 
 contact:      technical
-name:         CEO
-organisation: Technical Internet Center (TCI), LLC
+name:         UANIC Technical Group
+organisation: Ukrainian Network Information Centre (UANIC), Inc.
 address:      73, Artema str., office #112
 address:      Kyiv 04053
 address:      Ukraine
@@ -30,11 +30,12 @@ phone:        +380503538629
 fax-no:       +380442309344
 e-mail:       dotukr@uanic.net
 
-nserver:      DNS1.U-REGISTRY.COM 173.208.218.43 2604:4300:a:8c:5054:ff:fe47:8582
-nserver:      DNS2.U-REGISTRY.NET 195.123.1.7 2a02:128:2:0:0:0:0:5
-nserver:      DNS3.DOTUKR.COM 2001:41d0:a:2b1f:0:0:0:1 37.187.75.31
-nserver:      NSI.UANIC.NET 212.1.66.247
-nserver:      TIER1.NUM.NET.UA 193.110.163.134
+nserver:      DNS.TCI.NET.UA 91.231.86.238
+nserver:      DNS1.U-REGISTRY.COM 51.222.128.197
+nserver:      DNS2.U-REGISTRY.NET 195.123.1.7
+nserver:      DNS3.DOTUKR.COM 37.187.75.31
+nserver:      TIER1.NUM.NET.UA 149.202.5.226
+nserver:      UKR.NS.UA 194.58.197.4 2a01:3f1:c001:0:0:0:0:53
 
 whois:        whois.dotukr.com
 
@@ -43,6 +44,6 @@ remarks:      Registration information:
 remarks:      https://namestore.u-registry.com
 
 created:      2011-03-01
-changed:      2014-07-28
+changed:      2022-04-18
 source:       IANA
 
