@@ -20,21 +20,20 @@ e-mail:       edgar.c.lavarello@gi.pwc.com
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      14455 North Hayden Rd.
-address:      Scottsdale, AZ 85260
+address:      2155 E GoDaddy Way
+address:      Tempe, AZ 85284
 address:      United States
-phone:        +1 480-505-8800
-fax-no:       +1 480-393-4275
+phone:        +1 480 505 8800
+fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
 
+nserver:      A.NIC.RACING 2001:dcd:1:0:0:0:0:10 37.209.192.10
+nserver:      B.NIC.RACING 2001:dcd:2:0:0:0:0:10 37.209.194.10
+nserver:      C.NIC.RACING 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      NS1.DNS.NIC.RACING 156.154.169.33 2610:a1:1071:0:0:0:1:21
 nserver:      NS2.DNS.NIC.RACING 156.154.170.33 2610:a1:1072:0:0:0:1:21
 nserver:      NS3.DNS.NIC.RACING 156.154.171.33 2610:a1:1073:0:0:0:1:21
-nserver:      NS4.DNS.NIC.RACING 156.154.172.33 2610:a1:1074:0:0:0:1:21
-nserver:      NS5.DNS.NIC.RACING 156.154.173.33 2610:a1:1075:0:0:0:1:21
-nserver:      NS6.DNS.NIC.RACING 156.154.174.33 2610:a1:1076:0:0:0:1:21
-ds-rdata:     41521 8 2 EA2DA9624D77D22EF37ABC4F6828B798E226309127C5DB8CBC99E7BFACB025D5
-ds-rdata:     41521 8 1 FC7C517C77060B033F7CE55173FA6102533BADDB
+ds-rdata:     57100 8 2 048874AFA57AE916C96B9B8F92CA789E5750512CDFD1F153C1F71ED26053E7B4
 
 whois:        whois.nic.racing
 
@@ -42,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.racing
 
 created:      2015-03-26
-changed:      2020-10-12
+changed:      2022-07-21
 source:       IANA
 
