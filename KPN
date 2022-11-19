@@ -21,26 +21,22 @@ e-mail:       laura.jansen@kpn.com
 contact:      technical
 name:         CTO
 organisation: CentralNic
-address:      Saddlers House, 4th Floor
-address:      44 Gutter Lane
+address:      Saddlers House 4th Floor 44 Gutter Lane
 address:      London EC2V 6BR
 address:      United Kingdom
-phone:        +44.2033880600
-fax-no:       +44.2033880601
+phone:        +44 20 33 88 0600
+fax-no:       +44 20 33 88 0601
 e-mail:       tld.ops@centralnic.com
 
 nserver:      A.NIC.KPN 194.169.218.90 2001:67c:13cc:0:0:0:1:90
 nserver:      B.NIC.KPN 185.24.64.90 2a04:2b00:13cc:0:0:0:1:90
 nserver:      C.NIC.KPN 212.18.248.90 2a04:2b00:13ee:0:0:0:0:90
 nserver:      D.NIC.KPN 212.18.249.90 2a04:2b00:13ff:0:0:0:0:90
-ds-rdata:     32121 7 1 5432C93E698B0F17C238FA1F10E0FB252A974570
-ds-rdata:     32121 7 2 8920F345D83AD20720B941475F5D98D19E9DDA7A160EECCEFCEBF2E4442A4D7F
-ds-rdata:     10051 7 1 4ED62E1A5F98A703FB0519861F7C0448A166A0C1
 ds-rdata:     10051 7 2 F265871198C769849F8ACF952F01FCD412C9B3DC5DBF8FCA98911D5052C0A240
 
 status:       ACTIVE
 
 created:      2015-12-04
-changed:      2020-04-16
+changed:      2021-10-12
 source:       IANA
 
