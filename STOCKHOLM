@@ -5,18 +5,18 @@
 domain:       STOCKHOLM
 
 organisation: Stockholms kommun
-address:      Ragnar Östbergsplan 1, Stockholm, 11855
+address:      Ragnar Östbergs plan 1
+address:      SE-10535 Stockholm
 address:      Sweden
 
 contact:      administrative
-name:         Senior Vice President
-organisation: Afilias
-address:      Building 3, Suite 105 300 Welsh Road
-address:      Horsham, PA 19044
-address:      United States
-phone:        +1 215 706 5700
-fax-no:       +1 215 706 5701
-e-mail:       stockholmgdd@afilias.info
+name:         Project Manager
+organisation: City of Stockholm
+address:      Ragnar Östbergs plan 1
+address:      SE-10535 Stockholm
+address:      Sweden
+phone:        +46850829327
+e-mail:       contact@nic.stockholm
 
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
@@ -40,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.stockholm.se/
 
 created:      2015-09-17
-changed:      2020-12-11
+changed:      2022-04-08
 source:       IANA
 
