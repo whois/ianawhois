@@ -26,18 +26,15 @@ address:      Saddlers House, 4th Floor
 address:      44 Gutter Lane
 address:      London EC2V 6BR
 address:      United Kingdom
-phone:        +44 2033 880600
-fax-no:       +44 2033 880601
+phone:        +44 20 33 88 0600
+fax-no:       +44 20 33 88 0601
 e-mail:       tld.ops@centralnic.com
 
 nserver:      A.NIC.CYOU 194.169.218.120 2001:67c:13cc:0:0:0:1:120
 nserver:      B.NIC.CYOU 185.24.64.120 2a04:2b00:13cc:0:0:0:1:120
 nserver:      C.NIC.CYOU 212.18.248.120 2a04:2b00:13ee:0:0:0:0:120
 nserver:      D.NIC.CYOU 212.18.249.120 2a04:2b00:13ff:0:0:0:0:120
-ds-rdata:     42985 7 1 f1be1321796afb34b2bec02ed9412966291b2c21
-ds-rdata:     42985 7 2 6c0507565b162ff6a377b4e7e5e33a126987de3c7fdbc1644e247fb60e1094e3
-ds-rdata:     26224 7 1 cf7780dc4e67ffd559828422b6747ce2dc7649dd
-ds-rdata:     26224 7 2 b19fafbc97d17eb0fb2c1d86170d4aeba7896b36c66bbb9d22796595056c986b
+ds-rdata:     19927 13 2 2079b2824eee39ec9ab51f32b199a6bcc68162ca56bd12c2740b8c800fc611c4
 
 whois:        whois.nic.cyou
 
@@ -45,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://cy.changyou.com
 
 created:      2015-03-19
-changed:      2020-05-14
+changed:      2022-08-01
 source:       IANA
 
