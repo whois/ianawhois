@@ -5,30 +5,29 @@
 domain:       NZ
 
 organisation: InternetNZ
-address:      Level 11
-address:      80 Boulcott Street
+address:      Level 13
+address:      18 Willis Street
 address:      Wellington  6011
 address:      New Zealand
 
 contact:      administrative
-name:         Group Chief Executive
+name:         Tumuwhanake | GM Customer and Product
 organisation: InternetNZ
-address:      Level 11
-address:      80 Boulcott Street
+address:      Level 13
+address:      18 Willis Street
 address:      Wellington  6011
 address:      New Zealand
-phone:        +64 4 472 1600
-fax-no:       +64 4 495 2115
+phone:        +64 21 417 903
 e-mail:       iana@internetnz.net.nz
 
 contact:      technical
 name:         .NZ Operations Manager
 organisation: InternetNZ
-address:      Level 11
-address:      80 Boulcott Street
+address:      Level 13
+address:      18 Willis Street
 address:      Wellington  6011
 address:      New Zealand
-phone:        +64 4 472 1600
+phone:        +64 21 783 399
 e-mail:       ianatech@internetnz.net.nz
 
 nserver:      NS1.DNS.NET.NZ 2001:dce:2000:2:0:0:0:130 202.46.190.130
@@ -38,17 +37,15 @@ nserver:      NS4.DNS.NET.NZ 2001:dce:d454:0:0:0:0:53 202.46.189.130
 nserver:      NS5.DNS.NET.NZ 185.159.197.130 2620:10a:80aa:0:0:0:0:130
 nserver:      NS6.DNS.NET.NZ 185.159.198.130 2620:10a:80ab:0:0:0:0:130
 nserver:      NS7.DNS.NET.NZ 194.146.106.54 2001:67c:1010:13:0:0:0:53
-ds-rdata:     25234 8 2 74d03214a4381428a421bfda1a45f1a91b9325d9938164854a55e79a665fc833
-ds-rdata:     1324 8 2 e29b5616b1444ffca9fdda248ab23dd84dcc13126cc589ec0d8e5d43a6c28460
-ds-rdata:     1324 8 1 389234bdc40be8f25035e997ca9d25988605c247
-ds-rdata:     25234 8 1 cd56f0a2c3724e21bdeb4c67ec4a20f6f8e94559
+ds-rdata:     49157 8 2 44628e9bf710b40d5a5b19087a119eaf2c0b5ced7e7ba4268f4fc35bef14b1c0
+ds-rdata:     13646 8 2 569b1bae369fd18f03d088fba91bd58a830e4e21d2c96155ced267544cac14b1
 
-whois:        whois.srs.net.nz
+whois:        whois.irs.net.nz
 
 status:       ACTIVE
 remarks:      Registration information: http://www.dnc.org.nz/
 
 created:      1987-01-19
-changed:      2020-07-28
+changed:      2022-11-01
 source:       IANA
 
