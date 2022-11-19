@@ -38,9 +38,7 @@ nserver:      A0.NIC.IMAMAT 2a01:8840:2a:0:0:0:0:9 65.22.44.9
 nserver:      A2.NIC.IMAMAT 2a01:8840:2d:0:0:0:0:9 65.22.47.9
 nserver:      B0.NIC.IMAMAT 2a01:8840:2b:0:0:0:0:9 65.22.45.9
 nserver:      C0.NIC.IMAMAT 2a01:8840:2c:0:0:0:0:9 65.22.46.9
-ds-rdata:     44614 7 1 0eea6027b29718ebd69dd1039d6b75e09b7f6fec
-ds-rdata:     44614 7 2 bd82f1dd9d784d8995d4d1f29e107f54e1ff2caf3bb6b6a8e74e59a89cde8737
-ds-rdata:     43251 7 2 91f107e7fac0e88fa57ddd8ff7ecf5bee6e9ed68382cb62c22d8e205b137724d
+ds-rdata:     50965 8 2 a76c5431030fbef036b5008bc289a1614207d3447e7d8d565065f50ed9543e6a
 
 whois:        whois.afilias-srs.net
 
@@ -48,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.akdn.org
 
 created:      2016-04-07
-changed:      2021-01-30
+changed:      2021-03-03
 source:       IANA
 
