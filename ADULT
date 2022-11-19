@@ -5,46 +5,42 @@
 domain:       ADULT
 
 organisation: ICM Registry AD LLC
-address:      2505 Second Ave, Suite 520
-address:      Seattle, Washington 98121
+address:      2155 E. GoDaddy Way
+address:      Tempe, AZ 85284
 address:      United States
 
 contact:      administrative
-name:         Admin Contact
-organisation: ICM Registry LLC
-address:      2505 Second Ave, Suite 520
-address:      Seattle, Washington 98121
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      2155 E. GoDaddy Way
+address:      Tempe, AZ 85284
 address:      United States
-phone:        +1 877 734 4783
-fax-no:       +1 877 809 3183
-e-mail:       ops@mmx.co
+phone:        +1 480-505-8800
+fax-no:       +1 480-624-2546
+e-mail:       iana@registry.godaddy
 
 contact:      technical
-name:         Chief Technical Officer
-organisation: UNR Corp.
-address:      Third Floor, Monaco Towers, Georgetown
-address:      Grand Cayman, Cayman Islands
-address:      30369SMB-KY11202
-address:      Cayman Islands
-phone:        +1 345 746 3687
-fax-no:       +1 345 746 3687
-e-mail:       ops@unr.com
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      2155 E GoDaddy Way
+address:      Tempe, AZ 85284
+address:      United States
+phone:        +1 480-505-8800
+fax-no:       +1 480-624-2546
+e-mail:       iana@registry.godaddy
 
-nserver:      NS1.UNIREGISTRY.NET 2620:57:4000:1:0:0:0:1 64.96.1.1
-nserver:      NS2.UNIREGISTRY.INFO 64.96.2.1
-nserver:      NS5.UNIREGISTRY.NET 2001:500:14:7002:ad:0:0:1 204.61.217.2
-nserver:      NS6.UNIREGISTRY.INFO 206.51.254.2 2620:171:804:ad2:0:0:0:2
-ds-rdata:     6880 7 2 199ee7b7a3b702c969f220dc2622f26426a35be66bb9a13b4fc65c477ebfc22d
-ds-rdata:     6880 7 1 08c7aeff495ae3e5baa4e941fc11a1a9b8c03c3d
-ds-rdata:     12384 7 2 6864A9D04CDFBD70E07A3144E73D08CBE1C4485C549D8F966EBBAF7CFBC40F89
-ds-rdata:     12384 7 1 221E46550901838781E9E611B472C90568A920EF
+nserver:      A.NIC.ADULT 2001:dcd:1:0:0:0:0:10 37.209.192.10
+nserver:      B.NIC.ADULT 2001:dcd:2:0:0:0:0:10 37.209.194.10
+nserver:      C.NIC.ADULT 2001:dcd:3:0:0:0:0:10 37.209.196.10
+nserver:      D.NIC.ADULT 2001:dcd:4:0:0:0:0:10 37.209.198.10
+ds-rdata:     64321 8 2 CA734AA86339CB101665A65C4F33F4E86B37CF2512FD4C1655C00026D6F70915
 
-whois:        whois.registrar.adult
+whois:        whois.nic.adult
 
 status:       ACTIVE
-remarks:      Registration information: http://icmregistry.com
+remarks:      Registration information: http://nic.adult
 
 created:      2014-11-26
-changed:      2020-11-03
+changed:      2022-07-18
 source:       IANA
 
