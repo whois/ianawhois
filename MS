@@ -27,8 +27,10 @@ address:      Montserrat
 phone:        +1 664 491 6386
 e-mail:       regsupport@mninet.ms
 
+nserver:      A.LACTLD.ORG 200.0.68.10 2801:14:a000:0:0:0:0:10
 nserver:      MS-NS.ANYCAST.PCH.NET 2001:500:14:6033:ad:0:0:1 204.61.216.33
-nserver:      NS.COCCA.FR 185.17.236.93 2a03:dd40:3:0:0:0:0:93
+nserver:      NS1.ANYCASTDNS.CZ 185.38.108.108 2a00:fea0:dead:0:0:0:0:beef
+nserver:      NS2.ANYCASTDNS.CZ 185.28.194.194
 
 whois:        whois.nic.ms
 
@@ -36,6 +38,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.ms
 
 created:      1997-03-06
-changed:      2019-09-26
+changed:      2022-07-20
 source:       IANA
 
