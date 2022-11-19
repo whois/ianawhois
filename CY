@@ -30,18 +30,17 @@ fax-no:       +357 22 895077
 e-mail:       panayiotou.fotia@ucy.ac.cy
 
 nserver:      CY-NS.ANYCAST.PCH.NET 2001:500:14:6044:ad:0:0:1 204.61.216.44
-nserver:      CYNIC.DNS.CY 194.42.29.1
 nserver:      CYNIC4.DNS.CY 194.42.29.16
 nserver:      CYNIC6.DNS.CY 194.42.29.5
 nserver:      ESTIA.ICS.FORTH.GR 139.91.191.3 2001:648:2c30:0:0:0:191:3
-nserver:      NS02.SAVVIS.NET 204.70.57.242
 nserver:      NS31.RCODE0.NET 194.0.25.31 2001:678:20:0:0:0:0:31
 nserver:      NS4.APNIC.NET 2001:dd8:12:0:0:0:0:53 202.12.31.53
+ds-rdata:     53051 13 2 23E40296DD897E15A7B78061B987F240D0415ABC20382FDCDAEC24C7FC8A9E0F
 
 status:       ACTIVE
 remarks:      Registration information: http://www.nic.cy
 
 created:      1994-07-26
-changed:      2020-07-16
+changed:      2021-05-26
 source:       IANA
 
