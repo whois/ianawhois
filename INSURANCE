@@ -5,16 +5,16 @@
 domain:       INSURANCE
 
 organisation: fTLD Registry Services LLC
-address:      600 13th Street, NW
-address:      Suite 400
+address:      1300 Eye Street, NW
+address:      Suite 1100 West
 address:      Washington, DC 20005
 address:      United States
 
 contact:      administrative
-name:         Craig Schwartz
+name:         Managing Director
 organisation: fTLD Registry Services, LLC
-address:      600 13th Street, NW
-address:      Suite 400
+address:      1300 Eye Street, NW
+address:      Suite 1100 West
 address:      Washington, DC 20005
 address:      United States
 phone:        +1 202 236 1154
@@ -23,21 +23,20 @@ e-mail:       ftld@ftld.com
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      14455 North Hayden Rd.
-address:      Scottsdale, AZ 85260
+address:      2155 E GoDaddy Way
+address:      Tempe, AZ 85284
 address:      United States
-phone:        +1 480-505-8800
-fax-no:       +1 480-393-4275
+phone:        +1 480 505 8800
+fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
 
-nserver:      A.NIC.INSURANCE 156.154.100.22 2001:0502:2eda:0:0:0:0:22
-nserver:      B.NIC.INSURANCE 156.154.101.22 2001:0502:ad09:0:0:0:0:22
-nserver:      C.NIC.INSURANCE 156.154.102.22 2610:a1:1009:0:0:0:0:22
 nserver:      D.NIC.INSURANCE 156.154.103.22 2610:a1:1010:0:0:0:0:22
 nserver:      E.NIC.INSURANCE 156.154.104.22 2610:a1:1011:0:0:0:0:22
 nserver:      F.NIC.INSURANCE 156.154.105.22 2610:a1:1012:0:0:0:0:22
-ds-rdata:     53170 8 2 DB3EA911BF99D3A6BF689737CE4828A26FA00E9049F1FABBC7F5280723C86129
-ds-rdata:     53170 8 1 2E75ACA08CCE271F682CBD6C8BCAF23388D3842B
+nserver:      W.NIC.INSURANCE 2001:dcd:1:0:0:0:0:10 37.209.192.10
+nserver:      X.NIC.INSURANCE 2001:dcd:2:0:0:0:0:10 37.209.194.10
+nserver:      Y.NIC.INSURANCE 2001:dcd:3:0:0:0:0:10 37.209.196.10
+ds-rdata:     13792 8 2 EA492E4CF1888E2861F9FFFAA38A66509C854DB6AA41C4DB1DFA611AE358B23F
 
 whois:        whois.nic.insurance
 
@@ -45,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.ftld.com/
 
 created:      2015-11-06
-changed:      2020-12-02
+changed:      2022-08-18
 source:       IANA
 
