@@ -6,28 +6,31 @@ domain:       台湾
 domain-ace:   XN--KPRW13D
 
 organisation: Taiwan Network Information Center (TWNIC)
-address:      4F-2, No. 9, Section 2, Roosevelt Road
-address:      Taipei  100
+address:      3F., No. 123, Sec. 4, Bade Rd.
+address:      Songshan Dist.
+address:      Taipei 105
 address:      Taiwan
 
 contact:      administrative
-name:         Vice CEO
+name:         Managing Director
 organisation: Taiwan Network Information Center (TWNIC)
-address:      4F-2, No. 9, Section 2, Roosevelt Road
-address:      Taipei  100
+address:      3F., No. 123, Sec. 4, Bade Rd.
+address:      Songshan Dist.
+address:      Taipei 105
 address:      Taiwan
-phone:        +886 2 23411313 ext. 126
-fax-no:       +886 2 23968832
+phone:        +886 2 2528 9696
+fax-no:       +886 2 2528 7756
 e-mail:       tw-admin@twnic.tw
 
 contact:      technical
-name:         Director of Technical Department
+name:         Technical Director
 organisation: Taiwan Network Information Center (TWNIC)
-address:      4F-2, No. 9, Section 2, Roosevelt Road
-address:      Taipei 100
+address:      3F., No. 123, Sec. 4, Bade Rd.
+address:      Songshan Dist.
+address:      Taipei 105
 address:      Taiwan
-phone:        +886 2 23411313 ext. 500
-fax-no:       +886 2 23968832
+phone:        +886 2 2528 9696
+fax-no:       +886 2 2528 7756
 e-mail:       tech-admin@twnic.tw
 
 nserver:      ANYTLD.APNIC.NET 2001:dd8:12:0:0:0:0:53 202.12.31.53
@@ -36,7 +39,7 @@ nserver:      E.DNS.TW 2001:b000:1e0:c000:0:0:0:11 211.20.231.11
 nserver:      F.DNS.TW 163.28.1.10
 nserver:      G.DNS.TW 2001:cd8:400:0:0:0:0:195 220.229.225.195
 nserver:      H.DNS.TW 2001:500:14:6119:ad:0:0:1 204.61.216.119
-ds-rdata:     47134 8 2 49EB20FEDD1C6D402967CA5F0C79AAE56E20F912483E9F7067AD7E8A2A791ABD
+ds-rdata:     3667 8 2 8AC78818CCA7D2CD3A323BEAD03CCF68025CA932219014748692F12ED7A4B2CA
 
 whois:        whois.twnic.net.tw
 
@@ -44,6 +47,6 @@ status:       ACTIVE
 remarks:      Registration information: http://rs.twnic.net.tw
 
 created:      2010-07-14
-changed:      2019-01-15
+changed:      2022-11-15
 source:       IANA
 
