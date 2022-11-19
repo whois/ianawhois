@@ -28,13 +28,12 @@ address:      Benin
 phone:        +229 96 80 52 52
 e-mail:       tech@nic.bj
 
-nserver:      ANYCASTDNS1.NIC.BJ 185.38.108.108 2a00:fea0:dead:0:0:0:0:beef
-nserver:      ANYCASTDNS2.NIC.BJ 185.28.194.194
 nserver:      NS-BJ.AFRINIC.NET 196.216.168.33 2001:43f8:120:0:0:0:0:33
 nserver:      NS-BJ.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
 nserver:      NS1.NIC.BJ 154.65.28.218
 nserver:      NS2.NIC.BJ 41.85.191.2
 nserver:      PCH.NIC.BJ 2001:500:14:6125:ad:0:0:1 204.61.216.125
+ds-rdata:     26617 8 2 F408C0B3C28D87A76175348B27F6D26CA47231FC29071AB6B5F849777C6548B5
 
 whois:        whois.nic.bj
 
@@ -42,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.bj
 
 created:      1996-01-18
-changed:      2021-02-04
+changed:      2022-11-03
 source:       IANA
 
