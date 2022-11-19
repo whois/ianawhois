@@ -13,29 +13,28 @@ address:      Australia
 contact:      administrative
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      14455 North Hayden Rd.
-address:      Scottsdale, AZ 85260
+address:      2155 E GoDaddy Way
+address:      Tempe, AZ 85284
 address:      United States
 phone:        +1 480-505-8800
-fax-no:       +1 480-393-4275
+fax-no:       +1 480-624-2546
 e-mail:       iana@registry.godaddy
 
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      14455 North Hayden Rd.
-address:      Scottsdale, AZ 85260
+address:      2155 E GoDaddy Way
+address:      Tempe, AZ 85284
 address:      United States
 phone:        +1 480-505-8800
-fax-no:       +1 480-393-4275
+fax-no:       +1 480-624-2546
 e-mail:       iana@registry.godaddy
 
 nserver:      A.NIC.MELBOURNE 2001:dcd:1:0:0:0:0:10 37.209.192.10
 nserver:      B.NIC.MELBOURNE 2001:dcd:2:0:0:0:0:10 37.209.194.10
 nserver:      C.NIC.MELBOURNE 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      D.NIC.MELBOURNE 2001:dcd:4:0:0:0:0:10 37.209.198.10
-ds-rdata:     13069 8 2 21A0F9A377A102CAA47B4AB6E7E10278C50F1E57702BD20C6E6A1C1A02E2E314
-ds-rdata:     13069 8 1 2772AB2CDA84AFAD2EA615DF3672BE03CD8CDA4A
+ds-rdata:     3487 8 2 A1B0B1CA0F068E57760B7A4183DE3620EB0BE059006F36D07FED827424F89589
 
 whois:        whois.nic.melbourne
 
@@ -43,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.live.melbourne/
 
 created:      2014-07-03
-changed:      2020-10-19
+changed:      2022-07-21
 source:       IANA
 
