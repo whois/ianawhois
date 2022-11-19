@@ -10,12 +10,11 @@ address:      Geneve  CH-1211
 address:      Switzerland
 
 contact:      administrative
-name:         Sotirios Boutas
+name:         Andreas Wagner
 organisation: European Organization for Nuclear Research ("CERN")
 address:      Route de Meyrin, Meyrin, Geneve, CH-1211
 address:      Switzerland
-phone:        +41 22 766 2095
-fax-no:       +41 22 766 7482
+phone:        +41 22 767 4888
 e-mail:       cern.gtld@cern.ch
 
 contact:      technical
@@ -39,6 +38,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.cern.ch
 
 created:      2014-08-13
-changed:      2020-11-16
+changed:      2021-09-20
 source:       IANA
 
