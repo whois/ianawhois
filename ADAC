@@ -22,12 +22,11 @@ e-mail:       tldadac@adac.de
 contact:      technical
 name:         CTO
 organisation: CentralNic
-address:      Saddlers House, 4th Floor
-address:      44 Gutter Lane
+address:      Saddlers House 4th Floor 44 Gutter Lane
 address:      London EC2V 6BR
 address:      United Kingdom
-phone:        +44.2033880600
-fax-no:       +44.2033880601
+phone:        +44 20 33 88 0600
+fax-no:       +44 20 33 88 0601
 e-mail:       tld.ops@centralnic.com
 
 nserver:      A.NIC.ADAC 194.169.218.74 2001:67c:13cc:0:0:0:1:74
@@ -42,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.adac
 
 created:      2015-11-20
-changed:      2020-04-09
+changed:      2021-10-05
 source:       IANA
 
