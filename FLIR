@@ -20,26 +20,25 @@ e-mail:       keith.phillips@flir.com
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      14455 North Hayden Rd.
-address:      Scottsdale, AZ 85260
+address:      2155 E GoDaddy Way
+address:      Tempe, AZ 85284
 address:      United States
-phone:        +1 480-505-8800
-fax-no:       +1 480-393-4275
+phone:        +1 480 505 8800
+fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
 
+nserver:      A.NIC.FLIR 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.FLIR 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.FLIR 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.FLIR 156.154.144.61 2610:a1:1071:0:0:0:0:3d
 nserver:      NS2.DNS.NIC.FLIR 156.154.145.61 2610:a1:1072:0:0:0:0:3d
 nserver:      NS3.DNS.NIC.FLIR 156.154.159.61 2610:a1:1073:0:0:0:0:3d
-nserver:      NS4.DNS.NIC.FLIR 156.154.156.61 2610:a1:1074:0:0:0:0:3d
-nserver:      NS5.DNS.NIC.FLIR 156.154.157.61 2610:a1:1075:0:0:0:0:3d
-nserver:      NS6.DNS.NIC.FLIR 156.154.158.61 2610:a1:1076:0:0:0:0:3d
-ds-rdata:     27397 8 2 A9B561921591EEA58666EB21DDE7E3B95C413425A9B8DAC52D02BA8E46EE588A
-ds-rdata:     27397 8 1 8FA8F96F3D06E4AD8DF285178D0D3118DAE08697
+ds-rdata:     24484 8 2 3DD6835D42B1D12266D8FCB2FC29B0AECD5783CEDA9792A213F32FB67889C64D
 
 status:       ACTIVE
 remarks:      Registration information: http://www.flir.com
 
 created:      2016-03-03
-changed:      2020-10-12
+changed:      2022-07-21
 source:       IANA
 
