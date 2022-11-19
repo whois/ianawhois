@@ -10,24 +10,23 @@ address:      Armonk, NY 10504
 address:      United States
 
 contact:      administrative
-name:         Senior Paralegal, Corporate Trademark Department
+name:         Engineering Manager
 organisation: International Business Machines Corporation
 address:      North Castle Drive
 address:      Armonk, NY 10504
 address:      United States
 phone:        +1-914-765-4227 
 fax-no:       +1-914-765-4390 
-e-mail:       gracem@us.ibm.com
+e-mail:       ngtld-ibm@cscinfo.com
 
 contact:      technical
-name:         IANA Contact
-organisation: GoDaddy Registry
-address:      14455 North Hayden Rd.
-address:      Scottsdale, AZ 85260
+name:         Engineering Manager
+address:      2155 E GoDaddy Way
+address:      Tempe, AZ 85284
 address:      United States
-phone:        +1 480-505-8800
-fax-no:       +1 480-393-4275
-e-mail:       iana@registry.godaddy
+phone:        +1 480 505 8800
+fax-no:       +1 480 624 2546
+e-mail:       ngtld-ibm@cscinfo.com
 
 nserver:      NS1.DNS.NIC.WEATHERCHANNEL 156.154.144.179 2610:a1:1071:0:0:0:0:b3
 nserver:      NS2.DNS.NIC.WEATHERCHANNEL 156.154.145.179 2610:a1:1072:0:0:0:0:b3
@@ -35,13 +34,12 @@ nserver:      NS3.DNS.NIC.WEATHERCHANNEL 156.154.159.179 2610:a1:1073:0:0:0:0:b3
 nserver:      NS4.DNS.NIC.WEATHERCHANNEL 156.154.156.179 2610:a1:1074:0:0:0:0:b3
 nserver:      NS5.DNS.NIC.WEATHERCHANNEL 156.154.157.179 2610:a1:1075:0:0:0:0:b3
 nserver:      NS6.DNS.NIC.WEATHERCHANNEL 156.154.158.179 2610:a1:1076:0:0:0:0:b3
-ds-rdata:     63049 8 2 ED03508EEA7C614C4F44FA9B6E11FFC33990AB751EFA8383B6E0306FFCE2623C
-ds-rdata:     63049 8 1 1B380CD27A04C666802639A75EF8B215DD2B854E
+ds-rdata:     7789 8 2 79D6DAAEFC15969665F10E9DE136425C117994C302F41CA70F1157BE61FB9384
 
 status:       ACTIVE
 remarks:      Registration information: http://www.weather.com
 
 created:      2016-01-22
-changed:      2020-10-12
+changed:      2022-07-21
 source:       IANA
 
