@@ -6,38 +6,37 @@ domain:       DIGITAL
 
 organisation: Binky Moon, LLC
 address:      Donuts Inc.
-address:      5808 Lake Washington Blvd NE, Suite 300
-address:      Kirkland, WA 98033
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
 address:      United States
 
 contact:      administrative
-name:         Serina Ness
+name:         Vice President, Engineering
 organisation: Donuts Inc.
-address:      Donuts Inc.
-address:      5808 Lake Washington Blvd NE, Suite 300
-address:      Kirkland, WA 98033
-address:      United States
-phone:        +1.425.283.8248
-fax-no:       +1.425.671.0020
-e-mail:       serina@donuts.email
-
-contact:      technical
-name:         Ben Levac
-organisation: Donuts Inc.
-address:      Donuts Inc.
-address:      5808 Lake Washington Blvd NE, Suite 300
-address:      Kirkland, WA 98033
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
 address:      United States
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       ben@donuts.email
+e-mail:       tldadmin@donuts.email
 
-nserver:      DEMAND.ALPHA.ARIDNS.NET.AU 2001:dcd:1:0:0:0:0:7 37.209.192.7
-nserver:      DEMAND.BETA.ARIDNS.NET.AU 2001:dcd:2:0:0:0:0:7 37.209.194.7
-nserver:      DEMAND.DELTA.ARIDNS.NET.AU 2001:dcd:4:0:0:0:0:7 37.209.198.7
-nserver:      DEMAND.GAMMA.ARIDNS.NET.AU 2001:dcd:3:0:0:0:0:7 37.209.196.7
-ds-rdata:     51340 8 2 74D16CE5EB0D697EF0FC09EA620303FEEF9BAE4A879C353AF9F62778E06C125B
-ds-rdata:     51340 8 1 D46D5009D695D8D61D9D3FC2F84F4498392268CF
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Donuts Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
+address:      United States
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@donuts.email
+
+nserver:      V0N0.NIC.DIGITAL 2a01:8840:16:0:0:0:0:36 65.22.20.36
+nserver:      V0N1.NIC.DIGITAL 2a01:8840:17:0:0:0:0:36 65.22.21.36
+nserver:      V0N2.NIC.DIGITAL 2a01:8840:18:0:0:0:0:36 65.22.22.36
+nserver:      V0N3.NIC.DIGITAL 161.232.10.36 2a01:8840:f4:0:0:0:0:36
+nserver:      V2N0.NIC.DIGITAL 2a01:8840:19:0:0:0:0:36 65.22.23.36
+nserver:      V2N1.NIC.DIGITAL 161.232.11.36 2a01:8840:f5:0:0:0:0:36
+ds-rdata:     22126 8 2 70f9666735926ed661ac90bd6c0f9c2a7bfb6ad24f5e9a4892ad7d25d7e151f5
 
 whois:        whois.nic.digital
 
@@ -45,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.donuts.domains/
 
 created:      2014-04-17
-changed:      2020-04-16
+changed:      2021-10-27
 source:       IANA
 
