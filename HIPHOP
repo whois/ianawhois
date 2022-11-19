@@ -4,51 +4,41 @@
 
 domain:       HIPHOP
 
-organisation: UNR Corp.
-address:      Third Floor, Monaco Towers, Georgetown
-address:      Grand Cayman, Cayman Islands
-address:      30369SMB-KY11202
-address:      Cayman Islands
+organisation: Dot Hip Hop, LLC
+address:      2051 Waters Edge Dr.
+address:      Pompano Beach, FL 33062
+address:      United States
 
 contact:      administrative
-name:         Frank Schilling
-organisation: UNR Corp.
-address:      Third Floor, Monaco Towers, Georgetown
-address:      Grand Cayman, Cayman Islands
-address:      30369SMB-KY11202
-address:      Cayman Islands
-phone:        +1 345 746 3687 
-fax-no:       +1 345 746 3687 
-e-mail:       contact@unr.com
+name:         Chief Legal Officer
+organisation: Dot Hip Hop, LLC
+address:      2051 Waters Edge Dr.
+address:      Pompano Beach, FL 33062
+address:      United States
+phone:        +1.202.549.5079
+e-mail:       jeff@get.hiphop
 
 contact:      technical
-name:         Francisco Obispo
-organisation: UNR Corp.
-address:      Third Floor, Monaco Towers, Georgetown
-address:      Grand Cayman, Cayman Islands
-address:      30369SMB-KY11202
-address:      Cayman Islands
-phone:        +1 345 746 3687 
-fax-no:       +1 345 746 3687 
-e-mail:       ops@unr.com
+name:         Vice President, Engineering
+organisation: Tucows Inc
+address:      96 Mowat Avenue
+address:      Toronto, Ontario M6K3M1
+address:      Canada
+phone:        +1.949.903.3449
+e-mail:       trs-ops@tucows.com
 
 nserver:      NS1.UNIREGISTRY.NET 2620:57:4000:1:0:0:0:1 64.96.1.1
 nserver:      NS2.UNIREGISTRY.INFO 64.96.2.1
 nserver:      NS3.UNIREGISTRY.NET 185.159.197.3 2620:10a:80aa:0:0:0:0:3
 nserver:      NS4.UNIREGISTRY.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
-ds-rdata:     18467 5 1 111D660D1DE235CC5F06759EE5683223CF0B410C
-ds-rdata:     18467 5 2 8F9E5682083362D4B911589FD9352315A6B09EBB0D15B38598435BAA26F3161E
-ds-rdata:     4318 5 1 A3E154BB335869278313AB56C6A7ABBBCC543D06
-ds-rdata:     42352 5 2 5943D3BC7DA8882971BD32B19ABCB563CC7BFF51F60702DAA43257C84A7D78DA
-ds-rdata:     42352 5 1 88DFD84F659B93B368DB22621912417DF4B5BEE5
-ds-rdata:     4318 5 2 84B5FAE6C70901AC831720CEF3388E2B169B9521799DF03E9B762C812FE1CB04
+ds-rdata:     7668 13 2 DE0BDE4365798B5080D31D7A5A8E7182D4924938761BFD506AF371EA5CB36AB0
 
-whois:        whois.uniregistry.net
+whois:        whois.nic.hiphop
 
 status:       ACTIVE
-remarks:      Registration information: http://uniregistry.link
+remarks:      Registration information: https://get.hiphop
 
 created:      2014-05-08
-changed:      2020-11-03
+changed:      2022-08-10
 source:       IANA
 
