@@ -24,14 +24,13 @@ e-mail:       ops@pir.org
 
 contact:      technical
 name:         Director, DNS Infrastructure Group
-organisation: Afilias
-address:      Building 3, Suite 105
-address:      300 Welsh Road
-address:      Horsham, PA 19044
+organisation: Donuts Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
 address:      United States
-phone:        +1 215.706.5700
-fax-no:       +1 215.706.5701
-e-mail:       tld-tech-poc@afilias.info
+phone:        1.425.298.2200
+fax-no:       1.425.671.0020
+e-mail:       tldtech@donuts.email
 
 nserver:      A0.NIC.XN--C1AVG 2a01:8840:b2:0:0:0:0:25 65.22.184.25
 nserver:      A2.NIC.XN--C1AVG 2a01:8840:b5:0:0:0:0:25 65.22.187.25
@@ -39,12 +38,12 @@ nserver:      B0.NIC.XN--C1AVG 2a01:8840:b3:0:0:0:0:25 65.22.185.25
 nserver:      C0.NIC.XN--C1AVG 2a01:8840:b4:0:0:0:0:25 65.22.186.25
 ds-rdata:     16534 8 2 85d1ff435e850dcef97843fd4ceed2d36ceec9186ddcbc5fb3bd9ad440d7c398
 
-whois:        whois.publicinterestregistry.net
+whois:        whois.nic.xn--c1avg
 
 status:       ACTIVE
-remarks:      Registration information: http://www.pir.org
+remarks:      Registration information: http://nic.xn--c1avg
 
 created:      2014-02-27
-changed:      2020-10-27
+changed:      2022-06-03
 source:       IANA
 
