@@ -5,31 +5,32 @@
 domain:       BIO
 
 organisation: Afilias Limited
-address:      Level 2, Plaza 3
-address:      Custom House Plaza
-address:      Harbourmaster Place
-address:      Dublin D01 VY76
-address:      Ireland
+address:      c/o Donuts Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
+address:      United States
 
 contact:      administrative
-name:         Senior Vice President
-organisation: Afilias
-address:      Building 3, Suite 105, 300 Welsh Road
-address:      Horsham, PA 19044
+name:         Vice President, Engineering
+organisation: Afilias Limited
+address:      c/o Donuts Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
 address:      United States
-phone:        +1 215 706 5700
-fax-no:       +1 215 706 5701
-e-mail:       tld-admin-poc@afilias.info
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldadmin@donuts.email
 
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
-organisation: Afilias
-address:      Building 3, Suite 105, 300 Welsh Road
-address:      Horsham, PA 19044
+organisation: Afilias Limited
+address:      c/o Donuts Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
 address:      United States
-phone:        +1 215 706 5700
-fax-no:       +1 215 706 5701
-e-mail:       tld-tech-poc@afilias.info
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@donuts.email
 
 nserver:      A0.NIC.BIO 2a01:8840:52:0:0:0:0:9 65.22.84.9
 nserver:      A2.NIC.BIO 2a01:8840:55:0:0:0:0:9 65.22.87.9
@@ -37,12 +38,12 @@ nserver:      B0.NIC.BIO 2a01:8840:53:0:0:0:0:9 65.22.85.9
 nserver:      C0.NIC.BIO 2a01:8840:54:0:0:0:0:9 65.22.86.9
 ds-rdata:     16334 8 2 aeaf99ce9c6f64b1607605dae987d3bd0acd4c5490691322b98c592c9c27b14b
 
-whois:        whois.afilias.net
+whois:        whois.nic.bio
 
 status:       ACTIVE
-remarks:      Registration information: http://afilias.info/contact-us
+remarks:      Registration information: https://donuts.domains/
 
 created:      2014-05-15
-changed:      2020-10-01
+changed:      2021-12-01
 source:       IANA
 
