@@ -31,16 +31,15 @@ fax-no:       +27115681492
 e-mail:       icann@registry.net.za
 
 nserver:      COZA1.DNSNODE.NET 194.146.106.74 2001:67c:1010:18:0:0:0:53
-nserver:      NS.COZA.NET.ZA 2001:43f8:30:0:0:0:0:200 206.223.136.200
-nserver:      NS2US.DNS.BUSINESS 147.135.106.236 2604:2dc0:200:2eb:0:0:0:2
+nserver:      NSP.NETNOD.SE 194.58.198.33 2a01:3f1:3033:0:0:0:0:53
 ds-rdata:     44605 8 2 872009b128134f098aeb415390e1ccce0df64338f7d3345df140c59fb15c7d82
 
-whois:        africa-whois.registry.net.za
+whois:        whois.nic.africa
 
 status:       ACTIVE
 remarks:      Registration information: http://nic.africa
 
 created:      2017-02-11
-changed:      2019-09-27
+changed:      2022-04-04
 source:       IANA
 
