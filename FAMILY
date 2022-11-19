@@ -4,38 +4,39 @@
 
 domain:       FAMILY
 
-organisation: United TLD Holdco Ltd.
-address:      One Clarendon Row, Dublin 2, Co. Dublin
-address:      Ireland
+organisation: Dog Beach, LLC
+address:      Donuts Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
+address:      United States
 
 contact:      administrative
-name:         Serina Ness
+name:         Vice President, Engineering
 organisation: Donuts Inc.
-address:      Donuts Inc.
-address:      5808 Lake Washington Blvd NE, Suite 300
-address:      Kirkland, WA 98033
-address:      United States
-phone:        +1.425.283.8248
-fax-no:       +1.425.671.0020
-e-mail:       serina@donuts.email
-
-contact:      technical
-name:         Ben Levac
-organisation: Donuts Inc.
-address:      Donuts Inc.
-address:      5808 Lake Washington Blvd NE, Suite 300
-address:      Kirkland, WA 98033
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
 address:      United States
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       ben@donuts.email
+e-mail:       tldadmin@donuts.email
 
-nserver:      DEMAND.ALPHA.ARIDNS.NET.AU 2001:dcd:1:0:0:0:0:7 37.209.192.7
-nserver:      DEMAND.BETA.ARIDNS.NET.AU 2001:dcd:2:0:0:0:0:7 37.209.194.7
-nserver:      DEMAND.DELTA.ARIDNS.NET.AU 2001:dcd:4:0:0:0:0:7 37.209.198.7
-nserver:      DEMAND.GAMMA.ARIDNS.NET.AU 2001:dcd:3:0:0:0:0:7 37.209.196.7
-ds-rdata:     14734 8 1 5ACA145093E746ADEE2AD9F2875715EAEBB08CD8
-ds-rdata:     14734 8 2 026113F01D66B0AF38F80B0384FD58BBCBA679E21A5316AA8C283CE319F3D833
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Donuts Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
+address:      United States
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@donuts.email
+
+nserver:      V0N0.NIC.FAMILY 2a01:8840:1e:0:0:0:0:39 65.22.28.39
+nserver:      V0N1.NIC.FAMILY 2a01:8840:1f:0:0:0:0:39 65.22.29.39
+nserver:      V0N2.NIC.FAMILY 2a01:8840:20:0:0:0:0:39 65.22.30.39
+nserver:      V0N3.NIC.FAMILY 161.232.14.39 2a01:8840:f8:0:0:0:0:39
+nserver:      V2N0.NIC.FAMILY 2a01:8840:21:0:0:0:0:39 65.22.31.39
+nserver:      V2N1.NIC.FAMILY 161.232.15.39 2a01:8840:f9:0:0:0:0:39
+ds-rdata:     30022 8 2 2af2db00cdbdf65666c9afb59f4dc21cf8b8dc5b050a34fc594b1cbe6c858584
 
 whois:        whois.nic.family
 
@@ -43,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.donuts.domains/
 
 created:      2015-08-06
-changed:      2020-04-17
+changed:      2021-11-10
 source:       IANA
 
