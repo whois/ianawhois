@@ -10,23 +10,22 @@ address:      Las Vegas, NV 89119
 address:      United States
 
 contact:      administrative
-name:         Grant Carpenter
+name:         General Counsel
 organisation: XYZ.COM LLC
 address:      2121 E Tropicana Ave, STE2
 address:      Las Vegas, NV 89119
 address:      United States
 phone:        +1 702 757 6555
-e-mail:       gc@xyz.xyz
+e-mail:       hello@xyz.com
 
 contact:      technical
 name:         CTO
 organisation: CentralNic
-address:      Saddlers House, 4th Floor
-address:      44 Gutter Lane
+address:      Saddlers House 4th Floor 44 Gutter Lane
 address:      London EC2V 6BR
 address:      United Kingdom
-phone:        +44 2033880600
-fax-no:       +44 2033880601
+phone:        +44 20 33 88 0600
+fax-no:       +44 20 33 88 0601
 e-mail:       tld.ops@centralnic.com
 
 nserver:      A.NIC.BEAUTY 194.169.218.119 2001:67c:13cc:0:0:0:1:119
@@ -42,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.beauty/
 
 created:      2016-04-07
-changed:      2020-10-09
+changed:      2022-08-16
 source:       IANA
 
