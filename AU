@@ -5,15 +5,16 @@
 domain:       AU
 
 organisation: .au Domain Administration (auDA)
-address:      Lv 17
-address:      1 Collins St
+address:      Level 19
+address:      8 Exhibition Street
 address:      Melbourne VIC 3000
 address:      Australia
 
 contact:      administrative
 name:         Chief Operating Officer
 organisation: .au Domain Administration (auDA)
-address:      Lv 17, 1 Collins St
+address:      Level 19
+address:      8 Exhibition Street
 address:      Melbourne VIC 3000
 address:      Australia
 phone:        + 61 03 8341 4111
@@ -23,23 +24,23 @@ e-mail:       coo@auda.org.au
 contact:      technical
 name:         Chief Technical Officer
 organisation: .au Domain Administration (auDA)
-address:      Lv 17 1 Collins St
+address:      Level 19
+address:      8 Exhibition Street
 address:      Melbourne VIC 3000
 address:      Australia
 phone:        +61 (0)3 8341 4111
 fax-no:       +61 (0)3 8341 4112
 e-mail:       auda.iana@auda.org.au
 
-nserver:      A.AU 2407:6e00:254:306:0:0:0:73 58.65.254.73
 nserver:      C.AU 162.159.24.179 2400:cb00:2049:1:0:0:a29f:18b3
 nserver:      D.AU 162.159.25.38 2400:cb00:2049:1:0:0:a29f:1926
-nserver:      M.AU 2001:502:2eda:0:0:0:0:24 37.209.192.5
-nserver:      N.AU 2001:502:ad09:0:0:0:0:24 37.209.194.5
+nserver:      M.AU 2001:dcd:1:0:0:0:0:5 37.209.192.5
+nserver:      N.AU 2001:dcd:2:0:0:0:0:5 37.209.194.5
 nserver:      Q.AU 2a01:8840:be:0:0:0:0:1 65.22.196.1
 nserver:      R.AU 2a01:8840:bf:0:0:0:0:1 65.22.197.1
 nserver:      S.AU 2a01:8840:c0:0:0:0:0:1 65.22.198.1
 nserver:      T.AU 2a01:8840:c1:0:0:0:0:1 65.22.199.1
-ds-rdata:     43126 8 2 369DA1B3A768FDFD10728830C51B59493C1F74F9CD2254DA63720D5249B59D4C
+ds-rdata:     34882 8 2 8de6a7a1aa8ac4ad4dc732074f43c08be6cb88cfbc245207e8fd70b3014e32b4
 
 whois:        whois.auda.org.au
 
@@ -48,6 +49,6 @@ remarks:      Registration information:
 remarks:      https://www.auda.org.au/domains/au-domains/
 
 created:      1986-03-05
-changed:      2021-02-01
+changed:      2022-10-06
 source:       IANA
 
