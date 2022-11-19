@@ -36,14 +36,14 @@ nserver:      D.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
 nserver:      E.EXT.NIC.FR 193.176.144.22 2a00:d78:0:102:193:176:144:22
 nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
 nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
-ds-rdata:     64798 13 2 1f3df7f535f52c10bb7f9fac3791319924f279db261385d29493f191c202f99e
+ds-rdata:     58156 13 2 712dd1bbc29e719caf3b34e9a0bee2d443df1ed9d2d6e09b97baa828d5ff3dc7
 
 whois:        whois.nic.yt
 
 status:       ACTIVE
-remarks:      Registration information: http://www.nic.yt/
+remarks:      Registration information: http://www.nic.yt
 
 created:      1997-11-17
-changed:      2021-02-02
+changed:      2022-10-04
 source:       IANA
 
