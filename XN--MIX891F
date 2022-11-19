@@ -12,8 +12,6 @@ address:      Macao
 contact:      administrative
 name:         MONIC Administrative Contact
 organisation: Macao Network Information Centre (MONIC) - HNET Asia
-address:      eSignTrust Registration Authority
-address:      Division of Electronic Certification Services
 address:      Macao Post and Telecommunications Bureau
 address:      Avenida da Praia Grande no.789, R/C, Macau
 address:      Macao
@@ -24,8 +22,6 @@ e-mail:       hnet.asia-admin@monic.mo
 contact:      technical
 name:         MONIC Technical Contact
 organisation: Macao Network Information Centre (MONIC) - HNET Asia
-address:      eSignTrust Registration Authority
-address:      Division of Electronic Certification Services
 address:      Macao Post and Telecommunications Bureau
 address:      Avenida da Praia Grande no.789, R/C, Macau
 address:      Macao
@@ -47,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.monic.mo
 
 created:      2015-04-21
-changed:      2018-04-30
+changed:      2022-07-25
 source:       IANA
 
