@@ -5,46 +5,42 @@
 domain:       SEX
 
 organisation: ICM Registry SX LLC
-address:      2505 Second Ave, Suite 520
-address:      Seattle, Washington 98121
+address:      2155 E. GoDaddy Way
+address:      Tempe, AZ 85284
 address:      United States
 
 contact:      administrative
-name:         Admin Contact
-organisation: ICM Registry LLC
-address:      2505 Second Ave, Suite 520
-address:      Seattle, Washington 98121
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      2155 E. GoDaddy Way
+address:      Tempe, AZ 85284
 address:      United States
-phone:        +1 877 734 4783
-fax-no:       +1 877 809 3183
-e-mail:       ops@mmx.co
+phone:        +1 480-505-8800
+fax-no:       +1 480-624-2546
+e-mail:       iana@registry.godaddy
 
 contact:      technical
-name:         Chief Technical Officer
-organisation: UNR Corp.
-address:      Third Floor, Monaco Towers, Georgetown
-address:      Grand Cayman, Cayman Islands
-address:      30369SMB-KY11202
-address:      Cayman Islands
-phone:        +1 345 746 3687
-fax-no:       +1 345 746 3687
-e-mail:       ops@unr.com
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      2155 E GoDaddy Way
+address:      Tempe, AZ 85284
+address:      United States
+phone:        +1 480-505-8800
+fax-no:       +1 480-624-2546
+e-mail:       iana@registry.godaddy
 
-nserver:      NS1.UNIREGISTRY.NET 2620:57:4000:1:0:0:0:1 64.96.1.1
-nserver:      NS2.UNIREGISTRY.INFO 64.96.2.1
-nserver:      NS5.UNIREGISTRY.NET 2001:500:14:7002:ad:0:0:1 204.61.217.2
-nserver:      NS6.UNIREGISTRY.INFO 206.51.254.2 2620:171:804:ad2:0:0:0:2
-ds-rdata:     17466 7 2 4da5cb3c50f083650a323f6abbb8aa9a0673451d9daa4826253f5592084af478
-ds-rdata:     17466 7 1 d21e931f5ffd26dc73aea12f5b2811b058ee53bf
-ds-rdata:     63876 7 2 93DD77EF2A29E805E1392773FBD7C26ED5090BED34A4A051289F4535F3B065B0
-ds-rdata:     63876 7 1 AC14EA15B91BC5F5CE2A7E5875A118DC870A0C49
+nserver:      A.NIC.SEX 2001:dcd:1:0:0:0:0:10 37.209.192.10
+nserver:      B.NIC.SEX 2001:dcd:2:0:0:0:0:10 37.209.194.10
+nserver:      C.NIC.SEX 2001:dcd:3:0:0:0:0:10 37.209.196.10
+nserver:      D.NIC.SEX 2001:dcd:4:0:0:0:0:10 37.209.198.10
+ds-rdata:     53905 8 2 1BC21CFA8CE05AF75007AE4E83667DC97EB6939B9253CBAA0D124C18D49F09D6
 
-whois:        whois.registrar.adult
+whois:        whois.nic.sex
 
 status:       ACTIVE
-remarks:      Registration information: http://icmregistry.com
+remarks:      Registration information: http://nic.sex
 
 created:      2015-04-09
-changed:      2020-11-03
+changed:      2022-07-18
 source:       IANA
 
