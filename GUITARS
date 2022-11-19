@@ -4,51 +4,48 @@
 
 domain:       GUITARS
 
-organisation: UNR Corp.
-address:      Third Floor, Monaco Towers, Georgetown
-address:      Grand Cayman, Cayman Islands
-address:      30369SMB-KY11202
-address:      Cayman Islands
+organisation: XYZ.COM LLC
+address:      2121 E Tropicana Ave, Suite 2
+address:      Las Vegas, NV 89119
+address:      United States
 
 contact:      administrative
-name:         Frank Schilling
-organisation: UNR Corp.
-address:      Third Floor, Monaco Towers, Georgetown
-address:      Grand Cayman, Cayman Islands
-address:      30369SMB-KY11202
-address:      Cayman Islands
-phone:        +1 345 746 3687 
-fax-no:       +1 345 746 3687 
-e-mail:       contact@unr.com
+name:         General Counsel
+organisation: XYZ.COM LLC
+address:      2121 E Tropicana Ave, Suite 2
+address:      Las Vegas, NV 89119
+address:      United States
+phone:        +1 702 763 2191
+e-mail:       hello@xyz.com
 
 contact:      technical
-name:         Francisco Obispo
-organisation: UNR Corp.
-address:      Third Floor, Monaco Towers, Georgetown
-address:      Grand Cayman, Cayman Islands
-address:      30369SMB-KY11202
-address:      Cayman Islands
-phone:        +1 345 746 3687 
-fax-no:       +1 345 746 3687 
-e-mail:       ops@unr.com
+name:         CTO
+organisation: CentralNic
+address:      Saddlers House, 4th Floor
+address:      44 Gutter Lane
+address:      London EC2V 6BR
+address:      United Kingdom
+phone:        +44 20 33 88 0600
+fax-no:       +44 20 33 88 0601
+e-mail:       tld.ops@centralnic.com
 
-nserver:      NS1.UNIREGISTRY.NET 2620:57:4000:1:0:0:0:1 64.96.1.1
-nserver:      NS2.UNIREGISTRY.INFO 64.96.2.1
-nserver:      NS3.UNIREGISTRY.NET 185.159.197.3 2620:10a:80aa:0:0:0:0:3
-nserver:      NS4.UNIREGISTRY.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
-ds-rdata:     62849 5 1 7AFB61D09960E51EF0B0337834B17BA533E26D3F
-ds-rdata:     62849 5 2 84B9ECF472CD56FF8EFDE4FBFEB45C2933369870062A0453E2D7F3A2286F9A5E
+nserver:      A.NIC.GUITARS 194.169.218.149 2001:67c:13cc:0:0:0:1:149
+nserver:      B.NIC.GUITARS 185.24.64.149 2a04:2b00:13cc:0:0:0:1:149
+nserver:      C.NIC.GUITARS 212.18.248.149 2a04:2b00:13ee:0:0:0:0:149
+nserver:      D.NIC.GUITARS 212.18.249.149 2a04:2b00:13ff:0:0:0:0:149
 ds-rdata:     39502 5 1 6186E2C33FB4719080BE060E131E9339BF9CFA39
 ds-rdata:     892 5 1 E421D29A8D62E53665069DD9B99E04A86F4FE8E3
 ds-rdata:     892 5 2 AA980F135EB29C27887F8DFCDD0BAB90DCCF0740EF3F11FB3256B8A6A8C7FBF2
 ds-rdata:     39502 5 2 742844EC01D87ECEEC0D34B7DE1D39E376C697C73D36D90C9D5FAD65625B624F
+ds-rdata:     17278 5 2 e0afcc946458dcf20874905a1ed2626cfcea262016ae87bc53f8badfb0d497bb
+ds-rdata:     17278 5 1 c127e898212738f4a0723a1d4feb33b59b7ea719
 
-whois:        whois.uniregistry.net
+whois:        whois.nic.guitars
 
 status:       ACTIVE
-remarks:      Registration information: http://uniregistry.link
+remarks:      Registration information: https://nic.guitars
 
 created:      2014-01-09
-changed:      2020-11-05
+changed:      2022-08-16
 source:       IANA
 
