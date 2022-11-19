@@ -4,39 +4,39 @@
 
 domain:       PUB
 
-organisation: United TLD Holdco Ltd.
-address:      One Clarendon Row
-address:      Dublin 2, Co. Dublin
-address:      Ireland
+organisation: Dog Beach, LLC
+address:      Donuts Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
+address:      United States
 
 contact:      administrative
-name:         Serina Ness
+name:         Vice President, Engineering
 organisation: Donuts Inc.
-address:      Donuts Inc.
-address:      5808 Lake Washington Blvd NE, Suite 300
-address:      Kirkland, WA 98033
-address:      United States
-phone:        +1.425.283.8248
-fax-no:       +1.425.671.0020
-e-mail:       serina@donuts.email
-
-contact:      technical
-name:         Ben Levac
-organisation: Donuts Inc.
-address:      Donuts Inc.
-address:      5808 Lake Washington Blvd NE, Suite 300
-address:      Kirkland, WA 98033
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
 address:      United States
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       ben@donuts.email
+e-mail:       tldadmin@donuts.email
 
-nserver:      DEMAND.ALPHA.ARIDNS.NET.AU 2001:dcd:1:0:0:0:0:7 37.209.192.7
-nserver:      DEMAND.BETA.ARIDNS.NET.AU 2001:dcd:2:0:0:0:0:7 37.209.194.7
-nserver:      DEMAND.DELTA.ARIDNS.NET.AU 2001:dcd:4:0:0:0:0:7 37.209.198.7
-nserver:      DEMAND.GAMMA.ARIDNS.NET.AU 2001:dcd:3:0:0:0:0:7 37.209.196.7
-ds-rdata:     18787 8 2 2666FD018265B32AF4FAF00276229E5608EAE485700452A12FC0CEFEAA7C83BC
-ds-rdata:     18787 8 1 3D19209FDB85249875888644C150A34E1C75E64B
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Donuts Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
+address:      United States
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@donuts.email
+
+nserver:      V0N0.NIC.PUB 2a01:8840:1e:0:0:0:0:7 65.22.28.7
+nserver:      V0N1.NIC.PUB 2a01:8840:1f:0:0:0:0:7 65.22.29.7
+nserver:      V0N2.NIC.PUB 2a01:8840:20:0:0:0:0:7 65.22.30.7
+nserver:      V0N3.NIC.PUB 161.232.14.7 2a01:8840:f8:0:0:0:0:7
+nserver:      V2N0.NIC.PUB 2a01:8840:21:0:0:0:0:7 65.22.31.7
+nserver:      V2N1.NIC.PUB 161.232.15.7 2a01:8840:f9:0:0:0:0:7
+ds-rdata:     53776 8 2 3766469c89af5eca8e8c5852e359396294057677c5ae8ca9c641422d7237bb4f
 
 whois:        whois.nic.pub
 
@@ -44,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.donuts.domains/
 
 created:      2014-02-20
-changed:      2020-04-16
+changed:      2021-11-10
 source:       IANA
 
