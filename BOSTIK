@@ -33,7 +33,7 @@ e-mail:       pocbostik@afnic.fr
 nserver:      D.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
 nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
 nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
-ds-rdata:     49128 13 2 17812dc967b23aff846caf7df0423f4cd62d80276525ca8ee543632e28065cfb
+ds-rdata:     45431 13 2 16D460DE3B5D232225100E179AB80BD20A398618160C5B1C934A39F5E207ED45
 
 whois:        whois.nic.bostik
 
@@ -41,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.bostik.com
 
 created:      2015-11-06
-changed:      2020-07-28
+changed:      2022-07-28
 source:       IANA
 
