@@ -6,36 +6,35 @@ domain:       手机
 domain-ace:   XN--KPUT3I
 
 organisation: Beijing RITT-Net Technology Development Co., Ltd
-address:      Rm1502, Building B of CEC Plaza, No.3 Danling Street, Haidian District
-address:      Beijing, Beijing 100080
+address:      Building 13, Yard 1, Baosheng South Road, Haidian District
+address:      Beijing, Beijing 100083
 address:      China
 
 contact:      administrative
 name:         VP
 organisation: Beijing RITT-Net Technology Development Co., Ltd
-address:      Rm1502, Building B of CEC Plaza, No.3 Danling Street, Haidian District
-address:      Beijing, Beijing 100080
+address:      Building 13, Yard 1, Baosheng South Road, Haidian District
+address:      Beijing, Beijing 100083
 address:      China
-phone:        +86 10 82512114
-fax-no:       +86 10 82688382
+phone:        +86.1082512114
+fax-no:       +86.1082512114
 e-mail:       contact@rntd.cn
 
 contact:      technical
-name:         Senior Director, DNS Infrastructure Group
-organisation: Afilias
-address:      Building 3, Suite 105
-address:      300 Welsh Road
-address:      Horsham, PA 19044
-address:      United States
-phone:        +1 215.706.5700
-fax-no:       +1 215.706.5701
-e-mail:       tld-tech-poc@afilias.info
+name:         VP
+organisation: Chief Engineer
+address:      Building 13, Yard 1, Baosheng South Road, Haidian District
+address:      Beijing, Beijing 100083
+address:      China
+phone:        +86.1082512114
+fax-no:       +86.1082512114
+e-mail:       contact@rntd.cn
 
-nserver:      A0.NIC.XN--KPUT3I 2a01:8840:d2:0:0:0:0:1 65.22.216.1
-nserver:      A2.NIC.XN--KPUT3I 2a01:8840:d5:0:0:0:0:1 65.22.219.1
-nserver:      B0.NIC.XN--KPUT3I 2a01:8840:d3:0:0:0:0:1 65.22.217.1
-nserver:      C0.NIC.XN--KPUT3I 2a01:8840:d4:0:0:0:0:1 65.22.218.1
-ds-rdata:     52711 8 2 5f79e365d1534c004a0b4ca879766111accb9350241c0de57cdff36ab8cf87f1
+nserver:      NS1.TELEINFO.CN 103.61.60.1 2402:7d80:0:0:0:0:0:1
+nserver:      NS2.TELEINFOO.COM 103.61.61.1 2402:7d80:8888:0:0:0:0:1
+nserver:      NS3.TELEINFO.CN 103.61.62.1
+nserver:      NS4.TELEINFOO.COM 103.61.63.1
+ds-rdata:     27565 8 2 A00D06BA7171102D9575F47AF108B70FF9E24CE0D2ED3AD8F8923F14BB58F217
 
 whois:        whois.nic.xn--kput3i
 
@@ -43,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.rntd.cn
 
 created:      2014-06-05
-changed:      2020-11-20
+changed:      2022-10-18
 source:       IANA
 
