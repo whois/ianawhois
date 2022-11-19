@@ -4,38 +4,36 @@
 
 domain:       STUDY
 
-organisation: OPEN UNIVERSITIES AUSTRALIA PTY LTD
-address:      Level 1, 473 Bourke Street,
-address:      Melbourne,
-address:      VIC 3000
-address:      Australia
+organisation: Registry Services, LLC
+address:      2155 E. GoDaddy Way
+address:      Tempe, AZ 85284
+address:      United States
 
 contact:      administrative
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      14455 North Hayden Rd.
-address:      Scottsdale, AZ 85260
+address:      2155 E GoDaddy Way
+address:      Tempe, AZ 85284
 address:      United States
 phone:        +1 480-505-8800
-fax-no:       +1 480-393-4275
+fax-no:       +1 480-624-2546
 e-mail:       iana@registry.godaddy
 
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      14455 North Hayden Rd.
-address:      Scottsdale, AZ 85260
+address:      2155 E GoDaddy Way
+address:      Tempe, AZ 85284
 address:      United States
 phone:        +1 480-505-8800
-fax-no:       +1 480-393-4275
+fax-no:       +1 480-624-2546
 e-mail:       iana@registry.godaddy
 
 nserver:      A.NIC.STUDY 2001:dcd:1:0:0:0:0:10 37.209.192.10
 nserver:      B.NIC.STUDY 2001:dcd:2:0:0:0:0:10 37.209.194.10
 nserver:      C.NIC.STUDY 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      D.NIC.STUDY 2001:dcd:4:0:0:0:0:10 37.209.198.10
-ds-rdata:     53764 8 1 3E8A88B859E3EF06C80F5A15BF39ED62FF7B3539
-ds-rdata:     53764 8 2 F84D7B589E865FF226E20CE8155A61A94F8AAC72E3C0DD781527F6666B63C487
+ds-rdata:     52297 8 2 D306E55CE201DDD1EA5FD896B2FA4389A25F3B9D71E2F91076B65552D421ACFF
 
 whois:        whois.nic.study
 
@@ -43,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.open.edu.au/
 
 created:      2015-02-19
-changed:      2020-10-19
+changed:      2022-07-18
 source:       IANA
 
