@@ -20,26 +20,25 @@ e-mail:       tjxregistries@fairwindspartners.com
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      14455 North Hayden Rd.
-address:      Scottsdale, AZ 85260
+address:      2155 E GoDaddy Way
+address:      Tempe, AZ 85284
 address:      United States
-phone:        +1 480-505-8800
-fax-no:       +1 480-393-4275
+phone:        +1 480 505 8800
+fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
 
+nserver:      A.NIC.WINNERS 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.WINNERS 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.WINNERS 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.WINNERS 156.154.144.183 2610:a1:1071:0:0:0:0:b7
 nserver:      NS2.DNS.NIC.WINNERS 156.154.145.183 2610:a1:1072:0:0:0:0:b7
 nserver:      NS3.DNS.NIC.WINNERS 156.154.159.183 2610:a1:1073:0:0:0:0:b7
-nserver:      NS4.DNS.NIC.WINNERS 156.154.156.183 2610:a1:1074:0:0:0:0:b7
-nserver:      NS5.DNS.NIC.WINNERS 156.154.157.183 2610:a1:1075:0:0:0:0:b7
-nserver:      NS6.DNS.NIC.WINNERS 156.154.158.183 2610:a1:1076:0:0:0:0:b7
-ds-rdata:     29047 8 1 EB8B3F0947B9056D0CE7853B9EA9EEE6CBD1FF50
-ds-rdata:     29047 8 2 2057B597F704D895F4422DE2655AB24C26CEAF2E228ECD9CAE02A8A8D5079F26
+ds-rdata:     44842 8 2 E0735A12E87E2C61DA2A863567D0D12D3754B2BC42237C53F08280F833F9B42A
 
 status:       ACTIVE
 remarks:      Registration information: http://www.tjx.com
 
 created:      2016-04-07
-changed:      2020-10-12
+changed:      2022-07-21
 source:       IANA
 
