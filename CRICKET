@@ -20,21 +20,20 @@ e-mail:       edgar.c.lavarello@gi.pwc.com
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      14455 North Hayden Rd.
-address:      Scottsdale, AZ 85260
+address:      2155 E GoDaddy Way
+address:      Tempe, AZ 85284
 address:      United States
-phone:        +1 480-505-8800
-fax-no:       +1 480-393-4275
+phone:        +1 480 505 8800
+fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
 
+nserver:      A.NIC.CRICKET 2001:dcd:1:0:0:0:0:10 37.209.192.10
+nserver:      B.NIC.CRICKET 2001:dcd:2:0:0:0:0:10 37.209.194.10
+nserver:      C.NIC.CRICKET 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      NS1.DNS.NIC.CRICKET 156.154.144.220 2610:a1:1071:0:0:0:0:dc
 nserver:      NS2.DNS.NIC.CRICKET 156.154.145.220 2610:a1:1072:0:0:0:0:dc
 nserver:      NS3.DNS.NIC.CRICKET 156.154.159.220 2610:a1:1073:0:0:0:0:dc
-nserver:      NS4.DNS.NIC.CRICKET 156.154.156.220 2610:a1:1074:0:0:0:0:dc
-nserver:      NS5.DNS.NIC.CRICKET 156.154.157.220 2610:a1:1075:0:0:0:0:dc
-nserver:      NS6.DNS.NIC.CRICKET 156.154.158.220 2610:a1:1076:0:0:0:0:dc
-ds-rdata:     28141 8 1 F657E27E8E72A10D0C6C73B59E5CE5E835660459
-ds-rdata:     28141 8 2 17E6E25642BA0D3C5CD6A9FE9DDA84F7115B49F7B34B8648E5563B2B87B2CDCA
+ds-rdata:     41779 8 2 300973057D1EEAEAA9A7A558359564F48E7654B88CD3C81D23E48F700701AFCE
 
 whois:        whois.nic.cricket
 
@@ -42,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.cricket
 
 created:      2014-11-13
-changed:      2020-10-12
+changed:      2022-07-21
 source:       IANA
 
