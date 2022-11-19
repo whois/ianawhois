@@ -20,27 +20,19 @@ fax-no:       1-345-945-8284
 e-mail:       sonji.myles@ofreg.ky
 
 contact:      technical
-name:         Francisco Obispo
-organisation: Uniregistry Inc.
-address:      Governors Square, Unit 3-110
-address:      23 Lime Tree Bay Avenue
-address:      Grand Cayman, Cayman Islands
-address:      PO Box 1361, George Town, KY1-1108
-address:      Cayman Islands
-phone:        +1.3457496263
-fax-no:       +1.3457466263
-e-mail:       ops@unr.com
+name:         Vice President, Engineering
+organisation: Tucows Inc
+address:      96 Mowat Avenue
+address:      Toronto, Ontario M6K3M1
+address:      Canada
+phone:        +1.949.903.3449
+e-mail:       trs-ops@tucows.com
 
 nserver:      NS1.UNIREGISTRY.NET 2620:57:4000:1:0:0:0:1 64.96.1.1
 nserver:      NS2.UNIREGISTRY.INFO 64.96.2.1
 nserver:      NS3.UNIREGISTRY.NET 185.159.197.3 2620:10a:80aa:0:0:0:0:3
 nserver:      NS4.UNIREGISTRY.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
-ds-rdata:     27566 5 1 4010BC344088A61A41A2654EB5197C2B62EA6F47
-ds-rdata:     27566 5 2 7E3C406A1FF89436FCC8899A0A86F8798D3EAAB33018502F58F8328125B371F1
-ds-rdata:     34129 5 1 3D290F560A3EA7F4A6B77197654A974D3552156B
-ds-rdata:     58174 5 1 907B467602B4DFC50C3243B7CE1D3E773A1882E2
-ds-rdata:     34129 5 2 F486ADA5C0D9D116BE0EA60581F7DDE048CB2E37D228801BC72F1B697972865E
-ds-rdata:     58174 5 2 627AA8EA8DA2D3E569BED1E5B81349CA9A04C571990A764E1A5823DB6F5DB509
+ds-rdata:     38821 13 2 7FC55D2CABBA85A2CA6831ACA0565A64D7AD91E4861B114F317392B680DC6CBC
 
 whois:        whois.kyregistry.ky
 
@@ -48,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://uniregistry.com
 
 created:      1995-05-03
-changed:      2020-12-31
+changed:      2022-10-04
 source:       IANA
 
