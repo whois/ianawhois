@@ -4,46 +4,43 @@
 
 domain:       VODKA
 
-organisation: Minds + Machines Group Limited
-address:      Craigmuir Chambers, Road Town Tortola VG 1110
-address:      Virgin Islands, British
+organisation: Registry Services, LLC
+address:      2155 E. GoDaddy Way
+address:      Tempe AZ 85284
+address:      United States
 
 contact:      administrative
-name:         Admin Contact
-organisation: Minds + Machines Ltd
-address:      32 Nassau St, Dublin 2
-address:      Ireland
-phone:        +1-877-734-4783
-e-mail:       ops@mmx.co
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      2155 E GoDaddy Way
+address:      Tempe AZ 85284
+address:      United States
+phone:        +1 480-505-8800
+fax-no:       +1 480-624-2546
+e-mail:       iana@registry.godaddy
 
 contact:      technical
-name:         TLD Registry Services Technical
-organisation: Nominet
-address:      Minerva House,
-address:      Edmund Halley Road,
-address:      Oxford Science Park,
-address:      Oxford,
-address:      OX4 4DQ
-address:      United Kingdom
-phone:        +44.1865332211
-e-mail:       registrytechnical@nominet.uk
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      2155 E GoDaddy Way,
+address:      Tempe AZ 85284
+address:      United States
+phone:        +1 480-505-8800
+fax-no:       +1 480-624-2546
+e-mail:       iana@registry.godaddy
 
-nserver:      DNS1.NIC.VODKA 213.248.217.33 2a01:618:401:0:0:0:0:33
-nserver:      DNS2.NIC.VODKA 103.49.81.33 2401:fd80:401:0:0:0:0:33
-nserver:      DNS3.NIC.VODKA 213.248.221.33 2a01:618:405:0:0:0:0:33
-nserver:      DNS4.NIC.VODKA 2401:fd80:405:0:0:0:0:33 43.230.49.33
-nserver:      DNSA.NIC.VODKA 156.154.100.3 2001:502:ad09:0:0:0:0:3
-nserver:      DNSB.NIC.VODKA 156.154.101.3
-nserver:      DNSC.NIC.VODKA 156.154.102.3
-nserver:      DNSD.NIC.VODKA 156.154.103.3
-ds-rdata:     10127 8 2 B55E02F868D25A02A67344A805FD2A375F65012D8E39D597A8872DB9B555CC0B
+nserver:      A.NIC.VODKA 2001:dcd:1:0:0:0:0:10 37.209.192.10
+nserver:      B.NIC.VODKA 2001:dcd:2:0:0:0:0:10 37.209.194.10
+nserver:      C.NIC.VODKA 2001:dcd:3:0:0:0:0:10 37.209.196.10
+nserver:      D.NIC.VODKA 2001:dcd:4:0:0:0:0:10 37.209.198.10
+ds-rdata:     9085 8 2 4A2F917B298B97A57BF484931C74134A82B3EF0CE16DA123093C509EB9EA153E
 
 whois:        whois.nic.vodka
 
 status:       ACTIVE
-remarks:      Registration information: http://mmx.co
+remarks:      Registration information: http://nic.vodka/
 
 created:      2014-02-28
-changed:      2018-06-29
+changed:      2022-07-18
 source:       IANA
 
