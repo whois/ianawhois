@@ -20,21 +20,20 @@ e-mail:       edgar.c.lavarello@gi.pwc.com
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      14455 North Hayden Rd.
-address:      Scottsdale, AZ 85260
+address:      2155 E GoDaddy Way
+address:      Tempe, AZ 85284
 address:      United States
-phone:        +1 480-505-8800
-fax-no:       +1 480-393-4275
+phone:        +1 480 505 8800
+fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
 
+nserver:      A.NIC.LOAN 2001:dcd:1:0:0:0:0:10 37.209.192.10
+nserver:      B.NIC.LOAN 2001:dcd:2:0:0:0:0:10 37.209.194.10
+nserver:      C.NIC.LOAN 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      NS1.DNS.NIC.LOAN 156.154.144.106 2610:a1:1071:0:0:0:0:6a
 nserver:      NS2.DNS.NIC.LOAN 156.154.145.106 2610:a1:1072:0:0:0:0:6a
 nserver:      NS3.DNS.NIC.LOAN 156.154.159.106 2610:a1:1073:0:0:0:0:6a
-nserver:      NS4.DNS.NIC.LOAN 156.154.156.106 2610:a1:1074:0:0:0:0:6a
-nserver:      NS5.DNS.NIC.LOAN 156.154.157.106 2610:a1:1075:0:0:0:0:6a
-nserver:      NS6.DNS.NIC.LOAN 156.154.158.106 2610:a1:1076:0:0:0:0:6a
-ds-rdata:     64570 8 2 2D6966A2B60F01FA988C58B3D416BF775F695411E1DEDCA031231944A36CE2F0
-ds-rdata:     64570 8 1 B0C1988198C9D636D2A8D75A4A40C2271A00C57A
+ds-rdata:     32044 8 2 4263DEF7BAD2257B9020E8887811109CB097FE253BDB6CDCFA2C1F95EE136979
 
 whois:        whois.nic.loan
 
@@ -42,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.loan
 
 created:      2015-02-05
-changed:      2020-10-12
+changed:      2022-07-21
 source:       IANA
 
