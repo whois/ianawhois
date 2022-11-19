@@ -4,45 +4,46 @@
 
 domain:       GIVES
 
-organisation: United TLD Holdco Ltd.
-address:      One Clarendon Row, Dublin 2, Co. Dublin
-address:      Ireland
+organisation: Public Interest Registry (PIR)
+address:      11911 Freedom Drive 10th Floor, Suite 1000
+address:      Reston, VA 20190
+address:      United States
 
 contact:      administrative
-name:         Serina Ness
-organisation: Donuts Inc.
-address:      Donuts Inc.
-address:      5808 Lake Washington Blvd NE, Suite 300
-address:      Kirkland, WA 98033
+name:         Director of Operations, Compliance and Customer Support
+organisation: Public Interest Registry (PIR)
+address:      11911 Freedom Drive 10th Floor,
+address:      Suite 1000
+address:      Reston, VA 20190
 address:      United States
-phone:        +1.425.283.8248
-fax-no:       +1.425.671.0020
-e-mail:       serina@donuts.email
+phone:        1 703 889 5778
+fax-no:       1 703 889 5779
+e-mail:       ops@pir.org
 
 contact:      technical
-name:         Ben Levac
+name:         Senior Director, DNS Infrastructure Group
 organisation: Donuts Inc.
-address:      Donuts Inc.
-address:      5808 Lake Washington Blvd NE, Suite 300
-address:      Kirkland, WA 98033
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
 address:      United States
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       ben@donuts.email
+e-mail:       tldtech@donuts.email
 
-nserver:      DEMAND.ALPHA.ARIDNS.NET.AU 2001:dcd:1:0:0:0:0:7 37.209.192.7
-nserver:      DEMAND.BETA.ARIDNS.NET.AU 2001:dcd:2:0:0:0:0:7 37.209.194.7
-nserver:      DEMAND.DELTA.ARIDNS.NET.AU 2001:dcd:4:0:0:0:0:7 37.209.198.7
-nserver:      DEMAND.GAMMA.ARIDNS.NET.AU 2001:dcd:3:0:0:0:0:7 37.209.196.7
-ds-rdata:     25504 8 1 25B77E3DB30EDA71BA3C58453AF7164B0F9D51CC
-ds-rdata:     25504 8 2 93D44E5A3A8CC977FC1D18EE2D6FD805462A9048407CC84201DB887EA9FCFAF9
+nserver:      V0N0.NIC.GIVES 2a01:8840:22:0:0:0:0:61 65.22.32.61
+nserver:      V0N1.NIC.GIVES 2a01:8840:23:0:0:0:0:61 65.22.33.61
+nserver:      V0N2.NIC.GIVES 2a01:8840:24:0:0:0:0:61 65.22.34.61
+nserver:      V0N3.NIC.GIVES 161.232.16.61 2a01:8840:fa:0:0:0:0:61
+nserver:      V2N0.NIC.GIVES 2a01:8840:25:0:0:0:0:61 65.22.35.61
+nserver:      V2N1.NIC.GIVES 161.232.17.61 2a01:8840:fb:0:0:0:0:61
+ds-rdata:     51526 8 2 d1dd06d869102253fe38e8f665571b0f10a7f2c24ad4a92c10c47503919a6e1d
 
 whois:        whois.nic.gives
 
 status:       ACTIVE
-remarks:      Registration information: http://www.donuts.domains/
+remarks:      Registration information: http://nic.gives
 
 created:      2014-05-29
-changed:      2020-04-17
+changed:      2022-06-03
 source:       IANA
 
