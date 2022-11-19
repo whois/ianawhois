@@ -4,39 +4,39 @@
 
 domain:       KAUFEN
 
-organisation: United TLD Holdco Ltd.
-address:      One Clarendon Row
-address:      Dublin 2
-address:      Ireland
+organisation: Dog Beach, LLC
+address:      Donuts Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
+address:      United States
 
 contact:      administrative
-name:         Serina Ness
+name:         Vice President, Engineering
 organisation: Donuts Inc.
-address:      Donuts Inc.
-address:      5808 Lake Washington Blvd NE, Suite 300
-address:      Kirkland, WA 98033
-address:      United States
-phone:        +1.425.283.8248
-fax-no:       +1.425.671.0020
-e-mail:       serina@donuts.email
-
-contact:      technical
-name:         Ben Levac
-organisation: Donuts Inc.
-address:      Donuts Inc.
-address:      5808 Lake Washington Blvd NE, Suite 300
-address:      Kirkland, WA 98033
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
 address:      United States
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       ben@donuts.email
+e-mail:       tldadmin@donuts.email
 
-nserver:      DEMAND.ALPHA.ARIDNS.NET.AU 2001:dcd:1:0:0:0:0:7 37.209.192.7
-nserver:      DEMAND.BETA.ARIDNS.NET.AU 2001:dcd:2:0:0:0:0:7 37.209.194.7
-nserver:      DEMAND.DELTA.ARIDNS.NET.AU 2001:dcd:4:0:0:0:0:7 37.209.198.7
-nserver:      DEMAND.GAMMA.ARIDNS.NET.AU 2001:dcd:3:0:0:0:0:7 37.209.196.7
-ds-rdata:     38410 8 1 7202EB7094C7E0170B1677DEF3073FADA6E6A767
-ds-rdata:     38410 8 2 E6BA0B99D26A1317672DB8FB62EA94D9CDC3FD1A72C0265FBB592CCC88BDCF9E
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Donuts Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
+address:      United States
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@donuts.email
+
+nserver:      V0N0.NIC.KAUFEN 2a01:8840:22:0:0:0:0:20 65.22.32.20
+nserver:      V0N1.NIC.KAUFEN 2a01:8840:23:0:0:0:0:20 65.22.33.20
+nserver:      V0N2.NIC.KAUFEN 2a01:8840:24:0:0:0:0:20 65.22.34.20
+nserver:      V0N3.NIC.KAUFEN 161.232.16.20 2a01:8840:fa:0:0:0:0:20
+nserver:      V2N0.NIC.KAUFEN 2a01:8840:25:0:0:0:0:20 65.22.35.20
+nserver:      V2N1.NIC.KAUFEN 161.232.17.20 2a01:8840:fb:0:0:0:0:20
+ds-rdata:     21757 8 2 08a94d2a8c54c7b7cdef0b6ec1d550d04110d86b904aca22327458ae8b2f0e86
 
 whois:        whois.nic.kaufen
 
@@ -44,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.donuts.domains/
 
 created:      2013-12-19
-changed:      2020-04-17
+changed:      2021-11-18
 source:       IANA
 
