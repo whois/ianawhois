@@ -9,13 +9,13 @@ address:      Unit 501, Level 5, Core C, Cyberport 3, 100 Cyberport Road
 address:      Hong Kong
 
 contact:      administrative
-name:         Noel Ng
+name:         Cherry Lam
 organisation: Hong Kong Internet Registration Corporation Ltd.
 address:      Unit 501, Level 5, Core C, Cyberport 3, 100 Cyberport Road
 address:      Hong Kong
 phone:        +852 2319 2303
 fax-no:       +852 2319 2626
-e-mail:       noel.ng@hkirc.hk
+e-mail:       info@hkirc.hk
 
 contact:      technical
 name:         Ben Lee
@@ -34,8 +34,7 @@ nserver:      V.HKIRC.NET.HK 2001:500:14:6046:ad:0:0:1 204.61.216.46
 nserver:      X.HKIRC.NET.HK 202.45.188.39 2405:3001:1:3a:0:0:0:27
 nserver:      Y.HKIRC.NET.HK 137.189.6.21 2405:3000:3:6:0:0:0:15
 nserver:      Z.HKIRC.NET.HK 194.146.106.70 2001:67c:1010:17:0:0:0:53
-ds-rdata:     38227 8 2 80561534799648df777a3b0f7aacdb518170404f355007fe8b118a4998a50da6
-ds-rdata:     38227 8 1 1fba2deec4911051d5192e5e1c29d068b056fdf3
+ds-rdata:     28487 8 2 b41ea828b063d4d5c188a23177fd1723e28c083a1a52768cf9f80e09798ecf6f
 
 whois:        whois.hkirc.hk
 
@@ -43,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.hkirc.hk
 
 created:      1990-01-03
-changed:      2020-11-16
+changed:      2022-11-03
 source:       IANA
 
