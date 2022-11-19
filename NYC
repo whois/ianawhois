@@ -11,36 +11,35 @@ address:      United States
 contact:      administrative
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      14455 North Hayden Rd.
-address:      Scottsdale, AZ 85260
+address:      2155 E GoDaddy Way
+address:      Tempe, AZ 85284
 address:      United States
 phone:        +1 480-505-8800
-fax-no:       +1 480-393-4275
+fax-no:       +1 480-624-2546
 e-mail:       iana@registry.godaddy
 
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      14455 North Hayden Rd.
-address:      Scottsdale, AZ 85260
+address:      2155 E GoDaddy Way
+address:      Tempe, AZ 85284
 address:      United States
 phone:        +1 480-505-8800
-fax-no:       +1 480-393-4275
+fax-no:       +1 480-624-2546
 e-mail:       iana@registry.godaddy
 
+nserver:      A.NIC.NYC 2001:dcd:1:0:0:0:0:10 37.209.192.10
+nserver:      B.NIC.NYC 2001:dcd:2:0:0:0:0:10 37.209.194.10
+nserver:      C.NIC.NYC 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      NS1.DNS.NIC.NYC 156.154.144.125 2610:a1:1071:0:0:0:0:7d
 nserver:      NS2.DNS.NIC.NYC 156.154.145.125 2610:a1:1072:0:0:0:0:7d
 nserver:      NS3.DNS.NIC.NYC 156.154.159.125 2610:a1:1073:0:0:0:0:7d
-nserver:      NS4.DNS.NIC.NYC 156.154.156.125 2610:a1:1074:0:0:0:0:7d
-nserver:      NS5.DNS.NIC.NYC 156.154.157.125 2610:a1:1075:0:0:0:0:7d
-nserver:      NS6.DNS.NIC.NYC 156.154.158.125 2610:a1:1076:0:0:0:0:7d
-ds-rdata:     3301 8 1 E777B9D2E920F23430CE42D1178AEC328CCC7565
-ds-rdata:     3301 8 2 F2AD13A31174FDEC87007EA1BCBADFB94E3EDE6BD69F10EAB0165F6518BD010F
+ds-rdata:     12811 8 2 A5F2EC128186E5BA7F44AE789ED94F96E32811A68407D40E7073E2A58E8A1341
 
 status:       ACTIVE
 remarks:      Registration information: http://www.mydotnyc.com
 
 created:      2014-03-13
-changed:      2020-10-12
+changed:      2022-07-21
 source:       IANA
 
