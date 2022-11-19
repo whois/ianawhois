@@ -18,7 +18,6 @@ address:      Ottawa, Ontario, K2P 2K9
 address:      Canada (CA)
 address:      Canada
 phone:        1-613-237-7111
-fax-no:       1-613-234-2567
 e-mail:       legal@crea.ca
 
 contact:      technical
@@ -34,13 +33,13 @@ e-mail:       support@fury.ca
 
 nserver:      A.NS.NIC.MLS 185.159.197.8 2620:10a:80aa:0:0:0:0:8
 nserver:      B.NS.NIC.MLS 185.159.198.8 2620:10a:80ab:0:0:0:0:8
-ds-rdata:     63482 8 2 84A8B5964A7017A28E640EAD02169E7DD92092A42729ACF08F924935A12F975E
+ds-rdata:     32866 8 2 ea3c1c5994bb36364acb0a9b8c09cd84477d6707c9317259bcbc8149992a485c
 
 whois:        whois.nic.mls
 
 status:       ACTIVE
 
 created:      2015-08-20
-changed:      2019-08-23
+changed:      2022-09-13
 source:       IANA
 
