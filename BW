@@ -12,14 +12,14 @@ address:      Botswana
 
 contact:      administrative
 name:         Engineer - ccTLD
-organisation: Botswana Communications Regulatory Authority (BOCRA)
+organisation: BOCRA - Botswana Communications Regulatory Authority
 address:      Plot 206/207 Independence Avenue
 address:      Private Bag 00495
 address:      Gaborone
 address:      Botswana
-phone:        +267 368 5410
+phone:        +2673685419
 fax-no:       +267 395 7976
-e-mail:       matlapeng@bocra.org.bw
+e-mail:       ramotsababa@bocra.org.bw
 
 contact:      technical
 name:         Engineer - ccTLD
@@ -36,8 +36,6 @@ nserver:      DNS1.NIC.NET.BW 168.167.98.226 2c0f:ff00:1:3:0:0:0:226
 nserver:      MASTER.BTC.NET.BW 168.167.168.37 2c0f:ff00:0:6:0:0:0:3 2c0f:ff00:0:6:0:0:0:5
 nserver:      NS-BW.AFRINIC.NET 196.216.168.72 2001:43f8:120:0:0:0:0:72
 nserver:      PCH.NIC.NET.BW 2001:500:14:6070:ad:0:0:1 204.61.216.70
-ds-rdata:     50194 8 1 8f58227330b166429a9907f64db5023b8d016543
-ds-rdata:     50194 8 2 0bc3be6c5db099ead74a14c037b2fff273fbdc460603eb756913ad7856848908
 
 whois:        whois.nic.net.bw
 
@@ -45,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.net.bw
 
 created:      1993-03-19
-changed:      2021-02-16
+changed:      2022-07-27
 source:       IANA
 
