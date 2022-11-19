@@ -4,49 +4,43 @@
 
 domain:       MOTORCYCLES
 
-organisation: DERMotorcycles, LLC
-address:      150 Granby Street
-address:      Norfolk
-address:      VA
-address:      23510
+organisation: XYZ.COM LLC
+address:      2121 Tropicana Ave
+address:      Suite 2
+address:      Las Vegas, NV 89119
 address:      United States
 
 contact:      administrative
-name:         General Manager
-organisation: DERMotorcycles, LLC
-address:      150 Granby Street
-address:      Norfolk
-address:      VA
-address:      23510
+name:         General Counsel
+organisation: XYZ.COM LLC
+address:      2121 E Tropicana Ave, STE2
+address:      Las Vegas, NV 89119
 address:      United States
-phone:        757-351-7439
-e-mail:       tldadmin@dominionenterprises.com
+phone:        +1 702 757 6555
+e-mail:       hello@xyz.com
 
 contact:      technical
-name:         Senior Director, DNS Infrastructure Group
-organisation: Afilias
-address:      300 Welsh Road, Building 3, Suite 105
-address:      Horsham
-address:      PA
-address:      19044
-address:      United States
-phone:        +1 215.706.5700
-fax-no:       +1 215.706.5701
-e-mail:       tld-tech-poc@afilias.info
+name:         CTO
+organisation: CentralNic
+address:      Saddlers House 4th Floor 44 Gutter Lane London EC2V 6BR
+address:      United Kingdom
+phone:        +44 20 33 88 0600
+fax-no:       +44 20 33 88 0601
+e-mail:       tld.ops@centralnic.com
 
-nserver:      A0.NIC.MOTORCYCLES 2a01:8840:66:0:0:0:0:1 65.22.104.1
-nserver:      A2.NIC.MOTORCYCLES 2a01:8840:69:0:0:0:0:1 65.22.107.1
-nserver:      B0.NIC.MOTORCYCLES 2a01:8840:67:0:0:0:0:1 65.22.105.1
-nserver:      C0.NIC.MOTORCYCLES 2a01:8840:68:0:0:0:0:1 65.22.106.1
+nserver:      A.NIC.MOTORCYCLES 194.169.218.135 2001:67c:13cc:0:0:0:1:135
+nserver:      B.NIC.MOTORCYCLES 185.24.64.135 2a04:2b00:13cc:0:0:0:1:135
+nserver:      C.NIC.MOTORCYCLES 212.18.248.135 2a04:2b00:13ee:0:0:0:0:135
+nserver:      D.NIC.MOTORCYCLES 212.18.249.135 2a04:2b00:13ff:0:0:0:0:135
 ds-rdata:     21907 8 2 6aca9a367926ed9773d6feea4671eedf7bf4ddc8c08b7cd8fec415e9dbdfcc66
+ds-rdata:     4906 8 2 b200a2be6fcdbe18e128fcbf7f0e60f646b58f1d6c8842a9243c17aae03e74db
 
-whois:        whois.afilias-srs.net
+whois:        whois.nic.motorcycles
 
 status:       ACTIVE
-remarks:      Registration information:
-remarks:      http://www.dominionregistries.com
+remarks:      Registration information: http://nic.motorcycles
 
 created:      2014-05-01
-changed:      2020-12-09
+changed:      2022-08-16
 source:       IANA
 
