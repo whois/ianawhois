@@ -20,11 +20,11 @@ e-mail:       dotnfl@markmonitor.com
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      14455 North Hayden Rd.
-address:      Scottsdale, AZ 85260
+address:      2155 E GoDaddy Way
+address:      Tempe, AZ 85284
 address:      United States
-phone:        +1 480-505-8800
-fax-no:       +1 480-393-4275
+phone:        +1 480 505 8800
+fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
 
 nserver:      NS1.DNS.NIC.NFL 156.154.144.122 2610:a1:1071:0:0:0:0:7a
@@ -33,13 +33,12 @@ nserver:      NS3.DNS.NIC.NFL 156.154.159.122 2610:a1:1073:0:0:0:0:7a
 nserver:      NS4.DNS.NIC.NFL 156.154.156.122 2610:a1:1074:0:0:0:0:7a
 nserver:      NS5.DNS.NIC.NFL 156.154.157.122 2610:a1:1075:0:0:0:0:7a
 nserver:      NS6.DNS.NIC.NFL 156.154.158.122 2610:a1:1076:0:0:0:0:7a
-ds-rdata:     3247 8 2 F5663FC83CA5C1CA7B8EC26E7B71659E5330AB8C1BBB215FE942F7920A2DFFFE
-ds-rdata:     3247 8 1 0EBB7AC269FDF1990B708685E410D4566AC32250
+ds-rdata:     52009 8 2 4F703D96F3EB2E4621C5176905407CEAC4AEF4CFA8409791AFC2B20BDF4EFB2A
 
 status:       ACTIVE
 remarks:      Registration information: http://www.nfl.com/
 
 created:      2016-06-03
-changed:      2020-10-12
+changed:      2022-07-21
 source:       IANA
 
