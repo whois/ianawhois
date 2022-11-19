@@ -5,44 +5,44 @@
 domain:       موقع
 domain-ace:   XN--4GBRIM
 
-organisation: Suhub Electronic Establishment
-address:      Gulf Center, Corniche Street, Second floor
-address:      Khobar, Eastern 31952
-address:      Saudi Arabia
+organisation: Helium TLDs Ltd
+address:      Saddlers House, 4th Floor, 44 Gutter Lane
+address:      London EC2V 6BR
+address:      United Kingdom
 
 contact:      administrative
-name:         Abdullah Mohamed Al Barrak
-organisation: Suhub Electronic Incorporation
-address:      Gulf Center, Corniche Street, Second floor
-address:      Khobar, Eastern 31952
-address:      Saudi Arabia
-phone:        +966.13.8980208
-fax-no:       +966.13.8980208
-e-mail:       gm@dotmawqe.com
+name:         Head of Registry Services
+organisation: CentralNic
+address:      Saddlers House, 4th Floor, 44 Gutter Lane
+address:      London EC2V 6BR
+address:      United Kingdom
+phone:        +44.2033880600
+fax-no:       +44.2033880601
+e-mail:       info@centralnic.com
 
 contact:      technical
-name:         Senior Director, DNS Infrastructure Group
-organisation: Afilias
-address:      Building 3, Suite 105
-address:      300 Welsh Road
-address:      Horsham, PA 19044
-address:      United States
-phone:        +1 215.706.5700
-fax-no:       +1 215.706.5701
-e-mail:       tld-tech-poc@afilias.info
+name:         CTO
+organisation: CentralNic
+address:      Saddlers House, 4th Floor, 44 Gutter Lane
+address:      London EC2V 6BR
+address:      United Kingdom
+phone:        +44.2033880600
+fax-no:       +44.2033880601
+e-mail:       tld.ops@centralnic.com
 
-nserver:      A0.NIC.XN--4GBRIM 2a01:8840:ee:0:0:0:0:33 65.22.244.33
-nserver:      A2.NIC.XN--4GBRIM 2a01:8840:f1:0:0:0:0:33 65.22.247.33
-nserver:      B0.NIC.XN--4GBRIM 2a01:8840:ef:0:0:0:0:33 65.22.245.33
-nserver:      C0.NIC.XN--4GBRIM 2a01:8840:f0:0:0:0:0:33 65.22.246.33
+nserver:      A.NIC.XN--4GBRIM 194.169.218.144 2001:67c:13cc:0:0:0:1:144
+nserver:      B.NIC.XN--4GBRIM 185.24.64.144 2a04:2b00:13cc:0:0:0:1:144
+nserver:      C.NIC.XN--4GBRIM 212.18.248.144 2a04:2b00:13ee:0:0:0:0:144
+nserver:      D.NIC.XN--4GBRIM 212.18.249.144 2a04:2b00:13ff:0:0:0:0:144
 ds-rdata:     38332 8 2 14e1f26f8b51f92bd671dbe97f651903fa1f26df07e2e882dd997a1d73971426
+ds-rdata:     25097 8 2 123b7c37a9dfd48ded1914c9172ee05865d10e47c0517f40659cb0305ba0d8b3
 
-whois:        whois.afilias-srs.net
+whois:        whois.nic.xn--4gbrim
 
 status:       ACTIVE
 remarks:      Registration information: http://www.dotmawqe.com
 
 created:      2014-05-15
-changed:      2020-11-23
+changed:      2022-03-03
 source:       IANA
 
