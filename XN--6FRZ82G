@@ -6,33 +6,32 @@ domain:       移动
 domain-ace:   XN--6FRZ82G
 
 organisation: Afilias Limited
-address:      Level 2, Plaza 3
-address:      Custom House Plaza
-address:      Harbourmaster Place
-address:      Dublin D01 VY76
-address:      Ireland
+address:      c/o Donuts Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
+address:      United States
 
 contact:      administrative
-name:         Senior Vice President
-organisation: Afilias
-address:      300 Welsh Road
-address:      Building 3, Suite 105
-address:      Horsham, PA 19044
+name:         Vice President, Engineering
+organisation: Afilias Limited
+address:      c/o Donuts Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
 address:      United States
-phone:        +1 215.706.5700
-fax-no:       +1 215.706.5701
-e-mail:       tld-admin-poc@afilias.info
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldadmin@donuts.email
 
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
-organisation: Afilias
-address:      300 Welsh Road
-address:      Building 3, Suite 105
-address:      Horsham, PA 19044
+organisation: Afilias Limited
+address:      c/o Donuts Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
 address:      United States
-phone:        +1 215.706.5700
-fax-no:       +1 215.706.5701
-e-mail:       tld-tech-poc@afilias.info
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@donuts.email
 
 nserver:      A0.NIC.XN--6FRZ82G 2a01:8840:1a:0:0:0:0:9 65.22.24.9
 nserver:      A2.NIC.XN--6FRZ82G 2a01:8840:1d:0:0:0:0:9 65.22.27.9
@@ -40,13 +39,12 @@ nserver:      B0.NIC.XN--6FRZ82G 2a01:8840:1b:0:0:0:0:9 65.22.25.9
 nserver:      C0.NIC.XN--6FRZ82G 2a01:8840:1c:0:0:0:0:9 65.22.26.9
 ds-rdata:     51310 8 2 b725fa381426f5e3a9338c5c5a57447611aba619e9675d9bf973d1d2a3b14b5e
 
-whois:        whois.afilias.net
+whois:        whois.nic.xn--6frz82g
 
 status:       ACTIVE
-remarks:      Registration information:
-remarks:      http://www.afilias.info/contact-us
+remarks:      Registration information: https://donuts.domains/
 
 created:      2014-01-23
-changed:      2020-09-30
+changed:      2021-12-02
 source:       IANA
 
