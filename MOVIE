@@ -6,38 +6,37 @@ domain:       MOVIE
 
 organisation: Binky Moon, LLC
 address:      Donuts Inc.
-address:      5808 Lake Washington Blvd NE, Suite 300
-address:      Kirkland, WA 98033
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
 address:      United States
 
 contact:      administrative
-name:         Serina Ness
+name:         Vice President, Engineering
 organisation: Donuts Inc.
-address:      Donuts Inc.
-address:      5808 Lake Washington Blvd NE, Suite 300
-address:      Kirkland, WA 98033
-address:      United States
-phone:        +1.425.283.8248
-fax-no:       +1.425.671.0020
-e-mail:       serina@donuts.email
-
-contact:      technical
-name:         Ben Levac
-organisation: Donuts Inc.
-address:      Donuts Inc.
-address:      5808 Lake Washington Blvd NE, Suite 300
-address:      Kirkland, WA 98033
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
 address:      United States
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       ben@donuts.email
+e-mail:       tldadmin@donuts.email
 
-nserver:      DEMAND.ALPHA.ARIDNS.NET.AU 2001:dcd:1:0:0:0:0:7 37.209.192.7
-nserver:      DEMAND.BETA.ARIDNS.NET.AU 2001:dcd:2:0:0:0:0:7 37.209.194.7
-nserver:      DEMAND.DELTA.ARIDNS.NET.AU 2001:dcd:4:0:0:0:0:7 37.209.198.7
-nserver:      DEMAND.GAMMA.ARIDNS.NET.AU 2001:dcd:3:0:0:0:0:7 37.209.196.7
-ds-rdata:     54889 8 2 998B0F82EBF7469713DEDABE52E9EFF93A34E7E31AFE5A3079007E051C7C88A8
-ds-rdata:     54889 8 1 812C89AFCF63BD664052AF629CE2A0D91A2EFF6A
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Donuts Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
+address:      United States
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@donuts.email
+
+nserver:      V0N0.NIC.MOVIE 2a01:8840:22:0:0:0:0:26 65.22.32.26
+nserver:      V0N1.NIC.MOVIE 2a01:8840:23:0:0:0:0:26 65.22.33.26
+nserver:      V0N2.NIC.MOVIE 2a01:8840:24:0:0:0:0:26 65.22.34.26
+nserver:      V0N3.NIC.MOVIE 161.232.16.26 2a01:8840:fa:0:0:0:0:26
+nserver:      V2N0.NIC.MOVIE 2a01:8840:25:0:0:0:0:26 65.22.35.26
+nserver:      V2N1.NIC.MOVIE 161.232.17.26 2a01:8840:fb:0:0:0:0:26
+ds-rdata:     391 8 2 0c93d08a6111d49129ac112076adf54b8b8e8975eb6f334372c8ce498664c422
 
 whois:        whois.nic.movie
 
@@ -45,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.donuts.domains/
 
 created:      2015-03-12
-changed:      2020-04-16
+changed:      2021-11-18
 source:       IANA
 
