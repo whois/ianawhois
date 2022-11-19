@@ -10,37 +10,36 @@ address:      410 Terry Avenue North, Seattle, WA  98109
 address:      United States
 
 contact:      administrative
-name:         Stacey King
+name:         Carolyn Mitchell
 organisation: Amazon Registry Services, Inc.
 address:      410 Terry Avenue North, Seattle, WA  98109
 address:      United States
-phone:        +1 206 740 8515
+phone:        +1 206 646 5990
 fax-no:       +1 206 946 7702
 e-mail:       point-rzm@amazon.com
 
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      14455 North Hayden Rd.
-address:      Scottsdale, AZ 85260
+address:      2155 E GoDaddy Way
+address:      Tempe, AZ 85284
 address:      United States
-phone:        +1 480-505-8800
-fax-no:       +1 480-393-4275
+phone:        +1 480 505 8800
+fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
 
+nserver:      A.NIC.XN--ECKVDTC9D 2001:dcd:1:0:0:0:0:10 37.209.192.10
+nserver:      B.NIC.XN--ECKVDTC9D 2001:dcd:2:0:0:0:0:10 37.209.194.10
+nserver:      C.NIC.XN--ECKVDTC9D 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      NS1.DNS.NIC.XN--ECKVDTC9D 156.154.169.66 2610:a1:1071:0:0:0:1:42
 nserver:      NS2.DNS.NIC.XN--ECKVDTC9D 156.154.170.66 2610:a1:1072:0:0:0:1:42
 nserver:      NS3.DNS.NIC.XN--ECKVDTC9D 156.154.171.66 2610:a1:1073:0:0:0:1:42
-nserver:      NS4.DNS.NIC.XN--ECKVDTC9D 156.154.172.66 2610:a1:1074:0:0:0:1:42
-nserver:      NS5.DNS.NIC.XN--ECKVDTC9D 156.154.173.66 2610:a1:1075:0:0:0:1:42
-nserver:      NS6.DNS.NIC.XN--ECKVDTC9D 156.154.174.66 2610:a1:1076:0:0:0:1:42
-ds-rdata:     41584 8 1 482989EEFE852FA2076DD40EDD8C957AB305A28B
-ds-rdata:     41584 8 2 054D3ACCA3CBBB243F8B2D2A91E2C0EB1E7FDAB4DF302A29F1E6B5D99A8B3BA7
+ds-rdata:     40972 8 2 87CA2A9DFFF26F0B71F1CFABF9DFA315ECA77CCAF0168C5A39228AB8A5394D7F
 
 status:       ACTIVE
 remarks:      Registration information: http://www.amazonregistry.com
 
 created:      2015-11-25
-changed:      2020-10-12
+changed:      2022-07-21
 source:       IANA
 
