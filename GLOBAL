@@ -21,14 +21,14 @@ e-mail:       contact@nic.global
 
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
-organisation: Afilias
-address:      Building 3, Suite 105
-address:      300 Welsh Road
-address:      Horsham, PA 19044
+organisation: Afilias Limited
+address:      c/o Donuts Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
 address:      United States
-phone:        +1 215.706.5700
-fax-no:       +1 215.706.5701
-e-mail:       tld-tech-poc@afilias.info
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@donuts.email
 
 nserver:      A0.NIC.GLOBAL 2a01:8840:4e:0:0:0:0:1 65.22.80.1
 nserver:      A2.NIC.GLOBAL 2a01:8840:51:0:0:0:0:1 65.22.83.1
@@ -39,9 +39,9 @@ ds-rdata:     13060 8 2 5dd90e21ba23d0192e7f7148f56f7c20fe52b02074ac4baf8e611f1e
 whois:        whois.nic.global
 
 status:       ACTIVE
-remarks:      Registration information: http://nic.global
+remarks:      Registration information: https://donuts.domains/
 
 created:      2014-05-29
-changed:      2020-12-03
+changed:      2021-12-02
 source:       IANA
 
