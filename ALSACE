@@ -33,14 +33,14 @@ e-mail:       pocalsace@afnic.fr
 nserver:      D.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
 nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
 nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
-ds-rdata:     14966 13 2 9d28e88bc1eaf9df2a6bcadcc35e5c037020b675964407e02b2a9a1ed3828bfb
+ds-rdata:     7047 13 2 40AC4EDA437F376B0A772AC6F570055A6AA58D635AC07946A778ABEBB8E5C024
 
-whois:        whois-alsace.nic.fr
+whois:        whois.nic.alsace
 
 status:       ACTIVE
 remarks:      Registration information: http://www.mondomaine.alsace
 
 created:      2014-09-18
-changed:      2020-07-24
+changed:      2022-07-27
 source:       IANA
 
