@@ -31,8 +31,7 @@ e-mail:       support@fury.ca
 
 nserver:      NS1.NS.SX 185.159.197.10 2620:10a:80aa:0:0:0:0:10
 nserver:      NS2.NS.SX 185.159.198.10 2620:10a:80ab:0:0:0:0:10
-ds-rdata:     59259 7 1 7D8C002AC87627953A66C8145C2EBBEB13B8AE64
-ds-rdata:     59259 7 2 81CE2B07704CD91951A7AD5A7E88B4426AE57952AE9511521169800FEA137869
+ds-rdata:     18379 8 2 4347640217ef8340c38cf28327de8bf0c8b3db7d30e5d62f04c29af24738f83f
 
 whois:        whois.sx
 
@@ -40,6 +39,6 @@ status:       ACTIVE
 remarks:      Registration information: http://registry.sx
 
 created:      2010-12-20
-changed:      2017-11-17
+changed:      2022-09-21
 source:       IANA
 
