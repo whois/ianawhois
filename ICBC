@@ -11,11 +11,12 @@ address:      China
 contact:      administrative
 name:         Operation Manager
 organisation: Industrial and Commercial Bank of China Limited
-address:      15F，Tower D, Desheng Intenational Center, No.77 DeshengMenWai Avenue, Xicheng District, Beijing, 100088
+address:      15F，Tower D, Desheng International Center, No.77 DeshengMenWai Avenue,Xicheng District
+address:      Beijing, 100088
 address:      China
-phone:        +86 10 82096408
+phone:        +86 10 82096303
 fax-no:       +86 10 82096262
-e-mail:       web@ebc.icbc.com.cn
+e-mail:       web.yy4b@wjyy.icbc.com.cn
 
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
@@ -30,8 +31,7 @@ nserver:      A0.NIC.ICBC 2a01:8840:7e:0:0:0:0:33 65.22.128.33
 nserver:      A2.NIC.ICBC 2a01:8840:81:0:0:0:0:33 65.22.131.33
 nserver:      B0.NIC.ICBC 2a01:8840:7f:0:0:0:0:33 65.22.129.33
 nserver:      C0.NIC.ICBC 2a01:8840:80:0:0:0:0:33 65.22.130.33
-ds-rdata:     38979 7 1 fd19ce69343d2a4c732a06477a9c5f980985fd43
-ds-rdata:     38979 7 2 b12e9cbf0158c0304027fdc4de8ddd27426f0e8973cc84370f795162a1cb237d
+ds-rdata:     40582 8 2 7b808042c4c053d9af8f39b7e784a66c00ce1d9eef0bc1dc6e5d59a4451da05a
 
 whois:        whois.nic.icbc
 
@@ -40,6 +40,6 @@ remarks:      Registration information:
 remarks:      http://www.icbc.com.cn/ICBC/%E5%9F%9F%E5%90%8D%E6%B3%A8%E5%86%8C%E5%B1%80/default.htm
 
 created:      2015-04-09
-changed:      2019-08-21
+changed:      2021-04-01
 source:       IANA
 
