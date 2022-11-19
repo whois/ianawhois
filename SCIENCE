@@ -20,21 +20,20 @@ e-mail:       edgar.c.lavarello@gi.pwc.com
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      14455 North Hayden Rd.
-address:      Scottsdale, AZ 85260
+address:      2155 E GoDaddy Way
+address:      Tempe, AZ 85284
 address:      United States
-phone:        +1 480-505-8800
-fax-no:       +1 480-393-4275
+phone:        +1 480 505 8800
+fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
 
+nserver:      A.NIC.SCIENCE 2001:dcd:1:0:0:0:0:10 37.209.192.10
+nserver:      B.NIC.SCIENCE 2001:dcd:2:0:0:0:0:10 37.209.194.10
+nserver:      C.NIC.SCIENCE 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      NS1.DNS.NIC.SCIENCE 156.154.169.41 2610:a1:1071:0:0:0:1:29
 nserver:      NS2.DNS.NIC.SCIENCE 156.154.170.41 2610:a1:1072:0:0:0:1:29
 nserver:      NS3.DNS.NIC.SCIENCE 156.154.171.41 2610:a1:1073:0:0:0:1:29
-nserver:      NS4.DNS.NIC.SCIENCE 156.154.172.41 2610:a1:1074:0:0:0:1:29
-nserver:      NS5.DNS.NIC.SCIENCE 156.154.173.41 2610:a1:1075:0:0:0:1:29
-nserver:      NS6.DNS.NIC.SCIENCE 156.154.174.41 2610:a1:1076:0:0:0:1:29
-ds-rdata:     52924 8 2 7A54B6796CD24393CF9C7D88075DB9A327011E661559F2F904695A5D95AAC099
-ds-rdata:     52924 8 1 45013DF1913DAC4FDD7F41579CCAEBB48CF4421F
+ds-rdata:     49186 8 2 6712663D49AA8EFCB6C832B978FEB020F0EBBB05B16058C64EF387F4C24DE401
 
 whois:        whois.nic.science
 
@@ -42,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.science
 
 created:      2014-10-23
-changed:      2020-10-12
+changed:      2022-07-21
 source:       IANA
 
