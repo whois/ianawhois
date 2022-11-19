@@ -5,13 +5,15 @@
 domain:       HAMBURG
 
 organisation: Hamburg Top-Level-Domain GmbH
-address:      Neuer Wall 10, Hamburg, 20354
+address:      Neuer Wall 10
+address:      Hamburg, 20354
 address:      Germany
 
 contact:      administrative
 name:         Dirk Krischenowski
 organisation: Hamburg Top-Level-Domain GmbH
-address:      Neuer Wall 10, Hamburg, 20354
+address:      Neuer Wall 10
+address:      Hamburg, 20354
 address:      Germany
 phone:        +49 40 6506 2020
 e-mail:       registry@nic.hamburg
@@ -19,7 +21,8 @@ e-mail:       registry@nic.hamburg
 contact:      technical
 name:         Alexander Mayrhofer
 organisation: TLD-BOX Registrydienstleistungen GmbH
-address:      Jakob-Haringer-Strasse 8, 5020 Salzburg
+address:      Jakob-Haringer-Strasse 8
+address:      5020 Salzburg
 address:      Austria
 phone:        +43 662 2345 48730
 fax-no:       +43 662 2345 4829
@@ -29,7 +32,7 @@ nserver:      A.DNS.NIC.HAMBURG 194.0.25.21 2001:678:20:0:0:0:0:21
 nserver:      M.DNS.NIC.HAMBURG 194.0.26.10 2001:67c:10e0:0:0:0:0:10
 nserver:      N.DNS.NIC.HAMBURG 194.0.24.10 2001:678:24:0:0:0:0:10
 ds-rdata:     12136 8 2 8BDC8642F1C0275904AEA61C126D9D5A5DB25881A564348AF218EB4165BEF7C5
-ds-rdata:     34636 8 2 ae832fdb36452fb14a8fd7065a14a20fc4d119a12ff042704ef83a3b8febb213
+ds-rdata:     39857 8 2 acadfbad24320a82cfad9dc5de24b5ef710fc0a9503f102596019b85ed1c74fa
 
 whois:        whois.nic.hamburg
 
@@ -37,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.hamburg
 
 created:      2014-05-22
-changed:      2020-01-28
+changed:      2022-05-18
 source:       IANA
 
