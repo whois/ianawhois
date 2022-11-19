@@ -30,8 +30,7 @@ nserver:      A.NIC.CPA 2001:dcd:1:0:0:0:0:9 37.209.192.9
 nserver:      B.NIC.CPA 2001:dcd:2:0:0:0:0:9 37.209.194.9
 nserver:      C.NIC.CPA 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      D.NIC.CPA 2001:dcd:4:0:0:0:0:9 37.209.198.9
-ds-rdata:     54610 8 1 657413D3A19C7A093E274BC92362860BE1A295DF
-ds-rdata:     54610 8 2 4F83272C58141BE5B0B896885BF278913D4FED80C97A987AF419EEAE0E12B4AB
+ds-rdata:     25351 8 2 A5062C23EF5598A091792978FD4F5BA6729A9A30BFCF880FC1CC7D0708A3313D
 
 whois:        whois.nic.cpa
 
@@ -39,6 +38,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.aicpa.org
 
 created:      2019-09-11
-changed:      2020-06-02
+changed:      2022-07-21
 source:       IANA
 
