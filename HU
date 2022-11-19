@@ -5,34 +5,32 @@
 domain:       HU
 
 organisation: Council of Hungarian Internet Providers (CHIP)
-address:      Victor Hugo u. 18-22.
-address:      Budapest  H-1132
+address:      Bláthy Ottó utca 9.
+address:      Budapest H-1089
 address:      Hungary
 
 contact:      administrative
 name:         János Zsakó
 organisation: Council of Hungarian Internet Providers (CHIP)
-address:      Victor Hugo u. 18-22.
-address:      Budapest  H-1132
+address:      Bláthy Ottó utca 9.
+address:      Budapest H-1089
 address:      Hungary
 phone:        +36 1 238 0115
-fax-no:       +36 1 238 0114
 e-mail:       iszt@nic.hu
 
 contact:      technical
 name:         CHIP Hostmaster
 organisation: Council of Hungarian Internet Providers (CHIP)
-address:      Victor Hugo u. 18-22.
-address:      Budapest  H-1132
+address:      Bláthy Ottó utca 9.
+address:      Budapest H-1089
 address:      Hungary
 phone:        +36 1 238 0115
-fax-no:       +36 1 238 0114
 e-mail:       hostmaster@nic.hu
 
-nserver:      A.HU 193.239.148.1 2001:738:4:8000:0:0:0:48
+nserver:      A.HU 2a00:e6a0:3:1014:0:0:0:97 5.28.0.97
 nserver:      B.HU 193.239.149.161 2001:738:4:4000:0:0:0:3
-nserver:      C.HU 193.6.16.1
-nserver:      D.HU 195.70.35.250
+nserver:      C.HU 195.111.1.92 2001:738:2:2:0:0:0:53
+nserver:      D.HU 2a00:e6a0:3:1014:0:0:53:99 5.28.0.99
 nserver:      E.HU 194.0.25.11 2001:678:20:0:0:0:0:11
 nserver:      NS-COM.NIC.HU 194.0.1.12 2001:678:4:0:0:0:0:c
 nserver:      NS2.NIC.FR 192.93.0.4 2001:660:3005:1:0:0:1:2
@@ -41,9 +39,9 @@ ds-rdata:     2104 8 2 65f5d64b860f26feae0bde3ca51b730b38381678c8c316f16b37e5511
 whois:        whois.nic.hu
 
 status:       ACTIVE
-remarks:      Registration information: http://www.nic.hu
+remarks:      Registration information: https://www.domain.hu
 
 created:      1990-11-07
-changed:      2021-02-11
+changed:      2022-11-09
 source:       IANA
 
