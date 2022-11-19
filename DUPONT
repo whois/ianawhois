@@ -4,27 +4,30 @@
 
 domain:       DUPONT
 
-organisation: E. I. du Pont de Nemours and Company
-address:      CRP 730/ 2110-8, 974 Centre Road, P.O. Box 2915, Wilmington, DE 19805
+organisation: DuPont Specialty Products USA, LLC
+address:      CRP 730/3rd floor, 974 Centre Road,
+address:      P.O. Box 2915
+address:      Wilmington, DE 19805
 address:      United States
 
 contact:      administrative
 name:         Karen Galbraith
-organisation: E. I. du Pont de Nemours and Company
-address:      CRP 730/ 2110-8, 974 Centre Road, P.O. Box 2915,  Wilmington, DE  19805
+organisation: DuPont Specialty Products USA, LLC
+address:      CRP 730/3rd floor, 974 Centre Road,
+address:      P.O. Box 2915
+address:      Wilmington, DE 19805
 address:      United States
-phone:        +1 302 774 1000
-fax-no:       +1 302 992 3165
+phone:        +1 302 992 2941
 e-mail:       contact@dupont.com
 
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      14455 North Hayden Rd.
-address:      Scottsdale, AZ 85260
+address:      2155 E GoDaddy Way
+address:      Tempe, AZ 85284
 address:      United States
-phone:        +1 480-505-8800
-fax-no:       +1 480-393-4275
+phone:        +1 480 505 8800
+fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
 
 nserver:      NS1.DNS.NIC.DUPONT 156.154.144.52 2610:a1:1071:0:0:0:0:34
@@ -33,13 +36,12 @@ nserver:      NS3.DNS.NIC.DUPONT 156.154.159.52 2610:a1:1073:0:0:0:0:34
 nserver:      NS4.DNS.NIC.DUPONT 156.154.156.52 2610:a1:1074:0:0:0:0:34
 nserver:      NS5.DNS.NIC.DUPONT 156.154.157.52 2610:a1:1075:0:0:0:0:34
 nserver:      NS6.DNS.NIC.DUPONT 156.154.158.52 2610:a1:1076:0:0:0:0:34
-ds-rdata:     37999 8 1 D290463A62CA2394AD792195CE711F3E43CF2B42
-ds-rdata:     37999 8 2 F8403C44323D408D7360B9C4F238952B66F20B7F91D5D3CA3CE89297B7BCC1D4
+ds-rdata:     13507 8 2 2A1BBC71245A57110165649E9C31BB6CF87DBFCFC3CC3F45EC4C7845F5DEDBBA
 
 status:       ACTIVE
 remarks:      Registration information: https://www.dupont.com
 
 created:      2016-05-05
-changed:      2020-10-12
+changed:      2022-07-21
 source:       IANA
 
