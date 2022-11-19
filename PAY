@@ -9,11 +9,11 @@ address:      410 Terry Avenue North, Seattle, WA 98109
 address:      United States
 
 contact:      administrative
-name:         General Manager
+name:         Program Manager, Registry
 organisation: Amazon Registry Services, Inc.
 address:      410 Terry Avenue North, Seattle, WA 98109
 address:      United States
-phone:        +1-206-740-8515
+phone:        +1 206 646 5990
 fax-no:       +1-206-946-7702
 e-mail:       pay-rzm@amazon.com
 
@@ -34,9 +34,9 @@ nserver:      DNS2.NIC.PAY 103.49.82.74 2401:fd80:402:0:0:0:0:74
 nserver:      DNS3.NIC.PAY 213.248.222.74 2a01:618:406:0:0:0:0:74
 nserver:      DNS4.NIC.PAY 2401:fd80:406:0:0:0:0:74 43.230.50.74
 nserver:      DNSA.NIC.PAY 156.154.100.3 2001:502:ad09:0:0:0:0:3
-nserver:      DNSB.NIC.PAY 156.154.101.3
-nserver:      DNSC.NIC.PAY 156.154.102.3
-nserver:      DNSD.NIC.PAY 156.154.103.3
+nserver:      DNSB.NIC.PAY 156.154.101.3 2001:502:2eda:0:0:0:0:3
+nserver:      DNSC.NIC.PAY 156.154.102.3 2610:a1:1009:0:0:0:0:3
+nserver:      DNSD.NIC.PAY 156.154.103.3 2610:a1:1010:0:0:0:0:3
 ds-rdata:     62576 8 2 DA12C17AE6EFE2AA5782C2C0CD41BA4A845AD04E2AEA30A826418B4490FFB264
 
 whois:        whois.nic.pay
@@ -46,6 +46,6 @@ remarks:      Registration information:
 remarks:      https://www.amazonregistry.com/
 
 created:      2016-07-21
-changed:      2019-05-22
+changed:      2021-11-18
 source:       IANA
 
