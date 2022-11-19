@@ -6,38 +6,37 @@ domain:       SUPPLIES
 
 organisation: Binky Moon, LLC
 address:      Donuts Inc.
-address:      5808 Lake Washington Blvd NE, Suite 300
-address:      Kirkland, WA 98033
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
 address:      United States
 
 contact:      administrative
-name:         Serina Ness
+name:         Vice President, Engineering
 organisation: Donuts Inc.
-address:      Donuts Inc.
-address:      5808 Lake Washington Blvd NE, Suite 300
-address:      Kirkland, WA 98033
-address:      United States
-phone:        +1.425.283.8248
-fax-no:       +1.425.671.0020
-e-mail:       serina@donuts.email
-
-contact:      technical
-name:         Ben Levac
-organisation: Donuts Inc.
-address:      Donuts Inc.
-address:      5808 Lake Washington Blvd NE, Suite 300
-address:      Kirkland, WA 98033
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
 address:      United States
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       ben@donuts.email
+e-mail:       tldadmin@donuts.email
 
-nserver:      DEMAND.ALPHA.ARIDNS.NET.AU 2001:dcd:1:0:0:0:0:7 37.209.192.7
-nserver:      DEMAND.BETA.ARIDNS.NET.AU 2001:dcd:2:0:0:0:0:7 37.209.194.7
-nserver:      DEMAND.DELTA.ARIDNS.NET.AU 2001:dcd:4:0:0:0:0:7 37.209.198.7
-nserver:      DEMAND.GAMMA.ARIDNS.NET.AU 2001:dcd:3:0:0:0:0:7 37.209.196.7
-ds-rdata:     994 8 2 B69EB52E29569BE33E2FC47224FCA3379F0379870534D66486C734206723F261
-ds-rdata:     994 8 1 DE2AABC3810FAC6279F672597E824FB67DD8EC1E
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Donuts Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
+address:      United States
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@donuts.email
+
+nserver:      V0N0.NIC.SUPPLIES 2a01:8840:16:0:0:0:0:59 65.22.20.59
+nserver:      V0N1.NIC.SUPPLIES 2a01:8840:17:0:0:0:0:59 65.22.21.59
+nserver:      V0N2.NIC.SUPPLIES 2a01:8840:18:0:0:0:0:59 65.22.22.59
+nserver:      V0N3.NIC.SUPPLIES 161.232.10.59 2a01:8840:f4:0:0:0:0:59
+nserver:      V2N0.NIC.SUPPLIES 2a01:8840:19:0:0:0:0:59 65.22.23.59
+nserver:      V2N1.NIC.SUPPLIES 161.232.11.59 2a01:8840:f5:0:0:0:0:59
+ds-rdata:     10984 8 2 ac8aff181900b2a9ac0736c0e254c3e847e240705467109b03cfc22839a30405
 
 whois:        whois.nic.supplies
 
@@ -45,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.donuts.domains/
 
 created:      2014-02-13
-changed:      2020-04-16
+changed:      2021-10-27
 source:       IANA
 
