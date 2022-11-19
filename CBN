@@ -20,26 +20,25 @@ e-mail:       jack.doussard@cbn.org
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      14455 North Hayden Rd.
-address:      Scottsdale, AZ 85260
+address:      2155 E GoDaddy Way
+address:      Tempe, AZ 85284
 address:      United States
-phone:        +1 480-505-8800
-fax-no:       +1 480-393-4275
+phone:        +1 480 505 8800
+fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
 
+nserver:      A.NIC.CBN 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.CBN 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.CBN 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.CBN 156.154.144.35 2610:a1:1071:0:0:0:0:23
 nserver:      NS2.DNS.NIC.CBN 156.154.145.35 2610:a1:1072:0:0:0:0:23
 nserver:      NS3.DNS.NIC.CBN 156.154.159.35 2610:a1:1073:0:0:0:0:23
-nserver:      NS4.DNS.NIC.CBN 156.154.156.35 2610:a1:1074:0:0:0:0:23
-nserver:      NS5.DNS.NIC.CBN 156.154.157.35 2610:a1:1075:0:0:0:0:23
-nserver:      NS6.DNS.NIC.CBN 156.154.158.35 2610:a1:1076:0:0:0:0:23
-ds-rdata:     8434 8 2 0A12A8C97B331D7E7BBC94AEF3C30EE998D6252DCB1F1D7AD3FBCDACBB433A3E
-ds-rdata:     8434 8 1 443A31C0075B5ECC6200B238B09F343EF4A133FF
+ds-rdata:     53419 8 2 030DE643AAAF4C8F1D7D61A6D3E89EB48ED654916C60C670B72A083F43C48312
 
 status:       ACTIVE
 remarks:      Registration information: http://www.cbn.com
 
 created:      2014-11-20
-changed:      2020-10-12
+changed:      2022-07-21
 source:       IANA
 
