@@ -13,8 +13,7 @@ address:      Puerto Rico
 contact:      administrative
 name:         Dr. Patrick W. Lay
 organisation: ISIS World Corporation
-address:      #4 Colony House
-address:      John Compton Highway
+address:      PO Box GM 717
 address:      Castries
 address:      Saint Lucia
 phone:        758 572-8188
@@ -24,8 +23,7 @@ e-mail:       patricklay@yahoo.com
 contact:      technical
 name:         Patrick W. Lay
 organisation: NIC LC
-address:      #4 Colony House
-address:      John Compton Highway
+address:      PO Box GM 717
 address:      Castries
 address:      Saint Lucia
 phone:        758 572 8188
@@ -44,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.lc
 
 created:      1991-09-03
-changed:      2020-11-16
+changed:      2022-08-02
 source:       IANA
 
