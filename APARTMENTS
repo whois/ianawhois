@@ -6,38 +6,37 @@ domain:       APARTMENTS
 
 organisation: Binky Moon, LLC
 address:      Donuts Inc.
-address:      5808 Lake Washington Blvd NE, Suite 300
-address:      Kirkland, WA 98033
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
 address:      United States
 
 contact:      administrative
-name:         Serina Ness
+name:         Vice President, Engineering
 organisation: Donuts Inc.
-address:      Donuts Inc.
-address:      5808 Lake Washington Blvd NE, Suite 300
-address:      Kirkland, WA 98033
-address:      United States
-phone:        +1.425.283.8248
-fax-no:       +1.425.671.0020
-e-mail:       serina@donuts.email
-
-contact:      technical
-name:         Ben Levac
-organisation: Donuts Inc.
-address:      Donuts Inc.
-address:      5808 Lake Washington Blvd NE, Suite 300
-address:      Kirkland, WA 98033
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
 address:      United States
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       ben@donuts.email
+e-mail:       tldadmin@donuts.email
 
-nserver:      DEMAND.ALPHA.ARIDNS.NET.AU 2001:dcd:1:0:0:0:0:7 37.209.192.7
-nserver:      DEMAND.BETA.ARIDNS.NET.AU 2001:dcd:2:0:0:0:0:7 37.209.194.7
-nserver:      DEMAND.DELTA.ARIDNS.NET.AU 2001:dcd:4:0:0:0:0:7 37.209.198.7
-nserver:      DEMAND.GAMMA.ARIDNS.NET.AU 2001:dcd:3:0:0:0:0:7 37.209.196.7
-ds-rdata:     42250 8 1 A313E8189ADE1D0ABF4F49CEF6995692210609DB
-ds-rdata:     42250 8 2 3DB0E673985C4ADE6B06CFADBE306A5CAC211468B70E9FADD9220E8F1F115319
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Donuts Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
+address:      United States
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@donuts.email
+
+nserver:      V0N0.NIC.APARTMENTS 2a01:8840:1e:0:0:0:0:56 65.22.28.56
+nserver:      V0N1.NIC.APARTMENTS 2a01:8840:1f:0:0:0:0:56 65.22.29.56
+nserver:      V0N2.NIC.APARTMENTS 2a01:8840:20:0:0:0:0:56 65.22.30.56
+nserver:      V0N3.NIC.APARTMENTS 161.232.14.56 2a01:8840:f8:0:0:0:0:56
+nserver:      V2N0.NIC.APARTMENTS 2a01:8840:21:0:0:0:0:56 65.22.31.56
+nserver:      V2N1.NIC.APARTMENTS 161.232.15.56 2a01:8840:f9:0:0:0:0:56
+ds-rdata:     36754 8 2 e176954cd1754d3ab3e01a778f531d79db8a010d674c6f6934f019c0e690f183
 
 whois:        whois.nic.apartments
 
@@ -45,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.donuts.domains/
 
 created:      2015-02-05
-changed:      2020-04-16
+changed:      2021-11-10
 source:       IANA
 
