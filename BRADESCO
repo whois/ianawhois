@@ -10,40 +10,34 @@ address:      Brazil
 
 contact:      administrative
 name:         Admin Contact
-organisation: Minds + Machines Ltd
-address:      32 Nassau St, Dublin 2
-address:      Ireland
-phone:        +1-877-734-4783
-e-mail:       ops@mmx.co
+organisation: Banco Bradesco S.A
+address:      Cidade de Deus Osasco 06029-900 SP
+address:      Brazil
+phone:        +55 (41) 3777-4843
+e-mail:       ngtld-bradesco@cscglobal.com
 
 contact:      technical
-name:         TLD Registry Services Technical
-organisation: Nominet
-address:      Minerva House,
-address:      Edmund Halley Road,
-address:      Oxford Science Park,
-address:      Oxford,
-address:      OX4 4DQ
-address:      United Kingdom
-phone:        +44.1865332211
-e-mail:       registrytechnical@nominet.uk
+name:         Senior Director, DNS Infrastructure Group
+organisation: Donuts Inc
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
+address:      United States
+phone:        +1.425.298.2200
+fax-no:       : +1.425.671.0020
+e-mail:       tldtech@donuts.email
 
-nserver:      DNS1.NIC.BRADESCO 213.248.217.37 2a01:618:401:0:0:0:0:37
-nserver:      DNS2.NIC.BRADESCO 103.49.81.37 2401:fd80:401:0:0:0:0:37
-nserver:      DNS3.NIC.BRADESCO 213.248.221.37 2a01:618:405:0:0:0:0:37
-nserver:      DNS4.NIC.BRADESCO 2401:fd80:405:0:0:0:0:37 43.230.49.37
-nserver:      DNSA.NIC.BRADESCO 156.154.100.3 2001:502:ad09:0:0:0:0:3
-nserver:      DNSB.NIC.BRADESCO 156.154.101.3
-nserver:      DNSC.NIC.BRADESCO 156.154.102.3
-nserver:      DNSD.NIC.BRADESCO 156.154.103.3
-ds-rdata:     44254 8 2 49F78D30A829D5D40A7671F9831DF0F056FC7F4E8E39906C905AFB8EB1B54100
+nserver:      A0.NIC.BRADESCO 2a01:8840:7a:0:0:0:0:2 65.22.124.2
+nserver:      A2.NIC.BRADESCO 2a01:8840:7d:0:0:0:0:2 65.22.127.2
+nserver:      B0.NIC.BRADESCO 2a01:8840:7b:0:0:0:0:2 65.22.125.2
+nserver:      C0.NIC.BRADESCO 2a01:8840:7c:0:0:0:0:2 65.22.126.2
+ds-rdata:     61375 8 2 A0FFE5A2C7C1CB086855963D43117563E509CA1E6B27D87EF9CE011C195B8344
 
 whois:        whois.nic.bradesco
 
 status:       ACTIVE
-remarks:      Registration information: http://mm-registry.com
+remarks:      Registration information: http://www.nic.bradesco/
 
 created:      2015-05-29
-changed:      2019-08-22
+changed:      2022-04-12
 source:       IANA
 
