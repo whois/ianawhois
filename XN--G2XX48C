@@ -6,8 +6,7 @@ domain:       购物
 domain-ace:   XN--G2XX48C
 
 organisation: Nawang Heli(Xiamen) Network Service Co., LTD.
-address:      Unit 03-11, 8th floor, building D, Xiamen International Shipping Center, No.97
-address:      Xiangyu Road, Xiamen Area of China (Fujian) Pilot Free Trade Zone
+address:      Suite201,No.45,WangHai Road,Software Park II,Xiamen.
 address:      China
 
 contact:      administrative
@@ -22,26 +21,25 @@ e-mail:       contact1@nicgouwu.com
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      14455 North Hayden Rd.
-address:      Scottsdale, AZ 85260
+address:      2155 E GoDaddy Way
+address:      Tempe, AZ 85284
 address:      United States
-phone:        +1 480-505-8800
-fax-no:       +1 480-393-4275
+phone:        +1 480 505 8800
+fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
 
+nserver:      A.NIC.XN--G2XX48C 2001:dcd:1:0:0:0:0:10 37.209.192.10
+nserver:      B.NIC.XN--G2XX48C 2001:dcd:2:0:0:0:0:10 37.209.194.10
+nserver:      C.NIC.XN--G2XX48C 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      NS1.DNS.NIC.XN--G2XX48C 156.154.169.68 2610:a1:1071:0:0:0:1:44
 nserver:      NS2.DNS.NIC.XN--G2XX48C 156.154.170.68 2610:a1:1072:0:0:0:1:44
 nserver:      NS3.DNS.NIC.XN--G2XX48C 156.154.171.68 2610:a1:1073:0:0:0:1:44
-nserver:      NS4.DNS.NIC.XN--G2XX48C 156.154.172.68 2610:a1:1074:0:0:0:1:44
-nserver:      NS5.DNS.NIC.XN--G2XX48C 156.154.173.68 2610:a1:1075:0:0:0:1:44
-nserver:      NS6.DNS.NIC.XN--G2XX48C 156.154.174.68 2610:a1:1076:0:0:0:1:44
-ds-rdata:     14602 8 1 0A10B99E18E7C2640632B4C42F2F48C34F30158E
-ds-rdata:     14602 8 2 89C8DD3C91B9E3BBBB7363254B75A36FC0091582BFFFCBBB3DB007A233B4EFAD
+ds-rdata:     50719 8 2 66ADCE3F11BC5ED44969987CF67A110272341CDA053A5E1A03E92A24AC880902
 
 status:       ACTIVE
 remarks:      Registration information: http://nicgouwu.com/
 
 created:      2016-01-08
-changed:      2020-11-11
+changed:      2022-07-21
 source:       IANA
 
