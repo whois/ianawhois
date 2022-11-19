@@ -40,9 +40,7 @@ nserver:      A0.NIC.ALIPAY 2a01:8840:7e:0:0:0:0:25 65.22.128.25
 nserver:      A2.NIC.ALIPAY 2a01:8840:81:0:0:0:0:25 65.22.131.25
 nserver:      B0.NIC.ALIPAY 2a01:8840:7f:0:0:0:0:25 65.22.129.25
 nserver:      C0.NIC.ALIPAY 2a01:8840:80:0:0:0:0:25 65.22.130.25
-ds-rdata:     2724 7 1 fdf3525446141f77b5bd4cf2b01566429a0eac68
-ds-rdata:     2724 7 2 c890ec6bed4dfc1ea9f708b0b8041361979424f5349c16cb312809b9bfc5782a
-ds-rdata:     1029 7 2 a442d425e4e80ca666086d4ec9b6cb843339cc540333a13ae3e605e018e1117d
+ds-rdata:     9922 8 2 01dc2703db44dca0f990ff6b619de1879dd06bdda5756272751a4b510cfd76bf
 
 whois:        whois.nic.alipay
 
@@ -50,6 +48,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.alibabagroup.com
 
 created:      2016-01-08
-changed:      2021-02-05
+changed:      2021-03-11
 source:       IANA
 
