@@ -9,48 +9,42 @@ address:      4th Floor, Harbour Place, 103 South Church Street
 address:      PO Box 10240
 address:      Grand Cayman, KY1-1002
 address:      Cayman Islands
-address:      Cayman Islands
 
 contact:      administrative
 name:         General Manager
 organisation: Intercap Registry Inc.
-address:      103 South Church Street, 4th Floor, Harbour Place, PO Box 10240
-address:      George Town
-address:      Grand Cayman
-address:      KY1-1002
+address:      4th Floor, Harbour Place, 103 South Church Street
+address:      PO Box 10240
+address:      Grand Cayman, KY1-1002
 address:      Cayman Islands
-phone:        +1 4164773490 xt. 215
-fax-no:       +1 4164770964
-e-mail:       ask@get.dealer
+phone:        +1-833-436-8462
+e-mail:       admin@intercap.inc
 
 contact:      technical
-name:         Chief Technical Officer
-organisation: UNR Corp.
-address:      Third Floor, Monaco Towers, Georgetown
-address:      Grand Cayman, Cayman Islands
-address:      30369SMB-KY11202
-address:      Cayman Islands
-phone:        +1 345 746 3687
-fax-no:       +1 345 746 3687
-e-mail:       ops@unr.com
+name:         CTO
+organisation: CentralNic
+address:      Saddlers House 4th Floor 44 Gutter Lane
+address:      London EC2V 6BR
+address:      United Kingdom
+phone:        +44 20 33 88 0600
+fax-no:       +44 20 33 88 0601
+e-mail:       tld.ops@centralnic.com
 
-nserver:      NS1.UNIREGISTRY.NET 2620:57:4000:1:0:0:0:1 64.96.1.1
-nserver:      NS2.UNIREGISTRY.INFO 64.96.2.1
-nserver:      NS3.UNIREGISTRY.NET 185.159.197.3 2620:10a:80aa:0:0:0:0:3
-nserver:      NS4.UNIREGISTRY.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
-ds-rdata:     46391 8 1 23AF0F956ACE3233046775E31617378B08BD6575
-ds-rdata:     46391 8 2 7D3C3132C9B69189301D4D639F701EA7CB5D2A453609698D7FAB8112CBB4A474
-ds-rdata:     45754 8 1 117BF190BE0889B18B577ED72022209F1BF26C87
-ds-rdata:     45754 8 2 D1BF7EBBCC042B957FDDDFEC69D8D4DCE3AF12A1BF2F8173A561E36A031ED616
+nserver:      A.NIC.DEALER 194.169.218.138 2001:67c:13cc:0:0:0:1:138
+nserver:      B.NIC.DEALER 185.24.64.138 2a04:2b00:13cc:0:0:0:1:138
+nserver:      C.NIC.DEALER 212.18.248.138 2a04:2b00:13ee:0:0:0:0:138
+nserver:      D.NIC.DEALER 212.18.249.138 2a04:2b00:13ff:0:0:0:0:138
 ds-rdata:     43516 8 2 AFFEE7DB437839677F9B16547175BFA4F22A0CFC0FC2F374AF5884C523EFA54C
 ds-rdata:     43516 8 1 E4209E3F2BFDBF136D547329F367AE9BD03A3BEB
+ds-rdata:     31586 8 2 8C442BFE32DAFF402FCC59D26A90F5ECAC593FB6BA8A6396BD21686E3BD0D24B
+ds-rdata:     31586 8 1 2300A755B90E6E18845757994FFD35D160F8B1C3
 
 whois:        whois.nic.dealer
 
 status:       ACTIVE
-remarks:      Registration information: http://nic.dealer
+remarks:      Registration information: https://get.dealer
 
 created:      2015-11-25
-changed:      2020-11-17
+changed:      2022-10-28
 source:       IANA
 
