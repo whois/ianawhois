@@ -5,13 +5,15 @@
 domain:       BERLIN
 
 organisation: dotBERLIN GmbH & Co. KG
-address:      Gustav-Mueller-Strasse 1, 10829 Berlin, Berlin, Germany
+address:      Gustav-Mueller-Strasse 1
+address:      10829 Berlin
 address:      Germany
 
 contact:      administrative
 name:         Chief Executive Officer
 organisation: dotBERLIN GmbH & Co. KG
-address:      Gustav-Mueller-Strasse 1, 10829 Berlin, Berlin, Germany
+address:      Gustav-Mueller-Strasse 1
+address:      10829 Berlin
 address:      Germany
 phone:        +49 30 49782354
 fax-no:       +49 30 49782356
@@ -20,7 +22,8 @@ e-mail:       registry@dot.berlin
 contact:      technical
 name:         Technical Operations
 organisation: TLD-BOX Registrydienstleistungen GmbH
-address:      Jakob-Haringer-Strasse 8/V, 5020 Salzburg, Salzburg, Austria
+address:      Jakob-Haringer-Strasse 8/V,
+address:      5020 Salzburg
 address:      Austria
 phone:        +43 662 234548 730 
 fax-no:       +43 662 234548 29
@@ -30,7 +33,7 @@ nserver:      A.DNS.NIC.BERLIN 194.0.25.16 2001:678:20:0:0:0:0:16
 nserver:      M.DNS.NIC.BERLIN 194.0.26.5 2001:67c:10e0:0:0:0:0:5
 nserver:      N.DNS.NIC.BERLIN 194.0.24.5 2001:678:24:0:0:0:0:5
 ds-rdata:     47974 8 2 B1DDC962A9293CDA1C2AE8F951C86A8F391248C50751AD61F642D46D0F644B41
-ds-rdata:     2990 8 2 f711a9e9b09a45c487a324b22de34db2831e2a8a0368d0bd0d8d3461470e5ffd
+ds-rdata:     25424 8 2 479dd34641c6386048518f9a39aafba26172060ee36a91f478ebe521aa1cffd5
 
 whois:        whois.nic.berlin
 
@@ -38,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.berlin/
 
 created:      2013-12-19
-changed:      2020-01-28
+changed:      2022-05-18
 source:       IANA
 
