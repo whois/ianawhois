@@ -33,7 +33,7 @@ e-mail:       gearegistry@lemarit.com
 nserver:      A.DNS.NIC.GEA 194.0.25.33 2001:678:20:0:0:0:0:33
 nserver:      M.DNS.NIC.GEA 194.0.26.13 2001:67c:10e0:0:0:0:0:13
 nserver:      N.DNS.NIC.GEA 194.0.24.13 2001:678:24:0:0:0:0:13
-ds-rdata:     1696 7 2 961bcdc4141b8d37ebce830773fadb2994f929b32041a588ae6892104c4020cb
+ds-rdata:     60191 8 2 62049b91e513b7230f960b356c6e70634af960efbfe5ddd4f33741a26b2583f0
 
 whois:        whois.nic.gea
 
@@ -41,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.geagroup.com
 
 created:      2015-07-09
-changed:      2020-12-10
+changed:      2022-06-15
 source:       IANA
 
