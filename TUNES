@@ -9,11 +9,11 @@ address:      410 Terry Avenue North, Seattle, WA  98109
 address:      United States
 
 contact:      administrative
-name:         General Manager
+name:         Program Manager, Registry
 organisation: Amazon Registry Services, Inc.
 address:      410 Terry Avenue North, Seattle, WA  98109
 address:      United States
-phone:        +1-206-740-8515
+phone:        +1 206 646 5990
 fax-no:       +1-206-946-7702
 e-mail:       tunes-rzm@amazon.com
 
@@ -34,9 +34,9 @@ nserver:      DNS2.NIC.TUNES 103.49.82.84 2401:fd80:402:0:0:0:0:84
 nserver:      DNS3.NIC.TUNES 213.248.222.84 2a01:618:406:0:0:0:0:84
 nserver:      DNS4.NIC.TUNES 2401:fd80:406:0:0:0:0:84 43.230.50.84
 nserver:      DNSA.NIC.TUNES 156.154.100.3 2001:502:ad09:0:0:0:0:3
-nserver:      DNSB.NIC.TUNES 156.154.101.3
-nserver:      DNSC.NIC.TUNES 156.154.102.3
-nserver:      DNSD.NIC.TUNES 156.154.103.3
+nserver:      DNSB.NIC.TUNES 156.154.101.3 2001:502:2eda:0:0:0:0:3
+nserver:      DNSC.NIC.TUNES 156.154.102.3 2610:a1:1009:0:0:0:0:3
+nserver:      DNSD.NIC.TUNES 156.154.103.3 2610:a1:1010:0:0:0:0:3
 ds-rdata:     52234 8 2 0D317EA34EDC8D43E8868616F66BC5BD9B5E5389DBBFDD1529F7C609AE095B9D
 
 whois:        whois.nic.tunes
@@ -45,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.amazonregistry.com
 
 created:      2016-01-29
-changed:      2019-08-21
+changed:      2021-11-19
 source:       IANA
 
