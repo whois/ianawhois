@@ -9,37 +9,36 @@ address:      410 Terry Avenue North, Seattle, WA  98109
 address:      United States
 
 contact:      administrative
-name:         Stacey King
+name:         Carolyn Mitchell
 organisation: Amazon Registry Services, Inc.
 address:      410 Terry Avenue North, Seattle, WA  98109
 address:      United States
-phone:        +1-206-740-8515
+phone:        +1 206 646 5990
 fax-no:       +1-206-946-7702
 e-mail:       coupon-rzm@amazon.com
 
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      14455 North Hayden Rd.
-address:      Scottsdale, AZ 85260
+address:      2155 E GoDaddy Way
+address:      Tempe, AZ 85284
 address:      United States
-phone:        +1 480-505-8800
-fax-no:       +1 480-393-4275
+phone:        +1 480 505 8800
+fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
 
+nserver:      A.NIC.COUPON 2001:dcd:1:0:0:0:0:10 37.209.192.10
+nserver:      B.NIC.COUPON 2001:dcd:2:0:0:0:0:10 37.209.194.10
+nserver:      C.NIC.COUPON 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      NS1.DNS.NIC.COUPON 156.154.144.217 2610:a1:1071:0:0:0:0:d9
 nserver:      NS2.DNS.NIC.COUPON 156.154.145.217 2610:a1:1072:0:0:0:0:d9
 nserver:      NS3.DNS.NIC.COUPON 156.154.159.217 2610:a1:1073:0:0:0:0:d9
-nserver:      NS4.DNS.NIC.COUPON 156.154.156.217 2610:a1:1074:0:0:0:0:d9
-nserver:      NS5.DNS.NIC.COUPON 156.154.157.217 2610:a1:1075:0:0:0:0:d9
-nserver:      NS6.DNS.NIC.COUPON 156.154.158.217 2610:a1:1076:0:0:0:0:d9
-ds-rdata:     52834 8 2 8602CCD95069DA4E47DF794CE6DABA1658705A2EC6B3C6DDD178333849414E9A
-ds-rdata:     52834 8 1 C6E63C2321BC87D62BE3BF3EDE3212402DF08727
+ds-rdata:     24754 8 2 28AC37A1524040F644439B351BB5929F2EE66B8B6D6EA40D499A0DB7455EF0C3
 
 status:       ACTIVE
 remarks:      Registration information: http://www.amazonregistry.com
 
 created:      2016-01-29
-changed:      2020-10-12
+changed:      2022-07-21
 source:       IANA
 
