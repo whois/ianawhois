@@ -10,24 +10,24 @@ address:      St. Thomas, VI 00802-1816
 address:      Virgin Islands, U.s.
 
 contact:      administrative
-name:         Doris Sparks deBlanc
+name:         TLD Manager
 organisation: Virgin Islands Public Telecommunications System, Inc.
 address:      4608 Tutu Park Mall, Suite 202
 address:      St. Thomas, VI 00802-1816
-address:      Virgin Islands, U.s.
+address:      Virgin Islands, U.S.
 phone:        +1 340 776-4800
 fax-no:       +1 340 776-2666
-e-mail:       dsparks@usvi.net
+e-mail:       tld.manager@nic.vi
 
 contact:      technical
-name:         Doris Sparks deBlanc
-organisation: Cobex International, Inc.
-address:      Post Office Box 1678
-address:      Charlotte Amalie  00804
-address:      Virgin Islands, U.s.
+name:         DNS Administrator
+organisation: Virgin Islands Public Telecommunications System, Inc.
+address:      4608 Tutu Park Mall, Suite 202
+address:      St. Thomas, VI 00802-1816
+address:      Virgin Islands, U.S.
 phone:        +1 340 776-4800
 fax-no:       +1 340 776-2666
-e-mail:       dnsadmin@usvi.net
+e-mail:       domain@nic.vi
 
 nserver:      AUTH100.NS.UU.NET 198.6.1.202
 nserver:      AUTH110.NS.UU.NET 198.6.1.114
@@ -38,6 +38,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.vi
 
 created:      1995-08-31
-changed:      2020-11-23
+changed:      2022-08-02
 source:       IANA
 
