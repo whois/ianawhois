@@ -17,17 +17,17 @@ address:      Christmas Island Technology Centre (6RCI)
 address:      Nursery Road, Drumsite
 address:      Indian Ocean 6798
 address:      Christmas Island
-phone:        +61 (0)8 6102 7988
+phone:        +61 8 6102 5668
 e-mail:       admin@cxda.org.cx
 
 contact:      technical
 name:         Brad Waugh
-organisation: Christmas Island Domain Administration Limited
-address:      Christmas Island Technology Centre (6RCI)
-address:      Nursery Road, Drumsite
-address:      Indian Ocean 6798
-address:      Christmas Island
-phone:        +61 410 177 335
+organisation: Indian Ocean Territories Telecom Pty Ltd
+address:      Lot 190 Emden Walk, West Island
+address:      Cocos (Keeling) Islands
+address:      WA 6798, AU
+address:      Cocos (keeling) Islands
+phone:        +61 8 9162 7715
 e-mail:       tech@cxda.org.cx
 
 nserver:      NS.ANYCAST.NIC.CX 2001:500:14:6016:ad:0:0:1 204.61.216.16
@@ -38,9 +38,9 @@ ds-rdata:     6500 8 2 4854A102492CE0C50C714F366EBBD520CBA38BBEFC91CF295EEE8E6EF
 whois:        whois.nic.cx
 
 status:       ACTIVE
-remarks:      Registration information: http://cxda.org.cx
+remarks:      Registration information: https://cxda.org.cx
 
 created:      1997-04-24
-changed:      2020-12-31
+changed:      2022-10-24
 source:       IANA
 
