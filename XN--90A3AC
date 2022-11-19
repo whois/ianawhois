@@ -36,7 +36,7 @@ nserver:      F.NIC.RS 2001:500:14:6032:ad:0:0:1 204.61.216.32
 nserver:      G.NIC.RS 147.91.8.6
 nserver:      H.NIC.RS 2001:067c:069c:0000:0000:0000:0000:0060 91.199.17.60
 nserver:      L.NIC.RS 194.146.106.114 2001:67c:1010:29:0:0:0:53
-ds-rdata:     13630 8 2 56b1762f46f44a27b87451df98418c54ba128d2c5acf37f6c753f6c70431598c
+ds-rdata:     64419 13 2 17faf8dac1408c3f80631695363f4a3b0a15023842563af5faf8850e3e632973
 
 whois:        whois.rnids.rs
 
@@ -44,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.rnids.rs/
 
 created:      2011-02-05
-changed:      2020-02-28
+changed:      2021-07-20
 source:       IANA
 
