@@ -34,7 +34,7 @@ e-mail:       acoregistry@lemarit.com
 nserver:      A.DNS.NIC.ACO 194.0.25.32 2001:678:20:0:0:0:0:32
 nserver:      M.DNS.NIC.ACO 194.0.26.12 2001:67c:10e0:0:0:0:0:12
 nserver:      N.DNS.NIC.ACO 194.0.24.12 2001:678:24:0:0:0:0:12
-ds-rdata:     37419 7 2 fb6894a0ac51d59fdae1f639d3617f974509d5b37a10279695517d7a960104f4
+ds-rdata:     8201 8 2 e32174a9c6e3e3899cf5e0fe6053d8d9e615e0c2993ca32db589027f03aec0c9
 
 whois:        whois.nic.aco
 
@@ -42,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.aco.com
 
 created:      2015-07-16
-changed:      2020-12-11
+changed:      2022-06-22
 source:       IANA
 
