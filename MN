@@ -5,35 +5,32 @@
 domain:       MN
 
 organisation: Datacom Co., Ltd.
-address:      San Business Center Building,
-address:      Sukhbaatar district, 8th khoroo,
-address:      Amar's street, 14200,
-address:      Ulaanbaatar, MONGOLIA
+address:      Galaxy Tower Office Bldg, #5007,
+address:      Mahatma Gandhi Street, 17010,
+address:      Khan-Uul district, Ulaanbaatar
 address:      Mongolia
 
 contact:      administrative
 name:         Enkhbat Dangaasuren
 organisation: Datacom Co., Ltd.
-address:      San Business Center Bldg,
-address:      Sukhbaatar district, 8th khoroo,
-address:      Amar's street, 14200,
-address:      Ulaanbaatar, MONGOLIA
+address:      Galaxy Tower Office Bldg, #5007,
+address:      Mahatma Gandhi Street, 17010,
+address:      Khan-Uul district, Ulaanbaatar
 address:      Mongolia
-phone:        +976 11 318 048
+phone:        +976 7000 0505
 fax-no:       +976 11 320 210
 e-mail:       enkhbat@datacom.mn
 
 contact:      technical
 name:         Enkhbold Gombo
 organisation: Datacom Co. Ltd.
-address:      San Business Center Building,
-address:      Sukhbaatar district, 8th khoroo,
-address:      Amar's street, 14200,
-address:      Ulaanbaatar, MONGOLIA
+address:      Galaxy Tower Office Bldg, #5007,
+address:      Mahatma Gandhi Street, 17010,
+address:      Khan-Uul district, Ulaanbaatar
 address:      Mongolia
-phone:        +976 11 318 048
+phone:        +976 7000 0505
 fax-no:       +976 11 320 210
-e-mail:       hostmaster@datacom.mn
+e-mail:       enkhbold@datacom.mn
 
 nserver:      A0.CCTLD.AFILIAS-NST.INFO 199.254.59.1 2001:500:25:0:0:0:0:1
 nserver:      A2.CCTLD.AFILIAS-NST.INFO 199.249.116.1 2001:500:44:0:0:0:0:1
@@ -53,6 +50,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.mn
 
 created:      1995-03-02
-changed:      2020-11-05
+changed:      2022-06-15
 source:       IANA
 
