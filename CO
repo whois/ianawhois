@@ -12,25 +12,27 @@ address:      Cundinamarca
 address:      Colombia
 
 contact:      administrative
-name:         Isabel Cristina De Ávila Benítez
+name:         Andrés Julián Hernández Valencia
 organisation: Ministry of Information and Communications Technologies (MinTIC)
 address:      Edificio Murillo Toro
 address:      Cra.8 #Entre Calles 12A y 12B
 address:      Bogotá 111711
 address:      Cundinamarca
 address:      Colombia
-phone:        +57 3144012918
-e-mail:       ideavila@mintic.gov.co
+phone:        +57 (1) 344 3460
+fax-no:       +57 (1) 344 2248
+e-mail:       cctld.co@mintic.gov.co
 
 contact:      technical
 name:         Gonzalo Romero
 organisation: .CO Internet S.A.S.
-address:      Calle 100 8 A - 49
-address:      Torre B of 507
-address:      Bogotá
+address:      Calle 81 # 11-08
+address:      Oficina 6-116
+address:      Barrio El Retiro
+address:      Bogota D.C.
+address:      ZIP 110221
 address:      Colombia
-phone:        +571 616 9961
-fax-no:       +571 616 9961
+phone:        +571 794 89 99
 e-mail:       gonzalo@cointernet.com.co
 
 nserver:      NS1.CCTLD.CO 2001:dcd:1:0:0:0:0:14 37.209.192.14
@@ -39,8 +41,7 @@ nserver:      NS3.CCTLD.CO 2001:dcd:3:0:0:0:0:14 37.209.196.14
 nserver:      NS4.CCTLD.CO 156.154.103.25 2610:a1:1010:0:0:0:0:21
 nserver:      NS5.CCTLD.CO 156.154.104.25 2610:a1:1011:0:0:0:0:21
 nserver:      NS6.CCTLD.CO 156.154.105.25 2610:a1:1012:0:0:0:0:21
-ds-rdata:     43834 8 2 A68602EC30C4E5F5D33A624D35549A7F6A2C93939D4B210BA8FA484F3B0E084E
-ds-rdata:     43834 8 1 4957CA93E0D6029AC8BFDF039AD22E98AD721ADB
+ds-rdata:     61744 8 2 B9ADCA87453C1F69A9A524681F4179A88374C546A45892ACC10E2653519ACCBD
 
 whois:        whois.nic.co
 
@@ -48,6 +49,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.cointernet.com.co
 
 created:      1991-12-24
-changed:      2020-09-24
+changed:      2022-07-21
 source:       IANA
 
