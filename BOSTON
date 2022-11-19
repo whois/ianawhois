@@ -4,47 +4,41 @@
 
 domain:       BOSTON
 
-organisation: Boston TLD Management, LLC
-address:      220 W Mercer Street Suite 250
-address:      Seattle, WA 98119
+organisation: Registry Services, LLC
+address:      2155 E GoDaddy Way
+address:      Tempe AZ 85284 US
 address:      United States
 
 contact:      administrative
-name:         Admin Contact
-organisation: Boston TLD Management, LLC
-address:      32 Nassau St,
-address:      Dublin 2
-address:      Ireland
-phone:        +1-877-734-4783
-e-mail:       ops@mmx.co
+name:         IANA Contact
+organisation: Registry Services, LLC
+address:      2155 E GoDaddy Way, Tempe AZ 85284 US
+address:      United States
+phone:        +1 480-505-8800
+fax-no:       +1 480-624-2546
+e-mail:       iana@registry.godaddy
 
 contact:      technical
-name:         TLD Registry Services Technical
-organisation: Nominet
-address:      Minerva House
-address:      Edmund Halley Road
-address:      Oxford Science Park
-address:      Oxford OX4 4DQ
-address:      United Kingdom
-phone:        +44.1865332211
-e-mail:       registrytechnical@nominet.uk
+name:         IANA contact
+organisation: GoDaddy Registry
+address:      2155 E GoDaddy Way, Tempe AZ 85284 US
+address:      United States
+phone:        +1 480-505-8800
+fax-no:       +1 480-624-2546
+e-mail:       iana@registry.godaddy
 
-nserver:      DNS1.NIC.BOSTON 213.248.217.16 2a01:618:401:0:0:0:0:16
-nserver:      DNS2.NIC.BOSTON 103.49.81.16 2401:fd80:401:0:0:0:0:16
-nserver:      DNS3.NIC.BOSTON 213.248.221.16 2a01:618:405:0:0:0:0:16
-nserver:      DNS4.NIC.BOSTON 2401:fd80:405:0:0:0:0:16 43.230.49.16
-nserver:      DNSA.NIC.BOSTON 156.154.100.3 2001:502:ad09:0:0:0:0:3
-nserver:      DNSB.NIC.BOSTON 156.154.101.3
-nserver:      DNSC.NIC.BOSTON 156.154.102.3
-nserver:      DNSD.NIC.BOSTON 156.154.103.3
-ds-rdata:     27680 8 2 C78971D9731512D23053441E6EE438571199DCCE831332D155B12530F92E2E8F
+nserver:      A.NIC.BOSTON 2001:dcd:1:0:0:0:0:10 37.209.192.10
+nserver:      B.NIC.BOSTON 2001:dcd:2:0:0:0:0:10 37.209.194.10
+nserver:      C.NIC.BOSTON 2001:dcd:3:0:0:0:0:10 37.209.196.10
+nserver:      D.NIC.BOSTON 2001:dcd:4:0:0:0:0:10 37.209.198.10
+ds-rdata:     1189 8 2 32DA17D1E9CD92EEBD7214B36B30FA8C8956ABBA7435F46B3A55D1455D8E01A2
 
 whois:        whois.nic.boston
 
 status:       ACTIVE
-remarks:      Registration information: http://mm-registry.com/
+remarks:      Registration information: http://nic.boston/
 
 created:      2016-11-21
-changed:      2018-07-03
+changed:      2022-07-18
 source:       IANA
 
