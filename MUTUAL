@@ -20,27 +20,26 @@ e-mail:       mutualregistry@fairwindspartners.com
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      14455 North Hayden Rd.
-address:      Scottsdale, AZ 85260
+address:      2155 E GoDaddy Way
+address:      Tempe, AZ 85284
 address:      United States
-phone:        +1 480-505-8800
-fax-no:       +1 480-393-4275
+phone:        +1 480 505 8800
+fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
 
+nserver:      A.NIC.MUTUAL 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.MUTUAL 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.MUTUAL 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.MUTUAL 156.154.144.118 2610:a1:1071:0:0:0:0:76
 nserver:      NS2.DNS.NIC.MUTUAL 156.154.145.118 2610:a1:1072:0:0:0:0:76
 nserver:      NS3.DNS.NIC.MUTUAL 156.154.159.118 2610:a1:1073:0:0:0:0:76
-nserver:      NS4.DNS.NIC.MUTUAL 156.154.156.118 2610:a1:1074:0:0:0:0:76
-nserver:      NS5.DNS.NIC.MUTUAL 156.154.157.118 2610:a1:1075:0:0:0:0:76
-nserver:      NS6.DNS.NIC.MUTUAL 156.154.158.118 2610:a1:1076:0:0:0:0:76
-ds-rdata:     45382 8 1 84A818F92A82E696207E91302B786D55B0B26AA3
-ds-rdata:     45382 8 2 7C4F041C3D51E0AE26939A30482E96AE2162671D881D23B40D7C5EFE031CD0E2
+ds-rdata:     22762 8 2 7B979CC950139D75A2C3FCEF3CD9282AD6E8677483E4646CC9D3C2523278E191
 
 status:       ACTIVE
 remarks:      Registration information:
 remarks:      https://www.northwesternmutual.com
 
 created:      2015-07-02
-changed:      2020-10-12
+changed:      2022-07-21
 source:       IANA
 
