@@ -20,26 +20,25 @@ e-mail:       elilillydomains@brandsight.com
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      14455 North Hayden Rd.
-address:      Scottsdale, AZ 85260
+address:      2155 E GoDaddy Way
+address:      Tempe, AZ 85284
 address:      United States
-phone:        +1 480-505-8800
-fax-no:       +1 480-393-4275
+phone:        +1 480 505 8800
+fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
 
+nserver:      A.NIC.LILLY 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.LILLY 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.LILLY 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.LILLY 156.154.144.104 2610:a1:1071:0:0:0:0:68
 nserver:      NS2.DNS.NIC.LILLY 156.154.145.104 2610:a1:1072:0:0:0:0:68
 nserver:      NS3.DNS.NIC.LILLY 156.154.159.104 2610:a1:1073:0:0:0:0:68
-nserver:      NS4.DNS.NIC.LILLY 156.154.156.104 2610:a1:1074:0:0:0:0:68
-nserver:      NS5.DNS.NIC.LILLY 156.154.157.104 2610:a1:1075:0:0:0:0:68
-nserver:      NS6.DNS.NIC.LILLY 156.154.158.104 2610:a1:1076:0:0:0:0:68
-ds-rdata:     9697 8 2 63DD48EC728DE49D9D3233D8E1A08C8B4BDA89971F590890D9B5414F29CDBA5F
-ds-rdata:     9697 8 1 07D59C0F464E0C89A15A34DD329E80E12DBD784C
+ds-rdata:     60970 8 2 967D4DF30E91FD6E0497C228C18DB4FE6C3EF1479CE5428338FE0E746BC412E0
 
 status:       ACTIVE
 remarks:      Registration information: http://www.lilly.com
 
 created:      2016-05-19
-changed:      2021-02-17
+changed:      2022-07-21
 source:       IANA
 
