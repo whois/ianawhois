@@ -11,14 +11,14 @@ address:      Hong Kong
 address:      Hong Kong
 
 contact:      administrative
-name:         Annie Loi
+name:         Charmisty Charm
 organisation: Hong Kong Internet Registration Corporation Limited
-address:      Unit 501, Level 5, Core C, Cyberport 3,
-address:      100 Cyberport Road,
+address:      Unit 501, Level 5, Core C, Cyberport 3
+address:      100 Cyberport Road
 address:      Hong Kong
-phone:        +852 2319 2303
+phone:        +852 2319 3835
 fax-no:       +852 2319 2626
-e-mail:       annie.loi@hkirc.hk
+e-mail:       charmisty.charm@hkirc.hk
 
 contact:      technical
 name:         Ben Lee
@@ -34,7 +34,7 @@ nserver:      NS1.NIC.MTR 2001:dca:4000:0:0:0:cb77:2a4 203.119.2.164
 nserver:      NS2.NIC.MTR 2001:dca:2000:0:0:0:cb77:57a4 203.119.87.164
 nserver:      NS3.NIC.MTR 169.54.247.173 2607:f0d0:1b02:b9:0:0:0:4
 nserver:      NS4.NIC.MTR 135.90.90.24 2401:c900:2101:2a:0:0:0:b
-ds-rdata:     40897 8 2 1CF0277F792C04CBF3DA726D50ED57E33929B3063FD6235A3FE30CB9477EB1AB
+ds-rdata:     35296 8 2 240F6007602F081298E80111ED582580F9A176E2FDC01686E75F2C20E1897BCF
 
 whois:        whois.nic.mtr
 
@@ -42,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.mtr
 
 created:      2015-07-31
-changed:      2020-11-12
+changed:      2021-12-14
 source:       IANA
 
