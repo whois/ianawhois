@@ -22,21 +22,18 @@ e-mail:       jimmy.cappaert@combell.group
 contact:      technical
 name:         CTO
 organisation: CentralNic
-address:      Saddlers House, 4th Floor
-address:      44 Gutter Lane
+address:      Saddlers House 4th Floor 44 Gutter Lane
 address:      London EC2V 6BR
 address:      United Kingdom
-phone:        +44.2033880600
-fax-no:       +44.2033880601
+phone:        +44 20 33 88 0600
+fax-no:       +44 20 33 88 0601
 e-mail:       tld.ops@centralnic.com
 
 nserver:      A.NIC.GENT 194.169.218.89 2001:67c:13cc:0:0:0:1:89
 nserver:      B.NIC.GENT 185.24.64.89 2a04:2b00:13cc:0:0:0:1:89
 nserver:      C.NIC.GENT 212.18.248.89 2a04:2b00:13ee:0:0:0:0:89
 nserver:      D.NIC.GENT 212.18.249.89 2a04:2b00:13ff:0:0:0:0:89
-ds-rdata:     19200 7 2 11F029AD7E87D944ABD918B837C1E5D75E400598DCD66630B37E48D8D149F97E
-ds-rdata:     62361 7 1 EAD2AC343F82EF1BAF3889D76332590EF7D049E5
-ds-rdata:     62361 7 2 66AAE887EBB56145AD256557894BB78115EFAC0F9D3B1BDBC8B32EF87B7D9BED
+ds-rdata:     2640 13 2 E97C1F6F53E1284399D6DAAF670D8FCBDDB5618710ADE52C1219757C14C77D88
 
 whois:        whois.nic.gent
 
@@ -44,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.gent
 
 created:      2014-07-03
-changed:      2020-04-09
+changed:      2022-07-20
 source:       IANA
 
