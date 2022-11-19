@@ -28,10 +28,12 @@ phone:        +1 415 672 3654
 fax-no:       +1 978 359 5830
 e-mail:       sia@nest.org
 
+nserver:      BG.NS.UA 185.136.96.185 185.136.97.185 2a06:fb00:1:0:0:0:2:185 2a06:fb00:1:0:0:0:4:185
 nserver:      CD1.NS.UA 194.0.1.9 2001:678:4:0:0:0:0:9
 nserver:      HO1.NS.UA 195.47.253.1 2001:67c:258:0:0:0:0:1
 nserver:      IN1.NS.UA 2604:ee00:0:101:0:0:0:40 74.123.224.40
 nserver:      PCH.NS.UA 2001:500:14:6012:ad:0:0:1 204.61.216.12
+nserver:      RCZ.NS.UA 193.46.128.10 2a02:850:ffe0:0:0:0:0:10
 ds-rdata:     48349 13 2 D8456DF0EAB0DB7D2422B4110722F5772D7B2F1FD41D487E956A54F1039D53C8
 
 whois:        whois.ua
@@ -40,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://hostmaster.ua/
 
 created:      1992-12-01
-changed:      2020-01-21
+changed:      2022-03-09
 source:       IANA
 
