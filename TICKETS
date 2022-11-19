@@ -4,32 +4,28 @@
 
 domain:       TICKETS
 
-organisation: Accent Media Limited
-address:      35-39 Moorgate
-address:      London,
-address:      EC2R 6AR
-address:      United Kingdom
+organisation: XYZ.COM LLC
+address:      2121 E Tropicana Ave, STE2
+address:      Las Vegas, NV 89119
+address:      United States
 
 contact:      administrative
-name:         CTO
-organisation: CentralNic
-address:      35-39 Moorgate
-address:      London
-address:      EC2R 6AR
-address:      United Kingdom
-phone:        +44.2033880600
-fax-no:       +44.2033880601
-e-mail:       tld.ops@centralnic.com
+name:         General Counsel
+organisation: XYZ.COM LLC
+address:      2121 E Tropicana Ave, STE2
+address:      Las Vegas, NV 89119
+address:      United States
+phone:        +1 702 757 6555
+e-mail:       hello@xyz.com
 
 contact:      technical
 name:         CTO
 organisation: CentralNic
-address:      Saddlers House, 4th Floor
-address:      44 Gutter Lane
+address:      Saddlers House 4th Floor 44 Gutter Lane
 address:      London EC2V 6BR
 address:      United Kingdom
-phone:        +44.2033880600
-fax-no:       +44.2033880601
+phone:        +44 20 33 88 0600
+fax-no:       +44 20 33 88 0601
 e-mail:       tld.ops@centralnic.com
 
 nserver:      A.NIC.TICKETS 194.169.218.58 2001:67c:13cc:0:0:0:1:58
@@ -45,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://tickets.tickets
 
 created:      2015-03-19
-changed:      2020-04-09
+changed:      2022-08-16
 source:       IANA
 
