@@ -9,38 +9,37 @@ address:      388 Greenwich St New York, New York – 10013 US
 address:      United States
 
 contact:      administrative
-name:         Senior Vice President
-organisation: Valideus USA
-address:      1751 Pinnacle Dr., Suite 600
-address:      McLean, VA 22102
-address:      United States
-phone:        +1 (703) 635-7514
-fax-no:       +1 (703) 635-7514
+name:         Head of Legal Policy
+organisation: Com Laude Group
+address:      28-30 Little Russell Street
+address:      London WC1A 2HN
+address:      United Kingdom
+phone:        +44 (0)20 7421 8250
+fax-no:       +44 (0)87 0011 8187
 e-mail:       primary_banamex@valideus.com
 
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      14455 North Hayden Rd.
-address:      Scottsdale, AZ 85260
+address:      2155 E GoDaddy Way
+address:      Tempe, AZ 85284
 address:      United States
-phone:        +1 480-505-8800
-fax-no:       +1 480-393-4275
+phone:        +1 480 505 8800
+fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
 
+nserver:      A.NIC.BANAMEX 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.BANAMEX 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.BANAMEX 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.BANAMEX 156.154.144.21 2610:a1:1071:0:0:0:0:15
 nserver:      NS2.DNS.NIC.BANAMEX 156.154.145.21 2610:a1:1072:0:0:0:0:15
 nserver:      NS3.DNS.NIC.BANAMEX 156.154.159.21 2610:a1:1073:0:0:0:0:15
-nserver:      NS4.DNS.NIC.BANAMEX 156.154.156.21 2610:a1:1074:0:0:0:0:15
-nserver:      NS5.DNS.NIC.BANAMEX 156.154.157.21 2610:a1:1075:0:0:0:0:15
-nserver:      NS6.DNS.NIC.BANAMEX 156.154.158.21 2610:a1:1076:0:0:0:0:15
-ds-rdata:     41752 8 2 B2C1F60E2AF88721DFA1D95AF7687794492FBB1199E7CB33506D142930DCA8EE
-ds-rdata:     41752 8 1 DF921DE92CDED4EE4EB80D253CD6DFE5433887BE
+ds-rdata:     48619 8 2 0EC0CEA382D19EA64E24C4C8B5DCD64217A362F580401DDF31B3EF3D78E35A9B
 
 status:       ACTIVE
 remarks:      Registration information: http://www.citigroup.com
 
 created:      2016-07-21
-changed:      2020-10-12
+changed:      2022-07-21
 source:       IANA
 
