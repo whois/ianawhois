@@ -41,9 +41,9 @@ nserver:      DNS2.NIC.BBC 103.49.83.4 2401:fd80:403:0:0:0:0:4
 nserver:      DNS3.NIC.BBC 213.248.223.4 2a01:618:407:0:0:0:0:4
 nserver:      DNS4.NIC.BBC 2401:fd80:407:0:0:0:0:4 43.230.51.4
 nserver:      DNSA.NIC.BBC 156.154.100.3 2001:502:ad09:0:0:0:0:3
-nserver:      DNSB.NIC.BBC 156.154.101.3
-nserver:      DNSC.NIC.BBC 156.154.102.3
-nserver:      DNSD.NIC.BBC 156.154.103.3
+nserver:      DNSB.NIC.BBC 156.154.101.3 2001:502:2eda:0:0:0:0:3
+nserver:      DNSC.NIC.BBC 156.154.102.3 2610:a1:1009:0:0:0:0:3
+nserver:      DNSD.NIC.BBC 156.154.103.3 2610:a1:1010:0:0:0:0:3
 ds-rdata:     10550 8 2 A5006C3437CE92E184D0E45AD5E31C35FFC69353AEFEC0926B78D04A6D3C99BD
 
 whois:        whois.nic.bbc
@@ -52,6 +52,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.bbc.co.uk
 
 created:      2015-03-12
-changed:      2019-08-23
+changed:      2021-11-10
 source:       IANA
 
