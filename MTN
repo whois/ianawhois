@@ -38,11 +38,9 @@ nserver:      DNS2.NIC.MTN 103.49.83.42 2401:fd80:403:0:0:0:0:42
 nserver:      DNS3.NIC.MTN 213.248.223.42 2a01:618:407:0:0:0:0:42
 nserver:      DNS4.NIC.MTN 2401:fd80:407:0:0:0:0:42 43.230.51.42
 nserver:      DNSA.NIC.MTN 156.154.100.3 2001:502:ad09:0:0:0:0:3
-nserver:      DNSB.NIC.MTN 156.154.101.3
-nserver:      DNSC.NIC.MTN 156.154.102.3
-nserver:      DNSD.NIC.MTN 156.154.103.3
-ds-rdata:     14299 8 2 1C92588CD061388B8AF4E8B3A5ED11D1063D98AF22157EE73854EF9651039C57
-ds-rdata:     14299 8 1 89F5FF0785FD2F6C4B7B7098F3FB533992C72468
+nserver:      DNSB.NIC.MTN 156.154.101.3 2001:502:2eda:0:0:0:0:3
+nserver:      DNSC.NIC.MTN 156.154.102.3 2610:a1:1009:0:0:0:0:3
+nserver:      DNSD.NIC.MTN 156.154.103.3 2610:a1:1010:0:0:0:0:3
 ds-rdata:     18374 8 2 58114B80A64F8617AF3EC29668C55519D8CCB44A203562D746E7F2CC8850A1EB
 
 whois:        whois.nic.mtn
@@ -51,6 +49,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.mtn.com
 
 created:      2015-03-12
-changed:      2021-01-28
+changed:      2021-10-19
 source:       IANA
 
