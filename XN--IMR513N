@@ -10,20 +10,20 @@ address:      Level 20, One International Finance Ctr 1 Harbour View Street, Cen
 address:      China
 
 contact:      administrative
-name:         Policy Director
-organisation: HU YI GLOBAL INFORMATION RESOURCES (HOLDING) COMPANY. HONGKONG LIMITED
-address:      7/F, Chinachem Century Tower, No. 178 Gloucester Road, Wanchai,Hong Kong.
+name:         President
+organisation: Internet DotTrademark Organisation Limited
+address:      Rm 1502, Building 7, No. 9 Shouti South Road, Haidian District, Beijing
 address:      China
-phone:        13751881539
-e-mail:       huiying.liang@huyi.cn
+phone:        +86.1056279700
+e-mail:       icann@trademarkdomain.com
 
 contact:      technical
-name:         Policy Director
-organisation: HU YI GLOBAL INFORMATION RESOURCES (HOLDING) COMPANY. HONGKONG LIMITED
-address:      7/F, Chinachem Century Tower, No. 178 Gloucester Road, Wanchai,Hong Kong.
+name:         International BD Manager
+organisation: Internet DotTrademark Organisation Limited
+address:      Rm 1502, Building 7, No. 9 Shouti South Road, Haidian District, Beijing
 address:      China
-phone:        13751881539
-e-mail:       huiying.liang@huyi.cn
+phone:        +86.1056279700
+e-mail:       icann@trademarkdomain.com
 
 nserver:      A.ZDNSCLOUD.COM 203.99.24.1
 nserver:      B.ZDNSCLOUD.COM 203.99.25.1
@@ -38,6 +38,6 @@ ds-rdata:     14747 8 2 6581fd2fc61a9a81926e5dbe6f7eeb940402bf2db280c98f50aba666
 status:       ACTIVE
 
 created:      2015-05-08
-changed:      2018-12-23
+changed:      2021-03-12
 source:       IANA
 
