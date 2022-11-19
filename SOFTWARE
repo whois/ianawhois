@@ -4,38 +4,39 @@
 
 domain:       SOFTWARE
 
-organisation: United TLD Holdco, Ltd
-address:      One Clarendon Row, Dublin 2, Co. Dublin
-address:      Ireland
+organisation: Dog Beach, LLC
+address:      Donuts Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
+address:      United States
 
 contact:      administrative
-name:         Serina Ness
+name:         Vice President, Engineering
 organisation: Donuts Inc.
-address:      Donuts Inc.
-address:      5808 Lake Washington Blvd NE, Suite 300
-address:      Kirkland, WA 98033
-address:      United States
-phone:        +1.425.283.8248
-fax-no:       +1.425.671.0020
-e-mail:       serina@donuts.email
-
-contact:      technical
-name:         Ben Levac
-organisation: Donuts Inc.
-address:      Donuts Inc.
-address:      5808 Lake Washington Blvd NE, Suite 300
-address:      Kirkland, WA 98033
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
 address:      United States
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       ben@donuts.email
+e-mail:       tldadmin@donuts.email
 
-nserver:      DEMAND.ALPHA.ARIDNS.NET.AU 2001:dcd:1:0:0:0:0:7 37.209.192.7
-nserver:      DEMAND.BETA.ARIDNS.NET.AU 2001:dcd:2:0:0:0:0:7 37.209.194.7
-nserver:      DEMAND.DELTA.ARIDNS.NET.AU 2001:dcd:4:0:0:0:0:7 37.209.198.7
-nserver:      DEMAND.GAMMA.ARIDNS.NET.AU 2001:dcd:3:0:0:0:0:7 37.209.196.7
-ds-rdata:     12949 8 1 06C5968D23178124399C5183401EC634FCAA883D
-ds-rdata:     12949 8 2 AAC790B10ACECB01EBC34DD96D15DBD34F528E0E331AED376AD8EDC413FDD5BE
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Donuts Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
+address:      United States
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@donuts.email
+
+nserver:      V0N0.NIC.SOFTWARE 2a01:8840:22:0:0:0:0:10 65.22.32.10
+nserver:      V0N1.NIC.SOFTWARE 2a01:8840:23:0:0:0:0:10 65.22.33.10
+nserver:      V0N2.NIC.SOFTWARE 2a01:8840:24:0:0:0:0:10 65.22.34.10
+nserver:      V0N3.NIC.SOFTWARE 161.232.16.10 2a01:8840:fa:0:0:0:0:10
+nserver:      V2N0.NIC.SOFTWARE 2a01:8840:25:0:0:0:0:10 65.22.35.10
+nserver:      V2N1.NIC.SOFTWARE 161.232.17.10 2a01:8840:fb:0:0:0:0:10
+ds-rdata:     13531 8 2 adbc7a3c20e6f0b685c47bfa610899b783dc463921f47bc231a6e29147e80902
 
 whois:        whois.nic.software
 
@@ -43,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.donuts.domains/
 
 created:      2014-05-22
-changed:      2020-04-16
+changed:      2021-11-18
 source:       IANA
 
