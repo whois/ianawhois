@@ -6,38 +6,37 @@ domain:       HOCKEY
 
 organisation: Binky Moon, LLC
 address:      Donuts Inc.
-address:      5808 Lake Washington Blvd NE, Suite 300
-address:      Kirkland, WA 98033
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
 address:      United States
 
 contact:      administrative
-name:         Serina Ness
+name:         Vice President, Engineering
 organisation: Donuts Inc.
-address:      Donuts Inc.
-address:      5808 Lake Washington Blvd NE, Suite 300
-address:      Kirkland, WA 98033
-address:      United States
-phone:        +1.425.283.8248
-fax-no:       +1.425.671.0020
-e-mail:       serina@donuts.email
-
-contact:      technical
-name:         Ben Levac
-organisation: Donuts Inc.
-address:      Donuts Inc.
-address:      5808 Lake Washington Blvd NE, Suite 300
-address:      Kirkland, WA 98033
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
 address:      United States
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       ben@donuts.email
+e-mail:       tldadmin@donuts.email
 
-nserver:      DEMAND.ALPHA.ARIDNS.NET.AU 2001:dcd:1:0:0:0:0:7 37.209.192.7
-nserver:      DEMAND.BETA.ARIDNS.NET.AU 2001:dcd:2:0:0:0:0:7 37.209.194.7
-nserver:      DEMAND.DELTA.ARIDNS.NET.AU 2001:dcd:4:0:0:0:0:7 37.209.198.7
-nserver:      DEMAND.GAMMA.ARIDNS.NET.AU 2001:dcd:3:0:0:0:0:7 37.209.196.7
-ds-rdata:     40135 8 2 2ABE8C2214212E718CDB4A3B826C01B8C62D45CAC6037481187FD1E20EA6880A
-ds-rdata:     40135 8 1 340CE97AD9AC1B71471DC62598634ADB35D4B52B
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Donuts Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
+address:      United States
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@donuts.email
+
+nserver:      V0N0.NIC.HOCKEY 2a01:8840:16:0:0:0:0:31 65.22.20.31
+nserver:      V0N1.NIC.HOCKEY 2a01:8840:17:0:0:0:0:31 65.22.21.31
+nserver:      V0N2.NIC.HOCKEY 2a01:8840:18:0:0:0:0:31 65.22.22.31
+nserver:      V0N3.NIC.HOCKEY 161.232.10.31 2a01:8840:f4:0:0:0:0:31
+nserver:      V2N0.NIC.HOCKEY 2a01:8840:19:0:0:0:0:31 65.22.23.31
+nserver:      V2N1.NIC.HOCKEY 161.232.11.31 2a01:8840:f5:0:0:0:0:31
+ds-rdata:     17029 8 2 8bccb97086905ab56155084578e7873c77abce3210245d2503f59d42d94d8ce6
 
 whois:        whois.nic.hockey
 
@@ -45,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.donuts.domains/
 
 created:      2015-04-30
-changed:      2020-04-16
+changed:      2021-10-27
 source:       IANA
 
