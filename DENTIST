@@ -4,38 +4,39 @@
 
 domain:       DENTIST
 
-organisation: United TLD Holdco, Ltd
-address:      One Clarendon Row, Dublin 2, Co. Dublin
-address:      Ireland
+organisation: Dog Beach, LLC
+address:      Donuts Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
+address:      United States
 
 contact:      administrative
-name:         Serina Ness
+name:         Vice President, Engineering
 organisation: Donuts Inc.
-address:      Donuts Inc.
-address:      5808 Lake Washington Blvd NE, Suite 300
-address:      Kirkland, WA 98033
-address:      United States
-phone:        +1.425.283.8248
-fax-no:       +1.425.671.0020
-e-mail:       serina@donuts.email
-
-contact:      technical
-name:         Ben Levac
-organisation: Donuts Inc.
-address:      Donuts Inc.
-address:      5808 Lake Washington Blvd NE, Suite 300
-address:      Kirkland, WA 98033
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
 address:      United States
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       ben@donuts.email
+e-mail:       tldadmin@donuts.email
 
-nserver:      DEMAND.ALPHA.ARIDNS.NET.AU 2001:dcd:1:0:0:0:0:7 37.209.192.7
-nserver:      DEMAND.BETA.ARIDNS.NET.AU 2001:dcd:2:0:0:0:0:7 37.209.194.7
-nserver:      DEMAND.DELTA.ARIDNS.NET.AU 2001:dcd:4:0:0:0:0:7 37.209.198.7
-nserver:      DEMAND.GAMMA.ARIDNS.NET.AU 2001:dcd:3:0:0:0:0:7 37.209.196.7
-ds-rdata:     13906 8 2 A5D3C0DA8606EAC6AAF94985E0A3514F816A58022FC49B8831B46CE635A5BDC8
-ds-rdata:     13906 8 1 C024AB1F896A587BE077F6AE9A9782544F599167
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Donuts Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
+address:      United States
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@donuts.email
+
+nserver:      V0N0.NIC.DENTIST 2a01:8840:1a:0:0:0:0:27 65.22.24.27
+nserver:      V0N1.NIC.DENTIST 2a01:8840:1b:0:0:0:0:27 65.22.25.27
+nserver:      V0N2.NIC.DENTIST 2a01:8840:1c:0:0:0:0:27 65.22.26.27
+nserver:      V0N3.NIC.DENTIST 161.232.12.27 2a01:8840:f6:0:0:0:0:27
+nserver:      V2N0.NIC.DENTIST 2a01:8840:1d:0:0:0:0:27 65.22.27.27
+nserver:      V2N1.NIC.DENTIST 161.232.13.27 2a01:8840:f7:0:0:0:0:27
+ds-rdata:     44359 8 2 7fa7576377dd2904a2dc223d4d21c8d75b394f65794afb21cda90bf56c78c8ce
 
 whois:        whois.nic.dentist
 
@@ -43,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.donuts.domains/
 
 created:      2014-05-22
-changed:      2020-04-16
+changed:      2021-11-04
 source:       IANA
 
