@@ -20,26 +20,25 @@ e-mail:       dellregistry@fairwindspartners.com
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      14455 North Hayden Rd.
-address:      Scottsdale, AZ 85260
+address:      2155 E GoDaddy Way
+address:      Tempe, AZ 85284
 address:      United States
-phone:        +1 480-505-8800
-fax-no:       +1 480-393-4275
+phone:        +1 480 505 8800
+fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
 
+nserver:      A.NIC.DELL 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.DELL 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.DELL 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.DELL 156.154.144.47 2610:a1:1071:0:0:0:0:2f
 nserver:      NS2.DNS.NIC.DELL 156.154.145.47 2610:a1:1072:0:0:0:0:2f
 nserver:      NS3.DNS.NIC.DELL 156.154.159.47 2610:a1:1073:0:0:0:0:2f
-nserver:      NS4.DNS.NIC.DELL 156.154.156.47 2610:a1:1074:0:0:0:0:2f
-nserver:      NS5.DNS.NIC.DELL 156.154.157.47 2610:a1:1075:0:0:0:0:2f
-nserver:      NS6.DNS.NIC.DELL 156.154.158.47 2610:a1:1076:0:0:0:0:2f
-ds-rdata:     52264 8 1 02DC4424E44377206F85E850D2DF603BE780D87A
-ds-rdata:     52264 8 2 2E905176005A54631CFF78D28542BB1DEA2441304423892AD1C963DCA3F93BF9
+ds-rdata:     22471 8 2 3B9DEEF2F217EE45D415525DE6979D780F2AFA1A1C95B8F2F437BD636CFD2095
 
 status:       ACTIVE
 remarks:      Registration information: http://www.dell.com
 
 created:      2015-04-30
-changed:      2020-10-12
+changed:      2022-07-21
 source:       IANA
 
