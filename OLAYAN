@@ -30,8 +30,7 @@ nserver:      A.NIC.OLAYAN 2001:dcd:1:0:0:0:0:9 37.209.192.9
 nserver:      B.NIC.OLAYAN 2001:dcd:2:0:0:0:0:9 37.209.194.9
 nserver:      C.NIC.OLAYAN 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      D.NIC.OLAYAN 2001:dcd:4:0:0:0:0:9 37.209.198.9
-ds-rdata:     2446 8 2 4445D21D27B2DE5E541DD6D25D78A0CA3FC4D3D043A394504A20425BF6354AEF
-ds-rdata:     2446 8 1 5B24BC35B6935F02902B8FEEF812A9C3D5CA4BD4
+ds-rdata:     60061 8 2 930E37D43F6F58965863B8906ADADFDF0091EDEE90B6C8C0DD3A88ED5112D2C8
 
 whois:        whois.nic.olayan
 
@@ -39,6 +38,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.olayan.com/
 
 created:      2016-04-21
-changed:      2020-06-02
+changed:      2022-07-21
 source:       IANA
 
