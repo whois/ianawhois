@@ -10,26 +10,26 @@ address:      Salt Lake City, UT 84107
 address:      United States
 
 contact:      administrative
-name:         Senior Vice President
-organisation: Afilias
-address:      Building 3, Suite 105
-address:      300 Welsh Road
-address:      Horsham, PA 19044
+name:         Vice President, Engineering
+organisation: Afilias Limited
+address:      c/o Donuts Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
 address:      United States
-phone:        +1 215.706.5700
-fax-no:       +1 215.706.5701
-e-mail:       tld-admin-poc@afilias.info
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldadmin@donuts.email
 
 contact:      technical
 name:         Director, DNS infrastructure Group
-organisation: Afilias
-address:      Building 3, Suite 105
-address:      300 Welsh Road
-address:      Horsham, PA 19044
+organisation: Afilias Limited
+address:      c/o Donuts Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
 address:      United States
-phone:        +1 215.706.5700
-fax-no:       +1 215.706.5701
-e-mail:       tld-tech-poc@afilias.info
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@donuts.email
 
 nserver:      A0.NIC.VOTO 2a01:8840:a2:0:0:0:0:1 65.22.168.1
 nserver:      A2.NIC.VOTO 2a01:8840:a5:0:0:0:0:1 65.22.171.1
@@ -37,12 +37,12 @@ nserver:      B0.NIC.VOTO 2a01:8840:a3:0:0:0:0:1 65.22.169.1
 nserver:      C0.NIC.VOTO 2a01:8840:a4:0:0:0:0:1 65.22.170.1
 ds-rdata:     26875 8 2 847371b1a0a21ae134a0e0c15b0e505bb4c88a26ed401daff4f4e8794c5b31a1
 
-whois:        whois.afilias.net
+whois:        whois.nic.voto
 
 status:       ACTIVE
-remarks:      Registration information: http://afilias.info/contact-us
+remarks:      Registration information: https://donuts.domains/
 
 created:      2014-02-13
-changed:      2020-10-30
+changed:      2021-12-02
 source:       IANA
 
