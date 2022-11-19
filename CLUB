@@ -4,46 +4,45 @@
 
 domain:       CLUB
 
-organisation: .CLUB DOMAINS, LLC
-address:      100 SE 3rd Ave. Suite 1310
-address:      Fort Lauderdale, FL 33394
+organisation: Registry Services, LLC
+address:      2155 E. GoDaddy Way
+address:      Tempe, AZ 85284
 address:      United States
 
 contact:      administrative
-name:         Howard Bell
-organisation: .CLUB DOMAINS, LLC
-address:      100 SE 3rd. Ave. Suite 1310
-address:      Fort Lauderdale, FL 33394
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      2155 E. GoDaddy Way
+address:      Tempe, AZ 85284
 address:      United States
-phone:        (954) 707-1107
-fax-no:       888-886-0462
-e-mail:       howard@get.club
+phone:        +1 480-505-8800
+fax-no:       +1 480-624-2546
+e-mail:       iana@registry.godaddy
 
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      14455 North Hayden Rd.
-address:      Scottsdale, AZ 85260
+address:      2155 E GoDaddy Way
+address:      Tempe, AZ 85284
 address:      United States
-phone:        +1 480-505-8800
-fax-no:       +1 480-393-4275
+phone:        +1 480 505 8800
+fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
 
+nserver:      A.NIC.CLUB 2001:dcd:1:0:0:0:0:10 37.209.192.10
+nserver:      B.NIC.CLUB 2001:dcd:2:0:0:0:0:10 37.209.194.10
+nserver:      C.NIC.CLUB 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      NS1.DNS.NIC.CLUB 156.154.144.215 2610:a1:1071:0:0:0:0:d7
 nserver:      NS2.DNS.NIC.CLUB 156.154.145.215 2610:a1:1072:0:0:0:0:d7
 nserver:      NS3.DNS.NIC.CLUB 156.154.159.215 2610:a1:1073:0:0:0:0:d7
-nserver:      NS4.DNS.NIC.CLUB 156.154.156.215 2610:a1:1074:0:0:0:0:d7
-nserver:      NS5.DNS.NIC.CLUB 156.154.157.215 2610:a1:1075:0:0:0:0:d7
-nserver:      NS6.DNS.NIC.CLUB 156.154.158.215 2610:a1:1076:0:0:0:0:d7
-ds-rdata:     29815 8 2 3B67F899B57454E924DD1EFAE729B8741D61BA9BC8D76CD888919E5C0950CA23
-ds-rdata:     29815 8 1 7F2B8E1D8B715BB382111A84F4552A599462017A
+ds-rdata:     20392 8 2 1F1EBACD947952CE4DF8A80045EC37D088A49B72618FEB92B91229DE4D31B7B4
 
 whois:        whois.nic.club
 
 status:       ACTIVE
-remarks:      Registration information: http://dotclub.com
+remarks:      Registration information: http://nic.club/
 
 created:      2014-01-09
-changed:      2020-10-12
+changed:      2022-07-18
 source:       IANA
 
