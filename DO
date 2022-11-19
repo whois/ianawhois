@@ -14,11 +14,11 @@ contact:      administrative
 name:         VICERRECTORIA DE ADMINISTRACION Y FINANZAS
 organisation: Pontificia Universidad Catolica Madre y Maestra Campus Santo Tomas de Aquino
 address:      Ave. Abraham Lincoln Esq. Romulo Betancourt
-address:      Santo Domingo  2748
+address:      Santo Domingo
 address:      Dominican Republic
 phone:        809 535-0111 EXT. 2141
 fax-no:       809 534-7060, 809 286-0012, 809 508-0486
-e-mail:       rpena@pucmm.edu.do
+e-mail:       adm-iana@nic.do
 
 contact:      technical
 name:         Clara Collado
@@ -34,7 +34,6 @@ nserver:      A.LACTLD.ORG 200.0.68.10 2801:14:a000:0:0:0:0:10
 nserver:      NS.NIC.DO 190.113.72.177 2001:13e0:85d0:106:0:0:0:177
 nserver:      NS1.NIC.DO 190.113.72.178 2001:13e0:85d0:106:0:0:0:178
 nserver:      NS2.NIC.DO 190.113.65.12 2001:13e0:0:1:0:0:0:12
-nserver:      NS3.NIC.MX 200.33.111.1
 nserver:      NS4.NIC.DO 2001:500:14:6124:ad:0:0:1 204.61.216.124
 nserver:      NS5.NIC.DO 190.113.65.13 2001:13e0:0:1:0:0:0:13
 nserver:      PHLOEM.UOREGON.EDU 128.223.32.35 2001:468:d01:20:0:0:80df:2023
@@ -45,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.do
 
 created:      1991-08-25
-changed:      2019-11-28
+changed:      2022-10-12
 source:       IANA
 
