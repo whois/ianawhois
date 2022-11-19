@@ -10,13 +10,13 @@ address:      Lower Parel (W), Mumbai - 400 013
 address:      India
 
 contact:      administrative
-name:         Head – Digital Marketing
+name:         Assistant Vice President
 organisation: HDFC Bank Limited
 address:      HDFC Bank House, Senapati Bapat Marg
 address:      Lower Parel (W), Mumbai - 400 013
 address:      India
-phone:        +91 22 3395 9000
-e-mail:       websitemanager@hdfcbank.com
+phone:        +91 970 277 7311
+e-mail:       vipul.bellap@hdfcbank.com
 
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
@@ -33,14 +33,13 @@ nserver:      A0.NIC.HDFCBANK 2a01:8840:ae:0:0:0:0:33 65.22.180.33
 nserver:      A2.NIC.HDFCBANK 2a01:8840:b1:0:0:0:0:33 65.22.183.33
 nserver:      B0.NIC.HDFCBANK 2a01:8840:af:0:0:0:0:33 65.22.181.33
 nserver:      C0.NIC.HDFCBANK 2a01:8840:b0:0:0:0:0:33 65.22.182.33
-ds-rdata:     49128 7 1 8ae26d4b2e7e6705acb38d98ad74ffec5698ddef
-ds-rdata:     49128 7 2 3950bfbc9de3c874911b6185dd594d9cdfd6ec9e6c98802d5ce4d9fb58a411c7
+ds-rdata:     63937 8 2 b8f2ca908cc4e3526a25ad74da7f2d9962b4a1692805ae8f5c0cef5542745029
 
 whois:        whois.nic.hdfcbank
 
 status:       ACTIVE
 
 created:      2016-02-05
-changed:      2019-08-27
+changed:      2021-04-23
 source:       IANA
 
