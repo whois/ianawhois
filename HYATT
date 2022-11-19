@@ -20,26 +20,25 @@ e-mail:       hyattgtld@brandsight.com
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      14455 North Hayden Rd.
-address:      Scottsdale, AZ 85260
+address:      2155 E GoDaddy Way
+address:      Tempe, AZ 85284
 address:      United States
-phone:        +1 480-505-8800
-fax-no:       +1 480-393-4275
+phone:        +1 480 505 8800
+fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
 
+nserver:      A.NIC.HYATT 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.HYATT 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.HYATT 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.HYATT 156.154.144.78 2610:a1:1071:0:0:0:0:4e
 nserver:      NS2.DNS.NIC.HYATT 156.154.145.78 2610:a1:1072:0:0:0:0:4e
 nserver:      NS3.DNS.NIC.HYATT 156.154.159.78 2610:a1:1073:0:0:0:0:4e
-nserver:      NS4.DNS.NIC.HYATT 156.154.156.78 2610:a1:1074:0:0:0:0:4e
-nserver:      NS5.DNS.NIC.HYATT 156.154.157.78 2610:a1:1075:0:0:0:0:4e
-nserver:      NS6.DNS.NIC.HYATT 156.154.158.78 2610:a1:1076:0:0:0:0:4e
-ds-rdata:     9637 8 1 222EC1D35F056C20D397E6F112D604A066D49DA2
-ds-rdata:     9637 8 2 D256E27803C2CA5FA03EA40A49A9A944CA05F1FD0D4FF90723E0AC99FC4B05E5
+ds-rdata:     34852 8 2 B21957EBB857E894B0FC407AC189CBAB466804F560AD5815E9D1AF829A566424
 
 status:       ACTIVE
 remarks:      Registration information: http://www.hyatt.com
 
 created:      2016-07-22
-changed:      2020-10-12
+changed:      2022-07-21
 source:       IANA
 
