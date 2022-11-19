@@ -4,19 +4,18 @@
 
 domain:       TV
 
-organisation: Ministry of Finance and Tourism
+organisation: Ministry of Justice, Communications and Foreign Affairs
 address:      2 Vaiaku Rd
-address:      Vaiaku Funafuti
+address:      Vaiaku, Funafuti
 address:      Tuvalu
 
 contact:      administrative
-name:         Director of ICT
-organisation: Ministry of Communications and Transport
+name:         Opetaia Simati
+organisation: Ministry of Justice, Communications and Foreign Affairs
 address:      2 Vaiaku Rd
-address:      Vaiaku Funafuti
+address:      Vaiaku, Funafuti
 address:      Tuvalu
-phone:        + (688) 20055
-fax-no:       + (688) 20722
+phone:        +(688) 20069
 e-mail:       ict@gov.tv
 
 contact:      technical
@@ -29,12 +28,12 @@ phone:        +1 703 925-6999
 fax-no:       +1 703 948-3978
 e-mail:       info@verisign-grs.com
 
-nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
-nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
-nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
-nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
-ds-rdata:     44904 8 1 3E447F7145888B3137E9D83EEC9FB77671A8647D
+nserver:      A.NIC.TV 2001:dcd:1:0:0:0:0:6 37.209.192.6
+nserver:      B.NIC.TV 2001:dcd:2:0:0:0:0:6 37.209.194.6
+nserver:      C.NIC.TV 2001:dcd:3:0:0:0:0:6 37.209.196.6
+nserver:      D.NIC.TV 2001:dcd:4:0:0:0:0:6 37.209.198.6
 ds-rdata:     44904 8 2 1CFE1309925B78F42C8B4862A670B0BAB9FC142ED8B4D41E24C65FE6A0D9DFB4
+ds-rdata:     2107 8 2 2F2DC481C07E7DB2E54A546A7A35CC16CBCF242EC76B71385A42CD7BC37E7FC8
 
 whois:        tvwhois.verisign-grs.com
 
@@ -42,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.tv
 
 created:      1996-03-18
-changed:      2016-03-14
+changed:      2022-11-16
 source:       IANA
 
