@@ -12,38 +12,36 @@ address:      10017
 address:      United States
 
 contact:      administrative
-name:         Rudy Mendoza
+name:         Manager
 organisation: MarkMonitor, Inc.
-address:      3540 E. Longwing Lane, Suite 300
-address:      Meridian, ID 83704
+address:      2150 S Bonito Way, Suite 150
+address:      Meridian, ID 83642
 address:      United States
-phone:        +1 208 685 1880
-fax-no:       +1 415 278 8444
+phone:        +1 208 685 1857
 e-mail:       dotpfizer@markmonitor.com
 
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      14455 North Hayden Rd.
-address:      Scottsdale, AZ 85260
+address:      2155 E GoDaddy Way
+address:      Tempe, AZ 85284
 address:      United States
-phone:        +1 480-505-8800
-fax-no:       +1 480-393-4275
+phone:        +1 480 505 8800
+fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
 
+nserver:      A.NIC.PFIZER 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.PFIZER 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.PFIZER 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.PFIZER 156.154.144.134 2610:a1:1071:0:0:0:0:86
 nserver:      NS2.DNS.NIC.PFIZER 156.154.145.134 2610:a1:1072:0:0:0:0:86
 nserver:      NS3.DNS.NIC.PFIZER 156.154.159.134 2610:a1:1073:0:0:0:0:86
-nserver:      NS4.DNS.NIC.PFIZER 156.154.156.134 2610:a1:1074:0:0:0:0:86
-nserver:      NS5.DNS.NIC.PFIZER 156.154.157.134 2610:a1:1075:0:0:0:0:86
-nserver:      NS6.DNS.NIC.PFIZER 156.154.158.134 2610:a1:1076:0:0:0:0:86
-ds-rdata:     13027 8 2 E4F8779447A1437169483F1255FAF003C56823267A6155E8074B0DBFEB85D8D9
-ds-rdata:     13027 8 1 773165A0A5DBD25D6959DFB9D8D37F05491629EA
+ds-rdata:     46210 8 2 9166664240F37692A3886B0566E05220D43A364B2FEF2581A905EF5833414BCB
 
 status:       ACTIVE
 remarks:      Registration information: http://www.pfizer.com
 
 created:      2016-06-16
-changed:      2020-10-12
+changed:      2022-08-18
 source:       IANA
 
