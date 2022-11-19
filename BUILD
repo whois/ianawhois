@@ -20,11 +20,11 @@ e-mail:       george@dotbuild.co
 contact:      technical
 name:         CTO
 organisation: CentralNic
-address:      4th Floor, 44 Gutter Lane
-address:      London, EC2V 6BR
+address:      Saddlers House 4th Floor 44 Gutter Lane
+address:      London EC2V 6BR
 address:      United Kingdom
-phone:        +44 203 388 0600
-fax-no:       +44 203 388 0601
+phone:        +44 20 33 88 0600
+fax-no:       +44 20 33 88 0601
 e-mail:       tld.ops@centralnic.com
 
 nserver:      A.NIC.BUILD 194.169.218.20 2001:67c:13cc:0:0:0:1:20
@@ -37,9 +37,9 @@ ds-rdata:     30770 8 2 68e3857b46d09fe8c87b6144a5d61f9613440a6407331ac598970c29
 whois:        whois.nic.build
 
 status:       ACTIVE
-remarks:      Registration information: http://www.dotbuild.co
+remarks:      Registration information: https://about.build/
 
 created:      2014-01-09
-changed:      2020-11-20
+changed:      2021-11-29
 source:       IANA
 
