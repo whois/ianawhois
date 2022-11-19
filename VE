@@ -29,13 +29,13 @@ phone:        +58 212 9090435
 fax-no:       +58 212 9090329
 e-mail:       soportenicve@conatel.gob.ve
 
+nserver:      A.LACTLD.ORG 200.0.68.10 2801:14:a000:0:0:0:0:10
 nserver:      NS3.NIC.VE 190.9.129.56
 nserver:      NS4.NIC.VE 190.202.128.43
 nserver:      NS5.NIC.VE 2801:18:8800:3:18ba:beff:fe61:d08b 45.175.22.88
 nserver:      NS6.NIC.VE 2801:18:8800:1:0:0:0:4 45.175.22.4
 nserver:      SSDNS-TLD.NIC.CL 200.7.5.14 2001:1398:276:0:200:7:5:14
-ds-rdata:     2329 8 2 D705ED5B98A2C3363B37DC4D32B44556AF9A8FDEF3C20D6CC041CAD026F0B36C
-ds-rdata:     2329 8 1 90D2DDD1FB931CBFE9510A110742C3B017932EA5
+ds-rdata:     14092 8 2 08C74712D9EE7AB88BAD9EA011379E2AC419102E209B83CB9C4EE6CFB5CA7E65
 
 whois:        whois.nic.ve
 
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.ve/
 
 created:      1991-03-07
-changed:      2020-08-19
+changed:      2022-08-23
 source:       IANA
 
