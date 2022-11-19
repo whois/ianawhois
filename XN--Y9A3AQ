@@ -33,7 +33,7 @@ nserver:      FORK.STH.DNSNODE.NET 2a01:3f0:0:306:0:0:0:53 77.72.229.254
 nserver:      NS-CDN.AMNIC.NET 194.0.1.26 2001:678:4:0:0:0:0:1a
 nserver:      NS-PCH.AMNIC.NET 2001:500:14:6096:ad:0:0:1 204.61.216.96
 nserver:      NS-PRI.NIC.AM 195.43.75.53 2001:7f9:8:53:0:0:0:1
-ds-rdata:     9510 7 2 5DBCABAFB714D949F10ECCDAD64253CB64FF079D60A25E4704B6453A36642F02
+ds-rdata:     62869 13 2 815A710EBACAF9227C48A8C96DD1199C7822BB3FC6ECE2620975B2A5FA16A0FB
 
 whois:        whois.amnic.net
 
@@ -41,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.amnic.net/
 
 created:      2014-11-26
-changed:      2020-07-16
+changed:      2022-09-13
 source:       IANA
 
