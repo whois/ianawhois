@@ -16,7 +16,6 @@ address:      Box 800
 address:      New York, NY 10024
 address:      United States
 phone:        +1 212-877-8943
-fax-no:        +1 212-877-1905
 e-mail:       mccabe@whoswho.com
 
 contact:      technical
@@ -42,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.whoswho
 
 created:      2014-06-12
-changed:      2020-07-24
+changed:      2021-03-15
 source:       IANA
 
