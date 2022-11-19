@@ -31,7 +31,7 @@ e-mail:       support@fury.ca
 
 nserver:      A.NS.NIC.KIWI 185.159.197.1 2620:10a:80aa:0:0:0:0:1
 nserver:      B.NS.NIC.KIWI 185.159.198.1 2620:10a:80ab:0:0:0:0:1
-ds-rdata:     18002 8 2 a9fb15d8951b9bca9a50b913240f679046a5b1d949c35969e23d46e042e3bcf9
+ds-rdata:     30184 8 2 72600ee2c5f82b9d0637cc4724b654d459051ca9b761380c126d926cb70a5002
 
 whois:        whois.nic.kiwi
 
@@ -39,6 +39,6 @@ status:       ACTIVE
 remarks:      Registration information: http://hello.kiwi
 
 created:      2013-11-25
-changed:      2019-08-26
+changed:      2022-10-06
 source:       IANA
 
