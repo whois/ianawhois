@@ -38,9 +38,9 @@ nserver:      DNS2.NIC.BROADWAY 103.49.81.38 2401:fd80:401:0:0:0:0:38
 nserver:      DNS3.NIC.BROADWAY 213.248.221.38 2a01:618:405:0:0:0:0:38
 nserver:      DNS4.NIC.BROADWAY 2401:fd80:405:0:0:0:0:38 43.230.49.38
 nserver:      DNSA.NIC.BROADWAY 156.154.100.3 2001:502:ad09:0:0:0:0:3
-nserver:      DNSB.NIC.BROADWAY 156.154.101.3
-nserver:      DNSC.NIC.BROADWAY 156.154.102.3
-nserver:      DNSD.NIC.BROADWAY 156.154.103.3
+nserver:      DNSB.NIC.BROADWAY 156.154.101.3 2001:502:2eda:0:0:0:0:3
+nserver:      DNSC.NIC.BROADWAY 156.154.102.3 2610:a1:1009:0:0:0:0:3
+nserver:      DNSD.NIC.BROADWAY 156.154.103.3 2610:a1:1010:0:0:0:0:3
 ds-rdata:     47576 8 2 CCC4CE45AACB1C0ECD8181D968B86BEFF3B34D1A71576F137CA43529FF8F12BB
 
 whois:        whois.nic.broadway
@@ -49,6 +49,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.broadway
 
 created:      2015-10-08
-changed:      2021-01-25
+changed:      2021-10-19
 source:       IANA
 
