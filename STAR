@@ -9,21 +9,19 @@ address:      Star House, Off Dr.E.Moses Road, Mahalaxmi,
 address:      Mumbai
 address:      Maharashtra
 address:      400011
-address:      IN
 address:      India
 
 contact:      administrative
-name:         Manager - Commercials
+name:         Senior Project Manager
 organisation: Star India Private Limited
 address:      Star House, Off Dr.E.Moses Road, Mahalaxmi,
 address:      Mumbai
 address:      Maharashtra
 address:      400011
-address:      IN
 address:      India
-phone:        +912266305555
+phone:        +912266301126
 fax-no:       +912266305050
-e-mail:       kaveri@hotstar.com
+e-mail:       gtl.admin@startv.com
 
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
@@ -31,7 +29,6 @@ organisation: Afilias
 address:      Building 3, Suite 105
 address:      300 Welsh Road
 address:      Horsham, PA 19044
-address:      United States
 address:      United States
 phone:        +1 215.706.5700
 fax-no:       +1 215.706.5701
@@ -49,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.startv.com
 
 created:      2015-12-10
-changed:      2020-11-06
+changed:      2021-04-29
 source:       IANA
 
