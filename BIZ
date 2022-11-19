@@ -5,38 +5,37 @@
 domain:       BIZ
 
 organisation: Registry Services, LLC
-address:      14455 North Hayden Rd.
-address:      Scottsdale, AZ 85260
+address:      2155 E. GoDaddy Way
+address:      Tempe, AZ 85284
 address:      United States
 
 contact:      administrative
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      14455 North Hayden Rd.
-address:      Scottsdale, AZ 85260
+address:      2155 E GoDaddy Way
+address:      Tempe, AZ 85284
 address:      United States
 phone:        +1 480-505-8800
-fax-no:       +1 480-393-4275
+fax-no:       +1 480-624-2546
 e-mail:       iana@registry.godaddy
 
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      14455 North Hayden Rd.
-address:      Scottsdale, AZ 85260
+address:      2155 E GoDaddy Way
+address:      Tempe, AZ 85284
 address:      United States
 phone:        +1 480-505-8800
-fax-no:       +1 480-393-4275
+fax-no:       +1 480-624-2546
 e-mail:       iana@registry.godaddy
 
 nserver:      A.GTLD.BIZ 156.154.124.65 2001:0502:ad09:0:0:0:0:30
 nserver:      B.GTLD.BIZ 156.154.125.65
 nserver:      C.GTLD.BIZ 156.154.127.65
-nserver:      E.GTLD.BIZ 156.154.126.65
-nserver:      F.GTLD.BIZ 2001:500:3682:0:0:0:0:12 209.173.58.66
-nserver:      K.GTLD.BIZ 156.154.128.65 2001:503:e239:0:0:0:3:2
-ds-rdata:     24415 8 2 FFF5283786C2F37BA32F931210C57203907B993C8CEB5371A42F37F4600B05E4
-ds-rdata:     24415 8 1 C4C132AB72B9AA33C24C563F2F31F0BB0FA716FA
+nserver:      W.GTLD.BIZ 2001:dcd:1:0:0:0:0:13 37.209.192.13
+nserver:      X.GTLD.BIZ 2001:dcd:2:0:0:0:0:13 37.209.194.13
+nserver:      Y.GTLD.BIZ 2001:dcd:3:0:0:0:0:13 37.209.196.13
+ds-rdata:     13075 8 2 5114C10474C1467017A378DA75E6845511F78FEA480A4469A3BAFC54B2738E11
 
 whois:        whois.nic.biz
 
@@ -44,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.biz
 
 created:      2001-06-26
-changed:      2020-10-19
+changed:      2022-07-18
 source:       IANA
 
