@@ -4,44 +4,44 @@
 
 domain:       BY
 
-organisation: Reliable Software, Ltd.
-address:      8 Aranskaya Str., 4th floor, block 1, Minsk, Belarus, 220006
+organisation: Belarusian Cloud Technologies LLC
+address:      K. Marks Str. 29
+address:      220030 Minsk
 address:      Belarus
 
 contact:      administrative
-name:         Head specialist
-organisation: The Operative Analytical Center of the Republic of Belarus
+name:         Chief Inspector
+organisation: The Operational and Analytical Center under the Aegis of the President of the Republic of Belarus
 address:      49 Kirova Str.
 address:      Minsk  220030
 address:      Belarus
-phone:        +375 17 3092424
-fax-no:       +375 17 3271824
+phone:        +375 17 3092465
+fax-no:       +375 17 3636824
 e-mail:       admin-c@oac.gov.by
 
 contact:      technical
-name:         Head of department
-organisation: Reliable Software, Ltd.
-address:      8 Aranskaya Str., 4th floor, block 1, Minsk, Belarus, 220006
+name:         General Director
+organisation: Belarusian Cloud Technologies LLC
+address:      K. Marks Str. 29
+address:      220030 Minsk
 address:      Belarus
-phone:        +375 17 2395703
-fax-no:       +375 17 2395720
-e-mail:       tech@cctld.by
+phone:        +375 17 287 11 34
+fax-no:       +375 17 287 11 01
+e-mail:       info@cctld.by
 
-nserver:      DNS1.TLD.HOSTERBY.COM 2a0a:7d80:1:1:0:0:1:0 93.125.31.2
-nserver:      DNS2.TLD.HOSTERBY.COM 178.172.137.220 2a0a:7d80:3:2:0:0:0:5
-nserver:      DNS3.TLD.HOSTERBY.COM 195.209.55.11 2a05:4800:2:55:0:0:0:2
-nserver:      DNS4.TLD.HOSTERBY.COM 2001:1af8:4700:a101:4:0:0:0 37.48.67.249
-nserver:      DNS5.TLD.HOSTERBY.COM 2a00:c98:2200:a012:1:0:0:0 46.165.217.94
-nserver:      DNS6.TLD.HOSTERBY.COM 108.59.8.66 2604:9a00:2010:a013:2:0:0:0
-ds-rdata:     43875 7 1 B5667014733F0FD07D096B2FA2AD175186ADF48C
-ds-rdata:     43875 7 2 27A33067E54A8C4CEE091DB22156EF02A79A76CCC1E48D6D195DFEF6D520C48E
+nserver:      DNS1.TLD.BECLOUDBY.COM 2a00:c827:a:2:0:0:0:2 93.125.25.72
+nserver:      DNS2.TLD.BECLOUDBY.COM 2a00:c827:a:3:0:0:0:2 93.125.25.73
+nserver:      DNS3.TLD.BECLOUDBY.COM 185.98.83.4 2a01:ba80:e:c:1:0:0:4c
+nserver:      DNS4.TLD.BECLOUDBY.COM 184.72.17.94 2600:1f1c:e9d:8500:8445:614f:f582:9e87
+nserver:      DNS5.TLD.BECLOUDBY.COM 2406:da12:834:8700:3ff5:9f9d:f1cc:863a 54.180.35.203
+ds-rdata:     495 13 2 2D14284F8E47B53F839BD8068D438680B4B6C7A645769C9D89B47DF0C5359B7B
 
 whois:        whois.cctld.by
 
 status:       ACTIVE
-remarks:      Registration information: http://cctld.by
+remarks:      Registration information: https://cctld.by
 
 created:      1994-05-10
-changed:      2021-02-25
+changed:      2022-08-01
 source:       IANA
 
