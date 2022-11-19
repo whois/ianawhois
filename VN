@@ -18,7 +18,7 @@ address:      Hanoi  10000
 address:      Viet Nam
 phone:        +84 24 35564944 ext 301
 fax-no:       +84 24 37821462
-e-mail:       nhthang@vnnic.net.vn
+e-mail:       nhthang@vnnic.vn
 
 contact:      technical
 name:         Nguyen Truong Thanh
@@ -33,17 +33,18 @@ e-mail:       thanh@vnnic.vn
 nserver:      A.DNS-SERVERS.VN 194.0.1.18 2001:678:4:0:0:0:0:12
 nserver:      B.DNS-SERVERS.VN 2001:dc8:1:2:0:0:0:105 203.119.73.105
 nserver:      C.DNS-SERVERS.VN 2001:dc8:c000:7:0:0:0:105 203.119.38.105
-nserver:      D.DNS-SERVERS.VN 203.119.44.105
+nserver:      D.DNS-SERVERS.VN 2001:dc8:8000:2:0:0:0:105 203.119.44.105
 nserver:      E.DNS-SERVERS.VN 2001:dc8:1000:2:0:0:0:105 203.119.60.105
 nserver:      F.DNS-SERVERS.VN 2001:dc8:d000:2:0:0:0:105 203.119.68.105
 nserver:      G.DNS-SERVERS.VN 2001:500:14:6115:ad:0:0:1 204.61.216.115
+nserver:      H.DNS-SERVERS.VN 2001:dc8:6000:0:0:0:0:105 202.47.142.105
 ds-rdata:     3260 8 2 5A58C19AF266077FFE16C2668812796FA8193661AF569DBCEB177F911B5E6167
 ds-rdata:     3260 8 1 913C652B4006DEAC045B945F4FFCBC1065645421
 
 status:       ACTIVE
-remarks:      Registration information: http://www.vnnic.net.vn
+remarks:      Registration information: https://www.vnnic.vn/
 
 created:      1994-04-14
-changed:      2020-09-09
+changed:      2022-06-06
 source:       IANA
 
