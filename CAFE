@@ -6,38 +6,37 @@ domain:       CAFE
 
 organisation: Binky Moon, LLC
 address:      Donuts Inc.
-address:      5808 Lake Washington Blvd NE, Suite 300
-address:      Kirkland, WA 98033
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
 address:      United States
 
 contact:      administrative
-name:         Serina Ness
+name:         Vice President, Engineering
 organisation: Donuts Inc.
-address:      Donuts Inc.
-address:      5808 Lake Washington Blvd NE, Suite 300
-address:      Kirkland, WA 98033
-address:      United States
-phone:        +1.425.283.8248
-fax-no:       +1.425.671.0020
-e-mail:       serina@donuts.email
-
-contact:      technical
-name:         Ben Levac
-organisation: Donuts Inc.
-address:      Donuts Inc.
-address:      5808 Lake Washington Blvd NE, Suite 300
-address:      Kirkland, WA 98033
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
 address:      United States
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       ben@donuts.email
+e-mail:       tldadmin@donuts.email
 
-nserver:      DEMAND.ALPHA.ARIDNS.NET.AU 2001:dcd:1:0:0:0:0:7 37.209.192.7
-nserver:      DEMAND.BETA.ARIDNS.NET.AU 2001:dcd:2:0:0:0:0:7 37.209.194.7
-nserver:      DEMAND.DELTA.ARIDNS.NET.AU 2001:dcd:4:0:0:0:0:7 37.209.198.7
-nserver:      DEMAND.GAMMA.ARIDNS.NET.AU 2001:dcd:3:0:0:0:0:7 37.209.196.7
-ds-rdata:     1522 8 2 5B32E180C41A9A9464E309E9D6AC1FD6DCCDADA25B5952931C3172F2242B6390
-ds-rdata:     1522 8 1 8D4E6A3794EF08BB3E76C3F4ACD7AD13A547E28F
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Donuts Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
+address:      United States
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@donuts.email
+
+nserver:      V0N0.NIC.CAFE 2a01:8840:16:0:0:0:0:44 65.22.20.44
+nserver:      V0N1.NIC.CAFE 2a01:8840:17:0:0:0:0:44 65.22.21.44
+nserver:      V0N2.NIC.CAFE 2a01:8840:18:0:0:0:0:44 65.22.22.44
+nserver:      V0N3.NIC.CAFE 161.232.10.44 2a01:8840:f4:0:0:0:0:44
+nserver:      V2N0.NIC.CAFE 2a01:8840:19:0:0:0:0:44 65.22.23.44
+nserver:      V2N1.NIC.CAFE 161.232.11.44 2a01:8840:f5:0:0:0:0:44
+ds-rdata:     20284 8 2 8c701b4ba51b9cd153830f6fa9a50eeee63a98032728aa974d9466d7ee0e1fc4
 
 whois:        whois.nic.cafe
 
@@ -45,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.donuts.domains/
 
 created:      2015-03-12
-changed:      2020-04-16
+changed:      2021-10-27
 source:       IANA
 
