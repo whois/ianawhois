@@ -20,26 +20,25 @@ e-mail:       jason@tubegtld.com
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      14455 North Hayden Rd.
-address:      Scottsdale, AZ 85260
+address:      2155 E GoDaddy Way
+address:      Tempe, AZ 85284
 address:      United States
-phone:        +1 480-505-8800
-fax-no:       +1 480-393-4275
+phone:        +1 480 505 8800
+fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
 
+nserver:      A.NIC.TUBE 2001:dcd:1:0:0:0:0:10 37.209.192.10
+nserver:      B.NIC.TUBE 2001:dcd:2:0:0:0:0:10 37.209.194.10
+nserver:      C.NIC.TUBE 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      NS1.DNS.NIC.TUBE 156.154.169.80 2610:a1:1071:0:0:0:1:50
 nserver:      NS2.DNS.NIC.TUBE 156.154.170.80 2610:a1:1072:0:0:0:1:50
 nserver:      NS3.DNS.NIC.TUBE 156.154.171.80 2610:a1:1073:0:0:0:1:50
-nserver:      NS4.DNS.NIC.TUBE 156.154.172.80 2610:a1:1074:0:0:0:1:50
-nserver:      NS5.DNS.NIC.TUBE 156.154.173.80 2610:a1:1075:0:0:0:1:50
-nserver:      NS6.DNS.NIC.TUBE 156.154.174.80 2610:a1:1076:0:0:0:1:50
-ds-rdata:     53062 8 2 6811175118523FC3F254829D527EE316157E21BDAD3E2953BD076BB4412A08E9
-ds-rdata:     53062 8 1 4EE2ED8D5A3E7327E180140E1A7FAA6181A2737E
+ds-rdata:     45112 8 2 A5918AFDEEED73D4603ADF2EC0EC6A2735B7DED61849C500DEB6B68A5BD03610
 
 status:       ACTIVE
 remarks:      Registration information: http://tubetld.com
 
 created:      2015-12-23
-changed:      2020-10-12
+changed:      2022-07-21
 source:       IANA
 
