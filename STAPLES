@@ -20,26 +20,25 @@ e-mail:       ipmailbox@staples.com
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      14455 North Hayden Rd.
-address:      Scottsdale, AZ 85260
+address:      2155 E GoDaddy Way
+address:      Tempe, AZ 85284
 address:      United States
-phone:        +1 480-505-8800
-fax-no:       +1 480-393-4275
+phone:        +1 480 505 8800
+fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
 
+nserver:      A.NIC.STAPLES 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.STAPLES 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.STAPLES 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.STAPLES 156.154.169.79 2610:a1:1071:0:0:0:1:4f
 nserver:      NS2.DNS.NIC.STAPLES 156.154.170.79 2610:a1:1072:0:0:0:1:4f
 nserver:      NS3.DNS.NIC.STAPLES 156.154.171.79 2610:a1:1073:0:0:0:1:4f
-nserver:      NS4.DNS.NIC.STAPLES 156.154.172.79 2610:a1:1074:0:0:0:1:4f
-nserver:      NS5.DNS.NIC.STAPLES 156.154.173.79 2610:a1:1075:0:0:0:1:4f
-nserver:      NS6.DNS.NIC.STAPLES 156.154.174.79 2610:a1:1076:0:0:0:1:4f
-ds-rdata:     32635 8 2 EDD60B213526D56A9B4A9E4345FAB8BB66D6D940A4948DC7E453D96194F1DB2F
-ds-rdata:     32635 8 1 40AE987B92AADAEBF22B224DDD7E790427F74EE4
+ds-rdata:     35455 8 2 632AF1F936FB38D84FCED84EAACE443D47D287F3346E8CD4C456D8DB70EFCF72
 
 status:       ACTIVE
 remarks:      Registration information: http://www.staples.com/
 
 created:      2016-06-09
-changed:      2020-10-12
+changed:      2022-07-21
 source:       IANA
 
