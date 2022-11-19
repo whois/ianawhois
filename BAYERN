@@ -5,47 +5,43 @@
 domain:       BAYERN
 
 organisation: Bayern Connect GmbH
-address:      Prannerstr. 10
-address:      Munich 80333
+address:      Hansestr. 111
+address:      Köln 51149
 address:      Germany
 
 contact:      administrative
-name:         Admin Contact
-organisation: Bayern Connect GmbH
-address:      Prannerstr. 10
-address:      Munich 80333
-address:      Germany
-phone:        +1-877-734-4783
-e-mail:       ops@mmx.co
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      2155 E GoDaddy Way
+address:      Tempe AZ 85284
+address:      United States
+phone:        +1 480-505-8800
+fax-no:       +1 480-624-2546
+e-mail:       iana@registry.godaddy
 
 contact:      technical
-name:         TLD Registry Services Technical
-organisation: Nominet
-address:      Minerva House,
-address:      Edmund Halley Road,
-address:      Oxford Science Park,
-address:      Oxford,
-address:      OX4 4DQ
-address:      United Kingdom
-phone:        +44.1865332211
-e-mail:       registrytechnical@nominet.uk
+name:         ironDNS Support  
+organisation: Knipp Medien und Kommunikation GmbH
+address:      Martin-Schmeisser-Weg 9
+address:      44227 Dortmund
+address:      Germany
+phone:        +49 231 9703 0  
+fax-no:       +49 231 9703 200
+e-mail:       dnsmaster@irondns.net
 
-nserver:      DNS1.NIC.BAYERN 213.248.217.14 2a01:618:401:0:0:0:0:14
-nserver:      DNS2.NIC.BAYERN 103.49.81.14 2401:fd80:401:0:0:0:0:14
-nserver:      DNS3.NIC.BAYERN 213.248.221.14 2a01:618:405:0:0:0:0:14
-nserver:      DNS4.NIC.BAYERN 2401:fd80:405:0:0:0:0:14 43.230.49.14
-nserver:      DNSA.NIC.BAYERN 156.154.100.3 2001:502:ad09:0:0:0:0:3
-nserver:      DNSB.NIC.BAYERN 156.154.101.3
-nserver:      DNSC.NIC.BAYERN 156.154.102.3
-nserver:      DNSD.NIC.BAYERN 156.154.103.3
+nserver:      ANYCAST10.IRONDNS.NET 195.253.64.12 2a01:5b0:4:0:0:0:0:c
+nserver:      ANYCAST23.IRONDNS.NET 195.253.65.11 2a01:5b0:5:0:0:0:0:b
+nserver:      ANYCAST24.IRONDNS.NET 195.253.65.12 2a01:5b0:5:0:0:0:0:c
+nserver:      ANYCAST9.IRONDNS.NET 195.253.64.11 2a01:5b0:4:0:0:0:0:b
 ds-rdata:     5450 8 2 0BE5B2CD561159EC40895CC8A8D79D74B3437A4CA4D4D48FE1863315C092CA98
+ds-rdata:     27095 8 2 c8d5a25263ef9eaab175f1ca68623488aa7919e16814f516cc369e09f237623a
 
 whois:        whois.nic.bayern
 
 status:       ACTIVE
-remarks:      Registration information: http://mm-registry.com
+remarks:      Registration information: http://nic.bayern
 
 created:      2014-03-13
-changed:      2019-08-22
+changed:      2022-03-10
 source:       IANA
 
