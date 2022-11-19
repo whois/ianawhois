@@ -20,11 +20,11 @@ e-mail:       coleman.works@aramcoservices.com
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      14455 North Hayden Rd.
-address:      Scottsdale, AZ 85260
+address:      2155 E GoDaddy Way
+address:      Tempe, AZ 85284
 address:      United States
-phone:        +1 480-505-8800
-fax-no:       +1 480-393-4275
+phone:        +1 480 505 8800
+fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
 
 nserver:      NS1.DNS.NIC.ARAMCO 156.154.144.14 2610:a1:1071:0:0:0:0:e
@@ -33,13 +33,12 @@ nserver:      NS3.DNS.NIC.ARAMCO 156.154.159.14 2610:a1:1073:0:0:0:0:e
 nserver:      NS4.DNS.NIC.ARAMCO 156.154.156.14 2610:a1:1074:0:0:0:0:e
 nserver:      NS5.DNS.NIC.ARAMCO 156.154.157.14 2610:a1:1075:0:0:0:0:e
 nserver:      NS6.DNS.NIC.ARAMCO 156.154.158.14 2610:a1:1076:0:0:0:0:e
-ds-rdata:     8230 8 1 0F8C7F589229A966EB7B3F1AD79EEE7B15EA301F
-ds-rdata:     8230 8 2 94CBFB213E17806FBF46147BE43BFB3B2576009E79B19A035BA117DF8B8B40C0
+ds-rdata:     22207 8 2 2AF8A3FC1AAB39C9117F19956A83F0353FB0C206B33F253331080C91343781B3
 
 status:       ACTIVE
 remarks:      Registration information: http://www.aramco.com
 
 created:      2015-08-20
-changed:      2020-10-12
+changed:      2022-07-21
 source:       IANA
 
