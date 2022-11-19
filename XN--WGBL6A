@@ -18,7 +18,7 @@ address:      Al Nasr Tower B.
 address:      Corniche Road
 address:      Doha  23404
 address:      Qatar
-phone:        +974 44995344
+phone:        +974 44995430
 fax-no:       +974 44830630
 e-mail:       admincctld@cra.gov.qa
 
@@ -46,9 +46,9 @@ nserver:      I.REGISTRY.QA 2001:500:14:6062:ad:0:0:1 204.61.216.62
 whois:        whois.registry.qa
 
 status:       ACTIVE
-remarks:      Registration information: http://domains.qa
+remarks:      Registration information: https://www.cra.gov.qa/
 
 created:      2010-12-24
-changed:      2018-04-05
+changed:      2022-02-07
 source:       IANA
 
