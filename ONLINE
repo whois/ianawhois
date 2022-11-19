@@ -4,14 +4,19 @@
 
 domain:       ONLINE
 
-organisation: DotOnline Inc.
-address:      F/19, BC1, Ras Al Khaimah FTZ
-address:      P.O Box # 16113, Ras Al Khaimah - 16113.
-address:      United Arab Emirates
+organisation: Radix FZC
+address:      Directiplex
+address:      Next to Andheri Subway
+address:      Old Nagardas Road, Andheri (East)
+address:      Mumbai
+address:      Maharashtra
+address:      400069
+address:      India (IN)
+address:      India
 
 contact:      administrative
-name:         Manager
-organisation: DotOnline Inc.
+name:         Director
+organisation: Radix FZC
 address:      Directiplex, Old Nagardas Road
 address:      Andheri (East), Mumbai - 400069.
 address:      India
@@ -22,12 +27,11 @@ e-mail:       admin@radixregistry.com
 contact:      technical
 name:         CTO
 organisation: CentralNic
-address:      Saddlers House, 4th Floor
-address:      44 Gutter Lane
+address:      Saddlers House 4th Floor 44 Gutter Lane
 address:      London EC2V 6BR
 address:      United Kingdom
-phone:        +44.2033880600
-fax-no:       +44.2033880601
+phone:        +44 20 33 88 0600
+fax-no:       +44 20 33 88 0601
 e-mail:       tld.ops@centralnic.com
 
 nserver:      A.NIC.ONLINE 194.169.218.54 2001:67c:13cc:0:0:0:1:54
@@ -40,9 +44,9 @@ ds-rdata:     4267 8 2 66D7010609CB19E99AD1DA2833DDAB8CA2E7ACC1CE870CC28D29E76EB
 whois:        whois.nic.online
 
 status:       ACTIVE
-remarks:      Registration information: http://www.radixregistry.com
+remarks:      Registration information: http://www.radix.website
 
 created:      2015-03-06
-changed:      2021-01-27
+changed:      2021-10-12
 source:       IANA
 
