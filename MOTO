@@ -20,11 +20,11 @@ e-mail:       motorola@winterfeldt.law
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      14455 North Hayden Rd.
-address:      Scottsdale, AZ 85260
+address:      2155 E GoDaddy Way
+address:      Tempe, AZ 85284
 address:      United States
-phone:        +1 480-505-8800
-fax-no:       +1 480-393-4275
+phone:        +1 480 505 8800
+fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
 
 nserver:      NS1.DNS.NIC.MOTO 156.154.169.81 2610:a1:1071:0:0:0:1:51
@@ -33,13 +33,12 @@ nserver:      NS3.DNS.NIC.MOTO 156.154.171.81 2610:a1:1073:0:0:0:1:51
 nserver:      NS4.DNS.NIC.MOTO 156.154.172.81 2610:a1:1074:0:0:0:1:51
 nserver:      NS5.DNS.NIC.MOTO 156.154.173.81 2610:a1:1075:0:0:0:1:51
 nserver:      NS6.DNS.NIC.MOTO 156.154.174.81 2610:a1:1076:0:0:0:1:51
-ds-rdata:     42970 8 1 E6381E1152ED76B5E390BC9B9605ED58A2E18D64
-ds-rdata:     42970 8 2 6375ED094E69024C426F46BDA572D1412D836A934443C5EA26198C58E9735140
+ds-rdata:     10705 8 2 A039B06852099A6B4E7EAFE4F4187F6D3B5747953413CE454EAD9A4576301C5F
 
 status:       ACTIVE
 remarks:      Registration information: http://www.motorola.com
 
 created:      2016-09-30
-changed:      2020-10-12
+changed:      2022-07-21
 source:       IANA
 
