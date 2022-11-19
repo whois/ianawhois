@@ -22,26 +22,25 @@ e-mail:       iana@trbr.vu
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      14455 North Hayden Rd.
-address:      Scottsdale, AZ 85260
+address:      2155 E GoDaddy Way
+address:      Tempe, AZ 85284
 address:      United States
-phone:        +1 480-505-8800
-fax-no:       +1 480-393-4275
+phone:        +1 480 505 8800
+fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
 
-nserver:      NS1.NEUSTAR.VU 2001:dcd:1:0:0:0:0:6 37.209.192.6
-nserver:      NS2.NEUSTAR.VU 2001:dcd:2:0:0:0:0:6 37.209.194.6
-nserver:      NS3.NEUSTAR.VU 2001:dcd:3:0:0:0:0:6 37.209.196.6
-nserver:      NS4.NEUSTAR.VU 2001:dcd:4:0:0:0:0:6 37.209.198.6
-ds-rdata:     56121 10 1 0A1901B122DBB2E5F5807AAA8E39702E2D193628
-ds-rdata:     56121 10 2 339738EB082D604F2FC2255DFCDA3325C0A87D36EB26F546FDB49AE8A4F990B5
+nserver:      NS1.TLDNS.VU 2001:dcd:1:0:0:0:0:6 37.209.192.6
+nserver:      NS2.TLDNS.VU 2001:dcd:2:0:0:0:0:6 37.209.194.6
+nserver:      NS3.TLDNS.VU 2001:dcd:3:0:0:0:0:6 37.209.196.6
+nserver:      NS4.TLDNS.VU 2001:dcd:4:0:0:0:0:6 37.209.198.6
+ds-rdata:     50412 10 2 49257111E03AD5F8C450F8330F101B87B84F82251FA54CE67C832B7EEFA45232
 
-whois:        whois.dnrs.neustar
+whois:        whois.dnrs.vu
 
 status:       ACTIVE
 remarks:      Registration information: http://www.hello.vu
 
 created:      1995-04-10
-changed:      2020-10-12
+changed:      2022-07-21
 source:       IANA
 
