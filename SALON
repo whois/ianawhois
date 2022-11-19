@@ -6,38 +6,37 @@ domain:       SALON
 
 organisation: Binky Moon, LLC
 address:      Donuts Inc.
-address:      5808 Lake Washington Blvd NE, Suite 300
-address:      Kirkland, WA 98033
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
 address:      United States
 
 contact:      administrative
-name:         Serina Ness
+name:         Vice President, Engineering
 organisation: Donuts Inc.
-address:      Donuts Inc.
-address:      5808 Lake Washington Blvd NE, Suite 300
-address:      Kirkland, WA 98033
-address:      United States
-phone:        +1.425.283.8248
-fax-no:       +1.425.671.0020
-e-mail:       serina@donuts.email
-
-contact:      technical
-name:         Ben Levac
-organisation: Donuts Inc.
-address:      Donuts Inc.
-address:      5808 Lake Washington Blvd NE, Suite 300
-address:      Kirkland, WA 98033
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
 address:      United States
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       ben@donuts.email
+e-mail:       tldadmin@donuts.email
 
-nserver:      DEMAND.ALPHA.ARIDNS.NET.AU 2001:dcd:1:0:0:0:0:7 37.209.192.7
-nserver:      DEMAND.BETA.ARIDNS.NET.AU 2001:dcd:2:0:0:0:0:7 37.209.194.7
-nserver:      DEMAND.DELTA.ARIDNS.NET.AU 2001:dcd:4:0:0:0:0:7 37.209.198.7
-nserver:      DEMAND.GAMMA.ARIDNS.NET.AU 2001:dcd:3:0:0:0:0:7 37.209.196.7
-ds-rdata:     39970 8 2 EE7A6C2EAD2A67A0AD3C4780DBFF85055A9C9B63568E13DEF8424729335BA969
-ds-rdata:     39970 8 1 30B2D2128A41AACB0510D29F3B85C6DEA7798DCC
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Donuts Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
+address:      United States
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@donuts.email
+
+nserver:      V0N0.NIC.SALON 2a01:8840:1e:0:0:0:0:58 65.22.28.58
+nserver:      V0N1.NIC.SALON 2a01:8840:1f:0:0:0:0:58 65.22.29.58
+nserver:      V0N2.NIC.SALON 2a01:8840:20:0:0:0:0:58 65.22.30.58
+nserver:      V0N3.NIC.SALON 161.232.14.58 2a01:8840:f8:0:0:0:0:58
+nserver:      V2N0.NIC.SALON 2a01:8840:21:0:0:0:0:58 65.22.31.58
+nserver:      V2N1.NIC.SALON 161.232.15.58 2a01:8840:f9:0:0:0:0:58
+ds-rdata:     20629 8 2 15beee88cb2059844adc8b06944fc2424a7618726b390a08fc21fde2ef6daa07
 
 whois:        whois.nic.salon
 
@@ -45,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.donuts.domains/
 
 created:      2015-11-12
-changed:      2020-04-16
+changed:      2021-11-10
 source:       IANA
 
