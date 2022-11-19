@@ -5,14 +5,14 @@
 domain:       ευ
 domain-ace:   XN--QXA6A
 
-organisation: EURid vzw/asbl
+organisation: EURid vzw
 address:      Telecomlaan 9
 address:      1831 Diegem
 address:      Vlaams Brabant
 address:      Belgium
 
 contact:      administrative
-name:         Marc Van Wesemael
+name:         Peter Janssen
 organisation: EURid vzw/asbl
 address:      Telecomlaan 9
 address:      1831 Diegem
@@ -23,8 +23,8 @@ fax-no:       +32 2 401 27 51
 e-mail:       domain-admin@eurid.eu
 
 contact:      technical
-name:         Peter Janssen
-organisation: EURid vzw/asbl
+name:         Technical Department
+organisation: EURid vzw
 address:      Telecomlaan 9
 address:      1831 Diegem
 address:      Vlaams Brabant
@@ -33,12 +33,13 @@ phone:        +32 2 401 27 50
 fax-no:       +32 2 401 27 51
 e-mail:       domain-tech@eurid.eu
 
-nserver:      NL.DNS.EU 91.200.16.100
-nserver:      SI.DNS.EU 193.2.221.60 2001:1470:8000:100:0:0:0:1
+nserver:      BE.DNS.EU 149.38.1.26 2001:978:2:1:0:0:93:2
+nserver:      SI.DNS.EU 193.2.221.62 2001:1470:8000:100:0:0:0:62
 nserver:      W.DNS.EU 194.0.25.28 2001:678:20:0:0:0:0:28
 nserver:      X.DNS.EU 185.151.141.1 2a02:568:fe00:0:0:0:0:6575
 nserver:      Y.DNS.EU 194.146.106.90 2001:67c:1010:23:0:0:0:53
 ds-rdata:     26332 8 2 34225110142F806839BD3B7C99FB22ABB2DBA331B6632A719EB2E1A817CAC646
+ds-rdata:     28624 8 2 248CB7496D7D6C9A4C0F2BC97187E1EA7A4F9F1ACEFDC745680875E8A009B793
 
 whois:        whois.eu
 
@@ -46,6 +47,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.registry.eu
 
 created:      2019-07-18
-changed:      2020-01-15
+changed:      2022-11-18
 source:       IANA
 
