@@ -10,35 +10,29 @@ address:      Las Vegas, NV 89119
 address:      United States
 
 contact:      administrative
-name:         Grant Carpenter
+name:         General Counsel
 organisation: XYZ.COM LLC
 address:      2121 E Tropicana Ave, STE2
 address:      Las Vegas, NV 89119
 address:      United States
 phone:        +1 702 757 6555
-e-mail:       gc@xyz.xyz
+e-mail:       hello@xyz.com
 
 contact:      technical
-name:         Chief Technical Officer
+name:         CTO
 organisation: CentralNic
-address:      Saddlers House, 4th Floor 44
-address:      Gutter Lane
+address:      Saddlers House 4th Floor 44 Gutter Lane
 address:      London EC2V 6BR
 address:      United Kingdom
-phone:        +44.2033880600
-fax-no:       +44.2033880601
+phone:        +44 20 33 88 0600
+fax-no:       +44 20 33 88 0601
 e-mail:       tld.ops@centralnic.com
 
 nserver:      A.NIC.CARS 194.169.218.129 2001:67c:13cc:0:0:0:1:129
 nserver:      B.NIC.CARS 185.24.64.129 2a04:2b00:13cc:0:0:0:1:129
 nserver:      C.NIC.CARS 212.18.248.129 2a04:2b00:13ee:0:0:0:0:129
 nserver:      D.NIC.CARS 212.18.249.129 2a04:2b00:13ff:0:0:0:0:129
-ds-rdata:     56833 5 1 D4B203DFBBFC040BB67D7AA786AAECD124F7A8E0
-ds-rdata:     63859 5 1 C9B86DAF14FF397E5D4184CD789910557192966C
-ds-rdata:     56833 5 2 5AD7A5C1FA890745F1746767C20FDC1E2D6F1CBB5E461A40DE94576BED7682FA
-ds-rdata:     63859 5 2 A97786AF2CFDADE46C31F66A7E10EA8C29F0432BEE33D5CB305F0D36322C76CF
 ds-rdata:     26272 5 2 8253077194F36991396AC49542ED2BE77D88E972D5ABDB0D832F2D5CD2C7F71A
-ds-rdata:     26272 5 1 2FFCC79B8797324D59B76C73B30B390DE6E17A08
 
 whois:        whois.nic.cars
 
@@ -46,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.cars
 
 created:      2015-03-12
-changed:      2020-11-30
+changed:      2022-08-16
 source:       IANA
 
