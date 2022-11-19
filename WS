@@ -29,12 +29,12 @@ phone:        +1 760 602 3000
 fax-no:       +1 760 602 3099
 e-mail:       tech.contact@csl.ws
 
+nserver:      A.DNS.WS 194.146.106.146 2001:67c:1010:37:0:0:0:53
 nserver:      NS2.DNS.WS 64.70.19.80
-nserver:      NS3.DNS.WS 173.228.153.149
-nserver:      NS4.DNS.WS 173.228.153.148
 nserver:      NS5.DNS.WS 64.70.19.70
-nserver:      NS6.DNS.WS 77.92.65.172
-nserver:      NS7.DNS.WS 77.92.65.174
+nserver:      S.DNS.WS 2a01:3f0:0:311:0:0:0:53 77.72.229.248
+nserver:      US3.DNS.WS 64.70.78.70
+nserver:      US4.DNS.WS 64.70.78.80
 ds-rdata:     36454 8 2 7DB7C8F0FAED1FF118C3F081487CEC39CEC5C89FE647ADC1E2D3643D1BC1F77D
 
 whois:        whois.website.ws
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.website.ws
 
 created:      1995-07-14
-changed:      2017-01-25
+changed:      2021-05-26
 source:       IANA
 
