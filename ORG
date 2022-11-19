@@ -23,14 +23,13 @@ e-mail:       ops@pir.org
 
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
-organisation: Afilias
-address:      Building 3, Suite 105
-address:      300 Welsh Road
-address:      Horsham, Pennsylvania 19044
+organisation: Donuts Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
 address:      United States
-phone:        +1 215.706.5700
-fax-no:       +1 215.706.5701
-e-mail:       tld-tech-poc@afilias.info
+phone:        1.425.298.2200
+fax-no:       1.425.671.0020
+e-mail:       tldtech@donuts.email
 
 nserver:      A0.ORG.AFILIAS-NST.INFO 199.19.56.1 2001:500:e:0:0:0:0:1
 nserver:      A2.ORG.AFILIAS-NST.INFO 199.249.112.1 2001:500:40:0:0:0:0:1
@@ -40,12 +39,13 @@ nserver:      C0.ORG.AFILIAS-NST.INFO 199.19.53.1 2001:500:b:0:0:0:0:1
 nserver:      D0.ORG.AFILIAS-NST.ORG 199.19.57.1 2001:500:f:0:0:0:0:1
 ds-rdata:     26974 8 2 4fede294c53f438a158c41d39489cd78a86beb0d8a0aeaff14745c0d16e1de32
 
-whois:        whois.pir.org
+whois:        whois.publicinterestregistry.org
 
 status:       ACTIVE
-remarks:      Registration information: http://www.pir.org
+remarks:      Registration information:
+remarks:      http://publicinterestregistry.org
 
 created:      1985-01-01
-changed:      2020-10-27
+changed:      2022-06-03
 source:       IANA
 
