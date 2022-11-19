@@ -20,21 +20,20 @@ e-mail:       safetyregistryservices@grainger.com
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      14455 North Hayden Rd.
-address:      Scottsdale, AZ 85260
+address:      2155 E GoDaddy Way
+address:      Tempe, AZ 85284
 address:      United States
-phone:        +1 480-505-8800
-fax-no:       +1 480-393-4275
+phone:        +1 480 505 8800
+fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
 
+nserver:      A.NIC.SAFETY 2001:dcd:1:0:0:0:0:10 37.209.192.10
+nserver:      B.NIC.SAFETY 2001:dcd:2:0:0:0:0:10 37.209.194.10
+nserver:      C.NIC.SAFETY 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      NS1.DNS.NIC.SAFETY 156.154.144.148 2610:a1:1071:0:0:0:0:94
 nserver:      NS2.DNS.NIC.SAFETY 156.154.145.148 2610:a1:1072:0:0:0:0:94
 nserver:      NS3.DNS.NIC.SAFETY 156.154.159.148 2610:a1:1073:0:0:0:0:94
-nserver:      NS4.DNS.NIC.SAFETY 156.154.156.148 2610:a1:1074:0:0:0:0:94
-nserver:      NS5.DNS.NIC.SAFETY 156.154.157.148 2610:a1:1075:0:0:0:0:94
-nserver:      NS6.DNS.NIC.SAFETY 156.154.158.148 2610:a1:1076:0:0:0:0:94
-ds-rdata:     53419 8 2 EF9187E23F7BC1063864AB54FAB44AB439659DD4AB6D0F1D730818417B44ABB6
-ds-rdata:     53419 8 1 EF36629046E94937C0BC031698D5B102E19B994C
+ds-rdata:     17254 8 2 F76C51279BBD1C4525D952E5D1DF46DAAC5CF3ADBC56D772FC1E85983E05E273
 
 whois:        whois.nic.safety
 
@@ -42,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.safety
 
 created:      2015-04-23
-changed:      2020-10-12
+changed:      2022-07-21
 source:       IANA
 
