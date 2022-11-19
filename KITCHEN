@@ -6,38 +6,37 @@ domain:       KITCHEN
 
 organisation: Binky Moon, LLC
 address:      Donuts Inc.
-address:      5808 Lake Washington Blvd NE, Suite 300
-address:      Kirkland, WA 98033
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
 address:      United States
 
 contact:      administrative
-name:         Serina Ness
+name:         Vice President, Engineering
 organisation: Donuts Inc.
-address:      Donuts Inc.
-address:      5808 Lake Washington Blvd NE, Suite 300
-address:      Kirkland, WA 98033
-address:      United States
-phone:        +1.425.283.8248
-fax-no:       +1.425.671.0020
-e-mail:       serina@donuts.email
-
-contact:      technical
-name:         Ben Levac
-organisation: Donuts Inc.
-address:      Donuts Inc.
-address:      5808 Lake Washington Blvd NE, Suite 300
-address:      Kirkland, WA 98033
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
 address:      United States
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       ben@donuts.email
+e-mail:       tldadmin@donuts.email
 
-nserver:      DEMAND.ALPHA.ARIDNS.NET.AU 2001:dcd:1:0:0:0:0:7 37.209.192.7
-nserver:      DEMAND.BETA.ARIDNS.NET.AU 2001:dcd:2:0:0:0:0:7 37.209.194.7
-nserver:      DEMAND.DELTA.ARIDNS.NET.AU 2001:dcd:4:0:0:0:0:7 37.209.198.7
-nserver:      DEMAND.GAMMA.ARIDNS.NET.AU 2001:dcd:3:0:0:0:0:7 37.209.196.7
-ds-rdata:     30454 8 1 C7D5A2106C6B9E0A82D07866C6F187ED3CF41CB1
-ds-rdata:     30454 8 2 5278886354305F3A7BC697D196DC495746E2C080DDF23A8B0E92D16CC277A3CA
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Donuts Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
+address:      United States
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@donuts.email
+
+nserver:      V0N0.NIC.KITCHEN 2a01:8840:22:0:0:0:0:17 65.22.32.17
+nserver:      V0N1.NIC.KITCHEN 2a01:8840:23:0:0:0:0:17 65.22.33.17
+nserver:      V0N2.NIC.KITCHEN 2a01:8840:24:0:0:0:0:17 65.22.34.17
+nserver:      V0N3.NIC.KITCHEN 161.232.16.17 2a01:8840:fa:0:0:0:0:17
+nserver:      V2N0.NIC.KITCHEN 2a01:8840:25:0:0:0:0:17 65.22.35.17
+nserver:      V2N1.NIC.KITCHEN 161.232.17.17 2a01:8840:fb:0:0:0:0:17
+ds-rdata:     47935 8 2 7f36f037e4bd2b909479811f3b3ad76c00db04f1f7f6476d00483d653b744ca4
 
 whois:        whois.nic.kitchen
 
@@ -45,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.donuts.domains/
 
 created:      2013-11-13
-changed:      2020-04-17
+changed:      2021-11-18
 source:       IANA
 
