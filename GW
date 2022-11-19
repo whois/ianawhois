@@ -11,15 +11,13 @@ address:      Bissau  1372
 address:      Guinea-bissau
 
 contact:      administrative
-name:         Frank Barbosa de Oliveira
+name:         Davi Severiano Goia Cabral D'almada
 organisation: Autoridade Reguladora Nacional - Tecnologias de Informação e Comunicação da Guiné-Bissau
-address:      Avenida Domingos Ramos
-address:      Praça Ernesto Che Guevara
-address:      Bissau  1372
+address:      Enterramento, Traseiros do Hospital Militar
+address:      Bissau, Guiné-Bissau 1372
 address:      Guinea-bissau
-phone:        +245 3204874
-fax-no:       +245 3204876
-e-mail:       frank.i.oliveira@arn.gw
+phone:        +245 955400003
+e-mail:       d.almada@arn.gw
 
 contact:      technical
 name:         Assis Neves Guerreiro
@@ -39,6 +37,6 @@ ds-rdata:     31518 10 2 CAE77FE2299B3A08A4C78B400327C2A62BF65421D4BD98836228800
 status:       ACTIVE
 
 created:      1997-02-04
-changed:      2020-01-22
+changed:      2022-07-11
 source:       IANA
 
