@@ -19,24 +19,19 @@ phone:         +1 703 728 4176
 e-mail:       lance@identity.coop
 
 contact:      technical
-name:         Chief Technical Officer
-organisation: UNR Corp.
-address:      Third Floor, Monaco Towers,
-address:      Georgetown, Grand Cayman
-address:      30369SMB-KY11202
-address:      Cayman Islands
-phone:        +1 345 746 3687
-fax-no:       +1 345 746 3687
-e-mail:       ops@unr.com
+name:         Francisco Obispo
+organisation: Tucows Inc
+address:      96 Mowat Avenue
+address:      Toronto, Ontario M6K3M1
+address:      Canada
+phone:        +1.949.903.3449
+e-mail:       trs-ops@tucows.com
 
 nserver:      NS1.UNIREGISTRY.NET 2620:57:4000:1:0:0:0:1 64.96.1.1
 nserver:      NS2.UNIREGISTRY.INFO 64.96.2.1
 nserver:      NS5.UNIREGISTRY.NET 2001:500:14:7002:ad:0:0:1 204.61.217.2
 nserver:      NS6.UNIREGISTRY.INFO 206.51.254.2 2620:171:804:ad2:0:0:0:2
-ds-rdata:     48786 7 2 61f50bb61118f71c007efd169af69373b932b8bf9ac3f1519f8867a3accefa50
-ds-rdata:     43458 7 1 5187937CA95DE001561CD7DDDBA6672DCD2CE738
-ds-rdata:     43458 7 2 208A31F7F1E6CDC93BBBA0A1D2B3F5B7B5920E8530F261CE05E667D6D62F0EA6
-ds-rdata:     48786 7 1 6161D8BD943AD2B8240DFD17FDC752516FE489FE
+ds-rdata:     11419 13 2 2393DDF8501D382CB4A700C85ABCC974A95AAD110898B8BECC4BDBA60B5E50F1
 
 whois:        whois.afilias-srs.net
 
@@ -45,6 +40,6 @@ remarks:      Registration information:
 remarks:      http://www.identity.coop/creditunion
 
 created:      2015-10-15
-changed:      2021-02-18
+changed:      2022-08-31
 source:       IANA
 
