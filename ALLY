@@ -20,21 +20,19 @@ fax-no:       +1.877.351.7626
 e-mail:       allygtld@brandsight.com
 
 contact:      technical
-name:         Senior Director, DNS Infrastructure Group
-organisation: Afilias
-address:      Building 3, Suite 105
-address:      300 Welsh Road
-address:      Horsham, PA 19044
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      2155 E GoDaddy Way, Tempe AZ 85284
 address:      United States
-phone:        +1 215.706.5700
-fax-no:       +1 215.706.5701
-e-mail:       tld-tech-poc@afilias.info
+phone:        +1 480 505 8800
+fax-no:       +1 480 393 4275
+e-mail:       iana@registry.godaddy
 
-nserver:      A0.NIC.ALLY 2a01:8840:3e:0:0:0:0:33 65.22.64.33
-nserver:      A2.NIC.ALLY 2a01:8840:41:0:0:0:0:33 65.22.67.33
-nserver:      B0.NIC.ALLY 2a01:8840:3f:0:0:0:0:33 65.22.65.33
-nserver:      C0.NIC.ALLY 2a01:8840:40:0:0:0:0:33 65.22.66.33
-ds-rdata:     63106 8 2 b7f4550d13de48a5217e2dccbd18fb872db47c843028f48d413318271cc15261
+nserver:      A.NIC.ALLY 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.ALLY 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.ALLY 2001:dcd:3:0:0:0:0:9 37.209.196.9
+nserver:      D.NIC.ALLY 2001:dcd:4:0:0:0:0:9 37.209.198.9
+ds-rdata:     40354 8 2 46BFEA1CA30072B089D2E566821640C144511B308DF1F0271402D569C7332783
 
 whois:        whois.nic.ally
 
@@ -42,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.ally.com
 
 created:      2015-10-22
-changed:      2021-01-27
+changed:      2022-07-21
 source:       IANA
 
