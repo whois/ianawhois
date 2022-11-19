@@ -40,12 +40,12 @@ nserver:      B0.NIC.VEGAS 2a01:8840:43:0:0:0:0:17 65.22.69.17
 nserver:      C0.NIC.VEGAS 2a01:8840:44:0:0:0:0:17 65.22.70.17
 ds-rdata:     13336 8 2 612d11e84db7671f5dc9b54fb8944d57474de91ca498ca80b6ebc05c162c3af0
 
-whois:        whois.afilias-srs.net
+whois:        whois.nic.vegas
 
 status:       ACTIVE
-remarks:      Registration information: http://www.dotvegasinc.com/
+remarks:      Registration information: http://www.nic.vegas
 
 created:      2014-03-20
-changed:      2020-12-02
+changed:      2022-07-27
 source:       IANA
 
