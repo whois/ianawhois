@@ -9,11 +9,11 @@ address:      410 Terry Avenue North, Seattle, WA  98109
 address:      United States
 
 contact:      administrative
-name:         General Manager
+name:         Program Manager, Registry
 organisation: Amazon Registry Services, Inc.
 address:      410 Terry Avenue North, Seattle, WA  98109
 address:      United States
-phone:        +1 206 740 8515
+phone:        +1 206 646 5990
 fax-no:       +1 206 946 7702
 e-mail:       circle-rzm@amazon.com
 
@@ -34,9 +34,9 @@ nserver:      DNS2.NIC.CIRCLE 103.49.82.64 2401:fd80:402:0:0:0:0:64
 nserver:      DNS3.NIC.CIRCLE 213.248.222.64 2a01:618:406:0:0:0:0:64
 nserver:      DNS4.NIC.CIRCLE 2401:fd80:406:0:0:0:0:64 43.230.50.64
 nserver:      DNSA.NIC.CIRCLE 156.154.100.3 2001:502:ad09:0:0:0:0:3
-nserver:      DNSB.NIC.CIRCLE 156.154.101.3
-nserver:      DNSC.NIC.CIRCLE 156.154.102.3
-nserver:      DNSD.NIC.CIRCLE 156.154.103.3
+nserver:      DNSB.NIC.CIRCLE 156.154.101.3 2001:502:2eda:0:0:0:0:3
+nserver:      DNSC.NIC.CIRCLE 156.154.102.3 2610:a1:1009:0:0:0:0:3
+nserver:      DNSD.NIC.CIRCLE 156.154.103.3 2610:a1:1010:0:0:0:0:3
 ds-rdata:     37745 8 2 89E27D8EFD40F6E9A05D3A8A4AE933A41056E574008D30B20C8AD9A7D07785DB
 
 whois:        whois.nic.circle
@@ -45,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.amazonregistry.com
 
 created:      2015-11-12
-changed:      2019-05-22
+changed:      2021-11-18
 source:       IANA
 
