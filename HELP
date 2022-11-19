@@ -11,44 +11,36 @@ address:      30369SMB-KY11202
 address:      Cayman Islands
 
 contact:      administrative
-name:         Frank Schilling
-organisation: UNR Corp.
-address:      Third Floor, Monaco Towers, Georgetown
-address:      Grand Cayman, Cayman Islands
-address:      30369SMB-KY11202
-address:      Cayman Islands
-phone:        +1 345 746 3687 
-fax-no:       +1 345 746 3687 
-e-mail:       contact@unr.com
+name:         CHENG/PUI KIT
+organisation: Innovation Service Ltd
+address:      Suite 3, Global Village Jivan Complex
+address:      Mont Fleuri, Mahe
+address:      Seychelles
+phone:        +852 2988 8918
+fax-no:       +852 2988 8368
+e-mail:       m.cheng@innovationservice.help
 
 contact:      technical
 name:         Francisco Obispo
-organisation: UNR Corp.
-address:      Third Floor, Monaco Towers, Georgetown
-address:      Grand Cayman, Cayman Islands
-address:      30369SMB-KY11202
-address:      Cayman Islands
-phone:        +1 345 746 3687 
-fax-no:       +1 345 746 3687 
-e-mail:       ops@unr.com
+organisation: Tucows Inc
+address:      96 Mowat Avenue
+address:      Toronto, Ontario M6K3M1
+address:      Canada
+phone:        +1.949.903.3449
+e-mail:       trs-ops@tucows.com
 
 nserver:      NS1.UNIREGISTRY.NET 2620:57:4000:1:0:0:0:1 64.96.1.1
 nserver:      NS2.UNIREGISTRY.INFO 64.96.2.1
 nserver:      NS3.UNIREGISTRY.NET 185.159.197.3 2620:10a:80aa:0:0:0:0:3
 nserver:      NS4.UNIREGISTRY.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
-ds-rdata:     22096 5 1 1A6C4E94E9E7D5A25FF1AEB173588E8B4633AC1B
-ds-rdata:     22096 5 2 EE393E0ADD9A1A919A95B426B0950EA98C73BE7592CDEC7FE4D5D4580FF6A597
-ds-rdata:     48061 5 1 B6821A94FB091BDC7E748A57C701057E9F8EA434
-ds-rdata:     48061 5 2 68C3ADE1E64A18C7D6C86CD8C888B0B950B84B463DD89A1719C7E9520F674774
-ds-rdata:     27664 5 1 EEAD9101B0C5B8B13AA4A039BF3E61F1B1E7DD1C
-ds-rdata:     27664 5 2 535CA4DAD27DE5276F13AE259BD3CB854C8792EF2EA01F1CC54E667FE68BF8FC
+ds-rdata:     58220 13 2 631C51B43BA218603248E67A2C076C73ACD16AD6EB0E4DF9B3ABD77D92643A9A
 
-whois:        whois.uniregistry.net
+whois:        whois.nic.help
 
 status:       ACTIVE
-remarks:      Registration information: http://uniregistry.link
+remarks:      Registration information: https://nic.help
 
 created:      2014-08-15
-changed:      2020-11-03
+changed:      2022-10-12
 source:       IANA
 
