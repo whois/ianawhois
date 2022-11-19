@@ -4,46 +4,42 @@
 
 domain:       FIT
 
-organisation: Minds + Machines Group Limited
-address:      Craigmuir Chambers, Road Town Tortola VG 1110
-address:      Virgin Islands, British
+organisation: Registry Services, LLC
+address:      2155 E. GoDaddy Way
+address:      Tempe AZ 85284
+address:      United States
 
 contact:      administrative
-name:         Admin Contact
-organisation: Minds + Machines Ltd
-address:      32 Nassau St, Dublin 2
-address:      Ireland
-phone:        +1-877-734-4783
-e-mail:       ops@mmx.co
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      2155 E GoDaddy Way
+address:      Tempe AZ 85284
+address:      United States
+phone:        +1 480-505-8800
+fax-no:       +1 480-624-2546
+e-mail:       iana@registry.godaddy
 
 contact:      technical
-name:         TLD Registry Services Technical
-organisation: Nominet
-address:      Minerva House,
-address:      Edmund Halley Road,
-address:      Oxford Science Park,
-address:      Oxford,
-address:      OX4 4DQ
-address:      United Kingdom
-phone:        +44.1865332211
-e-mail:       registrytechnical@nominet.uk
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      2155 E GoDaddy Way, Tempe AZ 85284
+address:      United States
+phone:        +1 480-505-8800
+fax-no:       +1 480-624-2546
+e-mail:       iana@registry.godaddy
 
-nserver:      DNS1.NIC.FIT 213.248.217.23 2a01:618:401:0:0:0:0:23
-nserver:      DNS2.NIC.FIT 103.49.81.23 2401:fd80:401:0:0:0:0:23
-nserver:      DNS3.NIC.FIT 213.248.221.23 2a01:618:405:0:0:0:0:23
-nserver:      DNS4.NIC.FIT 2401:fd80:405:0:0:0:0:23 43.230.49.23
-nserver:      DNSA.NIC.FIT 156.154.100.3 2001:502:ad09:0:0:0:0:3
-nserver:      DNSB.NIC.FIT 156.154.101.3
-nserver:      DNSC.NIC.FIT 156.154.102.3
-nserver:      DNSD.NIC.FIT 156.154.103.3
-ds-rdata:     58264 8 2 C839D6633BC45329F4B7AB36D78BF5D7A2DF6D69AFE32D40557D66C229AB9BB9
+nserver:      A.NIC.FIT 2001:dcd:1:0:0:0:0:10 37.209.192.10
+nserver:      B.NIC.FIT 2001:dcd:2:0:0:0:0:10 37.209.194.10
+nserver:      C.NIC.FIT 2001:dcd:3:0:0:0:0:10 37.209.196.10
+nserver:      D.NIC.FIT 2001:dcd:4:0:0:0:0:10 37.209.198.10
+ds-rdata:     52846 8 2 67AC0D6B4ABDB3E427BAA988FCE6DBB8F5420027AB25D219FEC06E2FF8BABF09
 
 whois:        whois.nic.fit
 
 status:       ACTIVE
-remarks:      Registration information: http://mm-registry.com
+remarks:      Registration information: http://nic.fit/
 
 created:      2014-12-18
-changed:      2019-08-22
+changed:      2022-07-18
 source:       IANA
 
