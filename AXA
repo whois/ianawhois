@@ -21,26 +21,25 @@ e-mail:       mark.wilson@axa.com
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      14455 North Hayden Rd.
-address:      Scottsdale, AZ 85260
+address:      2155 E GoDaddy Way
+address:      Tempe, AZ 85284
 address:      United States
-phone:        +1 480-505-8800
-fax-no:       +1 480-393-4275
+phone:        +1 480 505 8800
+fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
 
+nserver:      A.NIC.AXA 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.AXA 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.AXA 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.AXA 156.154.144.20 2610:a1:1071:0:0:0:0:14
 nserver:      NS2.DNS.NIC.AXA 156.154.145.20 2610:a1:1072:0:0:0:0:14
 nserver:      NS3.DNS.NIC.AXA 156.154.159.20 2610:a1:1073:0:0:0:0:14
-nserver:      NS4.DNS.NIC.AXA 156.154.156.20 2610:a1:1074:0:0:0:0:14
-nserver:      NS5.DNS.NIC.AXA 156.154.157.20 2610:a1:1075:0:0:0:0:14
-nserver:      NS6.DNS.NIC.AXA 156.154.158.20 2610:a1:1076:0:0:0:0:14
-ds-rdata:     65407 8 1 F8BFA1815C480DDE6791EB0E8CB42AA2A7968FF7
-ds-rdata:     65407 8 2 57987248DF55A8DAAEB38484E0BF77F079C992D7BB9A1039764EFCFF53A39709
+ds-rdata:     62554 8 2 E0444F158023DD294CB64EBCE2B642BD7D26EDDF0D5A1592B12C9D6411C1C448
 
 status:       ACTIVE
 remarks:      Registration information: https://domains.axa/
 
 created:      2014-03-13
-changed:      2020-11-11
+changed:      2022-07-21
 source:       IANA
 
