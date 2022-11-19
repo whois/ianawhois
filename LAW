@@ -4,46 +4,42 @@
 
 domain:       LAW
 
-organisation: LW TLD Limited
-address:      Craigmuir Chambers, Road Town Tortola VG 1110
-address:      Virgin Islands, British
+organisation: Registry Services, LLC
+address:      2155 E. GoDaddy Way
+address:      Tempe AZ 85284
+address:      United States
 
 contact:      administrative
-name:         Admin Contact
-organisation: LW TLD Limited
-address:      32 Nassau St, Dublin 2
-address:      Ireland
-phone:        +1-877-734-4783
-e-mail:       ops@mmx.co
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      2155 E GoDaddy Way
+address:      Tempe AZ 85284
+address:      United States
+phone:        +1 480-505-8800
+fax-no:       +1 480-624-2546
+e-mail:       iana@registry.godaddy
 
 contact:      technical
-name:         TLD Registry Services Technical
-organisation: Nominet
-address:      Minerva House,
-address:      Edmund Halley Road,
-address:      Oxford Science Park,
-address:      Oxford,
-address:      OX4 4DQ
-address:      United Kingdom
-phone:        +44.1865332211
-e-mail:       registrytechnical@nominet.uk
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      2155 E GoDaddy Way, Tempe AZ 85284
+address:      United States
+phone:        +1 480-505-8800
+fax-no:       +1 480-624-2546
+e-mail:       iana@registry.godaddy
 
-nserver:      DNS1.NIC.LAW 213.248.217.26 2a01:618:401:0:0:0:0:26
-nserver:      DNS2.NIC.LAW 103.49.81.26 2401:fd80:401:0:0:0:0:26
-nserver:      DNS3.NIC.LAW 213.248.221.26 2a01:618:405:0:0:0:0:26
-nserver:      DNS4.NIC.LAW 2401:fd80:405:0:0:0:0:26 43.230.49.26
-nserver:      DNSA.NIC.LAW 156.154.100.3 2001:502:ad09:0:0:0:0:3
-nserver:      DNSB.NIC.LAW 156.154.101.3
-nserver:      DNSC.NIC.LAW 156.154.102.3
-nserver:      DNSD.NIC.LAW 156.154.103.3
-ds-rdata:     59981 8 2 59A00484D23B01CF601679A4010858BD1111416D534090708DD0EBC67B194A8A
+nserver:      A.NIC.LAW 2001:dcd:1:0:0:0:0:10 37.209.192.10
+nserver:      B.NIC.LAW 2001:dcd:2:0:0:0:0:10 37.209.194.10
+nserver:      C.NIC.LAW 2001:dcd:3:0:0:0:0:10 37.209.196.10
+nserver:      D.NIC.LAW 2001:dcd:4:0:0:0:0:10 37.209.198.10
+ds-rdata:     16534 8 2 AE36939D5F3629784F63C7CC2E5F7643EFD9EF7533A5049420BD067F4EEAB51C
 
 whois:        whois.nic.law
 
 status:       ACTIVE
-remarks:      Registration information: http://mm-registry.com
+remarks:      Registration information: http://nic.law/
 
 created:      2015-06-18
-changed:      2019-08-22
+changed:      2022-07-18
 source:       IANA
 
