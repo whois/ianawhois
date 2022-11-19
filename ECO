@@ -21,21 +21,19 @@ phone:        16046826673
 e-mail:       iana-contact@bigroom.eco
 
 contact:      technical
-name:         Senior Director, DNS Infrastructure Group
-organisation: Afilias
-address:      Building 3, Suite 105
-address:      300 Welsh Road
-address:      Horsham, PA 19044
-address:      United States
-phone:        +1 215.706.5700
+name:         Fury Registry Services
+organisation: Canadian Internet Registration Authority (CIRA)
+address:      979 Bank Street, Suite 400
+address:      Ottawa, Ontario
+address:      K1S 5K5
+address:      Canada
+phone:        +1-613-237-5335
 fax-no:       +1 215.706.5701
-e-mail:       tld-tech-poc@afilias.info
+e-mail:       support@fury.ca
 
-nserver:      A0.NIC.ECO 2a01:8840:d2:0:0:0:0:17 65.22.216.17
-nserver:      A2.NIC.ECO 2a01:8840:d5:0:0:0:0:17 65.22.219.17
-nserver:      B0.NIC.ECO 2a01:8840:d3:0:0:0:0:17 65.22.217.17
-nserver:      C0.NIC.ECO 2a01:8840:d4:0:0:0:0:17 65.22.218.17
-ds-rdata:     6925 8 2 1ac66ee24a758b8df7ac8473d8ae26acefeb1e8b51486f846875ef6020a0fd15
+nserver:      A.NS.NIC.ECO 185.159.197.4 2620:10a:80aa:0:0:0:0:4
+nserver:      B.NS.NIC.ECO 185.159.198.4 2620:10a:80ab:0:0:0:0:4
+ds-rdata:     38446 8 2 a2500ae83c687fd270d0660a27527c3c96c6a136a86d9f2bdc714e9280bb5e32
 
 whois:        whois.nic.eco
 
@@ -43,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.bigroom.eco
 
 created:      2016-08-18
-changed:      2020-11-16
+changed:      2022-10-12
 source:       IANA
 
