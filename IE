@@ -36,6 +36,7 @@ e-mail:       tld-tech@weare.ie
 nserver:      B.NS.IE 2a01:4b0:0:0:0:0:0:2 77.72.72.34
 nserver:      C.NS.IE 194.146.106.98 2001:67c:1010:25:0:0:0:53
 nserver:      D.NS.IE 2a01:3f0:0:309:0:0:0:53 77.72.229.245
+nserver:      E.NS.IE 185.159.199.210 2620:10a:80ac:0:0:0:0:210
 nserver:      G.NS.IE 192.111.39.100 2001:7c8:2:a:0:0:0:64
 nserver:      H.NS.IE 192.93.0.4 2001:660:3005:1:0:0:1:2
 nserver:      I.NS.IE 194.0.25.35 2001:678:20:0:0:0:0:35
@@ -47,6 +48,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.weare.ie
 
 created:      1988-01-27
-changed:      2020-11-29
+changed:      2022-11-15
 source:       IANA
 
