@@ -6,38 +6,37 @@ domain:       INDUSTRIES
 
 organisation: Binky Moon, LLC
 address:      Donuts Inc.
-address:      5808 Lake Washington Blvd NE, Suite 300
-address:      Kirkland, WA 98033
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
 address:      United States
 
 contact:      administrative
-name:         Serina Ness
+name:         Vice President, Engineering
 organisation: Donuts Inc.
-address:      Donuts Inc.
-address:      5808 Lake Washington Blvd NE, Suite 300
-address:      Kirkland, WA 98033
-address:      United States
-phone:        +1.425.283.8248
-fax-no:       +1.425.671.0020
-e-mail:       serina@donuts.email
-
-contact:      technical
-name:         Ben Levac
-organisation: Donuts Inc.
-address:      Donuts Inc.
-address:      5808 Lake Washington Blvd NE, Suite 300
-address:      Kirkland, WA 98033
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
 address:      United States
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       ben@donuts.email
+e-mail:       tldadmin@donuts.email
 
-nserver:      DEMAND.ALPHA.ARIDNS.NET.AU 2001:dcd:1:0:0:0:0:7 37.209.192.7
-nserver:      DEMAND.BETA.ARIDNS.NET.AU 2001:dcd:2:0:0:0:0:7 37.209.194.7
-nserver:      DEMAND.DELTA.ARIDNS.NET.AU 2001:dcd:4:0:0:0:0:7 37.209.198.7
-nserver:      DEMAND.GAMMA.ARIDNS.NET.AU 2001:dcd:3:0:0:0:0:7 37.209.196.7
-ds-rdata:     29260 8 1 1C2F57936BF0270179CA862F35112766518D68D5
-ds-rdata:     29260 8 2 FC6404151AA1B1FA6F2839F0C9EFF17EA01E9D1BA0FA3A7B5F30E99028A7B7D2
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Donuts Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
+address:      United States
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@donuts.email
+
+nserver:      V0N0.NIC.INDUSTRIES 2a01:8840:16:0:0:0:0:55 65.22.20.55
+nserver:      V0N1.NIC.INDUSTRIES 2a01:8840:17:0:0:0:0:55 65.22.21.55
+nserver:      V0N2.NIC.INDUSTRIES 2a01:8840:18:0:0:0:0:55 65.22.22.55
+nserver:      V0N3.NIC.INDUSTRIES 161.232.10.55 2a01:8840:f4:0:0:0:0:55
+nserver:      V2N0.NIC.INDUSTRIES 2a01:8840:19:0:0:0:0:55 65.22.23.55
+nserver:      V2N1.NIC.INDUSTRIES 161.232.11.55 2a01:8840:f5:0:0:0:0:55
+ds-rdata:     9211 8 2 8ab45e54723f63ce648e7a3679c9518e476afa4fd9a719c826378c5bc69f31e0
 
 whois:        whois.nic.industries
 
@@ -45,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.donuts.domains/
 
 created:      2014-02-13
-changed:      2020-04-17
+changed:      2021-10-27
 source:       IANA
 
