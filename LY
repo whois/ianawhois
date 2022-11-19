@@ -11,7 +11,7 @@ address:      Tripoli
 address:      Libya
 
 contact:      administrative
-name:         Marwan K. Maghur (LY ccTLD Director)
+name:         Marwan K. Maghur
 organisation: General Post and Telecommunication Company
 address:      Al Zawia st.
 address:      GPTC Tower
@@ -22,7 +22,7 @@ fax-no:       +218 21 3614170
 e-mail:       maghur@gmail.com
 
 contact:      technical
-name:         Khaled Esheh  (Technical Manager)
+name:         Khaled Esheh 
 organisation: Libya Telecom and Technology
 address:      Alshut Road
 address:      P.O. Box 91612
@@ -37,6 +37,7 @@ nserver:      DNS1.LTTNET.NET 62.68.42.9
 nserver:      NS-LY.AFRINIC.NET 196.216.168.24 2001:43f8:120:0:0:0:0:24
 nserver:      PCH.LTT.LY 2001:500:14:6067:ad:0:0:1 204.61.216.67
 nserver:      PHLOEM.UOREGON.EDU 128.223.32.35 2001:468:d01:20:0:0:80df:2023
+ds-rdata:     62311 8 2 08E9AC56F605A728D048C803787AB044B0C81CAEA2031EAC9EDEA77150A1BDBE
 
 whois:        whois.nic.ly
 
@@ -44,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.ly/
 
 created:      1997-04-23
-changed:      2016-07-01
+changed:      2021-05-10
 source:       IANA
 
