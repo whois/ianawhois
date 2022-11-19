@@ -9,37 +9,36 @@ address:      Fourth Floor, One Capital Place, P.O Box 847, George Town, Grand C
 address:      Grand Cayman
 
 contact:      administrative
-name:         Timothy Alexander Steinert
+name:         Project & Process Manager
 organisation: Alibaba Group Holding Limited
 address:      Fourth Floor, One Capital Place, P.O Box 847, George Town, Grand Cayman, KY1-1103  KY
 address:      Grand Cayman
 phone:        +852-22155100
 fax-no:       +852-2215-5200
-e-mail:       newgtld@hk.alibaba-inc.com
+e-mail:       ngtld-alibaba@cscglobal.com
 
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      14455 North Hayden Rd.
-address:      Scottsdale, AZ 85260
+address:      2155 E GoDaddy Way
+address:      Tempe, AZ 85284
 address:      United States
-phone:        +1 480-505-8800
-fax-no:       +1 480-393-4275
+phone:        +1 480 505 8800
+fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
 
+nserver:      A.NIC.TMALL 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.TMALL 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.TMALL 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.TMALL 156.154.144.164 2610:a1:1071:0:0:0:0:a4
 nserver:      NS2.DNS.NIC.TMALL 156.154.145.164 2610:a1:1072:0:0:0:0:a4
 nserver:      NS3.DNS.NIC.TMALL 156.154.159.164 2610:a1:1073:0:0:0:0:a4
-nserver:      NS4.DNS.NIC.TMALL 156.154.156.164 2610:a1:1074:0:0:0:0:a4
-nserver:      NS5.DNS.NIC.TMALL 156.154.157.164 2610:a1:1075:0:0:0:0:a4
-nserver:      NS6.DNS.NIC.TMALL 156.154.158.164 2610:a1:1076:0:0:0:0:a4
-ds-rdata:     51061 8 1 9D2CFE5A9220AAF312D116D15D94F3516A9319F9
-ds-rdata:     51061 8 2 363A7986FD2A6B5EFCCA78D57A4CA512E82DCA8335C68D42167EE1AFF256417F
+ds-rdata:     41011 8 2 347FEC623E6338ED0939E1A942D4151CB73565603ACD203319EB547222FE9CDB
 
 status:       ACTIVE
 remarks:      Registration information: http://www.alibabagroup.com
 
 created:      2016-01-08
-changed:      2020-10-12
+changed:      2022-07-28
 source:       IANA
 
