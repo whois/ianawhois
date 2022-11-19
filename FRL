@@ -22,19 +22,18 @@ e-mail:       info@frlregistry.com
 contact:      technical
 name:         CTO
 organisation: CentralNic
-address:      35-39 Moorgate
-address:      London EC2R 6AR
+address:      Saddlers House 4th Floor 44 Gutter Lane
+address:      London EC2V 6BR
 address:      United Kingdom
-phone:        +44.2033880600
-fax-no:       +44.2033880601
+phone:        +44 20 33 88 0600
+fax-no:       +44 20 33 88 0601
 e-mail:       tld.ops@centralnic.com
 
 nserver:      A.NIC.FRL 194.169.218.87 2001:67c:13cc:0:0:0:1:87
 nserver:      B.NIC.FRL 185.24.64.87 2a04:2b00:13cc:0:0:0:1:87
 nserver:      C.NIC.FRL 212.18.248.87 2a04:2b00:13ee:0:0:0:0:87
 nserver:      D.NIC.FRL 212.18.249.87 2a04:2b00:13ff:0:0:0:0:87
-ds-rdata:     61803 7 2 6101027B61B7A1E6434BAFDAFF9A5D7DBB2E5EFA1BE76D85B031BCD601D1A54C
-ds-rdata:     29449 7 2 37DED35C8C21D344247A0FA8450B3D39E0304BD07266E38D795EB62E9E9D3D07
+ds-rdata:     16639 13 2 D3CCC215301C0738FC3B1AA14DEB7602421FF42D3889BD15D018EE2212373D38
 
 whois:        whois.nic.frl
 
@@ -42,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: https://registreer.frl
 
 created:      2014-08-22
-changed:      2021-02-16
+changed:      2022-07-18
 source:       IANA
 
