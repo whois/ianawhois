@@ -4,54 +4,45 @@
 
 domain:       FOREX
 
-organisation: DOTFOREX REGISTRY LTD
-address:      Boston ivy
-address:      Cannon Bridge House,
-address:      25 Dowgate Hill,
-address:      London,
-address:      EC4R 2YA
-address:      United Kingdom
+organisation: Dog Beach, LLC
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
+address:      United States
 
 contact:      administrative
-name:         Head of Registry Services
-organisation: DOTFOREX REGISTRY LTD
-address:      Boston ivy
-address:      Cannon Bridge House,
-address:      25 Dowgate Hill,
-address:      London,
-address:      EC4R 2YA
-address:      United Kingdom
-phone:        +44.2033880600
-e-mail:       ig@centralnic.com
+name:         Vice President, Engineering
+organisation: Donuts Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
+address:      United States
+phone:        +1 425 298 2200
+fax-no:       +1 425 671 0020
+e-mail:       tldadmin@donuts.email
 
 contact:      technical
-name:         CTO
-organisation: CentralNic
-address:      Saddlers House, 4th Floor
-address:      44 Gutter Lane
-address:      London EC2V 6BR
-address:      United Kingdom
-phone:        +44.2033880600
-fax-no:       +44.2033880601
-e-mail:       tld.ops@centralnic.com
+name:         Senior Director, DNS Infrastructure Group
+organisation: Donuts Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
+address:      United States
+phone:        +1 425 298 2200
+fax-no:       +1 425 671 0020
+e-mail:       tldtech@donuts.email
 
-nserver:      A.NIC.FOREX 194.169.218.126 2001:67c:13cc:0:0:0:1:126
-nserver:      B.NIC.FOREX 185.24.64.126 2a04:2b00:13cc:0:0:0:1:126
-nserver:      C.NIC.FOREX 212.18.248.126 2a04:2b00:13ee:0:0:0:0:126
-nserver:      D.NIC.FOREX 212.18.249.126 2a04:2b00:13ff:0:0:0:0:126
-nserver:      DEMAND.ALPHA.ARIDNS.NET.AU 2001:dcd:1:0:0:0:0:7 37.209.192.7
-nserver:      DEMAND.BETA.ARIDNS.NET.AU 2001:dcd:2:0:0:0:0:7 37.209.194.7
-nserver:      DEMAND.DELTA.ARIDNS.NET.AU 2001:dcd:4:0:0:0:0:7 37.209.198.7
-nserver:      DEMAND.GAMMA.ARIDNS.NET.AU 2001:dcd:3:0:0:0:0:7 37.209.196.7
-ds-rdata:     57511 8 2 00B8708F30D23C9FAD8F63F16D88B6A61725C5343AD14425335D3A0416DBF8D0
-ds-rdata:     39559 8 2 0CC0AEA8056D3994191BFF047B761A0BAA0DC1116D2020292A557806C3CE6BFD
+nserver:      V0N0.NIC.FOREX 2a01:8840:1e:0:0:0:0:65 65.22.28.65
+nserver:      V0N1.NIC.FOREX 2a01:8840:1f:0:0:0:0:65 65.22.29.65
+nserver:      V0N2.NIC.FOREX 2a01:8840:20:0:0:0:0:65 65.22.30.65
+nserver:      V0N3.NIC.FOREX 161.232.14.65 2a01:8840:f8:0:0:0:0:65
+nserver:      V2N0.NIC.FOREX 2a01:8840:21:0:0:0:0:65 65.22.31.65
+nserver:      V2N1.NIC.FOREX 161.232.15.65 2a01:8840:f9:0:0:0:0:65
+ds-rdata:     37024 8 2 b76c4cb1e725cbac7c8043a1efe178802f19bbd47687ee2dd46bf30f626f1c08
 
 whois:        whois.nic.forex
 
 status:       ACTIVE
-remarks:      Registration information: http://bostonivy.co
+remarks:      Registration information: https://donuts.domains/
 
 created:      2015-03-06
-changed:      2021-02-26
+changed:      2021-11-10
 source:       IANA
 
