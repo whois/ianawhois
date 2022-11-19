@@ -14,33 +14,30 @@ address:      Cayman Islands
 contact:      administrative
 name:         General Manager
 organisation: Intercap Registry Inc.
-address:      103 South Church Street, 4th Floor, Harbour Place, PO Box 10240
-address:      George Town
+address:      4th Floor, Harbour Place, 103 South Church Street, PO Box 10240
 address:      Grand Cayman
 address:      KY1-1002
 address:      Cayman Islands
-phone:        +1 4164773490 xt. 215
-fax-no:       +1 4164770964
-e-mail:       eisner@intercap.inc
+phone:        +1 833 436 8462
+e-mail:       admin@intercap.inc
 
 contact:      technical
-name:         Director of Operations
-organisation: Intercap Registry Inc.
-address:      103 South Church Street, 4th Floor, Harbour Place, PO Box 10240
-address:      George Town
-address:      Grand Cayman
-address:      KY1-1002
-address:      Cayman Islands
-phone:        +1 4164773490 xt. 203
-fax-no:       +1 4164770964
-e-mail:       adam@intercap.com
+name:         CTO
+organisation: CentralNic
+address:      Saddlers House 4th Floor 44 Gutter Lane
+address:      London EC2V 6BR
+address:      United Kingdom
+phone:        +44 20 33 88 0600
+fax-no:       +44 20 33 88 0601
+e-mail:       tld.ops@centralnic.com
 
-nserver:      A.NIC.BOX 2001:dcd:1:0:0:0:0:10 37.209.192.10
-nserver:      B.NIC.BOX 2001:dcd:2:0:0:0:0:10 37.209.194.10
-nserver:      C.NIC.BOX 2001:dcd:3:0:0:0:0:10 37.209.196.10
-nserver:      D.NIC.BOX 2001:dcd:4:0:0:0:0:10 37.209.198.10
+nserver:      A.NIC.BOX 194.169.218.139 2001:67c:13cc:0:0:0:1:139
+nserver:      B.NIC.BOX 185.24.64.139 2a04:2b00:13cc:0:0:0:1:139
+nserver:      C.NIC.BOX 212.18.248.139 2a04:2b00:13ee:0:0:0:0:139
+nserver:      D.NIC.BOX 212.18.249.139 2a04:2b00:13ff:0:0:0:0:139
 ds-rdata:     47542 8 2 31CC9F53054303443FA06F368C54971D8E12C89655CB768A951D908701E82800
 ds-rdata:     47542 8 1 F59D467614D996277C9EA8E52EB920623B9FA4FE
+ds-rdata:     63242 8 2 f63250257503cce60195e71c2e346a2d8bde06dcbd666b9ee4f860d75988702d
 
 whois:        whois.nic.box
 
@@ -48,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: https://intercap.inc
 
 created:      2016-10-27
-changed:      2020-10-13
+changed:      2022-10-28
 source:       IANA
 
