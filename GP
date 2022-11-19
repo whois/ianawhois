@@ -23,12 +23,11 @@ e-mail:       patrick.raimond@ntgroup.gp
 
 contact:      technical
 name:         John Broomfield
-organisation: World Satellite Services
-address:      Calle Alemania
-address:      N-11, Casa 3
-address:      Cuarte de Huerva Zaragoza 50410
-address:      Spain
-phone:        +34 675404304
+organisation: Bull ATOS Caraibes
+address:      24 Lot. Barboux
+address:      Valette, Sainte-Anne 97180
+address:      Guadeloupe
+phone:        +590 690 002711
 e-mail:       jbroom@nic.gp
 
 nserver:      A.LACTLD.ORG 200.0.68.10 2801:14:a000:0:0:0:0:10
@@ -43,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.gp/
 
 created:      1996-10-21
-changed:      2020-03-24
+changed:      2022-08-27
 source:       IANA
 
