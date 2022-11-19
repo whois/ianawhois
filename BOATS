@@ -4,43 +4,43 @@
 
 domain:       BOATS
 
-organisation: DERBoats, LLC
-address:      150 Granby St
-address:      Norfolk, VA 23510
+organisation: XYZ.COM LLC
+address:      2121 Tropicana Ave
+address:      Suite 2
+address:      Las Vegas, NV 89119
 address:      United States
 
 contact:      administrative
-name:         General Manager
-organisation: DERBoats, LLC
-address:      150 Granby Street
-address:      Norfolk, VA 23510
+name:         General Counsel
+organisation: XYZ.COM LLC
+address:      2121 E Tropicana Ave, STE2
+address:      Las Vegas, NV 89119
 address:      United States
-phone:        7573517439
-e-mail:       tldadmin@dominionenterprises.com
+phone:        +1 702 757 6555
+e-mail:       hello@xyz.com
 
 contact:      technical
-name:         Senior Director, DNS Infrastructure Group
-organisation: Afilias
-address:      Building 3, Suite 105, 300 Welsh Road
-address:      Horsham, PA 19044
-address:      United States
-phone:        215.706.5700
-fax-no:       215.706.5701
-e-mail:       tld-tech-poc@afilias.info
+name:         CTO
+organisation: CentralNic
+address:      Saddlers House 4th Floor 44 Gutter Lane London EC2V 6BR
+address:      United Kingdom
+phone:        +44 20 33 88 0600
+fax-no:       +44 20 33 88 0601
+e-mail:       tld.ops@centralnic.com
 
-nserver:      A0.NIC.BOATS 2a01:8840:66:0:0:0:0:17 65.22.104.17
-nserver:      A2.NIC.BOATS 2a01:8840:69:0:0:0:0:17 65.22.107.17
-nserver:      B0.NIC.BOATS 2a01:8840:67:0:0:0:0:17 65.22.105.17
-nserver:      C0.NIC.BOATS 2a01:8840:68:0:0:0:0:17 65.22.106.17
+nserver:      A.NIC.BOATS 194.169.218.134 2001:67c:13cc:0:0:0:1:134
+nserver:      B.NIC.BOATS 185.24.64.134 2a04:2b00:13cc:0:0:0:1:134
+nserver:      C.NIC.BOATS 212.18.248.134 2a04:2b00:13ee:0:0:0:0:134
+nserver:      D.NIC.BOATS 212.18.249.134 2a04:2b00:13ff:0:0:0:0:134
 ds-rdata:     184 8 2 a4a33b365286abb2176f9f617093d4dade9cd2af1c8b4955db2b0ad92b6940d5
+ds-rdata:     59980 8 2 a5e1e3d7c3a1cd95834be1a4f1b403eb0018e4918d107c25a61360b2b7e585dd
 
-whois:        whois.afilias-srs.net
+whois:        whois.nic.boats
 
 status:       ACTIVE
-remarks:      Registration information:
-remarks:      http://www.dominionregistries.com
+remarks:      Registration information: http://nic.boats
 
 created:      2015-02-13
-changed:      2020-12-09
+changed:      2022-08-16
 source:       IANA
 
