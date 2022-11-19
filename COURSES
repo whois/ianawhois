@@ -4,38 +4,36 @@
 
 domain:       COURSES
 
-organisation: OPEN UNIVERSITIES AUSTRALIA PTY LTD
-address:      Level 1, 473 Bourke Street,
-address:      Melbourne,
-address:      VIC 3000
-address:      Australia
+organisation: Registry Services, LLC
+address:      2155 E. GoDaddy Way
+address:      Tempe, AZ 85284
+address:      United States
 
 contact:      administrative
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      14455 North Hayden Rd.
-address:      Scottsdale, AZ 85260
+address:      2155 E GoDaddy Way
+address:      Tempe, AZ 85284
 address:      United States
 phone:        +1 480-505-8800
-fax-no:       +1 480-393-4275
+fax-no:       +1 480-624-2546
 e-mail:       iana@registry.godaddy
 
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      14455 North Hayden Rd.
-address:      Scottsdale, AZ 85260
+address:      2155 E GoDaddy Way
+address:      Tempe, AZ 85284
 address:      United States
 phone:        +1 480-505-8800
-fax-no:       +1 480-393-4275
+fax-no:       +1 480-624-2546
 e-mail:       iana@registry.godaddy
 
 nserver:      A.NIC.COURSES 2001:dcd:1:0:0:0:0:9 37.209.192.9
 nserver:      B.NIC.COURSES 2001:dcd:2:0:0:0:0:9 37.209.194.9
 nserver:      C.NIC.COURSES 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      D.NIC.COURSES 2001:dcd:4:0:0:0:0:9 37.209.198.9
-ds-rdata:     24019 8 2 8EBDE93DC2260C5BCC11FEB6D32816D499B62ECC2AD87352E7CA56C736EC7835
-ds-rdata:     24019 8 1 21D98E9F78B45406F909E6CF3EF2FE04AC663B0F
+ds-rdata:     34960 8 2 DC3B228B7E6F2EEA82FAD1ADEB93171D4D3CA3892A3E0E94035CD89D258DF087
 
 whois:        whois.nic.courses
 
@@ -43,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.get.courses/
 
 created:      2015-02-19
-changed:      2020-10-19
+changed:      2022-07-18
 source:       IANA
 
