@@ -1,0 +1,47 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+domain:       MUSIC
+
+organisation: DotMusic Limited
+address:      19 Mesolongiou Street
+address:      Limassol 3032
+address:      Cyprus
+
+contact:      administrative
+name:         Constantinos Roussos
+organisation: DotMusic Limited
+address:      19 Mesolongiou Street
+address:      Limassol 3032
+address:      Cyprus
+phone:        +1 310 985 8661
+fax-no:       +357 25363193
+e-mail:       costa@music.us
+
+contact:      technical
+name:         Richard Seabrook
+organisation: CentralNic
+address:      Saddlers House
+address:      4th Floor
+address:      44 Gutter Lane
+address:      London EC2V 6BR
+address:      United Kingdom
+phone:        +44 20 33 88 0600
+fax-no:       +44 20 33 88 0601
+e-mail:       tld.ops@centralnic.com
+
+nserver:      A.NIC.MUSIC 194.169.218.142 2001:67c:13cc:0:0:0:1:142
+nserver:      B.NIC.MUSIC 185.24.64.142 2a04:2b00:13cc:0:0:0:1:142
+nserver:      C.NIC.MUSIC 212.18.248.142 2a04:2b00:13ee:0:0:0:0:142
+nserver:      D.NIC.MUSIC 212.18.249.142 2a04:2b00:13ff:0:0:0:0:142
+ds-rdata:     60004 8 2 f4025f7b5c848808861bd35868bae0cfcf7a0fe3aa1f79bb222093687462f3fb
+ds-rdata:     60004 8 1 ee80f198da75c68c32a632e895502f3f2a32940e
+
+status:       ACTIVE
+remarks:      Registration information: https://music.us
+
+created:      2021-10-14
+changed:      2021-10-29
+source:       IANA
+
