@@ -6,38 +6,37 @@ domain:       DISCOUNT
 
 organisation: Binky Moon, LLC
 address:      Donuts Inc.
-address:      5808 Lake Washington Blvd NE, Suite 300
-address:      Kirkland, WA 98033
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
 address:      United States
 
 contact:      administrative
-name:         Serina Ness
+name:         Vice President, Engineering
 organisation: Donuts Inc.
-address:      Donuts Inc.
-address:      5808 Lake Washington Blvd NE, Suite 300
-address:      Kirkland, WA 98033
-address:      United States
-phone:        +1.425.283.8248
-fax-no:       +1.425.671.0020
-e-mail:       serina@donuts.email
-
-contact:      technical
-name:         Ben Levac
-organisation: Donuts Inc.
-address:      Donuts Inc.
-address:      5808 Lake Washington Blvd NE, Suite 300
-address:      Kirkland, WA 98033
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
 address:      United States
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       ben@donuts.email
+e-mail:       tldadmin@donuts.email
 
-nserver:      DEMAND.ALPHA.ARIDNS.NET.AU 2001:dcd:1:0:0:0:0:7 37.209.192.7
-nserver:      DEMAND.BETA.ARIDNS.NET.AU 2001:dcd:2:0:0:0:0:7 37.209.194.7
-nserver:      DEMAND.DELTA.ARIDNS.NET.AU 2001:dcd:4:0:0:0:0:7 37.209.198.7
-nserver:      DEMAND.GAMMA.ARIDNS.NET.AU 2001:dcd:3:0:0:0:0:7 37.209.196.7
-ds-rdata:     27595 8 1 1B13C4ED489B60A74807761D2A76B208D39BE545
-ds-rdata:     27595 8 2 1C0561B72702E7A6D51B26B52E4981B39C4FF709D1CEBEF647A2DA2E05E68D03
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Donuts Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
+address:      United States
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@donuts.email
+
+nserver:      V0N0.NIC.DISCOUNT 2a01:8840:1e:0:0:0:0:57 65.22.28.57
+nserver:      V0N1.NIC.DISCOUNT 2a01:8840:1f:0:0:0:0:57 65.22.29.57
+nserver:      V0N2.NIC.DISCOUNT 2a01:8840:20:0:0:0:0:57 65.22.30.57
+nserver:      V0N3.NIC.DISCOUNT 161.232.14.57 2a01:8840:f8:0:0:0:0:57
+nserver:      V2N0.NIC.DISCOUNT 2a01:8840:21:0:0:0:0:57 65.22.31.57
+nserver:      V2N1.NIC.DISCOUNT 161.232.15.57 2a01:8840:f9:0:0:0:0:57
+ds-rdata:     51140 8 2 fa79b01e16956fa153e17df749592ab311ac88f7cca89102145a31bf327e7c0d
 
 whois:        whois.nic.discount
 
@@ -45,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.donuts.domains/
 
 created:      2014-04-17
-changed:      2020-04-17
+changed:      2021-11-10
 source:       IANA
 
