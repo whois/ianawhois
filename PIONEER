@@ -5,41 +5,47 @@
 domain:       PIONEER
 
 organisation: Pioneer Corporation
-address:      1-1 Shin-ogura, Saiwai-ku Kawasaki, Kanagawa - 212-0031 JP
+address:      28-8, Honkomagome 2-chome, Bunkyo-ku, Tokyo 113-0021
 address:      Japan
 
 contact:      administrative
-name:         Chief Operating Officer
-organisation: GMO Brights Consulting Inc.
-address:      Cerulean Tower 26-1 Sakuragaoka-cho
-address:      Shibuya-ku Tokyo 150-8512
-address:      Japan
-phone:        +81355210107
-fax-no:       +81355210117
-e-mail:       registry@brights.jp
+name:         Domain Manager
+organisation: Valideus
+address:      28-30 Little Russell Street
+address:      London WC1A 2HN
+address:      United Kingdom
+phone:        +44 2074218299
+fax-no:       +44 8700118187
+e-mail:       technical@valideus.com
 
 contact:      technical
-name:         Director
-organisation: GMO Registry, Inc.
-address:      Cerulean Tower 26-1 Sakuragaoka-cho
-address:      Shibuya-ku Tokyo 150-8512 Japan (JP)
-address:      Japan
-phone:        +81354561601
-fax-no:       +81337805239
-e-mail:       newgtld@gmoregistry.com
+name:         TLD Registry Services Technical
+organisation: Nominet
+address:      Minerva House,
+address:      Edmund Halley Road,
+address:      Oxford Science Park,
+address:      Oxford
+address:      OX4 4DQ
+address:      United Kingdom
+phone:        +44.1865332211
+e-mail:       registrytechnical@nominet.uk
 
-nserver:      A.GMOREGISTRY.NET 2001:dcd:1:0:0:0:0:4 37.209.192.4
-nserver:      B.GMOREGISTRY.NET 2001:dcd:2:0:0:0:0:4 37.209.194.4
-nserver:      K.GMOREGISTRY.NET 37.209.196.4
-nserver:      L.GMOREGISTRY.NET 2001:dcd:4:0:0:0:0:4 37.209.198.4
-ds-rdata:     7342 8 2 3ec0f6a04f0365ab5311410a9074be1c8025df8120817b92d96bf8fae973e27d
+nserver:      DNS1.NIC.PIONEER 213.248.219.126 2a01:618:403:0:0:0:0:126
+nserver:      DNS2.NIC.PIONEER 103.49.83.126 2401:fd80:403:0:0:0:0:126
+nserver:      DNS3.NIC.PIONEER 213.248.223.126 2a01:618:407:0:0:0:0:126
+nserver:      DNS4.NIC.PIONEER 2401:fd80:407:0:0:0:0:126 43.230.51.126
+nserver:      DNSA.NIC.PIONEER 156.154.100.3 2001:502:ad09:0:0:0:0:3
+nserver:      DNSB.NIC.PIONEER 156.154.101.3 2001:502:2eda:0:0:0:0:3
+nserver:      DNSC.NIC.PIONEER 156.154.102.3 2610:a1:1009:0:0:0:0:3
+nserver:      DNSD.NIC.PIONEER 156.154.103.3 2610:a1:1010:0:0:0:0:3
+ds-rdata:     52502 8 2 4C7837526065FAD0933B836EFBF1694B16E9C38115A1AD0317BCC4BA599FB367
 
-whois:        whois.nic.gmo
+whois:        whois.nic.pioneer
 
 status:       ACTIVE
-remarks:      Registration information: http://www.gmoregistry.com/en/
+remarks:      Registration information: http://www.nic.pioneer/
 
 created:      2016-05-26
-changed:      2019-07-13
+changed:      2022-09-30
 source:       IANA
 
