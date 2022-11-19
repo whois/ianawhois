@@ -5,20 +5,19 @@
 domain:       امارات
 domain-ace:   XN--MGBAAM7A8H
 
-organisation: Telecommunications Regulatory Authority (TRA)
+organisation: Telecommunications and Digital Government Regulatory Authority (TDRA)
 address:      P.O. Box 116688
-address:      EMAAR Square, Bld #4, Floor #6, Office 601
 address:      Dubai
 address:      United Arab Emirates
 
 contact:      administrative
 name:         Director Policies and Programs
-organisation: Telecommunications Regulatory Authority (TRA)
+organisation: Telecommunications and Digital Government Regulatory Authority (TDRA)
 address:      P.O. Box: 116688
 address:      Dubai
 address:      United Arab Emirates
 phone:        +971 4 7774018
-e-mail:       iana@tra.gov.ae
+e-mail:       iana@tdra.gov.ae
 
 contact:      technical
 name:         Senior Manager .aeDA
@@ -29,8 +28,8 @@ address:      United Arab Emirates
 phone:        +971 4 7774018
 e-mail:       dns@aeda.ae
 
-nserver:      NS1.AEDNS.AE 2a00:d30:124:0:0:0:0:189 79.98.120.73
-nserver:      NS2.AEDNS.AE 2a00:d30:125:0:0:0:0:189 79.98.121.73
+nserver:      NS1.AEDNS.AE 2a00:d30:120:0:0:0:0:73 79.98.120.73
+nserver:      NS2.AEDNS.AE 2a00:d30:121:0:0:0:0:73 79.98.121.73
 nserver:      NSEXT-PCH.AEDNS.AE 199.4.137.1 2001:500:7d:0:0:0:0:1
 
 whois:        whois.aeda.net.ae
@@ -39,6 +38,6 @@ status:       ACTIVE
 remarks:      Registration information: http://aeda.ae/
 
 created:      2010-05-05
-changed:      2020-01-22
+changed:      2021-10-12
 source:       IANA
 
