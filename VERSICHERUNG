@@ -4,14 +4,14 @@
 
 domain:       VERSICHERUNG
 
-organisation: TLD-BOX Registrydienstleistungen GmbH
+organisation: tldbox GmbH
 address:      Jakob-Haringer-Strasse 8/V
 address:      5020 Salzburg
 address:      Austria
 
 contact:      administrative
 name:         Richard Wein
-organisation: TLD-BOX Registrydienstleistungen GmbH
+organisation: tldbox GmbH
 address:      Jakob-Haringer-Strasse 8/V
 address:      5020 Salzburg
 address:      Austria
@@ -21,9 +21,7 @@ e-mail:       service@tld-box.at
 
 contact:      technical
 name:         Technical Operations
-organisation: TLD-BOX Registrydienstleistungen GmbH
-address:      Technical Operations
-address:      TLD-BOX Registrydienstleistungen GmbH
+organisation: tldbox GmbH
 address:      Jakob-Haringer-Strasse 8/V
 address:      5020 Salzburg
 address:      Austria
@@ -35,7 +33,7 @@ nserver:      A.DNS.NIC.VERSICHERUNG 194.0.25.13 2001:678:20:0:0:0:0:13
 nserver:      M.DNS.NIC.VERSICHERUNG 194.0.26.2 2001:67c:10e0:0:0:0:0:2
 nserver:      N.DNS.NIC.VERSICHERUNG 194.0.24.2 2001:678:24:0:0:0:0:2
 ds-rdata:     26134 8 2 925EE924B5BC6876443E476C16EAF5BF02885ACADBDF27CA2C87BE8EEB7F3B41
-ds-rdata:     20576 8 2 efd54d9277685e2b353d54e7abadffc424debd8028d7f444119e8b36c0117466
+ds-rdata:     53914 8 2 3fb290c372a8e1f1662e968c7836f7856e493f96f0a6603de8e882f54bae577c
 
 whois:        whois.nic.versicherung
 
@@ -43,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.versicherung
 
 created:      2014-05-15
-changed:      2020-08-17
+changed:      2022-11-04
 source:       IANA
 
