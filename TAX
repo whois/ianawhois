@@ -6,38 +6,37 @@ domain:       TAX
 
 organisation: Binky Moon, LLC
 address:      Donuts Inc.
-address:      5808 Lake Washington Blvd NE, Suite 300
-address:      Kirkland, WA 98033
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
 address:      United States
 
 contact:      administrative
-name:         Serina Ness
+name:         Vice President, Engineering
 organisation: Donuts Inc.
-address:      Donuts Inc.
-address:      5808 Lake Washington Blvd NE, Suite 300
-address:      Kirkland, WA 98033
-address:      United States
-phone:        +1.425.283.8248
-fax-no:       +1.425.671.0020
-e-mail:       serina@donuts.email
-
-contact:      technical
-name:         Ben Levac
-organisation: Donuts Inc.
-address:      Donuts Inc.
-address:      5808 Lake Washington Blvd NE, Suite 300
-address:      Kirkland, WA 98033
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
 address:      United States
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       ben@donuts.email
+e-mail:       tldadmin@donuts.email
 
-nserver:      DEMAND.ALPHA.ARIDNS.NET.AU 2001:dcd:1:0:0:0:0:7 37.209.192.7
-nserver:      DEMAND.BETA.ARIDNS.NET.AU 2001:dcd:2:0:0:0:0:7 37.209.194.7
-nserver:      DEMAND.DELTA.ARIDNS.NET.AU 2001:dcd:4:0:0:0:0:7 37.209.198.7
-nserver:      DEMAND.GAMMA.ARIDNS.NET.AU 2001:dcd:3:0:0:0:0:7 37.209.196.7
-ds-rdata:     62836 8 2 8C55B8733C6469846B5C3D29CC5A0BC3B43C89ABA4DBBB7C517E30896CD7A8CC
-ds-rdata:     62836 8 1 432D0BD28371B78BE105B76785AA66CE50E10C88
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Donuts Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
+address:      United States
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@donuts.email
+
+nserver:      V0N0.NIC.TAX 2a01:8840:1a:0:0:0:0:16 65.22.24.16
+nserver:      V0N1.NIC.TAX 2a01:8840:1b:0:0:0:0:16 65.22.25.16
+nserver:      V0N2.NIC.TAX 2a01:8840:1c:0:0:0:0:16 65.22.26.16
+nserver:      V0N3.NIC.TAX 161.232.12.16 2a01:8840:f6:0:0:0:0:16
+nserver:      V2N0.NIC.TAX 2a01:8840:1d:0:0:0:0:16 65.22.27.16
+nserver:      V2N1.NIC.TAX 161.232.13.16 2a01:8840:f7:0:0:0:0:16
+ds-rdata:     3385 8 2 4d66cf4d6309a91268d634432d008877ab792d0632a1f8775b732a18c277786f
 
 whois:        whois.nic.tax
 
@@ -45,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.donuts.domains/
 
 created:      2014-04-17
-changed:      2020-04-16
+changed:      2021-11-02
 source:       IANA
 
