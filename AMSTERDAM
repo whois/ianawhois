@@ -30,6 +30,7 @@ e-mail:       tech@sidn.nl
 nserver:      NS1.NIC.AMSTERDAM 194.0.28.4 2001:678:2c:0:194:0:28:4
 nserver:      NS2.NIC.AMSTERDAM 194.146.106.134 2001:67c:1010:34:0:0:0:53
 nserver:      NS3.NIC.AMSTERDAM 194.0.25.26 2001:678:20:0:0:0:0:26
+nserver:      NS4.NIC.AMSTERDAM 185.159.199.202 2620:10a:80ac:0:0:0:0:202
 ds-rdata:     56530 8 2 af680a3c1300a58bd0b4a4c42b274c369ebd7fd1bba8669ed34759e18132d78d
 
 whois:        whois.nic.amsterdam
@@ -38,6 +39,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.amsterdam
 
 created:      2014-11-20
-changed:      2020-01-24
+changed:      2022-05-20
 source:       IANA
 
