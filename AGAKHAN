@@ -34,9 +34,7 @@ nserver:      A0.NIC.AGAKHAN 2a01:8840:2a:0:0:0:0:1 65.22.44.1
 nserver:      A2.NIC.AGAKHAN 2a01:8840:2d:0:0:0:0:1 65.22.47.1
 nserver:      B0.NIC.AGAKHAN 2a01:8840:2b:0:0:0:0:1 65.22.45.1
 nserver:      C0.NIC.AGAKHAN 2a01:8840:2c:0:0:0:0:1 65.22.46.1
-ds-rdata:     41499 7 1 a4e1a680e2ac7115cb75490365e92a625e22a666
-ds-rdata:     41499 7 2 afea463e62cdfdbe888796d8dc8794c56f987d5c2199061ae6461c5205887b6f
-ds-rdata:     30924 7 2 b2c5c1deb8ac0913d34a0e4af561811b5709ff932b4a063a62f763fe7645230a
+ds-rdata:     44761 8 2 4b8c22972dcaa43686d72581c1cb59d1f18d111a24464b8fc3464e52c7200cef
 
 whois:        whois.afilias-srs.net
 
@@ -44,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.akdn.org/
 
 created:      2016-03-31
-changed:      2021-01-30
+changed:      2021-03-03
 source:       IANA
 
