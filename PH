@@ -13,21 +13,21 @@ address:      Philippines
 contact:      administrative
 name:         DOTPH Administrative Contact
 organisation: DotPH
-address:      Rm A, 7/F, China Overseas Building
-address:      139 Hennessy Road
+address:      Room 1101, 11/F, Tai Yau Building
+address:      181 Johnston Road
 address:      Wanchai, Hong Kong
 address:      Hong Kong
-phone:        +852 5 8085724
+phone:        +85258033011
 e-mail:       admin@dot.ph
 
 contact:      technical
 name:         DOTPH Technical Contact
 organisation: DotPH
-address:      Rm A, 7/F, China Overseas Building
-address:      139 Hennessy Road
+address:      Room 1101, 11/F, Tai Yau Building
+address:      181 Johnston Road
 address:      Wanchai, Hong Kong
 address:      Hong Kong
-phone:        +852 5 8085724
+phone:        +639088698750
 e-mail:       sysadmin@dot.ph
 
 nserver:      1.NS.PH 206.51.255.1 2620:171:805:ad2:7068:0:0:1
@@ -39,6 +39,6 @@ status:       ACTIVE
 remarks:      Registration information: http://dot.ph
 
 created:      1990-09-14
-changed:      2020-01-31
+changed:      2022-06-16
 source:       IANA
 
