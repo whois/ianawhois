@@ -4,46 +4,42 @@
 
 domain:       WORK
 
-organisation: Minds + Machines Group Limited
-address:      Craigmuir Chambers, Road Town Tortola VG 1110
-address:      Virgin Islands, British
+organisation: Registry Services, LLC
+address:      2155 E. GoDaddy Way
+address:      Tempe AZ 85284
+address:      United States
 
 contact:      administrative
-name:         Admin Contact
-organisation: Minds + Machines Ltd
-address:      32 Nassau St, Dublin 2
-address:      Ireland
-phone:        +1-877-734-4783
-e-mail:       ops@mmx.co
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      2155 E GoDaddy Way
+address:      Tempe AZ 85284
+address:      United States
+phone:        +1 480-505-8800
+fax-no:       +1 480-624-2546
+e-mail:       iana@registry.godaddy
 
 contact:      technical
-name:         TLD Registry Services Technical
-organisation: Nominet
-address:      Minerva House,
-address:      Edmund Halley Road,
-address:      Oxford Science Park,
-address:      Oxford,
-address:      OX4 4DQ
-address:      United Kingdom
-phone:        +44.1865332211
-e-mail:       registrytechnical@nominet.uk
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      2155 E GoDaddy Way, Tempe AZ 85284
+address:      United States
+phone:        +1 480-505-8800
+fax-no:       +1 480-624-2546
+e-mail:       iana@registry.godaddy
 
-nserver:      DNS1.NIC.WORK 213.248.217.35 2a01:618:401:0:0:0:0:35
-nserver:      DNS2.NIC.WORK 103.49.81.35 2401:fd80:401:0:0:0:0:35
-nserver:      DNS3.NIC.WORK 213.248.221.35 2a01:618:405:0:0:0:0:35
-nserver:      DNS4.NIC.WORK 2401:fd80:405:0:0:0:0:35 43.230.49.35
-nserver:      DNSA.NIC.WORK 156.154.100.3 2001:502:ad09:0:0:0:0:3
-nserver:      DNSB.NIC.WORK 156.154.101.3
-nserver:      DNSC.NIC.WORK 156.154.102.3
-nserver:      DNSD.NIC.WORK 156.154.103.3
-ds-rdata:     7331 8 2 F6EBBE59BD6CF2D7D8F6AD1A31F38E84BE3C4613432E59703C4D90BC8D47E1C1
+nserver:      A.NIC.WORK 2001:dcd:1:0:0:0:0:10 37.209.192.10
+nserver:      B.NIC.WORK 2001:dcd:2:0:0:0:0:10 37.209.194.10
+nserver:      C.NIC.WORK 2001:dcd:3:0:0:0:0:10 37.209.196.10
+nserver:      D.NIC.WORK 2001:dcd:4:0:0:0:0:10 37.209.198.10
+ds-rdata:     41389 8 2 D1AE5019CB2D29DAB235359FE6250CDDD84C83214DEAE65E7A1AB385D2050BF2
 
 whois:        whois.nic.work
 
 status:       ACTIVE
-remarks:      Registration information: http://mm-registry.com/
+remarks:      Registration information: http://nic.work/
 
 created:      2014-08-18
-changed:      2019-08-22
+changed:      2022-07-18
 source:       IANA
 
