@@ -34,8 +34,7 @@ nserver:      A.NIC.CLOUD 2001:dcd:1:0:0:0:0:10 37.209.192.10
 nserver:      B.NIC.CLOUD 2001:dcd:2:0:0:0:0:10 37.209.194.10
 nserver:      C.NIC.CLOUD 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      D.NIC.CLOUD 2001:dcd:4:0:0:0:0:10 37.209.198.10
-ds-rdata:     49804 8 1 04B537D00C915E782432584948550BBB39FF88A0
-ds-rdata:     49804 8 2 7781C5D4ECF4BD0845B49D29B2E79BD1DA1865725096FAEB2D0393B78FD1049C
+ds-rdata:     23374 8 2 0503A8FB36BC97CF3FBA3B0186BE04364E5743B345A89288FD5DFB9672D73619
 
 whois:        whois.nic.cloud
 
@@ -43,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.getdotcloud.com
 
 created:      2015-06-18
-changed:      2020-06-02
+changed:      2022-07-21
 source:       IANA
 
