@@ -12,29 +12,28 @@ address:      Australia
 contact:      administrative
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      14455 North Hayden Rd.
-address:      Scottsdale, AZ 85260
+address:      2155 E GoDaddy Way
+address:      Tempe, AZ 85284
 address:      United States
 phone:        +1 480-505-8800
-fax-no:       +1 480-393-4275
+fax-no:       +1 480-624-2546
 e-mail:       iana@registry.godaddy
 
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      14455 North Hayden Rd.
-address:      Scottsdale, AZ 85260
+address:      2155 E GoDaddy Way
+address:      Tempe, AZ 85284
 address:      United States
 phone:        +1 480-505-8800
-fax-no:       +1 480-393-4275
+fax-no:       +1 480-624-2546
 e-mail:       iana@registry.godaddy
 
 nserver:      A.NIC.SYDNEY 2001:dcd:1:0:0:0:0:10 37.209.192.10
 nserver:      B.NIC.SYDNEY 2001:dcd:2:0:0:0:0:10 37.209.194.10
 nserver:      C.NIC.SYDNEY 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      D.NIC.SYDNEY 2001:dcd:4:0:0:0:0:10 37.209.198.10
-ds-rdata:     55807 8 2 8FEECD2CA0AF01AAC8D261B48E9C4F1AFE8A143ED47F3783443C11BD9A1ED38C
-ds-rdata:     55807 8 1 AC954040A2F5F44232A82BE3FBAA328E9912E99A
+ds-rdata:     38014 8 2 A5CD19204CA09E64B3A91AA6BF40955E4B7553CF8F288B15D4CE93B4A0B428BE
 
 whois:        whois.nic.sydney
 
@@ -43,6 +42,6 @@ remarks:      Registration information:
 remarks:      http://www.ariservices.com/dotsydney
 
 created:      2014-10-30
-changed:      2020-10-19
+changed:      2022-07-21
 source:       IANA
 
