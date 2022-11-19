@@ -5,40 +5,35 @@
 domain:       LONDON
 
 organisation: Dot London Domains Limited
-address:      London & Partners, 6th Floor, 2 More London Riverside, London, SE1 2RR
+address:      London & Partners, 169 Union Street, London SE1 0LL
 address:      United Kingdom
 
 contact:      administrative
 name:         IT Systems Lead
 organisation: London & Partners
-address:      6th Floor
-address:      2 More London Riverside
-address:      London, SE1 2RR
+address:      169 Union Street,
+address:      London SE1 0LL
 address:      United Kingdom
-phone:        +1-877-734-4783
+phone:        +44 (0)20 7234 5853
 e-mail:       contact@domains.london
 
 contact:      technical
-name:         TLD Registry Services Technical
-organisation: Nominet
-address:      Minerva House,
-address:      Edmund Halley Road,
-address:      Oxford Science Park,
-address:      Oxford,
-address:      OX4 4DQ
+name:         CTO
+organisation: CentralNic
+address:      Saddlers House, 4th Floor 44 Gutter Lane
+address:      London
+address:      EC2V 6BR
 address:      United Kingdom
-phone:        +44.1865332211
-e-mail:       registrytechnical@nominet.uk
+phone:        +44.2033880600
+fax-no:       +44.2033880601
+e-mail:       tld.ops@centralnic.com
 
-nserver:      DNS1.NIC.LONDON 213.248.217.28 2a01:618:401:0:0:0:0:28
-nserver:      DNS2.NIC.LONDON 103.49.81.28 2401:fd80:401:0:0:0:0:28
-nserver:      DNS3.NIC.LONDON 213.248.221.28 2a01:618:405:0:0:0:0:28
-nserver:      DNS4.NIC.LONDON 2401:fd80:405:0:0:0:0:28 43.230.49.28
-nserver:      DNSA.NIC.LONDON 156.154.100.3 2001:502:ad09:0:0:0:0:3
-nserver:      DNSB.NIC.LONDON 156.154.101.3
-nserver:      DNSC.NIC.LONDON 156.154.102.3
-nserver:      DNSD.NIC.LONDON 156.154.103.3
+nserver:      A.NIC.LONDON 194.169.218.141 2001:67c:13cc:0:0:0:1:141
+nserver:      B.NIC.LONDON 185.24.64.141 2a04:2b00:13cc:0:0:0:1:141
+nserver:      C.NIC.LONDON 212.18.248.141 2a04:2b00:13ee:0:0:0:0:141
+nserver:      D.NIC.LONDON 212.18.249.141 2a04:2b00:13ff:0:0:0:0:141
 ds-rdata:     11861 8 2 5083FACFD25EDC276C25D2D3DA986F370C82BF31A01821ABF462C35800548F77
+ds-rdata:     9956 8 2 dded8bee7362bbbf9f4186b413c901ff293f5897412fd92e5ef507765d0a6443
 
 whois:        whois.nic.london
 
@@ -47,6 +42,6 @@ remarks:      Registration information:
 remarks:      http://dotlondondomains.london/
 
 created:      2014-02-13
-changed:      2019-08-22
+changed:      2021-10-13
 source:       IANA
 
