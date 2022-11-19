@@ -5,15 +5,14 @@
 domain:       SN
 
 organisation: Universite Cheikh Anta Diop
-organisation: NIC Senegal
-address:      B.P. 5005
-address:      Dakar-Fann
+address:      CURI - NIC SENEGAL
+address:      Campus UCAD 3
+address:      B.P. 5005 - Dakar-Fann
 address:      Senegal
 
 contact:      administrative
 name:         Gestionnaire administratif
-organisation: Ecole Superieure Polytechnique
-organisation: Departement Genie Informatique
+organisation: Centre Universitaire de Recherche et de formations aux technologies Internet (CURI)
 address:      BP 16370
 address:      Dakar-Fann
 address:      Senegal
@@ -22,12 +21,11 @@ e-mail:       tldsn-admin@nic.sn
 
 contact:      technical
 name:         Gestionnaire Technique
-organisation: NIC Senegal
+organisation: CURI - NIC Senegal
 address:      BP 16370
 address:      Dakar-Fann
 address:      Senegal
 phone:        +221 33 821 91 90
-fax-no:       +221 33 821 91 90
 e-mail:       tldsn-tech@nic.sn
 
 nserver:      CENSVRNS0001.IRD.FR 91.203.32.147
@@ -35,7 +33,7 @@ nserver:      NS-SN.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
 nserver:      NS.UCAD.SN 196.1.95.1
 nserver:      NS1.SONATEL.SN 213.154.64.11
 nserver:      SN.CCTLD.AUTHDNS.RIPE.NET 193.0.9.111 2001:67c:e0:0:0:0:0:111
-ds-rdata:     37490 13 2 6ce29e69e92e5f8de3bf219fdcc917c859592f0cb40060e4f0488963b6f15d5a
+ds-rdata:     36827 13 2 992ED3A8CD111420E26FD9A8B8885C3BEAFA13507EB0606449AEA1DADC21B25F
 
 whois:        whois.nic.sn
 
@@ -43,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.sn
 
 created:      1993-03-19
-changed:      2020-11-03
+changed:      2022-07-26
 source:       IANA
 
