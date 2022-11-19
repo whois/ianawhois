@@ -22,26 +22,25 @@ e-mail:       dmsgovernance@aig.com
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      14455 North Hayden Rd.
-address:      Scottsdale, AZ 85260
+address:      2155 E GoDaddy Way
+address:      Tempe, AZ 85284
 address:      United States
-phone:        +1 480-505-8800
-fax-no:       +1 480-393-4275
+phone:        +1 480 505 8800
+fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
 
+nserver:      A.NIC.AIG 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.AIG 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.AIG 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.AIG 156.154.144.6 2610:a1:1071:0:0:0:0:6
 nserver:      NS2.DNS.NIC.AIG 156.154.145.6 2610:a1:1072:0:0:0:0:6
 nserver:      NS3.DNS.NIC.AIG 156.154.159.6 2610:a1:1073:0:0:0:0:6
-nserver:      NS4.DNS.NIC.AIG 156.154.156.6 2610:a1:1074:0:0:0:0:6
-nserver:      NS5.DNS.NIC.AIG 156.154.157.6 2610:a1:1075:0:0:0:0:6
-nserver:      NS6.DNS.NIC.AIG 156.154.158.6 2610:a1:1076:0:0:0:0:6
-ds-rdata:     18790 8 2 20CDC95E557C99DA4E1F20A1B08462664F048B2BAA6735000CD85AD11035D65E
-ds-rdata:     18790 8 1 D278A78A40A47896B96CFF560DC21E7F0EDDB173
+ds-rdata:     18592 8 2 5561856A59F0B23749C885D4DD398A52B087ED06216DAEE0AEB88B965C4F6994
 
 status:       ACTIVE
 remarks:      Registration information: http://www.aig.com
 
 created:      2015-04-09
-changed:      2020-10-12
+changed:      2022-07-21
 source:       IANA
 
