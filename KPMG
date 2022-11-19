@@ -21,26 +21,25 @@ e-mail:       domainadmin@kpmg.com
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      14455 North Hayden Rd.
-address:      Scottsdale, AZ 85260
+address:      2155 E GoDaddy Way
+address:      Tempe, AZ 85284
 address:      United States
-phone:        +1 480-505-8800
-fax-no:       +1 480-393-4275
+phone:        +1 480 505 8800
+fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
 
+nserver:      A.NIC.KPMG 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.KPMG 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.KPMG 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.KPMG 156.154.144.98 2610:a1:1071:0:0:0:0:62
 nserver:      NS2.DNS.NIC.KPMG 156.154.145.98 2610:a1:1072:0:0:0:0:62
 nserver:      NS3.DNS.NIC.KPMG 156.154.159.98 2610:a1:1073:0:0:0:0:62
-nserver:      NS4.DNS.NIC.KPMG 156.154.156.98 2610:a1:1074:0:0:0:0:62
-nserver:      NS5.DNS.NIC.KPMG 156.154.157.98 2610:a1:1075:0:0:0:0:62
-nserver:      NS6.DNS.NIC.KPMG 156.154.158.98 2610:a1:1076:0:0:0:0:62
-ds-rdata:     49339 8 2 AE29DD8A4FE769F9C9D8B76861AFFBBB33DF50C3C12B65429B17A2393908334F
-ds-rdata:     49339 8 1 7EA7C5EEF28BF0593D031531CBF453956CF38AD1
+ds-rdata:     35407 8 2 9FAA34C98DC55567CDB910E3D068D6E6ADC6646AE8E1085678D41498C0DF9D42
 
 status:       ACTIVE
 remarks:      Registration information: https://home.kpmg.com
 
 created:      2016-01-14
-changed:      2020-11-13
+changed:      2022-07-21
 source:       IANA
 
