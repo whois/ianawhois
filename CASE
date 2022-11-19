@@ -21,22 +21,22 @@ phone:        +44 1268 292545
 e-mail:       ngtld-cnh@cscglobal.com
 
 contact:      technical
-name:         Senior Director, DNS Infrastructure Group
-organisation: Afilias
-address:      Building 3, Suite 105
-address:      300 Welsh Road
-address:      Horsham, PA 19044
-address:      United States
-phone:        +1 215.706.5700
-fax-no:       +1 215.706.5701
-e-mail:       tld-tech-poc@afilias.info
+name:         CTO
+organisation: CentralNic
+address:      Saddlers House 4th Floor 44 Gutter Lane London EC2V 6BR
+address:      United Kingdom
+phone:        +44 20 33 88 0600
+fax-no:       +44 20 33 88 0601
+e-mail:       tld.ops@centralnic.com
 
-nserver:      A0.NIC.CASE 2a01:8840:76:0:0:0:0:17 65.22.120.17
-nserver:      A2.NIC.CASE 2a01:8840:79:0:0:0:0:17 65.22.123.17
-nserver:      B0.NIC.CASE 2a01:8840:77:0:0:0:0:17 65.22.121.17
-nserver:      C0.NIC.CASE 2a01:8840:78:0:0:0:0:17 65.22.122.17
+nserver:      A.NIC.CASE 194.169.218.140 2001:67c:13cc:0:0:0:1:140
+nserver:      B.NIC.CASE 185.24.64.140 2a04:2b00:13cc:0:0:0:1:140
+nserver:      C.NIC.CASE 212.18.248.140 2a04:2b00:13ee:0:0:0:0:140
+nserver:      D.NIC.CASE 212.18.249.140 2a04:2b00:13ff:0:0:0:0:140
 ds-rdata:     5844 7 1 d1af65d9493fe00bc5bc2ded27b91f870645d559
 ds-rdata:     5844 7 2 4f478b408da99cb2d196cd2d61a8872b5d2f5a578fbd25e73f4ec19bc4f58579
+ds-rdata:     53709 7 1 eb8abdcde220029a7dd36547ca1a028c7d23c76a
+ds-rdata:     53709 7 2 71056e4ea918dc68b82a74e22d56519ae1a26c7ca756b754893cbbc10a0affee
 
 whois:        whois.nic.case
 
@@ -44,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.cnhindustrial.com
 
 created:      2016-10-27
-changed:      2017-07-20
+changed:      2021-09-29
 source:       IANA
 
