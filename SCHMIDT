@@ -4,37 +4,34 @@
 
 domain:       SCHMIDT
 
-organisation: SALM S.A.S.
+organisation: SCHMIDT GROUPE S.A.S.
 address:      5, rue Clemenceau
 address:      68660 LIEPVRE
 address:      France
 
 contact:      administrative
-name:         Francine Hattermann
-organisation: SALM S.A.S.
+name:         Virginie Parent
+organisation: SCHMIDT GROUPE S.A.S.
 address:      5, rue Clemenceau
 address:      68660 LIEPVRE
 address:      France
-phone:        +33389582524
-fax-no:       +33389582591
+phone:        +33613993433
 e-mail:       administrative-contact-schmidt@salm.fr
 
 contact:      technical
-name:         Patrick Haist
-organisation: SALM S.A.S.
+name:         Michel Wilt
+organisation: SCHMIDT GROUPE S.A.S.
 address:      5, rue Clemenceau
 address:      68660 LIEPVRE
 address:      France
-phone:        +33389582376
-fax-no:       +33389582591
+phone:        +33603630483
 e-mail:       technical-contact-schmidt@salm.fr
 
 nserver:      A.NIC.SCHMIDT 2001:dcd:1:0:0:0:0:9 37.209.192.9
 nserver:      B.NIC.SCHMIDT 2001:dcd:2:0:0:0:0:9 37.209.194.9
 nserver:      C.NIC.SCHMIDT 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      D.NIC.SCHMIDT 2001:dcd:4:0:0:0:0:9 37.209.198.9
-ds-rdata:     28984 8 1 90F1F19DCC8DA1C7F02E55312A56F97441AFBCEC
-ds-rdata:     28984 8 2 9F31551190E5D70444A48063BEC7AF1FFCB87D21751AAAE0A4D97B012FE53E15
+ds-rdata:     44854 8 2 D1351C74070E9E2B0DCE546B4814DF0ADFF4E289B1F5F3C6FDDDDD6A8CA1E33B
 
 whois:        whois.nic.schmidt
 
@@ -42,6 +39,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.schmidt/
 
 created:      2014-06-19
-changed:      2020-06-02
+changed:      2022-07-21
 source:       IANA
 
