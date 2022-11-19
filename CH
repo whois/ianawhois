@@ -31,12 +31,10 @@ e-mail:       dns-operation@switch.ch
 
 nserver:      A.NIC.CH 130.59.31.41 2001:620:0:ff:0:0:0:56
 nserver:      B.NIC.CH 130.59.31.43 2001:620:0:ff:0:0:0:58
-nserver:      C.NIC.CH 2620:7d:e000:0:0:0:0:28 74.116.178.40
+nserver:      D.NIC.CH 194.0.25.39 2001:678:20:0:0:0:0:39
 nserver:      E.NIC.CH 194.0.17.1 2001:678:3:0:0:0:0:1
 nserver:      F.NIC.CH 194.146.106.10 2001:67c:1010:2:0:0:0:53
-nserver:      G.NIC.CH 194.0.1.40 2001:678:4:0:0:0:0:28
-nserver:      H.NIC.CH 2a03:bd80:36:0:0:1:203:230 85.119.5.230
-ds-rdata:     1053 13 2 94D834BEF7536BFE6ECB4682E1151BDD4882CA12C6DB2C1AA64CB0E9D4DA5222
+ds-rdata:     11648 13 2 761408E4182706F4DAED906F81B5B1677FE1752C2B0794FF3F262FA1EF760519
 
 whois:        whois.nic.ch
 
@@ -44,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.nic.ch/
 
 created:      1987-05-20
-changed:      2020-11-13
+changed:      2021-12-13
 source:       IANA
 
