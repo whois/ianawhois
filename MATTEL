@@ -20,26 +20,25 @@ e-mail:       proxyadm@mattel.com
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      14455 North Hayden Rd.
-address:      Scottsdale, AZ 85260
+address:      2155 E GoDaddy Way
+address:      Tempe, AZ 85284
 address:      United States
-phone:        +1 480-505-8800
-fax-no:       +1 480-393-4275
+phone:        +1 480 505 8800
+fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
 
+nserver:      A.NIC.MATTEL 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.MATTEL 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.MATTEL 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.MATTEL 156.154.144.109 2610:a1:1071:0:0:0:0:6d
 nserver:      NS2.DNS.NIC.MATTEL 156.154.145.109 2610:a1:1072:0:0:0:0:6d
 nserver:      NS3.DNS.NIC.MATTEL 156.154.159.109 2610:a1:1073:0:0:0:0:6d
-nserver:      NS4.DNS.NIC.MATTEL 156.154.156.109 2610:a1:1074:0:0:0:0:6d
-nserver:      NS5.DNS.NIC.MATTEL 156.154.157.109 2610:a1:1075:0:0:0:0:6d
-nserver:      NS6.DNS.NIC.MATTEL 156.154.158.109 2610:a1:1076:0:0:0:0:6d
-ds-rdata:     23272 8 2 141DDB77EF0948051EF067975552354620B3DD68DA7923FFA952F1F3149995F3
-ds-rdata:     23272 8 1 A10D9EE87253B49208B47A47CAE0D76CF8897523
+ds-rdata:     59044 8 2 66F510D9469E77AE174BEA4F42E1215AFD837C2A27C9F0095BBBC3A3E2BA4CA4
 
 status:       ACTIVE
 remarks:      Registration information: http://www.mattel.com
 
 created:      2016-01-22
-changed:      2020-10-12
+changed:      2022-07-21
 source:       IANA
 
