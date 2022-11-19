@@ -4,47 +4,42 @@
 
 domain:       SURF
 
-organisation: Minds + Machines Group Limited
-address:      Craigmuir Chambers, Road Town Tortola VG 1110
-address:      Virgin Islands, British
+organisation: Registry Services, LLC
+address:      2155 E. GoDaddy Way
+address:      Tempe AZ 85284
+address:      United States
 
 contact:      administrative
-name:         Admin Contact
-organisation: Minds + Machines Ltd
-address:      32 Nassau St, Dublin 2
-address:      Ireland
-phone:        +1-877-734-4783
-e-mail:       ops@mmx.co
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      2155 E GoDaddy Way
+address:      Tempe AZ 85284
+address:      United States
+phone:        +1 480-505-8800
+fax-no:       +1 480-624-2546
+e-mail:       iana@registry.godaddy
 
 contact:      technical
-name:         TLD Registry Services Technical
-organisation: Nominet
-address:      Nominet
-address:      Address: Minerva House,
-address:      Edmund Halley Road,
-address:      Oxford Science Park,
-address:      Oxford,
-address:      OX4 4DQ
-address:      United Kingdom
-phone:        +44.1865332211
-e-mail:       registrytechnical@nominet.uk
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      2155 E GoDaddy Way, Tempe AZ 85284
+address:      United States
+phone:        +1 480-505-8800
+fax-no:       +1 480-624-2546
+e-mail:       iana@registry.godaddy
 
-nserver:      DNS1.NIC.SURF 213.248.217.31 2a01:618:401:0:0:0:0:31
-nserver:      DNS2.NIC.SURF 103.49.81.31 2401:fd80:401:0:0:0:0:31
-nserver:      DNS3.NIC.SURF 213.248.221.31 2a01:618:405:0:0:0:0:31
-nserver:      DNS4.NIC.SURF 2401:fd80:405:0:0:0:0:31 43.230.49.31
-nserver:      DNSA.NIC.SURF 156.154.100.3 2001:502:ad09:0:0:0:0:3
-nserver:      DNSB.NIC.SURF 156.154.101.3
-nserver:      DNSC.NIC.SURF 156.154.102.3
-nserver:      DNSD.NIC.SURF 156.154.103.3
-ds-rdata:     50807 8 2 92DBEC0CFF4127171B2DBEB60CE4A787B1A8A42EB80A0BBF666D84A60AD12979
+nserver:      A.NIC.SURF 2001:dcd:1:0:0:0:0:10 37.209.192.10
+nserver:      B.NIC.SURF 2001:dcd:2:0:0:0:0:10 37.209.194.10
+nserver:      C.NIC.SURF 2001:dcd:3:0:0:0:0:10 37.209.196.10
+nserver:      D.NIC.SURF 2001:dcd:4:0:0:0:0:10 37.209.198.10
+ds-rdata:     42349 8 2 F4D78E449D9BF4C11668DF78A7A3F5747797EF8DC5304270EF0574716C0C803C
 
 whois:        whois.nic.surf
 
 status:       ACTIVE
-remarks:      Registration information: http://mm-registry.com
+remarks:      Registration information: http://nic.surf/
 
 created:      2014-03-13
-changed:      2019-08-22
+changed:      2022-07-18
 source:       IANA
 
