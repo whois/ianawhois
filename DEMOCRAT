@@ -4,40 +4,39 @@
 
 domain:       DEMOCRAT
 
-organisation: United TLD Holdco Ltd.
-address:      One Claredon Row
-address:      Dublin 2 Co.
-address:      Dublin
-address:      Ireland
+organisation: Dog Beach, LLC
+address:      Donuts Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
+address:      United States
 
 contact:      administrative
-name:         Serina Ness
+name:         Vice President, Engineering
 organisation: Donuts Inc.
-address:      Donuts Inc.
-address:      5808 Lake Washington Blvd NE, Suite 300
-address:      Kirkland, WA 98033
-address:      United States
-phone:        +1.425.283.8248
-fax-no:       +1.425.671.0020
-e-mail:       serina@donuts.email
-
-contact:      technical
-name:         Ben Levac
-organisation: Donuts Inc.
-address:      Donuts Inc.
-address:      5808 Lake Washington Blvd NE, Suite 300
-address:      Kirkland, WA 98033
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
 address:      United States
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       ben@donuts.email
+e-mail:       tldadmin@donuts.email
 
-nserver:      DEMAND.ALPHA.ARIDNS.NET.AU 2001:dcd:1:0:0:0:0:7 37.209.192.7
-nserver:      DEMAND.BETA.ARIDNS.NET.AU 2001:dcd:2:0:0:0:0:7 37.209.194.7
-nserver:      DEMAND.DELTA.ARIDNS.NET.AU 2001:dcd:4:0:0:0:0:7 37.209.198.7
-nserver:      DEMAND.GAMMA.ARIDNS.NET.AU 2001:dcd:3:0:0:0:0:7 37.209.196.7
-ds-rdata:     46891 8 1 18B2B870A676009D20020B8A72A049A2C2A4AB31
-ds-rdata:     46891 8 2 033C2923E0F9A776F80BE1739B0F7D825ADC0EE4B737B987D57B60AE38C36885
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Donuts Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
+address:      United States
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@donuts.email
+
+nserver:      V0N0.NIC.DEMOCRAT 2a01:8840:22:0:0:0:0:32 65.22.32.32
+nserver:      V0N1.NIC.DEMOCRAT 2a01:8840:23:0:0:0:0:32 65.22.33.32
+nserver:      V0N2.NIC.DEMOCRAT 2a01:8840:24:0:0:0:0:32 65.22.34.32
+nserver:      V0N3.NIC.DEMOCRAT 161.232.16.32 2a01:8840:fa:0:0:0:0:32
+nserver:      V2N0.NIC.DEMOCRAT 2a01:8840:25:0:0:0:0:32 65.22.35.32
+nserver:      V2N1.NIC.DEMOCRAT 161.232.17.32 2a01:8840:fb:0:0:0:0:32
+ds-rdata:     32314 8 2 225235f8fd2305949050d93caa91edba96fedb42fe018d125ccc0373776f0725
 
 whois:        whois.nic.democrat
 
@@ -45,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.donuts.domains/
 
 created:      2014-01-09
-changed:      2020-04-16
+changed:      2021-11-18
 source:       IANA
 
