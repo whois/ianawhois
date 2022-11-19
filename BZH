@@ -33,7 +33,7 @@ e-mail:       pocbzh@afnic.fr
 nserver:      D.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
 nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
 nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
-ds-rdata:     36173 13 2 1e10afc5b999f9b2d6298584b181e11cf9fa94ad04f4ecfd62ee96496570f872
+ds-rdata:     21101 13 2 1142355E16DA610E0872122F8E5F542EE0D3668ABB727F3A031E2C14757B2445
 
 whois:        whois.nic.bzh
 
@@ -41,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.pik.bzh
 
 created:      2014-05-29
-changed:      2020-07-22
+changed:      2022-07-22
 source:       IANA
 
