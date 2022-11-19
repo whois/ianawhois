@@ -33,14 +33,15 @@ e-mail:       dnsadmin@cnc.una.py
 nserver:      B.DNS.PY 200.160.0.5 2001:12ff:0:a20:0:0:0:5
 nserver:      C.DNS.PY 130.59.31.30 2001:620:0:ff:0:0:0:30
 nserver:      L.DNS.PY 200.0.68.10 2801:14:a000:0:0:0:0:10
-nserver:      M.DNS.PY 200.33.111.1
 nserver:      P.DNS.PY 2001:500:14:6107:ad:0:0:1 204.61.216.107
 nserver:      U.DNS.PY 198.6.1.65
+ds-rdata:     61306 13 2 5fba6a98277300d23512184ae3fc238c367f731d519f6ec9a63af9d4fbc9a435
+ds-rdata:     61306 13 4 609aa5b81513378f093ff57bb91296e85366d815e24680d1894e490cdafae188d7214db1b0e453bce2d5340dd921b1ba
 
 status:       ACTIVE
 remarks:      Registration information: http://www.nic.py
 
 created:      1991-09-09
-changed:      2020-11-27
+changed:      2022-07-15
 source:       IANA
 
