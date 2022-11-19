@@ -27,6 +27,7 @@ address:      France
 phone:        +590 590 571 090
 e-mail:       cplustelecom.exploit-sys@canal-plus.com
 
+nserver:      NS1-FR.MEDIASERV.NET 185.56.51.194
 nserver:      NS1-GP.MEDIASERV.NET 213.188.172.1
 nserver:      NS1-MQ.MEDIASERV.NET 213.16.20.3
 
@@ -36,6 +37,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.dom-enic.com
 
 created:      1996-07-25
-changed:      2020-10-27
+changed:      2021-10-18
 source:       IANA
 
