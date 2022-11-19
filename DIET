@@ -4,51 +4,48 @@
 
 domain:       DIET
 
-organisation: UNR Corp.
-address:      Third Floor, Monaco Towers, Georgetown
-address:      Grand Cayman, Cayman Islands
-address:      30369SMB-KY11202
-address:      Cayman Islands
+organisation: XYZ.COM LLC
+address:      2121 E Tropicana Ave, Suite 2
+address:      Las Vegas, NV 89119
+address:      United States
 
 contact:      administrative
-name:         Frank Schilling
-organisation: UNR Corp.
-address:      Third Floor, Monaco Towers, Georgetown
-address:      Grand Cayman, Cayman Islands
-address:      30369SMB-KY11202
-address:      Cayman Islands
-phone:        +1 345 746 3687 
-fax-no:       +1 345 746 3687 
-e-mail:       contact@unr.com
+name:         General Counsel
+organisation: XYZ.COM LLC
+address:      2121 E Tropicana Ave, Suite 2
+address:      Las Vegas, NV 89119
+address:      United States
+phone:        +1 702 763 2191
+e-mail:       hello@xyz.com
 
 contact:      technical
-name:         Francisco Obispo
-organisation: UNR Corp.
-address:      Third Floor, Monaco Towers, Georgetown
-address:      Grand Cayman, Cayman Islands
-address:      30369SMB-KY11202
-address:      Cayman Islands
-phone:        +1 345 746 3687 
-fax-no:       +1 345 746 3687 
-e-mail:       ops@unr.com
+name:         CTO
+organisation: CentralNic
+address:      Saddlers House, 4th Floor
+address:      44 Gutter Lane
+address:      London EC2V 6BR
+address:      United Kingdom
+phone:        +44 20 33 88 0600
+fax-no:       +44 20 33 88 0601
+e-mail:       tld.ops@centralnic.com
 
-nserver:      NS1.UNIREGISTRY.NET 2620:57:4000:1:0:0:0:1 64.96.1.1
-nserver:      NS2.UNIREGISTRY.INFO 64.96.2.1
-nserver:      NS3.UNIREGISTRY.NET 185.159.197.3 2620:10a:80aa:0:0:0:0:3
-nserver:      NS4.UNIREGISTRY.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
-ds-rdata:     65092 5 1 CBB0EA9B71630F0AD22B4C2D688DC42709A2C5A8
-ds-rdata:     65092 5 2 D73BBC64D90C3078B5019D4CA616C0B9849F52A1A20474DD95D11CBA68BBFD60
+nserver:      A.NIC.DIET 194.169.218.145 2001:67c:13cc:0:0:0:1:145
+nserver:      B.NIC.DIET 185.24.64.145 2a04:2b00:13cc:0:0:0:1:145
+nserver:      C.NIC.DIET 212.18.248.145 2a04:2b00:13ee:0:0:0:0:145
+nserver:      D.NIC.DIET 212.18.249.145 2a04:2b00:13ff:0:0:0:0:145
 ds-rdata:     2464 5 2 A2624874743790CB52066E9B50B06EBF915DC80355E2F9C10094295DE2ADDFB7
 ds-rdata:     11962 5 2 A3D113A8AF70BC8B9D35FC555A0EC7474482383FC4F73CA605F0EC498288FDC9
 ds-rdata:     11962 5 1 5D42445C9C0AA2C65F6B9E23F90B3D5C30C4A256
 ds-rdata:     2464 5 1 58AB5506CD049DDD784C487957D5D87C44E238B0
+ds-rdata:     35167 5 1 91aadeac68b9579fc6602ca5fcc770bcfb7536b5
+ds-rdata:     35167 5 2 64ece39f08b2542cfd13d6c484e25f29b2bb29fba98e082dd5294f9011f73020
 
-whois:        whois.uniregistry.net
+whois:        whois.nic.diet
 
 status:       ACTIVE
-remarks:      Registration information: http://uniregistry.link
+remarks:      Registration information: https://nic.diet
 
 created:      2014-08-15
-changed:      2020-11-03
+changed:      2022-08-16
 source:       IANA
 
