@@ -6,38 +6,37 @@ domain:       GRAPHICS
 
 organisation: Binky Moon, LLC
 address:      Donuts Inc.
-address:      5808 Lake Washington Blvd NE, Suite 300
-address:      Kirkland, WA 98033
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
 address:      United States
 
 contact:      administrative
-name:         Serina Ness
+name:         Vice President, Engineering
 organisation: Donuts Inc.
-address:      Donuts Inc.
-address:      5808 Lake Washington Blvd NE, Suite 300
-address:      Kirkland, WA 98033
-address:      United States
-phone:        +1.425.283.8248
-fax-no:       +1.425.671.0020
-e-mail:       serina@donuts.email
-
-contact:      technical
-name:         Ben Levac
-organisation: Donuts Inc.
-address:      Donuts Inc.
-address:      5808 Lake Washington Blvd NE, Suite 300
-address:      Kirkland, WA 98033
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
 address:      United States
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       ben@donuts.email
+e-mail:       tldadmin@donuts.email
 
-nserver:      DEMAND.ALPHA.ARIDNS.NET.AU 2001:dcd:1:0:0:0:0:7 37.209.192.7
-nserver:      DEMAND.BETA.ARIDNS.NET.AU 2001:dcd:2:0:0:0:0:7 37.209.194.7
-nserver:      DEMAND.DELTA.ARIDNS.NET.AU 2001:dcd:4:0:0:0:0:7 37.209.198.7
-nserver:      DEMAND.GAMMA.ARIDNS.NET.AU 2001:dcd:3:0:0:0:0:7 37.209.196.7
-ds-rdata:     1054 8 2 46D4A73AD3DD14DB224D61FF96C40216B2396F9654090256244B4562E94CABF9
-ds-rdata:     1054 8 1 2022EDA914FDB2DFE9D1BC38D24F326C627A949B
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Donuts Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
+address:      United States
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@donuts.email
+
+nserver:      V0N0.NIC.GRAPHICS 2a01:8840:1e:0:0:0:0:20 65.22.28.20
+nserver:      V0N1.NIC.GRAPHICS 2a01:8840:1f:0:0:0:0:20 65.22.29.20
+nserver:      V0N2.NIC.GRAPHICS 2a01:8840:20:0:0:0:0:20 65.22.30.20
+nserver:      V0N3.NIC.GRAPHICS 161.232.14.20 2a01:8840:f8:0:0:0:0:20
+nserver:      V2N0.NIC.GRAPHICS 2a01:8840:21:0:0:0:0:20 65.22.31.20
+nserver:      V2N1.NIC.GRAPHICS 161.232.15.20 2a01:8840:f9:0:0:0:0:20
+ds-rdata:     50656 8 2 72b3a23f71a09cdb43c5c5c1f9717de3c722a1efef355b11789661b46891f3af
 
 whois:        whois.nic.graphics
 
@@ -45,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.donuts.domains/
 
 created:      2013-11-08
-changed:      2020-04-17
+changed:      2021-11-10
 source:       IANA
 
