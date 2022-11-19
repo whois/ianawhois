@@ -28,7 +28,7 @@ address:      8th Circle Bayader Wadi Al Seer
 address:      P.O. Box 9903
 address:      Amman 11191
 address:      Jordan
-phone:        +962 6 5805700
+phone:        +962 6 5300263
 fax-no:       +962 6 5861059
 e-mail:       dns@modee.gov.jo
 
@@ -39,9 +39,9 @@ nserver:      PETRA.NIC.GOV.JO 193.188.66.2
 nserver:      RIP.PSG.COM 147.28.0.39 2001:418:1:0:0:0:0:39
 
 status:       ACTIVE
-remarks:      Registration information: https://www.dns.jo/login.aspx
+remarks:      Registration information: https://www.dns.jo
 
 created:      1994-11-23
-changed:      2021-01-27
+changed:      2022-09-12
 source:       IANA
 
