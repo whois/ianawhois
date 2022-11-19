@@ -31,7 +31,7 @@ e-mail:       techcl@nic.cl
 
 nserver:      A.NIC.CL 190.124.27.10 2001:1398:121:0:190:124:27:10
 nserver:      B.NIC.CL 200.7.4.7 2001:1398:274:0:200:7:4:7
-nserver:      C.NIC.CL 200.16.112.16
+nserver:      C.NIC.CL 200.16.112.16 2001:1398:275:0:200:16:112:16
 nserver:      CL-NS.ANYCAST.PCH.NET 2001:500:14:6030:ad:0:0:1 204.61.216.30
 nserver:      CL1-TLD.D-ZONE.CA 185.159.197.56 2620:10a:80aa:0:0:0:0:56
 nserver:      CL1.DNSNODE.NET 194.146.106.34 2001:67c:1010:8:0:0:0:53
@@ -43,7 +43,7 @@ whois:        whois.nic.cl
 status:       ACTIVE
 remarks:      Registration information: http://www.nic.cl/
 
-created:      1995-01-27
-changed:      2020-10-10
+created:      1987-12-15
+changed:      2021-05-28
 source:       IANA
 
