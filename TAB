@@ -34,8 +34,7 @@ nserver:      A.NIC.TAB 2001:dcd:1:0:0:0:0:9 37.209.192.9
 nserver:      B.NIC.TAB 2001:dcd:2:0:0:0:0:9 37.209.194.9
 nserver:      C.NIC.TAB 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      D.NIC.TAB 2001:dcd:4:0:0:0:0:9 37.209.198.9
-ds-rdata:     56236 8 1 BFF32D8C77CA8BB02EA0AA95A21CFE19FB03681A
-ds-rdata:     56236 8 2 AF2B93EA3DCA4DC5718573F1E2F5DC1ACC79B010549F25CE442683787E3E1829
+ds-rdata:     12205 8 2 BF58E40EA4764E2E24254DCB7A365D90ACA26773209827EE0A41BE128CA1F977
 
 whois:        whois.nic.tab
 
@@ -43,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.tab
 
 created:      2015-09-04
-changed:      2020-06-02
+changed:      2022-07-21
 source:       IANA
 
