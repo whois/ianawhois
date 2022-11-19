@@ -17,8 +17,8 @@ address:      12/F, Daily House
 address:      35-37 Haiphong Road
 address:      Tsim Sha Tsui, Kowloon
 address:      Hong Kong
-phone:        +852 2244 7900
-fax-no:       +852 2244 7902
+phone:        +852 8171 1714
+fax-no:       +852 2125 8484
 e-mail:       admin@iana.whois.asia
 
 contact:      technical
@@ -28,8 +28,8 @@ address:      12/F, Daily House
 address:      35-37 Haiphong Road
 address:      Tsim Sha Tsui, Kowloon
 address:      Hong Kong
-phone:        +852 2244 7900
-fax-no:       +852 2244 7902
+phone:        +852 8171 1714
+fax-no:       +852 2125 8484
 e-mail:       tech@iana.whois.asia
 
 nserver:      A0.ASIA.AFILIAS-NST.INFO 199.19.55.1 2001:500:d:0:0:0:0:1
@@ -46,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.registry.asia
 
 created:      2007-05-02
-changed:      2020-11-20
+changed:      2021-07-22
 source:       IANA
 
