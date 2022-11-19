@@ -22,28 +22,32 @@ fax-no:       +34 91 537 72 34
 e-mail:       dietmar.lenden@valideus.com
 
 contact:      technical
-name:         Registry Customer Service
-organisation: Verisign, Inc.
-address:      12061 Bluemont Way
-address:      Reston, Virginia 20190
-address:      United States
-phone:        +1-703-925-6999
-fax-no:       +1-703-948-3978
-e-mail:       info@verisign-grs.com
+name:         TLD Registry Services Technical
+organisation: Nominet
+address:      Minerva House,
+address:      Edmund Halley Road,
+address:      Oxford Science Park,
+address:      Oxford
+address:      OX4 4DQ
+address:      United Kingdom
+phone:        +44.1865332211
+e-mail:       registrytechnical@nominet.uk
 
-nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
-nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
-nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
-nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
-ds-rdata:     32169 8 2 25546D1F276A9E71422C3F7835750C7693A070F75D96B455DD28D7F4EDD01D57
+nserver:      DNS1.NIC.BBVA 213.248.219.44 2a01:618:403:0:0:0:0:44
+nserver:      DNS2.NIC.BBVA 103.49.83.44 2401:fd80:403:0:0:0:0:44
+nserver:      DNS3.NIC.BBVA 213.248.223.44 2a01:618:407:0:0:0:0:44
+nserver:      DNS4.NIC.BBVA 2401:fd80:407:0:0:0:0:44 43.230.51.44
+nserver:      DNSA.NIC.BBVA 156.154.100.3 2001:502:ad09:0:0:0:0:3
+nserver:      DNSB.NIC.BBVA 156.154.101.3 2001:502:2eda:0:0:0:0:3
+nserver:      DNSC.NIC.BBVA 156.154.102.3 2610:a1:1009:0:0:0:0:3
+nserver:      DNSD.NIC.BBVA 156.154.103.3 2610:a1:1010:0:0:0:0:3
+ds-rdata:     30962 8 2 E800C51F8933F6EB2F234B542F1C83C8E703D9448BFF8AAC4356EDC1EB6AD7C9
 
 whois:        whois.nic.bbva
 
 status:       ACTIVE
-remarks:      Registration information:
-remarks:      http://www.bbva.com/TLBB/BBVA_branding/bbva_es.html
 
 created:      2015-04-23
-changed:      2021-01-26
+changed:      2021-11-10
 source:       IANA
 
