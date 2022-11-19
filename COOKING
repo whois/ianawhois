@@ -4,46 +4,42 @@
 
 domain:       COOKING
 
-organisation: Minds + Machines Group Limited
-address:      Craigmuir Chambers, Road Town Tortola VG 1110
-address:      Virgin Islands, British
+organisation: Registry Services, LLC
+address:      2155 E. GoDaddy Way
+address:      Tempe AZ 85284
+address:      United States
 
 contact:      administrative
-name:         Admin Contact
-organisation: Minds + Machines Ltd
-address:      32 Nassau St, Dublin 2
-address:      Ireland
-phone:        +1-877-734-4783
-e-mail:       ops@mmx.co
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      2155 E GoDaddy Way
+address:      Tempe AZ 85284
+address:      United States
+phone:        +1 480-505-8800
+fax-no:       +1 480-624-2546
+e-mail:       iana@registry.godaddy
 
 contact:      technical
-name:         TLD Registry Services Technical
-organisation: Nominet
-address:      Minerva House,
-address:      Edmund Halley Road,
-address:      Oxford Science Park,
-address:      Oxford,
-address:      OX4 4DQ
-address:      United Kingdom
-phone:        +44.1865332211
-e-mail:       registrytechnical@nominet.uk
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      2155 E GoDaddy Way, Tempe AZ 85284 US
+address:      United States
+phone:        +1 480-505-8800
+fax-no:       +1 480-624-2546
+e-mail:       iana@registry.godaddy
 
-nserver:      DNS1.NIC.COOKING 213.248.217.19 2a01:618:401:0:0:0:0:19
-nserver:      DNS2.NIC.COOKING 103.49.81.19 2401:fd80:401:0:0:0:0:19
-nserver:      DNS3.NIC.COOKING 213.248.221.19 2a01:618:405:0:0:0:0:19
-nserver:      DNS4.NIC.COOKING 2401:fd80:405:0:0:0:0:19 43.230.49.19
-nserver:      DNSA.NIC.COOKING 156.154.100.3 2001:502:ad09:0:0:0:0:3
-nserver:      DNSB.NIC.COOKING 156.154.101.3
-nserver:      DNSC.NIC.COOKING 156.154.102.3
-nserver:      DNSD.NIC.COOKING 156.154.103.3
-ds-rdata:     38020 8 2 76C110F1D94CBD33D6217F454AD0C198386789536138B865BE7F91E2E7D2AF34
+nserver:      A.NIC.COOKING 2001:dcd:1:0:0:0:0:10 37.209.192.10
+nserver:      B.NIC.COOKING 2001:dcd:2:0:0:0:0:10 37.209.194.10
+nserver:      C.NIC.COOKING 2001:dcd:3:0:0:0:0:10 37.209.196.10
+nserver:      D.NIC.COOKING 2001:dcd:4:0:0:0:0:10 37.209.198.10
+ds-rdata:     28069 8 2 CE234A5239CC651D9613917E4D5D4795EA8A0C7A63DB0C3AE69BB5FA6CABA352
 
 whois:        whois.nic.cooking
 
 status:       ACTIVE
-remarks:      Registration information: http://mmx.co
+remarks:      Registration information: http://nic.cooking/
 
 created:      2014-02-28
-changed:      2019-08-22
+changed:      2022-07-18
 source:       IANA
 
