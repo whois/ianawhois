@@ -4,32 +4,28 @@
 
 domain:       CAM
 
-organisation: AC Webconnecting Holding B.V.
-address:      WTC Beurs Plein 37
-address:      Kantoor 1556
-address:      Postbus 30006 3001DA Rotterdam
-address:      Netherlands
+organisation: CAM Connecting SARL
+address:      32 Rue de Remparts
+address:      Monaco, Monaco 98109
+address:      Monaco
 
 contact:      administrative
 name:         CTO
-organisation: AC Webconnecting Holding B.V.
-address:      WTC Beurs Plein 37
-address:      Kantoor 1556
-address:      Postbus 30006 3001DA Rotterdam
-address:      Netherlands
-phone:        +31 1 0 4 05 44 73
-fax-no:       +33 4 42 50 69 48
-e-mail:       dotcam@acwebconnecting.com
+organisation: CAM Connecting SARL
+address:      32 Rue de Remparts
+address:      Monaco, Monaco 98109
+address:      Monaco
+phone:        +37799907255
+e-mail:       info@nic.cam
 
 contact:      technical
 name:         CTO
 organisation: CentralNic
-address:      Saddlers House, 4th Floor
-address:      44 Gutter Lane
+address:      Saddlers House 4th Floor 44 Gutter Lane
 address:      London EC2V 6BR
 address:      United Kingdom
-phone:        +44.2033880600
-fax-no:       +44.2033880601
+phone:        +44 20 33 88 0600
+fax-no:       +44 20 33 88 0601
 e-mail:       tld.ops@centralnic.com
 
 nserver:      A.NIC.CAM 194.169.218.77 2001:67c:13cc:0:0:0:1:77
@@ -45,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.cam/
 
 created:      2016-06-09
-changed:      2020-04-15
+changed:      2022-02-07
 source:       IANA
 
