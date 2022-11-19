@@ -4,43 +4,43 @@
 
 domain:       HOMES
 
-organisation: DERHomes, LLC
-address:      150 Granby Street
-address:      Norfolk, VA 23510
+organisation: XYZ.COM LLC
+address:      2121 Tropicana Ave
+address:      Suite 2
+address:      Las Vegas, NV 89119
 address:      United States
 
 contact:      administrative
-name:         General Manager
-organisation: DERHomes, LLC
-address:      150 Granby Street
-address:      Norfolk, VA 23510
+name:         General Counsel
+organisation: XYZ.COM LLC
+address:      2121 E Tropicana Ave, STE2
+address:      Las Vegas, NV 89119
 address:      United States
-phone:        757-351-7439
-e-mail:       tldadmin@dominionenterprises.com
+phone:        +1 702 757 6555
+e-mail:       hello@xyz.com
 
 contact:      technical
-name:         Senior Director, DNS Infrastructure Group
-organisation: Afilias
-address:      300 Welsh Road, Building 3, Suite 105
-address:      Horsham, PA 19044
-address:      United States
-phone:        +1 215.706.5700
-fax-no:       +1 215.706.5701
-e-mail:       tld-tech-poc@afilias.info
+name:         CTO
+organisation: CentralNic
+address:      Saddlers House 4th Floor 44 Gutter Lane London EC2V 6BR
+address:      United Kingdom
+phone:        +44 20 33 88 0600
+fax-no:       +44 20 33 88 0601
+e-mail:       tld.ops@centralnic.com
 
-nserver:      A0.NIC.HOMES 2a01:8840:62:0:0:0:0:33 65.22.100.33
-nserver:      A2.NIC.HOMES 2a01:8840:65:0:0:0:0:33 65.22.103.33
-nserver:      B0.NIC.HOMES 2a01:8840:63:0:0:0:0:33 65.22.101.33
-nserver:      C0.NIC.HOMES 2a01:8840:64:0:0:0:0:33 65.22.102.33
+nserver:      A.NIC.HOMES 194.169.218.132 2001:67c:13cc:0:0:0:1:132
+nserver:      B.NIC.HOMES 185.24.64.132 2a04:2b00:13cc:0:0:0:1:132
+nserver:      C.NIC.HOMES 212.18.248.132 2a04:2b00:13ee:0:0:0:0:132
+nserver:      D.NIC.HOMES 212.18.249.132 2a04:2b00:13ff:0:0:0:0:132
 ds-rdata:     44875 8 2 de0934d0c6c5221ba3533739b3147e327a87f8e97db379136a9343aa9d330079
+ds-rdata:     33262 8 2 d9f3c8d72738eba7ed5002404c5e2748e1aa47c83e36d33d2d4eb72360e49d80
 
-whois:        whois.afilias-srs.net
+whois:        whois.nic.homes
 
 status:       ACTIVE
-remarks:      Registration information:
-remarks:      http://www.dominionregistries.com
+remarks:      Registration information: https://nic.homes/
 
 created:      2014-05-01
-changed:      2020-12-09
+changed:      2022-08-16
 source:       IANA
 
