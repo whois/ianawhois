@@ -41,7 +41,7 @@ nserver:      HELSINKI.TONIC.TO 95.216.159.42
 nserver:      NEWYORK.TONIC.TO 162.243.211.202
 nserver:      SINGAPORE.TONIC.TO 188.166.187.0
 nserver:      SYDNEY.TONIC.TO 104.156.232.193
-nserver:      TONIC.TO 144.202.111.210
+nserver:      TONIC.TO 149.28.204.240
 
 whois:        whois.tonic.to
 
@@ -49,6 +49,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.tonic.to/
 
 created:      1995-12-18
-changed:      2020-04-07
+changed:      2022-06-01
 source:       IANA
 
