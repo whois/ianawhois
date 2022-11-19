@@ -9,11 +9,11 @@ address:      410 Terry Avenue North, Seattle, WA 98109
 address:      United States
 
 contact:      administrative
-name:         General Manager
+name:         Program Manager, Registry
 organisation: Amazon Registry Services, Inc.
 address:      410 Terry Avenue North, Seattle, WA 98109
 address:      United States
-phone:        +12067408515
+phone:        +1 206 646 5990
 fax-no:       +12069467702
 e-mail:       fire-rzm@amazon.com
 
@@ -34,9 +34,9 @@ nserver:      DNS2.NIC.FIRE 103.49.82.57 2401:fd80:402:0:0:0:0:57
 nserver:      DNS3.NIC.FIRE 213.248.222.57 2a01:618:406:0:0:0:0:57
 nserver:      DNS4.NIC.FIRE 2401:fd80:406:0:0:0:0:57 43.230.50.57
 nserver:      DNSA.NIC.FIRE 156.154.100.3 2001:502:ad09:0:0:0:0:3
-nserver:      DNSB.NIC.FIRE 156.154.101.3
-nserver:      DNSC.NIC.FIRE 156.154.102.3
-nserver:      DNSD.NIC.FIRE 156.154.103.3
+nserver:      DNSB.NIC.FIRE 156.154.101.3 2001:502:2eda:0:0:0:0:3
+nserver:      DNSC.NIC.FIRE 156.154.102.3 2610:a1:1009:0:0:0:0:3
+nserver:      DNSD.NIC.FIRE 156.154.103.3 2610:a1:1010:0:0:0:0:3
 ds-rdata:     60362 8 2 DC39CBEBBF22E91A1BF4A4BA771010082509DBF8F3129B04199E8497AD8E71B6
 
 whois:        whois.nic.fire
@@ -46,6 +46,6 @@ remarks:      Registration information:
 remarks:      https://www.amazonregistry.com/
 
 created:      2016-05-19
-changed:      2019-05-22
+changed:      2021-11-18
 source:       IANA
 
