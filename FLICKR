@@ -22,26 +22,25 @@ e-mail:       hostmaster@smugmug.com
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      14455 North Hayden Rd.
-address:      Scottsdale, AZ 85260
+address:      2155 E GoDaddy Way
+address:      Tempe, AZ 85284
 address:      United States
-phone:        +1 480-505-8800
-fax-no:       +1 480-393-4275
+phone:        +1 480 505 8800
+fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
 
+nserver:      A.NIC.FLICKR 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.FLICKR 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.FLICKR 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.FLICKR 156.154.144.60 2610:a1:1071:0:0:0:0:3c
 nserver:      NS2.DNS.NIC.FLICKR 156.154.145.60 2610:a1:1072:0:0:0:0:3c
 nserver:      NS3.DNS.NIC.FLICKR 156.154.159.60 2610:a1:1073:0:0:0:0:3c
-nserver:      NS4.DNS.NIC.FLICKR 156.154.156.60 2610:a1:1074:0:0:0:0:3c
-nserver:      NS5.DNS.NIC.FLICKR 156.154.157.60 2610:a1:1075:0:0:0:0:3c
-nserver:      NS6.DNS.NIC.FLICKR 156.154.158.60 2610:a1:1076:0:0:0:0:3c
-ds-rdata:     33052 8 1 52CA99FAE06F2011F08F0D2AE859FD1DDA828562
-ds-rdata:     33052 8 2 ACB1DFB7994DFFB07409DEC95B38C2833637AEAE808320FF11DE4344D89EB5E1
+ds-rdata:     54904 8 2 A0C9B5D4A5705BA6563443E9A93BE7202551583FD55054E2FFA1B210B17F3903
 
 status:       ACTIVE
 remarks:      Registration information: http://nic.flickr
 
 created:      2016-01-29
-changed:      2020-10-12
+changed:      2022-07-21
 source:       IANA
 
