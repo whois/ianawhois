@@ -20,27 +20,26 @@ e-mail:       ngtld-amex@cscglobal.com
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      14455 North Hayden Rd.
-address:      Scottsdale, AZ 85260
+address:      2155 E GoDaddy Way
+address:      Tempe, AZ 85284
 address:      United States
-phone:        +1 480-505-8800
-fax-no:       +1 480-393-4275
+phone:        +1 480 505 8800
+fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
 
+nserver:      A.NIC.AMEX 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.AMEX 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.AMEX 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.AMEX 156.154.144.10 2610:a1:1071:0:0:0:0:a
 nserver:      NS2.DNS.NIC.AMEX 156.154.145.10 2610:a1:1072:0:0:0:0:a
 nserver:      NS3.DNS.NIC.AMEX 156.154.159.10 2610:a1:1073:0:0:0:0:a
-nserver:      NS4.DNS.NIC.AMEX 156.154.156.10 2610:a1:1074:0:0:0:0:a
-nserver:      NS5.DNS.NIC.AMEX 156.154.157.10 2610:a1:1075:0:0:0:0:a
-nserver:      NS6.DNS.NIC.AMEX 156.154.158.10 2610:a1:1076:0:0:0:0:a
-ds-rdata:     17296 8 1 A56AEF9FD4CB8192CB2878D4D8BC5CD2C6FB8898
-ds-rdata:     17296 8 2 2007F39240BFF97ADD0187394857C9F662524B888E955030A7DC998D001FDB57
+ds-rdata:     22897 8 2 E17027E1218BA28CD5CC6847F0B7606066EE92EEA6B9901D4E8E41B3E9930B6E
 
 status:       ACTIVE
 remarks:      Registration information:
 remarks:      https://www.americanexpress.com
 
 created:      2016-07-21
-changed:      2021-01-19
+changed:      2022-07-21
 source:       IANA
 
