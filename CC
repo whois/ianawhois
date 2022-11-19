@@ -36,7 +36,6 @@ nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
 nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
 nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
 nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
-ds-rdata:     519 8 1 7285EF05E1B4E679D4F072EEA9B00953E01F3AE2
 ds-rdata:     519 8 2 E1EC6495ABD34562E6F433DEE201E6C6A52CB10AF69C04D675DA692D2D566897
 
 whois:        ccwhois.verisign-grs.com
@@ -45,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.cc/
 
 created:      1997-10-13
-changed:      2016-04-26
+changed:      2021-03-05
 source:       IANA
 
