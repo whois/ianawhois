@@ -4,39 +4,39 @@
 
 domain:       MODA
 
-organisation: United TLD Holdco Ltd.
-address:      One Clarendon Row
-address:      Dublin 2, Co. Dublin
-address:      Ireland
+organisation: Dog Beach, LLC
+address:      Donuts Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
+address:      United States
 
 contact:      administrative
-name:         Serina Ness
+name:         Vice President, Engineering
 organisation: Donuts Inc.
-address:      Donuts Inc.
-address:      5808 Lake Washington Blvd NE, Suite 300
-address:      Kirkland, WA 98033
-address:      United States
-phone:        +1.425.283.8248
-fax-no:       +1.425.671.0020
-e-mail:       serina@donuts.email
-
-contact:      technical
-name:         Ben Levac
-organisation: Donuts Inc.
-address:      Donuts Inc.
-address:      5808 Lake Washington Blvd NE, Suite 300
-address:      Kirkland, WA 98033
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
 address:      United States
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       ben@donuts.email
+e-mail:       tldadmin@donuts.email
 
-nserver:      DEMAND.ALPHA.ARIDNS.NET.AU 2001:dcd:1:0:0:0:0:7 37.209.192.7
-nserver:      DEMAND.BETA.ARIDNS.NET.AU 2001:dcd:2:0:0:0:0:7 37.209.194.7
-nserver:      DEMAND.DELTA.ARIDNS.NET.AU 2001:dcd:4:0:0:0:0:7 37.209.198.7
-nserver:      DEMAND.GAMMA.ARIDNS.NET.AU 2001:dcd:3:0:0:0:0:7 37.209.196.7
-ds-rdata:     45364 8 1 8A71C6B6B0355DF24392CE6527EBEEFAAD824E4A
-ds-rdata:     45364 8 2 5F93DC9FD263AC2894EE70008F7A421EEA178244AF77B96706C15FE7BC7C6C28
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Donuts Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
+address:      United States
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@donuts.email
+
+nserver:      V0N0.NIC.MODA 2a01:8840:16:0:0:0:0:28 65.22.20.28
+nserver:      V0N1.NIC.MODA 2a01:8840:17:0:0:0:0:28 65.22.21.28
+nserver:      V0N2.NIC.MODA 2a01:8840:18:0:0:0:0:28 65.22.22.28
+nserver:      V0N3.NIC.MODA 161.232.10.28 2a01:8840:f4:0:0:0:0:28
+nserver:      V2N0.NIC.MODA 2a01:8840:19:0:0:0:0:28 65.22.23.28
+nserver:      V2N1.NIC.MODA 161.232.11.28 2a01:8840:f5:0:0:0:0:28
+ds-rdata:     60925 8 2 d9124bbc4096e70b4aab2a0328750836243bb8ff45fb0aa3000239e83d5da1cd
 
 whois:        whois.nic.moda
 
@@ -44,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.donuts.domains/
 
 created:      2014-01-09
-changed:      2020-04-16
+changed:      2021-10-27
 source:       IANA
 
