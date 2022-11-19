@@ -33,14 +33,14 @@ e-mail:       pocovh@afnic.fr
 nserver:      D.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
 nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
 nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
-ds-rdata:     4719 13 2 50f56a97e03dd0977e263e1b02e9c0d2cfb1c4d09fd3c96657668923e120407a
+ds-rdata:     24939 13 2 02A3F789B7D6C726513EEBADF7F64741FED1ACD57405339D9D50191C620CD914
 
-whois:        whois-ovh.nic.fr
+whois:        whois.nic.ovh
 
 status:       ACTIVE
 remarks:      Registration information: http://www.ovh.com
 
 created:      2014-05-01
-changed:      2020-07-28
+changed:      2022-07-21
 source:       IANA
 
