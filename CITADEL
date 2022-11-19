@@ -19,11 +19,11 @@ e-mail:       registry@citadelgroup.com
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      14455 North Hayden Rd.
-address:      Scottsdale, AZ 85260
+address:      2155 E GoDaddy Way
+address:      Tempe, AZ 85284
 address:      United States
-phone:        +1 480-505-8800
-fax-no:       +1 480-393-4275
+phone:        +1 480 505 8800
+fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
 
 nserver:      NS1.DNS.NIC.CITADEL 156.154.144.45 2610:a1:1071:0:0:0:0:2d
@@ -32,13 +32,12 @@ nserver:      NS3.DNS.NIC.CITADEL 156.154.159.45 2610:a1:1073:0:0:0:0:2d
 nserver:      NS4.DNS.NIC.CITADEL 156.154.156.45 2610:a1:1074:0:0:0:0:2d
 nserver:      NS5.DNS.NIC.CITADEL 156.154.157.45 2610:a1:1075:0:0:0:0:2d
 nserver:      NS6.DNS.NIC.CITADEL 156.154.158.45 2610:a1:1076:0:0:0:0:2d
-ds-rdata:     38056 8 1 A45994DE5733E7756E080E9E8481640CA0D011FC
-ds-rdata:     38056 8 2 03F1F27C9EF9FDB19EB359DADD270E0444DF82E336AA3536AEB6552B7BB249D9
+ds-rdata:     62107 8 2 CC98BFD74D46F2274B9A966F9D522161C6D2EA0D8621DF3A6AC4F1D3B229DC7C
 
 status:       ACTIVE
 remarks:      Registration information: http://www.citadel.com
 
 created:      2016-06-30
-changed:      2020-10-12
+changed:      2022-07-21
 source:       IANA
 
