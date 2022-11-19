@@ -5,16 +5,16 @@
 domain:       BANK
 
 organisation: fTLD Registry Services, LLC
-address:      600 13th Street, NW
-address:      Suite 400
+address:      1300 Eye Street, NW
+address:      Suite 1100 West
 address:      Washington, DC 20005
 address:      United States
 
 contact:      administrative
-name:         Craig Schwartz
+name:         Managing Director
 organisation: fTLD Registry Services, LLC
-address:      600 13th Street, NW
-address:      Suite 400
+address:      1300 Eye Street, NW
+address:      Suite 1100 West
 address:      Washington, DC 20005
 address:      United States
 phone:        +1 202 236 1154
@@ -23,21 +23,20 @@ e-mail:       ftld@ftld.com
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      14455 North Hayden Rd.
-address:      Scottsdale, AZ 85260
+address:      2155 E GoDaddy Way
+address:      Tempe, AZ 85284
 address:      United States
-phone:        +1 480-505-8800
-fax-no:       +1 480-393-4275
+phone:        +1 480 505 8800
+fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
 
-nserver:      A.NIC.BANK 156.154.100.27 2001:0502:2eda:0:0:0:0:27
-nserver:      B.NIC.BANK 156.154.101.27 2001:0502:ad09:0:0:0:0:27
-nserver:      C.NIC.BANK 156.154.102.27 2610:a1:1009:0:0:0:0:27
 nserver:      D.NIC.BANK 156.154.103.27 2610:a1:1010:0:0:0:0:27
 nserver:      E.NIC.BANK 156.154.104.27 2610:a1:1011:0:0:0:0:27
 nserver:      F.NIC.BANK 156.154.105.27 2610:a1:1012:0:0:0:0:27
-ds-rdata:     46351 8 2 8364B6C5FAFDAEFF9AD7B28942B870C22B9B1A8172F0B2285FA5E7B3D9FD7A19
-ds-rdata:     46351 8 1 DC375FC531FFDE1876AE123455F7AFC7AAD7217D
+nserver:      W.NIC.BANK 2001:dcd:1:0:0:0:0:10 37.209.192.10
+nserver:      X.NIC.BANK 2001:dcd:2:0:0:0:0:10 37.209.194.10
+nserver:      Y.NIC.BANK 2001:dcd:3:0:0:0:0:10 37.209.196.10
+ds-rdata:     15994 8 2 659D10863A42E4957AD8F9AD97A56F8DE227AA74FC9E3AA4C0E8AFAC0458071A
 
 whois:        whois.nic.bank
 
@@ -45,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.ftld.com/
 
 created:      2014-11-26
-changed:      2020-12-02
+changed:      2022-08-18
 source:       IANA
 
