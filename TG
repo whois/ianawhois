@@ -4,20 +4,22 @@
 
 domain:       TG
 
-organisation: Autorite de Reglementation des secteurs de Postes et de Telecommunications (ART&P)
-address:      32, rue NDagni
-address:      Lome, BP:358
+organisation: Autorité de Régulation des Communications Electroniques et des Postes (ARCEP)
+address:      4638, Boulevard Général Gnassingbé Eyadema
+address:      Immeuble ARCEP
+address:      BP 358 Lomé
 address:      Togo
 
 contact:      administrative
 name:         Chief Executive Officer
-organisation: ART&P
-address:      32, rue NDagni
-address:      Lome, BP:358
+organisation: ARCEP
+address:      4638, Boulevard Général Gnassingbé Eyadema
+address:      Immeuble ARCEP
+address:      BP 358 Lomé
 address:      Togo
-phone:        +22822236389
+phone:        +22822236380
 fax-no:       +22822236394
-e-mail:       artp@artp.tg
+e-mail:       arcep@arcep.tg
 
 contact:      technical
 name:         Chief Executive Officer
@@ -44,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.tg
 
 created:      1996-09-05
-changed:      2016-06-01
+changed:      2021-03-08
 source:       IANA
 
