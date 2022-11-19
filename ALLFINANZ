@@ -23,14 +23,13 @@ e-mail:       mail@allfinanz-registry.de
 
 contact:      technical
 name:         CTO
-organisation: KSregistry GmbH
-address:      KSregistry GmbH
-address:      Im Oberen Werk 1
-address:      66386 St. Ingbert
-address:      Germany
-phone:        +49.68949396250
-fax-no:       +49.68949396251
-e-mail:       icann@ksregistry.com
+organisation: CentralNic
+address:      Saddlers House 4th Floor 44 Gutter Lane
+address:      London EC2V 6BR
+address:      United Kingdom
+phone:        +44 20 33 88 0600 
+fax-no:       +44 20 33 88 0601
+e-mail:       tld.ops@centralnic.com
 
 nserver:      A.NIC.ALLFINANZ 194.169.218.75 2001:67c:13cc:0:0:0:1:75
 nserver:      B.NIC.ALLFINANZ 185.24.64.75 2a04:2b00:13cc:0:0:0:1:75
@@ -46,6 +45,6 @@ remarks:      Registration information:
 remarks:      http://www.allfinanz-registry.de
 
 created:      2014-09-25
-changed:      2019-03-18
+changed:      2022-11-14
 source:       IANA
 
