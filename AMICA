@@ -20,26 +20,25 @@ e-mail:       dotamica_questions@amica.com
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      14455 North Hayden Rd.
-address:      Scottsdale, AZ 85260
+address:      2155 E GoDaddy Way
+address:      Tempe, AZ 85284
 address:      United States
-phone:        +1 480-505-8800
-fax-no:       +1 480-393-4275
+phone:        +1 480 505 8800
+fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
 
+nserver:      A.NIC.AMICA 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.AMICA 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.AMICA 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.AMICA 156.154.144.11 2610:a1:1071:0:0:0:0:b
 nserver:      NS2.DNS.NIC.AMICA 156.154.145.11 2610:a1:1072:0:0:0:0:b
 nserver:      NS3.DNS.NIC.AMICA 156.154.159.11 2610:a1:1073:0:0:0:0:b
-nserver:      NS4.DNS.NIC.AMICA 156.154.156.11 2610:a1:1074:0:0:0:0:b
-nserver:      NS5.DNS.NIC.AMICA 156.154.157.11 2610:a1:1075:0:0:0:0:b
-nserver:      NS6.DNS.NIC.AMICA 156.154.158.11 2610:a1:1076:0:0:0:0:b
-ds-rdata:     43177 8 2 BF9D10BE767D3717D99D55822E0273ECEBD33FC9CE050C5B780065A94E1F8ACE
-ds-rdata:     43177 8 1 03FDC07E04F4633C229E45FC6EE1186B6E772B76
+ds-rdata:     14902 8 2 A464DF4FD3A7B27EB3177A1813BC95D25D3F50E5AE5192619A272DCE8587CEA8
 
 status:       ACTIVE
 remarks:      Registration information: http://www.amica.com
 
 created:      2015-08-06
-changed:      2020-10-12
+changed:      2022-07-21
 source:       IANA
 
