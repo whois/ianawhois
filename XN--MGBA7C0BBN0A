@@ -31,8 +31,7 @@ nserver:      A.NIC.XN--MGBA7C0BBN0A 2001:dcd:1:0:0:0:0:9 37.209.192.9
 nserver:      B.NIC.XN--MGBA7C0BBN0A 2001:dcd:2:0:0:0:0:9 37.209.194.9
 nserver:      C.NIC.XN--MGBA7C0BBN0A 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      D.NIC.XN--MGBA7C0BBN0A 2001:dcd:4:0:0:0:0:9 37.209.198.9
-ds-rdata:     59674 8 2 AF9F72BE9DA663E19314A8D07071B77AC805B5513FDB3AAD3F6245B95A252327
-ds-rdata:     59674 8 1 919B4B32031CAE03CF27F1632285110BA325D731
+ds-rdata:     2662 8 2 A083E4E9E6F8037D89DE242FFFE38E301BF73B7E3F132835B239B6D68258EA9F
 
 whois:        whois.nic.xn--mgba7c0bbn0a
 
@@ -40,6 +39,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.olayan.com/
 
 created:      2016-04-21
-changed:      2020-06-02
+changed:      2022-07-21
 source:       IANA
 
