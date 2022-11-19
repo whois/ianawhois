@@ -4,17 +4,17 @@
 
 domain:       MC
 
-organisation: Gouvernement de Monaco
-organisation: Direction des Communications Electroniques
-address:      23, Avenue Albert II
+organisation: Direction des Plateformes et des Ressources Numériques
+address:      19, avenue des Castelans
+address:      Entrée C
 address:      98000 Monaco
 address:      Monaco
 
 contact:      administrative
 name:         Administrator
-organisation: Gouvernement de Monaco
-organisation: Direction des Communications Electroniques
-address:      23, Avenue Albert II
+organisation: Direction des Plateformes et des Ressources Numériques
+address:      19 Avenue des Castelans
+address:      Entrée C
 address:      98000 Monaco
 address:      Monaco
 phone:        +377 98 98 88 00
@@ -23,8 +23,9 @@ e-mail:       nic@gouv.mc
 
 contact:      technical
 name:         Administrator
-organisation: Gouvernement de Monaco Direction  des Communications Electroniques
-address:      23, Avenue Albert II
+organisation: Direction des Plateformes et des Ressources Numériques
+address:      19 avenue des Castelans
+address:      Entrée C
 address:      98000 MONACO
 address:      Monaco
 phone:        +377 98 98 88 00
@@ -40,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.mc/
 
 created:      1995-01-20
-changed:      2019-06-22
+changed:      2021-03-29
 source:       IANA
 
