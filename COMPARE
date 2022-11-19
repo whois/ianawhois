@@ -5,36 +5,35 @@
 domain:       COMPARE
 
 organisation: Registry Services, LLC
-address:      21575 Ridgetop Circle
-address:      Sterling, VA 20166
+address:      2155 E. GoDaddy Way
+address:      Tempe, AZ 85284
 address:      United States
 
 contact:      administrative
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      14455 North Hayden Rd.
-address:      Scottsdale, AZ 85260
+address:      2155 E GoDaddy Way
+address:      Tempe, AZ 85284
 address:      United States
 phone:        +1 480-505-8800
-fax-no:       +1 480-393-4275
+fax-no:       +1 480-624-2546
 e-mail:       iana@registry.godaddy
 
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      14455 North Hayden Rd.
-address:      Scottsdale, AZ 85260
+address:      2155 E GoDaddy Way
+address:      Tempe, AZ 85284
 address:      United States
 phone:        +1 480-505-8800
-fax-no:       +1 480-393-4275
+fax-no:       +1 480-624-2546
 e-mail:       iana@registry.godaddy
 
 nserver:      A.NIC.COMPARE 2001:dcd:1:0:0:0:0:9 37.209.192.9
 nserver:      B.NIC.COMPARE 2001:dcd:2:0:0:0:0:9 37.209.194.9
 nserver:      C.NIC.COMPARE 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      D.NIC.COMPARE 2001:dcd:4:0:0:0:0:9 37.209.198.9
-ds-rdata:     27247 8 2 9C040B1ABF9E9BA4163DF955D707CAAD1C16FF61536325442A53A17A5E62FB9D
-ds-rdata:     27247 8 1 9632B83062D105D5127ADAAF48A903EA59412B7C
+ds-rdata:     12634 8 2 40C8DBBA65AC7385A2DD35E299EE6010D850197DD7A438DCCAC7D13C2D32D953
 
 whois:        whois.nic.compare
 
@@ -42,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.compare/
 
 created:      2015-12-23
-changed:      2020-10-19
+changed:      2022-07-18
 source:       IANA
 
