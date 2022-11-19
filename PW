@@ -33,8 +33,7 @@ nserver:      NS1.NIC.PW 194.169.218.12 2001:67c:13cc:0:0:0:1:12
 nserver:      NS2.NIC.PW 185.24.64.12 2a04:2b00:13cc:0:0:0:1:12
 nserver:      NS5.NIC.PW 212.18.248.12 2a04:2b00:13ee:0:0:0:0:12
 nserver:      NS6.NIC.PW 212.18.249.12 2a04:2b00:13ff:0:0:0:0:12
-ds-rdata:     26645 7 2 7EF397EDF4D7CA228C0F5111F5E1696CDBF279C0B6AFA48FC7E71A12E07E5880
-ds-rdata:     26645 7 1 58EE332D303E2A64B7449C43AB770DAA1CA74C40
+ds-rdata:     44440 13 2 362CD4EB8C8FD51674622639F860F906EA08A7C977400547A9F0AC7DB92E14C6
 
 whois:        whois.nic.pw
 
@@ -42,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.registry.pw
 
 created:      1997-06-12
-changed:      2020-09-03
+changed:      2022-03-22
 source:       IANA
 
