@@ -20,26 +20,25 @@ e-mail:       gapregistries@fairwindspartners.com
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      14455 North Hayden Rd.
-address:      Scottsdale, AZ 85260
+address:      2155 E GoDaddy Way
+address:      Tempe, AZ 85284
 address:      United States
-phone:        +1 480-505-8800
-fax-no:       +1 480-393-4275
+phone:        +1 480 505 8800
+fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
 
+nserver:      A.NIC.ATHLETA 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.ATHLETA 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.ATHLETA 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.ATHLETA 156.154.144.16 2610:a1:1071:0:0:0:0:10
 nserver:      NS2.DNS.NIC.ATHLETA 156.154.145.16 2610:a1:1072:0:0:0:0:10
 nserver:      NS3.DNS.NIC.ATHLETA 156.154.159.16 2610:a1:1073:0:0:0:0:10
-nserver:      NS4.DNS.NIC.ATHLETA 156.154.156.16 2610:a1:1074:0:0:0:0:10
-nserver:      NS5.DNS.NIC.ATHLETA 156.154.157.16 2610:a1:1075:0:0:0:0:10
-nserver:      NS6.DNS.NIC.ATHLETA 156.154.158.16 2610:a1:1076:0:0:0:0:10
-ds-rdata:     15835 8 2 FA08722BB0007F644249FB9F285BC23788A48AC671FF05FD64C12A78123D689B
-ds-rdata:     15835 8 1 528482863545290007D20CF4E1248F4DB270C199
+ds-rdata:     24775 8 2 27E604906E1205089032C4CF28BC8E12C35D6DD3C1D5FE612EF5FAE0AA5AC6BA
 
 status:       ACTIVE
 remarks:      Registration information: http://www.gap.com
 
 created:      2016-07-14
-changed:      2020-10-12
+changed:      2022-07-21
 source:       IANA
 
