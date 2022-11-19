@@ -20,26 +20,25 @@ e-mail:       tlddom@microsoft.com
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      14455 North Hayden Rd.
-address:      Scottsdale, AZ 85260
+address:      2155 E GoDaddy Way
+address:      Tempe, AZ 85284
 address:      United States
-phone:        +1 480-505-8800
-fax-no:       +1 480-393-4275
+phone:        +1 480 505 8800
+fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
 
+nserver:      A.NIC.SKYPE 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.SKYPE 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.SKYPE 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.SKYPE 156.154.144.151 2610:a1:1071:0:0:0:0:97
 nserver:      NS2.DNS.NIC.SKYPE 156.154.145.151 2610:a1:1072:0:0:0:0:97
 nserver:      NS3.DNS.NIC.SKYPE 156.154.159.151 2610:a1:1073:0:0:0:0:97
-nserver:      NS4.DNS.NIC.SKYPE 156.154.156.151 2610:a1:1074:0:0:0:0:97
-nserver:      NS5.DNS.NIC.SKYPE 156.154.157.151 2610:a1:1075:0:0:0:0:97
-nserver:      NS6.DNS.NIC.SKYPE 156.154.158.151 2610:a1:1076:0:0:0:0:97
-ds-rdata:     36946 8 2 BCFE09A00680254D3563689BD72662D288DFD02CB95202F2FB295DEAD301A6CD
-ds-rdata:     36946 8 1 A69CFDB7DF7D60FBC6249F3382B81E38267DE840
+ds-rdata:     4519 8 2 FD50ADCD586D68B58AD4081BFA7566E3E438F0CBE991CEED726AD4485B62D97B
 
 status:       ACTIVE
 remarks:      Registration information: http://www.skype.com
 
 created:      2015-03-19
-changed:      2020-10-12
+changed:      2022-07-21
 source:       IANA
 
