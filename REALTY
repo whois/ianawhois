@@ -5,49 +5,45 @@
 domain:       REALTY
 
 organisation: Dog Beach, LLC
+address:      Donuts Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue, WA 98004
 address:      United States
 
 contact:      administrative
-name:         Serina Ness
+name:         Vice President, Engineering
 organisation: Donuts Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue, WA 98004
 address:      United States
-phone:        +1 425 283 8248
-fax-no:       +1 425 671 0020
-e-mail:       serina@donuts.email
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldadmin@donuts.email
 
 contact:      technical
-name:         Ben Levac
+name:         Senior Director, DNS Infrastructure Group
 organisation: Donuts Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue, WA 98004
 address:      United States
-phone:        +1 425 298 2200
-fax-no:       +1 425 671 0020
-e-mail:       ben@donuts.email
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@donuts.email
 
-nserver:      A.NIC.REALTY 194.169.218.66 2001:67c:13cc:0:0:0:1:66
-nserver:      B.NIC.REALTY 185.24.64.66 2a04:2b00:13cc:0:0:0:1:66
-nserver:      C.NIC.REALTY 212.18.248.66 2a04:2b00:13ee:0:0:0:0:66
-nserver:      D.NIC.REALTY 212.18.249.66 2a04:2b00:13ff:0:0:0:0:66
-nserver:      DEMAND.ALPHA.ARIDNS.NET.AU 2001:dcd:1:0:0:0:0:7 37.209.192.7
-nserver:      DEMAND.BETA.ARIDNS.NET.AU 2001:dcd:2:0:0:0:0:7 37.209.194.7
-nserver:      DEMAND.DELTA.ARIDNS.NET.AU 2001:dcd:4:0:0:0:0:7 37.209.198.7
-nserver:      DEMAND.GAMMA.ARIDNS.NET.AU 2001:dcd:3:0:0:0:0:7 37.209.196.7
-ds-rdata:     49180 8 1 AB7FC5CD07C36CBDEC33275C2744AA9778C359A6
-ds-rdata:     49180 8 2 D1BB65490276952B51984DA4ADB6B71D30022C40AC1E7E93D64576A22EDDC750
-ds-rdata:     62194 8 2 76EE86F6BBCD558B71161982CAAE605994A13F6631E506F36DBEB878DD385BBE
-ds-rdata:     62194 8 1 8DAEF2D45DDDDDE2F9183DE591023A29F1E8C2D8
+nserver:      V0N0.NIC.REALTY 2a01:8840:1a:0:0:0:0:42 65.22.24.42
+nserver:      V0N1.NIC.REALTY 2a01:8840:1b:0:0:0:0:42 65.22.25.42
+nserver:      V0N2.NIC.REALTY 2a01:8840:1c:0:0:0:0:42 65.22.26.42
+nserver:      V0N3.NIC.REALTY 161.232.12.42 2a01:8840:f6:0:0:0:0:42
+nserver:      V2N0.NIC.REALTY 2a01:8840:1d:0:0:0:0:42 65.22.27.42
+nserver:      V2N1.NIC.REALTY 161.232.13.42 2a01:8840:f7:0:0:0:0:42
+ds-rdata:     5506 8 2 20e276179f6ef711cd63c5e4851c2c3b4917fcff813c708aa902c305b8960484
 
 whois:        whois.nic.realty
 
 status:       ACTIVE
-remarks:      Registration information: http://www.topspectrum.com
+remarks:      Registration information: https://donuts.domains/
 
 created:      2015-06-11
-changed:      2021-02-26
+changed:      2021-11-02
 source:       IANA
 
