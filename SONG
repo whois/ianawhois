@@ -9,37 +9,36 @@ address:      410 Terry Avenue North, Seattle, WA  98109
 address:      United States
 
 contact:      administrative
-name:         Stacey King
+name:         Carolyn Mitchell
 organisation: Amazon Registry Services, Inc.
 address:      410 Terry Avenue North, Seattle, WA  98109
 address:      United States
-phone:        +1-206-740-8515
+phone:        +1 206 646 5990
 fax-no:       +1-206-946-7702
 e-mail:       song-rzm@amazon.com
 
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      14455 North Hayden Rd.
-address:      Scottsdale, AZ 85260
+address:      2155 E GoDaddy Way
+address:      Tempe, AZ 85284
 address:      United States
-phone:        +1 480-505-8800
-fax-no:       +1 480-393-4275
+phone:        +1 480 505 8800
+fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
 
+nserver:      A.NIC.SONG 2001:dcd:1:0:0:0:0:10 37.209.192.10
+nserver:      B.NIC.SONG 2001:dcd:2:0:0:0:0:10 37.209.194.10
+nserver:      C.NIC.SONG 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      NS1.DNS.NIC.SONG 156.154.144.153 2610:a1:1071:0:0:0:0:99
 nserver:      NS2.DNS.NIC.SONG 156.154.145.153 2610:a1:1072:0:0:0:0:99
 nserver:      NS3.DNS.NIC.SONG 156.154.159.153 2610:a1:1073:0:0:0:0:99
-nserver:      NS4.DNS.NIC.SONG 156.154.156.153 2610:a1:1074:0:0:0:0:99
-nserver:      NS5.DNS.NIC.SONG 156.154.157.153 2610:a1:1075:0:0:0:0:99
-nserver:      NS6.DNS.NIC.SONG 156.154.158.153 2610:a1:1076:0:0:0:0:99
-ds-rdata:     42667 8 1 490429DAB32073E6EB99501B62E4F4069CDBB2EC
-ds-rdata:     42667 8 2 9C9F395072A55E877F97A27E70F5D91EDA991D9FFAAEDCADE59F44E3831D2FE0
+ds-rdata:     64366 8 2 68D1D29041B564B8582F81D7409D912122AC68E2E23BF9167F3135621790FB71
 
 status:       ACTIVE
 remarks:      Registration information: http://www.amazonregistry.com
 
 created:      2016-01-29
-changed:      2020-10-12
+changed:      2022-07-21
 source:       IANA
 
