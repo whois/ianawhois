@@ -29,17 +29,15 @@ phone:        +1 670 483 3264
 fax-no:       +1 670 235 0965
 e-mail:       dcamacho@saipan.com
 
-nserver:      NS1.NIC.MP 202.128.29.2
-nserver:      NS2.NIC.MP 202.128.29.135
+nserver:      NS1.NIC.MP 16.162.31.128
+nserver:      NS2.NIC.MP 16.163.54.122
 nserver:      NS3.NIC.MP 75.101.129.89
 nserver:      NS4.NIC.MP 75.101.133.101
-
-whois:        whois.nic.mp
 
 status:       ACTIVE
 remarks:      Registration information: https://get.mp/
 
 created:      1996-10-22
-changed:      2020-11-23
+changed:      2021-12-03
 source:       IANA
 
