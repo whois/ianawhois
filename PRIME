@@ -9,11 +9,11 @@ address:      410 Terry Avenue North, Seattle, WA 98109
 address:      United States
 
 contact:      administrative
-name:         General Manager
+name:         Program Manager, Registry
 organisation: Amazon Registry Services, Inc.
 address:      410 Terry Avenue North, Seattle, WA 98109
 address:      United States
-phone:        +12067408515
+phone:        +1 206 646 5990
 fax-no:       +12069467702
 e-mail:       prime-rzm@amazon.com
 
@@ -34,9 +34,9 @@ nserver:      DNS2.NIC.PRIME 103.49.82.51 2401:fd80:402:0:0:0:0:51
 nserver:      DNS3.NIC.PRIME 213.248.222.51 2a01:618:406:0:0:0:0:51
 nserver:      DNS4.NIC.PRIME 2401:fd80:406:0:0:0:0:51 43.230.50.51
 nserver:      DNSA.NIC.PRIME 156.154.100.3 2001:502:ad09:0:0:0:0:3
-nserver:      DNSB.NIC.PRIME 156.154.101.3
-nserver:      DNSC.NIC.PRIME 156.154.102.3
-nserver:      DNSD.NIC.PRIME 156.154.103.3
+nserver:      DNSB.NIC.PRIME 156.154.101.3 2001:502:2eda:0:0:0:0:3
+nserver:      DNSC.NIC.PRIME 156.154.102.3 2610:a1:1009:0:0:0:0:3
+nserver:      DNSD.NIC.PRIME 156.154.103.3 2610:a1:1010:0:0:0:0:3
 ds-rdata:     48080 8 2 B29003C3E5F60CE38190106F221D85B335972C9DEC6EA671C1536F63E081D214
 
 whois:        whois.nic.prime
@@ -46,6 +46,6 @@ remarks:      Registration information:
 remarks:      https://www.amazonregistry.com/
 
 created:      2016-05-19
-changed:      2019-06-04
+changed:      2021-11-18
 source:       IANA
 
