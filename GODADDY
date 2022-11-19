@@ -10,38 +10,39 @@ address:      Scottsdale, AZ 85260
 address:      United States
 
 contact:      administrative
-name:         VP, Domains
+name:         IANA Contact
 organisation: Go Daddy
-address:      14455 N Hayden Road, Suite #219
-address:      Scottsdale, AZ 85260
+address:      2155 E GoDaddy Way
+address:      Tempe, AZ 85284
 address:      United States
-phone:        +13195304100
-fax-no:       +14805058002
-e-mail:       rmerdinger@godaddy.com
+phone:        +1 480 505 8800
+fax-no:       +1 480 393 4275
+e-mail:       iana@registry.godaddy
 
 contact:      technical
-name:         Senior Director, DNS Infrastructure Group
-organisation: Afilias
-address:      Building 3, Suite 105
-address:      300 Welsh Road
-address:      Horsham, PA 19044
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      2155 E GoDaddy Way
+address:      Tempe, AZ 85284
 address:      United States
-phone:        +1 215.706.5700
-fax-no:       +1 215.706.5701
-e-mail:       tld-tech-poc@afilias.info
+phone:        +1 480 505 8800
+fax-no:       +1 480 624 2546
+e-mail:       iana@registry.godaddy
 
-nserver:      A0.NIC.GODADDY 2a01:8840:16:0:0:0:0:25 65.22.20.25
-nserver:      A2.NIC.GODADDY 2a01:8840:19:0:0:0:0:25 65.22.23.25
-nserver:      B0.NIC.GODADDY 2a01:8840:17:0:0:0:0:25 65.22.21.25
-nserver:      C0.NIC.GODADDY 2a01:8840:18:0:0:0:0:25 65.22.22.25
-ds-rdata:     6040 8 2 9aaf85a8b827bb0e45862ea29fa0ab0c1f7b2a7ca8ac6e14966f4f267324a98c
+nserver:      A.NIC.GODADDY 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.GODADDY 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.GODADDY 2001:dcd:3:0:0:0:0:9 37.209.196.9
+nserver:      X.NIC.GODADDY 156.154.172.82 2610:a1:1074:0:0:0:1:82
+nserver:      Y.NIC.GODADDY 156.154.173.82 2610:a1:1075:0:0:0:1:82
+nserver:      Z.NIC.GODADDY 156.154.174.82 2610:a1:1076:0:0:0:1:82
+ds-rdata:     29332 8 2 2C52023CFFCCD5FB2D7C4567840E0A06E2360B2A5090BC0DDD9E7B30CB4803B5
 
-whois:        whois.afilias-srs.net
+whois:        whois.nic.godaddy
 
 status:       ACTIVE
-remarks:      Registration information: http://www.godaddy.com
+remarks:      Registration information: http://nic.godaddy
 
 created:      2016-06-24
-changed:      2020-11-16
+changed:      2022-08-29
 source:       IANA
 
