@@ -31,7 +31,7 @@ e-mail:       pocsncf@afnic.fr
 nserver:      D.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
 nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
 nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
-ds-rdata:     18289 13 2 bc66a1dd3d39f168003099fed17b29d614ccba8a07f6ee01cfba8f3c5b3f5feb
+ds-rdata:     42021 13 2 76868912D2C9AC062CC7B403AD3F32DAFFEB37CF4C220BF74E196FB75F7C861C
 
 whois:        whois.nic.sncf
 
@@ -39,6 +39,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.sncf.com
 
 created:      2015-05-08
-changed:      2020-08-12
+changed:      2022-09-20
 source:       IANA
 
