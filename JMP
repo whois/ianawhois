@@ -20,26 +20,25 @@ e-mail:       gtldinfo@sas.com
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      14455 North Hayden Rd.
-address:      Scottsdale, AZ 85260
+address:      2155 E GoDaddy Way
+address:      Tempe, AZ 85284
 address:      United States
-phone:        +1 480-505-8800
-fax-no:       +1 480-393-4275
+phone:        +1 480 505 8800
+fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
 
+nserver:      A.NIC.JMP 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.JMP 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.JMP 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.JMP 156.154.144.88 2610:a1:1071:0:0:0:0:58
 nserver:      NS2.DNS.NIC.JMP 156.154.145.88 2610:a1:1072:0:0:0:0:58
 nserver:      NS3.DNS.NIC.JMP 156.154.159.88 2610:a1:1073:0:0:0:0:58
-nserver:      NS4.DNS.NIC.JMP 156.154.156.88 2610:a1:1074:0:0:0:0:58
-nserver:      NS5.DNS.NIC.JMP 156.154.157.88 2610:a1:1075:0:0:0:0:58
-nserver:      NS6.DNS.NIC.JMP 156.154.158.88 2610:a1:1076:0:0:0:0:58
-ds-rdata:     56380 8 2 B7C96DDC291A6C071331ECBBEFEF5FFA68C6B6CC2D2E61AD87F667E6CBA52DA3
-ds-rdata:     56380 8 1 CCBF7225A7A439E8D436326912F0E922E2905065
+ds-rdata:     30112 8 2 47FCD5889323F70E3346B144D204BA05F601D6B6C56C8C52AC7606F7D14AF60C
 
 status:       ACTIVE
 remarks:      Registration information: http://www.jmp.com
 
 created:      2015-11-20
-changed:      2020-10-12
+changed:      2022-07-21
 source:       IANA
 
