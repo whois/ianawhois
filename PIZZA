@@ -6,38 +6,37 @@ domain:       PIZZA
 
 organisation: Binky Moon, LLC
 address:      Donuts Inc.
-address:      5808 Lake Washington Blvd NE, Suite 300
-address:      Kirkland, WA 98033
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
 address:      United States
 
 contact:      administrative
-name:         Serina Ness
+name:         Vice President, Engineering
 organisation: Donuts Inc.
-address:      Donuts Inc.
-address:      5808 Lake Washington Blvd NE, Suite 300
-address:      Kirkland, WA 98033
-address:      United States
-phone:        +1.425.283.8248
-fax-no:       +1.425.671.0020
-e-mail:       serina@donuts.email
-
-contact:      technical
-name:         Ben Levac
-organisation: Donuts Inc.
-address:      Donuts Inc.
-address:      5808 Lake Washington Blvd NE, Suite 300
-address:      Kirkland, WA 98033
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
 address:      United States
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       ben@donuts.email
+e-mail:       tldadmin@donuts.email
 
-nserver:      DEMAND.ALPHA.ARIDNS.NET.AU 2001:dcd:1:0:0:0:0:7 37.209.192.7
-nserver:      DEMAND.BETA.ARIDNS.NET.AU 2001:dcd:2:0:0:0:0:7 37.209.194.7
-nserver:      DEMAND.DELTA.ARIDNS.NET.AU 2001:dcd:4:0:0:0:0:7 37.209.198.7
-nserver:      DEMAND.GAMMA.ARIDNS.NET.AU 2001:dcd:3:0:0:0:0:7 37.209.196.7
-ds-rdata:     38065 8 2 2367BB79A55376F94DD8A924080E2A99443ED9496842B07B4A1D34D522B23C7A
-ds-rdata:     38065 8 1 4BBE9822384625E8D54C294E63F10D2B89A06FAB
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Donuts Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
+address:      United States
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@donuts.email
+
+nserver:      V0N0.NIC.PIZZA 2a01:8840:1e:0:0:0:0:50 65.22.28.50
+nserver:      V0N1.NIC.PIZZA 2a01:8840:1f:0:0:0:0:50 65.22.29.50
+nserver:      V0N2.NIC.PIZZA 2a01:8840:20:0:0:0:0:50 65.22.30.50
+nserver:      V0N3.NIC.PIZZA 161.232.14.50 2a01:8840:f8:0:0:0:0:50
+nserver:      V2N0.NIC.PIZZA 2a01:8840:21:0:0:0:0:50 65.22.31.50
+nserver:      V2N1.NIC.PIZZA 161.232.15.50 2a01:8840:f9:0:0:0:0:50
+ds-rdata:     55750 8 2 9271cd9fb2ca456900ef1e26877eb45d968d8ddf80281b6c6e05621f4067207f
 
 whois:        whois.nic.pizza
 
@@ -45,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.donuts.domains/
 
 created:      2014-08-22
-changed:      2020-04-16
+changed:      2021-11-10
 source:       IANA
 
