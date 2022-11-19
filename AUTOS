@@ -4,43 +4,43 @@
 
 domain:       AUTOS
 
-organisation: DERAutos, LLC
-address:      150 Granby Street
-address:      Norfolk, VA 23510
+organisation: XYZ.COM LLC
+address:      2121 Tropicana Ave
+address:      Suite 2
+address:      Las Vegas, NV 89119
 address:      United States
 
 contact:      administrative
-name:         General Manager
-organisation: DERAutos, LLC
-address:      150 Granby Street
-address:      Norfolk, VA 23510
+name:         General Counsel
+organisation: XYZ.COM LLC
+address:      2121 E Tropicana Ave, STE2
+address:      Las Vegas, NV 89119
 address:      United States
-phone:        757-351-7439
-e-mail:       tldadmin@dominionenterprises.com
+phone:        +1 702 757 6555
+e-mail:       hello@xyz.com
 
 contact:      technical
-name:         Senior Director, DNS Infrastructure Group
-organisation: Afilias
-address:      300 Welsh Road, Building 3, Suite 105
-address:      Horsham, PA 19044
-address:      United States
-phone:        +1 215.706.5700
-fax-no:       +1 215.706.5701
-e-mail:       tld-tech-poc@afilias.info
+name:         CTO
+organisation: CentralNic
+address:      Saddlers House 4th Floor 44 Gutter Lane London EC2V 6BR
+address:      United Kingdom
+phone:        +44 20 33 88 0600
+fax-no:       +44 20 33 88 0601
+e-mail:       tld.ops@centralnic.com
 
-nserver:      A0.NIC.AUTOS 2a01:8840:62:0:0:0:0:9 65.22.100.9
-nserver:      A2.NIC.AUTOS 2a01:8840:65:0:0:0:0:9 65.22.103.9
-nserver:      B0.NIC.AUTOS 2a01:8840:63:0:0:0:0:9 65.22.101.9
-nserver:      C0.NIC.AUTOS 2a01:8840:64:0:0:0:0:9 65.22.102.9
+nserver:      A.NIC.AUTOS 194.169.218.136 2001:67c:13cc:0:0:0:1:136
+nserver:      B.NIC.AUTOS 185.24.64.136 2a04:2b00:13cc:0:0:0:1:136
+nserver:      C.NIC.AUTOS 212.18.248.136 2a04:2b00:13ee:0:0:0:0:136
+nserver:      D.NIC.AUTOS 212.18.249.136 2a04:2b00:13ff:0:0:0:0:136
 ds-rdata:     12979 8 2 b803b9558f22efb130a7b8a43e1cb855b94de8dc5558a1bc350dba0560e27bcd
+ds-rdata:     61492 8 2 34f530b8473fa65a88c5f81552efad281321445f6dc77ed685e06071bb56f0dd
 
-whois:        whois.afilias-srs.net
+whois:        whois.nic.autos
 
 status:       ACTIVE
-remarks:      Registration information:
-remarks:      http://www.dominionregistries.com
+remarks:      Registration information: http://nic.autos
 
 created:      2014-05-01
-changed:      2020-12-09
+changed:      2022-08-16
 source:       IANA
 
