@@ -20,26 +20,25 @@ e-mail:       inet-admin@prudential.com
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      14455 North Hayden Rd.
-address:      Scottsdale, AZ 85260
+address:      2155 E GoDaddy Way
+address:      Tempe, AZ 85284
 address:      United States
-phone:        +1 480-505-8800
-fax-no:       +1 480-393-4275
+phone:        +1 480 505 8800
+fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
 
+nserver:      A.NIC.PRUDENTIAL 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.PRUDENTIAL 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.PRUDENTIAL 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.PRUDENTIAL 156.154.144.142 2610:a1:1071:0:0:0:0:8e
 nserver:      NS2.DNS.NIC.PRUDENTIAL 156.154.145.142 2610:a1:1072:0:0:0:0:8e
 nserver:      NS3.DNS.NIC.PRUDENTIAL 156.154.159.142 2610:a1:1073:0:0:0:0:8e
-nserver:      NS4.DNS.NIC.PRUDENTIAL 156.154.156.142 2610:a1:1074:0:0:0:0:8e
-nserver:      NS5.DNS.NIC.PRUDENTIAL 156.154.157.142 2610:a1:1075:0:0:0:0:8e
-nserver:      NS6.DNS.NIC.PRUDENTIAL 156.154.158.142 2610:a1:1076:0:0:0:0:8e
-ds-rdata:     57397 8 1 17C0C98412DDED7281D7FC701CF3E28CD0A96B01
-ds-rdata:     57397 8 2 E5E9A57CEB052484FB1A2C8FB382D1CEB1A3C41C1E115A339E81A9534BB1CD38
+ds-rdata:     60835 8 2 C69DABD2CF3D79D968533BFC2CDB13A20ED9792260F42DE04BDAA6925AE9A4A1
 
 status:       ACTIVE
 remarks:      Registration information: https://www.prudential.com
 
 created:      2016-07-14
-changed:      2020-10-12
+changed:      2022-07-21
 source:       IANA
 
