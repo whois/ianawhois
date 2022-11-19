@@ -5,14 +5,14 @@
 domain:       RICH
 
 organisation: iRegistry GmbH
-address:      Friedrichstr. 90
+address:      Friedrichstr. 171
 address:      10117 Berlin
 address:      Germany
 
 contact:      administrative
 name:         General Manager
 organisation: iRegistry GmbH
-address:      Friedrichstr. 90
+address:      Friedrichstr. 171
 address:      10117 Berlin
 address:      Germany
 phone:        +49 180 5522744
@@ -41,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.i-registry.com
 
 created:      2014-01-16
-changed:      2020-12-03
+changed:      2022-01-18
 source:       IANA
 
