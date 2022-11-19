@@ -6,38 +6,37 @@ domain:       DOCTOR
 
 organisation: Binky Moon, LLC
 address:      Donuts Inc.
-address:      5808 Lake Washington Blvd NE, Suite 300
-address:      Kirkland, WA 98033
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
 address:      United States
 
 contact:      administrative
-name:         Serina Ness
+name:         Vice President, Engineering
 organisation: Donuts Inc.
-address:      Donuts Inc.
-address:      5808 Lake Washington Blvd NE, Suite 300
-address:      Kirkland, WA 98033
-address:      United States
-phone:        +1.425.283.8248
-fax-no:       +1.425.671.0020
-e-mail:       serina@donuts.email
-
-contact:      technical
-name:         Ben Levac
-organisation: Donuts Inc.
-address:      Donuts Inc.
-address:      5808 Lake Washington Blvd NE, Suite 300
-address:      Kirkland, WA 98033
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
 address:      United States
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       ben@donuts.email
+e-mail:       tldadmin@donuts.email
 
-nserver:      DEMAND.ALPHA.ARIDNS.NET.AU 2001:dcd:1:0:0:0:0:7 37.209.192.7
-nserver:      DEMAND.BETA.ARIDNS.NET.AU 2001:dcd:2:0:0:0:0:7 37.209.194.7
-nserver:      DEMAND.DELTA.ARIDNS.NET.AU 2001:dcd:4:0:0:0:0:7 37.209.198.7
-nserver:      DEMAND.GAMMA.ARIDNS.NET.AU 2001:dcd:3:0:0:0:0:7 37.209.196.7
-ds-rdata:     21985 8 1 2808D2E685592241FAE15FFB1D481BB3705B632C
-ds-rdata:     21985 8 2 1730CBF80D636DEBD279D7E2D760184260A73D3850B6B786D34FD3D4F8ABB629
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Donuts Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
+address:      United States
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@donuts.email
+
+nserver:      V0N0.NIC.DOCTOR 2a01:8840:1a:0:0:0:0:21 65.22.24.21
+nserver:      V0N1.NIC.DOCTOR 2a01:8840:1b:0:0:0:0:21 65.22.25.21
+nserver:      V0N2.NIC.DOCTOR 2a01:8840:1c:0:0:0:0:21 65.22.26.21
+nserver:      V0N3.NIC.DOCTOR 161.232.12.21 2a01:8840:f6:0:0:0:0:21
+nserver:      V2N0.NIC.DOCTOR 2a01:8840:1d:0:0:0:0:21 65.22.27.21
+nserver:      V2N1.NIC.DOCTOR 161.232.13.21 2a01:8840:f7:0:0:0:0:21
+ds-rdata:     24394 8 2 2a6b3bad3adaa076e2bd11bb0ef493effb17c7e32f041e30a8504c165f669652
 
 whois:        whois.nic.doctor
 
@@ -45,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.donuts.domains/
 
 created:      2016-07-14
-changed:      2020-04-17
+changed:      2021-11-03
 source:       IANA
 
