@@ -4,46 +4,41 @@
 
 domain:       MIAMI
 
-organisation: Minds + Machines Group Limited
-address:      Craigmuir Chambers, Road Town Tortola VG 1110
+organisation: Registry Services, LLC
+address:      2155 E. GoDaddy Way
+address:      Tempe, AZ 85284
 address:      United States
 
 contact:      administrative
-name:         Admin Contact
-organisation: Minds + Machines Ltd
-address:      32 Nassau St, Dublin 2
-address:      Ireland
-phone:        +1-877-734-4783
-e-mail:       ops@mmx.co
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      2155 E GoDaddy Way, Tempe AZ 85284
+address:      United States
+phone:        +1 480-505-8800
+fax-no:       +1 480-624-2546
+e-mail:       iana@registry.godaddy
 
 contact:      technical
-name:         TLD Registry Services Technical
-organisation: Nominet
-address:      Minerva House,
-address:      Edmund Halley Road,
-address:      Oxford Science Park,
-address:      Oxford,
-address:      OX4 4DQ
-address:      United Kingdom
-phone:        +44.1865332211
-e-mail:       registrytechnical@nominet.uk
+name:         IANA contact
+organisation: GoDaddy Registry
+address:      2155 E GoDaddy Way, Tempe AZ 85284 US
+address:      United States
+phone:        +1 480-505-8800
+fax-no:       +1 480-624-2546
+e-mail:       iana@registry.godaddy
 
-nserver:      DNS1.NIC.MIAMI 213.248.217.29 2a01:618:401:0:0:0:0:29
-nserver:      DNS2.NIC.MIAMI 103.49.81.29 2401:fd80:401:0:0:0:0:29
-nserver:      DNS3.NIC.MIAMI 213.248.221.29 2a01:618:405:0:0:0:0:29
-nserver:      DNS4.NIC.MIAMI 2401:fd80:405:0:0:0:0:29 43.230.49.29
-nserver:      DNSA.NIC.MIAMI 156.154.100.3 2001:502:ad09:0:0:0:0:3
-nserver:      DNSB.NIC.MIAMI 156.154.101.3
-nserver:      DNSC.NIC.MIAMI 156.154.102.3
-nserver:      DNSD.NIC.MIAMI 156.154.103.3
-ds-rdata:     47539 8 2 453C25A8643CD004F889167848F73DA1BF5E35897E01DAD9C7C7F665FD0850C5
+nserver:      A.NIC.MIAMI 2001:dcd:1:0:0:0:0:10 37.209.192.10
+nserver:      B.NIC.MIAMI 2001:dcd:2:0:0:0:0:10 37.209.194.10
+nserver:      C.NIC.MIAMI 2001:dcd:3:0:0:0:0:10 37.209.196.10
+nserver:      D.NIC.MIAMI 2001:dcd:4:0:0:0:0:10 37.209.198.10
+ds-rdata:     19654 8 2 8F63985AD288D934E94263F9CEA1F58734EDA5B75B35BCB9CA39B3038BFC03AA
 
 whois:        whois.nic.miami
 
 status:       ACTIVE
-remarks:      Registration information: http://mmx.co
+remarks:      Registration information: http://nic.miami
 
 created:      2014-02-28
-changed:      2018-06-29
+changed:      2022-07-18
 source:       IANA
 
