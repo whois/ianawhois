@@ -4,51 +4,48 @@
 
 domain:       AUDIO
 
-organisation: UNR Corp.
-address:      Third Floor, Monaco Towers, Georgetown
-address:      Grand Cayman, Cayman Islands
-address:      30369SMB-KY11202
-address:      Cayman Islands
+organisation: XYZ.COM LLC
+address:      2121 E Tropicana Ave, Suite 2
+address:      Las Vegas, NV 89119
+address:      United States
 
 contact:      administrative
-name:         Frank Schilling
-organisation: UNR Corp.
-address:      Third Floor, Monaco Towers, Georgetown
-address:      Grand Cayman, Cayman Islands
-address:      30369SMB-KY11202
-address:      Cayman Islands
-phone:        +1 345 746 3687 
-fax-no:       +1 345 746 3687 
-e-mail:       contact@unr.com
+name:         General Counsel
+organisation: XYZ.COM LLC
+address:      2121 E Tropicana Ave, Suite 2
+address:      Las Vegas, NV 89119
+address:      United States
+phone:        +1 702 763 2191
+e-mail:       hello@xyz.com
 
 contact:      technical
-name:         Francisco Obispo
-organisation: UNR Corp.
-address:      Third Floor, Monaco Towers, Georgetown
-address:      Grand Cayman, Cayman Islands
-address:      30369SMB-KY11202
-address:      Cayman Islands
-phone:        +1 345 746 3687 
-fax-no:       +1 345 746 3687 
-e-mail:       ops@unr.com
+name:         CTO
+organisation: CentralNic
+address:      Saddlers House, 4th Floor
+address:      44 Gutter Lane
+address:      London EC2V 6BR
+address:      United Kingdom
+phone:        +44 20 33 88 0600
+fax-no:       +44 20 33 88 0601
+e-mail:       tld.ops@centralnic.com
 
-nserver:      NS1.UNIREGISTRY.NET 2620:57:4000:1:0:0:0:1 64.96.1.1
-nserver:      NS2.UNIREGISTRY.INFO 64.96.2.1
-nserver:      NS3.UNIREGISTRY.NET 185.159.197.3 2620:10a:80aa:0:0:0:0:3
-nserver:      NS4.UNIREGISTRY.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
-ds-rdata:     14626 5 1 CE8E169AE8CAC1749DBD193E9B7C618AE1BE0787
-ds-rdata:     14626 5 2 473B7EBBDF1A8C8E09D34B7DD71BA8F405AA9238D0236C3E2B5413BD1ECDAA36
+nserver:      A.NIC.AUDIO 194.169.218.150 2001:67c:13cc:0:0:0:1:150
+nserver:      B.NIC.AUDIO 185.24.64.150 2a04:2b00:13cc:0:0:0:1:150
+nserver:      C.NIC.AUDIO 212.18.248.150 2a04:2b00:13ee:0:0:0:0:150
+nserver:      D.NIC.AUDIO 212.18.249.150 2a04:2b00:13ff:0:0:0:0:150
 ds-rdata:     49027 5 1 F2611084038A67137A2A8EF584402BAD64EE365D
 ds-rdata:     20191 5 2 775C07F584233B85606AC3874441C97AD1AF7F144D3E9F0FD779F1E064E49316
 ds-rdata:     20191 5 1 BB72622C591C9F739AF49C13EEDB7F2796CBC8FB
 ds-rdata:     49027 5 2 5679B4ABDCC3A065FE7FDDDCF8AD1D7EBE22323D758ABC315AB4D4D8B49CF684
+ds-rdata:     10807 5 2 859c5604b1a595b5e139d2904314e6e5eee152ace825a74eca32a3e1290f178c
+ds-rdata:     10807 5 1 a8743f3c50bf77807ef5713d614f4cf1c0567f95
 
-whois:        whois.uniregistry.net
+whois:        whois.nic.audio
 
 status:       ACTIVE
-remarks:      Registration information: http://uniregistry.link
+remarks:      Registration information: https://nic.audio
 
 created:      2014-05-08
-changed:      2020-11-03
+changed:      2022-08-16
 source:       IANA
 
