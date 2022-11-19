@@ -35,12 +35,12 @@ nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
 ds-rdata:     46399 8 2 65907e5274d504536003bc4c24ac8d4907d0a7018996ffda5b7f46e8bd9825ba
 
-whois:        whois.nic.xn--45q11c
+whois:        whois.gtld.knet.cn
 
 status:       ACTIVE
 remarks:      Registration information: http://www.bagua.wang
 
 created:      2014-11-06
-changed:      2019-06-13
+changed:      2022-01-25
 source:       IANA
 
