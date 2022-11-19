@@ -6,44 +6,44 @@ domain:       TRAVEL
 
 organisation: Dog	Beach, LLC
 address:      Donuts Inc.
-address:      5808 Lake Washington Blvd NE, Suite 300
-address:      Kirkland, WA 98033
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
 address:      United States
 
 contact:      administrative
-name:         Serina Ness
+name:         Vice President, Engineering
 organisation: Donuts Inc.
-address:      Donuts Inc.
-address:      5808 Lake Washington Blvd NE, Suite 300
-address:      Kirkland, WA 98033
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
 address:      United States
-phone:        +1.425.283.8248
+phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       serina@donuts.email
+e-mail:       tldadmin@donuts.email
 
 contact:      technical
-name:         IANA Contact
-organisation: GoDaddy Registry
-address:      14455 North Hayden Rd.
-address:      Scottsdale, AZ 85260
+name:         Senior Director, DNS Infrastructure Group
+organisation: Donuts Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
 address:      United States
-phone:        +1 480-505-8800
-fax-no:       +1 480-393-4275
-e-mail:       iana@registry.godaddy
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@donuts.email
 
-nserver:      DEMAND.ALPHA.ARIDNS.NET.AU 2001:dcd:1:0:0:0:0:7 37.209.192.7
-nserver:      DEMAND.BETA.ARIDNS.NET.AU 2001:dcd:2:0:0:0:0:7 37.209.194.7
-nserver:      DEMAND.DELTA.ARIDNS.NET.AU 2001:dcd:4:0:0:0:0:7 37.209.198.7
-nserver:      DEMAND.GAMMA.ARIDNS.NET.AU 2001:dcd:3:0:0:0:0:7 37.209.196.7
-ds-rdata:     31990 8 2 BC0515A824EA46DA5447380066C64BE8A132BE4EF8D689327E4FA29A8F8763FB
-ds-rdata:     31990 8 1 8FA0B7EABE1DDCBD66B983FCBB4FD70EE8022CD1
+nserver:      V0N0.NIC.TRAVEL 2a01:8840:1e:0:0:0:0:8 65.22.28.8
+nserver:      V0N1.NIC.TRAVEL 2a01:8840:1f:0:0:0:0:8 65.22.29.8
+nserver:      V0N2.NIC.TRAVEL 2a01:8840:20:0:0:0:0:8 65.22.30.8
+nserver:      V0N3.NIC.TRAVEL 161.232.14.8 2a01:8840:f8:0:0:0:0:8
+nserver:      V2N0.NIC.TRAVEL 2a01:8840:21:0:0:0:0:8 65.22.31.8
+nserver:      V2N1.NIC.TRAVEL 161.232.15.8 2a01:8840:f9:0:0:0:0:8
+ds-rdata:     60277 8 2 df8590752dcf2cc075f91d5a6178c38a7ba1dbbc0c2327b88ca37be4797be126
 
 whois:        whois.nic.travel
 
 status:       ACTIVE
-remarks:      Registration information: http://www.travel.travel/
+remarks:      Registration information: https://www.travel.travel/
 
 created:      2005-07-27
-changed:      2021-01-28
+changed:      2021-11-10
 source:       IANA
 
