@@ -22,21 +22,20 @@ e-mail:       chintai-registry@interlink.ad.jp
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      14455 North Hayden Rd.
-address:      Scottsdale, AZ 85260
+address:      2155 E GoDaddy Way
+address:      Tempe, AZ 85284
 address:      United States
-phone:        +1 480-505-8800
-fax-no:       +1 480-393-4275
+phone:        +1 480 505 8800
+fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
 
+nserver:      A.NIC.CHINTAI 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.CHINTAI 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.CHINTAI 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.CHINTAI 156.154.144.40 2610:a1:1071:0:0:0:0:28
 nserver:      NS2.DNS.NIC.CHINTAI 156.154.145.40 2610:a1:1072:0:0:0:0:28
 nserver:      NS3.DNS.NIC.CHINTAI 156.154.159.40 2610:a1:1073:0:0:0:0:28
-nserver:      NS4.DNS.NIC.CHINTAI 156.154.156.40 2610:a1:1074:0:0:0:0:28
-nserver:      NS5.DNS.NIC.CHINTAI 156.154.157.40 2610:a1:1075:0:0:0:0:28
-nserver:      NS6.DNS.NIC.CHINTAI 156.154.158.40 2610:a1:1076:0:0:0:0:28
-ds-rdata:     37675 8 1 1027BABF1FEDF70EEC477E7DA2014CBC0DE4971C
-ds-rdata:     37675 8 2 B6F37125DE721393EE3D52AE2040BDEB8405737ABDB1A0DEDB5045A35756752C
+ds-rdata:     58834 8 2 71DC6C01F954DA83B6CDC9E95BEABCF8A72FCF478B56F7B4E1214E965BCBFE7C
 
 whois:        whois.nic.chintai
 
@@ -44,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.chintai
 
 created:      2016-03-03
-changed:      2020-10-12
+changed:      2022-07-21
 source:       IANA
 
