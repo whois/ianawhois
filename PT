@@ -5,25 +5,25 @@
 domain:       PT
 
 organisation: Associação DNS.PT
-address:      Rua Latino Coelho, nº13, 5ºpiso
-address:      1050-132 Lisboa
+address:      Rua Eça de Queiroz, 29
+address:      1050-095 Lisboa
 address:      Portugal
 
 contact:      administrative
-name:         Luisa Lopes Gueifão
+name:         Luisa Ribeiro Lopes
 organisation: Associação DNS.PT
-address:      Rua Latino Coelho, nº13, 5ºpiso
-address:      1050-132 Lisboa
+address:      Rua Eça de Queiroz, 29
+address:      1050-095 Lisboa
 address:      Portugal
 phone:        (+351) 211308200
 fax-no:       (+351) 211312720
-e-mail:       lgueifao@dns.pt
+e-mail:       luisa@dns.pt
 
 contact:      technical
 name:         Eduardo Manuel Laureano Duarte
 organisation: Associação DNS.PT
-address:      Rua Latino Coelho, nº13, 5ºpiso
-address:      1050-132 Lisboa
+address:      Rua Eça de Queiroz, 29
+address:      1050-095 Lisboa
 address:      Portugal
 phone:        (+351) 211308200
 fax-no:       (+351) 211312720
@@ -46,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.dns.pt/
 
 created:      1988-06-30
-changed:      2020-11-04
+changed:      2022-08-08
 source:       IANA
 
