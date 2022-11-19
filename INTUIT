@@ -20,11 +20,11 @@ e-mail:       dotintuit@markmonitor.com
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      14455 North Hayden Rd.
-address:      Scottsdale, AZ 85260
+address:      2155 E GoDaddy Way
+address:      Tempe, AZ 85284
 address:      United States
-phone:        +1 480-505-8800
-fax-no:       +1 480-393-4275
+phone:        +1 480 505 8800
+fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
 
 nserver:      NS1.DNS.NIC.INTUIT 156.154.144.82 2610:a1:1071:0:0:0:0:52
@@ -33,13 +33,12 @@ nserver:      NS3.DNS.NIC.INTUIT 156.154.159.82 2610:a1:1073:0:0:0:0:52
 nserver:      NS4.DNS.NIC.INTUIT 156.154.156.82 2610:a1:1074:0:0:0:0:52
 nserver:      NS5.DNS.NIC.INTUIT 156.154.157.82 2610:a1:1075:0:0:0:0:52
 nserver:      NS6.DNS.NIC.INTUIT 156.154.158.82 2610:a1:1076:0:0:0:0:52
-ds-rdata:     6625 8 2 6E8008BDD07C2639CA2D93C4183D73E0370EA511CDF40D8BF14951E3613EE525
-ds-rdata:     6625 8 1 01463CF07FEF7C3E37B2818E9317F55812C21D75
+ds-rdata:     8869 8 2 1A86450877BF7CDCAB1715F9B5206A668FD7E21C9D10119F3CE7E6D004287A5D
 
 status:       ACTIVE
 remarks:      Registration information: https://www.intuit.com/
 
 created:      2016-06-09
-changed:      2020-10-12
+changed:      2022-07-21
 source:       IANA
 
