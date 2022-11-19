@@ -20,21 +20,20 @@ e-mail:       edgar.c.lavarello@gi.pwc.com
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      14455 North Hayden Rd.
-address:      Scottsdale, AZ 85260
+address:      2155 E GoDaddy Way
+address:      Tempe, AZ 85284
 address:      United States
-phone:        +1 480-505-8800
-fax-no:       +1 480-393-4275
+phone:        +1 480 505 8800
+fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
 
+nserver:      A.NIC.WEBCAM 2001:dcd:1:0:0:0:0:10 37.209.192.10
+nserver:      B.NIC.WEBCAM 2001:dcd:2:0:0:0:0:10 37.209.194.10
+nserver:      C.NIC.WEBCAM 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      NS1.DNS.NIC.WEBCAM 156.154.169.60 2610:a1:1071:0:0:0:1:3c
 nserver:      NS2.DNS.NIC.WEBCAM 156.154.170.60 2610:a1:1072:0:0:0:1:3c
 nserver:      NS3.DNS.NIC.WEBCAM 156.154.171.60 2610:a1:1073:0:0:0:1:3c
-nserver:      NS4.DNS.NIC.WEBCAM 156.154.172.60 2610:a1:1074:0:0:0:1:3c
-nserver:      NS5.DNS.NIC.WEBCAM 156.154.173.60 2610:a1:1075:0:0:0:1:3c
-nserver:      NS6.DNS.NIC.WEBCAM 156.154.174.60 2610:a1:1076:0:0:0:1:3c
-ds-rdata:     51376 8 1 3AC22A8F5708755CDEDBE9998E3E88D00F7D2E97
-ds-rdata:     51376 8 2 6AC7CE04AED542F851B42F85894CD1EA6FF124EF9655F7DCD51FCA9F89E9767B
+ds-rdata:     22450 8 2 E2447935904A4E1DA9F3695F56055A2132FFC565A4EA2DDCF22C5AAE0605A2FD
 
 whois:        whois.nic.webcam
 
@@ -42,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.webcam
 
 created:      2014-03-06
-changed:      2020-10-12
+changed:      2022-07-21
 source:       IANA
 
