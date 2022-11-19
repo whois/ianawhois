@@ -19,26 +19,33 @@ fax-no:       +44 8700118187
 e-mail:       technical@valideus.com
 
 contact:      technical
-name:         Senior Director, DNS Infrastructure Group
-organisation: Afilias
-address:      Building 3, Suite 105, 300 Welsh Road, Horsham, PA, 19044
-address:      United States
-phone:        +1.215.706.5700
-fax-no:       +1 215.706.5701
-e-mail:       tld-tech-poc@afilias.info
+name:         TLD Registry Services Technical
+organisation: Nominet
+address:      Minerva House,
+address:      Edmund Halley Road,
+address:      Oxford Science Park,
+address:      Oxford
+address:      OX4 4DQ
+address:      United Kingdom
+phone:        +44.1865332211
+e-mail:       registrytechnical@nominet.uk
 
-nserver:      A0.NIC.ABBVIE 2a01:8840:9a:0:0:0:0:17 65.22.156.17
-nserver:      A2.NIC.ABBVIE 2a01:8840:9d:0:0:0:0:17 65.22.159.17
-nserver:      B0.NIC.ABBVIE 2a01:8840:9b:0:0:0:0:17 65.22.157.17
-nserver:      C0.NIC.ABBVIE 2a01:8840:9c:0:0:0:0:17 65.22.158.17
-ds-rdata:     40162 8 2 248fd3c8f1e9d870b09594bf45b7de53d29f984ce81f57f750d4bd0052e7b46e
+nserver:      DNS1.NIC.ABBVIE 213.248.219.41 2a01:618:403:0:0:0:0:41
+nserver:      DNS2.NIC.ABBVIE 103.49.83.41 2401:fd80:403:0:0:0:0:41
+nserver:      DNS3.NIC.ABBVIE 213.248.223.41 2a01:618:407:0:0:0:0:41
+nserver:      DNS4.NIC.ABBVIE 2401:fd80:407:0:0:0:0:41 43.230.51.41
+nserver:      DNSA.NIC.ABBVIE 156.154.100.3 2001:502:ad09:0:0:0:0:3
+nserver:      DNSB.NIC.ABBVIE 156.154.101.3 2001:502:2eda:0:0:0:0:3
+nserver:      DNSC.NIC.ABBVIE 156.154.102.3 2610:a1:1009:0:0:0:0:3
+nserver:      DNSD.NIC.ABBVIE 156.154.103.3 2610:a1:1010:0:0:0:0:3
+ds-rdata:     56720 8 2 11E4530F78B2C9CB2455D04DFA886A61C3F23E1887E53245B7950FFF03AD8B2B
 
-whois:        whois.afilias-srs.net
+whois:        whois.nic.abbvie
 
 status:       ACTIVE
 remarks:      Registration information: http://www.abbvie.com
 
 created:      2016-02-26
-changed:      2020-12-10
+changed:      2021-11-09
 source:       IANA
 
