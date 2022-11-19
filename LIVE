@@ -4,38 +4,39 @@
 
 domain:       LIVE
 
-organisation: United TLD Holdco Ltd.
-address:      One Clarendon Row, Dublin 2, Co. Dublin
-address:      Ireland
+organisation: Dog Beach, LLC
+address:      Donuts Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
+address:      United States
 
 contact:      administrative
-name:         Serina Ness
+name:         Vice President, Engineering
 organisation: Donuts Inc.
-address:      Donuts Inc.
-address:      5808 Lake Washington Blvd NE, Suite 300
-address:      Kirkland, WA 98033
-address:      United States
-phone:        +1.425.283.8248
-fax-no:       +1.425.671.0020
-e-mail:       serina@donuts.email
-
-contact:      technical
-name:         Ben Levac
-organisation: Donuts Inc.
-address:      Donuts Inc.
-address:      5808 Lake Washington Blvd NE, Suite 300
-address:      Kirkland, WA 98033
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
 address:      United States
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       ben@donuts.email
+e-mail:       tldadmin@donuts.email
 
-nserver:      DEMAND.ALPHA.ARIDNS.NET.AU 2001:dcd:1:0:0:0:0:7 37.209.192.7
-nserver:      DEMAND.BETA.ARIDNS.NET.AU 2001:dcd:2:0:0:0:0:7 37.209.194.7
-nserver:      DEMAND.DELTA.ARIDNS.NET.AU 2001:dcd:4:0:0:0:0:7 37.209.198.7
-nserver:      DEMAND.GAMMA.ARIDNS.NET.AU 2001:dcd:3:0:0:0:0:7 37.209.196.7
-ds-rdata:     27304 8 1 BB1914F4690FDC1C882FA6CEA84D14FCA6B9D38D
-ds-rdata:     27304 8 2 F76B40CAC1A4F9D7B2E3ED67602D7F934FD45D9064CE78880FB73D09B1ACD107
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Donuts Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
+address:      United States
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@donuts.email
+
+nserver:      V0N0.NIC.LIVE 2a01:8840:16:0:0:0:0:1 65.22.20.1
+nserver:      V0N1.NIC.LIVE 2a01:8840:17:0:0:0:0:1 65.22.21.1
+nserver:      V0N2.NIC.LIVE 2a01:8840:18:0:0:0:0:1 65.22.22.1
+nserver:      V0N3.NIC.LIVE 161.232.10.1 2a01:8840:f4:0:0:0:0:1
+nserver:      V2N0.NIC.LIVE 2a01:8840:19:0:0:0:0:1 65.22.23.1
+nserver:      V2N1.NIC.LIVE 161.232.11.1 2a01:8840:f5:0:0:0:0:1
+ds-rdata:     36322 8 2 201df9a9af6766d9cdbc8355756728f2db40ba93f9724f93aeeb1bddd7d564a0
 
 whois:        whois.nic.live
 
@@ -43,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.donuts.domains/
 
 created:      2015-06-25
-changed:      2020-04-17
+changed:      2021-10-27
 source:       IANA
 
