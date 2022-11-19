@@ -20,26 +20,25 @@ e-mail:       able-registry@interlink.ad.jp
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      14455 North Hayden Rd.
-address:      Scottsdale, AZ 85260
+address:      2155 E GoDaddy Way
+address:      Tempe, AZ 85284
 address:      United States
-phone:        +1 480-505-8800
-fax-no:       +1 480-393-4275
+phone:        +1 480 505 8800
+fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
 
+nserver:      A.NIC.ABLE 2001:dcd:1:0:0:0:0:10 37.209.192.10
+nserver:      B.NIC.ABLE 2001:dcd:2:0:0:0:0:10 37.209.194.10
+nserver:      C.NIC.ABLE 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      NS1.DNS.NIC.ABLE 156.154.144.3 2610:a1:1071:0:0:0:0:3
 nserver:      NS2.DNS.NIC.ABLE 156.154.145.3 2610:a1:1072:0:0:0:0:3
 nserver:      NS3.DNS.NIC.ABLE 156.154.159.3 2610:a1:1073:0:0:0:0:3
-nserver:      NS4.DNS.NIC.ABLE 156.154.156.3 2610:a1:1074:0:0:0:0:3
-nserver:      NS5.DNS.NIC.ABLE 156.154.157.3 2610:a1:1075:0:0:0:0:3
-nserver:      NS6.DNS.NIC.ABLE 156.154.158.3 2610:a1:1076:0:0:0:0:3
-ds-rdata:     27952 8 2 93EA064F40AF4CF9EA862DC1174E98AC081FE30DE1C809994A8D3BBBF28CDEC1
-ds-rdata:     27952 8 1 ECBFA9F28FBD32A81545B498E124DA952543F505
+ds-rdata:     45202 8 2 C7832F26B62FDF91DA819AC5FA524EAE2EEBE0651CAF074B59DC0176D49FD836
 
 status:       ACTIVE
 remarks:      Registration information: http://www.able.co.jp
 
 created:      2016-03-03
-changed:      2020-10-12
+changed:      2022-07-21
 source:       IANA
 
