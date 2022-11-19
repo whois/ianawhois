@@ -4,7 +4,7 @@
 
 domain:       UNO
 
-organisation: DotSite Inc.
+organisation: Radix FZC
 address:      Directiplex
 address:      Next to Andheri Subway
 address:      Old Nagardas Road, Andheri (East)
@@ -13,8 +13,8 @@ address:      400069 Maharashtra
 address:      India
 
 contact:      administrative
-name:         Neha Naik
-organisation: DotSite Inc.
+name:         Director
+organisation: Radix FZC
 address:      Directiplex
 address:      Next to Andheri Subway
 address:      Old Nagardas Road, Andheri (East)
@@ -27,14 +27,13 @@ fax-no:       +91.2230797508
 e-mail:       admin@radixregistry.com
 
 contact:      technical
-name:         CtO
-organisation: CentralNic Registry
-address:      Saddlers House, 4th Floor
-address:      44 Gutter Lane
+name:         CTO
+organisation: CentralNic
+address:      Saddlers House 4th Floor 44 Gutter Lane
 address:      London EC2V 6BR
 address:      United Kingdom
-phone:        +442033880600
-fax-no:       +44.2033880601
+phone:        +44 20 33 88 0600
+fax-no:       +44 20 33 88 0601
 e-mail:       tld.ops@centralnic.com
 
 nserver:      A.NIC.UNO 194.169.218.21 2001:67c:13cc:0:0:0:1:21
@@ -54,6 +53,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.radix.website 
 
 created:      2013-11-13
-changed:      2020-02-19
+changed:      2021-10-12
 source:       IANA
 
