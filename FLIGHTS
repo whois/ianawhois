@@ -6,38 +6,37 @@ domain:       FLIGHTS
 
 organisation: Binky Moon, LLC
 address:      Donuts Inc.
-address:      5808 Lake Washington Blvd NE, Suite 300
-address:      Kirkland, WA 98033
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
 address:      United States
 
 contact:      administrative
-name:         Serina Ness
+name:         Vice President, Engineering
 organisation: Donuts Inc.
-address:      Donuts Inc.
-address:      5808 Lake Washington Blvd NE, Suite 300
-address:      Kirkland, WA 98033
-address:      United States
-phone:        +1.425.283.8248
-fax-no:       +1.425.671.0020
-e-mail:       serina@donuts.email
-
-contact:      technical
-name:         Ben Levac
-organisation: Donuts Inc.
-address:      Donuts Inc.
-address:      5808 Lake Washington Blvd NE, Suite 300
-address:      Kirkland, WA 98033
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
 address:      United States
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       ben@donuts.email
+e-mail:       tldadmin@donuts.email
 
-nserver:      DEMAND.ALPHA.ARIDNS.NET.AU 2001:dcd:1:0:0:0:0:7 37.209.192.7
-nserver:      DEMAND.BETA.ARIDNS.NET.AU 2001:dcd:2:0:0:0:0:7 37.209.194.7
-nserver:      DEMAND.DELTA.ARIDNS.NET.AU 2001:dcd:4:0:0:0:0:7 37.209.198.7
-nserver:      DEMAND.GAMMA.ARIDNS.NET.AU 2001:dcd:3:0:0:0:0:7 37.209.196.7
-ds-rdata:     1135 8 2 5F917FB93F8B9E804D272E8CA7A8CEC09C1435FB14484AF3ECFA1A0FB6794840
-ds-rdata:     1135 8 1 2804258A22206A1A68FF257A981D86854C6A9346
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Donuts Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
+address:      United States
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@donuts.email
+
+nserver:      V0N0.NIC.FLIGHTS 2a01:8840:1e:0:0:0:0:31 65.22.28.31
+nserver:      V0N1.NIC.FLIGHTS 2a01:8840:1f:0:0:0:0:31 65.22.29.31
+nserver:      V0N2.NIC.FLIGHTS 2a01:8840:20:0:0:0:0:31 65.22.30.31
+nserver:      V0N3.NIC.FLIGHTS 161.232.14.31 2a01:8840:f8:0:0:0:0:31
+nserver:      V2N0.NIC.FLIGHTS 2a01:8840:21:0:0:0:0:31 65.22.31.31
+nserver:      V2N1.NIC.FLIGHTS 161.232.15.31 2a01:8840:f9:0:0:0:0:31
+ds-rdata:     2104 8 2 e78701c441507ded68434984e0842f491bb2bcef7f0f06c9b4c964aaaad7222f
 
 whois:        whois.nic.flights
 
@@ -45,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.donuts.domains/
 
 created:      2014-01-30
-changed:      2020-04-17
+changed:      2021-11-10
 source:       IANA
 
