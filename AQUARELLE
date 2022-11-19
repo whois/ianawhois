@@ -33,7 +33,7 @@ e-mail:       pocaquarelle@afnic.fr
 nserver:      D.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
 nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
 nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
-ds-rdata:     64237 13 2 58c27b4e474ed6d14f69030c8caba5e56d3dc06ebb43ad30d5512320f3ac790a
+ds-rdata:     22061 13 2 65A423EC214071521668ED047D2E74BA781E6495E0252CB8E08A7A633A89297D
 
 whois:        whois.nic.aquarelle
 
@@ -41,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.aquarelle.com
 
 created:      2014-11-06
-changed:      2020-07-28
+changed:      2022-08-09
 source:       IANA
 
