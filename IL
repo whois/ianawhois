@@ -36,8 +36,8 @@ nserver:      NS3.NS.IL 194.0.11.103 2001:678:e:103:0:0:0:53
 nserver:      NS4.NS.IL 2001:500:14:6134:ad:0:0:1 204.61.216.134
 nserver:      NSA.NS.IL 192.115.7.53
 nserver:      NSB.NS.IL 192.115.7.60
-nserver:      NSE.NS.IL 192.115.141.253
-ds-rdata:     3301 13 2 b47195efd3e1bd63a7a5768e3736728e385b11cd48927e35a4f16f6d1f02685f
+nserver:      NSE.NS.IL 192.115.4.235
+ds-rdata:     19598 13 2 8e1ec01e24ae9345881ee1b60828e887106c83e8539dc540628dfe245feaae50
 
 whois:        whois.isoc.org.il
 
@@ -45,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.isoc.org.il/domains
 
 created:      1985-10-24
-changed:      2021-01-04
+changed:      2022-02-10
 source:       IANA
 
