@@ -20,22 +20,20 @@ fax-no:       1.678.884.1468
 e-mail:       ray@tldesign.co
 
 contact:      technical
-name:         CTO
-organisation: CentralNic
-address:      Saddlers House, 4th Floor
-address:      44 Gutter Lane
-address:      London EC2V 6BR
-address:      United Kingdom
-phone:        +44.2033880600
-fax-no:       +44.2033880601
-e-mail:       tld.ops@centralnic.com
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      2155 E GoDaddy Way
+address:      Tempe, AZ 85284
+address:      United States
+phone:        +1 480-505-8800
+fax-no:       +1 480-624-2546
+e-mail:       iana@registry.godaddy
 
-nserver:      A.NIC.WIKI 194.169.218.30 2001:67c:13cc:0:0:0:1:30
-nserver:      B.NIC.WIKI 185.24.64.30 2a04:2b00:13cc:0:0:0:1:30
-nserver:      C.NIC.WIKI 212.18.248.30 2a04:2b00:13ee:0:0:0:0:30
-nserver:      D.NIC.WIKI 212.18.249.30 2a04:2b00:13ff:0:0:0:0:30
-ds-rdata:     4724 8 1 D72E942861438BD3EBA50D75B9C0555E3D7A2AAD
-ds-rdata:     4724 8 2 E907372D79E6E67D3BE4703456BAE27F824A7678964808134FABD6106A7897D8
+nserver:      A.NIC.WIKI 2001:dcd:1:0:0:0:0:10 37.209.192.10
+nserver:      B.NIC.WIKI 2001:dcd:2:0:0:0:0:10 37.209.194.10
+nserver:      C.NIC.WIKI 2001:dcd:3:0:0:0:0:10 37.209.196.10
+nserver:      D.NIC.WIKI 2001:dcd:4:0:0:0:0:10 37.209.198.10
+ds-rdata:     10870 8 2 3C2CA6A68BE31FD1222EB66AAA693C6C4991E6F8737CA62B1427B3C9E3E67539
 
 whois:        whois.nic.wiki
 
@@ -43,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.wiki
 
 created:      2014-02-06
-changed:      2020-04-14
+changed:      2022-07-21
 source:       IANA
 
