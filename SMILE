@@ -9,11 +9,11 @@ address:      410 Terry Avenue North, Seattle, WA  98109
 address:      United States
 
 contact:      administrative
-name:         General Manager
+name:         Program Manager, Registry
 organisation: Amazon Registry Services, Inc.
 address:      410 Terry Avenue North, Seattle, WA  98109
 address:      United States
-phone:        +1 206 740 8515
+phone:        +1 206 646 5990
 fax-no:       +1 206 946 7702
 e-mail:       smile-rzm@amazon.com
 
@@ -34,9 +34,9 @@ nserver:      DNS2.NIC.SMILE 103.49.82.81 2401:fd80:402:0:0:0:0:81
 nserver:      DNS3.NIC.SMILE 213.248.222.81 2a01:618:406:0:0:0:0:81
 nserver:      DNS4.NIC.SMILE 2401:fd80:406:0:0:0:0:81 43.230.50.81
 nserver:      DNSA.NIC.SMILE 156.154.100.3 2001:502:ad09:0:0:0:0:3
-nserver:      DNSB.NIC.SMILE 156.154.101.3
-nserver:      DNSC.NIC.SMILE 156.154.102.3
-nserver:      DNSD.NIC.SMILE 156.154.103.3
+nserver:      DNSB.NIC.SMILE 156.154.101.3 2001:502:2eda:0:0:0:0:3
+nserver:      DNSC.NIC.SMILE 156.154.102.3 2610:a1:1009:0:0:0:0:3
+nserver:      DNSD.NIC.SMILE 156.154.103.3 2610:a1:1010:0:0:0:0:3
 ds-rdata:     34961 8 2 BE86EE1B42B863C89283BF8EB0B013D6C16DB2B0702A3C28299EB318540FBEAA
 
 whois:        whois.nic.smile
@@ -45,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.amazonregistry.com
 
 created:      2015-11-12
-changed:      2019-08-21
+changed:      2021-11-19
 source:       IANA
 
