@@ -4,38 +4,39 @@
 
 domain:       VET
 
-organisation: United TLD Holdco, Ltd
-address:      One Clarendon Row, Dublin 2, Co. Dublin
-address:      Ireland
+organisation: Dog Beach, LLC
+address:      Donuts Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
+address:      United States
 
 contact:      administrative
-name:         Serina Ness
+name:         Vice President, Engineering
 organisation: Donuts Inc.
-address:      Donuts Inc.
-address:      5808 Lake Washington Blvd NE, Suite 300
-address:      Kirkland, WA 98033
-address:      United States
-phone:        +1.425.283.8248
-fax-no:       +1.425.671.0020
-e-mail:       serina@donuts.email
-
-contact:      technical
-name:         Ben Levac
-organisation: Donuts Inc.
-address:      Donuts Inc.
-address:      5808 Lake Washington Blvd NE, Suite 300
-address:      Kirkland, WA 98033
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
 address:      United States
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       ben@donuts.email
+e-mail:       tldadmin@donuts.email
 
-nserver:      DEMAND.ALPHA.ARIDNS.NET.AU 2001:dcd:1:0:0:0:0:7 37.209.192.7
-nserver:      DEMAND.BETA.ARIDNS.NET.AU 2001:dcd:2:0:0:0:0:7 37.209.194.7
-nserver:      DEMAND.DELTA.ARIDNS.NET.AU 2001:dcd:4:0:0:0:0:7 37.209.198.7
-nserver:      DEMAND.GAMMA.ARIDNS.NET.AU 2001:dcd:3:0:0:0:0:7 37.209.196.7
-ds-rdata:     29074 8 1 905CB42D272F4A42CFFB5BFB159008A82B144F6A
-ds-rdata:     29074 8 2 BB2C631991F0AF3D06C94B972BD54A459A5B17BD58E59BD1D8DA24B4BC1F63F3
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Donuts Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
+address:      United States
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@donuts.email
+
+nserver:      V0N0.NIC.VET 2a01:8840:22:0:0:0:0:49 65.22.32.49
+nserver:      V0N1.NIC.VET 2a01:8840:23:0:0:0:0:49 65.22.33.49
+nserver:      V0N2.NIC.VET 2a01:8840:24:0:0:0:0:49 65.22.34.49
+nserver:      V0N3.NIC.VET 161.232.16.49 2a01:8840:fa:0:0:0:0:49
+nserver:      V2N0.NIC.VET 2a01:8840:25:0:0:0:0:49 65.22.35.49
+nserver:      V2N1.NIC.VET 161.232.17.49 2a01:8840:fb:0:0:0:0:49
+ds-rdata:     19864 8 2 2b1b3ab9f4fdd837fc9f9c7875fa916b6a22c3ef5c0c04d5d3235e42828cf6a8
 
 whois:        whois.nic.vet
 
@@ -43,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.donuts.domains/
 
 created:      2014-05-22
-changed:      2020-04-16
+changed:      2021-11-18
 source:       IANA
 
