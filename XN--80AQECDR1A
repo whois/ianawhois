@@ -31,8 +31,7 @@ nserver:      A.NIC.XN--80AQECDR1A 2001:dcd:1:0:0:0:0:9 37.209.192.9
 nserver:      B.NIC.XN--80AQECDR1A 2001:dcd:2:0:0:0:0:9 37.209.194.9
 nserver:      C.NIC.XN--80AQECDR1A 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      D.NIC.XN--80AQECDR1A 2001:dcd:4:0:0:0:0:9 37.209.198.9
-ds-rdata:     51535 8 2 13E088351E6CD74FC2972101BD9A9F390E7A935CA8451B95AABC2DA481C043F9
-ds-rdata:     51535 8 1 FB93F8C970A0A6C616DE8BF0B13BC0F2F3592860
+ds-rdata:     16210 8 2 3EC3F92A011E4087D2C0FDF107A5AE34CA52FFA467BD73677128A91DA3F552EF
 
 whois:        whois.nic.xn--80aqecdr1a
 
@@ -40,6 +39,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.pccs.va
 
 created:      2016-11-16
-changed:      2020-06-02
+changed:      2022-07-21
 source:       IANA
 
