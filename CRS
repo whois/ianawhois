@@ -10,15 +10,14 @@ address:      Saskatoon SK S7K 3M9
 address:      Canada
 
 contact:      administrative
-name:         Web Solutions Manager
+name:         Director, Digital Commerce and Solutions
 organisation: Federated Co-operatives Limited
 address:      P.O. Box 1050
 address:      401 22nd Street East,
 address:      Saskatoon SK S7K 3M9
 address:      Canada
-phone:        306.244.3353
-fax-no:       306.244.3403
-e-mail:       crsdomain.operations@fcl.ca
+phone:        306.649.5670
+e-mail:       ngtld-fcl@cscglobal.com
 
 contact:      technical
 name:         Registry Customer Service
@@ -31,15 +30,16 @@ phone:        +1-703-925-6999
 fax-no:       +1-703-948-3978
 e-mail:       info@verisign-grs.com
 
-nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
-nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
-nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
-nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
+nserver:      A0.NIC.CRS 2a01:8840:6e:0:0:0:0:25 65.22.112.25
+nserver:      A2.NIC.CRS 2a01:8840:71:0:0:0:0:25 65.22.115.25
+nserver:      B0.NIC.CRS 2a01:8840:6f:0:0:0:0:25 65.22.113.25
+nserver:      C0.NIC.CRS 2a01:8840:70:0:0:0:0:25 65.22.114.25
 ds-rdata:     58626 8 2 5FBCEF1EAAFADBECAEA20E6547CAA2B3D5B2E40FB5C23EC978CE79F1BDFE48CB
+ds-rdata:     63622 8 2 d1647f1f8b7a8508b81f1d822c27581b628f7351ee8d99b8dc32a2bd802e0c37
 
 status:       ACTIVE
 
 created:      2014-08-28
-changed:      2019-08-23
+changed:      2022-10-28
 source:       IANA
 
