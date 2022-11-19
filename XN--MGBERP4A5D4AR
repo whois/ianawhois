@@ -35,14 +35,17 @@ address:      Saudi Arabia
 phone:        +966114618179
 e-mail:       tld-tech-contact@nic.net.sa
 
-nserver:      C1.DNS.SA 2001:67c:130:410:0:0:0:9 86.111.192.9
-nserver:      C2.DNS.SA 2001:67c:130:10:0:0:0:9 86.111.196.9
+nserver:      C1.DNS.SA 2001:67c:18c8:c0:0:0:0:c1 86.111.192.9
+nserver:      C2.DNS.SA 86.111.196.9
 nserver:      I1.DNS.SA 2001:1490:0:800:0:0:0:118 212.138.118.118
+nserver:      M1.DNS.SA 2a02:ce0:1:30:0:0:0:5 86.51.77.213
+nserver:      M2.DNS.SA 2a02:ce0:1:91:0:0:0:5 86.51.28.37
 nserver:      N1.DNS.SA 194.146.106.102 2001:67c:1010:26:0:0:0:53
 nserver:      P1.DNS.SA 2001:500:14:6041:ad:0:0:1 204.61.216.41
 nserver:      S1.DNS.SA 2001:16a0:1:3002:0:0:0:2 37.107.223.170
 nserver:      S2.DNS.SA 2001:16a0:2:3002:0:0:0:2 37.107.255.170
-ds-rdata:     60379 8 2 c9a8ea8504470a6d9c5ce9572a23851f293e48e910382a2a8818b0848f230d4a
+nserver:      SH1.DNS.SA 213.236.36.92 2a02:d70:64:68:0:0:0:2
+ds-rdata:     35065 8 2 349fbddb7899686446d9e2b534cc5ffe33b5a73a84b93555d0e905710e284eb0
 
 whois:        whois.nic.net.sa
 
@@ -50,6 +53,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.net.sa/
 
 created:      2010-05-05
-changed:      2020-12-08
+changed:      2022-10-06
 source:       IANA
 
