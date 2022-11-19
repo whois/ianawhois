@@ -30,6 +30,7 @@ e-mail:       tech@sidn.nl
 nserver:      NS1.NIC.POLITIE 194.0.28.5 2001:678:2c:0:194:0:28:5
 nserver:      NS2.NIC.POLITIE 194.146.106.42 2001:67c:1010:10:0:0:0:53
 nserver:      NS3.NIC.POLITIE 194.0.25.27 2001:678:20:0:0:0:0:27
+nserver:      NS4.NIC.POLITIE 185.159.199.203 2620:10a:80ac:0:0:0:0:203
 ds-rdata:     63485 8 2 98f1793434c640fcb733f3a17c6bbe63d32666debe54bb4d264bc22f273a4e15
 
 whois:        whois.nic.politie
@@ -37,6 +38,6 @@ whois:        whois.nic.politie
 status:       ACTIVE
 
 created:      2016-06-16
-changed:      2020-01-24
+changed:      2022-05-20
 source:       IANA
 
