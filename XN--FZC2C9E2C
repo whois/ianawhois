@@ -28,7 +28,7 @@ address:      Moratuwa  10400
 address:      Sri Lanka
 phone:        +94 11 4216061
 fax-no:       +94 11 2650912
-e-mail:       hostmaster@nic.lk
+e-mail:       hostmaster@domains.lk
 
 nserver:      LK.COMMUNITYDNS.NET 194.0.1.27
 nserver:      NIC.LK-ANYCAST.PCH.NET 204.61.216.27
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.lk
 
 created:      2010-08-19
-changed:      2011-09-22
+changed:      2022-11-07
 source:       IANA
 
