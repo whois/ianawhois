@@ -7,34 +7,35 @@ domain:       TR
 organisation: Bilgi Teknolojileri ve İletişim Kurumu (BTK)
 address:      Eskisehir Yolu 10.Km No:276 Çankaya
 address:      Ankara 06530
-address:      Turkey
+address:      TÜRKİYE
 
 contact:      administrative
+name:         Chief ICT Expert
+organisation: Bilgi Teknolojileri ve İletişim Kurumu
+address:      Eskisehir Yolu 10.Km No:276 Çankaya
+address:      Ankara 06530
+address:      TÜRKİYE
+phone:        +90 (312) 203 18 47
+fax-no:       +90 (312) 294 71 45
+e-mail:       onur.gencer@btk.gov.tr
+
+contact:      technical
 name:         ICT Expert
 organisation: Bilgi Teknolojileri ve İletişim Kurumu
 address:      Eskisehir Yolu 10.Km No:276 Çankaya
 address:      Ankara 06530
-address:      Turkey
-phone:        +90 (312) 403 15 82
+address:      TÜRKİYE
+phone:        +90 (312) 586 53 11
 fax-no:       +90 (312) 294 71 45
-e-mail:       sezen.yesil@btk.gov.tr
+e-mail:       gokhan.usta@btk.gov.tr
 
-contact:      technical
-name:         ICT Expert 
-organisation: Bilgi Teknolojileri ve İletişim Kurumu
-address:      Eskisehir Yolu 10.Km No:276 Çankaya
-address:      Ankara 06530
-address:      Turkey
-phone:        +90 (312) 403 15 78
-fax-no:       +90 (312) 294 71 45
-e-mail:       onur.gencer@btk.gov.tr
-
-nserver:      NS21.NIC.TR 213.14.246.2
-nserver:      NS22.NIC.TR 213.14.246.6
 nserver:      NS31.NIC.TR 31.210.155.2
+nserver:      NS34.NIC.TR 31.145.139.99
+nserver:      NS35.NIC.TR 31.145.139.119
 nserver:      NS41.NIC.TR 185.7.0.2 2001:a98:10:eeee:0:0:0:41
 nserver:      NS42.NIC.TR 185.7.0.3 2001:a98:10:eeee:0:0:0:42
 nserver:      NS61.NIC.TR 206.51.254.1 2620:171:804:ad2:0:0:0:1
+nserver:      NS71.NIC.TR 185.67.32.53
 
 whois:        whois.nic.tr
 
@@ -42,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.tr
 
 created:      1990-09-17
-changed:      2020-08-27
+changed:      2022-10-26
 source:       IANA
 
