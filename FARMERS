@@ -19,26 +19,25 @@ e-mail:       andy.1.kim@farmersinsurance.com
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      14455 North Hayden Rd.
-address:      Scottsdale, AZ 85260
+address:      2155 E GoDaddy Way
+address:      Tempe, AZ 85284
 address:      United States
-phone:        +1 480-505-8800
-fax-no:       +1 480-393-4275
+phone:        +1 480 505 8800
+fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
 
+nserver:      A.NIC.FARMERS 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.FARMERS 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.FARMERS 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.FARMERS 156.154.144.55 2610:a1:1071:0:0:0:0:37
 nserver:      NS2.DNS.NIC.FARMERS 156.154.145.55 2610:a1:1072:0:0:0:0:37
 nserver:      NS3.DNS.NIC.FARMERS 156.154.159.55 2610:a1:1073:0:0:0:0:37
-nserver:      NS4.DNS.NIC.FARMERS 156.154.156.55 2610:a1:1074:0:0:0:0:37
-nserver:      NS5.DNS.NIC.FARMERS 156.154.157.55 2610:a1:1075:0:0:0:0:37
-nserver:      NS6.DNS.NIC.FARMERS 156.154.158.55 2610:a1:1076:0:0:0:0:37
-ds-rdata:     8194 8 1 BC12074D491ADAD2D329D583CCEE4AF93C01DD47
-ds-rdata:     8194 8 2 AB6430BBC936AFCD953FBA86D904EE685A09879AB284BFDC20827BF094666911
+ds-rdata:     11494 8 2 CD092DA4B2E46BAB4B5FEA2310C7C8007E8B5732F5BB3CB6E0A01A4CEF212C70
 
 status:       ACTIVE
 remarks:      Registration information: https://www.farmers.com
 
 created:      2016-04-21
-changed:      2020-10-12
+changed:      2022-07-21
 source:       IANA
 
