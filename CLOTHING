@@ -6,38 +6,37 @@ domain:       CLOTHING
 
 organisation: Binky Moon, LLC
 address:      Donuts Inc.
-address:      5808 Lake Washington Blvd NE, Suite 300
-address:      Kirkland, WA 98033
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
 address:      United States
 
 contact:      administrative
-name:         Serina Ness
+name:         Vice President, Engineering
 organisation: Donuts Inc.
-address:      Donuts Inc.
-address:      5808 Lake Washington Blvd NE, Suite 300
-address:      Kirkland, WA 98033
-address:      United States
-phone:        +1.425.283.8248
-fax-no:       +1.425.671.0020
-e-mail:       serina@donuts.email
-
-contact:      technical
-name:         Ben Levac
-organisation: Donuts Inc.
-address:      Donuts Inc.
-address:      5808 Lake Washington Blvd NE, Suite 300
-address:      Kirkland, WA 98033
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
 address:      United States
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       ben@donuts.email
+e-mail:       tldadmin@donuts.email
 
-nserver:      DEMAND.ALPHA.ARIDNS.NET.AU 2001:dcd:1:0:0:0:0:7 37.209.192.7
-nserver:      DEMAND.BETA.ARIDNS.NET.AU 2001:dcd:2:0:0:0:0:7 37.209.194.7
-nserver:      DEMAND.DELTA.ARIDNS.NET.AU 2001:dcd:4:0:0:0:0:7 37.209.198.7
-nserver:      DEMAND.GAMMA.ARIDNS.NET.AU 2001:dcd:3:0:0:0:0:7 37.209.196.7
-ds-rdata:     39379 8 2 50DE79D19D9AE97C43771AB5AF4CBFC96CFC88E25BA3897F5C642365BCDAF3DE
-ds-rdata:     39379 8 1 9DC3AEC30C7C073631C1D5E6445BA9B899BFFDE2
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Donuts Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
+address:      United States
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@donuts.email
+
+nserver:      V0N0.NIC.CLOTHING 2a01:8840:1a:0:0:0:0:13 65.22.24.13
+nserver:      V0N1.NIC.CLOTHING 2a01:8840:1b:0:0:0:0:13 65.22.25.13
+nserver:      V0N2.NIC.CLOTHING 2a01:8840:1c:0:0:0:0:13 65.22.26.13
+nserver:      V0N3.NIC.CLOTHING 161.232.12.13 2a01:8840:f6:0:0:0:0:13
+nserver:      V2N0.NIC.CLOTHING 2a01:8840:1d:0:0:0:0:13 65.22.27.13
+nserver:      V2N1.NIC.CLOTHING 161.232.13.13 2a01:8840:f7:0:0:0:0:13
+ds-rdata:     28429 8 2 568008019c12e27101ddbe2dec57563701d527fffd4a61ae82d7c54febad2f2d
 
 whois:        whois.nic.clothing
 
@@ -45,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.donuts.domains/
 
 created:      2013-10-31
-changed:      2020-04-17
+changed:      2021-11-03
 source:       IANA
 
