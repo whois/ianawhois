@@ -6,38 +6,37 @@ domain:       FURNITURE
 
 organisation: Binky Moon, LLC
 address:      Donuts Inc.
-address:      5808 Lake Washington Blvd NE, Suite 300
-address:      Kirkland, WA 98033
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
 address:      United States
 
 contact:      administrative
-name:         Serina Ness
+name:         Vice President, Engineering
 organisation: Donuts Inc.
-address:      Donuts Inc.
-address:      5808 Lake Washington Blvd NE, Suite 300
-address:      Kirkland, WA 98033
-address:      United States
-phone:        +1.425.283.8248
-fax-no:       +1.425.671.0020
-e-mail:       serina@donuts.email
-
-contact:      technical
-name:         Ben Levac
-organisation: Donuts Inc.
-address:      Donuts Inc.
-address:      5808 Lake Washington Blvd NE, Suite 300
-address:      Kirkland, WA 98033
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
 address:      United States
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       ben@donuts.email
+e-mail:       tldadmin@donuts.email
 
-nserver:      DEMAND.ALPHA.ARIDNS.NET.AU 2001:dcd:1:0:0:0:0:7 37.209.192.7
-nserver:      DEMAND.BETA.ARIDNS.NET.AU 2001:dcd:2:0:0:0:0:7 37.209.194.7
-nserver:      DEMAND.DELTA.ARIDNS.NET.AU 2001:dcd:4:0:0:0:0:7 37.209.198.7
-nserver:      DEMAND.GAMMA.ARIDNS.NET.AU 2001:dcd:3:0:0:0:0:7 37.209.196.7
-ds-rdata:     23464 8 2 CE4F9BE5299807DC969518CEB77F37A88E42FE8E2D9E34CFCDDEC065BF220031
-ds-rdata:     23464 8 1 E1B00E1C27B83C48130A10C7CFC5FF0797D22694
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Donuts Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
+address:      United States
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@donuts.email
+
+nserver:      V0N0.NIC.FURNITURE 2a01:8840:22:0:0:0:0:59 65.22.32.59
+nserver:      V0N1.NIC.FURNITURE 2a01:8840:23:0:0:0:0:59 65.22.33.59
+nserver:      V0N2.NIC.FURNITURE 2a01:8840:24:0:0:0:0:59 65.22.34.59
+nserver:      V0N3.NIC.FURNITURE 161.232.16.59 2a01:8840:fa:0:0:0:0:59
+nserver:      V2N0.NIC.FURNITURE 2a01:8840:25:0:0:0:0:59 65.22.35.59
+nserver:      V2N1.NIC.FURNITURE 161.232.17.59 2a01:8840:fb:0:0:0:0:59
+ds-rdata:     2821 8 2 f50e41782d45c0c945289178e73f62d5c2fcb56cba05bdc5988ebb0d5d46f07b
 
 whois:        whois.nic.furniture
 
@@ -45,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.donuts.domains/
 
 created:      2014-04-17
-changed:      2020-04-17
+changed:      2021-11-18
 source:       IANA
 
