@@ -4,44 +4,43 @@
 
 domain:       DESIGN
 
-organisation: Top Level Design, LLC
-address:      742 Ocean Club Place
-address:      Fernandina Beach, FL 32034
+organisation: Registry Services, LLC
+address:      2155 E. GoDaddy Way
+address:      Tempe AZ 85284
 address:      United States
 
 contact:      administrative
-name:         Raymond King
-organisation: Top Level Design, LLC
-address:      742 Ocean Club Place
-address:      Fernandina Beach, FL 32034
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      2155 E. GoDaddy Way
+address:      Tempe AZ 85284
 address:      United States
-phone:        +1.5038888808
-fax-no:       +1.6788841468
-e-mail:       ray@tldesign.co
+phone:        +1 480-505-8800
+fax-no:       +1 480-624-2546
+e-mail:       iana@registry.godaddy
 
 contact:      technical
-name:         CTO
-organisation: CentralNic
-address:      Saddlers House, 4th Floor
-address:      44 Gutter Lane
-address:      London EC2V 6BR
-address:      United Kingdom
-phone:        +44.2033880600
-fax-no:       +44.2033880601
-e-mail:       tld.ops@centralnic.com
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      2155 E. GoDaddy Way
+address:      Tempe AZ 85284
+address:      United States
+phone:        +1 480-505-8800
+fax-no:       +1 480-624-2546
+e-mail:       iana@registry.godaddy
 
-nserver:      A.NIC.DESIGN 194.169.218.59 2001:67c:13cc:0:0:0:1:59
-nserver:      B.NIC.DESIGN 185.24.64.59 2a04:2b00:13cc:0:0:0:1:59
-nserver:      C.NIC.DESIGN 212.18.248.59 2a04:2b00:13ee:0:0:0:0:59
-nserver:      D.NIC.DESIGN 212.18.249.59 2a04:2b00:13ff:0:0:0:0:59
-ds-rdata:     17966 8 2 7EB4B30DD9FA4A97FB4EA4A280AD06871728E7BE5F38788449040E094B6C1B74
+nserver:      A.NIC.DESIGN 2001:dcd:1:0:0:0:0:10 37.209.192.10
+nserver:      B.NIC.DESIGN 2001:dcd:2:0:0:0:0:10 37.209.194.10
+nserver:      C.NIC.DESIGN 2001:dcd:3:0:0:0:0:10 37.209.196.10
+nserver:      D.NIC.DESIGN 2001:dcd:4:0:0:0:0:10 37.209.198.10
+ds-rdata:     50422 8 2 400C06349DA05FF7C9B9D8C11857E8E9C3CE947EA05CC4C7C6DE878BF2A496EE
 
 whois:        whois.nic.design
 
 status:       ACTIVE
-remarks:      Registration information: https://toplevel.design
+remarks:      Registration information: http://nic.design/
 
 created:      2014-12-18
-changed:      2021-02-23
+changed:      2022-07-18
 source:       IANA
 
