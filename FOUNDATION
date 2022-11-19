@@ -4,47 +4,46 @@
 
 domain:       FOUNDATION
 
-organisation: Binky Moon, LLC
-address:      Donuts Inc.
-address:      5808 Lake Washington Blvd NE, Suite 300
-address:      Kirkland, WA 98033
+organisation: Public Interest Registry (PIR)
+address:      11911 Freedom Drive 10th Floor, Suite 1000
+address:      Reston, VA 20190
 address:      United States
 
 contact:      administrative
-name:         Serina Ness
-organisation: Donuts Inc.
-address:      Donuts Inc.
-address:      5808 Lake Washington Blvd NE, Suite 300
-address:      Kirkland, WA 98033
+name:         Director of Operations, Compliance and Customer Support
+organisation: Public Interest Registry (PIR)
+address:      11911 Freedom Drive 10th Floor,
+address:      Suite 1000
+address:      Reston, VA 20190
 address:      United States
-phone:        +1.425.283.8248
-fax-no:       +1.425.671.0020
-e-mail:       serina@donuts.email
+phone:        1 703 889 5778
+fax-no:       1 703 889 5779
+e-mail:       ops@pir.org
 
 contact:      technical
-name:         Ben Levac
+name:         Senior Director, DNS Infrastructure Group
 organisation: Donuts Inc.
-address:      Donuts Inc.
-address:      5808 Lake Washington Blvd NE, Suite 300
-address:      Kirkland, WA 98033
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
 address:      United States
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       ben@donuts.email
+e-mail:       tldtech@donuts.email
 
-nserver:      DEMAND.ALPHA.ARIDNS.NET.AU 2001:dcd:1:0:0:0:0:7 37.209.192.7
-nserver:      DEMAND.BETA.ARIDNS.NET.AU 2001:dcd:2:0:0:0:0:7 37.209.194.7
-nserver:      DEMAND.DELTA.ARIDNS.NET.AU 2001:dcd:4:0:0:0:0:7 37.209.198.7
-nserver:      DEMAND.GAMMA.ARIDNS.NET.AU 2001:dcd:3:0:0:0:0:7 37.209.196.7
-ds-rdata:     439 8 1 C8D14A1649D85A59DBFB0052CDA31E6BBC819C12
-ds-rdata:     439 8 2 84E54B043AB279400108E54E1FFE637F1E0BF12CB32E3A6C82E95759F83932AA
+nserver:      V0N0.NIC.FOUNDATION 2a01:8840:1a:0:0:0:0:43 65.22.24.43
+nserver:      V0N1.NIC.FOUNDATION 2a01:8840:1b:0:0:0:0:43 65.22.25.43
+nserver:      V0N2.NIC.FOUNDATION 2a01:8840:1c:0:0:0:0:43 65.22.26.43
+nserver:      V0N3.NIC.FOUNDATION 161.232.12.43 2a01:8840:f6:0:0:0:0:43
+nserver:      V2N0.NIC.FOUNDATION 2a01:8840:1d:0:0:0:0:43 65.22.27.43
+nserver:      V2N1.NIC.FOUNDATION 161.232.13.43 2a01:8840:f7:0:0:0:0:43
+ds-rdata:     50359 8 2 b440325c92cab8d16072f62301b71032691fd4c5d46ed01278cf945b0f8e360b
 
 whois:        whois.nic.foundation
 
 status:       ACTIVE
-remarks:      Registration information: http://www.donuts.domains/
+remarks:      Registration information: http://nic.foundation
 
 created:      2014-02-06
-changed:      2020-04-17
+changed:      2022-06-03
 source:       IANA
 
