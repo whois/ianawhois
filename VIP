@@ -4,48 +4,43 @@
 
 domain:       VIP
 
-organisation: Minds + Machines Group Limited
-address:      Craigmuir Chambers
-address:      Road Town
-address:      Tortola VG 1110
-address:      Virgin Islands, British
+organisation: Registry Services, LLC
+address:      2155 E. GoDaddy Way
+address:      Tempe AZ 85284
+address:      United States
 
 contact:      administrative
-name:         Admin Contact
-organisation: Minds + Machines Ltd
-address:      32 Nassau St, Dublin 2
-address:      Ireland
-phone:        +1-877-734-4783
-e-mail:       ops@mmx.co
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      2155 E GoDaddy Way
+address:      Tempe AZ 85284
+address:      United States
+phone:        +1 480-505-8800
+fax-no:       +1 480-624-2546
+e-mail:       iana@registry.godaddy
 
 contact:      technical
-name:         TLD Registry Services Technical
-organisation: Nominet
-address:      Minerva House,
-address:      Edmund Halley Road,
-address:      Oxford Science Park,
-address:      Oxford,
-address:      OX4 4DQ
-address:      United Kingdom
-phone:        +44.1865332211
-e-mail:       registrytechnical@nominet.uk
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      2155 E GoDaddy Way
+address:      Tempe AZ 85284
+address:      United States
+phone:        +1 480-505-8800
+fax-no:       +1 480-624-2546
+e-mail:       iana@registry.godaddy
 
-nserver:      DNS1.NIC.VIP 213.248.217.32 2a01:618:401:0:0:0:0:32
-nserver:      DNS2.NIC.VIP 103.49.81.32 2401:fd80:401:0:0:0:0:32
-nserver:      DNS3.NIC.VIP 213.248.221.32 2a01:618:405:0:0:0:0:32
-nserver:      DNS4.NIC.VIP 2401:fd80:405:0:0:0:0:32 43.230.49.32
-nserver:      DNSA.NIC.VIP 156.154.100.3 2001:502:ad09:0:0:0:0:3
-nserver:      DNSB.NIC.VIP 156.154.101.3
-nserver:      DNSC.NIC.VIP 156.154.102.3
-nserver:      DNSD.NIC.VIP 156.154.103.3
-ds-rdata:     47342 8 2 21AE57CB4768F455421C8F155FC656B135B364A40BD82A7B92C0849FD138804E
+nserver:      A.NIC.VIP 2001:dcd:1:0:0:0:0:10 37.209.192.10
+nserver:      B.NIC.VIP 2001:dcd:2:0:0:0:0:10 37.209.194.10
+nserver:      C.NIC.VIP 2001:dcd:3:0:0:0:0:10 37.209.196.10
+nserver:      D.NIC.VIP 2001:dcd:4:0:0:0:0:10 37.209.198.10
+ds-rdata:     40669 8 2 EB70A1F31A3C3B26E464DD98A97970001FC220021DEA2B4A5DDA68DE2C1DBF00
 
 whois:        whois.nic.vip
 
 status:       ACTIVE
-remarks:      Registration information: http://mm-registry.com
+remarks:      Registration information: http://nic.vip/
 
 created:      2015-07-30
-changed:      2019-08-22
+changed:      2022-09-12
 source:       IANA
 
