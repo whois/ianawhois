@@ -30,13 +30,16 @@ e-mail:       jarle@norid.no
 nserver:      NAC.NO 128.39.2.22 2001:700:0:102:0:0:0:aa53
 nserver:      NN.UNINETT.NO 158.38.0.181 2001:700:0:503:0:0:aa:5302
 nserver:      SERVER.NORDU.NET 193.10.252.19 2001:948:4:2:0:0:0:19
-ds-rdata:     45254 8 2 e887c56bdb34d55fc23b7cc1945edcac3784a377b0897e79966331cbef8aa054
+nserver:      X.NIC.NO 128.39.8.40 2001:700:0:412f:0:0:0:40
+nserver:      Y.NIC.NO 193.75.4.22 2001:8c0:8200:1:0:0:0:2
+nserver:      Z.NIC.NO 158.38.8.133 2001:700:0:52d:158:38:8:133
+ds-rdata:     16935 13 2 ccef4dfbddb2886951a928b83f52be462ed1f63553dcaddd433935fc41a218af
 
 status:       ACTIVE
 remarks:      Registration information:
-remarks:      http://www.norid.no/omnorid/toppdomenet-sj.en.html
+remarks:      https://www.norid.no/en/omnorid/toppdomenet-sj/
 
 created:      1997-08-21
-changed:      2020-07-06
+changed:      2022-01-14
 source:       IANA
 
