@@ -4,51 +4,48 @@
 
 domain:       GAME
 
-organisation: UNR Corp.
-address:      Third Floor, Monaco Towers, Georgetown
-address:      Grand Cayman, Cayman Islands
-address:      30369SMB-KY11202
-address:      Cayman Islands
+organisation: XYZ.COM LLC
+address:      2121 E Tropicana Ave, Suite 2
+address:      Las Vegas, NV 89119
+address:      United States
 
 contact:      administrative
-name:         Frank Schilling
-organisation: UNR Corp.
-address:      Third Floor, Monaco Towers, Georgetown
-address:      Grand Cayman, Cayman Islands
-address:      30369SMB-KY11202
-address:      Cayman Islands
-phone:        +1 345 746 3687 
-fax-no:       +1 345 746 3687 
-e-mail:       contact@unr.com
+name:         General Counsel
+organisation: XYZ.COM LLC
+address:      2121 E Tropicana Ave, Suite 2
+address:      Las Vegas, NV 89119
+address:      United States
+phone:        +1 702 763 2191
+e-mail:       hello@xyz.com
 
 contact:      technical
-name:         Francisco Obispo
-organisation: UNR Corp.
-address:      Third Floor, Monaco Towers, Georgetown
-address:      Grand Cayman, Cayman Islands
-address:      30369SMB-KY11202
-address:      Cayman Islands
-phone:        +1 345 746 3687 
-fax-no:       +1 345 746 3687 
-e-mail:       ops@unr.com
+name:         CTO
+organisation: CentralNic
+address:      Saddlers House, 4th Floor
+address:      44 Gutter Lane
+address:      London EC2V 6BR
+address:      United Kingdom
+phone:        +44 20 33 88 0600
+fax-no:       +44 20 33 88 0601
+e-mail:       tld.ops@centralnic.com
 
-nserver:      NS1.UNIREGISTRY.NET 2620:57:4000:1:0:0:0:1 64.96.1.1
-nserver:      NS2.UNIREGISTRY.INFO 64.96.2.1
-nserver:      NS3.UNIREGISTRY.NET 185.159.197.3 2620:10a:80aa:0:0:0:0:3
-nserver:      NS4.UNIREGISTRY.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
-ds-rdata:     13193 5 1 136133127B403BB2607B30CDF320976DD71AD179
-ds-rdata:     13193 5 2 26DA606404E52FAC52305226892B013963D73EE61B062545EAB36D2BC13B8544
+nserver:      A.NIC.GAME 194.169.218.147 2001:67c:13cc:0:0:0:1:147
+nserver:      B.NIC.GAME 185.24.64.147 2a04:2b00:13cc:0:0:0:1:147
+nserver:      C.NIC.GAME 212.18.248.147 2a04:2b00:13ee:0:0:0:0:147
+nserver:      D.NIC.GAME 212.18.249.147 2a04:2b00:13ff:0:0:0:0:147
 ds-rdata:     39133 5 1 FB1F7E5D4D62AA9F930B77A9494BB3B04D84340A
 ds-rdata:     4126 5 1 0BFD20235875E18EE7D8B0FAD0A9F566D296CB09
 ds-rdata:     4126 5 2 F69BE762D422754930EE00176F377AB6A7FF074A48B2076A6F0CEE711D97001D
 ds-rdata:     39133 5 2 ECA12999E650C648FEABAB0AA1870D10D6E9F6316FA609B126C98477F964C6A4
+ds-rdata:     32929 5 1 ac35dd8c5c6e00427fce4432f9f817d54c5dbb9f
+ds-rdata:     32929 5 2 c7602f661849ef5422cb5e5d7ccc91e7ea8344c7fd20f0e43a198cc699ec895c
 
-whois:        whois.uniregistry.net
+whois:        whois.nic.game
 
 status:       ACTIVE
-remarks:      Registration information: http://uniregistry.link
+remarks:      Registration information: https://nic.game
 
 created:      2015-07-02
-changed:      2020-11-03
+changed:      2022-08-16
 source:       IANA
 
