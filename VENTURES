@@ -6,38 +6,37 @@ domain:       VENTURES
 
 organisation: Binky Moon, LLC
 address:      Donuts Inc.
-address:      5808 Lake Washington Blvd NE, Suite 300
-address:      Kirkland, WA 98033
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
 address:      United States
 
 contact:      administrative
-name:         Serina Ness
+name:         Vice President, Engineering
 organisation: Donuts Inc.
-address:      Donuts Inc.
-address:      5808 Lake Washington Blvd NE, Suite 300
-address:      Kirkland, WA 98033
-address:      United States
-phone:        +1.425.283.8248
-fax-no:       +1.425.671.0020
-e-mail:       serina@donuts.email
-
-contact:      technical
-name:         Ben Levac
-organisation: Donuts Inc.
-address:      Donuts Inc.
-address:      5808 Lake Washington Blvd NE, Suite 300
-address:      Kirkland, WA 98033
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
 address:      United States
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       ben@donuts.email
+e-mail:       tldadmin@donuts.email
 
-nserver:      DEMAND.ALPHA.ARIDNS.NET.AU 2001:dcd:1:0:0:0:0:7 37.209.192.7
-nserver:      DEMAND.BETA.ARIDNS.NET.AU 2001:dcd:2:0:0:0:0:7 37.209.194.7
-nserver:      DEMAND.DELTA.ARIDNS.NET.AU 2001:dcd:4:0:0:0:0:7 37.209.198.7
-nserver:      DEMAND.GAMMA.ARIDNS.NET.AU 2001:dcd:3:0:0:0:0:7 37.209.196.7
-ds-rdata:     880 8 2 DF63976901373F6764E49E67A51DEE48491762FACDD61B8900C06DA5E2039792
-ds-rdata:     880 8 1 7FE1D3785B6B84037937D3BDA59FB32FC4828BF9
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Donuts Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
+address:      United States
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@donuts.email
+
+nserver:      V0N0.NIC.VENTURES 2a01:8840:1a:0:0:0:0:11 65.22.24.11
+nserver:      V0N1.NIC.VENTURES 2a01:8840:1b:0:0:0:0:11 65.22.25.11
+nserver:      V0N2.NIC.VENTURES 2a01:8840:1c:0:0:0:0:11 65.22.26.11
+nserver:      V0N3.NIC.VENTURES 161.232.12.11 2a01:8840:f6:0:0:0:0:11
+nserver:      V2N0.NIC.VENTURES 2a01:8840:1d:0:0:0:0:11 65.22.27.11
+nserver:      V2N1.NIC.VENTURES 161.232.13.11 2a01:8840:f7:0:0:0:0:11
+ds-rdata:     43132 8 2 5ad3e6b74a570bbd7ea2f84c87e6bfc6c305233383d14f29074f3e6e4a03a810
 
 whois:        whois.nic.ventures
 
@@ -45,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.donuts.domains/
 
 created:      2013-10-31
-changed:      2020-04-16
+changed:      2021-11-02
 source:       IANA
 
