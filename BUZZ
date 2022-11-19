@@ -23,26 +23,25 @@ e-mail:       bill@nameshops.com
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      14455 North Hayden Rd.
-address:      Scottsdale, AZ 85260
+address:      2155 E GoDaddy Way
+address:      Tempe, AZ 85284
 address:      United States
-phone:        +1 480-505-8800
-fax-no:       +1 480-393-4275
+phone:        +1 480 505 8800
+fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
 
+nserver:      A.NIC.BUZZ 2001:dcd:1:0:0:0:0:10 37.209.192.10
+nserver:      B.NIC.BUZZ 2001:dcd:2:0:0:0:0:10 37.209.194.10
+nserver:      C.NIC.BUZZ 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      NS1.DNS.NIC.BUZZ 156.154.144.29 2610:a1:1071:0:0:0:0:1d
 nserver:      NS2.DNS.NIC.BUZZ 156.154.145.29 2610:a1:1072:0:0:0:0:1d
 nserver:      NS3.DNS.NIC.BUZZ 156.154.159.29 2610:a1:1073:0:0:0:0:1d
-nserver:      NS4.DNS.NIC.BUZZ 156.154.156.29 2610:a1:1074:0:0:0:0:1d
-nserver:      NS5.DNS.NIC.BUZZ 156.154.157.29 2610:a1:1075:0:0:0:0:1d
-nserver:      NS6.DNS.NIC.BUZZ 156.154.158.29 2610:a1:1076:0:0:0:0:1d
-ds-rdata:     23320 8 2 780196BF4D830F01D4E2B3FCD7817EC12F3BF9CF5310453CB7EB5EB658571728
-ds-rdata:     23320 8 1 1E3B6A96D7AC44A06299EAD98F66C918C780987E
+ds-rdata:     21817 8 2 EEA009D624A40B9AFAA8F0FA040A3D0FC900AB565E27AA90CEBB67B481C9816C
 
 status:       ACTIVE
 remarks:      Registration information: http://www.buzznames.biz
 
 created:      2013-12-12
-changed:      2020-10-12
+changed:      2022-07-21
 source:       IANA
 
