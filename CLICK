@@ -4,51 +4,43 @@
 
 domain:       CLICK
 
-organisation: UNR Corp.
-address:      Third Floor, Monaco Towers, Georgetown
+organisation: Internet Naming Co.
+address:      23 Lime Tree Bay, West Bay
 address:      Grand Cayman, Cayman Islands
-address:      30369SMB-KY11202
+address:      KY1-1505
 address:      Cayman Islands
 
 contact:      administrative
-name:         Frank Schilling
-organisation: UNR Corp.
-address:      Third Floor, Monaco Towers, Georgetown
+name:         Shayan Rostam
+organisation: Internet Naming Co.
+address:      23 Lime Tree Bay, West Bay
 address:      Grand Cayman, Cayman Islands
-address:      30369SMB-KY11202
+address:      KY1-1505
 address:      Cayman Islands
-phone:        +1 345 746 3687 
-fax-no:       +1 345 746 3687 
-e-mail:       contact@unr.com
+phone:        +1.424.888.0690
+e-mail:       partners@inaming.co
 
 contact:      technical
 name:         Francisco Obispo
-organisation: UNR Corp.
-address:      Third Floor, Monaco Towers, Georgetown
-address:      Grand Cayman, Cayman Islands
-address:      30369SMB-KY11202
-address:      Cayman Islands
-phone:        +1 345 746 3687 
-fax-no:       +1 345 746 3687 
-e-mail:       ops@unr.com
+organisation: Tucows Inc
+address:      96 Mowat Avenue
+address:      Toronto, Ontario M6K3M1
+address:      Canada
+phone:        +1.949.903.3449
+e-mail:       trs-ops@tucows.com
 
 nserver:      NS1.UNIREGISTRY.NET 2620:57:4000:1:0:0:0:1 64.96.1.1
 nserver:      NS2.UNIREGISTRY.INFO 64.96.2.1
 nserver:      NS3.UNIREGISTRY.NET 185.159.197.3 2620:10a:80aa:0:0:0:0:3
 nserver:      NS4.UNIREGISTRY.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
-ds-rdata:     15793 5 1 171AD6BEEDB150AA0258B17101B317B9858F405C
-ds-rdata:     15793 5 2 3A5785619714EAC2C06CC0C232125D5D20B6AC051991860600F679145CAED153
-ds-rdata:     56869 5 1 9B42BF19B4483D6EC25FCA370546313067E015FD
-ds-rdata:     56869 5 2 6F386C18096EDF298B38FD453E54C8277ADAA85127CBB011E33EC71AC797C0CC
-ds-rdata:     48691 5 1 07694698CCCA4614D3A4525328CD87DB8F472876
-ds-rdata:     48691 5 2 EF8A4181C8A59804C863E88F4A036F829E84271156F498CF652CACEB2D9D338A
+ds-rdata:     65517 13 2 D09A2C14C4382634EDCCF9634FB32E91511E1E642F3C38468BA2407F1D1BAD24
 
-whois:        whois.uniregistry.net
+whois:        whois.nic.click
 
 status:       ACTIVE
-remarks:      Registration information: http://uniregistry.link
+remarks:      Registration information: https://internetnaming.co
 
 created:      2014-08-15
-changed:      2020-11-03
+changed:      2022-11-16
 source:       IANA
 
