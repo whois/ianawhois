@@ -6,38 +6,37 @@ domain:       ACADEMY
 
 organisation: Binky Moon, LLC
 address:      Donuts Inc.
-address:      5808 Lake Washington Blvd NE, Suite 300
-address:      Kirkland, WA 98033
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
 address:      United States
 
 contact:      administrative
-name:         Serina Ness
+name:         Vice President, Engineering
 organisation: Donuts Inc.
-address:      Donuts Inc.
-address:      5808 Lake Washington Blvd NE, Suite 300
-address:      Kirkland, WA 98033
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
 address:      United States
-phone:        +1.425.283.8248
+phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       serina@donuts.email
+e-mail:       tldadmin@donuts.email
 
 contact:      technical
-name:         Ben Levac
+name:         Senior Director, DNS Infrastructure Group
 organisation: Donuts Inc.
-address:      Donuts Inc.
-address:      5808 Lake Washington Blvd NE, Suite 300
-address:      Kirkland, WA 98033
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
 address:      United States
-phone:        +1 425 298 2200
+phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       ben@donuts.email
+e-mail:       tldtech@donuts.email
 
-nserver:      DEMAND.ALPHA.ARIDNS.NET.AU 2001:dcd:1:0:0:0:0:7 37.209.192.7
-nserver:      DEMAND.BETA.ARIDNS.NET.AU 2001:dcd:2:0:0:0:0:7 37.209.194.7
-nserver:      DEMAND.DELTA.ARIDNS.NET.AU 2001:dcd:4:0:0:0:0:7 37.209.198.7
-nserver:      DEMAND.GAMMA.ARIDNS.NET.AU 2001:dcd:3:0:0:0:0:7 37.209.196.7
-ds-rdata:     56647 8 1 B69766DE01AD937D4FC9CD4E4C49BAB74644FC01
-ds-rdata:     56647 8 2 9DCE84D0C9463C04D9EEC6A2ED6524F29BA2BD1B73555FA34C95B656CB1B2C2A
+nserver:      V0N0.NIC.ACADEMY 2a01:8840:1a:0:0:0:0:37 65.22.24.37
+nserver:      V0N1.NIC.ACADEMY 2a01:8840:1b:0:0:0:0:37 65.22.25.37
+nserver:      V0N2.NIC.ACADEMY 2a01:8840:1c:0:0:0:0:37 65.22.26.37
+nserver:      V0N3.NIC.ACADEMY 161.232.12.37 2a01:8840:f6:0:0:0:0:37
+nserver:      V2N0.NIC.ACADEMY 2a01:8840:1d:0:0:0:0:37 65.22.27.37
+nserver:      V2N1.NIC.ACADEMY 161.232.13.37 2a01:8840:f7:0:0:0:0:37
+ds-rdata:     21439 8 2 15eb9367def52ba7dce806a2d7adc6d3b279503235057fa6e7405e96b39f9052
 
 whois:        whois.nic.academy
 
@@ -45,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.donuts.domains/
 
 created:      2013-12-12
-changed:      2020-04-17
+changed:      2021-11-03
 source:       IANA
 
