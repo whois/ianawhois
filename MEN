@@ -21,19 +21,18 @@ e-mail:       edgar.c.lavarello@gi.pwc.com
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      14455 North Hayden Rd.
-address:      Scottsdale, AZ 85260
+address:      2155 E GoDaddy Way
+address:      Tempe, AZ 85284
 address:      United States
-phone:        +1 480-505-8800
-fax-no:       +1 480-393-4275
+phone:        +1 480 505 8800
+fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
 
 nserver:      A.NIC.MEN 2001:dcd:1:0:0:0:0:10 37.209.192.10
 nserver:      B.NIC.MEN 2001:dcd:2:0:0:0:0:10 37.209.194.10
 nserver:      C.NIC.MEN 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      D.NIC.MEN 2001:dcd:4:0:0:0:0:10 37.209.198.10
-ds-rdata:     37756 8 2 F2602E2FF049BB5332059A1E4E498B8ED5AC161243A2EE3EF2665ABB680892D8
-ds-rdata:     37756 8 1 C3DF2395CBFD91D57E80204C5BD941C049ACE110
+ds-rdata:     21250 8 2 6C3F496F5F6ADA95799145C17FB84C995554114A8E2A77D27C58D7F383C9407F
 
 whois:        whois.nic.men
 
@@ -41,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.men
 
 created:      2015-05-08
-changed:      2020-10-12
+changed:      2022-07-21
 source:       IANA
 
