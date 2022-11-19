@@ -37,7 +37,7 @@ nserver:      CA2.NIC.CR 185.159.198.100 2620:10a:80ab:0:0:0:0:100
 nserver:      DE.NIC.CR 194.0.11.107 2001:678:e:107:0:0:0:53
 nserver:      DNS.NIC.CR 200.107.82.100 2001:13c7:7004:1:0:0:0:d100
 nserver:      P.NIC.CR 2001:500:14:6089:ad:0:0:1 204.61.216.89
-ds-rdata:     51625 13 2 0875146dc7527d36aed8721b0516d1990e45086759586bd35f2909c59af7467c
+ds-rdata:     3708 13 2 d6c9af023cc12d1d86f5b3dfad932908153d8e12b71f77330f23fb08ba15d0a2
 
 whois:        whois.nic.cr
 
@@ -45,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.cr/
 
 created:      1990-09-10
-changed:      2020-04-23
+changed:      2022-03-16
 source:       IANA
 
