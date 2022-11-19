@@ -4,39 +4,35 @@
 
 domain:       BB
 
-organisation: Government of Barbados
-organisation: Ministry of Economic Affairs and Development
-organisation: Telecommunications Unit
-address:      3rd Floor East
-address:      Warrens Complex
-address:      Warrens St. Michael BB12001
+organisation: Ministry of Innovation, Science and Smart Technology
+address:      Telecommunications Unit
+address:      Government of Barbados
+address:      Level 4
+address:      Baobab Tower
+address:      Warrens, St. Michael
 address:      Barbados
 
 contact:      administrative
-name:         Mr. Reginald Bourne, Chief Telecommunications Officer
-organisation: Government of Barbados
-organisation: Ministry of Economic Affairs and Development
-organisation: Telecommunications Unit
-address:      3rd Floor East
-address:      Warrens Complex
-address:      Warrens St. Michael BB12001
+name:         Clifford A Bostic
+organisation: Ministry of Innovation, Science and Smart Technology
+address:      Government of Barbados
+address:      Level 4
+address:      Baobab Tower
+address:      Warrens, St. Michael
 address:      Barbados
-phone:        +1 246 535 2502
-fax-no:       +1 246 620 0960
-e-mail:       reginald.bourne@telecoms.gov.bb
+phone:        +1 246 535 2573
+e-mail:       clifford.bostic@barbados.gov.bb
 
 contact:      technical
-name:         Senior Telecommunications Officer
-organisation: Government of Barbados
-organisation: Ministry of Economic Affairs and Development
-organisation: Telecommunications Unit
-address:      3rd Floor East
-address:      Warrens Complex
-address:      Warrens St. Michael BB12001
+name:         George Foster
+organisation: Ministry of Innovation, Science and Smart Technology
+address:      Government of Barbados
+address:      Level 4
+address:      Baobab Tower
+address:      Warrens, St. Michael
 address:      Barbados
-phone:        +1 246 535 2570
-fax-no:       +1 246 620 0960
-e-mail:       winston.devonish@telecoms.gov.bb
+phone:        +1 246 535 2571
+e-mail:       george.foster@barbados.gov.bb
 
 nserver:      NS1.NIC.BB 2400:cb00:2049:1:0:0:a29f:1835 64.68.192.10
 nserver:      NS2.NIC.BB 198.41.222.254 2400:cb00:2049:1:0:0:c629:defe
@@ -49,6 +45,6 @@ remarks:      Registration information:
 remarks:      http://www.whois.telecoms.gov.bb/
 
 created:      1991-09-03
-changed:      2019-05-02
+changed:      2022-03-08
 source:       IANA
 
