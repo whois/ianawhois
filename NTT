@@ -14,7 +14,7 @@ organisation: NIPPON TELEGRAPH AND TELEPHONE CORPORATION
 address:      Otemachi First Square, East Tower, 5-1, Otemachi 1-Chome, Chiyoda-ku, Tokyo
 address:      Japan
 phone:        +81 3 6838 5590
-e-mail:       dotntt-ml@hco.ntt.co.jp
+e-mail:       dotntt-ml@ntt.com
 
 contact:      technical
 name:         JPRS Technical Contact
@@ -29,12 +29,12 @@ nserver:      TLD1.NIC.NTT 103.47.2.2 2001:dda:0:0:0:0:0:2
 nserver:      TLD2.NIC.NTT 117.104.133.17 2001:218:3001:0:0:0:0:2
 nserver:      TLD3.NIC.NTT 2a01:8840:1ba:0:0:0:0:17 65.22.40.17
 nserver:      TLD5.NIC.NTT 2a01:8840:1ba:0:0:0:0:145 65.22.40.145
-ds-rdata:     277 8 2 74B0F591536EE2463A5BCE83F4A23B02E674F2BC6876A52B339994CA261F0DF8
+ds-rdata:     4480 8 2 C4D7FB4E22011E0A93B009B6BFDE05523DDC0CC8A32F65D55B80D3B4AB93E5E6
 
 status:       ACTIVE
-remarks:      Registration information: http://www.ntt.co.jp/dotntt/
+remarks:      Registration information: https://group.ntt/en/dotntt/
 
 created:      2015-01-08
-changed:      2020-12-03
+changed:      2022-01-31
 source:       IANA
 
