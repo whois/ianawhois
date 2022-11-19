@@ -10,7 +10,7 @@ address:      Philadelphia, PA 19106-2112
 address:      United States
 
 contact:      administrative
-name:         Senior Manager of Registry Operations
+name:         Director, Strategic Advancement
 organisation: American Bible Society
 address:      101 North Independence Mall East FL8
 address:      Philadelphia, PA 19106-2112
@@ -22,21 +22,20 @@ e-mail:       operations@nic.bible
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      14455 North Hayden Rd.
-address:      Scottsdale, AZ 85260
+address:      2155 E GoDaddy Way
+address:      Tempe, AZ 85284
 address:      United States
-phone:        +1 480-505-8800
-fax-no:       +1 480-393-4275
+phone:        +1 480 505 8800
+fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
 
+nserver:      A.NIC.BIBLE 2001:dcd:1:0:0:0:0:10 37.209.192.10
+nserver:      B.NIC.BIBLE 2001:dcd:2:0:0:0:0:10 37.209.194.10
+nserver:      C.NIC.BIBLE 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      NS1.DNS.NIC.BIBLE 156.154.169.100 2610:a1:1071:0:0:0:1:64
 nserver:      NS2.DNS.NIC.BIBLE 156.154.170.100 2610:a1:1072:0:0:0:1:64
 nserver:      NS3.DNS.NIC.BIBLE 156.154.171.100 2610:a1:1073:0:0:0:1:64
-nserver:      NS4.DNS.NIC.BIBLE 156.154.172.100 2610:a1:1074:0:0:0:1:64
-nserver:      NS5.DNS.NIC.BIBLE 156.154.173.100 2610:a1:1075:0:0:0:1:64
-nserver:      NS6.DNS.NIC.BIBLE 156.154.174.100 2610:a1:1076:0:0:0:1:64
-ds-rdata:     31699 8 2 E3BFC3F878D1F0800B3E7FF95CCEFA6C395C01EA1DFBEFB692A8F319B822653E
-ds-rdata:     31699 8 1 C9DDD5B7054C02E6870AE9F2B239EBC82F20D4AC
+ds-rdata:     634 8 2 C09ED93543E2A43516C5379A9EBD54364D4226015112CDFB24199A7F91936DDC
 
 whois:        whois.nic.bible
 
@@ -44,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://get.bible
 
 created:      2015-05-14
-changed:      2020-10-12
+changed:      2022-07-21
 source:       IANA
 
