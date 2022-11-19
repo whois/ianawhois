@@ -10,7 +10,6 @@ address:      United States
 
 contact:      administrative
 name:         Director, Consulting & Strategy
-organisation: Director, Consulting & Strategy
 address:      1000 Potomac Street NW, Suite 350, Washington, DC 20007
 address:      United States
 phone:        +1 202 223 9252
@@ -20,26 +19,25 @@ e-mail:       gapregistries@fairwindspartners.com
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      14455 North Hayden Rd.
-address:      Scottsdale, AZ 85260
+address:      2155 E GoDaddy Way
+address:      Tempe, AZ 85284
 address:      United States
-phone:        +1 480-505-8800
-fax-no:       +1 480-393-4275
+phone:        +1 480 505 8800
+fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
 
+nserver:      A.NIC.BANANAREPUBLIC 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.BANANAREPUBLIC 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.BANANAREPUBLIC 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.BANANAREPUBLIC 156.154.144.22 2610:a1:1071:0:0:0:0:16
 nserver:      NS2.DNS.NIC.BANANAREPUBLIC 156.154.145.22 2610:a1:1072:0:0:0:0:16
 nserver:      NS3.DNS.NIC.BANANAREPUBLIC 156.154.159.22 2610:a1:1073:0:0:0:0:16
-nserver:      NS4.DNS.NIC.BANANAREPUBLIC 156.154.156.22 2610:a1:1074:0:0:0:0:16
-nserver:      NS5.DNS.NIC.BANANAREPUBLIC 156.154.157.22 2610:a1:1075:0:0:0:0:16
-nserver:      NS6.DNS.NIC.BANANAREPUBLIC 156.154.158.22 2610:a1:1076:0:0:0:0:16
-ds-rdata:     36151 8 1 61DDCF18BB5D470D66D1BA5B831442B822A10EB1
-ds-rdata:     36151 8 2 428E67D93726312E7B4E93132FB90EEB6AF9C07A7A3A31F50F016271A84B01B1
+ds-rdata:     36871 8 2 4A4B1A43D4525BE366F7CC568365D7D619DACE7F6895E3C31390A079A7A03589
 
 status:       ACTIVE
 remarks:      Registration information: http://www.gap.com
 
 created:      2016-07-14
-changed:      2020-10-12
+changed:      2022-11-03
 source:       IANA
 
