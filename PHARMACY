@@ -9,41 +9,44 @@ address:      1600 Feehanville Drive, Mount Prospect, IL 60056
 address:      United States
 
 contact:      administrative
-name:         Gertrude Levine
-organisation: National Association of Boards of Pharmacy
-address:      1600 Feehanville Drive
-address:      Mount Prospect
-address:      IL 60056
-address:      United States
-phone:        847-391-4497
-e-mail:       registry@safe.pharmacy
+name:         TLD Registry Services Management
+organisation: Nominet
+address:      Minerva House,
+address:      Edmund Halley Road,
+address:      Oxford Science Park
+address:      Oxford OX4 4DQ
+address:      United Kingdom
+phone:        +44.1865332211
+e-mail:       registrymanagement@nominet.uk
 
 contact:      technical
-name:         IANA Contact
-organisation: GoDaddy Registry
-address:      14455 North Hayden Rd.
-address:      Scottsdale, AZ 85260
-address:      United States
-phone:        +1 480-505-8800
-fax-no:       +1 480-393-4275
-e-mail:       iana@registry.godaddy
+name:         TLD Registry Services Technical
+organisation: Nominet
+address:      Minerva House,
+address:      Edmund Halley Road,
+address:      Oxford Science Park,
+address:      Oxford OX4 4DQ
+address:      United Kingdom
+phone:        +44.1865332211
+e-mail:       registrytechnical@nominet.uk
 
-nserver:      NS1.DNS.NIC.PHARMACY 156.154.144.135 2610:a1:1071:0:0:0:0:87
-nserver:      NS2.DNS.NIC.PHARMACY 156.154.145.135 2610:a1:1072:0:0:0:0:87
-nserver:      NS3.DNS.NIC.PHARMACY 156.154.159.135 2610:a1:1073:0:0:0:0:87
-nserver:      NS4.DNS.NIC.PHARMACY 156.154.156.135 2610:a1:1074:0:0:0:0:87
-nserver:      NS5.DNS.NIC.PHARMACY 156.154.157.135 2610:a1:1075:0:0:0:0:87
-nserver:      NS6.DNS.NIC.PHARMACY 156.154.158.135 2610:a1:1076:0:0:0:0:87
-ds-rdata:     33724 8 2 C1B0C5C35051365D2E81C102DC36BDA8B1090E678B0FB3628849DD3AC2BAAA9D
-ds-rdata:     33724 8 1 D3E00D6E4AB6D08768E32100529C0D90C0F4141B
+nserver:      DNS1.NIC.PHARMACY 213.248.219.45 2a01:618:403:0:0:0:0:45
+nserver:      DNS2.NIC.PHARMACY 103.49.83.45 2401:fd80:403:0:0:0:0:45
+nserver:      DNS3.NIC.PHARMACY 213.248.223.45 2a01:618:407:0:0:0:0:45
+nserver:      DNS4.NIC.PHARMACY 2401:fd80:407:0:0:0:0:45 43.230.51.45
+nserver:      DNSA.NIC.PHARMACY 156.154.100.3 2001:502:ad09:0:0:0:0:3
+nserver:      DNSB.NIC.PHARMACY 156.154.101.3 2001:502:2eda:0:0:0:0:3
+nserver:      DNSC.NIC.PHARMACY 156.154.102.3 2610:a1:1009:0:0:0:0:3
+nserver:      DNSD.NIC.PHARMACY 156.154.103.3 2610:a1:1010:0:0:0:0:3
 ds-rdata:     13921 8 2 D24B9704B0642E8D9EA7CF6418C9212883ECD172C5651E89501C04724DA8AC00
 
 whois:        whois.nic.pharmacy
 
 status:       ACTIVE
-remarks:      Registration information: https://nabp.pharmacy
+remarks:      Registration information:
+remarks:      https://nabp.pharmacy/programs/accreditations-inspections/dotpharmacy/
 
 created:      2014-08-28
-changed:      2021-02-17
+changed:      2021-10-19
 source:       IANA
 
