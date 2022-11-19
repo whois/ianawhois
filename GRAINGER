@@ -20,26 +20,25 @@ e-mail:       graingerregistryservices@grainger.com
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      14455 North Hayden Rd.
-address:      Scottsdale, AZ 85260
+address:      2155 E GoDaddy Way
+address:      Tempe, AZ 85284
 address:      United States
-phone:        +1 480-505-8800
-fax-no:       +1 480-393-4275
+phone:        +1 480 505 8800
+fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
 
+nserver:      A.NIC.GRAINGER 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.GRAINGER 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.GRAINGER 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.GRAINGER 156.154.144.68 2610:a1:1071:0:0:0:0:44
 nserver:      NS2.DNS.NIC.GRAINGER 156.154.145.68 2610:a1:1072:0:0:0:0:44
 nserver:      NS3.DNS.NIC.GRAINGER 156.154.159.68 2610:a1:1073:0:0:0:0:44
-nserver:      NS4.DNS.NIC.GRAINGER 156.154.156.68 2610:a1:1074:0:0:0:0:44
-nserver:      NS5.DNS.NIC.GRAINGER 156.154.157.68 2610:a1:1075:0:0:0:0:44
-nserver:      NS6.DNS.NIC.GRAINGER 156.154.158.68 2610:a1:1076:0:0:0:0:44
-ds-rdata:     832 8 1 5EDDBB225C1FC335473CA49D2307F69DFB3BA244
-ds-rdata:     832 8 2 751716D24519AA09C92808BE3829013B549F99C6069437C8FA0F2C9F3C57B803
+ds-rdata:     63544 8 2 9D220E1EFFE75AEBEE784D7066BD378773A55462C2DA902458DE3F80A8BD069E
 
 status:       ACTIVE
 remarks:      Registration information: http://www.grainger.com
 
 created:      2015-10-29
-changed:      2020-10-12
+changed:      2022-07-21
 source:       IANA
 
