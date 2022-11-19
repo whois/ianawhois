@@ -34,9 +34,9 @@ nserver:      DNS2.NIC.AWS 103.49.82.53 2401:fd80:402:0:0:0:0:53
 nserver:      DNS3.NIC.AWS 213.248.222.53 2a01:618:406:0:0:0:0:53
 nserver:      DNS4.NIC.AWS 2401:fd80:406:0:0:0:0:53 43.230.50.53
 nserver:      DNSA.NIC.AWS 156.154.100.3 2001:502:ad09:0:0:0:0:3
-nserver:      DNSB.NIC.AWS 156.154.101.3
-nserver:      DNSC.NIC.AWS 156.154.102.3
-nserver:      DNSD.NIC.AWS 156.154.103.3
+nserver:      DNSB.NIC.AWS 156.154.101.3 2001:502:2eda:0:0:0:0:3
+nserver:      DNSC.NIC.AWS 156.154.102.3 2610:a1:1009:0:0:0:0:3
+nserver:      DNSD.NIC.AWS 156.154.103.3 2610:a1:1010:0:0:0:0:3
 ds-rdata:     54182 8 2 76F2C3FBB9F23FF5F59A4CD63B8D5D5174B3F2E0F034B7323C1543312F37301D
 
 whois:        whois.nic.aws
@@ -45,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.amazonregistry.com
 
 created:      2016-03-18
-changed:      2021-01-05
+changed:      2021-11-20
 source:       IANA
 
