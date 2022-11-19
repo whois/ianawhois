@@ -9,11 +9,11 @@ address:      410 Terry Avenue North, Seattle, WA  98109
 address:      United States
 
 contact:      administrative
-name:         General Manager
+name:         Program Manager, Registry
 organisation: Amazon Registry Services, Inc.
 address:      410 Terry Avenue North, Seattle, WA  98109
 address:      United States
-phone:        +1 206 740 8515
+phone:        +1 206 646 5990
 fax-no:       +1 206 946 7702
 e-mail:       author-rzm@amazon.com
 
@@ -34,9 +34,9 @@ nserver:      DNS2.NIC.AUTHOR 103.49.82.60 2401:fd80:402:0:0:0:0:60
 nserver:      DNS3.NIC.AUTHOR 213.248.222.60 2a01:618:406:0:0:0:0:60
 nserver:      DNS4.NIC.AUTHOR 2401:fd80:406:0:0:0:0:60 43.230.50.60
 nserver:      DNSA.NIC.AUTHOR 156.154.100.3 2001:502:ad09:0:0:0:0:3
-nserver:      DNSB.NIC.AUTHOR 156.154.101.3
-nserver:      DNSC.NIC.AUTHOR 156.154.102.3
-nserver:      DNSD.NIC.AUTHOR 156.154.103.3
+nserver:      DNSB.NIC.AUTHOR 156.154.101.3 2001:502:2eda:0:0:0:0:3
+nserver:      DNSC.NIC.AUTHOR 156.154.102.3 2610:a1:1009:0:0:0:0:3
+nserver:      DNSD.NIC.AUTHOR 156.154.103.3 2610:a1:1010:0:0:0:0:3
 ds-rdata:     4690 8 2 FC1AAA00C7D9798C3BBEED82B37AAFBA04AE15E97016E9A8B646AC5C37572DA3
 
 whois:        whois.nic.author
@@ -45,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.amazonregistry.com
 
 created:      2015-11-12
-changed:      2019-05-22
+changed:      2021-11-18
 source:       IANA
 
