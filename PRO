@@ -5,31 +5,32 @@
 domain:       PRO
 
 organisation: Afilias Limited
-address:      Level 2, Plaza 3
-address:      Custom House Plaza
-address:      Harbourmaster Place
-address:      Dublin D01 VY76
-address:      Ireland
+address:      c/o Donuts Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
+address:      United States
 
 contact:      administrative
-name:         Afilias TLD Administrator
+name:         Vice President, Engineering
 organisation: Afilias Limited
-address:      2 La Touche House, IFSC
-address:      Dublin 1
-address:      Ireland
-phone:        +353 1 854 1100
-fax-no:       +353 1 791 8569
-e-mail:       tld-admin-poc@afilias.info
+address:      c/o Donuts Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
+address:      United States
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldadmin@donuts.email
 
 contact:      technical
-name:         Afilias TLD Technical Administrator
+name:         Senior Director, DNS Infrastructure Group
 organisation: Afilias Limited
-address:      2 La Touche House, IFSC
-address:      Dublin 1
-address:      Ireland
-phone:        +353 1 854 1100
-fax-no:       +353 1 791 8569
-e-mail:       tld-tech-poc@afilias.info
+address:      c/o Donuts Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue, WA 98004
+address:      United States
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@donuts.email
 
 nserver:      A0.PRO.AFILIAS-NST.INFO 199.182.0.1 2001:500:c0:0:0:0:0:1
 nserver:      A2.PRO.AFILIAS-NST.INFO 199.182.32.1 2001:500:e0:0:0:0:0:1
@@ -39,12 +40,12 @@ nserver:      C0.PRO.AFILIAS-NST.INFO 199.182.16.1 2001:500:d0:0:0:0:0:1
 nserver:      D0.PRO.AFILIAS-NST.ORG 199.182.17.1 2001:500:d1:0:0:0:0:1
 ds-rdata:     42154 8 2 5a8a58f4e30cde44a47091488870d109108ff45d42fdfdd30b448d78dffd5566
 
-whois:        whois.afilias.net
+whois:        whois.nic.pro
 
 status:       ACTIVE
-remarks:      Registration information: http://www.registry.pro/
+remarks:      Registration information: https://donuts.domains/
 
 created:      2002-05-08
-changed:      2020-09-30
+changed:      2021-12-02
 source:       IANA
 
