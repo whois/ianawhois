@@ -25,14 +25,13 @@ phone:        +44.2033880600
 e-mail:       ig@centralnic.com
 
 contact:      technical
-name:         Nathan Van Overloop
+name:         CTO
 organisation: CentralNic
-address:      Saddlers House, 4th Floor
-address:      44 Gutter Lane
+address:      Saddlers House 4th Floor 44 Gutter Lane
 address:      London EC2V 6BR
 address:      United Kingdom
-phone:        +44.2033880600
-fax-no:       +44.2033880601
+phone:        +44 20 33 88 0600
+fax-no:       +44 20 33 88 0601
 e-mail:       tld.ops@centralnic.com
 
 nserver:      A.NIC.CFD 194.169.218.122 2001:67c:13cc:0:0:0:1:122
@@ -48,6 +47,6 @@ status:       ACTIVE
 remarks:      Registration information: http://bostonivy.co
 
 created:      2015-03-06
-changed:      2020-12-04
+changed:      2021-09-23
 source:       IANA
 
