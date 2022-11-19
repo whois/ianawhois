@@ -4,7 +4,7 @@
 
 domain:       PRESS
 
-organisation: DotPress Inc.
+organisation: Radix FZC
 address:      Directiplex
 address:      Next to Andheri Subway
 address:      Old Nagardas Road, Andheri (East)
@@ -14,8 +14,8 @@ address:      400069
 address:      India
 
 contact:      administrative
-name:         Manager
-organisation: DotPress Inc.
+name:         Director
+organisation: Radix FZC
 address:      Directiplex
 address:      Next to Andheri Subway
 address:      Old Nagardas Road, Andheri (East)
@@ -30,12 +30,11 @@ e-mail:       admin@radixregistry.com
 contact:      technical
 name:         CTO
 organisation: CentralNic
-address:      Saddlers House, 4th Floor
-address:      44 Gutter Lane
+address:      Saddlers House 4th Floor 44 Gutter Lane
 address:      London EC2V 6BR
 address:      United Kingdom
-phone:        +44.2033880600
-fax-no:       +44.2033880601
+phone:        +44 20 33 88 0600
+fax-no:       +44 20 33 88 0601
 e-mail:       tld.ops@centralnic.com
 
 nserver:      A.NIC.PRESS 194.169.218.34 2001:67c:13cc:0:0:0:1:34
@@ -48,9 +47,9 @@ ds-rdata:     4289 8 2 03A4602F454DD05E3EF2B7A9507F7E4EEB78BA9259E35DA7C3B20FD8D
 whois:        whois.nic.press
 
 status:       ACTIVE
-remarks:      Registration information: http://radixregistry.com/
+remarks:      Registration information: http://radix.website
 
 created:      2014-05-22
-changed:      2020-08-27
+changed:      2021-10-12
 source:       IANA
 
