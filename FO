@@ -21,12 +21,11 @@ e-mail:       gudrun@nic.fo
 contact:      technical
 name:         CTO
 organisation: CentralNic
-address:      Saddlers House, 4th Floor
-address:      44 Gutter Lane
+address:      Saddlers House 4th Floor 44 Gutter Lane
 address:      London EC2V 6BR
 address:      United Kingdom
-phone:        +44 2033880600
-fax-no:       +44 2033880601
+phone:        +44 20 33 88 0600
+fax-no:       +44 20 33 88 0601
 e-mail:       tld.ops@centralnic.com
 
 nserver:      A.NIC.FO 194.169.218.27 2001:67c:13cc:0:0:0:1:27
@@ -42,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.fo/
 
 created:      1993-05-14
-changed:      2020-04-27
+changed:      2021-10-27
 source:       IANA
 
