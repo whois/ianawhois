@@ -10,14 +10,14 @@ address:      00099 City of Helsinki
 address:      Finland
 
 contact:      administrative
-name:         Petteri Pesonen
+name:         Project Manager
 organisation: City of Helsinki
 address:      P.O. Box 1 (Executive Office, Pohjoisesplanadi 11-13)
 address:      00099 City of Helsinki
 address:      Finland
 phone:        +358 9 310 1641
 fax-no:       +358 9 655 783
-e-mail:       kanslia.titek@hel.fi
+e-mail:       kalle.mikkolainen@hel.fi
 
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
@@ -34,8 +34,7 @@ nserver:      A0.NIC.HELSINKI 2a01:8840:d6:0:0:0:0:33 65.22.220.33
 nserver:      A2.NIC.HELSINKI 2a01:8840:d9:0:0:0:0:33 65.22.223.33
 nserver:      B0.NIC.HELSINKI 2a01:8840:d7:0:0:0:0:33 65.22.221.33
 nserver:      C0.NIC.HELSINKI 2a01:8840:d8:0:0:0:0:33 65.22.222.33
-ds-rdata:     27610 7 1 eb480799777ccda35296ea62888d36e97b3c49d1
-ds-rdata:     27610 7 2 e609ee0e5dde156ba8965c6e00c325c77f1643f0d433b6e5723d3ca27865719d
+ds-rdata:     31639 8 2 069a71ef4b12265a44802fcf51b4531dc3835f8fbb68874fbf3565144a12770d
 
 whois:        whois.nic.helsinki
 
@@ -43,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.hel.fi
 
 created:      2015-12-10
-changed:      2019-08-28
+changed:      2021-06-18
 source:       IANA
 
