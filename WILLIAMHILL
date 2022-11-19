@@ -27,26 +27,25 @@ e-mail:       domains@williamhill.com
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      14455 North Hayden Rd.
-address:      Scottsdale, AZ 85260
+address:      2155 E GoDaddy Way
+address:      Tempe, AZ 85284
 address:      United States
-phone:        +1 480-505-8800
-fax-no:       +1 480-393-4275
+phone:        +1 480 505 8800
+fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
 
+nserver:      A.NIC.WILLIAMHILL 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.WILLIAMHILL 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.WILLIAMHILL 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.WILLIAMHILL 156.154.144.181 2610:a1:1071:0:0:0:0:b5
 nserver:      NS2.DNS.NIC.WILLIAMHILL 156.154.145.181 2610:a1:1072:0:0:0:0:b5
 nserver:      NS3.DNS.NIC.WILLIAMHILL 156.154.159.181 2610:a1:1073:0:0:0:0:b5
-nserver:      NS4.DNS.NIC.WILLIAMHILL 156.154.156.181 2610:a1:1074:0:0:0:0:b5
-nserver:      NS5.DNS.NIC.WILLIAMHILL 156.154.157.181 2610:a1:1075:0:0:0:0:b5
-nserver:      NS6.DNS.NIC.WILLIAMHILL 156.154.158.181 2610:a1:1076:0:0:0:0:b5
-ds-rdata:     25291 8 2 9D5863476BE2973D7172CF33F2B6DAC3E613502A59D0D032BA9436CF10FCAD0A
-ds-rdata:     25291 8 1 91E67CCB71C62730D192A1420A860A660E0F56E1
+ds-rdata:     64624 8 2 97386EC38FAB6B1D4F0C1BCDBC8F670D92A474996EDDCC24786A028A249E2C23
 
 status:       ACTIVE
 remarks:      Registration information: http://www.williamhill.com/
 
 created:      2014-07-03
-changed:      2020-10-12
+changed:      2022-07-21
 source:       IANA
 
