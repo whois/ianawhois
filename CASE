@@ -4,27 +4,27 @@
 
 domain:       CASE
 
-organisation: CNH Industrial N.V.
-address:      Cranes Farm Road
-address:      Basildon, Essex
-address:      SS14 3AD
-address:      United Kingdom
+organisation: Digity, LLC
+address:      2229 S. Michigan Ave, #303
+address:      Chicago IL 60616
+address:      United States of America (the)
 
 contact:      administrative
-name:         Global Director ICT
-organisation: CNH Industrial N.V.
-address:      Cranes Farm Road
-address:      Basildon, Essex
-address:      SS14 3AD
-address:      United Kingdom
-phone:        +44 1268 292545
-e-mail:       ngtld-cnh@cscglobal.com
+name:         Director
+organisation: Digity, LLC
+address:      2229 S. Michigan Ave, #303
+address:      Chicago IL 60616
+address:      United States of America (the)
+phone:        +1 (312) 292-9379
+e-mail:       admin@digity.case
 
 contact:      technical
 name:         CTO
 organisation: CentralNic
-address:      Saddlers House 4th Floor 44 Gutter Lane London EC2V 6BR
-address:      United Kingdom
+address:      Saddlers House, 4th Floor
+address:      44 Gutter Lane
+address:      London EC2V 6BR
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44 20 33 88 0600
 fax-no:       +44 20 33 88 0601
 e-mail:       tld.ops@centralnic.com
@@ -41,9 +41,9 @@ ds-rdata:     53709 7 2 71056e4ea918dc68b82a74e22d56519ae1a26c7ca756b754893cbbc1
 whois:        whois.nic.case
 
 status:       ACTIVE
-remarks:      Registration information: http://www.cnhindustrial.com
+remarks:      Registration information: https://www.digity.case/case
 
 created:      2016-10-27
-changed:      2021-09-29
+changed:      2023-06-01
 source:       IANA
 
