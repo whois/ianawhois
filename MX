@@ -6,28 +6,32 @@ domain:       MX
 
 organisation: NIC-Mexico
 organisation: ITESM - Campus Monterrey
-address:      Av. Eugenio Garza Sada 427 Loc. 4, 5, 6
-address:      Monterrey Nuevo Leon 64840
+address:      Av. Revolucion 2703 1
+address:      Nuevo Sur, Torre 2, Piso 3
+address:      Col. Ladrillera
+address:      Monterrey Nuevo Leon 64830
 address:      Mexico
 
 contact:      administrative
 name:         POC ADM IANA
 organisation: NIC-Mexico, ITESM - Campus Monterrey
-address:      Av. Eugenio Garza Sada 427 Loc. 4, 5, 6
-address:      Monterrey Nuevo Leon 64840
+address:      Av. Revolucion 2703 1
+address:      Nuevo Sur, Torre 2, Piso 3
+address:      Col. Ladrillera
+address:      Monterrey Nuevo Leon 64830
 address:      Mexico
 phone:        +52 (81) 8864 2600
-fax-no:       +52 (81) 8864 2600
 e-mail:       adm-iana@nic.mx
 
 contact:      technical
 name:         POC TECH IANA
 organisation: NIC-Mexico, ITESM - Campus Monterrey
-address:      Av. Eugenio Garza Sada 427 Loc. 4, 5, 6
-address:      Monterrey Nuevo Leon 64840
+address:      Av. Revolucion 2703 1
+address:      Nuevo Sur, Torre 2, Piso 3
+address:      Col. Ladrillera
+address:      Monterrey Nuevo Leon 64830
 address:      Mexico
 phone:        +52 (81) 8864 2600
-fax-no:       +52 (81) 8864 2600
 e-mail:       tech-iana@nic.mx
 
 nserver:      C.MX-NS.MX 192.100.224.1 2001:1258:0:0:0:0:0:1
@@ -36,7 +40,7 @@ nserver:      I.MX-NS.MX 207.248.68.1
 nserver:      M.MX-NS.MX 200.94.176.1 2001:13c7:7000:0:0:0:0:1
 nserver:      O.MX-NS.MX 200.23.1.1
 nserver:      X.MX-NS.MX 201.131.252.1
-ds-rdata:     61885 8 2 BD34DC7AD75D94125810337700C6D0F9EE5DBFD4D52D13C2D88AC5E70DEB8F79
+ds-rdata:     5714 8 2 f98c2f8fd23ee07ae29137fa6b2ac6bd44be32d684fd06bb894ee307c56700e5
 
 whois:        whois.mx
 
@@ -44,6 +48,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.registry.mx/
 
 created:      1989-02-01
-changed:      2022-07-22
+changed:      2023-07-18
 source:       IANA
 
