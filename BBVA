@@ -5,17 +5,17 @@
 domain:       BBVA
 
 organisation: BANCO BILBAO VIZCAYA ARGENTARIA, S.A.
-address:      Pº de la Castellana, 81
+address:      P. de la Castellana, 81
 address:      Planta 11
-address:      28046 Madrid
+address:      Madrid 28046
 address:      Spain
 
 contact:      administrative
 name:         Gestión Global de Marcas y TLDs – Abogado
 organisation: BBVA
-address:      Pº de la Castellana, 81
+address:      P. de la Castellana, 81
 address:      Planta 11
-address:      28046 Madrid
+address:      Madrid 28046
 address:      Spain
 phone:        +34 91 374 63 21
 fax-no:       +34 91 537 72 34
@@ -24,12 +24,11 @@ e-mail:       dietmar.lenden@valideus.com
 contact:      technical
 name:         TLD Registry Services Technical
 organisation: Nominet
-address:      Minerva House,
-address:      Edmund Halley Road,
-address:      Oxford Science Park,
-address:      Oxford
-address:      OX4 4DQ
-address:      United Kingdom
+address:      Minerva House
+address:      Edmund Halley Road
+address:      Oxford Science Park
+address:      Oxford OX4 4DQ
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44.1865332211
 e-mail:       registrytechnical@nominet.uk
 
@@ -41,11 +40,12 @@ nserver:      DNSA.NIC.BBVA 156.154.100.3 2001:502:ad09:0:0:0:0:3
 nserver:      DNSB.NIC.BBVA 156.154.101.3 2001:502:2eda:0:0:0:0:3
 nserver:      DNSC.NIC.BBVA 156.154.102.3 2610:a1:1009:0:0:0:0:3
 nserver:      DNSD.NIC.BBVA 156.154.103.3 2610:a1:1010:0:0:0:0:3
-ds-rdata:     30962 8 2 E800C51F8933F6EB2F234B542F1C83C8E703D9448BFF8AAC4356EDC1EB6AD7C9
+ds-rdata:     30962 8 2 e800c51f8933f6eb2f234b542f1c83c8e703d9448bff8aac4356edc1eb6ad7c9
 
 whois:        whois.nic.bbva
 
 status:       ACTIVE
+remarks:      Registration information: 
 
 created:      2015-04-23
 changed:      2021-11-10
