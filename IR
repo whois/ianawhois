@@ -6,15 +6,15 @@ domain:       IR
 
 organisation: Institute for Research in Fundamental Sciences
 address:      Shahid Bahonar (Niavaran) Square
-address:      Tehran  1954851167
-address:      Iran, Islamic Republic Of
+address:      Tehran 1954851167
+address:      Iran (Islamic Republic of)
 
 contact:      administrative
 name:         Director
 organisation: Institute for Research in Fundamental Sciences (IPM)
 address:      Shahid Bahonar (Niavaran) Square
-address:      Tehran  1954851167
-address:      Iran, Islamic Republic Of
+address:      Tehran 1954851167
+address:      Iran (Islamic Republic of)
 phone:        +98 21 22828081
 fax-no:       +98 21 22295700
 e-mail:       admin@irnic.ir
@@ -23,8 +23,8 @@ contact:      technical
 name:         CTO
 organisation: Institute for Research in Fundamental Sciences (IPM)
 address:      Shahid Bahonar (Niavaran) Square
-address:      Tehran  1954851167
-address:      Iran, Islamic Republic Of
+address:      Tehran 1954851167
+address:      Iran (Islamic Republic of)
 phone:        +98 21 22828080
 fax-no:       +98 21 22295700
 e-mail:       cto@irnic.ir
@@ -40,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.ir
 
 created:      1994-04-06
-changed:      2020-01-29
+changed:      2023-02-28
 source:       IANA
 
