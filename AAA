@@ -6,15 +6,15 @@ domain:       AAA
 
 organisation: American Automobile Association, Inc.
 address:      1000 AAA Drive
-address:      Heathrow, FL 32746
-address:      United States
+address:      Heathrow FL 32746
+address:      United States of America (the)
 
 contact:      administrative
 name:         Chris Niemi
 organisation: MarkMonitor Inc.
-address:      391 N. Ancestor Place
-address:      Boise, ID 83704
-address:      United States
+address:      391 N. Ancestor Place, Suite 150
+address:      Boise ID 83704
+address:      United States of America (the)
 phone:        (208) 389-5740
 fax-no:       (208) 389-5771
 e-mail:       gtldservices@markmonitor.com
@@ -23,8 +23,8 @@ contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
 address:      2155 E GoDaddy Way
-address:      Tempe, AZ 85284
-address:      United States
+address:      Tempe AZ 85284
+address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
@@ -35,7 +35,9 @@ nserver:      C.NIC.AAA 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.AAA 156.154.144.2 2610:a1:1071:0:0:0:0:2
 nserver:      NS2.DNS.NIC.AAA 156.154.145.2 2610:a1:1072:0:0:0:0:2
 nserver:      NS3.DNS.NIC.AAA 156.154.159.2 2610:a1:1073:0:0:0:0:2
-ds-rdata:     23185 8 2 B18D0EC8791D98E167CA4D9745A0C27A6377E099D8F6A16A09567492AB16B7DE
+ds-rdata:     23185 8 2 b18d0ec8791d98e167ca4d9745a0c27a6377e099d8f6a16a09567492ab16b7de
+
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: http://www.aaa.com
