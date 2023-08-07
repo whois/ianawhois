@@ -19,26 +19,27 @@ phone:        +46.31660000
 e-mail:       ngtld-volvo@cscinfo.com
 
 contact:      technical
-name:         Registry Customer Service
-organisation: Verisign, Inc.
-address:      12061 Bluemont Way
-address:      Reston Virginia 20190
-address:      United States
-phone:        +1-703-925-6999
-fax-no:       +1-703-948-3978
-e-mail:       info@verisign-grs.com
+name:         Howard Eland, Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
 
-nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
-nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
-nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
-nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
-ds-rdata:     63963 8 2 9E66E85052005EC24BE53611A1CD19AF98DD649DFE54A90667849582F60B1C4A
+nserver:      A0.NIC.VOLVO 2a01:8840:6e:0:0:0:0:73 65.22.112.73
+nserver:      A2.NIC.VOLVO 2a01:8840:71:0:0:0:0:73 65.22.115.73
+nserver:      B0.NIC.VOLVO 2a01:8840:6f:0:0:0:0:73 65.22.113.73
+nserver:      C0.NIC.VOLVO 2a01:8840:70:0:0:0:0:73 65.22.114.73
+ds-rdata:     3397 8 2 0bb2ad4280d93d2c86cdd0dc7cf335c35b50fee80e6e07c25a061c76a506a006
 
 whois:        whois.nic.volvo
 
 status:       ACTIVE
+remarks:      Registration information: 
 
 created:      2016-01-29
-changed:      2019-08-16
+changed:      2023-07-26
 source:       IANA
 
