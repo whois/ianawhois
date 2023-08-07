@@ -5,14 +5,16 @@
 domain:       SAFETY
 
 organisation: Safety Registry Services, LLC.
-address:      100 Grainger Pkwy, Lake Forest IL 60045
-address:      United States
+address:      100 Grainger Pkwy
+address:      Lake Forest IL 60045
+address:      United States of America (the)
 
 contact:      administrative
 name:         Erwin Cruz
 organisation: Safety Registry Services LLC
-address:      100 Grainger Pkwy, Lake Forest IL 60045
-address:      United States
+address:      100 Grainger Pkwy
+address:      Lake Forest IL 60045
+address:      United States of America (the)
 phone:        +1 847-535-4709
 fax-no:       +1 847-535-9243
 e-mail:       safetyregistryservices@grainger.com
@@ -21,8 +23,8 @@ contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
 address:      2155 E GoDaddy Way
-address:      Tempe, AZ 85284
-address:      United States
+address:      Tempe AZ 85284
+address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
@@ -33,7 +35,7 @@ nserver:      C.NIC.SAFETY 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      NS1.DNS.NIC.SAFETY 156.154.144.148 2610:a1:1071:0:0:0:0:94
 nserver:      NS2.DNS.NIC.SAFETY 156.154.145.148 2610:a1:1072:0:0:0:0:94
 nserver:      NS3.DNS.NIC.SAFETY 156.154.159.148 2610:a1:1073:0:0:0:0:94
-ds-rdata:     17254 8 2 F76C51279BBD1C4525D952E5D1DF46DAAC5CF3ADBC56D772FC1E85983E05E273
+ds-rdata:     17254 8 2 f76c51279bbd1c4525d952e5d1df46daac5cf3adbc56d772fc1e85983e05e273
 
 whois:        whois.nic.safety
 
