@@ -6,14 +6,14 @@ domain:       MINI
 
 organisation: Bayerische Motoren Werke Aktiengesellschaft
 address:      Petuelring 130
-address:      80809 Munich
+address:      Munich 80809
 address:      Germany
 
 contact:      administrative
 name:         Senior Legal Counsel
 organisation: Bayerische Motoren Werke Aktiengesellschaft
 address:      Petuelring 130
-address:      80809 Munich
+address:      Munich 80809
 address:      Germany
 phone:        +49.8938232623
 fax-no:       +49.8938233050
@@ -22,10 +22,11 @@ e-mail:       domains@bmw.de
 contact:      technical
 name:         CTO
 organisation: CentralNic
-address:      Saddlers House 4th Floor 44 Gutter Lane
+address:      Saddlers House, 4th Floor
+address:      44 Gutter Lane
 address:      London EC2V 6BR
-address:      United Kingdom
-phone:        +44 20 33 88 0600 
+address:      United Kingdom of Great Britain and Northern Ireland (the)
+phone:        +44 20 33 88 0600
 fax-no:       +44 20 33 88 0601
 e-mail:       tld.ops@centralnic.com
 
