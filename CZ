@@ -6,15 +6,15 @@ domain:       CZ
 
 organisation: CZ.NIC, z.s.p.o
 address:      Milesovska 5
-address:      Prague 3  130 00
-address:      Czech Republic
+address:      Prague 130 00
+address:      Czechia
 
 contact:      administrative
 name:         Ondrej Filip
 organisation: CZ.NIC, z.s.p.o.
 address:      Milesovska 5
-address:      Prague 3  130 00
-address:      Czech Republic
+address:      Prague 130 00
+address:      Czechia
 phone:        +420 222745111
 fax-no:       +420 222745112
 e-mail:       admin@nic.cz
@@ -23,8 +23,8 @@ contact:      technical
 name:         Martin Peterka
 organisation: CZ.NIC, z.s.p.o.
 address:      Milesovska 5
-address:      Prague 3  130 00
-address:      Czech Republic
+address:      Prague 130 00
+address:      Czechia
 phone:        +420 222745111
 fax-no:       +420 222745112
 e-mail:       tech@nic.cz
@@ -41,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.cz/
 
 created:      1993-01-13
-changed:      2018-06-07
+changed:      2023-03-07
 source:       IANA
 
