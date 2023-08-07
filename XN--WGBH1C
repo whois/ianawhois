@@ -8,7 +8,8 @@ domain-ace:   XN--WGBH1C
 organisation: National Telecommunication Regulatory Authority - NTRA
 address:      Smart Village, B4 K28
 address:      Cairo-Alex Desert Rd.
-address:      6th October  12577
+address:      6th October
+address:      12577
 address:      Egypt
 
 contact:      administrative
@@ -16,7 +17,8 @@ name:         Manal Ismail
 organisation: National Telecommunication Regulatory Authority - NTRA
 address:      Smart Village, B4 K28
 address:      Cairo-Alex Desert Rd.
-address:      6th October  12577
+address:      6th October
+address:      12577
 address:      Egypt
 phone:        +202 3534 1115
 fax-no:       +202 3534 7000
@@ -27,7 +29,8 @@ name:         Christine Arida
 organisation: National Telecommunication Regulatory Authority - NTRA
 address:      Smart Village, B4 K28
 address:      Cairo-Alex Desert Rd.
-address:      6th October  12577
+address:      6th October
+address:      12577
 address:      Egypt
 phone:        +202 3534 1116
 fax-no:       +202 3534 7000
@@ -36,12 +39,16 @@ e-mail:       chris@tra.gov.eg
 nserver:      NS1.DOTMASR.EG 81.21.97.155
 nserver:      NS2.DOTMASR.EG 81.21.99.11
 nserver:      NS3.DOTMASR.EG 81.10.38.11
-ds-rdata:     19912 8 1 7EF77FE3D057844259326CDA4F822D5287FA7769
-ds-rdata:     19912 8 2 7C0BF621527B8D576F7AB479BFCCDD37464008DB6EBE2128E802B0E17317F5FE
+nserver:      NS4.DOTMASR.EG 204.61.216.106
+ds-rdata:     65350 13 1 746dd718f1bdae3b4f2578767c4b47a039501641
+ds-rdata:     65350 13 2 5ece34228c4114fc455e07f4bb4b3df8b501d874c4a4070acbb378f41f17a0e5
+
+whois:        
 
 status:       ACTIVE
+remarks:      Registration information: 
 
 created:      2010-05-05
-changed:      2015-05-29
+changed:      2023-07-25
 source:       IANA
 
