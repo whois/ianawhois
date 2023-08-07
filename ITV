@@ -7,14 +7,14 @@ domain:       ITV
 organisation: ITV Services Limited
 address:      The London Television Centre, Upper Ground
 address:      London SE1 9LT
-address:      United Kingdom
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 
 contact:      administrative
 name:         Head of Secretariat
 organisation: ITV PLC
 address:      The London Television Centre, Upper Ground
 address:      London SE1 9LT
-address:      United Kingdom
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44 207 157 6563
 fax-no:       +44 774 076 2399
 e-mail:       ngtld-itv@cscglobal.com
@@ -22,11 +22,10 @@ e-mail:       ngtld-itv@cscglobal.com
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
 organisation: Afilias
-address:      Building 3, Suite 105
 address:      300 Welsh Road
-address:      Horsham, PA 19044
-address:      United States
-address:      United States
+address:      Building 3, Suite 105
+address:      Horsham PA 19044
+address:      United States of America (the)
 phone:        +1 215.706.5700
 fax-no:       +1 215.706.5701
 e-mail:       tld-tech-poc@afilias.info
