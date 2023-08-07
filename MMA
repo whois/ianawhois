@@ -6,15 +6,15 @@ domain:       MMA
 
 organisation: MMA IARD
 address:      14, boulevard Marie et Alexandre Oyon
-address:      72030 LE MANS
+address:      Le Mans 72030
 address:      France
 
 contact:      administrative
 name:         Account Manager
 organisation: AFNIC
-address:      1, rue Stephenson
 address:      Immeuble Le Stephenson
-address:      78180 Montigny-Le-Bretonneux
+address:      1, rue Stephenson
+address:      Montigny-Le-Bretonneux 78180
 address:      France
 phone:        +33 139308315
 fax-no:       +33 139308301
@@ -25,7 +25,7 @@ name:         TLD Technical Contact
 organisation: Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)
 address:      Immeuble Le Stephenson
 address:      1, rue Stephenson
-address:      78180 Montigny-Le-Bretonneux
+address:      Montigny-Le-Bretonneux 78180
 address:      France
 phone:        +33 1 39 30 83 00
 fax-no:       +33 1 39 30 83 01
@@ -34,7 +34,7 @@ e-mail:       pocmma@afnic.fr
 nserver:      D.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
 nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
 nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
-ds-rdata:     59534 13 2 25455417C20C22D815E00232DEFB2FC78E7B728600C91AADB21F8703EA1C314B
+ds-rdata:     59534 13 2 25455417c20c22d815e00232defb2fc78e7b728600c91aadb21f8703ea1c314b
 
 whois:        whois.nic.mma
 
