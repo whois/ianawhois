@@ -5,34 +5,31 @@
 domain:       WALES
 
 organisation: Nominet UK
-address:      Minerva House,
-address:      Edmund Halley Road,
-address:      Oxford Science Park,
-address:      Oxford,
-address:      OX4 4DQ
-address:      United Kingdom
+address:      Minerva House
+address:      Edmund Halley Road
+address:      Oxford Science Park
+address:      Oxford OX4 4DQ
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 
 contact:      administrative
 name:         TLD Registry Services Management
 organisation: Nominet UK
-address:      Minerva House,
-address:      Edmund Halley Road,
-address:      Oxford Science Park,
-address:      Oxford,
-address:      OX4 4DQ
-address:      United Kingdom
+address:      Minerva House
+address:      Edmund Halley Road
+address:      Oxford Science Park
+address:      Oxford OX4 4DQ
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44(0)1865 332211
 e-mail:       registrymanagement@nominet.uk
 
 contact:      technical
 name:         TLD Registry Services Technical
 organisation: Nominet UK
-address:      Minerva House,
-address:      Edmund Halley Road,
-address:      Oxford Science Park,
-address:      Oxford,
-address:      OX4 4DQ
-address:      United Kingdom
+address:      Minerva House
+address:      Edmund Halley Road
+address:      Oxford Science Park
+address:      Oxford OX4 4DQ
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44.1865332211
 e-mail:       registrytechnical@nominet.uk
 
@@ -44,7 +41,7 @@ nserver:      DNSA.NIC.WALES 156.154.100.3 2001:502:ad09:0:0:0:0:3
 nserver:      DNSB.NIC.WALES 156.154.101.3 2001:502:2eda:0:0:0:0:3
 nserver:      DNSC.NIC.WALES 156.154.102.3 2610:a1:1009:0:0:0:0:3
 nserver:      DNSD.NIC.WALES 156.154.103.3 2610:a1:1010:0:0:0:0:3
-ds-rdata:     64480 8 2 5A296B3D4CDAAF2BB3B243EC31F31B283782BD5A930F84741AA3DD3CCDED6A6C
+ds-rdata:     64480 8 2 5a296b3d4cdaaf2bb3b243ec31f31b283782bd5a930f84741aa3dd3ccded6a6c
 
 whois:        whois.nic.wales
 
