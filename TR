@@ -7,14 +7,14 @@ domain:       TR
 organisation: Bilgi Teknolojileri ve İletişim Kurumu (BTK)
 address:      Eskisehir Yolu 10.Km No:276 Çankaya
 address:      Ankara 06530
-address:      TÜRKİYE
+address:      Türkiye
 
 contact:      administrative
 name:         Chief ICT Expert
 organisation: Bilgi Teknolojileri ve İletişim Kurumu
 address:      Eskisehir Yolu 10.Km No:276 Çankaya
 address:      Ankara 06530
-address:      TÜRKİYE
+address:      Türkiye
 phone:        +90 (312) 203 18 47
 fax-no:       +90 (312) 294 71 45
 e-mail:       onur.gencer@btk.gov.tr
@@ -24,7 +24,7 @@ name:         ICT Expert
 organisation: Bilgi Teknolojileri ve İletişim Kurumu
 address:      Eskisehir Yolu 10.Km No:276 Çankaya
 address:      Ankara 06530
-address:      TÜRKİYE
+address:      Türkiye
 phone:        +90 (312) 586 53 11
 fax-no:       +90 (312) 294 71 45
 e-mail:       gokhan.usta@btk.gov.tr
@@ -32,17 +32,19 @@ e-mail:       gokhan.usta@btk.gov.tr
 nserver:      NS31.NIC.TR 31.210.155.2
 nserver:      NS34.NIC.TR 31.145.139.99
 nserver:      NS35.NIC.TR 31.145.139.119
-nserver:      NS41.NIC.TR 185.7.0.2 2001:a98:10:eeee:0:0:0:41
-nserver:      NS42.NIC.TR 185.7.0.3 2001:a98:10:eeee:0:0:0:42
+nserver:      NS41.NIC.TR 185.7.0.2
+nserver:      NS42.NIC.TR 185.7.0.3
 nserver:      NS61.NIC.TR 206.51.254.1 2620:171:804:ad2:0:0:0:1
 nserver:      NS71.NIC.TR 185.67.32.53
+nserver:      NS72.NIC.TR 2603:1020:201:10:0:0:0:111 40.68.114.66
+ds-rdata:     48972 13 2 1e67cf0aa2e236a06d1f93491990960efebab089a2badaefbb64e391ae6e95eb
 
-whois:        whois.nic.tr
+whois:        whois.trabis.gov.tr
 
 status:       ACTIVE
-remarks:      Registration information: http://www.nic.tr
+remarks:      Registration information: http://www.trabis.gov.tr
 
 created:      1990-09-17
-changed:      2022-10-26
+changed:      2023-06-06
 source:       IANA
 
