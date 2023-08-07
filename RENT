@@ -5,26 +5,26 @@
 domain:       RENT
 
 organisation: XYZ.COM LLC
-address:      2121 E Tropicana Ave
-address:      Las Vegas
-address:      NV 89119
-address:      United States
+address:      2121 E Tropicana Ave, Suite 2
+address:      Las Vegas NV 89119
+address:      United States of America (the)
 
 contact:      administrative
 name:         General Counsel
 organisation: XYZ.COM LLC
 address:      2121 E Tropicana Ave, Suite 2
-address:      Las Vegas, NV 89119
-address:      United States
+address:      Las Vegas NV 89119
+address:      United States of America (the)
 phone:        +1.7027632191
 e-mail:       hello@xyz.com
 
 contact:      technical
 name:         CTO
 organisation: CentralNic
-address:      Saddlers House 4th Floor 44 Gutter Lane
+address:      Saddlers House, 4th Floor
+address:      44 Gutter Lane
 address:      London EC2V 6BR
-address:      United Kingdom
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44 20 33 88 0600
 fax-no:       +44 20 33 88 0601
 e-mail:       tld.ops@centralnic.com
@@ -33,8 +33,8 @@ nserver:      A.NIC.RENT 194.169.218.63 2001:67c:13cc:0:0:0:1:63
 nserver:      B.NIC.RENT 185.24.64.63 2a04:2b00:13cc:0:0:0:1:63
 nserver:      C.NIC.RENT 212.18.248.63 2a04:2b00:13ee:0:0:0:0:63
 nserver:      D.NIC.RENT 212.18.249.63 2a04:2b00:13ff:0:0:0:0:63
-ds-rdata:     56632 8 1 5A37261D09F9158D95C49030C66337F40E66B6A1
-ds-rdata:     56632 8 2 D49A86CDF8411AB763FC46430370A6432392B06E1A6C7F6ABABAD8E1E85B558B
+ds-rdata:     56632 8 1 5a37261d09f9158d95c49030c66337f40e66b6a1
+ds-rdata:     56632 8 2 d49a86cdf8411ab763fc46430370a6432392b06e1a6c7f6ababad8e1e85b558b
 
 whois:        whois.nic.rent
 
