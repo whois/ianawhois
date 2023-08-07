@@ -6,14 +6,14 @@ domain:       RICH
 
 organisation: iRegistry GmbH
 address:      Friedrichstr. 171
-address:      10117 Berlin
+address:      Berlin 10117
 address:      Germany
 
 contact:      administrative
 name:         General Manager
 organisation: iRegistry GmbH
 address:      Friedrichstr. 171
-address:      10117 Berlin
+address:      Berlin 10117
 address:      Germany
 phone:        +49 180 5522744
 fax-no:       +49 180 5522944
@@ -23,7 +23,7 @@ contact:      technical
 name:         Afilias TLD Technical Administrator
 organisation: Afilias Limited
 address:      4th Floor, International House, 3 Harbourmaster Pl., IFSC
-address:      Dublin, D01 K8F1
+address:      Dublin D01 K8F1
 address:      Ireland
 phone:        +353 1 854 1100
 fax-no:       +353 1 791 8569
@@ -35,12 +35,12 @@ nserver:      B0.NIC.RICH 2a01:8840:87:0:0:0:0:17 65.22.137.17
 nserver:      C0.NIC.RICH 2a01:8840:88:0:0:0:0:17 65.22.138.17
 ds-rdata:     12391 8 2 aa344ed8e0615ff242ec66edea4160269d0ec1d36437965a8d1d1aba6a4d97d8
 
-whois:        whois.afilias-srs.net
+whois:        whois.nic.rich
 
 status:       ACTIVE
 remarks:      Registration information: http://www.i-registry.com
 
 created:      2014-01-16
-changed:      2022-01-18
+changed:      2023-08-03
 source:       IANA
 
