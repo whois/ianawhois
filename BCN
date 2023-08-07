@@ -12,8 +12,8 @@ address:      Spain
 contact:      administrative
 name:         .bcn Admin Contact
 organisation: Fundació puntCAT
-address:      Plaça Nova 5, 7a planta,
-address:      08002 Barcelona
+address:      Plaça Nova 5, 7a planta
+address:      Barcelona 08002
 address:      Spain
 phone:        +34 936 750 354
 fax-no:       +34 934 672 959
@@ -23,7 +23,7 @@ contact:      technical
 name:         .bcn Tech Contact
 organisation: CORE Association
 address:      Cours de Rive 2
-address:      CH-1204 Geneva
+address:      Geneva CH-1204
 address:      Switzerland
 phone:        +41 22 312 5610
 fax-no:       +41 22 312 5612
@@ -33,7 +33,7 @@ nserver:      ANYCAST10.IRONDNS.NET 195.253.64.12 2a01:5b0:4:0:0:0:0:c
 nserver:      ANYCAST23.IRONDNS.NET 195.253.65.11 2a01:5b0:5:0:0:0:0:b
 nserver:      ANYCAST24.IRONDNS.NET 195.253.65.12 2a01:5b0:5:0:0:0:0:c
 nserver:      ANYCAST9.IRONDNS.NET 195.253.64.11 2a01:5b0:4:0:0:0:0:b
-ds-rdata:     20194 10 2 2C1FAF28AFB91E2A2FE1A6C27E480CE2077CCFF57CD7E8EAC1B658CF2B9D9260
+ds-rdata:     20194 10 2 2c1faf28afb91e2a2fe1a6c27e480ce2077ccff57cd7e8eac1b658cf2b9d9260
 
 whois:        whois.nic.bcn
 
@@ -41,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.barcelona.cat
 
 created:      2015-06-04
-changed:      2020-02-24
+changed:      2022-01-07
 source:       IANA
 
