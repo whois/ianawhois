@@ -6,24 +6,25 @@ domain:       LAT
 
 organisation: XYZ.COM LLC
 address:      2121 E Tropicana Ave, Suite 2
-address:      Las Vegas, NV 89119
-address:      United States
+address:      Las Vegas NV 89119
+address:      United States of America (the)
 
 contact:      administrative
 name:         General Counsel
 organisation: XYZ.COM LLC
 address:      2121 E Tropicana Ave, Suite 2
-address:      Las Vegas, NV 89119
-address:      United States
+address:      Las Vegas NV 89119
+address:      United States of America (the)
 phone:        +1.7027632191
 e-mail:       hello@xyz.com
 
 contact:      technical
 name:         CTO
 organisation: CentralNic
-address:      Saddlers House 4th Floor 44 Gutter Lane
+address:      Saddlers House, 4th Floor
+address:      44 Gutter Lane
 address:      London EC2V 6BR
-address:      United Kingdom
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44 20 33 88 0600
 fax-no:       +44 20 33 88 0601
 e-mail:       tld.ops@centralnic.com
@@ -32,7 +33,7 @@ nserver:      A.NIC.LAT 194.169.218.156 2001:67c:13cc:0:0:0:1:156
 nserver:      B.NIC.LAT 185.24.64.156 2a04:2b00:13cc:0:0:0:1:156
 nserver:      C.NIC.LAT 212.18.248.156 2a04:2b00:13ee:0:0:0:0:156
 nserver:      D.NIC.LAT 212.18.249.156 2a04:2b00:13ff:0:0:0:0:156
-ds-rdata:     961 8 2 D87E3EE5BABAA5DBF51C4AF462D2670BE2B702A2972903AE27BEE9BA64413973
+ds-rdata:     961 8 2 d87e3ee5babaa5dbf51c4af462d2670be2b702a2972903ae27bee9ba64413973
 ds-rdata:     42520 8 2 fae20127b971e74d949e113cd4d738f82d6d53c5091b76cda93a5877554df1f4
 
 whois:        whois.nic.lat
