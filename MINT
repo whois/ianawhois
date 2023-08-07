@@ -5,14 +5,16 @@
 domain:       MINT
 
 organisation: Intuit Administrative Services, Inc.
-address:      c/o Intuit Inc., 2632 Marine Way, Mountain View, CA  94043
-address:      United States
+address:      c/o Intuit Inc., 2632 Marine Way
+address:      Mountain View CA 94043
+address:      United States of America (the)
 
 contact:      administrative
 name:         Christopher Niemi
 organisation: MarkMonitor Inc.
-address:      3540 East Longwing Lane, Suite 300, Meridian, ID 83646
-address:      United States
+address:      3540 East Longwing Lane, Suite 300
+address:      Meridian ID 83646
+address:      United States of America (the)
 phone:        +1 208-685-1857
 fax-no:       +1 208-389-5771
 e-mail:       dotmint@markmonitor.com
@@ -21,8 +23,8 @@ contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
 address:      2155 E GoDaddy Way
-address:      Tempe, AZ 85284
-address:      United States
+address:      Tempe AZ 85284
+address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
@@ -33,7 +35,9 @@ nserver:      NS3.DNS.NIC.MINT 156.154.159.112 2610:a1:1073:0:0:0:0:70
 nserver:      NS4.DNS.NIC.MINT 156.154.156.112 2610:a1:1074:0:0:0:0:70
 nserver:      NS5.DNS.NIC.MINT 156.154.157.112 2610:a1:1075:0:0:0:0:70
 nserver:      NS6.DNS.NIC.MINT 156.154.158.112 2610:a1:1076:0:0:0:0:70
-ds-rdata:     24670 8 2 872536426335AC76542DD46851AE59FDBC13E1F33E8A5C49193FF5A70BDA6FDC
+ds-rdata:     24670 8 2 872536426335ac76542dd46851ae59fdbc13e1f33e8a5c49193ff5a70bda6fdc
+
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: https://www.intuit.com/
