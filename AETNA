@@ -5,14 +5,16 @@
 domain:       AETNA
 
 organisation: Aetna Life Insurance Company
-address:      151 Farmington Avenue Hartford, Connecticut - 06156
-address:      United States
+address:      151 Farmington Avenue
+address:      Hartford CT 06156
+address:      United States of America (the)
 
 contact:      administrative
 name:         Jeff Muehlhausen
 organisation: Aetna Life Insurance Company
-address:      151 Farmington Avenue Hartford, Connecticut - 06156
-address:      United States
+address:      151 Farmington Avenue
+address:      Hartford CT 06156
+address:      United States of America (the)
 phone:        +011 860 273 0123
 e-mail:       domains@aetna.com
 
@@ -20,8 +22,8 @@ contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
 address:      2155 E GoDaddy Way
-address:      Tempe, AZ 85284
-address:      United States
+address:      Tempe AZ 85284
+address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
@@ -32,7 +34,9 @@ nserver:      C.NIC.AETNA 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.AETNA 156.154.144.5 2610:a1:1071:0:0:0:0:5
 nserver:      NS2.DNS.NIC.AETNA 156.154.145.5 2610:a1:1072:0:0:0:0:5
 nserver:      NS3.DNS.NIC.AETNA 156.154.159.5 2610:a1:1073:0:0:0:0:5
-ds-rdata:     49819 8 2 2F8CD71C2CA149B4DA0F60092C775FECDFF60B52D0A61064F458E0A99F378012
+ds-rdata:     49819 8 2 2f8cd71c2ca149b4da0f60092c775fecdff60b52d0a61064f458e0a99f378012
+
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: https://www.aetna.com
