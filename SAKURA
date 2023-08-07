@@ -6,16 +6,16 @@ domain:       SAKURA
 
 organisation: SAKURA internet Inc.
 address:      Sumitomo Fudosan Nishishinjuku Bldg. 32F,
-address:      7-20-1,NishiShinjuku,
-address:      Shinjuku-ku, Tokyo
+address:      7-20-1, NishiShinjuku
+address:      Shinjuku-ku Tokyo
 address:      Japan
 
 contact:      administrative
 name:         DotSakura Administrative Contact
 organisation: Sakura internet Inc.
 address:      Sumitomo Fudosan Nishishinjuku Bldg. 32F,
-address:      7-20-1,NishiShinjuku,
-address:      Shinjuku-ku, Tokyo
+address:      7-20-1, NishiShinjuku
+address:      Shinjuku-ku Tokyo
 address:      Japan
 phone:        +81 3 5332 7070
 e-mail:       gtld-adminp@sakura.ad.jp
@@ -35,13 +35,15 @@ nserver:      TLD1.NIC.SAKURA 103.47.2.3 2001:dda:0:0:0:0:0:3
 nserver:      TLD2.NIC.SAKURA 117.104.133.18 2001:218:3001:0:0:0:0:3
 nserver:      TLD3.NIC.SAKURA 2a01:8840:1ba:0:0:0:0:9 65.22.40.9
 nserver:      TLD5.NIC.SAKURA 2a01:8840:1ba:0:0:0:0:137 65.22.40.137
-ds-rdata:     47122 8 2 4206A96ECDE9FC5E34B5ADA321E00AD072E07DAA294783AAE6B6E2198073C9A7
+ds-rdata:     52222 8 2 fb0b3a130e7587e2aab1f675f289d87ad4105a64a14e346e9d18f359e3b0f741
+
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information:
 remarks:      https://dot-sakura.sakura.ad.jp/
 
 created:      2015-06-04
-changed:      2022-08-18
+changed:      2023-01-18
 source:       IANA
 
