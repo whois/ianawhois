@@ -6,15 +6,15 @@ domain:       FRL
 
 organisation: FRLregistry B.V.
 address:      Willemskade 3
-address:      8911AM  Leeuwarden
-address:      Netherlands
+address:      Leeuwarden 8911AM
+address:      Netherlands (the)
 
 contact:      administrative
 name:         Administrative contact
 organisation: FRL Registry BV
 address:      Willemskade 3
-address:      8911AW  Leeuwarden
-address:      Netherlands
+address:      Leeuwarden 8911AW
+address:      Netherlands (the)
 phone:        +31 (0) 58 76 30 650
 fax-no:       +31 (0) 58 84 50 145
 e-mail:       info@frlregistry.com
@@ -22,9 +22,10 @@ e-mail:       info@frlregistry.com
 contact:      technical
 name:         CTO
 organisation: CentralNic
-address:      Saddlers House 4th Floor 44 Gutter Lane
+address:      Saddlers House, 4th Floor
+address:      44 Gutter Lane
 address:      London EC2V 6BR
-address:      United Kingdom
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44 20 33 88 0600
 fax-no:       +44 20 33 88 0601
 e-mail:       tld.ops@centralnic.com
@@ -33,7 +34,7 @@ nserver:      A.NIC.FRL 194.169.218.87 2001:67c:13cc:0:0:0:1:87
 nserver:      B.NIC.FRL 185.24.64.87 2a04:2b00:13cc:0:0:0:1:87
 nserver:      C.NIC.FRL 212.18.248.87 2a04:2b00:13ee:0:0:0:0:87
 nserver:      D.NIC.FRL 212.18.249.87 2a04:2b00:13ff:0:0:0:0:87
-ds-rdata:     16639 13 2 D3CCC215301C0738FC3B1AA14DEB7602421FF42D3889BD15D018EE2212373D38
+ds-rdata:     16639 13 2 d3ccc215301c0738fc3b1aa14deb7602421ff42d3889bd15d018ee2212373d38
 
 whois:        whois.nic.frl
 
