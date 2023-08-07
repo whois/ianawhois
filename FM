@@ -7,14 +7,14 @@ domain:       FM
 organisation: FSM Telecommunications Corporation
 address:      P.O. Box 1210
 address:      Kolonia Pohnpei 96941
-address:      Micronesia, Federated States Of
+address:      Micronesia (Federated States of)
 
 contact:      administrative
 name:         Chief Executive Officer
 organisation: FSM Telecommunications Corporation
 address:      P.O. Box 1210
 address:      Kolonia Pohnpei 96941
-address:      Micronesia, Federated States Of
+address:      Micronesia (Federated States of)
 phone:        +691 320 2740
 fax-no:       +691 320 2745
 e-mail:       dotfm-admin@fsmtc.fm
@@ -24,7 +24,7 @@ name:         IT Manager
 organisation: FSM Telecommunications Corporation
 address:      P.O. Box 1210
 address:      Kolonia Pohnpei 96941
-address:      Micronesia, Federated States Of
+address:      Micronesia (Federated States of)
 phone:        +691 320 2740
 fax-no:       +691 320 2745
 e-mail:       dotfm-technical@fsmtc.fm
@@ -35,7 +35,7 @@ nserver:      C.NIC.FM 212.18.248.26 2a04:2b00:13ee:0:0:0:0:26
 nserver:      D.NIC.FM 212.18.249.26 2a04:2b00:13ff:0:0:0:0:26
 nserver:      E.NIC.FM 2001:500:14:6137:ad:0:0:1 204.61.216.137
 nserver:      F.NIC.FM 206.51.254.3 2620:171:804:ad2:0:0:0:3
-ds-rdata:     26186 8 2 DB3703697384A6F8B3A944A21C1A81FFD921000B23AA4241380B4BA3AA28DEA0
+ds-rdata:     26186 8 2 db3703697384a6f8b3a944a21c1a81ffd921000b23aa4241380b4ba3aa28dea0
 
 whois:        whois.nic.fm
 
