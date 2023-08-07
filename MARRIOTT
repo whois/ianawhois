@@ -5,14 +5,16 @@
 domain:       MARRIOTT
 
 organisation: Marriott Worldwide Corporation
-address:      10400 Fernwood Road, Bethesda, MD, 20817
-address:      United States
+address:      10400 Fernwood Road
+address:      Bethesda MD 20817
+address:      United States of America (the)
 
 contact:      administrative
 name:         Director, Consulting & Strategy
 organisation: FairWinds Partners
-address:      1000 Potomac Street NW #350, Washington, DC, 20007
-address:      United States
+address:      1000 Potomac Street NW #350
+address:      Washington DC 20007
+address:      United States of America (the)
 phone:        +1.202.223.9252
 fax-no:       +1.202.223.9256
 e-mail:       marriottregistry@fairwindspartners.com
@@ -20,8 +22,10 @@ e-mail:       marriottregistry@fairwindspartners.com
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
 organisation: Afilias
-address:      Building 3, Suite 105, 300 Welsh Road, Horsham, PA, 19044
-address:      United States
+address:      300 Welsh Road
+address:      Building 3, Suite 105
+address:      Horsham PA 19044
+address:      United States of America (the)
 phone:        +1 215.706.5700
 fax-no:       +1 215.706.5701
 e-mail:       tld-tech-poc@afilias.info
@@ -32,12 +36,12 @@ nserver:      B0.NIC.MARRIOTT 2a01:8840:e7:0:0:0:0:9 65.22.237.9
 nserver:      C0.NIC.MARRIOTT 2a01:8840:e8:0:0:0:0:9 65.22.238.9
 ds-rdata:     24409 8 2 8684c74574a7d00d562dcd780c7deb8554f2de761bc6bf4f59197d8d9b0656a6
 
-whois:        whois.afilias-srs.net
+whois:        whois.nic.marriott
 
 status:       ACTIVE
 remarks:      Registration information: http://www.marriott.com
 
 created:      2014-12-18
-changed:      2020-12-25
+changed:      2023-08-04
 source:       IANA
 
