@@ -6,15 +6,15 @@ domain:       WHOSWHO
 
 organisation: Who's Who Registry
 address:      Box 300
-address:      New York, New York 10024
-address:      United States
+address:      New York NY 10024
+address:      United States of America (the)
 
 contact:      administrative
 name:         John McCabe
-organisation: Who's Who Online Ltd.
-address:      Box 800
-address:      New York, NY 10024
-address:      United States
+organisation: Who's Who Registry
+address:      Box 300
+address:      New York NY 10024
+address:      United States of America (the)
 phone:        +1 212-877-8943
 e-mail:       mccabe@whoswho.com
 
@@ -22,8 +22,7 @@ contact:      technical
 name:         Director
 organisation: Knipp Medien und Kommunikation GmbH
 address:      Martin-Schmeisser-Weg 9
-address:      44227 Dortmund
-address:      North Rhine-Westphalia
+address:      Dortmund North Rhine-Westphalia 44227
 address:      Germany
 phone:        +49 231 9703 0
 fax-no:       +49 231 9703 200
@@ -41,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.whoswho
 
 created:      2014-06-12
-changed:      2021-03-15
+changed:      2023-06-16
 source:       IANA
 
