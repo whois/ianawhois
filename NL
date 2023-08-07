@@ -6,32 +6,31 @@ domain:       NL
 
 organisation: SIDN (Stichting Internet Domeinregistratie Nederland)
 address:      P.O. Box 5022
-address:      Arnhem  6802 EA
-address:      Netherlands
+address:      Arnhem 6802 EA
+address:      Netherlands (the)
 
 contact:      administrative
 name:         Roelof Meijer
 organisation: SIDN (Stichting Internet Domeinregistratie Nederland)
 address:      P.O. Box 5022
-address:      Arnhem  6802 EA
-address:      Netherlands
+address:      Arnhem 6802 EA
+address:      Netherlands (the)
 phone:        +31 26 3525500
 e-mail:       admin@sidn.nl
 
 contact:      technical
-name:         Cees Toet
+name:         Marc Groeneweg
 organisation: SIDN (Stichting Internet Domeinregistratie Nederland)
 address:      P.O. Box 5022
-address:      Arnhem  6802 EA
-address:      Netherlands
+address:      Arnhem 6802 EA
+address:      Netherlands (the)
 phone:        +31 26 3525500
 e-mail:       tech@sidn.nl
 
 nserver:      NS1.DNS.NL 194.0.28.53 2001:678:2c:0:194:0:28:53
-nserver:      NS2.DNS.NL 194.146.106.42 2001:67c:1010:10:0:0:0:53
 nserver:      NS3.DNS.NL 194.0.25.24 2001:678:20:0:0:0:0:24
 nserver:      NS4.DNS.NL 185.159.199.200 2620:10a:80ac:0:0:0:0:200
-ds-rdata:     34112 8 2 3c5b5f9b3557455c50751a9be9ebe9238c88e19f5f07f930976917b51b95cd22
+ds-rdata:     17153 13 2 c5dfddc91e7532562a35f3c2cd30823894be08f20101f1abf45c8ab9739f3f49
 
 whois:        whois.domain-registry.nl
 
@@ -39,6 +38,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.sidn.nl/
 
 created:      1986-04-25
-changed:      2022-05-20
+changed:      2023-07-18
 source:       IANA
 
