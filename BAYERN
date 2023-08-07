@@ -14,18 +14,18 @@ name:         IANA Contact
 organisation: GoDaddy Registry
 address:      2155 E GoDaddy Way
 address:      Tempe AZ 85284
-address:      United States
+address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
 e-mail:       iana@registry.godaddy
 
 contact:      technical
-name:         ironDNS Support  
+name:         ironDNS Support
 organisation: Knipp Medien und Kommunikation GmbH
 address:      Martin-Schmeisser-Weg 9
-address:      44227 Dortmund
+address:      Dortmund North Rhine-Westphalia 44227
 address:      Germany
-phone:        +49 231 9703 0  
+phone:        +49 231 9703 0
 fax-no:       +49 231 9703 200
 e-mail:       dnsmaster@irondns.net
 
@@ -33,7 +33,10 @@ nserver:      ANYCAST10.IRONDNS.NET 195.253.64.12 2a01:5b0:4:0:0:0:0:c
 nserver:      ANYCAST23.IRONDNS.NET 195.253.65.11 2a01:5b0:5:0:0:0:0:b
 nserver:      ANYCAST24.IRONDNS.NET 195.253.65.12 2a01:5b0:5:0:0:0:0:c
 nserver:      ANYCAST9.IRONDNS.NET 195.253.64.11 2a01:5b0:4:0:0:0:0:b
-ds-rdata:     5450 8 2 0BE5B2CD561159EC40895CC8A8D79D74B3437A4CA4D4D48FE1863315C092CA98
+nserver:      ARI.ALPHA.TLDNS.GODADDY 2001:dcd:1:0:0:0:0:2 37.209.192.2
+nserver:      ARI.BETA.TLDNS.GODADDY 2001:dcd:2:0:0:0:0:2 37.209.194.2
+nserver:      ARI.DELTA.TLDNS.GODADDY 2001:dcd:4:0:0:0:0:2 37.209.198.2
+nserver:      ARI.GAMMA.TLDNS.GODADDY 2001:dcd:3:0:0:0:0:2 37.209.196.2
 ds-rdata:     27095 8 2 c8d5a25263ef9eaab175f1ca68623488aa7919e16814f516cc369e09f237623a
 
 whois:        whois.nic.bayern
@@ -42,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.bayern
 
 created:      2014-03-13
-changed:      2022-03-10
+changed:      2023-06-13
 source:       IANA
 
