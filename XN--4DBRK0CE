@@ -7,14 +7,14 @@ domain-ace:   XN--4DBRK0CE
 
 organisation: The Israel Internet Association (RA)
 address:      6 Bareket St.
-address:      Petach-Tikva, Israel 4951477
+address:      Petach Tikva 4951477
 address:      Israel
 
 contact:      administrative
 name:         CEO
 organisation: The Israel Internet Association (RA)
 address:      6 Bareket St.
-address:      Petach-Tikva, Israel 4951477
+address:      Petach Tikva 4951477
 address:      Israel
 phone:        +972 3 9700900
 fax-no:       +972 3 9700901
@@ -24,7 +24,7 @@ contact:      technical
 name:         IL Technical Contact
 organisation: The Israel Internet Association (RA)
 address:      6 Bareket St.
-address:      Petach-Tikva, Israel 4951477
+address:      Petach Tikva 4951477
 address:      Israel
 phone:        +972 3 9700900
 fax-no:       +972 3 9700901
@@ -35,10 +35,10 @@ nserver:      LOOKUP.IUCC.AC.IL 128.139.34.240 2001:bf8:900:6:0:0:808b:22f0
 nserver:      NS1.NS.IL 194.146.106.122 2001:67c:1010:31:0:0:0:53
 nserver:      NS3.NS.IL 194.0.11.103 2001:678:e:103:0:0:0:53
 nserver:      NS4.NS.IL 2001:500:14:6134:ad:0:0:1 204.61.216.134
-nserver:      NSA.NS.IL 192.115.7.53
-nserver:      NSB.NS.IL 192.115.7.60
+nserver:      NSA.NS.IL 192.115.7.53 2a01:4280:2:70:0:0:0:53
+nserver:      NSB.NS.IL 192.115.7.60 2a01:4280:2:70:0:0:0:60
 nserver:      NSE.NS.IL 192.115.4.235
-ds-rdata:     64411 13 2 09f874ff34c6c2d73ccaa566b12c8cfb7e5de692405f57195c4562c9e2ba4548
+ds-rdata:     48814 13 2 0255186b246dca8e53de92159f38ef7b209cca2a1be875cb1a1dad2d592a9c9e
 
 whois:        whois.isoc.org.il
 
@@ -47,6 +47,6 @@ remarks:      Registration information:
 remarks:      http://en.isoc.org.il/il-cctld/accredited-registrars/domain-name-registrars
 
 created:      2020-06-16
-changed:      2022-06-08
+changed:      2023-05-18
 source:       IANA
 
