@@ -8,9 +8,8 @@ organisation: DOTCFD REGISTRY LTD
 address:      Boston Ivy
 address:      Cannon Bridge House
 address:      25 Dowgate Hill
-address:      London
-address:      EC4R 2YA
-address:      United Kingdom
+address:      London EC4R 2YA
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 
 contact:      administrative
 name:         Head of Registry Services
@@ -18,18 +17,18 @@ organisation: DOTCFD REGISTRY LTD
 address:      Boston Ivy
 address:      Cannon Bridge House
 address:      25 Dowgate Hill
-address:      London
-address:      EC4R 2YA
-address:      United Kingdom
+address:      London EC4R 2YA
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44.2033880600
 e-mail:       ig@centralnic.com
 
 contact:      technical
 name:         CTO
 organisation: CentralNic
-address:      Saddlers House 4th Floor 44 Gutter Lane
+address:      Saddlers House, 4th Floor
+address:      44 Gutter Lane
 address:      London EC2V 6BR
-address:      United Kingdom
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44 20 33 88 0600
 fax-no:       +44 20 33 88 0601
 e-mail:       tld.ops@centralnic.com
@@ -38,8 +37,8 @@ nserver:      A.NIC.CFD 194.169.218.122 2001:67c:13cc:0:0:0:1:122
 nserver:      B.NIC.CFD 185.24.64.122 2a04:2b00:13cc:0:0:0:1:122
 nserver:      C.NIC.CFD 212.18.248.122 2a04:2b00:13ee:0:0:0:0:122
 nserver:      D.NIC.CFD 212.18.249.122 2a04:2b00:13ff:0:0:0:0:122
-ds-rdata:     27333 8 2 63F199E72594324007D15C0B77B25F4C643E07F0064EAADF08341287856571AA
-ds-rdata:     10525 8 2 42FD41D6533AC785EF64CF9BD36B16463C5A161DA2AF25EC08C114B40E82F2D8
+ds-rdata:     27333 8 2 63f199e72594324007d15c0b77b25f4c643e07f0064eaadf08341287856571aa
+ds-rdata:     10525 8 2 42fd41d6533ac785ef64cf9bd36b16463c5a161da2af25ec08c114b40e82f2d8
 
 whois:        whois.nic.cfd
 
