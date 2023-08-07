@@ -6,14 +6,14 @@ domain:       BOSTIK
 
 organisation: Bostik SA
 address:      253 avenue du Présent Wilson
-address:      93210 La Plaine Saint-Denis
+address:      La Plaine Saint-Denis 93210
 address:      France
 
 contact:      administrative
 name:         COO
 organisation: SafeBrands
 address:      37 rue Guibal
-address:      13003 Marseille
+address:      Marseille 13003
 address:      France
 phone:        +33488662207
 fax-no:       +33488662220
@@ -24,7 +24,7 @@ name:         TLD Technical Contact
 organisation: Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)
 address:      Immeuble Le Stephenson
 address:      1, rue Stephenson
-address:      78180 Montigny-Le-Bretonneux
+address:      Montigny-Le-Bretonneux 78180
 address:      France
 phone:        +33 1 39 30 83 00
 fax-no:       +33 1 39 30 83 01
@@ -33,7 +33,7 @@ e-mail:       pocbostik@afnic.fr
 nserver:      D.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
 nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
 nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
-ds-rdata:     45431 13 2 16D460DE3B5D232225100E179AB80BD20A398618160C5B1C934A39F5E207ED45
+ds-rdata:     45431 13 2 16d460de3b5d232225100e179ab80bd20a398618160c5b1c934a39f5e207ed45
 
 whois:        whois.nic.bostik
 
