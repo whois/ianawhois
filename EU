@@ -6,14 +6,14 @@ domain:       EU
 
 organisation: EURid vzw/asbl
 address:      Telecomlaan 9
-address:      1831 Diegem
+address:      Diegem 1831
 address:      Belgium
 
 contact:      administrative
 name:         Peter Janssen
 organisation: EURid vzw
 address:      Telecomlaan 9
-address:      1831 Diegem
+address:      Diegem 1831
 address:      Belgium
 phone:        +32 2 401 27 50
 fax-no:       +32 2 401 27 51
@@ -23,7 +23,7 @@ contact:      technical
 name:         Technical Department
 organisation: EURid vzw
 address:      Telecomlaan 9
-address:      1831 Diegem
+address:      Diegem 1831
 address:      Belgium
 phone:        +32 2 401 27 50
 fax-no:       +32 2 401 27 51
@@ -34,8 +34,7 @@ nserver:      SI.DNS.EU 193.2.221.62 2001:1470:8000:100:0:0:0:62
 nserver:      W.DNS.EU 194.0.25.28 2001:678:20:0:0:0:0:28
 nserver:      X.DNS.EU 185.151.141.1 2a02:568:fe00:0:0:0:0:6575
 nserver:      Y.DNS.EU 194.146.106.90 2001:67c:1010:23:0:0:0:53
-ds-rdata:     59479 8 2 5DBAA81BC0BEFE921886D8DA28498D9FD441B457FB0E3642A0B2F9811C8E15E0
-ds-rdata:     35926 8 2 89B9EF0445904E7C6074B5BECE823C3E264FBD91C103D10BDE603412343CE70C
+ds-rdata:     35926 8 2 89b9ef0445904e7c6074b5bece823c3e264fbd91c103d10bde603412343ce70c
 
 whois:        whois.eu
 
@@ -43,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.eurid.eu
 
 created:      2005-04-28
-changed:      2022-11-18
+changed:      2023-03-07
 source:       IANA
 
