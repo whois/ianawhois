@@ -7,7 +7,7 @@ domain-ace:   XN--90AIS
 
 organisation: Belarusian Cloud Technologies LLC
 address:      K. Marks Str. 29
-address:      220030 Minsk
+address:      Minsk 220030
 address:      Belarus
 
 contact:      administrative
@@ -24,7 +24,7 @@ contact:      technical
 name:         General Director
 organisation: Belarusian Cloud Technologies LLC
 address:      K. Marks Str. 29
-address:      220030 Minsk
+address:      Minsk 220030
 address:      Belarus
 phone:        +375 17 287 11 34
 fax-no:       +375 17 287 11 01
@@ -33,9 +33,9 @@ e-mail:       info@cctld.by
 nserver:      DNS1.TLD.BECLOUDBY.COM 2a00:c827:a:2:0:0:0:2 93.125.25.72
 nserver:      DNS2.TLD.BECLOUDBY.COM 2a00:c827:a:3:0:0:0:2 93.125.25.73
 nserver:      DNS3.TLD.BECLOUDBY.COM 185.98.83.4 2a01:ba80:e:c:1:0:0:4c
-nserver:      DNS4.TLD.BECLOUDBY.COM 184.72.17.94 2600:1f1c:e9d:8500:8445:614f:f582:9e87
-nserver:      DNS5.TLD.BECLOUDBY.COM 2406:da12:834:8700:3ff5:9f9d:f1cc:863a 54.180.35.203
-ds-rdata:     43354 13 2 E3288FD293924279D5C2CDDAAC9875052D0D3CAC2476F03CFD546EA512740699
+nserver:      DNS4.TLD.BECLOUDBY.COM 2a0e:b81:8001:1001:0:0:0:2 31.44.1.137
+nserver:      DNS7.TLD.BECLOUDBY.COM 31.44.5.245
+ds-rdata:     43354 13 2 e3288fd293924279d5c2cddaac9875052d0d3cac2476f03cfd546ea512740699
 
 whois:        whois.cctld.by
 
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: https://cctld.by
 
 created:      2014-09-29
-changed:      2022-08-01
+changed:      2023-03-07
 source:       IANA
 
