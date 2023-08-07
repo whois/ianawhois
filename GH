@@ -36,6 +36,8 @@ nserver:      NS.DNS.BR 200.160.0.5 2001:12ff:0:a20:0:0:0:5
 nserver:      NS1.NIC.GH 197.253.95.251
 nserver:      NS2.NIC.GH 197.253.127.251
 
+whois:        
+
 status:       ACTIVE
 remarks:      Registration information: http://www.nic.gh
 
