@@ -5,13 +5,17 @@
 domain:       TOP
 
 organisation: Jiangsu Bangning Science & Technology Co.,Ltd.
-address:      3th Floor, BangNing Technology Park, 2 YuHua Avenue, Yuhuatai District, Nanjing City, Jiangsu Province.
+address:      3th Floor, BangNing Technology Park, 2 YuHua Avenue
+address:      Yuhuatai District
+address:      Nanjing Jiangsu
 address:      China
 
 contact:      administrative
 name:         Xiangli Li
 organisation: Jiangsu Bangning Science & technology Co.,Ltd.
-address:      3th Floor, BangNing Technology Park, 2 YuHua Avenue, Yuhuatai District, Nanjing City, Jiangsu Province.
+address:      3th Floor, BangNing Technology Park, 2 YuHua Avenue
+address:      Yuhuatai District
+address:      Nanjing Jiangsu
 address:      China
 phone:        +86 13915996396
 fax-no:       +86 2586883476
@@ -20,7 +24,9 @@ e-mail:       newgtld@55hl.com
 contact:      technical
 name:         Lin Dong
 organisation: Jiangsu Bangning Science & technology Co.,Ltd.
-address:      3th Floor, BangNing Technology Park, 2 YuHua Avenue, Yuhuatai District, Nanjing City, Jiangsu Province
+address:      3th Floor, BangNing Technology Park, 2 YuHua Avenue
+address:      Yuhuatai District
+address:      Nanjing Jiangsu
 address:      China
 phone:        +86 15261877642
 fax-no:       +86 02586883476
@@ -42,6 +48,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.top
 
 created:      2014-07-24
-changed:      2019-09-03
+changed:      2022-12-08
 source:       IANA
 
