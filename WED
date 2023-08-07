@@ -5,16 +5,18 @@
 domain:       WED
 
 organisation: Emergency Back-End Registry Operator Program - ICANN
-address:      12025 Waterfront Dr., Suite 300
-address:      Los Angeles, CA 90094
-address:      United States
+address:      12025 Waterfront Drive
+address:      Suite 300
+address:      Los Angeles CA 90094
+address:      United States of America (the)
 
 contact:      administrative
 name:         EBERO Event Director
 organisation: Internet Corporation for Assigned Names and Numbers (ICANN)
-address:      12025 Waterfront Dr., Suite 300
-address:      Los Angeles, CA 90094
-address:      United States
+address:      12025 Waterfront Drive
+address:      Suite 300
+address:      Los Angeles CA 90094
+address:      United States of America (the)
 phone:        +1 310 301 5800
 fax-no:       +1 310 823 8649
 e-mail:       eventdirector@icann.org
@@ -22,9 +24,11 @@ e-mail:       eventdirector@icann.org
 contact:      technical
 name:         Nominet EBERO Event Manager
 organisation: Nominet
-address:      Minerva House, Edmund Halley Road, Oxford Science Park
-address:      Oxford, Oxon OX44DQ
-address:      United Kingdom
+address:      Minerva House
+address:      Edmund Halley Road
+address:      Oxford Science Park
+address:      Oxford Oxon OX4 4DQ
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44 1865 332470
 e-mail:       ebero@nominet.uk
 
@@ -36,7 +40,7 @@ nserver:      DNSA.EMDNS.UK 156.154.100.3 2001:502:ad09:0:0:0:0:3
 nserver:      DNSB.EMDNS.UK 156.154.101.3 2001:502:2eda:0:0:0:0:3
 nserver:      DNSC.EMDNS.UK 156.154.102.3 2610:a1:1009:0:0:0:0:3
 nserver:      DNSD.EMDNS.UK 156.154.103.3 2610:a1:1010:0:0:0:0:3
-ds-rdata:     60571 8 2 32ED00D841E724EAA980472283420EE9DE48905E1B04709E79FC418C08FA1561
+ds-rdata:     60571 8 2 32ed00d841e724eaa980472283420ee9de48905e1b04709e79fc418c08fa1561
 
 whois:        whois.nic.wed
 
