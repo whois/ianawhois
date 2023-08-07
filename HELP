@@ -5,35 +5,35 @@
 domain:       HELP
 
 organisation: UNR Corp.
-address:      Third Floor, Monaco Towers, Georgetown
-address:      Grand Cayman, Cayman Islands
-address:      30369SMB-KY11202
-address:      Cayman Islands
+address:      Third Floor, Monaco Towers
+address:      George Town Grand Cayman 30369SMB-KY11202
+address:      Cayman Islands (the)
 
 contact:      administrative
 name:         CHENG/PUI KIT
 organisation: Innovation Service Ltd
 address:      Suite 3, Global Village Jivan Complex
-address:      Mont Fleuri, Mahe
+address:      Mont Fleuri Mahe
 address:      Seychelles
 phone:        +852 2988 8918
 fax-no:       +852 2988 8368
 e-mail:       m.cheng@innovationservice.help
 
 contact:      technical
-name:         Francisco Obispo
-organisation: Tucows Inc
-address:      96 Mowat Avenue
-address:      Toronto, Ontario M6K3M1
-address:      Canada
-phone:        +1.949.903.3449
-e-mail:       trs-ops@tucows.com
+name:         Head of Engineering, Registry
+organisation: CentralNIC
+address:      Saddlers House, 4th Floor, 44 Gutter Lane
+address:      London EC2V 6BR
+address:      United Kingdom of Great Britain and Northern Ireland (the)
+phone:        +44 20 33 88 0600
+e-mail:       tld.ops@centralnic.com
 
-nserver:      NS1.UNIREGISTRY.NET 2620:57:4000:1:0:0:0:1 64.96.1.1
-nserver:      NS2.UNIREGISTRY.INFO 64.96.2.1
-nserver:      NS3.UNIREGISTRY.NET 185.159.197.3 2620:10a:80aa:0:0:0:0:3
-nserver:      NS4.UNIREGISTRY.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
-ds-rdata:     58220 13 2 631C51B43BA218603248E67A2C076C73ACD16AD6EB0E4DF9B3ABD77D92643A9A
+nserver:      A.NIC.HELP 194.169.218.158 2001:67c:13cc:0:0:0:1:158
+nserver:      B.NIC.HELP 185.24.64.158 2a04:2b00:13cc:0:0:0:1:158
+nserver:      C.NIC.HELP 212.18.248.158 2a04:2b00:13ee:0:0:0:0:158
+nserver:      D.NIC.HELP 212.18.249.158 2a04:2b00:13ff:0:0:0:0:158
+ds-rdata:     58220 13 2 631c51b43ba218603248e67a2c076c73acd16ad6eb0e4df9b3abd77d92643a9a
+ds-rdata:     58472 13 2 9313a5ff28806d26514b86f9a83a67b79692ab1ff3a4401ce49fc0488b607bea
 
 whois:        whois.nic.help
 
@@ -41,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.help
 
 created:      2014-08-15
-changed:      2022-10-12
+changed:      2023-03-15
 source:       IANA
 
