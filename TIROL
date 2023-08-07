@@ -6,14 +6,14 @@ domain:       TIROL
 
 organisation: punkt Tirol GmbH
 address:      Brunecker Strasse 3
-address:      6020 Innsbruck
+address:      Innsbruck 6020
 address:      Austria
 
 contact:      administrative
 name:         Markus Kichl
 organisation: punkt Tirol GmbH
-address:      Brunecker Strase 3
-address:      6020 Innsbruck
+address:      Brunecker Strasse 3
+address:      Innsbruck 6020
 address:      Austria
 phone:        +435125354-3886
 fax-no:       +43 512 5354-993886
@@ -23,7 +23,7 @@ contact:      technical
 name:         Technical Operations
 organisation: RyCE GmbH
 address:      Matznergasse 17
-address:      1140 Wien
+address:      Vienna 1140
 address:      Austria
 phone:        +431981160
 fax-no:       +43198116111
@@ -40,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.tirol
 
 created:      2014-05-29
-changed:      2020-03-26
+changed:      2021-03-11
 source:       IANA
 
