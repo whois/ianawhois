@@ -6,15 +6,15 @@ domain:       AMSTERDAM
 
 organisation: Gemeente Amsterdam
 address:      Amstel 1
-address:      1011 PN Amsterdam
-address:      Netherlands
+address:      Amsterdam 1011 PN
+address:      Netherlands (the)
 
 contact:      administrative
 name:         Managing Director
 organisation: SIDN (Stichting Internet Domeinregistratie Nederland)
 address:      P.O. Box 5022
-address:      6802 EA Arnhem
-address:      Netherlands
+address:      Arnhem 6802 EA
+address:      Netherlands (the)
 phone:        +31 26 3525500
 e-mail:       admin@sidn.nl
 
@@ -22,16 +22,15 @@ contact:      technical
 name:         Operational Director
 organisation: SIDN (Stichting Internet Domeinregistratie Nederland)
 address:      P.O. Box 5022
-address:      6802 EA Arnhem
-address:      Netherlands
+address:      Arnhem 6802 EA
+address:      Netherlands (the)
 phone:        +31 26 3525500
 e-mail:       tech@sidn.nl
 
-nserver:      NS1.NIC.AMSTERDAM 194.0.28.4 2001:678:2c:0:194:0:28:4
-nserver:      NS2.NIC.AMSTERDAM 194.146.106.134 2001:67c:1010:34:0:0:0:53
-nserver:      NS3.NIC.AMSTERDAM 194.0.25.26 2001:678:20:0:0:0:0:26
-nserver:      NS4.NIC.AMSTERDAM 185.159.199.202 2620:10a:80ac:0:0:0:0:202
-ds-rdata:     56530 8 2 af680a3c1300a58bd0b4a4c42b274c369ebd7fd1bba8669ed34759e18132d78d
+nserver:      NS1.DNS.AMSTERDAM 194.0.28.4 2001:678:2c:0:194:0:28:4
+nserver:      NS3.DNS.AMSTERDAM 194.0.25.26 2001:678:20:0:0:0:0:26
+nserver:      NS4.DNS.AMSTERDAM 185.159.199.202 2620:10a:80ac:0:0:0:0:202
+ds-rdata:     29930 13 2 66e790789a927fe0510dffbc2309654d9cc1b4d32fb3797b6ea6f31cad59d7f3
 
 whois:        whois.nic.amsterdam
 
@@ -39,6 +38,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.amsterdam
 
 created:      2014-11-20
-changed:      2022-05-20
+changed:      2023-07-18
 source:       IANA
 
