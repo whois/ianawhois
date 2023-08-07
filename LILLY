@@ -5,14 +5,16 @@
 domain:       LILLY
 
 organisation: Eli Lilly and Company
-address:      639 South Delaware Street Indianapolis, Indiana - 46285 US
-address:      United States
+address:      639 South Delaware Street
+address:      Indianapolis IN 46285
+address:      United States of America (the)
 
 contact:      administrative
 name:         Robyn Orth
 organisation: Eli Lilly and Company
-address:      639 South Delaware Street Indianapolis, Indiana - 46285 US
-address:      United States
+address:      639 South Delaware Street
+address:      Indianapolis IN 46285
+address:      United States of America (the)
 phone:        +1 317 276 2000
 fax-no:       +1 317 276 1919
 e-mail:       elilillydomains@brandsight.com
@@ -21,8 +23,8 @@ contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
 address:      2155 E GoDaddy Way
-address:      Tempe, AZ 85284
-address:      United States
+address:      Tempe AZ 85284
+address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
@@ -33,7 +35,9 @@ nserver:      C.NIC.LILLY 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.LILLY 156.154.144.104 2610:a1:1071:0:0:0:0:68
 nserver:      NS2.DNS.NIC.LILLY 156.154.145.104 2610:a1:1072:0:0:0:0:68
 nserver:      NS3.DNS.NIC.LILLY 156.154.159.104 2610:a1:1073:0:0:0:0:68
-ds-rdata:     60970 8 2 967D4DF30E91FD6E0497C228C18DB4FE6C3EF1479CE5428338FE0E746BC412E0
+ds-rdata:     60970 8 2 967d4df30e91fd6e0497c228c18db4fe6c3ef1479ce5428338fe0e746bc412e0
+
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: http://www.lilly.com
