@@ -6,42 +6,43 @@ domain:       UA
 
 organisation: Hostmaster Ltd.
 address:      vul Vavilovykh 18
-address:      Kyiv  04060
+address:      Kyiv 04060
 address:      Ukraine
 
 contact:      administrative
 name:         Dmitry Kohmanyuk
 organisation: Hostmaster Ltd.
 address:      P.O.Box 23
-address:      Kyiv  04053
+address:      Kyiv 04053
 address:      Ukraine
 phone:        +380 50 381 4604
+fax-no:       +1 (510) 400-0104
 e-mail:       dk@cctld.ua
 
 contact:      technical
 name:         Igor Sviridov
 organisation: Hostmaster Ltd
 address:      P.O. Box 98
-address:      Kyiv  04060
+address:      Kyiv 04060
 address:      Ukraine
 phone:        +1 415 672 3654
 fax-no:       +1 978 359 5830
 e-mail:       sia@nest.org
 
 nserver:      BG.NS.UA 185.136.96.185 185.136.97.185 2a06:fb00:1:0:0:0:2:185 2a06:fb00:1:0:0:0:4:185
-nserver:      CD1.NS.UA 194.0.1.9 2001:678:4:0:0:0:0:9
 nserver:      HO1.NS.UA 195.47.253.1 2001:67c:258:0:0:0:0:1
 nserver:      IN1.NS.UA 2604:ee00:0:101:0:0:0:40 74.123.224.40
+nserver:      NN.NS.UA 194.58.197.4 2a01:3f1:c001:0:0:0:0:53
 nserver:      PCH.NS.UA 2001:500:14:6012:ad:0:0:1 204.61.216.12
 nserver:      RCZ.NS.UA 193.46.128.10 2a02:850:ffe0:0:0:0:0:10
-ds-rdata:     48349 13 2 D8456DF0EAB0DB7D2422B4110722F5772D7B2F1FD41D487E956A54F1039D53C8
+ds-rdata:     48349 13 2 d8456df0eab0db7d2422b4110722f5772d7b2f1fd41d487e956a54f1039d53c8
 
 whois:        whois.ua
 
 status:       ACTIVE
-remarks:      Registration information: http://hostmaster.ua/
+remarks:      Registration information: https://www.hostmaster.ua/
 
 created:      1992-12-01
-changed:      2022-03-09
+changed:      2023-02-27
 source:       IANA
 
