@@ -7,14 +7,14 @@ domain:       SH
 organisation: Government of St. Helena
 address:      The Castle
 address:      Jamestown
-address:      Saint Helena, Ascension And Tristan Da Cunha
+address:      Saint Helena, Ascension and Tristan da Cunha
 
 contact:      administrative
 name:         Chief Secretary
 organisation: Government of St. Helena
 address:      The Castle
 address:      Jamestown
-address:      Saint Helena, Ascension And Tristan Da Cunha
+address:      Saint Helena, Ascension and Tristan da Cunha
 fax-no:       +290 2598
 e-mail:       administrator@nic.sh
 
@@ -22,8 +22,8 @@ contact:      technical
 name:         Technical Director
 organisation: Internet Computer Bureau Ltd
 address:      Greytown House, 221-227 High Street
-address:      Orpington, Kent BR6 0NZ
-address:      United Kingdom
+address:      Orpington Kent BR6 0NZ
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44 (0)1689 827505
 fax-no:       +44 (0)1689 831478
 e-mail:       admin@icb.co.uk
@@ -40,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.sh/
 
 created:      1997-09-23
-changed:      2022-07-26
+changed:      2023-01-18
 source:       IANA
 
