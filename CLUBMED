@@ -6,14 +6,14 @@ domain:       CLUBMED
 
 organisation: Club Méditerranée S.A.
 address:      11 rue de Cambrai
-address:      75019 Paris
+address:      Paris 75019
 address:      France
 
 contact:      administrative
 name:         Global E-Business Manager
 organisation: Club Méditerranée S.A.
 address:      11 rue de Cambrai
-address:      75019 Paris
+address:      Paris 75019
 address:      France
 phone:        +33 1 53 35 35 53
 fax-no:       +33 1 53 35 36 10
@@ -23,8 +23,8 @@ contact:      technical
 name:         Registry Customer Service
 organisation: Verisign, inc.
 address:      12061 Bluemont Way
-address:      Reston Virginia 20190
-address:      United States
+address:      Reston VA 20190
+address:      United States of America (the)
 phone:        +1-703-925-6999
 fax-no:       +1-703-948-3978
 e-mail:       info@verisign-grs.com
@@ -33,13 +33,14 @@ nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
 nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
 nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
 nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
-ds-rdata:     2823 8 2 49AFA8257AEF277EADCE81A3B3712BE90AEC8A22363B302884ACF373EADADF0C
+ds-rdata:     2823 8 2 49afa8257aef277eadce81a3b3712be90aec8a22363b302884acf373eadadf0c
 
 whois:        whois.nic.clubmed
 
 status:       ACTIVE
+remarks:      Registration information: 
 
 created:      2015-09-24
-changed:      2019-08-16
+changed:      2020-10-01
 source:       IANA
 
