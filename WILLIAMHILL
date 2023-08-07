@@ -7,19 +7,15 @@ domain:       WILLIAMHILL
 organisation: William Hill Organization Limited
 address:      Greenside House
 address:      50 Station Road
-address:      London
-address:      N22 7TP
-address:      UK
-address:      United Kingdom
+address:      London N22 7TP
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 
 contact:      administrative
 name:         Roy Azrad
 organisation: William Hill Organization Ltd
 address:      Greenside House, 50 Station Road
-address:      London
-address:      N22 7TP
-address:      UK
-address:      United Kingdom
+address:      London N22 7TP
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44.2089183600
 fax-no:       +44.2089183726
 e-mail:       domains@williamhill.com
@@ -28,8 +24,8 @@ contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
 address:      2155 E GoDaddy Way
-address:      Tempe, AZ 85284
-address:      United States
+address:      Tempe AZ 85284
+address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
@@ -40,7 +36,9 @@ nserver:      C.NIC.WILLIAMHILL 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.WILLIAMHILL 156.154.144.181 2610:a1:1071:0:0:0:0:b5
 nserver:      NS2.DNS.NIC.WILLIAMHILL 156.154.145.181 2610:a1:1072:0:0:0:0:b5
 nserver:      NS3.DNS.NIC.WILLIAMHILL 156.154.159.181 2610:a1:1073:0:0:0:0:b5
-ds-rdata:     64624 8 2 97386EC38FAB6B1D4F0C1BCDBC8F670D92A474996EDDCC24786A028A249E2C23
+ds-rdata:     64624 8 2 97386ec38fab6b1d4f0c1bcdbc8f670d92a474996eddcc24786a028a249e2c23
+
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: http://www.williamhill.com/
