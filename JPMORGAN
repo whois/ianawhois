@@ -5,14 +5,16 @@
 domain:       JPMORGAN
 
 organisation: JPMorgan Chase Bank, National Association
-address:      270 Park Avenue, New York NY 10017
-address:      United States
+address:      270 Park Avenue
+address:      New York NY 10017
+address:      United States of America (the)
 
 contact:      administrative
 name:         Chris Niemi
 organisation: MarkMonitor Inc.
-address:      391 N. Ancestor Pl., Boise, ID 83704
-address:      United States
+address:      391 N. Ancestor Place, Suite 150
+address:      Boise ID 83704
+address:      United States of America (the)
 phone:        +1-208-389-5740
 fax-no:       +1-208-389-5771
 e-mail:       dotchase@markmonitor.com
@@ -21,8 +23,8 @@ contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
 address:      2155 E GoDaddy Way
-address:      Tempe, AZ 85284
-address:      United States
+address:      Tempe AZ 85284
+address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
@@ -33,7 +35,9 @@ nserver:      NS3.DNS.NIC.JPMORGAN 156.154.159.92 2610:a1:1073:0:0:0:0:5c
 nserver:      NS4.DNS.NIC.JPMORGAN 156.154.156.92 2610:a1:1074:0:0:0:0:5c
 nserver:      NS5.DNS.NIC.JPMORGAN 156.154.157.92 2610:a1:1075:0:0:0:0:5c
 nserver:      NS6.DNS.NIC.JPMORGAN 156.154.158.92 2610:a1:1076:0:0:0:0:5c
-ds-rdata:     3652 8 2 EE3004DFA6162785F6C80C697E79D43F8FE436189A5CD880C971D4CC2870B139
+ds-rdata:     3652 8 2 ee3004dfa6162785f6c80c697e79d43f8fe436189a5cd880c971d4cc2870b139
+
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: http://www.jpmorganchase.com
