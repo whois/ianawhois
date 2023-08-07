@@ -5,14 +5,16 @@
 domain:       OFFICE
 
 organisation: Microsoft Corporation
-address:      One Microsoft Way, Redmond, WA 98052
-address:      United States
+address:      One Microsoft Way
+address:      Redmond WA 98052
+address:      United States of America (the)
 
 contact:      administrative
 name:         Cole Quinn
 organisation: Microsoft Corporation
-address:      One Microsoft Way, Redmond, WA 98052
-address:      United States
+address:      One Microsoft Way
+address:      Redmond WA 98052
+address:      United States of America (the)
 phone:        +1 425-706-3546
 fax-no:       +1 425-457-2511
 e-mail:       tlddom@microsoft.com
@@ -21,8 +23,8 @@ contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
 address:      2155 E GoDaddy Way
-address:      Tempe, AZ 85284
-address:      United States
+address:      Tempe AZ 85284
+address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
@@ -33,7 +35,9 @@ nserver:      C.NIC.OFFICE 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.OFFICE 156.154.144.126 2610:a1:1071:0:0:0:0:7e
 nserver:      NS2.DNS.NIC.OFFICE 156.154.145.126 2610:a1:1072:0:0:0:0:7e
 nserver:      NS3.DNS.NIC.OFFICE 156.154.159.126 2610:a1:1073:0:0:0:0:7e
-ds-rdata:     6562 8 2 DBFB7BBBF0BED181CF7797BEE3565A527B9D4746148AD3B2B835ECD1531BA925
+ds-rdata:     6562 8 2 dbfb7bbbf0bed181cf7797bee3565a527b9d4746148ad3b2b835ecd1531ba925
+
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: http://www.office.com
