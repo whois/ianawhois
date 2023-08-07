@@ -6,25 +6,25 @@ domain:       FOOD
 
 organisation: Lifestyle Domain Holdings, Inc.
 address:      9721 Sherill Blvd.
-address:      Knoxville, TN 37919
-address:      United States
+address:      Knoxville TN 37919
+address:      United States of America (the)
 
 contact:      administrative
 name:         Jennifer Wolfe
-organisation: Dot Brand 360
-address:      4424 Carver Woods Suite 103
-address:      Cincinnati, Ohio 45242
-address:      United States
-phone:        +1-513-746-2800 x1
-fax-no:       NA
+organisation: Wolfe Domain
+address:      1196 Fording Island Road
+address:      Bluffton SC 29910
+address:      United States of America (the)
+phone:        +1-513-238-4348
+fax-no:       +1-513-238-4348
 e-mail:       jwolfe@dotbrand360.agency
 
 contact:      technical
 name:         Registy Customer Service
 organisation: VeriSign, Inc.
 address:      12061 Bluemont Way
-address:      Reston Virginia 20190
-address:      United States
+address:      Reston VA 20190
+address:      United States of America (the)
 phone:        +1-703-925-6999
 fax-no:       +1-703-948-3978
 e-mail:       info@verisign-grs.com
@@ -33,11 +33,14 @@ nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
 nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
 nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
 nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
-ds-rdata:     42180 8 2 4AA1F08B292B3835FD27B5692D0CD0C1CD0119BF1455A69506E50CDC6C47D761
+ds-rdata:     42180 8 2 4aa1f08b292b3835fd27b5692d0cd0c1cd0119bf1455a69506e50cdc6c47d761
+
+whois:        
 
 status:       ACTIVE
+remarks:      Registration information: 
 
 created:      2016-11-04
-changed:      2016-11-10
+changed:      2023-06-02
 source:       IANA
 
