@@ -6,15 +6,15 @@ domain:       VI
 
 organisation: Virgin Islands Public Telecommunications System, Inc.
 address:      4608 Tutu Park Mall, Suite 202
-address:      St. Thomas, VI 00802-1816
-address:      Virgin Islands, U.s.
+address:      St. Thomas VI 00802-1816
+address:      Virgin Islands (U.S.)
 
 contact:      administrative
 name:         TLD Manager
 organisation: Virgin Islands Public Telecommunications System, Inc.
 address:      4608 Tutu Park Mall, Suite 202
-address:      St. Thomas, VI 00802-1816
-address:      Virgin Islands, U.S.
+address:      St. Thomas VI 00802-1816
+address:      Virgin Islands (U.S.)
 phone:        +1 340 776-4800
 fax-no:       +1 340 776-2666
 e-mail:       tld.manager@nic.vi
@@ -23,8 +23,8 @@ contact:      technical
 name:         DNS Administrator
 organisation: Virgin Islands Public Telecommunications System, Inc.
 address:      4608 Tutu Park Mall, Suite 202
-address:      St. Thomas, VI 00802-1816
-address:      Virgin Islands, U.S.
+address:      St. Thomas VI 00802-1816
+address:      Virgin Islands (U.S.)
 phone:        +1 340 776-4800
 fax-no:       +1 340 776-2666
 e-mail:       domain@nic.vi
@@ -34,10 +34,12 @@ nserver:      AUTH110.NS.UU.NET 198.6.1.114
 nserver:      NS3.NIC.VI 185.17.236.230
 nserver:      PCH.NIC.VI 2001:500:14:6133:ad:0:0:1 204.61.216.133
 
+whois:        
+
 status:       ACTIVE
 remarks:      Registration information: http://www.nic.vi
 
 created:      1995-08-31
-changed:      2022-08-02
+changed:      2023-03-07
 source:       IANA
 
