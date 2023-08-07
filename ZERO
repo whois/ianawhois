@@ -5,14 +5,16 @@
 domain:       ZERO
 
 organisation: Amazon Registry Services, Inc.
-address:      410 Terry Avenue North, Seattle, WA  98109
-address:      United States
+address:      410 Terry Avenue North
+address:      Seattle WA 98109
+address:      United States of America (the)
 
 contact:      administrative
 name:         Carolyn Mitchell
 organisation: Amazon Registry Services, Inc.
-address:      410 Terry Avenue North, Seattle, WA  98109
-address:      United States
+address:      410 Terry Avenue North
+address:      Seattle WA 98109
+address:      United States of America (the)
 phone:        +1 206 646 5990
 fax-no:       +1 206 946 7702
 e-mail:       zero-rzm@amazon.com
@@ -21,8 +23,8 @@ contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
 address:      2155 E GoDaddy Way
-address:      Tempe, AZ 85284
-address:      United States
+address:      Tempe AZ 85284
+address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
@@ -33,7 +35,9 @@ nserver:      C.NIC.ZERO 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      NS1.DNS.NIC.ZERO 156.154.144.188 2610:a1:1071:0:0:0:0:bc
 nserver:      NS2.DNS.NIC.ZERO 156.154.145.188 2610:a1:1072:0:0:0:0:bc
 nserver:      NS3.DNS.NIC.ZERO 156.154.159.188 2610:a1:1073:0:0:0:0:bc
-ds-rdata:     47974 8 2 331D019E413914C99D9AE0E89862063A248694E12C4D40764EAA91B109C3E4E8
+ds-rdata:     47974 8 2 331d019e413914c99d9ae0e89862063a248694e12c4d40764eaa91b109c3e4e8
+
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: http://www.amazonregistry.com
