@@ -8,6 +8,7 @@ organisation: Sapphire Networks
 address:      Suite 3.0.3
 address:      Eurotowers
 address:      P.O. Box 797
+address:      Gibraltar  GX11 1AA
 address:      Gibraltar
 
 contact:      administrative
@@ -16,6 +17,7 @@ organisation: Sapphire Networks
 address:      Suite 3.0.3
 address:      Eurotowers
 address:      P.O. Box 797
+address:      Gibraltar  GX11 1AA
 address:      Gibraltar
 phone:        +350 47200
 fax-no:       +350 47272
@@ -25,10 +27,10 @@ contact:      technical
 name:         Senior Director, DNS Infrastructure Group
 organisation: Afilias Limited
 address:      C/O Afilias USA, Inc.
-address:      300 Welsh Road, Building 3
-address:      Suite 105
-address:      Horsham Pennsylvania 19044
-address:      United States
+address:      300 Welsh Road
+address:      Building 3, Suite 105
+address:      Horsham PA 19044
+address:      United States of America (the)
 phone:        +1 215 706 5700
 fax-no:       +1 215 706 5701
 e-mail:       tld-tech-poc@afilias.info
