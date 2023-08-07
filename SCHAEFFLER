@@ -6,14 +6,14 @@ domain:       SCHAEFFLER
 
 organisation: Schaeffler Technologies AG & Co. KG
 address:      Industriestrasse 1-3
-address:      91074 Herzogenaurach
+address:      Herzogenaurach 91074
 address:      Germany
 
 contact:      administrative
 name:         CEO
 organisation: LEMARIT GmbH
 address:      Werkstrasse 12
-address:      24955 Harrislee
+address:      Harrislee Schleswig-Holstein 24955
 address:      Germany
 phone:        +49 461 5050350
 e-mail:       schaefflerregistry@lemarit.com
@@ -22,8 +22,7 @@ contact:      technical
 name:         CTO
 organisation: LEMARIT GmbH
 address:      Werkstrasse 12
-address:      Harrislee, Schleswig-Holstein
-address:      24955
+address:      Harrislee Schleswig-Holstein 24955
 address:      Germany
 phone:        +49 4615050350
 fax-no:       +49 461 50503535
@@ -32,7 +31,7 @@ e-mail:       schaefflerregistry@lemarit.com
 nserver:      A.DNS.NIC.SCHAEFFLER 194.0.25.34 2001:678:20:0:0:0:0:34
 nserver:      M.DNS.NIC.SCHAEFFLER 194.0.26.14 2001:67c:10e0:0:0:0:0:14
 nserver:      N.DNS.NIC.SCHAEFFLER 194.0.24.14 2001:678:24:0:0:0:0:14
-ds-rdata:     50432 8 2 ecce16b1454e232528979c94910636efa06e034a776e7a730e681dd9d4d39fe6
+ds-rdata:     5269 8 2 7cb20720c71b7de03c050c85d6a41ec795f90912f8918c4fa5f2ab37c45cdbb7
 
 whois:        whois.afilias-srs.net
 
@@ -40,6 +39,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.schaeffler.com
 
 created:      2015-12-17
-changed:      2022-06-04
+changed:      2023-05-04
 source:       IANA
 
