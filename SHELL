@@ -5,18 +5,16 @@
 domain:       SHELL
 
 organisation: Shell Information Technology International Inc
-address:      1500 Old Spanish Trail Houston
-address:      Texas
-address:      77054-1818
-address:      United States
+address:      1500 Old Spanish Trail
+address:      Houston TX 77054-1818
+address:      United States of America (the)
 
 contact:      administrative
 name:         Vice President Communications
 organisation: Shell International Limited
 address:      Shell Centre
-address:      London
-address:      SE1 7NA
-address:      United Kingdom
+address:      London SE1 7NA
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44 207 421 7790
 fax-no:       +44 87 0011 8187
 e-mail:       lorna.gradden.sh@valideus.com
@@ -25,10 +23,8 @@ contact:      technical
 name:         Registry Customer Service
 organisation: Verisign, Inc
 address:      12061 Bluemont Way
-address:      Reston
-address:      Virginia
-address:      20190
-address:      United States
+address:      Reston VA 20190
+address:      United States of America (the)
 phone:        +1-703-925-6999
 fax-no:       +1-703-948-3978
 e-mail:       info@verisign-grs.com
@@ -37,7 +33,7 @@ nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
 nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
 nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
 nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
-ds-rdata:     55158 8 2 BE8C4AB62CE5F9AC998C8C1383340F7800A43A6A903F061791B19AF6F6DBB9D5
+ds-rdata:     55158 8 2 be8c4ab62ce5f9ac998c8c1383340f7800a43a6a903f061791b19af6f6dbb9d5
 
 whois:        whois.nic.shell
 
@@ -45,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.shell.com
 
 created:      2015-11-06
-changed:      2019-08-16
+changed:      2020-10-01
 source:       IANA
 
