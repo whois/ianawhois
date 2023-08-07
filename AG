@@ -6,15 +6,15 @@ domain:       AG
 
 organisation: UHSA School of Medicine
 address:      P.O. Box 510
-address:      Saints Johns
-address:      Antigua And Barbuda
+address:      Saint John's
+address:      Antigua and Barbuda
 
 contact:      administrative
 name:         George S. Daniel
 organisation: UHSA School of Medicine
 address:      P.O. Box 510
-address:      Saints Johns
-address:      Antigua And Barbuda
+address:      Saint John's
+address:      Antigua and Barbuda
 phone:        +1 268 460 1391
 fax-no:       +1 268 460 1477
 e-mail:       daniel@uhsa.edu.ag
@@ -22,10 +22,11 @@ e-mail:       daniel@uhsa.edu.ag
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
 organisation: Afilias Limited
-address:      C/O Afilias USA, Inc.,
-address:      300 Welsh Road, Building 3, Suite 105
-address:      Horsham, PA 19044
-address:      United States
+address:      C/O Afilias USA, Inc.
+address:      300 Welsh Road
+address:      Building 3, Suite 105
+address:      Horsham PA 19044
+address:      United States of America (the)
 phone:        +1 215 706 5700
 fax-no:       +1 215 706 5701
 e-mail:       tld-tech-poc@afilias.info
