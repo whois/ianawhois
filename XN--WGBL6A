@@ -8,7 +8,7 @@ domain-ace:   XN--WGBL6A
 organisation: Communications Regulatory Authority
 address:      Al Nasr Tower B.
 address:      Corniche Road
-address:      Doha  23264
+address:      Doha 23264
 address:      Qatar
 
 contact:      administrative
@@ -16,7 +16,7 @@ name:         Qatar Domains Registry Admin
 organisation: Communications Regulatory Authority
 address:      Al Nasr Tower B.
 address:      Corniche Road
-address:      Doha  23404
+address:      Doha 23404
 address:      Qatar
 phone:        +974 44995430
 fax-no:       +974 44830630
@@ -27,7 +27,7 @@ name:         Qatar Domains Registry Tech
 organisation: Communications Regulatory Authority
 address:      Al Nasr Tower B.
 address:      Corniche Road
-address:      Doha  23404
+address:      Doha 23404
 address:      Qatar
 phone:        +974 44995312
 fax-no:       +974 44830630
@@ -49,6 +49,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.cra.gov.qa/
 
 created:      2010-12-24
-changed:      2022-02-07
+changed:      2023-03-07
 source:       IANA
 
