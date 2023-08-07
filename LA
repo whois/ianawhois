@@ -4,36 +4,40 @@
 
 domain:       LA
 
-organisation: Lao National Internet Committee (LANIC), Ministry of Posts and Telecommunications
+organisation: Lao National Internet Center (LANIC),
+organisation: Ministry of Technology and Communications
 address:      Lane Xang Avenue, Chanthaboury
-address:      Vientiane Capital, Lao People's Democratic Republic (Lao PDR)
-address:      01000
-address:      Lao People's Democratic Republic
+address:      Vientiane 01000
+address:      Lao People's Democratic Republic (the)
 
 contact:      administrative
-name:         Mr. Keovisouk Solaphom
-organisation: Lao National Internet Center
-address:      Sailom Village, Sailom Road, Chanthaboury, Vientiane Capital
-address:      Lao People's Democratic Republic
+name:         Deputy Director General of LANIC
+organisation: Lao National Internet Center (LANIC)
+address:      Ministry of Technology and Communications
+address:      Saylom Road, Chanthaboury District
+address:      Vientiane 10000
+address:      Lao People's Democratic Republic (the)
 phone:        +856 21 254150
 fax-no:       +856 21 254150
-e-mail:       admincontact@lanic.la
+e-mail:       admincontact@lanic.gov.la
 
 contact:      technical
-name:         Mr. Phouthong Sisavath
-organisation: Lao National Internet Center
-address:      Sailom Village, Sailom Road, Chanthaboury, Vientiane Capital
-address:      Lao People's Democratic Republic
-phone:        +856 21 255780
+name:         Director of ccTLD .LA Division
+organisation: Lao National Internet Center (LANIC)
+address:      Ministry of Technology and Communications
+address:      Saylom Road, Chanthaboury District
+address:      Vientiane 10000
+address:      Lao People's Democratic Republic (the)
+phone:        +856 030 5745154
 fax-no:       +856 21 254150
-e-mail:       technicalcontact@lanic.la
+e-mail:       technicalcontact@lanic.gov.la
 
 nserver:      NS1.NIC.LA 185.24.64.15 2a04:2b00:13cc:0:0:0:1:15
 nserver:      NS2.NIC.LA 194.169.218.14 2001:67c:13cc:0:0:0:1:14
 nserver:      NS3.NIC.LA 185.24.64.14 2a04:2b00:13cc:0:0:0:1:14
 nserver:      NS4.NIC.LA 194.169.218.15 2001:67c:13cc:0:0:0:1:15
-ds-rdata:     42973 7 2 E7D0C3BCDF60E8D842E882D90B4EC263C8889B760098492C798841C13B4EA13F
-ds-rdata:     42973 7 1 1F0CEFA420E9101BB5791F3AB93E85917A72978B
+ds-rdata:     42973 7 2 e7d0c3bcdf60e8d842e882d90b4ec263c8889b760098492c798841c13b4ea13f
+ds-rdata:     42973 7 1 1f0cefa420e9101bb5791f3ab93e85917a72978b
 
 whois:        whois.nic.la
 
@@ -41,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.la
 
 created:      1996-05-14
-changed:      2022-05-02
+changed:      2023-03-17
 source:       IANA
 
