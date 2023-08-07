@@ -5,16 +5,17 @@
 domain:       HSBC
 
 organisation: HSBC Global Services (UK) Limited
-address:      8 Canada Square, Canary Wharf, London, - E14 5HQ, GB
-address:      United Kingdom
+address:      8 Canada Square, Canary Wharf
+address:      London E14 5HQ
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 
 contact:      administrative
 name:         Kevin Audritt
 organisation: HSBC Holdings PLC
 address:      8 Canada Square
 address:      Canary Wharf
-address:      London, E14 5HQ
-address:      United Kingdom
+address:      London E14 5HQ
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44 (0)20 7991 0814
 e-mail:       kevinaudritt@hsbc.com
 
@@ -22,8 +23,8 @@ contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
 address:      2155 E GoDaddy Way
-address:      Tempe, AZ 85284
-address:      United States
+address:      Tempe AZ 85284
+address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
@@ -34,7 +35,9 @@ nserver:      C.NIC.HSBC 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.HSBC 156.154.144.76 2610:a1:1071:0:0:0:0:4c
 nserver:      NS2.DNS.NIC.HSBC 156.154.145.76 2610:a1:1072:0:0:0:0:4c
 nserver:      NS3.DNS.NIC.HSBC 156.154.159.76 2610:a1:1073:0:0:0:0:4c
-ds-rdata:     44836 8 2 89F4241090C6C95E72420B8525E2F2472C6198937CAC4D5ED6D1C6D2F4F6DE27
+ds-rdata:     44836 8 2 89f4241090c6c95e72420b8525e2f2472c6198937cac4d5ed6d1c6d2f4f6de27
+
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: http://www.nic.hsbc
