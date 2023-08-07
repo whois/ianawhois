@@ -5,7 +5,10 @@
 domain:       OOO
 
 organisation: INFIBEAM INCORPORATION LIMITED
-address:      9th Floor, "A Wing", Gopal Palace, Nehrunagar-380015
+address:      9th Floor, A Wing
+address:      Gopal Palace
+address:      Nehrunagar
+address:      Ahmedabad Gujarat 380015
 address:      India
 
 contact:      administrative
@@ -14,8 +17,7 @@ organisation: Infibeam.com
 address:      9th Floor, A Wing
 address:      Gopal Palace
 address:      Nehrunagar
-address:      Ahmedabad
-address:      Gujarat 380015
+address:      Ahmedabad Gujarat 380015
 address:      India
 phone:        +91 8374000134
 fax-no:       +91 07940503219
@@ -24,9 +26,10 @@ e-mail:       ooocompliance@infibeam.net
 contact:      technical
 name:         CTO
 organisation: CentralNic
-address:      Saddlers House 4th Floor 44 Gutter Lane
+address:      Saddlers House, 4th Floor
+address:      44 Gutter Lane
 address:      London EC2V 6BR
-address:      United Kingdom
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44 20 33 88 0600
 fax-no:       +44 20 33 88 0601
 e-mail:       tld.ops@centralnic.com
@@ -35,9 +38,9 @@ nserver:      A.NIC.OOO 194.169.218.33 2001:67c:13cc:0:0:0:1:33
 nserver:      B.NIC.OOO 185.24.64.33 2a04:2b00:13cc:0:0:0:1:33
 nserver:      C.NIC.OOO 212.18.248.33 2a04:2b00:13ee:0:0:0:0:33
 nserver:      D.NIC.OOO 212.18.249.33 2a04:2b00:13ff:0:0:0:0:33
-ds-rdata:     32919 8 2 2A406589BC010BBD09BB78E067DDE644946D1AF4389113341358CF135B6F4910
-ds-rdata:     41890 8 2 F9807556257F226660B308490776B72FEBD70DFDE2ECD9E850FA1127B37C7799
-ds-rdata:     41890 8 1 27DDE633B73DD1F2703C0A89695862B056A0D29F
+ds-rdata:     32919 8 2 2a406589bc010bbd09bb78e067dde644946d1af4389113341358cf135b6f4910
+ds-rdata:     41890 8 2 f9807556257f226660b308490776b72febd70dfde2ecd9e850fa1127b37c7799
+ds-rdata:     41890 8 1 27dde633b73dd1f2703c0a89695862b056a0d29f
 
 whois:        whois.nic.ooo
 
