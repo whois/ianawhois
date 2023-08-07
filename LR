@@ -7,7 +7,7 @@ domain:       LR
 organisation: Data Technology Solutions, Inc.
 address:      First National Merchant Bank Plaza
 address:      Broadstreet
-address:      Monrovia  10-6053
+address:      Monrovia 10-6053
 address:      Liberia
 
 contact:      administrative
@@ -15,7 +15,7 @@ name:         Mai Bright Urey
 organisation: Data Technology Solutions, Inc.
 address:      First National Merchant Bank Plaza
 address:      Broadstreet
-address:      Monrovia  10-6053
+address:      Monrovia 10-6053
 address:      Liberia
 phone:        +231886510417
 fax-no:       +231 227083
@@ -24,16 +24,18 @@ e-mail:       murey@wulkifarms.com
 contact:      technical
 name:         Randy Bush
 address:      5147 Crystal Springs Drive NE
-address:      Bainbridge Island, WA  98110
-address:      United States
+address:      Bainbridge Island WA 98110
+address:      United States of America (the)
 phone:        +1 206 356 8341
 e-mail:       randy@psg.com
 
 nserver:      FORK.STH.DNSNODE.NET 2a01:3f0:0:306:0:0:0:53 77.72.229.254
 nserver:      NS-LR.AFRINIC.NET 196.216.168.61 2001:43f8:120:0:0:0:0:61
 nserver:      RIP.PSG.COM 147.28.0.39 2001:418:1:0:0:0:0:39
-ds-rdata:     29984 8 2 AA0EC78A15474B054759A26A2BE9D85A97F5FE9FE485A206E68B4F83B07789F8
-ds-rdata:     29984 8 1 A5E2025D5C3B1F4853BDDA21AA6A751E552DC715
+ds-rdata:     29984 8 2 aa0ec78a15474b054759a26a2be9d85a97f5fe9fe485a206e68b4f83b07789f8
+ds-rdata:     29984 8 1 a5e2025d5c3b1f4853bdda21aa6a751e552dc715
+
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: http://psg.com/dns/lr
