@@ -7,7 +7,7 @@ domain:       GT
 organisation: Universidad del Valle de Guatemala
 address:      18 Avenida 11-95,
 address:      zona 15 VH III
-address:      Guatemala  01015
+address:      Guatemala City 01015
 address:      Guatemala
 
 contact:      administrative
@@ -15,7 +15,7 @@ name:         Luis Roberto Furlan Collver, Administrator ccTLD .GT
 organisation: Universidad del Valle de Guatemala
 address:      18 Avenida 11-95,
 address:      zona 15 VH III
-address:      Guatemala  01015
+address:      Guatemala City 01015
 address:      Guatemala
 phone:        +502 2368 8566
 fax-no:       +502 2369 3452
@@ -26,7 +26,7 @@ name:         Esteban Maldonado
 organisation: Universidad del Valle de Guatemala
 address:      18 Avenida 11-95,
 address:      zona 15 VH III
-address:      Guatemala  01015
+address:      Guatemala City 01015
 address:      Guatemala
 phone:        +502 2368 8565
 e-mail:       devops@cctld.gt
@@ -37,6 +37,8 @@ nserver:      NS-CZ.GT 193.29.206.2 2001:678:1:0:0:0:0:2
 nserver:      NS.DNS.BR 200.160.0.5 2001:12ff:0:a20:0:0:0:5
 nserver:      PCH.GT 2001:500:14:6095:ad:0:0:1 204.61.216.95
 nserver:      SSDNS-TLD.NIC.CL 200.7.5.14 2001:1398:276:0:200:7:5:14
+
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: http://www.gt
