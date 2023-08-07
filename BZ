@@ -40,6 +40,8 @@ nserver:      C0.CCTLD.AFILIAS-NST.INFO 199.254.61.1 2001:500:27:0:0:0:0:1
 nserver:      D0.CCTLD.AFILIAS-NST.ORG 199.254.62.1 2001:500:28:0:0:0:0:1
 ds-rdata:     22882 8 2 088ad52a5e8e9adf54345cb21753a54f71bfb8e2674f08b02b64ab53f45eab9f
 
+whois:        
+
 status:       ACTIVE
 remarks:      Registration information: http://www.belizenic.bz
 
