@@ -6,16 +6,14 @@ domain:       ECO
 
 organisation: Big Room Inc.
 address:      1231 Pacific Boulevard, Suite 581
-address:      Vancouver, BC
-address:      V6Z 0E2
+address:      Vancouver BC V6Z 0E2
 address:      Canada
 
 contact:      administrative
 name:         Registry Policy and Compliance
 organisation: Big Room Inc.
 address:      1231 Pacific Boulevard, Suite 581
-address:      Vancouver, BC
-address:      V6Z 0E2
+address:      Vancouver BC V6Z 0E2
 address:      Canada
 phone:        16046826673
 e-mail:       iana-contact@bigroom.eco
@@ -24,8 +22,7 @@ contact:      technical
 name:         Fury Registry Services
 organisation: Canadian Internet Registration Authority (CIRA)
 address:      979 Bank Street, Suite 400
-address:      Ottawa, Ontario
-address:      K1S 5K5
+address:      Ottawa ON K1S 5K5
 address:      Canada
 phone:        +1-613-237-5335
 fax-no:       +1 215.706.5701
