@@ -6,13 +6,15 @@ domain:       عرب
 domain-ace:   XN--NGBRX
 
 organisation: League of Arab States
-address:      General Secretariat for the League of Arab States, Tahrir Square, Cairo, P.O.Box 11642
+address:      General Secretariat for the League of Arab States, Tahrir Square, P.O.Box 11642
+address:      Cairo
 address:      Egypt
 
 contact:      administrative
 name:         Khaled Fouda
 organisation: League of Arab States
-address:      General Secretariat for the League of Arab States, Tahrir Square, Cairo, P.O.Box 11642
+address:      General Secretariat for the League of Arab States, Tahrir Square, P.O.Box 11642
+address:      Cairo
 address:      Egypt
 phone:        +20227738092
 e-mail:       atldsecondary@las.int
@@ -23,7 +25,7 @@ organisation: Telecommunications Regulatory Authority of UAE
 address:      Al Waheeda street Al Memzar
 address:      P.O.Box 116688
 address:      Dubai
-address:      United Arab Emirates
+address:      United Arab Emirates (the)
 phone:        +97147774018
 e-mail:       gtldsupport@aeda.ae
 
@@ -31,14 +33,15 @@ nserver:      GTLD.ALPHA.ARIDNS.NET.AU 2001:dcd:1:0:0:0:0:10 37.209.192.10
 nserver:      GTLD.BETA.ARIDNS.NET.AU 2001:dcd:2:0:0:0:0:10 37.209.194.10
 nserver:      GTLD.DELTA.ARIDNS.NET.AU 2001:dcd:4:0:0:0:0:10 37.209.198.10
 nserver:      GTLD.GAMMA.ARIDNS.NET.AU 2001:dcd:3:0:0:0:0:10 37.209.196.10
-ds-rdata:     37096 8 1 71BD52E2A76BEEF79D624F5294C98588F940402C
-ds-rdata:     37096 8 2 DD05B598B64707491E63A742D3E61EDBB57091B5B93C8E0D65422595AD255AD4
+ds-rdata:     37096 8 1 71bd52e2a76beef79d624f5294c98588f940402c
+ds-rdata:     37096 8 2 dd05b598b64707491e63a742d3e61edbb57091b5b93c8e0d65422595ad255ad4
 
 whois:        whois.nic.xn--ngbrx
 
 status:       ACTIVE
+remarks:      Registration information: 
 
 created:      2017-05-11
-changed:      2019-10-02
+changed:      2020-05-14
 source:       IANA
 
