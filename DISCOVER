@@ -5,15 +5,16 @@
 domain:       DISCOVER
 
 organisation: Discover Financial Services
-address:      2500 Lake Cook Road Riverwoods IL 60015
-address:      United States
+address:      2500 Lake Cook Road
+address:      Riverwoods IL 60015
+address:      United States of America (the)
 
 contact:      administrative
 name:         Senior Manager, E-Business
 organisation: Discover Financial Services
 address:      2500 Lake Cook Road
-address:      Riverwoods, IL 60015
-address:      United States
+address:      Riverwoods IL 60015
+address:      United States of America (the)
 phone:        +1 224 405 0640
 e-mail:       vikramjeetgill@discover.com
 
@@ -21,8 +22,8 @@ contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
 address:      2155 E GoDaddy Way
-address:      Tempe, AZ 85284
-address:      United States
+address:      Tempe AZ 85284
+address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
@@ -33,7 +34,9 @@ nserver:      C.NIC.DISCOVER 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.DISCOVER 156.154.144.48 2610:a1:1071:0:0:0:0:30
 nserver:      NS2.DNS.NIC.DISCOVER 156.154.145.48 2610:a1:1072:0:0:0:0:30
 nserver:      NS3.DNS.NIC.DISCOVER 156.154.159.48 2610:a1:1073:0:0:0:0:30
-ds-rdata:     39040 8 2 324144794F4FC2951D3EF2F1A6D2B335CDD0BD059CAA3AC2EBA809250C47A694
+ds-rdata:     39040 8 2 324144794f4fc2951d3ef2f1a6d2b335cdd0bd059caa3ac2eba809250c47a694
+
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: https://www.discover.com/
