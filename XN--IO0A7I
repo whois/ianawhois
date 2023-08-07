@@ -5,25 +5,34 @@
 domain:       网络
 domain-ace:   XN--IO0A7I
 
-organisation: Computer Network Information Center of Chinese Academy of Sciences （China Internet Network Information Center）
-address:      Floor 1, Building 1, Software Park, Chinese Academy of Sciences, 4 South 4th Street, Zhongguancun, Beijing
+organisation: China Internet Network Information Center(CNNIC)
+address:      Floor 1, Building 1, Software Park,
+address:      Chinese Academy of Sciences, 4 South 4th Street,
+address:      Zhongguancun
+address:      Beijing
 address:      China
 
 contact:      administrative
 name:         Yu Zeng
-organisation: Computer Network Information Center of Chinese Academy of Sciences (China Internet Network Information Center)
-address:      Floor 1, Building 1, Software Park, Chinese Academy of Sciences, 4 South 4th Street, Zhongguancun, Beijing
+organisation: China Internet Network Information Center(CNNIC)
+address:      Floor 1, Building 1, Software Park,
+address:      Chinese Academy of Sciences, 4 South 4th Street,
+address:      Zhongguancun
+address:      Beijing
 address:      China
 phone:        +86(0)10-58813686
 fax-no:       +86(0)10-58813632
 e-mail:       ng@cnnic.cn
 
 contact:      technical
-name:         Yuedong Zhang
-organisation: Computer Network Information Center of Chinese Academy of Sciences （China Internet Network Information Center）
-address:      Floor 1, Building 1, Software Park, Chinese Academy of Sciences, 4 South 4th Street, Zhongguancun, Beijing
+name:         Anlei Hu
+organisation: China Internet Network Information Center(CNNIC)
+address:      Floor 1, Building 1, Software Park,
+address:      Chinese Academy of Sciences, 4 South 4th Street,
+address:      Zhongguancun
+address:      Beijing
 address:      China
-phone:        +86(0)10-58813202
+phone:        +86(0)10-58813121
 fax-no:       +86(0)10-58812666
 e-mail:       ngtech@cnnic.cn
 
@@ -32,7 +41,7 @@ nserver:      B.NGTLD.CN 125.208.41.1 2001:dc7:ffc2:0:0:0:0:1
 nserver:      C.NGTLD.CN 125.208.42.1 2001:dc7:ffc3:0:0:0:0:1
 nserver:      D.NGTLD.CN 125.208.43.1
 nserver:      E.NGTLD.CN 125.208.44.1
-ds-rdata:     47359 8 2 426DB7D3FB8E6058BE42D379ECD7742B2EFAB5DD0A7A95494D3518604B715B1E
+ds-rdata:     47359 8 2 426db7d3fb8e6058be42d379ecd7742b2efab5dd0a7a95494d3518604b715b1e
 
 whois:        whois.ngtld.cn
 
@@ -40,6 +49,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.cnnic.cn
 
 created:      2014-01-09
-changed:      2021-08-27
+changed:      2023-03-21
 source:       IANA
 
