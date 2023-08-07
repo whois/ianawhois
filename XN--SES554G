@@ -6,13 +6,17 @@ domain:       网址
 domain-ace:   XN--SES554G
 
 organisation: KNET Co., Ltd
-address:      4, South 4th Street, Zhongguancun, Haidian District, Beijing, China
+address:      4, South 4th Street, Zhongguancun
+address:      Haidian District
+address:      Beijing
 address:      China
 
 contact:      administrative
 name:         Vice General Manager
 organisation: KNET Co., Ltd.
-address:      4, South 4th Street, Zhongguancun, Haidian District, Beijing, China
+address:      4, South 4th Street, Zhongguancun
+address:      Haidian District
+address:      Beijing
 address:      China
 phone:        +86-18610813899
 fax-no:       n/a
@@ -21,7 +25,9 @@ e-mail:       wangzhi-admin@knet.cn
 contact:      technical
 name:         Technical Director
 organisation: KNET Co., Ltd.
-address:      4, South 4th Street, Zhongguancun, Haidian District, Beijing, China
+address:      4, South 4th Street, Zhongguancun
+address:      Haidian District
+address:      Beijing
 address:      China
 phone:        86-18519852227
 fax-no:       N/A
@@ -40,9 +46,9 @@ ds-rdata:     57266 8 2 a3c057a22744eb0ff0518d51e55b1271dab9d39391b55edc98443b22
 whois:        whois.nic.xn--ses554g
 
 status:       ACTIVE
-remarks:      Registration information:  http://nic.xn--ses554g/ 
+remarks:      Registration information: http://nic.xn--ses554g/
 
 created:      2014-03-13
-changed:      2019-08-20
+changed:      2022-12-08
 source:       IANA
 
