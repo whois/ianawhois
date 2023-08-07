@@ -5,13 +5,15 @@
 domain:       BRADESCO
 
 organisation: Banco Bradesco S.A.
-address:      Avenida Yara SN - Cidade de Deus - Prédio Rubi - Osasco - São Paulo - 06029900
+address:      Avenida Yara SN - Cidade de Deus - Prédio Rubi - Osasco
+address:      São Paulo SP 06029-900
 address:      Brazil
 
 contact:      administrative
 name:         Admin Contact
 organisation: Banco Bradesco S.A
-address:      Cidade de Deus Osasco 06029-900 SP
+address:      Avenida Yara SN - Cidade de Deus - Prédio Rubi - Osasco
+address:      São Paulo SP 06029-900
 address:      Brazil
 phone:        +55 (41) 3777-4843
 e-mail:       ngtld-bradesco@cscglobal.com
@@ -20,8 +22,8 @@ contact:      technical
 name:         Senior Director, DNS Infrastructure Group
 organisation: Donuts Inc
 address:      10500 NE 8th Street, Suite 750
-address:      Bellevue, WA 98004
-address:      United States
+address:      Bellevue WA 98004
+address:      United States of America (the)
 phone:        +1.425.298.2200
 fax-no:       : +1.425.671.0020
 e-mail:       tldtech@donuts.email
@@ -30,7 +32,7 @@ nserver:      A0.NIC.BRADESCO 2a01:8840:7a:0:0:0:0:2 65.22.124.2
 nserver:      A2.NIC.BRADESCO 2a01:8840:7d:0:0:0:0:2 65.22.127.2
 nserver:      B0.NIC.BRADESCO 2a01:8840:7b:0:0:0:0:2 65.22.125.2
 nserver:      C0.NIC.BRADESCO 2a01:8840:7c:0:0:0:0:2 65.22.126.2
-ds-rdata:     61375 8 2 A0FFE5A2C7C1CB086855963D43117563E509CA1E6B27D87EF9CE011C195B8344
+ds-rdata:     61375 8 2 a0ffe5a2c7c1cb086855963d43117563e509ca1e6b27d87ef9ce011c195b8344
 
 whois:        whois.nic.bradesco
 
