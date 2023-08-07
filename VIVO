@@ -5,23 +5,25 @@
 domain:       VIVO
 
 organisation: Telefonica Brasil S.A.
-address:      Av. Luis Carlos Berrini, 1.376, São Paulo, SP, 04571-936
+address:      Av. Luis Carlos Berrini, 1.376
+address:      São Paulo SP 04571-936
 address:      Brazil
 
 contact:      administrative
 name:         Luciana Teixeiras
 organisation: Telefônica Brasil S.A
-address:      Av. Luis Carlos Berrini, 1.376, São Paulo, SP 04571-936
+address:      Av. Luis Carlos Berrini, 1.376
+address:      São Paulo SP 04571-936
 address:      Brazil
-phone:        +55 11 3430-5278 
+phone:        +55 11 3430-5278
 e-mail:       luciana.teixeiras@telefonica.com
 
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
 address:      2155 E GoDaddy Way
-address:      Tempe, AZ 85284
-address:      United States
+address:      Tempe AZ 85284
+address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
@@ -32,7 +34,9 @@ nserver:      C.NIC.VIVO 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.VIVO 156.154.169.57 2610:a1:1071:0:0:0:1:39
 nserver:      NS2.DNS.NIC.VIVO 156.154.170.57 2610:a1:1072:0:0:0:1:39
 nserver:      NS3.DNS.NIC.VIVO 156.154.171.57 2610:a1:1073:0:0:0:1:39
-ds-rdata:     25072 8 2 D450EBD4DCF5F47B529804DD9DFCA7D2AF45D3C6B0E4F72E0393F0512196D5F1
+ds-rdata:     25072 8 2 d450ebd4dcf5f47b529804dd9dfca7d2af45d3c6b0e4f72e0393f0512196d5f1
+
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: http://www.vivo.com.br
