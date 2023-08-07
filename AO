@@ -5,24 +5,24 @@
 domain:       AO
 
 organisation: Ministry of Telecommunications and Information Technologies (MTTI)
-address:      Customs street, nº10
-address:      Luanda  CP 1459
+address:      Customs street, no. 10
+address:      Luanda CP 1459
 address:      Angola
 
 contact:      administrative
-name:         Secretary of State
-organisation: Ministry of Telecommunications and Information Technologies, Government of Angola
-address:      Customs street, nº10
-address:      Luanda CP 1459
+name:         Mr. Andre Pedro (Eng.)
+organisation: Institute of Development of Information Society (‘INFOSI’)
+address:      Cidade Alta
+address:      Luanda
 address:      Angola
-phone:        +244 924 782 278
-e-mail:       manuel.homem@mtti.gov.ao
+phone:        +244 927 217 021
+e-mail:       andre.pedro@infosi.gov.ao
 
 contact:      technical
 name:         Assis Guerreiro
 organisation: Associação DNS.PT (DNS.PT)
-address:      Rua Latino Coelho, nº13, 5ºpiso
-address:      1050-132 Lisboa
+address:      Rua Latino Coelho, no.13, 5 piso
+address:      Lisboa 1050-132
 address:      Portugal
 phone:        (+351) 211308200
 fax-no:       (+351) 211312720
@@ -32,10 +32,12 @@ nserver:      AO01.DNS.PT 185.39.208.17 2a04:6d80:0:0:0:0:0:17
 nserver:      AO03.DNS.PT 2001:500:14:6113:ad:0:0:1 204.61.216.113
 nserver:      H.DNS.PT 194.146.106.138 2001:67c:1010:35:0:0:0:53
 
+whois:        
+
 status:       ACTIVE
 remarks:      Registration information: http://www.dns.ao/
 
 created:      1995-11-15
-changed:      2020-06-23
+changed:      2022-12-05
 source:       IANA
 
