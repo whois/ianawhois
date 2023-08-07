@@ -6,14 +6,16 @@ domain:       書籍
 domain-ace:   XN--ROVU88B
 
 organisation: Amazon Registry Services, Inc.
-address:      410 Terry Avenue North, Seattle, WA  98109
-address:      United States
+address:      410 Terry Avenue North
+address:      Seattle WA 98109
+address:      United States of America (the)
 
 contact:      administrative
 name:         Carolyn Mitchell
 organisation: Amazon Registry Services
-address:      410 Terry Avenue North, Seattle, WA  98109
-address:      United States
+address:      410 Terry Avenue North
+address:      Seattle WA 98109
+address:      United States of America (the)
 phone:        +1 206 646 5990
 fax-no:       +1-206-946-7702
 e-mail:       book-jp-rzm@amazon.com
@@ -22,8 +24,8 @@ contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
 address:      2155 E GoDaddy Way
-address:      Tempe, AZ 85284
-address:      United States
+address:      Tempe AZ 85284
+address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
@@ -34,7 +36,9 @@ nserver:      C.NIC.XN--ROVU88B 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      NS1.DNS.NIC.XN--ROVU88B 156.154.169.76 2610:a1:1071:0:0:0:1:4c
 nserver:      NS2.DNS.NIC.XN--ROVU88B 156.154.170.76 2610:a1:1072:0:0:0:1:4c
 nserver:      NS3.DNS.NIC.XN--ROVU88B 156.154.171.76 2610:a1:1073:0:0:0:1:4c
-ds-rdata:     5119 8 2 48BD313E429D3C9E64D4DF6C2008EFAD55FE6D5FF0D1EE43CB991B2F4AEE8207
+ds-rdata:     5119 8 2 48bd313e429d3c9e64d4df6c2008efad55fe6d5ff0d1ee43cb991b2f4aee8207
+
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: http://www.amazonregistry.com
