@@ -5,40 +5,42 @@
 domain:       TMALL
 
 organisation: Alibaba Group Holding Limited
-address:      Fourth Floor, One Capital Place, P.O Box 847, George Town, Grand Cayman, KY1-1103  KY
+address:      Fourth Floor, One Capital Place, P.O Box 847
+address:      George Town Grand Cayman KY1-1103
 address:      Grand Cayman
 
 contact:      administrative
 name:         Project & Process Manager
 organisation: Alibaba Group Holding Limited
-address:      Fourth Floor, One Capital Place, P.O Box 847, George Town, Grand Cayman, KY1-1103  KY
+address:      Fourth Floor, One Capital Place, P.O Box 847
+address:      George Town Grand Cayman KY1-1103
 address:      Grand Cayman
 phone:        +852-22155100
 fax-no:       +852-2215-5200
 e-mail:       ngtld-alibaba@cscglobal.com
 
 contact:      technical
-name:         IANA Contact
-organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe, AZ 85284
-address:      United States
-phone:        +1 480 505 8800
-fax-no:       +1 480 624 2546
-e-mail:       iana@registry.godaddy
+name:         Senior Director, DNS Infrastructure Group
+organisation: Donuts Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@donuts.email
 
-nserver:      A.NIC.TMALL 2001:dcd:1:0:0:0:0:9 37.209.192.9
-nserver:      B.NIC.TMALL 2001:dcd:2:0:0:0:0:9 37.209.194.9
-nserver:      C.NIC.TMALL 2001:dcd:3:0:0:0:0:9 37.209.196.9
-nserver:      NS1.DNS.NIC.TMALL 156.154.144.164 2610:a1:1071:0:0:0:0:a4
-nserver:      NS2.DNS.NIC.TMALL 156.154.145.164 2610:a1:1072:0:0:0:0:a4
-nserver:      NS3.DNS.NIC.TMALL 156.154.159.164 2610:a1:1073:0:0:0:0:a4
-ds-rdata:     41011 8 2 347FEC623E6338ED0939E1A942D4151CB73565603ACD203319EB547222FE9CDB
+nserver:      A0.NIC.TMALL 2a01:8840:32:0:0:0:0:9 65.22.52.9
+nserver:      A2.NIC.TMALL 2a01:8840:35:0:0:0:0:9 65.22.55.9
+nserver:      B0.NIC.TMALL 2a01:8840:33:0:0:0:0:9 65.22.53.9
+nserver:      C0.NIC.TMALL 2a01:8840:34:0:0:0:0:9 65.22.54.9
+ds-rdata:     58525 8 2 74cceeb96ef2237b854b057ab38a9384865f16c48eeb467364d09458b75355ef
+
+whois:        whois.nic.tmall
 
 status:       ACTIVE
 remarks:      Registration information: http://www.alibabagroup.com
 
 created:      2016-01-08
-changed:      2022-07-28
+changed:      2023-01-13
 source:       IANA
 
