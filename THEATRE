@@ -6,24 +6,25 @@ domain:       THEATRE
 
 organisation: XYZ.COM LLC
 address:      2121 E Tropicana Ave, Suite 2
-address:      Las Vegas, NV 89119
-address:      United States
+address:      Las Vegas NV 89119
+address:      United States of America (the)
 
 contact:      administrative
 name:         General Counsel
 organisation: XYZ.COM LLC
 address:      2121 E Tropicana Ave, Suite 2
-address:      Las Vegas, NV 89119
-address:      United States
+address:      Las Vegas NV 89119
+address:      United States of America (the)
 phone:        +1.7027632191
 e-mail:       hello@xyz.com
 
 contact:      technical
 name:         CTO
 organisation: CentralNic
-address:      Saddlers House 4th Floor 44 Gutter Lane
+address:      Saddlers House, 4th Floor
+address:      44 Gutter Lane
 address:      London EC2V 6BR
-address:      United Kingdom
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44 20 33 88 0600
 fax-no:       +44 20 33 88 0601
 e-mail:       tld.ops@centralnic.com
@@ -32,8 +33,8 @@ nserver:      A.NIC.THEATRE 194.169.218.69 2001:67c:13cc:0:0:0:1:69
 nserver:      B.NIC.THEATRE 185.24.64.69 2a04:2b00:13cc:0:0:0:1:69
 nserver:      C.NIC.THEATRE 212.18.248.69 2a04:2b00:13ee:0:0:0:0:69
 nserver:      D.NIC.THEATRE 212.18.249.69 2a04:2b00:13ff:0:0:0:0:69
-ds-rdata:     45196 8 1 ABED901A738D17ABFA754E304B6E1C0C9021AAC5
-ds-rdata:     45196 8 2 530B10CE5CC67A1F4C6E5F59BF28E851426B9D6991233203E42A8970BD9A8011
+ds-rdata:     45196 8 1 abed901a738d17abfa754e304b6e1c0c9021aac5
+ds-rdata:     45196 8 2 530b10ce5cc67a1f4c6e5f59bf28e851426b9d6991233203e42a8970bd9a8011
 
 whois:        whois.nic.theatre
 
