@@ -7,8 +7,9 @@ domain:       TC
 organisation: Melrex TC
 address:      Richmond House
 address:      PO Box 127
-address:      Leeward Highway Providenciales
-address:      Turks And Caicos Islands
+address:      Leeward Highway
+address:      Providenciales
+address:      Turks and Caicos Islands (the)
 
 contact:      administrative
 name:         Mr. Kenva Williams
@@ -16,7 +17,7 @@ organisation: TCI Telecommunications Commission
 address:      P.O. Box 203
 address:      872 Business Solutions Building  Leeward Highway
 address:      Providenciales
-address:      Turks And Caicos Islands
+address:      Turks and Caicos Islands (the)
 phone:        1-649-946-1900
 fax-no:       1-649-946-1119
 e-mail:       kenvawilliams@tcitelecommission.tc
@@ -25,7 +26,7 @@ contact:      technical
 name:         Ali Yilmaz
 organisation: NIC TC Internet Hizmetleri A.S.
 address:      Hüseyin Yılmaz Cad. 67 D Blok - 207
-address:      20070 DENİZLİ
+address:      Denizli 20070
 address:      Turkey
 phone:        +90 850 8850888
 fax-no:       +90 850 8850804
