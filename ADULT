@@ -6,15 +6,15 @@ domain:       ADULT
 
 organisation: ICM Registry AD LLC
 address:      2155 E. GoDaddy Way
-address:      Tempe, AZ 85284
-address:      United States
+address:      Tempe AZ 85284
+address:      United States of America (the)
 
 contact:      administrative
 name:         IANA Contact
 organisation: GoDaddy Registry
 address:      2155 E. GoDaddy Way
-address:      Tempe, AZ 85284
-address:      United States
+address:      Tempe AZ 85284
+address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
 e-mail:       iana@registry.godaddy
@@ -23,8 +23,8 @@ contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
 address:      2155 E GoDaddy Way
-address:      Tempe, AZ 85284
-address:      United States
+address:      Tempe AZ 85284
+address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
 e-mail:       iana@registry.godaddy
@@ -32,8 +32,10 @@ e-mail:       iana@registry.godaddy
 nserver:      A.NIC.ADULT 2001:dcd:1:0:0:0:0:10 37.209.192.10
 nserver:      B.NIC.ADULT 2001:dcd:2:0:0:0:0:10 37.209.194.10
 nserver:      C.NIC.ADULT 2001:dcd:3:0:0:0:0:10 37.209.196.10
-nserver:      D.NIC.ADULT 2001:dcd:4:0:0:0:0:10 37.209.198.10
-ds-rdata:     64321 8 2 CA734AA86339CB101665A65C4F33F4E86B37CF2512FD4C1655C00026D6F70915
+nserver:      X.NIC.ADULT 156.154.172.82 2610:a1:1074:0:0:0:1:82
+nserver:      Y.NIC.ADULT 156.154.173.82 2610:a1:1075:0:0:0:1:82
+nserver:      Z.NIC.ADULT 156.154.174.82 2610:a1:1076:0:0:0:1:82
+ds-rdata:     64321 8 2 ca734aa86339cb101665a65c4f33f4e86b37cf2512fd4c1655c00026d6f70915
 
 whois:        whois.nic.adult
 
@@ -41,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.adult
 
 created:      2014-11-26
-changed:      2022-07-18
+changed:      2022-12-01
 source:       IANA
 
