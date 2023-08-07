@@ -6,14 +6,16 @@ domain:       FORD
 
 organisation: Ford Motor Company
 address:      Office Of General Counsel
-address:      330 Town Center Drive, Suite 800, Dearborn MI 48126
-address:      United States
+address:      330 Town Center Drive, Suite 800
+address:      Dearborn MI 48126
+address:      United States of America (the)
 
 contact:      administrative
 name:         Sue Morgan
 organisation: Ford Motor Company, IT Operations
-address:      One American Road, Dearborn MI 48126
-address:      United States
+address:      One American Road
+address:      Dearborn MI 48126
+address:      United States of America (the)
 phone:        +1-313-322-3000
 fax-no:       1-313-322-7162
 e-mail:       dnsmgr@ford.com
@@ -22,8 +24,8 @@ contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
 address:      2155 E GoDaddy Way
-address:      Tempe, AZ 85284
-address:      United States
+address:      Tempe AZ 85284
+address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
@@ -34,7 +36,9 @@ nserver:      C.NIC.FORD 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.FORD 156.154.144.62 2610:a1:1071:0:0:0:0:3e
 nserver:      NS2.DNS.NIC.FORD 156.154.145.62 2610:a1:1072:0:0:0:0:3e
 nserver:      NS3.DNS.NIC.FORD 156.154.159.62 2610:a1:1073:0:0:0:0:3e
-ds-rdata:     31459 8 2 13DFD0C4AC2B97B1294ADA48FB4A36E5732739AFC11818B4C46FCD17E3FC13DF
+ds-rdata:     31459 8 2 13dfd0c4ac2b97b1294ada48fb4a36e5732739afc11818b4c46fcd17e3fc13df
+
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: http://www.ford.com
