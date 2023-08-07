@@ -6,16 +6,14 @@ domain:       MLS
 
 organisation: The Canadian Real Estate Association
 address:      200 Catherine Street, 6th Floor
-address:      Ottawa, Ontario K2P 2K9
-address:      CA
+address:      Ottawa ON K2P 2K9
 address:      Canada
 
 contact:      administrative
 name:         Legal Counsel
 organisation: The Canadian Real Estate Association
 address:      200 Catherine Street, 6th Floor
-address:      Ottawa, Ontario, K2P 2K9
-address:      Canada (CA)
+address:      Ottawa ON K2P 2K9
 address:      Canada
 phone:        1-613-237-7111
 e-mail:       legal@crea.ca
@@ -24,8 +22,7 @@ contact:      technical
 name:         Fury Registry Services
 organisation: Canadian Internet Registration Authority (CIRA)
 address:      979 Bank Street, Suite 400
-address:      Ottawa, Ontario
-address:      K1S 5K5
+address:      Ottawa ON K1S 5K5
 address:      Canada
 phone:        +1-613-237-5335
 fax-no:       +1-613-237-0534
@@ -38,6 +35,7 @@ ds-rdata:     32866 8 2 ea3c1c5994bb36364acb0a9b8c09cd84477d6707c9317259bcbc8149
 whois:        whois.nic.mls
 
 status:       ACTIVE
+remarks:      Registration information: 
 
 created:      2015-08-20
 changed:      2022-09-13
