@@ -5,15 +5,15 @@
 domain:       LU
 
 organisation: RESTENA
-address:      2, avenue de l'Université
-address:      LU-4365 Esch-sur-Alzette
+address:      2, Avenue de l'Université
+address:      Esch-sur-Alzette L-4365
 address:      Luxembourg
 
 contact:      administrative
 name:         Gilles Massen
 organisation: Fondation RESTENA
-address:      2, avenue de l'Université
-address:      LU-4365 Esch-sur-Alzette
+address:      2, Avenue de l'Université
+address:      Esch-sur-Alzette L-4365
 address:      Luxembourg
 phone:        +352.4244091
 fax-no:       +352.422473
@@ -22,8 +22,8 @@ e-mail:       gilles.massen@restena.lu
 contact:      technical
 name:         NOC
 organisation: Fondation RESTENA
-address:      2, avenue de l'Université
-address:      LU-4365 Esch-sur-Alzette
+address:      2, Avenue de l'Université
+address:      Esch-sur-Alzette L-4365
 address:      Luxembourg
 phone:        +352.4244091
 fax-no:       +352.422473
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.dns.lu
 
 created:      1995-01-27
-changed:      2020-01-24
+changed:      2023-07-28
 source:       IANA
 
