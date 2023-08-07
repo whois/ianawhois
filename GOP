@@ -5,27 +5,27 @@
 domain:       GOP
 
 organisation: Republican State Leadership Committee, Inc.
-address:      1201 F Street NW Suite 675 Washington DC 20004
-address:      United States
+address:      1201 F Street NW, Suite 675
+address:      Washington DC 20004
+address:      United States of America (the)
 
 contact:      administrative
 name:         CFO
 organisation: Republican State Leadership Committee, Inc.
-address:      1201 F Street, NW, Suite 675
-address:      Washington, DC 20004
-address:      United States
+address:      1201 F Street NW, Suite 675
+address:      Washington DC 20004
+address:      United States of America (the)
 phone:        +1 (202) 448-5162
 e-mail:       jwilliams@rslc.gop
 
 contact:      technical
 name:         TLD Registry Services Technical
 organisation: Nominet
-address:      Minerva House,
-address:      Edmund Halley Road,
-address:      Oxford Science Park,
-address:      Oxford,
-address:      OX4 4DQ
-address:      United Kingdom
+address:      Minerva House
+address:      Edmund Halley Road
+address:      Oxford Science Park
+address:      Oxford OX4 4DQ
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44.1865332211
 e-mail:       registrytechnical@nominet.uk
 
@@ -37,7 +37,7 @@ nserver:      DNSA.NIC.GOP 156.154.100.3 2001:502:ad09:0:0:0:0:3
 nserver:      DNSB.NIC.GOP 156.154.101.3 2001:502:2eda:0:0:0:0:3
 nserver:      DNSC.NIC.GOP 156.154.102.3 2610:a1:1009:0:0:0:0:3
 nserver:      DNSD.NIC.GOP 156.154.103.3 2610:a1:1010:0:0:0:0:3
-ds-rdata:     31562 8 2 13454BE0988354AE5CF482CC912C8D377E0D72ABADD4A7C55E6DFC923E26868F
+ds-rdata:     31562 8 2 13454be0988354ae5cf482cc912c8d377e0d72abadd4a7c55e6dfc923e26868f
 
 whois:        whois.nic.gop
 
