@@ -5,14 +5,16 @@
 domain:       NFL
 
 organisation: NFL Reg Ops LLC
-address:      345 Park Avenue, New York, NY 10154
-address:      United States
+address:      345 Park Avenue
+address:      New York NY 10154
+address:      United States of America (the)
 
 contact:      administrative
 name:         Chris Niemi
 organisation: MarkMonitor Inc.
-address:      3540 East Longwing Lane, Suite 300, Meridian, Idaho 83646
-address:      United States
+address:      3540 East Longwing Lane, Suite 300
+address:      Meridian ID 83646
+address:      United States of America (the)
 phone:        +1 (208) 389-5740
 fax-no:       +1 (208) 389-5771
 e-mail:       dotnfl@markmonitor.com
@@ -21,8 +23,8 @@ contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
 address:      2155 E GoDaddy Way
-address:      Tempe, AZ 85284
-address:      United States
+address:      Tempe AZ 85284
+address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
@@ -33,7 +35,9 @@ nserver:      NS3.DNS.NIC.NFL 156.154.159.122 2610:a1:1073:0:0:0:0:7a
 nserver:      NS4.DNS.NIC.NFL 156.154.156.122 2610:a1:1074:0:0:0:0:7a
 nserver:      NS5.DNS.NIC.NFL 156.154.157.122 2610:a1:1075:0:0:0:0:7a
 nserver:      NS6.DNS.NIC.NFL 156.154.158.122 2610:a1:1076:0:0:0:0:7a
-ds-rdata:     52009 8 2 4F703D96F3EB2E4621C5176905407CEAC4AEF4CFA8409791AFC2B20BDF4EFB2A
+ds-rdata:     52009 8 2 4f703d96f3eb2e4621c5176905407ceac4aef4cfa8409791afc2b20bdf4efb2a
+
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: http://www.nfl.com/
