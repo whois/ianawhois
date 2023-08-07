@@ -5,33 +5,36 @@
 domain:       BAREFOOT
 
 organisation: Gallo Vineyards, Inc.
-address:      600 Yosemite Blvd. Modesto, California - 95354
-address:      United States
+address:      600 Yosemite Blvd.
+address:      Modesto CA 95354
+address:      United States of America (the)
 
 contact:      administrative
 name:         Principal IT Architect
 organisation: Gallo Vineyards, Inc.
-address:      600 Yosemite Blvd. Modesto, California - 95354
-address:      United States
+address:      600 Yosemite Blvd.
+address:      Modesto CA 95354
+address:      United States of America (the)
 phone:        +1 209 341 4226
 fax-no:       +1 209 573 8520
 e-mail:       ngtld-barefoot@cscinfo.com
 
 contact:      technical
-name:         Registry Customer Service
-organisation: Verisign, Inc.
-address:      12061 Bluemont Way
-address:      Reston Virginia 20190
-address:      United States
-phone:        +1-703-925-6999
-fax-no:       +1-703-948-3978
-e-mail:       info@verisign-grs.com
+name:         Howard Eland, Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       rzmtechcontact@identity.digital
 
-nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
-nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
-nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
-nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
-ds-rdata:     35550 8 2 2A380080B296E5BF1C8212618288FDDBC665F7689A31DFDC7EECCFAEFE17203D
+nserver:      A0.NIC.BAREFOOT 2a01:8840:36:0:0:0:0:17 65.22.56.17
+nserver:      A2.NIC.BAREFOOT 2a01:8840:39:0:0:0:0:17 65.22.59.17
+nserver:      B0.NIC.BAREFOOT 2a01:8840:37:0:0:0:0:17 65.22.57.17
+nserver:      C0.NIC.BAREFOOT 2a01:8840:38:0:0:0:0:17 65.22.58.17
+ds-rdata:     35550 8 2 2a380080b296e5bf1c8212618288fddbc665f7689a31dfdc7eeccfaefe17203d
+ds-rdata:     39166 8 2 138e51b866fd0185f6aa90cbf125cd40356c00a14efab23344f702f267e45eea
 
 whois:        whois.nic.barefoot
 
@@ -39,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.barefootwine.com
 
 created:      2015-10-24
-changed:      2019-08-16
+changed:      2023-03-20
 source:       IANA
 
