@@ -6,14 +6,14 @@ domain:       ALSACE
 
 organisation: REGION GRAND EST
 address:      1, Place Adrien Zeller
-address:      67070 Strasbourg
+address:      Strasbourg 67070
 address:      France
 
 contact:      administrative
 name:         David FIGUIER
 organisation: REGION GRAND EST
 address:      1, Place Adrien Zeller
-address:      67070 Strasbourg
+address:      Strasbourg 67070
 address:      France
 phone:        +33 388156540
 fax-no:       ++33388156815
@@ -24,7 +24,7 @@ name:         TLD Technical Contact
 organisation: Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)
 address:      Immeuble Le Stephenson
 address:      1, rue Stephenson
-address:      78180 Montigny-Le-Bretonneux
+address:      Montigny-Le-Bretonneux 78180
 address:      France
 phone:        +33 1 39 30 83 00
 fax-no:       +33 1 39 30 83 01
@@ -33,7 +33,7 @@ e-mail:       pocalsace@afnic.fr
 nserver:      D.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
 nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
 nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
-ds-rdata:     7047 13 2 40AC4EDA437F376B0A772AC6F570055A6AA58D635AC07946A778ABEBB8E5C024
+ds-rdata:     7047 13 2 40ac4eda437f376b0a772ac6f570055a6aa58d635ac07946a778abebb8e5c024
 
 whois:        whois.nic.alsace
 
