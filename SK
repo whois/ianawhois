@@ -6,14 +6,14 @@ domain:       SK
 
 organisation: SK-NIC, a.s.
 address:      Namestie SNP 14
-address:      Bratislava  81106
+address:      Bratislava 81106
 address:      Slovakia
 
 contact:      administrative
 name:         GAC delegate
 organisation: Office of Deputy Prime Minister of the Slovak Republic for Investments and Informatization
 address:      Stefanikova 15
-address:      Bratislava  81105
+address:      Bratislava 81105
 address:      Slovakia
 phone:        +421/2/209 28 160
 e-mail:       gac@vicepremier.gov.sk
@@ -22,7 +22,7 @@ contact:      technical
 name:         Technical Director
 organisation: SK-NIC, a.s.
 address:      Namestie SNP 14
-address:      Bratislava  81106
+address:      Bratislava 81106
 address:      Slovakia
 phone:        +421 2 350 350 30
 fax-no:       +421 2 350 350 39
@@ -35,7 +35,7 @@ nserver:      E.TLD.SK 194.169.218.16 2001:67c:13cc:0:0:0:1:16
 nserver:      F.TLD.SK 185.24.64.16 2a04:2b00:13cc:0:0:0:1:16
 nserver:      G.TLD.SK 212.18.248.16 2a04:2b00:13ee:0:0:0:0:16
 nserver:      H.TLD.SK 212.18.249.16 2a04:2b00:13ff:0:0:0:0:16
-ds-rdata:     2324 13 2 3E7E4F60ECCC4AD8F96C654563265C9A4E56B9F1AC998E88E1CF8150FF1A5205
+ds-rdata:     2324 13 2 3e7e4f60eccc4ad8f96c654563265c9a4e56b9f1ac998e88e1cf8150ff1a5205
 
 whois:        whois.sk-nic.sk
 
