@@ -8,8 +8,7 @@ organisation: Radix FZC
 address:      Directiplex
 address:      Next to Andheri Subway
 address:      Old Nagardas Road, Andheri (East)
-address:      Mumbai
-address:      400069 Maharashtra
+address:      Mumbai Maharashtra 400069
 address:      India
 
 contact:      administrative
@@ -18,9 +17,7 @@ organisation: Radix FZC
 address:      Directiplex
 address:      Next to Andheri Subway
 address:      Old Nagardas Road, Andheri (East)
-address:      Mumbai
-address:      Maharashtra
-address:      400069
+address:      Mumbai Maharashtra 400069
 address:      India
 phone:        +1.4154494774x8522
 fax-no:       +91.2230797508
@@ -29,9 +26,10 @@ e-mail:       admin@radixregistry.com
 contact:      technical
 name:         CTO
 organisation: CentralNic
-address:      Saddlers House 4th Floor 44 Gutter Lane
+address:      Saddlers House, 4th Floor
+address:      44 Gutter Lane
 address:      London EC2V 6BR
-address:      United Kingdom
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44 20 33 88 0600
 fax-no:       +44 20 33 88 0601
 e-mail:       tld.ops@centralnic.com
@@ -40,17 +38,17 @@ nserver:      A.NIC.UNO 194.169.218.21 2001:67c:13cc:0:0:0:1:21
 nserver:      B.NIC.UNO 185.24.64.21 2a04:2b00:13cc:0:0:0:1:21
 nserver:      C.NIC.UNO 212.18.248.21 2a04:2b00:13ee:0:0:0:0:21
 nserver:      D.NIC.UNO 212.18.249.21 2a04:2b00:13ff:0:0:0:0:21
-ds-rdata:     57892 8 1 3B49FDC11DAEE5187A4170A5BADF77A917BCE481
-ds-rdata:     57892 8 2 C156DD21B3B96A50FA94BE322CDF6F0144E86C9597E4AA56D53E9B490C94A537
-ds-rdata:     64285 8 1 E0D6F2ECBE3F28F3F59D4193198240F9966011E8
-ds-rdata:     64285 8 2 3B4DD0FEBFBD51CB5F15DB43CCFC832DE0989445D6BB70C31A9B96F681CC6C77
+ds-rdata:     57892 8 1 3b49fdc11daee5187a4170a5badf77a917bce481
+ds-rdata:     57892 8 2 c156dd21b3b96a50fa94be322cdf6f0144e86c9597e4aa56d53e9b490c94a537
+ds-rdata:     64285 8 1 e0d6f2ecbe3f28f3f59d4193198240f9966011e8
+ds-rdata:     64285 8 2 3b4dd0febfbd51cb5f15db43ccfc832de0989445d6bb70c31a9b96f681cc6c77
 ds-rdata:     35737 8 1 a6654717b1b97394de61bfe6d043459ba3a0112a
 ds-rdata:     35737 8 2 0dfccfc8e90286393539413d9f228fd96f7b08b8f15143020c07e32e3d254936
 
 whois:        whois.nic.uno
 
 status:       ACTIVE
-remarks:      Registration information: http://www.radix.website 
+remarks:      Registration information: http://www.radix.website
 
 created:      2013-11-13
 changed:      2021-10-12
