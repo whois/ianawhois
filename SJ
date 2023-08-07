@@ -6,7 +6,7 @@ domain:       SJ
 
 organisation: Norid A/S
 address:      Abelsgate 5
-address:      Trondheim  N-7465
+address:      Trondheim N-7465
 address:      Norway
 
 contact:      administrative
@@ -34,6 +34,8 @@ nserver:      X.NIC.NO 128.39.8.40 2001:700:0:412f:0:0:0:40
 nserver:      Y.NIC.NO 193.75.4.22 2001:8c0:8200:1:0:0:0:2
 nserver:      Z.NIC.NO 158.38.8.133 2001:700:0:52d:158:38:8:133
 ds-rdata:     16935 13 2 ccef4dfbddb2886951a928b83f52be462ed1f63553dcaddd433935fc41a218af
+
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information:
