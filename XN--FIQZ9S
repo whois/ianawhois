@@ -6,28 +6,28 @@ domain:       中國
 domain-ace:   XN--FIQZ9S
 
 organisation: China Internet Network Information Center (CNNIC)
-address:      No.4, South 4th Street
-address:      Zhong Guan Cun
-address:      Beijing  100190
+address:      No.4,  South 4th Street, Zhongguancun
+address:      Haidian district
+address:      Beijing 100190
 address:      China
 
 contact:      administrative
 name:         Yu Zeng
 organisation: China Internet Network Information Center (CNNIC)
-address:      No.4, South 4th Street
-address:      Zhong Guan Cun
-address:      Beijing  100190
+address:      No.4,  South 4th Street, Zhongguancun
+address:      Haidian district
+address:      Beijing 100190
 address:      China
 phone:        +8610-58813686
 fax-no:       +8610-58813632
 e-mail:       ceo@cnnic.cn
 
 contact:      technical
-name:         Yuedong Zhang
+name:         Anlei Hu
 organisation: China Internet Network Information Center (CNNIC)
-address:      No.4, South 4th Street
-address:      Zhong Guan Cun
-address:      Beijing  100190
+address:      No. 4, South 4th Street, Zhongguancun
+address:      Haidian district
+address:      Beijing 100190
 address:      China
 phone:        +8610-58813202
 fax-no:       +8610-58812666
@@ -38,9 +38,7 @@ nserver:      I.DNS.CN 125.208.33.1 2001:dc7:ffff:0:0:0:0:1
 nserver:      J.DNS.CN 125.208.34.1
 nserver:      K.DNS.CN 125.208.35.1
 nserver:      L.DNS.CN 125.208.36.1
-nserver:      M.DNS.CN 195.219.8.91
-nserver:      N.DNS.CN 66.198.183.66
-ds-rdata:     28162 8 2 30B55F108E07F9C2397F0D233324E02E667A137569FF91FC0311DCB73CEA1571
+ds-rdata:     28162 8 2 30b55f108e07f9c2397f0d233324e02e667a137569ff91fc0311dcb73cea1571
 
 whois:        cwhois.cnnic.cn
 
@@ -48,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.cnnic.cn
 
 created:      2010-07-09
-changed:      2018-03-02
+changed:      2023-06-17
 source:       IANA
 
