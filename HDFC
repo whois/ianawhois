@@ -7,17 +7,15 @@ domain:       HDFC
 organisation: HOUSING DEVELOPMENT FINANCE CORPORATION LIMITED
 address:      HDFC House 165/166, H T Parekh Marg,
 address:      Backbay Reclamation, Churchgate
-address:      Mumbai
-address:      Maharashtra, 400020
+address:      Mumbai Maharashtra 400020
 address:      India
 
 contact:      administrative
 name:         Asst. Genral Manager IT
 organisation: HOUSING DEVELOPMENT FINANCE CORPORATION LIMITED
-address:      5th Floor, HUL House, 165-166 Backbay Reclamation, H T Parekh Marg,
+address:      5th Floor, HUL House, 165-166 Backbay Reclamation, H T Parekh Marg
 address:      Churchgate
-address:      Mumbai
-address:      Maharashtra, 400020
+address:      Mumbai Maharashtra 400020
 address:      India
 phone:        +912267546010
 fax-no:       +912267546203
@@ -26,10 +24,10 @@ e-mail:       icannhdfc@hdfc.com
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
 organisation: Afilias
-address:      Building 3, Suite 105
 address:      300 Welsh Road
-address:      Horsham, PA 19044
-address:      United States
+address:      Building 3, Suite 105
+address:      Horsham PA 19044
+address:      United States of America (the)
 phone:        +1 215.706.5700
 fax-no:       +1 215.706.5701
 e-mail:       tld-tech-poc@afilias.info
