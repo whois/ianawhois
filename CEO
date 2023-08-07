@@ -5,13 +5,17 @@
 domain:       CEO
 
 organisation: CEOTLD Pty Ltd
-address:      Level 6/1 Chifley Square, Sydney NSW 2000
+address:      Level 6
+address:      1 Chifley Square
+address:      Sydney NSW 2000
 address:      Australia
 
 contact:      administrative
 name:         Jodee Rich
 organisation: CEO TLD Pty Ltd
-address:      Level 6/1 Chifley Square, Sydney NSW 2000
+address:      Level 6
+address:      1 Chifley Square
+address:      Sydney NSW 2000
 address:      Australia
 phone:        +61 2 9247 8230
 e-mail:       contact@peoplebrowsr.com
@@ -19,9 +23,10 @@ e-mail:       contact@peoplebrowsr.com
 contact:      technical
 name:         CTO
 organisation: CentralNic
-address:      Saddlers House 4th Floor 44 Gutter Lane
+address:      Saddlers House, 4th Floor
+address:      44 Gutter Lane
 address:      London EC2V 6BR
-address:      United Kingdom
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44 20 33 88 0600
 fax-no:       +44 20 33 88 0601
 e-mail:       tld.ops@centralnic.com
@@ -30,12 +35,12 @@ nserver:      A.NIC.CEO 194.169.218.78 2001:67c:13cc:0:0:0:1:78
 nserver:      B.NIC.CEO 185.24.64.78 2a04:2b00:13cc:0:0:0:1:78
 nserver:      C.NIC.CEO 212.18.248.78 2a04:2b00:13ee:0:0:0:0:78
 nserver:      D.NIC.CEO 212.18.249.78 2a04:2b00:13ff:0:0:0:0:78
-ds-rdata:     63689 8 1 DB7A8F6AADCEE147D241A9778857E94707234D4E
-ds-rdata:     63689 8 2 F2AB788C2802C3F219D53F37E7E1687ECF2E453E04BC5ABCC0B444FC0E35B1EE
-ds-rdata:     47971 8 1 C1D4B59F029DBFCC32C1B3524EE5F5B87735EA60
-ds-rdata:     47971 8 2 CA81C48A6831FD48D45CAF9A0DEB74D0E8B8F217CDD05CFD7090C1F926219AEA
-ds-rdata:     20929 8 1 BF13ED10CE2850F7C686261F06DA97A0E5EB78A6
-ds-rdata:     20929 8 2 DCE04F950578106C1C5F8386DB709467091C961227606F0A761C7A0E10E2DDC7
+ds-rdata:     63689 8 1 db7a8f6aadcee147d241a9778857e94707234d4e
+ds-rdata:     63689 8 2 f2ab788c2802c3f219d53f37e7e1687ecf2e453e04bc5abcc0b444fc0e35b1ee
+ds-rdata:     47971 8 1 c1d4b59f029dbfcc32c1b3524ee5f5b87735ea60
+ds-rdata:     47971 8 2 ca81c48a6831fd48d45caf9a0deb74d0e8b8f217cdd05cfd7090c1f926219aea
+ds-rdata:     20929 8 1 bf13ed10ce2850f7c686261f06da97a0e5eb78a6
+ds-rdata:     20929 8 2 dce04f950578106c1c5f8386db709467091c961227606f0a761c7a0e10e2ddc7
 
 whois:        whois.nic.ceo
 
