@@ -6,14 +6,16 @@ domain:       セール
 domain-ace:   XN--1CK2E1B
 
 organisation: Amazon Registry Services, Inc.
-address:      410 Terry Avenue North, Seattle, WA  98109
-address:      United States
+address:      410 Terry Avenue North
+address:      Seattle WA 98109
+address:      United States of America (the)
 
 contact:      administrative
 name:         Carolyn Mitchell
 organisation: Amazon Registry Services, Inc.
-address:      410 Terry Avenue North, Seattle, WA  98109
-address:      United States
+address:      410 Terry Avenue North
+address:      Seattle WA 98109
+address:      United States of America (the)
 phone:        +1 206 646 5990
 fax-no:       +1-206-946-7702
 e-mail:       sale-rzm@amazon.com
@@ -22,8 +24,8 @@ contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
 address:      2155 E GoDaddy Way
-address:      Tempe, AZ 85284
-address:      United States
+address:      Tempe AZ 85284
+address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
@@ -34,7 +36,9 @@ nserver:      C.NIC.XN--1CK2E1B 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      NS1.DNS.NIC.XN--1CK2E1B 156.154.169.64 2610:a1:1071:0:0:0:1:40
 nserver:      NS2.DNS.NIC.XN--1CK2E1B 156.154.170.64 2610:a1:1072:0:0:0:1:40
 nserver:      NS3.DNS.NIC.XN--1CK2E1B 156.154.171.64 2610:a1:1073:0:0:0:1:40
-ds-rdata:     45052 8 2 95AF6D712437FF0146056FB29421E23251BA928DD50401D6B48DAD894B00B234
+ds-rdata:     45052 8 2 95af6d712437ff0146056fb29421e23251ba928dd50401d6b48dad894b00b234
+
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: http://www.amazonregistry.com
