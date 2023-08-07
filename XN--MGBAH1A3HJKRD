@@ -7,16 +7,16 @@ domain-ace:   XN--MGBAH1A3HJKRD
 
 organisation: Université de Nouakchott Al Aasriya
 address:      Campus Universitaire
-address:      Nouakchott
 address:      BP 5026
+address:      Nouakchott
 address:      Mauritania
 
 contact:      administrative
 name:         Ahmedou HAOUBA
 organisation: Faculté des Sciences et Techniques (UNA)
 address:      Campus Universitaire
-address:      Nouakchott
 address:      BP 5026
+address:      Nouakchott
 address:      Mauritania
 phone:        +222 46 46 83 17
 e-mail:       haouba@una.mr
@@ -25,8 +25,8 @@ contact:      technical
 name:         Ahmed Salem Cheikh
 organisation: Faculté des Sciences et Techniques (UNA)
 address:      Campus Universitaire
-address:      Nouakchott
 address:      BP 4045
+address:      Nouakchott
 address:      Mauritania
 phone:        +222 36 30 76 01
 e-mail:       ahdsalem@nic.mr
@@ -36,7 +36,7 @@ nserver:      NS-MR.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
 nserver:      NS1.NIC.MR 193.146.150.193
 nserver:      NS2.NIC.MR 82.151.64.2
 nserver:      NS3.NIC.MR 2001:500:14:6135:ad:0:0:1 204.61.216.135
-ds-rdata:     19030 8 2 9C1324BBE5B1726510CA3EA47E2D42F7E6C6A09BAF424AC344F32DE5488AE5A9
+ds-rdata:     19030 8 2 9c1324bbe5b1726510ca3ea47e2d42f7e6c6a09baf424ac344f32de5488ae5a9
 
 whois:        whois.nic.mr
 
@@ -44,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.mr
 
 created:      2017-11-28
-changed:      2020-11-25
+changed:      2023-03-07
 source:       IANA
 
