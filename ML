@@ -5,41 +5,42 @@
 domain:       ML
 
 organisation: Agence des Technologies de l’Information et de la Communication
-address:      ACI 2000 Hamdallaye
-address:      Bamako BP E 5467
+address:      ACI 2000 Hamdallaye,
+address:      BP E 5467
+address:      Bamako
 address:      Mali
 
 contact:      administrative
 name:         Chef Service Gestion du .ml
 organisation: Agence des Technologies de l’Information et de la Communication
-address:      ACI 2000 Hamdallaye
-address:      Bamako BP E 5467
+address:      ACI 2000 Hamdallaye,
+address:      BP E 5467
+address:      Bamako
 address:      Mali
 phone:        +223 77 28 52 51
 fax-no:       +223 20 29 94 13
 e-mail:       nkamate@agetic.gouv.ml
 
 contact:      technical
-name:         Manager ICT
-organisation: Mali Dili B.V.
-address:      Keizersgracht 213
-address:      1016 DT  Amsterdam
-address:      Netherlands
-phone:        +31 20 5315726
-fax-no:       +31 20 5315721
-e-mail:       info@malidili.com
+name:         Adama TRAORE
+organisation: Agence des Technologies de l'Information et de la Communication
+address:      Hamdallaye ACI 2000, cour Bibliothèque Nationale
+address:      Bamako Mali BPE 5467
+address:      Mali
+phone:        +223 20 23 04 04
+e-mail:       ada@agetic.gouv.ml
 
-nserver:      A.NS.ML 185.21.168.1 2a04:1b00:0:0:0:0:0:1
-nserver:      B.NS.ML 185.21.169.1 2a04:1b00:1:0:0:0:0:1
-nserver:      C.NS.ML 185.21.170.1 2a04:1b00:2:0:0:0:0:1
-nserver:      D.NS.ML 185.21.171.1 2a04:1b00:3:0:0:0:0:1
+nserver:      A.NIC.ML 196.10.220.136
+nserver:      B.NIC.ML 165.90.218.166 2c0f:f900:2:3:0:0:0:2
+nserver:      C.NIC.ML 2001:500:14:6144:ad:0:0:1 204.61.216.144
+nserver:      D.NIC.ML 196.216.168.37 2001:43f8:120:0:0:0:0:37
 
-whois:        whois.dot.ml
+whois:        whois.nic.ml
 
 status:       ACTIVE
-remarks:      Registration information: http://www.dot.ml
+remarks:      Registration information: http://www.nic.ml
 
 created:      1993-09-29
-changed:      2018-04-20
+changed:      2023-07-24
 source:       IANA
 
