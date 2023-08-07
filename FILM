@@ -5,14 +5,15 @@
 domain:       FILM
 
 organisation: Motion Picture Domain Registry Pty Ltd
-address:      169 Domain Rd, South Yarra 3141
+address:      169 Domain Rd
+address:      South Yarra VIC 3141
 address:      Australia
 
 contact:      administrative
 name:         Adrian Kinderis
 organisation: Motion Picture Domain Registry Pty Ltd
 address:      P.O. Box 82
-address:      South Yarra, 3141
+address:      South Yarra VIC 3141
 address:      Australia
 phone:        +61416163791
 e-mail:       info@go.film
@@ -21,7 +22,7 @@ contact:      technical
 name:         Adrian Kinderis
 organisation: Motion Picture Domain Registry
 address:      P.O. Box 82
-address:      South Yarra 3141
+address:      South Yarra VIC 3141
 address:      Australia
 phone:        +61416163791
 e-mail:       info@go.film
@@ -29,8 +30,10 @@ e-mail:       info@go.film
 nserver:      A.NIC.FILM 2001:dcd:1:0:0:0:0:10 37.209.192.10
 nserver:      B.NIC.FILM 2001:dcd:2:0:0:0:0:10 37.209.194.10
 nserver:      C.NIC.FILM 2001:dcd:3:0:0:0:0:10 37.209.196.10
-nserver:      D.NIC.FILM 2001:dcd:4:0:0:0:0:10 37.209.198.10
-ds-rdata:     37210 8 2 713E96C6A83BF8E26D80DB818D4061793B4C10405C13E7D9CF7D471CEEFB6009
+nserver:      X.NIC.FILM 156.154.172.82 2610:a1:1074:0:0:0:1:82
+nserver:      Y.NIC.FILM 156.154.173.82 2610:a1:1075:0:0:0:1:82
+nserver:      Z.NIC.FILM 156.154.174.82 2610:a1:1076:0:0:0:1:82
+ds-rdata:     37210 8 2 713e96c6a83bf8e26d80db818d4061793b4c10405c13e7d9cf7d471ceefb6009
 
 whois:        whois.nic.film
 
@@ -38,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.film
 
 created:      2015-02-27
-changed:      2022-07-22
+changed:      2022-12-01
 source:       IANA
 
