@@ -7,7 +7,8 @@ domain:       TG
 organisation: Autorité de Régulation des Communications Electroniques et des Postes (ARCEP)
 address:      4638, Boulevard Général Gnassingbé Eyadema
 address:      Immeuble ARCEP
-address:      BP 358 Lomé
+address:      BP 358
+address:      Lomé
 address:      Togo
 
 contact:      administrative
@@ -15,7 +16,8 @@ name:         Chief Executive Officer
 organisation: ARCEP
 address:      4638, Boulevard Général Gnassingbé Eyadema
 address:      Immeuble ARCEP
-address:      BP 358 Lomé
+address:      BP 358
+address:      Lomé
 address:      Togo
 phone:        +22822236380
 fax-no:       +22822236394
@@ -25,7 +27,7 @@ contact:      technical
 name:         Chief Executive Officer
 organisation: C.A.F.E. Informatique et Telecommunications
 address:      Cite Maman NDanida, Bld du 30 Août
-address:      Lome, 07BP12596
+address:      Lome 07BP12596
 address:      Togo
 phone:        +22822255555
 fax-no:       +22822256666
