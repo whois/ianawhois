@@ -5,21 +5,16 @@
 domain:       TVS
 
 organisation: T V SUNDRAM IYENGAR  & SONS PRIVATE LIMITED
-address:      TVS Building, 7 B WEST VELI STREET,
-address:      Madurai
-address:      Tamilnadu
-address:      625001
-address:      IN
+address:      TVS Building, 7 B West Veli Street
+address:      Madurai Tamil Nadu 625001
 address:      India
 
 contact:      administrative
 name:         Chief Digital Officer
 organisation: TVS & Sons Pvt Ltd
-address:      58 , Eldams Road, Teynampet,
-address:      Chennai
-address:      Tamilnadu
-address:      600018
-address:      IN
+address:      58, Eldams Road
+address:      Teynampet
+address:      Chennai Tamil Nadu 600018
 address:      India
 phone:        +91 44 66857717
 fax-no:       +91 44 66857750
@@ -28,11 +23,10 @@ e-mail:       registry.gtld@tvs.in
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
 organisation: Afilias
+address:      300 Welsh Road
 address:      Building 3, Suite 105
-address:      300  Welsh Road
-address:      Horsham, PA 19044
-address:      United States
-address:      United States
+address:      Horsham PA 19044
+address:      United States of America (the)
 phone:        +1 215.706.5700
 fax-no:       +1 215.706.5701
 e-mail:       tld-tech-poc@afilias.info
