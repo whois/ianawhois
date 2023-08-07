@@ -5,14 +5,16 @@
 domain:       AWS
 
 organisation: AWS Registry LLC
-address:      410 Terry Avenue North, Seattle, WA  98109
-address:      United States
+address:      410 Terry Avenue North
+address:      Seattle WA 98109
+address:      United States of America (the)
 
 contact:      administrative
 name:         Sr. Manager
 organisation: AWS Registry LLC
-address:      410 Terry Avenue North, Seattle, WA  98109
-address:      United States
+address:      410 Terry Avenue North
+address:      Seattle WA 98109
+address:      United States of America (the)
 phone:        +1-206-765-5360
 fax-no:       +1-206-946-7702
 e-mail:       aws-registry@amazon.com
@@ -20,12 +22,11 @@ e-mail:       aws-registry@amazon.com
 contact:      technical
 name:         TLD Registry Services Technical
 organisation: Nominet
-address:      Minerva House,
-address:      Edmund Halley Road,
-address:      Oxford Science Park,
-address:      Oxford
-address:      OX4 4DQ
-address:      United Kingdom
+address:      Minerva House
+address:      Edmund Halley Road
+address:      Oxford Science Park
+address:      Oxford OX4 4DQ
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44.1865332211
 e-mail:       registrytechnical@nominet.uk
 
@@ -37,7 +38,7 @@ nserver:      DNSA.NIC.AWS 156.154.100.3 2001:502:ad09:0:0:0:0:3
 nserver:      DNSB.NIC.AWS 156.154.101.3 2001:502:2eda:0:0:0:0:3
 nserver:      DNSC.NIC.AWS 156.154.102.3 2610:a1:1009:0:0:0:0:3
 nserver:      DNSD.NIC.AWS 156.154.103.3 2610:a1:1010:0:0:0:0:3
-ds-rdata:     54182 8 2 76F2C3FBB9F23FF5F59A4CD63B8D5D5174B3F2E0F034B7323C1543312F37301D
+ds-rdata:     54182 8 2 76f2c3fbb9f23ff5f59a4cd63b8d5d5174b3f2e0f034b7323c1543312f37301d
 
 whois:        whois.nic.aws
 
