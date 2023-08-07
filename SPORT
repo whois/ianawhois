@@ -4,28 +4,28 @@
 
 domain:       SPORT
 
-organisation: Global Association of International Sports Federations (GAISF)
+organisation: SportAccord
 address:      Maison du Sport International
 address:      Avenue de Rhodanie 54
-address:      CH-1017 Lausanne VD
+address:      Lausanne VD CH-1017
 address:      Switzerland
 
 contact:      administrative
 name:         .sport TLD Administrative Contact
-organisation: Global Association of International Sports Federations (GAISF)
+organisation: SportAccord
 address:      Maison du Sport International
 address:      Avenue de Rhodanie 54
-address:      CH-1017 Lausanne VD
+address:      Lausanne VD CH-1017
 address:      Switzerland
 phone:        +41 21 612 3070
 fax-no:       +41 21 612 3071
-e-mail:       pierre.germeau@gaisf.org
+e-mail:       pierre.germeau@sportaccord.sport
 
 contact:      technical
 name:         Werner Staub
 organisation: CORE Association
 address:      Cours de Rive 2
-address:      CH-1204 Geneva
+address:      Geneva CH-1204
 address:      Switzerland
 phone:        +41 22 312 5610
 fax-no:       +41 22 312 5612
@@ -35,15 +35,14 @@ nserver:      ANYCAST10.IRONDNS.NET 195.253.64.12 2a01:5b0:4:0:0:0:0:c
 nserver:      ANYCAST23.IRONDNS.NET 195.253.65.11 2a01:5b0:5:0:0:0:0:b
 nserver:      ANYCAST24.IRONDNS.NET 195.253.65.12 2a01:5b0:5:0:0:0:0:c
 nserver:      ANYCAST9.IRONDNS.NET 195.253.64.11 2a01:5b0:4:0:0:0:0:b
-ds-rdata:     32491 10 2 3B39ADB8057A67441E2B11FDD23417E52F7F5B17E134F12027B3C382535972DA
+ds-rdata:     32491 10 2 3b39adb8057a67441e2b11fdd23417e52f7f5b17e134f12027b3c382535972da
 
 whois:        whois.nic.sport
 
 status:       ACTIVE
-remarks:      Registration information:
-remarks:      https://gaisf.org/sport-initiative/
+remarks:      Registration information: https://join.sport/
 
 created:      2018-01-05
-changed:      2018-01-11
+changed:      2023-07-14
 source:       IANA
 
