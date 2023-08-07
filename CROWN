@@ -5,42 +5,40 @@
 domain:       CROWN
 
 organisation: Crown Equipment Corporation
-address:      44 S. Washington STreet
+address:      44 S. Washington Street
 address:      New Bremen OH 45869
-address:      United States
+address:      United States of America (the)
 
 contact:      administrative
 name:         Ron Meyer
 organisation: Crown Equipment Corporation
 address:      44 S. Washington Street
 address:      New Bremen OH 45869
-address:      United States (US)
-address:      United States
+address:      United States of America (the)
 phone:        1-419-629-2311
 fax-no:       1-419-629-9202
 e-mail:       registryops@crown.com
 
 contact:      technical
-name:         Bonnie Bryant
-organisation: Verisign, Inc.
-address:      12061 Bluemont Way
-address:      Reston Virginia 20190
-address:      United States (US)
-address:      United States
-phone:        1-703-925-6999
-fax-no:       1-703-948-3978
-e-mail:       info@verisign-grs.com
+name:         Don Slaunwhite, Fury Registry Services
+organisation: Canadian Internet Registration Authority (CIRA)
+address:      979 Bank Street, Suite 400
+address:      Ottawa Ontario K1S 5K5
+address:      Canada
+phone:        +1-613-237-5335
+fax-no:       +1-613-237-0534
+e-mail:       support@fury.ca
 
-nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
-nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
-nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
-nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
-ds-rdata:     27918 8 2 8842332BDE0BA9771AE17DDADD5018C37A16287E1384967C331C615B23D85D56
+nserver:      A.NS.NIC.CROWN 185.159.197.5 2620:10a:80aa:0:0:0:0:5
+nserver:      B.NS.NIC.CROWN 185.159.198.5 2620:10a:80ab:0:0:0:0:5
+ds-rdata:     41194 8 2 f7c822b56b709256e744781b677c0b32da1e218eac286a2543b064a19a40f3d5
+
+whois:        whois.nic.crown
 
 status:       ACTIVE
 remarks:      Registration information: http://www.crown.com/
 
 created:      2015-06-04
-changed:      2019-08-20
+changed:      2023-06-26
 source:       IANA
 
