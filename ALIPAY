@@ -6,32 +6,26 @@ domain:       ALIPAY
 
 organisation: Alibaba Group Holding Limited
 address:      Fourth Floor, One Capital Place, P.O Box 847
-address:      George Town
-address:      Grand Cayman
-address:      KY1-1103
-address:      KY
-address:      Cayman Islands
+address:      George Town Grand Cayman KY1-1103
+address:      Cayman Islands (the)
 
 contact:      administrative
-name:         General Council
+name:         Project & Process Manager
 organisation: Alibaba Group Holding Limited
-address:      Fourth Floor, One Capital Place, P.O Box 847
-address:      George Town
-address:      Grand Cayman
-address:      KY1-1103
-address:      KY
-address:      Cayman Islands
-phone:        852-2215-5100
-fax-no:       852-2215-5200
-e-mail:       newgtld@hk.alibaba-inc.com
+address:      Fourth Floor, One Capital Place
+address:      P.O Box 847
+address:      George Town Grand Cayman KY1-1103
+address:      Cayman Islands (the)
+phone:        +442070151717
+e-mail:       ngtld-alipay@cscglobal.com
 
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
 organisation: Afilias
-address:      Building 3, Suite 105
 address:      300 Welsh Road
-address:      Horsham, PA 19044
-address:      United States
+address:      Building 3, Suite 105
+address:      Horsham PA 19044
+address:      United States of America (the)
 phone:        +1 215.706.5700
 fax-no:       +1 215.706.5701
 e-mail:       tld-tech-poc@afilias.info
@@ -48,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.alibabagroup.com
 
 created:      2016-01-08
-changed:      2021-03-11
+changed:      2022-12-27
 source:       IANA
 
