@@ -8,8 +8,8 @@ organisation: Nominet UK
 address:      Minerva House
 address:      Edmund Halley Road
 address:      Oxford Science Park
-address:      Oxford  OX4 4DQ
-address:      United Kingdom
+address:      Oxford OX4 4DQ
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 
 contact:      administrative
 name:         TLD Registry Services Management
@@ -17,8 +17,8 @@ organisation: Nominet UK
 address:      Minerva House
 address:      Edmund Halley Road
 address:      Oxford Science Park
-address:      Oxford  OX4 4DQ
-address:      United Kingdom
+address:      Oxford OX4 4DQ
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44 1865 332211
 e-mail:       registrymanagement@nominet.uk
 
@@ -28,8 +28,8 @@ organisation: Nominet UK
 address:      Minerva House
 address:      Edmund Halley Road
 address:      Oxford Science Park
-address:      Oxford  OX4 4DQ
-address:      United Kingdom
+address:      Oxford OX4 4DQ
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44 1865 332211
 e-mail:       registrytechnical@nominet.uk
 
@@ -41,7 +41,7 @@ nserver:      NSA.NIC.UK 156.154.100.3 2001:502:ad09:0:0:0:0:3
 nserver:      NSB.NIC.UK 156.154.101.3 2001:502:2eda:0:0:0:0:3
 nserver:      NSC.NIC.UK 156.154.102.3 2610:a1:1009:0:0:0:0:3
 nserver:      NSD.NIC.UK 156.154.103.3 2610:a1:1010:0:0:0:0:3
-ds-rdata:     43876 8 2 A107ED2AC1BD14D924173BC7E827A1153582072394F9272BA37E2353BC659603
+ds-rdata:     43876 8 2 a107ed2ac1bd14d924173bc7e827a1153582072394f9272ba37e2353bc659603
 
 whois:        whois.nic.uk
 
@@ -49,6 +49,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.uk/
 
 created:      1985-07-24
-changed:      2022-08-31
+changed:      2023-03-07
 source:       IANA
 
