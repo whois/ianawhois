@@ -6,15 +6,15 @@ domain:       NORTON
 
 organisation: Symantec Corporation
 address:      350 Ellis Street
-address:      Mountain View, California, 94043
-address:      United States
+address:      Mountain View CA 94043
+address:      United States of America (the)
 
 contact:      administrative
 name:         Senior Vice President, Operations
 organisation: Brandsight, Inc.
 address:      18 Division St., Suite 309
-address:      Saratoga Springs, New York 12866
-address:      United States
+address:      Saratoga Springs NY 12866
+address:      United States of America (the)
 phone:        +1518.966.9187
 e-mail:       symantecgtlds@brandsight.com
 
@@ -22,8 +22,8 @@ contact:      technical
 name:         Registry Customer Service
 organisation: Verisign, Inc.
 address:      12061 Bluemont Way
-address:      Reston, Virginia, 20190
-address:      United States
+address:      Reston VA 20190
+address:      United States of America (the)
 phone:        1-703-925-6999
 fax-no:       1-703-948-3978
 e-mail:       info@verisign-grs.com
@@ -32,7 +32,7 @@ nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
 nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
 nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
 nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
-ds-rdata:     13095 8 2 8A3E13067F0237E9F16D0C6D25C72B262AF2E49BBBA4345C70E1BA5FD19AC321
+ds-rdata:     13095 8 2 8a3e13067f0237e9f16d0c6d25c72b262af2e49bbba4345c70e1ba5fd19ac321
 
 whois:        whois.nic.norton
 
@@ -40,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.symantec.com
 
 created:      2015-09-24
-changed:      2019-08-16
+changed:      2020-10-01
 source:       IANA
 
