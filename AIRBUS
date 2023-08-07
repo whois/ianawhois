@@ -6,14 +6,14 @@ domain:       AIRBUS
 
 organisation: Airbus S.A.S.
 address:      1 rond point Maurice Bellonte
-address:      31700 Blagnac
+address:      Blagnac 31700
 address:      France
 
 contact:      administrative
 name:         Head of Web & Images
 organisation: Airbus S.A.S.
 address:      1 rond point Maurice Bellonte
-address:      31700 Blagnac
+address:      Blagnac 31700
 address:      France
 phone:        +33 561933333
 fax-no:       +33 561935948
@@ -23,8 +23,8 @@ contact:      technical
 name:         Registry Customer Service
 organisation: Verisign, Inc.
 address:      12061 Bluemont Way
-address:      Reston Virginia 20190
-address:      United States
+address:      Reston VA 20190
+address:      United States of America (the)
 phone:        +1-703-925-6999
 fax-no:       +1-703-948-3978
 e-mail:       info@verisign-grs.com
@@ -33,13 +33,14 @@ nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
 nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
 nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
 nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
-ds-rdata:     31023 8 2 FAFDD4F89FA42D1396B42A972019BD3DE013BD1708888FD77BD7DADA8A38936D
+ds-rdata:     31023 8 2 fafdd4f89fa42d1396b42a972019bd3de013bd1708888fd77bd7dada8a38936d
 
 whois:        whois.nic.airbus
 
 status:       ACTIVE
+remarks:      Registration information: 
 
 created:      2016-05-26
-changed:      2016-06-10
+changed:      2020-10-01
 source:       IANA
 
