@@ -6,14 +6,16 @@ domain:       家電
 domain-ace:   XN--FCT429K
 
 organisation: Amazon Registry Services, Inc.
-address:      410 Terry Avenue North, Seattle, WA  98109
-address:      United States
+address:      410 Terry Avenue North
+address:      Seattle WA 98109
+address:      United States of America (the)
 
 contact:      administrative
 name:         Carolyn Mitchell
 organisation: Amazon Registry Services, Inc.
-address:      410 Terry Avenue North, Seattle, WA  98109
-address:      United States
+address:      410 Terry Avenue North
+address:      Seattle WA 98109
+address:      United States of America (the)
 phone:        +1 206 646 5990
 fax-no:       +1-206-946-7702
 e-mail:       consumerelectronics-rzm@amazon.com
@@ -22,8 +24,8 @@ contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
 address:      2155 E GoDaddy Way
-address:      Tempe, AZ 85284
-address:      United States
+address:      Tempe AZ 85284
+address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
@@ -34,7 +36,9 @@ nserver:      C.NIC.XN--FCT429K 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      NS1.DNS.NIC.XN--FCT429K 156.154.169.67 2610:a1:1071:0:0:0:1:43
 nserver:      NS2.DNS.NIC.XN--FCT429K 156.154.170.67 2610:a1:1072:0:0:0:1:43
 nserver:      NS3.DNS.NIC.XN--FCT429K 156.154.171.67 2610:a1:1073:0:0:0:1:43
-ds-rdata:     43072 8 2 0C2DFC5910AB7282C7C3201810C8A465C2AD7A6C6C4E26B5D8A2282F0387685D
+ds-rdata:     43072 8 2 0c2dfc5910ab7282c7c3201810c8a465c2ad7a6c6c4e26b5d8a2282f0387685d
+
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: http://www.amazonregistry.com
