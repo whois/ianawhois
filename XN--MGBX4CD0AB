@@ -7,27 +7,27 @@ domain-ace:   XN--MGBX4CD0AB
 
 organisation: MYNIC Berhad
 address:      Level 3, Tower 2, Menara Cyber Axis
-address:      Jalan Impact, 63000 Cyberjaya
-address:      Selangor Darul Ehsan
+address:      Jalan Impact
+address:      Cyberjaya Selangor Darul Ehsan 63000
 address:      Malaysia
 
 contact:      administrative
-name:         CEO
+name:         Datuk Ts. Hasnul Fadhly Hasan
 organisation: MYNIC Berhad
 address:      Level 3, Tower 2, Menara Cyber Axis
-address:      Jalan Impact, 63000 Cyberjaya
-address:      Selangor Darul Ehsan
+address:      Jalan Impact
+address:      Cyberjaya Selangor Darul Ehsan 63000
 address:      Malaysia
 phone:        +603 8008 2000
 fax-no:       +603 8008 2020
 e-mail:       dnsadmin@mynic.my
 
 contact:      technical
-name:         CEO
+name:         Datuk Ts. Hasnul Fadhly Hasan
 organisation: MYNIC Berhad
 address:      Level 3, Tower 2, Menara Cyber Axis
-address:      Jalan Impact, 63000 Cyberjaya
-address:      Selangor Darul Ehsan
+address:      Jalan Impact
+address:      Cyberjaya Selangor Darul Ehsan 63000
 address:      Malaysia
 phone:        +603 8008 2000
 fax-no:       +603 8008 2020
@@ -39,9 +39,9 @@ nserver:      A1.NIC.MY 202.171.47.204
 nserver:      B.MYNIC.CENTRALNIC-DNS.COM 185.24.64.114 2a04:2b00:13cc:0:0:0:1:114
 nserver:      C.MYNIC.CENTRALNIC-DNS.COM 212.18.248.114 2a04:2b00:13ee:0:0:0:0:114
 nserver:      D.MYNIC.CENTRALNIC-DNS.COM 212.18.249.114 2a04:2b00:13ff:0:0:0:0:114
-ds-rdata:     15654 8 2 E7E6D7D1BBA6E0443EBE51946759FDCB9E370BA14F95B61091B9B989B1A90340
-ds-rdata:     37866 8 2 9818EC191CFCE9EF77E5E458BCF471D5AFCFA30D40F9A62BDD69A1863187247C
-ds-rdata:     1998 8 2 DE4C45D877C64E9C3EBCBC79BADBC104D7C5292D72BC6CA47090B31BE24212E0
+ds-rdata:     15654 8 2 e7e6d7d1bba6e0443ebe51946759fdcb9e370ba14f95b61091b9b989b1a90340
+ds-rdata:     37866 8 2 9818ec191cfce9ef77e5e458bcf471d5afcfa30d40f9a62bdd69a1863187247c
+ds-rdata:     1998 8 2 de4c45d877c64e9c3ebcbc79badbc104d7c5292d72bc6ca47090b31be24212e0
 
 whois:        whois.mynic.my
 
@@ -49,6 +49,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.mynic.my
 
 created:      2011-10-22
-changed:      2021-02-08
+changed:      2023-03-07
 source:       IANA
 
