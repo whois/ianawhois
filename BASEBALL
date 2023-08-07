@@ -5,16 +5,17 @@
 domain:       BASEBALL
 
 organisation: MLB Advanced Media DH, LLC
-address:      75 Ninth Avenue, New York, NY 10011
-address:      United States
+address:      75 Ninth Avenue
+address:      New York NY 10011
+address:      United States of America (the)
 
 contact:      administrative
 name:         Domain Administrator
 organisation: MLB Advanced Media, L.P.
 address:      1271 Avenue of the Americas
 address:      9th Fl.
-address:      New York, NY 10020
-address:      United States
+address:      New York NY 10020
+address:      United States of America (the)
 phone:        +1 212-485-3444
 fax-no:       +1 212-485-8111
 e-mail:       mlbam-dh@mlb.com
@@ -23,8 +24,8 @@ contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
 address:      2155 E GoDaddy Way
-address:      Tempe, AZ 85284
-address:      United States
+address:      Tempe AZ 85284
+address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
@@ -35,12 +36,14 @@ nserver:      C.NIC.BASEBALL 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      NS1.DNS.NIC.BASEBALL 156.154.144.200 2610:a1:1071:0:0:0:0:c8
 nserver:      NS2.DNS.NIC.BASEBALL 156.154.145.200 2610:a1:1072:0:0:0:0:c8
 nserver:      NS3.DNS.NIC.BASEBALL 156.154.159.200 2610:a1:1073:0:0:0:0:c8
-ds-rdata:     28711 8 2 349E8B6A2E0890837FF4B69F7EFB0F44E3C32DC976FA74962DD8F812D7712F66
+ds-rdata:     28711 8 2 349e8b6a2e0890837ff4b69f7efb0f44e3c32dc976fa74962dd8f812d7712f66
+
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: http://www.mlb.com
 
 created:      2016-09-29
-changed:      2022-09-28
+changed:      2023-01-18
 source:       IANA
 
