@@ -5,14 +5,16 @@
 domain:       PING
 
 organisation: Ping Registry Provider, Inc.
-address:      2201 W. Desert Cove, Phoenix, AZ 85029
-address:      United States
+address:      2201 W. Desert Cove
+address:      Phoenix AZ 85029
+address:      United States of America (the)
 
 contact:      administrative
-name:          Eric Hart
+name:         Eric Hart
 organisation: Ping Registry Provider
-address:      2201 W. Desert Cove, Phoenix, AZ 85029
-address:      United States
+address:      2201 W. Desert Cove
+address:      Phoenix AZ 85029
+address:      United States of America (the)
 phone:        +1 (602) 687-5343
 fax-no:       +1 (602) 687-5028
 e-mail:       admin@pingregistryprovider.com
@@ -21,8 +23,8 @@ contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
 address:      2155 E GoDaddy Way
-address:      Tempe, AZ 85284
-address:      United States
+address:      Tempe AZ 85284
+address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
@@ -33,7 +35,9 @@ nserver:      C.NIC.PING 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.PING 156.154.169.29 2610:a1:1071:0:0:0:1:1d
 nserver:      NS2.DNS.NIC.PING 156.154.170.29 2610:a1:1072:0:0:0:1:1d
 nserver:      NS3.DNS.NIC.PING 156.154.171.29 2610:a1:1073:0:0:0:1:1d
-ds-rdata:     17914 8 2 128D6BF21796BCDB0997673C07CA67CBDEC3A09339034F311B1FECAB03391A6D
+ds-rdata:     17914 8 2 128d6bf21796bcdb0997673c07ca67cbdec3a09339034f311b1fecab03391a6d
+
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: http://www.ping.com
