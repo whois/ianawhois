@@ -5,14 +5,16 @@
 domain:       FTR
 
 organisation: Frontier Communications Corporation
-address:      401 Merritt 7, Norwalk, CT 06851
-address:      United States
+address:      401 Merritt 7
+address:      Norwalk CT 06851
+address:      United States of America (the)
 
 contact:      administrative
 name:         Systems Administrator
 organisation: Frontier Communications Corporation
-address:      120 N Plymouth Ave, Rochester, NY 14608
-address:      United States
+address:      120 N Plymouth Ave
+address:      Rochester NY 14608
+address:      United States of America (the)
 phone:        +1 570-631-1245
 e-mail:       hostmaster@frontier.com
 
@@ -20,8 +22,8 @@ contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
 address:      2155 E GoDaddy Way
-address:      Tempe, AZ 85284
-address:      United States
+address:      Tempe AZ 85284
+address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
@@ -32,7 +34,9 @@ nserver:      C.NIC.FTR 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.FTR 156.154.144.65 2610:a1:1071:0:0:0:0:41
 nserver:      NS2.DNS.NIC.FTR 156.154.145.65 2610:a1:1072:0:0:0:0:41
 nserver:      NS3.DNS.NIC.FTR 156.154.159.65 2610:a1:1073:0:0:0:0:41
-ds-rdata:     44104 8 2 42ECBFDD47BC85333FB13850757D18493116ECABDC33EB40CA70D7CB952D9D52
+ds-rdata:     44104 8 2 42ecbfdd47bc85333fb13850757d18493116ecabdc33eb40ca70d7cb952d9d52
+
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: http://frontier.com
