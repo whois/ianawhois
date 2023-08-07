@@ -7,16 +7,14 @@ domain-ace:   XN--LGBBAT1AD8J
 
 organisation: CERIST
 address:      Rue des Trois Freres Aissiou
-address:      Ben-Aknoun
-address:      Algiers 16035
+address:      Ben-Aknoun Algiers 16035
 address:      Algeria
 
 contact:      administrative
 name:         DZ-NIC Manager
 organisation: CERIST
 address:      Rue des Trois Freres Aissiou
-address:      Ben-Aknou
-address:      Algiers 16035
+address:      Ben-Aknoun Algiers 16035
 address:      Algeria
 phone:        +213 21 91 54 34
 fax-no:       +213 21 91 62 10
@@ -26,8 +24,7 @@ contact:      technical
 name:         Aouaouche El-Maouhab
 organisation: CERIST
 address:      Rue des Trois Freres Aissiou
-address:      Ben-Aknou
-address:      Algiers 16035
+address:      Ben-Aknoun Algiers 16035
 address:      Algeria
 phone:        +213 21 91 54 34
 fax-no:       +213 21 91 62 10
@@ -42,6 +39,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.dz
 
 created:      2011-02-05
-changed:      2011-05-03
+changed:      2023-03-07
 source:       IANA
 
