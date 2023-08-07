@@ -5,14 +5,14 @@
 domain:       EMERCK
 
 organisation: Merck KGaA
-address:      Frankfurter Strasse 250,
-address:      Darmstadt Hesse 64293.
+address:      Frankfurter Strasse 250
+address:      Darmstadt Hesse 64293
 address:      Germany
 
 contact:      administrative
 name:         Jonas Kölle
 organisation: Merck KGaA
-address:      Frankfurter Strasse 250,
+address:      Frankfurter Strasse 250
 address:      Darmstadt Hesse 64293
 address:      Germany
 phone:        +496151720
@@ -22,10 +22,10 @@ e-mail:       registry@emerck.com
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
 organisation: Afilias
-address:      Building 3, Suite 105,
 address:      300 Welsh Road
+address:      Building 3, Suite 105
 address:      Horsham PA 19044
-address:      United States
+address:      United States of America (the)
 phone:        +1 215.706.5700
 fax-no:       +1 215.706.5701
 e-mail:       tld-tech-poc@afilias.info
