@@ -5,13 +5,15 @@
 domain:       ITAU
 
 organisation: Itau Unibanco Holding S.A.
-address:      Praça Alfredo Egydio de Souza Aranha, 100, Torre Conceicao, 1st floor, CEP 04344-902, Sao Paulo - SP, Brazil
+address:      Praça Alfredo Egydio de Souza Aranha, 100, Torre Conceicao, 1st floor, CEP 04344-902
+address:      São Paulo SP
 address:      Brazil
 
 contact:      administrative
 name:         Diego Mariano de Campos
 organisation: Itau Unibanco Holding S.A.
-address:      Av. Engenheiro Armando de Arruda Pereira, Jabaquara – Torre Eudoro Vilella, Sao Paulo - SP, Brazil
+address:      Av. Engenheiro Armando de Arruda Pereira, Jabaquara – Torre Eudoro Vilella
+address:      São Paulo SP
 address:      Brazil
 phone:        55.115029-1202
 fax-no:       55.11 5019 1133
@@ -21,8 +23,8 @@ contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
 address:      2155 E GoDaddy Way
-address:      Tempe, AZ 85284
-address:      United States
+address:      Tempe AZ 85284
+address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
@@ -33,7 +35,9 @@ nserver:      NS3.DNS.NIC.ITAU 156.154.159.84 2610:a1:1073:0:0:0:0:54
 nserver:      NS4.DNS.NIC.ITAU 156.154.156.84 2610:a1:1074:0:0:0:0:54
 nserver:      NS5.DNS.NIC.ITAU 156.154.157.84 2610:a1:1075:0:0:0:0:54
 nserver:      NS6.DNS.NIC.ITAU 156.154.158.84 2610:a1:1076:0:0:0:0:54
-ds-rdata:     32626 8 2 4ABE223F5AD4BDBD1C42DE183C76722AFEDA52267F4166F23483204AD0CE4AFB
+ds-rdata:     32626 8 2 4abe223f5ad4bdbd1c42de183c76722afeda52267f4166f23483204ad0ce4afb
+
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: http://www.itau.com
