@@ -7,7 +7,7 @@ domain:       TH
 organisation: Thai Network Information Center Foundation
 address:      159 Thanon Phichai
 address:      Khwaeng Thanon Nakhon Chaisi, Khet Dusit
-address:      Bangkok  10300
+address:      Bangkok 10300
 address:      Thailand
 
 contact:      administrative
@@ -15,7 +15,7 @@ name:         Chaya Limchitti
 organisation: Thai Network Information Center Foundation
 address:      159 Thanon Phichai
 address:      Khwaeng Thanon Nakhon Chaisi, Khet Dusit
-address:      Bangkok  10300
+address:      Bangkok 10300
 address:      Thailand
 phone:        +66-2-244-8261
 fax-no:       +66-2-244-8264
@@ -26,7 +26,7 @@ name:         Pensri Arunwatanamongkol
 organisation: Thai Network Information Center Foundation
 address:      159 Thanon Phichai
 address:      Khwaeng Thanon Nakhon Chaisi, Khet Dusit
-address:      Bangkok  10300
+address:      Bangkok 10300
 address:      Thailand
 phone:        +66 2 564 8039
 fax-no:       +66 2 564 8040
@@ -37,7 +37,7 @@ nserver:      B.THAINS.CO.TH 203.159.64.64 2405:3340:e011:3000:0:0:0:30
 nserver:      C.THAINS.CO.TH 194.0.1.28 2001:678:4:0:0:0:0:1c
 nserver:      NS.THNIC.NET 202.28.0.1
 nserver:      P.THAINS.CO.TH 2001:500:14:6126:ad:0:0:1 204.61.216.126
-ds-rdata:     19117 8 2 E26BF35F73234AC50C600632FC717AE491F4A8B4F662FB29234F5499ACFEBF64
+ds-rdata:     19117 8 2 e26bf35f73234ac50c600632fc717ae491f4a8b4f662fb29234f5499acfebf64
 
 whois:        whois.thnic.co.th
 
