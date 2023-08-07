@@ -9,7 +9,7 @@ organisation: Communications and Information Technology Commission
 address:      P.O. Box 75606
 address:      CITC Main Building, AlRuhmaniah Area
 address:      King Fahad Street
-address:      Riyadh  11588
+address:      Riyadh 11588
 address:      Saudi Arabia
 
 contact:      administrative
@@ -45,7 +45,7 @@ nserver:      P1.DNS.SA 2001:500:14:6041:ad:0:0:1 204.61.216.41
 nserver:      S1.DNS.SA 2001:16a0:1:3002:0:0:0:2 37.107.223.170
 nserver:      S2.DNS.SA 2001:16a0:2:3002:0:0:0:2 37.107.255.170
 nserver:      SH1.DNS.SA 213.236.36.92 2a02:d70:64:68:0:0:0:2
-ds-rdata:     35065 8 2 349fbddb7899686446d9e2b534cc5ffe33b5a73a84b93555d0e905710e284eb0
+ds-rdata:     10444 8 2 ade9d322eace5b4843bec6973fccc5862bf52238076c973adbd7f166543eb298
 
 whois:        whois.nic.net.sa
 
@@ -53,6 +53,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.net.sa/
 
 created:      2010-05-05
-changed:      2022-10-06
+changed:      2023-03-07
 source:       IANA
 
