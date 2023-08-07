@@ -17,7 +17,7 @@ address:      10 Pasir Panjang Road
 address:      #03-01 Mapletree Business City
 address:      Singapore 117438
 address:      Singapore
-phone:        +65 6659 2534 
+phone:        +65 6659 2534
 e-mail:       dna@sgnic.sg
 
 contact:      technical
@@ -35,7 +35,7 @@ nserver:      DSANY2.SGNIC.SG 185.159.197.170 2620:10a:80aa:0:0:0:0:170
 nserver:      DSANY3.SGNIC.SG 185.159.198.170 2620:10a:80ab:0:0:0:0:170
 nserver:      NS4.APNIC.NET 2001:dd8:12:0:0:0:0:53 202.12.31.53
 nserver:      PCH.SGZONES.SG 2001:500:14:6057:ad:0:0:1 204.61.216.57
-ds-rdata:     46664 8 2 B9E9522B9E345FD54E73E8EBF3D3CFFF9A09189FED03F5106D8EE3E345FB80B5
+ds-rdata:     46664 8 2 b9e9522b9e345fd54e73e8ebf3d3cfff9a09189fed03f5106d8ee3e345fb80b5
 
 whois:        whois.sgnic.sg
 
