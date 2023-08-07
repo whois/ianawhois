@@ -5,15 +5,16 @@
 domain:       MOTO
 
 organisation: Motorola Trademark Holdings, LLC
-address:      222 West Merchandise Mart Plaza, Suite #1800, Chicago, IL 60654
-address:      United States
+address:      222 West Merchandise Mart Plaza, Suite #1800
+address:      Chicago IL 60654
+address:      United States of America (the)
 
 contact:      administrative
 name:         Brian J. Winterfeldt
 organisation: Winterfeldt IP Group PLLC
 address:      1200 17th Street NW, Suite 501
-address:      Washington, DC 20036
-address:      United States
+address:      Washington DC 20036
+address:      United States of America (the)
 phone:        +1 202 903 4422
 e-mail:       motorola@winterfeldt.law
 
@@ -21,8 +22,8 @@ contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
 address:      2155 E GoDaddy Way
-address:      Tempe, AZ 85284
-address:      United States
+address:      Tempe AZ 85284
+address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
@@ -33,7 +34,9 @@ nserver:      NS3.DNS.NIC.MOTO 156.154.171.81 2610:a1:1073:0:0:0:1:51
 nserver:      NS4.DNS.NIC.MOTO 156.154.172.81 2610:a1:1074:0:0:0:1:51
 nserver:      NS5.DNS.NIC.MOTO 156.154.173.81 2610:a1:1075:0:0:0:1:51
 nserver:      NS6.DNS.NIC.MOTO 156.154.174.81 2610:a1:1076:0:0:0:1:51
-ds-rdata:     10705 8 2 A039B06852099A6B4E7EAFE4F4187F6D3B5747953413CE454EAD9A4576301C5F
+ds-rdata:     10705 8 2 a039b06852099a6b4e7eafe4f4187f6d3b5747953413ce454ead9a4576301c5f
+
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: http://www.motorola.com
