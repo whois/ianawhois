@@ -5,41 +5,39 @@
 domain:       SEEK
 
 organisation: Seek Limited
-address:      Level 6, 541
-address:      St. Kilda Road
-address:      Melbourne
-address:      VIC 3004
+address:      Level 6
+address:      541 St. Kilda Road
+address:      Melbourne VIC 3004
 address:      Australia
 
 contact:      administrative
-name:         TLD Tech Admin
+name:         Project & Process Manager
 organisation: CSC Digital Brand Services
 address:      2711 Centerville Rd
 address:      Suite 400
-address:      Wilmington
-address:      DE 19808
-address:      United States
-phone:        +1.3026365400
-fax-no:       +1.3026365454
-e-mail:       ngtlds-tech@cscinfo.com
+address:      Wilmington DE 19808
+address:      United States of America (the)
+phone:        +442070151717
+e-mail:       ngtld-seek@cscinfo.com
 
 contact:      technical
-name:         TLD Tech Admin
+name:         Project & Process Manager
 organisation: CSC Digital Brand Services
 address:      2711 Centerville Rd.
 address:      Suite 400
-address:      Wilmington
-address:      DE 19808
-address:      United States
-phone:        +1.3026365400
-fax-no:       +1.3026365454
-e-mail:       ngtlds-tech@cscinfo.com
+address:      Wilmington DE 19808
+address:      United States of America (the)
+phone:        +442070151717
+e-mail:       ngtld-seek@cscinfo.com
 
 nserver:      A.NIC.SEEK 2001:dcd:1:0:0:0:0:9 37.209.192.9
 nserver:      B.NIC.SEEK 2001:dcd:2:0:0:0:0:9 37.209.194.9
 nserver:      C.NIC.SEEK 2001:dcd:3:0:0:0:0:9 37.209.196.9
-nserver:      D.NIC.SEEK 2001:dcd:4:0:0:0:0:9 37.209.198.9
-ds-rdata:     63859 8 2 E3C3A590CDFCC251B77CD4ADF685FE3CCE8706A0AAECD5421294B9FF2DDF8B48
+nserver:      X.NIC.SEEK 156.154.172.82 2610:a1:1074:0:0:0:1:82
+nserver:      Y.NIC.SEEK 156.154.173.82 2610:a1:1075:0:0:0:1:82
+nserver:      Z.NIC.SEEK 156.154.174.82 2610:a1:1076:0:0:0:1:82
+ds-rdata:     63859 8 2 e3c3a590cdfcc251b77cd4adf685fe3cce8706a0aaecd5421294b9ff2ddf8b48
+ds-rdata:     30781 8 2 91da9a67e40ba21908471a192586de34fe04433fb046a0519708acd7eeb7b9b2
 
 whois:        whois.nic.seek
 
@@ -47,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.seek.com.au/about/
 
 created:      2015-04-16
-changed:      2022-07-21
+changed:      2023-07-31
 source:       IANA
 
