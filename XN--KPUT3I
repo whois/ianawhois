@@ -6,25 +6,27 @@ domain:       手机
 domain-ace:   XN--KPUT3I
 
 organisation: Beijing RITT-Net Technology Development Co., Ltd
-address:      Building 13, Yard 1, Baosheng South Road, Haidian District
-address:      Beijing, Beijing 100083
+address:      Building 13, Yard 1, Baosheng South Road,
+address:      Haidian District
+address:      Beijing 100083
 address:      China
 
 contact:      administrative
-name:         VP
+name:         V P
 organisation: Beijing RITT-Net Technology Development Co., Ltd
-address:      Building 13, Yard 1, Baosheng South Road, Haidian District
-address:      Beijing, Beijing 100083
+address:      Building 13, Yard 1, Baosheng South Road,
+address:      Haidian District
+address:      Beijing 100083
 address:      China
 phone:        +86.1082512114
 fax-no:       +86.1082512114
 e-mail:       contact@rntd.cn
 
 contact:      technical
-name:         VP
-organisation: Chief Engineer
-address:      Building 13, Yard 1, Baosheng South Road, Haidian District
-address:      Beijing, Beijing 100083
+name:         Chief Engineer
+address:      Building 13, Yard 1, Baosheng South Road
+address:      Haidian District
+address:      Beijing 100083
 address:      China
 phone:        +86.1082512114
 fax-no:       +86.1082512114
@@ -34,7 +36,7 @@ nserver:      NS1.TELEINFO.CN 103.61.60.1 2402:7d80:0:0:0:0:0:1
 nserver:      NS2.TELEINFOO.COM 103.61.61.1 2402:7d80:8888:0:0:0:0:1
 nserver:      NS3.TELEINFO.CN 103.61.62.1
 nserver:      NS4.TELEINFOO.COM 103.61.63.1
-ds-rdata:     27565 8 2 A00D06BA7171102D9575F47AF108B70FF9E24CE0D2ED3AD8F8923F14BB58F217
+ds-rdata:     27565 8 2 a00d06ba7171102d9575f47af108b70ff9e24ce0d2ed3ad8f8923f14bb58f217
 
 whois:        whois.nic.xn--kput3i
 
@@ -42,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.rntd.cn
 
 created:      2014-06-05
-changed:      2022-10-18
+changed:      2023-01-19
 source:       IANA
 
