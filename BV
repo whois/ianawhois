@@ -6,7 +6,7 @@ domain:       BV
 
 organisation: Norid A/S
 address:      Abelsgate 5
-address:      Trondheim  N-7465
+address:      Trondheim N-7465
 address:      Norway
 
 contact:      administrative
@@ -34,6 +34,8 @@ nserver:      X.NIC.NO 128.39.8.40 2001:700:0:412f:0:0:0:40
 nserver:      Y.NIC.NO 193.75.4.22 2001:8c0:8200:1:0:0:0:2
 nserver:      Z.NIC.NO 158.38.8.133 2001:700:0:52d:158:38:8:133
 ds-rdata:     33800 13 2 5fa7fb1c36c810cbbeea4557ce1b96175fb14b5e5f400a9d7aa36ba6b60fbd0e
+
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information:
