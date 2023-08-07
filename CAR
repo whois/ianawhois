@@ -5,25 +5,26 @@
 domain:       CAR
 
 organisation: XYZ.COM LLC
-address:      2121 E Tropicana Ave, STE2
-address:      Las Vegas, NV 89119
-address:      United States
+address:      2121 E Tropicana Ave, Suite 2
+address:      Las Vegas NV 89119
+address:      United States of America (the)
 
 contact:      administrative
 name:         General Counsel
 organisation: XYZ.COM LLC
-address:      2121 E Tropicana Ave, STE2
-address:      Las Vegas, NV 89119
-address:      United States
+address:      2121 E Tropicana Ave, Suite 2
+address:      Las Vegas NV 89119
+address:      United States of America (the)
 phone:        +1 702 757 6555
 e-mail:       hello@xyz.com
 
 contact:      technical
 name:         CTO
 organisation: CentralNic
-address:      Saddlers House 4th Floor 44 Gutter Lane
+address:      Saddlers House, 4th Floor
+address:      44 Gutter Lane
 address:      London EC2V 6BR
-address:      United Kingdom
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44 20 33 88 0600
 fax-no:       +44 20 33 88 0601
 e-mail:       tld.ops@centralnic.com
@@ -32,7 +33,7 @@ nserver:      A.NIC.CAR 194.169.218.130 2001:67c:13cc:0:0:0:1:130
 nserver:      B.NIC.CAR 185.24.64.130 2a04:2b00:13cc:0:0:0:1:130
 nserver:      C.NIC.CAR 212.18.248.130 2a04:2b00:13ee:0:0:0:0:130
 nserver:      D.NIC.CAR 212.18.249.130 2a04:2b00:13ff:0:0:0:0:130
-ds-rdata:     6293 5 2 519D12765966B6F6E6BE8236B0A6510B86025FDC7BCBAA1630B8632A9471A4D3
+ds-rdata:     6293 5 2 519d12765966b6f6e6be8236b0a6510b86025fdc7bcbaa1630b8632a9471a4d3
 
 whois:        whois.nic.car
 
