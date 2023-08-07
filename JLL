@@ -5,14 +5,16 @@
 domain:       JLL
 
 organisation: Jones Lang LaSalle Incorporated
-address:      200 E. Randolph Drive, Chicago, IL, 60601
-address:      United States
+address:      200 E. Randolph Drive
+address:      Chicago IL 60601
+address:      United States of America (the)
 
 contact:      administrative
 name:         Senior Corporate Counsel
 organisation: Jones Lang LaSalle Incorporated
-address:      200 E. Randolph Drive, Chicago, IL, 60601
-address:      United States
+address:      200 E. Randolph Drive
+address:      Chicago IL 60601
+address:      United States of America (the)
 phone:        +1 312 228 2269
 fax-no:       +1 312 228 2777
 e-mail:       jllnewgtlds@cscinfo.com
@@ -20,8 +22,10 @@ e-mail:       jllnewgtlds@cscinfo.com
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
 organisation: Afilias
-address:      Building 3, Suite 105, 300 Welsh Road, Horsham, PA, 19044
-address:      United States
+address:      300 Welsh Road
+address:      Building 3, Suite 105
+address:      Horsham PA 19044
+address:      United States of America (the)
 phone:        +1 215 706 5700
 fax-no:       +1 215 706 5701
 e-mail:       tld-tech-poc@afilias.info
