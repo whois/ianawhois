@@ -5,16 +5,17 @@
 domain:       FOX
 
 organisation: FOX Registry, LLC
-address:      1211 Avenue of the Americas, New York, New York 10036
-address:      United States
+address:      1211 Avenue of the Americas
+address:      New York NY 10036
+address:      United States of America (the)
 
 contact:      administrative
 name:         Director, Domain Name Strategy
 organisation: Fox Registry, LLC
 address:      2121 Avenue of the Stars
 address:      Suite 900
-address:      Los Angeles, CA 90067
-address:      United States
+address:      Los Angeles CA 90067
+address:      United States of America (the)
 phone:        +1 310 369 3620
 e-mail:       admin@domains.fox
 
@@ -22,8 +23,8 @@ contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
 address:      2155 E GoDaddy Way
-address:      Tempe, AZ 85284
-address:      United States
+address:      Tempe AZ 85284
+address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
@@ -34,7 +35,7 @@ nserver:      C.NIC.FOX 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.FOX 156.154.144.63 2610:a1:1071:0:0:0:0:3f
 nserver:      NS2.DNS.NIC.FOX 156.154.145.63 2610:a1:1072:0:0:0:0:3f
 nserver:      NS3.DNS.NIC.FOX 156.154.159.63 2610:a1:1073:0:0:0:0:3f
-ds-rdata:     17635 8 2 CE046FBC1B2DE0479BA9624F6344E0D6A22DA6BB2C776A4782BA144F36D05D33
+ds-rdata:     17635 8 2 ce046fbc1b2de0479ba9624f6344e0d6a22da6bb2c776a4782ba144f36d05d33
 
 whois:        whois.nic.fox
 
