@@ -6,14 +6,14 @@ domain:       PL
 
 organisation: Research and Academic Computer Network
 address:      Kolska 12
-address:      01-045 Warsaw
+address:      Warsaw 01-045
 address:      Poland
 
 contact:      administrative
 name:         NASK Admin-C
 organisation: Research and Academic Computer Network
 address:      Kolska 12
-address:      01-045 Warsaw
+address:      Warsaw 01-045
 address:      Poland
 phone:        +48 22 380 8200
 fax-no:       +48 22 380 8201
@@ -23,22 +23,21 @@ contact:      technical
 name:         NASK Tech-C
 organisation: Research and Academic Computer Network
 address:      Kolska 12
-address:      01-045 Warsaw
+address:      Warsaw 01-045
 address:      Poland
 phone:        +48 22 380 8200
 fax-no:       +48 22 380 8201
 e-mail:       pl-tech@dns.pl
 
-nserver:      A-DNS.PL 194.181.87.156 2001:a10:0121:0001:0:0:0:156
+nserver:      A-DNS.PL 192.102.225.53 2001:7f9:0:0:0:0:0:53
 nserver:      B-DNS.PL 192.195.72.53 2001:7f9:c:0:0:0:0:53
-nserver:      C-DNS.PL 2a02:38:14:0:0:0:0:146 93.190.128.146
 nserver:      D-DNS.PL 185.159.197.48 2620:10a:80aa:0:0:0:0:48
 nserver:      E-DNS.PL 46.28.245.82
 nserver:      F-DNS.PL 194.0.25.29 2001:678:20:0:0:0:0:29
-nserver:      G-DNS.PL 149.156.1.252 2001:06d8:1001:1:0:0:0:252
+nserver:      G-DNS.PL 149.156.1.252 2001:6d8:1001:1:0:0:0:252
 nserver:      H-DNS.PL 185.159.198.48 2620:10a:80ab:0:0:0:0:48
-nserver:      I-DNS.PL 156.154.100.15 2001:0502:2eda:0:0:0:0:15
-ds-rdata:     38491 8 2 E6EDF662199A44BE077BD69BE6CE26902F8D22E5875C9F2305866E05560549F2
+nserver:      J-DNS.PL 2001:500:14:7004:ad:0:0:1 204.61.217.4
+ds-rdata:     59899 8 2 914b8a9bdae8efa6b0323ff7f7eb90da985fe63eae0e1cb614cf6d5b116f9c80
 
 whois:        whois.dns.pl
 
@@ -46,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.dns.pl/english/
 
 created:      1990-07-30
-changed:      2022-01-13
+changed:      2023-06-17
 source:       IANA
 
