@@ -6,17 +6,17 @@ domain:       SCHOLARSHIPS
 
 organisation: Scholarships.com, LLC
 address:      513 Central Ave., Suite 300
-address:      Highland Park, Illinois 60035
-address:      United States
+address:      Highland Park IL 60035
+address:      United States of America (the)
 
 contact:      administrative
 name:         CTO
 organisation: Scholarships.com, LLC
 address:      513 Central Ave., Suite 300
-address:      Highland Park, Illinois 60035
-address:      United States
-phone:        847 432 1700 x114
-fax-no:       847 572 8088
+address:      Highland Park IL 60035
+address:      United States of America (the)
+phone:        +1 847 432 1700 x114
+fax-no:       +1 847 572 8088
 e-mail:       djw@scholarships.com
 
 contact:      technical
@@ -24,8 +24,8 @@ name:         Senior Director, DNS Infrastructure Group
 organisation: Afilias
 address:      300 Welsh Road
 address:      Building 3, Suite 105
-address:      Horsham, PA 19044
-address:      United States
+address:      Horsham PA 19044
+address:      United States of America (the)
 phone:        +1 215.706.5700
 fax-no:       +1 215.706.5701
 e-mail:       tld-tech-poc@afilias.info
@@ -42,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.scholarships.com
 
 created:      2014-07-10
-changed:      2022-07-15
+changed:      2023-08-03
 source:       IANA
 
