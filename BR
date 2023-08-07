@@ -5,15 +5,15 @@
 domain:       BR
 
 organisation: Comite Gestor da Internet no Brasil
-address:      Av. das Nações Unidas, 11541, 7° andar
-address:      São Paulo  SP 04578-000
+address:      Av. das Nações Unidas, 11541, 7. andar
+address:      São Paulo SP 04578-000
 address:      Brazil
 
 contact:      administrative
 name:         Demi Getschko
 organisation: Comite Gestor da Internet no Brasil
-address:      Av. das Nações Unidas, 11541, 7° andar
-address:      São Paulo  SP 04578-000
+address:      Av. das Nações Unidas, 11541, 7. andar
+address:      São Paulo SP 04578-000
 address:      Brazil
 phone:        +55 11 5509 3505
 fax-no:       +55 11 5509 3501
@@ -22,8 +22,8 @@ e-mail:       demi@registro.br
 contact:      technical
 name:         Frederico Augusto de Carvalho Neves
 organisation: Registro .br
-address:      Av. das Nações Unidas, 11541, 7° andar
-address:      São Paulo  SP 04578-000
+address:      Av. das Nações Unidas, 11541, 7. andar
+address:      São Paulo SP 04578-000
 address:      Brazil
 phone:        +55 11 5509 3505
 fax-no:       +55 11 5509 3501
@@ -35,7 +35,7 @@ nserver:      C.DNS.BR 200.192.233.10 2001:12f8:a:0:0:0:0:10
 nserver:      D.DNS.BR 200.219.154.10 2001:12f8:4:0:0:0:0:10
 nserver:      E.DNS.BR 200.229.248.10 2001:12f8:2:0:0:0:0:10
 nserver:      F.DNS.BR 200.219.159.10 2001:12f8:c:0:0:0:0:10
-ds-rdata:     2471 13 2 5E4F35998B8F909557FA119C4CBFDCA2D660A26F069EF006B403758A07D1A2E4
+ds-rdata:     2471 13 2 5e4f35998b8f909557fa119c4cbfdca2d660a26f069ef006b403758a07d1a2e4
 
 whois:        whois.registro.br
 
