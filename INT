@@ -8,7 +8,7 @@ organisation: Internet Assigned Numbers Authority
 address:      12025 Waterfront Drive
 address:      Suite 300
 address:      Los Angeles CA 90094
-address:      United States
+address:      United States of America (the)
 
 contact:      administrative
 name:         Internet Assigned Numbers Authority
@@ -16,7 +16,7 @@ organisation: ICANN
 address:      12025 Waterfront Drive
 address:      Suite 300
 address:      Los Angeles CA 90094
-address:      United States
+address:      United States of America (the)
 phone:        +1 310 301 5800
 fax-no:       +1 310 823 8649
 e-mail:       tld-contact@iana.org
@@ -27,7 +27,7 @@ organisation: ICANN
 address:      12025 Waterfront Drive
 address:      Suite 300
 address:      Los Angeles CA 90094
-address:      United States
+address:      United States of America (the)
 phone:        +1 310 301 5800
 fax-no:       +1 310 823 8649
 e-mail:       tld-contact@iana.org
@@ -44,9 +44,9 @@ whois:        whois.iana.org
 
 status:       ACTIVE
 remarks:      Registration information:
-remarks:      http://www.iana.org/domains/int
+remarks:      https://www.iana.org/domains/int
 
 created:      1988-11-03
-changed:      2018-03-30
+changed:      2022-12-13
 source:       IANA
 
