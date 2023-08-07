@@ -5,14 +5,16 @@
 domain:       CPA
 
 organisation: American Institute of Certified Public Accountants
-address:      220 Leigh Farm Road, Durham, North Carolina 27707-8110
-address:      United States
+address:      220 Leigh Farm Road
+address:      Durham NC 27707-8110
+address:      United States of America (the)
 
 contact:      administrative
 name:         Domain Operator
 organisation: CPA.com
-address:      PO Box 4836, New York, NY 10185
-address:      United States
+address:      PO Box 4836
+address:      New York NY 10185
+address:      United States of America (the)
 phone:        408-653-4400
 fax-no:       408-653-4500
 e-mail:       domains@hq.cpa.com
@@ -20,8 +22,9 @@ e-mail:       domains@hq.cpa.com
 contact:      technical
 name:         Domain Operator
 organisation: CPA.com
-address:      PO Box 4836, New York, NY 10185
-address:      United States
+address:      PO Box 4836
+address:      New York NY 10185
+address:      United States of America (the)
 phone:        408-653-4400
 fax-no:       408-653-4500
 e-mail:       domains@hq.cpa.com
@@ -29,15 +32,18 @@ e-mail:       domains@hq.cpa.com
 nserver:      A.NIC.CPA 2001:dcd:1:0:0:0:0:9 37.209.192.9
 nserver:      B.NIC.CPA 2001:dcd:2:0:0:0:0:9 37.209.194.9
 nserver:      C.NIC.CPA 2001:dcd:3:0:0:0:0:9 37.209.196.9
-nserver:      D.NIC.CPA 2001:dcd:4:0:0:0:0:9 37.209.198.9
-ds-rdata:     25351 8 2 A5062C23EF5598A091792978FD4F5BA6729A9A30BFCF880FC1CC7D0708A3313D
+nserver:      X.NIC.CPA 156.154.172.82 2610:a1:1074:0:0:0:1:82
+nserver:      Y.NIC.CPA 156.154.173.82 2610:a1:1075:0:0:0:1:82
+nserver:      Z.NIC.CPA 156.154.174.82 2610:a1:1076:0:0:0:1:82
+ds-rdata:     25351 8 2 a5062c23ef5598a091792978fd4f5ba6729a9a30bfcf880fc1cc7d0708a3313d
+ds-rdata:     6397 8 2 ddf80b47684502eb3921d4fe2b9307cd49f14bd1a896bf694cae0ed767666cbc
 
 whois:        whois.nic.cpa
 
 status:       ACTIVE
-remarks:      Registration information: http://www.aicpa.org
+remarks:      Registration information: https://www.cpa.com
 
 created:      2019-09-11
-changed:      2022-07-21
+changed:      2023-07-30
 source:       IANA
 
