@@ -5,24 +5,27 @@
 domain:       SBS
 
 organisation: SPECIAL BROADCASTING SERVICE CORPORATION
-address:      14 HERBERT STREET ARTARMON, NEW SOUTH WALES - 2064
+address:      14 Herbert Street
+address:      Artarmon NSW 2064
 address:      Australia
 
 contact:      administrative
 name:         Manager, Strategy & Innovation
 organisation: SPECIAL BROADCASTING SERVICE CORPORATION
-address:      14 HERBERT STREET ARTARMON NEW SOUTH WALES - 2064
+address:      14 Herbert Street
+address:      Artarmon NSW 2064
 address:      Australia
-phone:        +612 9430 3047 
-fax-no:       +612 9430 3047 
+phone:        +612 9430 3047
+fax-no:       +612 9430 3047
 e-mail:       ngtld-sbs@cscinfo.com
 
 contact:      technical
 name:         CTO
 organisation: CentralNic
-address:      Saddlers House 4th Floor 44 Gutter Lane
+address:      Saddlers House, 4th Floor
+address:      44 Gutter Lane
 address:      London EC2V 6BR
-address:      United Kingdom
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44 20 33 88 0600
 fax-no:       +44 20 33 88 0601
 e-mail:       tld.ops@centralnic.com
@@ -31,8 +34,8 @@ nserver:      A.NIC.SBS 194.169.218.127 2001:67c:13cc:0:0:0:1:127
 nserver:      B.NIC.SBS 185.24.64.127 2a04:2b00:13cc:0:0:0:1:127
 nserver:      C.NIC.SBS 212.18.248.127 2a04:2b00:13ee:0:0:0:0:127
 nserver:      D.NIC.SBS 212.18.249.127 2a04:2b00:13ff:0:0:0:0:127
-ds-rdata:     49074 8 2 DBDB6A00E2AAC5F3C8EE371B1E46F69DA8BF7B985F837CDB9FAC21BEEE2F7FCF
-ds-rdata:     56056 8 2 EF6D326E9513EA4C07F99A08AFCDC5F3D9E3F6EB73000AF57D6FC3DECA1CA31C
+ds-rdata:     49074 8 2 dbdb6a00e2aac5f3c8ee371b1e46f69da8bf7b985f837cdb9fac21beee2f7fcf
+ds-rdata:     56056 8 2 ef6d326e9513ea4c07f99a08afcdc5f3d9e3f6eb73000af57d6fc3deca1ca31c
 
 whois:        whois.nic.sbs
 
