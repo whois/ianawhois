@@ -5,14 +5,16 @@
 domain:       TUSHU
 
 organisation: Amazon Registry Services, Inc.
-address:      410 Terry Avenue North, Seattle, WA
-address:      United States
+address:      410 Terry Avenue North
+address:      Seattle WA 98109
+address:      United States of America (the)
 
 contact:      administrative
 name:         Program Manager, Registry
 organisation: Amazon Registry Services, Inc.
-address:      410 Terry Avenue North, Seattle, WA
-address:      United States
+address:      410 Terry Avenue North
+address:      Seattle WA 98109
+address:      United States of America (the)
 phone:        +1 206 646 5990
 fax-no:       +1 206 946 7702
 e-mail:       tushu-rzm@amazon.com
@@ -20,12 +22,11 @@ e-mail:       tushu-rzm@amazon.com
 contact:      technical
 name:         TLD Registry Services Technical
 organisation: Nominet
-address:      Minerva House,
-address:      Edmund Halley Road,
-address:      Oxford Science Park,
-address:      Oxford
-address:      OX4 4DQ
-address:      United Kingdom
+address:      Minerva House
+address:      Edmund Halley Road
+address:      Oxford Science Park
+address:      Oxford OX4 4DQ
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44.1865332211
 e-mail:       registrytechnical@nominet.uk
 
@@ -37,7 +38,7 @@ nserver:      DNSA.NIC.TUSHU 156.154.100.3 2001:502:ad09:0:0:0:0:3
 nserver:      DNSB.NIC.TUSHU 156.154.101.3 2001:502:2eda:0:0:0:0:3
 nserver:      DNSC.NIC.TUSHU 156.154.102.3 2610:a1:1009:0:0:0:0:3
 nserver:      DNSD.NIC.TUSHU 156.154.103.3 2610:a1:1010:0:0:0:0:3
-ds-rdata:     38627 8 2 81D6D592C13F144D74BBDE9D4A93531338245E9AC1781EEC826D4B610947D1A2
+ds-rdata:     38627 8 2 81d6d592c13f144d74bbde9d4a93531338245e9ac1781eec826d4b610947d1a2
 
 whois:        whois.nic.tushu
 
