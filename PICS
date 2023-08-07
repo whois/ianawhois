@@ -6,15 +6,15 @@ domain:       PICS
 
 organisation: XYZ.COM LLC
 address:      2121 E Tropicana Ave, Suite 2
-address:      Las Vegas, NV 89119
-address:      United States
+address:      Las Vegas NV 89119
+address:      United States of America (the)
 
 contact:      administrative
 name:         General Counsel
 organisation: XYZ.COM LLC
 address:      2121 E Tropicana Ave, Suite 2
-address:      Las Vegas, NV 89119
-address:      United States
+address:      Las Vegas NV 89119
+address:      United States of America (the)
 phone:        +1 702 763 2191
 e-mail:       hello@xyz.com
 
@@ -24,7 +24,7 @@ organisation: CentralNic
 address:      Saddlers House, 4th Floor
 address:      44 Gutter Lane
 address:      London EC2V 6BR
-address:      United Kingdom
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44 20 33 88 0600
 fax-no:       +44 20 33 88 0601
 e-mail:       tld.ops@centralnic.com
@@ -33,10 +33,10 @@ nserver:      A.NIC.PICS 194.169.218.151 2001:67c:13cc:0:0:0:1:151
 nserver:      B.NIC.PICS 185.24.64.151 2a04:2b00:13cc:0:0:0:1:151
 nserver:      C.NIC.PICS 212.18.248.151 2a04:2b00:13ee:0:0:0:0:151
 nserver:      D.NIC.PICS 212.18.249.151 2a04:2b00:13ff:0:0:0:0:151
-ds-rdata:     7408 5 2 02F6C4FF7037230837665A072A51779019771C19626E233465A9CAB5EB69CEE1
-ds-rdata:     46651 5 2 5DDC0142062A06775E6DF86A868A0262C740A484FF29FC22AEC48116D6FD5860
-ds-rdata:     7408 5 1 79F063399B4C13CA29EA8F68FF98D9D4EFF59B59
-ds-rdata:     46651 5 1 5A09C2C9B674B46AE6A49255DE9FECB7D999467B
+ds-rdata:     7408 5 2 02f6c4ff7037230837665a072a51779019771c19626e233465a9cab5eb69cee1
+ds-rdata:     46651 5 2 5ddc0142062a06775e6df86a868a0262c740a484ff29fc22aec48116d6fd5860
+ds-rdata:     7408 5 1 79f063399b4c13ca29ea8f68ff98d9d4eff59b59
+ds-rdata:     46651 5 1 5a09c2c9b674b46ae6a49255de9fecb7d999467b
 ds-rdata:     3458 5 1 356a302c72add225e8dbf542fd8851bfa458b1ae
 ds-rdata:     3458 5 2 a32c380766b5205f998872b8187a99ac5027872da54b0ddec2edfbefc6279b89
 
