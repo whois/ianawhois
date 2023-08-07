@@ -7,7 +7,8 @@ domain:       STC
 organisation: Saudi Telecom Company
 address:      8214 Al Imam Saud Ibn Abdul Aziz Branch Road
 address:      Al Mursalat
-address:      PO Box 87912 Riyadh - 11652
+address:      PO Box 87912
+address:      Riyadh 11652
 address:      Saudi Arabia
 
 contact:      administrative
@@ -15,7 +16,7 @@ name:         Director of Legal and Policy
 organisation: CentralNic
 address:      35-39 Moorgate
 address:      London EC2R 6AR
-address:      United Kingdom
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44.2033880600
 fax-no:       +44.2033880601
 e-mail:       stc.admin@centralnic.com
@@ -23,9 +24,10 @@ e-mail:       stc.admin@centralnic.com
 contact:      technical
 name:         CTO
 organisation: CentralNic
-address:      Saddlers House 4th Floor 44 Gutter Lane
+address:      Saddlers House, 4th Floor
+address:      44 Gutter Lane
 address:      London EC2V 6BR
-address:      United Kingdom
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44 20 33 88 0600
 fax-no:       +44 20 33 88 0601
 e-mail:       tld.ops@centralnic.com
@@ -34,8 +36,8 @@ nserver:      A.NIC.STC 194.169.218.29 2001:67c:13cc:0:0:0:1:29
 nserver:      B.NIC.STC 185.24.64.29 2a04:2b00:13cc:0:0:0:1:29
 nserver:      C.NIC.STC 212.18.248.29 2a04:2b00:13ee:0:0:0:0:29
 nserver:      D.NIC.STC 212.18.249.29 2a04:2b00:13ff:0:0:0:0:29
-ds-rdata:     42226 8 1 8956D12E91DC98337231BA5B16F75AD766051947
-ds-rdata:     42226 8 2 79A9D1A91D2DD8F3BCA16221E6FF11E7E5E852E63D0C3756F6E73F94296B12AB
+ds-rdata:     42226 8 1 8956d12e91dc98337231ba5b16f75ad766051947
+ds-rdata:     42226 8 2 79a9d1a91d2dd8f3bca16221e6ff11e7e5e852e63d0c3756f6e73f94296b12ab
 
 whois:        whois.nic.stc
 
