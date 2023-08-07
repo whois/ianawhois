@@ -5,15 +5,17 @@
 domain:       TD
 
 organisation: l'Agence de Développement des Technologies de l'Information et de la Communication (ADETIC)
-address:      Rue du colonel Hassan MOURSAL KOURDA
-address:      Ndjamena 240
+address:      Rue du Colonel Hassan Moursal Kourda
+address:      P.O. Box 240
+address:      N'Djamena
 address:      Chad
 
 contact:      administrative
 name:         Ingenieur en Réseaux Telecoms
 organisation: ADETIC
-address:      Rue du colonel Hassan MOURSAL KOURDA
-address:      Ndjamena 240
+address:      Rue du Colonel Hassan Moursal Kourda
+address:      P.O. Box 240
+address:      N'Djamena
 address:      Chad
 phone:        +235 63 31 90 90
 e-mail:       abatcha.moussa@adetic.td
@@ -21,8 +23,9 @@ e-mail:       abatcha.moussa@adetic.td
 contact:      technical
 name:         Ingenieur Systéme
 organisation: ADETIC
-address:      Rue du Colonel Hassan MOURSAL KOURDA
-address:      Ndjamena 240
+address:      Rue du Colonel Hassan Moursal Kourda
+address:      P.O. Box 240
+address:      N'Djamena
 address:      Chad
 phone:        +235 66 23 16 68
 e-mail:       mahamat.hamid@adetic.td
@@ -38,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.td
 
 created:      1997-11-03
-changed:      2022-08-15
+changed:      2023-01-18
 source:       IANA
 
