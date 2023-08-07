@@ -6,19 +6,19 @@ domain:       GDN
 
 organisation: Joint Stock Company "Navigation-information systems"
 address:      Building 14th, Office # 107
-address:      Dubai Internet City,
-address:      P.O. Box 111230,
+address:      Dubai Internet City
+address:      P.O. Box 111230
 address:      Dubai
-address:      United Arab Emirates
+address:      United Arab Emirates (the)
 
 contact:      administrative
 name:         Muhammad Kausar Saleem
 organisation: GDN Registry FZ LLC
 address:      Building 14th, Office # 107
-address:      Dubai Internet City,
-address:      P.O. Box 111230,
+address:      Dubai Internet City
+address:      P.O. Box 111230
 address:      Dubai
-address:      United Arab Emirates
+address:      United Arab Emirates (the)
 phone:        +14169980932
 e-mail:       kausar@gdnregistry.com
 
@@ -26,18 +26,18 @@ contact:      technical
 name:         Muhammad Kausar Saleem
 organisation: GDN Registry FZ LLC
 address:      Building 14th, Office # 107
-address:      Dubai Internet City,
-address:      P.O. Box 111230,
+address:      Dubai Internet City
+address:      P.O. Box 111230
 address:      Dubai
-address:      United Arab Emirates
+address:      United Arab Emirates (the)
 phone:        +14169980932
 e-mail:       kausar@gdnregistry.com
 
 nserver:      NS1.NIC.GDN 194.0.25.18 2001:678:20:0:0:0:0:18
 nserver:      NS3.NIC.GDN 194.0.26.11 2001:67c:10e0:0:0:0:0:11
 nserver:      NS4.NIC.GDN 194.0.24.11 2001:678:24:0:0:0:0:11
-ds-rdata:     25276 8 1 F04FCF71CC66F4662E234316F3B47E74E03AEA1A
-ds-rdata:     30307 8 1 7A16BF5938B9FE7CF2AC5BE9C472E81443944686
+ds-rdata:     30307 8 1 7a16bf5938b9fe7cf2ac5be9c472e81443944686
+ds-rdata:     28906 8 1 157427e9d56b06de066a0bee607c2f3314b85fea
 
 whois:        whois.nic.gdn
 
@@ -45,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.gdn
 
 created:      2014-12-04
-changed:      2022-06-02
+changed:      2023-05-09
 source:       IANA
 
