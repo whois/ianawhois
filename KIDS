@@ -5,15 +5,17 @@
 domain:       KIDS
 
 organisation: DotKids Foundation Limited
-address:      12/F, Daily House, 35-37 Haiphong Road
-address:      Tsim Sha Tsui, Kowloon
+address:      12/F, Daily House
+address:      35-37 Haiphong Road
+address:      Tsim Sha Tsui Kowloon
 address:      Hong Kong
 
 contact:      administrative
 name:         DotKids Administrative Contact
 organisation: DotKids Foundation Ltd.
-address:      12/F, Daily House, 35-37 Haiphong Road
-address:      Tsim Sha Tsui, Kowloon
+address:      12/F, Daily House
+address:      35-37 Haiphong Road
+address:      Tsim Sha Tsui Kowloon
 address:      Hong Kong
 phone:        +852 8171 1714
 fax-no:       +852 2125 8484
@@ -23,9 +25,8 @@ contact:      technical
 name:         Senior Director, DNS Infrastructure Group
 organisation: Donuts Inc.
 address:      10500 NE 8th Street, Suite 750
-address:      Bellevue, WA
-address:      98004
-address:      United States
+address:      Bellevue WA 98004
+address:      United States of America (the)
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
 e-mail:       tldtech@donuts.email
@@ -36,12 +37,12 @@ nserver:      B0.NIC.KIDS 2a01:8840:a7:0:0:0:0:17 65.22.173.17
 nserver:      C0.NIC.KIDS 2a01:8840:a8:0:0:0:0:17 65.22.174.17
 ds-rdata:     11536 8 2 0ade57b3836da5e4ce75aed8a7cd64b58e7d68a813d10cd94453d11f60a3ecee
 
-whois:        whois.afilias-srs.net
+whois:        whois.nic.kids
 
 status:       ACTIVE
 remarks:      Registration information: https://www.dotkids.asia
 
 created:      2022-03-05
-changed:      2022-04-07
+changed:      2023-08-03
 source:       IANA
 
