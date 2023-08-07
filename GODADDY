@@ -5,16 +5,17 @@
 domain:       GODADDY
 
 organisation: Go Daddy East, LLC
-address:      14455 N Hayden Road, Suite #219
-address:      Scottsdale, AZ 85260
-address:      United States
+address:      14455 N Hayden Road
+address:      Suite #219
+address:      Scottsdale AZ 85260
+address:      United States of America (the)
 
 contact:      administrative
 name:         IANA Contact
 organisation: Go Daddy
 address:      2155 E GoDaddy Way
-address:      Tempe, AZ 85284
-address:      United States
+address:      Tempe AZ 85284
+address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 393 4275
 e-mail:       iana@registry.godaddy
@@ -23,8 +24,8 @@ contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
 address:      2155 E GoDaddy Way
-address:      Tempe, AZ 85284
-address:      United States
+address:      Tempe AZ 85284
+address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
@@ -35,7 +36,7 @@ nserver:      C.NIC.GODADDY 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      X.NIC.GODADDY 156.154.172.82 2610:a1:1074:0:0:0:1:82
 nserver:      Y.NIC.GODADDY 156.154.173.82 2610:a1:1075:0:0:0:1:82
 nserver:      Z.NIC.GODADDY 156.154.174.82 2610:a1:1076:0:0:0:1:82
-ds-rdata:     29332 8 2 2C52023CFFCCD5FB2D7C4567840E0A06E2360B2A5090BC0DDD9E7B30CB4803B5
+ds-rdata:     29332 8 2 2c52023cffccd5fb2d7c4567840e0a06e2360b2a5090bc0ddd9e7b30cb4803b5
 
 whois:        whois.nic.godaddy
 
