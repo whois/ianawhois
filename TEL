@@ -6,17 +6,15 @@ domain:       TEL
 
 organisation: Telnames Ltd.
 address:      16 Charles II Street
-address:      London
-address:      SW1Y 4NW
-address:      United Kingdom
+address:      London SW1Y 4NW
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 
 contact:      administrative
 name:         TLD Administrative Contact
 organisation: Telnames Ltd.
 address:      16 Charles II Street
-address:      London
-address:      SW1Y 4NW
-address:      United Kingdom
+address:      London SW1Y 4NW
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44 20 7467 6450
 fax-no:       +44 20 7467 6451
 e-mail:       tld-admin-contact@registry.nic.tel
@@ -25,9 +23,8 @@ contact:      technical
 name:         TLD Technical Contact
 organisation: Telnames Ltd
 address:      16 Charles II Street
-address:      London
-address:      SW1Y 4NW
-address:      United Kingdom
+address:      London SW1Y 4NW
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44 20 7467 6450
 fax-no:       +44 20 7467 6451
 e-mail:       tld-tech-contact@registry.nic.tel
@@ -40,7 +37,7 @@ nserver:      NS5.DNS.NIC.TEL 156.154.173.10 2610:a1:1075:0:0:0:1:a
 nserver:      NS6.DNS.NIC.TEL 156.154.174.10 2610:a1:1076:0:0:0:1:a
 nserver:      NS7.DNS.NIC.TEL 194.146.106.38 2001:67c:1010:9:0:0:0:53
 nserver:      NS8.DNS.NIC.TEL 192.36.144.116 2a01:3f0:0:300:0:0:0:53
-ds-rdata:     46924 8 2 3F708AF9FC2D9FA7E09AC99FA19BD6D1B4B0F3F5D95DD06BA2DC95B0AA2E53F8
+ds-rdata:     46924 8 2 3f708af9fc2d9fa7e09ac99fa19bd6d1b4b0f3f5d95dd06ba2dc95b0aa2e53f8
 
 whois:        whois.nic.tel
 
