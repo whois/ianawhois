@@ -6,14 +6,14 @@ domain:       NOKIA
 
 organisation: Nokia Corporation
 address:      Karaportti 3
-address:      Espoo, FI-02610
+address:      Espoo 02610
 address:      Finland
 
 contact:      administrative
 name:         Senior Legal Counsel
 organisation: Nokia Corporation
 address:      Karakaari 7
-address:      Espoo, FI-02610
+address:      Espoo 02610
 address:      Finland
 phone:        +358 0 10 44 88 000
 fax-no:       +358 0 10 44 81 002
@@ -22,9 +22,10 @@ e-mail:       dnsauthority@nokia.com
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
 organisation: Afilias
-address:      Building 3, Suite 105 300 Welsh Road
-address:      Horsham, PA 19044
-address:      United States
+address:      300 Welsh Road
+address:      Building 3, Suite 105
+address:      Horsham PA 19044
+address:      United States of America (the)
 phone:        +1 215 706 5700
 fax-no:       +1 215 706 5701
 e-mail:       tld-tech-poc@afilias.info
