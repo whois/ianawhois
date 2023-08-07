@@ -6,14 +6,16 @@ domain:       ارامكو
 domain-ace:   XN--MGBA3A3EJT
 
 organisation: Aramco Services Company
-address:      9009 West Loop South, Houston, TX  77096
-address:      United States
+address:      9009 West Loop South
+address:      Houston TX 77096
+address:      United States of America (the)
 
 contact:      administrative
 name:         Coleman Works
 organisation: Aramco Services Company
-address:      9009 West Loop South, Houston, TX  77096
-address:      United States
+address:      9009 West Loop South
+address:      Houston TX 77096
+address:      United States of America (the)
 phone:        +1-713-432-8532
 fax-no:       +1-713-432-8309
 e-mail:       coleman.works@aramcoservices.com
@@ -22,8 +24,8 @@ contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
 address:      2155 E GoDaddy Way
-address:      Tempe, AZ 85284
-address:      United States
+address:      Tempe AZ 85284
+address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
@@ -34,7 +36,9 @@ nserver:      NS3.DNS.NIC.XN--MGBA3A3EJT 156.154.159.15 2610:a1:1073:0:0:0:0:f
 nserver:      NS4.DNS.NIC.XN--MGBA3A3EJT 156.154.156.15 2610:a1:1074:0:0:0:0:f
 nserver:      NS5.DNS.NIC.XN--MGBA3A3EJT 156.154.157.15 2610:a1:1075:0:0:0:0:f
 nserver:      NS6.DNS.NIC.XN--MGBA3A3EJT 156.154.158.15 2610:a1:1076:0:0:0:0:f
-ds-rdata:     60499 8 2 31728B6312E2EEC4D09535252D0B46F6FDB80969882CD9E76D0320F3A2E37798
+ds-rdata:     60499 8 2 31728b6312e2eec4d09535252d0b46f6fdb80969882cd9e76d0320f3a2e37798
+
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: http://www.aramco.com
