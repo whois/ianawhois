@@ -7,7 +7,8 @@ domain:       NZ
 organisation: InternetNZ
 address:      Level 13
 address:      18 Willis Street
-address:      Wellington  6011
+address:      Wellington Central
+address:      Wellington 6011
 address:      New Zealand
 
 contact:      administrative
@@ -15,7 +16,8 @@ name:         Tumuwhanake | GM Customer and Product
 organisation: InternetNZ
 address:      Level 13
 address:      18 Willis Street
-address:      Wellington  6011
+address:      Wellington Central
+address:      Wellington 6011
 address:      New Zealand
 phone:        +64 21 417 903
 e-mail:       iana@internetnz.net.nz
@@ -25,7 +27,8 @@ name:         .NZ Operations Manager
 organisation: InternetNZ
 address:      Level 13
 address:      18 Willis Street
-address:      Wellington  6011
+address:      Wellington Central
+address:      Wellington 6011
 address:      New Zealand
 phone:        +64 21 783 399
 e-mail:       ianatech@internetnz.net.nz
@@ -39,6 +42,7 @@ nserver:      NS6.DNS.NET.NZ 185.159.198.130 2620:10a:80ab:0:0:0:0:130
 nserver:      NS7.DNS.NET.NZ 194.146.106.54 2001:67c:1010:13:0:0:0:53
 ds-rdata:     49157 8 2 44628e9bf710b40d5a5b19087a119eaf2c0b5ced7e7ba4268f4fc35bef14b1c0
 ds-rdata:     13646 8 2 569b1bae369fd18f03d088fba91bd58a830e4e21d2c96155ced267544cac14b1
+ds-rdata:     63529 8 2 65c9663eacc1ad314058a5a7b127d409d144bba9a58ec0b6a7f4f028574df47b
 
 whois:        whois.irs.net.nz
 
@@ -46,6 +50,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.dnc.org.nz/
 
 created:      1987-01-19
-changed:      2022-11-01
+changed:      2023-05-26
 source:       IANA
 
