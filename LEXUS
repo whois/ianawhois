@@ -6,32 +6,25 @@ domain:       LEXUS
 
 organisation: TOYOTA MOTOR CORPORATION
 address:      1 Toyota-Cho
-address:      Toyota-shi
-address:      Aichi
-address:      471-8571
+address:      Toyota-shi Aichi 471-8571
 address:      Japan
 
 contact:      administrative
 name:         Chief Operating Officer
-organisation: Brights Consulting Inc.
-address:      30F
-address:      Kasumigaseki Bldg.
-address:      3-2-5 Kasumigaseki
-address:      Chiyoda-ku
-address:      Tokyo
-address:      100-6030
+organisation: GMO BRAND SECURITY Inc.
+address:      Cerulean Tower 26-1 Sakuragaoka-cho
+address:      Shibuya-ku Tokyo 150-8512
 address:      Japan
-phone:        +81.355210107
-fax-no:       +81.355210117
-e-mail:       nakagawa_19@brights.jp
+phone:        +81.357841069
+fax-no:       +81.334625040
+e-mail:       registry@brightsconsulting.com
 
 contact:      technical
 name:         Director
 organisation: GMO Registry, Inc.
-address:      Cerulean Tower 26-1 Sakuragaoka-cho
-address:      Shibuya-ku
-address:      Tokyo
-address:      150-8512
+address:      Cerulean Tower
+address:      26-1 Sakuragaoka-cho
+address:      Shibuya-ku Tokyo 150-8512
 address:      Japan
 phone:        +81.354561601
 fax-no:       +81.337805239
@@ -49,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://lexus.jp/
 
 created:      2015-07-16
-changed:      2019-08-20
+changed:      2023-06-20
 source:       IANA
 
