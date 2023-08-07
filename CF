@@ -6,15 +6,15 @@ domain:       CF
 
 organisation: Societe Centrafricaine de Telecommunications (SOCATEL)
 address:      Rue guerillot
-address:      Bangui  BP 939
-address:      Central African Republic
+address:      Bangui BP 939
+address:      Central African Republic (the)
 
 contact:      administrative
 name:         Directeur General
 organisation: Societe Centrafricaine de Telecommunications (SOCATEL)
 address:      Rue guerillot
-address:      Bangui  BP 939
-address:      Central African Republic
+address:      Bangui BP 939
+address:      Central African Republic (the)
 phone:        +236 21 61 60 64
 fax-no:       +236 21 61 44 72
 e-mail:       dg-socatel@socatel.cf
@@ -23,9 +23,8 @@ contact:      technical
 name:         Manager ICT
 organisation: Centrafrique TLD B.V.
 address:      Danzigerkade 23D
-address:      Amsterdam
-address:      NH  1013 AP
-address:      Netherlands
+address:      Amsterdam NH 1013 AP
+address:      Netherlands (the)
 phone:        +31 20 5315726
 fax-no:       +31 20 5315721
 e-mail:       info@centrafriquetld.com
