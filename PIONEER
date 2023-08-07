@@ -5,7 +5,8 @@
 domain:       PIONEER
 
 organisation: Pioneer Corporation
-address:      28-8, Honkomagome 2-chome, Bunkyo-ku, Tokyo 113-0021
+address:      28-8, Honkomagome 2-chome
+address:      Bunkyo-ku Tokyo 113-0021
 address:      Japan
 
 contact:      administrative
@@ -13,7 +14,7 @@ name:         Domain Manager
 organisation: Valideus
 address:      28-30 Little Russell Street
 address:      London WC1A 2HN
-address:      United Kingdom
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44 2074218299
 fax-no:       +44 8700118187
 e-mail:       technical@valideus.com
@@ -21,12 +22,11 @@ e-mail:       technical@valideus.com
 contact:      technical
 name:         TLD Registry Services Technical
 organisation: Nominet
-address:      Minerva House,
-address:      Edmund Halley Road,
-address:      Oxford Science Park,
-address:      Oxford
-address:      OX4 4DQ
-address:      United Kingdom
+address:      Minerva House
+address:      Edmund Halley Road
+address:      Oxford Science Park
+address:      Oxford OX4 4DQ
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44.1865332211
 e-mail:       registrytechnical@nominet.uk
 
@@ -38,7 +38,7 @@ nserver:      DNSA.NIC.PIONEER 156.154.100.3 2001:502:ad09:0:0:0:0:3
 nserver:      DNSB.NIC.PIONEER 156.154.101.3 2001:502:2eda:0:0:0:0:3
 nserver:      DNSC.NIC.PIONEER 156.154.102.3 2610:a1:1009:0:0:0:0:3
 nserver:      DNSD.NIC.PIONEER 156.154.103.3 2610:a1:1010:0:0:0:0:3
-ds-rdata:     52502 8 2 4C7837526065FAD0933B836EFBF1694B16E9C38115A1AD0317BCC4BA599FB367
+ds-rdata:     52502 8 2 4c7837526065fad0933b836efbf1694b16e9c38115a1ad0317bcc4ba599fb367
 
 whois:        whois.nic.pioneer
 
