@@ -5,24 +5,25 @@
 domain:       TEVA
 
 organisation: Teva Pharmaceutical Industries Limited
-address:      5 Basel Street Petach Tikva – 49131, Israel
+address:      5 Basel Street
+address:      Petach Tikva 49131
 address:      Israel
 
 contact:      administrative
 name:         Domain Manager
 organisation: Teva Pharmaceutical Industries Limited
 address:      425 Privet Road
-address:      Horsham, Pennsylvania 19044
-address:      United States
-phone:        +1 215 293 6509 
+address:      Horsham PA 19044
+address:      United States of America (the)
+phone:        +1 215 293 6509
 e-mail:       domainadmincorp@teva.co.il
 
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
 address:      2155 E GoDaddy Way
-address:      Tempe, AZ 85284
-address:      United States
+address:      Tempe AZ 85284
+address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
@@ -33,7 +34,7 @@ nserver:      C.NIC.TEVA 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.TEVA 156.154.144.160 2610:a1:1071:0:0:0:0:a0
 nserver:      NS2.DNS.NIC.TEVA 156.154.145.160 2610:a1:1072:0:0:0:0:a0
 nserver:      NS3.DNS.NIC.TEVA 156.154.159.160 2610:a1:1073:0:0:0:0:a0
-ds-rdata:     46417 8 2 7E670079255665759E954DEF033D30AAA2DABB07CF77ECA7F27975FD03E0CFC8
+ds-rdata:     46417 8 2 7e670079255665759e954def033d30aaa2dabb07cf77eca7f27975fd03e0cfc8
 
 whois:        whois.nic.teva
 
