@@ -6,15 +6,15 @@ domain:       VERISIGN
 
 organisation: VeriSign, Inc.
 address:      12061 Bluemont Way
-address:      Reston Virginia 20190
-address:      United States
+address:      Reston VA 20190
+address:      United States of America (the)
 
 contact:      administrative
 name:         Bonnie Bryant
 organisation: Verisign, Inc.
 address:      12061 Bluemont Way
-address:      Reston, Virginia 20190
-address:      United States
+address:      Reston VA 20190
+address:      United States of America (the)
 phone:        +1-703-925-6999
 fax-no:       +1-703-948-3978
 e-mail:       info@verisign-grs.com
@@ -23,8 +23,8 @@ contact:      technical
 name:         Bonnie Bryant
 organisation: Verisign, Inc.
 address:      12061 Bluemont Way
-address:      Reston, Virginia 20190
-address:      United States
+address:      Reston VA 20190
+address:      United States of America (the)
 phone:        +1-703-925-6999
 fax-no:       +1-703-948-3978
 e-mail:       info@verisign-grs.com
@@ -33,7 +33,7 @@ nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
 nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
 nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
 nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
-ds-rdata:     34740 8 2 7468287539BBB69B7D1FCE14B16E16B6F75B6A1A8E50832DC333FD0F177C633F
+ds-rdata:     34740 8 2 7468287539bbb69b7d1fce14b16e16b6f75b6a1a8e50832dc333fd0f177c633f
 
 whois:        whois.nic.verisign
 
@@ -41,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.verisign.com/
 
 created:      2015-11-06
-changed:      2019-08-14
+changed:      2020-10-01
 source:       IANA
 
