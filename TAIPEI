@@ -5,13 +5,15 @@
 domain:       TAIPEI
 
 organisation: Taipei City Government
-address:      No.1, City Hall Rd., Xinyi District, Taipei City 11008
+address:      No.1, City Hall Rd., Xinyi District
+address:      Taipei City 11008
 address:      Taiwan
 
 contact:      administrative
 name:         Yung-Ching Chang
 organisation: Taipei City Government
-address:      No.1, City Hall Rd., Xinyi District, Taipei City 11008
+address:      No.1, City Hall Rd., Xinyi District
+address:      Taipei City 11008
 address:      Taiwan
 phone:        886 2 2725 8584
 fax-no:       886 2 2758 7388
@@ -21,8 +23,8 @@ contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
 address:      2155 E GoDaddy Way
-address:      Tempe, AZ 85284
-address:      United States
+address:      Tempe AZ 85284
+address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
@@ -33,7 +35,7 @@ nserver:      C.NIC.TAIPEI 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      NS1.DNS.NIC.TAIPEI 156.154.144.156 2610:a1:1071:0:0:0:0:9c
 nserver:      NS2.DNS.NIC.TAIPEI 156.154.145.156 2610:a1:1072:0:0:0:0:9c
 nserver:      NS3.DNS.NIC.TAIPEI 156.154.159.156 2610:a1:1073:0:0:0:0:9c
-ds-rdata:     45859 8 2 1D7533B060B299291E2C060FE110169784881081BBC7738AA4B7A774F4DC4746
+ds-rdata:     45859 8 2 1d7533b060b299291e2c060fe110169784881081bbc7738aa4b7a774f4dc4746
 
 whois:        whois.nic.taipei
 
