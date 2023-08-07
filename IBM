@@ -6,25 +6,25 @@ domain:       IBM
 
 organisation: International Business Machines Corporation
 address:      New Orchard Road
-address:      Armonk, NY 10504
-address:      United States
+address:      Armonk NY 10504
+address:      United States of America (the)
 
 contact:      administrative
 name:         Engineering Manager
 organisation: International Business Machines Corporation
 address:      North Castle Drive
-address:      Armonk, NY 10504
-address:      United States
-phone:        +1-914-765-4227 
-fax-no:       +1-914-765-4390 
+address:      Armonk NY 10504
+address:      United States of America (the)
+phone:        +1-914-765-4227
+fax-no:       +1-914-765-4390
 e-mail:       ngtld-ibm@cscinfo.com
 
 contact:      technical
 name:         Engineering Manager
 organisation: International Business Machines Corporation
 address:      1228 Euclid Ave., 9th Floor
-address:      Cleveland, OH 44115
-address:      United States
+address:      Cleveland OH 44115
+address:      United States of America (the)
 phone:        +1.7204309191
 fax-no:       +1.8454913606
 e-mail:       ngtld-ibm@cscinfo.com
@@ -32,8 +32,11 @@ e-mail:       ngtld-ibm@cscinfo.com
 nserver:      A.NIC.IBM 2001:dcd:1:0:0:0:0:9 37.209.192.9
 nserver:      B.NIC.IBM 2001:dcd:2:0:0:0:0:9 37.209.194.9
 nserver:      C.NIC.IBM 2001:dcd:3:0:0:0:0:9 37.209.196.9
-nserver:      D.NIC.IBM 2001:dcd:4:0:0:0:0:9 37.209.198.9
-ds-rdata:     31492 8 2 5E5CCD88746B4CDF018723A143EC14D9FB139F0009545AD21CA6AAB2E1E914E2
+nserver:      X.NIC.IBM 156.154.172.82 2610:a1:1074:0:0:0:1:82
+nserver:      Y.NIC.IBM 156.154.173.82 2610:a1:1075:0:0:0:1:82
+nserver:      Z.NIC.IBM 156.154.174.82 2610:a1:1076:0:0:0:1:82
+ds-rdata:     31492 8 2 5e5ccd88746b4cdf018723a143ec14d9fb139f0009545ad21ca6aab2e1e914e2
+ds-rdata:     9955 8 2 8bd095c8717fc998d47cb36565c650ccade45531991bc5956e121e803f8b5fc9
 
 whois:        whois.nic.ibm
 
@@ -41,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.ibm.com
 
 created:      2014-09-25
-changed:      2022-07-21
+changed:      2023-07-31
 source:       IANA
 
