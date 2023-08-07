@@ -6,13 +6,14 @@ domain:       PR
 
 organisation: Gauss Research Laboratory Inc.
 address:      Calle Vesta 801
-address:      San Juan  00923
+address:      San Juan 00923
 address:      Puerto Rico
 
 contact:      administrative
 name:         Registry Administrative Contact
 organisation: Gauss Research Laboratory Inc.
-address:      #4 Georgetti, Río Piedras, San Juan, PR 00925
+address:      #4 Georgetti, Río Piedras
+address:      San Juan PR 00925
 address:      Puerto Rico
 phone:        +1-787-281-0455
 e-mail:       admin@nic.pr
@@ -20,7 +21,8 @@ e-mail:       admin@nic.pr
 contact:      technical
 name:         Registry Technical Contact
 organisation: Gauss Research Laboratory Inc.
-address:      #4 Georgetti, Río Piedras, San Juan, PR 00925
+address:      #4 Georgetti, Río Piedras
+address:      San Juan PR 00925
 address:      Puerto Rico
 phone:        +1-787-281-0455
 e-mail:       admin@nic.pr
@@ -41,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.pr
 
 created:      1989-08-27
-changed:      2020-11-23
+changed:      2022-07-20
 source:       IANA
 
