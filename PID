@@ -5,16 +5,16 @@
 domain:       PID
 
 organisation: Top Level Spectrum, Inc.
-address:      1845 W Mercer Way
-address:      Mercer Island, WA 98040
-address:      United States
+address:      1845 West Mercer Way
+address:      Mercer Island WA 98040
+address:      United States of America (the)
 
 contact:      administrative
 name:         Jay Westerdal
 organisation: Top Level Spectrum, Inc.
-address:      1845 W Mercer Way
-address:      Mercer Island, WA 98040
-address:      United States
+address:      1845 West Mercer Way
+address:      Mercer Island WA 98040
+address:      United States of America (the)
 phone:        +1.206-397-8825
 fax-no:       +1.206-238-1232
 e-mail:       contact@topspectrum.com
@@ -25,7 +25,7 @@ organisation: CentralNic
 address:      Saddlers House, 4th Floor
 address:      44 Gutter Lane
 address:      London EC2V 6BR
-address:      United Kingdom
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44 20 33 88 0600
 fax-no:       +44 20 33 88 0601
 e-mail:       tld.ops@centralnic.com
@@ -34,7 +34,7 @@ nserver:      A.NIC.PID 194.169.218.47 2001:67c:13cc:0:0:0:1:47
 nserver:      B.NIC.PID 185.24.64.47 2a04:2b00:13cc:0:0:0:1:47
 nserver:      C.NIC.PID 212.18.248.47 2a04:2b00:13ee:0:0:0:0:47
 nserver:      D.NIC.PID 212.18.249.47 2a04:2b00:13ff:0:0:0:0:47
-ds-rdata:     35396 8 2 E8653B5C02C27CC66FD56D529656C23DA9DC0231F060D527E231659F9EF27964
+ds-rdata:     35396 8 2 e8653b5c02c27cc66fd56d529656c23da9dc0231f060d527e231659f9ef27964
 
 whois:        whois.nic.pid
 
