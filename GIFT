@@ -5,27 +5,25 @@
 domain:       GIFT
 
 organisation: Uniregistry, Corp.
-address:      Third Floor, Monaco Towers, Georgetown
-address:      Grand Cayman, Cayman Islands
-address:      30369SMB-KY11202
-address:      Cayman Islands
+address:      Third Floor, Monaco Towers
+address:      George Town Grand Cayman 30369SMB-KY11202
+address:      Cayman Islands (the)
 
 contact:      administrative
 name:         Frank Schilling
 organisation: UNR Corp.
-address:      Third Floor, Monaco Towers, Georgetown
-address:      Grand Cayman, Cayman Islands
-address:      30369SMB-KY11202
-address:      Cayman Islands
-phone:        +1 345 746 3687 
-fax-no:       +1 345 746 3687 
+address:      Third Floor, Monaco Towers
+address:      George Town Grand Cayman 30369SMB-KY11202
+address:      Cayman Islands (the)
+phone:        +1 345 746 3687
+fax-no:       +1 345 746 3687
 e-mail:       contact@unr.com
 
 contact:      technical
 name:         Francisco Obispo
 organisation: Tucows Inc
 address:      96 Mowat Avenue
-address:      Toronto, Ontario M6K3M1
+address:      Toronto ON M6K3M1
 address:      Canada
 phone:        +1.949.903.3449
 e-mail:       trs-ops@tucows.com
@@ -34,7 +32,7 @@ nserver:      NS1.UNIREGISTRY.NET 2620:57:4000:1:0:0:0:1 64.96.1.1
 nserver:      NS2.UNIREGISTRY.INFO 64.96.2.1
 nserver:      NS3.UNIREGISTRY.NET 185.159.197.3 2620:10a:80aa:0:0:0:0:3
 nserver:      NS4.UNIREGISTRY.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
-ds-rdata:     45508 13 2 EEA1DC9AE9E1BD91256962BFB0D639C8DF881E8C56981B667FFFC27DAF293A6B
+ds-rdata:     45508 13 2 eea1dc9ae9e1bd91256962bfb0d639c8df881e8c56981b667fffc27daf293a6b
 
 whois:        whois.uniregistry.net
 
@@ -42,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://uniregistry.link
 
 created:      2014-01-09
-changed:      2022-09-08
+changed:      2022-11-22
 source:       IANA
 
