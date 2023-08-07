@@ -6,15 +6,15 @@ domain:       BLOOMBERG
 
 organisation: Bloomberg IP Holdings LLC
 address:      25 E. 78th Street
-address:      New York, New York  10075
-address:      United States
+address:      New York NY 10075
+address:      United States of America (the)
 
 contact:      administrative
 name:         Attorney
 organisation: Bloomberg IP Holdings LLC
 address:      731 Lexington Avenue
-address:      New York, New York  10022
-address:      United States
+address:      New York NY 10022
+address:      United States of America (the)
 phone:        +1 212 617 7816
 fax-no:       +1 917 522 2727
 e-mail:       ngtld-bloomberg@cscinfo.com
@@ -23,8 +23,8 @@ contact:      technical
 name:         Registry Customer Service
 organisation: Verisign, Inc.
 address:      12061 Bluemont Way
-address:      Reston, Virginia 20190
-address:      United States
+address:      Reston VA 20190
+address:      United States of America (the)
 phone:        1-703-925-6999
 fax-no:       1-703-948-3978
 e-mail:       info@verisign-grs.com
@@ -33,11 +33,14 @@ nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
 nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
 nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
 nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
-ds-rdata:     46338 8 2 98A66BE30959371E15EAF5D4A65ADA3393050610A2E5B7AE321B694C876258C9
+ds-rdata:     46338 8 2 98a66be30959371e15eaf5d4a65ada3393050610a2e5b7ae321b694c876258c9
+
+whois:        
 
 status:       ACTIVE
+remarks:      Registration information: 
 
 created:      2014-10-16
-changed:      2020-01-31
+changed:      2020-10-01
 source:       IANA
 
