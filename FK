@@ -6,16 +6,16 @@ domain:       FK
 
 organisation: Falkland Islands Government
 address:      Ross Road
-address:      Stanley  FIQQ 1ZZ
-address:      Falkland Islands (malvinas)
+address:      Stanley FIQQ 1ZZ
+address:      Falkland Islands (the) [Malvinas]
 
 contact:      administrative
 name:         Communications Regulator
 organisation: Falkland Islands Government
 address:      Legal & Regulation Directorate
-address:      Stanley  FIQQ 1ZZ
-address:      Falkland Islands (malvinas)
-phone:        +500 28459
+address:      Stanley FIQQ 1ZZ
+address:      Falkland Islands (the) [Malvinas]
+phone:        +500 28460
 fax-no:       +500 27306
 e-mail:       regulator.telecoms@sec.gov.fk
 
@@ -23,20 +23,22 @@ contact:      technical
 name:         IP Networks Manager
 organisation: Sure South Atlantic Ltd.
 address:      Ross Road
-address:      Stanley  FIQQ 1ZZ
-address:      Falkland Islands (malvinas)
+address:      Stanley FIQQ 1ZZ
+address:      Falkland Islands (the) [Malvinas]
 phone:        + 500 20800
 fax-no:       + 500 20890
-e-mail:       ipn.support@sure.co.fk
+e-mail:       mark.street@sure.com
 
 nserver:      NS1.HORIZON.NET.FK 80.73.216.250
 nserver:      NS2.HORIZON.NET.FK 80.73.216.251
-nserver:      NS3.HORIZON.NET.FK 93.187.151.193
+nserver:      NS3.HORIZON.NET.FK 93.187.151.42
+
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: http://www.sure.co.fk
 
 created:      1997-03-26
-changed:      2020-01-24
+changed:      2023-03-24
 source:       IANA
 
