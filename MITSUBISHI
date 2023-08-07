@@ -5,24 +5,26 @@
 domain:       MITSUBISHI
 
 organisation: Mitsubishi Corporation
-address:      3-1, Marunouchi 2-Chome, Chiyoda-ku Tokyo - 100-8086 JP
+address:      3-1, Marunouchi 2-Chome
+address:      Chiyoda-ku Tokyo 100-8086
 address:      Japan
 
 contact:      administrative
 name:         Chief Operating Officer
-organisation: GMO Brights Consulting Inc.
+organisation: GMO BRAND SECURITY Inc.
 address:      Cerulean Tower 26-1 Sakuragaoka-cho
 address:      Shibuya-ku Tokyo 150-8512
 address:      Japan
-phone:        +81355210107
-fax-no:       +81355210117
-e-mail:       nakagawa_17@brights.jp
+phone:        +81.357841069
+fax-no:       +81.334625040
+e-mail:       registry@brightsconsulting.com
 
 contact:      technical
 name:         Director
 organisation: GMO Registry, Inc.
-address:      Cerulean Tower 26-1 Sakuragaoka-cho
-address:      Shibuya-ku Tokyo 150-8512 Japan (JP)
+address:      Cerulean Tower
+address:      26-1 Sakuragaoka-cho
+address:      Shibuya-ku Tokyo 150-8512
 address:      Japan
 phone:        +81354561601
 fax-no:       +81337805239
@@ -40,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.gmoregistry.com/en/
 
 created:      2016-06-24
-changed:      2019-07-13
+changed:      2023-06-20
 source:       IANA
 
