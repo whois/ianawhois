@@ -6,15 +6,15 @@ domain:       TM
 
 organisation: TM Domain Registry Ltd
 address:      180-182 Tottenham Court Road
-address:      London  W1T 7PD
-address:      United Kingdom
+address:      London W1T 7PD
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 
 contact:      administrative
 name:         Batyr Karryev
 organisation: TM Domain Registry Ltd
 address:      180-182 Tottenham Court Road
-address:      London  W1T 7PD
-address:      United Kingdom
+address:      London W1T 7PD
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +993 12 398729
 fax-no:       +993 12 353692
 e-mail:       batyr@nic.tm
@@ -23,8 +23,8 @@ contact:      technical
 name:         Hostmaster
 organisation: TM Domain Registry Ltd
 address:      180-182 Tottenham Court Road
-address:      London  W1T 7PD
-address:      United Kingdom
+address:      London W1T 7PD
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 fax-no:       +44 1225 580 550
 e-mail:       hostmaster@nic.tm
 
@@ -35,7 +35,7 @@ nserver:      NS-A4.TM 74.116.179.22
 nserver:      NS-D1.TM 2607:feb8:0:0:0:0:5:8 64.251.31.180
 nserver:      NS-L1.TM 2001:470:1f1d:244:0:0:0:44 80.249.100.44
 nserver:      NS-Y1.TM 2001:470:1f07:d0b:0:0:0:22 91.208.95.22
-ds-rdata:     36787 8 2 AF4A3A54AA5F73C114F9C6E4D9C3EF0040E387806A9F92AE85276FF38F33BCB5
+ds-rdata:     36787 8 2 af4a3a54aa5f73c114f9c6e4d9c3ef0040e387806a9f92ae85276ff38f33bcb5
 
 whois:        whois.nic.tm
 
