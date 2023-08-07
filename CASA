@@ -7,14 +7,14 @@ domain:       CASA
 organisation: Registry Services, LLC
 address:      2155 E. GoDaddy Way
 address:      Tempe AZ 85284
-address:      United States
+address:      United States of America (the)
 
 contact:      administrative
 name:         IANA Contact
 organisation: GoDaddy Registry
 address:      2155 E GoDaddy Way
 address:      Tempe AZ 85284
-address:      United States
+address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
 e-mail:       iana@registry.godaddy
@@ -22,8 +22,9 @@ e-mail:       iana@registry.godaddy
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way, Tempe AZ 85284 US
-address:      United States
+address:      2155 E GoDaddy Way
+address:      Tempe AZ 85284
+address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
 e-mail:       iana@registry.godaddy
@@ -31,8 +32,10 @@ e-mail:       iana@registry.godaddy
 nserver:      A.NIC.CASA 2001:dcd:1:0:0:0:0:10 37.209.192.10
 nserver:      B.NIC.CASA 2001:dcd:2:0:0:0:0:10 37.209.194.10
 nserver:      C.NIC.CASA 2001:dcd:3:0:0:0:0:10 37.209.196.10
-nserver:      D.NIC.CASA 2001:dcd:4:0:0:0:0:10 37.209.198.10
-ds-rdata:     12820 8 2 DFD8771512E3E5D525FCBEF9BC186FDA12797D20977A41CB663DCD18D8E38CEA
+nserver:      X.NIC.CASA 156.154.172.82 2610:a1:1074:0:0:0:1:82
+nserver:      Y.NIC.CASA 156.154.173.82 2610:a1:1075:0:0:0:1:82
+nserver:      Z.NIC.CASA 156.154.174.82 2610:a1:1076:0:0:0:1:82
+ds-rdata:     12820 8 2 dfd8771512e3e5d525fcbef9bc186fda12797d20977a41cb663dcd18d8e38cea
 
 whois:        whois.nic.casa
 
@@ -40,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.casa/
 
 created:      2014-08-18
-changed:      2022-07-18
+changed:      2022-12-01
 source:       IANA
 
