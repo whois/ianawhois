@@ -5,14 +5,16 @@
 domain:       PWC
 
 organisation: PricewaterhouseCoopers LLP
-address:      1 Embankment Place, London, GB, WC2N 6RH
-address:      United Kingdom
+address:      1 Embankment Place
+address:      London WC2N 6RH
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 
 contact:      administrative
 name:         Head of Online
 organisation: PricewaterhouseCoopers LLP
-address:      1 Embankment Place, London, GB, WC2N 6RH
-address:      United Kingdom
+address:      1 Embankment Place
+address:      London WC2N 6RH
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44 (0)20 7583 5000
 fax-no:       +44 (0)20 7822 4652
 e-mail:       ngtld-pwc@cscglobal.com
@@ -20,8 +22,10 @@ e-mail:       ngtld-pwc@cscglobal.com
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
 organisation: Afilias
-address:      Building 3, Suite 105, 300 Welsh Road, Horsham, PA 19044
-address:      United States
+address:      300 Welsh Road
+address:      Building 3, Suite 105
+address:      Horsham PA 19044
+address:      United States of America (the)
 phone:        +1 215.706.5700
 fax-no:       +1 215.706.5701
 e-mail:       tld-tech-poc@afilias.info
