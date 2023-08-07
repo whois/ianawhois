@@ -6,15 +6,15 @@ domain:       BA
 
 organisation: Universtiy Telinformatic Centre (UTIC)
 address:      Zmaja od Bosne 8 (objekat 33)
-address:      Sarajevo  71000
-address:      Bosnia And Herzegovina
+address:      Sarajevo 71000
+address:      Bosnia and Herzegovina
 
 contact:      administrative
 name:         Aida Radielovic
 organisation: University Teleinformatic Centre (UTIC)
 address:      Zmaja od Bosne 8 (objekat 33)
-address:      Sarajevo  71000
-address:      Bosnia And Herzegovina
+address:      Sarajevo 71000
+address:      Bosnia and Herzegovina
 phone:        +387 33 560 240
 fax-no:       +387 33 213 773
 e-mail:       dnsadmin@utic.net.ba
@@ -23,8 +23,8 @@ contact:      technical
 name:         Sanel Sefer
 organisation: University Teleinformatic Centre (UTIC)
 address:      Zmaja od Bosne 8 (objekat 33)
-address:      Sarajevo  71000
-address:      Bosnia And Herzegovina
+address:      Sarajevo 71000
+address:      Bosnia and Herzegovina
 phone:        +387 33 560 240
 fax-no:       +387 33 213 773
 e-mail:       dnstech@utic.net.ba
@@ -32,6 +32,8 @@ e-mail:       dnstech@utic.net.ba
 nserver:      NS.BA 195.130.35.5
 nserver:      SAVA.UTIC.NET.BA 195.130.35.3
 nserver:      UNA.UTIC.NET.BA 2001:500:14:6117:ad:0:0:1 204.61.216.117
+
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: http://www.nic.ba
