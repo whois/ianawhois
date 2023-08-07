@@ -5,7 +5,7 @@
 domain:       GN
 
 organisation: Centre National des Sciences Halieutiques de Boussoura
-address:      BP1984
+address:      BP 1984
 address:      Conakry
 address:      Guinea
 
@@ -22,8 +22,8 @@ e-mail:       mxkeita@gmail.com
 contact:      technical
 name:         Randy Bush
 address:      5147 Crystal Springs Drive NE
-address:      Bainbridge Island, WA  98110
-address:      United States
+address:      Bainbridge Island WA 98110
+address:      United States of America (the)
 phone:        +1 206 356 8341
 e-mail:       randy@psg.com
 
@@ -31,6 +31,8 @@ nserver:      FORK.STH.DNSNODE.NET 2a01:3f0:0:306:0:0:0:53 77.72.229.254
 nserver:      NS-GN.AFRINIC.NET 196.216.168.49 2001:43f8:120:0:0:0:0:49
 nserver:      RIP.PSG.COM 147.28.0.39 2001:418:1:0:0:0:0:39
 ds-rdata:     38486 8 2 4d9b33859b77bab1986ceaacc6e4a0534cdee69ac5e406c6d082c9314e0fce66
+
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: http://psg.com/dns/gn
