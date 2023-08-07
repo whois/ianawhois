@@ -5,17 +5,16 @@
 domain:       BUZZ
 
 organisation: DOTSTRATEGY CO.
-address:      1920 Centennial Club Drive,
-address:      Conway,
-address:      AR 72034
-address:      United States
+address:      1920 Centennial Club Dr.
+address:      Conway AR 72034
+address:      United States of America (the)
 
 contact:      administrative
 name:         William Doshier
 organisation: dotStrategy, Co
-address:      1920 Centennial Club Dr.,
-address:      Conway, AR 72034
-address:      United States
+address:      1920 Centennial Club Dr.
+address:      Conway AR 72034
+address:      United States of America (the)
 phone:        5013529385
 fax-no:       5015683834
 e-mail:       bill@nameshops.com
@@ -24,8 +23,8 @@ contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
 address:      2155 E GoDaddy Way
-address:      Tempe, AZ 85284
-address:      United States
+address:      Tempe AZ 85284
+address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
@@ -36,7 +35,9 @@ nserver:      C.NIC.BUZZ 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      NS1.DNS.NIC.BUZZ 156.154.144.29 2610:a1:1071:0:0:0:0:1d
 nserver:      NS2.DNS.NIC.BUZZ 156.154.145.29 2610:a1:1072:0:0:0:0:1d
 nserver:      NS3.DNS.NIC.BUZZ 156.154.159.29 2610:a1:1073:0:0:0:0:1d
-ds-rdata:     21817 8 2 EEA009D624A40B9AFAA8F0FA040A3D0FC900AB565E27AA90CEBB67B481C9816C
+ds-rdata:     21817 8 2 eea009d624a40b9afaa8f0fa040a3d0fc900ab565e27aa90cebb67b481c9816c
+
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: http://www.buzznames.biz
