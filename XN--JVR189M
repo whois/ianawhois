@@ -6,14 +6,16 @@ domain:       食品
 domain-ace:   XN--JVR189M
 
 organisation: Amazon Registry Services, Inc.
-address:      410 Terry Avenue North, Seattle, WA  98109
-address:      United States
+address:      410 Terry Avenue North
+address:      Seattle WA 98109
+address:      United States of America (the)
 
 contact:      administrative
 name:         Carolyn Mitchell
 organisation: Amazon Registry Services, Inc.
-address:      410 Terry Avenue North, Seattle, WA  98109
-address:      United States
+address:      410 Terry Avenue North
+address:      Seattle WA 98109
+address:      United States of America (the)
 phone:        +1 206 646 5990
 fax-no:       +1-206-946-7702
 e-mail:       food-rzm@amazon.com
@@ -22,8 +24,8 @@ contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
 address:      2155 E GoDaddy Way
-address:      Tempe, AZ 85284
-address:      United States
+address:      Tempe AZ 85284
+address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
@@ -34,7 +36,9 @@ nserver:      C.NIC.XN--JVR189M 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      NS1.DNS.NIC.XN--JVR189M 156.154.169.72 2610:a1:1071:0:0:0:1:48
 nserver:      NS2.DNS.NIC.XN--JVR189M 156.154.170.72 2610:a1:1072:0:0:0:1:48
 nserver:      NS3.DNS.NIC.XN--JVR189M 156.154.171.72 2610:a1:1073:0:0:0:1:48
-ds-rdata:     29656 8 2 77FEB7DB568A4783B12ECB6DECAD2A0C7EF4C02E6CA448305380B2B4FFF29867
+ds-rdata:     29656 8 2 77feb7db568a4783b12ecb6decad2a0c7ef4c02e6ca448305380b2b4fff29867
+
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: http://www.amazonregistry.com
