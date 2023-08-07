@@ -5,35 +5,34 @@
 domain:       PHILIPS
 
 organisation: Koninklijke Philips N.V.
-address:      High Tech Campus 5,
-address:      5656AE, Eindhoven
-address:      Netherlands
+address:      High Tech Campus 5
+address:      Eindhoven 5656AE
+address:      Netherlands (the)
 
 contact:      administrative
-name:         Ingrid Baele
-organisation: Philips Intellectual Property and Standards
-address:      High Tech Campus 5,
-address:      5656AE, Eindhoven
-address:      Netherlands
-phone:        +31402740552
-fax-no:       +31402743489
-e-mail:       baele.i@philips.com
+name:         Project & Process Manager
+address:      High Tech Campus 5
+address:      Eindhoven 5656AE
+address:      Netherlands (the)
+phone:        +442070151717
+e-mail:       ngtld-philips@cscinfo.com
 
 contact:      technical
-name:         Wiel Deguelle
-organisation: Philips Intellectual Property and Standards
-address:      High Tech Campus 5,
-address:      5656AE, Eindhoven
-address:      Netherlands
-phone:        +31622470330
-fax-no:       +31402743489
-e-mail:       wiel.deguelle@philips.com
+name:         Project & Process Manager
+address:      High Tech Campus 5
+address:      Eindhoven 5656AE
+address:      Netherlands (the)
+phone:        +442070151717
+e-mail:       ngtld-philips@cscinfo.com
 
 nserver:      A.NIC.PHILIPS 2001:dcd:1:0:0:0:0:9 37.209.192.9
 nserver:      B.NIC.PHILIPS 2001:dcd:2:0:0:0:0:9 37.209.194.9
 nserver:      C.NIC.PHILIPS 2001:dcd:3:0:0:0:0:9 37.209.196.9
-nserver:      D.NIC.PHILIPS 2001:dcd:4:0:0:0:0:9 37.209.198.9
-ds-rdata:     3100 8 2 FA65D969B695C8E73DDC89724CAE9D83E352B23B57CF5571FD711E2627026638
+nserver:      X.NIC.PHILIPS 156.154.172.82 2610:a1:1074:0:0:0:1:82
+nserver:      Y.NIC.PHILIPS 156.154.173.82 2610:a1:1075:0:0:0:1:82
+nserver:      Z.NIC.PHILIPS 156.154.174.82 2610:a1:1076:0:0:0:1:82
+ds-rdata:     3100 8 2 fa65d969b695c8e73ddc89724cae9d83e352b23b57cf5571fd711e2627026638
+ds-rdata:     40792 8 2 c71972943a57973e364eaf29f7562f99cf426f5786e2be3f28f7da685cd47059
 
 whois:        whois.nic.philips
 
@@ -41,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.philips
 
 created:      2015-02-05
-changed:      2022-07-21
+changed:      2023-07-31
 source:       IANA
 
