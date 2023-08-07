@@ -7,7 +7,7 @@ domain:       ES
 organisation: Red.es
 address:      Edificio Bronce
 address:      Plaza Manuel Gomez Moreno
-address:      Madrid  28020
+address:      Madrid 28020
 address:      Spain
 
 contact:      administrative
@@ -15,18 +15,18 @@ name:         Alberto Martinez Lacambra
 organisation: Red.es
 address:      Edificio Bronce
 address:      Plaza Manuel Gomez Moreno
-address:      Madrid  28020
+address:      Madrid 28020
 address:      Spain
 phone:        +34 91 212 76 24
 fax-no:       +34 91 555 76 64
 e-mail:       esnic-admin@red.es
 
 contact:      technical
-name:         Juan Antonio Gutierrez Gil
+name:         Juan Vicente Rodríguez Pérez
 organisation: Red.es
 address:      Edificio Bronce
-address:      Plaza Manuel Gomez Moreno
-address:      Madrid  28020
+address:      Plaza Manuel Gómez Moreno s/n
+address:      Madrid 28020
 address:      Spain
 phone:        +34 91 212 76 20
 fax-no:       + 34 91 556 88 64
@@ -36,7 +36,7 @@ nserver:      A.NIC.ES 194.69.254.1 2001:67c:21cc:2000:0:0:64:41
 nserver:      C.NIC.ES 194.0.34.53 2001:678:44:0:0:0:0:53
 nserver:      G.NIC.ES 2001:500:14:7001:ad:0:0:1 204.61.217.1
 nserver:      H.NIC.ES 194.0.33.53 2001:678:40:0:0:0:0:53
-ds-rdata:     49852 8 2 d620d9b2db89deac2719014558be3818d962a8128f0880eb4bd7c7ae387d5c17
+ds-rdata:     44375 8 2 9d9858ae981aa53dd1143d93844e3d69b0fb73a9b4fe5759da39e036e754d402
 
 whois:        whois.nic.es
 
@@ -44,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.es/
 
 created:      1988-04-14
-changed:      2022-05-03
+changed:      2023-05-04
 source:       IANA
 
