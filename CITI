@@ -5,15 +5,16 @@
 domain:       CITI
 
 organisation: Citigroup Inc.
-address:      388 Greenwich St New York, New York – 10013 US
-address:      United States
+address:      388 Greenwich St
+address:      New York NY 10013
+address:      United States of America (the)
 
 contact:      administrative
 name:         Head of Legal Policy
 organisation: Com Laude Group
 address:      28-30 Little Russell Street
 address:      London WC1A 2HN
-address:      United Kingdom
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44 (0)20 7421 8250
 fax-no:       +44 (0)87 0011 8187
 e-mail:       primary_citi@valideus.com
@@ -22,8 +23,8 @@ contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
 address:      2155 E GoDaddy Way
-address:      Tempe, AZ 85284
-address:      United States
+address:      Tempe AZ 85284
+address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
@@ -34,7 +35,9 @@ nserver:      C.NIC.CITI 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.CITI 156.154.144.213 2610:a1:1071:0:0:0:0:d5
 nserver:      NS2.DNS.NIC.CITI 156.154.145.213 2610:a1:1072:0:0:0:0:d5
 nserver:      NS3.DNS.NIC.CITI 156.154.159.213 2610:a1:1073:0:0:0:0:d5
-ds-rdata:     49387 8 2 9E8F9D0B17E64BE572031238573F83D2A6FC1EE6C925DDB5062B1698A91D7A2A
+ds-rdata:     49387 8 2 9e8f9d0b17e64be572031238573f83d2a6fc1ee6c925ddb5062b1698a91d7a2a
+
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: http://www.citigroup.com
