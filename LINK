@@ -6,16 +6,14 @@ domain:       LINK
 
 organisation: Nova Registry Ltd.
 address:      136, St. Christopher Street
-address:      Valletta
-address:      VLT1463
+address:      Valletta VLT1463
 address:      Malta
 
 contact:      administrative
 name:         Vaughn Liley
 organisation: Nova Registry Ltd
 address:      136, St. Christopher Street
-address:      Valletta
-address:      VLT1463
+address:      Valletta VLT1463
 address:      Malta
 phone:        +34 686 084 480
 fax-no:       +34 686 084 480
@@ -25,7 +23,7 @@ contact:      technical
 name:         Vice President, Engineering
 organisation: Tucows Inc
 address:      96 Mowat Avenue
-address:      Toronto, Ontario, M6K3M1
+address:      Toronto ON M6K3M1
 address:      Canada
 phone:        +1.949.903.3449
 e-mail:       trs-ops@tucows.com
@@ -34,7 +32,7 @@ nserver:      NS1.UNIREGISTRY.NET 2620:57:4000:1:0:0:0:1 64.96.1.1
 nserver:      NS2.UNIREGISTRY.INFO 64.96.2.1
 nserver:      NS3.UNIREGISTRY.NET 185.159.197.3 2620:10a:80aa:0:0:0:0:3
 nserver:      NS4.UNIREGISTRY.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
-ds-rdata:     16766 13 2 40F1045035D7BA48D27A66442B2C71CA159D219756D3AD4D35CF1E80419228B5
+ds-rdata:     16766 13 2 40f1045035d7ba48d27a66442b2c71ca159d219756d3ad4d35cf1e80419228b5
 
 whois:        whois.uniregistry.net
 
@@ -42,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://uniregistry.link
 
 created:      2014-01-09
-changed:      2022-08-29
+changed:      2022-11-22
 source:       IANA
 
