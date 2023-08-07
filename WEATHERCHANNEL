@@ -6,24 +6,24 @@ domain:       WEATHERCHANNEL
 
 organisation: International Business Machines Corporation
 address:      New Orchard Road
-address:      Armonk, NY 10504
-address:      United States
+address:      Armonk NY 10504
+address:      United States of America (the)
 
 contact:      administrative
 name:         Engineering Manager
 organisation: International Business Machines Corporation
 address:      North Castle Drive
-address:      Armonk, NY 10504
-address:      United States
-phone:        +1-914-765-4227 
-fax-no:       +1-914-765-4390 
+address:      Armonk NY 10504
+address:      United States of America (the)
+phone:        +1-914-765-4227
+fax-no:       +1-914-765-4390
 e-mail:       ngtld-ibm@cscinfo.com
 
 contact:      technical
 name:         Engineering Manager
 address:      2155 E GoDaddy Way
-address:      Tempe, AZ 85284
-address:      United States
+address:      Tempe AZ 85284
+address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
 e-mail:       ngtld-ibm@cscinfo.com
@@ -34,12 +34,15 @@ nserver:      NS3.DNS.NIC.WEATHERCHANNEL 156.154.159.179 2610:a1:1073:0:0:0:0:b3
 nserver:      NS4.DNS.NIC.WEATHERCHANNEL 156.154.156.179 2610:a1:1074:0:0:0:0:b3
 nserver:      NS5.DNS.NIC.WEATHERCHANNEL 156.154.157.179 2610:a1:1075:0:0:0:0:b3
 nserver:      NS6.DNS.NIC.WEATHERCHANNEL 156.154.158.179 2610:a1:1076:0:0:0:0:b3
-ds-rdata:     7789 8 2 79D6DAAEFC15969665F10E9DE136425C117994C302F41CA70F1157BE61FB9384
+ds-rdata:     7789 8 2 79d6daaefc15969665f10e9de136425c117994c302f41ca70f1157be61fb9384
+ds-rdata:     47695 8 2 b2f90e6997386b0411808f05702d0f9ac00f5c0d129262394c86e1ba79977be2
+
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: http://www.weather.com
 
 created:      2016-01-22
-changed:      2022-07-21
+changed:      2023-07-31
 source:       IANA
 
