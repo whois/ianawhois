@@ -6,14 +6,14 @@ domain:       SHAW
 
 organisation: Shaw Cablesystems G.P.
 address:      630 - 3rd Avenue SW
-address:      Calgary, AB T2P 4L4
+address:      Calgary AB T2P 4L4
 address:      Canada
 
 contact:      administrative
 name:         Manager, Network Circuit Design
 organisation: Shaw Cablesystems G.P.
 address:      2728 Hopewell Place NE
-address:      Calgary, Alberta T1Y 7J7
+address:      Calgary AB T1Y 7J7
 address:      Canada
 phone:        +1 403.750.4500
 fax-no:       +1 403.750.4501
@@ -22,10 +22,10 @@ e-mail:       shawicaanglobalsupport@sjrb.ca
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
 organisation: Afilias
-address:      Building 3, Suite 105
 address:      300 Welsh Road
-address:      Horsham, PA 19044
-address:      United States
+address:      Building 3, Suite 105
+address:      Horsham PA 19044
+address:      United States of America (the)
 phone:        +1 215.706.5700
 fax-no:       +1 215.706.5701
 e-mail:       tld-tech-poc@afilias.info
