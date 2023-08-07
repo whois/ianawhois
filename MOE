@@ -5,24 +5,26 @@
 domain:       MOE
 
 organisation: Interlink Systems Innovation Institute K.K.
-address:      1-17-11 Higashi Ikebukuro, Toshima, Tokyo 170-0013
+address:      1-17-11 Higashi Ikebukuro
+address:      Toshima Tokyo 170-0013
 address:      Japan
 
 contact:      administrative
 name:         Jacob Williams
 organisation: Interlink Systems Innovation Institute K.K.
-address:      1-17-11 Higashi Ikebukuro, Toshima, Tokyo 170-0013
+address:      1-17-11 Higashi Ikebukuro
+address:      Toshima Tokyo 170-0013
 address:      Japan
-phone:        81 50-5525-7438
-fax-no:       81 3-5979-2337
+phone:        +81 50-5525-7438
+fax-no:       +81 3-5979-2337
 e-mail:       gtld@interlink.ad.jp
 
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
 address:      2155 E GoDaddy Way
-address:      Tempe, AZ 85284
-address:      United States
+address:      Tempe AZ 85284
+address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
@@ -33,7 +35,7 @@ nserver:      C.NIC.MOE 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      NS1.DNS.NIC.MOE 156.154.144.114 2610:a1:1071:0:0:0:0:72
 nserver:      NS2.DNS.NIC.MOE 156.154.145.114 2610:a1:1072:0:0:0:0:72
 nserver:      NS3.DNS.NIC.MOE 156.154.159.114 2610:a1:1073:0:0:0:0:72
-ds-rdata:     8980 8 2 0107DD039F8BD0049A6803271A15D71793A5234EEF881013701E481774A8BA19
+ds-rdata:     8980 8 2 0107dd039f8bd0049a6803271a15d71793a5234eef881013701e481774a8ba19
 
 whois:        whois.nic.moe
 
@@ -41,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: https://get.moe/
 
 created:      2014-03-13
-changed:      2022-07-21
+changed:      2023-01-18
 source:       IANA
 
