@@ -6,16 +6,16 @@ domain:       CHARITY
 
 organisation: Public Interest Registry (PIR)
 address:      11911 Freedom Drive 10th Floor, Suite 1000
-address:      Reston, VA 20190
-address:      United States
+address:      Reston VA 20190
+address:      United States of America (the)
 
 contact:      administrative
 name:         Director of Operations, Compliance and Customer Support
 organisation: Public Interest Registry (PIR)
-address:      11911 Freedom Drive 10th Floor,
-address:      Suite 1000
-address:      Reston, VA 20190
-address:      United States
+address:      11911 Freedom Drive,
+address:      10th Floor, Suite 1000
+address:      Reston VA 20190
+address:      United States of America (the)
 phone:        1 703 889 5778
 fax-no:       1 703 889 5779
 e-mail:       ops@pir.org
@@ -24,8 +24,8 @@ contact:      technical
 name:         Senior Director, DNS Infrastructure Group
 organisation: Donuts Inc.
 address:      10500 NE 8th Street, Suite 750
-address:      Bellevue, WA 98004
-address:      United States
+address:      Bellevue WA 98004
+address:      United States of America (the)
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
 e-mail:       tldtech@donuts.email
@@ -44,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.charity
 
 created:      2018-05-17
-changed:      2022-06-03
+changed:      2023-01-18
 source:       IANA
 
