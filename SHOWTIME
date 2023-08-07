@@ -5,14 +5,16 @@
 domain:       SHOWTIME
 
 organisation: CBS Domains Inc.
-address:      51 West 52nd Street, New York, NY, 10019
-address:      United States
+address:      51 West 52nd Street
+address:      New York NY 10019
+address:      United States of America (the)
 
 contact:      administrative
 name:         Christopher Niemi
 organisation: MarkMonitor Inc.
-address:      3540 East Longwing Lane, Suite 300, Meridian, ID, 83646
-address:      United States
+address:      3540 East Longwing Lane, Suite 300
+address:      Meridian ID 83646
+address:      United States of America (the)
 phone:        1-208-389-5740
 fax-no:       1-208-389-5771
 e-mail:       dotshowtime@markmonitor.com
@@ -20,8 +22,10 @@ e-mail:       dotshowtime@markmonitor.com
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
 organisation: Afilias
-address:      Building 3, Suite 105, 300 Welsh Road, Horsham, PA, 19044
-address:      United States
+address:      300 Welsh Road
+address:      Building 3, Suite 105
+address:      Horsham PA 19044
+address:      United States of America (the)
 phone:        +1.215.706.5700
 fax-no:       +1.215.706.5701
 e-mail:       tld-tech-poc@afilias.info
@@ -32,12 +36,12 @@ nserver:      B0.NIC.SHOWTIME 2a01:8840:43:0:0:0:0:1 65.22.69.1
 nserver:      C0.NIC.SHOWTIME 2a01:8840:44:0:0:0:0:1 65.22.70.1
 ds-rdata:     18211 8 2 127adbfe87ea3d320525990c4783db7eafb3fc10de688eb7b593836b6ce02cca
 
-whois:        whois.afilias-srs.net
+whois:        whois.nic.showtime
 
 status:       ACTIVE
 remarks:      Registration information: http://www.showtime.com
 
 created:      2016-07-21
-changed:      2020-10-15
+changed:      2023-08-03
 source:       IANA
 
