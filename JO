@@ -5,7 +5,7 @@
 domain:       JO
 
 organisation: Ministry of Digital Economy and Entrepreneurship (MoDEE)
-address:      8th Circle Bayader Wadi Al Seer
+address:      8th Circle - Bayader Wadi Al Seer
 address:      P.O. Box 9903
 address:      Amman 11191
 address:      Jordan
@@ -14,7 +14,7 @@ contact:      administrative
 name:         Eng. Nabil Abu-Sall
 organisation: Ministry of Digital Economy and Entrepreneurship (MoDEE)
 address:      8th Circle - Bayader Wadi Al Seer
-address:      P.O.Box 9903
+address:      P.O. Box 9903
 address:      Amman 11191
 address:      Jordan
 phone:        +962 6 5805700
@@ -24,7 +24,7 @@ e-mail:       nabil.abusall@modee.gov.jo
 contact:      technical
 name:         National Domain Names Division
 organisation: Ministry of Digital Economy and Entrepreneurship (MoDEE)
-address:      8th Circle Bayader Wadi Al Seer
+address:      8th Circle - Bayader Wadi Al Seer
 address:      P.O. Box 9903
 address:      Amman 11191
 address:      Jordan
@@ -37,6 +37,8 @@ nserver:      JO.CCTLD.AUTHDNS.RIPE.NET 193.0.9.83 2001:67c:e0:0:0:0:0:83
 nserver:      JORDAN1ST.NIC.GOV.JO 193.188.69.19
 nserver:      PETRA.NIC.GOV.JO 193.188.66.2
 nserver:      RIP.PSG.COM 147.28.0.39 2001:418:1:0:0:0:0:39
+
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: https://www.dns.jo
