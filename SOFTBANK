@@ -5,23 +5,26 @@
 domain:       SOFTBANK
 
 organisation: SoftBank Group Corp.
-address:      1-9-1 Higashi-shimbashi, Minato-ku,
-address:      Tokyo 105-7303
+address:      1-9-1 Higashi-shimbashi
+address:      Minato-ku Tokyo 105-7303
 address:      Japan
 
 contact:      administrative
 name:         Chief Operating Officer
-organisation: GMO Brights Consulting Inc.
-address:      Cerulean Tower 26-1 Sakuragaoka-cho, Shibuya-ku, Tokyo 150-8512
+organisation: GMO BRAND SECURITY Inc.
+address:      Cerulean Tower 26-1 Sakuragaoka-cho
+address:      Shibuya-ku Tokyo 150-8512
 address:      Japan
-phone:        +81.355210107
-fax-no:       +81.355210117
-e-mail:       nakagawa_01@brights.jp
+phone:        +81.357841069
+fax-no:       +81.334625040
+e-mail:       registry@brightsconsulting.com
 
 contact:      technical
 name:         Director
 organisation: GMO Registry, Inc.
-address:      Cerulean Tower 26-1 Sakuragaoka-cho, Shibuya-ku, Tokyo 150-8512
+address:      Cerulean Tower
+address:      26-1 Sakuragaoka-cho
+address:      Shibuya-ku Tokyo 150-8512
 address:      Japan
 phone:        +81-3-5456-1601
 fax-no:       +81-3-3780-5239
@@ -39,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://softbank.com/
 
 created:      2015-12-23
-changed:      2019-08-20
+changed:      2023-06-20
 source:       IANA
 
