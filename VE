@@ -7,24 +7,24 @@ domain:       VE
 organisation: Comisión Nacional de Telecomunicaciones (CONATEL)
 address:      Av. Veracruz, Edif. CONATEL, Las Mercedes
 address:      Caracas Miranda 1060
-address:      Venezuela, Bolivarian Republic Of
+address:      Venezuela (Bolivarian Republic of)
 
 contact:      administrative
-name:         Mr. Jesús Rivera
-organisation: Comisión Nacional de Telecomunicaciones (CONATEL)
-address:      Av. Veracruz, Edif. CONATEL, Las Mercedes
+name:         Mr. Gabriel Porco
+organisation: NIC.VE
+address:      Calle Cali, Edif. NIC.VE, Las Mercedes
 address:      Caracas Miranda 1060
-address:      Venezuela, Bolivarian Republic Of
-phone:        +58 212 9090466
-fax-no:       +58 212 9936794
-e-mail:       jrivera@conatel.gob.ve
+address:      Venezuela (Bolivarian Republic of)
+phone:        +58 212 9090435
+fax-no:       +58 212 9090329
+e-mail:       gporco@nic.ve
 
 contact:      technical
 name:         Soporte Técnico
-organisation: Comisión Nacional de Telecomunicaciones (CONATEL)
-address:      Av. Veracruz, Edif. CONATEL, Las Mercedes
+organisation: NIC.VE
+address:      Calle Cali, Edif. NIC.VE, Las Mercedes
 address:      Caracas Miranda 1060
-address:      Venezuela, Bolivarian Republic Of
+address:      Venezuela (Bolivarian Republic of)
 phone:        +58 212 9090435
 fax-no:       +58 212 9090329
 e-mail:       soportenicve@conatel.gob.ve
@@ -35,7 +35,8 @@ nserver:      NS4.NIC.VE 190.202.128.43
 nserver:      NS5.NIC.VE 2801:18:8800:3:18ba:beff:fe61:d08b 45.175.22.88
 nserver:      NS6.NIC.VE 2801:18:8800:1:0:0:0:4 45.175.22.4
 nserver:      SSDNS-TLD.NIC.CL 200.7.5.14 2001:1398:276:0:200:7:5:14
-ds-rdata:     14092 8 2 08C74712D9EE7AB88BAD9EA011379E2AC419102E209B83CB9C4EE6CFB5CA7E65
+ds-rdata:     14092 8 2 08c74712d9ee7ab88bad9ea011379e2ac419102e209b83cb9c4ee6cfb5ca7e65
+ds-rdata:     62041 8 2 78f2ecb0ecd744a381d514ec91ca6389921fe168f41c96a41d0d794caf30c3b1
 
 whois:        whois.nic.ve
 
@@ -43,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.ve/
 
 created:      1991-03-07
-changed:      2022-08-23
+changed:      2023-07-24
 source:       IANA
 
