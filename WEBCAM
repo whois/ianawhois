@@ -5,14 +5,15 @@
 domain:       WEBCAM
 
 organisation: dot Webcam Limited
-address:      2nd Floor, Leisure Island Business Centre, Ocean Village, Gibraltar, GX11 1AA
+address:      2nd Floor, Leisure Island Business Centre, Ocean Village
+address:      Gibraltar  GX11 1AA
 address:      Gibraltar
 
 contact:      administrative
 name:         Edgar Charles Andrew Lavarello
 organisation: Pricewaterhousecoopers Ltd.
 address:      327 Main Street
-address:      GX11 1AA
+address:      Gibraltar  GX11 1AA
 address:      Gibraltar
 phone:        +350 200 73520
 e-mail:       edgar.c.lavarello@gi.pwc.com
@@ -21,8 +22,8 @@ contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
 address:      2155 E GoDaddy Way
-address:      Tempe, AZ 85284
-address:      United States
+address:      Tempe AZ 85284
+address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
@@ -33,7 +34,7 @@ nserver:      C.NIC.WEBCAM 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      NS1.DNS.NIC.WEBCAM 156.154.169.60 2610:a1:1071:0:0:0:1:3c
 nserver:      NS2.DNS.NIC.WEBCAM 156.154.170.60 2610:a1:1072:0:0:0:1:3c
 nserver:      NS3.DNS.NIC.WEBCAM 156.154.171.60 2610:a1:1073:0:0:0:1:3c
-ds-rdata:     22450 8 2 E2447935904A4E1DA9F3695F56055A2132FFC565A4EA2DDCF22C5AAE0605A2FD
+ds-rdata:     22450 8 2 e2447935904a4e1da9f3695f56055a2132ffc565a4ea2ddcf22c5aae0605a2fd
 
 whois:        whois.nic.webcam
 
