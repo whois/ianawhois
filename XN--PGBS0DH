@@ -6,15 +6,15 @@ domain:       تونس
 domain-ace:   XN--PGBS0DH
 
 organisation: Agence Tunisienne d'Internet
-address:      13, rue Jugurtha Mutuelle-ville
-address:      Tunis  1002
+address:      13 Rue Jugurtha Mutuelle-ville
+address:      Tunis 1002
 address:      Tunisia
 
 contact:      administrative
 name:         Mrs. Wafa Dahmani
 organisation: Agence Tunisienne d'Internet
-address:      13, rue Jugurtha Mutuelle-ville
-address:      Tunis  1002
+address:      13 Rue Jugurtha Mutuelle-ville
+address:      Tunis 1002
 address:      Tunisia
 phone:        +216 71 846 100
 fax-no:       +216 71 846 600
@@ -23,8 +23,8 @@ e-mail:       nicadmin@ati.tn
 contact:      technical
 name:         Network Information Center - NIC
 organisation: Agence Tunisienne d'Internet
-address:      13, rue Jugurtha Mutuelle-ville
-address:      Tunis  1002
+address:      13 Rue Jugurtha Mutuelle-ville
+address:      Tunis 1002
 address:      Tunisia
 phone:        +216 71 846 100
 fax-no:       +216 71 846 600
@@ -36,7 +36,7 @@ nserver:      NS2.ATI.TN 2c0f:fab0:ffff:5:41:228:63:62 41.228.63.62
 nserver:      NS2.NIC.FR 192.93.0.4 2001:660:3005:1:0:0:1:2
 nserver:      PCH.ATI.TN 2001:500:14:6004:ad:0:0:1 204.61.216.94
 nserver:      RIP.PSG.COM 147.28.0.39 2001:418:1:0:0:0:0:39
-ds-rdata:     23341 8 2 D7A6ED1FD619775C26CEB15A96586B3C1D7AC38574E44F1ABC100FF2F50198A2
+ds-rdata:     23341 8 2 d7a6ed1fd619775c26ceb15a96586b3c1d7ac38574e44f1abc100ff2f50198a2
 
 whois:        whois.ati.tn
 
@@ -44,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.ati.tn
 
 created:      2010-08-19
-changed:      2017-06-12
+changed:      2023-03-07
 source:       IANA
 
