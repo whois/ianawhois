@@ -5,13 +5,15 @@
 domain:       EDEKA
 
 organisation: EDEKA Verband kaufmännischer Genossenschaften e.V.
-address:      New-York-Ring 6, Hamburg, Hamburg, 22297
+address:      New-York-Ring 6
+address:      Hamburg Hamburg 22297
 address:      Germany
 
 contact:      administrative
 name:         CEO
 organisation: DOTZON GmbH
-address:      Akazienstr 28, Berlin, Berlin, 10823
+address:      Akazienstr 28
+address:      Berlin Berlin 10823
 address:      Germany
 phone:        49.173.2019240
 fax-no:       49.30.49802727
@@ -20,8 +22,10 @@ e-mail:       edeka@dotzon.com
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
 organisation: Afilias
-address:      Building 3, Suite 105, 300 Welsh Road, Horsham, PA 19044
-address:      United States
+address:      300 Welsh Road
+address:      Building 3, Suite 105
+address:      Horsham PA 19044
+address:      United States of America (the)
 phone:        +1.215.706.5700
 fax-no:       +1.215.706.5701
 e-mail:       tld-tech-poc@afilias.info
@@ -32,12 +36,12 @@ nserver:      B0.NIC.EDEKA 2a01:8840:13:0:0:0:0:25 65.22.17.25
 nserver:      C0.NIC.EDEKA 2a01:8840:14:0:0:0:0:25 65.22.18.25
 ds-rdata:     5236 8 2 1423f0e6f60e7ba10535b7b7b88dea2b02a8ce3309e68ed2e9698687cdb95065
 
-whois:        whois.afilias-srs.net
+whois:        whois.nic.edeka
 
 status:       ACTIVE
 remarks:      Registration information: http://edeka.de
 
 created:      2016-01-08
-changed:      2020-12-08
+changed:      2023-08-03
 source:       IANA
 
