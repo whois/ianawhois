@@ -6,24 +6,24 @@ domain:       WEATHER
 
 organisation: International Business Machines Corporation
 address:      New Orchard Road
-address:      Armonk, NY 10504
-address:      United States
+address:      Armonk NY 10504
+address:      United States of America (the)
 
 contact:      administrative
 name:         Engineering Manager
 organisation: International Business Machines Corporation
 address:      North Castle Drive
-address:      Armonk, NY 10504
-address:      United States
-phone:        +1-914-765-4227 
-fax-no:       +1-914-765-4390 
+address:      Armonk NY 10504
+address:      United States of America (the)
+phone:        +1-914-765-4227
+fax-no:       +1-914-765-4390
 e-mail:       ngtld-ibm@cscinfo.com
 
 contact:      technical
 name:         Engineering Manager
 address:      2155 E GoDaddy Way
-address:      Tempe, AZ 85284
-address:      United States
+address:      Tempe AZ 85284
+address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
 e-mail:       ngtld-ibm@cscinfo.com
@@ -34,12 +34,15 @@ nserver:      NS3.DNS.NIC.WEATHER 156.154.159.178 2610:a1:1073:0:0:0:0:b2
 nserver:      NS4.DNS.NIC.WEATHER 156.154.156.178 2610:a1:1074:0:0:0:0:b2
 nserver:      NS5.DNS.NIC.WEATHER 156.154.157.178 2610:a1:1075:0:0:0:0:b2
 nserver:      NS6.DNS.NIC.WEATHER 156.154.158.178 2610:a1:1076:0:0:0:0:b2
-ds-rdata:     6439 8 2 F994E24AD5E878714E771FA57227EA081F681B270D9FAA5BA4CADE422EE1AA3F
+ds-rdata:     6439 8 2 f994e24ad5e878714e771fa57227ea081f681b270d9faa5ba4cade422ee1aa3f
+ds-rdata:     1249 8 2 96765e88a1b12cce10c5c67934b10344ad4e5d63588e4b9d442fc533c8224f01
+
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: http://www.weather.com
 
 created:      2015-12-23
-changed:      2022-07-21
+changed:      2023-07-31
 source:       IANA
 
