@@ -6,25 +6,27 @@ domain:       HDFCBANK
 
 organisation: HDFC Bank Limited
 address:      HDFC Bank House, Senapati Bapat Marg
-address:      Lower Parel (W), Mumbai - 400 013
+address:      Lower Parel (W)
+address:      Mumbai Maharashtra 400013
 address:      India
 
 contact:      administrative
-name:         Assistant Vice President
+name:         Deputy Vice President
 organisation: HDFC Bank Limited
 address:      HDFC Bank House, Senapati Bapat Marg
-address:      Lower Parel (W), Mumbai - 400 013
+address:      Lower Parel (W)
+address:      Mumbai Maharashtra 400013
 address:      India
-phone:        +91 970 277 7311
-e-mail:       vipul.bellap@hdfcbank.com
+phone:        +91 223 395 9000
+e-mail:       agnel.dsouza@hdfcbank.com
 
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
 organisation: Afilias
-address:      Building 3, Suite 105
 address:      300 Welsh Road
-address:      Horsham, PA 19044
-address:      United States
+address:      Building 3, Suite 105
+address:      Horsham PA 19044
+address:      United States of America (the)
 phone:        +1 215.706.5700
 fax-no:       +1 215.706.5701
 e-mail:       tld-tech-poc@afilias.info
@@ -38,8 +40,9 @@ ds-rdata:     63937 8 2 b8f2ca908cc4e3526a25ad74da7f2d9962b4a1692805ae8f5c0cef55
 whois:        whois.nic.hdfcbank
 
 status:       ACTIVE
+remarks:      Registration information: 
 
 created:      2016-02-05
-changed:      2021-04-23
+changed:      2023-05-03
 source:       IANA
 
