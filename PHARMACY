@@ -5,28 +5,29 @@
 domain:       PHARMACY
 
 organisation: National Association of Boards of Pharmacy
-address:      1600 Feehanville Drive, Mount Prospect, IL 60056
-address:      United States
+address:      1600 Feehanville Drive
+address:      Mount Prospect IL 60056
+address:      United States of America (the)
 
 contact:      administrative
 name:         TLD Registry Services Management
 organisation: Nominet
-address:      Minerva House,
-address:      Edmund Halley Road,
+address:      Minerva House
+address:      Edmund Halley Road
 address:      Oxford Science Park
 address:      Oxford OX4 4DQ
-address:      United Kingdom
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44.1865332211
 e-mail:       registrymanagement@nominet.uk
 
 contact:      technical
 name:         TLD Registry Services Technical
 organisation: Nominet
-address:      Minerva House,
-address:      Edmund Halley Road,
-address:      Oxford Science Park,
+address:      Minerva House
+address:      Edmund Halley Road
+address:      Oxford Science Park
 address:      Oxford OX4 4DQ
-address:      United Kingdom
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44.1865332211
 e-mail:       registrytechnical@nominet.uk
 
@@ -38,7 +39,7 @@ nserver:      DNSA.NIC.PHARMACY 156.154.100.3 2001:502:ad09:0:0:0:0:3
 nserver:      DNSB.NIC.PHARMACY 156.154.101.3 2001:502:2eda:0:0:0:0:3
 nserver:      DNSC.NIC.PHARMACY 156.154.102.3 2610:a1:1009:0:0:0:0:3
 nserver:      DNSD.NIC.PHARMACY 156.154.103.3 2610:a1:1010:0:0:0:0:3
-ds-rdata:     13921 8 2 D24B9704B0642E8D9EA7CF6418C9212883ECD172C5651E89501C04724DA8AC00
+ds-rdata:     13921 8 2 d24b9704b0642e8d9ea7cf6418c9212883ecd172c5651e89501c04724da8ac00
 
 whois:        whois.nic.pharmacy
 
