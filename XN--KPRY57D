@@ -28,7 +28,7 @@ organisation: Taiwan Network Information Center (TWNIC)
 address:      3F., No. 123, Sec. 4, Bade Rd.
 address:      Songshan Dist.
 address:      Taipei 105
-address:      Taiwan 
+address:      Taiwan
 phone:        +886 2 2528 9696
 fax-no:       +886 2 2528 7756
 e-mail:       tech-admin@twnic.tw
@@ -39,7 +39,7 @@ nserver:      E.DNS.TW 2001:b000:1e0:c000:0:0:0:11 211.20.231.11
 nserver:      F.DNS.TW 163.28.1.10
 nserver:      G.DNS.TW 2001:cd8:400:0:0:0:0:195 220.229.225.195
 nserver:      H.DNS.TW 2001:500:14:6119:ad:0:0:1 204.61.216.119
-ds-rdata:     15901 8 2 119F2B2637AEB13DA5C5D5B605DDCB9389A811A27D52102D9DF28EE507C02DA4
+ds-rdata:     15901 8 2 119f2b2637aeb13da5c5d5b605ddcb9389a811a27d52102d9df28ee507c02da4
 
 whois:        whois.twnic.net.tw
 
@@ -47,6 +47,6 @@ status:       ACTIVE
 remarks:      Registration information: http://rs.twnic.net.tw
 
 created:      2010-07-14
-changed:      2022-11-15
+changed:      2023-03-07
 source:       IANA
 
