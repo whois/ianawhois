@@ -6,26 +6,25 @@ domain:       BLOG
 
 organisation: Knock Knock WHOIS There, LLC
 address:      60 29th Street
-address:      SAN FRANCISCO
-address:      CA 94110
-address:      United States
+address:      San Francisco CA 94110
+address:      United States of America (the)
 
 contact:      administrative
 name:         Head of Business Development
 organisation: Knock Knock WhoIS There, LLC (KKWT)
-address:      60 29th St.
-address:      San Francisco
-address:      CA 94110
-address:      United States
+address:      60 29th Street
+address:      San Francisco CA 94110
+address:      United States of America (the)
 phone:        +1.8772733049
 e-mail:       welcome@my.blog
 
 contact:      technical
 name:         CTO
 organisation: CentralNic
-address:      Saddlers House 4th Floor 44 Gutter Lane
+address:      Saddlers House, 4th Floor
+address:      44 Gutter Lane
 address:      London EC2V 6BR
-address:      United Kingdom
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44 20 33 88 0600
 fax-no:       +44 20 33 88 0601
 e-mail:       tld.ops@centralnic.com
@@ -34,7 +33,7 @@ nserver:      A.NIC.BLOG 194.169.218.94 2001:67c:13cc:0:0:0:1:94
 nserver:      B.NIC.BLOG 185.24.64.94 2a04:2b00:13cc:0:0:0:1:94
 nserver:      C.NIC.BLOG 212.18.248.94 2a04:2b00:13ee:0:0:0:0:94
 nserver:      D.NIC.BLOG 212.18.249.94 2a04:2b00:13ff:0:0:0:0:94
-ds-rdata:     43975 8 2 94023BE3A769704F45ECB9FEA13BBBAB6ADCDB4D8BB39E621E3CBF223FB5CA53
+ds-rdata:     43975 8 2 94023be3a769704f45ecb9fea13bbbab6adcdb4d8bb39e621e3cbf223fb5ca53
 ds-rdata:     16976 8 1 f4535c694f892ffeb740c35cc9665b52e360df7d
 ds-rdata:     16976 8 2 9862de44e1e7e44215165000c4b87bd3f46d439c686166da0ca79e06896958b7
 
