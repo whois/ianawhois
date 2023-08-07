@@ -6,24 +6,25 @@ domain:       SECURITY
 
 organisation: XYZ.COM LLC
 address:      2121 E Tropicana Ave, STE 2
-address:      Las Vegas, NV 89119
-address:      United States
+address:      Las Vegas NV 89119
+address:      United States of America (the)
 
 contact:      administrative
 name:         General Counsel
 organisation: XYZ.COM LLC
-address:      2121 E Tropicana Ave, STE2
-address:      Las Vegas, NV 89119
-address:      United States
+address:      2121 E Tropicana Ave, Suite 2
+address:      Las Vegas NV 89119
+address:      United States of America (the)
 phone:        +1.7027632191
 e-mail:       hello@xyz.com
 
 contact:      technical
 name:         CTO
 organisation: CentralNic
-address:      Saddlers House 4th Floor 44 Gutter Lane
+address:      Saddlers House, 4th Floor
+address:      44 Gutter Lane
 address:      London EC2V 6BR
-address:      United Kingdom
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44 20 33 88 0600
 fax-no:       +44 20 33 88 0601
 e-mail:       tld.ops@centralnic.com
@@ -32,7 +33,7 @@ nserver:      A.NIC.SECURITY 194.169.218.68 2001:67c:13cc:0:0:0:1:68
 nserver:      B.NIC.SECURITY 185.24.64.68 2a04:2b00:13cc:0:0:0:1:68
 nserver:      E.NIC.SECURITY 212.18.248.68 2a04:2b00:13ee:0:0:0:0:68
 nserver:      F.NIC.SECURITY 212.18.249.68 2a04:2b00:13ff:0:0:0:0:68
-ds-rdata:     14150 8 2 2859485C57B2B929084427B8C2B444200FA44011015AA6BF005146582947A257
+ds-rdata:     14150 8 2 2859485c57b2b929084427b8c2b444200fa44011015aa6bf005146582947a257
 
 whois:        whois.nic.security
 
@@ -40,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.security/
 
 created:      2015-09-03
-changed:      2022-08-16
+changed:      2023-01-18
 source:       IANA
 
