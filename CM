@@ -6,28 +6,31 @@ domain:       CM
 
 organisation: Cameroon Telecommunications (CAMTEL)
 address:      Boulevard du 20 mai
-address:      Yaounde  P.O Box 1571
+address:      P.O. Box 1571
+address:      Yaounde
 address:      Cameroon
 
 contact:      administrative
-name:         NGUIAMBA NLOUTSIRI Emmanuel
+name:         Director General
 organisation: CAMTEL
 address:      Boulevard du 20 mai
-address:      Yaounde  P.O Box 1571
+address:      P.O. Box 1571
+address:      Yaounde
 address:      Cameroon
-phone:        +237 223 4065
-fax-no:       +237 223 0303
-e-mail:       camtel@camnet.cm
+phone:        +237 222 234 065
+fax-no:       +237 222 230 303
+e-mail:       ceo@camtel.cm
 
 contact:      technical
-name:         BIKOE Jean-Ernest
+name:         Chief Information Officer
 organisation: CAMTEL
 address:      Boulevard du 20 mai
-address:      Yaounde  P.O Box 1571
+address:      P.O. Box 1571
+address:      Yaounde
 address:      Cameroon
-phone:        +237 223 4065
-fax-no:       +237 223 0303
-e-mail:       jean-ernest.bikoe@camnet.cm
+phone:        +237 222 234 065
+fax-no:       +237 222 230 303
+e-mail:       cio@camtel.cm
 
 nserver:      AUTH02.NS.UU.NET 198.6.1.82
 nserver:      KIM.CAMNET.CM 195.24.192.35
@@ -35,10 +38,12 @@ nserver:      LOM.CAMNET.CM 195.24.192.34
 nserver:      NS.ITU.CH 156.106.192.121 2a00:7580:60:2141:0:0:0:10
 nserver:      SANAGA.CAMNET.CM 195.24.192.17
 
+whois:        
+
 status:       ACTIVE
 remarks:      Registration information: http://www.info.camnet.cm
 
 created:      1995-04-29
-changed:      2019-07-26
+changed:      2023-07-06
 source:       IANA
 
