@@ -5,14 +5,16 @@
 domain:       GALLUP
 
 organisation: Gallup, Inc.
-address:      1001 Gallup Drive, Omaha, NE, 68102
-address:      United States
+address:      1001 Gallup Drive
+address:      Omaha NE 68102
+address:      United States of America (the)
 
 contact:      administrative
 name:         Vice President - Law & Senior Counsel
 organisation: Gallup, Inc.
-address:      1001 Gallup Drive, Omaha, NE, 68102
-address:      United States
+address:      1001 Gallup Drive
+address:      Omaha NE 68102
+address:      United States of America (the)
 phone:        402.951.2003
 fax-no:       402.938.5927
 e-mail:       ngtld-gallup@cscglobal.com
@@ -20,8 +22,10 @@ e-mail:       ngtld-gallup@cscglobal.com
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
 organisation: Afilias
-address:      Building 3, Suite 105, 300 Welsh Road, Horsham, PA 19044
-address:      United States
+address:      300 Welsh Road
+address:      Building 3, Suite 105
+address:      Horsham PA 19044
+address:      United States of America (the)
 phone:        +1.215.706.5700
 fax-no:       +1.215.706.5701
 e-mail:       tld-tech-poc@afilias.info
