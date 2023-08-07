@@ -8,18 +8,16 @@ organisation: British Broadcasting Corporation
 address:      Brandon Butterworth
 address:      Broadcasting House
 address:      Portland Place
-address:      London
-address:      W1A 1AA
-address:      United Kingdom
+address:      London W1A 1AA
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 
 contact:      administrative
 name:         Brandon Butterworth
 organisation: British Broadcasting Corporation
 address:      Broadcasting House
 address:      Portland Place
-address:      London
-address:      W1A 1AA
-address:      United Kingdom
+address:      London W1A 1AA
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44 3030409777
 fax-no:       +44 2088118815
 e-mail:       hostmaster@bbc.co.uk
@@ -29,9 +27,8 @@ name:         Brandon Butterworth
 organisation: British Broadcasting Corporation
 address:      Broadcasting House
 address:      Portland Place
-address:      London
-address:      W1A 1AA
-address:      United Kingdom
+address:      London W1A 1AA
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44 303 040 9777
 fax-no:       +44 2088118815
 e-mail:       hostmaster@bbc.co.uk
@@ -44,7 +41,7 @@ nserver:      DNSA.NIC.BBC 156.154.100.3 2001:502:ad09:0:0:0:0:3
 nserver:      DNSB.NIC.BBC 156.154.101.3 2001:502:2eda:0:0:0:0:3
 nserver:      DNSC.NIC.BBC 156.154.102.3 2610:a1:1009:0:0:0:0:3
 nserver:      DNSD.NIC.BBC 156.154.103.3 2610:a1:1010:0:0:0:0:3
-ds-rdata:     10550 8 2 A5006C3437CE92E184D0E45AD5E31C35FFC69353AEFEC0926B78D04A6D3C99BD
+ds-rdata:     10550 8 2 a5006c3437ce92e184d0e45ad5e31c35ffc69353aefec0926b78d04a6d3c99bd
 
 whois:        whois.nic.bbc
 
