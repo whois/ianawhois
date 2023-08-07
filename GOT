@@ -5,14 +5,16 @@
 domain:       GOT
 
 organisation: Amazon Registry Services, Inc.
-address:      410 Terry Avenue North, Seattle, WA  98109
-address:      United States
+address:      410 Terry Avenue North
+address:      Seattle WA 98109
+address:      United States of America (the)
 
 contact:      administrative
 name:         Program Manager, Registry
 organisation: Amazon Registry Services, Inc.
-address:      410 Terry Avenue North, Seattle, WA  98109
-address:      United States
+address:      410 Terry Avenue North
+address:      Seattle WA 98109
+address:      United States of America (the)
 phone:        +1 206 646 5990
 fax-no:       +1 206 946 7702
 e-mail:       got-rzm@amazon.com
@@ -20,12 +22,11 @@ e-mail:       got-rzm@amazon.com
 contact:      technical
 name:         TLD Registry Services Technical
 organisation: Nominet
-address:      Minerva House,
-address:      Edmund Halley Road,
-address:      Oxford Science Park,
-address:      Oxford
-address:      OX4 4DQ
-address:      United Kingdom
+address:      Minerva House
+address:      Edmund Halley Road
+address:      Oxford Science Park
+address:      Oxford OX4 4DQ
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44.1865332211
 e-mail:       registrytechnical@nominet.uk
 
@@ -37,7 +38,7 @@ nserver:      DNSA.NIC.GOT 156.154.100.3 2001:502:ad09:0:0:0:0:3
 nserver:      DNSB.NIC.GOT 156.154.101.3 2001:502:2eda:0:0:0:0:3
 nserver:      DNSC.NIC.GOT 156.154.102.3 2610:a1:1009:0:0:0:0:3
 nserver:      DNSD.NIC.GOT 156.154.103.3 2610:a1:1010:0:0:0:0:3
-ds-rdata:     4355 8 2 8B11D5875A3202ED7FAAE05A5EAB67057ECA0D5BDB62875C5203B6CBB011C50A
+ds-rdata:     4355 8 2 8b11d5875a3202ed7faae05a5eab67057eca0d5bdb62875c5203b6cbb011c50a
 
 whois:        whois.nic.got
 
