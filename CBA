@@ -7,14 +7,14 @@ domain:       CBA
 organisation: COMMONWEALTH BANK OF AUSTRALIA
 address:      Ground Floor
 address:      Tower 1 201 Sussex Street
-address:      Sydney
-address:      New South Wales
-address:      1155
+address:      Sydney NSW 1155
 address:      Australia
 
 contact:      administrative
 name:         Domain Admin
-address:      COMMONWEALTH BANK OF AUSTRALIA
+address:      Ground Floor
+address:      Tower 1 201 Sussex Street
+address:      Sydney NSW 1155
 address:      Australia
 phone:        +61477387865
 fax-no:       +61291181601
@@ -25,9 +25,7 @@ name:         Domain Admin
 organisation: COMMONWEALTH BANK OF AUSTRALIA
 address:      Ground Floor
 address:      Tower 1 201 Sussex Street
-address:      Sydney
-address:      New South Wales
-address:      1155
+address:      Sydney NSW 1155
 address:      Australia
 phone:        +61477387865
 fax-no:       +61291181601
@@ -37,7 +35,7 @@ nserver:      A.NIC.CBA 2001:dcd:1:0:0:0:0:9 37.209.192.9
 nserver:      B.NIC.CBA 2001:dcd:2:0:0:0:0:9 37.209.194.9
 nserver:      C.NIC.CBA 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      D.NIC.CBA 2001:dcd:4:0:0:0:0:9 37.209.198.9
-ds-rdata:     44287 8 2 8CA6ADAEA243428A99943519846FD6F6BD355EC4990533D0569EE0E6075EB863
+ds-rdata:     44287 8 2 8ca6adaea243428a99943519846fd6f6bd355ec4990533d0569ee0e6075eb863
 
 whois:        whois.nic.cba
 
