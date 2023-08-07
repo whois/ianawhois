@@ -6,22 +6,25 @@ domain:       招聘
 domain-ace:   XN--OTU796D
 
 organisation: Dot Trademark TLD Holding Company Limited
-address:      F/26, East Tower, Forturn Plaza, No.118, Tiyu Dong Rd, Guangzhou City, Guangdong Province
+address:      F/26, East Tower, Forturn Plaza, No.118, Tiyu Dong Rd
+address:      Guangzhou Guangdong
 address:      China
 
 contact:      administrative
 name:         Thomas J Embrescia
 organisation: Second Generation, LLC
-address:      3029 Prospect Avenue，Cleveland Ohio 44115，
-address:      United States
+address:      3029 Prospect Ave.
+address:      Cleveland OH 44115
+address:      United States of America (the)
 phone:        +001-2163611000 x 102
-fax-no:       +001- 2164261400 
+fax-no:       +001- 2164261400
 e-mail:       icann@trademarkdomain.com
 
 contact:      technical
 name:         Tao ZHANG
 organisation: Dot Trademark TLD Holding Company Limited
-address:      F/26, East Tower, Forturn Plaza, No.118, Tiyu Dong Rd, Guangzhou City, Guangdong Province
+address:      F/26, East Tower, Forturn Plaza, No.118, Tiyu Dong Rd
+address:      Guangzhou Guangdong
 address:      China
 phone:        +86-020-85720323
 fax-no:       N/A
@@ -35,11 +38,14 @@ nserver:      F.ZDNSCLOUD.COM 114.67.16.204
 nserver:      G.ZDNSCLOUD.COM 42.62.2.16
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
-ds-rdata:     61882 8 2 EF3F494C35F4C2C571A0E5644F6E2760818F2EB7B08E1B05B522D995022B6786
+ds-rdata:     61882 8 2 ef3f494c35f4c2c571a0e5644f6e2760818f2eb7b08e1b05b522d995022b6786
+
+whois:        
 
 status:       ACTIVE
+remarks:      Registration information: 
 
 created:      2017-12-21
-changed:      2018-04-04
+changed:      2022-12-08
 source:       IANA
 
