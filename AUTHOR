@@ -5,14 +5,16 @@
 domain:       AUTHOR
 
 organisation: Amazon Registry Services, Inc.
-address:      410 Terry Avenue North, Seattle, WA  98109
-address:      United States
+address:      410 Terry Avenue North
+address:      Seattle WA 98109
+address:      United States of America (the)
 
 contact:      administrative
 name:         Program Manager, Registry
 organisation: Amazon Registry Services, Inc.
-address:      410 Terry Avenue North, Seattle, WA  98109
-address:      United States
+address:      410 Terry Avenue North
+address:      Seattle WA 98109
+address:      United States of America (the)
 phone:        +1 206 646 5990
 fax-no:       +1 206 946 7702
 e-mail:       author-rzm@amazon.com
@@ -20,12 +22,11 @@ e-mail:       author-rzm@amazon.com
 contact:      technical
 name:         TLD Registry Services Technical
 organisation: Nominet
-address:      Minerva House,
-address:      Edmund Halley Road,
-address:      Oxford Science Park,
-address:      Oxford
-address:      OX4 4DQ
-address:      United Kingdom
+address:      Minerva House
+address:      Edmund Halley Road
+address:      Oxford Science Park
+address:      Oxford OX4 4DQ
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44.1865332211
 e-mail:       registrytechnical@nominet.uk
 
@@ -37,7 +38,7 @@ nserver:      DNSA.NIC.AUTHOR 156.154.100.3 2001:502:ad09:0:0:0:0:3
 nserver:      DNSB.NIC.AUTHOR 156.154.101.3 2001:502:2eda:0:0:0:0:3
 nserver:      DNSC.NIC.AUTHOR 156.154.102.3 2610:a1:1009:0:0:0:0:3
 nserver:      DNSD.NIC.AUTHOR 156.154.103.3 2610:a1:1010:0:0:0:0:3
-ds-rdata:     4690 8 2 FC1AAA00C7D9798C3BBEED82B37AAFBA04AE15E97016E9A8B646AC5C37572DA3
+ds-rdata:     4690 8 2 fc1aaa00c7d9798c3bbeed82b37aafba04ae15e97016e9a8b646ac5c37572da3
 
 whois:        whois.nic.author
 
