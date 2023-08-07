@@ -7,15 +7,14 @@ domain:       MANGO
 organisation: PUNTO FA S.L.
 address:      Carrer Mercaders 9-11
 address:      Pol. Ind. Riera de Caldes
-address:      Palau-Solità i Plegamans
-address:      08184 BARCELONA
+address:      Palau-Solità i Plegamans Barcelona 08184
 address:      Spain
 
 contact:      administrative
 name:         Sergi Moreu Soler
 organisation: UBILIBET S.L.
 address:      Psg. Sant Joan 72
-address:      08009 BARCELONA
+address:      Barcelona 08009
 address:      Spain
 phone:        +34 932 654 145
 fax-no:       +34 932 329 544
@@ -25,9 +24,9 @@ contact:      technical
 name:         TLD TechAdmin
 organisation: CORE Association
 address:      2, Cours de Rive
-address:      CH-1204 Geneva
+address:      Geneva CH-1204
 address:      Switzerland
-phone:        +41 223 125 610 
+phone:        +41 223 125 610
 fax-no:       +41 223 125 612
 e-mail:       dnsmaster@corenic.org
 
@@ -35,7 +34,7 @@ nserver:      ANYCAST10.IRONDNS.NET 195.253.64.12 2a01:5b0:4:0:0:0:0:c
 nserver:      ANYCAST23.IRONDNS.NET 195.253.65.11 2a01:5b0:5:0:0:0:0:b
 nserver:      ANYCAST24.IRONDNS.NET 195.253.65.12 2a01:5b0:5:0:0:0:0:c
 nserver:      ANYCAST9.IRONDNS.NET 195.253.64.11 2a01:5b0:4:0:0:0:0:b
-ds-rdata:     42309 10 2 3AFD388DCC7DE7AD4FA84EC0F897B59FAEF31877F80EF4D55E5ACBDFD8AB98DE
+ds-rdata:     42309 10 2 3afd388dcc7de7ad4fa84ec0f897b59faef31877f80ef4d55e5acbdfd8ab98de
 
 whois:        whois.nic.mango
 
@@ -43,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.mango.com
 
 created:      2014-01-23
-changed:      2019-08-30
+changed:      2022-01-07
 source:       IANA
 
