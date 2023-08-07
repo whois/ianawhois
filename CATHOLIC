@@ -5,22 +5,25 @@
 domain:       CATHOLIC
 
 organisation: Pontificium Consilium de Comunicationibus Socialibus (PCCS) (Pontifical Council for Social Communication)
-address:      Via della Conciliazione 5 Città del Vaticano 00120
-address:      Holy See (vatican City State)
+address:      Via della Conciliazione 5
+address:      Città del Vaticano V-00120
+address:      Holy See (the)
 
 contact:      administrative
 name:         Administrative Contact
 organisation: Secretaria pro Communicatione
-address:      Piazza Pia 3 Città del Vaticano 00120
-address:      Holy See (vatican City State)
-phone:        +39 06 698 45204 
-fax-no:       +39 06 698 45210 
+address:      Piazza Pia 3
+address:      Città del Vaticano V-00120
+address:      Holy See (the)
+phone:        +39 06 698 45204
+fax-no:       +39 06 698 45210
 e-mail:       administrative.catholictld@spc.va
 
 contact:      technical
 name:         Technical Contact
-address:      Piazza Pia 3 Città del Vaticano 00120
-address:      Holy See (vatican City State)
+address:      Piazza Pia 3
+address:      Città del Vaticano V-00120
+address:      Holy See (the)
 phone:        +39 06 698 45204
 fax-no:       +39 06 698 45210
 e-mail:       technical.catholictld@spc.va
@@ -28,8 +31,11 @@ e-mail:       technical.catholictld@spc.va
 nserver:      A.NIC.CATHOLIC 2001:dcd:1:0:0:0:0:9 37.209.192.9
 nserver:      B.NIC.CATHOLIC 2001:dcd:2:0:0:0:0:9 37.209.194.9
 nserver:      C.NIC.CATHOLIC 2001:dcd:3:0:0:0:0:9 37.209.196.9
-nserver:      D.NIC.CATHOLIC 2001:dcd:4:0:0:0:0:9 37.209.198.9
-ds-rdata:     20539 8 2 433482CE6522917B6F0C77C23765CDD4BDAC8C05FF5012FFEA892CC9DCDB07F8
+nserver:      X.NIC.CATHOLIC 156.154.172.82 2610:a1:1074:0:0:0:1:82
+nserver:      Y.NIC.CATHOLIC 156.154.173.82 2610:a1:1075:0:0:0:1:82
+nserver:      Z.NIC.CATHOLIC 156.154.174.82 2610:a1:1076:0:0:0:1:82
+ds-rdata:     20539 8 2 433482ce6522917b6f0c77c23765cdd4bdac8c05ff5012ffea892cc9dcdb07f8
+ds-rdata:     21967 8 2 a6aac594f31e65e79e0dcede4d0a0b10eaa0f4db43dd7174fd928e01bd5542a0
 
 whois:        whois.nic.catholic
 
@@ -37,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.pccs.va
 
 created:      2016-11-16
-changed:      2022-07-21
+changed:      2023-07-31
 source:       IANA
 
