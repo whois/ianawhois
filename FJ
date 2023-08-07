@@ -12,29 +12,33 @@ address:      Suva
 address:      Fiji
 
 contact:      administrative
-name:         Manager Enterprise Systems & Networks
+name:         Director IT Services
 organisation: The University of the South Pacific
-organisation: IT Services
+address:      IT Services
+address:      Laucala Bay Campus,
+address:      ICT Building A
 address:      Suva
 address:      Fiji
-phone:        +679 323 2117
-e-mail:       sysadmin@usp.ac.fj
+phone:        +679 3232117
+e-mail:       domreg@usp.ac.fj
 
 contact:      technical
-name:         Manager Systems & Networks
+name:         Manager Systems & Networks Infrastructure
 organisation: The University of the South Pacific
-organisation: IT Services
+address:      IT Services
+address:      Laucala Bay Campus,
+address:      ICT Building A
 address:      Suva
 address:      Fiji
-phone:        +679 323 2117
-e-mail:       domreg@usp.ac.fj
+phone:        +679 3232117
+e-mail:       sysadmin@usp.ac.fj
 
 nserver:      NS1.FJ 144.120.146.1 2402:2940:100:100c:0:0:0:1
 nserver:      NS2.FJ 144.120.146.65 2402:2940:100:100d:0:0:0:1
 nserver:      NS3.FJ 185.38.108.108
 nserver:      NS4.FJ 185.28.194.194
-nserver:      NS5.FJ 204.61.216.138
-ds-rdata:     12931 8 2 f0023df1e7cfc69503ee2a48bc905461e7dce96453d19a2f3f52a3fa56cd4cfa
+nserver:      NS5.FJ 2001:500:14:6138:ad:0:0:1 204.61.216.138
+ds-rdata:     27739 8 2 d7fe923eed1e1194597cc5ebcb37d10f3bfa2e927159f5018cddb86d30665abb
 
 whois:        www.whois.fj
 
@@ -42,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://domains.fj/
 
 created:      1992-06-03
-changed:      2022-03-08
+changed:      2023-04-24
 source:       IANA
 
