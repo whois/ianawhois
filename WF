@@ -6,16 +6,16 @@ domain:       WF
 
 organisation: Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)
 address:      Immeuble Le Stephenson
-address:      1 rue Stephenson
-address:      78180 Montigny-le-Bretonneux
+address:      1, rue Stephenson
+address:      Montigny-Le-Bretonneux 78180
 address:      France
 
 contact:      administrative
 name:         TLD Admin Contact
 organisation: Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)
 address:      Immeuble Le Stephenson
-address:      1 rue Stephenson
-address:      78180 Montigny-le-Bretonneux
+address:      1, rue Stephenson
+address:      Montigny-Le-Bretonneux 78180
 address:      France
 phone:        +33 1 39 30 83 05
 fax-no:       +33 1 39 30 83 01
@@ -25,8 +25,8 @@ contact:      technical
 name:         TLD Technical Contact
 organisation: Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)
 address:      Immeuble Le Stephenson
-address:      1 rue Stephenson
-address:      78180 Montigny-le-Bretonneux
+address:      1, rue Stephenson
+address:      Montigny-Le-Bretonneux 78180
 address:      France
 phone:        +33 1 39 30 83 00
 fax-no:       +33 1 39 30 83 01
@@ -36,7 +36,7 @@ nserver:      D.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
 nserver:      E.EXT.NIC.FR 193.176.144.22 2a00:d78:0:102:193:176:144:22
 nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
 nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
-ds-rdata:     18393 13 2 C67316FA4C43D54D07C93074EDDB7914346C4132726A258CD2ACC3D4877081E5
+ds-rdata:     18393 13 2 c67316fa4c43d54d07c93074eddb7914346c4132726a258cd2acc3d4877081e5
 
 whois:        whois.nic.wf
 
