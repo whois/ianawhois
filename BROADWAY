@@ -6,30 +6,28 @@ domain:       BROADWAY
 
 organisation: Celebrate Broadway, Inc.
 address:      729 Seventh Ave, 7th Floor
-address:      New York, NY 10019
-address:      United States
+address:      New York NY 10019
+address:      United States of America (the)
 
 contact:      administrative
 name:         TLD Registry Services Management
 organisation: Nominet
 address:      Minerva House
 address:      Edmund Halley Road
-address:      Oxford Science Park,
-address:      Oxford,
-address:      OX4 4DQ
-address:      United Kingdom
+address:      Oxford Science Park
+address:      Oxford OX4 4DQ
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44.1865332211
 e-mail:       registrymanagement@nominet.uk
 
 contact:      technical
 name:         TLD Registry Services Technical
 organisation: Nominet
-address:      Minerva House,
-address:      Edmund Halley Road,
-address:      Oxford Science Park,
-address:      Oxford,
-address:      OX4 4DQ
-address:      United Kingdom
+address:      Minerva House
+address:      Edmund Halley Road
+address:      Oxford Science Park
+address:      Oxford OX4 4DQ
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44.1865332211
 e-mail:       registrytechnical@nominet.uk
 
@@ -41,7 +39,7 @@ nserver:      DNSA.NIC.BROADWAY 156.154.100.3 2001:502:ad09:0:0:0:0:3
 nserver:      DNSB.NIC.BROADWAY 156.154.101.3 2001:502:2eda:0:0:0:0:3
 nserver:      DNSC.NIC.BROADWAY 156.154.102.3 2610:a1:1009:0:0:0:0:3
 nserver:      DNSD.NIC.BROADWAY 156.154.103.3 2610:a1:1010:0:0:0:0:3
-ds-rdata:     47576 8 2 CCC4CE45AACB1C0ECD8181D968B86BEFF3B34D1A71576F137CA43529FF8F12BB
+ds-rdata:     47576 8 2 ccc4ce45aacb1c0ecd8181d968b86beff3b34d1a71576f137ca43529ff8f12bb
 
 whois:        whois.nic.broadway
 
