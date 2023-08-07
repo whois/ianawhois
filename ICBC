@@ -5,33 +5,44 @@
 domain:       ICBC
 
 organisation: Industrial and Commercial Bank of China Limited
-address:      15F，Tower D, Desheng Intenational Center, No.77 DeshengMenWai Avenue, Xicheng District, Beijing, 100088
+address:      15F, Tower D, Desheng Intenational Center No.77 Desheng Men Wai Avenue
+address:      Xicheng District
+address:      Beijing 100088
 address:      China
 
 contact:      administrative
 name:         Operation Manager
 organisation: Industrial and Commercial Bank of China Limited
-address:      15F，Tower D, Desheng International Center, No.77 DeshengMenWai Avenue,Xicheng District
-address:      Beijing, 100088
+address:      15F, Tower D, Desheng Intenational Center No.77 Desheng Men Wai Avenue
+address:      Xicheng District
+address:      Beijing 100088
 address:      China
 phone:        +86 10 82096303
 fax-no:       +86 10 82096262
 e-mail:       web.yy4b@wjyy.icbc.com.cn
 
 contact:      technical
-name:         Senior Director, DNS Infrastructure Group
-organisation: Afilias
-address:      Building 3, Suite 105, 300 Welsh Road, Horsham, PA 19044
-address:      United States
-phone:        +1 215 706 5700
-fax-no:       +1 215 706 5701
-e-mail:       tld-tech-poc@afilias.info
+name:         DNE,ZDNS
+organisation: ZDNS
+address:      No. 4, South 4th Street
+address:      ZhongGuanCun
+address:      Haidian District
+address:      Beijing
+address:      China
+phone:        (+86) 01058812473
+fax-no:       (+86) 01058813075
+e-mail:       dne-icbc@zdns.cn
 
-nserver:      A0.NIC.ICBC 2a01:8840:7e:0:0:0:0:33 65.22.128.33
-nserver:      A2.NIC.ICBC 2a01:8840:81:0:0:0:0:33 65.22.131.33
-nserver:      B0.NIC.ICBC 2a01:8840:7f:0:0:0:0:33 65.22.129.33
-nserver:      C0.NIC.ICBC 2a01:8840:80:0:0:0:0:33 65.22.130.33
+nserver:      A.ZDNSCLOUD.COM 203.99.24.1
+nserver:      B.ZDNSCLOUD.COM 203.99.25.1
+nserver:      C.ZDNSCLOUD.COM 203.99.26.1
+nserver:      D.ZDNSCLOUD.COM 203.99.27.1
+nserver:      F.ZDNSCLOUD.COM 114.67.16.204
+nserver:      G.ZDNSCLOUD.COM 42.62.2.16
+nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
+nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
 ds-rdata:     40582 8 2 7b808042c4c053d9af8f39b7e784a66c00ce1d9eef0bc1dc6e5d59a4451da05a
+ds-rdata:     52120 8 2 36fd8acb79ed5963abd523bb73b5c9fa39f8d206ed2488436d1795b1228766ee
 
 whois:        whois.nic.icbc
 
@@ -40,6 +51,6 @@ remarks:      Registration information:
 remarks:      http://www.icbc.com.cn/ICBC/%E5%9F%9F%E5%90%8D%E6%B3%A8%E5%86%8C%E5%B1%80/default.htm
 
 created:      2015-04-09
-changed:      2021-04-01
+changed:      2023-01-18
 source:       IANA
 
