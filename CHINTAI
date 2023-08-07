@@ -7,13 +7,14 @@ domain:       CHINTAI
 organisation: CHINTAI Corporation
 address:      1-2-7 Motoakasaka
 address:      AKASAKA K- TOWER 10th Floor
-address:      Minato-Ku, Tokyo 107-0051 Japan
+address:      Minato-ku Tokyo 107-0051
 address:      Japan
 
 contact:      administrative
 name:         Jacob Williams
 organisation: Interlink Co., Ltd.
-address:      Sunshine 60 Bldg. 45F 3-1-1 Higashi Ikebukuro, Toshima, Tokyo 170-6045 JAPAN
+address:      Sunshine 60 Bldg. 45F 3-1-1 Higashi Ikebukuro
+address:      Toshima Tokyo 170-6045
 address:      Japan
 phone:        +81 50-5525-7438
 fax-no:       +81 3-5979-2337
@@ -23,8 +24,8 @@ contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
 address:      2155 E GoDaddy Way
-address:      Tempe, AZ 85284
-address:      United States
+address:      Tempe AZ 85284
+address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
@@ -35,7 +36,7 @@ nserver:      C.NIC.CHINTAI 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.CHINTAI 156.154.144.40 2610:a1:1071:0:0:0:0:28
 nserver:      NS2.DNS.NIC.CHINTAI 156.154.145.40 2610:a1:1072:0:0:0:0:28
 nserver:      NS3.DNS.NIC.CHINTAI 156.154.159.40 2610:a1:1073:0:0:0:0:28
-ds-rdata:     58834 8 2 71DC6C01F954DA83B6CDC9E95BEABCF8A72FCF478B56F7B4E1214E965BCBFE7C
+ds-rdata:     58834 8 2 71dc6c01f954da83b6cdc9e95beabcf8a72fcf478b56f7b4e1214e965bcbfe7c
 
 whois:        whois.nic.chintai
 
