@@ -5,14 +5,16 @@
 domain:       OPEN
 
 organisation: American Express Travel Related Services Company, Inc.
-address:      200 Vesey Street, New York, NY 10285
-address:      United States
+address:      200 Vesey Street
+address:      New York NY 10285
+address:      United States of America (the)
 
 contact:      administrative
 name:         Admin
 organisation: American Express Travel Related Services, Inc.
-address:      200 Vesey Street, New York, NY 10285
-address:      United States
+address:      200 Vesey Street
+address:      New York NY 10285
+address:      United States of America (the)
 phone:        +1 212 640 2000
 fax-no:       +1 212 640 9212
 e-mail:       ngtld-amex@cscglobal.com
@@ -21,8 +23,8 @@ contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
 address:      2155 E GoDaddy Way
-address:      Tempe, AZ 85284
-address:      United States
+address:      Tempe AZ 85284
+address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
@@ -33,7 +35,9 @@ nserver:      C.NIC.OPEN 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.OPEN 156.154.144.128 2610:a1:1071:0:0:0:0:80
 nserver:      NS2.DNS.NIC.OPEN 156.154.145.128 2610:a1:1072:0:0:0:0:80
 nserver:      NS3.DNS.NIC.OPEN 156.154.159.128 2610:a1:1073:0:0:0:0:80
-ds-rdata:     37351 8 2 A7C742AF4B9A5C8F40C652AB5438E4107599C7F5B052FBF6588FD1CD79C9CA78
+ds-rdata:     37351 8 2 a7c742af4b9a5c8f40c652ab5438e4107599c7f5b052fbf6588fd1cd79c9ca78
+
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information:
