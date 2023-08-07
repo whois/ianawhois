@@ -6,14 +6,14 @@ domain:       HR
 
 organisation: CARNet - Croatian Academic and Research Network
 address:      Josipa Marohnica 5
-address:      Zagreb  10000
+address:      Zagreb 10000
 address:      Croatia
 
 contact:      administrative
 name:         CARNet DNS-Admin
 organisation: CARNet - Croatian Academic and Research Network
 address:      Josipa Marohnica 5
-address:      Zagreb  10000
+address:      Zagreb 10000
 address:      Croatia
 phone:        +385 1 66 61 686
 fax-no:       +385 1 66 61 615
@@ -23,7 +23,7 @@ contact:      technical
 name:         CARNet Hostmaster
 organisation: CARNet - Croatian Academic and Research Network
 address:      Josipa Marohnica 5
-address:      Zagreb  10000
+address:      Zagreb 10000
 address:      Croatia
 phone:        +385 1 66 61 616
 fax-no:       +385 1 66 61 615
@@ -32,8 +32,8 @@ e-mail:       hostmaster@carnet.hr
 nserver:      HR-NS-1.CARNET.HR 161.53.160.100 2001:b68:ff:1:0:0:0:100
 nserver:      N.DNS.HR 194.146.106.142 2001:67c:1010:36:0:0:0:53
 nserver:      PCH.CARNET.HR 2001:500:14:6090:ad:0:0:1 204.61.216.90
-ds-rdata:     63025 8 1 D2E75CC74208F81B1EE50EFF524259BDA1F72AC1
-ds-rdata:     63025 8 2 1493B6F67A78F844E72953B29B7FEE9F6301F41E998BED94427C79A5AB60BAE6
+ds-rdata:     63025 8 1 d2e75cc74208f81b1ee50eff524259bda1f72ac1
+ds-rdata:     63025 8 2 1493b6f67a78f844e72953b29b7fee9f6301f41e998bed94427c79a5ab60bae6
 
 whois:        whois.dns.hr
 
