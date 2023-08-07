@@ -6,13 +6,15 @@ domain:       بيتك
 domain-ace:   XN--NGBE9E0A
 
 organisation: Kuwait Finance House
-address:      P.O. Box 24989 Safat, 13110
+address:      P.O. Box 24989
+address:      Safat 13110
 address:      Kuwait
 
 contact:      administrative
 name:         Majeed Behzadi
 organisation: Kuwait Finance House
-address:      P.O. Box 24989 Safat, 13110
+address:      P.O. Box 24989
+address:      Safat 13110
 address:      Kuwait
 phone:        +965.24966400
 fax-no:       +965.24966403
@@ -21,9 +23,10 @@ e-mail:       majeed@kfh.com
 contact:      technical
 name:         CTO
 organisation: CentralNic
-address:      Saddlers House 4th Floor 44 Gutter Lane
+address:      Saddlers House, 4th Floor
+address:      44 Gutter Lane
 address:      London EC2V 6BR
-address:      United Kingdom
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44 20 33 88 0600
 fax-no:       +44 20 33 88 0601
 e-mail:       tld.ops@centralnic.com
@@ -32,8 +35,8 @@ nserver:      A.NIC.XN--NGBE9E0A 194.169.218.22 2001:67c:13cc:0:0:0:1:22
 nserver:      B.NIC.XN--NGBE9E0A 185.24.64.22 2a04:2b00:13cc:0:0:0:1:22
 nserver:      C.NIC.XN--NGBE9E0A 212.18.248.22 2a04:2b00:13ee:0:0:0:0:22
 nserver:      D.NIC.XN--NGBE9E0A 212.18.249.22 2a04:2b00:13ff:0:0:0:0:22
-ds-rdata:     10552 8 1 C5F1478252DC3D25E585A8D43AD460C0E8F86863
-ds-rdata:     10552 8 2 B4B742442C6B66D321259FCD7608462A75F2A7EA70AF4E42A6CAD0430DD98D51
+ds-rdata:     10552 8 1 c5f1478252dc3d25e585a8d43ad460c0e8f86863
+ds-rdata:     10552 8 2 b4b742442c6b66d321259fcd7608462a75f2a7ea70af4e42a6cad0430dd98d51
 
 whois:        whois.nic.xn--ngbe9e0a
 
