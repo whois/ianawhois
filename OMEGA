@@ -5,16 +5,15 @@
 domain:       OMEGA
 
 organisation: The Swatch Group Ltd
-address:      Seevorstadt 6 Biel / Bienne
-address:      CH-2501
+address:      Seevorstadt 6
+address:      Biel / Bienne CH-2501
 address:      Switzerland
 
 contact:      administrative
 name:         Digital Project Manager
 organisation: The Swatch Group Ltd
 address:      Seevorstadt 6
-address:      Biel / Bienne
-address:      CH-2501
+address:      Biel / Bienne CH-2501
 address:      Switzerland
 phone:        +41 32 343 68 11
 fax-no:       +41 32 343 69 11
@@ -24,8 +23,8 @@ contact:      technical
 name:         Registry Customer Service
 organisation: Verisign, Inc.
 address:      12061 Bluemont Way
-address:      Reston, Virginia 20190
-address:      United States
+address:      Reston VA 20190
+address:      United States of America (the)
 phone:        +1-703-925-6999
 fax-no:       +1-703-948-3978
 e-mail:       info@verisign-grs.com
@@ -34,7 +33,7 @@ nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
 nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
 nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
 nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
-ds-rdata:     4269 8 2 439D91ED221DE512CB04F3A7218DB1B019340B8D6228AB73DEAD0DF30AB5CF7B
+ds-rdata:     4269 8 2 439d91ed221de512cb04f3a7218db1b019340b8d6228ab73dead0df30ab5cf7b
 
 whois:        whois.nic.omega
 
