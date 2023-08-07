@@ -6,15 +6,15 @@ domain:       SCOT
 
 organisation: Dot Scot Registry Limited
 address:      Suite 119, 111 West George Street
-address:      Glasgow, Scotland G2 1QX
-address:      United Kingdom
+address:      Glasgow Scotland G2 1QX
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 
 contact:      administrative
 name:         .scot Administrative Contact
 organisation: Dot Scot Registry Limited
 address:      Suite 119, 111 West George Street
-address:      Glasgow, Scotland G2 1QX
-address:      United Kingdom
+address:      Glasgow Scotland G2 1QX
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44-141-225-6285
 fax-no:       +44-141-225-6271
 e-mail:       secretariat@dotscot.net
@@ -23,7 +23,7 @@ contact:      technical
 name:         .scot Technical Contact
 organisation: CORE Association
 address:      2, Cours de Rive
-address:      CH-1204 Geneva
+address:      Geneva CH-1204
 address:      Switzerland
 phone:        +41 223 125 610
 fax-no:       +41 223 125 612
@@ -33,7 +33,7 @@ nserver:      ANYCAST10.IRONDNS.NET 195.253.64.12 2a01:5b0:4:0:0:0:0:c
 nserver:      ANYCAST23.IRONDNS.NET 195.253.65.11 2a01:5b0:5:0:0:0:0:b
 nserver:      ANYCAST24.IRONDNS.NET 195.253.65.12 2a01:5b0:5:0:0:0:0:c
 nserver:      ANYCAST9.IRONDNS.NET 195.253.64.11 2a01:5b0:4:0:0:0:0:b
-ds-rdata:     28873 10 2 A99FB1213FC07299A57251F57238BC0F796D7AA311624CF49DDCACAC08C1DC3D
+ds-rdata:     28873 10 2 a99fb1213fc07299a57251f57238bc0f796d7aa311624cf49ddcacac08c1dc3d
 
 whois:        whois.nic.scot
 
@@ -41,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: https://dot.scot/
 
 created:      2014-06-05
-changed:      2019-08-07
+changed:      2022-01-07
 source:       IANA
 
