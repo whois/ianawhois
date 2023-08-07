@@ -6,15 +6,15 @@ domain:       COMPARE
 
 organisation: Registry Services, LLC
 address:      2155 E. GoDaddy Way
-address:      Tempe, AZ 85284
-address:      United States
+address:      Tempe AZ 85284
+address:      United States of America (the)
 
 contact:      administrative
 name:         IANA Contact
 organisation: GoDaddy Registry
 address:      2155 E GoDaddy Way
-address:      Tempe, AZ 85284
-address:      United States
+address:      Tempe AZ 85284
+address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
 e-mail:       iana@registry.godaddy
@@ -23,8 +23,8 @@ contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
 address:      2155 E GoDaddy Way
-address:      Tempe, AZ 85284
-address:      United States
+address:      Tempe AZ 85284
+address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
 e-mail:       iana@registry.godaddy
@@ -32,8 +32,10 @@ e-mail:       iana@registry.godaddy
 nserver:      A.NIC.COMPARE 2001:dcd:1:0:0:0:0:9 37.209.192.9
 nserver:      B.NIC.COMPARE 2001:dcd:2:0:0:0:0:9 37.209.194.9
 nserver:      C.NIC.COMPARE 2001:dcd:3:0:0:0:0:9 37.209.196.9
-nserver:      D.NIC.COMPARE 2001:dcd:4:0:0:0:0:9 37.209.198.9
-ds-rdata:     12634 8 2 40C8DBBA65AC7385A2DD35E299EE6010D850197DD7A438DCCAC7D13C2D32D953
+nserver:      X.NIC.COMPARE 156.154.172.82 2610:a1:1074:0:0:0:1:82
+nserver:      Y.NIC.COMPARE 156.154.173.82 2610:a1:1075:0:0:0:1:82
+nserver:      Z.NIC.COMPARE 156.154.174.82 2610:a1:1076:0:0:0:1:82
+ds-rdata:     12634 8 2 40c8dbba65ac7385a2dd35e299ee6010d850197dd7a438dccac7d13c2d32d953
 
 whois:        whois.nic.compare
 
@@ -41,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.compare/
 
 created:      2015-12-23
-changed:      2022-07-18
+changed:      2022-12-01
 source:       IANA
 
