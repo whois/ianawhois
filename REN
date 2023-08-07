@@ -5,13 +5,17 @@
 domain:       REN
 
 organisation: ZDNS International Limited
-address:      4, South 4th Street, Zhonguancun, Haidian District, Beijing, China, 100190
+address:      4, South 4th Street, Zhongguancun
+address:      Haidian District
+address:      Beijing 100190
 address:      China
 
 contact:      administrative
 name:         Director
 organisation: ZDNS
-address:      4, South 4th Street, Zhonguancun, Haidian District, Beijing, China, 100190
+address:      4, South 4th Street, Zhongguancun
+address:      Haidian District
+address:      Beijing 100190
 address:      China
 phone:        86-10-58812426
 e-mail:       sophia@zdns.ren
@@ -19,7 +23,9 @@ e-mail:       sophia@zdns.ren
 contact:      technical
 name:         Director
 organisation: ZDNS
-address:      4, South 4th Street, Zhonguancun, Haidian Distrcit, Beijing, China, 100190
+address:      4, South 4th Street, Zhongguancun
+address:      Haidian District
+address:      Beijing 100190
 address:      China
 phone:        86-10-58812426
 e-mail:       gaolei@zdns.cn
@@ -40,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.ren/
 
 created:      2014-02-28
-changed:      2020-11-04
+changed:      2022-12-08
 source:       IANA
 
