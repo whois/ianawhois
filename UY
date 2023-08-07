@@ -6,16 +6,14 @@ domain:       UY
 
 organisation: SeCIU - Universidad de la Republica
 address:      Colonia 2066
-address:      C.P. 11200
-address:      Montevideo
+address:      Montevideo C.P. 11200
 address:      Uruguay
 
 contact:      administrative
 name:         Director
 organisation: Servicio Central de Informatica (SECIU)
 address:      Colonia 2066
-address:      C.P. 11200
-address:      Montevideo
+address:      Montevideo C.P. 11200
 address:      Uruguay
 phone:        +598 2408 3901
 fax-no:       +598 2401 5843
@@ -25,8 +23,7 @@ contact:      technical
 name:         Coordinador técnico de UYNIC
 organisation: Servicio Central de Informatica (SECIU)
 address:      Colonia 2066
-address:      C.P. 11200
-address:      Montevideo
+address:      Montevideo C.P. 11200
 address:      Uruguay
 phone:        +598 2408 3901
 fax-no:       +598 2 401 5843
@@ -39,8 +36,7 @@ nserver:      D.NIC.UY 2a01:8840:1bb:0:0:0:0:1 65.22.41.1
 nserver:      NS.DNS.BR 200.160.0.5 2001:12ff:0:a20:0:0:0:5
 nserver:      NS1.ANTELDATA.COM.UY 200.40.30.254 2800:a0:53:1001:0:0:0:1
 nserver:      NS2.ANTELDATA.COM.UY 200.40.220.254 2800:a0:53:1002:0:0:0:1
-nserver:      NS3.NIC.MX 200.33.111.1
-ds-rdata:     19730 8 2 E85A089D69F869CF923DF395F279F1C92BD136A33B60988748B0186E12F7B88E
+ds-rdata:     19730 8 2 e85a089d69f869cf923df395f279f1c92bd136a33b60988748b0186e12f7b88e
 
 whois:        whois.nic.org.uy
 
@@ -48,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.org.uy/
 
 created:      1990-09-10
-changed:      2019-12-17
+changed:      2022-12-08
 source:       IANA
 
