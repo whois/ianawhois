@@ -6,14 +6,14 @@ domain:       AXA
 
 organisation: AXA Group Operations SAS
 address:      81 Rue Mstislav Rostropovitch
-address:      75017 Paris
+address:      Paris 75017
 address:      France
 
 contact:      administrative
 name:         Mark Wilson
 organisation: AXA Group Operations SAS
 address:      81 Rue Mstislav Rostropovitch
-address:      75017 Paris
+address:      Paris 75017
 address:      France
 phone:        +44 7977 917316
 e-mail:       mark.wilson@axa.com
@@ -22,8 +22,8 @@ contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
 address:      2155 E GoDaddy Way
-address:      Tempe, AZ 85284
-address:      United States
+address:      Tempe AZ 85284
+address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
@@ -34,7 +34,9 @@ nserver:      C.NIC.AXA 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.AXA 156.154.144.20 2610:a1:1071:0:0:0:0:14
 nserver:      NS2.DNS.NIC.AXA 156.154.145.20 2610:a1:1072:0:0:0:0:14
 nserver:      NS3.DNS.NIC.AXA 156.154.159.20 2610:a1:1073:0:0:0:0:14
-ds-rdata:     62554 8 2 E0444F158023DD294CB64EBCE2B642BD7D26EDDF0D5A1592B12C9D6411C1C448
+ds-rdata:     62554 8 2 e0444f158023dd294cb64ebce2b642bd7d26eddf0d5a1592b12c9d6411c1c448
+
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: https://domains.axa/
