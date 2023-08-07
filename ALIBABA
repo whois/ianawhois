@@ -6,19 +6,15 @@ domain:       ALIBABA
 
 organisation: Alibaba Group Holding Limited
 address:      Fourth Floor, One Capital Place, P.O Box 847
-address:      George Town
-address:      Grand Cayman
-address:      KY1-1103
-address:      Cayman Islands
+address:      George Town Grand Cayman KY1-1103
+address:      Cayman Islands (the)
 
 contact:      administrative
 name:         Project & Process Manager
 organisation: Alibaba Group Holding Limited
 address:      Fourth Floor, One Capital Place, P.O Box 847
-address:      George Town
-address:      Grand Cayman
-address:      KY1-1103
-address:      Cayman Islands
+address:      George Town Grand Cayman KY1-1103
+address:      Cayman Islands (the)
 phone:        852.2215.5100
 fax-no:       852.2215.5200
 e-mail:       ngtld-alibaba@cscglobal.com
@@ -26,11 +22,10 @@ e-mail:       ngtld-alibaba@cscglobal.com
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
 organisation: Afilias
-address:      Building 3, Suite 105
 address:      300 Welsh Road
-address:      Horsham, PA 19044
-address:      United States
-address:      United States
+address:      Building 3, Suite 105
+address:      Horsham PA 19044
+address:      United States of America (the)
 phone:        +1 215.706.5700
 fax-no:       +1 215.706.5701
 e-mail:       tld-tech-poc@afilias.info
