@@ -35,7 +35,7 @@ nserver:      NS2.UNIREGISTRY.INFO 64.96.2.1
 nserver:      NS3.UNIREGISTRY.NET 185.159.197.3 2620:10a:80aa:0:0:0:0:3
 nserver:      NS34.CDNS.NET 194.0.1.34 2001:678:4:0:0:0:0:22
 nserver:      NS4.UNIREGISTRY.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
-ds-rdata:     55698 13 2 AD4401344BEF3BD1F86737A2E2D008D5F5D138E101F4396A0461FF93A313C50E
+ds-rdata:     55698 13 2 ad4401344bef3bd1f86737a2e2d008d5f5d138e101f4396a0461ff93a313c50e
 
 whois:        whois.dmdomains.dm
 
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.dm
 
 created:      1991-09-03
-changed:      2022-08-31
+changed:      2022-11-22
 source:       IANA
 
