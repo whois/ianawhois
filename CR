@@ -7,7 +7,7 @@ domain:       CR
 organisation: National Academy of Sciences
 organisation: Academia Nacional de Ciencias
 address:      San Pedro Montes de Oca
-address:      San José  1367-2050
+address:      San José 1367-2050
 address:      Costa Rica
 
 contact:      administrative
@@ -15,7 +15,7 @@ name:         Guy F. de Teramond
 organisation: National Academy of Sciences
 organisation: Academia Nacional de Ciencias
 address:      San Pedro Montes de Oca
-address:      San José  1367-2050
+address:      San José 1367-2050
 address:      Costa Rica
 phone:        +506 2283 4814
 fax-no:       +506 2283 4101
@@ -25,7 +25,7 @@ contact:      technical
 name:         Sergio Tenorio Vargas
 organisation: National Academy of Sciences Academia Nacional de Ciencias
 address:      Barrio Francisco Peralta, de la Casa Italia 100 metros al oeste y 15 metros sur
-address:      San José  1367-2050
+address:      San José 1367-2050
 address:      Costa Rica
 phone:        +506 2280-6453
 fax-no:       +506 2280+5261
@@ -37,7 +37,8 @@ nserver:      CA2.NIC.CR 185.159.198.100 2620:10a:80ab:0:0:0:0:100
 nserver:      DE.NIC.CR 194.0.11.107 2001:678:e:107:0:0:0:53
 nserver:      DNS.NIC.CR 200.107.82.100 2001:13c7:7004:1:0:0:0:d100
 nserver:      P.NIC.CR 2001:500:14:6089:ad:0:0:1 204.61.216.89
-ds-rdata:     3708 13 2 d6c9af023cc12d1d86f5b3dfad932908153d8e12b71f77330f23fb08ba15d0a2
+ds-rdata:     10517 13 2 268fb03099e07547620f19a62f101daea146dcee6faaa18263e0b3da4e997d6c
+ds-rdata:     10517 13 4 11d20d7c408a1f289f6ece30f241ca4beb6abe9d6376e8c6be2fee6400038989ee5c447340a5f2e7676454bbbeabfc95
 
 whois:        whois.nic.cr
 
@@ -45,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.cr/
 
 created:      1990-09-10
-changed:      2022-03-16
+changed:      2023-04-12
 source:       IANA
 
