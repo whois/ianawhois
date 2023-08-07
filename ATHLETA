@@ -5,14 +5,16 @@
 domain:       ATHLETA
 
 organisation: The Gap, Inc.
-address:      2 Folsom Street, San Francisco, California 94105
-address:      United States
+address:      2 Folsom Street
+address:      San Francisco CA 94105
+address:      United States of America (the)
 
 contact:      administrative
 name:         Director, Consulting & Strategy
 organisation: FairWinds Partners, LLC
-address:      1000 Potomac Street NW, Suite 350, Washington, DC 20007
-address:      United States
+address:      1000 Potomac Street NW #350
+address:      Washington DC 20007
+address:      United States of America (the)
 phone:        +1 202 223 9252
 fax-no:       +1 202 223 9256
 e-mail:       gapregistries@fairwindspartners.com
@@ -21,8 +23,8 @@ contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
 address:      2155 E GoDaddy Way
-address:      Tempe, AZ 85284
-address:      United States
+address:      Tempe AZ 85284
+address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
@@ -33,7 +35,9 @@ nserver:      C.NIC.ATHLETA 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.ATHLETA 156.154.144.16 2610:a1:1071:0:0:0:0:10
 nserver:      NS2.DNS.NIC.ATHLETA 156.154.145.16 2610:a1:1072:0:0:0:0:10
 nserver:      NS3.DNS.NIC.ATHLETA 156.154.159.16 2610:a1:1073:0:0:0:0:10
-ds-rdata:     24775 8 2 27E604906E1205089032C4CF28BC8E12C35D6DD3C1D5FE612EF5FAE0AA5AC6BA
+ds-rdata:     24775 8 2 27e604906e1205089032c4cf28bc8e12c35d6dd3c1d5fe612ef5fae0aa5ac6ba
+
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: http://www.gap.com
