@@ -6,14 +6,14 @@ domain:       BASKETBALL
 
 organisation: Fédération Internationale de Basketball (FIBA)
 address:      Route Suisse 5 - P.O Box 29
-address:      1295 Mies
+address:      Mies CH-1295
 address:      Switzerland
 
 contact:      administrative
 name:         Hamish Miller
 organisation: Fédération Internationale de Basketball (FIBA)
 address:      Route Suisse 5 - P.O Box 29
-address:      1295 Mies
+address:      Mies CH-1295
 address:      Switzerland
 phone:        +64.21782255
 fax-no:       +44.2033880601
@@ -23,8 +23,8 @@ contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
 address:      2155 E GoDaddy Way
-address:      Tempe, AZ 85284
-address:      United States
+address:      Tempe AZ 85284
+address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
@@ -32,8 +32,10 @@ e-mail:       iana@registry.godaddy
 nserver:      A.NIC.BASKETBALL 2001:dcd:1:0:0:0:0:10 37.209.192.10
 nserver:      B.NIC.BASKETBALL 2001:dcd:2:0:0:0:0:10 37.209.194.10
 nserver:      C.NIC.BASKETBALL 2001:dcd:3:0:0:0:0:10 37.209.196.10
-nserver:      D.NIC.BASKETBALL 2001:dcd:4:0:0:0:0:10 37.209.198.10
-ds-rdata:     46201 8 2 CA5C951D022F3965AB936D403CFBB48F2D753D7B32DDE3AC146B419693DFBF30
+nserver:      X.NIC.BASKETBALL 156.154.172.82 2610:a1:1074:0:0:0:1:82
+nserver:      Y.NIC.BASKETBALL 156.154.173.82 2610:a1:1075:0:0:0:1:82
+nserver:      Z.NIC.BASKETBALL 156.154.174.82 2610:a1:1076:0:0:0:1:82
+ds-rdata:     46201 8 2 ca5c951d022f3965ab936d403cfbb48f2d753d7b32dde3ac146b419693dfbf30
 
 whois:        whois.nic.basketball
 
@@ -41,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.fiba.com/
 
 created:      2016-10-13
-changed:      2022-07-21
+changed:      2022-12-02
 source:       IANA
 
