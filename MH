@@ -6,15 +6,15 @@ domain:       MH
 
 organisation: Office of the Cabinet
 address:      P.O. Box 2
-address:      Majuro, MH 96960
-address:      Marshall Islands
+address:      Majuro MH 96960
+address:      Marshall Islands (the)
 
 contact:      administrative
 name:         Secretary, Ministry of Transportation and Communications
 organisation: Ministry of Transportation and Communications
 address:      P.O. Box 1079
-address:      Majuro, MH 96960
-address:      Marshall Islands
+address:      Majuro MH 96960
+address:      Marshall Islands (the)
 phone:        +692-625-6083, +692-625-8869, +692-625-8377
 fax-no:       +692-625-3486
 e-mail:       phil.philippo@gmail.com
@@ -23,14 +23,16 @@ contact:      technical
 name:         Chief Technical Officer
 organisation: National Telecommunications Authority
 address:      P.O. Box 1169
-address:      Majuro, MH 96960
-address:      Marshall Islands
+address:      Majuro MH 96960
+address:      Marshall Islands (the)
 phone:        +692-625-3852
 fax-no:       +692-625-3952
 e-mail:       msawej@ntamar.net
 
 nserver:      NS.AMARSHALLINC.COM 71.163.249.97
 nserver:      NS.NTAMAR.NET 117.103.88.33
+
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: http://www.nic.net.mh/
