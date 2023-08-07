@@ -6,17 +6,17 @@ domain:       世界
 domain-ace:   XN--RHQV96G
 
 organisation: Stable Tone Limited
-address:      Unit 10-18, 32⁄F, Tower 1, Millennium City 1
+address:      Unit 10-18, 32F, Tower 1, Millennium City 1
 address:      388 Kwun Tong Road, Kwun Tong
-address:      Hong Kong  Kowloon
+address:      Hong Kong Kowloon
 address:      Hong Kong
 
 contact:      administrative
 name:         Johnny Du
 organisation: Stable Tone Limited
-address:      Unit 10-18, 32⁄F, Tower 1, Millennium City 1
+address:      Unit 10-18, 32F, Tower 1, Millennium City 1
 address:      388 Kwun Tong Road, Kwun Tong
-address:      Hong Kong  Kowloon
+address:      Hong Kong Kowloon
 address:      Hong Kong
 phone:        +852.28248694
 fax-no:       +852.39722211
@@ -25,7 +25,8 @@ e-mail:       johnnydu@stabletone.com
 contact:      technical
 name:         Jiagui Xie
 organisation: Teleinfo, Inc.
-address:      Building 21, 1 Gaolizhang Road, Haidian District
+address:      Building 21, 1 Gaolizhang Road
+address:      Haidian District
 address:      Beijing 100095
 address:      China
 phone:        +86.15001385070
@@ -36,16 +37,18 @@ nserver:      NS1.TELEINFO.CN 103.61.60.1 2402:7d80:0:0:0:0:0:1
 nserver:      NS2.TELEINFOO.COM 103.61.61.1 2402:7d80:8888:0:0:0:0:1
 nserver:      NS3.TELEINFO.CN 103.61.62.1
 nserver:      NS4.TELEINFOO.COM 103.61.63.1
-ds-rdata:     167 8 1 5A8EBBDDFE4D0E442138737A5FC1D3E34EBAE03F
-ds-rdata:     167 8 2 34F9402AB776FFB050D28976320570ACAAB0AFCE393A589494C7CEA61DA3D53E
-ds-rdata:     17089 8 2 0CAB870792E42B0EF02EBCEF64C3A4FE22D1BE9EF91DD64004473741347A11F4
-ds-rdata:     17089 8 1 122B5A9CCCDDD8FBCA1164643630FF6D75D856DA
-ds-rdata:     27565 8 2 B53C43C6B3F1146CC9969545C292FAE4823D43B81DA05141646F837451E92375
+ds-rdata:     167 8 1 5a8ebbddfe4d0e442138737a5fc1d3e34ebae03f
+ds-rdata:     167 8 2 34f9402ab776ffb050d28976320570acaab0afce393a589494c7cea61da3d53e
+ds-rdata:     17089 8 2 0cab870792e42b0ef02ebcef64c3a4fe22d1be9ef91dd64004473741347a11f4
+ds-rdata:     17089 8 1 122b5a9cccddd8fbca1164643630ff6d75d856da
+ds-rdata:     27565 8 2 b53c43c6b3f1146cc9969545c292fae4823d43b81da05141646f837451e92375
+
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: http://www.stabletone.com
 
 created:      2014-03-06
-changed:      2019-09-05
+changed:      2023-01-19
 source:       IANA
 
