@@ -6,34 +6,35 @@ domain:       SAXO
 
 organisation: Saxo Bank A/S
 address:      Phillip Heymans Allé 15
-address:      2900 Hellerup
+address:      Hellerup DK-2900
 address:      Denmark
 
 contact:      administrative
 name:         Project & Process Manager
 organisation: Saxo Bank A/S
 address:      Phillip Heymans Allé 15
-address:      2900 Hellerup
+address:      Hellerup DK-2900
 address:      Denmark
-phone:        +4533886365
-fax-no:       +4533886101
-e-mail:       saxo@gtld.com
+phone:        +442070151717
+e-mail:       ngtld-saxo@cscglobal.com
 
 contact:      technical
 name:         Project & Process Manager
 organisation: Saxo Bank A/S
 address:      Phillip Heymans Allé 15
-address:      2900 Hellerup
+address:      Hellerup DK-2900
 address:      Denmark
-phone:        +4533886365
-fax-no:       +4533886101
-e-mail:       saxo@gtld.com
+phone:        +442070151717
+e-mail:       ngtld-saxo@cscglobal.com
 
 nserver:      A.NIC.SAXO 2001:dcd:1:0:0:0:0:9 37.209.192.9
 nserver:      B.NIC.SAXO 2001:dcd:2:0:0:0:0:9 37.209.194.9
 nserver:      C.NIC.SAXO 2001:dcd:3:0:0:0:0:9 37.209.196.9
-nserver:      D.NIC.SAXO 2001:dcd:4:0:0:0:0:9 37.209.198.9
-ds-rdata:     33499 8 2 3DACA03D08EF7CFDEA7E7F42231F411F3B56B9C8CA2CBB2D6D6A70B63652FA79
+nserver:      X.NIC.SAXO 156.154.172.82 2610:a1:1074:0:0:0:1:82
+nserver:      Y.NIC.SAXO 156.154.173.82 2610:a1:1075:0:0:0:1:82
+nserver:      Z.NIC.SAXO 156.154.174.82 2610:a1:1076:0:0:0:1:82
+ds-rdata:     33499 8 2 3daca03d08ef7cfdea7e7f42231f411f3b56b9c8ca2cbb2d6d6a70b63652fa79
+ds-rdata:     8887 8 2 117f2b38851f01fd3b94ff49ed5a41b04425f8926aa9d569c301cf46f05202c3
 
 whois:        whois.nic.saxo
 
@@ -41,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.saxo
 
 created:      2015-01-15
-changed:      2022-07-21
+changed:      2023-07-31
 source:       IANA
 
