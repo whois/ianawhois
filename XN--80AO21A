@@ -6,15 +6,17 @@ domain:       қаз
 domain-ace:   XN--80AO21A
 
 organisation: Association of IT Companies of Kazakhstan
-address:      6/5 Kabanbai Batyra, Office 3
-address:      Astana AST 010000
+address:      6/5 Kabanbai Batyra
+address:      Office 3
+address:      Nur-Sultan 020000
 address:      Kazakhstan
 
 contact:      administrative
 name:         Nurlan Issin
 organisation: Association of IT Companies of Kazakhstan
-address:      6/5 Kabanbai Batyra, Office 3
-address:      Astana AST 010000
+address:      6/5 Kabanbai Batyra
+address:      Office 3
+address:      Nur-Sultan 020000
 address:      Kazakhstan
 phone:        +7 7172 92 55 52
 fax-no:       +7 7172 92 54 11
@@ -32,6 +34,8 @@ e-mail:       pg@nic.kz
 
 nserver:      NS.NIC.KZ 194.0.21.5 2001:678:98:1:0:0:0:5
 nserver:      NS1.NIC.KZ 185.79.212.7 2a01:7640:9000:0:0:0:0:7
+nserver:      NS2.NIC.KZ 2001:500:14:6143:ad:0:0:1 204.61.216.143
+ds-rdata:     12941 13 2 1e67e661e644f9c2cc122cf6307ce2ba434a1d3aebec08769bf5a28ec697f8db
 
 whois:        whois.nic.kz
 
@@ -39,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.kz/
 
 created:      2011-09-15
-changed:      2017-01-13
+changed:      2023-03-07
 source:       IANA
 
