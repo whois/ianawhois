@@ -5,15 +5,16 @@
 domain:       HYATT
 
 organisation: Hyatt GTLD, L.L.C.
-address:      71 S. Wacker Drive, Chicago, IL 60606
-address:      United States
+address:      71 S. Wacker Drive
+address:      Chicago IL 60606
+address:      United States of America (the)
 
 contact:      administrative
 name:         Senior Vice President, Operations
 organisation: Brandsight, Inc.
 address:      18 Division St., Suite 309
-address:      Saratoga Springs, New York 12866
-address:      United States
+address:      Saratoga Springs NY 12866
+address:      United States of America (the)
 phone:        +1 518 966 9187
 e-mail:       hyattgtld@brandsight.com
 
@@ -21,8 +22,8 @@ contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
 address:      2155 E GoDaddy Way
-address:      Tempe, AZ 85284
-address:      United States
+address:      Tempe AZ 85284
+address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
@@ -33,7 +34,9 @@ nserver:      C.NIC.HYATT 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.HYATT 156.154.144.78 2610:a1:1071:0:0:0:0:4e
 nserver:      NS2.DNS.NIC.HYATT 156.154.145.78 2610:a1:1072:0:0:0:0:4e
 nserver:      NS3.DNS.NIC.HYATT 156.154.159.78 2610:a1:1073:0:0:0:0:4e
-ds-rdata:     34852 8 2 B21957EBB857E894B0FC407AC189CBAB466804F560AD5815E9D1AF829A566424
+ds-rdata:     34852 8 2 b21957ebb857e894b0fc407ac189cbab466804f560ad5815e9d1af829a566424
+
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: http://www.hyatt.com
