@@ -13,7 +13,8 @@ address:      China
 contact:      administrative
 name:         Admin Contact
 organisation: Namesphere Holdings Limited
-address:      12/F, Daily House, 35-37 Haiphong Road, Tsim Sha Tsui, Kowloon
+address:      12/F, Daily House, 35-37 Haiphong Road,
+address:      Tsim Sha Tsui, Kowloon
 address:      Hong Kong
 address:      China
 phone:        +852 2244 7900
@@ -23,10 +24,10 @@ e-mail:       info@tld.asia
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
 organisation: Afilias
-address:      Building 3, Suite 105
 address:      300 Welsh Road
-address:      Horsham, PA 19044
-address:      United States
+address:      Building 3, Suite 105
+address:      Horsham PA 19044
+address:      United States of America (the)
 phone:        +1 215.706.5700
 fax-no:       +1 215.706.5701
 e-mail:       tld-tech-poc@afilias.info
@@ -44,6 +45,6 @@ remarks:      Registration information:
 remarks:      http://www.dot.asia/namesphere/
 
 created:      2016-04-15
-changed:      2020-11-05
+changed:      2023-08-03
 source:       IANA
 
