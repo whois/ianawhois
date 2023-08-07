@@ -5,34 +5,37 @@
 domain:       AUSPOST
 
 organisation: Australian Postal Corporation
-address:      111 Bourke Street,
-address:      Melbourne, VIC 3000
+address:      111 Bourke Street
+address:      Melbourne VIC 3000
 address:      Australia
 
 contact:      administrative
 name:         Manager Digital Customer Experience
 organisation: Australian Postal Corporation
-address:      111 Bourke Street,
-address:      Melbourne, VIC 3000
+address:      111 Bourke Street
+address:      Melbourne VIC 3000
 address:      Australia
 phone:        +61 3 8847 9045
 fax-no:       +61 3 9206 4153
 e-mail:       ngtld-auspost@cscinfo.com
 
 contact:      technical
-name:         Implementation Manager
+name:         Project & Process Manager
 organisation: CSC Digital Brand Services
 address:      2711 Centerville Rd. Suite 400
-address:      United States
-phone:        (302) 636-5400
-fax-no:       (302) 636-5454
-e-mail:       ngtlds-tech@cscinfo.com
+address:      Wilmington DE 19808
+address:      United States of America (the)
+phone:        +442070151717
+e-mail:       ngtld-auspost@cscinfo.com
 
 nserver:      A.NIC.AUSPOST 2001:dcd:1:0:0:0:0:9 37.209.192.9
 nserver:      B.NIC.AUSPOST 2001:dcd:2:0:0:0:0:9 37.209.194.9
 nserver:      C.NIC.AUSPOST 2001:dcd:3:0:0:0:0:9 37.209.196.9
-nserver:      D.NIC.AUSPOST 2001:dcd:4:0:0:0:0:9 37.209.198.9
-ds-rdata:     23341 8 2 CDCE581A5B4B9280A865FC7BD798572016629E0B4C56CAC1A3FCCEFB0D4329A2
+nserver:      X.NIC.AUSPOST 156.154.172.82 2610:a1:1074:0:0:0:1:82
+nserver:      Y.NIC.AUSPOST 156.154.173.82 2610:a1:1075:0:0:0:1:82
+nserver:      Z.NIC.AUSPOST 156.154.174.82 2610:a1:1076:0:0:0:1:82
+ds-rdata:     23341 8 2 cdce581a5b4b9280a865fc7bd798572016629e0b4c56cac1a3fccefb0d4329a2
+ds-rdata:     50557 8 2 8631f3b3daa56f69e46a0513ae0ba9943a0992a664a7ebc25c2a4e8792c5df83
 
 whois:        whois.nic.auspost
 
@@ -40,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: https://auspost.com.au
 
 created:      2016-08-11
-changed:      2022-07-21
+changed:      2023-07-31
 source:       IANA
 
