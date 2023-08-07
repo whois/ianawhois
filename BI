@@ -6,14 +6,16 @@ domain:       BI
 
 organisation: Centre National de l'Informatique
 address:      155 - 161 Chaussee P. L. Rwagasore
-address:      Bujumbura  BP 2270
+address:      BP 2270
+address:      Bujumbura
 address:      Burundi
 
 contact:      administrative
 name:         CNI
 organisation: Centre National de l'Informatique
 address:      157 Chee P. L. Rwagasore
-address:      Bujumbura  BP 2270
+address:      BP 2270
+address:      Bujumbura
 address:      Burundi
 phone:        +257 22 22 5005
 e-mail:       admin@nic.bi
@@ -22,7 +24,8 @@ contact:      technical
 name:         CNI
 organisation: Centre National de l'Informatique
 address:      157 Chee P. L. Rwagasore
-address:      Bujumbura  BP 2270
+address:      BP 2270
+address:      Bujumbura
 address:      Burundi
 phone:        +257 22 225005
 e-mail:       tech@nic.bi
