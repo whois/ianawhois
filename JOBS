@@ -5,16 +5,16 @@
 domain:       JOBS
 
 organisation: Employ Media LLC
-address:      3029 Prospect Avenue
-address:      Cleveland Ohio 44115
-address:      United States
+address:      3029 Prospect Ave.
+address:      Cleveland OH 44115
+address:      United States of America (the)
 
 contact:      administrative
 name:         Ray Fassett
 organisation: Employ Media LLC
-address:      3029 Prospect Avenue
-address:      Cleveland Ohio 44115
-address:      United States
+address:      3029 Prospect Ave.
+address:      Cleveland OH 44115
+address:      United States of America (the)
 phone:        +1-216-426-1500
 fax-no:       +1-216-588-1558
 e-mail:       ray@goto.jobs
@@ -22,12 +22,11 @@ e-mail:       ray@goto.jobs
 contact:      technical
 name:         TLD Registry Services Technical
 organisation: Nominet
-address:      Minerva House,
-address:      Edmund Halley Road,
-address:      Oxford Science Park,
-address:      Oxford
-address:      OX4 4DQ
-address:      United Kingdom
+address:      Minerva House
+address:      Edmund Halley Road
+address:      Oxford Science Park
+address:      Oxford OX4 4DQ
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44.1865332211
 e-mail:       registrytechnical@nominet.uk
 
@@ -39,7 +38,7 @@ nserver:      DNSA.NIC.JOBS 156.154.100.3 2001:502:ad09:0:0:0:0:3
 nserver:      DNSB.NIC.JOBS 156.154.101.3 2001:502:2eda:0:0:0:0:3
 nserver:      DNSC.NIC.JOBS 156.154.102.3 2610:a1:1009:0:0:0:0:3
 nserver:      DNSD.NIC.JOBS 156.154.103.3 2610:a1:1010:0:0:0:0:3
-ds-rdata:     47990 8 2 813737ED8EA193EAE37C0C2F95758A0DE0B5069A20A9B0E8F4955908AC40C57A
+ds-rdata:     47990 8 2 813737ed8ea193eae37c0c2f95758a0de0b5069a20a9b0e8f4955908ac40c57a
 
 whois:        whois.nic.jobs
 
