@@ -6,14 +6,14 @@ domain:       HELSINKI
 
 organisation: City of Helsinki
 address:      P.O. Box 1 (Executive Office, Pohjoisesplanadi 11-13)
-address:      00099 City of Helsinki
+address:      Helsinki 00099
 address:      Finland
 
 contact:      administrative
 name:         Project Manager
 organisation: City of Helsinki
 address:      P.O. Box 1 (Executive Office, Pohjoisesplanadi 11-13)
-address:      00099 City of Helsinki
+address:      Helsinki 00099
 address:      Finland
 phone:        +358 9 310 1641
 fax-no:       +358 9 655 783
@@ -22,10 +22,10 @@ e-mail:       kalle.mikkolainen@hel.fi
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
 organisation: Afilias
-address:      Building 3, Suit 105
 address:      300 Welsh Road
-address:      Horsham, PA 19044
-address:      United States
+address:      Building 3, Suite 105
+address:      Horsham PA 19044
+address:      United States of America (the)
 phone:        +1 215.706.5700
 fax-no:       +1 215.706.5701
 e-mail:       tld-tech-poc@afilias.info
