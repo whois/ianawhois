@@ -7,7 +7,7 @@ domain:       GL
 organisation: TELE Greenland A/S
 address:      Farip Aqqutaa 8
 address:      PO Box 1002
-address:      Nuuk  3900
+address:      Nuuk 3900
 address:      Greenland
 
 contact:      administrative
@@ -15,7 +15,7 @@ name:         Network Planning Department (NPL)
 organisation: TELE Greenland A/S
 address:      Farip Aqqutaa 8
 address:      PO Box 1002
-address:      Nuuk  3900
+address:      Nuuk 3900
 address:      Greenland
 phone:        +299 341255
 fax-no:       +299 322966
@@ -26,13 +26,12 @@ name:         Operations Support Systems Department (OSS)
 organisation: TELE Greenland A/S
 address:      Farip Aqqutaa 8
 address:      PO Box 1002
-address:      Nuuk  3900
+address:      Nuuk 3900
 address:      Greenland
 phone:        +299 341255
 fax-no:       +299 322966
 e-mail:       gl-admin@telepost.gl
 
-nserver:      A.NUUK.NIC.GL 194.177.224.13
 nserver:      D.NIC.GL 2001:500:14:6049:ad:0:0:1 204.61.216.49
 nserver:      NS1.ANYCASTDNS.CZ 185.38.108.108 2a00:fea0:dead:0:0:0:0:beef
 nserver:      NS2.ANYCASTDNS.CZ 185.28.194.194
@@ -44,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.gl/
 
 created:      1994-04-08
-changed:      2021-01-15
+changed:      2022-11-26
 source:       IANA
 
