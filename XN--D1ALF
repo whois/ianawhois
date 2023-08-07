@@ -7,28 +7,27 @@ domain-ace:   XN--D1ALF
 
 organisation: Macedonian Academic Research Network Skopje
 address:      Blvd. Partizanski Odredi 17
-address:      1000, Skopje
-address:      Macedonia, The Former Yugoslav Republic Of
+address:      Skopje 1000
+address:      North Macedonia
 
 contact:      administrative
-name:         Director
+name:         Aleksandar Poposki
 organisation: Macedonian Academic and Research Network MARnet
 address:      Blvd. Partizanski Odredi 17
-address:      1000, Skopje
-address:      Macedonia, The Former Yugoslav Republic Of
+address:      Skopje 1000
+address:      North Macedonia
 phone:        + 389 2 3256561
-fax-no:       + 389 2 3256561
-e-mail:       dimitrijoski@marnet.mk
+e-mail:       info@marnet.mk
 
 contact:      technical
-name:         Responsible in the DNS department 
-organisation: Macedonian Academic and Research Network MARnet
-address:      Blvd. Partizanski Odredi 17
-address:      1000, Skopje
-address:      Macedonia, The Former Yugoslav Republic Of
-phone:        + 389 2 3256561
-fax-no:       + 389 2 3256561
-e-mail:       novak.novakov@marnet.mk
+name:         Vladislav Bidikov
+organisation: Faculty of Computer Science and Engineering
+address:      "Rugjer Boshkovikj" 16, P.O. Box 393
+address:      Skopje 1000
+address:      North Macedonia
+phone:        +389 23070377
+fax-no:       +389 23088222
+e-mail:       vladislav.bidikov@finki.ukim.mk
 
 nserver:      D.EXT.NIC.CZ 193.29.206.2 2001:678:1:0:0:0:0:2
 nserver:      DNS-MK.UNIVIE.AC.AT 2001:628:453:bb:0:0:0:4 78.104.145.4
@@ -41,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://marnet.mk/
 
 created:      2014-04-21
-changed:      2014-10-24
+changed:      2023-07-24
 source:       IANA
 
