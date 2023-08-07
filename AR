@@ -5,14 +5,14 @@
 domain:       AR
 
 organisation: Presidencia de la Nación – Secretaría Legal y Técnica
-address:      Balcarce N°50 – Planta Baja
+address:      Balcarce no. 50, Planta Baja
 address:      Buenos Aires C1064AAB
 address:      Argentina
 
 contact:      administrative
 name:         Nacional Director
 organisation: Dirección Nacional del Registro de Nombres de Dominio de Internet – NIC Argentina
-address:      Suipacha 767  3th floor
+address:      Suipacha 767 3rd floor
 address:      Buenos Aires C1008AAO
 address:      Argentina
 phone:        +54 11 5238 1350
@@ -21,7 +21,7 @@ e-mail:       direccion@nic.ar
 contact:      technical
 name:         Sr. Juan Olmos
 organisation: Dirección General de Sistemas, Secretaría Legal y Técnica
-address:      Suipacha 767 3th floor
+address:      Suipacha 767 3rd floor
 address:      Buenos Aires C1008AAO
 address:      Argentina
 phone:        +54 11 5238 1350
@@ -34,7 +34,7 @@ nserver:      C.DNS.AR 200.108.148.50 2801:140:10:0:0:0:0:10
 nserver:      D.DNS.AR 192.140.126.50 2801:140:dddd:0:0:0:0:50
 nserver:      E.DNS.AR 170.238.66.50 2801:140:eeee:0:0:0:0:50
 nserver:      F.DNS.AR 130.59.31.20 2001:620:0:ff:0:0:0:20
-ds-rdata:     19606 8 2 4415CF1A2CF10DE94B92BC020F21D1BF4163B2E90F2A6F6A5D2A1740339D566C
+ds-rdata:     19606 8 2 4415cf1a2cf10de94b92bc020f21d1bf4163b2e90f2a6f6a5d2a1740339d566c
 
 whois:        whois.nic.ar
 
