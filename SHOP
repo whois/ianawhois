@@ -5,13 +5,16 @@
 domain:       SHOP
 
 organisation: GMO Registry, Inc.
-address:      26-1 Sakuragaokacho Shibuya-ku, Tokyo
+address:      26-1 Sakuragaoka-cho
+address:      Shibuya-ku Tokyo
 address:      Japan
 
 contact:      administrative
 name:         Representative Director and CEO
 organisation: GMO Registry, Inc.
-address:      Cerulean Tower, 26-1 Sakuragaoka-cho, Shibuya-ku, Tokyo
+address:      Cerulean Tower
+address:      26-1 Sakuragaoka-cho
+address:      Shibuya-ku Tokyo 150-8512
 address:      Japan
 phone:        +81354561601
 fax-no:       +81337805239
@@ -20,7 +23,9 @@ e-mail:       newgtld@gmoregistry.com
 contact:      technical
 name:         Director
 organisation: GMO Registry, Inc.
-address:      Cerulean Tower 26-1 Sakuragaoka-cho, Shibuya-ku, Tokyo
+address:      Cerulean Tower
+address:      26-1 Sakuragaoka-cho
+address:      Shibuya-ku Tokyo 150-8512
 address:      Japan
 phone:        +81354561601
 fax-no:       +81337805239
@@ -38,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.gmoregistry.com/en/
 
 created:      2016-05-05
-changed:      2019-07-13
+changed:      2019-08-20
 source:       IANA
 
