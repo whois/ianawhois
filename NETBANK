@@ -7,9 +7,7 @@ domain:       NETBANK
 organisation: COMMONWEALTH BANK OF AUSTRALIA
 address:      Ground Floor
 address:      Tower 1 201 Sussex Street
-address:      Sydney
-address:      New South Wales
-address:      1155
+address:      Sydney NSW 1155
 address:      Australia
 
 contact:      administrative
@@ -17,9 +15,7 @@ name:         Domain Admin
 organisation: COMMONWEALTH BANK OF AUSTRALIA
 address:      Ground Floor
 address:      Tower 1 201 Sussex Street
-address:      Sydney
-address:      New South Wales
-address:      1155
+address:      Sydney NSW 1155
 address:      Australia
 phone:        +61477387865
 fax-no:       +61291181601
@@ -30,9 +26,7 @@ name:         Domain Admin
 organisation: COMMONWEALTH BANK OF AUSTRALIA
 address:      Ground Floor
 address:      Tower 1 201 Sussex Street
-address:      Sydney
-address:      New South Wales
-address:      1155
+address:      Sydney NSW 1155
 address:      Australia
 phone:        +61477387865
 fax-no:       +61291181601
@@ -42,7 +36,7 @@ nserver:      A.NIC.NETBANK 2001:dcd:1:0:0:0:0:9 37.209.192.9
 nserver:      B.NIC.NETBANK 2001:dcd:2:0:0:0:0:9 37.209.194.9
 nserver:      C.NIC.NETBANK 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      D.NIC.NETBANK 2001:dcd:4:0:0:0:0:9 37.209.198.9
-ds-rdata:     61447 8 2 2E300D5E09BDD071679488D325666AF89182213D8AF2BD2D026C57F3FAB5895E
+ds-rdata:     61447 8 2 2e300d5e09bdd071679488d325666af89182213d8af2bd2d026c57f3fab5895e
 
 whois:        whois.nic.netbank
 
