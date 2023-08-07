@@ -5,13 +5,15 @@
 domain:       STADA
 
 organisation: STADA Arzneimittel AG
-address:      Stadastrasse 2, Bad Vilbel, Hessen 61118
+address:      Stadastrasse 2
+address:      Bad Vilbel Hessen 61118
 address:      Germany
 
 contact:      administrative
 name:         CEO Opportunity Interactive Services GmbH
 organisation: Opportunity Interactive Services GmbH
-address:      Robert-Bosch-Straße 24, Karben, Hessen 61184
+address:      Robert-Bosch-Strasse 24
+address:      Karben Hessen 61184
 address:      Germany
 phone:        +49 6039 922616
 fax-no:       +49 6039 922699
@@ -20,9 +22,10 @@ e-mail:       dotstada@opportunity.de
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
 organisation: Afilias
-address:      Building 3, Suite 105 300 Welsh Road
-address:      Horsham, PA 19044
-address:      United States
+address:      300 Welsh Road
+address:      Building 3, Suite 105
+address:      Horsham PA 19044
+address:      United States of America (the)
 phone:        +1 215 706 5700
 fax-no:       +1 215 706 5701
 e-mail:       tld-tech-poc@afilias.info
@@ -33,12 +36,12 @@ nserver:      B0.NIC.STADA 2a01:8840:9b:0:0:0:0:25 65.22.157.25
 nserver:      C0.NIC.STADA 2a01:8840:9c:0:0:0:0:25 65.22.158.25
 ds-rdata:     10585 8 2 0bdb59ef7db2dbdd103cf1cda4ecbddd6befc6f4d074ef177311fc3358c14941
 
-whois:        whois.afilias-srs.net
+whois:        whois.nic.stada
 
 status:       ACTIVE
 remarks:      Registration information: http://www.stada.com
 
 created:      2015-08-13
-changed:      2020-12-10
+changed:      2023-08-03
 source:       IANA
 
