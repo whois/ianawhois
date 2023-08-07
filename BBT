@@ -5,33 +5,35 @@
 domain:       BBT
 
 organisation: BB&T Corporation
-address:      200 West Second Street Winston Salem, North Carolina - 27101
-address:      United States
+address:      200 West Second Street
+address:      Winston Salem NC 27101
+address:      United States of America (the)
 
 contact:      administrative
 name:         AVP Strategy Analyst
 organisation: BB&T Corporation
-address:      200 West Second Street Winston Salem, North Carolina - 27101
-address:      United States
+address:      200 West Second Street
+address:      Winston Salem NC 27101
+address:      United States of America (the)
 phone:        +1 919 745 5328
 fax-no:       +1 919 791 3356
 e-mail:       ngtld-bbt@cscinfo.com
 
 contact:      technical
-name:         Registry Customer Service
-organisation: Verisign, Inc.
-address:      12061 Bluemont Way
-address:      Reston, VA 20190
-address:      United States
-phone:        +1-703-925-6999
-fax-no:       +1-703-948-3978
-e-mail:       info@verisign-grs.com
+name:         Howard Eland, Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
 
-nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
-nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
-nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
-nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
-ds-rdata:     15390 8 2 E7872A1449946BA400B2472A61F369FE8ECF57EBADA1FAE28BF0BAC242AAC4F7
+nserver:      A0.NIC.BBT 2a01:8840:6e:0:0:0:0:44 65.22.112.44
+nserver:      A2.NIC.BBT 2a01:8840:71:0:0:0:0:44 65.22.115.44
+nserver:      B0.NIC.BBT 2a01:8840:6f:0:0:0:0:44 65.22.113.44
+nserver:      C0.NIC.BBT 2a01:8840:70:0:0:0:0:44 65.22.114.44
+ds-rdata:     41827 8 2 06a56f660dff926af3c13ea685e7322ebcae343d10a15aa9815f27e959b24ee5
 
 whois:        whois.nic.bbt
 
@@ -39,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://bbt.com
 
 created:      2016-05-12
-changed:      2016-07-16
+changed:      2023-07-26
 source:       IANA
 
