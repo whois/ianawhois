@@ -5,42 +5,41 @@
 domain:       NEXT
 
 organisation: Next plc
-address:      Desford Road,
-address:      Enderby,
-address:      Leicestershire, LE19 4AT
-address:      United Kingdom
+address:      Desford Road
+address:      Enderby Leicestershire LE19 4AT
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 
 contact:      administrative
 name:         Head of Ecommerce
 organisation: Next plc
-address:      Desford Road,
-address:      Enderby,
-address:      Leicestershire, LE19 4AT
-address:      United Kingdom
+address:      Desford Road
+address:      Enderby Leicestershire LE19 4AT
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44 844 844 8888
 e-mail:       ngtld-next@cscinfo.com
 
 contact:      technical
-name:         Registry Customer Service
-organisation: Verisign, Inc.
-address:      12061 Bluemont Way
-address:      Reston Virginia 20190
-address:      United States
-phone:        +1-703-925-6999
-fax-no:       +1-703-948-3978
-e-mail:       info@verisign-grs.com
+name:         Howard Eland, Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
 
-nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
-nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
-nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
-nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
-ds-rdata:     18699 8 2 6F0EEA97A1E666895178380D389D124CF968EE04B676AAF90D8DAEA1E1B71C6B
+nserver:      A0.NIC.NEXT 2a01:8840:6e:0:0:0:0:62 65.22.112.62
+nserver:      A2.NIC.NEXT 2a01:8840:71:0:0:0:0:62 65.22.115.62
+nserver:      B0.NIC.NEXT 2a01:8840:6f:0:0:0:0:62 65.22.113.62
+nserver:      C0.NIC.NEXT 2a01:8840:70:0:0:0:0:62 65.22.114.62
+ds-rdata:     39380 8 2 fd76f1a70049cc1383d9da8cbe33917b5877152f2d976e1a0806ca79c00f4658
 
 whois:        whois.nic.next
 
 status:       ACTIVE
+remarks:      Registration information: 
 
 created:      2016-04-21
-changed:      2016-05-03
+changed:      2023-07-26
 source:       IANA
 
