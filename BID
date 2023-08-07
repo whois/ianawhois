@@ -5,16 +5,15 @@
 domain:       BID
 
 organisation: dot Bid Limited
-address:      2nd Floor, Leisure Island Business Centre
-address:      Ocean Village
-address:      GX11 1AA
+address:      2nd Floor, Leisure Island Business Centre, Ocean Village
+address:      Gibraltar  GX11 1AA
 address:      Gibraltar
 
 contact:      administrative
 name:         Edgar Charles Andrew Lavarello
 organisation: Pricewaterhousecoopers Ltd.
 address:      327 Main Street
-address:      GX11 1AA
+address:      Gibraltar  GX11 1AA
 address:      Gibraltar
 phone:        +350 200 73520
 e-mail:       edgar.c.lavarello@gi.pwc.com
@@ -23,8 +22,8 @@ contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
 address:      2155 E GoDaddy Way
-address:      Tempe, AZ 85284
-address:      United States
+address:      Tempe AZ 85284
+address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
@@ -35,7 +34,7 @@ nserver:      C.NIC.BID 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      NS1.DNS.NIC.BID 156.154.144.25 2610:a1:1071:0:0:0:0:19
 nserver:      NS2.DNS.NIC.BID 156.154.145.25 2610:a1:1072:0:0:0:0:19
 nserver:      NS3.DNS.NIC.BID 156.154.159.25 2610:a1:1073:0:0:0:0:19
-ds-rdata:     20119 8 2 EB851AB057822A4C0092B8A500066227424C6BCE0E50B45D40B21476B18056B8
+ds-rdata:     20119 8 2 eb851ab057822a4c0092b8a500066227424c6bce0e50b45d40b21476b18056b8
 
 whois:        whois.nic.bid
 
