@@ -6,15 +6,15 @@ domain:       REIT
 
 organisation: National Association of Real Estate Investment Trusts, Inc.
 address:      1875 I ST NW
-address:      Washington, DC 20006
-address:      United States
+address:      Washington DC 20006
+address:      United States of America (the)
 
 contact:      administrative
 name:         VP, Operations
 organisation: National Association of Real Estate Investment Trusts, Inc.
 address:      1875 I ST NW
-address:      Washington, DC 20006
-address:      United States
+address:      Washington DC 20006
+address:      United States of America (the)
 phone:        +1.2027399400
 fax-no:       +1.2027399401
 e-mail:       rootzone@nareit.com
@@ -22,9 +22,10 @@ e-mail:       rootzone@nareit.com
 contact:      technical
 name:         CTO
 organisation: CentralNic
-address:      Saddlers House 4th Floor 44 Gutter Lane
+address:      Saddlers House, 4th Floor
+address:      44 Gutter Lane
 address:      London EC2V 6BR
-address:      United Kingdom
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44 20 33 88 0600
 fax-no:       +44 20 33 88 0601
 e-mail:       tld.ops@centralnic.com
@@ -33,8 +34,8 @@ nserver:      A.NIC.REIT 194.169.218.38 2001:67c:13cc:0:0:0:1:38
 nserver:      B.NIC.REIT 185.24.64.38 2a04:2b00:13cc:0:0:0:1:38
 nserver:      C.NIC.REIT 212.18.248.38 2a04:2b00:13ee:0:0:0:0:38
 nserver:      D.NIC.REIT 212.18.249.38 2a04:2b00:13ff:0:0:0:0:38
-ds-rdata:     44512 8 1 3451296E8F2FFE68EB14B400A686FE1DA12E3941
-ds-rdata:     44512 8 2 661FBDE636973834F5D417D3897DDF8590461DA6F020CFAA4274718DD926C523
+ds-rdata:     44512 8 1 3451296e8f2ffe68eb14b400a686fe1da12e3941
+ds-rdata:     44512 8 2 661fbde636973834f5d417d3897ddf8590461da6f020cfaa4274718dd926c523
 
 whois:        whois.nic.reit
 
