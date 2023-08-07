@@ -6,14 +6,16 @@ domain:       дети
 domain-ace:   XN--D1ACJ3B
 
 organisation: The Foundation for Network Initiatives “The Smart Internet”
-address:      127083 Moscow, 8 Marta str., 1 bld. 12
-address:      Russian Federation
+address:      8 Marta street 1, bld 12
+address:      Moscow 127083
+address:      Russian Federation (the)
 
 contact:      administrative
 name:         Deputy Director
 organisation: The Foundation for Network Initiatives "The Smart Internet"
-address:      127083 Moscow, 8 Marta str., 1 bld. 12
-address:      Russian Federation
+address:      8 Marta street 1, bld 12
+address:      Moscow 127083
+address:      Russian Federation (the)
 phone:        +7 495 730 29 65
 fax-no:       +7 495 730 29 68
 e-mail:       adm@dotdeti.ru
@@ -21,8 +23,9 @@ e-mail:       adm@dotdeti.ru
 contact:      technical
 name:         Network enginner
 organisation: Technical Center of Internet
-address:      127083, Moscow, 8 Marta street 1, bld 12
-address:      Russian Federation
+address:      8 Marta street 1, bld 12
+address:      Moscow 127083
+address:      Russian Federation (the)
 phone:        +7 495 730 29 69
 fax-no:       +7 495 730 29 68
 e-mail:       gtld-tech@tcinet.ru
@@ -32,7 +35,7 @@ nserver:      B.DNS.RIPN.NET 194.85.252.62 2001:678:16:0:194:85:252:62
 nserver:      D.DNS.RIPN.NET 194.190.124.17 2001:678:18:0:194:190:124:17
 nserver:      E.DNS.RIPN.NET 193.232.142.17 2001:678:15:0:193:232:142:17
 nserver:      F.DNS.RIPN.NET 193.232.156.17 2001:678:14:0:193:232:156:17
-ds-rdata:     29456 8 2 C34BC7C01769D1BB146FE4007511DBA6C49DDE04AC27F52E47ED6FF95B8CB36E
+ds-rdata:     29456 8 2 c34bc7c01769d1bb146fe4007511dba6c49dde04ac27f52e47ed6ff95b8cb36e
 
 whois:        whois.nic.xn--d1acj3b
 
