@@ -6,14 +6,14 @@ domain:       VERSICHERUNG
 
 organisation: tldbox GmbH
 address:      Jakob-Haringer-Strasse 8/V
-address:      5020 Salzburg
+address:      Salzburg 5020
 address:      Austria
 
 contact:      administrative
 name:         Richard Wein
 organisation: tldbox GmbH
 address:      Jakob-Haringer-Strasse 8/V
-address:      5020 Salzburg
+address:      Salzburg 5020
 address:      Austria
 phone:        +43 662 234548 730
 fax-no:       +43 662 234548 29
@@ -23,7 +23,7 @@ contact:      technical
 name:         Technical Operations
 organisation: tldbox GmbH
 address:      Jakob-Haringer-Strasse 8/V
-address:      5020 Salzburg
+address:      Salzburg 5020
 address:      Austria
 phone:        +43 662 234548 730
 fax-no:       +43 662 234548 29
@@ -32,7 +32,7 @@ e-mail:       iana@tld-box.at
 nserver:      A.DNS.NIC.VERSICHERUNG 194.0.25.13 2001:678:20:0:0:0:0:13
 nserver:      M.DNS.NIC.VERSICHERUNG 194.0.26.2 2001:67c:10e0:0:0:0:0:2
 nserver:      N.DNS.NIC.VERSICHERUNG 194.0.24.2 2001:678:24:0:0:0:0:2
-ds-rdata:     26134 8 2 925EE924B5BC6876443E476C16EAF5BF02885ACADBDF27CA2C87BE8EEB7F3B41
+ds-rdata:     26134 8 2 925ee924b5bc6876443e476c16eaf5bf02885acadbdf27ca2c87be8eeb7f3b41
 ds-rdata:     53914 8 2 3fb290c372a8e1f1662e968c7836f7856e493f96f0a6603de8e882f54bae577c
 
 whois:        whois.nic.versicherung
