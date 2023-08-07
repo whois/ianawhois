@@ -5,30 +5,26 @@
 domain:       EPSON
 
 organisation: Seiko Epson Corporation
-address:      4-1 Nishishinjuku 2-chome,
-address:      Shinjuku-ku,
-address:      Tokyo, 163-0811
+address:      4-1 Nishishinjuku 2-chome
+address:      Shinjuku-ku Tokyo 163-0811
 address:      Japan
 
 contact:      administrative
 name:         Chief Operating Officer
-organisation: Brights Consulting Inc.
-address:      30F, Kasumigaseki Bldg.,
-address:      3-2-5 Kasumigaseki
-address:      Chiyoda-ku
-address:      Tokyo 100-6030
+organisation: GMO BRAND SECURITY Inc.
+address:      Cerulean Tower 26-1 Sakuragaoka-cho
+address:      Shibuya-ku Tokyo 100-6030
 address:      Japan
-phone:        +81355210107
-fax-no:       +81355210117
-e-mail:       nakagawa_12@brights.jp
+phone:        +81.357841069
+fax-no:       +81.334625040
+e-mail:       registry@brightsconsulting.com
 
 contact:      technical
 name:         Director
 organisation: GMO Registry, Inc.
-address:      Cerulean Tower 26-1 Sakuragaoka-cho
-address:      Shibuya-ku
-address:      Tokyo
-address:      150-8512
+address:      Cerulean Tower
+address:      26-1 Sakuragaoka-cho
+address:      Shibuya-ku Tokyo 150-8512
 address:      Japan
 phone:        +81.354561601
 fax-no:       +81.337805239
@@ -46,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.epson.com
 
 created:      2015-02-19
-changed:      2019-08-19
+changed:      2023-06-20
 source:       IANA
 
