@@ -6,15 +6,14 @@ domain:       SAARLAND
 
 organisation: dotSaarland GmbH
 address:      Im Oberen Werk 1
-address:      66386 St. Ingbert
+address:      St. Ingbert 66386
 address:      Germany
 
 contact:      administrative
 name:         Registry Service
 organisation: dotSaarland GmbH
 address:      Im Oberen Werk 1
-address:      St. Ingbert  66386
-address:      DE
+address:      St. Ingbert 66386
 address:      Germany
 phone:        +49 6894 9396 250
 fax-no:       +49 6894 93 96 251
@@ -23,9 +22,10 @@ e-mail:       info@nic.saarland
 contact:      technical
 name:         CTO
 organisation: CentralNic
-address:      Saddlers House 4th Floor 44 Gutter Lane
+address:      Saddlers House, 4th Floor
+address:      44 Gutter Lane
 address:      London EC2V 6BR
-address:      United Kingdom
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44 20 33 88 0600
 fax-no:       +44 20 33 88 0601
 e-mail:       tld.ops@centralnic.com
