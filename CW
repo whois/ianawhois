@@ -37,6 +37,8 @@ nserver:      NS1.UOC.CW 198.93.177.21
 nserver:      NS2.UOC.CW 190.112.254.244
 nserver:      NS3.UOC.CW 200.26.199.99
 
+whois:        
+
 status:       ACTIVE
 remarks:      Registration information: http://www.uoc.cw/cw-registry
 
