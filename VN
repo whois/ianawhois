@@ -7,14 +7,15 @@ domain:       VN
 organisation: Viet Nam Internet Network Information Center (VNNIC)
 address:      Ministry of Information and Communications of Socialist Republic of Viet Nam
 address:      18 Nguyen Du
-address:      Hanoi  100000
+address:      Hanoi 100000
 address:      Viet Nam
 
 contact:      administrative
 name:         Nguyen Hong Thang
 organisation: Vietnam Internet Network Information Center (VNNIC)
+address:      Ministry of Information and Communications of Socialist Republic of Viet Nam
 address:      18 Nguyen Du
-address:      Hanoi  10000
+address:      Hanoi 10000
 address:      Viet Nam
 phone:        +84 24 35564944 ext 301
 fax-no:       +84 24 37821462
@@ -23,8 +24,9 @@ e-mail:       nhthang@vnnic.vn
 contact:      technical
 name:         Nguyen Truong Thanh
 organisation: Vietnam Internet Network Information Center (VNNIC)
+address:      Ministry of Information and Communications of Socialist Republic of Viet Nam
 address:      18 Nguyen Du
-address:      Hanoi  10000
+address:      Hanoi 10000
 address:      Viet Nam
 phone:        +84 24 35564944 ext 302
 fax-no:       +84 24 37821462
@@ -38,13 +40,15 @@ nserver:      E.DNS-SERVERS.VN 2001:dc8:1000:2:0:0:0:105 203.119.60.105
 nserver:      F.DNS-SERVERS.VN 2001:dc8:d000:2:0:0:0:105 203.119.68.105
 nserver:      G.DNS-SERVERS.VN 2001:500:14:6115:ad:0:0:1 204.61.216.115
 nserver:      H.DNS-SERVERS.VN 2001:dc8:6000:0:0:0:0:105 202.47.142.105
-ds-rdata:     3260 8 2 5A58C19AF266077FFE16C2668812796FA8193661AF569DBCEB177F911B5E6167
-ds-rdata:     3260 8 1 913C652B4006DEAC045B945F4FFCBC1065645421
+ds-rdata:     16196 8 2 cb68c5384104b31e1d9cbc1c45f861a92cda9d8121afe76f9a8978527983fd99
+ds-rdata:     16196 8 4 276643f5ef43a0610277c06cc5261056728450b1584b34f6d19f4c5bd9dd1deff2d5d3cb805b86718b1e0778682afe91
+
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: https://www.vnnic.vn/
 
 created:      1994-04-14
-changed:      2022-06-06
+changed:      2023-07-19
 source:       IANA
 
