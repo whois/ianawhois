@@ -6,16 +6,14 @@ domain:       LOVE
 
 organisation: Merchant Law Group LLP
 address:      100–2401 Saskatchewan Drive
-address:      Regina, Saskatchewan
-address:      S4P 4H8
+address:      Regina SK S4P 4H8
 address:      Canada
 
 contact:      administrative
 name:         Joshua Merchant
 organisation: Merchant Law Group LLP
 address:      100–2401 Saskatchewan Drive
-address:      Regina, Saskatchewan
-address:      S4P 4H8
+address:      Regina SK S4P 4H8
 address:      Canada
 phone:        +1.3062272222
 fax-no:       +1.3069751983
@@ -25,7 +23,7 @@ contact:      technical
 name:         Vice President, Engineering
 organisation: Tucows Inc
 address:      96 Mowat Avenue
-address:      Toronto, Ontario, M6K3M1
+address:      Toronto ON M6K3M1
 address:      Canada
 phone:        1.9499033449
 e-mail:       trs-ops@tucows.com
@@ -34,7 +32,7 @@ nserver:      NS1.UNIREGISTRY.NET 2620:57:4000:1:0:0:0:1 64.96.1.1
 nserver:      NS2.UNIREGISTRY.INFO 64.96.2.1
 nserver:      NS3.UNIREGISTRY.NET 185.159.197.3 2620:10a:80aa:0:0:0:0:3
 nserver:      NS4.UNIREGISTRY.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
-ds-rdata:     27205 13 2 099BAACEF86A52379CDC0F6756D1EADAA7963FF5C3A16CFE32340B109580B84B
+ds-rdata:     27205 13 2 099baacef86a52379cdc0f6756d1eadaa7963ff5c3a16cfe32340b109580b84b
 
 whois:        whois.nic.love
 
@@ -42,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://get.love
 
 created:      2015-03-25
-changed:      2022-08-29
+changed:      2023-04-20
 source:       IANA
 
