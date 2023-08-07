@@ -6,32 +6,35 @@ domain:       CUISINELLA
 
 organisation: SCHMIDT GROUPE S.A.S.
 address:      5, rue Clemenceau
-address:      68660 LIEPVRE
+address:      Liepvre 68660
 address:      France
 
 contact:      administrative
-name:         Virginie Parent
+name:         Project & Process Manager
 organisation: SCHMIDT GROUPE S.A.S.
 address:      5, rue Clemenceau
-address:      68660 LIEPVRE
+address:      Liepvre 68660
 address:      France
-phone:        +33613993433
-e-mail:       administrative-contact-cuisinella@salm.fr
+phone:        +442070151717
+e-mail:       ngtld-schmidt@cscglobal.com
 
 contact:      technical
-name:         Michel Wilt
+name:         Project & Process Manager
 organisation: SCHMIDT GROUPE S.A.S.
 address:      5, rue Clemenceau
-address:      68660 LIEPVRE
+address:      Liepvre 68660
 address:      France
-phone:        +33603630483
-e-mail:       technical-contact-cuisinella@salm.fr
+phone:        +442070151717
+e-mail:       ngtld-schmidt@cscglobal.com
 
 nserver:      A.NIC.CUISINELLA 2001:dcd:1:0:0:0:0:9 37.209.192.9
 nserver:      B.NIC.CUISINELLA 2001:dcd:2:0:0:0:0:9 37.209.194.9
 nserver:      C.NIC.CUISINELLA 2001:dcd:3:0:0:0:0:9 37.209.196.9
-nserver:      D.NIC.CUISINELLA 2001:dcd:4:0:0:0:0:9 37.209.198.9
-ds-rdata:     7819 8 2 34AD4E3123591F60CA6F54EF8225C5B9EA2CF0325CA3AF1C73DA9BE243C1FBBB
+nserver:      X.NIC.CUISINELLA 156.154.172.82 2610:a1:1074:0:0:0:1:82
+nserver:      Y.NIC.CUISINELLA 156.154.173.82 2610:a1:1075:0:0:0:1:82
+nserver:      Z.NIC.CUISINELLA 156.154.174.82 2610:a1:1076:0:0:0:1:82
+ds-rdata:     7819 8 2 34ad4e3123591f60ca6f54ef8225c5b9ea2cf0325ca3af1c73da9be243c1fbbb
+ds-rdata:     35209 8 2 1fc1ee72fadcc8085a2f62c861bddb4b556dfc33b9356845550be284de05b383
 
 whois:        whois.nic.cuisinella
 
@@ -39,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.cuisinella/
 
 created:      2014-06-19
-changed:      2022-07-21
+changed:      2023-07-31
 source:       IANA
 
