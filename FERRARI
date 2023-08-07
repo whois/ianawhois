@@ -6,15 +6,14 @@ domain:       FERRARI
 
 organisation: Fiat Chrysler Automobiles N.V.
 address:      25 St. James's Street
-address:      London
-address:      SW1A 1HA
-address:      United Kingdom
+address:      London SW1A 1HA
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 
 contact:      administrative
 name:         Digital Department
 organisation: Ferrari S.p.A
 address:      Via Abetone Inf. n.4
-address:      41053 Maranello
+address:      Maranello 41053
 address:      Italy
 phone:        +29 0536 949 111
 e-mail:       ngtld-ferrari@cscglobal.com
@@ -23,8 +22,9 @@ contact:      technical
 name:         Senior Director, DNS Infrastructure Group
 organisation: Afilias
 address:      300 Welsh Road
-address:      Horsham, PA 19044
-address:      United States
+address:      Building 3, Suite 105
+address:      Horsham PA 19044
+address:      United States of America (the)
 phone:        +1 215.706.5700
 fax-no:       +1 215.706.5701
 e-mail:       tld-tech-poc@afilias.info
