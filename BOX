@@ -6,27 +6,26 @@ domain:       BOX
 
 organisation: Intercap Registry Inc.
 address:      103 South Church Street, 4th Floor, Harbour Place, PO Box 10240
-address:      George Town
-address:      Grand Cayman
-address:      KY1-1002
-address:      Cayman Islands
+address:      George Town Grand Cayman KY1-1002
+address:      Cayman Islands (the)
 
 contact:      administrative
 name:         General Manager
 organisation: Intercap Registry Inc.
-address:      4th Floor, Harbour Place, 103 South Church Street, PO Box 10240
-address:      Grand Cayman
-address:      KY1-1002
-address:      Cayman Islands
+address:      4th Floor, Harbour Place, 103 South Church Street
+address:      PO Box 10240
+address:      Grand Cayman KY1-1002
+address:      Cayman Islands (the)
 phone:        +1 833 436 8462
 e-mail:       admin@intercap.inc
 
 contact:      technical
 name:         CTO
 organisation: CentralNic
-address:      Saddlers House 4th Floor 44 Gutter Lane
+address:      Saddlers House, 4th Floor
+address:      44 Gutter Lane
 address:      London EC2V 6BR
-address:      United Kingdom
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44 20 33 88 0600
 fax-no:       +44 20 33 88 0601
 e-mail:       tld.ops@centralnic.com
@@ -35,8 +34,8 @@ nserver:      A.NIC.BOX 194.169.218.139 2001:67c:13cc:0:0:0:1:139
 nserver:      B.NIC.BOX 185.24.64.139 2a04:2b00:13cc:0:0:0:1:139
 nserver:      C.NIC.BOX 212.18.248.139 2a04:2b00:13ee:0:0:0:0:139
 nserver:      D.NIC.BOX 212.18.249.139 2a04:2b00:13ff:0:0:0:0:139
-ds-rdata:     47542 8 2 31CC9F53054303443FA06F368C54971D8E12C89655CB768A951D908701E82800
-ds-rdata:     47542 8 1 F59D467614D996277C9EA8E52EB920623B9FA4FE
+ds-rdata:     47542 8 2 31cc9f53054303443fa06f368c54971d8e12c89655cb768a951d908701e82800
+ds-rdata:     47542 8 1 f59d467614d996277c9ea8e52eb920623b9fa4fe
 ds-rdata:     63242 8 2 f63250257503cce60195e71c2e346a2d8bde06dcbd666b9ee4f860d75988702d
 
 whois:        whois.nic.box
