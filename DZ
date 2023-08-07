@@ -5,15 +5,15 @@
 domain:       DZ
 
 organisation: CERIST
-address:      Rue des Trois Feres Aissiou, Ben-Aknoun
-address:      Algiers  16035
+address:      Rue des Trois Freres Aissiou
+address:      Ben-Aknoun Algiers 16035
 address:      Algeria
 
 contact:      administrative
 name:         Administrative Manager
 organisation: CERIST
-address:      Rue des Trois Feres Aissiou, Ben-Aknoun
-address:      Algiers  16035
+address:      Rue des Trois Freres Aissiou
+address:      Ben-Aknoun Algiers 16035
 address:      Algeria
 phone:        +213 23 25 54 08
 fax-no:       +213 23 25 54 02
@@ -22,8 +22,8 @@ e-mail:       dznicman@nic.dz
 contact:      technical
 name:         Aouaouche El-Maouhab
 organisation: CERIST
-address:      Rue des Trois Freres Aissiou, Ben-Aknoun
-address:      Algiers  16035
+address:      Rue des Trois Freres Aissiou
+address:      Ben-Aknoun Algiers 16035
 address:      Algeria
 phone:        +213 23 25 54 08
 fax-no:       +213 23 25 54 02
@@ -35,8 +35,8 @@ nserver:      NS2.NIC.DZ 213.179.160.66
 nserver:      NS3.NIC.FR 192.134.0.49 2001:660:3006:1:0:0:1:1
 nserver:      NS4.NIC.DZ 2001:500:14:6103:ad:0:0:1 204.61.216.103
 nserver:      NS5.NIC.DZ 193.0.9.71 2001:67c:e0:0:0:0:0:71
-ds-rdata:     17380 8 1 E624A5121244D5706C2126AE7B48CE7546DB0E21
-ds-rdata:     17380 8 2 71034E42FCAA30ABC99190C2B1D99D4D3D9C7CE005E020699A047D2B36E28AEF
+ds-rdata:     17380 8 1 e624a5121244d5706c2126ae7b48ce7546db0e21
+ds-rdata:     17380 8 2 71034e42fcaa30abc99190c2b1d99d4d3d9c7ce005e020699a047d2b36e28aef
 
 whois:        whois.nic.dz
 
