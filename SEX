@@ -6,15 +6,15 @@ domain:       SEX
 
 organisation: ICM Registry SX LLC
 address:      2155 E. GoDaddy Way
-address:      Tempe, AZ 85284
-address:      United States
+address:      Tempe AZ 85284
+address:      United States of America (the)
 
 contact:      administrative
 name:         IANA Contact
 organisation: GoDaddy Registry
 address:      2155 E. GoDaddy Way
-address:      Tempe, AZ 85284
-address:      United States
+address:      Tempe AZ 85284
+address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
 e-mail:       iana@registry.godaddy
@@ -23,8 +23,8 @@ contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
 address:      2155 E GoDaddy Way
-address:      Tempe, AZ 85284
-address:      United States
+address:      Tempe AZ 85284
+address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
 e-mail:       iana@registry.godaddy
@@ -32,8 +32,10 @@ e-mail:       iana@registry.godaddy
 nserver:      A.NIC.SEX 2001:dcd:1:0:0:0:0:10 37.209.192.10
 nserver:      B.NIC.SEX 2001:dcd:2:0:0:0:0:10 37.209.194.10
 nserver:      C.NIC.SEX 2001:dcd:3:0:0:0:0:10 37.209.196.10
-nserver:      D.NIC.SEX 2001:dcd:4:0:0:0:0:10 37.209.198.10
-ds-rdata:     53905 8 2 1BC21CFA8CE05AF75007AE4E83667DC97EB6939B9253CBAA0D124C18D49F09D6
+nserver:      X.NIC.SEX 156.154.172.82 2610:a1:1074:0:0:0:1:82
+nserver:      Y.NIC.SEX 156.154.173.82 2610:a1:1075:0:0:0:1:82
+nserver:      Z.NIC.SEX 156.154.174.82 2610:a1:1076:0:0:0:1:82
+ds-rdata:     53905 8 2 1bc21cfa8ce05af75007ae4e83667dc97eb6939b9253cbaa0d124c18d49f09d6
 
 whois:        whois.nic.sex
 
@@ -41,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.sex
 
 created:      2015-04-09
-changed:      2022-07-18
+changed:      2022-12-01
 source:       IANA
 
