@@ -6,14 +6,14 @@ domain:       BAR
 
 organisation: Punto 2012 Sociedad Anonima Promotora de Inversion de Capital Variable
 address:      Juan Escutia 29 Col. Condesa
-address:      Mexico, D.F. 06140
+address:      Mexico D.F. 06140
 address:      Mexico
 
 contact:      administrative
 name:         CEO
 organisation: Punto 2012 Sociedad Anonima Promotora de Inversion de Capital Variable
 address:      Juan Escutia 29 Col. Condesa
-address:      Mexico, D.F. 06140
+address:      Mexico D.F. 06140
 address:      Mexico
 phone:        +52.5585895544
 fax-no:       +52.5552505187
@@ -22,9 +22,10 @@ e-mail:       info@punto2012.com
 contact:      technical
 name:         CTO
 organisation: CentralNic
-address:      Saddlers House 4th Floor 44 Gutter Lane
+address:      Saddlers House, 4th Floor
+address:      44 Gutter Lane
 address:      London EC2V 6BR
-address:      United Kingdom
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44 20 33 88 0600
 fax-no:       +44 20 33 88 0601
 e-mail:       tld.ops@centralnic.com
@@ -33,8 +34,8 @@ nserver:      A.NIC.BAR 194.169.218.56 2001:67c:13cc:0:0:0:1:56
 nserver:      B.NIC.BAR 185.24.64.56 2a04:2b00:13cc:0:0:0:1:56
 nserver:      C.NIC.BAR 212.18.248.56 2a04:2b00:13ee:0:0:0:0:56
 nserver:      D.NIC.BAR 212.18.249.56 2a04:2b00:13ff:0:0:0:0:56
-ds-rdata:     55406 8 1 EECF54C6DAB2CF3FA76EFFCE97B78F432050DA9E
-ds-rdata:     55406 8 2 8E8E102E6751DA62E354BD322C9BDD42C29BF6A413B29DA5BDC579E2ED3C8DA1
+ds-rdata:     55406 8 1 eecf54c6dab2cf3fa76effce97b78f432050da9e
+ds-rdata:     55406 8 2 8e8e102e6751da62e354bd322c9bdd42c29bf6a413b29da5bdc579e2ed3c8da1
 
 whois:        whois.nic.bar
 
