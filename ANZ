@@ -5,32 +5,38 @@
 domain:       ANZ
 
 organisation: Australia and New Zealand Banking Group Limited
-address:      ANZ Centre Melbourne, Level 8, 833 Collins St Docklands, Victoria - 3008 AU
+address:      ANZ Centre Melbourne, Level 8, 833 Collins St
+address:      Docklands VIC 3008
 address:      Australia
 
 contact:      administrative
 name:         Head of Customer Insights and Digital Strategy, Group Marketing
 organisation: Australia and New Zealand Banking Group Limited
-address:      ANZ Centre Melbourne, Level 8, 833 Collins St Docklands, Victoria - 3008 AU
+address:      ANZ Centre Melbourne, Level 8, 833 Collins St
+address:      Docklands VIC 3008
 address:      Australia
 phone:        +61 3 9273 5555
 fax-no:       +61 3 8654 1922
 e-mail:       ngtld-anz@cscinfo.com
 
 contact:      technical
-name:         Implementation Manager
+name:         Project & Process Manager
 organisation: CSC Digital Brand Services
-address:      2711 Centerville Rd. suite 400
-address:      United States
-phone:        (302) 636-5400
-fax-no:       (302) 636-5454
-e-mail:       ngtlds-tech@cscinfo.com
+address:      2711 Centerville Rd.
+address:      Suite 400
+address:      Wilmington DE 19808
+address:      United States of America (the)
+phone:        +442070151717
+e-mail:       ngtld-anz@cscinfo.com
 
 nserver:      A.NIC.ANZ 2001:dcd:1:0:0:0:0:9 37.209.192.9
 nserver:      B.NIC.ANZ 2001:dcd:2:0:0:0:0:9 37.209.194.9
 nserver:      C.NIC.ANZ 2001:dcd:3:0:0:0:0:9 37.209.196.9
-nserver:      D.NIC.ANZ 2001:dcd:4:0:0:0:0:9 37.209.198.9
-ds-rdata:     25084 8 2 6A107B65405BFE98C0CC040FBD91A29D9FC927FEA447CA0AE4F5538ECF9FCBA5
+nserver:      X.NIC.ANZ 156.154.172.82 2610:a1:1074:0:0:0:1:82
+nserver:      Y.NIC.ANZ 156.154.173.82 2610:a1:1075:0:0:0:1:82
+nserver:      Z.NIC.ANZ 156.154.174.82 2610:a1:1076:0:0:0:1:82
+ds-rdata:     25084 8 2 6a107b65405bfe98c0cc040fbd91a29d9fc927fea447ca0ae4f5538ecf9fcba5
+ds-rdata:     62806 8 2 93266a86bc6d50ad9da1dde33b73589f9cd0be961a058eb386475f63891206c8
 
 whois:        whois.nic.anz
 
@@ -38,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.anz.com/
 
 created:      2016-06-09
-changed:      2022-07-21
+changed:      2023-07-31
 source:       IANA
 
