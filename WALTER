@@ -5,39 +5,43 @@
 domain:       WALTER
 
 organisation: Sandvik AB
-address:      Klarabergsgatan 60, Stockholm  111 21
+address:      Klarabergsgatan 60
+address:      Stockholm 111 21
 address:      Sweden
 
 contact:      administrative
 name:         Project & Process Manager
 organisation: Sandvik AB
-address:      Klarabergsgatan 60, Stockholm  111 21
+address:      Klarabergsgatan 60
+address:      Stockholm 111 21
 address:      Sweden
-phone:        +4533886365
-fax-no:       +4533886101
-e-mail:       sandvik@gtld.com
+phone:        +442070151717
+e-mail:       ngtld-sandvik@cscinfo.com
 
 contact:      technical
 name:         Project & Process Manager
 organisation: Sandvik AB
-address:      Klarabergsgatan 60, Stockholm  111 21
+address:      Klarabergsgatan 60
+address:      Stockholm 111 21
 address:      Sweden
-phone:        +4533886365
-fax-no:       +4533886101
-e-mail:       sandvik@gtld.com
+phone:        +442070151717
+e-mail:       ngtld-sandvik@cscinfo.com
 
 nserver:      A.NIC.WALTER 2001:dcd:1:0:0:0:0:9 37.209.192.9
 nserver:      B.NIC.WALTER 2001:dcd:2:0:0:0:0:9 37.209.194.9
 nserver:      C.NIC.WALTER 2001:dcd:3:0:0:0:0:9 37.209.196.9
-nserver:      D.NIC.WALTER 2001:dcd:4:0:0:0:0:9 37.209.198.9
-ds-rdata:     53764 8 2 1CB0D022FC25C7247A551E0A02B46025D83DFD7185CC1F016C93494C471F0E91
+nserver:      X.NIC.WALTER 156.154.172.82 2610:a1:1074:0:0:0:1:82
+nserver:      Y.NIC.WALTER 156.154.173.82 2610:a1:1075:0:0:0:1:82
+nserver:      Z.NIC.WALTER 156.154.174.82 2610:a1:1076:0:0:0:1:82
+ds-rdata:     53764 8 2 1cb0d022fc25c7247a551e0a02b46025d83dfd7185cc1f016c93494c471f0e91
+ds-rdata:     11875 8 2 d7e94cbf8078c9b30ac939b8c2e4106c510879b267a0ab93a4cc61ce7b72e193
 
 whois:        whois.nic.walter
 
 status:       ACTIVE
-remarks:      Registration information:  http://nic.walter
+remarks:      Registration information: http://nic.walter
 
 created:      2015-05-14
-changed:      2022-07-21
+changed:      2023-07-31
 source:       IANA
 
