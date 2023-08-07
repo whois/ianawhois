@@ -5,14 +5,15 @@
 domain:       PARTY
 
 organisation: Blue Sky Registry Limited
-address:      2nd Floor, Leisure Island Business Centre, Ocean Village, Gibraltar, GX11 1AA
+address:      2nd Floor, Leisure Island Business Centre, Ocean Village
+address:      Gibraltar  GX11 1AA
 address:      Gibraltar
 
 contact:      administrative
 name:         Edgar Charles Andrew Lavarello
 organisation: Pricewaterhousecoopers Ltd.
 address:      327 Main Street
-address:      GX11 1AA
+address:      Gibraltar  GX11 1AA
 address:      Gibraltar
 phone:        +350 200 73520
 e-mail:       edgar.c.lavarello@gi.pwc.com
@@ -21,8 +22,8 @@ contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
 address:      2155 E GoDaddy Way
-address:      Tempe, AZ 85284
-address:      United States
+address:      Tempe AZ 85284
+address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
@@ -33,7 +34,7 @@ nserver:      C.NIC.PARTY 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      NS1.DNS.NIC.PARTY 156.154.169.24 2610:a1:1071:0:0:0:1:18
 nserver:      NS2.DNS.NIC.PARTY 156.154.170.24 2610:a1:1072:0:0:0:1:18
 nserver:      NS3.DNS.NIC.PARTY 156.154.171.24 2610:a1:1073:0:0:0:1:18
-ds-rdata:     64246 8 2 11A853AEE57EBCC64D5260DF6A693F26AA144D4777EBE306F83A886A48F6CDEC
+ds-rdata:     64246 8 2 11a853aee57ebcc64d5260df6a693f26aa144d4777ebe306f83a886a48f6cdec
 
 whois:        whois.nic.party
 
