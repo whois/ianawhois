@@ -7,14 +7,14 @@ domain:       REDUMBRELLA
 organisation: Travelers TLD, LLC
 address:      One Tower Square
 address:      Hartford CT 06183
-address:      United States
+address:      United States of America (the)
 
 contact:      administrative
 name:         2VP, Enterprise Web and Mobile
 organisation: Travelers TLD, LLC
 address:      One Tower Square
 address:      Hartford CT 06183
-address:      United States
+address:      United States of America (the)
 phone:        +1 860 277 5150
 fax-no:       +1 860 277 5147
 e-mail:       ngtld-travelers@cscglobal.com
@@ -22,9 +22,10 @@ e-mail:       ngtld-travelers@cscglobal.com
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
 organisation: Afilias
-address:      Building 3, Suite 105 300 Welsh Road
-address:      Horsham, PA 19044
-address:      United States
+address:      300 Welsh Road
+address:      Building 3, Suite 105
+address:      Horsham PA 19044
+address:      United States of America (the)
 phone:        +1 215 706 5700
 fax-no:       +1 215 706 5701
 e-mail:       tld-tech-poc@afilias.info
