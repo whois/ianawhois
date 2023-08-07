@@ -5,15 +5,15 @@
 domain:       BNPPARIBAS
 
 organisation: BNP Paribas
-address:      16 Boulevard des Italiens,
-address:      Paris, 75009
+address:      16 Boulevard des Italiens
+address:      Paris 75009
 address:      France
 
 contact:      administrative
 name:         Project manager
 organisation: BNP Paribas
-address:      16 Rue du Hanovre,
-address:      Paris, 75002
+address:      16 Rue du Hanovre
+address:      Paris 75002
 address:      France
 phone:        +33 1 42 98 02 65
 fax-no:       +33 1 57 43 74 03
@@ -22,10 +22,10 @@ e-mail:       tld@bnpparibas.com
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
 organisation: Afilias
+address:      300 Welsh Road
 address:      Building 3, Suite 105
-address:      300 Welsh Road,
-address:      Horsham, PA 19044
-address:      United States
+address:      Horsham PA 19044
+address:      United States of America (the)
 phone:        +1 215 706 5700
 fax-no:       +1 215 706 5701
 e-mail:       tld-tech-poc@afilias.info
