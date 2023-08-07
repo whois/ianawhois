@@ -5,13 +5,15 @@
 domain:       NTT
 
 organisation: NIPPON TELEGRAPH AND TELEPHONE CORPORATION
-address:      Otemachi First Square, East Tower, 5-1, Otemachi 1-Chome, Chiyoda-ku, Tokyo
+address:      Otemachi First Square, East Tower, 5-1, Otemachi 1-Chome
+address:      Chiyoda-ku Tokyo
 address:      Japan
 
 contact:      administrative
 name:         General Affairs Department
 organisation: NIPPON TELEGRAPH AND TELEPHONE CORPORATION
-address:      Otemachi First Square, East Tower, 5-1, Otemachi 1-Chome, Chiyoda-ku, Tokyo
+address:      Otemachi First Square, East Tower, 5-1, Otemachi 1-Chome
+address:      Chiyoda-ku Tokyo
 address:      Japan
 phone:        +81 3 6838 5590
 e-mail:       dotntt-ml@ntt.com
@@ -19,7 +21,9 @@ e-mail:       dotntt-ml@ntt.com
 contact:      technical
 name:         JPRS Technical Contact
 organisation: Japan Registry Services Co., Ltd.
-address:      Chiyoda First Bldg. East 13F, 3-8-1 Nishi-Kanda, Chiyoda-ku, Tokyo
+address:      Chiyoda First Bldg. East 13F
+address:      3-8-1 Nishi-Kanda
+address:      Chiyoda-ku Tokyo 101-0065
 address:      Japan
 phone:        +81 3 5215 8480
 fax-no:       +81 3 5215 8452
@@ -29,12 +33,14 @@ nserver:      TLD1.NIC.NTT 103.47.2.2 2001:dda:0:0:0:0:0:2
 nserver:      TLD2.NIC.NTT 117.104.133.17 2001:218:3001:0:0:0:0:2
 nserver:      TLD3.NIC.NTT 2a01:8840:1ba:0:0:0:0:17 65.22.40.17
 nserver:      TLD5.NIC.NTT 2a01:8840:1ba:0:0:0:0:145 65.22.40.145
-ds-rdata:     4480 8 2 C4D7FB4E22011E0A93B009B6BFDE05523DDC0CC8A32F65D55B80D3B4AB93E5E6
+ds-rdata:     42481 8 2 d21df93a73f35f8c3428a42db60da7ccebfc2a64a42b6f5e5024f358d5e18d44
+
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: https://group.ntt/en/dotntt/
 
 created:      2015-01-08
-changed:      2022-01-31
+changed:      2022-11-29
 source:       IANA
 
