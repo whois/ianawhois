@@ -6,14 +6,14 @@ domain:       STOCKHOLM
 
 organisation: Stockholms kommun
 address:      Ragnar Östbergs plan 1
-address:      SE-10535 Stockholm
+address:      Stockholm SE-10535
 address:      Sweden
 
 contact:      administrative
 name:         Project Manager
 organisation: City of Stockholm
 address:      Ragnar Östbergs plan 1
-address:      SE-10535 Stockholm
+address:      Stockholm SE-10535
 address:      Sweden
 phone:        +46850829327
 e-mail:       contact@nic.stockholm
@@ -21,9 +21,10 @@ e-mail:       contact@nic.stockholm
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
 organisation: Afilias
-address:      Building 3, Suite 105 300 Welsh Road
-address:      Horsham, PA 19044
-address:      United States
+address:      300 Welsh Road
+address:      Building 3, Suite 105
+address:      Horsham PA 19044
+address:      United States of America (the)
 phone:        +1 215 706 5700
 fax-no:       +1 215 706 5701
 e-mail:       tld-tech-poc@afilias.info
