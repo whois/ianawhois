@@ -6,35 +6,37 @@ domain:       TAB
 
 organisation: Tabcorp Holdings Limited
 address:      5 Bowen Crescent
-address:      Melbourne
-address:      Victoria 3004
+address:      Melbourne VIC 3004
 address:      Australia
 
 contact:      administrative
 name:         Senior Corporate Lawyer – IP
 organisation: Tabcorp Holdings Limited
 address:      5 Bowen Crescent
-address:      Melbourne, Victoria 3004
+address:      Melbourne VIC 3004
 address:      Australia
 phone:        +61.398682664
 fax-no:       +61.398682639
 e-mail:       ngtld-tab@cscinfo.com
 
 contact:      technical
-name:         Implementation Manager
+name:         Project & Process Manager
 organisation: CSC Digital Brand Services
-address:      suite 400
 address:      2711 Centerville Rd.
-address:      United States
-phone:        +1.3026365400
-fax-no:       +1.3026365454
-e-mail:       ngtlds-tech@cscinfo.com
+address:      Suite 400
+address:      Wilmington DE 19808
+address:      United States of America (the)
+phone:        +442070151717
+e-mail:       ngtld-tab@cscinfo.com
 
 nserver:      A.NIC.TAB 2001:dcd:1:0:0:0:0:9 37.209.192.9
 nserver:      B.NIC.TAB 2001:dcd:2:0:0:0:0:9 37.209.194.9
 nserver:      C.NIC.TAB 2001:dcd:3:0:0:0:0:9 37.209.196.9
-nserver:      D.NIC.TAB 2001:dcd:4:0:0:0:0:9 37.209.198.9
-ds-rdata:     12205 8 2 BF58E40EA4764E2E24254DCB7A365D90ACA26773209827EE0A41BE128CA1F977
+nserver:      X.NIC.TAB 156.154.172.82 2610:a1:1074:0:0:0:1:82
+nserver:      Y.NIC.TAB 156.154.173.82 2610:a1:1075:0:0:0:1:82
+nserver:      Z.NIC.TAB 156.154.174.82 2610:a1:1076:0:0:0:1:82
+ds-rdata:     12205 8 2 bf58e40ea4764e2e24254dcb7a365d90aca26773209827ee0a41be128ca1f977
+ds-rdata:     43171 8 2 199df3de634cb26fbfd95ef9c9cb87c804b3d5de44460a58ea80a49a57a90c9d
 
 whois:        whois.nic.tab
 
@@ -42,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.tab
 
 created:      2015-09-04
-changed:      2022-07-21
+changed:      2023-07-31
 source:       IANA
 
