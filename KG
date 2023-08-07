@@ -6,24 +6,24 @@ domain:       KG
 
 organisation: AsiaInfo Telecommunication Enterprise
 address:      Abdrahmanova, 175
-address:      Bishkek  720011
+address:      Bishkek 720011
 address:      Kyrgyzstan
 
 contact:      administrative
 name:         Glotov Evgenii V.
 organisation: AsiaInfo Telecommunication Enterprise
 address:      Abdrahmanova, 175
-address:      Bishkek  720011
+address:      Bishkek 720011
 address:      Kyrgyzstan
 phone:        +996 312 964488
 fax-no:       +996 312 963434
 e-mail:       support@cctld.kg
 
 contact:      technical
-name:         Sergey D. Piryazev 
+name:         Sergey D. Piryazev
 organisation: AsiaInfo Telecommunication Enterprise
 address:      Abdrahmanova, 175
-address:      Bishkek  720011
+address:      Bishkek 720011
 address:      Kyrgyzstan
 phone:        +996 312 964488
 fax-no:       +996 312 963434
@@ -32,7 +32,7 @@ e-mail:       admin@cctld.kg
 nserver:      KG.CCTLD.AUTHDNS.RIPE.NET 193.0.9.84 2001:67c:e0:0:0:0:0:84
 nserver:      NS.KG 195.38.160.36 2a11:a380:0:0:195:38:160:36
 nserver:      NS2.KG 195.38.160.38 2a11:a380:0:0:195:38:160:38
-ds-rdata:     45982 8 2 D642AF8C9BB761E035CE77A48750BBAA64B41CFA0799D8D94498CFA335FA1380
+ds-rdata:     45982 8 2 d642af8c9bb761e035ce77a48750bbaa64b41cfa0799d8d94498cfa335fa1380
 
 whois:        whois.kg
 
