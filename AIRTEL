@@ -8,7 +8,7 @@ organisation: Bharti Airtel Limited
 address:      Bharti Crescent,
 address:      1, Nelson Mandela Road
 address:      Vasant Kunj Phase II
-address:      New Delhi, Delhi - 110 070
+address:      New Delhi Delhi 110070
 address:      India
 
 contact:      administrative
@@ -17,7 +17,7 @@ organisation: Bharti Airtel
 address:      Bharti Crescent,
 address:      1, Nelson Mandela Road
 address:      Vasant Kunj Phase II
-address:      New Delhi, Delhi - 110 070
+address:      New Delhi Delhi 110070
 address:      India
 phone:        +91 11 41666100
 fax-no:       +91 11 41666149
@@ -27,17 +27,17 @@ contact:      technical
 name:         Bonnie Bryant
 organisation: Verisign, Inc.
 address:      12061 Bluemont Way
-address:      Reston, Virginia 20190
-address:      United States
-phone:        1-703-925-6999 
-fax-no:       1-703-948-3978 
+address:      Reston VA 20190
+address:      United States of America (the)
+phone:        1-703-925-6999
+fax-no:       1-703-948-3978
 e-mail:       info@verisign-grs.com
 
 nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
 nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
 nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
 nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
-ds-rdata:     42300 8 2 A698E339483D094208DFB7B858CDF0401BFFC320AFCC5AEED3B03DFE82BFACC0
+ds-rdata:     42300 8 2 a698e339483d094208dfb7b858cdf0401bffc320afcc5aeed3b03dfe82bfacc0
 
 whois:        whois.nic.airtel
 
@@ -45,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.airtel.in
 
 created:      2015-06-18
-changed:      2019-08-20
+changed:      2020-10-01
 source:       IANA
 
