@@ -6,13 +6,15 @@ domain:       我爱你
 domain-ace:   XN--6QQ986B3XL
 
 organisation: Tycoon Treasure Limited
-address:      Scotia Centre, 4th Floor, P.O.Box2804, George Town, Grand Cayman KY1-112, Cayman Islands
-address:      Cayman Islands
+address:      Scotia Centre, 4th Floor, P.O.Box2804
+address:      George Town Grand Cayman KY1-112
+address:      Cayman Islands (the)
 
 contact:      administrative
 name:         CEO
 organisation: Tycoon Treasure Limited
-address:      Room 201A, Wing On Plaza, 62 Mody Road, Tsui East, Kowloon, Hong Kong
+address:      Room 201A, Wing On Plaza, 62 Mody Road, Tsui East
+address:      Kowloon
 address:      China
 phone:        +86 20 6622 2813
 fax-no:       +86 20 6622 2813
@@ -21,7 +23,8 @@ e-mail:       ceo@yu-wei.cn
 contact:      technical
 name:         VP
 organisation: Tycoon Treasure Limited
-address:      Room 201A, Wing On Plaza, 62 Mody Road, Tsui East, Kowloon, Hong Kong
+address:      Room 201A, Wing On Plaza, 62 Mody Road, Tsui East
+address:      Kowloon
 address:      China
 phone:        +86 20 6622 2813
 fax-no:       +86 20 6622 2813
@@ -43,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.newgtld.cn
 
 created:      2013-12-12
-changed:      2019-09-04
+changed:      2022-12-08
 source:       IANA
 
