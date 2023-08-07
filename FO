@@ -6,24 +6,25 @@ domain:       FO
 
 organisation: FO Council
 address:      Tinghúsvegur 57
-address:      110 Tórshavn
-address:      Faroe Islands
+address:      Tórshavn 110
+address:      Faroe Islands (the)
 
 contact:      administrative
 name:         Guðrun Poulsen
 organisation: FO Council
 address:      Tinghúsvegur 57
-address:      110 Tórshavn
-address:      Faroe Islands
+address:      Tórshavn 110
+address:      Faroe Islands (the)
 phone:        +298 550050
 e-mail:       gudrun@nic.fo
 
 contact:      technical
 name:         CTO
 organisation: CentralNic
-address:      Saddlers House 4th Floor 44 Gutter Lane
+address:      Saddlers House, 4th Floor
+address:      44 Gutter Lane
 address:      London EC2V 6BR
-address:      United Kingdom
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44 20 33 88 0600
 fax-no:       +44 20 33 88 0601
 e-mail:       tld.ops@centralnic.com
@@ -32,8 +33,8 @@ nserver:      A.NIC.FO 194.169.218.27 2001:67c:13cc:0:0:0:1:27
 nserver:      B.NIC.FO 185.24.64.27 2a04:2b00:13cc:0:0:0:1:27
 nserver:      C.NIC.FO 212.18.248.27 2a04:2b00:13ee:0:0:0:0:27
 nserver:      D.NIC.FO 212.18.249.27 2a04:2b00:13ff:0:0:0:0:27
-ds-rdata:     41527 8 2 6E7925D8D6F243EF35381231B955528F25087DBF3E61CC5FCBCFE72948D0470B
-ds-rdata:     6691 8 2 A752CEAAE4E28B4232244E5486D55889F117A15B81D3128CE7E9359F1D47A445
+ds-rdata:     41527 8 2 6e7925d8d6f243ef35381231b955528f25087dbf3e61cc5fcbcfe72948d0470b
+ds-rdata:     6691 8 2 a752ceaae4e28b4232244e5486d55889f117a15b81d3128ce7e9359f1d47a445
 
 whois:        whois.nic.fo
 
