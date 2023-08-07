@@ -7,14 +7,14 @@ domain:       LK
 organisation: Council for Information Technology
 organisation: LK Domain Registrar
 address:      9 Clifford Avenue
-address:      Colombo  00300
+address:      Colombo 00300
 address:      Sri Lanka
 
 contact:      administrative
 name:         Gihan Dias
 organisation: LK Domain Registry
-address:      545/4 de Soysa Rd.,
-address:      Molpe,
+address:      545/4 de Soysa Rd.
+address:      Molpe
 address:      Moratuwa 10400
 address:      Sri Lanka
 phone:        +94 11 4 216 065
@@ -24,8 +24,8 @@ e-mail:       gihan@cse.mrt.ac.lk
 contact:      technical
 name:         Hostmaster
 organisation: LK Domain Registry
-address:      545/4 de Soysa Rd.,
-address:      Molpe,
+address:      545/4 de Soysa Rd.
+address:      Molpe
 address:      Moratuwa 10400
 address:      Sri Lanka
 phone:        +94 11 4 216 061
@@ -40,8 +40,10 @@ nserver:      NS1.AC.LK 192.248.1.162 2401:dd00:1:0:0:0:0:162
 nserver:      P.NIC.LK 2001:500:14:6027:ad:0:0:1 204.61.216.27
 nserver:      PENDRAGON.CS.PURDUE.EDU 128.10.2.5
 nserver:      T.NIC.LK 203.94.66.129 2402:d000:100c:0:0:0:0:129
-ds-rdata:     181 5 1 A1907F85D49081239389C216912B8937D0ECEB3D
-ds-rdata:     181 5 2 87516D56B697CB3F7A7C3EB594EE0E16AE509D16A503089F4FBD4F347B336F93
+ds-rdata:     181 5 1 a1907f85d49081239389c216912b8937d0eceb3d
+ds-rdata:     181 5 2 87516d56b697cb3f7a7c3eb594ee0e16ae509d16a503089f4fbd4f347b336f93
+
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: http://www.nic.lk/
