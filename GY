@@ -25,14 +25,15 @@ contact:      technical
 name:         DNS Admin
 organisation: University of Guyana
 address:      Turkeyen Campus
-address:      Georgetown  P.O. Box 101110
+address:      P.O. Box 101110
+address:      Georgetown
 address:      Guyana
 phone:        +5926444135
 e-mail:       tech@registry.gy
 
 nserver:      A.LACTLD.ORG 200.0.68.10 2801:14:a000:0:0:0:0:10
 nserver:      GY-NS.ANYCAST.PCH.NET 2001:500:14:6034:ad:0:0:1 204.61.216.34
-ds-rdata:     50885 8 2 6B06025ECCB7EFB21793E58AFD2CE16D5949884F4AC352047DACCD841627A3DF
+ds-rdata:     50885 8 2 6b06025eccb7efb21793e58afd2ce16d5949884f4ac352047daccd841627a3df
 
 whois:        whois.registry.gy
 
@@ -40,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: https://registry.gy/
 
 created:      1994-09-13
-changed:      2020-12-14
+changed:      2022-07-20
 source:       IANA
 
