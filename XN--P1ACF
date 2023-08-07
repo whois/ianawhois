@@ -6,14 +6,16 @@ domain:       рус
 domain-ace:   XN--P1ACF
 
 organisation: Rusnames Limited
-address:      17 Moskowskoye shosse str, office 2103, Samara, Russia, 443013
-address:      Russian Federation
+address:      17 Moskowskoye shosse str, office 2103
+address:      Samara 443013
+address:      Russian Federation (the)
 
 contact:      administrative
 name:         ALEXEI SOZONOV
 organisation: RUSNAMES LIMITED
-address:      17 Moskowskoye shosse str, office 2103, Samara, Russia, 443013
-address:      Russian Federation
+address:      17 Moskowskoye shosse str, office 2103
+address:      Samara 443013
+address:      Russian Federation (the)
 phone:        +79649772117
 fax-no:       +7(846)3799039
 e-mail:       alexeisozonov@rusnames.ru
@@ -21,16 +23,17 @@ e-mail:       alexeisozonov@rusnames.ru
 contact:      technical
 name:         Sergey Zotov
 organisation: RUSNAMES LIMITED
-address:      17 Moskowskoye shosse str, office 2103, Samara, Russia, 443013
-address:      Russian Federation
+address:      17 Moskowskoye shosse str, office 2103
+address:      Samara 443013
+address:      Russian Federation (the)
 phone:        +79023207767
 e-mail:       iana.tech@rusnames.ru
 
 nserver:      NS1.ANYCASTDNS.CZ 185.38.108.108 2a00:fea0:dead:0:0:0:0:beef
-nserver:      NS1.NIC.XN--P1ACF 2620:0171:0d01:00dc:0:0:0:2 72.42.113.2
+nserver:      NS1.NIC.XN--P1ACF 2620:171:d01:dc:0:0:0:2 72.42.113.2
 nserver:      NS2.ANYCASTDNS.CZ 185.28.194.194
-nserver:      NS2.NIC.XN--P1ACF 2620:0171:0a01:00ad:0:0:0:2 72.0.49.2
-ds-rdata:     11446 8 2 C39B9FB91B155CA7FF3F84BC7F7B7713E8D3B40AE9B7B0D9C3DE0FDC36FA325C
+nserver:      NS2.NIC.XN--P1ACF 2620:171:a01:ad:0:0:0:2 72.0.49.2
+ds-rdata:     11446 8 2 c39b9fb91b155ca7ff3f84bc7f7b7713e8d3b40ae9b7b0d9c3de0fdc36fa325c
 
 whois:        whois.nic.xn--p1acf
 
@@ -38,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://rusnames.ru/
 
 created:      2014-07-03
-changed:      2022-03-11
+changed:      2022-11-21
 source:       IANA
 
