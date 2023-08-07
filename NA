@@ -6,8 +6,7 @@ domain:       NA
 
 organisation: Namibian Network Information Center
 address:      PO Box 7022
-address:      Swakopmund
-address:      13002
+address:      Swakopmund 13002
 address:      Namibia
 
 contact:      administrative
@@ -15,8 +14,7 @@ name:         NA Domain Administrators
 organisation: Namibian Network Information Center
 address:      106, Fischreiher Street
 address:      PO Box 7022
-address:      Swakopmund
-address:      13002
+address:      Swakopmund 13002
 address:      Namibia
 phone:        +264 81 124 6733
 fax-no:       +264 88 624273
@@ -26,8 +24,7 @@ contact:      technical
 name:         NA Domain Techs
 organisation: Namibian Network Information Center
 address:      PO Box 7022
-address:      Swakopmund
-address:      13002
+address:      Swakopmund 13002
 address:      Namibia
 phone:        +264 81 124 6733
 fax-no:       +264 88 624273
@@ -37,7 +34,7 @@ nserver:      ANYC2.IRONDNS.NET 195.253.64.7 2a01:5b0:4:0:0:0:0:7
 nserver:      ETLD-1.ANYCAST.NET 2607:f740:45:0:0:0:0:54 45.54.45.54
 nserver:      NA-NS.ANYCAST.PCH.NET 2001:500:14:6035:ad:0:0:1 204.61.216.35
 nserver:      NA.ANYCASTDNS.CZ 185.28.194.194 185.38.108.108
-ds-rdata:     25079 8 2 EAE8C2767C1C52C78B844247A31B0EF44988782CB5517D502983BA75DE98A627
+ds-rdata:     25079 8 2 eae8c2767c1c52c78b844247a31b0ef44988782cb5517d502983ba75de98a627
 
 whois:        whois.na-nic.com.na
 
