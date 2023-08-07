@@ -6,25 +6,25 @@ domain:       LIFESTYLE
 
 organisation: Lifestyle Domain Holdings, Inc.
 address:      9721 Sherill Blvd.
-address:      Knoxville, TN 37932
-address:      United States
+address:      Knoxville TN 37932
+address:      United States of America (the)
 
 contact:      administrative
 name:         Jennifer Wolfe
-organisation: Wolfe Domain dba Dot Brand 360
-address:      4424  Carver Woods Executive Center Suite 103
-address:      Cincinnati, Ohio 45242
-address:      United States
-phone:        513.746.2800 x1
-fax-no:       NA
+organisation: Wolfe Domain
+address:      1196 Fording Island Road
+address:      Bluffton SC 29910
+address:      United States of America (the)
+phone:        +1-513-238-4348
+fax-no:       +1-513-238-4348
 e-mail:       jwolfe@dotbrand360.agency
 
 contact:      technical
 name:         Bonnie Bryant
 organisation: VeriSign, Inc.
 address:      12061 Bluemont Way
-address:      Reston, Virginia 20190
-address:      United States
+address:      Reston VA 20190
+address:      United States of America (the)
 phone:        703.925.6999
 fax-no:       703.948.3978
 e-mail:       info@verisign-grs.com
@@ -33,13 +33,14 @@ nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
 nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
 nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
 nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
-ds-rdata:     43470 8 2 BC977BF20BAF75A4593E81D3E773F044543DE7C3DB7C8B0A7059E6F370A5C86C
+ds-rdata:     43470 8 2 bc977bf20baf75a4593e81d3e773f044543de7c3db7c8b0a7059e6f370a5c86c
 
 whois:        whois.nic.lifestyle
 
 status:       ACTIVE
+remarks:      Registration information: 
 
 created:      2015-10-01
-changed:      2019-08-19
+changed:      2023-06-02
 source:       IANA
 
