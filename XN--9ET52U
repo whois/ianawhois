@@ -6,13 +6,16 @@ domain:       时尚
 domain-ace:   XN--9ET52U
 
 organisation: RISE VICTORY LIMITED
-address:      201A, Wing On Plaza, 62 Mody Road, Tsimshatsui East, Kowloon
+address:      201A, Wing On Plaza
+address:      62 Mody Road
+address:      Tsimshatsui East Kowloon
 address:      Hong Kong
 
 contact:      administrative
 name:         CEO
 organisation: RISE VICTORY LIMITED
-address:      Room 201A, Wing On Plaza, 62 Mody Road, Tsui East, Kowloon, Hong Kong
+address:      Room 201A, Wing On Plaza, 62 Mody Road, Tsui East
+address:      Kowloon
 address:      China
 phone:        +86 20 6622 2813
 e-mail:       ceo@yu-wei.cn
@@ -20,7 +23,8 @@ e-mail:       ceo@yu-wei.cn
 contact:      technical
 name:         VP
 organisation: RISE VICTORY LIMITED
-address:      Room 201A, Wing On Plaza, 62 Mody Road, Tsui East, Kowloon, Hong Kong
+address:      Room 201A, Wing On Plaza, 62 Mody Road, Tsui East
+address:      Kowloon
 address:      China
 phone:        +86 20 6622 2813
 e-mail:       technology@yu-wei.cn
@@ -41,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.newgtld.cn
 
 created:      2015-03-12
-changed:      2019-09-03
+changed:      2023-01-18
 source:       IANA
 
