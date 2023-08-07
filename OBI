@@ -5,23 +5,25 @@
 domain:       OBI
 
 organisation: OBI Group Holding SE & Co. KGaA
-address:      Albert-Einstein-Strasse 7-9 42949 Wermelskirchen
+address:      Albert-Einstein-Strasse 7-9
+address:      Wermelskirchen 42949
 address:      Germany
 
 contact:      administrative
-name:         Head of Department E-Services
+name:         Project & Process Manager
 organisation: OBI Group Holding SE & Co. KGaA
-address:      Albert-Einstein-Strasse 7-9 42949 Wermelskirchen
+address:      Albert-Einstein-Strasse 7-9
+address:      Wermelskirchen 42949
 address:      Germany
-phone:        +492196761962 
-e-mail:       obitld@obi.de
+phone:        +442070151717
+e-mail:       ngtld-obi@cscglobal.com
 
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
 organisation: Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
-address:      Bellevue, WA 98004
-address:      United States
+address:      Bellevue WA 98004
+address:      United States of America (the)
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
 e-mail:       tldtech@donuts.email
@@ -30,14 +32,14 @@ nserver:      A0.NIC.OBI 2a01:8840:6e:0:0:0:0:17 65.22.112.17
 nserver:      A2.NIC.OBI 2a01:8840:71:0:0:0:0:17 65.22.115.17
 nserver:      B0.NIC.OBI 2a01:8840:6f:0:0:0:0:17 65.22.113.17
 nserver:      C0.NIC.OBI 2a01:8840:70:0:0:0:0:17 65.22.114.17
-ds-rdata:     58578 8 2 8832DF186F8C865BCB5D09023842E84A3E6BA037524D727D4B3770268BDF545D
 ds-rdata:     26464 8 2 540d7e7cb6f111d9ea048e3801806a4814b6c1dd229f3a2414aae8facce3cb13
 
 whois:        whois.nic.obi
 
 status:       ACTIVE
+remarks:      Registration information: 
 
 created:      2015-09-03
-changed:      2022-11-14
+changed:      2023-02-18
 source:       IANA
 
