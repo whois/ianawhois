@@ -6,14 +6,14 @@ domain:       AQUARELLE
 
 organisation: Aquarelle.com
 address:      28 rue Jacques Ibert
-address:      92300 Levallois-Perret
+address:      Levallois-Perret 92300
 address:      France
 
 contact:      administrative
 name:         CTO
 organisation: Aquarelle.com
 address:      28 rue Jacques Ibert
-address:      92300 Levallois-Perret
+address:      Levallois-Perret 92300
 address:      France
 phone:        +33 140541010
 fax-no:       +33 140541064
@@ -24,7 +24,7 @@ name:         TLD Technical Contact
 organisation: Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)
 address:      Immeuble Le Stephenson
 address:      1, rue Stephenson
-address:      78180 Montigny-Le-Bretonneux
+address:      Montigny-Le-Bretonneux 78180
 address:      France
 phone:        +33 1 39 30 83 00
 fax-no:       +33 1 39 30 83 01
@@ -33,7 +33,7 @@ e-mail:       pocaquarelle@afnic.fr
 nserver:      D.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
 nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
 nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
-ds-rdata:     22061 13 2 65A423EC214071521668ED047D2E74BA781E6495E0252CB8E08A7A633A89297D
+ds-rdata:     22061 13 2 65a423ec214071521668ed047d2e74ba781e6495e0252cb8e08a7a633a89297d
 
 whois:        whois.nic.aquarelle
 
