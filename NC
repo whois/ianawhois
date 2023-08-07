@@ -6,14 +6,14 @@ domain:       NC
 
 organisation: Office des Postes et Telecommunications
 address:      2 Rue Monchovet - Port Plaisance
-address:      Noumea  98841
+address:      Noumea 98841
 address:      New Caledonia
 
 contact:      administrative
 name:         Ly-Chrystelle Hoang
 organisation: Office des Postes et Telecommunications
 address:      2 Rue Monchovet - Port Plaisance
-address:      Noumea  98841
+address:      Noumea 98841
 address:      New Caledonia
 phone:        +687 278 201
 fax-no:       +687 278 203
@@ -23,7 +23,7 @@ contact:      technical
 name:         Nicolas Soulard
 organisation: Office des Postes et Telecommunications
 address:      2 Rue Monchovet - Port Plaisance
-address:      Noumea  98841
+address:      Noumea 98841
 address:      New Caledonia
 phone:        +687 267 645
 fax-no:       +687 287 172
@@ -33,7 +33,7 @@ nserver:      ANY-NS1.NC 114.69.222.1 2001:500:14:8000:7245:de00:0:1
 nserver:      NC.CCTLD.AUTHDNS.RIPE.NET 193.0.9.100 2001:67c:e0:0:0:0:0:100
 nserver:      NS1.NC 202.87.129.16 2404:2200:10:1000:0:0:53:1
 nserver:      NS2.NC 202.87.129.17 2404:2200:10:1000:0:0:53:2
-ds-rdata:     49057 8 2 5957AB66CF4871C8C39EDEBC78DFAB2B6DCBB3EA5E97278EA27190539410B753
+ds-rdata:     49057 8 2 5957ab66cf4871c8c39edebc78dfab2b6dcbb3ea5e97278ea27190539410b753
 
 whois:        whois.nc
 
