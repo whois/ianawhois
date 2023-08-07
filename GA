@@ -6,7 +6,7 @@ domain:       GA
 
 organisation: Agence Nationale des Infrastructures Numériques et des Fréquences (ANINF)
 address:      Cours Pasteur, (Immeuble de la Solde)
-address:      BP: 798
+address:      BP 798
 address:      Libreville
 address:      Gabon
 
@@ -14,7 +14,7 @@ contact:      administrative
 name:         TLD Admin Contact
 organisation: Agence Nationale des Infrastructures Numériques et des Fréquences (ANINF)
 address:      Cours Pasteur, (Immeuble de la Solde)
-address:      BP: 798
+address:      BP 798
 address:      Libreville
 address:      Gabon
 phone:        +241 01 76 32 49
@@ -24,20 +24,22 @@ contact:      technical
 name:         Manager ICT
 organisation: Agence Nationale des Infrastructures Numériques et des Fréquences (ANINF)
 address:      Cours Pasteur, (Immeuble de la Solde)
-address:      BP: 798
+address:      BP 798
 address:      Libreville
 address:      Gabon
 phone:        +241 01 76 32 49
 e-mail:       cctldga-tech@nic.ga
 
-nserver:      A.NS.GA 185.21.168.49 2a04:1b00:c:0:0:0:0:1
-nserver:      B.NS.GA 185.21.169.49 2a04:1b00:d:0:0:0:0:1
-nserver:      C.NS.GA 185.21.170.49 2a04:1b00:e:0:0:0:0:1
-nserver:      D.NS.GA 185.21.171.49 2a04:1b00:f:0:0:0:0:1
+nserver:      D.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
+nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
+nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
+
+whois:        
 
 status:       ACTIVE
+remarks:      Registration information: 
 
 created:      1994-12-12
-changed:      2018-11-28
+changed:      2023-06-04
 source:       IANA
 
