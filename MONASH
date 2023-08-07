@@ -5,13 +5,15 @@
 domain:       MONASH
 
 organisation: Monash University
-address:      Monash University, Victoria 3800
+address:      Monash University
+address:      Melbourne VIC 3800
 address:      Australia
 
 contact:      administrative
 name:         eSolutions Registry Operator
 organisation: Monash University
-address:      Monash University, Victoria 3800
+address:      Monash University
+address:      Melbourne VIC 3800
 address:      Australia
 phone:        +61 3 990 56171
 e-mail:       registry.operator@monash.edu
@@ -19,7 +21,8 @@ e-mail:       registry.operator@monash.edu
 contact:      technical
 name:         eSolutions Registry Operator
 organisation: Monash University
-address:      Monash University, Victoria 3800
+address:      Monash University
+address:      Melbourne VIC 3800
 address:      Australia
 phone:        +61 3 990 56171
 e-mail:       registry.operator@monash.edu
@@ -28,7 +31,7 @@ nserver:      A.NIC.MONASH 2001:dcd:1:0:0:0:0:9 37.209.192.9
 nserver:      B.NIC.MONASH 2001:dcd:2:0:0:0:0:9 37.209.194.9
 nserver:      C.NIC.MONASH 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      D.NIC.MONASH 2001:dcd:4:0:0:0:0:9 37.209.198.9
-ds-rdata:     59965 8 2 D344B67791659D1F21F6181494A347040694C757C57A8D76CBCCFD00CAA1348F
+ds-rdata:     59965 8 2 d344b67791659d1f21f6181494a347040694c757c57a8d76cbccfd00caa1348f
 
 whois:        whois.nic.monash
 
