@@ -6,14 +6,14 @@ domain:       AT
 
 organisation: nic.at GmbH
 address:      Jakob-Haringer-Strasse 8
-address:      Salzburg  A-5020
+address:      Salzburg 5020
 address:      Austria
 
 contact:      administrative
 name:         Geschaeftsfuehrer NIC.AT
 organisation: nic.at GmbH
 address:      Jakob-Haringer-Strasse 8
-address:      Salzburg  A-5020
+address:      Salzburg 5020
 address:      Austria
 phone:        +43 662 4669-14
 fax-no:       +43 662 4669-19
@@ -23,7 +23,7 @@ contact:      technical
 name:         Technik NIC.AT
 organisation: nic.at GmbH c/o Vienna University Computer Center
 address:      Universitaetsstrasse 7
-address:      Vienna  A-1010
+address:      Vienna 1010
 address:      Austria
 phone:        +43 1 4277 14035
 fax-no:       +43 1 4277 9140
@@ -37,8 +37,8 @@ nserver:      NS2.UNIVIE.AC.AT 192.92.125.2 2001:678:1c:0:0:0:0:2
 nserver:      NS9.UNIVIE.AC.AT 194.0.10.100 2001:678:d:0:0:0:0:cafe
 nserver:      R.NS.AT 194.0.25.10 2001:678:20:0:0:0:0:10
 nserver:      U.NS.AT 185.102.12.2 2a02:850:ffff:0:0:0:0:2
-ds-rdata:     19294 8 2 8F9D0ACD78FF2F88F5641C339F05862220AEF51A6DF480039C8D4DA4F1F8A0E0
-ds-rdata:     51046 8 2 55f25d5c8c31edf1c8cd5a954f39aa90a094f49398fcd7695e2d9cd72e9e6d0f
+ds-rdata:     1253 13 2 ba17c1bacb3fb49f7760ad1f7e71e17ab39ee0df3e9d3bf23fd3d70d6cf1719e
+ds-rdata:     18942 13 2 ae5f0bd73c8f48f3d55cdc4070f9407873176c364de4bc92bf96887685e6e55f
 
 whois:        whois.nic.at
 
@@ -46,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.at/
 
 created:      1988-01-20
-changed:      2022-02-03
+changed:      2023-04-25
 source:       IANA
 
