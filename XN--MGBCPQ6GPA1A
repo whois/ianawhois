@@ -23,9 +23,10 @@ e-mail:       dn@tra.org.bh
 contact:      technical
 name:         CTO
 organisation: CentralNic
-address:      Saddlers House 4th Floor 44 Gutter Lane
+address:      Saddlers House, 4th Floor
+address:      44 Gutter Lane
 address:      London EC2V 6BR
-address:      United Kingdom
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44 20 33 88 0600
 fax-no:       +44 20 33 88 0601
 e-mail:       tld.ops@centralnic.com
@@ -36,9 +37,12 @@ nserver:      C.NIC.XN--MGBCPQ6GPA1A 212.18.248.115 2a04:2b00:13ee:0:0:0:0:115
 nserver:      D.NIC.XN--MGBCPQ6GPA1A 212.18.249.115 2a04:2b00:13ff:0:0:0:0:115
 ds-rdata:     18592 8 2 0decd54d82c1c675e321c38a49e3193f83066bd70d1bfb108b62231c75b8b407
 
+whois:        
+
 status:       ACTIVE
+remarks:      Registration information: 
 
 created:      2019-06-13
-changed:      2021-10-12
+changed:      2023-03-07
 source:       IANA
 
