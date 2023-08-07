@@ -5,13 +5,16 @@
 domain:       KDDI
 
 organisation: KDDI CORPORATION
-address:      Garden Air Tower, 3-10-10, Iidabashi, Chiyoda-ku Tokyo - 1028460
+address:      Garden Air Tower, 3-10-10, Iidabashi
+address:      Chiyoda-ku Tokyo 1028460
 address:      Japan
 
 contact:      administrative
 name:         Representative Director
 organisation: GMO Registry, Inc.
-address:      Cerulean Tower, 26-1 Sakuragaoka-cho, Shibuya-ku Tokyo 150-8512
+address:      Cerulean Tower
+address:      26-1 Sakuragaoka-cho
+address:      Shibuya-ku Tokyo 150-8512
 address:      Japan
 phone:        +81-3-5456-1601
 fax-no:       +81-3-3780-5239
@@ -20,7 +23,9 @@ e-mail:       newgtld@gmoregistry.com
 contact:      technical
 name:         Director
 organisation: GMO Registry, Inc.
-address:      Cerulean Tower, 26-1 Sakuragaoka-cho, Shibuya-ku Tokyo 150-8512
+address:      Cerulean Tower
+address:      26-1 Sakuragaoka-cho
+address:      Shibuya-ku Tokyo 150-8512
 address:      Japan
 phone:        +81-3-5456-1601
 fax-no:       +81-3-3780-5239
