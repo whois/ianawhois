@@ -5,15 +5,16 @@
 domain:       MG
 
 organisation: NIC-MG (Network Information Center Madagascar)
-address:      BP 7735 Antanimena
-address:      Antananarivo  101
+address:      Tanà Water Front,  Esc A
+address:      Ambodivona
+address:      Antananarivo 101
 address:      Madagascar
 
 contact:      administrative
 name:         Hajanirina Ramboasalama
 organisation: NIC-MG (Network Information Center Madagascar)
 address:      BP 7735 Antanimena
-address:      Antananarivo  101
+address:      Antananarivo 101
 address:      Madagascar
 phone:        +261 33 11 036 17
 fax-no:       +261 20 22 369 82
@@ -22,18 +23,20 @@ e-mail:       ramboa@nic.mg
 contact:      technical
 name:         Raft Razafindrakoto
 organisation: NIC-MG (Network Information Center Madagascar)
-address:      BP 7735 Antanimena
-address:      Antananarivo  101
+address:      Tanà Water Front, Esc A
+address:      Ambodivona
+address:      Antananarivo 101
 address:      Madagascar
-phone:        +261 33 12 043 40
-fax-no:       +261 20 22 299 57
+phone:        +261340107037
 e-mail:       raft@nic.mg
 
-nserver:      CENSVRNS0001.IRD.FR 91.203.32.147
-nserver:      NS-MG.MALAGASY.COM 87.98.132.231
+nserver:      DNS-TLD.IRD.FR 13.39.116.127
+nserver:      NS-MG.AFRINIC.NET 196.216.168.35 2001:43f8:120:0:0:0:0:35
+nserver:      NS-MG.MALAGASY.COM 51.178.182.212
 nserver:      NS.DTS.MG 196.192.32.2
 nserver:      NS.NIC.MG 196.192.42.153
 nserver:      PCH.NIC.MG 2001:500:14:6121:ad:0:0:1 204.61.216.121
+ds-rdata:     31916 8 2 61c4c85f931e44175e37e585d4ecf728fe63587742d7335836e1e686ad44950e
 
 whois:        whois.nic.mg
 
@@ -41,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.mg
 
 created:      1995-07-25
-changed:      2019-08-05
+changed:      2023-04-06
 source:       IANA
 
