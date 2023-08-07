@@ -6,15 +6,15 @@ domain:       BIZ
 
 organisation: Registry Services, LLC
 address:      2155 E. GoDaddy Way
-address:      Tempe, AZ 85284
-address:      United States
+address:      Tempe AZ 85284
+address:      United States of America (the)
 
 contact:      administrative
 name:         IANA Contact
 organisation: GoDaddy Registry
 address:      2155 E GoDaddy Way
-address:      Tempe, AZ 85284
-address:      United States
+address:      Tempe AZ 85284
+address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
 e-mail:       iana@registry.godaddy
@@ -23,19 +23,19 @@ contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
 address:      2155 E GoDaddy Way
-address:      Tempe, AZ 85284
-address:      United States
+address:      Tempe AZ 85284
+address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
 e-mail:       iana@registry.godaddy
 
-nserver:      A.GTLD.BIZ 156.154.124.65 2001:0502:ad09:0:0:0:0:30
+nserver:      A.GTLD.BIZ 156.154.124.65 2001:502:ad09:0:0:0:0:30
 nserver:      B.GTLD.BIZ 156.154.125.65
 nserver:      C.GTLD.BIZ 156.154.127.65
 nserver:      W.GTLD.BIZ 2001:dcd:1:0:0:0:0:13 37.209.192.13
 nserver:      X.GTLD.BIZ 2001:dcd:2:0:0:0:0:13 37.209.194.13
 nserver:      Y.GTLD.BIZ 2001:dcd:3:0:0:0:0:13 37.209.196.13
-ds-rdata:     13075 8 2 5114C10474C1467017A378DA75E6845511F78FEA480A4469A3BAFC54B2738E11
+ds-rdata:     13075 8 2 5114c10474c1467017a378da75e6845511f78fea480a4469a3bafc54b2738e11
 
 whois:        whois.nic.biz
 
