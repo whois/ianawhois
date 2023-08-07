@@ -31,6 +31,8 @@ nserver:      NS1.CENPAC.NET.NR 203.98.225.9
 nserver:      NS2.CENPAC.NET.NR 202.144.128.200 2405:d000:0:100:0:0:0:200
 nserver:      PHLOEM.UOREGON.EDU 128.223.32.35 2001:468:d01:20:0:0:80df:2023
 
+whois:        
+
 status:       ACTIVE
 remarks:      Registration information: http://www.cenpac.net.nr
 
