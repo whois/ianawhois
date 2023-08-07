@@ -6,14 +6,15 @@ domain:       KW
 
 organisation: Communications and Information Technology Regulatory Authority
 address:      Khaled Ibn Alwaleed street, block 6, plot 1, aldhow tower, 12th floor
-address:      Sharq, Al Asima 15300
+address:      Al Asima Sharq 15300
 address:      Kuwait
 
 contact:      administrative
 name:         Manal AlMazyad
 organisation: Communications and Information Technology Regulatory Authority
 address:      Khaled Ibn Alwaleed street, block 6, plot 1, aldhow tower, 12th floor
-address:      Sharq, Al Asima 15300
+address:      Sharq
+address:      Al Asima 15300
 address:      Kuwait
 phone:        +965.22966000
 fax-no:       +965.00000000
@@ -23,7 +24,8 @@ contact:      technical
 name:         Bashar Al-Abdulhadi
 organisation: Kuwaitnet General Trading & Contracting Co
 address:      P.O. Box 1230
-address:      Dasman, Al Asima 15463
+address:      Dasman
+address:      Al Asima 15463
 address:      Kuwait
 phone:        +965.1807060
 fax-no:       +965.22257060
@@ -34,12 +36,14 @@ nserver:      B.NIC.KW 168.187.100.84
 nserver:      C.NIC.KW 194.58.198.135 2a01:3f1:3032:8001:0:0:0:135
 nserver:      D.NIC.KW 185.42.137.135 2a01:3f0:400:8001:0:0:0:135
 nserver:      PCH.NIC.KW 2001:500:14:6118:ad:0:0:1 204.61.216.118
-ds-rdata:     53599 8 2 C5646A4E1BEE8C2699D3CC3C4F597F8767B85A134FE5EE5DFE8B3D25B1534D3A
+ds-rdata:     53599 8 2 c5646a4e1bee8c2699d3cc3c4f597f8767b85a134fe5ee5dfe8b3d25b1534d3a
+
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: http://www.nic.kw
 
 created:      1992-10-26
-changed:      2021-10-01
+changed:      2023-01-18
 source:       IANA
 
