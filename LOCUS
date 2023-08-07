@@ -7,15 +7,15 @@ domain:       LOCUS
 organisation: Locus Analytics LLC
 address:      179 Franklin Street
 address:      3rd Floor
-address:      New York, New York 10013
-address:      United States
+address:      New York NY 10013
+address:      United States of America (the)
 
 contact:      administrative
 name:         Sean Sandys
 organisation: Locus Analytics LLC
 address:      101 Elliott Avenue West, Suite 400
-address:      Seattle, Washington 98119
-address:      United States
+address:      Seattle WA 98119
+address:      United States of America (the)
 phone:        +1 206 910 6225
 fax-no:       +1 212 883 2299
 e-mail:       sean@tyemill.com
@@ -23,10 +23,11 @@ e-mail:       sean@tyemill.com
 contact:      technical
 name:         TLD Registry Services Technical
 organisation: Nominet
-address:      Minerva House,
+address:      Minerva House
 address:      Edmund Halley Road
+address:      Oxford Science Park
 address:      Oxford OX4 4DQ
-address:      United Kingdom
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44.1865332211
 e-mail:       registrytechnical@nominet.uk
 
@@ -38,7 +39,7 @@ nserver:      DNSA.NIC.LOCUS 156.154.100.3 2001:502:ad09:0:0:0:0:3
 nserver:      DNSB.NIC.LOCUS 156.154.101.3 2001:502:2eda:0:0:0:0:3
 nserver:      DNSC.NIC.LOCUS 156.154.102.3 2610:a1:1009:0:0:0:0:3
 nserver:      DNSD.NIC.LOCUS 156.154.103.3 2610:a1:1010:0:0:0:0:3
-ds-rdata:     23735 8 2 FB7C38BE258C83CB17367AB656FE05F6A8A2A616FEAC4115DCECFA7DA03A1214
+ds-rdata:     23735 8 2 fb7c38be258c83cb17367ab656fe05f6a8a2a616feac4115dcecfa7da03a1214
 
 whois:        whois.nic.locus
 
