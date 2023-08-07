@@ -6,15 +6,15 @@ domain:       COURSES
 
 organisation: Registry Services, LLC
 address:      2155 E. GoDaddy Way
-address:      Tempe, AZ 85284
-address:      United States
+address:      Tempe AZ 85284
+address:      United States of America (the)
 
 contact:      administrative
 name:         IANA Contact
 organisation: GoDaddy Registry
 address:      2155 E GoDaddy Way
-address:      Tempe, AZ 85284
-address:      United States
+address:      Tempe AZ 85284
+address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
 e-mail:       iana@registry.godaddy
@@ -23,8 +23,8 @@ contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
 address:      2155 E GoDaddy Way
-address:      Tempe, AZ 85284
-address:      United States
+address:      Tempe AZ 85284
+address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
 e-mail:       iana@registry.godaddy
@@ -32,8 +32,10 @@ e-mail:       iana@registry.godaddy
 nserver:      A.NIC.COURSES 2001:dcd:1:0:0:0:0:9 37.209.192.9
 nserver:      B.NIC.COURSES 2001:dcd:2:0:0:0:0:9 37.209.194.9
 nserver:      C.NIC.COURSES 2001:dcd:3:0:0:0:0:9 37.209.196.9
-nserver:      D.NIC.COURSES 2001:dcd:4:0:0:0:0:9 37.209.198.9
-ds-rdata:     34960 8 2 DC3B228B7E6F2EEA82FAD1ADEB93171D4D3CA3892A3E0E94035CD89D258DF087
+nserver:      X.NIC.COURSES 156.154.172.82 2610:a1:1074:0:0:0:1:82
+nserver:      Y.NIC.COURSES 156.154.173.82 2610:a1:1075:0:0:0:1:82
+nserver:      Z.NIC.COURSES 156.154.174.82 2610:a1:1076:0:0:0:1:82
+ds-rdata:     34960 8 2 dc3b228b7e6f2eea82fad1adeb93171d4d3ca3892a3e0e94035cd89d258df087
 
 whois:        whois.nic.courses
 
@@ -41,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.get.courses/
 
 created:      2015-02-19
-changed:      2022-07-18
+changed:      2022-12-01
 source:       IANA
 
