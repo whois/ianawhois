@@ -6,15 +6,13 @@ domain:       TT
 
 organisation: University of the West Indies
 organisation: Faculty of Engineering
-address:      St. Augustine
-address:      Trinidad And Tobago
 
 contact:      administrative
 name:         Dr. Patrick Hosein
 organisation: TTNIC
 address:      84 Abercromby St.
 address:      Port of Spain
-address:      Trinidad And Tobago
+address:      Trinidad and Tobago
 phone:        +1 868 483 4454
 e-mail:       admin@nic.tt
 
@@ -23,20 +21,21 @@ name:         Dr. Patrick Hosein
 organisation: TTNIC
 address:      84 Abercromby St.
 address:      Port of Spain
-address:      Trinidad And Tobago
+address:      Trinidad and Tobago
 phone:        +1868 483 4454
 e-mail:       tech@nic.tt
 
 nserver:      A.LACTLD.ORG 200.0.68.10 2801:14:a000:0:0:0:0:10
-nserver:      NS3.NIC.MX 200.33.111.1
 nserver:      PCH.NIC.TT 2001:500:14:6063:ad:0:0:1 204.61.216.63
 nserver:      RIPE.NIC.TT 193.0.9.50 2001:67c:e0:0:0:0:0:50
 ds-rdata:     2539 8 2 b06dfa79674df3ea8190e7616164414b01e9199b7c94ec1540378a395daa401f
+
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: http://www.nic.tt
 
 created:      1991-09-03
-changed:      2020-01-14
+changed:      2022-12-07
 source:       IANA
 
