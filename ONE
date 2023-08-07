@@ -6,24 +6,24 @@ domain:       ONE
 
 organisation: One.com A/S
 address:      Kalvebod Brygge 24
-address:      DK-1560 Copenhagen
+address:      Copenhagen DK-1560
 address:      Denmark
 
 contact:      administrative
-name:         Rieke Poppe
+name:         Karsten Heimbürger
 organisation: One.com
 address:      Kalvebod Brygge 24
-address:      DK-1560 Copenhagen
+address:      Copenhagen DK-1560
 address:      Denmark
 phone:        +4546907111
 fax-no:       +4570205872
-e-mail:       rieke@oneregistry.co
+e-mail:       kmj@oneregistry.co
 
 contact:      technical
-name:         Rieke Poppe
+name:         Karsten Heimbürger
 organisation: One.com
 address:      Kalvebod Brygge 24
-address:      DK-1560 Copenhagen
+address:      Copenhagen DK-1560
 address:      Denmark
 phone:        +4546907111
 fax-no:       +4570205872
@@ -32,8 +32,10 @@ e-mail:       operations@oneregistry.co
 nserver:      A.NIC.ONE 2001:dcd:1:0:0:0:0:9 37.209.192.9
 nserver:      B.NIC.ONE 2001:dcd:2:0:0:0:0:9 37.209.194.9
 nserver:      C.NIC.ONE 2001:dcd:3:0:0:0:0:9 37.209.196.9
-nserver:      D.NIC.ONE 2001:dcd:4:0:0:0:0:9 37.209.198.9
-ds-rdata:     56899 8 2 C28CDE2F5E88289C26584A4E6871B41E0F0C2D5F7F2DF2906E8FBB275AC4AA68
+nserver:      X.NIC.ONE 156.154.172.82 2610:a1:1074:0:0:0:1:82
+nserver:      Y.NIC.ONE 156.154.173.82 2610:a1:1075:0:0:0:1:82
+nserver:      Z.NIC.ONE 156.154.174.82 2610:a1:1076:0:0:0:1:82
+ds-rdata:     56899 8 2 c28cde2f5e88289c26584a4e6871b41e0f0c2d5f7f2df2906e8fbb275ac4aa68
 
 whois:        whois.nic.one
 
@@ -41,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.one.com/
 
 created:      2014-12-18
-changed:      2022-07-21
+changed:      2023-03-15
 source:       IANA
 
