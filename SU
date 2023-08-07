@@ -7,25 +7,25 @@ domain:       SU
 organisation: Russian Institute for Development of Public Networks
 organisation: (ROSNIIROS)
 address:      1, Kurchatov Sq.
-address:      Moscow  123182
-address:      Russian Federation
+address:      Moscow 123182
+address:      Russian Federation (the)
 
 contact:      administrative
 name:         ROSNIIROS
 organisation: Russian Institute for Development of Public Networks (ROSNIIROS)
 address:      1, Kurchatov Sq.
 address:      Moscow 123182
-address:      Russian Federation
+address:      Russian Federation (the)
 phone:        +7 499 196 49 84
 fax-no:       +7 499 196 49 84
 e-mail:       su-adm@ripn.su
 
 contact:      technical
-name:         Technical Center of Internet 
+name:         Technical Center of Internet
 organisation: Technical Center of Internet
 address:      8 Marta street 1, bld 12
 address:      Moscow 127083
-address:      Russian Federation
+address:      Russian Federation (the)
 phone:        +7 495 730 29 69
 fax-no:       +7 495 730 29 68
 e-mail:       ru-tech@tcinet.ru
@@ -35,13 +35,14 @@ nserver:      B.DNS.RIPN.NET 194.85.252.62 2001:678:16:0:194:85:252:62
 nserver:      D.DNS.RIPN.NET 194.190.124.17 2001:678:18:0:194:190:124:17
 nserver:      E.DNS.RIPN.NET 193.232.142.17 2001:678:15:0:193:232:142:17
 nserver:      F.DNS.RIPN.NET 193.232.156.17 2001:678:14:0:193:232:156:17
-ds-rdata:     23042 8 2 AA41ED8B657359B5FD0E2756AADB10871CC9010509A6C86E5DF744A7914F9E4E
+ds-rdata:     23042 8 2 aa41ed8b657359b5fd0e2756aadb10871cc9010509a6c86e5df744a7914f9e4e
 
 whois:        whois.tcinet.ru
 
 status:       ACTIVE
+remarks:      Registration information: 
 
 created:      1990-09-19
-changed:      2022-10-20
+changed:      2023-03-07
 source:       IANA
 
