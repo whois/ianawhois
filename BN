@@ -6,14 +6,14 @@ domain:       BN
 
 organisation: Authority for Info-communications Technology Industry of Brunei Darussalam (AITI)
 address:      Block 13, Simpang 32-5, Kampung Anggerek Desa, Jalan Berakas
-address:      Bandar Seri Begawan, BB3713
+address:      Bandar Seri Begawan BB3713
 address:      Brunei Darussalam
 
 contact:      administrative
 name:         Domain Administrator
 organisation: Authority for Info-communications Technology Industry of Brunei Darussalam
 address:      Block 13, Simpang 32-5, Kampung Anggerek Desa, Jalan Berakas
-address:      Bandar Seri Begawan, BB3713
+address:      Bandar Seri Begawan BB3713
 address:      Brunei Darussalam
 phone:        +673.2323232
 fax-no:       +673.2322447
@@ -23,7 +23,7 @@ contact:      technical
 name:         Technical Support
 organisation: Authority for Info-communications Technology Industry of Brunei Darussalam
 address:      Block 13, Simpang 32-5, Kampung Anggerek Desa, Jalan Berakas
-address:      Bandar Seri Begawan, BB3713
+address:      Bandar Seri Begawan BB3713
 address:      Brunei Darussalam
 phone:        +673.2323232
 fax-no:       +673.2322447
@@ -33,7 +33,7 @@ nserver:      BN-NS.ANYCAST.PCH.NET 2001:500:14:6087:ad:0:0:1 204.61.216.87
 nserver:      NS1.BNNIC.BN 194.0.1.33
 nserver:      NS2.BNNIC.BN 202.93.214.163
 nserver:      NS4.APNIC.NET 2001:dd8:12:0:0:0:0:53 202.12.31.53
-ds-rdata:     42604 8 2 6819A97FB70420CF6B528CBF909312A834180660A098E2A2650A5ED58849E1DA
+ds-rdata:     37217 8 2 c07408e9e9e8d893257b987ebcb7b8c11889a2e40a66106cc05a6f12fbf629e6
 
 whois:        whois.bnnic.bn
 
@@ -41,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.bnnic.bn
 
 created:      1994-06-03
-changed:      2022-05-19
+changed:      2023-07-24
 source:       IANA
 
