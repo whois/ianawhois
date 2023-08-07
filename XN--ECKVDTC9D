@@ -6,14 +6,16 @@ domain:       ポイント
 domain-ace:   XN--ECKVDTC9D
 
 organisation: Amazon Registry Services, Inc.
-address:      410 Terry Avenue North, Seattle, WA  98109
-address:      United States
+address:      410 Terry Avenue North
+address:      Seattle WA 98109
+address:      United States of America (the)
 
 contact:      administrative
 name:         Carolyn Mitchell
 organisation: Amazon Registry Services, Inc.
-address:      410 Terry Avenue North, Seattle, WA  98109
-address:      United States
+address:      410 Terry Avenue North
+address:      Seattle WA 98109
+address:      United States of America (the)
 phone:        +1 206 646 5990
 fax-no:       +1 206 946 7702
 e-mail:       point-rzm@amazon.com
@@ -22,8 +24,8 @@ contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
 address:      2155 E GoDaddy Way
-address:      Tempe, AZ 85284
-address:      United States
+address:      Tempe AZ 85284
+address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
@@ -34,7 +36,9 @@ nserver:      C.NIC.XN--ECKVDTC9D 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      NS1.DNS.NIC.XN--ECKVDTC9D 156.154.169.66 2610:a1:1071:0:0:0:1:42
 nserver:      NS2.DNS.NIC.XN--ECKVDTC9D 156.154.170.66 2610:a1:1072:0:0:0:1:42
 nserver:      NS3.DNS.NIC.XN--ECKVDTC9D 156.154.171.66 2610:a1:1073:0:0:0:1:42
-ds-rdata:     40972 8 2 87CA2A9DFFF26F0B71F1CFABF9DFA315ECA77CCAF0168C5A39228AB8A5394D7F
+ds-rdata:     40972 8 2 87ca2a9dfff26f0b71f1cfabf9dfa315eca77ccaf0168c5a39228ab8a5394d7f
+
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: http://www.amazonregistry.com
