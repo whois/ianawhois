@@ -7,13 +7,13 @@ domain:       KN
 organisation: Ministry of Finance, Sustainable Development Information & Technology
 address:      Church Street
 address:      P.O. Box 186
-address:      Saint Kitts And Nevis
+address:      Saint Kitts and Nevis
 
 contact:      administrative
 name:         Adviser of National ICT Center
 organisation: National ICT Center
 address:      No. 3 C.A. Paul Southwell Industrial Site
-address:      Saint Kitts And Nevis
+address:      Saint Kitts and Nevis
 phone:        +1 869 4658582
 fax-no:       +1 869 4650610
 e-mail:       admin@knnic.kn
@@ -24,8 +24,8 @@ organisation: Taiwan Network Information Center (TWNIC)
 address:      4F-2, No. 9
 address:      Roosevelt Road
 address:      Section 2
-address:      Taipei  100
-address:      Taiwan, Province Of China
+address:      Taipei 100
+address:      Taiwan (Province of China)
 phone:        +886 2 2341 1313 ext. 500
 fax-no:       +886 2 2396 8832
 e-mail:       snw@twnic.net.tw
@@ -37,8 +37,9 @@ nserver:      PCH.NIC.KN 2001:500:14:6109:ad:0:0:1 204.61.216.109
 whois:        whois.nic.kn
 
 status:       ACTIVE
+remarks:      Registration information: 
 
 created:      1991-09-03
-changed:      2021-01-10
+changed:      2022-11-21
 source:       IANA
 
