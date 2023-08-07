@@ -7,7 +7,8 @@ domain:       SFR
 organisation: Societe Francaise du Radiotelephone - SFR
 address:      12 Rue Jean-Philippe Rameau
 address:      CS80001
-address:      93634 La Plaine Saint Denis Cedex
+address:      Cedex
+address:      La Plaine Saint Denis  93634
 address:      France
 
 contact:      administrative
@@ -16,7 +17,8 @@ organisation: SafeBrands
 address:      SafeBrands
 address:      37 Rue Guibal
 address:      Pôle Media
-address:      13003 Marseille Cedex
+address:      Cedex
+address:      Marseille  13003
 address:      France
 phone:        +33488662207
 fax-no:       +33488662220
@@ -25,9 +27,10 @@ e-mail:       tldsfr@safebrands.com
 contact:      technical
 name:         CTO
 organisation: CentralNic
-address:      Saddlers House 4th Floor 44 Gutter Lane
+address:      Saddlers House, 4th Floor
+address:      44 Gutter Lane
 address:      London EC2V 6BR
-address:      United Kingdom
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44 20 33 88 0600
 fax-no:       +44 20 33 88 0601
 e-mail:       tld.ops@centralnic.com
@@ -36,14 +39,15 @@ nserver:      A.NIC.SFR 194.169.218.100 2001:67c:13cc:0:0:0:1:100
 nserver:      B.NIC.SFR 185.24.64.100 2a04:2b00:13cc:0:0:0:1:100
 nserver:      C.NIC.SFR 212.18.248.100 2a04:2b00:13ee:0:0:0:0:100
 nserver:      D.NIC.SFR 212.18.249.100 2a04:2b00:13ff:0:0:0:0:100
-ds-rdata:     7923 7 1 E348A086A9BC4C214C16FC529E64BBEE506739C4
-ds-rdata:     7923 7 2 E3B4E6B0B3447C29949813283B4308546B1BB895FA1E2A39364F918BE581BF01
+ds-rdata:     7923 7 1 e348a086a9bc4c214c16fc529e64bbee506739c4
+ds-rdata:     7923 7 2 e3b4e6b0b3447c29949813283b4308546b1bb895fa1e2a39364f918be581bf01
 ds-rdata:     51274 7 1 bf4509a051e4cb1206784fb08211043be36a495b
 ds-rdata:     51274 7 2 4be38a9fc56f65e77125940e4ffdaccffc39380f3e74bca025b0206eb8e8628d
 
 whois:        whois.nic.sfr
 
 status:       ACTIVE
+remarks:      Registration information: 
 
 created:      2015-11-12
 changed:      2021-10-12
