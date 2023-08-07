@@ -7,14 +7,14 @@ domain:       KM
 organisation: Comores Telecom
 address:      Place Volovolo BP 7000
 address:      Moroni 98123
-address:      Comoros
+address:      Comoros (the)
 
 contact:      administrative
 name:         General Manager
 organisation: Comores Telecom
 address:      Place Volovolo BP 7000
 address:      Moroni 98123
-address:      Comoros
+address:      Comoros (the)
 phone:        +269 7734300
 fax-no:       +269 7738912
 e-mail:       directeur.general@comorestelecom.km
@@ -24,7 +24,7 @@ name:         IT Engineer
 organisation: Comores Telecom
 address:      Place Volovolo BP 7000
 address:      Moroni 98123
-address:      Comoros
+address:      Comoros (the)
 phone:        +269 3323001
 fax-no:       +269 7738912
 e-mail:       alihadji90@gmail.com
@@ -32,6 +32,8 @@ e-mail:       alihadji90@gmail.com
 nserver:      DNS1.NIC.KM 197.255.224.18
 nserver:      DNS2.NIC.KM 197.255.224.66
 nserver:      NS-KM.AFRINIC.NET 196.216.168.46 2001:43f8:120:0:0:0:0:46
+
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: http://www.domaine.km/
