@@ -6,33 +6,35 @@ domain:       GALLO
 
 organisation: Gallo Vineyards, Inc.
 address:      600 Yosemite Blvd.
-address:      Modesto, California 95354
-address:      United States
+address:      Modesto CA 95354
+address:      United States of America (the)
 
 contact:      administrative
 name:         Principal IT Architect
 organisation: Gallo Vineyards, Inc.
-address:      600 Yosemite Blvd. Modesto, California - 95354
-address:      United States
+address:      600 Yosemite Blvd.
+address:      Modesto CA 95354
+address:      United States of America (the)
 phone:        +1 209 341 6349
 fax-no:       +1 209 573 8520
 e-mail:       ngtld-gallo@cscinfo.com
 
 contact:      technical
-name:         Registry Customer Service
-organisation: Registry Customer Service
-address:      12061 Bluemont Way
-address:      Reston Virginia 20190
-address:      United States
-phone:        +1-703-925-6999
-fax-no:       +1-703-948-3978
-e-mail:       info@verisign-grs.com
+name:         Howard Eland, Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       rzmtechcontact@identity.digital
 
-nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
-nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
-nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
-nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
-ds-rdata:     29001 8 2 4C475AD8273C49CCED3D8FBF45F02BA8E1A2759F816BF2020A544B49B9B04CF6
+nserver:      A0.NIC.GALLO 2a01:8840:36:0:0:0:0:1 65.22.56.1
+nserver:      A2.NIC.GALLO 2a01:8840:39:0:0:0:0:1 65.22.59.1
+nserver:      B0.NIC.GALLO 2a01:8840:37:0:0:0:0:1 65.22.57.1
+nserver:      C0.NIC.GALLO 2a01:8840:38:0:0:0:0:1 65.22.58.1
+ds-rdata:     29001 8 2 4c475ad8273c49cced3d8fbf45f02ba8e1a2759f816bf2020a544b49b9b04cf6
+ds-rdata:     49567 8 2 5b769db94fcfcdd0acd004b90dc7ba248df09b3b7d7f29b40732b388a1ebf9c7
 
 whois:        whois.nic.gallo
 
@@ -40,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.gallo.com
 
 created:      2015-10-24
-changed:      2019-08-16
+changed:      2023-03-20
 source:       IANA
 
