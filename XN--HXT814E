@@ -6,13 +6,17 @@ domain:       网店
 domain-ace:   XN--HXT814E
 
 organisation: Zodiac Taurus Ltd.
-address:      Block A Unit 406, Horizon International Tower No. 6 Zhichun Road, Haidian District, Beijing, 100088
+address:      Block A Unit 406, Horizon International Tower No. 6 Zhichun Road
+address:      Haidian District
+address:      Beijing 100088
 address:      China
 
 contact:      administrative
 name:         CEO
 organisation: Zodiac Holdings Ltd
-address:      Block A Unit 406, Horizon International Tower No. 6 Zhichun Road, Haidian District Beijing 100088
+address:      Block A Unit 406, Horizon International Tower No. 6 Zhichun Road
+address:      Haidian District
+address:      Beijing 100088
 address:      China
 phone:        +86.1082961219
 e-mail:       ceo@nic.wang
@@ -20,7 +24,9 @@ e-mail:       ceo@nic.wang
 contact:      technical
 name:         VP
 organisation: Zodiac Holdings Ltd
-address:      Block A Unit 406, Horizon International Tower No. 6 Zhichun Road, Haidian District, Beijing, 100088
+address:      Block A Unit 406, Horizon International Tower No. 6 Zhichun Road
+address:      Haidian District
+address:      Beijing 100088
 address:      China
 phone:        +86.1082961219
 e-mail:       vp@nic.wang
@@ -41,6 +47,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.wangdian.wang
 
 created:      2014-11-20
-changed:      2022-01-25
+changed:      2022-12-08
 source:       IANA
 
