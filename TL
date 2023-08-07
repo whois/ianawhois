@@ -7,7 +7,7 @@ domain:       TL
 organisation: Autoridade Nacional de Comunicações
 address:      Avenida Bispo de Medeiros 8
 address:      Dili 10000
-address:      Timor-leste
+address:      Timor-Leste
 
 contact:      administrative
 name:         Chairperson
@@ -21,9 +21,9 @@ e-mail:       cctld@anc.tl
 contact:      technical
 name:         Garth Miller
 organisation: CoCCA Registry Services (NZ) Limited
-address:      11a Wynyard Street, Devonport
-address:      Auckland
-address:      North Island 0744
+address:      11A Wynyard Street
+address:      Devonport
+address:      Auckland 0744
 address:      New Zealand
 phone:        +64 9 446 6370
 e-mail:       noc@cocca.org.nz
@@ -31,7 +31,7 @@ e-mail:       noc@cocca.org.nz
 nserver:      NS.ANYCAST.NIC.TL 2001:500:14:6019:ad:0:0:1 204.61.216.19
 nserver:      NS1.ANYCASTDNS.CZ 185.38.108.108 2a00:fea0:dead:0:0:0:0:beef
 nserver:      NS2.ANYCASTDNS.CZ 185.28.194.194
-ds-rdata:     25307 8 2 BC0412D59817424A34040676F1AE1205B1F33FC9510E7E30114711851FFCEDE4
+ds-rdata:     25307 8 2 bc0412d59817424a34040676f1ae1205b1f33fc9510e7e30114711851ffcede4
 
 whois:        whois.nic.tl
 
@@ -39,6 +39,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.tl
 
 created:      2005-03-23
-changed:      2021-01-02
+changed:      2022-11-21
 source:       IANA
 
