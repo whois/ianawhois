@@ -7,38 +7,40 @@ domain:       WEIR
 organisation: Weir Group IP Limited
 address:      1 West Regent Street
 address:      Glasgow G2 1RW
-address:      United Kingdom
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 
 contact:      administrative
 name:         Head of IT Service Delivery
 organisation: Head of IT Service Delivery
 address:      1 West Regent Street
 address:      Glasgow G2 1RW
-address:      United Kingdom
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44 141 637 7111
 fax-no:       +44 141 221 9789
 e-mail:       ngtld-weir@cscinfo.com
 
 contact:      technical
-name:         Registry Customer Service
-organisation: Verisign, Inc.
-address:      12061 Bluemont Way
-address:      Reston Virginia 20190
-address:      United States
-phone:        +1-703-925-6999
-fax-no:       +1-703-948-3978
-e-mail:       info@verisign-grs.com
+name:         Howard Eland, Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
 
-nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
-nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
-nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
-nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
-ds-rdata:     43134 8 2 1F9E4441191642A39A48CEC8DEDBDA9120D85D460CBAF2BF037F3AE3A8E8C7EE
+nserver:      A0.NIC.WEIR 2a01:8840:6e:0:0:0:0:75 65.22.112.75
+nserver:      A2.NIC.WEIR 2a01:8840:71:0:0:0:0:75 65.22.115.75
+nserver:      B0.NIC.WEIR 2a01:8840:6f:0:0:0:0:75 65.22.113.75
+nserver:      C0.NIC.WEIR 2a01:8840:70:0:0:0:0:75 65.22.114.75
+ds-rdata:     7762 8 2 bfffb5b824d7cc802beb433840269cd57749aa46593c40b9967bfba4c376fc6f
+
+whois:        whois.nic.weir
 
 status:       ACTIVE
 remarks:      Registration information: http://weir.co.uk/
 
 created:      2015-04-02
-changed:      2019-08-16
+changed:      2023-05-25
 source:       IANA
 
