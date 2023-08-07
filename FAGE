@@ -5,17 +5,15 @@
 domain:       FAGE
 
 organisation: Fage International S.A.
-address:      145, rue du Kiem
-address:      L-8030 Strassen
-address:      Grand Duchy Of Luxembourg
+address:      145, Rue du Kiem
+address:      Strassen L-8030
 address:      Luxembourg
 
 contact:      administrative
 name:         Information Technology Manager
 organisation: FAGE International S.A.
-address:      145, rue du Kiem
-address:      L-8030 Strassen
-address:      Grand Duchy Of Luxembourg
+address:      145, Rue du Kiem
+address:      Strassen L-8030
 address:      Luxembourg
 phone:        +518 736 3434
 fax-no:       +302 636 5454
@@ -24,10 +22,10 @@ e-mail:       ngtld-fage@cscinfo.com
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
 organisation: Afilias
-address:      Building 3, Suite 105
 address:      300 Welsh Road
-address:      Horsham, PA 19044
-address:      United States
+address:      Building 3, Suite 105
+address:      Horsham PA 19044
+address:      United States of America (the)
 phone:        +1 215.706.5700
 fax-no:       +1 215.706.5701
 e-mail:       tld-tech-poc@afilias.info
