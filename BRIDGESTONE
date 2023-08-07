@@ -5,29 +5,26 @@
 domain:       BRIDGESTONE
 
 organisation: Bridgestone Corporation
-address:      1-1, Kyobashi 3-chome,
-address:      Chuo-ku,
-address:      Tokyo, 104-8340
+address:      1-1, Kyobashi 3-chome
+address:      Chuo-ku Tokyo 104-8340
 address:      Japan
 
 contact:      administrative
-name:         Mitsuaki Nakagawa
-organisation: Brights Consulting Inc.
-address:      30F, Kasumigaseki Bldg., 3-2-5 Kasumigaseki
-address:      Chiyoda-ku
-address:      Tokyo 100-6030
+name:         Chief Operating Officer
+organisation: GMO BRAND SECURITY Inc.
+address:      Cerulean Tower, 26-1, Sakuragaoka-cho
+address:      Shibuya-ku Tokyo 150-8512
 address:      Japan
 phone:        +81355210107
 fax-no:       +81355210117
-e-mail:       nakagawa_08@brights.jp
+e-mail:       registry@brightsconsulting.com
 
 contact:      technical
 name:         Director
 organisation: GMO Registry, Inc.
-address:      Cerulean Tower 26-1 Sakuragaoka-cho
-address:      Shibuya-ku
-address:      Tokyo
-address:      150-8512
+address:      Cerulean Tower
+address:      26-1 Sakuragaoka-cho
+address:      Shibuya-ku Tokyo 150-8512
 address:      Japan
 phone:        +81.354561601
 fax-no:       +81.337805239
@@ -45,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.bridgestone.com/
 
 created:      2015-04-16
-changed:      2019-08-20
+changed:      2023-06-22
 source:       IANA
 
