@@ -7,7 +7,7 @@ domain:       TUI
 organisation: TUI AG
 address:      Karl-Wiechert-Allee 4
 address:      Lower Saxony
-address:      30625 Hannover
+address:      Hannover 30625
 address:      Germany
 
 contact:      administrative
@@ -15,7 +15,7 @@ name:         Senior Manager, Trademarks, Patents
 organisation: TUI AG
 address:      Karl-Wiechert-Allee 4
 address:      Lower Saxony
-address:      30625 Hannover
+address:      Hannover 30625
 address:      Germany
 phone:        +49.5115661111
 fax-no:       +49.5115661097
@@ -24,9 +24,10 @@ e-mail:       domain@tui.com
 contact:      technical
 name:         CTO
 organisation: CentralNic
-address:      Saddlers House 4th Floor 44 Gutter Lane
+address:      Saddlers House, 4th Floor
+address:      44 Gutter Lane
 address:      London EC2V 6BR
-address:      United Kingdom
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44 20 33 88 0600
 fax-no:       +44 20 33 88 0601
 e-mail:       tld.ops@centralnic.com
