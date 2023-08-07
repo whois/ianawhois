@@ -5,25 +5,26 @@
 domain:       MOTORCYCLES
 
 organisation: XYZ.COM LLC
-address:      2121 Tropicana Ave
-address:      Suite 2
-address:      Las Vegas, NV 89119
-address:      United States
+address:      2121 E Tropicana Ave, Suite 2
+address:      Las Vegas NV 89119
+address:      United States of America (the)
 
 contact:      administrative
 name:         General Counsel
 organisation: XYZ.COM LLC
-address:      2121 E Tropicana Ave, STE2
-address:      Las Vegas, NV 89119
-address:      United States
+address:      2121 E Tropicana Ave, Suite 2
+address:      Las Vegas NV 89119
+address:      United States of America (the)
 phone:        +1 702 757 6555
 e-mail:       hello@xyz.com
 
 contact:      technical
 name:         CTO
 organisation: CentralNic
-address:      Saddlers House 4th Floor 44 Gutter Lane London EC2V 6BR
-address:      United Kingdom
+address:      Saddlers House, 4th Floor
+address:      44 Gutter Lane
+address:      London EC2V 6BR
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44 20 33 88 0600
 fax-no:       +44 20 33 88 0601
 e-mail:       tld.ops@centralnic.com
