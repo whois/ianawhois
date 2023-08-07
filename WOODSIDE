@@ -6,33 +6,39 @@ domain:       WOODSIDE
 
 organisation: Woodside Petroleum Limited
 address:      Woodside Plaza
-address:      240 St Georges Terrace Perth, Western Australia - 6000
+address:      240 St Georges Terrace
+address:      Perth WA 6000
 address:      Australia
 
 contact:      administrative
 name:         Architecture Team Lead
 organisation: Woodside Petroleum Limited
 address:      Woodside Plaza
-address:      240 St Georges Terrace Perth, Western Australia - 6000
+address:      240 St Georges Terrace
+address:      Perth WA 6000
 address:      Australia
 phone:        +61.893484000
 fax-no:       +61.892142777
 e-mail:       ngtld-woodside@cscinfo.com
 
 contact:      technical
-name:         Implementation Manager
+name:         Project & Process Manager
 organisation: CSC Digital Brand Services
-address:      2711 Centerville Rd. suite 400
-address:      United States
-phone:        +1 3026365400
-fax-no:       +1 3026365454
-e-mail:       ngtlds-tech@cscinfo.com
+address:      2711 Centerville Rd.
+address:      Suite 400
+address:      Wilmington DE 19808
+address:      United States of America (the)
+phone:        +442070151717
+e-mail:       ngtld-woodside@cscinfo.com
 
 nserver:      A.NIC.WOODSIDE 2001:dcd:1:0:0:0:0:9 37.209.192.9
 nserver:      B.NIC.WOODSIDE 2001:dcd:2:0:0:0:0:9 37.209.194.9
 nserver:      C.NIC.WOODSIDE 2001:dcd:3:0:0:0:0:9 37.209.196.9
-nserver:      D.NIC.WOODSIDE 2001:dcd:4:0:0:0:0:9 37.209.198.9
-ds-rdata:     38707 8 2 E4254780378E282920AE5D44E210DA28BF5D7FADB0AFCA33E400B74C5086DDC0
+nserver:      X.NIC.WOODSIDE 156.154.172.82 2610:a1:1074:0:0:0:1:82
+nserver:      Y.NIC.WOODSIDE 156.154.173.82 2610:a1:1075:0:0:0:1:82
+nserver:      Z.NIC.WOODSIDE 156.154.174.82 2610:a1:1076:0:0:0:1:82
+ds-rdata:     38707 8 2 e4254780378e282920ae5d44e210da28bf5d7fadb0afca33e400b74c5086ddc0
+ds-rdata:     346 8 2 3c0f130c65367a18eb0943151d1678c687090b6acae1432d4cbe7585ab6745cf
 
 whois:        whois.nic.woodside
 
@@ -40,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.woodside.com.au/
 
 created:      2016-01-08
-changed:      2022-07-21
+changed:      2023-07-31
 source:       IANA
 
