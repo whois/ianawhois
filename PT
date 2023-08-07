@@ -6,28 +6,28 @@ domain:       PT
 
 organisation: Associação DNS.PT
 address:      Rua Eça de Queiroz, 29
-address:      1050-095 Lisboa
+address:      Lisboa 1050-095
 address:      Portugal
 
 contact:      administrative
 name:         Luisa Ribeiro Lopes
 organisation: Associação DNS.PT
 address:      Rua Eça de Queiroz, 29
-address:      1050-095 Lisboa
+address:      Lisboa 1050-095
 address:      Portugal
 phone:        (+351) 211308200
 fax-no:       (+351) 211312720
 e-mail:       luisa@dns.pt
 
 contact:      technical
-name:         Eduardo Manuel Laureano Duarte
+name:         Assis Guerreiro
 organisation: Associação DNS.PT
 address:      Rua Eça de Queiroz, 29
-address:      1050-095 Lisboa
+address:      Lisboa 1050-095
 address:      Portugal
 phone:        (+351) 211308200
 fax-no:       (+351) 211312720
-e-mail:       eduardo.duarte@dns.pt
+e-mail:       assis.guerreiro@dns.pt
 
 nserver:      A.DNS.PT 185.39.208.1 2a04:6d80:0:0:0:0:0:1
 nserver:      B.DNS.PT 194.0.25.23 2001:678:20:0:0:0:0:23
@@ -38,7 +38,7 @@ nserver:      G.DNS.PT 193.136.2.226 2001:690:a80:4001:0:0:0:100
 nserver:      H.DNS.PT 194.146.106.138 2001:67c:1010:35:0:0:0:53
 nserver:      NS.DNS.BR 200.160.0.5 2001:12ff:0:a20:0:0:0:5
 nserver:      NS2.NIC.FR 192.93.0.4 2001:660:3005:1:0:0:1:2
-ds-rdata:     40155 13 2 B0ED28B7255E9880E7CE4665B75AE7271F7837899057F0D4B897ECE2EB1EB494
+ds-rdata:     40155 13 2 b0ed28b7255e9880e7ce4665b75ae7271f7837899057f0d4b897ece2eb1eb494
 
 whois:        whois.dns.pt
 
@@ -46,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.dns.pt/
 
 created:      1988-06-30
-changed:      2022-08-08
+changed:      2023-08-02
 source:       IANA
 
