@@ -5,32 +5,36 @@
 domain:       YAHOO
 
 organisation: OATH INC
-address:      701 First Avenue Sunnyvale, California - 94089 US
-address:      United States
+address:      701 First Avenue
+address:      Sunnyvale CA 94089
+address:      United States of America (the)
 
 contact:      administrative
 name:         Domain Admin
 organisation: OATH INC
-address:      701 First Avenue Sunnyvale, California - 94089 US
-address:      United States
+address:      701 First Avenue
+address:      Sunnyvale CA 94089
+address:      United States of America (the)
 phone:        +1 212 206 4400
 e-mail:       ngtld-oath@cscglobal.com
 
 contact:      technical
-name:         Registry Customer Service 
+name:         Registry Customer Service
 organisation: Verisign, Inc.
 address:      12061 Bluemont Way
-address:      Reston, Virginia 20190
-address:      United States
-phone:        +1-703-925-6999 
-fax-no:       +1-703-948-3978 
+address:      Reston VA 20190
+address:      United States of America (the)
+phone:        +1-703-925-6999
+fax-no:       +1-703-948-3978
 e-mail:       info@verisign-grs.com
 
 nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
 nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
 nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
 nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
-ds-rdata:     52260 8 2 99DA5ED59CA94FC8C28C5C7A4A817E7FC0C52688B115DCF743FB914BE65BA447
+ds-rdata:     52260 8 2 99da5ed59ca94fc8c28c5c7a4a817e7fc0c52688b115dcf743fb914be65ba447
+
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: http://nic.yahoo
