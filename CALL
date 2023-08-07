@@ -5,14 +5,16 @@
 domain:       CALL
 
 organisation: Amazon Registry Services, Inc.
-address:      410 Terry Avenue North, Seattle, WA  98109
-address:      United States
+address:      410 Terry Avenue North
+address:      Seattle WA 98109
+address:      United States of America (the)
 
 contact:      administrative
 name:         Program Manager, Registry
 organisation: Amazon Registry Services, Inc.
-address:      410 Terry Avenue North, Seattle, WA  98109
-address:      United States
+address:      410 Terry Avenue North
+address:      Seattle WA 98109
+address:      United States of America (the)
 phone:        +1 206 646 5990
 fax-no:       +1 206 946 7702
 e-mail:       call-rzm@amazon.com
@@ -20,12 +22,11 @@ e-mail:       call-rzm@amazon.com
 contact:      technical
 name:         TLD Registry Services Technical
 organisation: Nominet
-address:      Minerva House,
-address:      Edmund Halley Road,
-address:      Oxford Science Park,
-address:      Oxford
-address:      OX4 4DQ
-address:      United Kingdom
+address:      Minerva House
+address:      Edmund Halley Road
+address:      Oxford Science Park
+address:      Oxford OX4 4DQ
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44.1865332211
 e-mail:       registrytechnical@nominet.uk
 
@@ -37,7 +38,7 @@ nserver:      DNSA.NIC.CALL 156.154.100.3 2001:502:ad09:0:0:0:0:3
 nserver:      DNSB.NIC.CALL 156.154.101.3 2001:502:2eda:0:0:0:0:3
 nserver:      DNSC.NIC.CALL 156.154.102.3 2610:a1:1009:0:0:0:0:3
 nserver:      DNSD.NIC.CALL 156.154.103.3 2610:a1:1010:0:0:0:0:3
-ds-rdata:     58357 8 2 52A3A1C699DACB7D621A198268E5E76AB21931B19693D310595C504670E18C0E
+ds-rdata:     58357 8 2 52a3a1c699dacb7d621a198268e5e76ab21931b19693d310595c504670e18c0e
 
 whois:        whois.nic.call
 
