@@ -6,14 +6,14 @@ domain:       POST
 
 organisation: Universal Postal Union
 address:      Weltpoststrasse 4
-address:      Bern 3015
+address:      Bern CH-3015
 address:      Switzerland
 
 contact:      administrative
 name:         TLD Administrator
 organisation: Universal Postal Union
 address:      Weltpoststrasse 4
-address:      Bern 3015
+address:      Bern CH-3015
 address:      Switzerland
 phone:        +41 31 350 34 50
 fax-no:       +41 31 350 31 10
@@ -23,7 +23,7 @@ contact:      technical
 name:         TLD Technical Administrator
 organisation: Afilias Limited
 address:      2 La Touche House, IFSC
-address:      Dublin 1
+address:      Dublin Dublin 1
 address:      Ireland
 phone:        +353 1 854 1100
 fax-no:       +353 1 791 8569
