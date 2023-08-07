@@ -5,25 +5,26 @@
 domain:       FIRESTONE
 
 organisation: Bridgestone Licensing Services, Inc.
-address:      535 Marriott Drive, Nashville, TN 37214
-address:      United States
+address:      535 Marriott Drive
+address:      Nashville TN 37214
+address:      United States of America (the)
 
 contact:      administrative
 name:         Chief Operating Officer
-organisation: GMO Brights Consulting Inc.
-address:      30F, Kasumigaseki Bldg., 3-2-5 Kasumigaseki Chiyoda-ku Tokyo 100-6030
+organisation: GMO BRAND SECURITY Inc.
+address:      Cerulean Tower 26-1 Sakuragaoka-cho
+address:      Shibuya-ku Tokyo 150-8512
 address:      Japan
-phone:        +81.355210107
-fax-no:       +81.355210117
-e-mail:       nakagawa_08@brights.jp
+phone:        +81.357841069
+fax-no:       +81.334625040
+e-mail:       registry@brightsconsulting.com
 
 contact:      technical
 name:         Director
 organisation: GMO Registry, Inc.
-address:      Cerulean Tower 26-1 Sakuragaoka-cho
-address:      Shibuya-ku
-address:      Tokyo
-address:      150-8512
+address:      Cerulean Tower
+address:      26-1 Sakuragaoka-cho
+address:      Shibuya-ku Tokyo 150-8512
 address:      Japan
 phone:        +81.354561601
 fax-no:       +81.337805239
@@ -41,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.firestone.com/
 
 created:      2015-10-29
-changed:      2019-08-20
+changed:      2023-06-20
 source:       IANA
 
