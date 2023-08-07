@@ -6,7 +6,7 @@ domain:       IQ
 
 organisation: Communications and Media Commission (CMC)
 address:      Al-Masbah Hay Babel
-address:      Dist.929 St.32 House 18
+address:      Dist. 929 St. 32 House 18
 address:      Baghdad
 address:      Iraq
 
@@ -14,7 +14,7 @@ contact:      administrative
 name:         Administrative Role Account
 organisation: Communications and Media Commission (CMC)
 address:      Al-Masbah Hay Babel
-address:      Dist.929 St.32 House 18
+address:      Dist. 929 St. 32 House 18
 address:      Baghdad
 address:      Iraq
 phone:        +964 7904318951
@@ -25,7 +25,7 @@ contact:      technical
 name:         Technical Role Account
 organisation: Communications and Media Commission (CMC)
 address:      Al-Masbah Hay Babel
-address:      Dist.929 St.32 House 18
+address:      Dist. 929 St. 32 House 18
 address:      Baghdad
 address:      Iraq
 phone:        +964 7904318957
@@ -33,7 +33,6 @@ fax-no:       +964 17195839
 e-mail:       it.iq@cmc.iq
 
 nserver:      IQ.CCTLD.AUTHDNS.RIPE.NET 193.0.9.81 2001:67c:e0:0:0:0:0:81
-nserver:      NS.COCCA.FR 185.17.236.93 2a03:dd40:3:0:0:0:0:93
 nserver:      NS1.CMC.IQ 194.117.57.100
 nserver:      NSP-ANYCAST.CMC.IQ 194.117.58.42 2001:500:14:8001:ad:0:0:42
 
@@ -43,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: https://registrar.cmc.iq
 
 created:      1997-05-09
-changed:      2020-08-28
+changed:      2023-06-22
 source:       IANA
 
