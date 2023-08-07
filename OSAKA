@@ -7,7 +7,7 @@ domain:       OSAKA
 organisation: Osaka Registry Co., Ltd.
 address:      Level 19 Hilton Plaza West Office Tower
 address:      2-2-2 Umeda Kita-ku
-address:      Osaka 530-0001 Japan
+address:      Osaka 530-0001
 address:      Japan
 
 contact:      administrative
@@ -15,7 +15,7 @@ name:         Jacob Williams
 organisation: Osaka Registry Co., Ltd.
 address:      Level 19 Hilton Plaza West Office Tower
 address:      2-2-2 Umeda Kita-ku
-address:      Osaka 530-0001 Japan
+address:      Osaka 530-0001
 address:      Japan
 phone:        +81 50-5525-7438
 fax-no:       +81 3-5979-2337
@@ -25,8 +25,8 @@ contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
 address:      2155 E GoDaddy Way
-address:      Tempe, AZ 85284
-address:      United States
+address:      Tempe AZ 85284
+address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
@@ -37,7 +37,7 @@ nserver:      C.NIC.OSAKA 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      NS1.DNS.NIC.OSAKA 156.154.144.130 2610:a1:1071:0:0:0:0:82
 nserver:      NS2.DNS.NIC.OSAKA 156.154.145.130 2610:a1:1072:0:0:0:0:82
 nserver:      NS3.DNS.NIC.OSAKA 156.154.159.130 2610:a1:1073:0:0:0:0:82
-ds-rdata:     50221 8 2 90146B6E89FB883144F08A93233F7265086D9E43728EE1C2739F5C3B6D00F9FC
+ds-rdata:     50221 8 2 90146b6e89fb883144f08a93233f7265086d9e43728ee1c2739f5c3b6d00f9fc
 
 whois:        whois.nic.osaka
 
