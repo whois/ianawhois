@@ -6,15 +6,15 @@ domain:       MIT
 
 organisation: Massachusetts Institute of Technology
 address:      77 Massachusetts Avenue
-address:      Cambridge, MA 02139
-address:      United States
+address:      Cambridge MA 02139
+address:      United States of America (the)
 
 contact:      administrative
 name:         Director, Infrastructure Design & Engineering
 organisation: Massachusetts Institute of Technology
 address:      77 Massachusetts Avenue
-address:      Cambridge, MA 02139
-address:      United States
+address:      Cambridge MA 02139
+address:      United States of America (the)
 phone:        +1 617-253-8400
 fax-no:       +1 617-258-8736
 e-mail:       mitregistry@fairwindspartners.com
@@ -22,9 +22,10 @@ e-mail:       mitregistry@fairwindspartners.com
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
 organisation: Afilias
+address:      300 Welsh Road
 address:      Building 3, Suite 105
-address:      Horsham, PA 19044
-address:      United States
+address:      Horsham PA 19044
+address:      United States of America (the)
 phone:        +1 215.706.5700
 fax-no:       +1 215.706.5701
 e-mail:       tld-tech-poc@afilias.info
@@ -35,12 +36,12 @@ nserver:      B0.NIC.MIT 2a01:8840:e7:0:0:0:0:17 65.22.237.17
 nserver:      C0.NIC.MIT 2a01:8840:e8:0:0:0:0:17 65.22.238.17
 ds-rdata:     65212 8 2 321542533579ca11f6fc95ac23abae16a4dd112eb3785e98c51a47f5b25d2b9d
 
-whois:        whois.afilias-srs.net
+whois:        whois.nic.mit
 
 status:       ACTIVE
 remarks:      Registration information: http://www.mit.edu
 
 created:      2016-06-24
-changed:      2020-11-17
+changed:      2023-08-04
 source:       IANA
 
