@@ -5,14 +5,16 @@
 domain:       SINA
 
 organisation: Sina Corporation
-address:      20F Ideal Haza No. 59 Bei Si Huan Xi Road, Haidian District
+address:      20F Ideal Haza No. 59 Bei Si Huan Xi Road
+address:      Haidian District
 address:      Beijing 100080
 address:      China
 
 contact:      administrative
 name:         Director, Legal Dept.
 organisation: Sina Corporation
-address:      20F Ideal Haza No. 59 Bei Si Huan Xi Road, Haidian District
+address:      20F Ideal Haza No. 59 Bei Si Huan Xi Road
+address:      Haidian District
 address:      Beijing 100080
 address:      China
 phone:        +86-10-82628888
@@ -22,10 +24,10 @@ e-mail:       register@staff.sina.com.cn
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
 organisation: Afilias
-address:      Building 3, Suite 105
 address:      300 Welsh Road
-address:      Horsham, PA 19044
-address:      United States
+address:      Building 3, Suite 105
+address:      Horsham PA 19044
+address:      United States of America (the)
 phone:        +1 215.706.5700
 fax-no:       +1 215.706.5701
 e-mail:       tld-tech-poc@afilias.info
