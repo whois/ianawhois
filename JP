@@ -5,7 +5,7 @@
 domain:       JP
 
 organisation: Japan Registry Services Co., Ltd.
-address:      Chiyoda First Bldg. East 13F,
+address:      Chiyoda First Bldg. East 13F
 address:      3-8-1 Nishi-Kanda
 address:      Chiyoda-ku Tokyo 101-0065
 address:      Japan
@@ -13,7 +13,7 @@ address:      Japan
 contact:      administrative
 name:         Koki Higashida
 organisation: Japan Registry Services Co., Ltd.
-address:      Chiyoda First Bldg. East 13F,
+address:      Chiyoda First Bldg. East 13F
 address:      3-8-1 Nishi-Kanda
 address:      Chiyoda-ku Tokyo 101-0065
 address:      Japan
@@ -24,7 +24,7 @@ e-mail:       higashida@jprs.co.jp
 contact:      technical
 name:         Koki Higashida
 organisation: Japan Registry Services Co., Ltd.
-address:      Chiyoda First Bldg. East 13F,
+address:      Chiyoda First Bldg. East 13F
 address:      3-8-1 Nishi-Kanda
 address:      Chiyoda-ku Tokyo 101-0065
 address:      Japan
@@ -40,7 +40,7 @@ nserver:      E.DNS.JP 192.50.43.53 2001:200:c000:0:0:0:0:35
 nserver:      F.DNS.JP 150.100.6.8 2001:2f8:0:100:0:0:0:153
 nserver:      G.DNS.JP 203.119.40.1
 nserver:      H.DNS.JP 161.232.72.25 2a01:8840:1bc:0:0:0:0:25
-ds-rdata:     39916 8 2 B36B524989BF0625EFD9B0877E74E77F052248FDE965B6E3C327D9C06AF1D080
+ds-rdata:     39916 8 2 b36b524989bf0625efd9b0877e74e77f052248fde965b6e3c327d9c06af1d080
 
 whois:        whois.jprs.jp
 
