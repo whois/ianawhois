@@ -6,15 +6,15 @@ domain:       GAME
 
 organisation: XYZ.COM LLC
 address:      2121 E Tropicana Ave, Suite 2
-address:      Las Vegas, NV 89119
-address:      United States
+address:      Las Vegas NV 89119
+address:      United States of America (the)
 
 contact:      administrative
 name:         General Counsel
 organisation: XYZ.COM LLC
 address:      2121 E Tropicana Ave, Suite 2
-address:      Las Vegas, NV 89119
-address:      United States
+address:      Las Vegas NV 89119
+address:      United States of America (the)
 phone:        +1 702 763 2191
 e-mail:       hello@xyz.com
 
@@ -24,7 +24,7 @@ organisation: CentralNic
 address:      Saddlers House, 4th Floor
 address:      44 Gutter Lane
 address:      London EC2V 6BR
-address:      United Kingdom
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44 20 33 88 0600
 fax-no:       +44 20 33 88 0601
 e-mail:       tld.ops@centralnic.com
@@ -33,10 +33,10 @@ nserver:      A.NIC.GAME 194.169.218.147 2001:67c:13cc:0:0:0:1:147
 nserver:      B.NIC.GAME 185.24.64.147 2a04:2b00:13cc:0:0:0:1:147
 nserver:      C.NIC.GAME 212.18.248.147 2a04:2b00:13ee:0:0:0:0:147
 nserver:      D.NIC.GAME 212.18.249.147 2a04:2b00:13ff:0:0:0:0:147
-ds-rdata:     39133 5 1 FB1F7E5D4D62AA9F930B77A9494BB3B04D84340A
-ds-rdata:     4126 5 1 0BFD20235875E18EE7D8B0FAD0A9F566D296CB09
-ds-rdata:     4126 5 2 F69BE762D422754930EE00176F377AB6A7FF074A48B2076A6F0CEE711D97001D
-ds-rdata:     39133 5 2 ECA12999E650C648FEABAB0AA1870D10D6E9F6316FA609B126C98477F964C6A4
+ds-rdata:     39133 5 1 fb1f7e5d4d62aa9f930b77a9494bb3b04d84340a
+ds-rdata:     4126 5 1 0bfd20235875e18ee7d8b0fad0a9f566d296cb09
+ds-rdata:     4126 5 2 f69be762d422754930ee00176f377ab6a7ff074a48b2076a6f0cee711d97001d
+ds-rdata:     39133 5 2 eca12999e650c648feabab0aa1870d10d6e9f6316fa609b126c98477f964c6a4
 ds-rdata:     32929 5 1 ac35dd8c5c6e00427fce4432f9f817d54c5dbb9f
 ds-rdata:     32929 5 2 c7602f661849ef5422cb5e5d7ccc91e7ea8344c7fd20f0e43a198cc699ec895c
 
