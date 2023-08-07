@@ -7,8 +7,7 @@ domain:       GR
 organisation: ICS-FORTH GR
 address:      100 Nikolaou Plastira str.
 address:      Vassilika Vouton
-address:      Heraklion, Crete
-address:      GR-70013
+address:      Heraklion Crete GR-70013
 address:      Greece
 
 contact:      administrative
@@ -16,8 +15,7 @@ name:         Vaggelis Segredakis
 organisation: ICS-FORTH GR
 address:      100 Nikolaou Plastira str.
 address:      Vassilika Vouton
-address:      Heraklion, Crete
-address:      GR-70013
+address:      Heraklion Crete GR-70013
 address:      Greece
 phone:        +30 281 0391450
 fax-no:       +30 281 0391451
@@ -28,8 +26,7 @@ name:         Panagiotis Sikas
 organisation: ICS-FORTH GR
 address:      100 Nikolaou Plastira str.
 address:      Vassilika Vouton
-address:      Heraklion, Crete
-address:      GR-70013
+address:      Heraklion Crete GR-70013
 address:      Greece
 phone:        +30 281 0391647
 fax-no:       +30 281 0391451
@@ -41,7 +38,9 @@ nserver:      GR-C.ICS.FORTH.GR 194.0.1.25 2001:678:4:0:0:0:0:19
 nserver:      GR-D.ICS.FORTH.GR 194.0.11.102 2001:678:e:102:0:0:0:53
 nserver:      GR-M.ICS.FORTH.GR 194.0.4.10 2001:678:7:0:0:0:4:10
 nserver:      GRDNS.ICS.FORTH.GR 139.91.1.1
-ds-rdata:     13987 8 2 FF87E9205F88E1D32C67A65BD61C68C56689C607D7684D12C867DC933D546EC8
+ds-rdata:     13987 8 2 ff87e9205f88e1d32c67a65bd61c68c56689c607d7684d12c867dc933d546ec8
+
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: http://www.gr
