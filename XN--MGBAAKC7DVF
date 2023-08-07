@@ -10,7 +10,7 @@ address:      Etisalat Building
 address:      Intersection of Zayed The 1st Street and Sheikh Rashid Bin Saeed Al Maktoum Street
 address:      P.O. Box 3838
 address:      Abu Dhabi
-address:      United Arab Emirates
+address:      United Arab Emirates (the)
 
 contact:      administrative
 name:         Primary Contact – Etisalat TLDs
@@ -19,7 +19,7 @@ address:      Etisalat Building
 address:      Intersection of Zayed The 1st Street and Sheikh Rashid Bin Saeed Al Maktoum Street
 address:      P.O. Box 3838
 address:      Abu Dhabi
-address:      United Arab Emirates
+address:      United Arab Emirates (the)
 phone:        +44.2033880600
 fax-no:       +44.2033880601
 e-mail:       tas-etisalat-primary@centralnic.com
@@ -27,9 +27,10 @@ e-mail:       tas-etisalat-primary@centralnic.com
 contact:      technical
 name:         CTO
 organisation: CentralNic
-address:      Saddlers House 4th Floor 44 Gutter Lane
+address:      Saddlers House, 4th Floor
+address:      44 Gutter Lane
 address:      London EC2V 6BR
-address:      United Kingdom
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44 20 33 88 0600
 fax-no:       +44 20 33 88 0601
 e-mail:       tld.ops@centralnic.com
@@ -38,8 +39,8 @@ nserver:      A.NIC.XN--MGBAAKC7DVF 194.169.218.23 2001:67c:13cc:0:0:0:1:23
 nserver:      B.NIC.XN--MGBAAKC7DVF 185.24.64.23 2a04:2b00:13cc:0:0:0:1:23
 nserver:      C.NIC.XN--MGBAAKC7DVF 212.18.248.23 2a04:2b00:13ee:0:0:0:0:23
 nserver:      D.NIC.XN--MGBAAKC7DVF 212.18.249.23 2a04:2b00:13ff:0:0:0:0:23
-ds-rdata:     1841 8 1 3ABD4823CF90E3891ACC13438DB4953AB99F5255
-ds-rdata:     1841 8 2 91BB6CEFFE38DDB9BD891A2A9D3CD1A86A6862F23F5E1BF5E9C77944BF47C030
+ds-rdata:     1841 8 1 3abd4823cf90e3891acc13438db4953ab99f5255
+ds-rdata:     1841 8 2 91bb6ceffe38ddb9bd891a2a9d3cd1a86a6862f23f5e1bf5e9c77944bf47c030
 
 whois:        whois.centralnic.com
 
