@@ -6,15 +6,15 @@ domain:       FEDEX
 
 organisation: Federal Express Corporation
 address:      3610 Hacks Cross Road
-address:      Memphis, TN  38125
-address:      United States
+address:      Memphis TN 38125
+address:      United States of America (the)
 
 contact:      administrative
 name:         Marketing Principal
 organisation: Federal Express Corporation
 address:      3610 Hacks Cross Road
-address:      Memphis, TN 38125
-address:      United States
+address:      Memphis TN 38125
+address:      United States of America (the)
 phone:        +1.901.369.3600
 fax-no:       +1.800.548.3020
 e-mail:       ngtld-fedex@cscglobal.com
@@ -22,10 +22,10 @@ e-mail:       ngtld-fedex@cscglobal.com
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
 organisation: Afilias
-address:      Building 3, Suite 105
 address:      300 Welsh Road
-address:      Horsham, PA 19044
-address:      United States
+address:      Building 3, Suite 105
+address:      Horsham PA 19044
+address:      United States of America (the)
 phone:        +1 215.706.5700
 fax-no:       +1 215.706.5701
 e-mail:       tld-tech-poc@afilias.info
