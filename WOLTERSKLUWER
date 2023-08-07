@@ -6,20 +6,15 @@ domain:       WOLTERSKLUWER
 
 organisation: Wolters Kluwer N.V.
 address:      Zuidpoolsingel 2
-address:      Alphen aan den Rijn
-address:      South Holland
-address:      2408 ZE
-address:      NL
-address:      Netherlands
+address:      Alphen aan den Rijn South Holland 2408 ZE
+address:      Netherlands (the)
 
 contact:      administrative
 name:         Client Project Manager and Validation Services Team Lead
 organisation: Valideus Ltd
 address:      28-30 Little Russell Street
-address:      London
-address:      WC1A 2HN
-address:      UK
-address:      United Kingdom
+address:      London WC1A 2HN
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44 20 7421 8274
 fax-no:       +44 87 0011 8187
 e-mail:       dietmar.lenden@valideus.com
@@ -27,11 +22,10 @@ e-mail:       dietmar.lenden@valideus.com
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
 organisation: Afilias
-address:      Building 3, Suite 105
 address:      300 Welsh Road
-address:      Horsham, PA 19044
-address:      United States
-address:      United States
+address:      Building 3, Suite 105
+address:      Horsham PA 19044
+address:      United States of America (the)
 phone:        +1 215.706.5700
 fax-no:       +1 215.706.5701
 e-mail:       tld-tech-poc@afilias.info
@@ -48,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://wolterskluwer.com
 
 created:      2016-02-05
-changed:      2020-11-02
+changed:      2023-08-03
 source:       IANA
 
