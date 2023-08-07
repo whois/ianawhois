@@ -22,9 +22,10 @@ e-mail:       contact@the.best
 contact:      technical
 name:         CTO
 organisation: CentralNic
-address:      Saddlers House 4th Floor 44 Gutter Lane
+address:      Saddlers House, 4th Floor
+address:      44 Gutter Lane
 address:      London EC2V 6BR
-address:      United Kingdom
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44 20 33 88 0600
 fax-no:       +44 20 33 88 0601
 e-mail:       tld.ops@centralnic.com
@@ -33,7 +34,7 @@ nserver:      A.NIC.BEST 194.169.218.109 2001:67c:13cc:0:0:0:1:109
 nserver:      B.NIC.BEST 185.24.64.109 2a04:2b00:13cc:0:0:0:1:109
 nserver:      C.NIC.BEST 212.18.248.109 2a04:2b00:13ee:0:0:0:0:109
 nserver:      D.NIC.BEST 212.18.249.109 2a04:2b00:13ff:0:0:0:0:109
-ds-rdata:     41279 8 2 D0C266B147E9FA7122215CCCA36B23D43407BD2F03B2E3B6E917D350B31AA5FD
+ds-rdata:     41279 8 2 d0c266b147e9fa7122215ccca36b23d43407bd2f03b2e3b6e917d350b31aa5fd
 
 whois:        whois.nic.best
 
@@ -41,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.go.best
 
 created:      2014-02-20
-changed:      2022-04-22
+changed:      2022-05-04
 source:       IANA
 
