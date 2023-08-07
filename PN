@@ -5,17 +5,19 @@
 domain:       PN
 
 organisation: Pitcairn Island Administration
-address:      17th Floor, IAG House
+address:      Floor 17
 address:      151 Queen Street
-address:      Auckland  1010
+address:      Auckland Central
+address:      Auckland 1010
 address:      New Zealand
 
 contact:      administrative
 name:         William Haigh
 organisation: Pitcairn Island Administration
-address:      17th Floor, IAG House
+address:      Floor 17
 address:      151 Queen Street
-address:      Auckland  1010
+address:      Auckland Central
+address:      Auckland 1010
 address:      New Zealand
 phone:        +64 9 3660186
 fax-no:       +64 9 3660187
@@ -24,25 +26,30 @@ e-mail:       admin@pitcairn.gov.pn
 contact:      technical
 name:         William Haigh
 organisation: Pitcairn Island Administration
-address:      17th Floor, IAG House
+address:      Floor 17
 address:      151 Queen Street
-address:      Auckland  1010
+address:      Auckland Central
+address:      Auckland 1010
 address:      New Zealand
 phone:        +64 9 3660186
 fax-no:       +64 9 3660187
 e-mail:       registrations@pitcairn.gov.pn
 
 nserver:      DNS1.NOMINETDNS.UK 213.248.219.254 2a01:618:403:0:0:0:0:254
+nserver:      DNS2.NOMINETDNS.UK 103.49.83.254 2401:fd80:403:0:0:0:0:254
+nserver:      DNS3.NOMINETDNS.UK 213.248.223.254 2a01:618:407:0:0:0:0:254
 nserver:      DNS4.NOMINETDNS.UK 2401:fd80:407:0:0:0:0:254 43.230.51.254
-nserver:      FORK.STH.DNSNODE.NET 2a01:3f0:0:306:0:0:0:53 77.72.229.254
-nserver:      NS0.PITCAIRN.NET.PN 173.230.153.180
-nserver:      NS1.PITCAIRN.NET.PN 2001:500:14:6136:ad:0:0:1 204.61.216.136
+nserver:      DNSA.NOMINETDNS.UK 156.154.100.3 2001:502:ad09:0:0:0:0:3
+nserver:      DNSB.NOMINETDNS.UK 156.154.101.3 2001:502:2eda:0:0:0:0:3
+nserver:      DNSC.NOMINETDNS.UK 156.154.102.3 2610:a1:1009:0:0:0:0:3
+nserver:      DNSD.NOMINETDNS.UK 156.154.103.3 2610:a1:1010:0:0:0:0:3
+
+whois:        
 
 status:       ACTIVE
-remarks:      Registration information:
-remarks:      http://www.government.pn/PnRegistry/PnRegistry.htm
+remarks:      Registration information: https://nic.pn
 
 created:      1997-07-10
-changed:      2020-08-18
+changed:      2023-06-29
 source:       IANA
 
