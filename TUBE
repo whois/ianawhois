@@ -5,24 +5,26 @@
 domain:       TUBE
 
 organisation: Latin American Telecom LLC
-address:      420 Fort Duquesne Boulevard, Suite 1900, Pittsburgh, PA 15222
-address:      United States
+address:      420 Fort Duquesne Boulevard, Suite 1900
+address:      Pittsburgh PA 15222
+address:      United States of America (the)
 
 contact:      administrative
-name:         Jason Schaeffer
+name:         CEO
 organisation: Latin American Telecom, LLC
-address:      420 Fort Duquesne Boulevard, Suite 1900, Pittsburgh, PA 15222
-address:      United States
-phone:        +1-267-368-7474
-fax-no:       +1-267 907-8043
-e-mail:       jason@tubegtld.com
+address:      420 Fort Duquesne Boulevard
+address:      Pittsburgh PA 15222
+address:      United States of America (the)
+phone:        +1 (215) 290 4022
+fax-no:       +1 (781) 368 8823
+e-mail:       rami@get.tube
 
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
 address:      2155 E GoDaddy Way
-address:      Tempe, AZ 85284
-address:      United States
+address:      Tempe AZ 85284
+address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
@@ -33,12 +35,14 @@ nserver:      C.NIC.TUBE 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      NS1.DNS.NIC.TUBE 156.154.169.80 2610:a1:1071:0:0:0:1:50
 nserver:      NS2.DNS.NIC.TUBE 156.154.170.80 2610:a1:1072:0:0:0:1:50
 nserver:      NS3.DNS.NIC.TUBE 156.154.171.80 2610:a1:1073:0:0:0:1:50
-ds-rdata:     45112 8 2 A5918AFDEEED73D4603ADF2EC0EC6A2735B7DED61849C500DEB6B68A5BD03610
+ds-rdata:     45112 8 2 a5918afdeeed73d4603adf2ec0ec6a2735b7ded61849c500deb6b68a5bd03610
+
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: http://tubetld.com
 
 created:      2015-12-23
-changed:      2022-07-21
+changed:      2023-08-04
 source:       IANA
 
