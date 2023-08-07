@@ -5,24 +5,28 @@
 domain:       UNICOM
 
 organisation: China United Network Communications Corporation Limited
-address:      No.21 Financial Street, Xicheng District, Beijing, Beijing  100033
+address:      No.21 Financial Street
+address:      Xicheng District
+address:      Beijing 100033
 address:      China
 
 contact:      administrative
 name:         Yun Zhou
 organisation: China United Network Communciations Corporation Limited
-address:      No.21 Financial Street, Xicheng District, Beijing, Beijing  100033
+address:      No.21 Financial Street
+address:      Xicheng District
+address:      Beijing 100033
 address:      China
 phone:        + 86 1066 259 710
-fax-no:       + 86 1066 259 154 
+fax-no:       + 86 1066 259 154
 e-mail:       hqs-gtld@chinaunicom.cn
 
 contact:      technical
 name:         Lei Gao
 organisation: ZDNS, Ltd.
 address:      No.4,  South 4th Street, Zhongguancun
-address:      Haidian district, Beijing,
-address:      China
+address:      Haidian district
+address:      Beijing 100190
 address:      China
 phone:        +86 150 1138 0586
 e-mail:       gaolei@zdns.cn
@@ -35,7 +39,7 @@ nserver:      F.ZDNSCLOUD.COM 114.67.16.204
 nserver:      G.ZDNSCLOUD.COM 42.62.2.16
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
-ds-rdata:     51527 8 2 79FE987F5EDEF21F8AFC9A56DFE663D4B6AE8E2B046F82EA092571B6B2871D96
+ds-rdata:     51527 8 2 79fe987f5edef21f8afc9a56dfe663d4b6ae8e2b046f82ea092571b6b2871d96
 
 whois:        whois.nic.unicom
 
@@ -43,6 +47,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.chinaunicom.cn
 
 created:      2016-01-22
-changed:      2019-09-03
+changed:      2022-12-08
 source:       IANA
 
