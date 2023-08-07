@@ -8,7 +8,7 @@ organisation: Radix FZC
 address:      Directiplex
 address:      Next to Andheri Subway
 address:      Old Nagardas Road, Andheri (East)
-address:      Mumbai - 400069
+address:      Mumbai Maharashtra 400069
 address:      India
 
 contact:      administrative
@@ -17,7 +17,7 @@ organisation: Radix FZC
 address:      Directiplex
 address:      Next to Andheri Subway
 address:      Old Nagardas Road, Andheri (East)
-address:      Mumbai - 400069
+address:      Mumbai Maharashtra 400069
 address:      India
 phone:        +1.4154494774
 fax-no:       +91.2230797508
@@ -26,9 +26,10 @@ e-mail:       admin@radixregistry.com
 contact:      technical
 name:         CTO
 organisation: CentralNic
-address:      Saddlers House 4th Floor 44 Gutter Lane
+address:      Saddlers House, 4th Floor
+address:      44 Gutter Lane
 address:      London EC2V 6BR
-address:      United Kingdom
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44 20 33 88 0600
 fax-no:       +44 20 33 88 0601
 e-mail:       tld.ops@centralnic.com
@@ -37,8 +38,8 @@ nserver:      A.NIC.TECH 194.169.218.60 2001:67c:13cc:0:0:0:1:60
 nserver:      B.NIC.TECH 185.24.64.60 2a04:2b00:13cc:0:0:0:1:60
 nserver:      E.NIC.TECH 212.18.248.60 2a04:2b00:13ee:0:0:0:0:60
 nserver:      F.NIC.TECH 212.18.249.60 2a04:2b00:13ff:0:0:0:0:60
-ds-rdata:     50095 8 1 82F72F2462DEE25B99DA2470535AD0A7D131F1EB
-ds-rdata:     50095 8 2 83F40D01141484D8F07305E5D2E44AC5663149054C598D6E9D993C661686C6EE
+ds-rdata:     50095 8 1 82f72f2462dee25b99da2470535ad0a7d131f1eb
+ds-rdata:     50095 8 2 83f40d01141484d8f07305e5d2e44ac5663149054c598d6e9d993c661686c6ee
 
 whois:        whois.nic.tech
 
