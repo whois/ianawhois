@@ -5,14 +5,16 @@
 domain:       GAP
 
 organisation: The Gap, Inc.
-address:      2 Folsom Street, San Francisco, California 94105
-address:      United States
+address:      2 Folsom Street
+address:      San Francisco CA 94105
+address:      United States of America (the)
 
 contact:      administrative
 name:         Director, Consulting & Strategy
 organisation: FairWinds Partners, LLC
-address:      1000 Potomac Street NW, Suite 350, Washington, DC 20007
-address:      United States
+address:      1000 Potomac Street NW #350
+address:      Washington DC 20007
+address:      United States of America (the)
 phone:        +1 202 223 9252
 fax-no:       +1 202 223 9256
 e-mail:       gapregistries@fairwindspartners.com
@@ -21,8 +23,8 @@ contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
 address:      2155 E GoDaddy Way
-address:      Tempe, AZ 85284
-address:      United States
+address:      Tempe AZ 85284
+address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
@@ -33,7 +35,9 @@ nserver:      C.NIC.GAP 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.GAP 156.154.144.66 2610:a1:1071:0:0:0:0:42
 nserver:      NS2.DNS.NIC.GAP 156.154.145.66 2610:a1:1072:0:0:0:0:42
 nserver:      NS3.DNS.NIC.GAP 156.154.159.66 2610:a1:1073:0:0:0:0:42
-ds-rdata:     4462 8 2 59BE1D87D0D5D5FD371368FA00C3E73B9E3215ED06CBEC2459B8A25C49248B07
+ds-rdata:     4462 8 2 59be1d87d0d5d5fd371368fa00c3e73b9e3215ed06cbec2459b8a25c49248b07
+
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: http://www.gap.com
