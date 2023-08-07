@@ -5,13 +5,15 @@
 domain:       FERRERO
 
 organisation: Ferrero Trading Lux S.A.
-address:      16, Route de Trèves, L-2633, Senningerberg
+address:      16, Route de Trèves
+address:      Senningerberg L-2633
 address:      Luxembourg
 
 contact:      administrative
 name:         Stefano Marzocchi
 organisation: Soremartec S.A.
-address:      16, Route de Trèves, L-2633, Senningerberg
+address:      16, Route de Trèves
+address:      Senningerberg L-2633
 address:      Luxembourg
 phone:        +352 349 711 95 06
 fax-no:       +352 349411
@@ -21,8 +23,8 @@ contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
 address:      2155 E GoDaddy Way
-address:      Tempe, AZ 85284
-address:      United States
+address:      Tempe AZ 85284
+address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
@@ -33,7 +35,9 @@ nserver:      C.NIC.FERRERO 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.FERRERO 156.154.144.57 2610:a1:1071:0:0:0:0:39
 nserver:      NS2.DNS.NIC.FERRERO 156.154.145.57 2610:a1:1072:0:0:0:0:39
 nserver:      NS3.DNS.NIC.FERRERO 156.154.159.57 2610:a1:1073:0:0:0:0:39
-ds-rdata:     45604 8 2 89BD8DEC1256F0CAE5EDC8F2618FB6AD4149EA9028AFD909632727EACA092B3C
+ds-rdata:     45604 8 2 89bd8dec1256f0cae5edc8f2618fb6ad4149ea9028afd909632727eaca092b3c
+
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: http://www.ferrero.com
