@@ -16,9 +16,7 @@ organisation: Resorts World Inc. Pte. Ltd.
 address:      RW Tech Labs Sdn Bhd
 address:      Jalan Sultan Ismail 28
 address:      2nd Floor Wisma Genting
-address:      Kuala Lumpur
-address:      50250
-address:      Malaysia
+address:      Kuala Lumpur 50250
 address:      Malaysia
 phone:        +65 6823 9106
 fax-no:       +65 6720 0866
@@ -28,9 +26,8 @@ contact:      technical
 name:         Bonnie Bryant
 organisation: Verisign, Inc.
 address:      12061 Bluemont Way
-address:      Reston Virginia 20190
-address:      United States (US)
-address:      United States
+address:      Reston VA 20190
+address:      United States of America (the)
 phone:        +1-703-925-6999
 fax-no:       +1-703-948-3978
 e-mail:       info@verisign-grs.com
@@ -39,7 +36,7 @@ nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
 nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
 nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
 nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
-ds-rdata:     22539 8 2 983FDBFBBA09945A8DA7FEACB64460FA801F4A3481D83FA9E1257FC92ED206A3
+ds-rdata:     22539 8 2 983fdbfbba09945a8da7feacb64460fa801f4a3481d83fa9e1257fc92ed206a3
 
 whois:        whois.nic.genting
 
@@ -47,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.genting/
 
 created:      2015-06-11
-changed:      2019-09-09
+changed:      2020-10-01
 source:       IANA
 
