@@ -7,14 +7,14 @@ domain:       VC
 organisation: Ministry of Telecommunications, Science, Technology and Industry
 address:      Egmont Street
 address:      Kingstown
-address:      Saint Vincent And The Grenadines
+address:      Saint Vincent and the Grenadines
 
 contact:      administrative
 name:         Jacqueline Creese
 organisation: Ministry of Telecommunications, Science, Technology and Industry
-address:      Egmont Steet
+address:      Egmont Street
 address:      Kingstown
-address:      Saint Vincent And The Grenadines
+address:      Saint Vincent and the Grenadines
 phone:        +1 784 457 1007
 fax-no:       +1 784 457 2880
 e-mail:       jcreese@gov.vc
@@ -22,10 +22,10 @@ e-mail:       jcreese@gov.vc
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
 organisation: Afilias
-address:      300 Welsh Road, Bldg. 3,
-address:      Suite 105
-address:      Horsham Pennsylvania 19044
-address:      United States
+address:      300 Welsh Road
+address:      Building 3, Suite 105
+address:      Horsham PA 19044
+address:      United States of America (the)
 phone:        +1 215 706 5700
 fax-no:       +1 215 706 5701
 e-mail:       tld-tech-poc@afilias.info
@@ -41,6 +41,7 @@ ds-rdata:     54391 8 2 8e38107261b61499f2e57a72e762ef501798a0462cb69e6afcc9c4a2
 whois:        whois2.afilias-grs.net
 
 status:       ACTIVE
+remarks:      Registration information: 
 
 created:      1991-09-03
 changed:      2020-12-19
