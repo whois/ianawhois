@@ -6,13 +6,13 @@ domain:       DUBAI
 
 organisation: Dubai Smart Government Department
 address:      HH Ruler's Court, AlFahidi Street, Bastakiya Heritage Area P.O.Box 90300
-address:      United Arab Emirates
+address:      United Arab Emirates (the)
 
 contact:      administrative
 name:         Mr. Matar AlHumairi
 organisation: Dubai Smart Government Department
 address:      HH Ruler’s Court, AlFahidi Street, Bastakiya Heritage Area P.O.Box 90300
-address:      United Arab Emirates
+address:      United Arab Emirates (the)
 phone:        +97143533334
 fax-no:       +97143532988
 e-mail:       dubaitld@dsg.gov.ae
@@ -23,7 +23,7 @@ organisation: Telecommunications Regulatory Authority of UAE
 address:      Al Waheeda street Al Memzar
 address:      P.O.Box 116688
 address:      Dubai
-address:      United Arab Emirates
+address:      United Arab Emirates (the)
 phone:        +97142300018
 fax-no:       +97142300011
 e-mail:       gtldsupport@aeda.ae
@@ -32,14 +32,15 @@ nserver:      GTLD.ALPHA.ARIDNS.NET.AU 2001:dcd:1:0:0:0:0:10 37.209.192.10
 nserver:      GTLD.BETA.ARIDNS.NET.AU 2001:dcd:2:0:0:0:0:10 37.209.194.10
 nserver:      GTLD.DELTA.ARIDNS.NET.AU 2001:dcd:4:0:0:0:0:10 37.209.198.10
 nserver:      GTLD.GAMMA.ARIDNS.NET.AU 2001:dcd:3:0:0:0:0:10 37.209.196.10
-ds-rdata:     32134 8 2 3B001EA7FB42657CE51E6D30DBF91A71B10EC5264C2A01B14082C5E3BD9A6F9D
-ds-rdata:     32134 8 1 096078E36E111A0773BF2546212B8BAD920528EF
+ds-rdata:     32134 8 2 3b001ea7fb42657ce51e6d30dbf91a71b10ec5264c2a01b14082c5e3bd9a6f9d
+ds-rdata:     32134 8 1 096078e36e111a0773bf2546212b8bad920528ef
 
 whois:        whois.nic.dubai
 
 status:       ACTIVE
+remarks:      Registration information: 
 
 created:      2015-12-17
-changed:      2019-10-02
+changed:      2020-05-21
 source:       IANA
 
