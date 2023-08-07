@@ -6,19 +6,17 @@ domain:       BENTLEY
 
 organisation: Bentley Motors Limited
 address:      c/o Demys Limited
-address:      33 Melville Street,
-address:      Edinburgh
-address:      EH3 7JF
-address:      United Kingdom
+address:      33 Melville Street
+address:      Edinburgh EH3 7JF
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 
 contact:      administrative
 name:         Bentley Registry Manager
 organisation: Bentley Motors Limited
-address:      c/o Demys Limited,
+address:      c/o Demys Limited
 address:      33 Melville Street
-address:      Edinburgh
-address:      EH3 7JF
-address:      United Kingdom
+address:      Edinburgh EH3 7JF
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44.1312260660
 e-mail:       dotbentley@demys.com
 
@@ -26,10 +24,9 @@ contact:      technical
 name:         Bentley Registry Manager
 organisation: Bentley Motors Limited
 address:      c/o Demys Ltd,
-address:      33 Melville Street,
-address:      Edinburgh
-address:      EH3 7JF
-address:      United Kingdom
+address:      33 Melville Street
+address:      Edinburgh EH3 7JF
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44.1312260660
 e-mail:       dotbentley@demys.com
 
@@ -41,7 +38,7 @@ nserver:      DNSA.NIC.BENTLEY 156.154.100.3 2001:502:ad09:0:0:0:0:3
 nserver:      DNSB.NIC.BENTLEY 156.154.101.3 2001:502:2eda:0:0:0:0:3
 nserver:      DNSC.NIC.BENTLEY 156.154.102.3 2610:a1:1009:0:0:0:0:3
 nserver:      DNSD.NIC.BENTLEY 156.154.103.3 2610:a1:1010:0:0:0:0:3
-ds-rdata:     56257 8 2 CF15159EC1841AE2CF91D95B5889EB14574EFBCFB069132903E025345A39AF7B
+ds-rdata:     56257 8 2 cf15159ec1841ae2cf91d95b5889eb14574efbcfb069132903e025345a39af7b
 
 whois:        whois.nic.bentley
 
