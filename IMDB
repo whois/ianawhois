@@ -5,27 +5,28 @@
 domain:       IMDB
 
 organisation: Amazon Registry Services, Inc.
-address:      410 Terry Avenue North, Seattle, WA 98109
-address:      United States
+address:      410 Terry Avenue North
+address:      Seattle WA 98109
+address:      United States of America (the)
 
 contact:      administrative
 name:         Program Manager, Registry
 organisation: Amazon Registry Services, Inc.
-address:      410 Terry Avenue North, Seattle, WA 98109
-address:      United States
+address:      410 Terry Avenue North
+address:      Seattle WA 98109
+address:      United States of America (the)
 phone:        +1 206 646 5990
 fax-no:       +12069467702
 e-mail:       imdb-rzm@amazon.com
 
 contact:      technical
-name:          TLD Registry Services Technical
+name:         TLD Registry Services Technical
 organisation: Nominet
-address:      Minerva House,
-address:      Edmund Halley Road,
-address:      Oxford Science Park,
-address:      Oxford
-address:      OX4 4DQ
-address:      United Kingdom
+address:      Minerva House
+address:      Edmund Halley Road
+address:      Oxford Science Park
+address:      Oxford OX4 4DQ
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44.1865332211
 e-mail:       registrytechnical@nominet.uk
 
@@ -37,7 +38,7 @@ nserver:      DNSA.NIC.IMDB 156.154.100.3 2001:502:ad09:0:0:0:0:3
 nserver:      DNSB.NIC.IMDB 156.154.101.3 2001:502:2eda:0:0:0:0:3
 nserver:      DNSC.NIC.IMDB 156.154.102.3 2610:a1:1009:0:0:0:0:3
 nserver:      DNSD.NIC.IMDB 156.154.103.3 2610:a1:1010:0:0:0:0:3
-ds-rdata:     20815 8 2 E3CC51FE5A9A31AE6FAC92900038DCA9B523511B22158A08D8093220AF88E4D7
+ds-rdata:     20815 8 2 e3cc51fe5a9a31ae6fac92900038dca9b523511b22158a08d8093220af88e4d7
 
 whois:        whois.nic.imdb
 
