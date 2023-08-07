@@ -5,16 +5,15 @@
 domain:       GEA
 
 organisation: GEA Group Aktiengesellschaft
-address:      Peter-Mueller-Str. 12, Duesseldorf
-address:      NRW 40468
+address:      Peter-Mueller-Str. 12
+address:      Duesseldorf NRW 40468
 address:      Germany
 
 contact:      administrative
 name:         CEO
 organisation: LEMARIT GmbH
-address:      Werkstrasse 12, Harrislee
-address:      Schleswig-Holstein
-address:      24955
+address:      Werkstrasse 12
+address:      Harrislee Schleswig-Holstein 24955
 address:      Germany
 phone:        +49 461 5050 35 0
 e-mail:       gearegistry@lemarit.com
@@ -22,9 +21,8 @@ e-mail:       gearegistry@lemarit.com
 contact:      technical
 name:         CTO
 organisation: LEMARIT GmbH
-address:      Werkstrasse 12, Harrislee
-address:      Schleswig-Holstein
-address:      24955
+address:      Werkstrasse 12
+address:      Harrislee Schleswig-Holstein 24955
 address:      Germany
 phone:        +49 4615050350
 fax-no:       +49 461 50503535
