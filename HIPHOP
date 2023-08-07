@@ -6,15 +6,15 @@ domain:       HIPHOP
 
 organisation: Dot Hip Hop, LLC
 address:      2051 Waters Edge Dr.
-address:      Pompano Beach, FL 33062
-address:      United States
+address:      Pompano Beach FL 33062
+address:      United States of America (the)
 
 contact:      administrative
 name:         Chief Legal Officer
 organisation: Dot Hip Hop, LLC
 address:      2051 Waters Edge Dr.
-address:      Pompano Beach, FL 33062
-address:      United States
+address:      Pompano Beach FL 33062
+address:      United States of America (the)
 phone:        +1.202.549.5079
 e-mail:       jeff@get.hiphop
 
@@ -22,7 +22,7 @@ contact:      technical
 name:         Vice President, Engineering
 organisation: Tucows Inc
 address:      96 Mowat Avenue
-address:      Toronto, Ontario M6K3M1
+address:      Toronto ON M6K3M1
 address:      Canada
 phone:        +1.949.903.3449
 e-mail:       trs-ops@tucows.com
@@ -31,7 +31,7 @@ nserver:      NS1.UNIREGISTRY.NET 2620:57:4000:1:0:0:0:1 64.96.1.1
 nserver:      NS2.UNIREGISTRY.INFO 64.96.2.1
 nserver:      NS3.UNIREGISTRY.NET 185.159.197.3 2620:10a:80aa:0:0:0:0:3
 nserver:      NS4.UNIREGISTRY.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
-ds-rdata:     7668 13 2 DE0BDE4365798B5080D31D7A5A8E7182D4924938761BFD506AF371EA5CB36AB0
+ds-rdata:     7668 13 2 de0bde4365798b5080d31d7a5a8e7182d4924938761bfd506af371ea5cb36ab0
 
 whois:        whois.nic.hiphop
 
@@ -39,6 +39,6 @@ status:       ACTIVE
 remarks:      Registration information: https://get.hiphop
 
 created:      2014-05-08
-changed:      2022-08-10
+changed:      2023-05-17
 source:       IANA
 
