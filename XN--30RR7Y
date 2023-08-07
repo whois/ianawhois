@@ -6,13 +6,16 @@ domain:       慈善
 domain-ace:   XN--30RR7Y
 
 organisation: Excellent First Limited
-address:      Offshore Incorporations (Cayman) Limited，Scotia Centre，4th Floor, PO Box 2804, George Town, Grand Cayman KY1-1112，Cayman Islands
-address:      Cayman Islands
+address:      Offshore Incorporations (Cayman) Limited
+address:      Scotia Centre, 4th Floor, PO Box 2804
+address:      George Town Grand Cayman KY1-1112
+address:      Cayman Islands (the)
 
 contact:      administrative
 name:         CEO
 organisation: Excellent First Limited
-address:      Room 201A, Wing On Plaza, 62 Mody Road, Tsui East, Kowloon, Hong Kong
+address:      Room 201A, Wing On Plaza, 62 Mody Road, Tsui East
+address:      Kowloon
 address:      China
 phone:        +86 20 6622 2813
 e-mail:       ceo@yu-wei.cn
@@ -20,7 +23,8 @@ e-mail:       ceo@yu-wei.cn
 contact:      technical
 name:         VP
 organisation: Excellent First Limited
-address:      Room 201A, Wing On Plaza, 62 Mody Road, Tsui East, Kowloon, Hong Kong
+address:      Room 201A, Wing On Plaza, 62 Mody Road, Tsui East
+address:      Kowloon
 address:      China
 phone:        +86 20 6622 2813
 e-mail:       technology@yu-wei.cn
@@ -41,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.newgtld.cn
 
 created:      2015-03-12
-changed:      2019-09-03
+changed:      2022-12-08
 source:       IANA
 
