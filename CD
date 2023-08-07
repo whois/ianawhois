@@ -8,16 +8,16 @@ organisation: Office Congolais des Postes et Télécommunications - OCPT
 address:      95, Boulevard du 30 Juin
 address:      Immeuble INSS, 1ier Etage
 address:      Gombe
-address:      Kinshasa  7070 Kin 1
-address:      Congo, The Democratic Republic Of The
+address:      Kinshasa 7070 Kin 1
+address:      Congo (the Democratic Republic of the)
 
 contact:      administrative
 name:         David KINSAKA NDUENGA
 organisation: SCPT
 address:      95, Boulevard du 30 Juin
 address:      Commune de la Gombe
-address:      Kinshasa  7070 Kin 1
-address:      Congo, The Democratic Republic Of The
+address:      Kinshasa 7070 Kin 1
+address:      Congo (the Democratic Republic of the)
 phone:        +243 81 063 8578
 e-mail:       david.k@ocpt.cd
 
@@ -27,14 +27,16 @@ organisation: Office Congolais des Postes et Télécommunications - OCPT
 address:      95, Boulevard du 30 Juin
 address:      Immeuble INSS, 1ier Etage
 address:      Gombe
-address:      Kinshasa  7070 Kin 1
-address:      Congo, The Democratic Republic Of The
+address:      Kinshasa 7070 Kin 1
+address:      Congo (the Democratic Republic of the)
 phone:        +243 822983889
 e-mail:       maurice.mufusi@scpt.cd
 
 nserver:      NS-ROOT-21.SCPT-NETWORK.NET 102.68.62.15
 nserver:      NS-ROOT-22.SCPT-NETWORK.NET 102.68.60.15
 nserver:      NS-ROOT-23.SCPT-NETWORK.NET 161.97.87.130
+
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: http://www.nic.cd/
