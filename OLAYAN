@@ -5,13 +5,15 @@
 domain:       OLAYAN
 
 organisation: Crescent Holding GmbH
-address:      Opernring - Stiege R top Nr. 709-714 Vienna 1010
+address:      Opernring - Stiege R top Nr. 709-714
+address:      Vienna 1010
 address:      Austria
 
 contact:      administrative
 name:         Mr
 organisation: Crescent Holding GmbH
-address:      Opernring - Stiege R top Nr. 709-714 Vienna 1010
+address:      Opernring - Stiege R top Nr. 709-714
+address:      Vienna 1010
 address:      Austria
 phone:        +44.2077966288
 fax-no:       +44.2077966586
@@ -20,7 +22,8 @@ e-mail:       john.wilks@dlapiper.com
 contact:      technical
 name:         Mr
 organisation: Crescent Holding GmbH
-address:      Opernring - Stiege R top Nr. 709-714 Vienna 1010
+address:      Opernring - Stiege R top Nr. 709-714
+address:      Vienna 1010
 address:      Austria
 phone:        +30.2108913000
 fax-no:       +30.2108913000
@@ -29,8 +32,10 @@ e-mail:       a.kade@olayangroup.com
 nserver:      A.NIC.OLAYAN 2001:dcd:1:0:0:0:0:9 37.209.192.9
 nserver:      B.NIC.OLAYAN 2001:dcd:2:0:0:0:0:9 37.209.194.9
 nserver:      C.NIC.OLAYAN 2001:dcd:3:0:0:0:0:9 37.209.196.9
-nserver:      D.NIC.OLAYAN 2001:dcd:4:0:0:0:0:9 37.209.198.9
-ds-rdata:     60061 8 2 930E37D43F6F58965863B8906ADADFDF0091EDEE90B6C8C0DD3A88ED5112D2C8
+nserver:      X.NIC.OLAYAN 156.154.172.82 2610:a1:1074:0:0:0:1:82
+nserver:      Y.NIC.OLAYAN 156.154.173.82 2610:a1:1075:0:0:0:1:82
+nserver:      Z.NIC.OLAYAN 156.154.174.82 2610:a1:1076:0:0:0:1:82
+ds-rdata:     60061 8 2 930e37d43f6f58965863b8906adadfdf0091edee90b6c8c0dd3a88ed5112d2c8
 
 whois:        whois.nic.olayan
 
@@ -38,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.olayan.com/
 
 created:      2016-04-21
-changed:      2022-07-21
+changed:      2022-11-29
 source:       IANA
 
