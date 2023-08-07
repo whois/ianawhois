@@ -6,7 +6,7 @@ domain:       ZARA
 
 organisation: Industria de Diseño Textil, S.A. (INDITEX, S.A.)
 address:      Avenida de la Diputación, Edificio Inditex
-address:      Arteixo  A Coruña 15142
+address:      Arteixo A Coruña 15142
 address:      Spain
 
 contact:      administrative
@@ -22,10 +22,10 @@ e-mail:       domain@inditex.com
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
 organisation: Afilias
-address:      Building 3, Suite 105
 address:      300 Welsh Road
-address:      Horsham, PA 19044
-address:      United States
+address:      Building 3, Suite 105
+address:      Horsham PA 19044
+address:      United States of America (the)
 phone:        +1 215.706.5700
 fax-no:       +1 215.706.5701
 e-mail:       tld-tech-poc@afilias.info
@@ -36,12 +36,12 @@ nserver:      B0.NIC.ZARA 2a01:8840:e3:0:0:0:0:33 65.22.233.33
 nserver:      C0.NIC.ZARA 2a01:8840:e4:0:0:0:0:33 65.22.234.33
 ds-rdata:     40147 8 2 2e4669652e0c3b84007e43707f8354c94afd6f929a5152524bedbaa6f009dafa
 
-whois:        whois.afilias-srs.net
+whois:        whois.nic.zara
 
 status:       ACTIVE
 remarks:      Registration information: http://www.zara.com
 
 created:      2015-09-10
-changed:      2020-10-30
+changed:      2023-08-04
 source:       IANA
 
