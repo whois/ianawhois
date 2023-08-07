@@ -6,7 +6,7 @@ domain:       SE
 
 organisation: The Internet Infrastructure Foundation
 address:      Box 92073
-address:      Stockholm  SE-120 07
+address:      Stockholm SE-120 07
 address:      Sweden
 
 contact:      administrative
@@ -23,12 +23,12 @@ contact:      technical
 name:         SE Technical Contact
 organisation: Netnod Internet Exchange I Sverige AB
 address:      Greta Garbos väg 13
-address:      Solna, 169 40
+address:      Solna 169 40
 address:      Sweden
 phone:        +46 8 562 860 10
 e-mail:       ops@netnod.se
 
-nserver:      A.NS.SE 192.36.144.107 2a01:3f0:0:0301:0:0:0:53
+nserver:      A.NS.SE 192.36.144.107 2a01:3f0:0:301:0:0:0:53
 nserver:      B.NS.SE 192.36.133.107 2001:67c:254c:301:0:0:0:53
 nserver:      C.NS.SE 192.36.135.107 2001:67c:2554:301:0:0:0:53
 nserver:      F.NS.SE 192.71.53.53 2a01:3f0:0:305:0:0:0:53
