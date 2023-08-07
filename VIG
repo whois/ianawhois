@@ -5,13 +5,15 @@
 domain:       VIG
 
 organisation: VIENNA INSURANCE GROUP AG Wiener Versicherung Gruppe
-address:      Schottenring 30, Vienna,  1010
+address:      Schottenring 30
+address:      Vienna 1010
 address:      Austria
 
 contact:      administrative
 name:         Operational Service Team
 organisation: VIENNA INSURANCE GROUP AG Wiener Versicherung Gruppe
-address:      Schottenring 30, Vienna, 1010
+address:      Schottenring 30
+address:      Vienna 1010
 address:      Austria
 phone:        +4533886365
 fax-no:       +4533886101
@@ -20,8 +22,10 @@ e-mail:       vig@gtld.com
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
 organisation: Afilias
-address:      Building 3, Suite 105, 300 Welsh Road, Horsham, PA 19044
-address:      United States
+address:      300 Welsh Road
+address:      Building 3, Suite 105
+address:      Horsham PA 19044
+address:      United States of America (the)
 phone:        +1.215.706.5700
 fax-no:       +1.215.706.5701
 e-mail:       tld-tech-poc@afilias.info
