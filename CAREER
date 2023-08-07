@@ -5,16 +5,16 @@
 domain:       CAREER
 
 organisation: dotCareer LLC
-address:      3029 Prospect Avenue
-address:      Cleveland, OH 44115
-address:      United States
+address:      3029 Prospect Ave.
+address:      Cleveland OH 44115
+address:      United States of America (the)
 
 contact:      administrative
 name:         Ray Fassett
 organisation: dotCareer LLC
-address:      3029 Prospect Avenue
-address:      Cleveland, OH 44115
-address:      United States
+address:      3029 Prospect Ave.
+address:      Cleveland OH 44115
+address:      United States of America (the)
 phone:        216-426-1500
 fax-no:       216-588-1558
 e-mail:       ray@goto.jobs
@@ -22,12 +22,11 @@ e-mail:       ray@goto.jobs
 contact:      technical
 name:         TLD Registry Services Technical
 organisation: Nominet
-address:      Minerva House,
-address:      Edmund Halley Road,
-address:      Oxford Science Park,
-address:      Oxford
-address:      OX4 4DQ
-address:      United Kingdom
+address:      Minerva House
+address:      Edmund Halley Road
+address:      Oxford Science Park
+address:      Oxford OX4 4DQ
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44.1865332211
 e-mail:       registrytechnical@nominet.uk
 
@@ -39,11 +38,12 @@ nserver:      DNSA.NIC.CAREER 156.154.100.3 2001:502:ad09:0:0:0:0:3
 nserver:      DNSB.NIC.CAREER 156.154.101.3 2001:502:2eda:0:0:0:0:3
 nserver:      DNSC.NIC.CAREER 156.154.102.3 2610:a1:1009:0:0:0:0:3
 nserver:      DNSD.NIC.CAREER 156.154.103.3 2610:a1:1010:0:0:0:0:3
-ds-rdata:     11480 8 2 252513A3ADE85062B3943C4D19B9DE1A0AE15176AC5D0C6D15C6B79B70F36FF8
+ds-rdata:     11480 8 2 252513a3ade85062b3943c4d19b9de1a0ae15176ac5d0c6d15c6b79b70f36ff8
 
 whois:        whois.nic.career
 
 status:       ACTIVE
+remarks:      Registration information: 
 
 created:      2014-03-20
 changed:      2021-11-09
