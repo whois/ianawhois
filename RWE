@@ -6,14 +6,14 @@ domain:       RWE
 
 organisation: RWE AG
 address:      Opernplatz 1
-address:      45128 Essen
+address:      Essen 45128
 address:      Germany
 
 contact:      administrative
 name:         Head of Group Brand Communications
 organisation: RWE AG
 address:      Opernplatz 1
-address:      45128 Essen
+address:      Essen 45128
 address:      Germany
 phone:        +49 201 12 15372
 fax-no:       +49 201 12 15143
@@ -23,8 +23,8 @@ contact:      technical
 name:         Registry Customer Service
 organisation: Verisign, inc.
 address:      12061 Bluemont Way
-address:      Reston Virginia 20190
-address:      United States
+address:      Reston VA 20190
+address:      United States of America (the)
 phone:        +1-703-925-6999
 fax-no:       +1-703-948-3978
 e-mail:       info@verisign-grs.com
@@ -33,13 +33,14 @@ nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
 nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
 nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
 nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
-ds-rdata:     3075 8 2 542F19DF30F2C69F686E697CFBAFD7DA2AFA039CB9D6620169895888188AC174
+ds-rdata:     3075 8 2 542f19df30f2c69f686e697cfbafd7da2afa039cb9d6620169895888188ac174
 
 whois:        whois.nic.rwe
 
 status:       ACTIVE
+remarks:      Registration information: 
 
 created:      2015-10-01
-changed:      2019-08-16
+changed:      2020-10-01
 source:       IANA
 
