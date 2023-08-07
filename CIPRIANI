@@ -6,7 +6,7 @@ domain:       CIPRIANI
 
 organisation: Hotel Cipriani Srl
 address:      Giudecca, 10
-address:      30133 Venice
+address:      Venice 30133
 address:      Italy
 
 contact:      administrative
@@ -14,9 +14,8 @@ name:         Head of Digital
 organisation: Belmond (UK) Limited
 address:      Shackleton House
 address:      4 Battle Bridge Lane
-address:      London
-address:      SE1 2HP
-address:      United Kingdom
+address:      London SE1 2HP
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44 203 117 1368
 fax-no:       +44 207 921 4777
 e-mail:       ngtld-cipriani@cscglobal.com
@@ -24,10 +23,10 @@ e-mail:       ngtld-cipriani@cscglobal.com
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
 organisation: Afilias
-address:      Building 3, Suite 105
 address:      300 Welsh Road
-address:      Horsham, PA 19044
-address:      United States
+address:      Building 3, Suite 105
+address:      Horsham PA 19044
+address:      United States of America (the)
 phone:        +1 215.706.5700
 fax-no:       +1 215.706.5701
 e-mail:       tld-tech-poc@afilias.info
