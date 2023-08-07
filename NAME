@@ -6,15 +6,15 @@ domain:       NAME
 
 organisation: VeriSign Information Services, Inc.
 address:      12061 Bluemont Way
-address:      Reston Virginia 20190
-address:      United States
+address:      Reston VA 20190
+address:      United States of America (the)
 
 contact:      administrative
 name:         Registry Customer Service
 organisation: VeriSign Information Services, Inc.
 address:      12061 Bluemont Way
-address:      Reston Virginia 20190
-address:      United States
+address:      Reston VA 20190
+address:      United States of America (the)
 phone:        +1 703 925 6999
 fax-no:       +1-703-948-3978
 e-mail:       info@verisign-grs.com
@@ -23,8 +23,8 @@ contact:      technical
 name:         Registry Customer Service
 organisation: VeriSign Information Services, Inc.
 address:      12061 Bluemont Way
-address:      Reston Virginia 20190
-address:      United States
+address:      Reston VA 20190
+address:      United States of America (the)
 phone:        +1 703 925 6999
 fax-no:       +1 703 948 3978
 e-mail:       info@verisign-grs.com
@@ -33,7 +33,7 @@ nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
 nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
 nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
 nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
-ds-rdata:     52563 8 2 4E2671F0DBC3927D842053044C6A0CBF8B21E1E657DE8BBA99A4835031A85A41
+ds-rdata:     52563 8 2 4e2671f0dbc3927d842053044c6a0cbf8b21e1e657de8bba99a4835031a85a41
 
 whois:        whois.nic.name
 
@@ -41,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.name
 
 created:      2001-08-17
-changed:      2019-08-14
+changed:      2020-10-01
 source:       IANA
 
