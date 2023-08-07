@@ -15,7 +15,6 @@ organisation: Ministry of Communications, Transport and Tourism Development
 address:      Betio
 address:      Tarawa
 address:      Kiribati
-address:      Kiribati
 phone:        +686 26003
 fax-no:       +686 26193
 e-mail:       ictadvisor@mcttd.gov.ki
@@ -32,7 +31,7 @@ e-mail:       kaboterenga.romatoa@cck.ki
 
 nserver:      NS.COCCA.FR 185.17.236.93 2a03:dd40:3:0:0:0:0:93
 nserver:      PCH.NIC.KI 2001:500:14:6026:ad:0:0:1 204.61.216.26
-ds-rdata:     59540 8 2 FD3B27E5C171B883FE2815DDE7FBBE7F2E5AF826BFF47C33B5970F53E2A855DE
+ds-rdata:     59540 8 2 fd3b27e5c171b883fe2815dde7fbbe7f2e5af826bff47c33b5970f53e2a855de
 
 whois:        whois.nic.ki
 
@@ -40,6 +39,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.ki
 
 created:      1995-04-19
-changed:      2020-01-31
+changed:      2020-07-08
 source:       IANA
 
