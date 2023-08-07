@@ -6,17 +6,17 @@ domain:       新闻
 domain-ace:   XN--EFVY88H
 
 organisation: Guangzhou YU Wei Information and Technology Co.,Ltd
-address:      No.1 Linhexi Road, Tianhe District
-address:      Guangzhou City
-address:      Guangdong Province
+address:      No.1 Linhexi Road
+address:      Tianhe District
+address:      Guangzhou Guangdong
 address:      China
 
 contact:      administrative
 name:         CEO
 organisation: Guangzhou YU Wei Information and Technology Co.,Ltd
-address:      3302 International Trade Center
-address:      No.1 Linhe Xi Road
-address:      Guangzhou, Guangdong Province 510610
+address:      Woodside Plaza
+address:      240 St Georges Terrace
+address:      Guangzhou Guangdong 510610
 address:      China
 phone:        +86 20 6622 2543
 fax-no:       +86 20 6622 2813
@@ -27,7 +27,7 @@ name:         CTO
 organisation: Guangzhou YU Wei Information and Technology Co.,Ltd
 address:      3302 International Trade Center
 address:      No.1 Linhe Xi Road
-address:      Guangzhou, Guangdong Province 510610
+address:      Guangzhou Guangdong 510610
 address:      China
 phone:        +86 20 6622 2543
 fax-no:       +86 20 6622 2813
@@ -49,6 +49,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.gd.xinhua.org
 
 created:      2015-08-06
-changed:      2019-09-05
+changed:      2022-12-08
 source:       IANA
 
