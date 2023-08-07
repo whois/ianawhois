@@ -8,7 +8,7 @@ organisation: University of Latvia
 organisation: Institute of Mathematics and Computer Science
 organisation: Department of Network Solutions (DNS)
 address:      Rainis Boulevard 29
-address:      Riga  LV-1459
+address:      Riga LV-1459
 address:      Latvia
 
 contact:      administrative
@@ -16,7 +16,7 @@ name:         Guntis Barzdins
 organisation: Institute of Mathematics and Computer Science
 organisation: Department of Network Solutions (DNS)
 address:      Rainis Boulevard 29
-address:      Riga  LV-1459
+address:      Riga LV-1459
 address:      Latvia
 phone:        +371 6721 1241
 fax-no:       +371 6782 0153
@@ -26,8 +26,8 @@ contact:      technical
 name:         Ivo Kutts
 organisation: Institute of Mathematics and Computer Science
 organisation: Department of Network Solutions (DNS)
-address:      Raina bulvaris 29
-address:      Riga  LV-1459
+address:      Rainis Boulevard 29
+address:      Riga LV-1459
 address:      Latvia
 phone:        +371 6708 5858
 fax-no:       +371 6782 0153
@@ -39,7 +39,7 @@ nserver:      D.NIC.LV 194.0.8.1 2001:678:b:1:0:0:0:1
 nserver:      N.NIC.LV 194.146.106.150 2001:67c:1010:38:0:0:0:53
 nserver:      NU.NIC.LV 2a01:3f0:0:312:0:0:0:53 77.72.229.249
 nserver:      SUNIC.SUNET.SE 192.36.125.2 2001:6b0:7:0:0:0:0:2
-ds-rdata:     42018 8 2 7E932A4F9CF9B1CD047C277E3CD323A53D42347D47C7BF1DD6018FF4B344FC1C
+ds-rdata:     42018 8 2 7e932a4f9cf9b1cd047c277e3cd323a53d42347d47c7bf1dd6018ff4b344fc1c
 
 whois:        whois.nic.lv
 
