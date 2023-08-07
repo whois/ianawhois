@@ -5,14 +5,16 @@
 domain:       PRAMERICA
 
 organisation: Prudential Financial, Inc.
-address:      751 Broad Street, Newark, NJ 07102
-address:      United States
+address:      751 Broad Street
+address:      Newark NJ 07102
+address:      United States of America (the)
 
 contact:      administrative
 name:         Adam Kaye
 organisation: Prudential Financial
-address:      213 Washington St, Newark, NJ, 07102
-address:      United States
+address:      213 Washington St
+address:      Newark NJ 07102
+address:      United States of America (the)
 phone:        +1 973 716 6632
 e-mail:       inet-admin@prudential.com
 
@@ -20,8 +22,8 @@ contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
 address:      2155 E GoDaddy Way
-address:      Tempe, AZ 85284
-address:      United States
+address:      Tempe AZ 85284
+address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
@@ -32,7 +34,9 @@ nserver:      C.NIC.PRAMERICA 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.PRAMERICA 156.154.144.138 2610:a1:1071:0:0:0:0:8a
 nserver:      NS2.DNS.NIC.PRAMERICA 156.154.145.138 2610:a1:1072:0:0:0:0:8a
 nserver:      NS3.DNS.NIC.PRAMERICA 156.154.159.138 2610:a1:1073:0:0:0:0:8a
-ds-rdata:     42634 8 2 34C29E72AFDE2F27194A21E6D5C9E91AC44B5C04328D7FADE36C026C18C118EA
+ds-rdata:     42634 8 2 34c29e72afde2f27194a21e6d5c9e91ac44b5c04328d7fade36c026c18c118ea
+
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: https://www.prudential.com
