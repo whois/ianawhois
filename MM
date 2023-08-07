@@ -6,25 +6,24 @@ domain:       MM
 
 organisation: Ministry of Transport and Communications
 address:      Zayya Htar Ni Street
-address:      Nay Pyi Taw, Mandalay Division 150111
+address:      Nay Pyi Taw Mandalay Division 150111
 address:      Myanmar
 
 contact:      administrative
 name:         Mr. Myo Swe
 organisation: Posts and Telecommunications Department
 address:      Zayya Htar Ni Street
-address:      Nay Pyi Taw, Mandalay Division 150111
+address:      Nay Pyi Taw Mandalay Division 150111
 address:      Myanmar
 phone:        +95 67 407535
-fax-no:       +95 67 407227 
+fax-no:       +95 67 407227
 e-mail:       mswe67@gmail.com
 
 contact:      technical
 name:         Staff Officer
 organisation: Posts and Telecommunications Department
 address:      Zayya Htar Ni Street
-address:      Nay Pyi Taw 150111
-address:      Myanmar
+address:      Nay Pyi Taw Mandalay Division 150111
 address:      Myanmar
 phone:        +95 67 3407626
 fax-no:       +95 67 3407227
@@ -34,6 +33,7 @@ nserver:      A.NIC.NET.MM 37.209.192.4
 nserver:      B.NIC.NET.MM 37.209.194.4
 nserver:      C.NIC.NET.MM 37.209.196.4
 nserver:      D.NIC.NET.MM 37.209.198.4
+nserver:      PTD.NET.MM 103.103.173.9
 ds-rdata:     18589 8 2 0a66403da2ceb4c3960750739074d5ca799334b45c85e3fedd7838e01a2435d8
 
 whois:        whois.registry.gov.mm
@@ -42,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.ptd.gov.mm/
 
 created:      1997-02-04
-changed:      2021-07-09
+changed:      2023-03-13
 source:       IANA
 
