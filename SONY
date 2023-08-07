@@ -5,26 +5,27 @@
 domain:       SONY
 
 organisation: Sony Corporation
-address:      1-7-1 Konan, Minato-ku, Tokyo, 108-0075
+address:      1-7-1 Konan
+address:      Minato-ku Tokyo 108-0075
 address:      Japan
 
 contact:      administrative
 name:         Chief Operating Officer
-organisation: GMO Brights Consulting Inc.
-address:      Cerulean Tower, 26-1, Sakuragaoka-cho,
-address:      Shibuya-ku Tokyo 150-8512, Japan
+organisation: GMO BRAND SECURITY Inc.
+address:      Cerulean Tower
+address:      26-1 Sakuragaoka-cho
+address:      Shibuya-ku Tokyo 150-8512
 address:      Japan
 phone:        +81.357841069
 fax-no:       +81.334625040
-e-mail:       registry@brights.jp
+e-mail:       registry@brightsconsulting.com
 
 contact:      technical
 name:         Director
 organisation: GMO Registry, Inc.
-address:      Cerulean Tower 26-1 Sakuragaoka-cho
-address:      Shibuya-ku
-address:      Tokyo
-address:      150-8512
+address:      Cerulean Tower
+address:      26-1 Sakuragaoka-cho
+address:      Shibuya-ku Tokyo 150-8512
 address:      Japan
 phone:        +81.354561601
 fax-no:       +81.337805239
@@ -42,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.sony.com
 
 created:      2015-03-06
-changed:      2019-08-20
+changed:      2023-06-20
 source:       IANA
 
