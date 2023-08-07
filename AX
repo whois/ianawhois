@@ -6,14 +6,14 @@ domain:       AX
 
 organisation: Ålands landskapsregering
 address:      Strandgatan
-address:      Mariehamn  22100
+address:      Mariehamn 22100
 address:      Åland Islands
 
 contact:      administrative
 name:         Ronny Lundström
 organisation: Ålands landskapsregering
 address:      PB 1060
-address:      Mariehamn  AX-22111
+address:      Mariehamn 22111
 address:      Åland Islands
 phone:        +358 18 25000
 fax-no:       +358 18 19155
@@ -32,7 +32,7 @@ nserver:      NS1.ALAND.NET 194.112.0.1
 nserver:      NS2.ALAND.NET 194.112.0.5
 nserver:      NS3.ALCOM.FI 2a00:5500:1:6:0:0:0:130 82.199.186.130
 nserver:      NS4.ALCOM.FI 2a00:5500:1:7:0:0:0:194 82.199.184.194
-ds-rdata:     54055 8 2 4299C76D8767752C8A10579C4465CBC1C61AD2E1A0D68B42DF75645322F06202
+ds-rdata:     54055 8 2 4299c76d8767752c8a10579c4465cbc1c61ad2e1a0d68b42df75645322f06202
 
 whois:        whois.ax
 
