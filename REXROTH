@@ -5,41 +5,42 @@
 domain:       REXROTH
 
 organisation: Robert Bosch GMBH
-address:      Robert Bosch Platz 1
-address:      70839 Gerlingen-Schillerhoehe
+address:      Robert-Bosch-Platz 1
+address:      Gerlingen-Schillerhöhe 70839
 address:      Germany
 
 contact:      administrative
 name:         eMarketing
 organisation: Bosch Rexroth AG
 address:      Maria-Theresien-Str. 23
-address:      97816 Lohr a.Main
+address:      Lohr a.Main 97816
 address:      Germany
 phone:        +49 9352 180
 fax-no:       +49 9352 18 1385
 e-mail:       ngtld-rexroth@cscinfo.com
 
 contact:      technical
-name:         Registry Customer Service
-organisation: Verisign, inc.
-address:      12061 Bluemont Way
-address:      Reston Virginia 20190
-address:      United States
-phone:        +1-703-925-6999
-fax-no:       +1-703-948-3978
-e-mail:       info@verisign-grs.com
+name:         Howard Eland, Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
 
-nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
-nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
-nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
-nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
-ds-rdata:     53088 8 2 9F6072A8631CDD4582C80D2372BE54F59AE189B5749D5007ADD985B4F82A6500
+nserver:      A0.NIC.REXROTH 2a01:8840:6e:0:0:0:0:65 65.22.112.65
+nserver:      A2.NIC.REXROTH 2a01:8840:71:0:0:0:0:65 65.22.115.65
+nserver:      B0.NIC.REXROTH 2a01:8840:6f:0:0:0:0:65 65.22.113.65
+nserver:      C0.NIC.REXROTH 2a01:8840:70:0:0:0:0:65 65.22.114.65
+ds-rdata:     13240 8 2 3fdb1d716cc4d502c89094eb8b0f44056e6bdebefdfdba79632c5dc606238e70
 
 whois:        whois.nic.rexroth
 
 status:       ACTIVE
+remarks:      Registration information: 
 
 created:      2015-12-17
-changed:      2019-08-16
+changed:      2023-05-25
 source:       IANA
 
