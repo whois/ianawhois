@@ -6,14 +6,14 @@ domain:       LECLERC
 
 organisation: A.C.D. LEC Association des Centres Distributeurs Edouard Leclerc
 address:      26 quai Marcel Boyer
-address:      94200 Ivry-Sur-Seine
+address:      Ivry-Sur-Seine 94200
 address:      France
 
 contact:      administrative
-name:         Head of Legal Department 
+name:         Head of Legal Department
 organisation: A.C.D. LEC Association des Centres Distributeurs Edouard Leclerc
 address:      26 quai Marcel Boyer
-address:      94200 Ivry-Sur-Seine
+address:      Ivry-Sur-Seine 94200
 address:      France
 phone:        +33 143875100
 fax-no:       +33 149875108
@@ -24,7 +24,7 @@ name:         TLD Technical Contact
 organisation: Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)
 address:      Immeuble Le Stephenson
 address:      1, rue Stephenson
-address:      78180 Montigny-le-Bretonneux
+address:      Montigny-Le-Bretonneux 78180
 address:      France
 phone:        +33 1 39 30 83 00
 fax-no:       +33 1 39 30 83 01
@@ -33,7 +33,7 @@ e-mail:       pocleclerc@afnic.fr
 nserver:      D.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
 nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
 nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
-ds-rdata:     60287 13 2 D64818B1CD557C6040E2F188D15748AFB29AC5FAC90E8403BD391776D34A9696
+ds-rdata:     60287 13 2 d64818b1cd557c6040e2f188d15748afb29ac5fac90e8403bd391776d34a9696
 
 whois:        whois.nic.leclerc
 
