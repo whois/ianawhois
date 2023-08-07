@@ -6,14 +6,16 @@ domain:       PK
 
 organisation: PKNIC
 address:      435 Tariq Block
-address:      New Garden Town Lahore
+address:      New Garden Town
+address:      Lahore
 address:      Pakistan
 
 contact:      administrative
 name:         Ashar Nisar
 organisation: PKNIC
 address:      435 Tariq Block
-address:      New Garden Town Lahore
+address:      New Garden Town
+address:      Lahore
 address:      Pakistan
 phone:        +92 (332) 477-1656
 fax-no:       +1 (800) 835-9892
@@ -23,7 +25,8 @@ contact:      technical
 name:         Ashar Nisar
 organisation: PKNIC
 address:      435 Tariq Block
-address:      New Garden Town Lahore
+address:      New Garden Town
+address:      Lahore
 address:      Pakistan
 phone:        +92-(332)-477-1656
 e-mail:       ashar@pknic.net.pk
