@@ -6,13 +6,17 @@ domain:       中信
 domain-ace:   XN--FIQ64B
 
 organisation: CITIC Group Corporation
-address:      Capital Mansion,6 Xinyuannanlu, Chaoyang District, Beijing 100004
+address:      Capital Mansion,6 Xinyuannanlu
+address:      Chaoyang District
+address:      Beijing 100004
 address:      China
 
 contact:      administrative
 name:         Xiaohui Ji
 organisation: CITIC Group Corporation
-address:      Capital Mansion,6 Xinyuannanlu, Chaoyang District, Beijing 100004
+address:      Capital Mansion,6 Xinyuannanlu
+address:      Chaoyang District
+address:      Beijing 100004
 address:      China
 phone:        86 10 59661088
 fax-no:       86 10 59660088
@@ -21,7 +25,9 @@ e-mail:       jixh@citic.com
 contact:      technical
 name:         Jichao Fei
 organisation: CITIC Group Corporation
-address:      Capital Mansion,6 Xinyuannanlu, Chaoyang District, Beijing 100004
+address:      Capital Mansion,6 Xinyuannanlu
+address:      Chaoyang District
+address:      Beijing 100004
 address:      China
 phone:        86 10 59661013
 fax-no:       86 10 59660013
@@ -40,8 +46,9 @@ ds-rdata:     38824 8 2 2de6674a0eb17276f0e601cbd11a42a23fa04016329f0fa30a80df7c
 whois:        whois.gtld.knet.cn
 
 status:       ACTIVE
+remarks:      Registration information: 
 
 created:      2014-01-09
-changed:      2019-08-15
+changed:      2022-12-08
 source:       IANA
 
