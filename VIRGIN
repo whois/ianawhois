@@ -6,31 +6,28 @@ domain:       VIRGIN
 
 organisation: Virgin Enterprises Limited
 address:      The Battleship Building
-address:      London, England
-address:      W2 6NB
-address:      United Kingdom
+address:      London England W2 6NB
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 
 contact:      administrative
 name:         TLD Registry Services Management
 organisation: Nominet
-address:      Minerva House,
-address:      Edmund Halley Road,
+address:      Minerva House
+address:      Edmund Halley Road
 address:      Oxford Science Park
-address:      Oxford
-address:      OX4 4DQ
-address:      United Kingdom
+address:      Oxford OX4 4DQ
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44.1865332211
 e-mail:       registrymanagement@nominet.uk
 
 contact:      technical
 name:         TLD Registry Services Technical
 organisation: Nominet
-address:      Minerva House,
-address:      Edmund Halley Road,
-address:      Oxford Science Park,
-address:      Oxford
-address:      OX4 4DQ
-address:      United Kingdom
+address:      Minerva House
+address:      Edmund Halley Road
+address:      Oxford Science Park
+address:      Oxford OX4 4DQ
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44.1865332211
 e-mail:       registrytechnical@nominet.uk
 
@@ -42,7 +39,7 @@ nserver:      DNSA.NIC.VIRGIN 156.154.100.3 2001:502:ad09:0:0:0:0:3
 nserver:      DNSB.NIC.VIRGIN 156.154.101.3 2001:502:2eda:0:0:0:0:3
 nserver:      DNSC.NIC.VIRGIN 156.154.102.3 2610:a1:1009:0:0:0:0:3
 nserver:      DNSD.NIC.VIRGIN 156.154.103.3 2610:a1:1010:0:0:0:0:3
-ds-rdata:     41930 8 2 64E74557CC76DD3BB05F8EB86EBF531B186D95E91BFDAA09F35FD620D960603A
+ds-rdata:     41930 8 2 64e74557cc76dd3bb05f8eb86ebf531b186d95e91bfdaa09f35fd620d960603a
 
 whois:        whois.nic.virgin
 
