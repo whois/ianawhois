@@ -18,7 +18,7 @@ address:      P.O. Box 1839
 address:      Paramaribo
 address:      Suriname
 phone:        +597 8500027
-e-mail:       john.culbard@telesur.sr
+e-mail:       isp@datasur.sr
 
 contact:      technical
 name:         Furyal Naarden
@@ -33,10 +33,12 @@ e-mail:       furyal.naarden@telesur.sr
 nserver:      NS1.SR.NET 200.1.159.148
 nserver:      NS2.SR.NET 200.2.162.30
 
+whois:        
+
 status:       ACTIVE
-remarks:      Registration information: http://www.register.sr/
+remarks:      Registration information: http://isp.datasur.sr/
 
 created:      1991-09-03
-changed:      2020-03-04
+changed:      2023-02-17
 source:       IANA
 
