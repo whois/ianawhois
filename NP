@@ -6,14 +6,16 @@ domain:       NP
 
 organisation: Mercantile Communications Pvt. Ltd.
 address:      Hitti Pokhari, DurbarMarg, Kathmandu
-address:      Kathmandu Bagmati P.O.Box 876
+address:      P.O.Box 876
+address:      Kathmandu Bagmati
 address:      Nepal
 
 contact:      administrative
 name:         Sanjib Raj Bhandari
 organisation: Mercantile Communications Pvt. Ltd.
 address:      Hitti Pokhari, DurbarMarg, Kathmandu
-address:      Kathmandu Bagmati P.O.Box 876
+address:      P.O.Box 876
+address:      Kathmandu Bagmati
 address:      Nepal
 phone:        +977 1 4445920
 fax-no:       +977 1 4439360
@@ -23,7 +25,8 @@ contact:      technical
 name:         Gyanendra Kumar Mishra
 organisation: Mercantile Communications Pvt. Ltd.
 address:      Hitti Pokhari, DurbarMarg, Kathmandu
-address:      Kathmandu Bagmati P.O.Box 876
+address:      P.O.Box 876
+address:      Kathmandu Bagmati
 address:      Nepal
 phone:        +977 1 4445920
 fax-no:       +977 1 4439360
@@ -34,6 +37,8 @@ nserver:      NP.CCTLD.AUTHDNS.RIPE.NET 193.0.9.102 2001:67c:e0:0:0:0:0:102
 nserver:      NS4.APNIC.NET 2001:dd8:12:0:0:0:0:53 202.12.31.53
 nserver:      PCH.NNIC.NP 2001:500:14:6011:ad:0:0:1 204.61.216.11
 nserver:      SHIKHAR.MOS.COM.NP 202.52.255.5
+
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: http://www.mos.com.np
