@@ -5,14 +5,16 @@
 domain:       CI
 
 organisation: Autorité de Régulation des Télécommunications/TIC de Côte d’lvoire (ARTCI)
-address:      18 BP 2203 Abidjan 18 Marcory Anoumanbo
-address:      Cote d'Ivoire
+address:      18 BP 2203 18 Marcory Anoumanbo
+address:      Abidjan
+address:      Côte d'Ivoire
 
 contact:      administrative
 name:         Administrative Manager
 organisation: Autorité de Régulation des Télécommunications/TIC de Côte d’lvoire (ARTCI)
-address:      18 BP 2203 Abidjan 18 Marcory Anoumanbo
-address:      Cote d'Ivoire
+address:      18 BP 2203 18 Marcory Anoumanbo
+address:      Abidjan
+address:      Côte d'Ivoire
 phone:        +225 20 34 43 73
 fax-no:       +225 20 34 43 75
 e-mail:       support@nic.ci
@@ -20,8 +22,9 @@ e-mail:       support@nic.ci
 contact:      technical
 name:         Technical Manager
 organisation: Autorité de Régulation des Télécommunications/TIC de Côte d’lvoire (ARTCI)
-address:      18 BP 2203 Abidjan 18 Marcory Anoumanbo
-address:      Cote d'Ivoire
+address:      18 BP 2203 18 Marcory Anoumanbo
+address:      Abidjan
+address:      Côte d'Ivoire
 phone:        +225 20 34 42 53
 fax-no:       +225 20 34 43 75
 e-mail:       support@nic.ci
@@ -31,7 +34,7 @@ nserver:      CI.HOSTING.NIC.FR 192.134.0.49 2001:660:3006:1:0:0:1:1
 nserver:      NS-CI.AFRINIC.NET 196.216.168.30 2001:43f8:120:0:0:0:0:30
 nserver:      NS.NIC.CI 196.49.0.84
 nserver:      PHLOEM.UOREGON.EDU 128.223.32.35 2001:468:d01:20:0:0:80df:2023
-ds-rdata:     60224 8 2 0FB751F1B2230B9EF643DDCE8C30ACD1E7CC20FA7D52346CA074A32B8F01C686
+ds-rdata:     60224 8 2 0fb751f1b2230b9ef643ddce8c30acd1e7cc20fa7d52346ca074a32b8f01c686
 
 whois:        whois.nic.ci
 
