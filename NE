@@ -6,15 +6,15 @@ domain:       NE
 
 organisation: SONITEL
 address:      Rue de l'Uranium
-address:      Niamey  208
-address:      Niger
+address:      Niamey 208
+address:      Niger (the)
 
 contact:      administrative
 name:         Kimba YAYE
 organisation: SONITEL
 address:      Avenue du Général De Gaulle
-address:      Niamey  208
-address:      Niger
+address:      Niamey 208
+address:      Niger (the)
 phone:        +227 20 72 27 75
 fax-no:       +227 20 73 58 12
 e-mail:       kimba.yaye@sonitel.ne
@@ -23,8 +23,8 @@ contact:      technical
 name:         Sadou SOLOKE
 organisation: SONITEL
 address:      64 Rue du Stade
-address:      Niamey  208
-address:      Niger
+address:      Niamey 208
+address:      Niger (the)
 phone:        +227 20 72 21 80
 fax-no:       +227 20 72 58 12
 e-mail:       sadou.soloke@sonitel.ne
@@ -33,6 +33,8 @@ nserver:      BOW.RAIN.FR 194.51.3.49
 nserver:      NE.CCTLD.AUTHDNS.RIPE.NET 193.0.9.101 2001:67c:e0:0:0:0:0:101
 nserver:      NS-NE.AFRINIC.NET 196.216.168.45 2001:43f8:120:0:0:0:0:45
 nserver:      NS.INTNET.NE 41.138.54.10
+
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: http://www.intnet.ne
