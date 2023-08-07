@@ -6,14 +6,14 @@ domain:       CA
 
 organisation: Canadian Internet Registration Authority (CIRA) Autorité Canadienne pour les enregistrements Internet (ACEI)
 address:      979 Bank Street, Suite 400
-address:      Ottawa, Ontario, K1S 5K5
+address:      Ottawa ON K1S 5K5
 address:      Canada
 
 contact:      administrative
 name:         Chief Information Officer
 organisation: CIRA
 address:      979 Bank Street, Suite 400
-address:      Ottawa, Ontario, K1S 5K5
+address:      Ottawa ON K1S 5K5
 address:      Canada
 phone:        +1 613 237 5335
 fax-no:       +1 613 237 0534
@@ -23,7 +23,7 @@ contact:      technical
 name:         DNS Admin
 organisation: CIRA
 address:      979 Bank Street, Suite 400
-address:      Ottawa, Ontario, K1S 5K5
+address:      Ottawa ON K1S 5K5
 address:      Canada
 phone:        +1 613 237 5335
 fax-no:       +1 613 237 0534
