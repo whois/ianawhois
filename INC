@@ -7,25 +7,26 @@ domain:       INC
 organisation: Intercap Registry Inc.
 address:      4th Floor, Harbour Place, 103 South Church Street
 address:      PO Box 10240
-address:      Grand Cayman, KY1-1002
-address:      Cayman Islands
+address:      Grand Cayman KY1-1002
+address:      Cayman Islands (the)
 
 contact:      administrative
 name:         General Manager
 organisation: Intercap Registry Inc.
 address:      4th Floor, Harbour Place, 103 South Church Street
 address:      PO Box 10240
-address:      Grand Cayman, KY1-1002
-address:      Cayman Islands
+address:      Grand Cayman KY1-1002
+address:      Cayman Islands (the)
 phone:        +1-833-436-8462
 e-mail:       admin@intercap.inc
 
 contact:      technical
 name:         CTO
 organisation: CentralNic
-address:      Saddlers House 4th Floor 44 Gutter Lane
+address:      Saddlers House, 4th Floor
+address:      44 Gutter Lane
 address:      London EC2V 6BR
-address:      United Kingdom
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44 20 33 88 0600
 fax-no:       +44 20 33 88 0601
 e-mail:       tld.ops@centralnic.com
@@ -34,10 +35,10 @@ nserver:      A.NIC.INC 194.169.218.137 2001:67c:13cc:0:0:0:1:137
 nserver:      B.NIC.INC 185.24.64.137 2a04:2b00:13cc:0:0:0:1:137
 nserver:      C.NIC.INC 212.18.248.137 2a04:2b00:13ee:0:0:0:0:137
 nserver:      D.NIC.INC 212.18.249.137 2a04:2b00:13ff:0:0:0:0:137
-ds-rdata:     13636 8 1 6EAEBC6DDC7E32668027D425FE37084D6CB2D13D
-ds-rdata:     13636 8 2 1F6E64CBE2F9FF7A4D33195D8EE394E09E58CB89477523A1B5B1113B0CD6C3F5
-ds-rdata:     18077 8 2 42F81B888D9B44D561060B7DC32796807F2A99F2D151B3837019ABA31C8966A0
-ds-rdata:     18077 8 1 B1D522ED8FEEEAF6EAD2504C9460101CFB98A195
+ds-rdata:     13636 8 1 6eaebc6ddc7e32668027d425fe37084d6cb2d13d
+ds-rdata:     13636 8 2 1f6e64cbe2f9ff7a4d33195d8ee394e09e58cb89477523a1b5b1113b0cd6c3f5
+ds-rdata:     18077 8 2 42f81b888d9b44d561060b7dc32796807f2a99f2d151b3837019aba31c8966a0
+ds-rdata:     18077 8 1 b1d522ed8feeeaf6ead2504c9460101cfb98a195
 
 whois:        whois.nic.inc
 
