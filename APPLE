@@ -6,15 +6,15 @@ domain:       APPLE
 
 organisation: Apple Inc.
 address:      1 Infinite Loop
-address:      Cupertino, CA 95014
-address:      United States
+address:      Cupertino CA 95014
+address:      United States of America (the)
 
 contact:      administrative
 name:         Counsel-Trademark, Copyright and Domains
 organisation: Apple, Inc.
 address:      1 Infinite Loop
-address:      Cupertino, CA 95014
-address:      United States
+address:      Cupertino CA 95014
+address:      United States of America (the)
 phone:        +1 408 996 1010
 fax-no:       +1 408 253 0186
 e-mail:       ngtld-apple@cscglobal.com
@@ -22,10 +22,10 @@ e-mail:       ngtld-apple@cscglobal.com
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
 organisation: Afilias
-address:      Building 3, Suite 105
 address:      300 Welsh Road
-address:      Horsham, PA 19044
-address:      United States
+address:      Building 3, Suite 105
+address:      Horsham PA 19044
+address:      United States of America (the)
 phone:        +1 215 706 5700
 fax-no:       +1 215 706 5701
 e-mail:       tld-tech-poc@afilias.info
@@ -36,8 +36,8 @@ nserver:      B0.NIC.APPLE 2a01:8840:3b:0:0:0:0:1 65.22.61.1
 nserver:      C0.NIC.APPLE 2a01:8840:3c:0:0:0:0:1 65.22.62.1
 ds-rdata:     54541 7 1 07eca60632b3a62af2be9e597d7c5b6f1bb1fc21
 ds-rdata:     54541 7 2 eb3a275c32eeab32b6f7f6a9ec1d19e327c68eaf1a55bd5b8dac634bc416e8c6
-ds-rdata:     50166 7 2 B8038B6449B548E38FC74CE04D21726C9F052213A55573256C6867AED2E6C091
-ds-rdata:     50166 7 1 20DE4DA26E31E393746200E709C6F4E91FE65D4F
+ds-rdata:     50166 7 2 b8038b6449b548e38fc74ce04d21726c9f052213a55573256c6867aed2e6c091
+ds-rdata:     50166 7 1 20de4da26e31e393746200e709c6f4e91fe65d4f
 
 whois:        whois.afilias-srs.net
 
