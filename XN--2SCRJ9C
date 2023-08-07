@@ -6,14 +6,14 @@ domain:       ಭಾರತ
 domain-ace:   XN--2SCRJ9C
 
 organisation: National Internet eXchange of India
-address:      6C,6D,6E Hansalaya Building 15, Barakhamba Road
+address:      6C, 6D, 6E Hansalaya Building 15, Barakhamba Road
 address:      New Delhi 110 001
 address:      India
 
 contact:      administrative
 name:         Rajiv Kumar
 organisation: National Internet eXchange of India
-address:      6C,6D,6E Hansalaya Building 15, Barakhamba Road
+address:      6C, 6D, 6E Hansalaya Building 15, Barakhamba Road
 address:      New Delhi 110 001
 address:      India
 phone:        +91 11 4820 2011
@@ -23,7 +23,7 @@ e-mail:       registry@nixi.in
 contact:      technical
 name:         Rajiv Kumar
 organisation: National Internet eXchange of India
-address:      6C,6D,6E Hansalaya Building 15, Barakhamba Road
+address:      6C, 6D, 6E Hansalaya Building 15, Barakhamba Road
 address:      New Delhi 110 001
 address:      India
 phone:        +91 11 4820 2011
@@ -34,10 +34,9 @@ nserver:      NS1.REGISTRY.IN 2001:dcd:1:0:0:0:0:12 37.209.192.12
 nserver:      NS2.REGISTRY.IN 2001:dcd:2:0:0:0:0:12 37.209.194.12
 nserver:      NS3.REGISTRY.IN 2001:dcd:3:0:0:0:0:12 37.209.196.12
 nserver:      NS4.REGISTRY.IN 2001:dcd:4:0:0:0:0:12 37.209.198.12
-nserver:      NS5.REGISTRY.IN 156.154.100.20 2001:0502:2eda:0:0:0:0:20
-nserver:      NS6.REGISTRY.IN 156.154.101.20 2001:0502:ad09:0:0:0:0:20
-ds-rdata:     26416 8 2 2961C1313266C5DD552F28E9663CD4408FE058052BDDD3993C000FAADDB8A3A2
-ds-rdata:     26416 8 1 303B4E54353EB9E060383F6A6E2B76B78EBE44F8
+nserver:      NS5.REGISTRY.IN 156.154.100.20 2001:502:2eda:0:0:0:0:20
+nserver:      NS6.REGISTRY.IN 156.154.101.20 2001:502:ad09:0:0:0:0:20
+ds-rdata:     11140 8 2 4d6066c559009d857402623f36cfea85b92eeab23d507f12f28050ac873491c3
 
 whois:        whois.registry.in
 
@@ -45,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.registry.in
 
 created:      2016-04-18
-changed:      2020-04-09
+changed:      2023-07-25
 source:       IANA
 
