@@ -5,30 +5,31 @@
 domain:       XIN
 
 organisation: Elegant Leader Limited
-address:      25/F JUBILEE CENTRE
-address:      18 FENWICK STREET
-address:      WANCHAI
-address:      HONG KONG
+address:      25/F Jubilee Centre
+address:      18 Fenwick Street
+address:      Wanchai
+address:      Hong Kong
 address:      China
 
 contact:      administrative
-name:         Yusi Zheng
+name:         Nan Chu
 organisation: Elegant Leader Limited
 address:      HiChina Mansion
-address:      No.27 Gulouwai Avenue, Dongcheng District
-address:      1001020 Beijing
+address:      No.27 Gulouwai Avenue,
+address:      Dongcheng District
+address:      Beijing 100120
 address:      China
-phone:        86 10 65985888 ext. 16581
-fax-no:       86 10 65985608
-e-mail:       joyce.zheng@alibaba-inc.com
+phone:        +86 10 65985888 ext. 49971
+fax-no:       +86 10 65985608
+e-mail:       antonia.cn@alibaba-inc.com
 
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
 organisation: Afilias
-address:      Building 3, Suite 105
 address:      300 Welsh Road
-address:      Horsham, PA 19044
-address:      United States
+address:      Building 3, Suite 105
+address:      Horsham PA 19044
+address:      United States of America (the)
 phone:        +1 215.706.5700
 fax-no:       +1 215.706.5701
 e-mail:       tld-tech-poc@afilias.info
@@ -45,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.dotxin.org
 
 created:      2015-02-19
-changed:      2021-02-09
+changed:      2023-01-05
 source:       IANA
 
