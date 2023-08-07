@@ -4,33 +4,38 @@
 
 domain:       MENU
 
-organisation: Wedding TLD2, LLC
-address:      427 North Camden Drive, Beverly Hills, CA 90210
-address:      United States
+organisation: Dot Menu Registry LLC
+address:      9440 Santa Monica Blvd, Suite 301
+address:      Beverly Hills CA 90210
+address:      United States of America (the)
 
 contact:      administrative
 name:         Kenwei Chong
-organisation: Wedding TLD2, LLC
-address:      427 North Camden Drive, Beverly Hills, CA 90210
-address:      United States
-phone:        +01 310 247 2165
-fax-no:       +01 310 247 2190
+organisation: Dot Menu Registry LLC
+address:      9440 Santa Monica Blvd, Suite 301
+address:      Beverly Hills CA 90210
+address:      United States of America (the)
+phone:        +1 808 3721988
+fax-no:       +1 323 4886285
 e-mail:       kenwei@nic.menu
 
 contact:      technical
 name:         Erik Ludwick
-organisation: Wedding TLD2, LLC
-address:      427 North Camden Drive, Beverly Hills, CA 90210
-address:      United States
-phone:        +01 310 247 2165
-fax-no:       +01 310 247 2190
+organisation: Dot Menu Registry LLC
+address:      9440 Santa Monica Blvd, Suite 301
+address:      Beverly Hills CA 90210
+address:      United States of America (the)
+phone:        +1 424 3462122
+fax-no:       +1 323 4886285
 e-mail:       erik@nic.menu
 
 nserver:      A.NIC.MENU 2001:dcd:1:0:0:0:0:10 37.209.192.10
 nserver:      B.NIC.MENU 2001:dcd:2:0:0:0:0:10 37.209.194.10
 nserver:      C.NIC.MENU 2001:dcd:3:0:0:0:0:10 37.209.196.10
-nserver:      D.NIC.MENU 2001:dcd:4:0:0:0:0:10 37.209.198.10
-ds-rdata:     31309 8 2 DEA786E2B9C069E2595D79B03F3A920B0342BFBC017EC606A0184340E9C9C88D
+nserver:      X.NIC.MENU 156.154.172.82 2610:a1:1074:0:0:0:1:82
+nserver:      Y.NIC.MENU 156.154.173.82 2610:a1:1075:0:0:0:1:82
+nserver:      Z.NIC.MENU 156.154.174.82 2610:a1:1076:0:0:0:1:82
+ds-rdata:     31309 8 2 dea786e2b9c069e2595d79b03f3a920b0342bfbc017ec606a0184340e9c9c88d
 
 whois:        whois.nic.menu
 
@@ -38,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.menu
 
 created:      2013-11-13
-changed:      2022-07-21
+changed:      2022-12-21
 source:       IANA
 
