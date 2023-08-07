@@ -5,25 +5,26 @@
 domain:       LONDON
 
 organisation: Dot London Domains Limited
-address:      London & Partners, 169 Union Street, London SE1 0LL
-address:      United Kingdom
+address:      London & Partners, 169 Union Street
+address:      London SE1 0LL
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 
 contact:      administrative
 name:         IT Systems Lead
 organisation: London & Partners
-address:      169 Union Street,
+address:      169 Union Street
 address:      London SE1 0LL
-address:      United Kingdom
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44 (0)20 7234 5853
 e-mail:       contact@domains.london
 
 contact:      technical
 name:         CTO
 organisation: CentralNic
-address:      Saddlers House, 4th Floor 44 Gutter Lane
-address:      London
-address:      EC2V 6BR
-address:      United Kingdom
+address:      Saddlers House, 4th Floor
+address:      44 Gutter Lane
+address:      London EC2V 6BR
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44.2033880600
 fax-no:       +44.2033880601
 e-mail:       tld.ops@centralnic.com
@@ -32,7 +33,7 @@ nserver:      A.NIC.LONDON 194.169.218.141 2001:67c:13cc:0:0:0:1:141
 nserver:      B.NIC.LONDON 185.24.64.141 2a04:2b00:13cc:0:0:0:1:141
 nserver:      C.NIC.LONDON 212.18.248.141 2a04:2b00:13ee:0:0:0:0:141
 nserver:      D.NIC.LONDON 212.18.249.141 2a04:2b00:13ff:0:0:0:0:141
-ds-rdata:     11861 8 2 5083FACFD25EDC276C25D2D3DA986F370C82BF31A01821ABF462C35800548F77
+ds-rdata:     11861 8 2 5083facfd25edc276c25d2d3da986f370c82bf31a01821abf462c35800548f77
 ds-rdata:     9956 8 2 dded8bee7362bbbf9f4186b413c901ff293f5897412fd92e5ef507765d0a6443
 
 whois:        whois.nic.london
