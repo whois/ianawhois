@@ -7,16 +7,16 @@ domain:       BANK
 organisation: fTLD Registry Services, LLC
 address:      1300 Eye Street, NW
 address:      Suite 1100 West
-address:      Washington, DC 20005
-address:      United States
+address:      Washington DC 20005
+address:      United States of America (the)
 
 contact:      administrative
 name:         Managing Director
 organisation: fTLD Registry Services, LLC
 address:      1300 Eye Street, NW
 address:      Suite 1100 West
-address:      Washington, DC 20005
-address:      United States
+address:      Washington DC 20005
+address:      United States of America (the)
 phone:        +1 202 236 1154
 e-mail:       ftld@ftld.com
 
@@ -24,8 +24,8 @@ contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
 address:      2155 E GoDaddy Way
-address:      Tempe, AZ 85284
-address:      United States
+address:      Tempe AZ 85284
+address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
@@ -36,7 +36,7 @@ nserver:      F.NIC.BANK 156.154.105.27 2610:a1:1012:0:0:0:0:27
 nserver:      W.NIC.BANK 2001:dcd:1:0:0:0:0:10 37.209.192.10
 nserver:      X.NIC.BANK 2001:dcd:2:0:0:0:0:10 37.209.194.10
 nserver:      Y.NIC.BANK 2001:dcd:3:0:0:0:0:10 37.209.196.10
-ds-rdata:     15994 8 2 659D10863A42E4957AD8F9AD97A56F8DE227AA74FC9E3AA4C0E8AFAC0458071A
+ds-rdata:     15994 8 2 659d10863a42e4957ad8f9ad97a56f8de227aa74fc9e3aa4c0e8afac0458071a
 
 whois:        whois.nic.bank
 
@@ -44,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.ftld.com/
 
 created:      2014-11-26
-changed:      2022-08-18
+changed:      2023-01-18
 source:       IANA
 
