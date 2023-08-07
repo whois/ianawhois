@@ -6,7 +6,7 @@ domain:       AW
 
 organisation: SETAR
 address:      P.O. Box 13
-address:      Seroe Blanco
+address:      Seroe Blanco 29A
 address:      Oranjestad
 address:      Aruba
 
@@ -25,7 +25,7 @@ contact:      technical
 name:         SetarNet Operations
 organisation: SETAR
 address:      P.O. Box 13
-address:      Seroe Blanco
+address:      Seroe Blanco 29A
 address:      Oranjestad
 address:      Aruba
 phone:        +297 583 4000
@@ -35,16 +35,16 @@ e-mail:       hostmaster@setarnet.aw
 nserver:      AW01.SETARNET.AW 201.229.0.26
 nserver:      AW02.SETARNET.AW 201.229.0.27
 nserver:      NS1.DNS.AW 194.0.28.2 2001:678:2c:0:194:0:28:2
-nserver:      NS2.DNS.AW 194.146.106.42 2001:67c:1010:10:0:0:0:53
 nserver:      NS3.DNS.AW 194.0.25.25 2001:678:20:0:0:0:0:25
 nserver:      NS4.DNS.AW 185.159.199.201 2620:10a:80ac:0:0:0:0:201
-ds-rdata:     38854 8 2 23fa5636c1d793336a1eb15bbd26aa902cf12fb88200c64512f065ae355a4d9b
+ds-rdata:     47978 13 2 8704b1c84a372ec2938559c5fd677384cd8c2de72c1da0f56c0162101013bc17
 
 whois:        whois.nic.aw
 
 status:       ACTIVE
+remarks:      Registration information: 
 
 created:      1996-02-20
-changed:      2022-06-08
+changed:      2023-07-18
 source:       IANA
 
