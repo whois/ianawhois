@@ -5,14 +5,16 @@
 domain:       NORTHWESTERNMUTUAL
 
 organisation: Northwestern Mutual Registry, LLC
-address:      720 East Wisconsin Avenue Milwaukee, Wisconsin - 53202
-address:      United States
+address:      720 East Wisconsin Avenue
+address:      Milwaukee WI 53202
+address:      United States of America (the)
 
 contact:      administrative
 name:         Senior Project Manager
 organisation: Northwestern Mutual Registry, LLC
-address:      720 East Wisconsin Avenue Milwaukee, Wisconsin - 53202
-address:      United States
+address:      720 East Wisconsin Avenue
+address:      Milwaukee WI 53202
+address:      United States of America (the)
 phone:        +1-414-271-1444
 fax-no:       +1-414-665-2107
 e-mail:       ngtld-nwm@cscglobal.com
@@ -21,8 +23,8 @@ contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
 address:      2155 E GoDaddy Way
-address:      Tempe, AZ 85284
-address:      United States
+address:      Tempe AZ 85284
+address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
@@ -33,7 +35,9 @@ nserver:      C.NIC.NORTHWESTERNMUTUAL 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.NORTHWESTERNMUTUAL 156.154.144.124 2610:a1:1071:0:0:0:0:7c
 nserver:      NS2.DNS.NIC.NORTHWESTERNMUTUAL 156.154.145.124 2610:a1:1072:0:0:0:0:7c
 nserver:      NS3.DNS.NIC.NORTHWESTERNMUTUAL 156.154.159.124 2610:a1:1073:0:0:0:0:7c
-ds-rdata:     47770 8 2 4AEB92FF7440BDA088571DDD7FC9868579584F4A1455EE860394E81DB1DD64F9
+ds-rdata:     47770 8 2 4aeb92ff7440bda088571ddd7fc9868579584f4a1455ee860394e81db1dd64f9
+
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information:
