@@ -5,24 +5,26 @@
 domain:       HISAMITSU
 
 organisation: Hisamitsu Pharmaceutical Co.,Inc.
-address:      408 Tashirodaikan-machi Tosu-shi, Saga - 841-0017 JP
+address:      408 Tashirodaikan-machi
+address:      Tosu-shi Saga 841-0017
 address:      Japan
 
 contact:      administrative
 name:         Chief Operating Officer
-organisation: Brights Consulting Inc.
+organisation: GMO BRAND SECURITY Inc.
 address:      Cerulean Tower 26-1 Sakuragaoka-cho
-address:      Shibuya-ku Tokyo 150-8512 Japan (JP)
+address:      Shibuya-ku Tokyo 150-8512
 address:      Japan
-phone:        +81355210107
-fax-no:       +81355210117
-e-mail:       registry@brights.jp
+phone:        +81.357841069
+fax-no:       +81.334625040
+e-mail:       registry@brightsconsulting.com
 
 contact:      technical
 name:         Director
 organisation: GMO Registry, Inc.
-address:      Cerulean Tower 26-1 Sakuragaoka-cho
-address:      Shibuya-ku Tokyo 150-8512 Japan (JP)
+address:      Cerulean Tower
+address:      26-1 Sakuragaoka-cho
+address:      Shibuya-ku Tokyo 150-8512
 address:      Japan
 phone:        +81.354561601
 fax-no:       +81.337805239
@@ -40,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.gmoregistry.com/en/
 
 created:      2016-05-13
-changed:      2019-07-11
+changed:      2023-06-12
 source:       IANA
 
