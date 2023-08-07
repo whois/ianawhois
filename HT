@@ -27,10 +27,10 @@ address:      Haiti
 phone:        +1 (305)8316789., +(509) 37027275
 e-mail:       maxlarson.henry@transversal.ht
 
-nserver:      NS1.NIC.HT 200.115.182.11
-nserver:      NS1.POLYMTL.CA 132.207.6.11
-nserver:      NS3.NIC.FR 192.134.0.49 2001:660:3006:1:0:0:1:1
+nserver:      A.LACTLD.ORG 200.0.68.10 2801:14:a000:0:0:0:0:10
+nserver:      NS-HT.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
 nserver:      PCH.NIC.HT 2001:500:14:6038:ad:0:0:1 204.61.216.38
+ds-rdata:     2176 8 2 7ca97faad5fd19728c3cedfb2f647eadc144ee21d01dafb7f821954b38bdda78
 
 whois:        whois.nic.ht
 
@@ -38,6 +38,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.ht
 
 created:      1997-03-06
-changed:      2021-02-16
+changed:      2023-03-15
 source:       IANA
 
