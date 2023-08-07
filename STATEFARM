@@ -5,15 +5,16 @@
 domain:       STATEFARM
 
 organisation: State Farm Mutual Automobile Insurance Company
-address:      One State Farm Plaza Bloomington, Illinois - 61710-0001 US
-address:      United States
+address:      One State Farm Plaza
+address:      Bloomington IL 61710-0001
+address:      United States of America (the)
 
 contact:      administrative
 name:         Christopher Niemi
 organisation: MarkMonitor, Inc.
 address:      391 N. Ancestor Place, Suite 150
-address:      Boise, ID 83704
-address:      United States
+address:      Boise ID 83704
+address:      United States of America (the)
 phone:        +1 208 685 1857
 fax-no:       +1 208 389 5771
 e-mail:       dotstatefarm-notices@markmonitor.com
@@ -22,8 +23,8 @@ contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
 address:      2155 E GoDaddy Way
-address:      Tempe, AZ 85284
-address:      United States
+address:      Tempe AZ 85284
+address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
@@ -34,7 +35,9 @@ nserver:      C.NIC.STATEFARM 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.STATEFARM 156.154.144.154 2610:a1:1071:0:0:0:0:9a
 nserver:      NS2.DNS.NIC.STATEFARM 156.154.145.154 2610:a1:1072:0:0:0:0:9a
 nserver:      NS3.DNS.NIC.STATEFARM 156.154.159.154 2610:a1:1073:0:0:0:0:9a
-ds-rdata:     64867 8 2 1ED8A8C0E5102A11CC8659D9D0543EA7EF5F44B63D553A4AA78D46D398FF5356
+ds-rdata:     64867 8 2 1ed8a8c0e5102a11cc8659d9d0543ea7ef5f44b63d553a4aa78d46d398ff5356
+
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: http://www.statefarm.com
