@@ -6,14 +6,14 @@ domain:       FIDO
 
 organisation: Rogers Communications Canada Inc.
 address:      333 Bloor Street East
-address:      Toronto ON, M4W1G9
+address:      Toronto ON M4W1G9
 address:      Canada
 
 contact:      administrative
 name:         VP, Customer Intelligence & Digital Optimization
 organisation: Rogers Communications Canada Inc.
 address:      333 Bloor Street East
-address:      Toronto ON, M4W1G9
+address:      Toronto ON M4W1G9
 address:      Canada
 phone:        +1.416.935.7777
 fax-no:       +1.416.935.7627
@@ -22,10 +22,10 @@ e-mail:       ngtld-rogers@cscinfo.com
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
 organisation: Afilias
-address:      Building 3, Suite 105
 address:      300 Welsh Road
-address:      Horsham, PA 19044
-address:      United States
+address:      Building 3, Suite 105
+address:      Horsham PA 19044
+address:      United States of America (the)
 phone:        +1 215.706.5700
 fax-no:       +1 215.706.5701
 e-mail:       tld-tech-poc@afilias.info
