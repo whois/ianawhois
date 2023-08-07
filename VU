@@ -23,8 +23,8 @@ contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
 address:      2155 E GoDaddy Way
-address:      Tempe, AZ 85284
-address:      United States
+address:      Tempe AZ 85284
+address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
@@ -33,7 +33,7 @@ nserver:      NS1.TLDNS.VU 2001:dcd:1:0:0:0:0:6 37.209.192.6
 nserver:      NS2.TLDNS.VU 2001:dcd:2:0:0:0:0:6 37.209.194.6
 nserver:      NS3.TLDNS.VU 2001:dcd:3:0:0:0:0:6 37.209.196.6
 nserver:      NS4.TLDNS.VU 2001:dcd:4:0:0:0:0:6 37.209.198.6
-ds-rdata:     50412 10 2 49257111E03AD5F8C450F8330F101B87B84F82251FA54CE67C832B7EEFA45232
+ds-rdata:     50412 10 2 49257111e03ad5f8c450f8330f101b87b84f82251fa54ce67c832b7eefa45232
 
 whois:        whois.dnrs.vu
 
