@@ -5,15 +5,15 @@
 domain:       AL
 
 organisation: Electronic and Postal Communications Authority - AKEP
-address:      Rruga “Myslym Shyri” ,Nr 42
-address:      Tirana  1001
+address:      Rruga Myslym Shyri, Nr 42
+address:      Tirana 1001
 address:      Albania
 
 contact:      administrative
 name:         Technical Director
 organisation: Electronic and Postal Communications Authority - AKEP
-address:      Rruga “Myslym Shyri” ,Nr 42
-address:      Tirana  1001
+address:      Rruga Myslym Shyri, Nr 42
+address:      Tirana 1001
 address:      Albania
 phone:        +355 4 2250926
 fax-no:       + 355 4 2259106
@@ -22,8 +22,8 @@ e-mail:       domain@akep.al
 contact:      technical
 name:         Adriatik Allamani
 organisation: Electronic and Postal Communications Authority - AKEP
-address:      Rruga “Myslym Shyri” ,Nr 42
-address:      Tirana  1001
+address:      Rruga Myslym Shyri, Nr 42
+address:      Tirana 1001
 address:      Albania
 phone:        +355 4 2250926
 fax-no:       +355 4 2259106
@@ -34,11 +34,13 @@ nserver:      NS1.NIC.AL 194.1.149.230
 nserver:      NSX.NIC.AL 194.0.11.108 2001:678:e:108:0:0:0:53
 nserver:      RIP.PSG.COM 147.28.0.39 2001:418:1:0:0:0:0:39
 
+whois:        
+
 status:       ACTIVE
 remarks:      Registration information:
 remarks:      http://www.akep.al/sq/regjistrim-domain
 
 created:      1992-04-21
-changed:      2017-03-28
+changed:      2017-08-05
 source:       IANA
 
