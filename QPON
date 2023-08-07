@@ -4,23 +4,19 @@
 
 domain:       QPON
 
-organisation: dotCOOL, Inc.
-address:      214 Plantation Blvd
-address:      Islamorada
-address:      Florida
-address:      33036
-address:      United States
+organisation: DOTQPON LLC.
+address:      1112 Montana Ave. Suite C-920
+address:      Santa Monica CA 90403
+address:      United States of America (the)
 
 contact:      administrative
-name:         Steven Castro
-organisation: Dot Cool, Inc.
-address:      269 S. Beverly Dr., #585
-address:      Beverly HIlls, CA
-address:      90212
-address:      United States
-phone:        +1 425 404 0814
-fax-no:       +1 818 739 0683
-e-mail:       steve@dotqpon.com
+name:         Steven Castro / Manager
+organisation: DOT QPON LLC
+address:      1112 Montana Ave. Suite C-920
+address:      Santa Monica CA 90403
+address:      United States of America (the)
+phone:        +1 310 600 2064
+e-mail:       scastro@get.qpon
 
 contact:      technical
 name:         CTO
@@ -28,7 +24,7 @@ organisation: CentralNic
 address:      Saddlers House, 4th Floor
 address:      44 Gutter Lane
 address:      London EC2V 6BR
-address:      United Kingdom
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44 20 33 88 0600
 fax-no:       +44 20 33 88 0601
 e-mail:       tld.ops@centralnic.com
@@ -37,8 +33,8 @@ nserver:      A.NIC.QPON 194.169.218.128 2001:67c:13cc:0:0:0:1:128
 nserver:      B.NIC.QPON 185.24.64.128 2a04:2b00:13cc:0:0:0:1:128
 nserver:      C.NIC.QPON 212.18.248.128 2a04:2b00:13ee:0:0:0:0:128
 nserver:      D.NIC.QPON 212.18.249.128 2a04:2b00:13ff:0:0:0:0:128
-ds-rdata:     29890 8 2 7467925EA4AFC0A3A7E0E36A640721385FFC85B26B7002B492EA8CF45F4C9A90
-ds-rdata:     29890 8 1 44C89222BC6F471572A2D95AF068D70D82D99D65
+ds-rdata:     29890 8 2 7467925ea4afc0a3a7e0e36a640721385ffc85b26b7002b492ea8cf45f4c9a90
+ds-rdata:     29890 8 1 44c89222bc6f471572a2d95af068d70d82d99d65
 ds-rdata:     2327 8 2 3862ebe8922407508c2915d29ada122bfdc2385e90e14f0b98145665d794e347
 ds-rdata:     2327 8 1 c3a7db5bb487a23ba948a762681a1899980dedc0
 
@@ -48,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.dotqpon.com/
 
 created:      2014-01-09
-changed:      2021-12-09
+changed:      2023-02-24
 source:       IANA
 
