@@ -6,14 +6,14 @@ domain:       SEAT
 
 organisation: SEAT, S.A. (Sociedad Unipersonal)
 address:      AutovIa A-2, Km 585
-address:      08760 Martorell
+address:      Martorell 08760
 address:      Spain
 
 contact:      administrative
 name:         .seat TLD Admin Contact
 organisation: CORE Association
 address:      Cours de Rive 2
-address:      CH-1204 Geneva
+address:      Geneva CH-1204
 address:      Switzerland
 phone:        +41 22 312 5610
 fax-no:       +41 22 312 5612
@@ -23,7 +23,7 @@ contact:      technical
 name:         .seat TLD Technical Contact
 organisation: CORE Association
 address:      Cours de Rive 2
-address:      CH-1204 Geneva
+address:      Geneva CH-1204
 address:      Switzerland
 phone:        +41 22 312 5610
 fax-no:       +41 22 312 5612
@@ -33,7 +33,7 @@ nserver:      ANYCAST10.IRONDNS.NET 195.253.64.12 2a01:5b0:4:0:0:0:0:c
 nserver:      ANYCAST23.IRONDNS.NET 195.253.65.11 2a01:5b0:5:0:0:0:0:b
 nserver:      ANYCAST24.IRONDNS.NET 195.253.65.12 2a01:5b0:5:0:0:0:0:c
 nserver:      ANYCAST9.IRONDNS.NET 195.253.64.11 2a01:5b0:4:0:0:0:0:b
-ds-rdata:     40138 10 2 8531B10A28C981D28F0F412DBE6A7985EFFE40BF0EFC8F2F80D45F85770C1A8A
+ds-rdata:     40138 10 2 8531b10a28c981d28f0f412dbe6a7985effe40bf0efc8f2f80d45f85770c1a8a
 
 whois:        whois.nic.seat
 
@@ -42,6 +42,6 @@ remarks:      Registration information:
 remarks:      http://www.seat.com/content/com/com/en/contact/abuse.html
 
 created:      2015-03-06
-changed:      2019-08-30
+changed:      2022-01-07
 source:       IANA
 
