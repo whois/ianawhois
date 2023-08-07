@@ -21,13 +21,13 @@ fax-no:       +595 21 310 587
 e-mail:       admin-contact@nic.py
 
 contact:      technical
-name:         DNS Administrator TLD-PY
+name:         TLD-PY DNS Administrator
 organisation: Centro Nacional de Computación (CNC-UNA)
 address:      Campus Universitario UNA
 address:      San Lorenzo 1439
 address:      Paraguay
 phone:        +595 21 585550
-fax-no:       +595 21 585550 ; +595 21 585554
+fax-no:       +595 21 585550
 e-mail:       dnsadmin@cnc.una.py
 
 nserver:      B.DNS.PY 200.160.0.5 2001:12ff:0:a20:0:0:0:5
@@ -38,10 +38,12 @@ nserver:      U.DNS.PY 198.6.1.65
 ds-rdata:     61306 13 2 5fba6a98277300d23512184ae3fc238c367f731d519f6ec9a63af9d4fbc9a435
 ds-rdata:     61306 13 4 609aa5b81513378f093ff57bb91296e85366d815e24680d1894e490cdafae188d7214db1b0e453bce2d5340dd921b1ba
 
+whois:        
+
 status:       ACTIVE
 remarks:      Registration information: http://www.nic.py
 
 created:      1991-09-09
-changed:      2022-07-15
+changed:      2023-01-18
 source:       IANA
 
