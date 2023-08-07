@@ -5,16 +5,15 @@
 domain:       FRESENIUS
 
 organisation: Fresenius Immobilien-Verwaltungs-GmbH
-address:      Else-Kröner-Straße 1
-address:      61352 Bad Homburg
-address:      Hessen
+address:      Else-Kröner-Strasse 1
+address:      Bad Homburg Hessen 61352
 address:      Germany
 
 contact:      administrative
 name:         Domain Manager
 organisation: Thomsen Trampedach GmbH
 address:      Grundstrasse 22a
-address:      6343 Rotkreuz
+address:      Rotkreuz CH-6343
 address:      Switzerland
 phone:        +41.798319275
 e-mail:       fresenius@thomsentrampedach.com
@@ -22,10 +21,11 @@ e-mail:       fresenius@thomsentrampedach.com
 contact:      technical
 name:         CTO
 organisation: CentralNic
-address:      Saddlers House 4th Floor 44 Gutter Lane
+address:      Saddlers House, 4th Floor
+address:      44 Gutter Lane
 address:      London EC2V 6BR
-address:      United Kingdom
-phone:        +44 20 33 88 0600 
+address:      United Kingdom of Great Britain and Northern Ireland (the)
+phone:        +44 20 33 88 0600
 fax-no:       +44 20 33 88 0601
 e-mail:       tld.ops@centralnic.com
 
