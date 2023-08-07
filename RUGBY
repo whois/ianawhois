@@ -7,7 +7,7 @@ domain:       RUGBY
 organisation: World Rugby Strategic Developments Limited
 address:      World Rugby House
 address:      8-10 Pembroke Street
-address:      Lower Dublin - 2 IE
+address:      Dublin Dublin 2
 address:      Ireland
 
 contact:      administrative
@@ -15,7 +15,7 @@ name:         Ryan Nelsen
 organisation: World Rugby Strategic Developments Limited
 address:      World Rugby House
 address:      8-10 Pembroke Street
-address:      Lower Dublin - 2 IE
+address:      Dublin Dublin 2
 address:      Ireland
 phone:        +1.9292946005
 e-mail:       primary@rugbydomains.co
@@ -24,8 +24,8 @@ contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
 address:      2155 E GoDaddy Way
-address:      Tempe, AZ 85284
-address:      United States
+address:      Tempe AZ 85284
+address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
@@ -33,8 +33,10 @@ e-mail:       iana@registry.godaddy
 nserver:      A.NIC.RUGBY 2001:dcd:1:0:0:0:0:10 37.209.192.10
 nserver:      B.NIC.RUGBY 2001:dcd:2:0:0:0:0:10 37.209.194.10
 nserver:      C.NIC.RUGBY 2001:dcd:3:0:0:0:0:10 37.209.196.10
-nserver:      D.NIC.RUGBY 2001:dcd:4:0:0:0:0:10 37.209.198.10
-ds-rdata:     62356 8 2 DF8506247C16FF7EE32EB239208B60960639AF729379A13C135C52D606E8520D
+nserver:      X.NIC.RUGBY 156.154.172.82 2610:a1:1074:0:0:0:1:82
+nserver:      Y.NIC.RUGBY 156.154.173.82 2610:a1:1075:0:0:0:1:82
+nserver:      Z.NIC.RUGBY 156.154.174.82 2610:a1:1076:0:0:0:1:82
+ds-rdata:     62356 8 2 df8506247c16ff7ee32eb239208b60960639af729379a13c135c52d606e8520d
 
 whois:        whois.nic.rugby
 
@@ -42,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.rugby/
 
 created:      2017-03-23
-changed:      2022-07-21
+changed:      2022-12-02
 source:       IANA
 
