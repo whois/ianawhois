@@ -5,16 +5,16 @@
 domain:       FAIRWINDS
 
 organisation: FairWinds Partners, LLC
-address:      1000 Potomac St. NW, Suite 350
-address:      Washington, DC 20007
-address:      United States
+address:      1000 Potomac Street NW #350
+address:      Washington DC 20007
+address:      United States of America (the)
 
 contact:      administrative
 name:         Managing Partner
 organisation: FairWinds Partners
-address:      1000 Potomac St. NW, Suite 350
-address:      Washington, DC 20007
-address:      United States
+address:      1000 Potomac Street NW #350
+address:      Washington DC 20007
+address:      United States of America (the)
 phone:        +1 2022239252
 fax-no:       +1 2022239256
 e-mail:       fairwindsregistry@fairwindspartners.com
@@ -22,8 +22,9 @@ e-mail:       fairwindsregistry@fairwindspartners.com
 contact:      technical
 name:         Registry Customer Service
 organisation: Verisign, Inc.
-address:      12061 Bluemont Way Reston Virginia 20190
-address:      United States
+address:      12061 Bluemont Way
+address:      Reston VA 20190
+address:      United States of America (the)
 phone:        +1 7039256999
 fax-no:       +1 7039483978
 e-mail:       info@verisign-grs.com
@@ -32,7 +33,7 @@ nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
 nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
 nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
 nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
-ds-rdata:     8913 8 2 4B1C638C7FC58D11BF54B976CE4FBA1CDB935F993F6B50194093B2479BFF8504
+ds-rdata:     8913 8 2 4b1c638c7fc58d11bf54b976ce4fba1cdb935f993f6b50194093b2479bff8504
 
 whois:        whois.nic.fairwinds
 
@@ -41,6 +42,6 @@ remarks:      Registration information:
 remarks:      http://www.fairwindspartners.com
 
 created:      2015-10-29
-changed:      2019-08-16
+changed:      2020-10-01
 source:       IANA
 
