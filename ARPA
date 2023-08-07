@@ -8,8 +8,8 @@ organisation: Internet Architecture Board (IAB)
 address:      c/o IETF Administration LLC
 address:      1000 N. West St.
 address:      Suite 1200
-address:      Wilmington, DE 19801
-address:      United States
+address:      Wilmington DE 19801
+address:      United States of America (the)
 
 contact:      administrative
 name:         Internet Architecture Board (IAB)
@@ -17,8 +17,8 @@ organisation: Internet Architecture Board (IAB)
 address:      c/o IETF Administration LLC
 address:      1000 N. West St.
 address:      Suite 1200
-address:      Wilmington, DE 19801
-address:      United States
+address:      Wilmington DE 19801
+address:      United States of America (the)
 phone:        +1 510 492 4080
 fax-no:       +1 510 492 4001
 e-mail:       iab@iab.org
@@ -28,8 +28,8 @@ name:         Internet Assigned Numbers Authority (IANA)
 organisation: Internet Corporation for Assigned Names and Numbers (ICANN)
 address:      12025 Waterfront Drive
 address:      Suite 300
-address:      Los Angeles, California 90094
-address:      United States
+address:      Los Angeles CA 90094
+address:      United States of America (the)
 phone:        +1 310 301 5800
 fax-no:       +1 310 823-8649
 e-mail:       tld-contact@iana.org
@@ -46,7 +46,7 @@ nserver:      I.NS.ARPA 192.36.148.17 2001:7fe:0:0:0:0:0:53
 nserver:      K.NS.ARPA 193.0.14.129 2001:7fd:0:0:0:0:0:1
 nserver:      L.NS.ARPA 199.7.83.42 2001:500:9f:0:0:0:0:42
 nserver:      M.NS.ARPA 2001:dc3:0:0:0:0:0:35 202.12.27.33
-ds-rdata:     42581 8 2 F28391C1ED4DC0F151EDD251A3103DCE0B9A5A251ACF6E24073771D71F3C40F9
+ds-rdata:     42581 8 2 f28391c1ed4dc0f151edd251a3103dce0b9a5a251acf6e24073771d71f3c40f9
 
 whois:        whois.iana.org
 
