@@ -7,7 +7,7 @@ domain:       CC
 organisation: eNIC Cocos (Keeling) Islands Pty.
 organisation: Ltd. d/b/a Island Internet Services
 address:      Level 10, 5 Queens Road
-address:      Melbourne Victoria 3004
+address:      Melbourne VIC 3004
 address:      Australia
 
 contact:      administrative
@@ -16,7 +16,7 @@ organisation: eNIC Cocos (Keeling) Islands Pty.
 organisation: Ltd. d/b/a Island Internet Services
 address:      c/o Verisign Internet Services
 address:      Level 10, 5 Queens Road
-address:      Melbourne Victoria 3004
+address:      Melbourne VIC 3004
 address:      Australia
 phone:        +613 9926 6700
 fax-no:       +613 9926 6788
@@ -26,8 +26,8 @@ contact:      technical
 name:         Registry Customer Service
 organisation: VeriSign Global Registry Services
 address:      12061 Bluemont Way
-address:      Reston Virginia 20190
-address:      United States
+address:      Reston VA 20190
+address:      United States of America (the)
 phone:        +1 703 925-6999
 fax-no:       +1 703 948 3978
 e-mail:       info@verisign-grs.com
@@ -36,7 +36,7 @@ nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
 nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
 nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
 nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
-ds-rdata:     519 8 2 E1EC6495ABD34562E6F433DEE201E6C6A52CB10AF69C04D675DA692D2D566897
+ds-rdata:     519 8 2 e1ec6495abd34562e6f433dee201e6c6a52cb10af69c04d675da692d2d566897
 
 whois:        ccwhois.verisign-grs.com
 
