@@ -6,14 +6,14 @@ domain:       ARTE
 
 organisation: Association Relative à la Télévision Européenne G.E.I.E.
 address:      4, Quai du Chanoine Winterer
-address:      67000 Strasbourg
+address:      Strasbourg 67000
 address:      France
 
 contact:      administrative
 name:         Legal Director
 organisation: Association Relative à la Télévision Européenne G.E.I.E.
 address:      4, Quai du Chanoine Winterer
-address:      67000 Strasbourg
+address:      Strasbourg 67000
 address:      France
 phone:        +33 3 88 14 22 22
 e-mail:       ngtld-arte@cscinfo.com
@@ -22,8 +22,8 @@ contact:      technical
 name:         Registry Customer Service
 organisation: Verisign, inc.
 address:      12061 Bluemont Way
-address:      Reston Virginia 20190
-address:      United States
+address:      Reston VA 20190
+address:      United States of America (the)
 phone:        +1-703-925-6999
 fax-no:       +1-703-948-3978
 e-mail:       info@verisign-grs.com
@@ -32,13 +32,14 @@ nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
 nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
 nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
 nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
-ds-rdata:     46728 8 2 D197248E95610371F7624D79D397037EA5E200E6F338BCCEDF5E93BB68448152
+ds-rdata:     46728 8 2 d197248e95610371f7624d79d397037ea5e200e6f338bccedf5e93bb68448152
 
 whois:        whois.nic.arte
 
 status:       ACTIVE
+remarks:      Registration information: 
 
 created:      2015-09-24
-changed:      2019-08-16
+changed:      2020-10-01
 source:       IANA
 
