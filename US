@@ -6,15 +6,15 @@ domain:       US
 
 organisation: Registry Services, LLC
 address:      2155 E Godaddy Way
-address:      Tempe, AZ 85284
-address:      United States
+address:      Tempe AZ 85284
+address:      United States of America (the)
 
 contact:      administrative
 name:         IANA Contact
 organisation: Registry Services, LLC
 address:      2155 E. Godaddy Way
-address:      Tempe, AZ 85284
-address:      United States
+address:      Tempe AZ 85284
+address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 393 4275
 e-mail:       iana@about.us
@@ -23,19 +23,19 @@ contact:      technical
 name:         IANA Contact
 organisation: Registry Services, LLC
 address:      2155 E. Godaddy Way
-address:      Tempe, AZ 85284
-address:      United States
+address:      Tempe AZ 85284
+address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 393 4275
 e-mail:       iana@about.us
 
-nserver:      B.CCTLD.US 156.154.125.70 2001:0502:ad09:0:0:0:0:29
+nserver:      B.CCTLD.US 156.154.125.70 2001:502:ad09:0:0:0:0:29
 nserver:      F.CCTLD.US 2001:500:3682:0:0:0:0:11 209.173.58.70
 nserver:      K.CCTLD.US 156.154.128.70 2001:503:e239:0:0:0:3:1
 nserver:      W.CCTLD.US 2001:dcd:1:0:0:0:0:15 37.209.192.15
 nserver:      X.CCTLD.US 2001:dcd:2:0:0:0:0:15 37.209.194.15
 nserver:      Y.CCTLD.US 2001:dcd:3:0:0:0:0:15 37.209.196.15
-ds-rdata:     46144 8 2 0C67E6017124BF19D50BE565CC486FF3CFE2A278FE2E5983FF97B2A453386419
+ds-rdata:     46144 8 2 0c67e6017124bf19d50be565cc486ff3cfe2a278fe2e5983ff97b2a453386419
 
 whois:        whois.nic.us
 
