@@ -6,15 +6,15 @@ domain:       PORN
 
 organisation: ICM Registry PN LLC
 address:      2155 E. GoDaddy Way
-address:      Tempe, AZ 85284
-address:      United States
+address:      Tempe AZ 85284
+address:      United States of America (the)
 
 contact:      administrative
 name:         IANA Contact
 organisation: GoDaddy Registry
 address:      2155 E. GoDaddy Way
-address:      Tempe, AZ 85284
-address:      United States
+address:      Tempe AZ 85284
+address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
 e-mail:       iana@registry.godaddy
@@ -23,8 +23,8 @@ contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
 address:      2155 E GoDaddy Way
-address:      Tempe, AZ 85284
-address:      United States
+address:      Tempe AZ 85284
+address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
 e-mail:       iana@registry.godaddy
@@ -32,8 +32,10 @@ e-mail:       iana@registry.godaddy
 nserver:      A.NIC.PORN 2001:dcd:1:0:0:0:0:10 37.209.192.10
 nserver:      B.NIC.PORN 2001:dcd:2:0:0:0:0:10 37.209.194.10
 nserver:      C.NIC.PORN 2001:dcd:3:0:0:0:0:10 37.209.196.10
-nserver:      D.NIC.PORN 2001:dcd:4:0:0:0:0:10 37.209.198.10
-ds-rdata:     3196 8 2 6B2D8FEEA5A23845E6934F5639D4055639D7B8D1FAC4B5C19C7E5CD45745344D
+nserver:      X.NIC.PORN 156.154.172.82 2610:a1:1074:0:0:0:1:82
+nserver:      Y.NIC.PORN 156.154.173.82 2610:a1:1075:0:0:0:1:82
+nserver:      Z.NIC.PORN 156.154.174.82 2610:a1:1076:0:0:0:1:82
+ds-rdata:     3196 8 2 6b2d8feea5a23845e6934f5639d4055639d7b8d1fac4b5c19c7e5cd45745344d
 
 whois:        whois.nic.porn
 
@@ -41,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.porn
 
 created:      2014-11-26
-changed:      2022-07-18
+changed:      2022-12-01
 source:       IANA
 
