@@ -26,7 +26,7 @@ DATE    = Time.now.strftime('%Y-%m-%d')
 
 sh "git pull origin master"
 
-File.open(TLDFILE, "w+") { |f| f.write(open('https://data.iana.org/TLD/tlds-alpha-by-domain.txt').read) }
+File.open(TLDFILE, "w+") { |f| f.write(URI.open('https://data.iana.org/TLD/tlds-alpha-by-domain.txt').read) }
 if File.read(TLDFILE).empty?
   abort("TLD list is empty")
 end
