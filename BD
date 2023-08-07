@@ -24,25 +24,28 @@ fax-no:       +880 2 9515599
 e-mail:       dirt@ptd.gov.bd
 
 contact:      technical
-name:         Divisional Engineer (Administration and Coordination)
+name:         Deputy General Manager (Domain)
 organisation: Bangladesh Telecommunications
 organisation: Company Limited (BTCL)
 address:      Telejogajog Bhaban, 37/E, Eskaton Garden
-address:      Dhaka  1000
+address:      Dhaka 1000
 address:      Bangladesh
-phone:        +880 2 9331798
-fax-no:       +880 2 9357877
-e-mail:       deanc@btcl.com.bd
+phone:        +880249354200
+e-mail:       dgm.domain@btcl.gov.bd
 
 nserver:      BD-NS.ANYCAST.PCH.NET 2001:500:14:6108:ad:0:0:1 204.61.216.108
 nserver:      DNS.BD 123.49.12.112 2407:5000:88:5:0:0:0:3
 nserver:      JAMUNA.BTCL.NET.BD 203.112.194.231 2407:5000:88:4:0:0:0:231
 nserver:      SURMA.BTCL.NET.BD 203.112.194.232 2407:5000:88:4:0:0:0:232
+ds-rdata:     26044 8 1 2dad1b7f8ca778464f536fddd15efd24cccb62ef
+ds-rdata:     26044 8 2 bd01c4b4345d21fc38aa88129f7bc00fdd7b422799cc6703736e3b381f37dd5b
+
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: http://domainreg.btcl.com.bd/
 
 created:      1999-05-20
-changed:      2017-03-03
+changed:      2023-04-11
 source:       IANA
 
