@@ -6,15 +6,15 @@ domain:       COMSEC
 
 organisation: VeriSign, Inc.
 address:      12061 Bluemont Way
-address:      Reston, Virginia 20190
-address:      United States
+address:      Reston VA 20190
+address:      United States of America (the)
 
 contact:      administrative
 name:         Registry Customer Service
 organisation: Verisign, Inc.
 address:      12061 Bluemont Way
-address:      Reston Virginia 20190
-address:      United States
+address:      Reston VA 20190
+address:      United States of America (the)
 phone:        +1-703-925-6999
 fax-no:       +1-703-948-3978
 e-mail:       info@verisign-grs.com
@@ -23,8 +23,8 @@ contact:      technical
 name:         Registry Customer Service
 organisation: Verisign, Inc.
 address:      12061 Bluemont Way
-address:      Reston Virginia 20190
-address:      United States
+address:      Reston VA 20190
+address:      United States of America (the)
 phone:        +1-703-925-6999
 fax-no:       +1-703-948-3978
 e-mail:       info@verisign-grs.com
@@ -33,13 +33,14 @@ nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
 nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
 nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
 nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
-ds-rdata:     34356 8 2 690FA5ECE1031BE50DDD9AC71D413546CB3D1F3D9914563C0B8C32E53F491B32
+ds-rdata:     34356 8 2 690fa5ece1031be50ddd9ac71d413546cb3d1f3d9914563c0b8c32e53f491b32
 
 whois:        whois.nic.comsec
 
 status:       ACTIVE
+remarks:      Registration information: 
 
 created:      2015-10-08
-changed:      2019-08-14
+changed:      2020-10-01
 source:       IANA
 
