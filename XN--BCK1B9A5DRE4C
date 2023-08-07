@@ -6,14 +6,16 @@ domain:       ファッション
 domain-ace:   XN--BCK1B9A5DRE4C
 
 organisation: Amazon Registry Services, Inc.
-address:      410 Terry Avenue North, Seattle, WA  98109
-address:      United States
+address:      410 Terry Avenue North
+address:      Seattle WA 98109
+address:      United States of America (the)
 
 contact:      administrative
 name:         Carolyn Mitchell
 organisation: Amazon Registry Services, Inc.
-address:      410 Terry Avenue North, Seattle, WA  98109
-address:      United States
+address:      410 Terry Avenue North
+address:      Seattle WA 98109
+address:      United States of America (the)
 phone:        +1 206 646 5990
 fax-no:       +1-206-946-7702
 e-mail:       fashion-rzm@amazon.com
@@ -22,8 +24,8 @@ contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
 address:      2155 E GoDaddy Way
-address:      Tempe, AZ 85284
-address:      United States
+address:      Tempe AZ 85284
+address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
@@ -34,7 +36,9 @@ nserver:      C.NIC.XN--BCK1B9A5DRE4C 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      NS1.DNS.NIC.XN--BCK1B9A5DRE4C 156.154.144.194 2610:a1:1071:0:0:0:0:c2
 nserver:      NS2.DNS.NIC.XN--BCK1B9A5DRE4C 156.154.145.194 2610:a1:1072:0:0:0:0:c2
 nserver:      NS3.DNS.NIC.XN--BCK1B9A5DRE4C 156.154.159.194 2610:a1:1073:0:0:0:0:c2
-ds-rdata:     18031 8 2 F5936212E7D648F9906D69570E647F0A09C2C66BEE3B322CF39E5307175996D3
+ds-rdata:     18031 8 2 f5936212e7d648f9906d69570e647f0a09c2c66bee3b322cf39e5307175996d3
+
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: http://www.amazonregistry.com
