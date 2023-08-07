@@ -7,30 +7,28 @@ domain:       COMCAST
 organisation: Comcast IP Holdings I, LLC
 address:      c/o Comcast Capital Corporation
 address:      1201 North Market Street, Suite 100
-address:      Wilmington, Delaware 19801
-address:      United States
+address:      Wilmington DE 19801
+address:      United States of America (the)
 
 contact:      administrative
 name:         TLD Registry Services Management
 organisation: Nominet
-address:      Minerva House,
-address:      Edmund Halley Road,
-address:      Oxford Science Park,
-address:      Oxford,
-address:      OX4 4DQ
-address:      United Kingdom
+address:      Minerva House
+address:      Edmund Halley Road
+address:      Oxford Science Park
+address:      Oxford OX4 4DQ
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44.1865332211
 e-mail:       registrymanagement@nominet.uk
 
 contact:      technical
 name:         TLD Registry Services Technical
 organisation: Nominet
-address:      Minerva House,
-address:      Edmund Halley Road,
-address:      Oxford Science Park,
-address:      Oxford,
-address:      OX4 4DQ
-address:      United Kingdom
+address:      Minerva House
+address:      Edmund Halley Road
+address:      Oxford Science Park
+address:      Oxford OX4 4DQ
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44.1865332211
 e-mail:       registrytechnical@nominet.uk
 
@@ -42,7 +40,7 @@ nserver:      DNSA.NIC.COMCAST 156.154.100.3 2001:502:ad09:0:0:0:0:3
 nserver:      DNSB.NIC.COMCAST 156.154.101.3 2001:502:2eda:0:0:0:0:3
 nserver:      DNSC.NIC.COMCAST 156.154.102.3 2610:a1:1009:0:0:0:0:3
 nserver:      DNSD.NIC.COMCAST 156.154.103.3 2610:a1:1010:0:0:0:0:3
-ds-rdata:     21809 8 2 10E13E49F33ED1E42CA5D829093548118280D27664EB9DB6B52956189B5DBC67
+ds-rdata:     21809 8 2 10e13e49f33ed1e42ca5d829093548118280d27664eb9db6b52956189b5dbc67
 
 whois:        whois.nic.comcast
 
