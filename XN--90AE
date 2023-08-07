@@ -7,14 +7,14 @@ domain-ace:   XN--90AE
 
 organisation: Imena.BG AD
 address:      91, Alexander Malinov str, Office 303
-address:      1715 Sofia
+address:      Sofia 1715
 address:      Bulgaria
 
 contact:      administrative
 name:         Dragomir Slavov
 organisation: Imena.BG AD
 address:      91, Alexander Malinov str, Office 303
-address:      1715 Sofia
+address:      Sofia 1715
 address:      Bulgaria
 phone:        +359 2 9037212
 fax-no:       +359 2 9037211
@@ -24,7 +24,7 @@ contact:      technical
 name:         Daniel Kalchev
 organisation: Imena.BG AD
 address:      91, Alexander Malinov str, Office 303
-address:      1715 Sofia
+address:      Sofia 1715
 address:      Bulgaria
 phone:        +359 2 9037213
 fax-no:       +359 2 9037211
@@ -44,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.imena.bg
 
 created:      2016-03-05
-changed:      2020-01-25
+changed:      2023-03-07
 source:       IANA
 
