@@ -5,14 +5,16 @@
 domain:       JMP
 
 organisation: Matrix IP LLC
-address:      100 Matrix Drive, Cary, NC 27513
-address:      United States
+address:      100 Matrix Drive
+address:      Cary NC 27513
+address:      United States of America (the)
 
 contact:      administrative
 name:         Karen Day
 organisation: SAS Institute Inc.
-address:      SAS Campus Drive, Cary, NC 27513
-address:      United States
+address:      SAS Campus Drive
+address:      Cary NC 27513
+address:      United States of America (the)
 phone:        +19195316016
 fax-no:       +19196774444
 e-mail:       gtldinfo@sas.com
@@ -21,8 +23,8 @@ contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
 address:      2155 E GoDaddy Way
-address:      Tempe, AZ 85284
-address:      United States
+address:      Tempe AZ 85284
+address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
@@ -33,7 +35,9 @@ nserver:      C.NIC.JMP 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.JMP 156.154.144.88 2610:a1:1071:0:0:0:0:58
 nserver:      NS2.DNS.NIC.JMP 156.154.145.88 2610:a1:1072:0:0:0:0:58
 nserver:      NS3.DNS.NIC.JMP 156.154.159.88 2610:a1:1073:0:0:0:0:58
-ds-rdata:     30112 8 2 47FCD5889323F70E3346B144D204BA05F601D6B6C56C8C52AC7606F7D14AF60C
+ds-rdata:     30112 8 2 47fcd5889323f70e3346b144d204ba05f601d6b6c56c8c52ac7606f7d14af60c
+
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: http://www.jmp.com
