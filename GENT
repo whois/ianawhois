@@ -6,14 +6,14 @@ domain:       GENT
 
 organisation: Combell nv
 address:      Skaldenstraat 121
-address:      9042 GENT
+address:      Gent 9042
 address:      Belgium
 
 contact:      administrative
 name:         Jimmy Cappaert
 organisation: Combell nv
 address:      Skaldenstraat 121
-address:      9042 GENT
+address:      Gent 9042
 address:      Belgium
 phone:        +3292187979
 fax-no:       +3292187978
@@ -22,9 +22,10 @@ e-mail:       jimmy.cappaert@combell.group
 contact:      technical
 name:         CTO
 organisation: CentralNic
-address:      Saddlers House 4th Floor 44 Gutter Lane
+address:      Saddlers House, 4th Floor
+address:      44 Gutter Lane
 address:      London EC2V 6BR
-address:      United Kingdom
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44 20 33 88 0600
 fax-no:       +44 20 33 88 0601
 e-mail:       tld.ops@centralnic.com
@@ -33,7 +34,7 @@ nserver:      A.NIC.GENT 194.169.218.89 2001:67c:13cc:0:0:0:1:89
 nserver:      B.NIC.GENT 185.24.64.89 2a04:2b00:13cc:0:0:0:1:89
 nserver:      C.NIC.GENT 212.18.248.89 2a04:2b00:13ee:0:0:0:0:89
 nserver:      D.NIC.GENT 212.18.249.89 2a04:2b00:13ff:0:0:0:0:89
-ds-rdata:     2640 13 2 E97C1F6F53E1284399D6DAAF670D8FCBDDB5618710ADE52C1219757C14C77D88
+ds-rdata:     2640 13 2 e97c1f6f53e1284399d6daaf670d8fcbddb5618710ade52c1219757c14c77d88
 
 whois:        whois.nic.gent
 
