@@ -6,13 +6,16 @@ domain:       商标
 domain-ace:   XN--CZR694B
 
 organisation: Internet DotTrademark Organisation Limited
-address:      Level 20, One International Finance Ctr 1 Harbour View Street, Central, Hong Kong
+address:      Level 20, One International Finance Ctr, 1 Harbour View Street
+address:      Central
 address:      China
 
 contact:      administrative
 name:         President
 organisation: Internet DotTrademark Organisation Limited
-address:      Rm 1502, Building 7, No. 9 Shouti South Road, Haidian District, Beijing
+address:      Rm 1502, Building 7, No. 9 Shouti South Road
+address:      Haidian District
+address:      Beijing
 address:      China
 phone:        +86.1056279700
 e-mail:       icann@trademarkdomain.com
@@ -20,7 +23,9 @@ e-mail:       icann@trademarkdomain.com
 contact:      technical
 name:         International BD Manager
 organisation: Internet DotTrademark Organisation Limited
-address:      Rm 1502, Building 7, No. 9 Shouti South Road, Haidian District, Beijing
+address:      Rm 1502, Building 7, No. 9 Shouti South Road
+address:      Haidian District
+address:      Beijing
 address:      China
 phone:        +86.1056279700
 e-mail:       icann@trademarkdomain.com
@@ -35,9 +40,12 @@ nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
 ds-rdata:     56914 8 2 5465baa574aa100721edded85284559d873f32fed96c02d0144b0281569ff37d
 
+whois:        
+
 status:       ACTIVE
+remarks:      Registration information: 
 
 created:      2014-05-08
-changed:      2021-03-09
+changed:      2022-12-08
 source:       IANA
 
