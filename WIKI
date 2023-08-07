@@ -4,27 +4,27 @@
 
 domain:       WIKI
 
-organisation: Top Level Design, LLC
-address:      742 Ocean Club Place
-address:      Fernandina Beach, FL 32034
-address:      United States
+organisation: Registry Services, LLC
+address:      2155 E GoDaddy Way
+address:      Tempe AZ 85284
+address:      United States of America (the)
 
 contact:      administrative
-name:         Raymond King
-organisation: Top Level Design, LLC
-address:      742 Ocean Club Place
-address:      Fernandina Beach, FL 32034
-address:      United States
-phone:        1.503.888.8808
-fax-no:       1.678.884.1468
-e-mail:       ray@tldesign.co
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      2155 E GoDaddy Way
+address:      Tempe AZ 85284
+address:      United States of America (the)
+phone:        +1 480-505-8800
+fax-no:       +1 480-624-2546
+e-mail:       iana@registry.godaddy
 
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
 address:      2155 E GoDaddy Way
-address:      Tempe, AZ 85284
-address:      United States
+address:      Tempe AZ 85284
+address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
 e-mail:       iana@registry.godaddy
@@ -32,8 +32,10 @@ e-mail:       iana@registry.godaddy
 nserver:      A.NIC.WIKI 2001:dcd:1:0:0:0:0:10 37.209.192.10
 nserver:      B.NIC.WIKI 2001:dcd:2:0:0:0:0:10 37.209.194.10
 nserver:      C.NIC.WIKI 2001:dcd:3:0:0:0:0:10 37.209.196.10
-nserver:      D.NIC.WIKI 2001:dcd:4:0:0:0:0:10 37.209.198.10
-ds-rdata:     10870 8 2 3C2CA6A68BE31FD1222EB66AAA693C6C4991E6F8737CA62B1427B3C9E3E67539
+nserver:      X.NIC.WIKI 156.154.172.82 2610:a1:1074:0:0:0:1:82
+nserver:      Y.NIC.WIKI 156.154.173.82 2610:a1:1075:0:0:0:1:82
+nserver:      Z.NIC.WIKI 156.154.174.82 2610:a1:1076:0:0:0:1:82
+ds-rdata:     10870 8 2 3c2ca6a68be31fd1222eb66aaa693c6c4991e6f8737ca62b1427b3c9e3e67539
 
 whois:        whois.nic.wiki
 
@@ -41,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.wiki
 
 created:      2014-02-06
-changed:      2022-07-21
+changed:      2023-06-26
 source:       IANA
 
