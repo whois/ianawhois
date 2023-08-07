@@ -5,40 +5,42 @@
 domain:       TAOBAO
 
 organisation: Alibaba Group Holding Limited
-address:      Fourth Floor, One Capital Place, P.O Box 847, George Town, Grand Cayman, KY1-1103
+address:      Fourth Floor, One Capital Place, P.O Box 847
+address:      George Town Grand Cayman KY1-1103
 address:      Grand Cayman
 
 contact:      administrative
 name:         Project & Process Manager
 organisation: Alibaba Group Holding Limited
-address:      Fourth Floor, One Capital Place, P.O Box 847, George Town, Grand Cayman, KY1-1103  KY
+address:      Fourth Floor, One Capital Place, P.O Box 847
+address:      George Town Grand Cayman KY1-1103
 address:      Grand Cayman
 phone:        +852-22155100
 fax-no:       +852-2215-5200
 e-mail:       ngtld-alibaba@cscglobal.com
 
 contact:      technical
-name:         IANA Contact
-organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe, AZ 85284
-address:      United States
-phone:        +1 480 505 8800
-fax-no:       +1 480 624 2546
-e-mail:       iana@registry.godaddy
+name:         Senior Director, DNS Infrastructure Group
+organisation: Donuts Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@donuts.email
 
-nserver:      A.NIC.TAOBAO 2001:dcd:1:0:0:0:0:9 37.209.192.9
-nserver:      B.NIC.TAOBAO 2001:dcd:2:0:0:0:0:9 37.209.194.9
-nserver:      C.NIC.TAOBAO 2001:dcd:3:0:0:0:0:9 37.209.196.9
-nserver:      NS1.DNS.NIC.TAOBAO 156.154.144.157 2610:a1:1071:0:0:0:0:9d
-nserver:      NS2.DNS.NIC.TAOBAO 156.154.145.157 2610:a1:1072:0:0:0:0:9d
-nserver:      NS3.DNS.NIC.TAOBAO 156.154.159.157 2610:a1:1073:0:0:0:0:9d
-ds-rdata:     24832 8 2 C47F5F58BD93065D880F55461845EB6BC3678800951E8C787C96EAB93EF04D8F
+nserver:      A0.NIC.TAOBAO 2a01:8840:32:0:0:0:0:17 65.22.52.17
+nserver:      A2.NIC.TAOBAO 2a01:8840:35:0:0:0:0:17 65.22.55.17
+nserver:      B0.NIC.TAOBAO 2a01:8840:33:0:0:0:0:17 65.22.53.17
+nserver:      C0.NIC.TAOBAO 2a01:8840:34:0:0:0:0:17 65.22.54.17
+ds-rdata:     62422 8 2 9f3d7ceb441cd4dac22efcccf5e79d238163e139ab368abddaa1029302a77bcb
+
+whois:        whois.nic.taobao
 
 status:       ACTIVE
 remarks:      Registration information: http://www.alibabagroup.com
 
 created:      2016-01-08
-changed:      2022-07-28
+changed:      2023-01-13
 source:       IANA
 
