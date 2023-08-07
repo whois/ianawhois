@@ -6,14 +6,14 @@ domain:       AS
 
 organisation: AS Domain Registry
 address:      P.O. Box 997303
-address:      Pago Pago  96799
+address:      Pago Pago 96799
 address:      American Samoa
 
 contact:      administrative
 name:         Registrar
 organisation: AS Domain Registry
 address:      P.O. Box 997303
-address:      Pago Pago  96799
+address:      Pago Pago 96799
 address:      American Samoa
 phone:        +684 252 9742
 e-mail:       domainmaster@nic.as
@@ -22,8 +22,8 @@ contact:      technical
 name:         GDNS Hostmaster
 organisation: GDNS, LLC
 address:      PO Box 32
-address:      Frenchtown New Jersey 08825
-address:      United States
+address:      Frenchtown NJ 08825
+address:      United States of America (the)
 phone:        +1 212 334 3660
 fax-no:       +1 212 208 2674
 e-mail:       hostmaster@gdns.com
@@ -41,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.as
 
 created:      1997-06-12
-changed:      2020-12-13
+changed:      2022-05-06
 source:       IANA
 
