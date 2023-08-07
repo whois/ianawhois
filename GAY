@@ -4,27 +4,27 @@
 
 domain:       GAY
 
-organisation: Top Level Design, LLC
-address:      742 Ocean Club Place
-address:      Fernandina Beach, FL 32034
-address:      United States
+organisation: Registry Services, LLC
+address:      2155 E. GoDaddy Way
+address:      Tempe AZ 85284
+address:      United States of America (the)
 
 contact:      administrative
-name:         Raymond King
-organisation: Top Level Design, LLC
-address:      742 Ocean Club Place
-address:      Fernandina Beach, FL 32034
-address:      United States
-phone:        +1.503.888.8808
-fax-no:       +1.678.884.1468
-e-mail:       ray@tldesign.co
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      2155 E GoDaddy Way
+address:      Tempe AZ 85284
+address:      United States of America (the)
+phone:        +1 480-505-8800
+fax-no:       +1 480-624-2546
+e-mail:       iana@registry.godaddy
 
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
 address:      2155 E GoDaddy Way
-address:      Tempe, AZ 85284
-address:      United States
+address:      Tempe AZ 85284
+address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
 e-mail:       iana@registry.godaddy
@@ -32,15 +32,17 @@ e-mail:       iana@registry.godaddy
 nserver:      A.NIC.GAY 2001:dcd:1:0:0:0:0:10 37.209.192.10
 nserver:      B.NIC.GAY 2001:dcd:2:0:0:0:0:10 37.209.194.10
 nserver:      C.NIC.GAY 2001:dcd:3:0:0:0:0:10 37.209.196.10
-nserver:      D.NIC.GAY 2001:dcd:4:0:0:0:0:10 37.209.198.10
-ds-rdata:     32074 8 2 C725B3CBD9D404307D49D0969B57B8885FD69663ACA51662B05716C9ABD1361E
+nserver:      X.NIC.GAY 156.154.172.82 2610:a1:1074:0:0:0:1:82
+nserver:      Y.NIC.GAY 156.154.173.82 2610:a1:1075:0:0:0:1:82
+nserver:      Z.NIC.GAY 156.154.174.82 2610:a1:1076:0:0:0:1:82
+ds-rdata:     32074 8 2 c725b3cbd9d404307d49d0969b57b8885fd69663aca51662b05716c9abd1361e
 
 whois:        whois.nic.gay
 
 status:       ACTIVE
-remarks:      Registration information: http://toplevel.design/gay/
+remarks:      Registration information: http://nic.gay
 
 created:      2019-07-19
-changed:      2022-07-21
+changed:      2023-06-26
 source:       IANA
 
