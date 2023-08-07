@@ -6,15 +6,15 @@ domain:       AERO
 
 organisation: Societe Internationale de Telecommunications Aeronautique (SITA INC USA)
 address:      3100 Cumberland Boulevard
-address:      Atlanta Georgia 30339
-address:      United States
+address:      Atlanta GA 30339
+address:      United States of America (the)
 
 contact:      administrative
 name:         .AERO Office
 organisation: SITA SC
 address:      26 Chemin de Joinville
-address:      Cointrin Geneva
-address:      Geneva  1216
+address:      Cointrin
+address:      Geneva Geneva CH-1216
 address:      Switzerland
 phone:        +41 22 747 60 00
 fax-no:       +41 22 747 63 33
@@ -23,10 +23,10 @@ e-mail:       aero.enquiries@sita.aero
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
 organisation: Afilias
-address:      Building 3, Suite 105
 address:      300 Welsh Road
-address:      Horsham, PA 19044
-address:      United States
+address:      Building 3, Suite 105
+address:      Horsham PA 19044
+address:      United States of America (the)
 phone:        +1 215 706 5700
 fax-no:       +1 215 706 5701
 e-mail:       tld-tech-poc@afilias.info
@@ -44,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.information.aero
 
 created:      2001-12-21
-changed:      2021-01-07
+changed:      2022-12-08
 source:       IANA
 
