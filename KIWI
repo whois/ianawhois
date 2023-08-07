@@ -5,15 +5,17 @@
 domain:       KIWI
 
 organisation: DOT KIWI LIMITED
-address:      18 Viaduct Harbour Avenue (Attn: Kensington Swan), Auckland, 1010
+address:      18 Viaduct Harbour Avenue
+address:      Attn: Kensington Swan
+address:      Auckland Central
+address:      Auckland 1010
 address:      New Zealand
 
 contact:      administrative
 name:         Angus Richardson
 organisation: DOT KIWI LIMITED
 address:      604, 88 West 1st Avenue
-address:      Vancouver, British Columbia
-address:      V5Y 0K2
+address:      Vancouver BC V5Y 0K2
 address:      Canada
 phone:        +6493070040
 e-mail:       info@hello.kiwi
@@ -22,8 +24,7 @@ contact:      technical
 name:         Don Slaunwhite
 organisation: Canadian Internet Registration Authority (CIRA)
 address:      979 Bank Street, Suite 400
-address:      Ottawa, Ontario, K1S 5K5
-address:      ￼
+address:      Ottawa ON K1S 5K5
 address:      Canada
 phone:        +16132375335
 fax-no:       +16132370534
