@@ -5,13 +5,15 @@
 domain:       LANXESS
 
 organisation: LANXESS Corporation
-address:      111 RIDC Park West Drive Pittsburgh, Pennsylvania - 15275-1112 US
-address:      United States
+address:      111 RIDC Park West Drive
+address:      Pittsburgh PA 15275-1112
+address:      United States of America (the)
 
 contact:      administrative
 name:         IT Internet Domain Administration
 organisation: LANXESS Deutschland GmbH
-address:      Building B108, Chempark, 51369 Leverkusen, Germany
+address:      Building B108, Chempark
+address:      Leverkusen 51369
 address:      Germany
 phone:        +49 221 8885 2564
 fax-no:       +49 221 8885 5274
@@ -21,8 +23,8 @@ contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
 address:      2155 E GoDaddy Way
-address:      Tempe, AZ 85284
-address:      United States
+address:      Tempe AZ 85284
+address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
@@ -33,7 +35,9 @@ nserver:      C.NIC.LANXESS 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.LANXESS 156.154.144.101 2610:a1:1071:0:0:0:0:65
 nserver:      NS2.DNS.NIC.LANXESS 156.154.145.101 2610:a1:1072:0:0:0:0:65
 nserver:      NS3.DNS.NIC.LANXESS 156.154.159.101 2610:a1:1073:0:0:0:0:65
-ds-rdata:     27220 8 2 E7715A76B9EC7C6F1F6553100BC86F7C705078B27A8AEEF20A3CEE83A939069F
+ds-rdata:     27220 8 2 e7715a76b9ec7c6f1f6553100bc86f7c705078b27a8aeef20a3cee83a939069f
+
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: http://www.lanxess.com
