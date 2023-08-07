@@ -5,16 +5,17 @@
 domain:       ABBOTT
 
 organisation: Abbott Laboratories, Inc.
-address:      100 Abbott Park Road Dept. G397, Bldg. AP6D-2
+address:      100 Abbott Park Road
+address:      Dept. G397, Bldg. AP6D-2
 address:      Abbott Park IL 60064
-address:      United States
+address:      United States of America (the)
 
 contact:      administrative
 name:         Senior Associate
 organisation: FairWinds Partners
 address:      1000 Potomac Street NW #350
 address:      Washington DC 20007
-address:      United States
+address:      United States of America (the)
 phone:        +1 202 223 9252
 fax-no:       +1 202 223 9256
 e-mail:       abbottregistry@fairwindspartners.com
@@ -22,10 +23,10 @@ e-mail:       abbottregistry@fairwindspartners.com
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
 organisation: Afilias
-address:      Building 3, Suite 105
 address:      300 Welsh Road
-address:      Horsham, PA 19044
-address:      United States
+address:      Building 3, Suite 105
+address:      Horsham PA 19044
+address:      United States of America (the)
 phone:        +1 215.706.5700
 fax-no:       +1 215.706.5701
 e-mail:       tld-tech-poc@afilias.info
