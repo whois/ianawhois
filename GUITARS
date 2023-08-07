@@ -6,15 +6,15 @@ domain:       GUITARS
 
 organisation: XYZ.COM LLC
 address:      2121 E Tropicana Ave, Suite 2
-address:      Las Vegas, NV 89119
-address:      United States
+address:      Las Vegas NV 89119
+address:      United States of America (the)
 
 contact:      administrative
 name:         General Counsel
 organisation: XYZ.COM LLC
 address:      2121 E Tropicana Ave, Suite 2
-address:      Las Vegas, NV 89119
-address:      United States
+address:      Las Vegas NV 89119
+address:      United States of America (the)
 phone:        +1 702 763 2191
 e-mail:       hello@xyz.com
 
@@ -24,7 +24,7 @@ organisation: CentralNic
 address:      Saddlers House, 4th Floor
 address:      44 Gutter Lane
 address:      London EC2V 6BR
-address:      United Kingdom
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44 20 33 88 0600
 fax-no:       +44 20 33 88 0601
 e-mail:       tld.ops@centralnic.com
@@ -33,10 +33,10 @@ nserver:      A.NIC.GUITARS 194.169.218.149 2001:67c:13cc:0:0:0:1:149
 nserver:      B.NIC.GUITARS 185.24.64.149 2a04:2b00:13cc:0:0:0:1:149
 nserver:      C.NIC.GUITARS 212.18.248.149 2a04:2b00:13ee:0:0:0:0:149
 nserver:      D.NIC.GUITARS 212.18.249.149 2a04:2b00:13ff:0:0:0:0:149
-ds-rdata:     39502 5 1 6186E2C33FB4719080BE060E131E9339BF9CFA39
-ds-rdata:     892 5 1 E421D29A8D62E53665069DD9B99E04A86F4FE8E3
-ds-rdata:     892 5 2 AA980F135EB29C27887F8DFCDD0BAB90DCCF0740EF3F11FB3256B8A6A8C7FBF2
-ds-rdata:     39502 5 2 742844EC01D87ECEEC0D34B7DE1D39E376C697C73D36D90C9D5FAD65625B624F
+ds-rdata:     39502 5 1 6186e2c33fb4719080be060e131e9339bf9cfa39
+ds-rdata:     892 5 1 e421d29a8d62e53665069dd9b99e04a86f4fe8e3
+ds-rdata:     892 5 2 aa980f135eb29c27887f8dfcdd0bab90dccf0740ef3f11fb3256b8a6a8c7fbf2
+ds-rdata:     39502 5 2 742844ec01d87eceec0d34b7de1d39e376c697c73d36d90c9d5fad65625b624f
 ds-rdata:     17278 5 2 e0afcc946458dcf20874905a1ed2626cfcea262016ae87bc53f8badfb0d497bb
 ds-rdata:     17278 5 1 c127e898212738f4a0723a1d4feb33b59b7ea719
 
