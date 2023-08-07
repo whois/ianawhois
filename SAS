@@ -5,14 +5,16 @@
 domain:       SAS
 
 organisation: Research IP LLC
-address:      100 Matrix Drive, Cary, NC 27513
-address:      United States
+address:      100 Matrix Drive
+address:      Cary NC 27513
+address:      United States of America (the)
 
 contact:      administrative
 name:         Karen Day
 organisation: SAS Institute Inc.
-address:      SAS Campus Drive, Cary, NC 27513
-address:      United States
+address:      SAS Campus Drive
+address:      Cary NC 27513
+address:      United States of America (the)
 phone:        +19195316016
 fax-no:       +19196774444
 e-mail:       gtldinfo@sas.com
@@ -21,8 +23,8 @@ contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
 address:      2155 E GoDaddy Way
-address:      Tempe, AZ 85284
-address:      United States
+address:      Tempe AZ 85284
+address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
@@ -33,7 +35,9 @@ nserver:      C.NIC.SAS 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.SAS 156.154.169.39 2610:a1:1071:0:0:0:1:27
 nserver:      NS2.DNS.NIC.SAS 156.154.170.39 2610:a1:1072:0:0:0:1:27
 nserver:      NS3.DNS.NIC.SAS 156.154.171.39 2610:a1:1073:0:0:0:1:27
-ds-rdata:     20119 8 2 245081F2A99002CFBA295D87B98465B3B4A2DF0023364E577292C15103FCC0A4
+ds-rdata:     20119 8 2 245081f2a99002cfba295d87b98465b3b4a2df0023364e577292c15103fcc0a4
+
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: http://www.sas.com
