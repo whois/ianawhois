@@ -8,7 +8,7 @@ organisation: PNG DNS Administration
 organisation: Vice Chancellors Office
 organisation: The Papua New Guinea University of Technology
 address:      Private Mail Bag
-address:      Lae Morobe Prov.
+address:      Lae Morobe
 address:      Papua New Guinea
 
 contact:      administrative
@@ -39,7 +39,10 @@ nserver:      NS1.TIARE.NET.PG 202.165.192.23
 nserver:      NS1.UNITECH.AC.PG 202.1.32.49
 nserver:      NS2.TIARE.NET.PG 202.165.192.24
 
+whois:        
+
 status:       ACTIVE
+remarks:      Registration information: 
 
 created:      1991-09-26
 changed:      2021-02-01
