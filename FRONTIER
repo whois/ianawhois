@@ -5,14 +5,16 @@
 domain:       FRONTIER
 
 organisation: Frontier Communications Corporation
-address:      401 Merritt 7, Norwalk, CT 06851, United States
-address:      United States
+address:      401 Merritt 7
+address:      Norwalk CT 06851
+address:      United States of America (the)
 
 contact:      administrative
 name:         Systems Administrator
 organisation: Frontier Communications Corporation
-address:      120 N Plymouth Ave, Rochester, NY 14608, United States
-address:      United States
+address:      120 N Plymouth Ave
+address:      Rochester NY 14608
+address:      United States of America (the)
 phone:        +1 570-631-1245
 e-mail:       hostmaster@frontier.com
 
@@ -20,8 +22,8 @@ contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
 address:      2155 E GoDaddy Way
-address:      Tempe, AZ 85284
-address:      United States
+address:      Tempe AZ 85284
+address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
@@ -32,7 +34,9 @@ nserver:      C.NIC.FRONTIER 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.FRONTIER 156.154.144.64 2610:a1:1071:0:0:0:0:40
 nserver:      NS2.DNS.NIC.FRONTIER 156.154.145.64 2610:a1:1072:0:0:0:0:40
 nserver:      NS3.DNS.NIC.FRONTIER 156.154.159.64 2610:a1:1073:0:0:0:0:40
-ds-rdata:     50689 8 2 B81514D86B0AE37D16A0676680B70B9C714036DE9993AFB8D38FDBC6879A0062
+ds-rdata:     50689 8 2 b81514d86b0ae37d16a0676680b70b9c714036de9993afb8d38fdbc6879a0062
+
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: http://frontier.com
