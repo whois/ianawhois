@@ -8,15 +8,15 @@ organisation: Cybersecurity and Infrastructure Security Agency
 address:      CSD/CB – Attn: Cameron Dixon
 address:      CISA – NGR STOP 0645
 address:      1110 N. Glebe Rd.
-address:      Arlington, VA 20598-0645
-address:      United States
+address:      Arlington VA 20598-0645
+address:      United States of America (the)
 
 contact:      administrative
 name:         Program Manager
 organisation: Cybersecurity and Infrastructure Security Agency
 address:      4200 Wilson Blvd.
-address:      Arlington, VA 22201
-address:      United States
+address:      Arlington VA 22201
+address:      United States of America (the)
 phone:        +1 888 282 0870
 e-mail:       dotgov@cisa.dhs.gov
 
@@ -24,8 +24,8 @@ contact:      technical
 name:         Registry Customer Service
 organisation: Verisign, Inc.
 address:      12061 Bluemont Way
-address:      Reston Virginia 20190
-address:      United States
+address:      Reston VA 20190
+address:      United States of America (the)
 phone:        +1 877 734 4688
 fax-no:       +1 540 301 0160
 e-mail:       registrar@dotgov.gov
@@ -34,7 +34,7 @@ nserver:      A.GOV-SERVERS.NET 2001:500:4431:0:0:0:2:30 69.36.157.30
 nserver:      B.GOV-SERVERS.NET 209.112.123.30 2620:74:27:0:0:0:2:30
 nserver:      C.GOV-SERVERS.NET 2620:74:28:0:0:0:2:30 69.36.153.30
 nserver:      D.GOV-SERVERS.NET 2620:74:29:0:0:0:2:30 81.19.194.30
-ds-rdata:     7698 8 2 6BC949E638442EAD0BDAF0935763C8D003760384FF15EBBD5CE86BB5559561F0
+ds-rdata:     7698 8 2 6bc949e638442ead0bdaf0935763c8d003760384ff15ebbd5ce86bb5559561f0
 
 whois:        whois.dotgov.gov
 
@@ -42,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.dotgov.gov
 
 created:      1985-01-01
-changed:      2021-04-26
+changed:      2022-05-06
 source:       IANA
 
