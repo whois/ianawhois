@@ -5,15 +5,16 @@
 domain:       TARGET
 
 organisation: Target Domain Holdings, LLC
-address:      1000 Nicollet Mall, Minneapolis, Minnesota 55403, U.S.A.
-address:      United States
+address:      1000 Nicollet Mall
+address:      Minneapolis MN 55403
+address:      United States of America (the)
 
 contact:      administrative
 name:         Administrative Contact
 organisation: Target Domain Holdings, LLC
 address:      1000 Nicollet Mall
-address:      Minneapolis, Minnesota 55403
-address:      United States
+address:      Minneapolis MN 55403
+address:      United States of America (the)
 phone:        +1 612 696-3400
 fax-no:       +1 612 696-3399
 e-mail:       domainname.admin@target.com
@@ -22,8 +23,8 @@ contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
 address:      2155 E GoDaddy Way
-address:      Tempe, AZ 85284
-address:      United States
+address:      Tempe AZ 85284
+address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
@@ -34,7 +35,9 @@ nserver:      C.NIC.TARGET 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.TARGET 156.154.144.158 2610:a1:1071:0:0:0:0:9e
 nserver:      NS2.DNS.NIC.TARGET 156.154.145.158 2610:a1:1072:0:0:0:0:9e
 nserver:      NS3.DNS.NIC.TARGET 156.154.159.158 2610:a1:1073:0:0:0:0:9e
-ds-rdata:     64351 8 2 0168137C6E180963663C74F30E4B581847C1D17E674B59AA1CB2C76D671D5ED3
+ds-rdata:     64351 8 2 0168137c6e180963663c74f30e4b581847c1d17e674b59aa1cb2c76d671d5ed3
+
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: http://www.target.com
