@@ -5,13 +5,15 @@
 domain:       BANANAREPUBLIC
 
 organisation: The Gap, Inc.
-address:      2 Folsom Street, San Francisco, California 94105
-address:      United States
+address:      2 Folsom Street
+address:      San Francisco CA 94105
+address:      United States of America (the)
 
 contact:      administrative
 name:         Director, Consulting & Strategy
-address:      1000 Potomac Street NW, Suite 350, Washington, DC 20007
-address:      United States
+address:      1000 Potomac Street NW #350
+address:      Washington DC 20007
+address:      United States of America (the)
 phone:        +1 202 223 9252
 fax-no:       +1 202 223 9256
 e-mail:       gapregistries@fairwindspartners.com
@@ -20,8 +22,8 @@ contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
 address:      2155 E GoDaddy Way
-address:      Tempe, AZ 85284
-address:      United States
+address:      Tempe AZ 85284
+address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
@@ -32,7 +34,9 @@ nserver:      C.NIC.BANANAREPUBLIC 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.BANANAREPUBLIC 156.154.144.22 2610:a1:1071:0:0:0:0:16
 nserver:      NS2.DNS.NIC.BANANAREPUBLIC 156.154.145.22 2610:a1:1072:0:0:0:0:16
 nserver:      NS3.DNS.NIC.BANANAREPUBLIC 156.154.159.22 2610:a1:1073:0:0:0:0:16
-ds-rdata:     36871 8 2 4A4B1A43D4525BE366F7CC568365D7D619DACE7F6895E3C31390A079A7A03589
+ds-rdata:     36871 8 2 4a4b1a43d4525be366f7cc568365d7d619dace7f6895e3c31390a079a7a03589
+
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: http://www.gap.com
