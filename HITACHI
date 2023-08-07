@@ -5,13 +5,16 @@
 domain:       HITACHI
 
 organisation: Hitachi, Ltd.
-address:      6-6, Marunouchi 1-chome, Chiyoda-ku Tokyo - 1008280 JP
+address:      6-6, Marunouchi 1-chome
+address:      Chiyoda-ku Tokyo 1008280
 address:      Japan
 
 contact:      administrative
 name:         Representative Director
 organisation: GMO Registry, Inc.
-address:      Cerulean Tower 26-1 Sakuragaoka-cho, Shibuya-ku, Tokyo 150-8512
+address:      Cerulean Tower
+address:      26-1 Sakuragaoka-cho
+address:      Shibuya-ku Tokyo 150-8512
 address:      Japan
 phone:        +81-3-5456-1601
 fax-no:       +81-3-3780-5239
@@ -20,7 +23,9 @@ e-mail:       newgtld@gmoregistry.com
 contact:      technical
 name:         Director
 organisation: GMO Registry, Inc.
-address:      Cerulean Tower 26-1, Sakuragaoka-cho, Shibuya-ku, Tokyo 150-8512
+address:      Cerulean Tower
+address:      26-1 Sakuragaoka-cho
+address:      Shibuya-ku Tokyo 150-8512
 address:      Japan
 phone:        +81-3-5456-1601
 fax-no:       +81-3-3780-5239
