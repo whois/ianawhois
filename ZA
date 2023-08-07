@@ -8,7 +8,7 @@ organisation: ZA Domain Name Authority
 address:      44 Grand Central Blvd
 address:      Sanofi House
 address:      Halfway house
-address:      Midrand, 1685, Gauteng
+address:      Midrand Gauteng 1685
 address:      South Africa
 
 contact:      administrative
@@ -17,7 +17,7 @@ organisation: ZA Domain Name Authority
 address:      44 Grand Central Blvd
 address:      Sanofi House
 address:      Halfway house
-address:      Midrand, 1685, Gauteng
+address:      Midrand Gauteng 1685
 address:      South Africa
 phone:        +27 (0)10 020 3910
 fax-no:       +27 (0)10 020 3919
@@ -29,7 +29,7 @@ organisation: ZA Domain Name Authority
 address:      44 Grand Central Blvd
 address:      Sanofi House
 address:      Halfway house
-address:      Midrand, 1685, Gauteng
+address:      Midrand Gauteng 1685
 address:      South Africa
 phone:        +27 (0)10 020 3910
 fax-no:       +27 (0)10 020 3919
@@ -39,6 +39,8 @@ nserver:      NSZA.IS.CO.ZA 196.4.160.27
 nserver:      ZA-NS.ANYCAST.PCH.NET 2001:500:14:6055:ad:0:0:1 204.61.216.55
 nserver:      ZA1.DNSNODE.NET 194.146.106.78 2001:67c:1010:19:0:0:0:53
 ds-rdata:     45749 8 2 3e2b0b7e6063ca11400fa4b54d8a530888234cd0eb3b5fbf820c0750784da84e
+
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: http://www.zadna.org.za/
