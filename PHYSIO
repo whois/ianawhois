@@ -5,13 +5,15 @@
 domain:       PHYSIO
 
 organisation: PhysBiz Pty Ltd
-address:      PO Box 316, Floreat WA 6014
+address:      PO Box 316
+address:      Floreat WA 6014
 address:      Australia
 
 contact:      administrative
 name:         Glenn Ruscoe
 organisation: Phys Biz Pty Ltd
-address:      PO Box 316, Floreat WA 6014
+address:      PO Box 316
+address:      Floreat WA 6014
 address:      Australia
 phone:        61892849684
 e-mail:       enquiries@registry.physio
@@ -19,7 +21,8 @@ e-mail:       enquiries@registry.physio
 contact:      technical
 name:         Glenn Ruscoe
 organisation: Phys Biz Pty Ltd
-address:      PO Box 316, Floreat WA 6014
+address:      PO Box 316
+address:      Floreat WA 6014
 address:      Australia
 phone:        61892849684
 e-mail:       enquiries@registry.physio
@@ -27,8 +30,11 @@ e-mail:       enquiries@registry.physio
 nserver:      A.NIC.PHYSIO 2001:dcd:1:0:0:0:0:10 37.209.192.10
 nserver:      B.NIC.PHYSIO 2001:dcd:2:0:0:0:0:10 37.209.194.10
 nserver:      C.NIC.PHYSIO 2001:dcd:3:0:0:0:0:10 37.209.196.10
-nserver:      D.NIC.PHYSIO 2001:dcd:4:0:0:0:0:10 37.209.198.10
-ds-rdata:     49021 8 2 AE268396DD64C1FCCE4FD3EA3A3F6C427E4DAAD035AA4DE961B6B8380A800153
+nserver:      X.NIC.PHYSIO 156.154.172.82 2610:a1:1074:0:0:0:1:82
+nserver:      Y.NIC.PHYSIO 156.154.173.82 2610:a1:1075:0:0:0:1:82
+nserver:      Z.NIC.PHYSIO 156.154.174.82 2610:a1:1076:0:0:0:1:82
+ds-rdata:     49021 8 2 ae268396dd64c1fcce4fd3ea3a3f6c427e4daad035aa4de961b6b8380a800153
+ds-rdata:     41164 8 2 600ccbc6a1e1cfdd09650cf095d2a15af68ad3574a849028654d2593367d90a5
 
 whois:        whois.nic.physio
 
@@ -36,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.registry.physio
 
 created:      2014-06-05
-changed:      2022-07-21
+changed:      2023-07-31
 source:       IANA
 
