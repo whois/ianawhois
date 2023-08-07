@@ -7,7 +7,8 @@ domain:       EG
 organisation: Egyptian Universities Network (EUN)
 organisation: Supreme Council of Universities
 address:      Cairo University
-address:      Giza, Cairo  268 - Orman
+address:      Giza - Orman
+address:      Cairo 268
 address:      Egypt
 
 contact:      administrative
@@ -15,7 +16,8 @@ name:         Egyptian Universities Network (EUN)
 organisation: Egyptian Universities Network (EUN)
 organisation: Supreme Council of Universities
 address:      Cairo University
-address:      Giza, Cairo  268 - Orman
+address:      Giza - Orman
+address:      Cairo 268
 address:      Egypt
 phone:        +202 33458366
 fax-no:       +202 33458365
@@ -26,7 +28,8 @@ name:         Egyptian Universities Network (EUN)
 organisation: Egyptian Universities Network (EUN)
 organisation: Supreme Council of Universities
 address:      Cairo University
-address:      Giza, Cairo  268 - Orman
+address:      Giza - Orman
+address:      Cairo 268
 address:      Egypt
 phone:        +202 33458366
 fax-no:       +202 33458365
@@ -36,10 +39,12 @@ nserver:      FRCU.EUN.EG 193.227.1.1
 nserver:      NS5.UNIVIE.AC.AT 193.171.255.77 2001:628:453:4305:0:0:0:53
 nserver:      RIP.PSG.COM 147.28.0.39 2001:418:1:0:0:0:0:39
 
+whois:        
+
 status:       ACTIVE
 remarks:      Registration information: http://www.egregistry.eg/
 
 created:      1990-11-30
-changed:      2011-05-20
+changed:      2017-08-05
 source:       IANA
 
