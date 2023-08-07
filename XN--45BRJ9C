@@ -6,14 +6,14 @@ domain:       ভারত
 domain-ace:   XN--45BRJ9C
 
 organisation: National Internet Exchange of India
-address:      6C,6D,6E Hansalaya Building 15, Barakhamba Road
+address:      6C, 6D, 6E Hansalaya Building 15, Barakhamba Road
 address:      New Delhi 110 001
 address:      India
 
 contact:      administrative
 name:         Rajiv Kumar
 organisation: National Internet Exchange of India
-address:      6C,6D,6E Hansalaya Building 15, Barakhamba Road
+address:      6C, 6D, 6E Hansalaya Building 15, Barakhamba Road
 address:      New Delhi 110 001
 address:      India
 phone:        +91 11 4820 2011
@@ -23,7 +23,7 @@ e-mail:       registry@nixi.in
 contact:      technical
 name:         Rajiv Kumar
 organisation: National Internet Exchange of India
-address:      6C,6D,6E Hansalaya Building 15, Barakhamba Road
+address:      6C, 6D, 6E Hansalaya Building 15, Barakhamba Road
 address:      New Delhi 110 001
 address:      India
 phone:        +91 11 4820 2011
@@ -34,10 +34,9 @@ nserver:      NS1.REGISTRY.IN 2001:dcd:1:0:0:0:0:12 37.209.192.12
 nserver:      NS2.REGISTRY.IN 2001:dcd:2:0:0:0:0:12 37.209.194.12
 nserver:      NS3.REGISTRY.IN 2001:dcd:3:0:0:0:0:12 37.209.196.12
 nserver:      NS4.REGISTRY.IN 2001:dcd:4:0:0:0:0:12 37.209.198.12
-nserver:      NS5.REGISTRY.IN 156.154.100.20 2001:0502:2eda:0:0:0:0:20
-nserver:      NS6.REGISTRY.IN 156.154.101.20 2001:0502:ad09:0:0:0:0:20
-ds-rdata:     3292 8 1 EDF28F38EDEEFEDFE5F9EA0EA44E954B1ECACB59
-ds-rdata:     3292 8 2 66B102691F6C2470699224FF587D2405975021588870F96A5355C2220DD55D83
+nserver:      NS5.REGISTRY.IN 156.154.100.20 2001:502:2eda:0:0:0:0:20
+nserver:      NS6.REGISTRY.IN 156.154.101.20 2001:502:ad09:0:0:0:0:20
+ds-rdata:     1777 8 2 9ff53f651d2c12f7c22bd9c301132042d423d7c935935e26376e57e352b6fdf6
 
 whois:        whois.registry.in
 
@@ -45,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.registry.in
 
 created:      2011-02-05
-changed:      2020-04-09
+changed:      2023-07-25
 source:       IANA
 
