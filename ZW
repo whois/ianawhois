@@ -41,7 +41,10 @@ nserver:      NS2.LIQUIDTELECOM.NET 2c0f:fe40:0:0:5:11:11:10 5.11.11.10
 nserver:      NS2ZIM.TELONE.CO.ZW 2c0f:f758:0:a:0:0:0:82 41.220.30.82
 nserver:      ZW-NS.ANYCAST.PCH.NET 2001:500:14:6128:ad:0:0:1 204.61.216.128
 
+whois:        
+
 status:       ACTIVE
+remarks:      Registration information: 
 
 created:      1991-11-06
 changed:      2021-03-11
