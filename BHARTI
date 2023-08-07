@@ -5,13 +5,19 @@
 domain:       BHARTI
 
 organisation: Bharti Enterprises (Holding) Private Limited
-address:      Bharti Crescent, 1 Nelson Mandela Road, Vasant Kunj, Phase II, New Delhi - 110070
+address:      Bharti Crescent,
+address:      1, Nelson Mandela Road
+address:      Vasant Kunj Phase II
+address:      New Delhi Delhi 110070
 address:      India
 
 contact:      administrative
 name:         Nupur Khanna
 organisation: Bharti Enterprises (Holdings) Private Limited
-address:      Bharti Crescent, 1 Nelson Mandela Road, Vasant Kunj, Phase II, New Delhi - 110070
+address:      Bharti Crescent,
+address:      1, Nelson Mandela Road
+address:      Vasant Kunj Phase II
+address:      New Delhi Delhi 110070
 address:      India
 phone:        011 46666100
 fax-no:       011 41666149
@@ -20,8 +26,9 @@ e-mail:       domains.admin@bharti.in
 contact:      technical
 name:         Bonnie Bryant
 organisation: Verisign Inc.
-address:      12061 Bluemont Way, Reston Virginia 20190 United States
-address:      United States
+address:      12061 Bluemont Way
+address:      Reston VA 20190
+address:      United States of America (the)
 phone:        +1-703-925-6999
 fax-no:       +1-703-948-3978
 e-mail:       info@verisign-grs.com
@@ -30,13 +37,15 @@ nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
 nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
 nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
 nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
-ds-rdata:     13206 8 2 BCF1EFC6D85CA9939AF95BE715D7093082BAC953E8539F88D21B16054D5A22CA
+ds-rdata:     13206 8 2 bcf1efc6d85ca9939af95be715d7093082bac953e8539f88d21b16054d5a22ca
+
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information:
 remarks:      http://www.bharti.com/wps/wcm/connect/BhartiPortal/Bharti/home
 
 created:      2015-05-08
-changed:      2019-08-28
+changed:      2020-10-01
 source:       IANA
 
