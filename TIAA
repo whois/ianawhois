@@ -5,14 +5,16 @@
 domain:       TIAA
 
 organisation: Teachers Insurance and Annuity Association of America
-address:      730 Third Avenue New York, New York - 10017
-address:      United States
+address:      730 Third Avenue
+address:      New York NY 10017
+address:      United States of America (the)
 
 contact:      administrative
 name:         Sr. IT Engineer
 organisation: Teachers Insurance and Annuity Association of America
-address:      730 Third Avenue New York, New York - 10017
-address:      United States
+address:      730 Third Avenue
+address:      New York NY 10017
+address:      United States of America (the)
 phone:        +1 800 842 2522
 fax-no:       +1 800 914 8922
 e-mail:       ngtld-tiaa@cscinfo.com
@@ -21,8 +23,8 @@ contact:      technical
 name:         Registry Customer Service
 organisation: Verisign, Inc.
 address:      12061 Bluemont Way
-address:      Reston, VA 20190
-address:      United States
+address:      Reston VA 20190
+address:      United States of America (the)
 phone:        +1-703-925-6999
 fax-no:       +1-703-948-3978
 e-mail:       info@verisign-grs.com
@@ -31,7 +33,7 @@ nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
 nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
 nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
 nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
-ds-rdata:     9186 8 2 5214D8971EC4DC7CD349205BCB13F84D4446AAFA4D87D07C8C5443A180741FEA
+ds-rdata:     9186 8 2 5214d8971ec4dc7cd349205bcb13f84d4446aafa4d87d07c8c5443a180741fea
 
 whois:        whois.nic.tiaa
 
@@ -39,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://tiaa.org
 
 created:      2016-03-24
-changed:      2016-07-21
+changed:      2020-10-01
 source:       IANA
 
