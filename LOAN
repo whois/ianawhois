@@ -5,14 +5,15 @@
 domain:       LOAN
 
 organisation: dot Loan Limited
-address:      2nd Floor Leisure Island Business Centre, Ocean Village, Gibraltar, GX11 1AA
+address:      2nd Floor, Leisure Island Business Centre, Ocean Village
+address:      Gibraltar  GX11 1AA
 address:      Gibraltar
 
 contact:      administrative
 name:         Edgar Charles Andrew Lavarello
 organisation: Pricewaterhousecoopers Ltd.
 address:      327 Main Street
-address:      GX11 1AA
+address:      Gibraltar  GX11 1AA
 address:      Gibraltar
 phone:        +350 200 73520
 e-mail:       edgar.c.lavarello@gi.pwc.com
@@ -21,8 +22,8 @@ contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
 address:      2155 E GoDaddy Way
-address:      Tempe, AZ 85284
-address:      United States
+address:      Tempe AZ 85284
+address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
@@ -33,7 +34,7 @@ nserver:      C.NIC.LOAN 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      NS1.DNS.NIC.LOAN 156.154.144.106 2610:a1:1071:0:0:0:0:6a
 nserver:      NS2.DNS.NIC.LOAN 156.154.145.106 2610:a1:1072:0:0:0:0:6a
 nserver:      NS3.DNS.NIC.LOAN 156.154.159.106 2610:a1:1073:0:0:0:0:6a
-ds-rdata:     32044 8 2 4263DEF7BAD2257B9020E8887811109CB097FE253BDB6CDCFA2C1F95EE136979
+ds-rdata:     32044 8 2 4263def7bad2257b9020e8887811109cb097fe253bdb6cdcfa2c1f95ee136979
 
 whois:        whois.nic.loan
 
