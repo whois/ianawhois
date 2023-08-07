@@ -5,14 +5,16 @@
 domain:       ANALYTICS
 
 organisation: Campus IP LLC
-address:      100 Matrix Drive, Cary, NC 27513
-address:      United States
+address:      100 Matrix Drive
+address:      Cary NC 27513
+address:      United States of America (the)
 
 contact:      administrative
 name:         Karen Day
 organisation: SAS Institute Inc.
-address:      SAS Campus Drive, Cary, NC 27513
-address:      United States
+address:      SAS Campus Drive
+address:      Cary NC 27513
+address:      United States of America (the)
 phone:        +19195316016
 fax-no:       +19196774444
 e-mail:       gtldinfo@sas.com
@@ -21,8 +23,8 @@ contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
 address:      2155 E GoDaddy Way
-address:      Tempe, AZ 85284
-address:      United States
+address:      Tempe AZ 85284
+address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
@@ -33,7 +35,9 @@ nserver:      C.NIC.ANALYTICS 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      NS1.DNS.NIC.ANALYTICS 156.154.144.12 2610:a1:1071:0:0:0:0:c
 nserver:      NS2.DNS.NIC.ANALYTICS 156.154.145.12 2610:a1:1072:0:0:0:0:c
 nserver:      NS3.DNS.NIC.ANALYTICS 156.154.159.12 2610:a1:1073:0:0:0:0:c
-ds-rdata:     52096 8 2 55DFDF9C576CA2AD13DEEC42A7D0EB36DF9FF56500C5CB33FA0C0879C6F1D8D6
+ds-rdata:     52096 8 2 55dfdf9c576ca2ad13deec42a7d0eb36df9ff56500c5cb33fa0c0879c6f1d8d6
+
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: http://www.sas.com
