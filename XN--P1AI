@@ -7,15 +7,15 @@ domain-ace:   XN--P1AI
 
 organisation: Coordination Center for TLD RU
 address:      8 Marta street 1, bld 12
-address:      Moscow  127083
-address:      Russian Federation
+address:      Moscow 127083
+address:      Russian Federation (the)
 
 contact:      administrative
 name:         .xn--p1ai domain Administrative group
 organisation: Coordination Center for TLD RU
 address:      8 Marta street 1, bld 12
-address:      Moscow  127083
-address:      Russian Federation
+address:      Moscow 127083
+address:      Russian Federation (the)
 phone:        +7 495 730 29 71
 fax-no:       +7 495 730 29 68
 e-mail:       ru-adm@cctld.ru
@@ -24,8 +24,8 @@ contact:      technical
 name:         Technical Center of Internet
 organisation: Technical Center of Internet
 address:      8 Marta street 1, bld 12
-address:      Moscow  127083
-address:      Russian Federation
+address:      Moscow 127083
+address:      Russian Federation (the)
 phone:        +7 495 730 29 69
 fax-no:       +7 495 730 29 68
 e-mail:       ru-tech@tcinet.ru
@@ -35,7 +35,7 @@ nserver:      B.DNS.RIPN.NET 194.85.252.62 2001:678:16:0:194:85:252:62
 nserver:      D.DNS.RIPN.NET 194.190.124.17 2001:678:18:0:194:190:124:17
 nserver:      E.DNS.RIPN.NET 193.232.142.17 2001:678:15:0:193:232:142:17
 nserver:      F.DNS.RIPN.NET 193.232.156.17 2001:678:14:0:193:232:156:17
-ds-rdata:     63464 8 2 8382F17BDCEADE135ACB65710AFC608A5F5844A744B01FB17819D99E3020AC65
+ds-rdata:     7900 8 2 383545b7cc236ff2ff20fb9a035a650ef9f2ec31c8e8bb765292ad5f62a27ff1
 
 whois:        whois.tcinet.ru
 
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://cctld.ru/en
 
 created:      2010-05-12
-changed:      2022-04-02
+changed:      2023-03-07
 source:       IANA
 
