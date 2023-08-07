@@ -7,8 +7,7 @@ domain:       JE
 organisation: Island Networks (Jersey) Ltd.
 address:      Fifth Floor
 address:      37 Esplanade
-address:      ST HELIER
-address:      JE1 1AW
+address:      St Helier JE1 1AW
 address:      Jersey
 
 contact:      administrative
@@ -16,8 +15,7 @@ name:         Managing Director
 organisation: Island Networks (Jersey) Ltd.
 address:      Fifth Floor
 address:      37 Esplanade
-address:      ST HELIER
-address:      JE1 1AW
+address:      St Helier JE1 1AW
 address:      Jersey
 phone:        +44 1534 521713
 e-mail:       hostmaster2016@iana-contact.gg
@@ -38,7 +36,7 @@ nserver:      DNS2.NOMINETDNS.UK 103.49.83.254 2401:fd80:403:0:0:0:0:254
 nserver:      DNS3.NOMINETDNS.UK 213.248.223.254 2a01:618:407:0:0:0:0:254
 nserver:      DNS4.NOMINETDNS.UK 2401:fd80:407:0:0:0:0:254 43.230.51.254
 nserver:      E.CI-SERVERS.NET 2001:500:14:6074:ad:0:0:1 204.61.216.74
-ds-rdata:     19054 8 2 051F21016E36C0DC46DA9437C9F5975A95BF6B0B85E9E8BF53F49930EB65E90D
+ds-rdata:     19054 8 2 051f21016e36c0dc46da9437c9f5975a95bf6b0b85e9e8bf53f49930eb65e90d
 
 whois:        whois.je
 
