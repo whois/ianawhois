@@ -9,7 +9,7 @@ organisation: Thai Network Information Center Foundation
 address:      159 Thanon Phichai
 address:      Khwaeng Thanon Nakhon Chaisi
 address:      Khet Dusit
-address:      Bangkok  10300
+address:      Bangkok 10300
 address:      Thailand
 
 contact:      administrative
@@ -18,7 +18,7 @@ organisation: Thai Network Information Center Foundation
 address:      159 Thanon Phichai
 address:      Khwaeng Thanon Nakhon Chaisi
 address:      Khet Dusit
-address:      Bangkok  10300
+address:      Bangkok 10300
 address:      Thailand
 phone:        +66 2 244 8261
 fax-no:       +66 2 244 8264
@@ -30,7 +30,7 @@ organisation: Thai Network Information Center Foundation
 address:      159 Thanon Phichai
 address:      Khwaeng Thanon Nakhon Chaisi
 address:      Khet Dusit
-address:      Bangkok  10300
+address:      Bangkok 10300
 address:      Thailand
 phone:        +66 2 564 8034
 fax-no:       +66 2 564 8033
@@ -40,7 +40,7 @@ nserver:      A.THAINS.CO.TH 122.155.23.64 2001:c38:2000:183:0:0:0:30
 nserver:      B.THAINS.CO.TH 203.159.64.64 2405:3340:e011:3000:0:0:0:30
 nserver:      NS.THNIC.NET 202.28.0.1
 nserver:      P.THAINS.CO.TH 2001:500:14:6126:ad:0:0:1 204.61.216.126
-ds-rdata:     27061 8 2 53856679AC45EA6562EF4ECD2DE7AEA57D786870979F09C4BC1D5244C2E2A9C9
+ds-rdata:     27061 8 2 53856679ac45ea6562ef4ecd2de7aea57d786870979f09c4bc1d5244c2e2a9c9
 
 whois:        whois.thnic.co.th
 
@@ -48,6 +48,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.thnic.co.th
 
 created:      2010-08-19
-changed:      2020-08-24
+changed:      2023-03-07
 source:       IANA
 
