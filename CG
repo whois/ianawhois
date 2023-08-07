@@ -8,7 +8,7 @@ organisation: Interpoint Switzerland
 address:      c/o ARPCE
 address:      Avenue de l’Amitié, Centre-Ville
 address:      Brazzaville
-address:      Congo
+address:      Congo (the)
 
 contact:      administrative
 name:         Monsieur Romuald Bonvin
@@ -16,16 +16,16 @@ organisation: Interpoint Switzerland
 address:      c/o ARPCE
 address:      Avenue de l’Amitié, Centre-Ville
 address:      Brazzaville
-address:      Congo
+address:      Congo (the)
 phone:        +41 44 519 00 60
 e-mail:       contact-admin@dnsafrica.net
 
 contact:      technical
 name:         Monsieur Frédéric Grégoire
 organisation: Interpoint Switzerland
-address:      Swiss Post Box 100703
-address:      Zürcherstrasse 161
-address:      8010 Zürich
+address:      Fidugestion & Conseils
+address:      Route de Denges 40
+address:      Lonay 1027
 address:      Switzerland
 phone:        +41 44 519 00 60
 e-mail:       contact-tech@dnsafrica.net
@@ -34,10 +34,12 @@ nserver:      DNS-FR.DNSAFRICA.NET 151.80.35.161
 nserver:      DNS-ZA.DNSAFRICA.NET 41.185.30.170
 nserver:      SUNIC.SUNET.SE 192.36.125.2 2001:6b0:7:0:0:0:0:2
 
+whois:        
+
 status:       ACTIVE
 remarks:      Registration information: https://www.dnsafrica.net
 
 created:      1997-01-14
-changed:      2019-04-17
+changed:      2023-01-18
 source:       IANA
 
