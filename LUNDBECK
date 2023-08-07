@@ -6,39 +6,40 @@ domain:       LUNDBECK
 
 organisation: H. Lundbeck A/S
 address:      Ottiliavej 9
-address:      2500 Valby
+address:      Valby DK-2500
 address:      Denmark
 
 contact:      administrative
 name:         Project Manager
 organisation: H. Lundbeck A/S
 address:      Ottiliavej 9
-address:      2500 Valby
+address:      Valby DK-2500
 address:      Denmark
 phone:        +45 299 94400
 e-mail:       ngtld-lundbeck@cscinfo.com
 
 contact:      technical
-name:         Registry Customer Service
-organisation: Verisign, Inc.
-address:      12061 Bluemont Way
-address:      Reston Virginia 20190
-address:      United States
-phone:        +1-703-925-6999
-fax-no:       +1-703-948-3978
-e-mail:       info@verisign-grs.com
+name:         Howard Eland, Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
 
-nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
-nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
-nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
-nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
-ds-rdata:     24258 8 2 D632277D10695936BA14A7430FBC342C7A09423D6256311BA792363A1097A20C
+nserver:      A0.NIC.LUNDBECK 2a01:8840:6e:0:0:0:0:60 65.22.112.60
+nserver:      A2.NIC.LUNDBECK 2a01:8840:71:0:0:0:0:60 65.22.115.60
+nserver:      B0.NIC.LUNDBECK 2a01:8840:6f:0:0:0:0:60 65.22.113.60
+nserver:      C0.NIC.LUNDBECK 2a01:8840:70:0:0:0:0:60 65.22.114.60
+ds-rdata:     10564 8 2 38580c9480c824da9cb65a5ffaccdf2f6aedc660b98c6166e0a843ff13fab368
 
 whois:        whois.nic.lundbeck
 
 status:       ACTIVE
+remarks:      Registration information: 
 
 created:      2016-06-16
-changed:      2016-07-16
+changed:      2023-05-25
 source:       IANA
 
