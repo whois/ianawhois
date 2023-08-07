@@ -6,16 +6,14 @@ domain:       DABUR
 
 organisation: Dabur India Limited
 address:      Dabur Tower, Kaushambi, Sahibabad
-address:      Ghaziabad, Uttar Pradesh
-address:      201010
+address:      Ghaziabad Uttar Pradesh 201010
 address:      India
 
 contact:      administrative
 name:         Head, IT
 organisation: Dabur India Limited
 address:      Dabur Tower, Kaushambi, Sahibabad
-address:      Ghaziabad, Uttar Pradesh
-address:      201010
+address:      Ghaziabad Uttar Pradesh 201010
 address:      India
 phone:        +91.1203982000
 fax-no:       +91.1204374935
@@ -24,10 +22,10 @@ e-mail:       domain.owner@dabur.com
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
 organisation: Afilias
-address:      Building 3, Suite 105
 address:      300 Welsh Road
-address:      Horsham, PA 19044
-address:      United States
+address:      Building 3, Suite 105
+address:      Horsham PA 19044
+address:      United States of America (the)
 phone:        +1 215.706.5700
 fax-no:       +1 215.706.5701
 e-mail:       tld-tech-poc@afilias.info
@@ -38,12 +36,12 @@ nserver:      B0.NIC.DABUR 2a01:8840:af:0:0:0:0:25 65.22.181.25
 nserver:      C0.NIC.DABUR 2a01:8840:b0:0:0:0:0:25 65.22.182.25
 ds-rdata:     12355 8 2 bc18991e60b16ed8791d94ea935d83e9d40e2cba9ac8b824a40191e5f5f50ae4
 
-whois:        whois.afilias-srs.net
+whois:        whois.nic.dabur
 
 status:       ACTIVE
 remarks:      Registration information: http://www.dabur.com
 
 created:      2015-01-15
-changed:      2020-11-05
+changed:      2023-08-04
 source:       IANA
 
