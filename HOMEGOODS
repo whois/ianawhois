@@ -5,14 +5,16 @@
 domain:       HOMEGOODS
 
 organisation: The TJX Companies, Inc.
-address:      770 Cochituate Road, Framingham, MA 01701
-address:      United States
+address:      770 Cochituate Road
+address:      Framingham MA 01701
+address:      United States of America (the)
 
 contact:      administrative
 name:         Taylor Frank
 organisation: FairWinds Partners, LLC
-address:      1000 Potomac Street NW, Suite 350, Washington, DC 20007
-address:      United States
+address:      1000 Potomac Street NW #350
+address:      Washington DC 20007
+address:      United States of America (the)
 phone:        1.202.223.5232
 fax-no:       1.202.223.9256
 e-mail:       tjxregistries@fairwindspartners.com
@@ -21,8 +23,8 @@ contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
 address:      2155 E GoDaddy Way
-address:      Tempe, AZ 85284
-address:      United States
+address:      Tempe AZ 85284
+address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
@@ -33,7 +35,9 @@ nserver:      C.NIC.HOMEGOODS 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.HOMEGOODS 156.154.144.73 2610:a1:1071:0:0:0:0:49
 nserver:      NS2.DNS.NIC.HOMEGOODS 156.154.145.73 2610:a1:1072:0:0:0:0:49
 nserver:      NS3.DNS.NIC.HOMEGOODS 156.154.159.73 2610:a1:1073:0:0:0:0:49
-ds-rdata:     8509 8 2 FF29069BA0204E904C1BA9407D98664383C7C9D65F4D33008A13042B497C93DD
+ds-rdata:     8509 8 2 ff29069ba0204e904c1ba9407d98664383c7c9d65f4d33008a13042b497c93dd
+
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: http://www.tjx.com
