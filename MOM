@@ -6,15 +6,15 @@ domain:       MOM
 
 organisation: XYZ.COM LLC
 address:      2121 E Tropicana Ave, Suite 2
-address:      Las Vegas, NV 89119
-address:      United States
+address:      Las Vegas NV 89119
+address:      United States of America (the)
 
 contact:      administrative
 name:         General Counsel
 organisation: XYZ.COM LLC
 address:      2121 E Tropicana Ave, Suite 2
-address:      Las Vegas, NV 89119
-address:      United States
+address:      Las Vegas NV 89119
+address:      United States of America (the)
 phone:        +1 702 763 2191
 e-mail:       hello@xyz.com
 
@@ -24,7 +24,7 @@ organisation: CentralNic
 address:      Saddlers House, 4th Floor
 address:      44 Gutter Lane
 address:      London EC2V 6BR
-address:      United Kingdom
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44 20 33 88 0600
 fax-no:       +44 20 33 88 0601
 e-mail:       tld.ops@centralnic.com
@@ -33,10 +33,10 @@ nserver:      A.NIC.MOM 194.169.218.148 2001:67c:13cc:0:0:0:1:148
 nserver:      B.NIC.MOM 185.24.64.148 2a04:2b00:13cc:0:0:0:1:148
 nserver:      C.NIC.MOM 212.18.248.148 2a04:2b00:13ee:0:0:0:0:148
 nserver:      D.NIC.MOM 212.18.249.148 2a04:2b00:13ff:0:0:0:0:148
-ds-rdata:     28162 5 2 4B2B701367D0B74F52C9684E9B8921659045039452D135A55D128687C729FBF5
-ds-rdata:     41626 5 1 2744D01EC89A56E70F5B6C3171C39739E46AFB3C
-ds-rdata:     28162 5 1 2AB25D06F73E977EE5CED0FCF5EA4ED6EE50D269
-ds-rdata:     41626 5 2 7E3FD3D91571D30CEB82A33021657552E235F436D998A605611A0712B21AA1DC
+ds-rdata:     28162 5 2 4b2b701367d0b74f52c9684e9b8921659045039452d135a55d128687c729fbf5
+ds-rdata:     41626 5 1 2744d01ec89a56e70f5b6c3171c39739e46afb3c
+ds-rdata:     28162 5 1 2ab25d06f73e977ee5ced0fcf5ea4ed6ee50d269
+ds-rdata:     41626 5 2 7e3fd3d91571d30ceb82a33021657552e235f436d998a605611a0712b21aa1dc
 ds-rdata:     11348 5 1 6a1b7a558a82d6bbcdef5dea82af070b832bc7e1
 ds-rdata:     11348 5 2 97ffc26796c7b2a683048b7cf0bcecf3c54d00b0de377b54d7c7eeedeb2ea8b5
 
