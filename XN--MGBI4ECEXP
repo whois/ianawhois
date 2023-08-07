@@ -6,14 +6,16 @@ domain:       كاثوليك
 domain-ace:   XN--MGBI4ECEXP
 
 organisation: Pontificium Consilium de Comunicationibus Socialibus (PCCS) (Pontifical Council for Social Communication)
-address:      Via della Conciliazione 5 Città del Vaticano 00120
-address:      Holy See (vatican City State)
+address:      Via della Conciliazione 5
+address:      Città del Vaticano V-00120
+address:      Holy See (the)
 
 contact:      administrative
 name:         Administrative Contact
 organisation: Secretaria pro Communicatione
-address:      Piazza Pia 3 Città del Vaticano 00120
-address:      Holy See (vatican City State)
+address:      Piazza Pia 3
+address:      Città del Vaticano V-00120
+address:      Holy See (the)
 phone:        +39 06 698 45204
 fax-no:       +39 06 698 45210
 e-mail:       administrative.catholictld@spc.va
@@ -21,8 +23,9 @@ e-mail:       administrative.catholictld@spc.va
 contact:      technical
 name:         Technical Contact
 organisation: Secretaria pro Communicatione
-address:      Piazza Pia 3 Città del Vaticano 00120
-address:      Holy See (vatican City State)
+address:      Piazza Pia 3
+address:      Città del Vaticano V-00120
+address:      Holy See (the)
 phone:        +39 06 698 45204
 fax-no:       +39 06 698 45210
 e-mail:       technical.catholictld@spc.va
@@ -30,8 +33,11 @@ e-mail:       technical.catholictld@spc.va
 nserver:      A.NIC.XN--MGBI4ECEXP 2001:dcd:1:0:0:0:0:9 37.209.192.9
 nserver:      B.NIC.XN--MGBI4ECEXP 2001:dcd:2:0:0:0:0:9 37.209.194.9
 nserver:      C.NIC.XN--MGBI4ECEXP 2001:dcd:3:0:0:0:0:9 37.209.196.9
-nserver:      D.NIC.XN--MGBI4ECEXP 2001:dcd:4:0:0:0:0:9 37.209.198.9
-ds-rdata:     34576 8 2 3D199736303984637FB5A1AF60F2E5CF6D276F89D464039DBA62C60F363F68C8
+nserver:      X.NIC.XN--MGBI4ECEXP 156.154.172.82 2610:a1:1074:0:0:0:1:82
+nserver:      Y.NIC.XN--MGBI4ECEXP 156.154.173.82 2610:a1:1075:0:0:0:1:82
+nserver:      Z.NIC.XN--MGBI4ECEXP 156.154.174.82 2610:a1:1076:0:0:0:1:82
+ds-rdata:     34576 8 2 3d199736303984637fb5a1af60f2e5cf6d276f89d464039dba62c60f363f68c8
+ds-rdata:     5914 8 2 308b25083f486a76906992484720bd2f9f944fcb49111512ea95957417f3c03d
 
 whois:        whois.nic.xn--mgbi4ecexp
 
@@ -39,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.pccs.va
 
 created:      2016-11-16
-changed:      2022-07-21
+changed:      2023-07-31
 source:       IANA
 
