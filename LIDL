@@ -5,15 +5,15 @@
 domain:       LIDL
 
 organisation: Schwarz Domains und Services GmbH & Co. KG
-address:      Stiftsbergstraße 1
-address:      74172 Neckarsulm
+address:      Stiftsbergstrasse 1
+address:      Neckarsulm 74172
 address:      Germany
 
 contact:      administrative
 name:         Tim Wessäly
 organisation: Schwarz IT GmbH & Co. KG
-address:      Stiftsbergstraße 1
-address:      74172 Neckarsulm
+address:      Stiftsbergstrasse 1
+address:      Neckarsulm 74172
 address:      Germany
 phone:        +49 7132 / 304459
 fax-no:       +49 7132 / 302248
@@ -22,9 +22,10 @@ e-mail:       gtld@mail.schwarz
 contact:      technical
 name:         CTO
 organisation: CentralNic
-address:      Saddlers House 4th Floor 44 Gutter Lane
+address:      Saddlers House, 4th Floor
+address:      44 Gutter Lane
 address:      London EC2V 6BR
-address:      United Kingdom
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44 20 33 88 0600
 fax-no:       +44 20 33 88 0601
 e-mail:       tld.ops@centralnic.com
@@ -33,9 +34,9 @@ nserver:      A.NIC.LIDL 194.169.218.91 2001:67c:13cc:0:0:0:1:91
 nserver:      B.NIC.LIDL 185.24.64.91 2a04:2b00:13cc:0:0:0:1:91
 nserver:      C.NIC.LIDL 212.18.248.91 2a04:2b00:13ee:0:0:0:0:91
 nserver:      D.NIC.LIDL 212.18.249.91 2a04:2b00:13ff:0:0:0:0:91
-ds-rdata:     25884 7 1 5D6DE6274D4355AFE0AEAB14A7090ECEEFEDFE0C
-ds-rdata:     54241 7 1 D4A5619A11199E9C1CCDB83C02F2F710DDD79EE8
-ds-rdata:     54241 7 2 12602BAA0FE5B77F6070A3E78C6BB5734BC8C415A7A74724D7060D8E23CB7A30
+ds-rdata:     25884 7 1 5d6de6274d4355afe0aeab14a7090eceefedfe0c
+ds-rdata:     54241 7 1 d4a5619a11199e9c1ccdb83c02f2f710ddd79ee8
+ds-rdata:     54241 7 2 12602baa0fe5b77f6070a3e78c6bb5734bc8c415a7a74724d7060d8e23cb7a30
 ds-rdata:     25884 7 2 417e1d3643742999e4f0041289835fcc4691e0462316515ece2cb61db57ef6e9
 
 whois:        whois.nic.lidl
