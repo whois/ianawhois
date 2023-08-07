@@ -6,27 +6,27 @@ domain:       MY
 
 organisation: MYNIC Berhad
 address:      Level 3, Tower 2, Menara Cyber Axis
-address:      Jalan Impact, 63000 Cyberjaya
-address:      Selangor Darul Ehsan
+address:      Jalan Impact
+address:      Cyberjaya Selangor Darul Ehsan 63000
 address:      Malaysia
 
 contact:      administrative
-name:         CEO
+name:         Datuk Ts. Hasnul Fadhly Hasan
 organisation: MYNIC Berhad
 address:      Level 3, Tower 2, Menara Cyber Axis
-address:      Jalan Impact, 63000 Cyberjaya
-address:      Selangor Darul Ehsan
+address:      Jalan Impact
+address:      Cyberjaya Selangor Darul Ehsan 63000
 address:      Malaysia
 phone:        +603 8008 2000
 fax-no:       +603 8008 2020
 e-mail:       dnsadmin@mynic.my
 
 contact:      technical
-name:         CEO
+name:         Datuk Ts. Hasnul Fadhly Hasan
 organisation: MYNIC Berhad
 address:      Level 3, Tower 2, Menara Cyber Axis
-address:      Jalan Impact, 63000 Cyberjaya
-address:      Selangor Darul Ehsan
+address:      Jalan Impact
+address:      Cyberjaya Selangor Darul Ehsan 63000
 address:      Malaysia
 phone:        +603 8008 2000
 fax-no:       +603 8008 2020
@@ -38,8 +38,8 @@ nserver:      A1.NIC.MY 202.171.47.204
 nserver:      B.MYNIC.CENTRALNIC-DNS.COM 185.24.64.114 2a04:2b00:13cc:0:0:0:1:114
 nserver:      C.MYNIC.CENTRALNIC-DNS.COM 212.18.248.114 2a04:2b00:13ee:0:0:0:0:114
 nserver:      D.MYNIC.CENTRALNIC-DNS.COM 212.18.249.114 2a04:2b00:13ff:0:0:0:0:114
-ds-rdata:     174 8 2 FB9E2F10F50A09E3614A9E6A2C76C1AE7554711E5242B7F516A8078D86ED87B9
-ds-rdata:     35481 8 2 AE555A40F6BDB488EB025822A71C91C94E1F339FDD71E0386561C3C4B7D2B198
+ds-rdata:     174 8 2 fb9e2f10f50a09e3614a9e6a2c76c1ae7554711e5242b7f516a8078d86ed87b9
+ds-rdata:     35481 8 2 ae555a40f6bdb488eb025822a71c91c94e1f339fdd71e0386561c3c4b7d2b198
 
 whois:        whois.mynic.my
 
@@ -47,6 +47,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.mynic.my
 
 created:      1987-06-08
-changed:      2021-02-09
+changed:      2023-02-22
 source:       IANA
 
