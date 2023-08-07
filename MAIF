@@ -6,16 +6,16 @@ domain:       MAIF
 
 organisation: Mutuelle Assurance Instituteur France (MAIF)
 address:      200 avenue Salvador Allende
-address:      BP 303 NIORT Cedex 79038
+address:      BP 303 Cedex
+address:      Niort 79038
 address:      France
 
 contact:      administrative
 name:         Internet Manager
 organisation: Mutuelle Assurance Instituteur France (MAIF)
-address:      200 avenue Salvador Allende, BP 303
-address:      NIORT cedex
-address:      n/a
-address:      79038
+address:      200 avenue Salvador Allende
+address:      BP 303 Cedex
+address:      Niort 79038
 address:      France
 phone:        +33 5 49 73 74 75
 fax-no:       +33 549738083
@@ -25,8 +25,8 @@ contact:      technical
 name:         Registry Customer Service
 organisation: Verisign, Inc.
 address:      12061 Bluemont Way
-address:      Reston Virginia 20190
-address:      United States
+address:      Reston VA 20190
+address:      United States of America (the)
 phone:        +1-703-925-6999
 fax-no:       +1-703-948-3978
 e-mail:       info@verisign-grs.com
@@ -35,12 +35,14 @@ nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
 nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
 nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
 nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
-ds-rdata:     48459 8 2 E44BC6E7CBA1624A5F16941F1D53FE470A3A7DA4B1C592878D1B32E8EBEF667C
+ds-rdata:     48459 8 2 e44bc6e7cba1624a5f16941f1d53fe470a3a7da4b1c592878d1b32e8ebef667c
+
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: http://www.maif.fr
 
 created:      2015-02-13
-changed:      2019-08-16
+changed:      2020-10-01
 source:       IANA
 
