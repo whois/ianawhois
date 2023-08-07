@@ -5,14 +5,14 @@
 domain:       SV
 
 organisation: SVNet
-address:      Calle la Reforma No. 249, Colonia San Benito,
+address:      Calle la Reforma No. 249, Colonia San Benito
 address:      San Salvador
 address:      El Salvador
 
 contact:      administrative
 name:         Rafael Ibarra
 organisation: SVNet
-address:      Calle la Reforma No. 249, Colonia San Benito,
+address:      Calle la Reforma No. 249, Colonia San Benito
 address:      San Salvador
 address:      El Salvador
 phone:        (503) 2223-5016
@@ -22,7 +22,7 @@ e-mail:       lito@ibarra.sv
 contact:      technical
 name:         Gilberto Lara
 organisation: Conexión al Desarrollo de El Salvador
-address:      Calle la Reforma No. 249, Colonia San Benito,
+address:      Calle la Reforma No. 249, Colonia San Benito
 address:      San Salvador
 address:      El Salvador
 phone:        (503) 2230-5075
@@ -31,17 +31,18 @@ e-mail:       galara@conexion.sv
 
 nserver:      A.LACTLD.ORG 200.0.68.10 2801:14:a000:0:0:0:0:10
 nserver:      AUTH02.NS.UU.NET 198.6.1.82
-nserver:      CIR.RED.SV 168.243.254.1
 nserver:      DNS-EXT.NIC.CR 200.107.82.219 2001:13c7:7004:110:0:0:0:219
 nserver:      NS.DNS.BR 200.160.0.5 2001:12ff:0:a20:0:0:0:5
 nserver:      NS.UU.NET 137.39.1.3
 nserver:      SIR.RED.SV 131.100.140.162
 nserver:      SV.CCTLD.AUTHDNS.RIPE.NET 193.0.9.112 2001:67c:e0:0:0:0:0:112
 
+whois:        
+
 status:       ACTIVE
 remarks:      Registration information: http://www.svnet.sv
 
 created:      1994-11-04
-changed:      2020-08-12
+changed:      2023-07-28
 source:       IANA
 
