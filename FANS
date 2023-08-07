@@ -5,19 +5,17 @@
 domain:       FANS
 
 organisation: ZDNS International Limited
-address:      4, South 4th Street,
-address:      Zhonguancun,
+address:      4, South 4th Street, Zhongguancun
 address:      Haidian District
-address:      100190 Beijing
+address:      Beijing 100190
 address:      China
 
 contact:      administrative
 name:         VP
 organisation: ZDNS
-address:      4, South 4th Street,
-address:      Zhonguancun,
+address:      4, South 4th Street, Zhongguancun
 address:      Haidian District
-address:      100190 Beijing
+address:      Beijing 100190
 address:      China
 phone:        +86.1058812426
 e-mail:       sophia@nic.fans
@@ -25,9 +23,10 @@ e-mail:       sophia@nic.fans
 contact:      technical
 name:         CTO
 organisation: CentralNic
-address:      Saddlers House 4th Floor 44 Gutter Lane
+address:      Saddlers House, 4th Floor
+address:      44 Gutter Lane
 address:      London EC2V 6BR
-address:      United Kingdom
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44 20 33 88 0600
 fax-no:       +44 20 33 88 0601
 e-mail:       tld.ops@centralnic.com
@@ -36,7 +35,7 @@ nserver:      A.NIC.FANS 194.169.218.39 2001:67c:13cc:0:0:0:1:39
 nserver:      B.NIC.FANS 185.24.64.39 2a04:2b00:13cc:0:0:0:1:39
 nserver:      C.NIC.FANS 212.18.248.39 2a04:2b00:13ee:0:0:0:0:39
 nserver:      D.NIC.FANS 212.18.249.39 2a04:2b00:13ff:0:0:0:0:39
-ds-rdata:     25466 8 2 7842246F760A21E694F1D8B64754F0D5BB27EF6A33F25E2F3F2DEE26B33B118B
+ds-rdata:     25466 8 2 7842246f760a21e694f1d8b64754f0d5bb27ef6a33f25e2f3f2dee26b33b118b
 
 whois:        whois.nic.fans
 
