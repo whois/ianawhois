@@ -6,15 +6,15 @@ domain:       MP
 
 organisation: Saipan Datacom, Inc.
 address:      P.O. Box 504053
-address:      Saipan  MP 96950
-address:      Northern Mariana Islands
+address:      Saipan MP 96950
+address:      Northern Mariana Islands (the)
 
 contact:      administrative
 name:         Daniel Camacho
 organisation: Saipan Datacom, Inc.
 address:      P.O. Box 504177
-address:      Saipan  MP 96950
-address:      Northern Mariana Islands
+address:      Saipan MP 96950
+address:      Northern Mariana Islands (the)
 phone:        +1 670 483 3264
 fax-no:       +1 670 235 0965
 e-mail:       dcamacho@saipan.com
@@ -23,8 +23,8 @@ contact:      technical
 name:         Daniel Camacho
 organisation: Saipan Datacom, Inc.
 address:      P.O. Box 504177
-address:      Saipan  MP 96950
-address:      Northern Mariana Islands
+address:      Saipan MP 96950
+address:      Northern Mariana Islands (the)
 phone:        +1 670 483 3264
 fax-no:       +1 670 235 0965
 e-mail:       dcamacho@saipan.com
@@ -34,10 +34,12 @@ nserver:      NS2.NIC.MP 16.163.54.122
 nserver:      NS3.NIC.MP 75.101.129.89
 nserver:      NS4.NIC.MP 75.101.133.101
 
+whois:        
+
 status:       ACTIVE
 remarks:      Registration information: https://get.mp/
 
 created:      1996-10-22
-changed:      2021-12-03
+changed:      2022-05-06
 source:       IANA
 
