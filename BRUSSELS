@@ -5,13 +5,15 @@
 domain:       BRUSSELS
 
 organisation: DNS.be vzw
-address:      Ubicenter, Philipssite 5, b 13, 3001 Leuven
+address:      Ubicenter, Philipssite 5, bus 13
+address:      Leuven 3001
 address:      Belgium
 
 contact:      administrative
 name:         CEO
 organisation: DNS Belgium vzw
-address:      Ubicenter, Philipssite 5, b 13, 3001 Leuven
+address:      Ubicenter, Philipssite 5, bus 13
+address:      Leuven 3001
 address:      Belgium
 phone:        +32 16 284970
 fax-no:       +32 16 284971
@@ -20,7 +22,8 @@ e-mail:       iana-admin@dnsbelgium.be
 contact:      technical
 name:         CTO
 organisation: DNS Belgium vzw
-address:      Ubicenter, Philipssite 5, b 13, 3001 Leuven
+address:      Ubicenter, Philipssite 5, bus 13
+address:      Leuven 3001
 address:      Belgium
 phone:        +32 16 284970
 fax-no:       +32 16 284971
@@ -33,7 +36,7 @@ nserver:      D.NSSET.BRUSSELS 194.0.44.1 2001:678:6c:0:0:0:0:1
 nserver:      Y.NSSET.BRUSSELS 120.29.253.8 2001:dcd:7:0:0:0:0:8
 nserver:      Z.NSSET.BRUSSELS 194.0.25.14 2001:678:20:0:0:0:0:14
 ds-rdata:     62419 8 2 d753ce72a834c746df60a7d2c7bd6e64151c576fcd066f95e451c3b5955d8294
-ds-rdata:     28780 8 2 EA50CAB83940B6AA791BD1A0C47ABD6C8549D43CF2776A48FAC633260F3BEE93
+ds-rdata:     28780 8 2 ea50cab83940b6aa791bd1a0c47abd6c8549d43cf2776a48fac633260f3bee93
 
 whois:        whois.nic.brussels
 
