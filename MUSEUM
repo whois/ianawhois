@@ -6,16 +6,16 @@ domain:       MUSEUM
 
 organisation: Museum Domain Management Association
 address:      International Council of Museums
-address:      22  rue de Palestro
-address:      75002 Paris
+address:      22 rue de Palestro
+address:      Paris 75002
 address:      France
 
 contact:      administrative
 name:         Account Manager
 organisation: AFNIC
-address:      1 rue Stephenson
 address:      Immeuble Le Stephenson
-address:      78180 Montigny-Le-Bretonneux
+address:      1, rue Stephenson
+address:      Montigny-Le-Bretonneux 78180
 address:      France
 phone:        +33139308300
 fax-no:       +33 139308301
@@ -26,7 +26,7 @@ name:         TLD Technical Contact
 organisation: Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)
 address:      Immeuble Le Stephenson
 address:      1, rue Stephenson
-address:      78180 Montigny-Le-Bretonneux
+address:      Montigny-Le-Bretonneux 78180
 address:      France
 phone:        +33 1 39 30 83 00
 fax-no:       +33 1 39 30 83 01
@@ -35,7 +35,7 @@ e-mail:       pocmuseum@afnic.fr
 nserver:      D.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
 nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
 nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
-ds-rdata:     21969 13 2 BDB65BCA27B34A0C9E296FB79EFC78615678F7CC46EAB5EF86FE59F259CC03C5
+ds-rdata:     21969 13 2 bdb65bca27b34a0c9e296fb79efc78615678f7cc46eab5ef86fe59f259cc03c5
 
 whois:        whois.nic.museum
 
