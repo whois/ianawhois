@@ -7,25 +7,26 @@ domain:       DEALER
 organisation: Intercap Registry Inc.
 address:      4th Floor, Harbour Place, 103 South Church Street
 address:      PO Box 10240
-address:      Grand Cayman, KY1-1002
-address:      Cayman Islands
+address:      Grand Cayman KY1-1002
+address:      Cayman Islands (the)
 
 contact:      administrative
 name:         General Manager
 organisation: Intercap Registry Inc.
 address:      4th Floor, Harbour Place, 103 South Church Street
 address:      PO Box 10240
-address:      Grand Cayman, KY1-1002
-address:      Cayman Islands
+address:      Grand Cayman KY1-1002
+address:      Cayman Islands (the)
 phone:        +1-833-436-8462
 e-mail:       admin@intercap.inc
 
 contact:      technical
 name:         CTO
 organisation: CentralNic
-address:      Saddlers House 4th Floor 44 Gutter Lane
+address:      Saddlers House, 4th Floor
+address:      44 Gutter Lane
 address:      London EC2V 6BR
-address:      United Kingdom
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44 20 33 88 0600
 fax-no:       +44 20 33 88 0601
 e-mail:       tld.ops@centralnic.com
@@ -34,10 +35,10 @@ nserver:      A.NIC.DEALER 194.169.218.138 2001:67c:13cc:0:0:0:1:138
 nserver:      B.NIC.DEALER 185.24.64.138 2a04:2b00:13cc:0:0:0:1:138
 nserver:      C.NIC.DEALER 212.18.248.138 2a04:2b00:13ee:0:0:0:0:138
 nserver:      D.NIC.DEALER 212.18.249.138 2a04:2b00:13ff:0:0:0:0:138
-ds-rdata:     43516 8 2 AFFEE7DB437839677F9B16547175BFA4F22A0CFC0FC2F374AF5884C523EFA54C
-ds-rdata:     43516 8 1 E4209E3F2BFDBF136D547329F367AE9BD03A3BEB
-ds-rdata:     31586 8 2 8C442BFE32DAFF402FCC59D26A90F5ECAC593FB6BA8A6396BD21686E3BD0D24B
-ds-rdata:     31586 8 1 2300A755B90E6E18845757994FFD35D160F8B1C3
+ds-rdata:     43516 8 2 affee7db437839677f9b16547175bfa4f22a0cfc0fc2f374af5884c523efa54c
+ds-rdata:     43516 8 1 e4209e3f2bfdbf136d547329f367ae9bd03a3beb
+ds-rdata:     31586 8 2 8c442bfe32daff402fcc59d26a90f5ecac593fb6ba8a6396bd21686e3bd0d24b
+ds-rdata:     31586 8 1 2300a755b90e6e18845757994ffd35d160f8b1c3
 
 whois:        whois.nic.dealer
 
