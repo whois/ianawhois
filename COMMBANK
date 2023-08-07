@@ -7,9 +7,7 @@ domain:       COMMBANK
 organisation: COMMONWEALTH BANK OF AUSTRALIA
 address:      Ground Floor
 address:      Tower 1 201 Sussex Street
-address:      Sydney
-address:      New South Wales
-address:      1155
+address:      Sydney NSW 1155
 address:      Australia
 
 contact:      administrative
@@ -17,9 +15,7 @@ name:         Domain Admin
 organisation: ONWEALTH BANK OF AUSTRALIA
 address:      Ground Floor
 address:      Tower 1 201 Sussex Street
-address:      Sydney
-address:      New South Wales
-address:      1155
+address:      Sydney NSW 1155
 address:      Australia
 phone:        +61477387865
 fax-no:       +61291181601
@@ -30,9 +26,7 @@ name:         Domain Admin
 organisation: COMMONWEALTH BANK OF AUSTRALIA
 address:      Ground Floor
 address:      Tower 1 201 Sussex Street
-address:      Sydney
-address:      New South Wales
-address:      1155
+address:      Sydney NSW 1155
 address:      Australia
 phone:        +61477387865
 fax-no:       +61291181601
@@ -42,7 +36,7 @@ nserver:      A.NIC.COMMBANK 2001:dcd:1:0:0:0:0:9 37.209.192.9
 nserver:      B.NIC.COMMBANK 2001:dcd:2:0:0:0:0:9 37.209.194.9
 nserver:      C.NIC.COMMBANK 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      D.NIC.COMMBANK 2001:dcd:4:0:0:0:0:9 37.209.198.9
-ds-rdata:     25681 8 2 CCB3F1BCFD33D277ECE719B8AAD64A84B6722C4A46235605F3DF06D435F59B6D
+ds-rdata:     25681 8 2 ccb3f1bcfd33d277ece719b8aad64a84b6722c4a46235605f3df06d435f59b6d
 
 whois:        whois.nic.commbank
 
