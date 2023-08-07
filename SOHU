@@ -5,13 +5,17 @@
 domain:       SOHU
 
 organisation: Sohu.com Limited
-address:      SOHU.com Media Plaza, Block 3, No.2 Kexueyuan South Road, Haidian District, Beijing, China
+address:      SOHU.com Media Plaza, Block 3, No.2 Kexueyuan South Road
+address:      Haidian District
+address:      Beijing
 address:      China
 
 contact:      administrative
 name:         dns admin
 organisation: Sohu.com Limited
-address:      SOHU.com Media Plaza, Block 3, No.2 Kexueyuan South Road, Haidian District, Beijing, China
+address:      SOHU.com Media Plaza, Block 3, No.2 Kexueyuan South Road
+address:      Haidian District
+address:      Beijing
 address:      China
 phone:        +86-10-56602146
 e-mail:       dnsadmin@sohu-inc.com
@@ -19,7 +23,9 @@ e-mail:       dnsadmin@sohu-inc.com
 contact:      technical
 name:         technical support
 organisation: Sohu.com Limited
-address:      SOHU.com Media Plaza, Block 3, No.2 Kexueyuan South Road, Haidian District, Beijing, China
+address:      SOHU.com Media Plaza, Block 3, No.2 Kexueyuan South Road
+address:      Haidian District
+address:      Beijing
 address:      China
 phone:        +86-10-56602146
 e-mail:       dnsadmin@sohu-inc.com
@@ -34,9 +40,12 @@ nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
 ds-rdata:     25066 8 2 ce87e0735a424d4601fdb8d7691ff1b916c54c6ce367a9a66cce7f88ec8a9e97
 
+whois:        
+
 status:       ACTIVE
+remarks:      Registration information: 
 
 created:      2014-02-27
-changed:      2019-08-15
+changed:      2022-12-08
 source:       IANA
 
