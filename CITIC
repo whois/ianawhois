@@ -5,13 +5,17 @@
 domain:       CITIC
 
 organisation: CITIC Group Corporation
-address:      Capital Mansion,6 Xinyuannanlu, Chaoyang District, Beijing 100004
+address:      Capital Mansion,6 Xinyuannanlu
+address:      Chaoyang District
+address:      Beijing 100004
 address:      China
 
 contact:      administrative
 name:         Xiaohui Ji
 organisation: CITIC Group Corporation
-address:      Capital Mansion,6 Xinyuannanlu, Chaoyang District, Beijing 100004
+address:      Capital Mansion,6 Xinyuannanlu
+address:      Chaoyang District
+address:      Beijing 100004
 address:      China
 phone:        86 10 59661088
 fax-no:       86 10 59660088
@@ -20,7 +24,9 @@ e-mail:       jixh@citic.com
 contact:      technical
 name:         Jichao Fei
 organisation: CITIC Group Corporation
-address:      Capital Mansion,6 Xinyuannanlu, Chaoyang District, Beijing 100004
+address:      Capital Mansion,6 Xinyuannanlu
+address:      Chaoyang District
+address:      Beijing 100004
 address:      China
 phone:        86 10 59661013
 fax-no:       86 10 59660013
@@ -36,9 +42,12 @@ nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
 ds-rdata:     12331 8 2 cdbfc9f67e7f97e1759bf1bcaa26c853bc5dde881551e1fa4a633e8bd6b8c9bd
 
+whois:        
+
 status:       ACTIVE
+remarks:      Registration information: 
 
 created:      2014-04-17
-changed:      2019-08-15
+changed:      2022-12-08
 source:       IANA
 
