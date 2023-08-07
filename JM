@@ -6,7 +6,7 @@ domain:       JM
 
 organisation: University of West Indies
 address:      7 Gibraltar Road
-address:      Kingston  7
+address:      Mona Kingston 7
 address:      Jamaica
 
 contact:      administrative
@@ -14,7 +14,7 @@ name:         Jeremy M. Whyte
 organisation: Mona Information Technology Services
 organisation: University of the West Indies
 address:      7 Gibraltar Road
-address:      Kingston  7
+address:      Mona Kingston 7
 address:      Jamaica
 phone:        +1 876 927 2148
 fax-no:       +1 876 927 0997
@@ -24,9 +24,8 @@ contact:      technical
 name:         Domain Master
 organisation: Mona Information Technology Services
 organisation: University of the West Indies
-address:      7 Gilbraltar Road
-address:      Mona
-address:      Kingston  7
+address:      7 Gibraltar Road
+address:      Mona Kingston 7
 address:      Jamaica
 phone:        +1 876 927 2148
 fax-no:       +1 876 927 0997
@@ -38,9 +37,12 @@ nserver:      NS.UTECHJAMAICA.EDU.JM 200.9.115.2
 nserver:      NS3-JM.FSL.ORG.JM 196.3.191.66
 nserver:      PHLOEM.UOREGON.EDU 128.223.32.35 2001:468:d01:20:0:0:80df:2023
 
+whois:        
+
 status:       ACTIVE
+remarks:      Registration information: 
 
 created:      1991-09-24
-changed:      2011-12-06
+changed:      2020-03-09
 source:       IANA
 
