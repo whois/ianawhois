@@ -7,14 +7,14 @@ domain:       VIP
 organisation: Registry Services, LLC
 address:      2155 E. GoDaddy Way
 address:      Tempe AZ 85284
-address:      United States
+address:      United States of America (the)
 
 contact:      administrative
 name:         IANA Contact
 organisation: GoDaddy Registry
 address:      2155 E GoDaddy Way
 address:      Tempe AZ 85284
-address:      United States
+address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
 e-mail:       iana@registry.godaddy
@@ -24,7 +24,7 @@ name:         IANA Contact
 organisation: GoDaddy Registry
 address:      2155 E GoDaddy Way
 address:      Tempe AZ 85284
-address:      United States
+address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
 e-mail:       iana@registry.godaddy
@@ -32,8 +32,10 @@ e-mail:       iana@registry.godaddy
 nserver:      A.NIC.VIP 2001:dcd:1:0:0:0:0:10 37.209.192.10
 nserver:      B.NIC.VIP 2001:dcd:2:0:0:0:0:10 37.209.194.10
 nserver:      C.NIC.VIP 2001:dcd:3:0:0:0:0:10 37.209.196.10
-nserver:      D.NIC.VIP 2001:dcd:4:0:0:0:0:10 37.209.198.10
-ds-rdata:     40669 8 2 EB70A1F31A3C3B26E464DD98A97970001FC220021DEA2B4A5DDA68DE2C1DBF00
+nserver:      X.NIC.VIP 156.154.172.82 2610:a1:1074:0:0:0:1:82
+nserver:      Y.NIC.VIP 156.154.173.82 2610:a1:1075:0:0:0:1:82
+nserver:      Z.NIC.VIP 156.154.174.82 2610:a1:1076:0:0:0:1:82
+ds-rdata:     40669 8 2 eb70a1f31a3c3b26e464dd98a97970001fc220021dea2b4a5dda68de2c1dbf00
 
 whois:        whois.nic.vip
 
@@ -41,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.vip/
 
 created:      2015-07-30
-changed:      2022-09-12
+changed:      2022-12-01
 source:       IANA
 
