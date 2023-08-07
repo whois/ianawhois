@@ -6,15 +6,15 @@ domain:       FIRMDALE
 
 organisation: Firmdale Holdings Limited
 address:      21 Golden Square
-address:      LONDON W1F 9JN
-address:      United Kingdom
+address:      London W1F 9JN
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 
 contact:      administrative
 name:         Director of IT
 organisation: Firmdale Hotels
 address:      21 Golden Square
 address:      London W1F 9JN
-address:      United Kingdom
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +442072256318
 fax-no:       +442075461029
 e-mail:       markread@firmdale.com
@@ -24,10 +24,10 @@ name:         Pon Hoong Foong
 organisation: Qinetics Solutions Sdn Bhd
 address:      L4-E-2, Level 4, Enterprise 4,
 address:      Technology Park Malaysia,
-address:      57000 Bukit Jalil,
-address:      Kuala Lumpur
+address:      Bukit Jalil
+address:      Kuala Lumpur 57000
 address:      Malaysia
-phone:        +60389966788 
+phone:        +60389966788
 fax-no:       +60389966788
 e-mail:       dev@registryasp.com
 
@@ -38,6 +38,7 @@ ds-rdata:     46150 8 1 242c19944d9422f066f20d3686225c2370d150d0
 whois:        whois.nic.firmdale
 
 status:       ACTIVE
+remarks:      Registration information: 
 
 created:      2014-09-04
 changed:      2020-01-10
