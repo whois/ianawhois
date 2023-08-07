@@ -6,18 +6,14 @@ domain:       IMAMAT
 
 organisation: Fondation Aga Khan (Aga Khan Foundation)
 address:      1 - 3 avenue de la Paix
-address:      Geneva
-address:      Geneva
-address:      1202
+address:      Geneva Geneva CH-1202
 address:      Switzerland
 
 contact:      administrative
 name:         Director of Finance
 organisation: Fondation Aga Khan (Aga Khan Foundation)
 address:      1 - 3 avenue de la Paix
-address:      Geneva
-address:      Geneva
-address:      1202
+address:      Geneva Geneva CH-1202
 address:      Switzerland
 phone:        +41 22 909 7200
 fax-no:       +41 22 909 7292
@@ -26,10 +22,10 @@ e-mail:       akftld.imamat@akdn.org
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
 organisation: Afilias
-address:      Building 3, Suite 105
 address:      300 Welsh Road
-address:      Horsham, PA 19044
-address:      United States
+address:      Building 3, Suite 105
+address:      Horsham PA 19044
+address:      United States of America (the)
 phone:        +1 215.706.5700
 fax-no:       +1 215.706.5701
 e-mail:       tld-tech-poc@afilias.info
