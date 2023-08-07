@@ -5,20 +5,16 @@
 domain:       AZURE
 
 organisation: Microsoft Corporation
-address:      One Microsoft Way,
-address:      Redmond,
-address:      WA
-address:      98052
-address:      United States
+address:      One Microsoft Way
+address:      Redmond WA 98052
+address:      United States of America (the)
 
 contact:      administrative
 name:         Program Manager
 organisation: Microsoft Corporation
-address:      One Microsoft Way,
-address:      Redmond,
-address:      WA
-address:      98052
-address:      United States
+address:      One Microsoft Way
+address:      Redmond WA 98052
+address:      United States of America (the)
 phone:        425-706-3546
 fax-no:       425-457-2511
 e-mail:       tlddom@microsoft.com
@@ -27,10 +23,8 @@ contact:      technical
 name:         Registry Customer Service
 organisation: Verisign, Inc
 address:      12061 Bluemont Way
-address:      Reston
-address:      Virginia
-address:      20190
-address:      United States
+address:      Reston VA 20190
+address:      United States of America (the)
 phone:        +1-703-925-6999
 fax-no:       +1-703-948-3978
 e-mail:       info@verisign-grs.com
@@ -39,12 +33,14 @@ nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
 nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
 nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
 nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
-ds-rdata:     25698 8 2 2C2D532D450F86FBC9238816088ED98AE6C8A5F665706DD634BA4E63A8D8837F
+ds-rdata:     25698 8 2 2c2d532d450f86fbc9238816088ed98ae6c8a5f665706dd634ba4e63a8d8837f
+
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: http://www.microsoft.com
 
 created:      2015-04-30
-changed:      2019-08-16
+changed:      2020-10-01
 source:       IANA
 
