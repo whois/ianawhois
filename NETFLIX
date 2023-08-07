@@ -5,14 +5,16 @@
 domain:       NETFLIX
 
 organisation: Netflix, Inc.
-address:      100 Winchester Circle, Los Gatos, CA 95032
-address:      United States
+address:      100 Winchester Circle
+address:      Los Gatos CA 95032
+address:      United States of America (the)
 
 contact:      administrative
-name:         Registry Administrator 
+name:         Registry Administrator
 organisation: Netflix, Inc.
-address:      100 Winchester Circle, Los Gatos, CA 95032
-address:      United States
+address:      100 Winchester Circle
+address:      Los Gatos CA 95032
+address:      United States of America (the)
 phone:        +1.4085403700
 fax-no:       +1.4085403737
 e-mail:       nicadmin@netflix.com
@@ -21,8 +23,8 @@ contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
 address:      2155 E GoDaddy Way
-address:      Tempe, AZ 85284
-address:      United States
+address:      Tempe AZ 85284
+address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
@@ -33,7 +35,9 @@ nserver:      NS3.DNS.NIC.NETFLIX 156.154.159.121 2610:a1:1073:0:0:0:0:79
 nserver:      NS4.DNS.NIC.NETFLIX 156.154.156.121 2610:a1:1074:0:0:0:0:79
 nserver:      NS5.DNS.NIC.NETFLIX 156.154.157.121 2610:a1:1075:0:0:0:0:79
 nserver:      NS6.DNS.NIC.NETFLIX 156.154.158.121 2610:a1:1076:0:0:0:0:79
-ds-rdata:     27637 8 2 7ABA17BD5B87AA5D31CB611E0DFD4C67D926B6CFC68B8AECA58C468B104CC2E6
+ds-rdata:     27637 8 2 7aba17bd5b87aa5d31cb611e0dfd4c67d926b6cfc68b8aeca58c468b104cc2e6
+
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: http://www.netflix.com
