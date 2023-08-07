@@ -6,14 +6,14 @@ domain:       BF
 
 organisation: ARCE-AutoritÈ de RÈgulation des Communications Electroniques
 address:      01 BP 6437
-address:      Ouagadougou  01
+address:      Ouagadougou 01
 address:      Burkina Faso
 
 contact:      administrative
 name:         Directeur des Services Informatiques
 organisation: ARCE-AutoritÈ de RÈgulation des Communications Electroniques
 address:      01 BP 6437
-address:      Ouagadougou  01
+address:      Ouagadougou 01
 address:      Burkina Faso
 phone:        +22670390190
 fax-no:       +22625375364
@@ -23,22 +23,24 @@ contact:      technical
 name:         Chef de Service FASONET
 organisation: ONATEL SA - Office National des TÈlÈcommunications
 address:      01 BP 10000
-address:      Ouagadougou  01
+address:      Ouagadougou 01
 address:      Burkina Faso
 phone:        +22670201338
 fax-no:       +22625375364
 e-mail:       e.guigma@moov-africa.bf
 
 nserver:      A.REGISTRE.BF 212.52.146.50
-nserver:      CENSVRNS0001.IRD.FR 91.203.32.147
+nserver:      DNS-TLD.IRD.FR 13.39.116.127
 nserver:      NS-BF.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
 nserver:      PCH.NS.REGISTRE.BF 2001:500:14:6141:ad:0:0:1 204.61.216.141
+
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information:
 remarks:      http://www.arcep.bf/noms-de-domaine
 
 created:      1993-03-29
-changed:      2022-03-31
+changed:      2023-03-23
 source:       IANA
 
