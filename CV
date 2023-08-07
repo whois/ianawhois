@@ -6,17 +6,17 @@ domain:       CV
 
 organisation: Agência Reguladora Multissectorial da Economia (ARME)
 address:      Avenida da China
-address:      Chã d'Areia
-address:      Praia, Santiago  892
-address:      Cape Verde
+address:      Chã d' Areia
+address:      Praia Santiago 892
+address:      Cabo Verde
 
 contact:      administrative
 name:         Suzete Júlia Dias Monteiro Centeio
 organisation: Agência Reguladora Multissectorial da Economia (ARME)
 address:      Avenida da China
 address:      Chã d' Areia
-address:      Praia, Santiago  892
-address:      Cape Verde
+address:      Praia Santiago 892
+address:      Cabo Verde
 phone:        +238 260 4400
 fax-no:       +238 261 3069
 e-mail:       suzete.centeio@arme.cv
@@ -24,8 +24,8 @@ e-mail:       suzete.centeio@arme.cv
 contact:      technical
 name:         Assis Neves Guerreiro
 organisation: Associação DNS.PT
-address:      Rua Latino Coelho, nº13, 5ºpiso
-address:      1050-132 Lisboa
+address:      Rua Eça de Queiroz, 29
+address:      Lisboa 1050-095
 address:      Portugal
 phone:        (+351) 211308200
 fax-no:       (+351) 211312720
@@ -34,13 +34,14 @@ e-mail:       assis.guerreiro@dns.pt
 nserver:      ANYC.DNSNODE.NET 194.58.198.135 2a01:3f1:3032:8001:0:0:0:135
 nserver:      C.DNS.PT 2001:500:14:6105:ad:0:0:1 204.61.216.105
 nserver:      CV01.DNS.PT 185.39.208.18 2a04:6d80:0:0:0:0:0:18
-nserver:      NS-EXT.ISC.ORG 2001:4f8:0:2:0:0:0:13 204.152.184.64
 nserver:      NS.DNS.CV 41.221.192.220
+
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: http://www.dns.cv/
 
 created:      1996-10-21
-changed:      2022-07-21
+changed:      2023-06-07
 source:       IANA
 
