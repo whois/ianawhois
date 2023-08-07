@@ -5,25 +5,26 @@
 domain:       BEAUTY
 
 organisation: XYZ.COM LLC
-address:      2121 E Tropicana Ave, STE2
-address:      Las Vegas, NV 89119
-address:      United States
+address:      2121 E Tropicana Ave, Suite 2
+address:      Las Vegas NV 89119
+address:      United States of America (the)
 
 contact:      administrative
 name:         General Counsel
 organisation: XYZ.COM LLC
-address:      2121 E Tropicana Ave, STE2
-address:      Las Vegas, NV 89119
-address:      United States
+address:      2121 E Tropicana Ave, Suite 2
+address:      Las Vegas NV 89119
+address:      United States of America (the)
 phone:        +1 702 757 6555
 e-mail:       hello@xyz.com
 
 contact:      technical
 name:         CTO
 organisation: CentralNic
-address:      Saddlers House 4th Floor 44 Gutter Lane
+address:      Saddlers House, 4th Floor
+address:      44 Gutter Lane
 address:      London EC2V 6BR
-address:      United Kingdom
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44 20 33 88 0600
 fax-no:       +44 20 33 88 0601
 e-mail:       tld.ops@centralnic.com
@@ -32,8 +33,8 @@ nserver:      A.NIC.BEAUTY 194.169.218.119 2001:67c:13cc:0:0:0:1:119
 nserver:      B.NIC.BEAUTY 185.24.64.119 2a04:2b00:13cc:0:0:0:1:119
 nserver:      C.NIC.BEAUTY 212.18.248.119 2a04:2b00:13ee:0:0:0:0:119
 nserver:      D.NIC.BEAUTY 212.18.249.119 2a04:2b00:13ff:0:0:0:0:119
-ds-rdata:     35340 8 2 2489479F7A6E57341C7C5508C55113491C519DD846258A6593C4D1ABA57D463E
-ds-rdata:     52406 8 2 C5C45B79DBE67A132237B020F4966FE32FBE61553487E38D47918561568E9957
+ds-rdata:     35340 8 2 2489479f7a6e57341c7c5508c55113491c519dd846258a6593c4d1aba57d463e
+ds-rdata:     52406 8 2 c5c45b79dbe67a132237b020f4966fe32fbe61553487e38d47918561568e9957
 
 whois:        whois.nic.beauty
 
