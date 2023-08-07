@@ -5,14 +5,16 @@
 domain:       MATTEL
 
 organisation: Mattel Sites, Inc.
-address:      333 Continental Blvd., El Segundo, CA 90245 USA
-address:      United States
+address:      333 Continental Blvd.
+address:      El Segundo CA 90245
+address:      United States of America (the)
 
 contact:      administrative
 name:         Tom Lynch
 organisation: Mattel, Inc.
-address:      333 Continental Blvd., M1-1518, El Segundo, CA 90245 USA
-address:      United States
+address:      333 Continental Blvd., M1-1518
+address:      El Segundo CA 90245
+address:      United States of America (the)
 phone:        +1 310 252 3527
 fax-no:       +1 310-252-4991
 e-mail:       proxyadm@mattel.com
@@ -21,8 +23,8 @@ contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
 address:      2155 E GoDaddy Way
-address:      Tempe, AZ 85284
-address:      United States
+address:      Tempe AZ 85284
+address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
@@ -33,7 +35,9 @@ nserver:      C.NIC.MATTEL 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.MATTEL 156.154.144.109 2610:a1:1071:0:0:0:0:6d
 nserver:      NS2.DNS.NIC.MATTEL 156.154.145.109 2610:a1:1072:0:0:0:0:6d
 nserver:      NS3.DNS.NIC.MATTEL 156.154.159.109 2610:a1:1073:0:0:0:0:6d
-ds-rdata:     59044 8 2 66F510D9469E77AE174BEA4F42E1215AFD837C2A27C9F0095BBBC3A3E2BA4CA4
+ds-rdata:     59044 8 2 66f510d9469e77ae174bea4f42e1215afd837c2a27c9f0095bbbc3a3e2ba4ca4
+
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: http://www.mattel.com
