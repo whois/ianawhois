@@ -5,13 +5,17 @@
 domain:       WANG
 
 organisation: Zodiac Wang Limited
-address:      Block A Unit 406, Horizon International Tower No. 6 Zhichun Road, Haidian District Beijing 100088 P.R. China
+address:      Block A Unit 406, Horizon International Tower No. 6 Zhichun Road
+address:      Haidian District
+address:      Beijing 100088
 address:      China
 
 contact:      administrative
 name:         Eugene Li
 organisation: Zodiac Holdings Ltd
-address:      Block B Unit 403, Horizon International Tower No. 6 Zhichun Road, Haidian District Beijing 100088 P.R. China
+address:      Block A Unit 406, Horizon International Tower No. 6 Zhichun Road
+address:      Haidian District
+address:      Beijing 100088
 address:      China
 phone:        +86.1082961219
 fax-no:       +86.1082961269
@@ -20,7 +24,9 @@ e-mail:       ceo@nic.wang
 contact:      technical
 name:         Zhanyong Zhang
 organisation: Zodiac Holdings Ltd
-address:      Block B Unit 403, Horizon International Tower No. 6 Zhichun Road, Haidian District Beijing 100088 P.R. China
+address:      Block A Unit 406, Horizon International Tower No. 6 Zhichun Road
+address:      Haidian District
+address:      Beijing 100088
 address:      China
 phone:        +86.1082961219
 fax-no:       +86.1082961269
@@ -42,6 +48,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.zodiacregistry.com
 
 created:      2013-12-12
-changed:      2019-06-13
+changed:      2022-12-08
 source:       IANA
 
