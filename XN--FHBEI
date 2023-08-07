@@ -7,15 +7,15 @@ domain-ace:   XN--FHBEI
 
 organisation: VeriSign Sarl
 address:      3 rue des Pilettes
-address:      CH-1700 Fribour
+address:      Fribourg CH-1700
 address:      Switzerland
 
 contact:      administrative
 name:         Registry Customer Service
 organisation: Verisign, Inc.
 address:      12061 Bluemont Way
-address:      Reston Virginia 20190
-address:      United States
+address:      Reston VA 20190
+address:      United States of America (the)
 phone:        +1-703-925-6999
 fax-no:       +1-703-948-3978
 e-mail:       info@verisign-grs.com
@@ -24,8 +24,8 @@ contact:      technical
 name:         Registry Customer Service
 organisation: Verisign, Inc.
 address:      12061 Bluemont Way
-address:      Reston Virginia 20190
-address:      United States
+address:      Reston VA 20190
+address:      United States of America (the)
 phone:        +1-703-925-6999
 fax-no:       +1-703-948-3978
 e-mail:       info@verisign-grs.com
@@ -34,7 +34,7 @@ nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
 nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
 nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
 nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
-ds-rdata:     9171 8 2 8FA92257D3AB8E1BE968BCE6500CD79EFC42D91F43226C7147F978E00C80944D
+ds-rdata:     9171 8 2 8fa92257d3ab8e1be968bce6500cd79efc42d91f43226c7147f978e00c80944d
 
 whois:        whois.nic.xn--fhbei
 
@@ -42,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.verisigninc.com
 
 created:      2015-07-02
-changed:      2019-08-14
+changed:      2020-10-01
 source:       IANA
 
