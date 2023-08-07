@@ -8,7 +8,7 @@ organisation: University College Dublin
 organisation: Computing Services
 organisation: Computer Centre
 address:      Belfield
-address:      Dublin City,  Dublin 4
+address:      Dublin Dublin 4
 address:      Ireland
 
 contact:      administrative
@@ -16,7 +16,7 @@ name:         Chief Executive
 organisation: IE Domain Registry Limited
 address:      2 Harbour Square
 address:      Dún Laoghaire
-address:      Co. Dublin
+address:      Dublin Dublin 2
 address:      Ireland
 phone:        +353 1 236 5412
 fax-no:       +353 1 230 1273
@@ -27,20 +27,20 @@ name:         Technical Services Manager
 organisation: IE Domain Registry Limited
 address:      2 Harbour Square
 address:      Dún Laoghaire
-address:      Co. Dublin
+address:      Dublin Dublin 2
 address:      Ireland
 phone:        +353 1 236 5421
 fax-no:       +353 1 230 1273
 e-mail:       tld-tech@weare.ie
 
-nserver:      B.NS.IE 2a01:4b0:0:0:0:0:0:2 77.72.72.34
+nserver:      A.NS.IE 2a01:4b0:0:0:0:0:0:40 77.72.72.40
 nserver:      C.NS.IE 194.146.106.98 2001:67c:1010:25:0:0:0:53
 nserver:      D.NS.IE 2a01:3f0:0:309:0:0:0:53 77.72.229.245
 nserver:      E.NS.IE 185.159.199.210 2620:10a:80ac:0:0:0:0:210
 nserver:      G.NS.IE 192.111.39.100 2001:7c8:2:a:0:0:0:64
 nserver:      H.NS.IE 192.93.0.4 2001:660:3005:1:0:0:1:2
 nserver:      I.NS.IE 194.0.25.35 2001:678:20:0:0:0:0:35
-ds-rdata:     15040 13 2 966EC13E38AD71EB585FB1982308930D96CF88873A065188AC11C469435ABD39
+ds-rdata:     15040 13 2 966ec13e38ad71eb585fb1982308930d96cf88873a065188ac11c469435abd39
 
 whois:        whois.weare.ie
 
@@ -48,6 +48,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.weare.ie
 
 created:      1988-01-27
-changed:      2022-11-15
+changed:      2023-06-30
 source:       IANA
 
