@@ -5,17 +5,17 @@
 domain:       TEMASEK
 
 organisation: Temasek Holdings (Private) Limited
-address:      60B Orchard Road #06-18 Tower 2 The Atrium@Orchard
-address:      Singapore, Singapore
-address:      238891
+address:      60B Orchard Road
+address:      #06-18 Tower 2
+address:      The Atrium@Orchard
+address:      Singapore 238891
 address:      Singapore
 
 contact:      administrative
 name:         Business Development Executive
 organisation: IP Mirror Pte Ltd
 address:      9 Hongkong Street #01-01
-address:      Singapore, Singapore
-address:      059652
+address:      Singapore 059652
 address:      Singapore
 phone:        +65 6222 0105
 fax-no:       +65 6222 0210
@@ -24,10 +24,10 @@ e-mail:       ngtld-temasek@cscinfo.com
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
 organisation: Afilias
-address:      Building 3, Suite 105
 address:      300 Welsh Road
-address:      Horsham, PA 19044
-address:      United States
+address:      Building 3, Suite 105
+address:      Horsham PA 19044
+address:      United States of America (the)
 phone:        +1 215.706.5700
 fax-no:       +1 215.706.5701
 e-mail:       tld-tech-poc@afilias.info
