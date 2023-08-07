@@ -6,15 +6,15 @@ domain:       MED
 
 organisation: Medistry LLC
 address:      3029 Prospect Ave
-address:      Cleveland, Ohio 44115
-address:      United States
+address:      Cleveland OH 44115
+address:      United States of America (the)
 
 contact:      administrative
 name:         Ray Fassett
 organisation: Medistry, LLC
 address:      3029 Prospect Ave
-address:      Cleveland, Ohio 44115
-address:      United States
+address:      Cleveland OH 44115
+address:      United States of America (the)
 phone:        +1 216-361-1000
 fax-no:       +1 216-588-1558
 e-mail:       ray@goto.jobs
@@ -22,12 +22,11 @@ e-mail:       ray@goto.jobs
 contact:      technical
 name:         TLD Registry Services Technical
 organisation: Nominet
-address:      Minerva House,
-address:      Edmund Halley Road,
-address:      Oxford Science Park,
-address:      Oxford
-address:      OX4 4DQ
-address:      United Kingdom
+address:      Minerva House
+address:      Edmund Halley Road
+address:      Oxford Science Park
+address:      Oxford OX4 4DQ
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44.1865332211
 e-mail:       registrytechnical@nominet.uk
 
@@ -39,11 +38,12 @@ nserver:      DNSA.NIC.MED 156.154.100.3 2001:502:ad09:0:0:0:0:3
 nserver:      DNSB.NIC.MED 156.154.101.3 2001:502:2eda:0:0:0:0:3
 nserver:      DNSC.NIC.MED 156.154.102.3 2610:a1:1009:0:0:0:0:3
 nserver:      DNSD.NIC.MED 156.154.103.3 2610:a1:1010:0:0:0:0:3
-ds-rdata:     36455 8 2 4B9CBEC710C3FB2EDDC07AE31E75FA59855FB5ABCB9CE68A61CB7E490B5831C4
+ds-rdata:     36455 8 2 4b9cbec710c3fb2eddc07ae31e75fa59855fb5abcb9ce68a61cb7e490b5831c4
 
 whois:        whois.nic.med
 
 status:       ACTIVE
+remarks:      Registration information: 
 
 created:      2015-11-12
 changed:      2021-11-09
