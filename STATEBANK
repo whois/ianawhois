@@ -5,13 +5,15 @@
 domain:       STATEBANK
 
 organisation: STATE BANK OF INDIA
-address:      State Bank Bhavan, Madame Cama Road, Nariman Point, Mumbai, Maharashtra, 400021
+address:      State Bank Bhavan, Madame Cama Road, Nariman Point
+address:      Mumbai Maharashtra 400021
 address:      India
 
 contact:      administrative
 name:         IT-NW&MS Department
 organisation: State Bank of India
-address:      GITC, Belapur Sector-11, Navi Mumbai, Maharashtra, 400614
+address:      GITC, Belapur Sector-11
+address:      Navi Mumbai Maharashtra 400614
 address:      India
 phone:        +91.22.27566061
 fax-no:       +91.22.27577373-76
@@ -20,8 +22,10 @@ e-mail:       gtld@sbi.co.in
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
 organisation: Afilias
-address:      Building 3, Suite 105,  300 Welsh Road, Horsham, PA 19044
-address:      United States
+address:      300 Welsh Road
+address:      Building 3, Suite 105
+address:      Horsham PA 19044
+address:      United States of America (the)
 phone:        +1.215.706.5700
 fax-no:       +1.215.706.5701
 e-mail:       tld-tech-poc@afilias.info
