@@ -6,18 +6,18 @@ domain:       سورية
 domain-ace:   XN--OGBPF8FL
 
 organisation: National Agency for Network Services (NANS)
-address:      Sahara-Sabboura crossroads
+address:      Sahara-Sabboura Crossroads
 address:      P.O. Box 47/Kudsaya
 address:      Damascus
-address:      Syrian Arab Republic
+address:      Syrian Arab Republic (the)
 
 contact:      administrative
 name:         Head of Licensing Department
 organisation: National Agency for Network Services (NANS)
-address:      Sahara-Sabboura crossroads
+address:      Sahara-Sabboura Crossroads
 address:      P.O. Box 47/Kudsaya
 address:      Damascus
-address:      Syrian Arab Republic
+address:      Syrian Arab Republic (the)
 phone:        +963 11 3937096
 fax-no:       +963 11 3937079
 e-mail:       dnsadmin@tld.sy
@@ -25,10 +25,10 @@ e-mail:       dnsadmin@tld.sy
 contact:      technical
 name:         NANS DNS Technical Department
 organisation: National Agency for Network Services (NANS)
-address:      Sahara-Sabboura crossroads
+address:      Sahara-Sabboura Crossroads
 address:      P.O. Box 47/Kudsaya
 address:      Damascus
-address:      Syrian Arab Republic
+address:      Syrian Arab Republic (the)
 phone:        +963 11 3937047
 fax-no:       +963 11 3937079
 e-mail:       dns@tld.sy
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://tld.sy
 
 created:      2011-02-05
-changed:      2018-07-25
+changed:      2023-03-07
 source:       IANA
 
