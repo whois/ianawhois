@@ -6,15 +6,15 @@ domain:       FLICKR
 
 organisation: Flickr, Inc.
 address:      67 E. Evelyn Ave
-address:      Mountain View, CA 94041
-address:      United States
+address:      Mountain View CA 94041
+address:      United States of America (the)
 
 contact:      administrative
 name:         Domain Admin
 organisation: Flickr, Inc.
 address:      67 E. Evelyn Ave
-address:      Mountain View, CA 94041
-address:      United States
+address:      Mountain View CA 94041
+address:      United States of America (the)
 phone:        +1 650 265 0400
 fax-no:       +1 650 265 0401
 e-mail:       hostmaster@smugmug.com
@@ -23,8 +23,8 @@ contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
 address:      2155 E GoDaddy Way
-address:      Tempe, AZ 85284
-address:      United States
+address:      Tempe AZ 85284
+address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
@@ -35,7 +35,9 @@ nserver:      C.NIC.FLICKR 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.FLICKR 156.154.144.60 2610:a1:1071:0:0:0:0:3c
 nserver:      NS2.DNS.NIC.FLICKR 156.154.145.60 2610:a1:1072:0:0:0:0:3c
 nserver:      NS3.DNS.NIC.FLICKR 156.154.159.60 2610:a1:1073:0:0:0:0:3c
-ds-rdata:     54904 8 2 A0C9B5D4A5705BA6563443E9A93BE7202551583FD55054E2FFA1B210B17F3903
+ds-rdata:     54904 8 2 a0c9b5d4a5705ba6563443e9a93be7202551583fd55054e2ffa1b210b17f3903
+
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: http://nic.flickr
