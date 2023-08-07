@@ -6,15 +6,15 @@ domain:       CFA
 
 organisation: CFA Institute
 address:      915 E. High Street
-address:      Charlottesville, Virginia - 22902
-address:      United States
+address:      Charlottesville VA 22902
+address:      United States of America (the)
 
 contact:      administrative
 name:         Director, Global Network Engineering, IT Operations
 organisation: CFA Institute
 address:      915 E. High Street
-address:      Charlottesville, Virginia - 22902
-address:      United States
+address:      Charlottesville VA 22902
+address:      United States of America (the)
 phone:        434 951 5310
 fax-no:       434 951 5320
 e-mail:       ngtld-cfa@cscinfo.com
@@ -23,8 +23,8 @@ contact:      technical
 name:         Registry Customer Service
 organisation: Verisign, Inc.
 address:      12061 Bluemont Way
-address:      Reston Virginia 20190
-address:      United States
+address:      Reston VA 20190
+address:      United States of America (the)
 phone:        +1-703-925-6999
 fax-no:       +1-703-948-3978
 e-mail:       info@verisign-grs.com
@@ -33,7 +33,7 @@ nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
 nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
 nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
 nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
-ds-rdata:     53505 8 2 AFC328685D96EA41036F4563042DB2D7485C8AD9C790BD22111ABD414BCAFD17
+ds-rdata:     53505 8 2 afc328685d96ea41036f4563042db2d7485c8ad9c790bd22111abd414bcafd17
 
 whois:        whois.nic.cfa
 
@@ -41,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.cfainstitute.org
 
 created:      2015-04-16
-changed:      2019-08-16
+changed:      2020-10-01
 source:       IANA
 
