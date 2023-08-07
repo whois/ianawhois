@@ -6,19 +6,15 @@ domain:       VEGAS
 
 organisation: Dot Vegas, Inc.
 address:      6325 S. Jones Blvd., Suite 500
-address:      Las Vegas
-address:      Nevada
-address:      89118
-address:      United States
+address:      Las Vegas NV 89118
+address:      United States of America (the)
 
 contact:      administrative
 name:         CEO
 organisation: Dot Vegas Inc.
 address:      6325 S. Jones Blvd., Suite 500
-address:      Las Vegas
-address:      Nevada
-address:      89118
-address:      United States
+address:      Las Vegas NV 89118
+address:      United States of America (the)
 phone:        +1.702.366.9969
 fax-no:       +1.702.947.3803
 e-mail:       dusty@the.vegas
@@ -26,10 +22,10 @@ e-mail:       dusty@the.vegas
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
 organisation: Afilias
-address:      Building 3, Suite 105
 address:      300 Welsh Road
-address:      Horsham, PA 19044
-address:      United States
+address:      Building 3, Suite 105
+address:      Horsham PA 19044
+address:      United States of America (the)
 phone:        +1.215.706.5700
 fax-no:       +1.215.706.5701
 e-mail:       tld-tech-poc@afilias.info
@@ -46,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.vegas
 
 created:      2014-03-20
-changed:      2022-07-27
+changed:      2023-08-03
 source:       IANA
 
