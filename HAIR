@@ -5,25 +5,26 @@
 domain:       HAIR
 
 organisation: XYZ.COM LLC
-address:      2121 E Tropicana Ave, STE2
-address:      Las Vegas, NV 89119
-address:      United States
+address:      2121 E Tropicana Ave, Suite 2
+address:      Las Vegas NV 89119
+address:      United States of America (the)
 
 contact:      administrative
 name:         General Counsel
 organisation: XYZ.COM LLC
-address:      2121 E Tropicana Ave, STE2
-address:      Las Vegas, NV 89119
-address:      United States
+address:      2121 E Tropicana Ave, Suite 2
+address:      Las Vegas NV 89119
+address:      United States of America (the)
 phone:        +1 702 757 6555
 e-mail:       hello@xyz.com
 
 contact:      technical
 name:         CTO
 organisation: CentralNic
-address:      Saddlers House 4th Floor 44 Gutter Lane
+address:      Saddlers House, 4th Floor
+address:      44 Gutter Lane
 address:      London EC2V 6BR
-address:      United Kingdom
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44 20 33 88 0600
 fax-no:       +44 20 33 88 0601
 e-mail:       tld.ops@centralnic.com
@@ -32,8 +33,8 @@ nserver:      A.NIC.HAIR 194.169.218.117 2001:67c:13cc:0:0:0:1:117
 nserver:      B.NIC.HAIR 185.24.64.117 2a04:2b00:13cc:0:0:0:1:117
 nserver:      C.NIC.HAIR 212.18.248.117 2a04:2b00:13ee:0:0:0:0:117
 nserver:      D.NIC.HAIR 212.18.249.117 2a04:2b00:13ff:0:0:0:0:117
-ds-rdata:     30150 8 2 50CCA06C1ED8718A9398F347566C5FA6773222E7B3F152847292A5697CD8A7DD
-ds-rdata:     39236 8 2 D8C88DAA478496C4F99A8CB5CACB0746CDDE2612E9668BEB6F7D683AC220313B
+ds-rdata:     30150 8 2 50cca06c1ed8718a9398f347566c5fa6773222e7b3f152847292a5697cd8a7dd
+ds-rdata:     39236 8 2 d8c88daa478496c4f99a8cb5cacb0746cdde2612e9668beb6f7d683ac220313b
 
 whois:        whois.nic.hair
 
