@@ -5,14 +5,16 @@
 domain:       NBA
 
 organisation: NBA REGISTRY, LLC
-address:      645 Fifth Ave New York, New York - 10022
-address:      United States
+address:      645 Fifth Ave
+address:      New York NY 10022
+address:      United States of America (the)
 
 contact:      administrative
 name:         Senior Director, Digital Rights Strategy & Enforcement
 organisation: NBA REGISTRY, LLC
-address:      645 Fifth Ave New York, New York - 10022
-address:      United States
+address:      645 Fifth Ave
+address:      New York NY 10022
+address:      United States of America (the)
 phone:        +1 212 407 8000
 fax-no:       +1 212 888 7931
 e-mail:       ngtld-nba@cscglobal.com
@@ -21,8 +23,8 @@ contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
 address:      2155 E GoDaddy Way
-address:      Tempe, AZ 85284
-address:      United States
+address:      Tempe AZ 85284
+address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
@@ -33,7 +35,9 @@ nserver:      C.NIC.NBA 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.NBA 156.154.144.119 2610:a1:1071:0:0:0:0:77
 nserver:      NS2.DNS.NIC.NBA 156.154.145.119 2610:a1:1072:0:0:0:0:77
 nserver:      NS3.DNS.NIC.NBA 156.154.159.119 2610:a1:1073:0:0:0:0:77
-ds-rdata:     59911 8 2 734021820D7B1FDEB0567389BCB05A0F47DF5F2A0F156D6E9177A9EDCB6A8716
+ds-rdata:     59911 8 2 734021820d7b1fdeb0567389bcb05a0f47df5f2a0f156d6e9177a9edcb6a8716
+
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: http://www.nba.com
