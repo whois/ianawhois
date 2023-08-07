@@ -6,14 +6,14 @@ domain:       ICU
 
 organisation: Shortdot SA
 address:      29 Boulevard de la Grande-Duchesse Charlotte
-address:      L-1331 Luxembourg
+address:      Luxembourg L-1331
 address:      Luxembourg
 
 contact:      administrative
 name:         Lars Jensen
 organisation: Shortdot SA
 address:      29 Boulevard de la Grande-Duchesse Charlotte
-address:      L-1331 Luxembourg
+address:      Luxembourg L-1331
 address:      Luxembourg
 phone:        +352621811103
 fax-no:       +35227862529
@@ -25,7 +25,7 @@ organisation: CentralNic
 address:      Saddlers House, 4th Floor
 address:      44 Gutter Lane
 address:      London EC2V 6BR
-address:      United Kingdom
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44 20 33 88 0600
 fax-no:       +44 20 33 88 0601
 e-mail:       tld.ops@centralnic.com
@@ -34,8 +34,8 @@ nserver:      A.NIC.ICU 194.169.218.108 2001:67c:13cc:0:0:0:1:108
 nserver:      B.NIC.ICU 185.24.64.108 2a04:2b00:13cc:0:0:0:1:108
 nserver:      C.NIC.ICU 212.18.248.108 2a04:2b00:13ee:0:0:0:0:108
 nserver:      D.NIC.ICU 212.18.249.108 2a04:2b00:13ff:0:0:0:0:108
-ds-rdata:     62704 8 1 D834EE1ED0374E28C49BE9C12FE1B93AE0FE9CCB
-ds-rdata:     62704 8 2 8C0442A126BA382CA5B05AE5B44744CDC5AB2845C83918E147083434F65790AA
+ds-rdata:     62704 8 1 d834ee1ed0374e28c49be9c12fe1b93ae0fe9ccb
+ds-rdata:     62704 8 2 8c0442a126ba382ca5b05ae5b44744cdc5ab2845c83918e147083434f65790aa
 ds-rdata:     31762 8 2 ccc397a837f6491166129e1d99ed03cca6635166b2f5b58c65b5cf516ae92b8f
 ds-rdata:     31762 8 1 db42bc4b511c8f97e5a3c00666b76fb1f4c2e567
 
