@@ -5,15 +5,15 @@
 domain:       IST
 
 organisation: Istanbul Metropolitan Municipality
-address:      Istanbul Metropolitan Municipality Department of Electrical Engineering Hacı ahmet mahallesi Muhsin yazıcıoğlu caddesi no:1 34440
-address:      Beyoğlu/İstanbul
+address:      Istanbul Metropolitan Municipality Department of Electrical Engineering Hacı ahmet mahallesi Muhsin yazıcıoğlu caddesi no:1
+address:      Beyoğlu/İstanbul 34440
 address:      Turkey
 
 contact:      administrative
 name:         Registry Manager
 organisation: Istanbul Metropolitan Municipality / Medya A.S.
-address:      Istanbul Metropolitan Municipality Department of Electrical Engineering Hacı ahmet mahallesi Muhsin yazıcıoğlu caddesi no:1 34440
-address:      Beyoğlu/İstanbul
+address:      Istanbul Metropolitan Municipality Department of Electrical Engineering Hacı ahmet mahallesi Muhsin yazıcıoğlu caddesi no:1
+address:      Beyoğlu/İstanbul 34440
 address:      Turkey
 phone:        +90 2123128920
 fax-no:       +90 2124495115
@@ -22,10 +22,10 @@ e-mail:       registry.iana@ibb.gov.tr
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
 organisation: Afilias
-address:      Building 3, Suite 105
 address:      300 Welsh Road
-address:      Horsham, PA 19044
-address:      United States
+address:      Building 3, Suite 105
+address:      Horsham PA 19044
+address:      United States of America (the)
 phone:        +1 215.706.5700
 fax-no:       +1 215.706.5701
 e-mail:       tld-tech-poc@afilias.info
@@ -36,12 +36,12 @@ nserver:      B0.NIC.IST 2a01:8840:8f:0:0:0:0:1 65.22.145.1
 nserver:      C0.NIC.IST 2a01:8840:90:0:0:0:0:1 65.22.146.1
 ds-rdata:     2221 8 2 7f26778aff98dad019476832c62ce0399f247ba6f4f8e10bf26b8c80db6e30d9
 
-whois:        whois.afilias-srs.net
+whois:        whois.nic.ist
 
 status:       ACTIVE
 remarks:      Registration information: http://www.nic.istanbul
 
 created:      2015-05-29
-changed:      2021-02-20
+changed:      2023-08-03
 source:       IANA
 
