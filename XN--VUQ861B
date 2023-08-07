@@ -7,33 +7,35 @@ domain-ace:   XN--VUQ861B
 
 organisation: Beijing Tele-info Network Technology Co., Ltd.
 address:      Building 21, 1 Gaolizhang Road
-address:      Haidian District, Beijing
+address:      Haidian District
+address:      Beijing 100095
 address:      China
 
 contact:      administrative
 name:         CEO
-organisation: Beijing	Tele-info	Network	 Technology	Co.,	Ltd.
+organisation: Beijing Tele-info Network Technology Co., Ltd.
 address:      Building 21, 1 Gaolizhang Road
-address:      Haidian District, Beijing
+address:      Haidian District
+address:      Beijing 100095
 address:      China
-phone:        +86 10 58846999
-fax-no:       +86 10 58846931
-e-mail:       lr@tele-info.cn
+phone:        +86 18910283591
+e-mail:       lr@teleinfo.cn
 
 contact:      technical
 name:         CTO
 organisation: Beijing Tele-info Network Technology Co., Ltd.
 address:      Building 21, 1 Gaolizhang Road
+address:      Haidian District
 address:      Beijing 100095
 address:      China
-phone:        +86 10 5884 6931
+phone:        +86 13811939493
 e-mail:       gtld@teleinfo.cn
 
 nserver:      NS1.TELEINFO.CN 103.61.60.1 2402:7d80:0:0:0:0:0:1
 nserver:      NS2.TELEINFOO.COM 103.61.61.1 2402:7d80:8888:0:0:0:0:1
 nserver:      NS3.TELEINFO.CN 103.61.62.1
 nserver:      NS4.TELEINFOO.COM 103.61.63.1
-ds-rdata:     7210 8 2 EEE275C0966A2DCD2BC5B996B6C8FA003E991D877D456C2530D4681E1EEE0D55
+ds-rdata:     7210 8 2 eee275c0966a2dcd2bc5b996b6c8fa003e991d877d456c2530d4681e1eee0d55
 
 whois:        whois.teleinfo.cn
 
@@ -41,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.teleinfo.cn
 
 created:      2015-02-05
-changed:      2019-09-24
+changed:      2023-03-16
 source:       IANA
 
