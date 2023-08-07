@@ -8,18 +8,18 @@ organisation: Universidad Nacional del Ingernieria
 organisation: Centro de Computo
 address:      Avenida Universitaria
 address:      Frente a la UCA
-address:      Managua  MR110
+address:      Managua MR110
 address:      Nicaragua
 
 contact:      administrative
-name:         Director
+name:         Nelson Moises Juarez Escorcia
 organisation: UNI (National University Engineering)
 address:      Avenida Universitaria Frente a la UCA
-address:      Managua
 address:      Rectoria UNI
+address:      Managua MR110
 address:      Nicaragua
-phone:        505-2278 3142,505-84267499
-fax-no:       505-2278 3141
+phone:        +505 2278-3142
+fax-no:       +505-2278-3141
 e-mail:       nelson.juarez@nic.uni.edu.ni
 
 contact:      technical
@@ -28,7 +28,7 @@ organisation: Universidad Nacional del Ingernieria
 organisation: Administration NIC.NI
 address:      Avenida Universitaria
 address:      Frente a la UCA
-address:      Managua  MR110
+address:      Managua MR110
 address:      Nicaragua
 phone:        +505 278 3142
 fax-no:       +505 278 3141
@@ -41,10 +41,12 @@ nserver:      NS.UU.NET 137.39.1.3
 nserver:      NS2.NI 200.9.187.2
 nserver:      NS3.NI 190.85.232.145
 
+whois:        
+
 status:       ACTIVE
 remarks:      Registration information: http://www.nic.ni
 
 created:      1989-10-13
-changed:      2020-09-08
+changed:      2023-05-31
 source:       IANA
 
