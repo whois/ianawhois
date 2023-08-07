@@ -5,14 +5,15 @@
 domain:       GAL
 
 organisation: Asociación puntoGAL
-address:      Tabernas 11, A Coruña 15701, Galicia
+address:      Tabernas 11
+address:      A Coruña Galicia 15701
 address:      Spain
 
 contact:      administrative
 name:         TLD Administrative Contact
 organisation: CORE Association
 address:      2, Cours de Rive
-address:      CH-1204 Geneva
+address:      Geneva CH-1204
 address:      Switzerland
 phone:        +41 223 125 610
 fax-no:       +41 223 125 612
@@ -22,7 +23,7 @@ contact:      technical
 name:         TLD TechAdmin
 organisation: CORE Association
 address:      2, Cours de Rive
-address:      CH-1204 Geneva
+address:      Geneva CH-1204
 address:      Switzerland
 phone:        +41 223 125 610
 fax-no:       +41 223 125 612
@@ -32,7 +33,7 @@ nserver:      ANYCAST10.IRONDNS.NET 195.253.64.12 2a01:5b0:4:0:0:0:0:c
 nserver:      ANYCAST23.IRONDNS.NET 195.253.65.11 2a01:5b0:5:0:0:0:0:b
 nserver:      ANYCAST24.IRONDNS.NET 195.253.65.12 2a01:5b0:5:0:0:0:0:c
 nserver:      ANYCAST9.IRONDNS.NET 195.253.64.11 2a01:5b0:4:0:0:0:0:b
-ds-rdata:     32469 10 2 31D40665954899244190D71E2365CF3623A825580B9BF277953ADEF2599B49AB
+ds-rdata:     32469 10 2 31d40665954899244190d71e2365cf3623a825580b9bf277953adef2599b49ab
 
 whois:        whois.nic.gal
 
@@ -40,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://asociacion.dominio.gal/
 
 created:      2014-03-13
-changed:      2019-08-06
+changed:      2022-01-07
 source:       IANA
 
