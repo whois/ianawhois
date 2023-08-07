@@ -5,14 +5,16 @@
 domain:       YOU
 
 organisation: Amazon Registry Services, Inc.
-address:      410 Terry Avenue North, Seattle, WA  98109
-address:      United States
+address:      410 Terry Avenue North
+address:      Seattle WA 98109
+address:      United States of America (the)
 
 contact:      administrative
 name:         Program Manager, Registry
 organisation: Amazon Registry Services, Inc.
-address:      410 Terry Avenue North, Seattle, WA  98109
-address:      United States
+address:      410 Terry Avenue North
+address:      Seattle WA 98109
+address:      United States of America (the)
 phone:        +1 206 646 5990
 fax-no:       +1-206-946-7702
 e-mail:       you-rzm@amazon.com
@@ -20,12 +22,11 @@ e-mail:       you-rzm@amazon.com
 contact:      technical
 name:         TLD Registry Services Technical
 organisation: Nominet
-address:      Minerva House,
-address:      Edmund Halley Road,
-address:      Oxford Science Park,
-address:      Oxford
-address:      OX4 4DQ
-address:      United Kingdom
+address:      Minerva House
+address:      Edmund Halley Road
+address:      Oxford Science Park
+address:      Oxford OX4 4DQ
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44.1865332211
 e-mail:       registrytechnical@nominet.uk
 
@@ -37,7 +38,7 @@ nserver:      DNSA.NIC.YOU 156.154.100.3 2001:502:ad09:0:0:0:0:3
 nserver:      DNSB.NIC.YOU 156.154.101.3 2001:502:2eda:0:0:0:0:3
 nserver:      DNSC.NIC.YOU 156.154.102.3 2610:a1:1009:0:0:0:0:3
 nserver:      DNSD.NIC.YOU 156.154.103.3 2610:a1:1010:0:0:0:0:3
-ds-rdata:     41656 8 2 4D7022047E13AE416D1E12AC44C5EB5AB58C4BF1E4E86DD47C9DD62106A0E348
+ds-rdata:     41656 8 2 4d7022047e13ae416d1e12ac44c5eb5ab58c4bf1e4e86dd47c9dd62106a0e348
 
 whois:        whois.nic.you
 
