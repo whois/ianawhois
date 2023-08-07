@@ -7,30 +7,25 @@ domain:       KIA
 organisation: KIA MOTORS CORPORATION
 address:      231 Yangjae-dong
 address:      Seocho-gu
-address:      Seoul
-address:      137-938
-address:      Korea, Republic Of
+address:      Seoul 137-938
+address:      Korea (the Republic of)
 
 contact:      administrative
 name:         Chief Operating Officer
-organisation: Brights Consulting Inc.
-address:      30F, Kasumigaseki Bldg., 3-2-5
-address:      Kasumigaseki
-address:      Chiyoda-ku
-address:      Tokyo
-address:      100-6030
+organisation: GMO BRAND SECURITY Inc.
+address:      Cerulean Tower 26-1 Sakuragaoka-cho
+address:      Shibuya-ku Tokyo 150-8512
 address:      Japan
-phone:        +81.355210107
-fax-no:       +81.355210117
-e-mail:       nakagawa_22@brights.jp
+phone:        +81.357841069
+fax-no:       +81.334625040
+e-mail:       registry@brightsconsulting.com
 
 contact:      technical
 name:         Director
 organisation: GMO Registry, Inc.
-address:      Cerulean Tower 26-1 Sakuragaoka-cho
-address:      Shibuya-ku
-address:      Tokyo
-address:      150-8512
+address:      Cerulean Tower
+address:      26-1 Sakuragaoka-cho
+address:      Shibuya-ku Tokyo 150-8512
 address:      Japan
 phone:        +81.354561601
 fax-no:       +81.337805239
@@ -48,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.kia.com
 
 created:      2015-09-17
-changed:      2019-08-20
+changed:      2023-06-20
 source:       IANA
 
