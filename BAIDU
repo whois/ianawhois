@@ -5,14 +5,16 @@
 domain:       BAIDU
 
 organisation: Baidu, Inc.
-address:      Baidu Campus, No.10 Shangdi 10th Street Haidian DistrictBeijing
+address:      Baidu Campus, No.10 Shangdi 10th Street
+address:      Haidian District
 address:      Beijing
 address:      China
 
 contact:      administrative
 name:         Nannan Xu
 organisation: Baidu, Inc.
-address:      Baidu Campus, No.10 Shangdi 10th Street Haidian DistrictBeijing
+address:      Baidu Campus, No.10 Shangdi 10th Street
+address:      Haidian District
 address:      Beijing
 address:      China
 phone:        +86 188 1064 7965
@@ -22,7 +24,9 @@ e-mail:       xunannan02@baidu.com
 contact:      technical
 name:         Gao Lei
 organisation: ZDNS
-address:      4 South 4th, Zhongguancun, Haidian District, Beijing, China
+address:      4, South 4th Street, Zhongguancun
+address:      Haidian District
+address:      Beijing 100190
 address:      China
 phone:        +86.15011380586
 e-mail:       gaolei@zdns.cn
@@ -35,7 +39,7 @@ nserver:      F.ZDNSCLOUD.COM 114.67.16.204
 nserver:      G.ZDNSCLOUD.COM 42.62.2.16
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
-ds-rdata:     63817 8 2 13605EBD9736B66B1EB3B2DB5865CA66B5EFD2BE720087FE4441039F3AA4CF3D
+ds-rdata:     63817 8 2 13605ebd9736b66b1eb3b2db5865ca66b5efd2be720087fe4441039f3aa4cf3d
 
 whois:        whois.gtld.knet.cn
 
@@ -43,6 +47,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.zdns.cn
 
 created:      2015-12-17
-changed:      2019-08-16
+changed:      2022-12-08
 source:       IANA
 
