@@ -6,15 +6,15 @@ domain:       COM
 
 organisation: VeriSign Global Registry Services
 address:      12061 Bluemont Way
-address:      Reston Virginia 20190
-address:      United States
+address:      Reston VA 20190
+address:      United States of America (the)
 
 contact:      administrative
 name:         Registry Customer Service
 organisation: VeriSign Global Registry Services
 address:      12061 Bluemont Way
-address:      Reston Virginia 20190
-address:      United States
+address:      Reston VA 20190
+address:      United States of America (the)
 phone:        +1 703 925-6999
 fax-no:       +1 703 948 3978
 e-mail:       info@verisign-grs.com
@@ -23,8 +23,8 @@ contact:      technical
 name:         Registry Customer Service
 organisation: VeriSign Global Registry Services
 address:      12061 Bluemont Way
-address:      Reston Virginia 20190
-address:      United States
+address:      Reston VA 20190
+address:      United States of America (the)
 phone:        +1 703 925-6999
 fax-no:       +1 703 948 3978
 e-mail:       info@verisign-grs.com
@@ -42,7 +42,7 @@ nserver:      J.GTLD-SERVERS.NET 192.48.79.30 2001:502:7094:0:0:0:0:30
 nserver:      K.GTLD-SERVERS.NET 192.52.178.30 2001:503:d2d:0:0:0:0:30
 nserver:      L.GTLD-SERVERS.NET 192.41.162.30 2001:500:d937:0:0:0:0:30
 nserver:      M.GTLD-SERVERS.NET 192.55.83.30 2001:501:b1f9:0:0:0:0:30
-ds-rdata:     30909 8 2 E2D3C916F6DEEAC73294E8268FB5885044A833FC5459588F4A9184CFC41A5766
+ds-rdata:     30909 8 2 e2d3c916f6deeac73294e8268fb5885044a833fc5459588f4a9184cfc41a5766
 
 whois:        whois.verisign-grs.com
 
@@ -50,6 +50,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.verisigninc.com
 
 created:      1985-01-01
-changed:      2017-10-05
+changed:      2019-08-14
 source:       IANA
 
