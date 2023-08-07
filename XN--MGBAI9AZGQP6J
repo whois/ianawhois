@@ -7,14 +7,14 @@ domain-ace:   XN--MGBAI9AZGQP6J
 
 organisation: National Telecommunication Corporation
 address:      NTC HQ Sector G-5/2
-address:      Islamabad, 44000
+address:      Islamabad 44000
 address:      Pakistan
 
 contact:      administrative
 name:         Miraj Gul
 organisation: National Telecommunication Corporation
 address:      NTC HQ Sector G-5/2
-address:      Islamabad, 44000
+address:      Islamabad 44000
 address:      Pakistan
 phone:        +92-51-9245888
 fax-no:       +92-51-9245886
@@ -24,7 +24,7 @@ contact:      technical
 name:         Muhammad Kashif Fayyaz
 organisation: National Telecommunication Corporation
 address:      NTC HQ Sector G-5/2
-address:      Islamabad, 44000
+address:      Islamabad 44000
 address:      Pakistan
 phone:        +92-51-9209009
 fax-no:       +92-51-9201489
@@ -33,12 +33,15 @@ e-mail:       kashif.fayyaz@ntc.org.pk
 nserver:      NS.NTC.NET.PK 202.83.164.166
 nserver:      NS1.NTC.NET.PK 202.83.164.167
 nserver:      NS2.NTC.NET.PK 175.107.198.150
-ds-rdata:     21720 7 1 9FC6318AA15A43B4CF11D3F64CD678935E40402F
-ds-rdata:     21720 7 2 BB7D853DFDFD7A39574CE1B5D3009E5C813264E614430C1B29C894C090393DD1
+ds-rdata:     21720 7 1 9fc6318aa15a43b4cf11d3f64cd678935e40402f
+ds-rdata:     21720 7 2 bb7d853dfdfd7a39574ce1b5d3009e5c813264e614430c1b29c894c090393dd1
+
+whois:        
 
 status:       ACTIVE
+remarks:      Registration information: 
 
 created:      2011-02-28
-changed:      2020-09-22
+changed:      2023-03-07
 source:       IANA
 
