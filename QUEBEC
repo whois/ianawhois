@@ -6,14 +6,14 @@ domain:       QUEBEC
 
 organisation: PointQuébec Inc
 address:      330-55, rue de Louvain Ouest
-address:      Montréal (Québec) H2N 1A4
+address:      Montréal QC H2N 1A4
 address:      Canada
 
 contact:      administrative
 name:         Normand Fortier
 organisation: Normand
 address:      330-55, rue de Louvain Ouest
-address:      Montréal (Québec) H2N 1A4
+address:      Montréal QC H2N 1A4
 address:      Canada
 phone:        +1.514-700-0018
 fax-no:       +1.877-917-9904
@@ -23,9 +23,9 @@ contact:      technical
 name:         TLD Technical Contact
 organisation: CORE Association
 address:      2, Cours de Rive
-address:      CH-1204 Geneva
+address:      Geneva CH-1204
 address:      Switzerland
-phone:        +41 223 125 610 
+phone:        +41 223 125 610
 fax-no:       +41 223 125 612
 e-mail:       dnsmaster@corenic.org
 
@@ -33,7 +33,7 @@ nserver:      ANYCAST10.IRONDNS.NET 195.253.64.12 2a01:5b0:4:0:0:0:0:c
 nserver:      ANYCAST23.IRONDNS.NET 195.253.65.11 2a01:5b0:5:0:0:0:0:b
 nserver:      ANYCAST24.IRONDNS.NET 195.253.65.12 2a01:5b0:5:0:0:0:0:c
 nserver:      ANYCAST9.IRONDNS.NET 195.253.64.11 2a01:5b0:4:0:0:0:0:b
-ds-rdata:     46012 10 2 5916001FFF3DC261A7F1B5D81BDC63312697F8B672AE1C8AC7677F6E68977F48
+ds-rdata:     46012 10 2 5916001fff3dc261a7f1b5d81bdc63312697f8b672ae1c8ac7677f6e68977f48
 
 whois:        whois.nic.quebec
 
@@ -41,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.registre.quebec
 
 created:      2014-03-13
-changed:      2020-01-17
+changed:      2022-01-07
 source:       IANA
 
