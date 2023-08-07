@@ -5,39 +5,33 @@
 domain:       EC
 
 organisation: ECUADORDOMAIN S.A.
-address:      Francisco De Orellana No. 234
-address:      Edif Blue Towers
-address:      Oficina No. 902-903
-address:      Guayaquil
+address:      Avenida República y pradera Edificio Torre Republica
+address:      Quito
 address:      Ecuador
 
 contact:      administrative
-name:         Garry J. Donoghue
+name:         ECUADORDOMAIN S.A.
 organisation: ECUADORDOMAIN S.A.
-address:      Francisco De Orellana No. 234
-address:      Edif Blue Towers
-address:      Oficina No. 902-903
-address:      Guayaquil
+address:      Avenida República y pradera Edificio Torre Republica
+address:      Quito
 address:      Ecuador
-phone:        +5934 3729560
-fax-no:       +5934 2515434
-e-mail:       garry.donoghue@nic.ec
+phone:        +593 98 432 4607
+e-mail:       administracion@nic.ec
 
 contact:      technical
-name:         DNS Administrator
+name:         ECUADORDOMAIN S.A.
 organisation: ECUADORDOMAIN S.A.
-address:      Francisco De Orellana No. 234
-address:      Edif Blue Towers
-address:      Oficina No. 902-903
-address:      Guayaquil
+address:      Avenida República y pradera Edificio Torre Republica
+address:      Quito
 address:      Ecuador
-phone:        +5934 3729560
-fax-no:       +5934 2515434
-e-mail:       dnsadmin@nic.ec
+phone:        +593 99 512 4454
+e-mail:       admin@nic.ec
 
 nserver:      A.LACTLD.ORG 200.0.68.10 2801:14:a000:0:0:0:0:10
 nserver:      N2.NIC.EC 200.12.199.1 2801:0:60:0:0:0:0:1
 nserver:      N3.DNS.EC 2001:500:14:6039:ad:0:0:1 204.61.216.39
+nserver:      NS1.ANYCASTDNS.CZ 185.38.108.108 2a00:fea0:dead:0:0:0:0:beef
+nserver:      NS2.ANYCASTDNS.CZ 185.28.194.194
 
 whois:        whois.nic.ec
 
@@ -45,6 +39,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.ec
 
 created:      1991-02-01
-changed:      2020-02-05
+changed:      2023-07-18
 source:       IANA
 
