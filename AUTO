@@ -5,25 +5,26 @@
 domain:       AUTO
 
 organisation: XYZ.COM LLC
-address:      2121 E Tropicana Ave, STE2
-address:      Las Vegas, NV 89119
-address:      United States
+address:      2121 E Tropicana Ave, Suite 2
+address:      Las Vegas NV 89119
+address:      United States of America (the)
 
 contact:      administrative
 name:         Grant Carpenter
 organisation: XYZ.COM LLC
-address:      2121 E Tropicana Ave, STE2
-address:      Las Vegas, NV 89119
-address:      United States
+address:      2121 E Tropicana Ave, Suite 2
+address:      Las Vegas NV 89119
+address:      United States of America (the)
 phone:        +1 702 757 6555
 e-mail:       hello@xyz.com
 
 contact:      technical
 name:         CTO
 organisation: CentralNic
-address:      Saddlers House 4th Floor 44 Gutter Lane
+address:      Saddlers House, 4th Floor
+address:      44 Gutter Lane
 address:      London EC2V 6BR
-address:      United Kingdom
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44 20 33 88 0600
 fax-no:       +44 20 33 88 0601
 e-mail:       tld.ops@centralnic.com
@@ -32,8 +33,8 @@ nserver:      A.NIC.AUTO 194.169.218.131 2001:67c:13cc:0:0:0:1:131
 nserver:      B.NIC.AUTO 185.24.64.131 2a04:2b00:13cc:0:0:0:1:131
 nserver:      C.NIC.AUTO 212.18.248.131 2a04:2b00:13ee:0:0:0:0:131
 nserver:      D.NIC.AUTO 212.18.249.131 2a04:2b00:13ff:0:0:0:0:131
-ds-rdata:     41492 5 1 4EF1EDDD59DAEE765CD1ED0205081D46D25BBE7C
-ds-rdata:     41492 5 2 01B3B92918B955D84A70F1BC254513D6FD90A33E8ABABC0AAFCF8830AC259C2C
+ds-rdata:     41492 5 1 4ef1eddd59daee765cd1ed0205081d46d25bbe7c
+ds-rdata:     41492 5 2 01b3b92918b955d84a70f1bc254513d6fd90a33e8ababc0aafcf8830ac259c2c
 
 whois:        whois.nic.auto
 
