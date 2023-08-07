@@ -6,15 +6,15 @@ domain:       REALTOR
 
 organisation: Real Estate Domains LLC
 address:      3029 Prospect Ave.
-address:      Cleveland, OH  44115
-address:      United States
+address:      Cleveland OH 44115
+address:      United States of America (the)
 
 contact:      administrative
 name:         F. Matthew Embrescia
 organisation: Real Estate Domains LLC
 address:      3029 Prospect Ave.
-address:      Cleveland, OH  44115
-address:      United States
+address:      Cleveland OH 44115
+address:      United States of America (the)
 phone:        216-361-1000
 fax-no:       216-426-1400
 e-mail:       admin@get.realtor
@@ -22,12 +22,11 @@ e-mail:       admin@get.realtor
 contact:      technical
 name:         TLD Registry Services Technical
 organisation: Nominet
-address:      Minerva House,
-address:      Edmund Halley Road,
-address:      Oxford Science Park,
-address:      Oxford
-address:      OX4 4DQ
-address:      United Kingdom
+address:      Minerva House
+address:      Edmund Halley Road
+address:      Oxford Science Park
+address:      Oxford OX4 4DQ
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44.1865332211
 e-mail:       registrytechnical@nominet.uk
 
@@ -39,12 +38,14 @@ nserver:      DNSA.NIC.REALTOR 156.154.100.3 2001:502:ad09:0:0:0:0:3
 nserver:      DNSB.NIC.REALTOR 156.154.101.3 2001:502:2eda:0:0:0:0:3
 nserver:      DNSC.NIC.REALTOR 156.154.102.3 2610:a1:1009:0:0:0:0:3
 nserver:      DNSD.NIC.REALTOR 156.154.103.3 2610:a1:1010:0:0:0:0:3
-ds-rdata:     15827 8 2 577657BD827B1E23EDD28113992899460B5E0DD5138D49E6978740D303F41059
+ds-rdata:     15827 8 2 577657bd827b1e23edd28113992899460b5e0dd5138d49e6978740d303f41059
+
+whois:        whois.nic.realtor
 
 status:       ACTIVE
 remarks:      Registration information: https://www.get.realtor
 
 created:      2014-07-24
-changed:      2021-11-11
+changed:      2023-05-02
 source:       IANA
 
