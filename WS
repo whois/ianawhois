@@ -23,8 +23,8 @@ contact:      technical
 name:         CEO
 organisation: Global Domains International
 address:      701 Palomar Airport Road #300
-address:      Carlsbad, CA 92011
-address:      United States
+address:      Carlsbad CA 92011
+address:      United States of America (the)
 phone:        +1 760 602 3000
 fax-no:       +1 760 602 3099
 e-mail:       tech.contact@csl.ws
@@ -35,7 +35,7 @@ nserver:      NS5.DNS.WS 64.70.19.70
 nserver:      S.DNS.WS 2a01:3f0:0:311:0:0:0:53 77.72.229.248
 nserver:      US3.DNS.WS 64.70.78.70
 nserver:      US4.DNS.WS 64.70.78.80
-ds-rdata:     36454 8 2 7DB7C8F0FAED1FF118C3F081487CEC39CEC5C89FE647ADC1E2D3643D1BC1F77D
+ds-rdata:     36454 8 2 7db7c8f0faed1ff118c3f081487cec39cec5c89fe647adc1e2d3643d1bc1f77d
 
 whois:        whois.website.ws
 
