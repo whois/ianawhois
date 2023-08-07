@@ -6,41 +6,39 @@ domain:       TV
 
 organisation: Ministry of Justice, Communications and Foreign Affairs
 address:      2 Vaiaku Rd
-address:      Vaiaku, Funafuti
+address:      Vaiaku Funafuti
 address:      Tuvalu
 
 contact:      administrative
-name:         Opetaia Simati
-organisation: Ministry of Justice, Communications and Foreign Affairs
+name:         Ministry of Justice, Communications and Foreign Affairs
 address:      2 Vaiaku Rd
-address:      Vaiaku, Funafuti
+address:      Vaiaku Funafuti
 address:      Tuvalu
 phone:        +(688) 20069
 e-mail:       ict@gov.tv
 
 contact:      technical
-name:         Registry Customer Service
-organisation: Verisign Global Registry Services
-address:      12061 Bluemont Way
-address:      Reston, Virginia 20190
-address:      United States
-phone:        +1 703 925-6999
-fax-no:       +1 703 948-3978
-e-mail:       info@verisign-grs.com
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      2155 E GoDaddy Way
+address:      Tempe AZ 85284
+address:      United States of America (the)
+phone:        +1 480 505-8800
+fax-no:       +1 480 624-2546
+e-mail:       iana@registry.godaddy
 
 nserver:      A.NIC.TV 2001:dcd:1:0:0:0:0:6 37.209.192.6
 nserver:      B.NIC.TV 2001:dcd:2:0:0:0:0:6 37.209.194.6
 nserver:      C.NIC.TV 2001:dcd:3:0:0:0:0:6 37.209.196.6
 nserver:      D.NIC.TV 2001:dcd:4:0:0:0:0:6 37.209.198.6
-ds-rdata:     44904 8 2 1CFE1309925B78F42C8B4862A670B0BAB9FC142ED8B4D41E24C65FE6A0D9DFB4
-ds-rdata:     2107 8 2 2F2DC481C07E7DB2E54A546A7A35CC16CBCF242EC76B71385A42CD7BC37E7FC8
+ds-rdata:     2107 8 2 2f2dc481c07e7db2e54a546a7a35cc16cbcf242ec76b71385a42cd7bc37e7fc8
 
-whois:        tvwhois.verisign-grs.com
+whois:        whois.nic.tv
 
 status:       ACTIVE
-remarks:      Registration information: http://www.tv
+remarks:      Registration information: https://turnon.tv/
 
 created:      1996-03-18
-changed:      2022-11-16
+changed:      2023-01-30
 source:       IANA
 
