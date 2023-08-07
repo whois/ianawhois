@@ -5,31 +5,29 @@
 domain:       MTN
 
 organisation: MTN Dubai Limited
-address:      Floor 23, DIFC Currency House,
+address:      Floor 23, DIFC Currency House
 address:      Dubai
-address:      United Arab Emirates
+address:      United Arab Emirates (the)
 
 contact:      administrative
 name:         TLD Registry Services Management
 organisation: Nominet
-address:      Minerva House,
-address:      Edmund Halley Road,
+address:      Minerva House
+address:      Edmund Halley Road
 address:      Oxford Science Park
-address:      Oxford
-address:      OX4 4DQ
-address:      United Kingdom
+address:      Oxford OX4 4DQ
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44 1865332211
 e-mail:       registrymanagement@nominet.uk
 
 contact:      technical
 name:         TLD Registry Services Technical
 organisation: Nominet
-address:      Minerva House,
-address:      Edmund Halley Road,
+address:      Minerva House
+address:      Edmund Halley Road
 address:      Oxford Science Park
-address:      Oxford
-address:      OX4 4DQ
-address:      United Kingdom
+address:      Oxford OX4 4DQ
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44.1865332211
 e-mail:       registrytechnical@nominet.uk
 
@@ -41,7 +39,7 @@ nserver:      DNSA.NIC.MTN 156.154.100.3 2001:502:ad09:0:0:0:0:3
 nserver:      DNSB.NIC.MTN 156.154.101.3 2001:502:2eda:0:0:0:0:3
 nserver:      DNSC.NIC.MTN 156.154.102.3 2610:a1:1009:0:0:0:0:3
 nserver:      DNSD.NIC.MTN 156.154.103.3 2610:a1:1010:0:0:0:0:3
-ds-rdata:     18374 8 2 58114B80A64F8617AF3EC29668C55519D8CCB44A203562D746E7F2CC8850A1EB
+ds-rdata:     18374 8 2 58114b80a64f8617af3ec29668c55519d8ccb44a203562d746e7f2cc8850a1eb
 
 whois:        whois.nic.mtn
 
