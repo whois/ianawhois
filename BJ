@@ -5,35 +5,35 @@
 domain:       BJ
 
 organisation: Autorité de Régulation des Communications Electroniques et de la Poste du Bénin (ARCEP BENIN)
-address:      COTONOU /GANHI, Immeuble MAERSK House zone OCBN
-address:      COTONOU, 01BP 2034
+address:      Cotonou /Ganhi, Immeuble Maersk House, Zone OCBN
+address:      Cotonou 01BP 2034
 address:      Benin
 
 contact:      administrative
 name:         Secrétaire Exécutif (Executive Secretary)
 organisation: ARCEP BENIN
-address:      COTONOU /GANHI, Immeuble MAERSK House zone OCBN
-address:      COTONOU, 01BP 2034
+address:      Cotonou /Ganhi, Immeuble Maersk House, Zone OCBN
+address:      Cotonou 01BP 2034
 address:      Benin
 phone:        +229 21 31 00 65
 fax-no:       +229 21 31 00 67
 e-mail:       contacts@arcep.bj
 
 contact:      technical
-name:         Directeur Technique (Technical Manager)
+name:         Tonouhewa Deo Gratias
 organisation: JENY SAS
 address:      Carré 321 Immeuble EL WAKIL (BOA ZONGO)
 address:      Cotonou 01 BP 3885
 address:      Benin
-phone:        +229 96 80 52 52
-e-mail:       tech@nic.bj
+phone:        +229 97646172
+e-mail:       deogratias.tonouhewa@jenysas.bj
 
 nserver:      NS-BJ.AFRINIC.NET 196.216.168.33 2001:43f8:120:0:0:0:0:33
 nserver:      NS-BJ.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
 nserver:      NS1.NIC.BJ 154.65.28.218
 nserver:      NS2.NIC.BJ 41.85.191.2
 nserver:      PCH.NIC.BJ 2001:500:14:6125:ad:0:0:1 204.61.216.125
-ds-rdata:     26617 8 2 F408C0B3C28D87A76175348B27F6D26CA47231FC29071AB6B5F849777C6548B5
+ds-rdata:     26617 8 2 f408c0b3c28d87a76175348b27f6d26ca47231fc29071ab6b5f849777c6548b5
 
 whois:        whois.nic.bj
 
@@ -41,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.bj
 
 created:      1996-01-18
-changed:      2022-11-03
+changed:      2023-04-14
 source:       IANA
 
