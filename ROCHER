@@ -5,13 +5,15 @@
 domain:       ROCHER
 
 organisation: Ferrero Trading Lux S.A.
-address:      16, Route de Trèves, L-2633, Senningerberg
+address:      16, Route de Trèves
+address:      Senningerberg L-2633
 address:      Luxembourg
 
 contact:      administrative
 name:         Stefano Marzocchi
 organisation: Soremartec S.A.
-address:      16, Route de Trèves, L-2633, Senningerberg
+address:      16, Route de Trèves
+address:      Senningerberg L-2633
 address:      Luxembourg
 phone:        +352 349 711 95 06
 fax-no:       +352 349411
@@ -21,8 +23,8 @@ contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
 address:      2155 E GoDaddy Way
-address:      Tempe, AZ 85284
-address:      United States
+address:      Tempe AZ 85284
+address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
@@ -33,7 +35,9 @@ nserver:      C.NIC.ROCHER 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.ROCHER 156.154.144.145 2610:a1:1071:0:0:0:0:91
 nserver:      NS2.DNS.NIC.ROCHER 156.154.145.145 2610:a1:1072:0:0:0:0:91
 nserver:      NS3.DNS.NIC.ROCHER 156.154.159.145 2610:a1:1073:0:0:0:0:91
-ds-rdata:     13024 8 2 0D2B1343A7CD4A96E7631A8A362ED2758CCC2FE719953E466015DDE7B098AE06
+ds-rdata:     13024 8 2 0d2b1343a7cd4a96e7631a8a362ed2758ccc2fe719953e466015dde7b098ae06
+
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: http://www.ferrero.com
