@@ -5,14 +5,16 @@
 domain:       IEEE
 
 organisation: IEEE Global LLC
-address:      445 Hoes Lane, Piscataway, New Jersey, 08854, USA
-address:      United States
+address:      445 Hoes Lane
+address:      Piscataway NJ 08854
+address:      United States of America (the)
 
 contact:      administrative
 name:         Prakash Bellur
 organisation: IEEE Global LLC
-address:      445 Hoes Lane, Piscataway, New Jersey, 08854, USA
-address:      United States
+address:      445 Hoes Lane
+address:      Piscataway NJ 08854
+address:      United States of America (the)
 phone:        +1 732 981 3432
 fax-no:       +1 732 981 0027
 e-mail:       primary_ieee@valideus.com
@@ -20,13 +22,11 @@ e-mail:       primary_ieee@valideus.com
 contact:      technical
 name:         TLD Registry Services Technical
 organisation: Nominet
-address:      Minerva House,
-address:      Edmund Halley Road,
-address:      Oxford Science Park,
-address:      Oxford
-address:      OX4 4DQ
-address:      United Kingdom (GB)
-address:      United Kingdom
+address:      Minerva House
+address:      Edmund Halley Road
+address:      Oxford Science Park
+address:      Oxford OX4 4DQ
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44.1865332211
 e-mail:       registrytechnical@nominet.uk
 
@@ -38,8 +38,10 @@ nserver:      DNSA.NIC.IEEE 156.154.100.3 2001:502:ad09:0:0:0:0:3
 nserver:      DNSB.NIC.IEEE 156.154.101.3 2001:502:2eda:0:0:0:0:3
 nserver:      DNSC.NIC.IEEE 156.154.102.3 2610:a1:1009:0:0:0:0:3
 nserver:      DNSD.NIC.IEEE 156.154.103.3 2610:a1:1010:0:0:0:0:3
-ds-rdata:     39700 8 2 F12A037A0D1108BDF15C5A58CC488EFC19F3B9100C643C67181703E2747BE9AB
-ds-rdata:     16667 8 2 BABDAA67D51EE0C44AB2A25B88427F9BDAC5BD271DCF6074684D0356DE2469B6
+ds-rdata:     39700 8 2 f12a037a0d1108bdf15c5a58cc488efc19f3b9100c643c67181703e2747be9ab
+ds-rdata:     16667 8 2 babdaa67d51ee0c44ab2a25b88427f9bdac5bd271dcf6074684d0356de2469b6
+
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: http://www.ieee.org
