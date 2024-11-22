@@ -37,11 +37,10 @@ nserver:      A.ZDNSCLOUD.COM 203.99.24.1
 nserver:      B.ZDNSCLOUD.COM 203.99.25.1
 nserver:      C.ZDNSCLOUD.COM 203.99.26.1
 nserver:      D.ZDNSCLOUD.COM 203.99.27.1
-nserver:      F.ZDNSCLOUD.COM 114.67.16.204
-nserver:      G.ZDNSCLOUD.COM 42.62.2.16
+nserver:      F.ZDNSCLOUD.COM 116.169.54.111
+nserver:      G.ZDNSCLOUD.COM 223.72.199.37
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
-ds-rdata:     40582 8 2 7b808042c4c053d9af8f39b7e784a66c00ce1d9eef0bc1dc6e5d59a4451da05a
 ds-rdata:     52120 8 2 36fd8acb79ed5963abd523bb73b5c9fa39f8d206ed2488436d1795b1228766ee
 
 whois:        whois.nic.icbc
@@ -51,6 +50,6 @@ remarks:      Registration information:
 remarks:      http://www.icbc.com.cn/ICBC/%E5%9F%9F%E5%90%8D%E6%B3%A8%E5%86%8C%E5%B1%80/default.htm
 
 created:      2015-04-09
-changed:      2023-01-18
+changed:      2024-11-13
 source:       IANA
 
