@@ -30,15 +30,16 @@ address:      Suriname
 phone:        +597 8809685
 e-mail:       furyal.naarden@telesur.sr
 
-nserver:      NS1.SR.NET 200.1.159.148
-nserver:      NS2.SR.NET 200.2.162.30
+nserver:      NS1.NIC.SR 168.195.219.210 2803:ff40:a251:0:168:195:219:2
+nserver:      NS2.NIC.SR 168.195.216.214 2803:ff40:a000:2501:168:195:216:2
+ds-rdata:     46104 13 2 967a6b8f3c9c7fd0f981ea3eef1b8a6fe2c4043fbb1518d171d80e83ce4a84ee
 
 whois:        
 
 status:       ACTIVE
-remarks:      Registration information: http://isp.datasur.sr/
+remarks:      Registration information: https://isp.datasur.sr/
 
 created:      1991-09-03
-changed:      2023-02-17
+changed:      2024-07-19
 source:       IANA
 
