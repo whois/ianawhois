@@ -35,7 +35,7 @@ nserver:      C.DNS.BR 200.192.233.10 2001:12f8:a:0:0:0:0:10
 nserver:      D.DNS.BR 200.219.154.10 2001:12f8:4:0:0:0:0:10
 nserver:      E.DNS.BR 200.229.248.10 2001:12f8:2:0:0:0:0:10
 nserver:      F.DNS.BR 200.219.159.10 2001:12f8:c:0:0:0:0:10
-ds-rdata:     2471 13 2 5e4f35998b8f909557fa119c4cbfdca2d660a26f069ef006b403758a07d1a2e4
+ds-rdata:     38298 13 2 9f2d4993f47b0f2751de0007d70a2754ee532fe373761154d9ea7a8cb9d8ea18
 
 whois:        whois.registro.br
 
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://registro.br/
 
 created:      1989-04-18
-changed:      2019-08-01
+changed:      2023-11-14
 source:       IANA
 
