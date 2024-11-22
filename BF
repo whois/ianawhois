@@ -4,43 +4,43 @@
 
 domain:       BF
 
-organisation: ARCE-AutoritÈ de RÈgulation des Communications Electroniques
+organisation: Autorité de Régulation des Communications Electroniques et des Postes (ARCEP)
 address:      01 BP 6437
 address:      Ouagadougou 01
 address:      Burkina Faso
 
 contact:      administrative
-name:         Directeur des Services Informatiques
-organisation: ARCE-AutoritÈ de RÈgulation des Communications Electroniques
-address:      01 BP 6437
-address:      Ouagadougou 01
+name:         TLD Gestionnaire Administratif (DSI/ARCEP)
+organisation: Autorité de Régulation des Communications Electroniques et des Postes (ARCEP)
+address:      Ouaga 2000
+address:      01 BP 6437 Ouagadougou 01 Ouagadougou
 address:      Burkina Faso
-phone:        +22670390190
+phone:        +22625375360
 fax-no:       +22625375364
-e-mail:       serge.sanou@arcep.bf
+e-mail:       tld-admin@arcep.bf
 
 contact:      technical
-name:         Chef de Service FASONET
-organisation: ONATEL SA - Office National des TÈlÈcommunications
-address:      01 BP 10000
-address:      Ouagadougou 01
+name:         TLD Gestionnaire Technique
+organisation: Association Burkinabè des Domaines Internet (A.B.D.I.)
+address:      Secteur 24, 1200 logements, Avenue Babanguida
+address:      01 BP 6251 Ouagadougou 01
+address:      Ouagadougou
 address:      Burkina Faso
-phone:        +22670201338
-fax-no:       +22625375364
-e-mail:       e.guigma@moov-africa.bf
+phone:        +22625332525
+fax-no:       +22625332525
+e-mail:       tld-tech@registre.bf
 
 nserver:      A.REGISTRE.BF 212.52.146.50
 nserver:      DNS-TLD.IRD.FR 13.39.116.127
 nserver:      NS-BF.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
 nserver:      PCH.NS.REGISTRE.BF 2001:500:14:6141:ad:0:0:1 204.61.216.141
 
-whois:        
+whois:        whois.registre.bf
 
 status:       ACTIVE
-remarks:      Registration information:
-remarks:      http://www.arcep.bf/noms-de-domaine
+remarks:      Registration information: https://www.registre.bf
 
 created:      1993-03-29
-changed:      2023-03-23
+changed:      2023-10-03
 source:       IANA
 
