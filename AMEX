@@ -22,8 +22,8 @@ e-mail:       ngtld-amex@cscglobal.com
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
@@ -35,7 +35,7 @@ nserver:      C.NIC.AMEX 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.AMEX 156.154.144.10 2610:a1:1071:0:0:0:0:a
 nserver:      NS2.DNS.NIC.AMEX 156.154.145.10 2610:a1:1072:0:0:0:0:a
 nserver:      NS3.DNS.NIC.AMEX 156.154.159.10 2610:a1:1073:0:0:0:0:a
-ds-rdata:     22897 8 2 e17027e1218ba28cd5cc6847f0b7606066ee92eea6b9901d4e8e41b3e9930b6e
+ds-rdata:     33586 8 2 7deb639c1b7c68838cb13ac4063cef638bd32b47a399f6fe712e893a9a8cec19
 
 whois:        
 
@@ -44,6 +44,6 @@ remarks:      Registration information:
 remarks:      https://www.americanexpress.com
 
 created:      2016-07-21
-changed:      2022-07-21
+changed:      2024-05-11
 source:       IANA
 
