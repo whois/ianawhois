@@ -4,33 +4,31 @@
 
 domain:       ORGANIC
 
-organisation: Afilias Limited
-address:      c/o Donuts Inc.
+organisation: Identity Digital Limited
+address:      c/o Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 
 contact:      administrative
 name:         Vice President, Engineering
-organisation: Afilias Limited
-address:      c/o Donuts Inc.
+organisation: Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       tldadmin@donuts.email
+e-mail:       tldadmin@identity.digital
 
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
-organisation: Afilias Limited
-address:      c/o Donuts Inc.
+organisation: Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       tldtech@donuts.email
+e-mail:       tldtech@identity.digital
 
 nserver:      A0.NIC.ORGANIC 2a01:8840:16:0:0:0:0:40 65.22.20.40
 nserver:      A2.NIC.ORGANIC 2a01:8840:19:0:0:0:0:40 65.22.23.40
@@ -41,9 +39,9 @@ ds-rdata:     22474 8 2 5803fbc9f1fc0d4aa172dc24f6b2b099f18dc13e04cee7f605777d79
 whois:        whois.nic.organic
 
 status:       ACTIVE
-remarks:      Registration information: https://donuts.domains/
+remarks:      Registration information: https://www.identity.digital/
 
 created:      2014-05-29
-changed:      2021-12-02
+changed:      2023-09-01
 source:       IANA
 
