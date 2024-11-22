@@ -33,7 +33,7 @@ nserver:      C.NIC.FILM 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      X.NIC.FILM 156.154.172.82 2610:a1:1074:0:0:0:1:82
 nserver:      Y.NIC.FILM 156.154.173.82 2610:a1:1075:0:0:0:1:82
 nserver:      Z.NIC.FILM 156.154.174.82 2610:a1:1076:0:0:0:1:82
-ds-rdata:     37210 8 2 713e96c6a83bf8e26d80db818d4061793b4c10405c13e7d9cf7d471ceefb6009
+ds-rdata:     40855 8 2 2c6b614b379da71a9822bce8094b4b42d14801c5368b07cb1f6f59af7e750ae8
 
 whois:        whois.nic.film
 
@@ -41,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.film
 
 created:      2015-02-27
-changed:      2022-12-01
+changed:      2024-01-05
 source:       IANA
 
