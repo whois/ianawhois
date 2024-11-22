@@ -4,29 +4,35 @@
 
 domain:       MV
 
-organisation: Dhiraagu Pvt. Ltd. (DHIVEHINET)
-address:      19 Medhuziyaaraiy Magu
-address:      Male 20-02
+organisation: Dhivehi Raajjeyge Gulhun PLC
+address:      Dhiraagu Head Office,
+address:      Ameenee Magu,
+address:      P.O. Box 2082,
+address:      Male Maafannu 20403
 address:      Maldives
 
 contact:      administrative
 name:         NOC Engineer
-organisation: Dhiraagu Pvt. Ltd. (DHIVEHINET)
-address:      19 Medhuziyaaraiy Magu
-address:      Male 20-02
+organisation: Dhivehi Raajjeyge Gulhun PLC
+address:      Dhiraagu Head Office,
+address:      Ameenee Magu,
+address:      P.O. Box 2082,
+address:      Male Maafannu 20403
 address:      Maldives
-phone:        +960 771803
-fax-no:       +960 3343088
+phone:        +960 3311222
+fax-no:       +960 3328132
 e-mail:       noc@dhiraagu.com.mv
 
 contact:      technical
 name:         Network Administrator - NOC
-organisation: Dhiraagu Pvt. Ltd. (DHIVEHINET)
-address:      19 Medhuziyaaraiy Magu
-address:      Male 20-02
+organisation: Dhivehi Raajjeyge Gulhun PLC
+address:      Dhiraagu Head Office,
+address:      Ameenee Magu,
+address:      P.O. Box 2082,
+address:      Male Maafannu 20403
 address:      Maldives
-phone:        +960 311222
-fax-no:       +960 3343088
+phone:        +960 3311222
+fax-no:       +960 3328132
 e-mail:       noc@dhiraagu.com.mv
 
 nserver:      MV-NS.ANYCAST.PCH.NET 204.61.216.24
@@ -39,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      1996-09-25
-changed:      2021-01-13
+changed:      2024-10-28
 source:       IANA
 
