@@ -23,8 +23,8 @@ e-mail:       dnsmgr@ford.com
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
@@ -36,7 +36,7 @@ nserver:      C.NIC.LINCOLN 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.LINCOLN 156.154.144.105 2610:a1:1071:0:0:0:0:69
 nserver:      NS2.DNS.NIC.LINCOLN 156.154.145.105 2610:a1:1072:0:0:0:0:69
 nserver:      NS3.DNS.NIC.LINCOLN 156.154.159.105 2610:a1:1073:0:0:0:0:69
-ds-rdata:     3661 8 2 d29f19155fe9e20ae5a9fa1e1dea7dc1bada5d04f1ff458e8c14fcdf088acab1
+ds-rdata:     10597 8 2 54eeb8f5a01779190a418a0baa75372c8b84fc313188b03db43e2fae379f133f
 
 whois:        
 
@@ -44,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.lincoln.com
 
 created:      2015-12-10
-changed:      2022-07-21
+changed:      2024-05-11
 source:       IANA
 
