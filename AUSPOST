@@ -34,7 +34,6 @@ nserver:      C.NIC.AUSPOST 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      X.NIC.AUSPOST 156.154.172.82 2610:a1:1074:0:0:0:1:82
 nserver:      Y.NIC.AUSPOST 156.154.173.82 2610:a1:1075:0:0:0:1:82
 nserver:      Z.NIC.AUSPOST 156.154.174.82 2610:a1:1076:0:0:0:1:82
-ds-rdata:     23341 8 2 cdce581a5b4b9280a865fc7bd798572016629e0b4c56cac1a3fccefb0d4329a2
 ds-rdata:     50557 8 2 8631f3b3daa56f69e46a0513ae0ba9943a0992a664a7ebc25c2a4e8792c5df83
 
 whois:        whois.nic.auspost
@@ -43,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: https://auspost.com.au
 
 created:      2016-08-11
-changed:      2023-07-31
+changed:      2023-11-30
 source:       IANA
 
