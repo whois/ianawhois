@@ -35,6 +35,7 @@ nserver:      B.NIC.GENT 185.24.64.89 2a04:2b00:13cc:0:0:0:1:89
 nserver:      C.NIC.GENT 212.18.248.89 2a04:2b00:13ee:0:0:0:0:89
 nserver:      D.NIC.GENT 212.18.249.89 2a04:2b00:13ff:0:0:0:0:89
 ds-rdata:     2640 13 2 e97c1f6f53e1284399d6daaf670d8fcbddb5618710ade52c1219757c14c77d88
+ds-rdata:     65113 13 2 ff773c6dfaaa57475219ba35030a346181a8737e02e2ea2566c452b5ffd5a69a
 
 whois:        whois.nic.gent
 
@@ -42,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.gent
 
 created:      2014-07-03
-changed:      2022-07-20
+changed:      2023-10-05
 source:       IANA
 
