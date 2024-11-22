@@ -5,15 +5,15 @@
 domain:       QUEBEC
 
 organisation: PointQuébec Inc
-address:      330-55, rue de Louvain Ouest
-address:      Montréal QC H2N 1A4
+address:      202-1100, boul. Crémazie Est
+address:      Montréal QC H2P 2X2
 address:      Canada
 
 contact:      administrative
 name:         Normand Fortier
 organisation: Normand
-address:      330-55, rue de Louvain Ouest
-address:      Montréal QC H2N 1A4
+address:      202-1100, boul. Crémazie Est
+address:      Montréal QC H2P 2X2
 address:      Canada
 phone:        +1.514-700-0018
 fax-no:       +1.877-917-9904
@@ -41,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.registre.quebec
 
 created:      2014-03-13
-changed:      2022-01-07
+changed:      2023-09-13
 source:       IANA
 
