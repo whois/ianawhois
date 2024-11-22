@@ -37,7 +37,7 @@ nserver:      C.NIC.SUCKS 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      X.NIC.SUCKS 156.154.172.82 2610:a1:1074:0:0:0:1:82
 nserver:      Y.NIC.SUCKS 156.154.173.82 2610:a1:1075:0:0:0:1:82
 nserver:      Z.NIC.SUCKS 156.154.174.82 2610:a1:1076:0:0:0:1:82
-ds-rdata:     33844 8 2 3bc39b543789de80c38841624e4195136cc4cf04f47ab5a09d052998e9f374ec
+ds-rdata:     59257 8 2 0eb720a2c0284375766effebd01edd5255397bafcce4a8aaa46f0bf13fca9a5b
 
 whois:        whois.nic.sucks
 
@@ -45,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.voxpopregistry.com
 
 created:      2015-02-19
-changed:      2022-12-06
+changed:      2023-12-07
 source:       IANA
 
