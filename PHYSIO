@@ -33,7 +33,6 @@ nserver:      C.NIC.PHYSIO 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      X.NIC.PHYSIO 156.154.172.82 2610:a1:1074:0:0:0:1:82
 nserver:      Y.NIC.PHYSIO 156.154.173.82 2610:a1:1075:0:0:0:1:82
 nserver:      Z.NIC.PHYSIO 156.154.174.82 2610:a1:1076:0:0:0:1:82
-ds-rdata:     49021 8 2 ae268396dd64c1fcce4fd3ea3a3f6c427e4daad035aa4de961b6b8380a800153
 ds-rdata:     41164 8 2 600ccbc6a1e1cfdd09650cf095d2a15af68ad3574a849028654d2593367d90a5
 
 whois:        whois.nic.physio
@@ -42,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.registry.physio
 
 created:      2014-06-05
-changed:      2023-07-31
+changed:      2023-12-05
 source:       IANA
 
