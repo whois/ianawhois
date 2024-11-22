@@ -5,29 +5,30 @@
 domain:       BROKER
 
 organisation: Dog Beach, LLC
+address:      c/o Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 
 contact:      administrative
 name:         Vice President, Engineering
-organisation: Donuts Inc.
+organisation: Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
-phone:        +1 425 298 2200
-fax-no:       +1 425 671 0020
-e-mail:       tldadmin@donuts.email
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldadmin@identity.digital
 
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
-organisation: Donuts Inc.
+organisation: Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
-phone:        +1 425 298 2200
-fax-no:       +1 425 671 0020
-e-mail:       tldtech@donuts.email
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
 
 nserver:      V0N0.NIC.BROKER 2a01:8840:16:0:0:0:0:67 65.22.20.67
 nserver:      V0N1.NIC.BROKER 2a01:8840:17:0:0:0:0:67 65.22.21.67
@@ -40,9 +41,9 @@ ds-rdata:     8746 8 2 7b7c64b10eb518a94bbfd3a75a5a31f9e3c67a18bab01113a136dfd08
 whois:        whois.nic.broker
 
 status:       ACTIVE
-remarks:      Registration information: https://donuts.domains/
+remarks:      Registration information: https://www.identity.digital/
 
 created:      2015-03-06
-changed:      2021-10-27
+changed:      2023-09-12
 source:       IANA
 
