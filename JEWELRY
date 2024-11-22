@@ -5,30 +5,30 @@
 domain:       JEWELRY
 
 organisation: Binky Moon, LLC
-address:      c/o Donuts Inc.
+address:      c/o Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 
 contact:      administrative
 name:         Vice President, Engineering
-organisation: Donuts Inc.
+organisation: Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       tldadmin@donuts.email
+e-mail:       tldadmin@identity.digital
 
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
-organisation: Donuts Inc.
+organisation: Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       tldtech@donuts.email
+e-mail:       tldtech@identity.digital
 
 nserver:      V0N0.NIC.JEWELRY 2a01:8840:1e:0:0:0:0:26 65.22.28.26
 nserver:      V0N1.NIC.JEWELRY 2a01:8840:1f:0:0:0:0:26 65.22.29.26
@@ -41,9 +41,9 @@ ds-rdata:     55777 8 2 cf1e81d50a04c164391bc99065ec51d4e25ab77b740cc93f011ded2a
 whois:        whois.nic.jewelry
 
 status:       ACTIVE
-remarks:      Registration information: http://www.donuts.domains/
+remarks:      Registration information: https://www.identity.digital/
 
 created:      2015-04-09
-changed:      2021-11-10
+changed:      2023-09-12
 source:       IANA
 
