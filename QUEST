@@ -33,10 +33,8 @@ nserver:      A-CNIC.NIC.QUEST 194.169.218.19 2001:67c:13cc:0:0:0:1:19
 nserver:      B-CNIC.NIC.QUEST 185.24.64.19 2a04:2b00:13cc:0:0:0:1:19
 nserver:      C-CNIC.NIC.QUEST 212.18.248.19 2a04:2b00:13ee:0:0:0:0:19
 nserver:      D-CNIC.NIC.QUEST 212.18.249.19 2a04:2b00:13ff:0:0:0:0:19
-ds-rdata:     21334 8 1 d99396efcd9b8f4a3b269cd1e9620572fb04f0d0
-ds-rdata:     21334 8 2 8472c2fdf0a9d2be4a2c1bc4c601c987118e6a815b1242b6985110b7c390e80e
 ds-rdata:     50071 8 2 a0a1fa69fa59661ad0501d87885426b7b879c84b19891309db11ea15a92ef2ab
-ds-rdata:     50071 8 1 118c9e561b08fc2c993ca75545ff688ecff4ffcb
+ds-rdata:     19889 8 2 ddae7f1bec24724592cf3a52a82cd3b9aae5810038199816544a50bd6ff5f481
 
 whois:        whois.nic.quest
 
@@ -44,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.quest/
 
 created:      2015-08-06
-changed:      2022-08-16
+changed:      2024-03-11
 source:       IANA
 
