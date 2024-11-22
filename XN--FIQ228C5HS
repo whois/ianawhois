@@ -22,13 +22,11 @@ e-mail:       arto.isokoski@internetregistry.info
 
 contact:      technical
 name:         CTO
-organisation: Beijing Tele-info Network Technology Co., Ltd.
-address:      Building 21, 1 Gaolizhang Road
-address:      Haidian District
+organisation: Beijing Tele-info Technology Co., Ltd.
+address:      21st Floor, Block D, Beihang Zhizhen Building, No. 7 Zhichun Road, Haidan District
 address:      Beijing 100095
 address:      China
-phone:        +86 10 5884 6931
-fax-no:       +86 10 5884 6939
+phone:        +86 13811939493
 e-mail:       gtld@teleinfo.cn
 
 nserver:      NS1.TELEINFO.CN 103.61.60.1 2402:7d80:0:0:0:0:0:1
@@ -43,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://internetregistry.info/
 
 created:      2013-12-19
-changed:      2022-09-20
+changed:      2024-05-06
 source:       IANA
 
