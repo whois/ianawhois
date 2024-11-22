@@ -32,8 +32,8 @@ phone:        +502 2368 8565
 e-mail:       devops@cctld.gt
 
 nserver:      A.LACTLD.ORG 200.0.68.10 2801:14:a000:0:0:0:0:10
+nserver:      GT-E.NS.NIC.CZ 185.43.134.14 2001:148f:fffd:0:0:0:0:14
 nserver:      GT.ANYCASTDNS.CZ 185.28.194.194 185.38.108.108 2a00:fea0:dead:0:0:0:0:beef
-nserver:      NS-CZ.GT 193.29.206.2 2001:678:1:0:0:0:0:2
 nserver:      NS.DNS.BR 200.160.0.5 2001:12ff:0:a20:0:0:0:5
 nserver:      PCH.GT 2001:500:14:6095:ad:0:0:1 204.61.216.95
 nserver:      SSDNS-TLD.NIC.CL 200.7.5.14 2001:1398:276:0:200:7:5:14
@@ -44,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.gt
 
 created:      1992-08-14
-changed:      2022-08-01
+changed:      2024-01-16
 source:       IANA
 
