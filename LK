@@ -13,42 +13,40 @@ address:      Sri Lanka
 contact:      administrative
 name:         Gihan Dias
 organisation: LK Domain Registry
-address:      545/4 de Soysa Rd.
-address:      Molpe
-address:      Moratuwa 10400
+address:      Bernard's Business Park,
+address:      106, Dutugemunu Street
+address:      Dehiwala 10350
 address:      Sri Lanka
 phone:        +94 11 4 216 065
-fax-no:       +94 11 2 650 805
-e-mail:       gihan@cse.mrt.ac.lk
+e-mail:       gihan@domains.lk
 
 contact:      technical
 name:         Hostmaster
 organisation: LK Domain Registry
-address:      545/4 de Soysa Rd.
-address:      Molpe
-address:      Moratuwa 10400
+address:      Bernard's Business Park,
+address:      106, Dutugemunu Street
+address:      Dehiwala 10350
 address:      Sri Lanka
 phone:        +94 11 4 216 061
-fax-no:       +94 112 650 805
 e-mail:       hostmaster@domains.lk
 
 nserver:      C.NIC.LK 203.143.29.3 2405:5400:3:1:203:143:29:3
-nserver:      D.NIC.LK 123.231.6.18
-nserver:      L.NIC.LK 192.248.8.17
-nserver:      M.NIC.LK 202.129.235.229
+nserver:      D.NIC.LK 123.231.6.18 2402:4000:479:c5:0:0:0:a
+nserver:      M.NIC.LK 202.129.235.229 2407:c00:21:8:202:129:235:229
 nserver:      NS1.AC.LK 192.248.1.162 2401:dd00:1:0:0:0:0:162
 nserver:      P.NIC.LK 2001:500:14:6027:ad:0:0:1 204.61.216.27
 nserver:      PENDRAGON.CS.PURDUE.EDU 128.10.2.5
 nserver:      T.NIC.LK 203.94.66.129 2402:d000:100c:0:0:0:0:129
+nserver:      Z.NIC.LK 185.38.108.108 2a00:fea0:dead:0:0:0:0:beef
 ds-rdata:     181 5 1 a1907f85d49081239389c216912b8937d0eceb3d
 ds-rdata:     181 5 2 87516d56b697cb3f7a7c3eb594ee0e16ae509d16a503089f4fbd4f347b336f93
 
 whois:        
 
 status:       ACTIVE
-remarks:      Registration information: http://www.nic.lk/
+remarks:      Registration information: http://www.domains.lk/
 
 created:      1990-06-15
-changed:      2022-11-04
+changed:      2024-09-05
 source:       IANA
 
