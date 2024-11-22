@@ -33,8 +33,8 @@ nserver:      A.NIC.THEATRE 194.169.218.69 2001:67c:13cc:0:0:0:1:69
 nserver:      B.NIC.THEATRE 185.24.64.69 2a04:2b00:13cc:0:0:0:1:69
 nserver:      C.NIC.THEATRE 212.18.248.69 2a04:2b00:13ee:0:0:0:0:69
 nserver:      D.NIC.THEATRE 212.18.249.69 2a04:2b00:13ff:0:0:0:0:69
-ds-rdata:     45196 8 1 abed901a738d17abfa754e304b6e1c0c9021aac5
 ds-rdata:     45196 8 2 530b10ce5cc67a1f4c6e5f59bf28e851426b9d6991233203e42a8970bd9a8011
+ds-rdata:     62486 8 2 70c496598e2094e5e0bb8caf3b58908758e7b91ec2e370912ef7f733ea22f195
 
 whois:        whois.nic.theatre
 
@@ -42,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.theatre/
 
 created:      2015-08-13
-changed:      2022-08-16
+changed:      2024-04-15
 source:       IANA
 
