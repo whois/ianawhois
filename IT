@@ -10,13 +10,12 @@ address:      Pisa I-56124
 address:      Italy
 
 contact:      administrative
-name:         Marco Conti
+name:         Andrea Passarella
 organisation: IIT - CNR
 address:      Via Moruzzi, 1
 address:      Pisa I-56124
 address:      Italy
-phone:        +39 050 315 2123
-fax-no:       +39 050 315 2113
+phone:        +39 050 315 2112
 e-mail:       direttore@iit.cnr.it
 
 contact:      technical
@@ -26,7 +25,6 @@ address:      Via Moruzzi, 1
 address:      Pisa I-56124
 address:      Italy
 phone:        +39 050 315 2087
-fax-no:       +39 050 315 2207
 e-mail:       maurizio.martinelli@iit.cnr.it
 
 nserver:      A.DNS.IT 194.0.16.215 2001:678:12:0:194:0:16:215
@@ -43,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.it/
 
 created:      1987-12-23
-changed:      2023-01-20
+changed:      2024-11-06
 source:       IANA
 
