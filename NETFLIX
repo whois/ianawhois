@@ -22,20 +22,20 @@ e-mail:       nicadmin@netflix.com
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
 
-nserver:      NS1.DNS.NIC.NETFLIX 156.154.144.121 2610:a1:1071:0:0:0:0:79
-nserver:      NS2.DNS.NIC.NETFLIX 156.154.145.121 2610:a1:1072:0:0:0:0:79
-nserver:      NS3.DNS.NIC.NETFLIX 156.154.159.121 2610:a1:1073:0:0:0:0:79
+nserver:      A.NIC.NETFLIX 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.NETFLIX 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.NETFLIX 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS4.DNS.NIC.NETFLIX 156.154.156.121 2610:a1:1074:0:0:0:0:79
 nserver:      NS5.DNS.NIC.NETFLIX 156.154.157.121 2610:a1:1075:0:0:0:0:79
 nserver:      NS6.DNS.NIC.NETFLIX 156.154.158.121 2610:a1:1076:0:0:0:0:79
-ds-rdata:     27637 8 2 7aba17bd5b87aa5d31cb611e0dfd4c67d926b6cfc68b8aeca58c468b104cc2e6
+ds-rdata:     35611 8 2 37bd4f2e02f06306f0c4eb146ebd289cf83b91824b1320a6332aab7b14f33462
 
 whois:        
 
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.netflix.com
 
 created:      2016-05-05
-changed:      2022-07-21
+changed:      2024-05-11
 source:       IANA
 
