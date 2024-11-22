@@ -10,20 +10,19 @@ address:      Virginia Beach VA 23463
 address:      United States of America (the)
 
 contact:      administrative
-name:         John Doussard
+name:         Michael Stonecypher
 organisation: The Christian Broadcasting Network, Inc.
 address:      977 Centerville Turnpike CSB314
 address:      Virginia Beach VA 23463
 address:      United States of America (the)
-phone:        +1 757-226-3687
-fax-no:       +1 757-226-6230
-e-mail:       jack.doussard@cbn.org
+phone:        +1 757-226-3555
+e-mail:       webdomainadmin@cbn.org
 
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
@@ -35,7 +34,7 @@ nserver:      C.NIC.CBN 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.CBN 156.154.144.35 2610:a1:1071:0:0:0:0:23
 nserver:      NS2.DNS.NIC.CBN 156.154.145.35 2610:a1:1072:0:0:0:0:23
 nserver:      NS3.DNS.NIC.CBN 156.154.159.35 2610:a1:1073:0:0:0:0:23
-ds-rdata:     53419 8 2 030de643aaaf4c8f1d7d61a6d3e89eb48ed654916c60c670b72a083f43c48312
+ds-rdata:     38299 8 2 1907c6c2996fc1df2198492f294525824c6321ae8a891284b0bc74efc2083538
 
 whois:        
 
@@ -43,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.cbn.com
 
 created:      2014-11-20
-changed:      2022-07-21
+changed:      2024-05-11
 source:       IANA
 
