@@ -33,8 +33,8 @@ nserver:      A.NIC.AUTOS 194.169.218.136 2001:67c:13cc:0:0:0:1:136
 nserver:      B.NIC.AUTOS 185.24.64.136 2a04:2b00:13cc:0:0:0:1:136
 nserver:      C.NIC.AUTOS 212.18.248.136 2a04:2b00:13ee:0:0:0:0:136
 nserver:      D.NIC.AUTOS 212.18.249.136 2a04:2b00:13ff:0:0:0:0:136
-ds-rdata:     12979 8 2 b803b9558f22efb130a7b8a43e1cb855b94de8dc5558a1bc350dba0560e27bcd
 ds-rdata:     61492 8 2 34f530b8473fa65a88c5f81552efad281321445f6dc77ed685e06071bb56f0dd
+ds-rdata:     54470 8 2 0987b3830036cbc40b69d253f16e81ea74dd9dbfb981a0c8c21b93d64d2ba35b
 
 whois:        whois.nic.autos
 
@@ -42,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.autos
 
 created:      2014-05-01
-changed:      2022-08-16
+changed:      2023-11-27
 source:       IANA
 
