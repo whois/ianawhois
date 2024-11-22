@@ -36,6 +36,7 @@ nserver:      B.NIC.XN--MGBCPQ6GPA1A 185.24.64.115 2a04:2b00:13cc:0:0:0:1:115
 nserver:      C.NIC.XN--MGBCPQ6GPA1A 212.18.248.115 2a04:2b00:13ee:0:0:0:0:115
 nserver:      D.NIC.XN--MGBCPQ6GPA1A 212.18.249.115 2a04:2b00:13ff:0:0:0:0:115
 ds-rdata:     18592 8 2 0decd54d82c1c675e321c38a49e3193f83066bd70d1bfb108b62231c75b8b407
+ds-rdata:     18404 8 2 1dbc70cb85267da1054f652ac0b4aeeb76f17fb9648a490f4a0bb0d934bf6ac3
 
 whois:        
 
@@ -43,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      2019-06-13
-changed:      2023-03-07
+changed:      2024-07-01
 source:       IANA
 
