@@ -37,8 +37,8 @@ nserver:      A.NIC.XN--4GBRIM 194.169.218.144 2001:67c:13cc:0:0:0:1:144
 nserver:      B.NIC.XN--4GBRIM 185.24.64.144 2a04:2b00:13cc:0:0:0:1:144
 nserver:      C.NIC.XN--4GBRIM 212.18.248.144 2a04:2b00:13ee:0:0:0:0:144
 nserver:      D.NIC.XN--4GBRIM 212.18.249.144 2a04:2b00:13ff:0:0:0:0:144
-ds-rdata:     38332 8 2 14e1f26f8b51f92bd671dbe97f651903fa1f26df07e2e882dd997a1d73971426
 ds-rdata:     25097 8 2 123b7c37a9dfd48ded1914c9172ee05865d10e47c0517f40659cb0305ba0d8b3
+ds-rdata:     62231 8 2 c095636f7f327234bd3ae9d0d1fac82d5f1e1ff46cb1fc5ea76628b1430e6dc8
 
 whois:        whois.nic.xn--4gbrim
 
@@ -46,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.dotmawqe.com
 
 created:      2014-05-15
-changed:      2022-03-03
+changed:      2023-11-17
 source:       IANA
 
