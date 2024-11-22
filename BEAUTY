@@ -33,8 +33,8 @@ nserver:      A.NIC.BEAUTY 194.169.218.119 2001:67c:13cc:0:0:0:1:119
 nserver:      B.NIC.BEAUTY 185.24.64.119 2a04:2b00:13cc:0:0:0:1:119
 nserver:      C.NIC.BEAUTY 212.18.248.119 2a04:2b00:13ee:0:0:0:0:119
 nserver:      D.NIC.BEAUTY 212.18.249.119 2a04:2b00:13ff:0:0:0:0:119
-ds-rdata:     35340 8 2 2489479f7a6e57341c7c5508c55113491c519dd846258a6593c4d1aba57d463e
 ds-rdata:     52406 8 2 c5c45b79dbe67a132237b020f4966fe32fbe61553487e38d47918561568e9957
+ds-rdata:     6827 8 2 76ebfbd30c8ca9a269ae19395256889058390459d1770d6efdd04fdbb7c08b7b
 
 whois:        whois.nic.beauty
 
@@ -42,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.beauty/
 
 created:      2016-04-07
-changed:      2022-08-16
+changed:      2024-03-01
 source:       IANA
 
