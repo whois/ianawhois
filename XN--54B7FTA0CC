@@ -6,23 +6,20 @@ domain:       বাংলা
 domain-ace:   XN--54B7FTA0CC
 
 organisation: Posts and Telecommunications Division
-address:      Ministry of Posts, Telecommunications and Information Technology
-address:      Bangladesh Secretariat
-address:      Abdul Ghani Road
+address:      Ministry of Posts, Telecommunications and Information Technology, Government of the People's Republic of Bangladesh
+address:      Abdul Goni Road
 address:      Dhaka 1000
 address:      Bangladesh
 
 contact:      administrative
-name:         Director (Telecom)
+name:         Deputy Secretary
 organisation: Posts and Telecommunications Division
-address:      Ministry of Posts, Telecommunications and Information Technology
-address:      Bangladesh Secretariat
-address:      Abdul Ghani Road
+address:      Ministry of Posts, Telecommunications and Information Technology,
+address:      Abdul Goni Road
 address:      Dhaka 1000
 address:      Bangladesh
-phone:        +880 2 9574446
-fax-no:       +880 2 9515599
-e-mail:       dirt@ptd.gov.bd
+phone:        +8802 22335448
+e-mail:       telecom1@ptd.gov.bd
 
 contact:      technical
 name:         Deputy General Manager (Domain)
@@ -45,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://domainreg.btcl.com.bd/
 
 created:      2011-03-30
-changed:      2023-04-13
+changed:      2024-05-29
 source:       IANA
 
