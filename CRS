@@ -35,12 +35,12 @@ nserver:      B0.NIC.CRS 2a01:8840:6f:0:0:0:0:25 65.22.113.25
 nserver:      C0.NIC.CRS 2a01:8840:70:0:0:0:0:25 65.22.114.25
 ds-rdata:     63622 8 2 d1647f1f8b7a8508b81f1d822c27581b628f7351ee8d99b8dc32a2bd802e0c37
 
-whois:        
+whois:        whois.nic.crs
 
 status:       ACTIVE
 remarks:      Registration information: 
 
 created:      2014-08-28
-changed:      2023-02-18
+changed:      2023-08-11
 source:       IANA
 
