@@ -33,7 +33,7 @@ nserver:      C.DNS.BR 200.192.233.10 2001:12f8:a:0:0:0:0:10
 nserver:      D.DNS.BR 200.219.154.10 2001:12f8:4:0:0:0:0:10
 nserver:      E.DNS.BR 200.229.248.10 2001:12f8:2:0:0:0:0:10
 nserver:      F.DNS.BR 200.219.159.10 2001:12f8:c:0:0:0:0:10
-ds-rdata:     2471 13 2 3997a266fb5806ed43e8fa8df8d9e492673fb4c8d35747346be522fa5123317f
+ds-rdata:     50876 13 2 3bb27beb43a9097b691a4704dfe1b28089265799e77afd4a97ffba11796d87dc
 
 whois:        whois.gtlds.nic.br
 
@@ -41,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.uol/
 
 created:      2014-08-07
-changed:      2020-06-15
+changed:      2023-11-14
 source:       IANA
 
