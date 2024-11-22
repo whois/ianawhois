@@ -35,6 +35,7 @@ nserver:      B.NIC.BOND 185.24.64.85 2a04:2b00:13cc:0:0:0:1:85
 nserver:      C.NIC.BOND 212.18.248.85 2a04:2b00:13ee:0:0:0:0:85
 nserver:      D.NIC.BOND 212.18.249.85 2a04:2b00:13ff:0:0:0:0:85
 ds-rdata:     35002 8 2 fa12aa0eba1f60642345ceefbdd7a36ec310eb1602547beaad5a1793ecca9dd5
+ds-rdata:     6470 8 2 a7074c6987d326d776c85c8b378a3ef437099503492c367d67952a9dcec2d229
 
 whois:        whois.nic.bond
 
@@ -42,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.bond
 
 created:      2014-10-30
-changed:      2021-11-29
+changed:      2024-04-18
 source:       IANA
 
