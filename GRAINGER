@@ -22,8 +22,8 @@ e-mail:       graingerregistryservices@grainger.com
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
@@ -35,7 +35,7 @@ nserver:      C.NIC.GRAINGER 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.GRAINGER 156.154.144.68 2610:a1:1071:0:0:0:0:44
 nserver:      NS2.DNS.NIC.GRAINGER 156.154.145.68 2610:a1:1072:0:0:0:0:44
 nserver:      NS3.DNS.NIC.GRAINGER 156.154.159.68 2610:a1:1073:0:0:0:0:44
-ds-rdata:     63544 8 2 9d220e1effe75aebee784d7066bd378773a55462c2da902458de3f80a8bd069e
+ds-rdata:     19057 8 2 21adfc98b30b8a046a117c926c36ce7d890ed1c98a7168049332af0afe19c08b
 
 whois:        
 
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.grainger.com
 
 created:      2015-10-29
-changed:      2022-07-21
+changed:      2024-05-11
 source:       IANA
 
