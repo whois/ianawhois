@@ -27,14 +27,13 @@ address:      Iceland
 phone:        +354 578 2030
 e-mail:       iana-contact@isnic.is
 
-nserver:      BES.ISNIC.IS 2001:500:14:6116:ad:0:0:1 204.61.216.116
-nserver:      DURINN.RHNET.IS 130.208.16.20 2a00:c88:10:16:0:0:0:20
-nserver:      HT-TLDSECONDARY01.ISNIC.IS 185.93.156.10 2001:67c:6c:56:0:0:0:10
-nserver:      SAB.ISNIC.IS 194.146.106.58 2001:67c:1010:14:0:0:0:53
-nserver:      SET.ISNIC.IS 194.0.25.41 2001:678:20:0:0:0:0:41
+nserver:      A.NIC.IS 185.93.156.10 2001:67c:6c:56:0:0:0:10
+nserver:      B.NIC.IS 185.93.156.154 2001:67c:6c:f056:0:0:0:154
+nserver:      C.NIC.IS 2001:500:14:6116:ad:0:0:1 204.61.216.116
+nserver:      D.NIC.IS 194.146.106.58 2001:67c:1010:14:0:0:0:53
+nserver:      E.NIC.IS 194.0.25.41 2001:678:20:0:0:0:0:41
 nserver:      SUNIC.SUNET.SE 192.36.125.2 2001:6b0:7:0:0:0:0:2
-nserver:      TG-TLDSECONDARY01.ISNIC.IS 185.93.156.154 2001:67c:6c:f056:0:0:0:154
-ds-rdata:     50437 8 2 9f52f1f92f1559e26dfdd71dad54db41acdd80f0150d974b08caf910d45e8b6e
+ds-rdata:     17566 8 2 d53c92eab2840fdea346dbc99900c032f47763762e10e95ce6b0a895ddcb6b4e
 
 whois:        whois.isnic.is
 
@@ -42,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.isnic.is/
 
 created:      1987-11-18
-changed:      2023-02-28
+changed:      2024-11-20
 source:       IANA
 
