@@ -37,12 +37,12 @@ nserver:      B0.NIC.CIPRIANI 2a01:8840:e7:0:0:0:0:41 65.22.237.41
 nserver:      C0.NIC.CIPRIANI 2a01:8840:e8:0:0:0:0:41 65.22.238.41
 ds-rdata:     17209 8 2 41adac2bf52a4a5ea210ce9db7ab6114a28cf916f1e06b1f4c3eee90077d6147
 
-whois:        whois.afilias-srs.net
+whois:        whois.nic.cipriani
 
 status:       ACTIVE
 remarks:      Registration information: http://www.cipriani.com/
 
 created:      2015-07-30
-changed:      2020-11-17
+changed:      2023-08-11
 source:       IANA
 
