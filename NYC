@@ -12,8 +12,8 @@ address:      United States of America (the)
 contact:      administrative
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
@@ -22,8 +22,8 @@ e-mail:       iana@registry.godaddy
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
@@ -35,14 +35,14 @@ nserver:      C.NIC.NYC 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      NS1.DNS.NIC.NYC 156.154.144.125 2610:a1:1071:0:0:0:0:7d
 nserver:      NS2.DNS.NIC.NYC 156.154.145.125 2610:a1:1072:0:0:0:0:7d
 nserver:      NS3.DNS.NIC.NYC 156.154.159.125 2610:a1:1073:0:0:0:0:7d
-ds-rdata:     12811 8 2 a5f2ec128186e5ba7f44ae789ed94f96e32811a68407d40e7073e2a58e8a1341
+ds-rdata:     12721 8 2 37f945f2d915698dcda12f80c7306150223270f78ec1d96fffeb163a2b1eac22
 
-whois:        
+whois:        whois.nic.nyc
 
 status:       ACTIVE
 remarks:      Registration information: http://www.mydotnyc.com
 
 created:      2014-03-13
-changed:      2022-07-21
+changed:      2024-04-17
 source:       IANA
 
