@@ -5,30 +5,30 @@
 domain:       ESTATE
 
 organisation: Binky Moon, LLC
-address:      c/o Donuts Inc.
+address:      c/o Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 
 contact:      administrative
 name:         Vice President, Engineering
-organisation: Donuts Inc.
+organisation: Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       tldadmin@donuts.email
+e-mail:       tldadmin@identity.digital
 
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
-organisation: Donuts Inc.
+organisation: Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       tldtech@donuts.email
+e-mail:       tldtech@identity.digital
 
 nserver:      V0N0.NIC.ESTATE 2a01:8840:1e:0:0:0:0:47 65.22.28.47
 nserver:      V0N1.NIC.ESTATE 2a01:8840:1f:0:0:0:0:47 65.22.29.47
@@ -41,9 +41,9 @@ ds-rdata:     9670 8 2 fbc7771a3f609853616f5b68203d1645dd9ed6d9d56ba3bba93429cf4
 whois:        whois.nic.estate
 
 status:       ACTIVE
-remarks:      Registration information: http://www.donuts.domains/
+remarks:      Registration information: https://www.identity.digital/
 
 created:      2013-11-08
-changed:      2021-11-10
+changed:      2023-09-13
 source:       IANA
 
