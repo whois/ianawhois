@@ -33,12 +33,7 @@ nserver:      A.NIC.LOL 194.169.218.146 2001:67c:13cc:0:0:0:1:146
 nserver:      B.NIC.LOL 185.24.64.146 2a04:2b00:13cc:0:0:0:1:146
 nserver:      C.NIC.LOL 212.18.248.146 2a04:2b00:13ee:0:0:0:0:146
 nserver:      D.NIC.LOL 212.18.249.146 2a04:2b00:13ff:0:0:0:0:146
-ds-rdata:     14131 5 2 4564b365617a6bcf1c53c04dd101339729f556c2837ad8ab095cff78cff1f97a
-ds-rdata:     15019 5 2 24cea2aa8a26053d2da0301850748f74e217a52a1b1941e86963a32c5991e9bb
-ds-rdata:     14131 5 1 a80aa63c99464101bad5a82079d748f602a4a79f
-ds-rdata:     15019 5 1 4f3c98c4c13b1657cfa5d90d945ef26008fdff32
-ds-rdata:     54097 5 1 d96bd9ffffdf0e0f85a1e2fd01306042d63b3919
-ds-rdata:     54097 5 2 efc57a65d9c270370a1dc1f6a3de157c6f09032864e976ac5bbb1710c6bc6779
+ds-rdata:     60144 13 2 7cc10bb99e7070753445d1d12b7781256198ac40f7409a2e81f43c68df7655b2
 
 whois:        whois.nic.lol
 
@@ -46,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.lol
 
 created:      2015-04-23
-changed:      2022-08-16
+changed:      2024-01-31
 source:       IANA
 
