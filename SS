@@ -30,12 +30,10 @@ address:      South Sudan
 phone:        +211 922338781
 e-mail:       tech@nic.ss
 
-nserver:      B.NS.TZNIC.OR.TZ 196.216.162.70 2001:43f8:e0:1:0:0:0:70
 nserver:      NS-SS.AFRINIC.NET 196.216.168.27 2001:43f8:120:0:0:0:0:27
 nserver:      PCH.NIC.SS 2001:500:14:6130:ad:0:0:1 204.61.216.130
 nserver:      SSNIC.ANYCASTDNS.CZ 185.28.194.194 185.38.108.108
-ds-rdata:     43817 8 1 65fb691da6eb488ed99195e7609837f787eafc4a
-ds-rdata:     43817 8 2 f85d36a2e056ff8cbb8dc79c748e4ec1e862c4f739891f9595669aa3384a252d
+ds-rdata:     39884 8 2 b603d47de4d4ac23168537763d91e5677300ac06f5d9a1108d29ea91c2c0d204
 
 whois:        whois.nic.ss
 
@@ -43,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.ss/
 
 created:      2011-08-31
-changed:      2022-06-13
+changed:      2024-04-05
 source:       IANA
 
