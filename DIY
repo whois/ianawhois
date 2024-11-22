@@ -4,42 +4,41 @@
 
 domain:       DIY
 
-organisation: Lifestyle Domain Holdings, Inc.
-address:      9721 Sherrill Boulevard
-address:      Knoxville TN 37932
-address:      United States of America (the)
+organisation: Internet Naming Co.
+address:      23 Lime Tree Bay, West Bay
+address:      Grand Cayman KY1-1505
+address:      Cayman Islands (the)
 
 contact:      administrative
-name:         Jennifer Wolfe
-organisation: Wolfe Domain
-address:      1196 Fording Island Road
-address:      Bluffton SC 29910
-address:      United States of America (the)
-phone:        +1 513 238-4348
-e-mail:       jwolfe@wolfedomain.com
+name:         Shayan Rostam, Principal
+organisation: Internet Naming Co.
+address:      23 Lime Tree Bay, West Bay
+address:      Grand Cayman KY1-1505
+address:      Cayman Islands (the)
+phone:        +1.424.888.0690
+e-mail:       partners@inaming.co
 
 contact:      technical
-name:         Registry Customer Service
-organisation: VeriSign, Inc.
-address:      12061 Bluemont Way
-address:      Reston VA 20190
-address:      United States of America (the)
-phone:        +1-703-925-6999
-fax-no:       +1-703-948-3978
-e-mail:       info@verisign-grs.com
+name:         Francisco Obispo, Chief Technology Officer
+organisation: Tucows Inc
+address:      96 Mowat Avenue
+address:      Toronto Ontario M6K3M1
+address:      Canada
+phone:        +1-949-903-3449
+e-mail:       trs-ops@tucows.com
 
-nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
-nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
-nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
-nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
-ds-rdata:     25674 8 2 06c661d544490aaf9c0efa121f0fd66ae957cb1900309fdae4a670ac4af1d37d
+nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
+nserver:      NS01.TRS-DNS.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
+nserver:      NS01.TRS-DNS.NET 64.96.2.1
+nserver:      NS01.TRS-DNS.ORG 185.159.197.3 2620:10a:80aa:0:0:0:0:3
+ds-rdata:     33264 13 2 24a91796a02821f094f089fb6001bac99b9b0bd2a8b0b89e63231da8f2c79788
 
 whois:        whois.nic.diy
 
 status:       ACTIVE
-remarks:      Registration information: 
+remarks:      Registration information: https://internetnaming.co
 
 created:      2016-07-21
-changed:      2023-06-02
+changed:      2024-10-21
 source:       IANA
 
