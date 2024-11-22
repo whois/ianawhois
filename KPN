@@ -34,6 +34,7 @@ nserver:      B.NIC.KPN 185.24.64.90 2a04:2b00:13cc:0:0:0:1:90
 nserver:      C.NIC.KPN 212.18.248.90 2a04:2b00:13ee:0:0:0:0:90
 nserver:      D.NIC.KPN 212.18.249.90 2a04:2b00:13ff:0:0:0:0:90
 ds-rdata:     10051 7 2 f265871198c769849f8acf952f01fcd412c9b3dc5dbf8fca98911d5052c0a240
+ds-rdata:     6010 7 2 e5a8e92b179784641c4fcb989bd6946ea85a03812039f5061922d1815992fbc6
 
 whois:        
 
@@ -41,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      2015-12-04
-changed:      2021-10-12
+changed:      2024-06-04
 source:       IANA
 
