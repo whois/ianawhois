@@ -23,8 +23,8 @@ e-mail:       ftld@ftld.com
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
@@ -36,7 +36,7 @@ nserver:      F.NIC.INSURANCE 156.154.105.22 2610:a1:1012:0:0:0:0:22
 nserver:      W.NIC.INSURANCE 2001:dcd:1:0:0:0:0:10 37.209.192.10
 nserver:      X.NIC.INSURANCE 2001:dcd:2:0:0:0:0:10 37.209.194.10
 nserver:      Y.NIC.INSURANCE 2001:dcd:3:0:0:0:0:10 37.209.196.10
-ds-rdata:     13792 8 2 ea492e4cf1888e2861f9fffaa38a66509c854db6aa41c4db1dfa611ae358b23f
+ds-rdata:     32830 13 2 f51790be5f8a3bec1d392a45882a76c5bda288395a3929e9714eb26193e80f5e
 
 whois:        whois.nic.insurance
 
@@ -44,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.ftld.com/
 
 created:      2015-11-06
-changed:      2023-01-18
+changed:      2024-07-01
 source:       IANA
 
