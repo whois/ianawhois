@@ -24,7 +24,7 @@ TLDFILE = File.expand_path('../../.tmp/tlds.txt', __FILE__)
 DEBUG   = true
 DATE    = Time.now.strftime('%Y-%m-%d')
 
-sh "git pull origin master"
+sh "git pull origin main"
 
 File.open(TLDFILE, "w+") { |f| f.write(URI.open('https://data.iana.org/TLD/tlds-alpha-by-domain.txt').read) }
 if File.read(TLDFILE).empty?
@@ -63,5 +63,5 @@ active_tlds.each do |tld|
   sleep(3)
 end
 
-sh "git push origin master"
+sh "git push origin main"
 
