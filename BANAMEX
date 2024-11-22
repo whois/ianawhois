@@ -22,8 +22,8 @@ e-mail:       primary_banamex@valideus.com
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
@@ -35,7 +35,7 @@ nserver:      C.NIC.BANAMEX 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.BANAMEX 156.154.144.21 2610:a1:1071:0:0:0:0:15
 nserver:      NS2.DNS.NIC.BANAMEX 156.154.145.21 2610:a1:1072:0:0:0:0:15
 nserver:      NS3.DNS.NIC.BANAMEX 156.154.159.21 2610:a1:1073:0:0:0:0:15
-ds-rdata:     48619 8 2 0ec0cea382d19ea64e24c4c8b5dcd64217a362f580401ddf31b3ef3d78e35a9b
+ds-rdata:     38095 8 2 eb04c740fb681ab87a2376cfb9e5ce3a865f930da98246836670d0bb29478229
 
 whois:        
 
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.citigroup.com
 
 created:      2016-07-21
-changed:      2022-07-21
+changed:      2024-05-11
 source:       IANA
 
