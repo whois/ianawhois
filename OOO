@@ -4,22 +4,18 @@
 
 domain:       OOO
 
-organisation: INFIBEAM INCORPORATION LIMITED
-address:      9th Floor, A Wing
-address:      Gopal Palace
-address:      Nehrunagar
-address:      Ahmedabad Gujarat 380015
+organisation: INFIBEAM AVENUES LIMITED
+address:      28th Floor, GIFT Two Tower, Block - 56, Road 5C, ZONE-5, GIFT CITY,
+address:      Gandhinagar Gujarat 382355
 address:      India
 
 contact:      administrative
 name:         CEO
-organisation: Infibeam.com
-address:      9th Floor, A Wing
-address:      Gopal Palace
-address:      Nehrunagar
-address:      Ahmedabad Gujarat 380015
+organisation: Infibeam Avenues Limited
+address:      28th Floor, GIFT Two Tower, Block - 56, Road 5C, ZONE-5, GIFT CITY,
+address:      Gandhinagar Gujarat 382355
 address:      India
-phone:        +91 8374000134
+phone:        +91 7967772279
 fax-no:       +91 07940503219
 e-mail:       ooocompliance@infibeam.net
 
@@ -38,9 +34,8 @@ nserver:      A.NIC.OOO 194.169.218.33 2001:67c:13cc:0:0:0:1:33
 nserver:      B.NIC.OOO 185.24.64.33 2a04:2b00:13cc:0:0:0:1:33
 nserver:      C.NIC.OOO 212.18.248.33 2a04:2b00:13ee:0:0:0:0:33
 nserver:      D.NIC.OOO 212.18.249.33 2a04:2b00:13ff:0:0:0:0:33
-ds-rdata:     32919 8 2 2a406589bc010bbd09bb78e067dde644946d1af4389113341358cf135b6f4910
 ds-rdata:     41890 8 2 f9807556257f226660b308490776b72febd70dfde2ecd9e850fa1127b37c7799
-ds-rdata:     41890 8 1 27dde633b73dd1f2703c0a89695862b056a0d29f
+ds-rdata:     3626 8 2 9c2f6da341779431d9cdbdec533050deedc05e2fbfa3da6080f4326e6ca97041
 
 whois:        whois.nic.ooo
 
@@ -48,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.infibeam.com
 
 created:      2014-07-31
-changed:      2021-10-12
+changed:      2024-04-30
 source:       IANA
 
