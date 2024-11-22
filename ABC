@@ -20,20 +20,22 @@ fax-no:       +1 818 553 7210
 e-mail:       ngtld-abc@cscglobal.com
 
 contact:      technical
-name:         Registry Customer Service
-organisation: Verisign, Inc.
-address:      12061 Bluemont Way
-address:      Reston VA 20190
+name:         Howard Eland, Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
 address:      United States of America (the)
-phone:        +1-703-925-6999
-fax-no:       +1-703-948-3978
-e-mail:       info@verisign-grs.com
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
 
-nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
-nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
-nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
-nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
-ds-rdata:     39900 8 2 7abc5a1f64fbbfad550cfe06953aa56a030be7212a77a60813ff633de705dec8
+nserver:      V0N0.NIC.ABC 2a01:8840:66:0:0:0:0:28 65.22.104.28
+nserver:      V0N1.NIC.ABC 2a01:8840:67:0:0:0:0:28 65.22.105.28
+nserver:      V0N2.NIC.ABC 2a01:8840:68:0:0:0:0:28 65.22.106.28
+nserver:      V0N3.NIC.ABC 161.232.30.28 2a01:8840:106:0:0:0:0:28
+nserver:      V2N0.NIC.ABC 2a01:8840:69:0:0:0:0:28 65.22.107.28
+nserver:      V2N1.NIC.ABC 161.232.31.28 2a01:8840:107:0:0:0:0:28
+ds-rdata:     43549 8 2 7a1d01c238b756baa6e99c5add35fb9fc23bf4edaddb98cc42ab0a39f45f8f1b
 
 whois:        whois.nic.abc
 
@@ -41,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://abc.com
 
 created:      2016-07-21
-changed:      2020-10-01
+changed:      2024-07-25
 source:       IANA
 
