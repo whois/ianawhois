@@ -20,15 +20,14 @@ fax-no:       +1 784 457 2880
 e-mail:       jcreese@gov.vc
 
 contact:      technical
-name:         Senior Director, DNS Infrastructure Group
-organisation: Afilias
-address:      300 Welsh Road
-address:      Building 3, Suite 105
-address:      Horsham PA 19044
+name:         Howard Eland, Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue Washington 98004
 address:      United States of America (the)
-phone:        +1 215 706 5700
-fax-no:       +1 215 706 5701
-e-mail:       tld-tech-poc@afilias.info
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
 
 nserver:      A0.CCTLD.AFILIAS-NST.INFO 199.254.59.1 2001:500:25:0:0:0:0:1
 nserver:      A2.CCTLD.AFILIAS-NST.INFO 199.249.116.1 2001:500:44:0:0:0:0:1
@@ -38,12 +37,12 @@ nserver:      C0.CCTLD.AFILIAS-NST.INFO 199.254.61.1 2001:500:27:0:0:0:0:1
 nserver:      D0.CCTLD.AFILIAS-NST.ORG 199.254.62.1 2001:500:28:0:0:0:0:1
 ds-rdata:     54391 8 2 8e38107261b61499f2e57a72e762ef501798a0462cb69e6afcc9c4a2539e6bff
 
-whois:        whois2.afilias-grs.net
+whois:        whois.identitydigital.services
 
 status:       ACTIVE
 remarks:      Registration information: 
 
 created:      1991-09-03
-changed:      2020-12-19
+changed:      2024-07-09
 source:       IANA
 
