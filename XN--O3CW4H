@@ -38,6 +38,7 @@ e-mail:       pensri@thnic.or.th
 
 nserver:      A.THAINS.CO.TH 122.155.23.64 2001:c38:2000:183:0:0:0:30
 nserver:      B.THAINS.CO.TH 203.159.64.64 2405:3340:e011:3000:0:0:0:30
+nserver:      NN1.THAINS.CO.TH 194.146.106.154 2001:67c:1010:39:0:0:0:53
 nserver:      NS.THNIC.NET 202.28.0.1
 nserver:      P.THAINS.CO.TH 2001:500:14:6126:ad:0:0:1 204.61.216.126
 ds-rdata:     27061 8 2 53856679ac45ea6562ef4ecd2de7aea57d786870979f09c4bc1d5244c2e2a9c9
@@ -48,6 +49,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.thnic.co.th
 
 created:      2010-08-19
-changed:      2023-03-07
+changed:      2024-06-03
 source:       IANA
 
