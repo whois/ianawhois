@@ -10,20 +10,19 @@ address:      San Jose CA 95134
 address:      United States of America (the)
 
 contact:      administrative
-name:         Manager, Domain Services
-organisation: MarkMonitor Inc.
-address:      3540 East Longwing Lane, Suite 300
-address:      Meridian ID 83646
+name:         Chris Niemi
+organisation: Markmonitor Inc.
+address:      1120 S. Rackham Way, Suite 300
+address:      Meridian ID 83642
 address:      United States of America (the)
 phone:        +1 208 389 5740
-fax-no:       +1 208 389 5771
 e-mail:       dotcisco@markmonitor.com
 
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
@@ -35,7 +34,7 @@ nserver:      C.NIC.CISCO 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.CISCO 156.154.144.44 2610:a1:1071:0:0:0:0:2c
 nserver:      NS2.DNS.NIC.CISCO 156.154.145.44 2610:a1:1072:0:0:0:0:2c
 nserver:      NS3.DNS.NIC.CISCO 156.154.159.44 2610:a1:1073:0:0:0:0:2c
-ds-rdata:     63049 8 2 42d0c12c3b954c6297a8810386e8d5d80f38a383f7c911630a5c1f3c81af890b
+ds-rdata:     51292 8 2 2985226f8c44213f8c73e65288eb6f0138383e2ba2cc627a8fd8d7f836b62c48
 
 whois:        
 
@@ -43,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.cisco.com
 
 created:      2015-04-16
-changed:      2022-07-21
+changed:      2024-05-11
 source:       IANA
 
