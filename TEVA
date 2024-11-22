@@ -21,8 +21,8 @@ e-mail:       domainadmincorp@teva.co.il
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
@@ -34,7 +34,7 @@ nserver:      C.NIC.TEVA 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.TEVA 156.154.144.160 2610:a1:1071:0:0:0:0:a0
 nserver:      NS2.DNS.NIC.TEVA 156.154.145.160 2610:a1:1072:0:0:0:0:a0
 nserver:      NS3.DNS.NIC.TEVA 156.154.159.160 2610:a1:1073:0:0:0:0:a0
-ds-rdata:     46417 8 2 7e670079255665759e954def033d30aaa2dabb07cf77eca7f27975fd03e0cfc8
+ds-rdata:     21292 8 2 2f66a0187371c329d36b36768e56acfb62f8b60c8d17a7bb6e3cf7ed800f8789
 
 whois:        whois.nic.teva
 
@@ -42,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.teva
 
 created:      2016-02-19
-changed:      2022-07-21
+changed:      2024-05-11
 source:       IANA
 
