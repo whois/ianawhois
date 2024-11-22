@@ -33,7 +33,7 @@ nserver:      C.DNS.BR 200.192.233.10 2001:12f8:a:0:0:0:0:10
 nserver:      D.DNS.BR 200.219.154.10 2001:12f8:4:0:0:0:0:10
 nserver:      E.DNS.BR 200.229.248.10 2001:12f8:2:0:0:0:0:10
 nserver:      F.DNS.BR 200.219.159.10 2001:12f8:c:0:0:0:0:10
-ds-rdata:     2471 13 2 452f6bd5cb271080aad2425fb762a32d0880d6c706f16ed4d0c8797342a91a80
+ds-rdata:     50876 13 2 b4e05083f7129fab32ea7a6c847999ae437c7f2a8fc11d621f73e4fb386347d4
 
 whois:        whois.gtlds.nic.br
 
@@ -41,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.rio/
 
 created:      2014-05-15
-changed:      2021-09-30
+changed:      2023-11-14
 source:       IANA
 
