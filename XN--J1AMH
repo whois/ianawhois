@@ -30,12 +30,12 @@ phone:        +380503538629
 fax-no:       +380442309344
 e-mail:       dotukr@uanic.net
 
-nserver:      DNS.TCI.NET.UA 91.231.86.238
+nserver:      DNS.TCI.NET.UA 2a02:128:2:52ae:fdee:d892:347d:d892 91.231.86.238
 nserver:      DNS1.U-REGISTRY.COM 51.222.128.197
-nserver:      DNS2.U-REGISTRY.NET 195.123.1.7
 nserver:      DNS3.DOTUKR.COM 37.187.75.31
 nserver:      TIER1.NUM.NET.UA 149.202.5.226
 nserver:      UKR.NS.UA 194.58.197.4 2a01:3f1:c001:0:0:0:0:53
+nserver:      UKR.UKRNAMES.UA 195.123.192.7
 
 whois:        whois.dotukr.com
 
@@ -44,6 +44,6 @@ remarks:      Registration information:
 remarks:      https://namestore.u-registry.com
 
 created:      2011-03-01
-changed:      2023-03-07
+changed:      2024-02-27
 source:       IANA
 
