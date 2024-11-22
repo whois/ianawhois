@@ -11,19 +11,18 @@ address:      Netherlands (the)
 
 contact:      administrative
 name:         Christopher Niemi
-organisation: MarkMonitor Inc.
-address:      3540 East Longwing Lane, Suite 300
-address:      Meridian ID 83646
+organisation: Markmonitor Inc.
+address:      1120 S. Rackham Way, Suite 300
+address:      Meridian ID 83642
 address:      United States of America (the)
 phone:        +1 208-389-5740
-fax-no:       +1 208-389-5771
 e-mail:       dotbooking@markmonitor.com
 
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
@@ -35,7 +34,7 @@ nserver:      C.NIC.BOOKING 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.BOOKING 156.154.144.27 2610:a1:1071:0:0:0:0:1b
 nserver:      NS2.DNS.NIC.BOOKING 156.154.145.27 2610:a1:1072:0:0:0:0:1b
 nserver:      NS3.DNS.NIC.BOOKING 156.154.159.27 2610:a1:1073:0:0:0:0:1b
-ds-rdata:     5470 8 2 0e779c706c569b36a19a7d788c043979b9ab862ef84e913b51920a9c4106c9ab
+ds-rdata:     29245 8 2 35e34127bc68cc91698d0b5ec4562002aa8293da7c6ce0bc1c75cff3e6529ec4
 
 whois:        
 
@@ -43,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.booking.com
 
 created:      2016-07-07
-changed:      2022-07-21
+changed:      2024-05-11
 source:       IANA
 
