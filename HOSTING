@@ -33,12 +33,7 @@ nserver:      A.NIC.HOSTING 194.169.218.152 2001:67c:13cc:0:0:0:1:152
 nserver:      B.NIC.HOSTING 185.24.64.152 2a04:2b00:13cc:0:0:0:1:152
 nserver:      C.NIC.HOSTING 212.18.248.152 2a04:2b00:13ee:0:0:0:0:152
 nserver:      D.NIC.HOSTING 212.18.249.152 2a04:2b00:13ff:0:0:0:0:152
-ds-rdata:     51544 5 1 eb0e1f6128e4b7ed6c0c0560f9a3ebc8e5100c33
-ds-rdata:     27751 5 1 9a72cab4a4cd51469dfc9e1dac8b1476d4b5c66c
-ds-rdata:     27751 5 2 cf9f7fa35f5dce998a5757081f6e790df501f8b8fb58d0f9d8c4c645761a39db
-ds-rdata:     51544 5 2 8fe6bf96895d8504f0989c4dbc3741df17b7672d5aa64107bd624089b5d3d403
-ds-rdata:     46927 5 1 017305d89ee86615e38b0ed31f5eed0a797e8156
-ds-rdata:     46927 5 2 74803c2bbeebc8d188832c4054b3fd230f31f593e3f5432f7fbcd860e3cb7ed5
+ds-rdata:     52534 13 2 38a38b0f45035c80e0b34bdc83bcae96113866ed2e5321486dbcb4b981303b01
 
 whois:        whois.nic.hosting
 
@@ -46,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.hosting
 
 created:      2014-08-15
-changed:      2022-08-16
+changed:      2024-01-31
 source:       IANA
 
