@@ -19,20 +19,23 @@ phone:        +44 20 70 15 17 17
 e-mail:       ngtld-walmart@cscglobal.com
 
 contact:      technical
-name:         Registry Customer Service
-organisation: Verisign, Inc.
-address:      12061 Bluemont Way
-address:      Reston VA 20190
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
-phone:        +1-703-925-6999
-fax-no:       +1-703-948-3978
-e-mail:       info@verisign-grs.com
+phone:        +1 480 505 8800
+fax-no:       +1 480 624 2546
+e-mail:       iana@registry.godaddy
 
-nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
-nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
-nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
-nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
-ds-rdata:     3888 8 2 12c5eb19d3471e5bd6bc69d1e38b1b37b26ec950e0367e158df6221293b17806
+nserver:      A.NIC.SAMSCLUB 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.SAMSCLUB 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.SAMSCLUB 2001:dcd:3:0:0:0:0:9 37.209.196.9
+nserver:      X.NIC.SAMSCLUB 156.154.172.82 2610:a1:1074:0:0:0:1:82
+nserver:      Y.NIC.SAMSCLUB 156.154.173.82 2610:a1:1075:0:0:0:1:82
+nserver:      Z.NIC.SAMSCLUB 156.154.174.82 2610:a1:1076:0:0:0:1:82
+ds-rdata:     60532 8 2 3d5123de8729f24800c0715726142c8317b27134af028dc67f541de50903643b
+ds-rdata:     35602 8 2 29e4496bea5e1cec89fcb45cbd4d9c45d0a024eb2b3bb1245f67ef66ba89d210
 
 whois:        whois.nic.samsclub
 
@@ -40,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.samsclub.com
 
 created:      2016-07-21
-changed:      2023-01-18
+changed:      2024-11-20
 source:       IANA
 
