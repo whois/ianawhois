@@ -36,12 +36,12 @@ nserver:      B0.NIC.SEW 2a01:8840:b7:0:0:0:0:25 65.22.189.25
 nserver:      C0.NIC.SEW 2a01:8840:b8:0:0:0:0:25 65.22.190.25
 ds-rdata:     24562 8 2 f058b69dc4842232e352dbe1485dfc257ad1627aee9f4bf4decd967307e30b1d
 
-whois:        whois.afilias-srs.net
+whois:        whois.nic.sew
 
 status:       ACTIVE
 remarks:      Registration information: http://www.sew-eurodrive.com/
 
 created:      2014-11-06
-changed:      2020-11-17
+changed:      2023-08-15
 source:       IANA
 
