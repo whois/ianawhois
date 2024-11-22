@@ -39,12 +39,12 @@ ds-rdata:     3234 7 1 d046927a7b31b59e7aaa612d56e1f8da77cc9e91
 ds-rdata:     4606 7 1 5016cfafb58908893b6288c1150b6debb1c0436f
 ds-rdata:     4606 7 2 a5f26c1dd2b6f050bf9c1439e0c53295e502769be20991866084aaef6ba2ed7d
 
-whois:        whois.afilias-srs.net
+whois:        whois.nic.beats
 
 status:       ACTIVE
 remarks:      Registration information: http://beatsbydre.com
 
 created:      2015-08-13
-changed:      2020-09-16
+changed:      2023-08-11
 source:       IANA
 
