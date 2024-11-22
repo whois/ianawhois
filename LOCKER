@@ -4,37 +4,34 @@
 
 domain:       LOCKER
 
-organisation: Dish DBS Corporation
-address:      9601 S. Meridian Boulevard
-address:      Englewood CO 80112
+organisation: Orange Domains LLC
+address:      228 Park Avenue South
+address:      New York NY 10003
 address:      United States of America (the)
 
 contact:      administrative
-name:         Director Advanced Video Products
-organisation: DISH DBS Corporation
-address:      9601 S. Meridian Boulevard
-address:      Englewood CO 80112
+name:         Don Ruiz
+organisation: Orange Domains LLC
+address:      228 Park Avenue South
+address:      New York NY 10003
 address:      United States of America (the)
-phone:        +1.303.723.1000
-fax-no:       +1.303.723.1699
-e-mail:       ngtld-locker@cscglobal.com
+phone:        +1 416-986-1044
+e-mail:       ry-services@orangedomains.com
 
 contact:      technical
-name:         Senior Director, DNS Infrastructure Group
-organisation: Afilias
-address:      300 Welsh Road
-address:      Building 3, Suite 105
-address:      Horsham PA 19044
-address:      United States of America (the)
-phone:        +1 215.706.5700
-fax-no:       +1 215.706.5701
-e-mail:       tld-tech-poc@afilias.info
+name:         Francisco Obispo
+organisation: Tucows Inc
+address:      96 Mowat Avenue
+address:      Toronto Ontario M6K3M1
+address:      Canada
+phone:        +1.949.903.3449
+e-mail:       trs-ops@tucows.com
 
-nserver:      A0.NIC.LOCKER 2a01:8840:5e:0:0:0:0:33 65.22.96.33
-nserver:      A2.NIC.LOCKER 2a01:8840:61:0:0:0:0:33 65.22.99.33
-nserver:      B0.NIC.LOCKER 2a01:8840:5f:0:0:0:0:33 65.22.97.33
-nserver:      C0.NIC.LOCKER 2a01:8840:60:0:0:0:0:33 65.22.98.33
-ds-rdata:     6301 8 2 2a62e4284ad1157a9994be5022a76cf66c2c233ceede058c673d065fee63b90e
+nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
+nserver:      NS01.TRS-DNS.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
+nserver:      NS01.TRS-DNS.NET 64.96.2.1
+nserver:      NS01.TRS-DNS.ORG 185.159.197.3 2620:10a:80aa:0:0:0:0:3
+ds-rdata:     13510 13 2 2d3be42cc855b6935e8611fb8190cab72b60f2bceb8b16906db2bae3da0a1912
 
 whois:        whois.nic.locker
 
@@ -42,6 +39,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.dish.com
 
 created:      2016-05-19
-changed:      2020-11-17
+changed:      2024-10-28
 source:       IANA
 
