@@ -34,6 +34,7 @@ nserver:      B.NIC.ART 185.24.64.49 2a04:2b00:13cc:0:0:0:1:49
 nserver:      C.NIC.ART 212.18.248.49 2a04:2b00:13ee:0:0:0:0:49
 nserver:      D.NIC.ART 212.18.249.49 2a04:2b00:13ff:0:0:0:0:49
 ds-rdata:     29485 8 2 bf041a7ec6ca857f5d85151c66f561deb9c863b98e05670c345c9cf9ed199aee
+ds-rdata:     32002 8 2 fb2ae28a30b90d8b273b88edf84d3edc704c6aa6dd08c1f51c8e96992441bb17
 
 whois:        whois.nic.art
 
@@ -41,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://art.art/
 
 created:      2016-06-09
-changed:      2021-09-23
+changed:      2024-04-30
 source:       IANA
 
