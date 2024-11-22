@@ -12,7 +12,7 @@ address:      Amman 11191
 address:      Jordan
 
 contact:      administrative
-name:         Eng. Nabil Abu-Sall
+name:         Jordan Domains Registry Admin
 organisation: Ministry of Digital Economy and Entrepreneurship (MoDEE)
 address:      8th Circle - Bayader Wadi Al Seer
 address:      P.O. Box 9903
@@ -20,10 +20,10 @@ address:      Amman 11191
 address:      Jordan
 phone:        +962 6 5805700
 fax-no:       +962 6 5861059
-e-mail:       nabil.abusall@modee.gov.jo
+e-mail:       AdminCCtld@modee.gov.jo
 
 contact:      technical
-name:         National Domain Names Division
+name:         Jordan Domains Registry Technical
 organisation: Ministry of Digital Economy and Entrepreneurship (MoDEE)
 address:      8th Circle - Bayader Wadi Al Seer
 address:      P.O. Box 9903
@@ -31,20 +31,21 @@ address:      Amman 11191
 address:      Jordan
 phone:        +962 6 5300263
 fax-no:       +962 6 5861059
-e-mail:       dns@modee.gov.jo
+e-mail:       TechCCtld@modee.gov.jo
 
 nserver:      AMRA.NIC.GOV.JO 193.188.66.103
+nserver:      CLOUDNS.NIC.NET.JO 2a05:d018:123c:3500:3e00:7185:3a6e:e082 54.155.28.251
 nserver:      JO.CCTLD.AUTHDNS.RIPE.NET 193.0.9.83 2001:67c:e0:0:0:0:0:83
-nserver:      JORDAN1ST.NIC.GOV.JO 193.188.69.19
+nserver:      JORDAN1ST.NIC.GOV.JO 193.188.69.19 2a02:9c0:0:19:0:0:0:19
 nserver:      PETRA.NIC.GOV.JO 193.188.66.2
-nserver:      RIP.PSG.COM 147.28.0.39 2001:418:1:0:0:0:0:39
+ds-rdata:     31715 8 2 e7b5191787c7db3c20bfcf917807791eb09917e887ebb7cbb3d11678e9767ad1
 
 whois:        
 
 status:       ACTIVE
-remarks:      Registration information: http://www.idn.jo/
+remarks:      Registration information: https://dns.jo/
 
 created:      2010-08-20
-changed:      2023-03-07
+changed:      2024-09-19
 source:       IANA
 
