@@ -19,18 +19,19 @@ phone:        +244 927 217 021
 e-mail:       andre.pedro@infosi.gov.ao
 
 contact:      technical
-name:         Assis Guerreiro
-organisation: Associação DNS.PT (DNS.PT)
-address:      Rua Latino Coelho, no.13, 5 piso
-address:      Lisboa 1050-132
-address:      Portugal
-phone:        (+351) 211308200
-fax-no:       (+351) 211312720
-e-mail:       assis.guerreiro@dns.pt
+name:         Marcos Damiao
+organisation: INSTITUTO NACIONAL DE FOMENTO DA SOCIEDADE DA INFORMACAO-INFOSI
+address:      Cidade Alta Luanda
+address:      Luanda 1412
+address:      Angola
+phone:        +244927991964
+fax-no:       (+244)927 991964
+e-mail:       ao@dns.ao
 
-nserver:      AO01.DNS.PT 185.39.208.17 2a04:6d80:0:0:0:0:0:17
-nserver:      AO03.DNS.PT 2001:500:14:6113:ad:0:0:1 204.61.216.113
-nserver:      H.DNS.PT 194.146.106.138 2001:67c:1010:35:0:0:0:53
+nserver:      A.NS.AO 206.51.254.4 2620:171:804:ad2:0:0:0:4
+nserver:      AO-E.NS.NIC.CZ 185.43.134.13 2001:148f:fffd:0:0:0:0:13
+nserver:      AO02.DNS.PT 185.39.208.29 2a04:6d80:0:0:0:0:0:29
+nserver:      ETLD-1.ANYCAST.NET 2607:f740:45:0:0:0:0:54 45.54.45.54
 
 whois:        
 
@@ -38,6 +39,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.dns.ao/
 
 created:      1995-11-15
-changed:      2022-12-05
+changed:      2024-09-09
 source:       IANA
 
