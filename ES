@@ -37,6 +37,7 @@ nserver:      C.NIC.ES 194.0.34.53 2001:678:44:0:0:0:0:53
 nserver:      G.NIC.ES 2001:500:14:7001:ad:0:0:1 204.61.217.1
 nserver:      H.NIC.ES 194.0.33.53 2001:678:40:0:0:0:0:53
 ds-rdata:     44375 8 2 9d9858ae981aa53dd1143d93844e3d69b0fb73a9b4fe5759da39e036e754d402
+ds-rdata:     54404 8 2 c130df280cd8ebb99c8b6c8335b9fd5f1d709641494e044c8085b1ac21833b47
 
 whois:        whois.nic.es
 
@@ -44,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.es/
 
 created:      1988-04-14
-changed:      2023-05-04
+changed:      2024-11-07
 source:       IANA
 
