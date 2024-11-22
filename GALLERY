@@ -5,30 +5,30 @@
 domain:       GALLERY
 
 organisation: Binky Moon, LLC
-address:      c/o Donuts Inc.
+address:      c/o Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 
 contact:      administrative
 name:         Vice President, Engineering
-organisation: Donuts Inc.
+organisation: Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       tldadmin@donuts.email
+e-mail:       tldadmin@identity.digital
 
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
-organisation: Donuts Inc.
+organisation: Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       tldtech@donuts.email
+e-mail:       tldtech@identity.digital
 
 nserver:      V0N0.NIC.GALLERY 2a01:8840:1a:0:0:0:0:8 65.22.24.8
 nserver:      V0N1.NIC.GALLERY 2a01:8840:1b:0:0:0:0:8 65.22.25.8
@@ -41,9 +41,9 @@ ds-rdata:     11671 8 2 6d21a1e67d81b0c40c63c22650433bfbca5ec66657bca99c01849387
 whois:        whois.nic.gallery
 
 status:       ACTIVE
-remarks:      Registration information: http://www.donuts.domains/
+remarks:      Registration information: https://www.identity.digital/
 
 created:      2013-11-08
-changed:      2021-11-02
+changed:      2023-09-13
 source:       IANA
 
