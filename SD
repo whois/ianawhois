@@ -40,12 +40,12 @@ nserver:      NS-SD.AFRINIC.NET 196.216.168.26 2001:43f8:120:0:0:0:0:26
 nserver:      PCH.SIS.SD 2001:500:14:6097:ad:0:0:1 204.61.216.97
 nserver:      SD.CCTLD.AUTHDNS.RIPE.NET 193.0.9.109 2001:67c:e0:0:0:0:0:109
 
-whois:        
+whois:        whois.nic.sd
 
 status:       ACTIVE
 remarks:      Registration information: http://www.isoc.sd
 
 created:      1997-03-06
-changed:      2022-06-11
+changed:      2024-01-29
 source:       IANA
 
