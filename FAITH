@@ -21,8 +21,8 @@ e-mail:       edgar.c.lavarello@gi.pwc.com
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
@@ -34,7 +34,7 @@ nserver:      C.NIC.FAITH 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      NS1.DNS.NIC.FAITH 156.154.144.54 2610:a1:1071:0:0:0:0:36
 nserver:      NS2.DNS.NIC.FAITH 156.154.145.54 2610:a1:1072:0:0:0:0:36
 nserver:      NS3.DNS.NIC.FAITH 156.154.159.54 2610:a1:1073:0:0:0:0:36
-ds-rdata:     24400 8 2 272e92a109875aebba7ca98ac8b593c6a27059f58ea75d4b741a3452a63c97f4
+ds-rdata:     54856 8 2 4018987b2e2691d14bd31c3bd7f9e286326452d485efa1fe6330c64f35a32005
 
 whois:        whois.nic.faith
 
@@ -42,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.faith
 
 created:      2015-02-05
-changed:      2022-07-21
+changed:      2024-05-11
 source:       IANA
 
