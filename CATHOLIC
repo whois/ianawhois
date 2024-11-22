@@ -34,7 +34,6 @@ nserver:      C.NIC.CATHOLIC 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      X.NIC.CATHOLIC 156.154.172.82 2610:a1:1074:0:0:0:1:82
 nserver:      Y.NIC.CATHOLIC 156.154.173.82 2610:a1:1075:0:0:0:1:82
 nserver:      Z.NIC.CATHOLIC 156.154.174.82 2610:a1:1076:0:0:0:1:82
-ds-rdata:     20539 8 2 433482ce6522917b6f0c77c23765cdd4bdac8c05ff5012ffea892cc9dcdb07f8
 ds-rdata:     21967 8 2 a6aac594f31e65e79e0dcede4d0a0b10eaa0f4db43dd7174fd928e01bd5542a0
 
 whois:        whois.nic.catholic
@@ -43,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.pccs.va
 
 created:      2016-11-16
-changed:      2023-07-31
+changed:      2023-12-21
 source:       IANA
 
