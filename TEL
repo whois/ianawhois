@@ -17,27 +17,23 @@ address:      London SW1Y 4NW
 address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44 20 7467 6450
 fax-no:       +44 20 7467 6451
-e-mail:       tld-admin-contact@registry.nic.tel
+e-mail:       asagar@telnic.org
 
 contact:      technical
-name:         TLD Technical Contact
-organisation: Telnames Ltd
-address:      16 Charles II Street
-address:      London SW1Y 4NW
-address:      United Kingdom of Great Britain and Northern Ireland (the)
-phone:        +44 20 7467 6450
-fax-no:       +44 20 7467 6451
-e-mail:       tld-tech-contact@registry.nic.tel
+name:         ironDNS Support
+organisation: Knipp Medien und Kommunikation GmbH
+address:      Martin-Schmeisser-Weg 9
+address:      Dortmund North Rhine-Westphalia 44227
+address:      Germany
+phone:        +49-231-9703-0
+fax-no:       +49-231-9703-200
+e-mail:       dnsmaster@irondns.net
 
-nserver:      NS1.DNS.NIC.TEL 156.154.169.10 2610:a1:1071:0:0:0:1:a
-nserver:      NS2.DNS.NIC.TEL 156.154.170.10 2610:a1:1072:0:0:0:1:a
-nserver:      NS3.DNS.NIC.TEL 156.154.171.10 2610:a1:1073:0:0:0:1:a
-nserver:      NS4.DNS.NIC.TEL 156.154.172.10 2610:a1:1074:0:0:0:1:a
-nserver:      NS5.DNS.NIC.TEL 156.154.173.10 2610:a1:1075:0:0:0:1:a
-nserver:      NS6.DNS.NIC.TEL 156.154.174.10 2610:a1:1076:0:0:0:1:a
-nserver:      NS7.DNS.NIC.TEL 194.146.106.38 2001:67c:1010:9:0:0:0:53
-nserver:      NS8.DNS.NIC.TEL 192.36.144.116 2a01:3f0:0:300:0:0:0:53
-ds-rdata:     46924 8 2 3f708af9fc2d9fa7e09ac99fa19bd6d1b4b0f3f5d95dd06ba2dc95b0aa2e53f8
+nserver:      ANYCAST10.IRONDNS.NET 195.253.64.12 2a01:5b0:4:0:0:0:0:c
+nserver:      ANYCAST23.IRONDNS.NET 195.253.65.11 2a01:5b0:5:0:0:0:0:b
+nserver:      ANYCAST24.IRONDNS.NET 195.253.65.12 2a01:5b0:5:0:0:0:0:c
+nserver:      ANYCAST9.IRONDNS.NET 195.253.64.11 2a01:5b0:4:0:0:0:0:b
+ds-rdata:     31166 8 2 1d7b6aada1a03510077f789a75184ca61a6fe3176a263d1be52bce89355caa8d
 
 whois:        whois.nic.tel
 
@@ -45,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.tel
 
 created:      2007-03-01
-changed:      2022-07-21
+changed:      2024-03-18
 source:       IANA
 
