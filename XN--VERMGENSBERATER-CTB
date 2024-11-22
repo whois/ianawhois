@@ -37,8 +37,8 @@ nserver:      A.NIC.XN--VERMGENSBERATER-CTB 194.169.218.105 2001:67c:13cc:0:0:0:
 nserver:      B.NIC.XN--VERMGENSBERATER-CTB 185.24.64.105 2a04:2b00:13cc:0:0:0:1:105
 nserver:      C.NIC.XN--VERMGENSBERATER-CTB 212.18.248.105 2a04:2b00:13ee:0:0:0:0:105
 nserver:      D.NIC.XN--VERMGENSBERATER-CTB 212.18.249.105 2a04:2b00:13ff:0:0:0:0:105
-ds-rdata:     34601 8 2 7f669ea129f71b09eb87d520812d21758207ebdaae560cbb5019fbba4a20a016
 ds-rdata:     60320 8 2 bd736c840d3b1b3fdd1679d500c5f5bd82cf0323e9706932bc5b2d847d5644b5
+ds-rdata:     22529 8 2 86f326f12a977d5815d4f0566880bce0b7c6e5bf798a6c848323991e303ace3f
 
 whois:        whois.nic.xn--vermgensberater-ctb
 
@@ -46,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.dvag-registry.de
 
 created:      2014-09-18
-changed:      2022-11-14
+changed:      2023-10-16
 source:       IANA
 
