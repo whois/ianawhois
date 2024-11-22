@@ -30,11 +30,12 @@ phone:        +39 (06) 69890506
 fax-no:       +39 (06) 69882934
 e-mail:       supporto.siv@net.va
 
+nserver:      A.NIC.VA 212.77.0.110
+nserver:      B.NIC.VA 212.77.0.2
+nserver:      C.NIC.VA 212.77.2.58
 nserver:      DNS.NIC.IT 192.12.192.5 2a00:d40:1:1:0:0:0:5
-nserver:      JOHN.VATICAN.VA 212.77.0.110 2a01:b8:0:1:212:77:0:110
-nserver:      MICHAEL.VATICAN.VA 212.77.0.2 2a01:b8:0:1:212:77:0:2
-nserver:      OSIRIS.NAMEX.IT 193.201.40.6 2001:7f8:10:f00a:0:0:0:6
-nserver:      SETH.NAMEX.IT 193.201.40.7 2001:7f8:10:f00a:0:0:0:7
+nserver:      OSIRIS.NAMEX.IT 193.201.40.6 2a0f:80:1:0:0:0:0:6
+nserver:      SETH.NAMEX.IT 193.201.40.7 2a0f:80:1:0:0:0:0:7
 nserver:      VA.CCTLD.AUTHDNS.RIPE.NET 193.0.9.123 2001:67c:e0:0:0:0:0:123
 
 whois:        
@@ -43,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      1995-09-11
-changed:      2016-10-14
+changed:      2024-01-30
 source:       IANA
 
