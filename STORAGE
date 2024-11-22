@@ -33,8 +33,7 @@ nserver:      A.NIC.STORAGE 194.169.218.55 2001:67c:13cc:0:0:0:1:55
 nserver:      B.NIC.STORAGE 185.24.64.55 2a04:2b00:13cc:0:0:0:1:55
 nserver:      C.NIC.STORAGE 212.18.248.55 2a04:2b00:13ee:0:0:0:0:55
 nserver:      D.NIC.STORAGE 212.18.249.55 2a04:2b00:13ff:0:0:0:0:55
-ds-rdata:     50476 7 2 bf2260b22c8c9630dc3e5ce22130c4fb97edd6b27805a05f8f526b951b465156
-ds-rdata:     50476 7 1 ad942d7faef7c429fee5497a67162643e96e1841
+ds-rdata:     2249 13 2 5acd859802bad0580eb4c307e7dc502d8149f2bea9e9d5a6a86e073a0b13f5b1
 
 whois:        whois.nic.storage
 
@@ -42,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.storage/
 
 created:      2015-12-10
-changed:      2022-08-16
+changed:      2024-11-20
 source:       IANA
 
