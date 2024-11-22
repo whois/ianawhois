@@ -31,7 +31,7 @@ e-mail:       tech@dns.business
 
 nserver:      DNS.RYCE-RSP.COM 194.0.11.114 2001:678:e:114:0:0:0:53
 nserver:      NS1.DNS.BUSINESS 157.90.205.138 2a01:4f8:252:4295:0:0:9d5a:cd8a
-nserver:      NS1.RYCE-RSP.COM 193.56.204.153 2a0c:8f40:0:701:0:0:0:153
+nserver:      NS1.RYCE-RSP.COM 193.56.204.111 2a0c:8f40:0:701:0:0:0:111
 ds-rdata:     57889 8 2 e2aa9ba196c7d4f10a8320a710fc24ad4bc86ce362239c307af3b875d5cf44c7
 
 whois:        whois.nic.wien
