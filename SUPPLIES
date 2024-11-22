@@ -5,30 +5,30 @@
 domain:       SUPPLIES
 
 organisation: Binky Moon, LLC
-address:      c/o Donuts Inc.
+address:      c/o Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 
 contact:      administrative
 name:         Vice President, Engineering
-organisation: Donuts Inc.
+organisation: Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       tldadmin@donuts.email
+e-mail:       tldadmin@identity.digital
 
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
-organisation: Donuts Inc.
+organisation: Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       tldtech@donuts.email
+e-mail:       tldtech@identity.digital
 
 nserver:      V0N0.NIC.SUPPLIES 2a01:8840:16:0:0:0:0:59 65.22.20.59
 nserver:      V0N1.NIC.SUPPLIES 2a01:8840:17:0:0:0:0:59 65.22.21.59
@@ -41,9 +41,9 @@ ds-rdata:     10984 8 2 ac8aff181900b2a9ac0736c0e254c3e847e240705467109b03cfc228
 whois:        whois.nic.supplies
 
 status:       ACTIVE
-remarks:      Registration information: http://www.donuts.domains/
+remarks:      Registration information: https://www.identity.digital/
 
 created:      2014-02-13
-changed:      2021-10-27
+changed:      2023-09-12
 source:       IANA
 
