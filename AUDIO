@@ -33,12 +33,7 @@ nserver:      A.NIC.AUDIO 194.169.218.150 2001:67c:13cc:0:0:0:1:150
 nserver:      B.NIC.AUDIO 185.24.64.150 2a04:2b00:13cc:0:0:0:1:150
 nserver:      C.NIC.AUDIO 212.18.248.150 2a04:2b00:13ee:0:0:0:0:150
 nserver:      D.NIC.AUDIO 212.18.249.150 2a04:2b00:13ff:0:0:0:0:150
-ds-rdata:     49027 5 1 f2611084038a67137a2a8ef584402bad64ee365d
-ds-rdata:     20191 5 2 775c07f584233b85606ac3874441c97ad1af7f144d3e9f0fd779f1e064e49316
-ds-rdata:     20191 5 1 bb72622c591c9f739af49c13eedb7f2796cbc8fb
-ds-rdata:     49027 5 2 5679b4abdcc3a065fe7fdddcf8ad1d7ebe22323d758abc315ab4d4d8b49cf684
-ds-rdata:     10807 5 2 859c5604b1a595b5e139d2904314e6e5eee152ace825a74eca32a3e1290f178c
-ds-rdata:     10807 5 1 a8743f3c50bf77807ef5713d614f4cf1c0567f95
+ds-rdata:     12469 13 2 6673f52c4723441eb134383895d5e984798679cb532730038373724eb0639a69
 
 whois:        whois.nic.audio
 
@@ -46,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.audio
 
 created:      2014-05-08
-changed:      2022-08-16
+changed:      2024-01-31
 source:       IANA
 
