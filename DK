@@ -10,39 +10,39 @@ address:      Copenhagen DK-2300
 address:      Denmark
 
 contact:      administrative
-name:         DK Hostmaster Administrative Contact
-organisation: DK Hostmaster A/S
+name:         Punktum dk Administrative Contact
+organisation: Punktum dk A/S
 address:      Ørestads Boulevard 108, 11th floor
 address:      Copenhagen DK-2300
 address:      Denmark
 phone:        +45 3364 6060
 fax-no:       +45 3364 6066
-e-mail:       tld2019admin@dk-hostmaster.dk
+e-mail:       tld2019admin@punktum.dk
 
 contact:      technical
-name:         DK Hostmaster Technical Contact
-organisation: DK Hostmaster A/S
+name:         Punktum dk Technical Contact
+organisation: Punktum dk A/S
 address:      Ørestads Boulevard 108, 11th floor
 address:      Copenhagen DK-2300
 address:      Denmark
 phone:        +45 3364 6060
 fax-no:       +45 3364 6066
-e-mail:       tld2019tech@dk-hostmaster.dk
+e-mail:       tld2019tech@punktum.dk
 
-nserver:      A.NIC.DK 2001:1580:0:180d:0:0:0:122 212.88.78.122
 nserver:      B.NIC.DK 193.163.102.222 2a01:630:0:80:0:0:0:53
-nserver:      C.NIC.DK 194.0.46.53 2001:678:74:0:0:0:0:53
-nserver:      D.NIC.DK 185.159.198.45 2620:10a:80ab:0:0:0:0:45
+nserver:      C.NIC.DK 185.159.199.45 2620:10a:80ac:0:0:0:0:45
+nserver:      H.NIC.DK 2a00:1b18:1:2:0:0:0:53 46.30.126.214
 nserver:      L.NIC.DK 130.226.213.138 2001:878:0:e000:82:e2:d5:8a
-nserver:      S.NIC.DK 193.176.144.15 2a00:d78:0:102:193:176:144:15
-ds-rdata:     21369 13 2 e6d0011e98acd5c1d332c0cfb29effa5242824f30b8ee43829ace1d789051cc1
+nserver:      P.NIC.DK 194.0.47.42 2001:678:78:42:ad:0:0:53
+nserver:      S.NIC.DK 194.0.28.7 2001:678:2c:0:194:0:28:7
+ds-rdata:     2181 13 2 9e707b8c9a8ae4893f6ddf545957f9809fe8ba4747bf705263601466aa10051d
 
-whois:        whois.dk-hostmaster.dk
+whois:        whois.punktum.dk
 
 status:       ACTIVE
-remarks:      Registration information: https://www.dk-hostmaster.dk/
+remarks:      Registration information: https://punktum.dk/
 
 created:      1987-07-14
-changed:      2023-06-20
+changed:      2024-08-26
 source:       IANA
 
