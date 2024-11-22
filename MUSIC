@@ -20,23 +20,19 @@ fax-no:       +357 25363193
 e-mail:       costa@music.us
 
 contact:      technical
-name:         Richard Seabrook
-organisation: CentralNic
-address:      Saddlers House
-address:      4th Floor
-address:      44 Gutter Lane
-address:      London EC2V 6BR
-address:      United Kingdom of Great Britain and Northern Ireland (the)
-phone:        +44 20 33 88 0600
-fax-no:       +44 20 33 88 0601
-e-mail:       tld.ops@centralnic.com
+name:         Francisco Obispo (CTO)
+organisation: Tucows Inc
+address:      96 Mowat Avenue
+address:      Toronto Ontario M6K3M1
+address:      Canada
+phone:        +1.9499033449
+e-mail:       fobispo@tucows.com
 
-nserver:      A.NIC.MUSIC 194.169.218.142 2001:67c:13cc:0:0:0:1:142
-nserver:      B.NIC.MUSIC 185.24.64.142 2a04:2b00:13cc:0:0:0:1:142
-nserver:      C.NIC.MUSIC 212.18.248.142 2a04:2b00:13ee:0:0:0:0:142
-nserver:      D.NIC.MUSIC 212.18.249.142 2a04:2b00:13ff:0:0:0:0:142
-ds-rdata:     60004 8 2 f4025f7b5c848808861bd35868bae0cfcf7a0fe3aa1f79bb222093687462f3fb
-ds-rdata:     60004 8 1 ee80f198da75c68c32a632e895502f3f2a32940e
+nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
+nserver:      NS01.TRS-DNS.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
+nserver:      NS01.TRS-DNS.NET 64.96.2.1
+nserver:      NS01.TRS-DNS.ORG 185.159.197.3 2620:10a:80aa:0:0:0:0:3
+ds-rdata:     14632 13 2 68f411322e670c84337b2182422af6e8f95c367c24e79cd4326b2276f52f4603
 
 whois:        whois.nic.music
 
@@ -44,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.music/
 
 created:      2021-10-14
-changed:      2023-03-03
+changed:      2024-10-08
 source:       IANA
 
