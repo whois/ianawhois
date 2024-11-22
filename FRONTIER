@@ -21,8 +21,8 @@ e-mail:       hostmaster@frontier.com
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
@@ -34,7 +34,7 @@ nserver:      C.NIC.FRONTIER 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.FRONTIER 156.154.144.64 2610:a1:1071:0:0:0:0:40
 nserver:      NS2.DNS.NIC.FRONTIER 156.154.145.64 2610:a1:1072:0:0:0:0:40
 nserver:      NS3.DNS.NIC.FRONTIER 156.154.159.64 2610:a1:1073:0:0:0:0:40
-ds-rdata:     50689 8 2 b81514d86b0ae37d16a0676680b70b9c714036de9993afb8d38fdbc6879a0062
+ds-rdata:     32674 8 2 43abf7b723073b5adb567bc9095eafc64367d702c7818dfd97b7c293eab0b4b1
 
 whois:        
 
@@ -42,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://frontier.com
 
 created:      2016-01-29
-changed:      2022-07-21
+changed:      2024-05-11
 source:       IANA
 
