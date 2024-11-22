@@ -10,30 +10,32 @@ address:      New York NY 10006
 address:      United States of America (the)
 
 contact:      administrative
-name:         Senior Paralegal
+name:         General Counsel
 organisation: World Trade Centers Association, Inc.
-address:      120 Broadway, Suite 3350
-address:      New York NY 10271
+address:      115 Broadway, Suite 1202
+address:      New York NY 10006
 address:      United States of America (the)
-phone:        (212) 432-2640
-fax-no:       (212) 488-0064
+phone:        +12124322702
+fax-no:       +12124880064
 e-mail:       trademark@wtca.org
 
 contact:      technical
-name:         Chief Operating Officer
+name:         General Counsel
 organisation: World Trade Centers Association, Inc.
-address:      120 Broadway, Suite 3350
-address:      New York NY 10271
+address:      115 Broadway, Suite 1202
+address:      New York NY 10006
 address:      United States of America (the)
-phone:        (212) 432-2647
-fax-no:       (212) 488-0064
+phone:        +12124322702
+fax-no:       +12124880064
 e-mail:       trademark@wtca.org
 
 nserver:      A.NIC.WTC 2001:dcd:1:0:0:0:0:9 37.209.192.9
 nserver:      B.NIC.WTC 2001:dcd:2:0:0:0:0:9 37.209.194.9
 nserver:      C.NIC.WTC 2001:dcd:3:0:0:0:0:9 37.209.196.9
-nserver:      D.NIC.WTC 2001:dcd:4:0:0:0:0:9 37.209.198.9
-ds-rdata:     44554 8 2 b9a169f58e754770e8e23d48da8591a92f602f3d94862b33344c996c0590a6c4
+nserver:      X.NIC.WTC 156.154.172.82 2610:a1:1074:0:0:0:1:82
+nserver:      Y.NIC.WTC 156.154.173.82 2610:a1:1075:0:0:0:1:82
+nserver:      Z.NIC.WTC 156.154.174.82 2610:a1:1076:0:0:0:1:82
+ds-rdata:     60754 8 2 f5ba575547a9cc6e47f9785e00d2f89d55f9541135a7fa91926e8f953add6609
 
 whois:        whois.nic.wtc
 
@@ -41,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.wtc/
 
 created:      2014-04-17
-changed:      2022-07-21
+changed:      2024-03-15
 source:       IANA
 
