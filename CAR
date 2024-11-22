@@ -33,7 +33,7 @@ nserver:      A.NIC.CAR 194.169.218.130 2001:67c:13cc:0:0:0:1:130
 nserver:      B.NIC.CAR 185.24.64.130 2a04:2b00:13cc:0:0:0:1:130
 nserver:      C.NIC.CAR 212.18.248.130 2a04:2b00:13ee:0:0:0:0:130
 nserver:      D.NIC.CAR 212.18.249.130 2a04:2b00:13ff:0:0:0:0:130
-ds-rdata:     6293 5 2 519d12765966b6f6e6be8236b0a6510b86025fdc7bcbaa1630b8632a9471a4d3
+ds-rdata:     35548 13 2 1d24872ac7b4db0623a7cb937fe46d53734f43301c4964136bb2bbbb8f5faeb7
 
 whois:        whois.nic.car
 
@@ -41,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.car
 
 created:      2015-08-26
-changed:      2022-08-16
+changed:      2024-01-31
 source:       IANA
 
