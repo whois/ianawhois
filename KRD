@@ -38,7 +38,6 @@ nserver:      C.NIC.KRD 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      X.NIC.KRD 156.154.172.82 2610:a1:1074:0:0:0:1:82
 nserver:      Y.NIC.KRD 156.154.173.82 2610:a1:1075:0:0:0:1:82
 nserver:      Z.NIC.KRD 156.154.174.82 2610:a1:1076:0:0:0:1:82
-ds-rdata:     16384 8 2 c87c87e976d19afd0cb934b7aac7f85bb0e327d4d63931604f7ff495d0bb1e61
 ds-rdata:     62344 8 2 5a1637513252be2e160bafa8e86c853914d8418598064dc8a9e23a6ca266bedd
 
 whois:        whois.nic.krd
@@ -47,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: https://dot.krd
 
 created:      2014-07-10
-changed:      2023-07-31
+changed:      2023-12-11
 source:       IANA
 
