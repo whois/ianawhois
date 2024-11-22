@@ -36,12 +36,12 @@ nserver:      B0.NIC.FAGE 2a01:8840:9b:0:0:0:0:33 65.22.157.33
 nserver:      C0.NIC.FAGE 2a01:8840:9c:0:0:0:0:33 65.22.158.33
 ds-rdata:     17296 8 2 73f0339f6d64be40a263e66bf730b0ef53a4372978561e0cc8f3cb754df443fe
 
-whois:        whois.afilias-srs.net
+whois:        whois.nic.fage
 
 status:       ACTIVE
 remarks:      Registration information: https://home.fage/
 
 created:      2015-06-25
-changed:      2020-11-17
+changed:      2023-08-11
 source:       IANA
 
