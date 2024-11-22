@@ -31,7 +31,9 @@ e-mail:       support@fury.ca
 
 nserver:      A.NS.NIC.CROWN 185.159.197.5 2620:10a:80aa:0:0:0:0:5
 nserver:      B.NS.NIC.CROWN 185.159.198.5 2620:10a:80ab:0:0:0:0:5
-ds-rdata:     41194 8 2 f7c822b56b709256e744781b677c0b32da1e218eac286a2543b064a19a40f3d5
+nserver:      C.NS.NIC.CROWN 2a0e:dbc0:0:0:0:0:0:101 45.142.220.101
+nserver:      D.NS.NIC.CROWN 185.159.199.5 2620:10a:80ac:0:0:0:0:5
+ds-rdata:     60289 8 2 2c3fb6688a1f691cbbdcada3c38551541f760ac99a4deaf39d2d2c183311b889
 
 whois:        whois.nic.crown
 
@@ -39,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.crown.com/
 
 created:      2015-06-04
-changed:      2023-06-26
+changed:      2024-11-18
 source:       IANA
 
