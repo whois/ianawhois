@@ -5,15 +5,15 @@
 domain:       SELECT
 
 organisation: Registry Services, LLC
-address:      2155 E. GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 
 contact:      administrative
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
@@ -22,8 +22,8 @@ e-mail:       iana@registry.godaddy
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
@@ -35,7 +35,7 @@ nserver:      C.NIC.SELECT 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      X.NIC.SELECT 156.154.172.82 2610:a1:1074:0:0:0:1:82
 nserver:      Y.NIC.SELECT 156.154.173.82 2610:a1:1075:0:0:0:1:82
 nserver:      Z.NIC.SELECT 156.154.174.82 2610:a1:1076:0:0:0:1:82
-ds-rdata:     63907 8 2 67ffd642d56c519c3a3f78f2396dcc30d237a0cd5f5a32ddff33834128698472
+ds-rdata:     44725 8 2 5ee0dcf207475272e3d80571d3454d3eee5753f3d71a102b58d38d14937eacc2
 
 whois:        whois.nic.select
 
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.select/
 
 created:      2015-12-23
-changed:      2022-12-01
+changed:      2024-04-17
 source:       IANA
 
