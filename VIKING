@@ -36,13 +36,13 @@ nserver:      B0.NIC.VIKING 2a01:8840:bb:0:0:0:0:17 65.22.193.17
 nserver:      C0.NIC.VIKING 2a01:8840:bc:0:0:0:0:17 65.22.194.17
 ds-rdata:     50971 8 2 1809dba33d16e851270758c3ef774d65984af94f7c3de9b3470167ce19c22def
 
-whois:        whois.afilias-srs.net
+whois:        whois.nic.viking
 
 status:       ACTIVE
 remarks:      Registration information:
 remarks:      http://www.vikingrivercruises.com/
 
 created:      2015-10-15
-changed:      2020-11-17
+changed:      2023-08-11
 source:       IANA
 
