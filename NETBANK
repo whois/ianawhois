@@ -28,15 +28,17 @@ address:      Ground Floor
 address:      Tower 1 201 Sussex Street
 address:      Sydney NSW 1155
 address:      Australia
-phone:        +61477387865
+phone:        +61468499843
 fax-no:       +61291181601
-e-mail:       domains@cba.com.au
+e-mail:       ngtld-cba@cscglobal.com
 
 nserver:      A.NIC.NETBANK 2001:dcd:1:0:0:0:0:9 37.209.192.9
 nserver:      B.NIC.NETBANK 2001:dcd:2:0:0:0:0:9 37.209.194.9
 nserver:      C.NIC.NETBANK 2001:dcd:3:0:0:0:0:9 37.209.196.9
-nserver:      D.NIC.NETBANK 2001:dcd:4:0:0:0:0:9 37.209.198.9
-ds-rdata:     61447 8 2 2e300d5e09bdd071679488d325666af89182213d8af2bd2d026c57f3fab5895e
+nserver:      X.NIC.NETBANK 156.154.172.82 2610:a1:1074:0:0:0:1:82
+nserver:      Y.NIC.NETBANK 156.154.173.82 2610:a1:1075:0:0:0:1:82
+nserver:      Z.NIC.NETBANK 156.154.174.82 2610:a1:1076:0:0:0:1:82
+ds-rdata:     29050 8 2 401dd968541610c0a000139e1462693701042a2931afa1a246d8bfa05ab13c94
 
 whois:        whois.nic.netbank
 
@@ -44,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.commbank.com.au
 
 created:      2015-03-26
-changed:      2022-07-21
+changed:      2023-12-05
 source:       IANA
 
