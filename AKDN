@@ -36,12 +36,12 @@ nserver:      B0.NIC.AKDN 2a01:8840:2b:0:0:0:0:17 65.22.45.17
 nserver:      C0.NIC.AKDN 2a01:8840:2c:0:0:0:0:17 65.22.46.17
 ds-rdata:     25057 8 2 47e24ce61e8604c9a8fc169d5e073b280f24fa9132dcbb64e727003a8bf27157
 
-whois:        whois.afilias-srs.net
+whois:        whois.nic.akdn
 
 status:       ACTIVE
 remarks:      Registration information: http://www.akdn.org/
 
 created:      2016-03-31
-changed:      2021-03-03
+changed:      2023-08-25
 source:       IANA
 
