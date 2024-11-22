@@ -10,25 +10,23 @@ address:      Mumbai Maharashtra 400011
 address:      India
 
 contact:      administrative
-name:         Senior Project Manager
+name:         Director - Data Engineering & Platforms
 organisation: Star India Private Limited
-address:      Star House, Off Dr.E.Moses Road, Mahalaxmi
-address:      Mumbai Maharashtra 400011
+address:      Star House, Urmi Estate, 95, Ganpatrao Kadam Marg, Lower Parel (West)
+address:      Mumbai Maharashtra 400013
 address:      India
-phone:        +912266301126
-fax-no:       +912266305050
-e-mail:       gtl.admin@startv.com
+phone:        +912266305555
+e-mail:       star.gtl.admin@disney.com
 
 contact:      technical
-name:         Senior Director, DNS Infrastructure Group
-organisation: Afilias
-address:      300 Welsh Road
-address:      Building 3, Suite 105
-address:      Horsham PA 19044
+name:         Howard Eland, Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue Washington 98004
 address:      United States of America (the)
-phone:        +1 215.706.5700
-fax-no:       +1 215.706.5701
-e-mail:       tld-tech-poc@afilias.info
+phone:        +14252982200
+fax-no:       +14252980020
+e-mail:       tldtech@identity.digital
 
 nserver:      A0.NIC.STAR 2a01:8840:36:0:0:0:0:9 65.22.56.9
 nserver:      A2.NIC.STAR 2a01:8840:39:0:0:0:0:9 65.22.59.9
@@ -42,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.startv.com
 
 created:      2015-12-10
-changed:      2021-04-29
+changed:      2024-05-03
 source:       IANA
 
