@@ -33,8 +33,7 @@ nserver:      A.NIC.AUTO 194.169.218.131 2001:67c:13cc:0:0:0:1:131
 nserver:      B.NIC.AUTO 185.24.64.131 2a04:2b00:13cc:0:0:0:1:131
 nserver:      C.NIC.AUTO 212.18.248.131 2a04:2b00:13ee:0:0:0:0:131
 nserver:      D.NIC.AUTO 212.18.249.131 2a04:2b00:13ff:0:0:0:0:131
-ds-rdata:     41492 5 1 4ef1eddd59daee765cd1ed0205081d46d25bbe7c
-ds-rdata:     41492 5 2 01b3b92918b955d84a70f1bc254513d6fd90a33e8ababc0aafcf8830ac259c2c
+ds-rdata:     2612 13 2 5879176e57425ebe6945b1c4bbc9ae0404faf7eb8c216d23e8eb4b232c861d6e
 
 whois:        whois.nic.auto
 
@@ -42,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.nic.auto
 
 created:      2015-03-12
-changed:      2022-08-16
+changed:      2024-01-31
 source:       IANA
 
