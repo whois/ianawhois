@@ -5,15 +5,15 @@
 domain:       YOGA
 
 organisation: Registry Services, LLC
-address:      2155 E. GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 
 contact:      administrative
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
@@ -22,8 +22,8 @@ e-mail:       iana@registry.godaddy
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
@@ -35,7 +35,7 @@ nserver:      C.NIC.YOGA 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      X.NIC.YOGA 156.154.172.82 2610:a1:1074:0:0:0:1:82
 nserver:      Y.NIC.YOGA 156.154.173.82 2610:a1:1075:0:0:0:1:82
 nserver:      Z.NIC.YOGA 156.154.174.82 2610:a1:1076:0:0:0:1:82
-ds-rdata:     19357 8 2 fb9b29f651414b178b56b756e96a6a8660d67616ecacc53b6124bebe13b0d3ae
+ds-rdata:     49771 8 2 1cd19ff5b29eb880307e17a1168afcdd493da3b36a34242ffc91eb1e8e3882ec
 
 whois:        whois.nic.yoga
 
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.yoga/
 
 created:      2014-08-15
-changed:      2022-12-01
+changed:      2024-04-17
 source:       IANA
 
