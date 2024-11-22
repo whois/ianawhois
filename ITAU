@@ -22,20 +22,20 @@ e-mail:       notices@itau-unibanco.com.br
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
 
-nserver:      NS1.DNS.NIC.ITAU 156.154.144.84 2610:a1:1071:0:0:0:0:54
-nserver:      NS2.DNS.NIC.ITAU 156.154.145.84 2610:a1:1072:0:0:0:0:54
-nserver:      NS3.DNS.NIC.ITAU 156.154.159.84 2610:a1:1073:0:0:0:0:54
+nserver:      A.NIC.ITAU 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.ITAU 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.ITAU 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS4.DNS.NIC.ITAU 156.154.156.84 2610:a1:1074:0:0:0:0:54
 nserver:      NS5.DNS.NIC.ITAU 156.154.157.84 2610:a1:1075:0:0:0:0:54
 nserver:      NS6.DNS.NIC.ITAU 156.154.158.84 2610:a1:1076:0:0:0:0:54
-ds-rdata:     32626 8 2 4abe223f5ad4bdbd1c42de183c76722afeda52267f4166f23483204ad0ce4afb
+ds-rdata:     20974 8 2 255e44d9c42d417ae07b1b92f8bbd5c856f1347b87948b58dc245dcd58fd59b4
 
 whois:        
 
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.itau.com
 
 created:      2015-05-29
-changed:      2022-07-21
+changed:      2024-05-11
 source:       IANA
 
