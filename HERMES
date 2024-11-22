@@ -17,7 +17,7 @@ address:      Paris 75008
 address:      France
 phone:        +33 140174720
 fax-no:       +33 140174994
-e-mail:       dns@hermes.com
+e-mail:       ngtld-hermes@cscglobal.com
 
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
@@ -36,12 +36,12 @@ nserver:      B0.NIC.HERMES 2a01:8840:e3:0:0:0:0:25 65.22.233.25
 nserver:      C0.NIC.HERMES 2a01:8840:e4:0:0:0:0:25 65.22.234.25
 ds-rdata:     17194 8 2 f38ae5e161d402739020cc92a88dfa905a59972426ef42044c37ea6240bb9614
 
-whois:        whois.afilias-srs.net
+whois:        whois.nic.hermes
 
 status:       ACTIVE
 remarks:      Registration information: http://hermes.com
 
 created:      2014-10-30
-changed:      2020-12-08
+changed:      2023-08-31
 source:       IANA
 
