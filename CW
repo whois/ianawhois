@@ -33,9 +33,9 @@ nserver:      CW.CCTLD.AUTHDNS.RIPE.NET 193.0.9.86 2001:67c:e0:0:0:0:0:86
 nserver:      KADUSHI.CURINFO.CW 65.208.122.63
 nserver:      NS0.JA.NET 128.86.1.20 193.63.94.20 2001:630:0:8:0:0:0:14 2001:630:0:9:0:0:0:14
 nserver:      NS01-SERVER.CURINFO.CW 65.208.122.36
-nserver:      NS1.UOC.CW 198.93.177.21
-nserver:      NS2.UOC.CW 190.112.254.244
-nserver:      NS3.UOC.CW 200.26.199.99
+nserver:      NS1.BNA.CW 216.122.189.85
+nserver:      NS1.DNS.CW 194.0.28.6 2001:678:2c:0:194:0:28:6
+nserver:      NS2.BNA.CW 216.122.189.86
 
 whois:        
 
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.uoc.cw/cw-registry
 
 created:      2010-12-20
-changed:      2021-02-11
+changed:      2024-02-22
 source:       IANA
 
