@@ -33,10 +33,8 @@ nserver:      A.NIC.LPLFINANCIAL 194.169.218.93 2001:67c:13cc:0:0:0:1:93
 nserver:      B.NIC.LPLFINANCIAL 185.24.64.93 2a04:2b00:13cc:0:0:0:1:93
 nserver:      C.NIC.LPLFINANCIAL 212.18.248.93 2a04:2b00:13ee:0:0:0:0:93
 nserver:      D.NIC.LPLFINANCIAL 212.18.249.93 2a04:2b00:13ff:0:0:0:0:93
-ds-rdata:     3615 7 1 2d15ec1892f7e0ae2491b0cd144a114f65605778
-ds-rdata:     3615 7 2 0d3ea589cbd6c634cecf40050614ee0f1a4c364f7cc74e225d29138db054a4fe
-ds-rdata:     8455 7 1 96f3c31c34d12d10939065bb2b1e0ea86176da0d
-ds-rdata:     8455 7 2 91d851ae03523f99d6c6def2d0ee451c6778ea3d58f4c347852972cc7b6b50b9
+ds-rdata:     5735 13 2 2a05b6233fed896c1e37fbac05045ea676f33e838f2177acd4cba897e128a0bc
+ds-rdata:     59873 13 2 f4665676a01cda5d5cd4efd16ba5f3919ef741e788d27512015c84d8b0861df1
 
 whois:        whois.nic.lplfinancial
 
@@ -44,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      2016-06-30
-changed:      2023-02-21
+changed:      2023-10-05
 source:       IANA
 
