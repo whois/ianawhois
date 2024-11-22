@@ -22,11 +22,11 @@ e-mail:       xeroxregistries@fairwindspartners.com
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
-phone:        +1-480-505-8800
-fax-no:       +1-480-624-2546
+phone:        +1 480 505 8800
+fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
 
 nserver:      A.NIC.XEROX 2001:dcd:1:0:0:0:0:9 37.209.192.9
@@ -35,7 +35,7 @@ nserver:      C.NIC.XEROX 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      X.NIC.XEROX 156.154.172.82 2610:a1:1074:0:0:0:1:82
 nserver:      Y.NIC.XEROX 156.154.173.82 2610:a1:1075:0:0:0:1:82
 nserver:      Z.NIC.XEROX 156.154.174.82 2610:a1:1076:0:0:0:1:82
-ds-rdata:     26830 8 2 7b5c562e138431a73348593e3a2d18c66deba2294f849c3b5ba62c7fb92443d3
+ds-rdata:     61096 8 2 95f8fb00a7df39cc9fbad6444f8d2786e6a15deec56424e1bcda21e94a7c386f
 
 whois:        whois.nic.xerox
 
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      2015-04-02
-changed:      2022-12-02
+changed:      2024-05-11
 source:       IANA
 
