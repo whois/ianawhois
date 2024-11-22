@@ -5,33 +5,34 @@
 domain:       ER
 
 organisation: Eritrea Telecommunication Services Corporation (EriTel)
-address:      11 Sematat Street
-address:      Asmara Central Zone 234
+address:      Semaetat St. No. 11
+address:      Asmara Asmara 234
 address:      Eritrea
 
 contact:      administrative
-name:         Moa Tedros
-organisation: Eritrea Telecommunication Services Corporation (EriTel)
-address:      11 Sematat Street
-address:      Asmara Central Zone 234
+name:         General Manager
+organisation: Eritrea Telecommunications Corporation
+address:      Semaetat St. No. 11
+address:      Asmara Asmara 234
 address:      Eritrea
-phone:        +291 1 200339
+phone:        +291 7110591
 fax-no:       +291 1 120938
-e-mail:       moa_tedros05@yahoo.com
+e-mail:       eritel@tse.com.er
 
 contact:      technical
-name:         Eng. Mekonneen  Fessahazion
-organisation: Ministry of Transport and Communication
-address:      Egri Mekel Street
-address:      Asmara Central Zone 4918
+name:         Network Operations Center Manager
+organisation: Eritrea Telecommunications Corporation
+address:      Semaetat St. No. 11
+address:      Asmara Asmara 234
 address:      Eritrea
-phone:        +291 1 189193
-fax-no:       +291 1 185019
-e-mail:       mokiefzn@gmail.com
+phone:        +291 7169837
+fax-no:       +291 1112941
+e-mail:       erdnsmgmt@tse.com.er
 
 nserver:      ER.CCTLD.AUTHDNS.RIPE.NET 193.0.9.72 2001:67c:e0:0:0:0:0:72
 nserver:      SAWANEW.NOC.NET.ER 196.200.96.1
 nserver:      ZARANEW.NOC.NET.ER 196.200.96.2
+ds-rdata:     6518 13 2 a1fdbfa73b513e489341d7e82029c7645d0e5f52d8500a3d7380cdc1122f52a2
 
 whois:        
 
@@ -39,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      1996-09-24
-changed:      2012-07-18
+changed:      2023-11-01
 source:       IANA
 
