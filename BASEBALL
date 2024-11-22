@@ -23,8 +23,8 @@ e-mail:       mlbam-dh@mlb.com
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
@@ -36,14 +36,14 @@ nserver:      C.NIC.BASEBALL 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      NS1.DNS.NIC.BASEBALL 156.154.144.200 2610:a1:1071:0:0:0:0:c8
 nserver:      NS2.DNS.NIC.BASEBALL 156.154.145.200 2610:a1:1072:0:0:0:0:c8
 nserver:      NS3.DNS.NIC.BASEBALL 156.154.159.200 2610:a1:1073:0:0:0:0:c8
-ds-rdata:     28711 8 2 349e8b6a2e0890837ff4b69f7efb0f44e3c32dc976fa74962dd8f812d7712f66
+ds-rdata:     11122 8 2 440e52af38c50a3e6eddd224aa4c2ddb50a3b6313ebd36baaace8ff520d03a07
 
-whois:        
+whois:        whois.nic.baseball
 
 status:       ACTIVE
 remarks:      Registration information: http://www.mlb.com
 
 created:      2016-09-29
-changed:      2023-01-18
+changed:      2024-05-11
 source:       IANA
 
