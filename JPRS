@@ -35,7 +35,7 @@ nserver:      TLD2.NIC.JPRS 117.104.133.16 2001:218:3001:0:0:0:0:1
 nserver:      TLD3.NIC.JPRS 2a01:8840:1ba:0:0:0:0:1 65.22.40.1
 nserver:      TLD4.NIC.JPRS 103.198.210.1 2403:2880:0:0:0:0:0:1
 nserver:      TLD5.NIC.JPRS 2a01:8840:1ba:0:0:0:0:129 65.22.40.129
-ds-rdata:     37444 8 2 77aa8b5ceda1af87b2b11b4549263b915d1a8b571838047eba7cbb9dca51f4ac
+ds-rdata:     14500 8 2 1e07f9bc32099270bd8b9b91452ffbd6c04e5d4bf7b002703110d5c091df045d
 
 whois:        
 
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.jprs/
 
 created:      2014-12-18
-changed:      2023-01-18
+changed:      2024-10-11
 source:       IANA
 
