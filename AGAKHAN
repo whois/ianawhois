@@ -36,12 +36,12 @@ nserver:      B0.NIC.AGAKHAN 2a01:8840:2b:0:0:0:0:1 65.22.45.1
 nserver:      C0.NIC.AGAKHAN 2a01:8840:2c:0:0:0:0:1 65.22.46.1
 ds-rdata:     44761 8 2 4b8c22972dcaa43686d72581c1cb59d1f18d111a24464b8fc3464e52c7200cef
 
-whois:        whois.afilias-srs.net
+whois:        whois.nic.agakhan
 
 status:       ACTIVE
 remarks:      Registration information: http://www.akdn.org/
 
 created:      2016-03-31
-changed:      2021-03-03
+changed:      2023-08-25
 source:       IANA
 
