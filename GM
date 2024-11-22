@@ -5,34 +5,31 @@
 domain:       GM
 
 organisation: GM-NIC
-address:      NIC Gambia (GM-NIC) c/o Studio 361
-address:      P.O. Box 4080
+address:      NIC Gambia (GM-NIC) c/o Jokkolabs Banjul 10 Sait Matty Road, The Gambia
 address:      Bakau
 address:      Gambia (the)
 
 contact:      administrative
 name:         Jorn Grotnes
 organisation: GM-NIC
-address:      P.O. Box 2647
-address:      Serrekunda
+address:      c/o Jokkolabs Banjul 10 Sait Matty Road, The Gambia
+address:      Bakau
 address:      Gambia (the)
-phone:        +220 392728
-fax-no:       +220 391020
+phone:        +47 93007731
 e-mail:       admin@nic.gm
 
 contact:      technical
 name:         Jorn Grotnes
 organisation: GM-NIC
-address:      P.O. Box 2647
-address:      Serrekunda
+address:      c/o Jokkolabs Banjul 10 Sait Matty Road, The Gambia
+address:      Bakau
 address:      Gambia (the)
-phone:        +220 392728
-fax-no:       +220 3911020
-e-mail:       technical@nic.gm
+phone:        +47 93007731
+e-mail:       admin@nic.gm
 
 nserver:      NS-GM.AFRINIC.NET 196.216.168.29 2001:43f8:120:0:0:0:0:29
 nserver:      NS1.NIC.GM 194.63.250.217
-nserver:      NS2.NIC.GM 196.49.1.87
+nserver:      NS2.NIC.GM 209.250.227.199 2a05:f480:1000:235:5400:4ff:fee5:2f89
 
 whois:        
 
@@ -40,6 +37,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.gm
 
 created:      1997-03-28
-changed:      2015-08-20
+changed:      2024-05-06
 source:       IANA
 
