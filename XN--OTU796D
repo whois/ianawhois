@@ -5,9 +5,9 @@
 domain:       招聘
 domain-ace:   XN--OTU796D
 
-organisation: Dot Trademark TLD Holding Company Limited
-address:      F/26, East Tower, Forturn Plaza, No.118, Tiyu Dong Rd
-address:      Guangzhou Guangdong
+organisation: Jiang Yu Liang Cai Technology Company Limited
+address:      Rm 1202, No. 233 Tianhe North Road, Tianhe District
+address:      Guangzhou Guangdong 510610
 address:      China
 
 contact:      administrative
@@ -22,23 +22,23 @@ e-mail:       icann@trademarkdomain.com
 
 contact:      technical
 name:         Tao ZHANG
-organisation: Dot Trademark TLD Holding Company Limited
-address:      F/26, East Tower, Forturn Plaza, No.118, Tiyu Dong Rd
-address:      Guangzhou Guangdong
+organisation: Jiang Yu Liang Cai Technology Company Limited
+address:      Rm 1202, No. 233 Tianhe North Road, Tianhe District
+address:      Guangzhou Guangdong 510610
 address:      China
-phone:        +86-020-85720323
-fax-no:       N/A
+phone:        +86-10-68424346
 e-mail:       icann@trademarkdomain.com
 
 nserver:      A.ZDNSCLOUD.COM 203.99.24.1
 nserver:      B.ZDNSCLOUD.COM 203.99.25.1
 nserver:      C.ZDNSCLOUD.COM 203.99.26.1
 nserver:      D.ZDNSCLOUD.COM 203.99.27.1
-nserver:      F.ZDNSCLOUD.COM 114.67.16.204
-nserver:      G.ZDNSCLOUD.COM 42.62.2.16
+nserver:      F.ZDNSCLOUD.COM 116.169.54.111
+nserver:      G.ZDNSCLOUD.COM 223.72.199.37
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
 ds-rdata:     61882 8 2 ef3f494c35f4c2c571a0e5644f6e2760818f2eb7b08e1b05b522d995022b6786
+ds-rdata:     47587 8 2 c25353ef849dce2b94e77b4a8997a7ea66d3a8614ec62493a18f072df66de9a6
 
 whois:        
 
@@ -46,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      2017-12-21
-changed:      2022-12-08
+changed:      2024-04-22
 source:       IANA
 
