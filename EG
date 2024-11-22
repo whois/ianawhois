@@ -35,8 +35,8 @@ phone:        +202 33458366
 fax-no:       +202 33458365
 e-mail:       tech@egregistry.eg
 
+nserver:      DNS-EG.UNIVIE.AC.AT 2001:628:453:bb:0:0:0:8 78.104.145.8
 nserver:      FRCU.EUN.EG 193.227.1.1
-nserver:      NS5.UNIVIE.AC.AT 193.171.255.77 2001:628:453:4305:0:0:0:53
 nserver:      RIP.PSG.COM 147.28.0.39 2001:418:1:0:0:0:0:39
 
 whois:        
@@ -45,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.egregistry.eg/
 
 created:      1990-11-30
-changed:      2017-08-05
+changed:      2024-04-24
 source:       IANA
 
