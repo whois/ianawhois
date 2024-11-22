@@ -23,20 +23,20 @@ e-mail:       coleman.works@aramcoservices.com
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
 
-nserver:      NS1.DNS.NIC.XN--MGBA3A3EJT 156.154.144.15 2610:a1:1071:0:0:0:0:f
-nserver:      NS2.DNS.NIC.XN--MGBA3A3EJT 156.154.145.15 2610:a1:1072:0:0:0:0:f
-nserver:      NS3.DNS.NIC.XN--MGBA3A3EJT 156.154.159.15 2610:a1:1073:0:0:0:0:f
+nserver:      A.NIC.XN--MGBA3A3EJT 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.XN--MGBA3A3EJT 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.XN--MGBA3A3EJT 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS4.DNS.NIC.XN--MGBA3A3EJT 156.154.156.15 2610:a1:1074:0:0:0:0:f
 nserver:      NS5.DNS.NIC.XN--MGBA3A3EJT 156.154.157.15 2610:a1:1075:0:0:0:0:f
 nserver:      NS6.DNS.NIC.XN--MGBA3A3EJT 156.154.158.15 2610:a1:1076:0:0:0:0:f
-ds-rdata:     60499 8 2 31728b6312e2eec4d09535252d0b46f6fdb80969882cd9e76d0320f3a2e37798
+ds-rdata:     11089 8 2 c3a28d5f3c622803433961c5b5769c4df33e5c83abe9d1c2dd78ff4657fc8468
 
 whois:        
 
@@ -44,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.aramco.com
 
 created:      2015-08-20
-changed:      2022-07-21
+changed:      2024-05-11
 source:       IANA
 
