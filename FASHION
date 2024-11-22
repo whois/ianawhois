@@ -5,15 +5,15 @@
 domain:       FASHION
 
 organisation: Registry Services, LLC
-address:      2155 E. GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 
 contact:      administrative
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
@@ -22,8 +22,8 @@ e-mail:       iana@registry.godaddy
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
@@ -35,7 +35,7 @@ nserver:      C.NIC.FASHION 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      X.NIC.FASHION 156.154.172.82 2610:a1:1074:0:0:0:1:82
 nserver:      Y.NIC.FASHION 156.154.173.82 2610:a1:1075:0:0:0:1:82
 nserver:      Z.NIC.FASHION 156.154.174.82 2610:a1:1076:0:0:0:1:82
-ds-rdata:     50059 8 2 99bbddd068ec695d622dc3a186fd015d9d47d2b26056cdab45ab8e45fc99dd87
+ds-rdata:     36220 8 2 317f7be09221a412b8dbe4d8ab6c620083d9a3baac4064ee4a7c2a1f5eca6c7e
 
 whois:        whois.nic.fashion
 
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.fashion/
 
 created:      2014-10-23
-changed:      2022-12-01
+changed:      2024-04-16
 source:       IANA
 
