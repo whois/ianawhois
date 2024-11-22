@@ -10,14 +10,13 @@ address:      Helsinki 00099
 address:      Finland
 
 contact:      administrative
-name:         Project Manager
-organisation: City of Helsinki
-address:      P.O. Box 1 (Executive Office, Pohjoisesplanadi 11-13)
-address:      Helsinki 00099
+name:         Päivi Jalava, Product Owner
+organisation: Digitalization Unit, City of Helsinki
+address:      Konepajankatu 8
+address:      Helsinki 00580
 address:      Finland
-phone:        +358 9 310 1641
-fax-no:       +358 9 655 783
-e-mail:       kalle.mikkolainen@hel.fi
+phone:        +358 9 3103 8427
+e-mail:       paivi.jalava@hel.fi
 
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
@@ -42,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.hel.fi
 
 created:      2015-12-10
-changed:      2021-06-18
+changed:      2023-09-25
 source:       IANA
 
