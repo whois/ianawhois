@@ -31,9 +31,9 @@ address:      Iraq
 phone:        +964 7904318957
 e-mail:       iq@cmc.iq
 
-nserver:      DYN1.CMC.IQ 199.19.5.8 2001:500:92:0:0:0:0:8
-nserver:      DYN2.CMC.IQ 199.19.6.8 2001:500:96:0:0:0:0:8
-nserver:      NS1.CMC.IQ 194.117.57.100
+nserver:      NS.CMC.IQ 194.117.57.105
+nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
+nserver:      NS01.TRS-DNS.NET 64.96.2.1
 nserver:      NSP-ANYCAST.CMC.IQ 194.117.58.42 2001:500:14:8001:ad:0:0:42
 
 whois:        whois.cmc.iq
@@ -42,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.cmc.iq/en/iq.html
 
 created:      2014-09-29
-changed:      2023-03-07
+changed:      2023-12-18
 source:       IANA
 
