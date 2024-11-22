@@ -33,18 +33,16 @@ address:      Georgia
 phone:        +995 555 482 482
 e-mail:       konstantine@cloud9.ge
 
-nserver:      A.XN--NODE.GLOBALANYCASTCLOUD.FREENOM.NET 185.21.168.36 2a04:1b00:8:0:0:0:0:4
-nserver:      B.XN--NODE.GLOBALANYCASTCLOUD.FREENOM.NET 185.21.169.36 2a04:1b00:9:0:0:0:0:4
-nserver:      C.XN--NODE.GLOBALANYCASTCLOUD.FREENOM.NET 185.21.170.36 2a04:1b00:a:0:0:0:0:4
-nserver:      D.XN--NODE.GLOBALANYCASTCLOUD.FREENOM.NET 185.21.171.36 2a04:1b00:b:0:0:0:0:4
 nserver:      XN--NODE.NS.ANYCAST.PCH.NET 2001:500:14:6088:ad:0:0:1 204.61.216.88
+nserver:      XN--NODE.NS.CLOUDHOSTED.IO 188.93.94.2 2a0a:5000:0:4:0:0:0:2
 
-whois:        whois.itdc.ge
+whois:        
 
 status:       ACTIVE
-remarks:      Registration information: http://billing.itdc.ge
+remarks:      Registration information:
+remarks:      http://xn--lodaehvb5cdik4g.xn--node
 
 created:      2011-02-11
-changed:      2023-03-07
+changed:      2024-06-26
 source:       IANA
 
