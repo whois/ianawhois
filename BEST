@@ -35,6 +35,7 @@ nserver:      B.NIC.BEST 185.24.64.109 2a04:2b00:13cc:0:0:0:1:109
 nserver:      C.NIC.BEST 212.18.248.109 2a04:2b00:13ee:0:0:0:0:109
 nserver:      D.NIC.BEST 212.18.249.109 2a04:2b00:13ff:0:0:0:0:109
 ds-rdata:     41279 8 2 d0c266b147e9fa7122215ccca36b23d43407bd2f03b2e3b6e917d350b31aa5fd
+ds-rdata:     13966 8 2 1b34271dc3cac4d1faa279893902bd3330eab9675dab6dba03fd163437e7d12a
 
 whois:        whois.nic.best
 
@@ -42,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.go.best
 
 created:      2014-02-20
-changed:      2022-05-04
+changed:      2023-10-05
 source:       IANA
 
