@@ -42,7 +42,7 @@ nserver:      J.GTLD-SERVERS.NET 192.48.79.30 2001:502:7094:0:0:0:0:30
 nserver:      K.GTLD-SERVERS.NET 192.52.178.30 2001:503:d2d:0:0:0:0:30
 nserver:      L.GTLD-SERVERS.NET 192.41.162.30 2001:500:d937:0:0:0:0:30
 nserver:      M.GTLD-SERVERS.NET 192.55.83.30 2001:501:b1f9:0:0:0:0:30
-ds-rdata:     35886 8 2 7862b27f5f516ebe19680444d4ce5e762981931842c465f00236401d8bd973ee
+ds-rdata:     37331 13 2 2f0bec2d6f79dfbd1d08fd21a3af92d0e39a4b9ef1e3f4111fff282490da453b
 
 whois:        whois.verisign-grs.com
 
@@ -50,6 +50,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.verisigninc.com
 
 created:      1985-01-01
-changed:      2019-08-14
+changed:      2023-11-08
 source:       IANA
 
