@@ -22,8 +22,8 @@ e-mail:       tjxregistries@fairwindspartners.com
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
@@ -35,7 +35,7 @@ nserver:      C.NIC.HOMEGOODS 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.HOMEGOODS 156.154.144.73 2610:a1:1071:0:0:0:0:49
 nserver:      NS2.DNS.NIC.HOMEGOODS 156.154.145.73 2610:a1:1072:0:0:0:0:49
 nserver:      NS3.DNS.NIC.HOMEGOODS 156.154.159.73 2610:a1:1073:0:0:0:0:49
-ds-rdata:     8509 8 2 ff29069ba0204e904c1ba9407d98664383c7c9d65f4d33008a13042b497c93dd
+ds-rdata:     15460 8 2 f6bbd1fafc2a7ac4b287fb2ec8be0907d52b7a812aa437f4672efe4088454cfb
 
 whois:        
 
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.tjx.com
 
 created:      2016-04-07
-changed:      2022-07-21
+changed:      2024-05-11
 source:       IANA
 
