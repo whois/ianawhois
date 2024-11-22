@@ -35,8 +35,8 @@ nserver:      A.NIC.XN--NGBE9E0A 194.169.218.22 2001:67c:13cc:0:0:0:1:22
 nserver:      B.NIC.XN--NGBE9E0A 185.24.64.22 2a04:2b00:13cc:0:0:0:1:22
 nserver:      C.NIC.XN--NGBE9E0A 212.18.248.22 2a04:2b00:13ee:0:0:0:0:22
 nserver:      D.NIC.XN--NGBE9E0A 212.18.249.22 2a04:2b00:13ff:0:0:0:0:22
-ds-rdata:     10552 8 1 c5f1478252dc3d25e585a8d43ad460c0e8f86863
 ds-rdata:     10552 8 2 b4b742442c6b66d321259fcd7608462a75f2a7ea70af4e42a6cad0430dd98d51
+ds-rdata:     5347 8 2 6e02d3ee5a203293f8cbaf20686aecd516e1363e231ec6db68e78e9f48090e47
 
 whois:        whois.nic.xn--ngbe9e0a
 
@@ -44,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://kfh.com
 
 created:      2015-10-29
-changed:      2021-10-12
+changed:      2024-06-05
 source:       IANA
 
