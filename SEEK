@@ -36,7 +36,6 @@ nserver:      C.NIC.SEEK 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      X.NIC.SEEK 156.154.172.82 2610:a1:1074:0:0:0:1:82
 nserver:      Y.NIC.SEEK 156.154.173.82 2610:a1:1075:0:0:0:1:82
 nserver:      Z.NIC.SEEK 156.154.174.82 2610:a1:1076:0:0:0:1:82
-ds-rdata:     63859 8 2 e3c3a590cdfcc251b77cd4adf685fe3cce8706a0aaecd5421294b9ff2ddf8b48
 ds-rdata:     30781 8 2 91da9a67e40ba21908471a192586de34fe04433fb046a0519708acd7eeb7b9b2
 
 whois:        whois.nic.seek
@@ -45,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.seek.com.au/about/
 
 created:      2015-04-16
-changed:      2023-07-31
+changed:      2023-11-30
 source:       IANA
 
