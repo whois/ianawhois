@@ -33,8 +33,7 @@ nserver:      C.HU 195.111.1.92 2001:738:2:2:0:0:0:53
 nserver:      D.HU 2a00:e6a0:3:1014:0:0:53:99 5.28.0.99
 nserver:      E.HU 194.0.25.11 2001:678:20:0:0:0:0:11
 nserver:      F.HU 194.0.9.1 2001:678:c:0:0:0:0:1
-nserver:      NS-COM.NIC.HU 194.0.1.12 2001:678:4:0:0:0:0:c
-ds-rdata:     2104 8 2 65f5d64b860f26feae0bde3ca51b730b38381678c8c316f16b37e551105ebac5
+ds-rdata:     46162 8 2 09b29528cb5f451df8e98be0d82126e931a6a0a45349c4bf6516c49c8a64041b
 
 whois:        whois.nic.hu
 
@@ -42,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.domain.hu
 
 created:      1990-11-07
-changed:      2023-04-28
+changed:      2024-09-06
 source:       IANA
 
