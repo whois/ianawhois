@@ -35,12 +35,8 @@ nserver:      A.NIC.KRED 194.169.218.79 2001:67c:13cc:0:0:0:1:79
 nserver:      B.NIC.KRED 185.24.64.79 2a04:2b00:13cc:0:0:0:1:79
 nserver:      C.NIC.KRED 212.18.248.79 2a04:2b00:13ee:0:0:0:0:79
 nserver:      D.NIC.KRED 212.18.249.79 2a04:2b00:13ff:0:0:0:0:79
-ds-rdata:     11480 8 1 74e467bca5017fcd4f9f52618bba52baab535461
-ds-rdata:     11480 8 2 a9c2ad21a0cafa1db04731ef4647140962c88a2da406c53e8a9d4b3cc46f7f9f
-ds-rdata:     56191 8 1 ddff2dc997ddb6798552294536706d235395fe24
-ds-rdata:     56191 8 2 e0ece602138ff1452f8f8d504eccab90404b9f010486f09d461c49fde6f3a30f
 ds-rdata:     7366 8 2 46bb5d35906260d79f26c5639b8a1fe47061c329973204d07222808035cd11bf
-ds-rdata:     7366 8 1 938e9ee09f411e400dd96657494c3fb5c90ee3b0
+ds-rdata:     33850 8 2 2ed5e1e9ef263b8455a2df166c792df49a29c8294ae9999287b56d0b81d2ed70
 
 whois:        
 
@@ -48,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.peoplebrowsr.com
 
 created:      2014-02-20
-changed:      2021-10-12
+changed:      2023-11-17
 source:       IANA
 
