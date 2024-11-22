@@ -5,29 +5,30 @@
 domain:       MARKETS
 
 organisation: Dog Beach, LLC
+address:      c/o Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 
 contact:      administrative
 name:         Vice President, Engineering
-organisation: Donuts Inc.
+organisation: Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
-phone:        +1 425 298 2200
-fax-no:       +1 425 671 0020
-e-mail:       tldadmin@donuts.email
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldadmin@identity.digital
 
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
-organisation: Donuts Inc.
+organisation: Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
-phone:        +1 425 298 2200
-fax-no:       +1 425 671 0020
-e-mail:       tldtech@donuts.email
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
 
 nserver:      V0N0.NIC.MARKETS 2a01:8840:22:0:0:0:0:65 65.22.32.65
 nserver:      V0N1.NIC.MARKETS 2a01:8840:23:0:0:0:0:65 65.22.33.65
@@ -40,9 +41,9 @@ ds-rdata:     58144 8 2 2c079f760779074e6ce68307c28f88f7b75d9fd6cfd65bec5c95c38d
 whois:        whois.nic.markets
 
 status:       ACTIVE
-remarks:      Registration information: https://donuts.domains/
+remarks:      Registration information: https://www.identity.digital/
 
 created:      2015-03-06
-changed:      2021-11-18
+changed:      2023-09-12
 source:       IANA
 
