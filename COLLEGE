@@ -33,8 +33,8 @@ nserver:      A.NIC.COLLEGE 194.169.218.44 2001:67c:13cc:0:0:0:1:44
 nserver:      B.NIC.COLLEGE 185.24.64.44 2a04:2b00:13cc:0:0:0:1:44
 nserver:      C.NIC.COLLEGE 212.18.248.44 2a04:2b00:13ee:0:0:0:0:44
 nserver:      D.NIC.COLLEGE 212.18.249.44 2a04:2b00:13ff:0:0:0:0:44
-ds-rdata:     46634 8 1 e8d1436abc9b53d4219d05356cc1687732014b60
 ds-rdata:     46634 8 2 7bebb696e117d17efa506b8dd2209d2c49e97e6635596ff3177be76be0463c3c
+ds-rdata:     58717 8 2 e6e5f277e746f95d3437e6dcb123cc6825cf733639c389ba79d55d997e25413a
 
 whois:        whois.nic.college
 
@@ -42,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.college/
 
 created:      2014-03-13
-changed:      2022-08-16
+changed:      2024-02-28
 source:       IANA
 
