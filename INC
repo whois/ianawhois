@@ -35,10 +35,8 @@ nserver:      A.NIC.INC 194.169.218.137 2001:67c:13cc:0:0:0:1:137
 nserver:      B.NIC.INC 185.24.64.137 2a04:2b00:13cc:0:0:0:1:137
 nserver:      C.NIC.INC 212.18.248.137 2a04:2b00:13ee:0:0:0:0:137
 nserver:      D.NIC.INC 212.18.249.137 2a04:2b00:13ff:0:0:0:0:137
-ds-rdata:     13636 8 1 6eaebc6ddc7e32668027d425fe37084d6cb2d13d
-ds-rdata:     13636 8 2 1f6e64cbe2f9ff7a4d33195d8ee394e09e58cb89477523a1b5b1113b0cd6c3f5
 ds-rdata:     18077 8 2 42f81b888d9b44d561060b7dc32796807f2a99f2d151b3837019aba31c8966a0
-ds-rdata:     18077 8 1 b1d522ed8feeeaf6ead2504c9460101cfb98a195
+ds-rdata:     13114 8 2 8ef8eca3d31fc473c78b0cf4641bd536920e064d500f3a01ac96405cf5f8edcb
 
 whois:        whois.nic.inc
 
@@ -46,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: https://get.inc
 
 created:      2018-07-03
-changed:      2022-10-28
+changed:      2023-11-17
 source:       IANA
 
