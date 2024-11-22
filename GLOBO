@@ -5,18 +5,18 @@
 domain:       GLOBO
 
 organisation: Globo Comunicação e Participações S.A
-address:      Av. Afranio de Melo, 135, 3. andar
+address:      Rua Lopes Quintas, 303, Jardim Botânico
 address:      Rio de Janeiro RJ 22430-060
 address:      Brazil
 
 contact:      administrative
 name:         Gerente Jurídico
 organisation: Globo Comunicação e Participações S.A.
-address:      Av. Afranio de Melo, 135, 3. andar
-address:      Rio de Janeiro RJ 22430-060
+address:      Rua Lopes Quintas, 303, Jardim Botânico
+address:      Rio de Janeiro RJ 22460-901
 address:      Brazil
 phone:        +55 21 2540 4720
-e-mail:       fapesp@corp.globo.com
+e-mail:       dijur-marcas@g.globo
 
 contact:      technical
 name:         NIC.br Registry Services - Tech Contact
@@ -33,7 +33,7 @@ nserver:      C.DNS.BR 200.192.233.10 2001:12f8:a:0:0:0:0:10
 nserver:      D.DNS.BR 200.219.154.10 2001:12f8:4:0:0:0:0:10
 nserver:      E.DNS.BR 200.229.248.10 2001:12f8:2:0:0:0:0:10
 nserver:      F.DNS.BR 200.219.159.10 2001:12f8:c:0:0:0:0:10
-ds-rdata:     2471 13 2 47016576766a31841f591b328d8ea0ed33c9f057740d1a625c57a746eb67cd98
+ds-rdata:     50876 13 2 fe98518cab979f2d0d8021ef06ae5dc713c79a5870ff8fff8e38b67cf6578fb8
 
 whois:        whois.gtlds.nic.br
 
@@ -41,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.globo/
 
 created:      2014-02-20
-changed:      2020-08-14
+changed:      2024-01-11
 source:       IANA
 
