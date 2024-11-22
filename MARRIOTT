@@ -5,8 +5,8 @@
 domain:       MARRIOTT
 
 organisation: Marriott Worldwide Corporation
-address:      10400 Fernwood Road
-address:      Bethesda MD 20817
+address:      7750 Wisconsin Ave
+address:      Bethesda MD 20814
 address:      United States of America (the)
 
 contact:      administrative
@@ -20,15 +20,14 @@ fax-no:       +1.202.223.9256
 e-mail:       marriottregistry@fairwindspartners.com
 
 contact:      technical
-name:         Senior Director, DNS Infrastructure Group
-organisation: Afilias
-address:      300 Welsh Road
-address:      Building 3, Suite 105
-address:      Horsham PA 19044
+name:         Howard Eland, Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
 address:      United States of America (the)
-phone:        +1 215.706.5700
-fax-no:       +1 215.706.5701
-e-mail:       tld-tech-poc@afilias.info
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
 
 nserver:      A0.NIC.MARRIOTT 2a01:8840:e6:0:0:0:0:9 65.22.236.9
 nserver:      A2.NIC.MARRIOTT 2a01:8840:e9:0:0:0:0:9 65.22.239.9
@@ -42,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.marriott.com
 
 created:      2014-12-18
-changed:      2023-08-04
+changed:      2024-05-02
 source:       IANA
 
