@@ -30,8 +30,8 @@ phone:        +98 21 22828081 Ext. 124
 fax-no:       +98 21 22295700
 e-mail:       tech-team@irnic.ir
 
-nserver:      A.NIC.IR 193.189.123.2
-nserver:      NS.IRNIC.IR 193.189.122.83
+nserver:      A.NIC.IR 193.189.123.2 2001:678:b0:0:193:189:123:2
+nserver:      B.NIC.IR 193.189.122.83 2001:678:b1:0:193:189:122:83
 
 whois:        whois.nic.ir
 
@@ -39,6 +39,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.ir
 
 created:      2011-02-05
-changed:      2023-03-07
+changed:      2024-10-14
 source:       IANA
 
