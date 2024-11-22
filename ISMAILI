@@ -36,12 +36,12 @@ nserver:      B0.NIC.ISMAILI 2a01:8840:2b:0:0:0:0:25 65.22.45.25
 nserver:      C0.NIC.ISMAILI 2a01:8840:2c:0:0:0:0:25 65.22.46.25
 ds-rdata:     50875 8 2 99f076f1405b88aec44062cd7b8e9bf55d82130e00f55c92f6ba79f944980da8
 
-whois:        whois.afilias-srs.net
+whois:        whois.nic.ismaili
 
 status:       ACTIVE
 remarks:      Registration information: http://www.akdn.org/
 
 created:      2016-04-07
-changed:      2021-03-03
+changed:      2023-08-25
 source:       IANA
 
