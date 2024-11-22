@@ -5,15 +5,15 @@
 domain:       BEER
 
 organisation: Registry Services, LLC
-address:      2155 E. GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 
 contact:      administrative
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
@@ -22,8 +22,8 @@ e-mail:       iana@registry.godaddy
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
@@ -35,7 +35,7 @@ nserver:      C.NIC.BEER 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      X.NIC.BEER 156.154.172.82 2610:a1:1074:0:0:0:1:82
 nserver:      Y.NIC.BEER 156.154.173.82 2610:a1:1075:0:0:0:1:82
 nserver:      Z.NIC.BEER 156.154.174.82 2610:a1:1076:0:0:0:1:82
-ds-rdata:     61849 8 2 11485cf30d665a82c06691c37983fd4eca2068add702ace7374ec00e800f788f
+ds-rdata:     39367 8 2 32940ab06d3524457f9ddead6c3c0c76729eec27c5cc02244cea24e9fd9e47f4
 
 whois:        whois.nic.beer
 
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.beer/
 
 created:      2014-03-13
-changed:      2022-12-01
+changed:      2024-04-16
 source:       IANA
 
