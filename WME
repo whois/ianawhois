@@ -35,8 +35,8 @@ nserver:      A.NIC.WME 194.169.218.31 2001:67c:13cc:0:0:0:1:31
 nserver:      B.NIC.WME 185.24.64.31 2a04:2b00:13cc:0:0:0:1:31
 nserver:      C.NIC.WME 212.18.248.31 2a04:2b00:13ee:0:0:0:0:31
 nserver:      D.NIC.WME 212.18.249.31 2a04:2b00:13ff:0:0:0:0:31
-ds-rdata:     7259 8 1 f4ccd846a0b86daf9ce33371fb93362d4dc4addf
 ds-rdata:     7259 8 2 e7cb7561099040db08978f7696320ddaf323f52ddbf951fa5f4c44b2f34e38bd
+ds-rdata:     60194 8 2 a1d20932b733059c4bb7e989fdf75a19a787eb186ce2db5648b1560c1db54495
 
 whois:        whois.nic.wme
 
@@ -45,6 +45,6 @@ remarks:      Registration information:
 remarks:      http://www.wmeentertainment.com
 
 created:      2014-08-22
-changed:      2021-10-12
+changed:      2023-09-19
 source:       IANA
 
