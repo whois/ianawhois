@@ -35,10 +35,8 @@ nserver:      A.NIC.DEALER 194.169.218.138 2001:67c:13cc:0:0:0:1:138
 nserver:      B.NIC.DEALER 185.24.64.138 2a04:2b00:13cc:0:0:0:1:138
 nserver:      C.NIC.DEALER 212.18.248.138 2a04:2b00:13ee:0:0:0:0:138
 nserver:      D.NIC.DEALER 212.18.249.138 2a04:2b00:13ff:0:0:0:0:138
-ds-rdata:     43516 8 2 affee7db437839677f9b16547175bfa4f22a0cfc0fc2f374af5884c523efa54c
-ds-rdata:     43516 8 1 e4209e3f2bfdbf136d547329f367ae9bd03a3beb
 ds-rdata:     31586 8 2 8c442bfe32daff402fcc59d26a90f5ecac593fb6ba8a6396bd21686e3bd0d24b
-ds-rdata:     31586 8 1 2300a755b90e6e18845757994ffd35d160f8b1c3
+ds-rdata:     31235 8 2 221ac84b1ddc9345e73cfd727b7c85ad97d782d1485250f4e62f7b424371b5a4
 
 whois:        whois.nic.dealer
 
@@ -46,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: https://get.dealer
 
 created:      2015-11-25
-changed:      2022-10-28
+changed:      2023-11-17
 source:       IANA
 
