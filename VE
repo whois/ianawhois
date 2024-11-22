@@ -35,8 +35,7 @@ nserver:      NS4.NIC.VE 190.202.128.43
 nserver:      NS5.NIC.VE 2801:18:8800:3:18ba:beff:fe61:d08b 45.175.22.88
 nserver:      NS6.NIC.VE 2801:18:8800:1:0:0:0:4 45.175.22.4
 nserver:      SSDNS-TLD.NIC.CL 200.7.5.14 2001:1398:276:0:200:7:5:14
-ds-rdata:     14092 8 2 08c74712d9ee7ab88bad9ea011379e2ac419102e209b83cb9c4ee6cfb5ca7e65
-ds-rdata:     62041 8 2 78f2ecb0ecd744a381d514ec91ca6389921fe168f41c96a41d0d794caf30c3b1
+ds-rdata:     53545 8 2 0ba030fb1720bb0263e2ae748c9caa6fc7bebf30f4e1271af22554c6c43ef3fe
 
 whois:        whois.nic.ve
 
@@ -44,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.ve/
 
 created:      1991-03-07
-changed:      2023-07-24
+changed:      2024-08-27
 source:       IANA
 
