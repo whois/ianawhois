@@ -22,8 +22,8 @@ e-mail:       safetyregistryservices@grainger.com
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
@@ -35,7 +35,7 @@ nserver:      C.NIC.SAFETY 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      NS1.DNS.NIC.SAFETY 156.154.144.148 2610:a1:1071:0:0:0:0:94
 nserver:      NS2.DNS.NIC.SAFETY 156.154.145.148 2610:a1:1072:0:0:0:0:94
 nserver:      NS3.DNS.NIC.SAFETY 156.154.159.148 2610:a1:1073:0:0:0:0:94
-ds-rdata:     17254 8 2 f76c51279bbd1c4525d952e5d1df46daac5cf3adbc56d772fc1e85983e05e273
+ds-rdata:     43762 8 2 bf2d17c54e9dde52eb37f0d242a1c4c1051e15c18a2c2661c7a6ca58ee6c0407
 
 whois:        whois.nic.safety
 
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.safety
 
 created:      2015-04-23
-changed:      2022-07-21
+changed:      2024-05-11
 source:       IANA
 
