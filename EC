@@ -32,6 +32,7 @@ nserver:      N2.NIC.EC 200.12.199.1 2801:0:60:0:0:0:0:1
 nserver:      N3.DNS.EC 2001:500:14:6039:ad:0:0:1 204.61.216.39
 nserver:      NS1.ANYCASTDNS.CZ 185.38.108.108 2a00:fea0:dead:0:0:0:0:beef
 nserver:      NS2.ANYCASTDNS.CZ 185.28.194.194
+ds-rdata:     35138 13 2 2de23508e6ac307fc11f86b8768025bff14e2b585d555b020e218ec65c9a0223
 
 whois:        whois.nic.ec
 
@@ -39,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.ec
 
 created:      1991-02-01
-changed:      2023-07-18
+changed:      2024-04-10
 source:       IANA
 
