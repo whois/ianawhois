@@ -20,20 +20,23 @@ fax-no:       +1 2022239256
 e-mail:       fairwindsregistry@fairwindspartners.com
 
 contact:      technical
-name:         Registry Customer Service
-organisation: Verisign, Inc.
-address:      12061 Bluemont Way
-address:      Reston VA 20190
-address:      United States of America (the)
-phone:        +1 7039256999
-fax-no:       +1 7039483978
-e-mail:       info@verisign-grs.com
+name:         TLD Registry Services Technical
+organisation: Nominet
+address:      Minerva House, Edmund Halley Road, Oxford Science Park
+address:      Oxford OX4 4DQ
+address:      United Kingdom of Great Britain and Northern Ireland (the)
+phone:        +44 1865 332211
+e-mail:       registrytechnical@nominet.uk
 
-nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
-nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
-nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
-nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
-ds-rdata:     8913 8 2 4b1c638c7fc58d11bf54b976ce4fba1cdb935f993f6b50194093b2479bff8504
+nserver:      DNS1.NIC.FAIRWINDS 213.248.219.135 2a01:618:403:0:0:0:0:135
+nserver:      DNS2.NIC.FAIRWINDS 103.49.83.135 2401:fd80:403:0:0:0:0:135
+nserver:      DNS3.NIC.FAIRWINDS 213.248.223.135 2a01:618:407:0:0:0:0:135
+nserver:      DNS4.NIC.FAIRWINDS 2401:fd80:407:0:0:0:0:135 43.230.51.135
+nserver:      DNSA.NIC.FAIRWINDS 156.154.100.3 2001:502:ad09:0:0:0:0:3
+nserver:      DNSB.NIC.FAIRWINDS 156.154.101.3 2001:502:2eda:0:0:0:0:3
+nserver:      DNSC.NIC.FAIRWINDS 156.154.102.3 2610:a1:1009:0:0:0:0:3
+nserver:      DNSD.NIC.FAIRWINDS 156.154.103.3 2610:a1:1010:0:0:0:0:3
+ds-rdata:     48074 8 2 4375da09c7286dcde9acc036596d3f2b9f1347e1a83f13a1e98c7e9821d2ead9
 
 whois:        whois.nic.fairwinds
 
@@ -42,6 +45,6 @@ remarks:      Registration information:
 remarks:      http://www.fairwindspartners.com
 
 created:      2015-10-29
-changed:      2020-10-01
+changed:      2024-07-08
 source:       IANA
 
