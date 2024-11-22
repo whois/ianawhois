@@ -22,8 +22,8 @@ e-mail:       elilillydomains@brandsight.com
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
@@ -35,7 +35,7 @@ nserver:      C.NIC.LILLY 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.LILLY 156.154.144.104 2610:a1:1071:0:0:0:0:68
 nserver:      NS2.DNS.NIC.LILLY 156.154.145.104 2610:a1:1072:0:0:0:0:68
 nserver:      NS3.DNS.NIC.LILLY 156.154.159.104 2610:a1:1073:0:0:0:0:68
-ds-rdata:     60970 8 2 967d4df30e91fd6e0497c228c18db4fe6c3ef1479ce5428338fe0e746bc412e0
+ds-rdata:     8122 8 2 5dc5f4586f67fc78f4ecec1e95a5e1a89423dee30a27e5bb43c31ad6a874a556
 
 whois:        
 
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.lilly.com
 
 created:      2016-05-19
-changed:      2022-07-21
+changed:      2024-05-11
 source:       IANA
 
