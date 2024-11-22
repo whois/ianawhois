@@ -34,8 +34,8 @@ nserver:      A.NIC.BUILD 194.169.218.20 2001:67c:13cc:0:0:0:1:20
 nserver:      B.NIC.BUILD 185.24.64.20 2a04:2b00:13cc:0:0:0:1:20
 nserver:      C.NIC.BUILD 212.18.248.20 2a04:2b00:13ee:0:0:0:0:20
 nserver:      D.NIC.BUILD 212.18.249.20 2a04:2b00:13ff:0:0:0:0:20
-ds-rdata:     54832 8 2 8d0f5d4d637295690e42166227e1a5fd97f412e9ebdc1cb30254f7b8f8aa3792
 ds-rdata:     30770 8 2 68e3857b46d09fe8c87b6144a5d61f9613440a6407331ac598970c29809b56f7
+ds-rdata:     38839 8 2 dc44b2ecc9762a6d722a9882017fe051422fe7548782168404e5394c2331e8e3
 
 whois:        whois.nic.build
 
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: https://about.build/
 
 created:      2014-01-09
-changed:      2021-11-29
+changed:      2023-10-05
 source:       IANA
 
