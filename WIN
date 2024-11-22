@@ -21,8 +21,8 @@ e-mail:       edgar.c.lavarello@gi.pwc.com
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
@@ -34,7 +34,7 @@ nserver:      C.NIC.WIN 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      NS1.DNS.NIC.WIN 156.154.144.182 2610:a1:1071:0:0:0:0:b6
 nserver:      NS2.DNS.NIC.WIN 156.154.145.182 2610:a1:1072:0:0:0:0:b6
 nserver:      NS3.DNS.NIC.WIN 156.154.159.182 2610:a1:1073:0:0:0:0:b6
-ds-rdata:     49585 8 2 4466f9d8d5814557b154063e5b82925059115249b97f19c8b091c6cf06407d57
+ds-rdata:     29737 8 2 980f7cd5e938e5acaa28b0b9a3a1504ac3839b3919ca6fdf9c3523675d0fe875
 
 whois:        whois.nic.win
 
@@ -42,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.win
 
 created:      2015-02-05
-changed:      2022-07-21
+changed:      2024-05-11
 source:       IANA
 
