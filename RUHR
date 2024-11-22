@@ -33,8 +33,8 @@ nserver:      A.NIC.RUHR 194.169.218.155 2001:67c:13cc:0:0:0:1:155
 nserver:      B.NIC.RUHR 185.24.64.155 2a04:2b00:13cc:0:0:0:1:155
 nserver:      C.NIC.RUHR 212.18.248.155 2a04:2b00:13ee:0:0:0:0:155
 nserver:      D.NIC.RUHR 212.18.249.155 2a04:2b00:13ff:0:0:0:0:155
-ds-rdata:     25131 10 2 ec453960c396742efa2ef815fa9c9dba146e838f86f11643704c1630424f4e78
 ds-rdata:     40422 10 2 74fb0b871adf46aab5d49a1eb3b8b0b7dda42c023dd045ec0282b6187b3b4cf7
+ds-rdata:     46252 10 2 3db9db25d3b8e13fbcb4eba53f61c7ce156831dce66d4a19747d17f8ab278fdb
 
 whois:        whois.nic.ruhr
 
@@ -42,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://dot.ruhr
 
 created:      2013-11-25
-changed:      2023-01-18
+changed:      2023-09-08
 source:       IANA
 
