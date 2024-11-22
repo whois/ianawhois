@@ -36,8 +36,8 @@ e-mail:       tech-admin@twnic.tw
 nserver:      ANYTLD.APNIC.NET 2001:dd8:12:0:0:0:0:53 202.12.31.53
 nserver:      D.DNS.TW 2001:4541:9010:7:0:0:0:186 60.199.165.186
 nserver:      E.DNS.TW 2001:b000:1e0:c000:0:0:0:11 211.20.231.11
-nserver:      F.DNS.TW 163.28.1.10
-nserver:      G.DNS.TW 2001:cd8:400:0:0:0:0:195 220.229.225.195
+nserver:      F.DNS.TW 182.173.0.10
+nserver:      G.DNS.TW 34.141.111.176
 nserver:      H.DNS.TW 2001:500:14:6119:ad:0:0:1 204.61.216.119
 ds-rdata:     15901 8 2 119f2b2637aeb13da5c5d5b605ddcb9389a811a27d52102d9df28ee507c02da4
 
