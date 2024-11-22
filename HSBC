@@ -22,8 +22,8 @@ e-mail:       kevinaudritt@hsbc.com
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
@@ -35,7 +35,7 @@ nserver:      C.NIC.HSBC 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.HSBC 156.154.144.76 2610:a1:1071:0:0:0:0:4c
 nserver:      NS2.DNS.NIC.HSBC 156.154.145.76 2610:a1:1072:0:0:0:0:4c
 nserver:      NS3.DNS.NIC.HSBC 156.154.159.76 2610:a1:1073:0:0:0:0:4c
-ds-rdata:     44836 8 2 89f4241090c6c95e72420b8525e2f2472c6198937cac4d5ed6d1c6d2f4f6de27
+ds-rdata:     16129 8 2 1e993a683fd63ba6fa436d235eddbb949901975649b11c628dfef8105264ae9d
 
 whois:        
 
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.hsbc
 
 created:      2015-01-15
-changed:      2022-07-21
+changed:      2024-05-11
 source:       IANA
 
