@@ -34,10 +34,8 @@ nserver:      A.NIC.LIDL 194.169.218.91 2001:67c:13cc:0:0:0:1:91
 nserver:      B.NIC.LIDL 185.24.64.91 2a04:2b00:13cc:0:0:0:1:91
 nserver:      C.NIC.LIDL 212.18.248.91 2a04:2b00:13ee:0:0:0:0:91
 nserver:      D.NIC.LIDL 212.18.249.91 2a04:2b00:13ff:0:0:0:0:91
-ds-rdata:     25884 7 1 5d6de6274d4355afe0aeab14a7090eceefedfe0c
-ds-rdata:     54241 7 1 d4a5619a11199e9c1ccdb83c02f2f710ddd79ee8
-ds-rdata:     54241 7 2 12602baa0fe5b77f6070a3e78c6bb5734bc8c415a7a74724d7060d8e23cb7a30
-ds-rdata:     25884 7 2 417e1d3643742999e4f0041289835fcc4691e0462316515ece2cb61db57ef6e9
+ds-rdata:     44022 13 2 031250e5d00e613d5044b944a8f5d9e88fa4f803eae5f887c1670e0a8bcffc97
+ds-rdata:     25851 13 2 1aa0941e7d1538497268ee853423361989c3b0d9a8f2d3da4e3f3ba0521e24e9
 
 whois:        whois.nic.lidl
 
@@ -45,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.nic.lidl
 
 created:      2014-12-04
-changed:      2021-10-12
+changed:      2023-11-06
 source:       IANA
 
