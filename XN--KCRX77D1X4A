@@ -32,7 +32,6 @@ nserver:      C.NIC.XN--KCRX77D1X4A 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      X.NIC.XN--KCRX77D1X4A 156.154.172.82 2610:a1:1074:0:0:0:1:82
 nserver:      Y.NIC.XN--KCRX77D1X4A 156.154.173.82 2610:a1:1075:0:0:0:1:82
 nserver:      Z.NIC.XN--KCRX77D1X4A 156.154.174.82 2610:a1:1076:0:0:0:1:82
-ds-rdata:     25186 8 2 484679fbe2d01f386ac34d3e523f48e0a691c90df9eae97b80494f6afb645a05
 ds-rdata:     52825 8 2 5bb0dda1180fdf0f6c0932f027c0b6faf19cfa8e9848f954046d4bd63ebfbc5c
 
 whois:        whois.nic.xn--kcrx77d1x4a
@@ -41,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.xn--kcrx77d1x4a
 
 created:      2015-02-13
-changed:      2023-07-31
+changed:      2023-11-30
 source:       IANA
 
