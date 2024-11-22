@@ -24,9 +24,8 @@ e-mail:       support@puntu.corsica
 contact:      technical
 name:         TLD Technical Contact
 organisation: Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)
-address:      Immeuble Le Stephenson
-address:      1, rue Stephenson
-address:      Montigny-Le-Bretonneux 78180
+address:      7, avenue du 8 mai
+address:      Guyancourt 78280
 address:      France
 phone:        +33 1 39 30 83 00
 fax-no:       +33 1 39 30 83 01
@@ -35,14 +34,14 @@ e-mail:       pdtcorsica@afnic.fr
 nserver:      D.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
 nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
 nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
-ds-rdata:     16766 13 2 fb25f2d69835bf52cd5389473cd4b0c58d581385ee40b1d1a357135a8ce26997
+ds-rdata:     21857 13 2 238b2bc116369bacaf90b7cc71b61a9765aba03f6855db89cef0788193d99e20
 
 whois:        whois.nic.corsica
 
 status:       ACTIVE
-remarks:      Registration information: https://www.puntu.corsica
+remarks:      Registration information: https://puntu.corsica
 
 created:      2015-04-23
-changed:      2022-08-23
+changed:      2024-09-11
 source:       IANA
 
