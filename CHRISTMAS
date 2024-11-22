@@ -33,12 +33,7 @@ nserver:      A.NIC.CHRISTMAS 194.169.218.153 2001:67c:13cc:0:0:0:1:153
 nserver:      B.NIC.CHRISTMAS 185.24.64.153 2a04:2b00:13cc:0:0:0:1:153
 nserver:      C.NIC.CHRISTMAS 212.18.248.153 2a04:2b00:13ee:0:0:0:0:153
 nserver:      D.NIC.CHRISTMAS 212.18.249.153 2a04:2b00:13ff:0:0:0:0:153
-ds-rdata:     51184 5 1 b14c7aa2999b35f27382961870cb8e480a1f5f0b
-ds-rdata:     2827 5 2 b359c6393c81c5c19e651290ce278f6d9e6b73b625e2809ea4fa7cee67df4a3e
-ds-rdata:     2827 5 1 45a7ab7ffc9aed55e130deebc6a12a007052c326
-ds-rdata:     51184 5 2 1a80057885de5c3e07689cd77e954733a4b21658c65bee06f69b8f8e5f47170d
-ds-rdata:     23941 5 2 31b3839a387cf1c59f5a9fd953e54c7d5852606c0b20e86281148b6d4aaac042
-ds-rdata:     23941 5 1 bc0c1ccffabd83a031323c84e60b6b755356a8be
+ds-rdata:     2330 13 2 06a2f220cec0ff0e52c7fb8f8b29ef509972660eb630eec8b18ef66b9c0433b6
 
 whois:        whois.nic.christmas
 
@@ -46,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.christmas
 
 created:      2014-02-13
-changed:      2022-08-16
+changed:      2024-01-31
 source:       IANA
 
