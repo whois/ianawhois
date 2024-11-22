@@ -4,23 +4,20 @@
 
 domain:       CFD
 
-organisation: DOTCFD REGISTRY LTD
-address:      Boston Ivy
-address:      Cannon Bridge House
-address:      25 Dowgate Hill
-address:      London EC4R 2YA
-address:      United Kingdom of Great Britain and Northern Ireland (the)
+organisation: Shortdot SA
+address:      29 Boulevard de la Grande-Duchesse Charlotte
+address:      Luxembourg City L-1331
+address:      Luxembourg
 
 contact:      administrative
-name:         Head of Registry Services
-organisation: DOTCFD REGISTRY LTD
-address:      Boston Ivy
-address:      Cannon Bridge House
-address:      25 Dowgate Hill
-address:      London EC4R 2YA
-address:      United Kingdom of Great Britain and Northern Ireland (the)
-phone:        +44.2033880600
-e-mail:       ig@centralnic.com
+name:         CEO
+organisation: Shortdot SA
+address:      29 Boulevard de la Grande-Duchesse Charlotte
+address:      Luxembourg City L-1331
+address:      Luxembourg
+phone:        +352621811103
+fax-no:       +35227862529
+e-mail:       sales@nic.icu
 
 contact:      technical
 name:         CTO
@@ -37,8 +34,8 @@ nserver:      A.NIC.CFD 194.169.218.122 2001:67c:13cc:0:0:0:1:122
 nserver:      B.NIC.CFD 185.24.64.122 2a04:2b00:13cc:0:0:0:1:122
 nserver:      C.NIC.CFD 212.18.248.122 2a04:2b00:13ee:0:0:0:0:122
 nserver:      D.NIC.CFD 212.18.249.122 2a04:2b00:13ff:0:0:0:0:122
-ds-rdata:     27333 8 2 63f199e72594324007d15c0b77b25f4c643e07f0064eaadf08341287856571aa
 ds-rdata:     10525 8 2 42fd41d6533ac785ef64cf9bd36b16463c5a161da2af25ec08c114b40e82f2d8
+ds-rdata:     27596 8 2 56e8c3051413f1831469b223bd4d9761f95d42c821bf84f1ba1c311be7521316
 
 whois:        whois.nic.cfd
 
@@ -46,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://bostonivy.co
 
 created:      2015-03-06
-changed:      2021-09-23
+changed:      2024-04-29
 source:       IANA
 
