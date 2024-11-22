@@ -16,32 +16,30 @@ address:      131 South Dearborn Street
 address:      Chicago IL 60603
 address:      United States of America (the)
 phone:        +1 312-395-2100
-e-mail:       registry@citadelgroup.com
+e-mail:       ngtld-citadel@cscglobal.com
 
 contact:      technical
-name:         IANA Contact
-organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+name:         Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
 address:      United States of America (the)
-phone:        +1 480 505 8800
-fax-no:       +1 480 624 2546
-e-mail:       iana@registry.godaddy
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
 
-nserver:      NS1.DNS.NIC.CITADEL 156.154.144.45 2610:a1:1071:0:0:0:0:2d
-nserver:      NS2.DNS.NIC.CITADEL 156.154.145.45 2610:a1:1072:0:0:0:0:2d
-nserver:      NS3.DNS.NIC.CITADEL 156.154.159.45 2610:a1:1073:0:0:0:0:2d
-nserver:      NS4.DNS.NIC.CITADEL 156.154.156.45 2610:a1:1074:0:0:0:0:2d
-nserver:      NS5.DNS.NIC.CITADEL 156.154.157.45 2610:a1:1075:0:0:0:0:2d
-nserver:      NS6.DNS.NIC.CITADEL 156.154.158.45 2610:a1:1076:0:0:0:0:2d
-ds-rdata:     62107 8 2 cc98bfd74d46f2274b9a966f9d522161c6d2ea0d8621df3a6ac4f1d3b229dc7c
+nserver:      A0.NIC.CITADEL 2a01:8840:6e:0:0:0:0:33 65.22.112.33
+nserver:      A2.NIC.CITADEL 2a01:8840:71:0:0:0:0:33 65.22.115.33
+nserver:      B0.NIC.CITADEL 2a01:8840:6f:0:0:0:0:33 65.22.113.33
+nserver:      C0.NIC.CITADEL 2a01:8840:70:0:0:0:0:33 65.22.114.33
+ds-rdata:     43942 8 2 6a252ba4b61331a3d35b5d06ae744643af83053295c42c0c2e65fcebba07834f
 
-whois:        
+whois:        whois.nic.citadel
 
 status:       ACTIVE
 remarks:      Registration information: http://www.citadel.com
 
 created:      2016-06-30
-changed:      2022-07-21
+changed:      2023-10-17
 source:       IANA
 
