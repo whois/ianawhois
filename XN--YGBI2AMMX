@@ -33,9 +33,12 @@ fax-no:       +970 8 2861617
 e-mail:       technical@pnina.ps
 
 nserver:      DNS1.GOV.PS 213.244.82.147
-nserver:      DNS3.GOV.PS 212.14.253.242
-nserver:      IDN.PNINA.PS 208.64.68.4
+nserver:      DNS3.GOV.PS 185.153.163.3
+nserver:      FORK.STH.DNSNODE.NET 2a01:3f0:0:306:0:0:0:53 77.72.229.254
+nserver:      IDN.PNINA.PS 208.64.68.60
 nserver:      NS1.PNINA.PS 194.6.225.20
+nserver:      PS-NS.ANYCAST.PCH.NET 2001:500:14:6029:ad:0:0:1 204.61.216.29
+nserver:      PS.CCTLD.AUTHDNS.RIPE.NET 193.0.9.105 2001:67c:e0:0:0:0:0:105
 
 whois:        whois.pnina.ps
 
@@ -43,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.pnina.ps
 
 created:      2010-08-20
-changed:      2023-03-07
+changed:      2024-02-05
 source:       IANA
 
