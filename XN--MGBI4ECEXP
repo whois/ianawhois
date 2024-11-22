@@ -36,7 +36,6 @@ nserver:      C.NIC.XN--MGBI4ECEXP 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      X.NIC.XN--MGBI4ECEXP 156.154.172.82 2610:a1:1074:0:0:0:1:82
 nserver:      Y.NIC.XN--MGBI4ECEXP 156.154.173.82 2610:a1:1075:0:0:0:1:82
 nserver:      Z.NIC.XN--MGBI4ECEXP 156.154.174.82 2610:a1:1076:0:0:0:1:82
-ds-rdata:     34576 8 2 3d199736303984637fb5a1af60f2e5cf6d276f89d464039dba62c60f363f68c8
 ds-rdata:     5914 8 2 308b25083f486a76906992484720bd2f9f944fcb49111512ea95957417f3c03d
 
 whois:        whois.nic.xn--mgbi4ecexp
@@ -45,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.pccs.va
 
 created:      2016-11-16
-changed:      2023-07-31
+changed:      2023-12-21
 source:       IANA
 
