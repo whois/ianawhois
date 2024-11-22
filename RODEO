@@ -5,15 +5,15 @@
 domain:       RODEO
 
 organisation: Registry Services, LLC
-address:      2155 E. GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 
 contact:      administrative
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
@@ -22,8 +22,8 @@ e-mail:       iana@registry.godaddy
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
@@ -35,7 +35,7 @@ nserver:      C.NIC.RODEO 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      X.NIC.RODEO 156.154.172.82 2610:a1:1074:0:0:0:1:82
 nserver:      Y.NIC.RODEO 156.154.173.82 2610:a1:1075:0:0:0:1:82
 nserver:      Z.NIC.RODEO 156.154.174.82 2610:a1:1076:0:0:0:1:82
-ds-rdata:     28669 8 2 beefb4208acee98d66cf5bf93dd9841ac55efa98b003cfe13ff4201e3f8ec300
+ds-rdata:     16639 8 2 75b8726a0f8b07d958ff6e8ef2eb31ad19650920865eba6382171422b3bfcdc0
 
 whois:        whois.nic.rodeo
 
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.rodeo/
 
 created:      2014-02-28
-changed:      2022-12-01
+changed:      2024-04-17
 source:       IANA
 
