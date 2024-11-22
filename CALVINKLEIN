@@ -22,8 +22,8 @@ e-mail:       ckregistry@fairwindspartners.com
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
@@ -35,7 +35,7 @@ nserver:      C.NIC.CALVINKLEIN 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.CALVINKLEIN 156.154.144.31 2610:a1:1071:0:0:0:0:1f
 nserver:      NS2.DNS.NIC.CALVINKLEIN 156.154.145.31 2610:a1:1072:0:0:0:0:1f
 nserver:      NS3.DNS.NIC.CALVINKLEIN 156.154.159.31 2610:a1:1073:0:0:0:0:1f
-ds-rdata:     4525 8 2 af8c19b09ce15428675bd900e02276bfd651f263c822c7393ee3ab06791eeaf9
+ds-rdata:     46744 8 2 bb8a91f6ed57b17da3d9f3f91b7ece068799ba0f09c5310bcbc80150bf1555a3
 
 whois:        
 
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.pvh.com/
 
 created:      2016-07-28
-changed:      2022-07-21
+changed:      2024-05-11
 source:       IANA
 
