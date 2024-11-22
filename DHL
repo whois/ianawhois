@@ -34,10 +34,7 @@ nserver:      A.NIC.DHL 194.169.218.82 2001:67c:13cc:0:0:0:1:82
 nserver:      B.NIC.DHL 185.24.64.82 2a04:2b00:13cc:0:0:0:1:82
 nserver:      C.NIC.DHL 212.18.248.82 2a04:2b00:13ee:0:0:0:0:82
 nserver:      D.NIC.DHL 212.18.249.82 2a04:2b00:13ff:0:0:0:0:82
-ds-rdata:     33051 7 1 e2fbee1cc8da9ce0bd4d74a688491ed1315d0568
-ds-rdata:     33051 7 2 8f83e4018fb981e5f7d18df96549ec57b31a143c6f8a6d010038108525425b7e
-ds-rdata:     31860 7 2 bcd5350bd4181a15de2fe9fb448aae594da19bfbfce42afc9d63693dbd45a4b9
-ds-rdata:     31860 7 1 89fe558d6ea8dcaf797b2235dc3c246108a2b74e
+ds-rdata:     28795 13 2 ea7331ce53fd633adda48600f5739ca3cadc2d8e4afe78837eed5018c298098b
 
 whois:        
 
@@ -45,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      2016-05-26
-changed:      2020-04-20
+changed:      2023-11-27
 source:       IANA
 
