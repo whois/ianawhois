@@ -40,6 +40,8 @@ nserver:      DNS-EXT.NIC.CR 200.107.82.219 2001:13c7:7004:110:0:0:0:219
 nserver:      NS.DNS.BR 200.160.0.5 2001:12ff:0:a20:0:0:0:5
 nserver:      NS.NIC.PA 168.77.8.4
 nserver:      NS.PA 168.77.8.2
+nserver:      NS1.ANYCASTDNS.CZ 185.38.108.108 2a00:fea0:dead:0:0:0:0:beef
+nserver:      NS2.ANYCASTDNS.CZ 185.28.194.194
 nserver:      NS2.PA 168.77.8.7
 nserver:      SSDNS-TLD.NIC.CL 200.7.5.14 2001:1398:276:0:200:7:5:14
 
@@ -49,6 +51,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.pa/
 
 created:      1994-05-25
-changed:      2023-01-17
+changed:      2024-06-03
 source:       IANA
 
