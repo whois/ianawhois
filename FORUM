@@ -20,21 +20,19 @@ fax-no:       206-238-1232
 e-mail:       jay@fegistry.com
 
 contact:      technical
-name:         CTO
-organisation: CentralNic
-address:      Saddlers House, 4th Floor
-address:      44 Gutter Lane
-address:      London EC2V 6BR
-address:      United Kingdom of Great Britain and Northern Ireland (the)
-phone:        +44 20 33 88 0600
-fax-no:       +44 20 33 88 0601
-e-mail:       tld.ops@centralnic.com
+name:         Francisco Obispo
+organisation: Tucows Inc
+address:      96 Mowat Avenue
+address:      Toronto Ontario M6K3M1
+address:      Canada
+phone:        +1.949.903.3449
+e-mail:       trs-ops@tucows.com
 
-nserver:      A.NIC.FORUM 194.169.218.65 2001:67c:13cc:0:0:0:1:65
-nserver:      B.NIC.FORUM 185.24.64.65 2a04:2b00:13cc:0:0:0:1:65
-nserver:      C.NIC.FORUM 212.18.248.65 2a04:2b00:13ee:0:0:0:0:65
-nserver:      D.NIC.FORUM 212.18.249.65 2a04:2b00:13ff:0:0:0:0:65
-ds-rdata:     9475 8 2 a53a95d8ab4105b83918a104f8828b1e0dddb48c290a8eff1960918e01eafae6
+nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
+nserver:      NS01.TRS-DNS.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
+nserver:      NS01.TRS-DNS.NET 64.96.2.1
+nserver:      NS01.TRS-DNS.ORG 185.159.197.3 2620:10a:80aa:0:0:0:0:3
+ds-rdata:     48583 13 2 de6529ec2ac6952fe38e419097c4aed7de20b78b91c88753f70b254ccdfcd543
 
 whois:        whois.nic.forum
 
@@ -42,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.topspectrum.com
 
 created:      2015-06-11
-changed:      2021-10-12
+changed:      2024-10-24
 source:       IANA
 
