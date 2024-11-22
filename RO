@@ -38,7 +38,7 @@ nserver:      DNS-RO.DENIC.DE 81.91.161.99
 nserver:      PRIMARY.ROTLD.RO 192.162.16.18 2a03:5e80:0:4:192:162:16:18
 nserver:      SEC-DNS-A.ROTLD.RO 192.162.16.20 2a03:5e80:0:4:192:162:16:20
 nserver:      SEC-DNS-B.ROTLD.RO 193.230.31.230 2a03:5e80:0:5:193:230:31:230
-ds-rdata:     9784 8 2 0a8ed773f6bbf8c5d2f687c26a9a904c76de41db74f329501e23f206c9c3b078
+ds-rdata:     61039 8 2 7c53f10e86835711c3cc6ba9632e4295a077e6a0a148059195371c3e5d07e10f
 
 whois:        whois.rotld.ro
 
@@ -46,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.rotld.ro/
 
 created:      1993-02-26
-changed:      2023-05-08
+changed:      2024-05-06
 source:       IANA
 
