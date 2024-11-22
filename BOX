@@ -34,9 +34,8 @@ nserver:      A.NIC.BOX 194.169.218.139 2001:67c:13cc:0:0:0:1:139
 nserver:      B.NIC.BOX 185.24.64.139 2a04:2b00:13cc:0:0:0:1:139
 nserver:      C.NIC.BOX 212.18.248.139 2a04:2b00:13ee:0:0:0:0:139
 nserver:      D.NIC.BOX 212.18.249.139 2a04:2b00:13ff:0:0:0:0:139
-ds-rdata:     47542 8 2 31cc9f53054303443fa06f368c54971d8e12c89655cb768a951d908701e82800
-ds-rdata:     47542 8 1 f59d467614d996277c9ea8e52eb920623b9fa4fe
 ds-rdata:     63242 8 2 f63250257503cce60195e71c2e346a2d8bde06dcbd666b9ee4f860d75988702d
+ds-rdata:     62294 8 2 29a911bdbf1fc105d593ea39a619bf1e89cb1bfe73ff70fb7e80b75ab9a7a8b8
 
 whois:        whois.nic.box
 
@@ -44,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: https://intercap.inc
 
 created:      2016-10-27
-changed:      2022-10-28
+changed:      2023-11-17
 source:       IANA
 
