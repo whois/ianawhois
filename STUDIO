@@ -5,30 +5,30 @@
 domain:       STUDIO
 
 organisation: Dog Beach, LLC
-address:      c/o Donuts Inc.
+address:      c/o Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 
 contact:      administrative
 name:         Vice President, Engineering
-organisation: Donuts Inc.
+organisation: Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       tldadmin@donuts.email
+e-mail:       tldadmin@identity.digital
 
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
-organisation: Donuts Inc.
+organisation: Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       tldtech@donuts.email
+e-mail:       tldtech@identity.digital
 
 nserver:      V0N0.NIC.STUDIO 2a01:8840:1e:0:0:0:0:3 65.22.28.3
 nserver:      V0N1.NIC.STUDIO 2a01:8840:1f:0:0:0:0:3 65.22.29.3
@@ -41,9 +41,9 @@ ds-rdata:     1354 8 2 d4289b105c9cb81d1ea631fe723a7dd3e9a52fb649b4a0a40c4890a9f
 whois:        whois.nic.studio
 
 status:       ACTIVE
-remarks:      Registration information: http://www.donuts.domains/
+remarks:      Registration information: https://www.identity.digital/
 
 created:      2015-06-25
-changed:      2021-11-10
+changed:      2023-09-12
 source:       IANA
 
