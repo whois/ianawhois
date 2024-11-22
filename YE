@@ -32,12 +32,9 @@ phone:        +967 771715858
 fax-no:       +967 1 7521403
 e-mail:       m.a.thabet@teleyemen.com.ye
 
-nserver:      NS1.YEMEN.NET.YE 2a02:2718:4:0:0:0:0:33 65.162.184.33
-nserver:      NS2.YEMEN.NET.YE 2a02:2718:4:0:0:0:0:34 65.162.184.34
-nserver:      SAH1.YE 195.94.0.34 2a02:e280:8:d000:0:0:0:34
-nserver:      SAH2.YE 195.94.0.35 2a02:e280:8:d000:0:0:0:35
 nserver:      TLD1.YE 195.94.10.22 2a02:e280:8:1000:0:0:0:1
 nserver:      TLD2.YE 195.94.13.22 2a02:e280:8:2000:0:0:0:1
+nserver:      TLD3.YE 2a02:2718:8:d3:0:0:0:244 82.114.164.244
 
 whois:        whois.y.net.ye
 
@@ -45,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      1996-08-19
-changed:      2023-06-28
+changed:      2024-08-06
 source:       IANA
 
