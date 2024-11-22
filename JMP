@@ -22,8 +22,8 @@ e-mail:       gtldinfo@sas.com
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
@@ -35,7 +35,7 @@ nserver:      C.NIC.JMP 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.JMP 156.154.144.88 2610:a1:1071:0:0:0:0:58
 nserver:      NS2.DNS.NIC.JMP 156.154.145.88 2610:a1:1072:0:0:0:0:58
 nserver:      NS3.DNS.NIC.JMP 156.154.159.88 2610:a1:1073:0:0:0:0:58
-ds-rdata:     30112 8 2 47fcd5889323f70e3346b144d204ba05f601d6b6c56c8c52ac7606f7d14af60c
+ds-rdata:     8866 8 2 30edbd31093e1a261862822c85d745e0e803d7ba503aa4fbb79d4bb828fc5422
 
 whois:        
 
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.jmp.com
 
 created:      2015-11-20
-changed:      2022-07-21
+changed:      2024-05-11
 source:       IANA
 
