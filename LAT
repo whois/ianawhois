@@ -33,8 +33,8 @@ nserver:      A.NIC.LAT 194.169.218.156 2001:67c:13cc:0:0:0:1:156
 nserver:      B.NIC.LAT 185.24.64.156 2a04:2b00:13cc:0:0:0:1:156
 nserver:      C.NIC.LAT 212.18.248.156 2a04:2b00:13ee:0:0:0:0:156
 nserver:      D.NIC.LAT 212.18.249.156 2a04:2b00:13ff:0:0:0:0:156
-ds-rdata:     961 8 2 d87e3ee5babaa5dbf51c4af462d2670be2b702a2972903ae27bee9ba64413973
 ds-rdata:     42520 8 2 fae20127b971e74d949e113cd4d738f82d6d53c5091b76cda93a5877554df1f4
+ds-rdata:     25789 8 2 16aae37ef2d2a809d0d1ed18b045161dd63607375e23687ed840c78d8ab4387e
 
 whois:        whois.nic.lat
 
@@ -42,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.lat
 
 created:      2014-12-04
-changed:      2022-10-27
+changed:      2024-04-15
 source:       IANA
 
