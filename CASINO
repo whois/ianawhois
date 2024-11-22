@@ -5,30 +5,30 @@
 domain:       CASINO
 
 organisation: Binky Moon, LLC
-address:      c/o Donuts Inc.
+address:      c/o Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 
 contact:      administrative
 name:         Vice President, Engineering
-organisation: Donuts Inc.
+organisation: Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       tldadmin@donuts.email
+e-mail:       tldadmin@identity.digital
 
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
-organisation: Donuts Inc.
+organisation: Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       tldtech@donuts.email
+e-mail:       tldtech@identity.digital
 
 nserver:      V0N0.NIC.CASINO 2a01:8840:16:0:0:0:0:18 65.22.20.18
 nserver:      V0N1.NIC.CASINO 2a01:8840:17:0:0:0:0:18 65.22.21.18
@@ -41,9 +41,9 @@ ds-rdata:     50410 8 2 ac39e42d7cd1a4212ec2539a9a9bac07a8ab840c97823c6205e9264c
 whois:        whois.nic.casino
 
 status:       ACTIVE
-remarks:      Registration information: http://www.donuts.domains/
+remarks:      Registration information: https://www.identity.digital/
 
 created:      2015-02-13
-changed:      2021-10-27
+changed:      2023-09-12
 source:       IANA
 
