@@ -4,7 +4,7 @@
 
 domain:       TOP
 
-organisation: Jiangsu Bangning Science & Technology Co.,Ltd.
+organisation: .TOP Registry
 address:      3th Floor, BangNing Technology Park, 2 YuHua Avenue
 address:      Yuhuatai District
 address:      Nanjing Jiangsu
@@ -36,11 +36,11 @@ nserver:      A.ZDNSCLOUD.COM 203.99.24.1
 nserver:      B.ZDNSCLOUD.COM 203.99.25.1
 nserver:      C.ZDNSCLOUD.COM 203.99.26.1
 nserver:      D.ZDNSCLOUD.COM 203.99.27.1
-nserver:      F.ZDNSCLOUD.COM 114.67.16.204
-nserver:      G.ZDNSCLOUD.COM 42.62.2.16
+nserver:      F.ZDNSCLOUD.COM 116.169.54.111
+nserver:      G.ZDNSCLOUD.COM 223.72.199.37
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
-ds-rdata:     56384 8 2 ba378c5913404ec654df544f519b0fb287e140d64dac5d59e349962393c17945
+ds-rdata:     26780 8 2 5d6e7869ee8e3b536a617de89482ddd1dcb9db9dbb1ac33d6ed351e2ca095b1b
 
 whois:        whois.nic.top
 
@@ -48,6 +48,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.top
 
 created:      2014-07-24
-changed:      2022-12-08
+changed:      2024-11-12
 source:       IANA
 
