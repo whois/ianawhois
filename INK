@@ -5,15 +5,15 @@
 domain:       INK
 
 organisation: Registry Services, LLC
-address:      2155 E. GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 
 contact:      administrative
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
@@ -22,8 +22,8 @@ e-mail:       iana@registry.godaddy
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
@@ -35,7 +35,7 @@ nserver:      C.NIC.INK 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      X.NIC.INK 156.154.172.82 2610:a1:1074:0:0:0:1:82
 nserver:      Y.NIC.INK 156.154.173.82 2610:a1:1075:0:0:0:1:82
 nserver:      Z.NIC.INK 156.154.174.82 2610:a1:1076:0:0:0:1:82
-ds-rdata:     44809 8 2 f3328d3a8a78e742e5d1e84c641f399e944d62a290651d21dffee632ab6ad01e
+ds-rdata:     48370 8 2 9ae237cac9d9160455e023b1097161f066c986f9821247dd279b1c84f5163716
 
 whois:        whois.nic.ink
 
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.ink/
 
 created:      2014-02-27
-changed:      2023-06-26
+changed:      2024-04-16
 source:       IANA
 
