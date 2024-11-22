@@ -5,23 +5,20 @@
 domain:       BD
 
 organisation: Posts and Telecommunications Division
-address:      Ministry of Posts, Telecommunications and Information Technology
-address:      Bangladesh Secretariat
-address:      Abdul Ghani Road
+address:      Ministry of Posts, Telecommunications and Information Technology, Government of the People's Republic of Bangladesh
+address:      Abdul Goni Road
 address:      Dhaka 1000
 address:      Bangladesh
 
 contact:      administrative
-name:         Director (Telecom)
+name:         Deputy Secretary
 organisation: Posts and Telecommunications Division
 address:      Ministry of Posts, Telecommunications and Information Technology
-address:      Bangladesh Secretariat
-address:      Abdul Ghani Road
+address:      Abdul Goni Road
 address:      Dhaka 1000
 address:      Bangladesh
-phone:        +880 2 9574446
-fax-no:       +880 2 9515599
-e-mail:       dirt@ptd.gov.bd
+phone:        +8802 223354448
+e-mail:       telecom1@ptd.gov.bd
 
 contact:      technical
 name:         Deputy General Manager (Domain)
@@ -39,6 +36,8 @@ nserver:      JAMUNA.BTCL.NET.BD 203.112.194.231 2407:5000:88:4:0:0:0:231
 nserver:      SURMA.BTCL.NET.BD 203.112.194.232 2407:5000:88:4:0:0:0:232
 ds-rdata:     26044 8 1 2dad1b7f8ca778464f536fddd15efd24cccb62ef
 ds-rdata:     26044 8 2 bd01c4b4345d21fc38aa88129f7bc00fdd7b422799cc6703736e3b381f37dd5b
+ds-rdata:     7807 8 1 38669cb8e3c390506f58a6b8e0c6ad6e636798a3
+ds-rdata:     7807 8 2 fee7d4265c78882701e52ec56d56316a985047d0fc24f095ba90f772458cb5ec
 
 whois:        
 
@@ -46,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://domainreg.btcl.com.bd/
 
 created:      1999-05-20
-changed:      2023-04-11
+changed:      2024-05-29
 source:       IANA
 
