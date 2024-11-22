@@ -33,10 +33,7 @@ nserver:      A.NIC.LPL 194.169.218.92 2001:67c:13cc:0:0:0:1:92
 nserver:      B.NIC.LPL 185.24.64.92 2a04:2b00:13cc:0:0:0:1:92
 nserver:      C.NIC.LPL 212.18.248.92 2a04:2b00:13ee:0:0:0:0:92
 nserver:      D.NIC.LPL 212.18.249.92 2a04:2b00:13ff:0:0:0:0:92
-ds-rdata:     27378 7 1 ccc5b2d39befa0918768394724325608e076514f
-ds-rdata:     27378 7 2 6f3063778a89b0c993a6d80c0f86b1bf14d3f5669075fc98dc16b8fd1608846e
-ds-rdata:     50040 7 1 08a7f61b3c9cf7fa6658ea454a0e5d9c2c62e494
-ds-rdata:     50040 7 2 4aaf92273ea09ca7ed698d5785389a7703a5475def5962e813c000fa7893b328
+ds-rdata:     43324 13 2 1783403d052e9b382d00f3d78ab8dc40689ae032b7246d93a683761837f220df
 
 whois:        whois.nic.lpl
 
@@ -44,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      2016-06-30
-changed:      2023-02-21
+changed:      2023-10-05
 source:       IANA
 
