@@ -34,8 +34,8 @@ nserver:      A.NIC.MINI 194.169.218.95 2001:67c:13cc:0:0:0:1:95
 nserver:      B.NIC.MINI 185.24.64.95 2a04:2b00:13cc:0:0:0:1:95
 nserver:      C.NIC.MINI 212.18.248.95 2a04:2b00:13ee:0:0:0:0:95
 nserver:      D.NIC.MINI 212.18.249.95 2a04:2b00:13ff:0:0:0:0:95
-ds-rdata:     54260 8 2 0da865b8e8a60553b90380aec9da84a2de372a2a098ec5f2f6e3502414947f88
 ds-rdata:     82 8 2 6f84e8b483f6fefc9832a282ea80d4f30497393b5353cc6854431fa7fcb240f6
+ds-rdata:     65330 8 2 b356be189b0666d4ea4e2082da4b80c701fce5f0431b4136527542cd5277b87d
 
 whois:        whois.nic.mini
 
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.mini.com
 
 created:      2014-06-05
-changed:      2022-11-14
+changed:      2023-11-06
 source:       IANA
 
