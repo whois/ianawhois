@@ -11,19 +11,18 @@ address:      United States of America (the)
 
 contact:      administrative
 name:         Christopher Niemi
-organisation: MarkMonitor, Inc.
-address:      391 N. Ancestor Place, Suite 150
-address:      Boise ID 83704
+organisation: Markmonitor Inc.
+address:      1120 S. Rackham Way, Suite 300
+address:      Meridian ID 83642
 address:      United States of America (the)
 phone:        +1 208 685 1857
-fax-no:       +1 208 389 5771
 e-mail:       dotstatefarm-notices@markmonitor.com
 
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
@@ -35,7 +34,7 @@ nserver:      C.NIC.STATEFARM 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.STATEFARM 156.154.144.154 2610:a1:1071:0:0:0:0:9a
 nserver:      NS2.DNS.NIC.STATEFARM 156.154.145.154 2610:a1:1072:0:0:0:0:9a
 nserver:      NS3.DNS.NIC.STATEFARM 156.154.159.154 2610:a1:1073:0:0:0:0:9a
-ds-rdata:     64867 8 2 1ed8a8c0e5102a11cc8659d9d0543ea7ef5f44b63d553a4aa78d46d398ff5356
+ds-rdata:     56986 8 2 f07e46d54c6ab0b5d79da353ce0bf2f58446572728c2823ad964f6ec50b99af5
 
 whois:        
 
@@ -43,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.statefarm.com
 
 created:      2015-11-06
-changed:      2022-07-21
+changed:      2024-05-11
 source:       IANA
 
