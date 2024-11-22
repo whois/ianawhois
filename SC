@@ -38,12 +38,12 @@ nserver:      D0.CCTLD.AFILIAS-NST.ORG 199.254.62.1 2001:500:28:0:0:0:0:1
 nserver:      NS1.NIC.SC 41.86.57.54
 ds-rdata:     2539 8 2 8293fa3ac08be770a400dde4f250dc6bf1046f34430be12e65c15bf2f482b26c
 
-whois:        whois2.afilias-grs.net
+whois:        whois.nic.sc
 
 status:       ACTIVE
 remarks:      Registration information: http://www.nic.sc
 
 created:      1997-05-09
-changed:      2020-10-16
+changed:      2024-04-29
 source:       IANA
 
