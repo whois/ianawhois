@@ -22,11 +22,11 @@ e-mail:       allygtld@brandsight.com
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480 505 8800
-fax-no:       +1 480 393 4275
+fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
 
 nserver:      A.NIC.ALLY 2001:dcd:1:0:0:0:0:9 37.209.192.9
@@ -35,7 +35,7 @@ nserver:      C.NIC.ALLY 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      X.NIC.ALLY 156.154.172.82 2610:a1:1074:0:0:0:1:82
 nserver:      Y.NIC.ALLY 156.154.173.82 2610:a1:1075:0:0:0:1:82
 nserver:      Z.NIC.ALLY 156.154.174.82 2610:a1:1076:0:0:0:1:82
-ds-rdata:     40354 8 2 46bfea1ca30072b089d2e566821640c144511b308df1f0271402d569c7332783
+ds-rdata:     22405 8 2 774c1930a734067dc62e7ae54bcdeadaa2281a57155b8f0af3683bfcbf7fe46c
 
 whois:        whois.nic.ally
 
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.ally.com
 
 created:      2015-10-22
-changed:      2022-12-02
+changed:      2024-07-18
 source:       IANA
 
