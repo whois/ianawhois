@@ -17,30 +17,31 @@ address:      Levallois-Perret 92300
 address:      France
 phone:        +33 140541010
 fax-no:       +33 140541064
-e-mail:       naubin@universalflower.com
+e-mail:       rvivet@universalflower.com
 
 contact:      technical
-name:         TLD Technical Contact
-organisation: Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)
-address:      Immeuble Le Stephenson
-address:      1, rue Stephenson
-address:      Montigny-Le-Bretonneux 78180
-address:      France
-phone:        +33 1 39 30 83 00
-fax-no:       +33 1 39 30 83 01
-e-mail:       pocaquarelle@afnic.fr
+name:         Head of Registry Engineering
+organisation: CentralNic
+address:      Saddlers House, 4th Floor, 44 Gutter Lane
+address:      London EC2V 6BR
+address:      United Kingdom of Great Britain and Northern Ireland (the)
+phone:        +44.2033880600
+fax-no:       +44.2033880601
+e-mail:       tld.ops@centralnic.com
 
-nserver:      D.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
-nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
-nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
+nserver:      A.NIC.AQUARELLE 194.169.218.160 2001:67c:13cc:0:0:0:1:160
+nserver:      B.NIC.AQUARELLE 185.24.64.160 2a04:2b00:13cc:0:0:0:1:160
+nserver:      C.NIC.AQUARELLE 212.18.248.160 2a04:2b00:13ee:0:0:0:0:160
+nserver:      D.NIC.AQUARELLE 212.18.249.160 2a04:2b00:13ff:0:0:0:0:160
 ds-rdata:     22061 13 2 65a423ec214071521668ed047d2e74ba781e6495e0252cb8e08a7a633a89297d
+ds-rdata:     23208 13 2 3ce81b2d9619bd2e5ba77ba9005e79c77728f75983b7ef37d1944c0746ad4310
 
 whois:        whois.nic.aquarelle
 
 status:       ACTIVE
-remarks:      Registration information: http://www.aquarelle.com
+remarks:      Registration information: https://www.aquarelle.com
 
 created:      2014-11-06
-changed:      2022-08-09
+changed:      2024-11-08
 source:       IANA
 
