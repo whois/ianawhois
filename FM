@@ -36,6 +36,7 @@ nserver:      D.NIC.FM 212.18.249.26 2a04:2b00:13ff:0:0:0:0:26
 nserver:      E.NIC.FM 2001:500:14:6137:ad:0:0:1 204.61.216.137
 nserver:      F.NIC.FM 206.51.254.3 2620:171:804:ad2:0:0:0:3
 ds-rdata:     26186 8 2 db3703697384a6f8b3a944a21c1a81ffd921000b23aa4241380b4ba3aa28dea0
+ds-rdata:     60226 8 2 ff4191e32b7f636aabaf957bf976bc1d792b5709b73a351fc77f45d0033dfbde
 
 whois:        whois.nic.fm
 
@@ -43,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.dot.fm/
 
 created:      1995-04-19
-changed:      2021-02-04
+changed:      2024-08-07
 source:       IANA
 
