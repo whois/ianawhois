@@ -5,7 +5,7 @@
 domain:       公司
 domain-ace:   XN--55QX5D
 
-organisation: China Internet Network Information Center(CNNIC)
+organisation: China Internet Network Information Center (CNNIC)
 address:      Floor 1, Building 1, Software Park,
 address:      Chinese Academy of Sciences, 4 South 4th Street,
 address:      Zhongguancun
@@ -14,7 +14,7 @@ address:      China
 
 contact:      administrative
 name:         Yu Zeng
-organisation: China Internet Network Information Center(CNNIC)
+organisation: China Internet Network Information Center (CNNIC)
 address:      Floor 1, Building 1, Software Park,
 address:      Chinese Academy of Sciences, 4 South 4th Street,
 address:      Zhongguancun
@@ -26,7 +26,7 @@ e-mail:       ng@cnnic.cn
 
 contact:      technical
 name:         Anlei Hu
-organisation: China Internet Network Information Center(CNNIC)
+organisation: China Internet Network Information Center (CNNIC)
 address:      Floor 1, Building 1, Software Park,
 address:      Chinese Academy of Sciences, 4 South 4th Street,
 address:      Zhongguancun
@@ -49,6 +49,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.cnnic.cn
 
 created:      2014-01-09
-changed:      2023-03-21
+changed:      2023-10-03
 source:       IANA
 
