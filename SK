@@ -11,12 +11,12 @@ address:      Slovakia
 
 contact:      administrative
 name:         GAC delegate
-organisation: Office of Deputy Prime Minister of the Slovak Republic for Investments and Informatization
-address:      Stefanikova 15
-address:      Bratislava 81105
+organisation: Ministry of Investments, Regional development and Informatization of the Slovak Republic
+address:      Pribinova 25
+address:      Bratislava 81109
 address:      Slovakia
-phone:        +421/2/209 28 160
-e-mail:       gac@vicepremier.gov.sk
+phone:        +421/2/209 28 888
+e-mail:       gac@mirri.gov.sk
 
 contact:      technical
 name:         Technical Director
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.sk-nic.sk
 
 created:      1993-03-29
-changed:      2019-04-19
+changed:      2024-01-25
 source:       IANA
 
