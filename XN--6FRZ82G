@@ -5,33 +5,31 @@
 domain:       移动
 domain-ace:   XN--6FRZ82G
 
-organisation: Afilias Limited
-address:      c/o Donuts Inc.
+organisation: Identity Digital Limited
+address:      c/o Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 
 contact:      administrative
 name:         Vice President, Engineering
-organisation: Afilias Limited
-address:      c/o Donuts Inc.
+organisation: Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       tldadmin@donuts.email
+e-mail:       tldadmin@identity.digital
 
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
-organisation: Afilias Limited
-address:      c/o Donuts Inc.
+organisation: Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       tldtech@donuts.email
+e-mail:       tldtech@identity.digital
 
 nserver:      A0.NIC.XN--6FRZ82G 2a01:8840:1a:0:0:0:0:9 65.22.24.9
 nserver:      A2.NIC.XN--6FRZ82G 2a01:8840:1d:0:0:0:0:9 65.22.27.9
@@ -42,9 +40,9 @@ ds-rdata:     51310 8 2 b725fa381426f5e3a9338c5c5a57447611aba619e9675d9bf973d1d2
 whois:        whois.nic.xn--6frz82g
 
 status:       ACTIVE
-remarks:      Registration information: https://donuts.domains/
+remarks:      Registration information: https://www.identity.digital/
 
 created:      2014-01-23
-changed:      2021-12-02
+changed:      2023-09-01
 source:       IANA
 
