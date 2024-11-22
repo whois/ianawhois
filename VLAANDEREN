@@ -36,7 +36,6 @@ nserver:      D.NSSET.VLAANDEREN 194.0.44.1 2001:678:6c:0:0:0:0:1
 nserver:      Y.NSSET.VLAANDEREN 120.29.253.8 2001:dcd:7:0:0:0:0:8
 nserver:      Z.NSSET.VLAANDEREN 194.0.25.19 2001:678:20:0:0:0:0:19
 ds-rdata:     9286 8 2 f04e1190a18d3e63b8fd5261768ef06f8fa5f27f80f39c54aa81753b203e05e7
-ds-rdata:     54397 8 2 2d655a3f1a0c26ad210018757ffbb754b2c4b167673283ddc1496c614ae7a9f5
 
 whois:        whois.nic.vlaanderen
 
@@ -44,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.vlaanderen
 
 created:      2014-06-05
-changed:      2021-02-16
+changed:      2024-09-30
 source:       IANA
 
