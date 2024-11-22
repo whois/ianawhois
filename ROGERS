@@ -36,13 +36,13 @@ nserver:      B0.NIC.ROGERS 2a01:8840:6b:0:0:0:0:33 65.22.109.33
 nserver:      C0.NIC.ROGERS 2a01:8840:6c:0:0:0:0:33 65.22.110.33
 ds-rdata:     46654 8 2 36dcb391639dbef1612bffc2103e2ce37d3167bba29aa713fae7ceb540f6eb71
 
-whois:        whois.afilias-srs.net
+whois:        whois.nic.rogers
 
 status:       ACTIVE
 remarks:      Registration information:
 remarks:      http://www.rogers.com/consumer/home
 
 created:      2016-08-18
-changed:      2020-10-30
+changed:      2023-08-11
 source:       IANA
 
