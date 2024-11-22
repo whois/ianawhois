@@ -29,10 +29,12 @@ phone:        +98 21 22828080
 fax-no:       +98 21 22295700
 e-mail:       cto@irnic.ir
 
-nserver:      A.NIC.IR 193.189.123.2
-nserver:      B.NIC.IR 193.189.122.83
-nserver:      IR.CCTLD.AUTHDNS.RIPE.NET 193.0.9.85 2001:67c:e0:0:0:0:0:85
-nserver:      NS5.UNIVIE.AC.AT 193.171.255.77 2001:628:453:4305:0:0:0:53
+nserver:      A.NIC.IR 193.189.123.2 2001:678:b0:0:193:189:123:2
+nserver:      B.NIC.IR 193.189.122.83 2001:678:b1:0:193:189:122:83
+nserver:      C.NIC.IR 2a0c:6600:4:0:0:0:0:152 45.93.171.206
+nserver:      D.NIC.IR 194.225.70.83 2001:14e8:c:0:194:225:70:83
+ds-rdata:     47300 13 2 7ab287956a55abd60dc8697c2049738fd5eeab6f2070152b015d59929521dada
+ds-rdata:     47300 13 4 fe3a9bfd3aed31cbd1e2f6b45c88d81b5cca68cdc9d46080c1c4afbd491ae3a9f6dfbfc4320111144c375d648ae3cdf6
 
 whois:        whois.nic.ir
 
@@ -40,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.ir
 
 created:      1994-04-06
-changed:      2023-02-28
+changed:      2024-10-15
 source:       IANA
 
