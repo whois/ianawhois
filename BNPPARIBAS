@@ -36,13 +36,13 @@ nserver:      B0.NIC.BNPPARIBAS 2a01:8840:3f:0:0:0:0:9 65.22.65.9
 nserver:      C0.NIC.BNPPARIBAS 2a01:8840:40:0:0:0:0:9 65.22.66.9
 ds-rdata:     51937 8 2 84170b93b26c6d2041ae501a63ed72aad0fe327b139c21ed23329717f1dd2034
 
-whois:        whois.afilias-srs.net
+whois:        whois.nic.bnpparibas
 
 status:       ACTIVE
 remarks:      Registration information:
 remarks:      http://www.bnpparibas.com/en/about-us
 
 created:      2014-07-31
-changed:      2020-12-14
+changed:      2023-08-28
 source:       IANA
 
