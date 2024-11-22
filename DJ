@@ -7,33 +7,33 @@ domain:       DJ
 organisation: Djibouti Telecom S.A
 address:      3, BD Georges Pompidou
 address:      P.O. BOX 2105
-address:      Djibouti 990000
+address:      Djibouti 2105
 address:      Djibouti
 
 contact:      administrative
-name:         ADJIB Admin Contact
+name:         DJIBTEL Admin Contact
 organisation: Djibouti Telecom S.A
 address:      3, BD Georges Pompidou
 address:      P.O. BOX 2105
-address:      Djibouti 990000
+address:      Djibouti 2105
 address:      Djibouti
-phone:        00253 321100
-fax-no:       00253 355757
-e-mail:       dj-admin@nic.dj
+phone:        +253 21321247
+e-mail:       bourhan.abdoulkader@djibtel.dj
 
 contact:      technical
-name:         ADJIB Tech Contact
+name:         DJIBTEL Tech Contact
 organisation: Djibouti Telecom S.A
 address:      3, BD Georges Pompidou
 address:      P.O. BOX 2105
-address:      Djibouti 990000
+address:      Djibouti 2105
 address:      Djibouti
-phone:        00253 321306
-fax-no:       00253 300013
-e-mail:       dj-tech@nic.dj
+phone:        +253 21357710
+e-mail:       abdillahi.youssouf@djibtel.dj
 
 nserver:      BOW1.INTNET.DJ 197.241.17.130
-nserver:      BOW5.INTNET.DJ 196.201.196.41
+nserver:      NS1.DJIBTELECOM.DJ 197.241.17.175
+nserver:      NS2.DJIBTELECOM.DJ 196.201.196.54
+nserver:      NS3.DJIBTELECOM.DJ 52.213.131.190
 nserver:      VPS443605.OVH.NET 37.59.106.21
 
 whois:        
@@ -42,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.dj
 
 created:      1996-05-22
-changed:      2017-11-01
+changed:      2024-07-01
 source:       IANA
 
