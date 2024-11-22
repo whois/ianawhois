@@ -34,7 +34,6 @@ nserver:      J.NS.AT 194.146.106.50 2001:67c:1010:12:0:0:0:53
 nserver:      N.NS.AT 2a02:568:281:0:0:0:0:130 81.91.173.130
 nserver:      NS1.UNIVIE.AC.AT 2001:628:2030:4301:0:0:0:2 78.104.144.2
 nserver:      NS2.UNIVIE.AC.AT 192.92.125.2 2001:678:1c:0:0:0:0:2
-nserver:      NS9.UNIVIE.AC.AT 194.0.10.100 2001:678:d:0:0:0:0:cafe
 nserver:      R.NS.AT 194.0.25.10 2001:678:20:0:0:0:0:10
 nserver:      U.NS.AT 185.102.12.2 2a02:850:ffff:0:0:0:0:2
 ds-rdata:     1253 13 2 ba17c1bacb3fb49f7760ad1f7e71e17ab39ee0df3e9d3bf23fd3d70d6cf1719e
@@ -46,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.at/
 
 created:      1988-01-20
-changed:      2023-04-25
+changed:      2024-09-10
 source:       IANA
 
