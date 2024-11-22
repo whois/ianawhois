@@ -12,24 +12,22 @@ address:      China
 
 contact:      administrative
 name:         Senior Operation Manager
-organisation: QIHOO 360 Technology Co. Ltd.
+organisation: Beijing Qihu Keji Co., Ltd.
 address:      Building #2, No. 6 Jiuxianqiao Road
 address:      Chaoyang District
 address:      Beijing
 address:      China
 phone:        +86 10 5244 7383
 fax-no:       +86. 10 5878 1411
-e-mail:       newgtld@360.cn
+e-mail:       newgtld_legal@360.cn
 
 contact:      technical
 name:         CTO
-organisation: Beijing Tele-info Network Technology Co., Ltd.
-address:      Building 21, 1 Gaolizhang Road
-address:      Haidian District
-address:      Beijing 100095
+organisation: Beijing Tele-info Technology Co., Ltd.
+address:      21st Floor, Block D, Beihang Zhizhen Building, No. 7 Zhichun Road, Haidan District
+address:      Beijing 100088
 address:      China
-phone:        +86 10 5884 6931
-fax-no:       +86 10 5884 6939
+phone:        +86 18910283591
 e-mail:       gtld@teleinfo.cn
 
 nserver:      NS1.TELEINFO.CN 103.61.60.1 2402:7d80:0:0:0:0:0:1
@@ -44,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.teleinfo.cn
 
 created:      2016-03-18
-changed:      2022-09-20
+changed:      2024-05-06
 source:       IANA
 
