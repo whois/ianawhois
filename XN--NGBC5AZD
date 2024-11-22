@@ -13,8 +13,8 @@ address:      Australia
 contact:      administrative
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
@@ -23,8 +23,8 @@ e-mail:       iana@registry.godaddy
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
@@ -36,7 +36,7 @@ nserver:      C.NIC.XN--NGBC5AZD 2001:dcd:3:0:0:0:0:3 37.209.196.3
 nserver:      X.NIC.XN--NGBC5AZD 156.154.172.82 2610:a1:1074:0:0:0:1:82
 nserver:      Y.NIC.XN--NGBC5AZD 156.154.173.82 2610:a1:1075:0:0:0:1:82
 nserver:      Z.NIC.XN--NGBC5AZD 156.154.174.82 2610:a1:1076:0:0:0:1:82
-ds-rdata:     57991 8 2 2cd63a89a2bd11a0d1f2a5aeaf04d5b07fb24f6ce9227fb2b5fc4c9d39c0ae20
+ds-rdata:     862 8 2 662b4ab8c83d78983f29da731e7b495a7b249f8c714268631e21cd1e88370087
 
 whois:        whois.nic.xn--ngbc5azd
 
@@ -44,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.dotshabaka.com
 
 created:      2013-10-21
-changed:      2022-12-01
+changed:      2024-04-17
 source:       IANA
 
