@@ -4,24 +4,19 @@
 
 domain:       UNO
 
-organisation: Radix FZC
-address:      Directiplex
-address:      Next to Andheri Subway
-address:      Old Nagardas Road, Andheri (East)
-address:      Mumbai Maharashtra 400069
-address:      India
+organisation: Radix Technologies Inc.
+address:      Services Cayman Limited, P.O. Box 10008, Willow House, Cricket Square, Grand Cayman
+address:      KY1-1001
+address:      Cayman Islands (the)
 
 contact:      administrative
 name:         Director
-organisation: Radix FZC
-address:      Directiplex
-address:      Next to Andheri Subway
-address:      Old Nagardas Road, Andheri (East)
-address:      Mumbai Maharashtra 400069
-address:      India
-phone:        +1.4154494774x8522
-fax-no:       +91.2230797508
-e-mail:       admin@radixregistry.com
+organisation: Radix Technologies Inc.
+address:      Services Cayman Limited, P.O. Box 10008, Willow House, Cricket Square, Grand Cayman
+address:      KY1-1001
+address:      Cayman Islands (the)
+phone:        +971 44487934
+e-mail:       admin@radix.email
 
 contact:      technical
 name:         CTO
@@ -38,19 +33,15 @@ nserver:      A.NIC.UNO 194.169.218.21 2001:67c:13cc:0:0:0:1:21
 nserver:      B.NIC.UNO 185.24.64.21 2a04:2b00:13cc:0:0:0:1:21
 nserver:      C.NIC.UNO 212.18.248.21 2a04:2b00:13ee:0:0:0:0:21
 nserver:      D.NIC.UNO 212.18.249.21 2a04:2b00:13ff:0:0:0:0:21
-ds-rdata:     57892 8 1 3b49fdc11daee5187a4170a5badf77a917bce481
-ds-rdata:     57892 8 2 c156dd21b3b96a50fa94be322cdf6f0144e86c9597e4aa56d53e9b490c94a537
-ds-rdata:     64285 8 1 e0d6f2ecbe3f28f3f59d4193198240f9966011e8
-ds-rdata:     64285 8 2 3b4dd0febfbd51cb5f15db43ccfc832de0989445d6bb70c31a9b96f681cc6c77
-ds-rdata:     35737 8 1 a6654717b1b97394de61bfe6d043459ba3a0112a
 ds-rdata:     35737 8 2 0dfccfc8e90286393539413d9f228fd96f7b08b8f15143020c07e32e3d254936
+ds-rdata:     7286 8 2 d85eed6e94d62f2d9c4d8ff199a5cb355ad0e3b56bf845264aa9f38bfc6450b5
 
 whois:        whois.nic.uno
 
 status:       ACTIVE
-remarks:      Registration information: http://www.radix.website
+remarks:      Registration information: https://radix.website/
 
 created:      2013-11-13
-changed:      2021-10-12
+changed:      2024-03-20
 source:       IANA
 
