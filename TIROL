@@ -31,7 +31,7 @@ e-mail:       tech@dns.business
 
 nserver:      DNS.RYCE-RSP.COM 194.0.11.114 2001:678:e:114:0:0:0:53
 nserver:      NS1.DNS.BUSINESS 157.90.205.138 2a01:4f8:252:4295:0:0:9d5a:cd8a
-nserver:      NS1.RYCE-RSP.COM 193.56.204.153 2a0c:8f40:0:701:0:0:0:153
+nserver:      NS1.RYCE-RSP.COM 193.56.204.111 2a0c:8f40:0:701:0:0:0:111
 ds-rdata:     49289 8 2 79fe828514049fe47cf888bd5bcc827503356c085951aaf089894c61c28f7496
 
 whois:        whois.nic.tirol
