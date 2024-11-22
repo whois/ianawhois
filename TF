@@ -5,17 +5,15 @@
 domain:       TF
 
 organisation: Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)
-address:      Immeuble Le Stephenson
-address:      1, rue Stephenson
-address:      Montigny-Le-Bretonneux 78180
+address:      7, avenue du 8 mai 1945
+address:      Guyancourt 78280
 address:      France
 
 contact:      administrative
 name:         TLD Admin Contact
 organisation: Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)
-address:      Immeuble Le Stephenson
-address:      1, rue Stephenson
-address:      Montigny-Le-Bretonneux 78180
+address:      7, avenue du 8 mai 1945
+address:      Guyancourt 78280
 address:      France
 phone:        +33 1 39 30 83 05
 fax-no:       +33 1 39 30 83 01
@@ -24,19 +22,17 @@ e-mail:       tld-admin@nic.fr
 contact:      technical
 name:         TLD Technical Contact
 organisation: Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)
-address:      Immeuble Le Stephenson
-address:      1, rue Stephenson
-address:      Montigny-Le-Bretonneux 78180
+address:      7, avenue du 8 mai 1945
+address:      Guyancourt 78280
 address:      France
 phone:        +33 1 39 30 83 00
 fax-no:       +33 1 39 30 83 01
 e-mail:       tld-tech@nic.fr
 
 nserver:      D.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
-nserver:      E.EXT.NIC.FR 193.176.144.22 2a00:d78:0:102:193:176:144:22
 nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
 nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
-ds-rdata:     12095 13 2 4110abe221396d1a9493c5dd67140890e14c73d7ac0fcd67f4b60979e9881283
+ds-rdata:     61832 13 2 9b5c9089b84d2138e6c30163d9b169e6e793236827ce2a0eedab7cb96c644d83
 
 whois:        whois.nic.tf
 
@@ -44,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.tf
 
 created:      1997-08-26
-changed:      2022-10-04
+changed:      2024-09-09
 source:       IANA
 
