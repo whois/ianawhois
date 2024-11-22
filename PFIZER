@@ -21,8 +21,8 @@ e-mail:       registry@comlaude.com
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
@@ -34,7 +34,7 @@ nserver:      C.NIC.PFIZER 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.PFIZER 156.154.144.134 2610:a1:1071:0:0:0:0:86
 nserver:      NS2.DNS.NIC.PFIZER 156.154.145.134 2610:a1:1072:0:0:0:0:86
 nserver:      NS3.DNS.NIC.PFIZER 156.154.159.134 2610:a1:1073:0:0:0:0:86
-ds-rdata:     46210 8 2 9166664240f37692a3886b0566e05220d43a364b2fef2581a905ef5833414bcb
+ds-rdata:     56779 8 2 1de9b797ab28f75b9c00723c2308abcaea91bcee49eb2a4470efc123613802c6
 
 whois:        
 
@@ -42,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.pfizer.com
 
 created:      2016-06-16
-changed:      2023-04-12
+changed:      2024-05-11
 source:       IANA
 
