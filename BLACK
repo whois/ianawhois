@@ -4,33 +4,31 @@
 
 domain:       BLACK
 
-organisation: Afilias Limited
-address:      c/o Donuts Inc.
+organisation: Identity Digital Limited
+address:      c/o Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 
 contact:      administrative
 name:         Vice President, Engineering
-organisation: Afilias Limited
-address:      c/o Donuts Inc.
+organisation: Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       tldadmin@donuts.email
+e-mail:       tldadmin@identity.digital
 
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
-organisation: Afilias Limited
-address:      c/o Donuts Inc.
+organisation: Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       tldtech@donuts.email
+e-mail:       tldtech@identity.digital
 
 nserver:      A0.NIC.BLACK 2a01:8840:42:0:0:0:0:33 65.22.68.33
 nserver:      A2.NIC.BLACK 2a01:8840:45:0:0:0:0:33 65.22.71.33
@@ -41,9 +39,9 @@ ds-rdata:     28819 8 2 fa6792252a660261b2c191a71bcedbe4cdd7bf61c33aa5f04e558abe
 whois:        whois.nic.black
 
 status:       ACTIVE
-remarks:      Registration information: https://donuts.domains/
+remarks:      Registration information: https://www.identity.digital/
 
 created:      2014-03-20
-changed:      2021-12-01
+changed:      2023-09-01
 source:       IANA
 
