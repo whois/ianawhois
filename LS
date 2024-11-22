@@ -37,6 +37,8 @@ nserver:      LS-NS.ANYCAST.PCH.NET 2001:500:14:6028:ad:0:0:1 204.61.216.28
 nserver:      NS-LS.AFRINIC.NET 196.216.168.70 2001:43f8:120:0:0:0:0:70
 nserver:      NS1.NIC.LS 196.43.249.1
 nserver:      NS2.NIC.LS 196.11.175.1
+ds-rdata:     724 8 2 ae6a33b121b3191899e158c63c5ff51f8ff6c4c728617c65c91207ec354b6fa4
+ds-rdata:     724 8 4 942fef26dc403df85b9ed8f6931de23aadedd511267de453f55339aed1f9a9be2b9c916512d2270b6ac4a6fa5085fa36
 
 whois:        whois.nic.ls
 
@@ -44,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.ls
 
 created:      1993-01-13
-changed:      2019-10-28
+changed:      2024-06-17
 source:       IANA
 
