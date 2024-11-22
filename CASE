@@ -33,10 +33,7 @@ nserver:      A.NIC.CASE 194.169.218.140 2001:67c:13cc:0:0:0:1:140
 nserver:      B.NIC.CASE 185.24.64.140 2a04:2b00:13cc:0:0:0:1:140
 nserver:      C.NIC.CASE 212.18.248.140 2a04:2b00:13ee:0:0:0:0:140
 nserver:      D.NIC.CASE 212.18.249.140 2a04:2b00:13ff:0:0:0:0:140
-ds-rdata:     5844 7 1 d1af65d9493fe00bc5bc2ded27b91f870645d559
-ds-rdata:     5844 7 2 4f478b408da99cb2d196cd2d61a8872b5d2f5a578fbd25e73f4ec19bc4f58579
-ds-rdata:     53709 7 1 eb8abdcde220029a7dd36547ca1a028c7d23c76a
-ds-rdata:     53709 7 2 71056e4ea918dc68b82a74e22d56519ae1a26c7ca756b754893cbbc10a0affee
+ds-rdata:     9262 13 2 fafb8c8b56bfec84ab2cb9c6161a8808c53d0535acea37de4c0eafa2c448a9f6
 
 whois:        whois.nic.case
 
@@ -44,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.digity.case/case
 
 created:      2016-10-27
-changed:      2023-06-01
+changed:      2023-12-06
 source:       IANA
 
