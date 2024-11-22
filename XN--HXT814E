@@ -35,11 +35,11 @@ nserver:      A.ZDNSCLOUD.COM 203.99.24.1
 nserver:      B.ZDNSCLOUD.COM 203.99.25.1
 nserver:      C.ZDNSCLOUD.COM 203.99.26.1
 nserver:      D.ZDNSCLOUD.COM 203.99.27.1
-nserver:      F.ZDNSCLOUD.COM 114.67.16.204
-nserver:      G.ZDNSCLOUD.COM 42.62.2.16
+nserver:      F.ZDNSCLOUD.COM 116.169.54.111
+nserver:      G.ZDNSCLOUD.COM 223.72.199.37
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
-ds-rdata:     36091 8 2 d5bc5cf399deadce2782f1d21051a13787822441ea5850f69189960974c9eb95
+ds-rdata:     59966 8 2 307e3f825424a5378d0069150e670e339c5beb63052166013cc43c72ef79f489
 
 whois:        whois.gtld.knet.cn
 
@@ -47,6 +47,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.wangdian.wang
 
 created:      2014-11-20
-changed:      2022-12-08
+changed:      2024-03-27
 source:       IANA
 
