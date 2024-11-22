@@ -12,9 +12,8 @@ address:      France
 contact:      administrative
 name:         Account Manager
 organisation: AFNIC
-address:      Immeuble Le Stephenson
-address:      1, rue Stephenson
-address:      Montigny-Le-Bretonneux 78180
+address:      7, avenue du 8 mai 1945
+address:      Guyancourt 78280
 address:      France
 phone:        +33 139308300
 fax-no:       +33 139308301
@@ -23,9 +22,8 @@ e-mail:       lancaster@afnic.fr
 contact:      technical
 name:         TLD Technical Contact
 organisation: Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)
-address:      Immeuble Le Stephenson
-address:      1, rue Stephenson
-address:      Montigny-Le-Bretonneux 78180
+address:      7, avenue du 8 mai 1945
+address:      Guyancourt 78280
 address:      France
 phone:        +33 1 39 30 83 00
 fax-no:       +33 1 39 30 83 01
@@ -34,7 +32,7 @@ e-mail:       poclancaster@afnic.fr
 nserver:      D.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
 nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
 nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
-ds-rdata:     63656 13 2 847b427327bf07fd61b821d3dc537401d3af0371c0771bebcaf2cdcf51aa108a
+ds-rdata:     13478 13 2 bfbd5142e935c01a65a186d56f01124d6832ac3cdc6ede681f50a12ff9c73ead
 
 whois:        whois.nic.lancaster
 
@@ -42,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.lancaster.fr
 
 created:      2015-06-18
-changed:      2022-07-21
+changed:      2024-09-10
 source:       IANA
 
