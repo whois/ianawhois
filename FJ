@@ -38,14 +38,14 @@ nserver:      NS2.FJ 144.120.146.65 2402:2940:100:100d:0:0:0:1
 nserver:      NS3.FJ 185.38.108.108
 nserver:      NS4.FJ 185.28.194.194
 nserver:      NS5.FJ 2001:500:14:6138:ad:0:0:1 204.61.216.138
-ds-rdata:     27739 8 2 d7fe923eed1e1194597cc5ebcb37d10f3bfa2e927159f5018cddb86d30665abb
+ds-rdata:     49279 8 2 8c0eb5586196ae081e070fc7e8289979cd124da063db1193ba8dee0e9a670420
 
 whois:        www.whois.fj
 
 status:       ACTIVE
-remarks:      Registration information: http://domains.fj/
+remarks:      Registration information: https://www.domains.fj/
 
 created:      1992-06-03
-changed:      2023-04-24
+changed:      2024-02-29
 source:       IANA
 
