@@ -10,26 +10,24 @@ address:      Madurai Tamil Nadu 625001
 address:      India
 
 contact:      administrative
-name:         Chief Digital Officer
-organisation: TVS & Sons Pvt Ltd
-address:      58, Eldams Road
-address:      Teynampet
-address:      Chennai Tamil Nadu 600018
-address:      India
-phone:        +91 44 66857717
-fax-no:       +91 44 66857750
-e-mail:       registry.gtld@tvs.in
+name:         Benoit Levac, SVice President, Engineering
+organisation: Identity Digital Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldadmin@identity.digital
 
 contact:      technical
-name:         Senior Director, DNS Infrastructure Group
-organisation: Afilias
-address:      300 Welsh Road
-address:      Building 3, Suite 105
-address:      Horsham PA 19044
+name:         Howard Eland, Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue Washington 98004
 address:      United States of America (the)
-phone:        +1 215.706.5700
-fax-no:       +1 215.706.5701
-e-mail:       tld-tech-poc@afilias.info
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
 
 nserver:      A0.NIC.TVS 2a01:8840:c6:0:0:0:0:9 65.22.204.9
 nserver:      A2.NIC.TVS 2a01:8840:c9:0:0:0:0:9 65.22.207.9
@@ -43,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.tvs.in
 
 created:      2016-02-05
-changed:      2020-10-30
+changed:      2024-09-05
 source:       IANA
 
