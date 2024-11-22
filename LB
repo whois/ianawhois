@@ -4,16 +4,23 @@
 
 domain:       LB
 
-organisation: Caretaker Operations
-address:      Not applicable
+organisation: Internet Society Lebanon
+address:      Spears Street
+address:      Hamra
+address:      P.O. Box: 113-6596
+address:      Beirut
 address:      Lebanon
 
 contact:      administrative
-name:         Caretaker Operations
-address:      Not applicable
+name:         Jacques Bakaev, Internet Society Lebanon Secretary
+organisation: Internet Society Lebanon
+address:      Spears Street
+address:      Hamra
+address:      P.O. Box: 113-6596
+address:      Beirut
 address:      Lebanon
-phone:        +1 424 254 5300
-e-mail:       root-mgmt@iana.org
+phone:        +961 76 818 688
+e-mail:       jack.bakaev@isoc.org.lb
 
 contact:      technical
 name:         Randy Bush
@@ -23,13 +30,15 @@ address:      United States of America (the)
 phone:        +1 206 356 8341
 e-mail:       randy@psg.com
 
-nserver:      FORK.STH.DNSNODE.NET 2a01:3f0:0:306:0:0:0:53 77.72.229.254
-nserver:      NABIL.BEIRUTIX.NET 185.91.97.18 2a05:e380:2:4:0:0:0:2
-nserver:      NN.UNINETT.NO 158.38.0.181 2001:700:0:503:0:0:aa:5302
-nserver:      NS-JP.LBDR.ORG.LB 2001:200:0:2:0:0:53:1 203.178.141.64
-nserver:      NS3.SEACOMNET.COM 2c0f:feb0:0:0:0:0:0:3 41.87.126.253
-nserver:      NS4.SEACOMNET.COM 2c0f:feb0:0:0:0:0:0:4 41.87.127.253
-nserver:      RIP.PSG.COM 147.28.0.39 2001:418:1:0:0:0:0:39
+nserver:      B.NS.LB 147.28.0.39 2001:418:1:0:0:0:0:39
+nserver:      I.NS.LB 2a01:3f0:0:306:0:0:0:53 77.72.229.254
+nserver:      M.NS.LB 2001:19f0:7401:890d:5400:4ff:fea8:9ffa 78.141.235.25
+nserver:      N.NS.LB 158.38.0.181 2001:700:0:503:0:0:aa:5302
+nserver:      NABIL.NS.LB 185.91.97.18 2a05:e380:2:4:0:0:0:2
+nserver:      R.NS.LB 105.16.170.1 2c0f:feb0:c:1:0:0:1:1
+nserver:      S.NS.LB 105.16.115.1 2c0f:feb0:2:1:0:0:1:8001
+nserver:      T.NS.LB 139.84.235.208 2a05:f480:3000:205f:5400:4ff:fea4:e565
+nserver:      W.NS.LB 2001:200:0:2:0:0:53:1 203.178.141.64
 ds-rdata:     3842 8 2 c838938c2127e3e10e15f92106ec565ef273b2ef7e3aeebe5a2162862fd3b469
 
 whois:        whois.lbdr.org.lb
@@ -38,6 +47,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.lbdr.org.lb
 
 created:      1993-08-25
-changed:      2023-07-14
+changed:      2024-02-26
 source:       IANA
 
