@@ -33,8 +33,8 @@ nserver:      A.NIC.HOMES 194.169.218.132 2001:67c:13cc:0:0:0:1:132
 nserver:      B.NIC.HOMES 185.24.64.132 2a04:2b00:13cc:0:0:0:1:132
 nserver:      C.NIC.HOMES 212.18.248.132 2a04:2b00:13ee:0:0:0:0:132
 nserver:      D.NIC.HOMES 212.18.249.132 2a04:2b00:13ff:0:0:0:0:132
-ds-rdata:     44875 8 2 de0934d0c6c5221ba3533739b3147e327a87f8e97db379136a9343aa9d330079
 ds-rdata:     33262 8 2 d9f3c8d72738eba7ed5002404c5e2748e1aa47c83e36d33d2d4eb72360e49d80
+ds-rdata:     64382 8 2 252b825350b3fb0d15cc087d7e7e52af81ce901db0f3a614d927ad153c909560
 
 whois:        whois.nic.homes
 
@@ -42,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.homes/
 
 created:      2014-05-01
-changed:      2022-08-16
+changed:      2024-04-15
 source:       IANA
 
