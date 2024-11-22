@@ -5,15 +5,15 @@
 domain:       WIKI
 
 organisation: Registry Services, LLC
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 
 contact:      administrative
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
@@ -22,8 +22,8 @@ e-mail:       iana@registry.godaddy
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
@@ -35,7 +35,7 @@ nserver:      C.NIC.WIKI 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      X.NIC.WIKI 156.154.172.82 2610:a1:1074:0:0:0:1:82
 nserver:      Y.NIC.WIKI 156.154.173.82 2610:a1:1075:0:0:0:1:82
 nserver:      Z.NIC.WIKI 156.154.174.82 2610:a1:1076:0:0:0:1:82
-ds-rdata:     10870 8 2 3c2ca6a68be31fd1222eb66aaa693c6c4991e6f8737ca62b1427b3c9e3e67539
+ds-rdata:     27157 8 2 c72478a4986a5330fb21a2e427823553131d70c399ddbcfedee395103ca8543d
 
 whois:        whois.nic.wiki
 
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.wiki
 
 created:      2014-02-06
-changed:      2023-06-26
+changed:      2024-04-17
 source:       IANA
 
