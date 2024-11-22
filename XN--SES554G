@@ -33,15 +33,15 @@ phone:        86-18519852227
 fax-no:       N/A
 e-mail:       wangzhi-tech@knet.cn
 
-nserver:      A.ZDNSCLOUD.COM 203.99.24.1
-nserver:      B.ZDNSCLOUD.COM 203.99.25.1
+nserver:      A.ZDNSCLOUD.CN 203.99.24.1
+nserver:      B.ZDNSCLOUD.CN 203.99.25.1
 nserver:      C.ZDNSCLOUD.COM 203.99.26.1
 nserver:      D.ZDNSCLOUD.COM 203.99.27.1
-nserver:      F.ZDNSCLOUD.COM 114.67.16.204
-nserver:      G.ZDNSCLOUD.COM 42.62.2.16
-nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
+nserver:      F.ZDNSCLOUD.CN 116.169.54.111
+nserver:      G.ZDNSCLOUD.COM 223.72.199.37
+nserver:      I.ZDNSCLOUD.CN 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
-ds-rdata:     57266 8 2 a3c057a22744eb0ff0518d51e55b1271dab9d39391b55edc98443b22882b1c0c
+ds-rdata:     34994 8 2 5ef0d396751ede7d6b87b3dda8d9ecc7883a45b21c1a8d60fbf0ff92b5c2c445
 
 whois:        whois.nic.xn--ses554g
 
@@ -49,6 +49,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.xn--ses554g/
 
 created:      2014-03-13
-changed:      2022-12-08
+changed:      2024-11-12
 source:       IANA
 
