@@ -5,30 +5,30 @@
 domain:       MODA
 
 organisation: Dog Beach, LLC
-address:      c/o Donuts Inc.
+address:      c/o Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 
 contact:      administrative
 name:         Vice President, Engineering
-organisation: Donuts Inc.
+organisation: Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       tldadmin@donuts.email
+e-mail:       tldadmin@identity.digital
 
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
-organisation: Donuts Inc.
+organisation: Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       tldtech@donuts.email
+e-mail:       tldtech@identity.digital
 
 nserver:      V0N0.NIC.MODA 2a01:8840:16:0:0:0:0:28 65.22.20.28
 nserver:      V0N1.NIC.MODA 2a01:8840:17:0:0:0:0:28 65.22.21.28
@@ -41,9 +41,9 @@ ds-rdata:     60925 8 2 d9124bbc4096e70b4aab2a0328750836243bb8ff45fb0aa3000239e8
 whois:        whois.nic.moda
 
 status:       ACTIVE
-remarks:      Registration information: http://www.donuts.domains/
+remarks:      Registration information: https://www.identity.digital/
 
 created:      2014-01-09
-changed:      2021-10-27
+changed:      2023-09-12
 source:       IANA
 
