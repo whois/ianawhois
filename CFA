@@ -20,20 +20,22 @@ fax-no:       434 951 5320
 e-mail:       ngtld-cfa@cscinfo.com
 
 contact:      technical
-name:         Registry Customer Service
-organisation: Verisign, Inc.
-address:      12061 Bluemont Way
-address:      Reston VA 20190
+name:         Howard Eland, Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
 address:      United States of America (the)
-phone:        +1-703-925-6999
-fax-no:       +1-703-948-3978
-e-mail:       info@verisign-grs.com
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
 
-nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
-nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
-nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
-nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
-ds-rdata:     53505 8 2 afc328685d96ea41036f4563042db2d7485c8ad9c790bd22111abd414bcafd17
+nserver:      V0N0.NIC.CFA 2a01:8840:66:0:0:0:0:27 65.22.104.27
+nserver:      V0N1.NIC.CFA 2a01:8840:67:0:0:0:0:27 65.22.105.27
+nserver:      V0N2.NIC.CFA 2a01:8840:68:0:0:0:0:27 65.22.106.27
+nserver:      V0N3.NIC.CFA 161.232.30.27 2a01:8840:106:0:0:0:0:27
+nserver:      V2N0.NIC.CFA 2a01:8840:69:0:0:0:0:27 65.22.107.27
+nserver:      V2N1.NIC.CFA 161.232.31.27 2a01:8840:107:0:0:0:0:27
+ds-rdata:     21814 8 2 9d6445887f736116b22a9c4cda34da82592146649482638fbc144651299bdeb4
 
 whois:        whois.nic.cfa
 
@@ -41,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.cfainstitute.org
 
 created:      2015-04-16
-changed:      2020-10-01
+changed:      2024-03-31
 source:       IANA
 
