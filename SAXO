@@ -19,22 +19,22 @@ phone:        +442070151717
 e-mail:       ngtld-saxo@cscglobal.com
 
 contact:      technical
-name:         Project & Process Manager
-organisation: Saxo Bank A/S
-address:      Phillip Heymans Allé 15
-address:      Hellerup DK-2900
-address:      Denmark
-phone:        +442070151717
-e-mail:       ngtld-saxo@cscglobal.com
+name:         Howard Eland, Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
 
-nserver:      A.NIC.SAXO 2001:dcd:1:0:0:0:0:9 37.209.192.9
-nserver:      B.NIC.SAXO 2001:dcd:2:0:0:0:0:9 37.209.194.9
-nserver:      C.NIC.SAXO 2001:dcd:3:0:0:0:0:9 37.209.196.9
-nserver:      X.NIC.SAXO 156.154.172.82 2610:a1:1074:0:0:0:1:82
-nserver:      Y.NIC.SAXO 156.154.173.82 2610:a1:1075:0:0:0:1:82
-nserver:      Z.NIC.SAXO 156.154.174.82 2610:a1:1076:0:0:0:1:82
-ds-rdata:     33499 8 2 3daca03d08ef7cfdea7e7f42231f411f3b56b9c8ca2cbb2d6d6a70b63652fa79
-ds-rdata:     8887 8 2 117f2b38851f01fd3b94ff49ed5a41b04425f8926aa9d569c301cf46f05202c3
+nserver:      V0N0.NIC.SAXO 2a01:8840:6a:0:0:0:0:27 65.22.108.27
+nserver:      V0N1.NIC.SAXO 2a01:8840:6b:0:0:0:0:27 65.22.109.27
+nserver:      V0N2.NIC.SAXO 2a01:8840:6c:0:0:0:0:27 65.22.110.27
+nserver:      V0N3.NIC.SAXO 161.232.32.27 2a01:8840:108:0:0:0:0:27
+nserver:      V2N0.NIC.SAXO 2a01:8840:6d:0:0:0:0:27 65.22.111.27
+nserver:      V2N1.NIC.SAXO 161.232.33.27 2a01:8840:109:0:0:0:0:27
+ds-rdata:     60076 8 2 596e280e257bce8da04e98ffb42a2d9df28c1736d00a08a665fc92506d32f2a9
 
 whois:        whois.nic.saxo
 
@@ -42,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.saxo
 
 created:      2015-01-15
-changed:      2023-07-31
+changed:      2024-03-27
 source:       IANA
 
