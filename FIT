@@ -5,15 +5,15 @@
 domain:       FIT
 
 organisation: Registry Services, LLC
-address:      2155 E. GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 
 contact:      administrative
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
@@ -22,8 +22,8 @@ e-mail:       iana@registry.godaddy
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
@@ -35,7 +35,7 @@ nserver:      C.NIC.FIT 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      X.NIC.FIT 156.154.172.82 2610:a1:1074:0:0:0:1:82
 nserver:      Y.NIC.FIT 156.154.173.82 2610:a1:1075:0:0:0:1:82
 nserver:      Z.NIC.FIT 156.154.174.82 2610:a1:1076:0:0:0:1:82
-ds-rdata:     52846 8 2 67ac0d6b4abdb3e427baa988fce6dbb8f5420027ab25d219fec06e2ff8babf09
+ds-rdata:     61939 8 2 964cf669d1ec486a61cd6be09167b36d5fda20b21ff3950f4e1a2373beea3e66
 
 whois:        whois.nic.fit
 
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.fit/
 
 created:      2014-12-18
-changed:      2022-12-01
+changed:      2024-04-16
 source:       IANA
 
