@@ -20,28 +20,26 @@ fax-no:       206-238-1232
 e-mail:       contact@topspectrum.com
 
 contact:      technical
-name:         CTO
-organisation: CentralNic
-address:      Saddlers House, 4th Floor
-address:      44 Gutter Lane
-address:      London EC2V 6BR
-address:      United Kingdom of Great Britain and Northern Ireland (the)
-phone:        +44 20 33 88 0600
-fax-no:       +44 20 33 88 0601
-e-mail:       tld.ops@centralnic.com
+name:         Francisco Obispo
+organisation: Tucows Inc
+address:      96 Mowat Avenue
+address:      Toronto Ontario M6K3M1
+address:      Canada
+phone:        +1.949.903.3449
+e-mail:       trs-ops@tucows.com
 
-nserver:      A.NIC.FEEDBACK 194.169.218.50 2001:67c:13cc:0:0:0:1:50
-nserver:      B.NIC.FEEDBACK 185.24.64.50 2a04:2b00:13cc:0:0:0:1:50
-nserver:      C.NIC.FEEDBACK 212.18.248.50 2a04:2b00:13ee:0:0:0:0:50
-nserver:      D.NIC.FEEDBACK 212.18.249.50 2a04:2b00:13ff:0:0:0:0:50
-ds-rdata:     16786 8 2 00f7f4b6df67dc7b828c14829884908ee92e57fe312ed483c43da299fa5ddae5
+nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
+nserver:      NS01.TRS-DNS.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
+nserver:      NS01.TRS-DNS.NET 64.96.2.1
+nserver:      NS01.TRS-DNS.ORG 185.159.197.3 2620:10a:80aa:0:0:0:0:3
+ds-rdata:     8710 13 2 d28054e80046b19c06009c25b451836bebe30a7516ed8c8e51b044e0d2144b64
 
 whois:        whois.nic.feedback
 
 status:       ACTIVE
-remarks:      Registration information: http://centralnic.com
+remarks:      Registration information: https://nic.love
 
 created:      2014-03-06
-changed:      2021-11-29
+changed:      2024-10-30
 source:       IANA
 
