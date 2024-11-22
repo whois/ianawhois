@@ -33,12 +33,7 @@ nserver:      A.NIC.MOM 194.169.218.148 2001:67c:13cc:0:0:0:1:148
 nserver:      B.NIC.MOM 185.24.64.148 2a04:2b00:13cc:0:0:0:1:148
 nserver:      C.NIC.MOM 212.18.248.148 2a04:2b00:13ee:0:0:0:0:148
 nserver:      D.NIC.MOM 212.18.249.148 2a04:2b00:13ff:0:0:0:0:148
-ds-rdata:     28162 5 2 4b2b701367d0b74f52c9684e9b8921659045039452d135a55d128687c729fbf5
-ds-rdata:     41626 5 1 2744d01ec89a56e70f5b6c3171c39739e46afb3c
-ds-rdata:     28162 5 1 2ab25d06f73e977ee5ced0fcf5ea4ed6ee50d269
-ds-rdata:     41626 5 2 7e3fd3d91571d30ceb82a33021657552e235f436d998a605611a0712b21aa1dc
-ds-rdata:     11348 5 1 6a1b7a558a82d6bbcdef5dea82af070b832bc7e1
-ds-rdata:     11348 5 2 97ffc26796c7b2a683048b7cf0bcecf3c54d00b0de377b54d7c7eeedeb2ea8b5
+ds-rdata:     9760 13 2 56259df0f4a8b713477be72cab60f621dabe130e3848bd0a8f1627f585d15072
 
 whois:        whois.nic.mom
 
@@ -46,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.mom
 
 created:      2015-08-13
-changed:      2022-08-16
+changed:      2024-01-31
 source:       IANA
 
