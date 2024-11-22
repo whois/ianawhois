@@ -22,8 +22,8 @@ e-mail:       ngtld-cbre@cscglobal.com
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
@@ -35,7 +35,7 @@ nserver:      C.NIC.CBRE 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.CBRE 156.154.144.36 2610:a1:1071:0:0:0:0:24
 nserver:      NS2.DNS.NIC.CBRE 156.154.145.36 2610:a1:1072:0:0:0:0:24
 nserver:      NS3.DNS.NIC.CBRE 156.154.159.36 2610:a1:1073:0:0:0:0:24
-ds-rdata:     46225 8 2 f737a4fd2c347f5f1d4e4df8f4977ba169f28829557fbc8c477051c041268fcc
+ds-rdata:     29824 8 2 1e62d3ea2ec98f8360413e0291ee4a9f51870c43a37cc027317fba746fde3fe2
 
 whois:        
 
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://cbre.com
 
 created:      2016-06-16
-changed:      2022-07-21
+changed:      2024-05-11
 source:       IANA
 
