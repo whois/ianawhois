@@ -35,7 +35,7 @@ nserver:      B.DNS.RIPN.NET 194.85.252.62 2001:678:16:0:194:85:252:62
 nserver:      D.DNS.RIPN.NET 194.190.124.17 2001:678:18:0:194:190:124:17
 nserver:      E.DNS.RIPN.NET 193.232.142.17 2001:678:15:0:193:232:142:17
 nserver:      F.DNS.RIPN.NET 193.232.156.17 2001:678:14:0:193:232:156:17
-ds-rdata:     23042 8 2 aa41ed8b657359b5fd0e2756aadb10871cc9010509a6c86e5df744a7914f9e4e
+ds-rdata:     52180 8 2 6c71a8d6b0c8b8c40a853c38e247d53011d2b4662164f0e645b8274ce2cf7c5b
 
 whois:        whois.tcinet.ru
 
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      1990-09-19
-changed:      2023-03-07
+changed:      2024-07-16
 source:       IANA
 
