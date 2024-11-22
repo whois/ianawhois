@@ -30,14 +30,16 @@ e-mail:       support@fury.ca
 
 nserver:      A.NS.NIC.ECO 185.159.197.4 2620:10a:80aa:0:0:0:0:4
 nserver:      B.NS.NIC.ECO 185.159.198.4 2620:10a:80ab:0:0:0:0:4
-ds-rdata:     38446 8 2 a2500ae83c687fd270d0660a27527c3c96c6a136a86d9f2bdc714e9280bb5e32
+nserver:      C.NS.NIC.ECO 2a0e:dbc0:0:0:0:0:0:101 45.142.220.101
+nserver:      D.NS.NIC.ECO 185.159.199.4 2620:10a:80ac:0:0:0:0:4
+ds-rdata:     34597 8 2 bce820d516cfe81df04c38fbcb7cf80c2eccc473b57a295948fa50ac1aff9800
 
 whois:        whois.nic.eco
 
 status:       ACTIVE
-remarks:      Registration information: https://www.bigroom.eco
+remarks:      Registration information: https://go.eco
 
 created:      2016-08-18
-changed:      2022-10-12
+changed:      2024-03-15
 source:       IANA
 
