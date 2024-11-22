@@ -11,31 +11,30 @@ address:      United States of America (the)
 
 contact:      administrative
 name:         Christopher Niemi
-organisation: MarkMonitor Inc.
-address:      3540 East Longwing Lane, Suite 300
-address:      Meridian ID 83646
+organisation: Markmonitor Inc.
+address:      1120 S. Rackham Way, Suite 300
+address:      Meridian ID 83642
 address:      United States of America (the)
 phone:        +1 208-685-1857
-fax-no:       +1 208-389-5771
 e-mail:       dotmint@markmonitor.com
 
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
 
-nserver:      NS1.DNS.NIC.MINT 156.154.144.112 2610:a1:1071:0:0:0:0:70
-nserver:      NS2.DNS.NIC.MINT 156.154.145.112 2610:a1:1072:0:0:0:0:70
-nserver:      NS3.DNS.NIC.MINT 156.154.159.112 2610:a1:1073:0:0:0:0:70
+nserver:      A.NIC.MINT 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.MINT 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.MINT 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS4.DNS.NIC.MINT 156.154.156.112 2610:a1:1074:0:0:0:0:70
 nserver:      NS5.DNS.NIC.MINT 156.154.157.112 2610:a1:1075:0:0:0:0:70
 nserver:      NS6.DNS.NIC.MINT 156.154.158.112 2610:a1:1076:0:0:0:0:70
-ds-rdata:     24670 8 2 872536426335ac76542dd46851ae59fdbc13e1f33e8a5c49193ff5a70bda6fdc
+ds-rdata:     20665 8 2 61e6470c8593c69e908195db6d54f96e47bbfd80e61fa706e4263afc6ac810a6
 
 whois:        
 
@@ -43,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.intuit.com/
 
 created:      2016-06-09
-changed:      2022-07-21
+changed:      2024-05-11
 source:       IANA
 
