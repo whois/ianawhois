@@ -12,37 +12,35 @@ address:      Auckland 1010
 address:      New Zealand
 
 contact:      administrative
-name:         William Haigh
-organisation: Pitcairn Island Administration
-address:      Floor 17
-address:      151 Queen Street
-address:      Auckland Central
-address:      Auckland 1010
-address:      New Zealand
-phone:        +64 9 3660186
-fax-no:       +64 9 3660187
-e-mail:       admin@pitcairn.gov.pn
+name:         TLD Registry Services Management
+organisation: Nominet
+address:      Minerva House
+address:      Edmund Halley Road
+address:      Oxford Science Park
+address:      Oxford OX4 4DQ
+address:      United Kingdom of Great Britain and Northern Ireland (the)
+phone:        +44 1865 332211
+e-mail:       registrymanagement@nominet.uk
 
 contact:      technical
-name:         William Haigh
-organisation: Pitcairn Island Administration
-address:      Floor 17
-address:      151 Queen Street
-address:      Auckland Central
-address:      Auckland 1010
-address:      New Zealand
-phone:        +64 9 3660186
-fax-no:       +64 9 3660187
-e-mail:       registrations@pitcairn.gov.pn
+name:         TLD Registry Services Technical
+organisation: Nominet
+address:      Minerva House
+address:      Edmund Halley Road
+address:      Oxford Science Park
+address:      Oxford OX4 4DQ
+address:      United Kingdom of Great Britain and Northern Ireland (the)
+phone:        +44 1865 332211
+e-mail:       registrytechnical@nominet.uk
 
-nserver:      DNS1.NOMINETDNS.UK 213.248.219.254 2a01:618:403:0:0:0:0:254
-nserver:      DNS2.NOMINETDNS.UK 103.49.83.254 2401:fd80:403:0:0:0:0:254
-nserver:      DNS3.NOMINETDNS.UK 213.248.223.254 2a01:618:407:0:0:0:0:254
-nserver:      DNS4.NOMINETDNS.UK 2401:fd80:407:0:0:0:0:254 43.230.51.254
-nserver:      DNSA.NOMINETDNS.UK 156.154.100.3 2001:502:ad09:0:0:0:0:3
-nserver:      DNSB.NOMINETDNS.UK 156.154.101.3 2001:502:2eda:0:0:0:0:3
-nserver:      DNSC.NOMINETDNS.UK 156.154.102.3 2610:a1:1009:0:0:0:0:3
-nserver:      DNSD.NOMINETDNS.UK 156.154.103.3 2610:a1:1010:0:0:0:0:3
+nserver:      DNS1.NIC.PN 213.248.219.128 2a01:618:403:0:0:0:0:128
+nserver:      DNS2.NIC.PN 103.49.83.128 2401:fd80:403:0:0:0:0:128
+nserver:      DNS3.NIC.PN 213.248.223.128 2a01:618:407:0:0:0:0:128
+nserver:      DNS4.NIC.PN 2401:fd80:407:0:0:0:0:128 43.230.51.128
+nserver:      DNSA.NIC.PN 156.154.100.3 2001:502:ad09:0:0:0:0:3
+nserver:      DNSB.NIC.PN 156.154.101.3 2001:502:2eda:0:0:0:0:3
+nserver:      DNSC.NIC.PN 156.154.102.3 2610:a1:1009:0:0:0:0:3
+nserver:      DNSD.NIC.PN 156.154.103.3 2610:a1:1010:0:0:0:0:3
 
 whois:        
 
@@ -50,6 +48,6 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.pn
 
 created:      1997-07-10
-changed:      2023-06-29
+changed:      2024-02-15
 source:       IANA
 
