@@ -22,8 +22,8 @@ e-mail:       dotamica_questions@amica.com
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
@@ -35,7 +35,7 @@ nserver:      C.NIC.AMICA 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.AMICA 156.154.144.11 2610:a1:1071:0:0:0:0:b
 nserver:      NS2.DNS.NIC.AMICA 156.154.145.11 2610:a1:1072:0:0:0:0:b
 nserver:      NS3.DNS.NIC.AMICA 156.154.159.11 2610:a1:1073:0:0:0:0:b
-ds-rdata:     14902 8 2 a464df4fd3a7b27eb3177a1813bc95d25d3f50e5ae5192619a272dce8587cea8
+ds-rdata:     37714 8 2 d2d98dd38d76b5819cd3079b1772ea5370f5cd0843cd53af0569985c6d92599f
 
 whois:        
 
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.amica.com
 
 created:      2015-08-06
-changed:      2022-07-21
+changed:      2024-05-11
 source:       IANA
 
