@@ -33,8 +33,8 @@ nserver:      A.NIC.SKIN 194.169.218.118 2001:67c:13cc:0:0:0:1:118
 nserver:      B.NIC.SKIN 185.24.64.118 2a04:2b00:13cc:0:0:0:1:118
 nserver:      C.NIC.SKIN 212.18.248.118 2a04:2b00:13ee:0:0:0:0:118
 nserver:      D.NIC.SKIN 212.18.249.118 2a04:2b00:13ff:0:0:0:0:118
-ds-rdata:     8175 8 2 5b2d4845730f45f86f38d3fd6271b5e212bde653a75fe7a3bca1267e0429d386
 ds-rdata:     24104 8 2 3eaebed2323950252487a9e9f953157a1bbe8b0b7d82906fcd2816c623778b0a
+ds-rdata:     33019 8 2 b4c9053752d4f7540c8fa6c8b03b3f8044dd1a9ec6f19f93b4c841bfe26747c7
 
 whois:        whois.nic.skin
 
@@ -42,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.skin/
 
 created:      2015-12-23
-changed:      2022-08-16
+changed:      2024-04-15
 source:       IANA
 
