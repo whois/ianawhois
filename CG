@@ -11,26 +11,30 @@ address:      Brazzaville
 address:      Congo (the)
 
 contact:      administrative
-name:         Monsieur Romuald Bonvin
-organisation: Interpoint Switzerland
+name:         Romuald Bonvin
+organisation: Romuald Bonvin c/o Interpoint Switzerland
 address:      c/o ARPCE
 address:      Avenue de l’Amitié, Centre-Ville
 address:      Brazzaville
 address:      Congo (the)
 phone:        +41 44 519 00 60
+fax-no:       +41 27 508 55 85
 e-mail:       contact-admin@dnsafrica.net
 
 contact:      technical
-name:         Monsieur Frédéric Grégoire
-organisation: Interpoint Switzerland
-address:      Fidugestion & Conseils
+name:         Frédéric Grégoire
+organisation: Frédéric Grégoire c/o Interpoint Switzerland
+address:      c/o Fidugestion & Conseils
 address:      Route de Denges 40
 address:      Lonay 1027
 address:      Switzerland
 phone:        +41 44 519 00 60
+fax-no:       +41 27 508 55 85
 e-mail:       contact-tech@dnsafrica.net
 
+nserver:      DNS-CA.DNSAFRICA.NET 2607:5300:201:3100:0:0:0:2b7c 54.39.22.36
 nserver:      DNS-FR.DNSAFRICA.NET 151.80.35.161
+nserver:      DNS-SG.DNSAFRICA.NET 2402:1f00:8000:800:0:0:0:25ed 51.79.160.242
 nserver:      DNS-ZA.DNSAFRICA.NET 41.185.30.170
 nserver:      SUNIC.SUNET.SE 192.36.125.2 2001:6b0:7:0:0:0:0:2
 
@@ -40,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.dnsafrica.net
 
 created:      1997-01-14
-changed:      2023-01-18
+changed:      2024-05-17
 source:       IANA
 
