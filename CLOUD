@@ -28,15 +28,11 @@ address:      Canada
 phone:        +1.9499033449
 e-mail:       trs-ops@tucows.com
 
-nserver:      C.NIC.CLOUD 2001:dcd:3:0:0:0:0:10 37.209.196.10
-nserver:      NS1.UNIREGISTRY.NET 2620:57:4000:1:0:0:0:1 64.96.1.1
-nserver:      NS2.UNIREGISTRY.INFO 64.96.2.1
-nserver:      NS3.UNIREGISTRY.NET 185.159.197.3 2620:10a:80aa:0:0:0:0:3
-nserver:      NS4.UNIREGISTRY.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
-nserver:      Y.NIC.CLOUD 156.154.173.82 2610:a1:1075:0:0:0:1:82
-nserver:      Z.NIC.CLOUD 156.154.174.82 2610:a1:1076:0:0:0:1:82
-ds-rdata:     23374 8 2 0503a8fb36bc97cf3fba3b0186be04364e5743b345a89288fd5dfb9672d73619
-ds-rdata:     48499 8 2 655c17351152d0b6a959b7ac2c674ca37bb3513f612cf803eae16f572c648ab4
+nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
+nserver:      NS01.TRS-DNS.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
+nserver:      NS01.TRS-DNS.NET 64.96.2.1
+nserver:      NS01.TRS-DNS.ORG 185.159.197.3 2620:10a:80aa:0:0:0:0:3
+ds-rdata:     7041 13 2 03e1b41319fdd3a14e27ce35ffba8036da51e328165ce102ae69a6c1203f64e4
 
 whois:        whois.nic.cloud
 
@@ -44,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.get.cloud
 
 created:      2015-06-18
-changed:      2023-08-03
+changed:      2024-05-23
 source:       IANA
 
