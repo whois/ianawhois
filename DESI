@@ -4,45 +4,47 @@
 
 domain:       DESI
 
-organisation: Desi Networks LLC
-address:      6813 Marbury Road
-address:      Bethesda MD 20817
+organisation: Emergency Back-End Registry Operator Program - ICANN
+address:      12025 Waterfront Dr., Suite 300
+address:      Los Angeles CA 90094
 address:      United States of America (the)
 
 contact:      administrative
-name:         Siddharth Ohri
-organisation: Desi Networks, LLC
-address:      6813 Marbury Road
-address:      Bethesda MD 20817
+name:         EBERO Event Director
+organisation: Internet Corporation for Assigned Names and Numbers (ICANN)
+address:      12025 Waterfront Dr., Suite 300
+address:      Los Angeles CA 90094
 address:      United States of America (the)
-phone:        1-202-236-4338
-e-mail:       sohri@dotdesi.com
+phone:        +1(310) 301-5800
+fax-no:       +1(310) 823-8649
+e-mail:       eventdirector@icann.org
 
 contact:      technical
-name:         CTO
-organisation: CentralNic
-address:      Saddlers House, 4th Floor
-address:      44 Gutter Lane
-address:      London EC2V 6BR
+name:         Nominet EBERO Event Manager
+organisation: Nominet
+address:      Minerva House, Edmund Halley Road, Oxford Science Park
+address:      Oxford Oxon OX4 4DQ
 address:      United Kingdom of Great Britain and Northern Ireland (the)
-phone:        +44 20 33 88 0600
-fax-no:       +44 20 33 88 0601
-e-mail:       tld.ops@centralnic.com
+phone:        +44 1865 332470
+e-mail:       ebero@nominet.uk
 
-nserver:      A.NIC.DESI 194.169.218.81 2001:67c:13cc:0:0:0:1:81
-nserver:      B.NIC.DESI 185.24.64.81 2a04:2b00:13cc:0:0:0:1:81
-nserver:      C.NIC.DESI 212.18.248.81 2a04:2b00:13ee:0:0:0:0:81
-nserver:      D.NIC.DESI 212.18.249.81 2a04:2b00:13ff:0:0:0:0:81
-ds-rdata:     39859 8 2 1382964834be4f7bf4830a27955ec8f6a1557ec20479ae946f6910a131e54ab9
-ds-rdata:     32296 8 2 948f1b60d22606e7488f84c0ad2e0546376aeedfd15b6ded198127add5d8928f
-ds-rdata:     11020 8 2 5017e17ac3f43d2dcca968723fddb1b641765a38f53afba0469e33c9ac75c582
+nserver:      DNS1.EMDNS.UK 213.248.217.153 2a01:618:401:0:0:0:0:153
+nserver:      DNS2.EMDNS.UK 103.49.81.153 2401:fd80:401:0:0:0:0:153
+nserver:      DNS3.EMDNS.UK 213.248.221.153 2a01:618:405:0:0:0:0:153
+nserver:      DNS4.EMDNS.UK 2401:fd80:405:0:0:0:0:153 43.230.49.153
+nserver:      DNSA.EMDNS.UK 156.154.100.3 2001:502:ad09:0:0:0:0:3
+nserver:      DNSB.EMDNS.UK 156.154.101.3 2001:502:2eda:0:0:0:0:3
+nserver:      DNSC.EMDNS.UK 156.154.102.3 2610:a1:1009:0:0:0:0:3
+nserver:      DNSD.EMDNS.UK 156.154.103.3 2610:a1:1010:0:0:0:0:3
+ds-rdata:     5621 8 2 2ae99319e83d075eac0f4b572822e3685027038688b38ceb2c5445e09606f752
 
 whois:        whois.nic.desi
 
 status:       ACTIVE
-remarks:      Registration information: http://www.dotdesi.com/
+remarks:      Registration information:
+remarks:      https://www.icann.org/resources/pages/ebero-2013-04-02-en
 
 created:      2014-03-06
-changed:      2021-10-12
+changed:      2024-07-12
 source:       IANA
 
