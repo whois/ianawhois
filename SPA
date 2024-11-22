@@ -11,25 +11,23 @@ address:      Malaysia
 
 contact:      administrative
 name:         Vice President, Engineering
-organisation: Afilias Limited
-address:      c/o Donuts Inc.
+organisation: Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       tldadmin@donuts.email
+e-mail:       tldadmin@identity.digital
 
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
-organisation: Afilias Limited
-address:      c/o Donuts Inc.
+organisation: Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       tldtech@donuts.email
+e-mail:       tldtech@identity.digital
 
 nserver:      A0.NIC.SPA 2a01:8840:2e:0:0:0:0:17 65.22.48.17
 nserver:      A2.NIC.SPA 2a01:8840:31:0:0:0:0:17 65.22.51.17
@@ -43,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.spa
 
 created:      2020-09-25
-changed:      2023-08-03
+changed:      2023-09-01
 source:       IANA
 
