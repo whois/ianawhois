@@ -34,11 +34,12 @@ nserver:      A.ZDNSCLOUD.COM 203.99.24.1
 nserver:      B.ZDNSCLOUD.COM 203.99.25.1
 nserver:      C.ZDNSCLOUD.COM 203.99.26.1
 nserver:      D.ZDNSCLOUD.COM 203.99.27.1
-nserver:      F.ZDNSCLOUD.COM 114.67.16.204
-nserver:      G.ZDNSCLOUD.COM 42.62.2.16
+nserver:      F.ZDNSCLOUD.COM 116.169.54.111
+nserver:      G.ZDNSCLOUD.COM 223.72.199.37
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
 ds-rdata:     56914 8 2 5465baa574aa100721edded85284559d873f32fed96c02d0144b0281569ff37d
+ds-rdata:     61001 8 2 b4dea8c89ab832565a80719c8af8fb5d7ed535a9c3e2361d8b494d45f6a05d5a
 
 whois:        
 
@@ -46,6 +47,6 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      2014-05-08
-changed:      2022-12-08
+changed:      2024-02-26
 source:       IANA
 
