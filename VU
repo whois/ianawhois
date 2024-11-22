@@ -22,8 +22,8 @@ e-mail:       iana@trbr.vu
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
@@ -33,7 +33,7 @@ nserver:      NS1.TLDNS.VU 2001:dcd:1:0:0:0:0:6 37.209.192.6
 nserver:      NS2.TLDNS.VU 2001:dcd:2:0:0:0:0:6 37.209.194.6
 nserver:      NS3.TLDNS.VU 2001:dcd:3:0:0:0:0:6 37.209.196.6
 nserver:      NS4.TLDNS.VU 2001:dcd:4:0:0:0:0:6 37.209.198.6
-ds-rdata:     50412 10 2 49257111e03ad5f8c450f8330f101b87b84f82251fa54ce67c832b7eefa45232
+ds-rdata:     32778 10 2 e9a2e16e09e41f325deb3b58a721d9980d0942e19e7c41b44fd4b2bfd8611e08
 
 whois:        whois.dnrs.vu
 
@@ -41,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.hello.vu
 
 created:      1995-04-10
-changed:      2022-07-21
+changed:      2024-05-21
 source:       IANA
 
