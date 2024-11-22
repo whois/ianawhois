@@ -32,8 +32,9 @@ phone:        +964 7904318957
 fax-no:       +964 17195839
 e-mail:       it.iq@cmc.iq
 
-nserver:      IQ.CCTLD.AUTHDNS.RIPE.NET 193.0.9.81 2001:67c:e0:0:0:0:0:81
-nserver:      NS1.CMC.IQ 194.117.57.100
+nserver:      NS.CMC.IQ 194.117.57.105
+nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
+nserver:      NS01.TRS-DNS.NET 64.96.2.1
 nserver:      NSP-ANYCAST.CMC.IQ 194.117.58.42 2001:500:14:8001:ad:0:0:42
 
 whois:        whois.cmc.iq
@@ -42,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: https://registrar.cmc.iq
 
 created:      1997-05-09
-changed:      2023-06-22
+changed:      2023-12-18
 source:       IANA
 
