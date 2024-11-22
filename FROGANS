@@ -5,18 +5,17 @@
 domain:       FROGANS
 
 organisation: OP3FT
-address:      6, square Mozart
+address:      27-29 rue Raffet
 address:      Paris 75016
 address:      France
 
 contact:      administrative
 name:         President of the Board of Directors
 organisation: OP3FT
-address:      6, square Mozart
+address:      27-29 rue Raffet
 address:      Paris 75016
 address:      France
-phone:        +33 153920040
-fax-no:       +33 153922846
+phone:        +33189166309
 e-mail:       amaury.grimbert@op3ft.org
 
 contact:      technical
@@ -42,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.frogans/
 
 created:      2014-04-03
-changed:      2019-08-21
+changed:      2023-10-16
 source:       IANA
 
