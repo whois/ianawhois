@@ -5,30 +5,30 @@
 domain:       BOUTIQUE
 
 organisation: Binky Moon, LLC
-address:      c/o Donuts Inc.
+address:      c/o Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 
 contact:      administrative
 name:         Vice President, Engineering
-organisation: Donuts Inc.
+organisation: Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       tldadmin@donuts.email
+e-mail:       tldadmin@identity.digital
 
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
-organisation: Donuts Inc.
+organisation: Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       tldtech@donuts.email
+e-mail:       tldtech@identity.digital
 
 nserver:      V0N0.NIC.BOUTIQUE 2a01:8840:1a:0:0:0:0:12 65.22.24.12
 nserver:      V0N1.NIC.BOUTIQUE 2a01:8840:1b:0:0:0:0:12 65.22.25.12
@@ -41,9 +41,9 @@ ds-rdata:     31354 8 2 83ffdc35018a75a4c287e7f29b0181ef0f7495f28e9e65ae00561ddd
 whois:        whois.nic.boutique
 
 status:       ACTIVE
-remarks:      Registration information: http://www.donuts.domains/
+remarks:      Registration information: https://www.identity.digital/
 
 created:      2014-01-16
-changed:      2021-11-03
+changed:      2023-09-12
 source:       IANA
 
