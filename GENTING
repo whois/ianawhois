@@ -23,20 +23,22 @@ fax-no:       +65 6720 0866
 e-mail:       ngtld-genting@cscglobal.com
 
 contact:      technical
-name:         Bonnie Bryant
-organisation: Verisign, Inc.
-address:      12061 Bluemont Way
-address:      Reston VA 20190
+name:         Howard Eland, Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
 address:      United States of America (the)
-phone:        +1-703-925-6999
-fax-no:       +1-703-948-3978
-e-mail:       info@verisign-grs.com
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
 
-nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
-nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
-nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
-nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
-ds-rdata:     22539 8 2 983fdbfbba09945a8da7feacb64460fa801f4a3481d83fa9e1257fc92ed206a3
+nserver:      V0N0.NIC.GENTING 2a01:8840:6a:0:0:0:0:13 65.22.108.13
+nserver:      V0N1.NIC.GENTING 2a01:8840:6b:0:0:0:0:13 65.22.109.13
+nserver:      V0N2.NIC.GENTING 2a01:8840:6c:0:0:0:0:13 65.22.110.13
+nserver:      V0N3.NIC.GENTING 161.232.32.13 2a01:8840:108:0:0:0:0:13
+nserver:      V2N0.NIC.GENTING 2a01:8840:6d:0:0:0:0:13 65.22.111.13
+nserver:      V2N1.NIC.GENTING 161.232.33.13 2a01:8840:109:0:0:0:0:13
+ds-rdata:     34012 8 2 edefc992a1962e973126b51f53a920da4c0caafe53491bd1dd768c440770961e
 
 whois:        whois.nic.genting
 
@@ -44,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.genting/
 
 created:      2015-06-11
-changed:      2020-10-01
+changed:      2024-03-31
 source:       IANA
 
