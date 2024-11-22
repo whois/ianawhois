@@ -19,18 +19,19 @@ phone:        +1 264 497 5233
 e-mail:       telecommunications.office@gov.ai
 
 contact:      technical
-name:         Vincent Cate
-organisation: DataHaven.Net Ltd.
-address:      949 Stoney Ground
+name:         Telecommunications Officer
+organisation: Government of Anguilla
+address:      Coronation Avenue, PO Box 60
 address:      The Valley AI2640
 address:      Anguilla
-phone:        +1 264 497 3255
-e-mail:       vincecate@gmail.com
+phone:        +12644975233
+e-mail:       telecommunications.office@gov.ai
 
 nserver:      A.LACTLD.ORG 200.0.68.10 2801:14:a000:0:0:0:0:10
 nserver:      ANYCASTDNS1-CZ.NIC.AI 185.28.194.194
 nserver:      ANYCASTDNS2-CZ.NIC.AI 185.38.108.108 2a00:fea0:dead:0:0:0:0:beef
 nserver:      PCH.WHOIS.AI 2001:500:14:6123:ad:0:0:1 204.61.216.123
+ds-rdata:     44137 8 2 7886bd35ed745dca983d951a643495b929b3a7676a88c682ef88eb6fedbdb253
 
 whois:        whois.nic.ai
 
@@ -38,6 +39,6 @@ status:       ACTIVE
 remarks:      Registration information: http://whois.ai
 
 created:      1995-02-16
-changed:      2022-07-20
+changed:      2024-11-18
 source:       IANA
 
