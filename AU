@@ -32,13 +32,13 @@ phone:        +61 (0)3 8341 4111
 fax-no:       +61 (0)3 8341 4112
 e-mail:       auda.iana@auda.org.au
 
-nserver:      C.AU 162.159.24.179 2400:cb00:2049:1:0:0:a29f:18b3
-nserver:      D.AU 162.159.25.38 2400:cb00:2049:1:0:0:a29f:1926
+nserver:      A.AU 2407:6e00:254:0:0:0:0:1 58.65.254.1
 nserver:      Q.AU 2a01:8840:be:0:0:0:0:1 65.22.196.1
 nserver:      R.AU 2a01:8840:bf:0:0:0:0:1 65.22.197.1
 nserver:      S.AU 2a01:8840:c0:0:0:0:0:1 65.22.198.1
 nserver:      T.AU 2a01:8840:c1:0:0:0:0:1 65.22.199.1
-ds-rdata:     34882 8 2 8de6a7a1aa8ac4ad4dc732074f43c08be6cb88cfbc245207e8fd70b3014e32b4
+ds-rdata:     51895 8 2 6c7d509bd4df32af255ff847152b7b00316ac0ba44b853b3c9f9c7119aaa599c
+ds-rdata:     1775 8 2 64dfdddd2c68aa5cc67e58cd88f1fbd7804f911aa3d3314cb59539763a0af89f
 
 whois:        whois.auda.org.au
 
@@ -47,6 +47,6 @@ remarks:      Registration information:
 remarks:      https://www.auda.org.au/domains/au-domains/
 
 created:      1986-03-05
-changed:      2023-01-18
+changed:      2024-08-08
 source:       IANA
 
