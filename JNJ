@@ -10,20 +10,20 @@ address:      New Brunswick NJ 08933
 address:      United States of America (the)
 
 contact:      administrative
-name:         Taylor Frank
-organisation: FairWinds Partners LLC
-address:      1000 Potomac Street NW #350
-address:      Washington DC 20007
-address:      United States of America (the)
-phone:        202-223-5232
-fax-no:       202-223-9256
-e-mail:       jnjregistry@fairwindspartners.com
+name:         Paul Freeman
+organisation: CentralNic
+address:      Saddlers House, 4th Floor 44 Gutter Lane
+address:      London EC2V 6BR
+address:      United Kingdom of Great Britain and Northern Ireland (the)
+phone:        +44 (0) 20 33 88 0600
+fax-no:       +44 20 33 88 0601
+e-mail:       tld.ops@centralnic.com
 
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
@@ -35,7 +35,7 @@ nserver:      C.NIC.JNJ 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.JNJ 156.154.144.89 2610:a1:1071:0:0:0:0:59
 nserver:      NS2.DNS.NIC.JNJ 156.154.145.89 2610:a1:1072:0:0:0:0:59
 nserver:      NS3.DNS.NIC.JNJ 156.154.159.89 2610:a1:1073:0:0:0:0:59
-ds-rdata:     16897 8 2 8e9740b903122d7dfed99cf66764bbb9b24eabe8b5a3c37bd0d876f47d69956f
+ds-rdata:     8032 8 2 5cf2a2dfa2b3a5b5c8b3f42bd42290fe5632dc8720b48286573c4aca21fd8c82
 
 whois:        
 
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.jnj.com/
 
 created:      2016-01-14
-changed:      2022-07-21
+changed:      2024-07-01
 source:       IANA
 
