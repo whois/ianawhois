@@ -5,15 +5,15 @@
 domain:       VODKA
 
 organisation: Registry Services, LLC
-address:      2155 E. GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 
 contact:      administrative
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
@@ -22,8 +22,8 @@ e-mail:       iana@registry.godaddy
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
@@ -35,7 +35,7 @@ nserver:      C.NIC.VODKA 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      X.NIC.VODKA 156.154.172.82 2610:a1:1074:0:0:0:1:82
 nserver:      Y.NIC.VODKA 156.154.173.82 2610:a1:1075:0:0:0:1:82
 nserver:      Z.NIC.VODKA 156.154.174.82 2610:a1:1076:0:0:0:1:82
-ds-rdata:     9085 8 2 4a2f917b298b97a57bf484931c74134a82b3ef0ce16da123093c509eb9ea153e
+ds-rdata:     62887 8 2 7286a1b64c79d57e7d499442edc470aa0685280d2dc642af97615e215154a50b
 
 whois:        whois.nic.vodka
 
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.vodka/
 
 created:      2014-02-28
-changed:      2022-12-01
+changed:      2024-04-17
 source:       IANA
 
