@@ -37,8 +37,8 @@ nserver:      A.NIC.STCGROUP 194.169.218.46 2001:67c:13cc:0:0:0:1:46
 nserver:      B.NIC.STCGROUP 185.24.64.46 2a04:2b00:13cc:0:0:0:1:46
 nserver:      C.NIC.STCGROUP 212.18.248.46 2a04:2b00:13ee:0:0:0:0:46
 nserver:      D.NIC.STCGROUP 212.18.249.46 2a04:2b00:13ff:0:0:0:0:46
-ds-rdata:     63781 8 1 b6fd1903a8aabaf134a517661da8b7f1687f334b
 ds-rdata:     63781 8 2 5a2c21b0d982a47ef075dcca0378175e917e9bca8128e4ffd52e31f627f29151
+ds-rdata:     5674 8 2 509e476d742c1b7535a81e4ab14fefa0386660d241b042647077614310ef9f77
 
 whois:        whois.nic.stcgroup
 
@@ -46,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.stc.com.sa
 
 created:      2015-08-20
-changed:      2022-05-18
+changed:      2024-05-28
 source:       IANA
 
