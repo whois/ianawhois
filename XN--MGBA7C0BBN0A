@@ -5,10 +5,10 @@
 domain:       العليان
 domain-ace:   XN--MGBA7C0BBN0A
 
-organisation: Crescent Holding GmbH
-address:      Opernring - Stiege R top Nr. 709-714
-address:      Vienna 1010
-address:      Austria
+organisation: Competrol (Luxembourg) Sarl
+address:      25B, Boulevard Royal
+address:      Luxembourg L-2449
+address:      Luxembourg
 
 contact:      administrative
 name:         Mr
@@ -21,14 +21,14 @@ fax-no:       +44.2077966586
 e-mail:       john.wilks@dlapiper.com
 
 contact:      technical
-name:         Mr
+name:         Mr Michel Abi Aad
 organisation: Crescent Holding GmbH
 address:      Opernring - Stiege R top Nr. 709-714
 address:      Vienna 1010
 address:      Austria
 phone:        +30.2108913000
 fax-no:       +30.2108913000
-e-mail:       a.kade@olayangroup.com
+e-mail:       m.abiaad@olayangroup.com
 
 nserver:      A.NIC.XN--MGBA7C0BBN0A 2001:dcd:1:0:0:0:0:9 37.209.192.9
 nserver:      B.NIC.XN--MGBA7C0BBN0A 2001:dcd:2:0:0:0:0:9 37.209.194.9
@@ -36,7 +36,7 @@ nserver:      C.NIC.XN--MGBA7C0BBN0A 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      X.NIC.XN--MGBA7C0BBN0A 156.154.172.82 2610:a1:1074:0:0:0:1:82
 nserver:      Y.NIC.XN--MGBA7C0BBN0A 156.154.173.82 2610:a1:1075:0:0:0:1:82
 nserver:      Z.NIC.XN--MGBA7C0BBN0A 156.154.174.82 2610:a1:1076:0:0:0:1:82
-ds-rdata:     2662 8 2 a083e4e9e6f8037d89de242fffe38e301bf73b7e3f132835b239b6d68258ea9f
+ds-rdata:     49291 8 2 3bda917f1a0fec4728394c77584d299dc23814cbcc508a46255a2ea944883caa
 
 whois:        whois.nic.xn--mgba7c0bbn0a
 
@@ -44,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.olayan.com/
 
 created:      2016-04-21
-changed:      2022-11-29
+changed:      2024-05-31
 source:       IANA
 
