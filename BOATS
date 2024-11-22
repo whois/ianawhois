@@ -33,8 +33,8 @@ nserver:      A.NIC.BOATS 194.169.218.134 2001:67c:13cc:0:0:0:1:134
 nserver:      B.NIC.BOATS 185.24.64.134 2a04:2b00:13cc:0:0:0:1:134
 nserver:      C.NIC.BOATS 212.18.248.134 2a04:2b00:13ee:0:0:0:0:134
 nserver:      D.NIC.BOATS 212.18.249.134 2a04:2b00:13ff:0:0:0:0:134
-ds-rdata:     184 8 2 a4a33b365286abb2176f9f617093d4dade9cd2af1c8b4955db2b0ad92b6940d5
 ds-rdata:     59980 8 2 a5e1e3d7c3a1cd95834be1a4f1b403eb0018e4918d107c25a61360b2b7e585dd
+ds-rdata:     35419 8 2 43c5098ed1c55c5eb62237acd9ebdc4721ca7e8b8290c66538ee4eae7bfd997e
 
 whois:        whois.nic.boats
 
@@ -42,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.boats
 
 created:      2015-02-13
-changed:      2022-08-16
+changed:      2024-02-28
 source:       IANA
 
