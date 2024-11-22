@@ -35,7 +35,6 @@ nserver:      C.NSSET.BE 194.0.43.1 2001:678:68:0:0:0:0:1
 nserver:      D.NSSET.BE 194.0.44.1 2001:678:6c:0:0:0:0:1
 nserver:      Y.NSSET.BE 120.29.253.8 2001:dcd:7:0:0:0:0:8
 nserver:      Z.NSSET.BE 194.0.25.36 2001:678:20:0:0:0:0:36
-ds-rdata:     12664 8 2 75141e9b1188a95a7a855bf47e278a742a5e3f2ddeed8e995d749d48f2f0e72d
 ds-rdata:     52756 8 2 5485ac33dd7c7ed237ea2a4bd269731c816960fe181042024484b5ceca6ecc9f
 
 whois:        whois.dns.be
@@ -44,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.dnsbelgium.be
 
 created:      1988-08-05
-changed:      2021-03-22
+changed:      2024-10-02
 source:       IANA
 
