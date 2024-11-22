@@ -5,29 +5,30 @@
 domain:       FOREX
 
 organisation: Dog Beach, LLC
+address:      c/o Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 
 contact:      administrative
 name:         Vice President, Engineering
-organisation: Donuts Inc.
+organisation: Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
-phone:        +1 425 298 2200
-fax-no:       +1 425 671 0020
-e-mail:       tldadmin@donuts.email
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldadmin@identity.digital
 
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
-organisation: Donuts Inc.
+organisation: Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
-phone:        +1 425 298 2200
-fax-no:       +1 425 671 0020
-e-mail:       tldtech@donuts.email
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
 
 nserver:      V0N0.NIC.FOREX 2a01:8840:1e:0:0:0:0:65 65.22.28.65
 nserver:      V0N1.NIC.FOREX 2a01:8840:1f:0:0:0:0:65 65.22.29.65
@@ -40,9 +41,9 @@ ds-rdata:     37024 8 2 b76c4cb1e725cbac7c8043a1efe178802f19bbd47687ee2dd46bf30f
 whois:        whois.nic.forex
 
 status:       ACTIVE
-remarks:      Registration information: https://donuts.domains/
+remarks:      Registration information: https://www.identity.digital/
 
 created:      2015-03-06
-changed:      2021-11-10
+changed:      2023-09-12
 source:       IANA
 
