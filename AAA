@@ -11,19 +11,18 @@ address:      United States of America (the)
 
 contact:      administrative
 name:         Chris Niemi
-organisation: MarkMonitor Inc.
-address:      391 N. Ancestor Place, Suite 150
-address:      Boise ID 83704
+organisation: Markmonitor Inc.
+address:      1120 S. Rackham Way, Suite 300
+address:      Meridian ID 83642
 address:      United States of America (the)
-phone:        (208) 389-5740
-fax-no:       (208) 389-5771
+phone:        +1(208) 389-5740
 e-mail:       gtldservices@markmonitor.com
 
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
@@ -35,7 +34,7 @@ nserver:      C.NIC.AAA 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.AAA 156.154.144.2 2610:a1:1071:0:0:0:0:2
 nserver:      NS2.DNS.NIC.AAA 156.154.145.2 2610:a1:1072:0:0:0:0:2
 nserver:      NS3.DNS.NIC.AAA 156.154.159.2 2610:a1:1073:0:0:0:0:2
-ds-rdata:     23185 8 2 b18d0ec8791d98e167ca4d9745a0c27a6377e099d8f6a16a09567492ab16b7de
+ds-rdata:     31852 8 2 89f7670afc091b199b47900e4ce4135b9463b7f74d3d19a1c732e78c345d4de6
 
 whois:        
 
@@ -43,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.aaa.com
 
 created:      2015-08-13
-changed:      2022-07-21
+changed:      2024-05-11
 source:       IANA
 
