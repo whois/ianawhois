@@ -33,12 +33,7 @@ nserver:      A.NIC.DIET 194.169.218.145 2001:67c:13cc:0:0:0:1:145
 nserver:      B.NIC.DIET 185.24.64.145 2a04:2b00:13cc:0:0:0:1:145
 nserver:      C.NIC.DIET 212.18.248.145 2a04:2b00:13ee:0:0:0:0:145
 nserver:      D.NIC.DIET 212.18.249.145 2a04:2b00:13ff:0:0:0:0:145
-ds-rdata:     2464 5 2 a2624874743790cb52066e9b50b06ebf915dc80355e2f9c10094295de2addfb7
-ds-rdata:     11962 5 2 a3d113a8af70bc8b9d35fc555a0ec7474482383fc4f73ca605f0ec498288fdc9
-ds-rdata:     11962 5 1 5d42445c9c0aa2c65f6b9e23f90b3d5c30c4a256
-ds-rdata:     2464 5 1 58ab5506cd049ddd784c487957d5d87c44e238b0
-ds-rdata:     35167 5 1 91aadeac68b9579fc6602ca5fcc770bcfb7536b5
-ds-rdata:     35167 5 2 64ece39f08b2542cfd13d6c484e25f29b2bb29fba98e082dd5294f9011f73020
+ds-rdata:     21867 13 2 2c0a937c6b26d322943537b3322f0b09c5ad21029b9f0567eb8e46b467006930
 
 whois:        whois.nic.diet
 
@@ -46,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.diet
 
 created:      2014-08-15
-changed:      2022-08-16
+changed:      2024-01-31
 source:       IANA
 
