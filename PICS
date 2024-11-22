@@ -33,12 +33,7 @@ nserver:      A.NIC.PICS 194.169.218.151 2001:67c:13cc:0:0:0:1:151
 nserver:      B.NIC.PICS 185.24.64.151 2a04:2b00:13cc:0:0:0:1:151
 nserver:      C.NIC.PICS 212.18.248.151 2a04:2b00:13ee:0:0:0:0:151
 nserver:      D.NIC.PICS 212.18.249.151 2a04:2b00:13ff:0:0:0:0:151
-ds-rdata:     7408 5 2 02f6c4ff7037230837665a072a51779019771c19626e233465a9cab5eb69cee1
-ds-rdata:     46651 5 2 5ddc0142062a06775e6df86a868a0262c740a484ff29fc22aec48116d6fd5860
-ds-rdata:     7408 5 1 79f063399b4c13ca29ea8f68ff98d9d4eff59b59
-ds-rdata:     46651 5 1 5a09c2c9b674b46ae6a49255de9fecb7d999467b
-ds-rdata:     3458 5 1 356a302c72add225e8dbf542fd8851bfa458b1ae
-ds-rdata:     3458 5 2 a32c380766b5205f998872b8187a99ac5027872da54b0ddec2edfbefc6279b89
+ds-rdata:     35457 13 2 5c51e30fb24690462119a205ba0de9a3ad9742ec1e598eed93eaf240b9c170c4
 
 whois:        whois.nic.pics
 
@@ -46,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.pics
 
 created:      2014-01-09
-changed:      2022-08-16
+changed:      2024-01-31
 source:       IANA
 
