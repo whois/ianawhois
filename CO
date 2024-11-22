@@ -17,19 +17,19 @@ address:      Edificio Murillo Toro
 address:      Cra.8 #Entre Calles 12A y 12B
 address:      Bogotá D.C. Cundinamarca 111711
 address:      Colombia
-phone:        +57 (1) 344 3460
-fax-no:       +57 (1) 344 2248
+phone:        +57 (601) 344 3460
+fax-no:       +57 (601) 344 2248
 e-mail:       cctld.co@mintic.gov.co
 
 contact:      technical
 name:         Gonzalo Romero
 organisation: .CO Internet S.A.S.
 address:      Calle 81 # 11-08
-address:      Oficina 6-116
+address:      Oficina 6-115
 address:      Barrio El Retiro
 address:      Bogotá D.C. 110221
 address:      Colombia
-phone:        +571 794 89 99
+phone:        +57 (601) 794 89 99
 e-mail:       gonzalo@cointernet.com.co
 
 nserver:      NS1.CCTLD.CO 2001:dcd:1:0:0:0:0:14 37.209.192.14
@@ -38,7 +38,8 @@ nserver:      NS3.CCTLD.CO 2001:dcd:3:0:0:0:0:14 37.209.196.14
 nserver:      NS4.CCTLD.CO 156.154.103.25 2610:a1:1010:0:0:0:0:21
 nserver:      NS5.CCTLD.CO 156.154.104.25 2610:a1:1011:0:0:0:0:21
 nserver:      NS6.CCTLD.CO 156.154.105.25 2610:a1:1012:0:0:0:0:21
-ds-rdata:     61744 8 2 b9adca87453c1f69a9a524681f4179a88374c546a45892acc10e2653519accbd
+nserver:      NS7.CCTLD.CO 204.74.105.1 2610:a1:3180:0:0:0:0:53
+nserver:      NS8.CCTLD.CO 204.74.107.1 2610:a1:3280:0:0:0:0:53
 ds-rdata:     62110 8 2 4857ee1a85e661c92156ad09b40139dae7d5be37d117a1223289f0e20cf9d654
 
 whois:        whois.nic.co
@@ -47,6 +48,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.cointernet.com.co
 
 created:      1991-12-24
-changed:      2023-08-01
+changed:      2024-09-17
 source:       IANA
 
