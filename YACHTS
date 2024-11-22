@@ -33,8 +33,8 @@ nserver:      A.NIC.YACHTS 194.169.218.133 2001:67c:13cc:0:0:0:1:133
 nserver:      B.NIC.YACHTS 185.24.64.133 2a04:2b00:13cc:0:0:0:1:133
 nserver:      C.NIC.YACHTS 212.18.248.133 2a04:2b00:13ee:0:0:0:0:133
 nserver:      D.NIC.YACHTS 212.18.249.133 2a04:2b00:13ff:0:0:0:0:133
-ds-rdata:     50071 8 2 bf1b2d1657ad8be12fbedad8af0999d1e9185c100937ac023d01c9a6cca78dae
 ds-rdata:     14477 8 2 0180abc62cf090f5df1ef074f1958c237261e14633f4ad949298514bda155257
+ds-rdata:     17422 8 2 dc355a5b3fd478cb3aebdb011d77f40368c5af50df98a38bc219d8f89a372649
 
 whois:        whois.nic.yachts
 
@@ -42,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.yachts
 
 created:      2014-05-01
-changed:      2022-08-16
+changed:      2024-02-28
 source:       IANA
 
