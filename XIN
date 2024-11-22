@@ -12,16 +12,14 @@ address:      Hong Kong
 address:      China
 
 contact:      administrative
-name:         Nan Chu
+name:         Fuping Yu
 organisation: Elegant Leader Limited
-address:      HiChina Mansion
-address:      No.27 Gulouwai Avenue,
-address:      Dongcheng District
-address:      Beijing 100120
-address:      China
+address:      31/F., Tower One, Times Square, 1 Matheson Street
+address:      Causeway Bay
+address:      Hong Kong
 phone:        +86 10 65985888 ext. 49971
 fax-no:       +86 10 65985608
-e-mail:       antonia.cn@alibaba-inc.com
+e-mail:       yufuping.yfp@alibaba-inc.com
 
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
@@ -46,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.dotxin.org
 
 created:      2015-02-19
-changed:      2023-01-05
+changed:      2024-11-12
 source:       IANA
 
