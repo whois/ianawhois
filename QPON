@@ -33,17 +33,15 @@ nserver:      A.NIC.QPON 194.169.218.128 2001:67c:13cc:0:0:0:1:128
 nserver:      B.NIC.QPON 185.24.64.128 2a04:2b00:13cc:0:0:0:1:128
 nserver:      C.NIC.QPON 212.18.248.128 2a04:2b00:13ee:0:0:0:0:128
 nserver:      D.NIC.QPON 212.18.249.128 2a04:2b00:13ff:0:0:0:0:128
-ds-rdata:     29890 8 2 7467925ea4afc0a3a7e0e36a640721385ffc85b26b7002b492ea8cf45f4c9a90
-ds-rdata:     29890 8 1 44c89222bc6f471572a2d95af068d70d82d99d65
 ds-rdata:     2327 8 2 3862ebe8922407508c2915d29ada122bfdc2385e90e14f0b98145665d794e347
-ds-rdata:     2327 8 1 c3a7db5bb487a23ba948a762681a1899980dedc0
+ds-rdata:     16832 8 2 640f8ec05b04bbb53bd37b2ead4360a4fb63e8fc4084d6e5d5ee78facd4f47a3
 
 whois:        whois.nic.qpon
 
 status:       ACTIVE
-remarks:      Registration information: http://www.dotqpon.com/
+remarks:      Registration information: http://www.nic.qpon
 
 created:      2014-01-09
-changed:      2023-02-24
+changed:      2023-11-17
 source:       IANA
 
