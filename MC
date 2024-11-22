@@ -5,31 +5,29 @@
 domain:       MC
 
 organisation: Direction des Plateformes et des Ressources Numériques
-address:      19 Avenue des Castelans
-address:      Entrée C
+address:      2 rue du Gabian
+address:      c/o DITN
 address:      98000
 address:      Monaco
 
 contact:      administrative
-name:         Administrator
+name:         NIC Administrator
 organisation: Direction des Plateformes et des Ressources Numériques
-address:      19 Avenue des Castelans
-address:      Entrée C
+address:      2 rue du Gabian
+address:      c/o DITN
 address:      98000
 address:      Monaco
 phone:        +377 98 98 88 00
-fax-no:       +377 97 98 56 57
 e-mail:       nic@gouv.mc
 
 contact:      technical
-name:         Administrator
+name:         NIC Administrator
 organisation: Direction des Plateformes et des Ressources Numériques
-address:      19 Avenue des Castelans
-address:      Entrée C
+address:      2 rue du Gabian
+address:      c/o DITN
 address:      98000
 address:      Monaco
 phone:        +377 98 98 88 00
-fax-no:       +377 97 98 56 57
 e-mail:       nic@gouv.mc
 
 nserver:      MC.CCTLD.AUTHDNS.RIPE.NET 193.0.9.92
@@ -44,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.nic.mc/
 
 created:      1995-01-20
-changed:      2023-06-30
+changed:      2024-10-22
 source:       IANA
 
