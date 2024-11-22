@@ -18,19 +18,17 @@ address:      2109 Aglantzia, Nicosia
 address:      Nicosia
 address:      Cyprus
 phone:        +357 2289 4445
-fax-no:       +357 2289 5520
 e-mail:       christos@ucy.ac.cy
 
 contact:      technical
-name:         Panayiotou Fotia
+name:         Savvas Constantinou
 organisation: University of Cyprus
 address:      1 Panepistimiou Avenue
 address:      2109 Aglantzia, Nicosia
 address:      Nicosia
 address:      Cyprus
 phone:        +357 22 892165
-fax-no:       +357 22 895077
-e-mail:       panayiotou.fotia@ucy.ac.cy
+e-mail:       constantinou.j.savvas@ucy.ac.cy
 
 nserver:      CY-NS.ANYCAST.PCH.NET 2001:500:14:6044:ad:0:0:1 204.61.216.44
 nserver:      CYNIC4.DNS.CY 194.42.29.16
@@ -46,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.cy
 
 created:      1994-07-26
-changed:      2023-02-28
+changed:      2024-08-13
 source:       IANA
 
