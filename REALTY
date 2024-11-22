@@ -4,46 +4,41 @@
 
 domain:       REALTY
 
-organisation: Dog Beach, LLC
-address:      c/o Donuts Inc.
-address:      10500 NE 8th Street, Suite 750
-address:      Bellevue WA 98004
-address:      United States of America (the)
+organisation: Internet Naming Co.
+address:      23 Lime Tree Bay, West Bay
+address:      Grand Cayman KY1-1505
+address:      Cayman Islands (the)
 
 contact:      administrative
-name:         Vice President, Engineering
-organisation: Donuts Inc.
-address:      10500 NE 8th Street, Suite 750
-address:      Bellevue WA 98004
-address:      United States of America (the)
-phone:        +1.425.298.2200
-fax-no:       +1.425.671.0020
-e-mail:       tldadmin@donuts.email
+name:         Principal
+organisation: Internet Naming Co.
+address:      23 Lime Tree Bay, West Bay
+address:      Grand Cayman KY1-1505
+address:      Cayman Islands (the)
+phone:        +1.424.888.0690
+e-mail:       partners@inaming.co
 
 contact:      technical
-name:         Senior Director, DNS Infrastructure Group
-organisation: Donuts Inc.
-address:      10500 NE 8th Street, Suite 750
-address:      Bellevue WA 98004
-address:      United States of America (the)
-phone:        +1.425.298.2200
-fax-no:       +1.425.671.0020
-e-mail:       tldtech@donuts.email
+name:         Francisco Obispo
+organisation: Tucows Inc
+address:      96 Mowat Avenue
+address:      Toronto Ontario M6K3M1
+address:      Canada
+phone:        +1.949.903.3449
+e-mail:       trs-ops@tucows.com
 
-nserver:      V0N0.NIC.REALTY 2a01:8840:1a:0:0:0:0:42 65.22.24.42
-nserver:      V0N1.NIC.REALTY 2a01:8840:1b:0:0:0:0:42 65.22.25.42
-nserver:      V0N2.NIC.REALTY 2a01:8840:1c:0:0:0:0:42 65.22.26.42
-nserver:      V0N3.NIC.REALTY 161.232.12.42 2a01:8840:f6:0:0:0:0:42
-nserver:      V2N0.NIC.REALTY 2a01:8840:1d:0:0:0:0:42 65.22.27.42
-nserver:      V2N1.NIC.REALTY 161.232.13.42 2a01:8840:f7:0:0:0:0:42
-ds-rdata:     5506 8 2 20e276179f6ef711cd63c5e4851c2c3b4917fcff813c708aa902c305b8960484
+nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
+nserver:      NS01.TRS-DNS.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
+nserver:      NS01.TRS-DNS.NET 64.96.2.1
+nserver:      NS01.TRS-DNS.ORG 185.159.197.3 2620:10a:80aa:0:0:0:0:3
+ds-rdata:     12180 13 2 a7c0a9bbad77a51be0e829afbfc839aa15ad00945bbc03e3ed719d0710023957
 
 whois:        whois.nic.realty
 
 status:       ACTIVE
-remarks:      Registration information: https://donuts.domains/
+remarks:      Registration information: https://internetnaming.co
 
 created:      2015-06-11
-changed:      2021-11-02
+changed:      2024-05-21
 source:       IANA
 
