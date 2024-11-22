@@ -5,16 +5,14 @@
 domain:       WOODSIDE
 
 organisation: Woodside Petroleum Limited
-address:      Woodside Plaza
-address:      240 St Georges Terrace
+address:      11 Mount Street
 address:      Perth WA 6000
 address:      Australia
 
 contact:      administrative
 name:         Architecture Team Lead
 organisation: Woodside Petroleum Limited
-address:      Woodside Plaza
-address:      240 St Georges Terrace
+address:      11 Mount Street
 address:      Perth WA 6000
 address:      Australia
 phone:        +61.893484000
@@ -37,7 +35,6 @@ nserver:      C.NIC.WOODSIDE 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      X.NIC.WOODSIDE 156.154.172.82 2610:a1:1074:0:0:0:1:82
 nserver:      Y.NIC.WOODSIDE 156.154.173.82 2610:a1:1075:0:0:0:1:82
 nserver:      Z.NIC.WOODSIDE 156.154.174.82 2610:a1:1076:0:0:0:1:82
-ds-rdata:     38707 8 2 e4254780378e282920ae5d44e210da28bf5d7fadb0afca33e400b74c5086ddc0
 ds-rdata:     346 8 2 3c0f130c65367a18eb0943151d1678c687090b6acae1432d4cbe7585ab6745cf
 
 whois:        whois.nic.woodside
@@ -46,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.woodside.com.au/
 
 created:      2016-01-08
-changed:      2023-07-31
+changed:      2024-10-31
 source:       IANA
 
