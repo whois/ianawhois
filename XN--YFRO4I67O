@@ -31,19 +31,19 @@ address:      Singapore
 phone:        +65 6659 2534
 e-mail:       dna@sgnic.sg
 
-nserver:      DSANY.SGNIC.SG 120.29.253.11 2001:dcd:7:0:0:0:0:11
 nserver:      DSANY2.SGNIC.SG 185.159.197.170 2620:10a:80aa:0:0:0:0:170
 nserver:      DSANY3.SGNIC.SG 185.159.198.170 2620:10a:80ab:0:0:0:0:170
+nserver:      DSANY4.SGNIC.SG 2a0e:dbc0:1:0:0:0:0:65 45.142.220.65
 nserver:      NS4.APNIC.NET 2001:dd8:12:0:0:0:0:53 202.12.31.53
 nserver:      PCH.SGZONES.SG 2001:500:14:6057:ad:0:0:1 204.61.216.57
-ds-rdata:     52561 8 2 8c1b2380f8ef57daa14b40ab3f447a62838ca148d2d778e048aee2d6ff374755
+ds-rdata:     42197 8 2 d8001fe0b7a80f256a0ee1789c909f320bbb43964fb8e211274ab22220074c41
 
-whois:        whois.sgnic.sg
+whois:        whois.zh.sgnic.sg
 
 status:       ACTIVE
 remarks:      Registration information: http://www.sgnic.sg/
 
 created:      2011-02-05
-changed:      2023-03-07
+changed:      2024-11-19
 source:       IANA
 
