@@ -35,7 +35,7 @@ nserver:      TLD1.NIC.SAKURA 103.47.2.3 2001:dda:0:0:0:0:0:3
 nserver:      TLD2.NIC.SAKURA 117.104.133.18 2001:218:3001:0:0:0:0:3
 nserver:      TLD3.NIC.SAKURA 2a01:8840:1ba:0:0:0:0:9 65.22.40.9
 nserver:      TLD5.NIC.SAKURA 2a01:8840:1ba:0:0:0:0:137 65.22.40.137
-ds-rdata:     52222 8 2 fb0b3a130e7587e2aab1f675f289d87ad4105a64a14e346e9d18f359e3b0f741
+ds-rdata:     22372 8 2 6e2fa59e925e1876e30d00fbec2c23d7f292d5f81537bac5685a8f1e0f6139c8
 
 whois:        
 
@@ -44,6 +44,6 @@ remarks:      Registration information:
 remarks:      https://dot-sakura.sakura.ad.jp/
 
 created:      2015-06-04
-changed:      2023-01-18
+changed:      2023-12-01
 source:       IANA
 
