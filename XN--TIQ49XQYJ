@@ -36,7 +36,6 @@ nserver:      C.NIC.XN--TIQ49XQYJ 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      X.NIC.XN--TIQ49XQYJ 156.154.172.82 2610:a1:1074:0:0:0:1:82
 nserver:      Y.NIC.XN--TIQ49XQYJ 156.154.173.82 2610:a1:1075:0:0:0:1:82
 nserver:      Z.NIC.XN--TIQ49XQYJ 156.154.174.82 2610:a1:1076:0:0:0:1:82
-ds-rdata:     2386 8 2 ef5bb5c8dbc6edfbb51f26333f779dabb955fdbeb68f276027494846ec8ed9df
 ds-rdata:     20710 8 2 c1fbac37a1a9b6fb9dc85ba47c7f98ad7cf2d78cbbd3cda8c93d389870616ba0
 
 whois:        whois.nic.xn--tiq49xqyj
@@ -45,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.pccs.va
 
 created:      2016-11-16
-changed:      2023-07-31
+changed:      2023-12-21
 source:       IANA
 
