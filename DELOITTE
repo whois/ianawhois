@@ -31,8 +31,8 @@ nserver:      A.NIC.DELOITTE 194.169.218.80 2001:67c:13cc:0:0:0:1:80
 nserver:      B.NIC.DELOITTE 185.24.64.80 2a04:2b00:13cc:0:0:0:1:80
 nserver:      C.NIC.DELOITTE 212.18.248.80 2a04:2b00:13ee:0:0:0:0:80
 nserver:      D.NIC.DELOITTE 212.18.249.80 2a04:2b00:13ff:0:0:0:0:80
-ds-rdata:     29626 7 2 456b29b8b2f010f1159bd118e9a3e9fcb29e385e3bf206199379a65e5baa7f7d
 ds-rdata:     41922 13 2 fd71f550c4e968f52e85dfb13eb0da6068b0fa4970ade6cbf96300c872a90998
+ds-rdata:     48890 13 2 1f0e244529dab8ba76058cfade19a8142c4f747e9cddfc74a990c324536e049f
 
 whois:        whois.nic.deloitte
 
@@ -40,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.deloitte
 
 created:      2015-12-23
-changed:      2023-02-14
+changed:      2023-11-22
 source:       IANA
 
