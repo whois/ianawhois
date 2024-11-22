@@ -36,12 +36,12 @@ nserver:      C.DNS.PT 2001:500:14:6105:ad:0:0:1 204.61.216.105
 nserver:      CV01.DNS.PT 185.39.208.18 2a04:6d80:0:0:0:0:0:18
 nserver:      NS.DNS.CV 41.221.192.220
 
-whois:        
+whois:        whois.nic.cv
 
 status:       ACTIVE
 remarks:      Registration information: http://www.dns.cv/
 
 created:      1996-10-21
-changed:      2023-06-07
+changed:      2024-02-26
 source:       IANA
 
