@@ -39,6 +39,7 @@ nserver:      NS3.CONAC.CN 111.235.163.1 2401:b400:9:0:0:0:0:1
 nserver:      NS4.CONAC.CN 111.235.164.1
 nserver:      NS5.CONAC.CN 111.235.165.1
 ds-rdata:     51421 8 2 9d673623e84d7e10b2aa5b376a3f617665f8b38ef442e8a7e86f0f18161c7801
+ds-rdata:     8245 8 2 ee6f394bd32d4bb28d43d2f2172121c90941e133d5b5bdbdcb72f86765bb95eb
 
 whois:        whois.conac.cn
 
@@ -46,6 +47,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.conac.cn
 
 created:      2013-12-12
-changed:      2019-08-27
+changed:      2024-07-18
 source:       IANA
 
