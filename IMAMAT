@@ -36,12 +36,12 @@ nserver:      B0.NIC.IMAMAT 2a01:8840:2b:0:0:0:0:9 65.22.45.9
 nserver:      C0.NIC.IMAMAT 2a01:8840:2c:0:0:0:0:9 65.22.46.9
 ds-rdata:     50965 8 2 a76c5431030fbef036b5008bc289a1614207d3447e7d8d565065f50ed9543e6a
 
-whois:        whois.afilias-srs.net
+whois:        whois.nic.imamat
 
 status:       ACTIVE
 remarks:      Registration information: http://www.akdn.org
 
 created:      2016-04-07
-changed:      2021-03-03
+changed:      2023-08-25
 source:       IANA
 
