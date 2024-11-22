@@ -38,10 +38,9 @@ nserver:      B.DNS.TW 210.201.138.58 2404:0:10a0:0:0:0:0:58
 nserver:      C.DNS.TW 2001:b020:0:77:0:0:0:1 203.66.87.201
 nserver:      D.DNS.TW 2001:4541:9010:7:0:0:0:186 60.199.165.186
 nserver:      E.DNS.TW 2001:b000:1e0:c000:0:0:0:11 211.20.231.11
-nserver:      F.DNS.TW 163.28.1.10
-nserver:      G.DNS.TW 2001:cd8:400:0:0:0:0:195 220.229.225.195
+nserver:      F.DNS.TW 182.173.0.10
+nserver:      G.DNS.TW 34.141.111.176
 nserver:      H.DNS.TW 2001:500:14:6119:ad:0:0:1 204.61.216.119
-nserver:      NS.TWNIC.NET 192.83.166.11 2001:288:1:1006:0:0:0:11
 ds-rdata:     51277 8 2 462da9af501d2b1eef6725522db5972f8cd2490b51d92088ff1e3d2de0ec7bcd
 
 whois:        whois.twnic.net.tw
@@ -50,6 +49,6 @@ status:       ACTIVE
 remarks:      Registration information: http://rs.twnic.net.tw
 
 created:      1989-07-31
-changed:      2023-01-18
+changed:      2024-02-23
 source:       IANA
 
