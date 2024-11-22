@@ -32,9 +32,7 @@ nserver:      A.NIC.LLP 194.169.218.157 2001:67c:13cc:0:0:0:1:157
 nserver:      B.NIC.LLP 185.24.64.157 2a04:2b00:13cc:0:0:0:1:157
 nserver:      C.NIC.LLP 212.18.248.157 2a04:2b00:13ee:0:0:0:0:157
 nserver:      D.NIC.LLP 212.18.249.157 2a04:2b00:13ff:0:0:0:0:157
-ds-rdata:     27216 7 1 5de35ece1ae46bba06281c8da6ffda34b167ac2e
-ds-rdata:     27216 7 2 b95649568bd88f57c7500a9e21d1d181065170cadbb881e299fd82e3a9909c23
-ds-rdata:     16200 7 2 0d84d15bf51c1a1c7eac512663c58bffddb5cb5e3aa960399d551754a471870e
+ds-rdata:     10892 13 2 ea4556a4924c169b1dd2e0cbf16c6b63c7e71d2c33be3f70a5212ea6f3677246
 
 whois:        whois.nic.llp
 
@@ -42,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: https://intercap.inc
 
 created:      2019-11-20
-changed:      2023-01-20
+changed:      2024-01-31
 source:       IANA
 
