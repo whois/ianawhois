@@ -11,15 +11,13 @@ address:      Redwood Shores CA 94065
 address:      United States of America (the)
 
 contact:      administrative
-name:         Domain Administrator
-organisation: Oracle Corporation
-address:      500 Oracle Parkway
-address:      M/S 501ip3
-address:      Redwood Shores CA 94065
+name:         Chris Niemi
+organisation: Markmonitor Inc.
+address:      1120 S. Rackham Way, Suite 300
+address:      Meridian ID 83642
 address:      United States of America (the)
-phone:        +1.6505062220
-fax-no:       +1.6505062120
-e-mail:       ngtld-oracle@cscinfo.com
+phone:        +1.208-389-5740
+e-mail:       gtldservices@markmonitor.com
 
 contact:      technical
 name:         Howard Eland, Senior Director, DNS Infrastructure Group
@@ -44,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      2015-01-15
-changed:      2023-03-20
+changed:      2024-02-09
 source:       IANA
 
