@@ -4,20 +4,19 @@
 
 domain:       KI
 
-organisation: Ministry of Communications, Transport, and Tourism Development
+organisation: Ministry of Information, Communications and Transport (MICT)
 address:      Betio
 address:      Tarawa
 address:      Kiribati
 
 contact:      administrative
-name:         ICT Advisor
-organisation: Ministry of Communications, Transport and Tourism Development
+name:         Director of National ICT
+organisation: Ministry of Information, Communications and Transport
 address:      Betio
 address:      Tarawa
 address:      Kiribati
 phone:        +686 26003
-fax-no:       +686 26193
-e-mail:       ictadvisor@mcttd.gov.ki
+e-mail:       dnict@mict.gov.ki
 
 contact:      technical
 name:         Kaboterenga Romatoa
@@ -29,7 +28,8 @@ address:      Kiribati
 phone:        +686 25488
 e-mail:       kaboterenga.romatoa@cck.ki
 
-nserver:      NS.COCCA.FR 185.17.236.93 2a03:dd40:3:0:0:0:0:93
+nserver:      ANYCASTDNS1.NIC.KI 185.38.108.108 2a00:fea0:dead:0:0:0:0:beef
+nserver:      ANYCASTDNS2.NIC.KI 185.28.194.194
 nserver:      PCH.NIC.KI 2001:500:14:6026:ad:0:0:1 204.61.216.26
 ds-rdata:     59540 8 2 fd3b27e5c171b883fe2815dde7fbbe7f2e5af826bff47c33b5970f53e2a855de
 
@@ -39,6 +39,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.ki
 
 created:      1995-04-19
-changed:      2020-07-08
+changed:      2024-02-06
 source:       IANA
 
