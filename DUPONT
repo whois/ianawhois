@@ -11,32 +11,32 @@ address:      Wilmington DE 19805
 address:      United States of America (the)
 
 contact:      administrative
-name:         Karen Galbraith
+name:         Dasaradharamaraju Uppalapati
 organisation: DuPont Specialty Products USA, LLC
 address:      CRP 730/3rd floor, 974 Centre Road
 address:      P.O. Box 2915
 address:      Wilmington DE 19805
 address:      United States of America (the)
-phone:        +1 302 992 2941
+phone:        +91 8498887111
 e-mail:       contact@dupont.com
 
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
 
-nserver:      NS1.DNS.NIC.DUPONT 156.154.144.52 2610:a1:1071:0:0:0:0:34
-nserver:      NS2.DNS.NIC.DUPONT 156.154.145.52 2610:a1:1072:0:0:0:0:34
-nserver:      NS3.DNS.NIC.DUPONT 156.154.159.52 2610:a1:1073:0:0:0:0:34
+nserver:      A.NIC.DUPONT 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.DUPONT 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.DUPONT 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS4.DNS.NIC.DUPONT 156.154.156.52 2610:a1:1074:0:0:0:0:34
 nserver:      NS5.DNS.NIC.DUPONT 156.154.157.52 2610:a1:1075:0:0:0:0:34
 nserver:      NS6.DNS.NIC.DUPONT 156.154.158.52 2610:a1:1076:0:0:0:0:34
-ds-rdata:     13507 8 2 2a1bbc71245a57110165649e9c31bb6cf87dbfcfc3cc3f45ec4c7845f5dedbba
+ds-rdata:     44914 8 2 f94ef24de9794acaf4920bfe73388a466179c339bd33ddea11b1decd2a45611b
 
 whois:        
 
@@ -44,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.dupont.com
 
 created:      2016-05-05
-changed:      2022-07-21
+changed:      2024-06-04
 source:       IANA
 
