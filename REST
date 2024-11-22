@@ -5,37 +5,38 @@
 domain:       REST
 
 organisation: Punto 2012 Sociedad Anonima Promotora de Inversion de Capital Variable
-address:      Juan Escutia 29 Col. Condesa
-address:      Mexico D.F. 06140
+address:      Sierra Mojada 405, Nivel 3 Oficina B,
+address:      Col. Lomas De Chapultepec III Sección,
+address:      Miguel Hidalgo
+address:      Ciudad De México 11000
 address:      Mexico
 
 contact:      administrative
 name:         CEO
 organisation: Punto 2012 Sociedad Anonima Promotora de Inversion de Capital Variable
-address:      Juan Escutia 29 Col. Condesa
-address:      Mexico D.F. 06140
+address:      Sierra Mojada 405, Nivel 3 Oficina B,
+address:      Col. Lomas De Chapultepec III Sección,
+address:      Miguel Hidalgo
+address:      Ciudad De México 11000
 address:      Mexico
 phone:        +52.5585895544
 fax-no:       +52.5552505187
 e-mail:       info@punto2012.com
 
 contact:      technical
-name:         CTO
-organisation: CentralNic
-address:      Saddlers House, 4th Floor
-address:      44 Gutter Lane
-address:      London EC2V 6BR
-address:      United Kingdom of Great Britain and Northern Ireland (the)
-phone:        +44 20 33 88 0600
-fax-no:       +44 20 33 88 0601
-e-mail:       tld.ops@centralnic.com
+name:         Francisco Obispo
+organisation: Tucows Inc
+address:      96 Mowat Avenue
+address:      Toronto Ontario M6K3M1
+address:      Canada
+phone:        +1.949.903.3449
+e-mail:       trs-ops@tucows.com
 
-nserver:      A.NIC.REST 194.169.218.35 2001:67c:13cc:0:0:0:1:35
-nserver:      B.NIC.REST 185.24.64.35 2a04:2b00:13cc:0:0:0:1:35
-nserver:      C.NIC.REST 212.18.248.35 2a04:2b00:13ee:0:0:0:0:35
-nserver:      D.NIC.REST 212.18.249.35 2a04:2b00:13ff:0:0:0:0:35
-ds-rdata:     25199 8 1 c43af7dec8b165d6c8b832bcb984c2407ef5ed8d
-ds-rdata:     25199 8 2 8f477474f47c387d246b6849202ca0c54c4d5a50d322c79718a98100314d08b7
+nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
+nserver:      NS01.TRS-DNS.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
+nserver:      NS01.TRS-DNS.NET 64.96.2.1
+nserver:      NS01.TRS-DNS.ORG 185.159.197.3 2620:10a:80aa:0:0:0:0:3
+ds-rdata:     50905 13 2 a417bf8770704c9fe539aacd4c60d0d1f06b64e6367ba2130af2b60c96508adf
 
 whois:        whois.nic.rest
 
@@ -43,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.register.rest/
 
 created:      2014-03-06
-changed:      2021-10-12
+changed:      2024-05-22
 source:       IANA
 
