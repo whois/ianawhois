@@ -35,6 +35,7 @@ e-mail:       tech-c@nic.lv
 
 nserver:      A.NIC.LV 194.0.48.1 2001:678:7c:0:0:0:0:7c
 nserver:      B.NIC.LV 92.240.70.1
+nserver:      C.NIC.LV 185.159.199.140 2620:10a:80ac:0:0:0:0:140
 nserver:      D.NIC.LV 194.0.8.1 2001:678:b:1:0:0:0:1
 nserver:      N.NIC.LV 194.146.106.150 2001:67c:1010:38:0:0:0:53
 nserver:      NU.NIC.LV 2a01:3f0:0:312:0:0:0:53 77.72.229.249
@@ -47,6 +48,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.lv/
 
 created:      1993-04-29
-changed:      2021-12-23
+changed:      2024-10-04
 source:       IANA
 
