@@ -11,7 +11,7 @@ address:      Tangerang Banten 15345
 address:      Indonesia
 
 contact:      administrative
-name:         Muhammad Neil El Himam
+name:         Admin Contact
 organisation: Perkumpulan Pengelola Nama Domain Internet Indonesia (PANDI)
 address:      Icon Business Park, Unit L1-L2
 address:      Jalan Raya Cisauk - LAPAN
@@ -22,7 +22,7 @@ fax-no:       +62 21 3005 5789
 e-mail:       admin@pandi.id
 
 contact:      technical
-name:         Aidil Chendramata
+name:         Tech Contact
 organisation: Perkumpulan Pengelola Nama Domain Internet Indonesia (PANDI)
 address:      Icon Business Park, Unit L1-L2
 address:      Jalan Raya Cisauk - LAPAN
@@ -45,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: https://pandi.id
 
 created:      1993-02-27
-changed:      2021-10-12
+changed:      2023-11-22
 source:       IANA
 
