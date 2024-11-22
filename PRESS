@@ -4,24 +4,19 @@
 
 domain:       PRESS
 
-organisation: Radix FZC
-address:      Directiplex
-address:      Next to Andheri Subway
-address:      Old Nagardas Road, Andheri (East)
-address:      Mumbai Maharashtra 400069
-address:      India
+organisation: Radix Technologies Inc.
+address:      Services Cayman Limited, P.O. Box 10008, Willow House, Cricket Square, Grand Cayman
+address:      KY1-1001
+address:      Cayman Islands (the)
 
 contact:      administrative
 name:         Director
-organisation: Radix FZC
-address:      Directiplex
-address:      Next to Andheri Subway
-address:      Old Nagardas Road, Andheri (East)
-address:      Mumbai Maharashtra 400069
-address:      India
-phone:        +1.4154494774x8522
-fax-no:       +91.2230797508
-e-mail:       admin@radixregistry.com
+organisation: Radix Technologies Inc.
+address:      Services Cayman Limited, P.O. Box 10008, Willow House, Cricket Square, Grand Cayman
+address:      KY1-1001
+address:      Cayman Islands (the)
+phone:        +971 44487934
+e-mail:       admin@radix.email
 
 contact:      technical
 name:         CTO
@@ -38,15 +33,15 @@ nserver:      A.NIC.PRESS 194.169.218.34 2001:67c:13cc:0:0:0:1:34
 nserver:      B.NIC.PRESS 185.24.64.34 2a04:2b00:13cc:0:0:0:1:34
 nserver:      E.NIC.PRESS 212.18.248.34 2a04:2b00:13ee:0:0:0:0:34
 nserver:      F.NIC.PRESS 212.18.249.34 2a04:2b00:13ff:0:0:0:0:34
-ds-rdata:     4289 8 1 2efc540d13139b56fc1041247b275bc5cc6de009
 ds-rdata:     4289 8 2 03a4602f454dd05e3ef2b7a9507f7e4eeb78ba9259e35da7c3b20fd8da43341a
+ds-rdata:     56540 8 2 9e422a4e7be0a741b0c7e5c5ca984afa95b0c2f512f13be981e47aecf87ea581
 
 whois:        whois.nic.press
 
 status:       ACTIVE
-remarks:      Registration information: http://radix.website
+remarks:      Registration information: https://radix.website/
 
 created:      2014-05-22
-changed:      2021-10-12
+changed:      2024-03-11
 source:       IANA
 
