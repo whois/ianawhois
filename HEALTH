@@ -5,15 +5,15 @@
 domain:       HEALTH
 
 organisation: Registry Services, LLC
-address:      2155 E. GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 
 contact:      administrative
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E. GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480-505-8800
 fax-no:       +1 480-624-2546
@@ -22,8 +22,8 @@ e-mail:       iana@registry.godaddy
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
@@ -35,7 +35,7 @@ nserver:      C.NIC.HEALTH 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      NS1.DNS.NIC.HEALTH 156.154.144.247 2610:a1:1071:0:0:0:0:f7
 nserver:      NS2.DNS.NIC.HEALTH 156.154.145.247 2610:a1:1072:0:0:0:0:f7
 nserver:      NS3.DNS.NIC.HEALTH 156.154.159.247 2610:a1:1073:0:0:0:0:f7
-ds-rdata:     6277 8 2 4a5ecb53ae18b611b3345c9549e55e35944fee84f50bc150d8667cf1449dfd06
+ds-rdata:     47641 8 2 b1f415477ad6386eceb54957a181ec70d0b3ccdbc09c5df6dcdd063f69bf0631
 
 whois:        
 
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.dothealth.co
 
 created:      2015-09-17
-changed:      2023-06-26
+changed:      2024-04-16
 source:       IANA
 
