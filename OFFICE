@@ -20,29 +20,33 @@ fax-no:       +1 425-457-2511
 e-mail:       tlddom@microsoft.com
 
 contact:      technical
-name:         IANA Contact
-organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
-address:      United States of America (the)
-phone:        +1 480 505 8800
-fax-no:       +1 480 624 2546
-e-mail:       iana@registry.godaddy
+name:         TLD Registry Services Technical
+organisation: Nominet
+address:      Minerva House,
+address:      Edmund Halley Road
+address:      Oxford Science Park
+address:      Oxford OX4 4DQ
+address:      United Kingdom of Great Britain and Northern Ireland (the)
+phone:        +44.1865332211
+e-mail:       registrytechnical@nominet.uk
 
-nserver:      A.NIC.OFFICE 2001:dcd:1:0:0:0:0:9 37.209.192.9
-nserver:      B.NIC.OFFICE 2001:dcd:2:0:0:0:0:9 37.209.194.9
-nserver:      C.NIC.OFFICE 2001:dcd:3:0:0:0:0:9 37.209.196.9
-nserver:      NS1.DNS.NIC.OFFICE 156.154.144.126 2610:a1:1071:0:0:0:0:7e
-nserver:      NS2.DNS.NIC.OFFICE 156.154.145.126 2610:a1:1072:0:0:0:0:7e
-nserver:      NS3.DNS.NIC.OFFICE 156.154.159.126 2610:a1:1073:0:0:0:0:7e
-ds-rdata:     6562 8 2 dbfb7bbbf0bed181cf7797bee3565a527b9d4746148ad3b2b835ecd1531ba925
+nserver:      DNS1.NIC.MICROSOFT 213.248.219.132 2a01:618:403:0:0:0:0:132
+nserver:      DNS2.NIC.MICROSOFT 103.49.83.132 2401:fd80:403:0:0:0:0:132
+nserver:      DNS3.NIC.MICROSOFT 213.248.223.132 2a01:618:407:0:0:0:0:132
+nserver:      DNS4.NIC.MICROSOFT 2401:fd80:407:0:0:0:0:132 43.230.51.132
+nserver:      DNSA.NIC.MICROSOFT 156.154.100.3 2001:502:ad09:0:0:0:0:3
+nserver:      DNSB.NIC.MICROSOFT 156.154.101.3 2001:502:2eda:0:0:0:0:3
+nserver:      DNSC.NIC.MICROSOFT 156.154.102.3 2610:a1:1009:0:0:0:0:3
+nserver:      DNSD.NIC.MICROSOFT 156.154.103.3 2610:a1:1010:0:0:0:0:3
+ds-rdata:     9475 8 2 8193e9e63984c0eebac5e602c134ca712c7843002bcddef3c08a199ac9d4308d
+ds-rdata:     16229 8 2 274a1641ddcc58b8fa48db227dd26a8785b201363bb99a9ede5b5d2693b15def
 
-whois:        
+whois:        whois.nic.office
 
 status:       ACTIVE
 remarks:      Registration information: http://www.office.com
 
 created:      2015-06-04
-changed:      2022-07-21
+changed:      2024-09-17
 source:       IANA
 
