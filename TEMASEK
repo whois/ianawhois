@@ -38,13 +38,13 @@ nserver:      B0.NIC.TEMASEK 2a01:8840:8b:0:0:0:0:9 65.22.141.9
 nserver:      C0.NIC.TEMASEK 2a01:8840:8c:0:0:0:0:9 65.22.142.9
 ds-rdata:     35989 8 2 225862860c611d932591e3173ca1ff2a1903716878ee30981ab59e1d179570bb
 
-whois:        whois.afilias-srs.net
+whois:        whois.nic.temasek
 
 status:       ACTIVE
 remarks:      Registration information:
 remarks:      http://www.temasek.com.sg/nictemasek
 
 created:      2014-12-18
-changed:      2020-11-17
+changed:      2023-08-11
 source:       IANA
 
