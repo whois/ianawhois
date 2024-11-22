@@ -35,11 +35,11 @@ nserver:      A.ZDNSCLOUD.COM 203.99.24.1
 nserver:      B.ZDNSCLOUD.COM 203.99.25.1
 nserver:      C.ZDNSCLOUD.COM 203.99.26.1
 nserver:      D.ZDNSCLOUD.COM 203.99.27.1
-nserver:      F.ZDNSCLOUD.COM 114.67.16.204
-nserver:      G.ZDNSCLOUD.COM 42.62.2.16
+nserver:      F.ZDNSCLOUD.COM 116.169.54.111
+nserver:      G.ZDNSCLOUD.COM 223.72.199.37
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
-ds-rdata:     51527 8 2 79fe987f5edef21f8afc9a56dfe663d4b6ae8e2b046f82ea092571b6b2871d96
+ds-rdata:     28037 8 2 3b3e219bab1692507eb991da755f11ef1920d5f3402b4e9ab28cf86156948967
 
 whois:        whois.nic.unicom
 
@@ -47,6 +47,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.chinaunicom.cn
 
 created:      2016-01-22
-changed:      2022-12-08
+changed:      2024-11-13
 source:       IANA
 
