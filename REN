@@ -30,15 +30,15 @@ address:      China
 phone:        86-10-58812426
 e-mail:       gaolei@zdns.cn
 
-nserver:      A.ZDNSCLOUD.COM 203.99.24.1
-nserver:      B.ZDNSCLOUD.COM 203.99.25.1
+nserver:      A.ZDNSCLOUD.CN 203.99.24.1
+nserver:      B.ZDNSCLOUD.CN 203.99.25.1
 nserver:      C.ZDNSCLOUD.COM 203.99.26.1
 nserver:      D.ZDNSCLOUD.COM 203.99.27.1
-nserver:      F.ZDNSCLOUD.COM 114.67.16.204
-nserver:      G.ZDNSCLOUD.COM 42.62.2.16
-nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
+nserver:      F.ZDNSCLOUD.CN 116.169.54.111
+nserver:      G.ZDNSCLOUD.COM 223.72.199.37
+nserver:      I.ZDNSCLOUD.CN 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
-ds-rdata:     770 8 2 897ea15932fa4407809d32ca7c7da4b0c0e455316a897970f152109f18ce6cd9
+ds-rdata:     6712 8 2 06090fb53ae539ce051d9236a0c6b5fd58361167bc0d7f5e8e9eab4f62d4fffb
 
 whois:        whois.nic.ren
 
@@ -46,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.ren/
 
 created:      2014-02-28
-changed:      2022-12-08
+changed:      2024-10-16
 source:       IANA
 
