@@ -11,20 +11,20 @@ address:      Seattle WA 98109
 address:      United States of America (the)
 
 contact:      administrative
-name:         Carolyn Mitchell
+name:         Program Manager, Registry
 organisation: Amazon Registry Services, Inc.
 address:      410 Terry Avenue North
 address:      Seattle WA 98109
 address:      United States of America (the)
 phone:        +1 206 646 5990
 fax-no:       +1-206-946-7702
-e-mail:       consumerelectronics-rzm@amazon.com
+e-mail:       arsi-rzm@amazon.com
 
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
@@ -36,7 +36,7 @@ nserver:      C.NIC.XN--FCT429K 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      NS1.DNS.NIC.XN--FCT429K 156.154.169.67 2610:a1:1071:0:0:0:1:43
 nserver:      NS2.DNS.NIC.XN--FCT429K 156.154.170.67 2610:a1:1072:0:0:0:1:43
 nserver:      NS3.DNS.NIC.XN--FCT429K 156.154.171.67 2610:a1:1073:0:0:0:1:43
-ds-rdata:     43072 8 2 0c2dfc5910ab7282c7c3201810c8a465c2ad7a6c6c4e26b5d8a2282f0387685d
+ds-rdata:     8479 8 2 c4fa8d520fbb397127d969d901cf7d4cba2341020e00066179f240c9b631005b
 
 whois:        
 
@@ -44,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.amazonregistry.com
 
 created:      2016-03-18
-changed:      2022-07-21
+changed:      2024-05-11
 source:       IANA
 
