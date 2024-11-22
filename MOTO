@@ -21,27 +21,27 @@ e-mail:       motorola@winterfeldt.law
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
 
-nserver:      NS1.DNS.NIC.MOTO 156.154.169.81 2610:a1:1071:0:0:0:1:51
-nserver:      NS2.DNS.NIC.MOTO 156.154.170.81 2610:a1:1072:0:0:0:1:51
-nserver:      NS3.DNS.NIC.MOTO 156.154.171.81 2610:a1:1073:0:0:0:1:51
+nserver:      A.NIC.MOTO 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.MOTO 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.MOTO 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS4.DNS.NIC.MOTO 156.154.172.81 2610:a1:1074:0:0:0:1:51
 nserver:      NS5.DNS.NIC.MOTO 156.154.173.81 2610:a1:1075:0:0:0:1:51
 nserver:      NS6.DNS.NIC.MOTO 156.154.174.81 2610:a1:1076:0:0:0:1:51
-ds-rdata:     10705 8 2 a039b06852099a6b4e7eafe4f4187f6d3b5747953413ce454ead9a4576301c5f
+ds-rdata:     5671 8 2 6c1c11faaa1afb7c6198f3cd2bad469e9c0e5d1d714189a4992699093440d97c
 
-whois:        
+whois:        whois.nic.moto
 
 status:       ACTIVE
 remarks:      Registration information: http://www.motorola.com
 
 created:      2016-09-30
-changed:      2022-07-21
+changed:      2024-05-11
 source:       IANA
 
