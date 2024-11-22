@@ -31,6 +31,7 @@ nserver:      A.LACTLD.ORG 200.0.68.10 2801:14:a000:0:0:0:0:10
 nserver:      MS-NS.ANYCAST.PCH.NET 2001:500:14:6033:ad:0:0:1 204.61.216.33
 nserver:      NS1.ANYCASTDNS.CZ 185.38.108.108 2a00:fea0:dead:0:0:0:0:beef
 nserver:      NS2.ANYCASTDNS.CZ 185.28.194.194
+ds-rdata:     50317 8 2 a32757d135853b428cc7825f0bb88fa79f73a2fe497fb4e9f69611cc1687572a
 
 whois:        whois.nic.ms
 
@@ -38,6 +39,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.ms
 
 created:      1997-03-06
-changed:      2022-11-21
+changed:      2024-04-17
 source:       IANA
 
