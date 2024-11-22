@@ -33,12 +33,7 @@ nserver:      A.NIC.GUITARS 194.169.218.149 2001:67c:13cc:0:0:0:1:149
 nserver:      B.NIC.GUITARS 185.24.64.149 2a04:2b00:13cc:0:0:0:1:149
 nserver:      C.NIC.GUITARS 212.18.248.149 2a04:2b00:13ee:0:0:0:0:149
 nserver:      D.NIC.GUITARS 212.18.249.149 2a04:2b00:13ff:0:0:0:0:149
-ds-rdata:     39502 5 1 6186e2c33fb4719080be060e131e9339bf9cfa39
-ds-rdata:     892 5 1 e421d29a8d62e53665069dd9b99e04a86f4fe8e3
-ds-rdata:     892 5 2 aa980f135eb29c27887f8dfcdd0bab90dccf0740ef3f11fb3256b8a6a8c7fbf2
-ds-rdata:     39502 5 2 742844ec01d87eceec0d34b7de1d39e376c697c73d36d90c9d5fad65625b624f
-ds-rdata:     17278 5 2 e0afcc946458dcf20874905a1ed2626cfcea262016ae87bc53f8badfb0d497bb
-ds-rdata:     17278 5 1 c127e898212738f4a0723a1d4feb33b59b7ea719
+ds-rdata:     4948 13 2 3f73ef405d928384f01091e557279473bb46fd506d83e22d22a51a385aad6997
 
 whois:        whois.nic.guitars
 
@@ -46,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.guitars
 
 created:      2014-01-09
-changed:      2022-08-16
+changed:      2024-01-31
 source:       IANA
 
