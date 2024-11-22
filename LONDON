@@ -10,12 +10,12 @@ address:      London SE1 0LL
 address:      United Kingdom of Great Britain and Northern Ireland (the)
 
 contact:      administrative
-name:         IT Systems Lead
+name:         Jo Darwin
 organisation: London & Partners
 address:      169 Union Street
 address:      London SE1 0LL
 address:      United Kingdom of Great Britain and Northern Ireland (the)
-phone:        +44 (0)20 7234 5853
+phone:        +44 (0)7985079805
 e-mail:       contact@domains.london
 
 contact:      technical
@@ -33,8 +33,8 @@ nserver:      A.NIC.LONDON 194.169.218.141 2001:67c:13cc:0:0:0:1:141
 nserver:      B.NIC.LONDON 185.24.64.141 2a04:2b00:13cc:0:0:0:1:141
 nserver:      C.NIC.LONDON 212.18.248.141 2a04:2b00:13ee:0:0:0:0:141
 nserver:      D.NIC.LONDON 212.18.249.141 2a04:2b00:13ff:0:0:0:0:141
-ds-rdata:     11861 8 2 5083facfd25edc276c25d2d3da986f370c82bf31a01821abf462c35800548f77
 ds-rdata:     9956 8 2 dded8bee7362bbbf9f4186b413c901ff293f5897412fd92e5ef507765d0a6443
+ds-rdata:     17464 8 2 bc991b8aaf8a17d5328d74cf6439bf4ec08b21a2968308af2316f01205cdab09
 
 whois:        whois.nic.london
 
@@ -43,6 +43,6 @@ remarks:      Registration information:
 remarks:      http://dotlondondomains.london/
 
 created:      2014-02-13
-changed:      2021-10-13
+changed:      2023-11-06
 source:       IANA
 
