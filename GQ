@@ -5,28 +5,27 @@
 domain:       GQ
 
 organisation: GETESA
-address:      A.P. 494
+address:      Calle Rey Boncoro N 219 APDO 494
 address:      Malabo
 address:      Equatorial Guinea
 
 contact:      administrative
-name:         Jose Antonio Bibang Yembi
-organisation: GETESA
-address:      A.P. 494
+name:         CTO
+organisation: GETESA S.A.
+address:      Calle Rey Boncoro N 219 APDO 494
 address:      Malabo
 address:      Equatorial Guinea
-phone:        +240222268239
-e-mail:       bibang.yembi@orange-getesa.gq
+phone:        +240222100110
+e-mail:       inocencio.ndong@getesa.gq
 
 contact:      technical
-name:         Manager ICT
-organisation: Equatorial Guinea Domains B.V.
-address:      Danzigerkade 23D
-address:      Amsterdam 1013 AP
-address:      Netherlands (the)
-phone:        +31205315726
-fax-no:       +31205315721
-e-mail:       info@equatorialguineadomains.com
+name:         Jefe Departamento Sistemas
+organisation: GETESA S.A.
+address:      Calle Rey Boncoro N 219 APDO 494
+address:      Malabo
+address:      Equatorial Guinea
+phone:        +240222254117
+e-mail:       sabino.nsue@getesa.gq
 
 nserver:      A.NS.GQ 185.21.168.65 2a04:1b00:10:0:0:0:0:1
 nserver:      B.NS.GQ 185.21.169.65 2a04:1b00:11:0:0:0:0:1
@@ -39,6 +38,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.dominio.gq
 
 created:      1997-07-10
-changed:      2015-12-24
+changed:      2023-08-14
 source:       IANA
 
