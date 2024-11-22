@@ -35,12 +35,12 @@ phone:        +52 (81) 8864 2600
 e-mail:       tech-iana@nic.mx
 
 nserver:      C.MX-NS.MX 192.100.224.1 2001:1258:0:0:0:0:0:1
-nserver:      E.MX-NS.MX 189.201.244.1
-nserver:      I.MX-NS.MX 207.248.68.1
+nserver:      E.MX-NS.MX 189.201.244.1 2801:c4:c0:0:0:0:0:1
+nserver:      I.MX-NS.MX 207.248.68.1 2801:c4:d0:0:0:0:0:1
 nserver:      M.MX-NS.MX 200.94.176.1 2001:13c7:7000:0:0:0:0:1
-nserver:      O.MX-NS.MX 200.23.1.1
-nserver:      X.MX-NS.MX 201.131.252.1
-ds-rdata:     5714 8 2 f98c2f8fd23ee07ae29137fa6b2ac6bd44be32d684fd06bb894ee307c56700e5
+nserver:      O.MX-NS.MX 200.23.1.1 2001:1201:0:0:0:0:0:1
+nserver:      X.MX-NS.MX 2001:1201:10:0:0:0:0:1 201.131.252.1
+ds-rdata:     62752 8 2 1b2f55dbf6cfb9eb66b0963daa6bbe2cbbdcb851598fec25ec2ccdc9a3785a12
 
 whois:        whois.mx
 
@@ -48,6 +48,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.registry.mx/
 
 created:      1989-02-01
-changed:      2023-07-18
+changed:      2024-09-27
 source:       IANA
 
