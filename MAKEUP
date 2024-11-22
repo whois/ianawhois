@@ -33,8 +33,8 @@ nserver:      A.NIC.MAKEUP 194.169.218.116 2001:67c:13cc:0:0:0:1:116
 nserver:      B.NIC.MAKEUP 185.24.64.116 2a04:2b00:13cc:0:0:0:1:116
 nserver:      C.NIC.MAKEUP 212.18.248.116 2a04:2b00:13ee:0:0:0:0:116
 nserver:      D.NIC.MAKEUP 212.18.249.116 2a04:2b00:13ff:0:0:0:0:116
-ds-rdata:     64251 8 2 d35bafb6c94ccfff2dd894b0b745c49c0717bcc5348ca5422b1a9405db1cafb8
 ds-rdata:     49310 8 2 335d21fa55d5e1e94ad51a0cd89e8bef3f034c5f842c2ad0a305abedb2603257
+ds-rdata:     34334 8 2 17b774be41d73e0e533db43f9ca06113284d7454cb3744726d09c46676d4532b
 
 whois:        whois.nic.makeup
 
@@ -42,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.makeup/
 
 created:      2015-12-23
-changed:      2022-08-16
+changed:      2024-03-11
 source:       IANA
 
