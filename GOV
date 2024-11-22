@@ -14,34 +14,33 @@ address:      United States of America (the)
 contact:      administrative
 name:         Program Manager
 organisation: Cybersecurity and Infrastructure Security Agency
-address:      4200 Wilson Blvd.
-address:      Arlington VA 22201
+address:      1110 N. Glebe Rd.
+address:      Arlington VA 20598-0645
 address:      United States of America (the)
 phone:        +1 888 282 0870
-e-mail:       dotgov@cisa.dhs.gov
+e-mail:       help@get.gov
 
 contact:      technical
 name:         Registry Customer Service
-organisation: Verisign, Inc.
-address:      12061 Bluemont Way
-address:      Reston VA 20190
+organisation: Cloudflare, Inc.
+address:      101 Townsend St.
+address:      San Francisco CA 94107
 address:      United States of America (the)
-phone:        +1 877 734 4688
-fax-no:       +1 540 301 0160
-e-mail:       registrar@dotgov.gov
+phone:        +1 888 993 5273
+e-mail:       dotgov@cloudflare.com
 
-nserver:      A.GOV-SERVERS.NET 2001:500:4431:0:0:0:2:30 69.36.157.30
-nserver:      B.GOV-SERVERS.NET 209.112.123.30 2620:74:27:0:0:0:2:30
-nserver:      C.GOV-SERVERS.NET 2620:74:28:0:0:0:2:30 69.36.153.30
-nserver:      D.GOV-SERVERS.NET 2620:74:29:0:0:0:2:30 81.19.194.30
-ds-rdata:     7698 8 2 6bc949e638442ead0bdaf0935763c8d003760384ff15ebbd5ce86bb5559561f0
+nserver:      A.NS.GOV 199.33.230.1 2001:503:ff40:0:0:0:0:1
+nserver:      B.NS.GOV 199.33.231.1 2001:503:ff41:0:0:0:0:1
+nserver:      C.NS.GOV 199.33.232.1 2001:503:ff42:0:0:0:0:1
+nserver:      D.NS.GOV 199.33.233.1 2001:503:ff43:0:0:0:0:1
+ds-rdata:     2536 13 2 0baf26b7bbf313a859046fd3b1ee49ddfba33934cfb3e717c21e2a2935c2f259
 
 whois:        whois.dotgov.gov
 
 status:       ACTIVE
-remarks:      Registration information: http://www.dotgov.gov
+remarks:      Registration information: https://get.gov
 
 created:      1985-01-01
-changed:      2022-05-06
+changed:      2024-08-29
 source:       IANA
 
