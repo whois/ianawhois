@@ -33,8 +33,8 @@ nserver:      A.NIC.MOTORCYCLES 194.169.218.135 2001:67c:13cc:0:0:0:1:135
 nserver:      B.NIC.MOTORCYCLES 185.24.64.135 2a04:2b00:13cc:0:0:0:1:135
 nserver:      C.NIC.MOTORCYCLES 212.18.248.135 2a04:2b00:13ee:0:0:0:0:135
 nserver:      D.NIC.MOTORCYCLES 212.18.249.135 2a04:2b00:13ff:0:0:0:0:135
-ds-rdata:     21907 8 2 6aca9a367926ed9773d6feea4671eedf7bf4ddc8c08b7cd8fec415e9dbdfcc66
 ds-rdata:     4906 8 2 b200a2be6fcdbe18e128fcbf7f0e60f646b58f1d6c8842a9243c17aae03e74db
+ds-rdata:     34942 8 2 5a0f6d031f2eabcbc8c3501be933fa32def649ab1172b5c8c51c9be6f38d6c91
 
 whois:        whois.nic.motorcycles
 
@@ -42,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.motorcycles
 
 created:      2014-05-01
-changed:      2022-08-16
+changed:      2024-03-11
 source:       IANA
 
