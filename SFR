@@ -39,10 +39,8 @@ nserver:      A.NIC.SFR 194.169.218.100 2001:67c:13cc:0:0:0:1:100
 nserver:      B.NIC.SFR 185.24.64.100 2a04:2b00:13cc:0:0:0:1:100
 nserver:      C.NIC.SFR 212.18.248.100 2a04:2b00:13ee:0:0:0:0:100
 nserver:      D.NIC.SFR 212.18.249.100 2a04:2b00:13ff:0:0:0:0:100
-ds-rdata:     7923 7 1 e348a086a9bc4c214c16fc529e64bbee506739c4
-ds-rdata:     7923 7 2 e3b4e6b0b3447c29949813283b4308546b1bb895fa1e2a39364f918be581bf01
-ds-rdata:     51274 7 1 bf4509a051e4cb1206784fb08211043be36a495b
-ds-rdata:     51274 7 2 4be38a9fc56f65e77125940e4ffdaccffc39380f3e74bca025b0206eb8e8628d
+ds-rdata:     58083 13 2 14a8a386f7a03b845ebd3b58aa143b9a558bb1a93eb8bb121c03291dd6d537e6
+ds-rdata:     25496 13 2 7516102f6d1f3343dabe0533df34c30b3f189dae89d61f691078ddc753653d9c
 
 whois:        whois.nic.sfr
 
@@ -50,6 +48,6 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      2015-11-12
-changed:      2021-10-12
+changed:      2024-01-31
 source:       IANA
 
