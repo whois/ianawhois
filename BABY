@@ -34,6 +34,7 @@ nserver:      B.NIC.BABY 185.24.64.101 2a04:2b00:13cc:0:0:0:1:101
 nserver:      C.NIC.BABY 212.18.248.101 2a04:2b00:13ee:0:0:0:0:101
 nserver:      D.NIC.BABY 212.18.249.101 2a04:2b00:13ff:0:0:0:0:101
 ds-rdata:     11182 8 2 6b39ccc9ba6c73c818d68522547e5d56db46e13607dc0e83047d6e111067dcb2
+ds-rdata:     14956 8 2 523ec19f90ba1e0cd7292414999aab7a1fe67f878097fac9f18905fc4d68ae08
 
 whois:        whois.nic.baby
 
@@ -41,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.baby/
 
 created:      2016-01-14
-changed:      2022-08-16
+changed:      2024-02-28
 source:       IANA
 
