@@ -34,7 +34,6 @@ nserver:      C.NIC.SANDVIK 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      X.NIC.SANDVIK 156.154.172.82 2610:a1:1074:0:0:0:1:82
 nserver:      Y.NIC.SANDVIK 156.154.173.82 2610:a1:1075:0:0:0:1:82
 nserver:      Z.NIC.SANDVIK 156.154.174.82 2610:a1:1076:0:0:0:1:82
-ds-rdata:     23647 8 2 01ed10d00e4fdf8bb9bf3338bfe2ef3ad80bab54270ce9a42941b6e3dd87781d
 ds-rdata:     16237 8 2 8703222caf60e541964f6804d51eb5d3c1748e095978350689324cf8c45f9f0e
 
 whois:        whois.nic.sandvik
@@ -43,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.sandvik
 
 created:      2015-05-14
-changed:      2023-07-31
+changed:      2023-11-30
 source:       IANA
 
