@@ -23,8 +23,8 @@ e-mail:       dnsmgr@ford.com
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
@@ -36,7 +36,7 @@ nserver:      C.NIC.FORD 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS1.DNS.NIC.FORD 156.154.144.62 2610:a1:1071:0:0:0:0:3e
 nserver:      NS2.DNS.NIC.FORD 156.154.145.62 2610:a1:1072:0:0:0:0:3e
 nserver:      NS3.DNS.NIC.FORD 156.154.159.62 2610:a1:1073:0:0:0:0:3e
-ds-rdata:     31459 8 2 13dfd0c4ac2b97b1294ada48fb4a36e5732739afc11818b4c46fcd17e3fc13df
+ds-rdata:     64471 8 2 200e32097c2e1d54428766bb9e5489316aefec25672d34b24778f71a50e947fb
 
 whois:        
 
@@ -44,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.ford.com
 
 created:      2015-12-10
-changed:      2022-07-21
+changed:      2024-05-11
 source:       IANA
 
