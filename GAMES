@@ -5,30 +5,30 @@
 domain:       GAMES
 
 organisation: Dog Beach, LLC
-address:      c/o Donuts Inc.
+address:      c/o Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 
 contact:      administrative
 name:         Vice President, Engineering
-organisation: Donuts Inc.
+organisation: Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       tldadmin@donuts.email
+e-mail:       tldadmin@identity.digital
 
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
-organisation: Donuts Inc.
+organisation: Identity Digital Limited
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       tldtech@donuts.email
+e-mail:       tldtech@identity.digital
 
 nserver:      V0N0.NIC.GAMES 2a01:8840:16:0:0:0:0:39 65.22.20.39
 nserver:      V0N1.NIC.GAMES 2a01:8840:17:0:0:0:0:39 65.22.21.39
@@ -41,9 +41,9 @@ ds-rdata:     54412 8 2 a5cc38e38a2d92016aaac71830fb380afffb9137bc360f97dd576bd7
 whois:        whois.nic.games
 
 status:       ACTIVE
-remarks:      Registration information: http://www.donuts.domains/
+remarks:      Registration information: https://www.identity.digital/
 
 created:      2016-05-24
-changed:      2021-10-27
+changed:      2023-09-12
 source:       IANA
 
