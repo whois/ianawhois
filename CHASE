@@ -12,30 +12,29 @@ address:      United States of America (the)
 contact:      administrative
 name:         Chris Niemi
 organisation: MarkMonitor Inc.
-address:      391 N. Ancestor Place, Suite 150
-address:      Boise ID 83704
+address:      1120 S. Rackham Way, Suite 300
+address:      Meridian ID 83642
 address:      United States of America (the)
 phone:        +1-208-389-5740
-fax-no:       +1-208-389-5771
 e-mail:       dotchase@markmonitor.com
 
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
 
-nserver:      NS1.DNS.NIC.CHASE 156.154.144.39 2610:a1:1071:0:0:0:0:27
-nserver:      NS2.DNS.NIC.CHASE 156.154.145.39 2610:a1:1072:0:0:0:0:27
-nserver:      NS3.DNS.NIC.CHASE 156.154.159.39 2610:a1:1073:0:0:0:0:27
+nserver:      A.NIC.CHASE 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.CHASE 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.CHASE 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS4.DNS.NIC.CHASE 156.154.156.39 2610:a1:1074:0:0:0:0:27
 nserver:      NS5.DNS.NIC.CHASE 156.154.157.39 2610:a1:1075:0:0:0:0:27
 nserver:      NS6.DNS.NIC.CHASE 156.154.158.39 2610:a1:1076:0:0:0:0:27
-ds-rdata:     35866 8 2 618f99e685339cf7c8afac24ec3c9a7eaa56b41f622d34f23af944b83be839af
+ds-rdata:     38962 8 2 7e231dfe930caa42c760d3298c2f9b4b4f22aadc5a0fe6c7784e4e2177a0e317
 
 whois:        
 
@@ -43,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.jpmorganchase.com
 
 created:      2016-01-14
-changed:      2022-07-21
+changed:      2024-05-11
 source:       IANA
 
