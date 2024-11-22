@@ -37,8 +37,8 @@ nserver:      A.NIC.VIVA 194.169.218.28 2001:67c:13cc:0:0:0:1:28
 nserver:      B.NIC.VIVA 185.24.64.28 2a04:2b00:13cc:0:0:0:1:28
 nserver:      C.NIC.VIVA 212.18.248.28 2a04:2b00:13ee:0:0:0:0:28
 nserver:      D.NIC.VIVA 212.18.249.28 2a04:2b00:13ff:0:0:0:0:28
-ds-rdata:     12386 8 1 4bcbdaa886b0dce29c68a90c49a964d61e95c59f
 ds-rdata:     12386 8 2 cfae0771825b368beb345f67a1a08a64415af41076486890eb62c79a32113f71
+ds-rdata:     49345 8 2 85418da0ff0d9ccc1e1eaac43b88dab60fa42e51af3341b9e61d31ee23916875
 
 whois:        whois.nic.viva
 
@@ -46,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.stc.com.sa
 
 created:      2015-08-20
-changed:      2021-10-12
+changed:      2024-05-30
 source:       IANA
 
