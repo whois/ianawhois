@@ -24,16 +24,14 @@ fax-no:       +350 47272
 e-mail:       nic@sapphire.gi
 
 contact:      technical
-name:         Senior Director, DNS Infrastructure Group
-organisation: Afilias Limited
-address:      C/O Afilias USA, Inc.
-address:      300 Welsh Road
-address:      Building 3, Suite 105
-address:      Horsham PA 19044
+name:         Howard Eland, Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue Washington 98004
 address:      United States of America (the)
-phone:        +1 215 706 5700
-fax-no:       +1 215 706 5701
-e-mail:       tld-tech-poc@afilias.info
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
 
 nserver:      A0.CCTLD.AFILIAS-NST.INFO 199.254.59.1 2001:500:25:0:0:0:0:1
 nserver:      A2.CCTLD.AFILIAS-NST.INFO 199.249.116.1 2001:500:44:0:0:0:0:1
@@ -43,12 +41,12 @@ nserver:      C0.CCTLD.AFILIAS-NST.INFO 199.254.61.1 2001:500:27:0:0:0:0:1
 nserver:      D0.CCTLD.AFILIAS-NST.ORG 199.254.62.1 2001:500:28:0:0:0:0:1
 ds-rdata:     33934 8 2 3db5809de2e1052b00e010f54b404bd59cb5cba0c8306e1799623bda45a1cfb7
 
-whois:        whois2.afilias-grs.net
+whois:        whois.identitydigital.services
 
 status:       ACTIVE
 remarks:      Registration information: http://www.nic.gi
 
 created:      1995-12-05
-changed:      2020-10-30
+changed:      2024-06-24
 source:       IANA
 
