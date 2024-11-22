@@ -33,7 +33,6 @@ nserver:      C.NIC.SANDVIKCOROMANT 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      X.NIC.SANDVIKCOROMANT 156.154.172.82 2610:a1:1074:0:0:0:1:82
 nserver:      Y.NIC.SANDVIKCOROMANT 156.154.173.82 2610:a1:1075:0:0:0:1:82
 nserver:      Z.NIC.SANDVIKCOROMANT 156.154.174.82 2610:a1:1076:0:0:0:1:82
-ds-rdata:     19999 8 2 ac19fb9aa365946aa64f8872782e80af68f6bf988f9de2e31901434849fa8d5e
 ds-rdata:     44284 8 2 bf58f3d66c43e835b092a138295c40e293aa5c358c79888a543f9e6538048fc8
 
 whois:        whois.nic.sandvikcoromant
@@ -42,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.sandvikcoromant
 
 created:      2015-05-14
-changed:      2023-07-31
+changed:      2023-11-30
 source:       IANA
 
