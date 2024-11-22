@@ -36,7 +36,6 @@ nserver:      C.NIC.SEVEN 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      X.NIC.SEVEN 156.154.172.82 2610:a1:1074:0:0:0:1:82
 nserver:      Y.NIC.SEVEN 156.154.173.82 2610:a1:1075:0:0:0:1:82
 nserver:      Z.NIC.SEVEN 156.154.174.82 2610:a1:1076:0:0:0:1:82
-ds-rdata:     65404 8 2 4c4105485919cc132cea83e201b0678f71cc7db260e8be86de560a8a1864951d
 ds-rdata:     18001 8 2 d8f64c5dec80b8f15b747575c020a3e5249c703d05009d88d091e0d28b1168f7
 
 whois:        whois.nic.seven
@@ -45,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.seven/
 
 created:      2015-09-23
-changed:      2023-07-31
+changed:      2023-11-30
 source:       IANA
 
