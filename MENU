@@ -35,7 +35,7 @@ nserver:      C.NIC.MENU 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      X.NIC.MENU 156.154.172.82 2610:a1:1074:0:0:0:1:82
 nserver:      Y.NIC.MENU 156.154.173.82 2610:a1:1075:0:0:0:1:82
 nserver:      Z.NIC.MENU 156.154.174.82 2610:a1:1076:0:0:0:1:82
-ds-rdata:     31309 8 2 dea786e2b9c069e2595d79b03f3a920b0342bfbc017ec606a0184340e9c9c88d
+ds-rdata:     34801 8 2 9f75480edae26137d71c72574244ef65943199e92c89364035e6ba7b1f1bab32
 
 whois:        whois.nic.menu
 
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.menu
 
 created:      2013-11-13
-changed:      2022-12-21
+changed:      2024-07-05
 source:       IANA
 
