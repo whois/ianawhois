@@ -39,13 +39,13 @@ nserver:      B0.NIC.XN--B4W605FERD 2a01:8840:8b:0:0:0:0:1 65.22.141.1
 nserver:      C0.NIC.XN--B4W605FERD 2a01:8840:8c:0:0:0:0:1 65.22.142.1
 ds-rdata:     56659 8 2 bd5e5982605e7ec6077b7742d7894a6959657afbfe9ee345eda682a9a4bf0252
 
-whois:        whois.afilias-srs.net
+whois:        whois.nic.xn--b4w605ferd
 
 status:       ACTIVE
 remarks:      Registration information:
 remarks:      http://www.temasek.com.sg/nicdan4ma3xi1
 
 created:      2014-12-18
-changed:      2020-11-17
+changed:      2023-08-11
 source:       IANA
 
