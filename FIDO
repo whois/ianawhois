@@ -36,13 +36,13 @@ nserver:      B0.NIC.FIDO 2a01:8840:6b:0:0:0:0:41 65.22.109.41
 nserver:      C0.NIC.FIDO 2a01:8840:6c:0:0:0:0:41 65.22.110.41
 ds-rdata:     16402 8 2 f1fdb16b12b96a368d95fcc0f2a37bc54588dc9d0049f066aa21fb095e5ea7d7
 
-whois:        whois.afilias-srs.net
+whois:        whois.nic.fido
 
 status:       ACTIVE
 remarks:      Registration information:
 remarks:      http://www.rogers.com/consumer/home
 
 created:      2016-08-18
-changed:      2020-10-30
+changed:      2023-08-11
 source:       IANA
 
