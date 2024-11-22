@@ -20,20 +20,22 @@ fax-no:       +46 (0) 8 738 68 13
 e-mail:       ngtld-aeg@cscinfo.com
 
 contact:      technical
-name:         Registry Customer Service
-organisation: Verisign, inc.
-address:      12061 Bluemont Way
-address:      Reston VA 20190
+name:         Howard Eland, Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
 address:      United States of America (the)
-phone:        +1-703-925-6999
-fax-no:       +1-703-948-3978
-e-mail:       info@verisign-grs.com
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
 
-nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
-nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
-nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
-nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
-ds-rdata:     39735 8 2 b28a67a4935609bcf1257af4215b9ffce0f7e917bc076bd69030a5d76008ae51
+nserver:      V0N0.NIC.AEG 2a01:8840:6a:0:0:0:0:2 65.22.108.2
+nserver:      V0N1.NIC.AEG 2a01:8840:6b:0:0:0:0:2 65.22.109.2
+nserver:      V0N2.NIC.AEG 2a01:8840:6c:0:0:0:0:2 65.22.110.2
+nserver:      V0N3.NIC.AEG 161.232.32.2 2a01:8840:108:0:0:0:0:2
+nserver:      V2N0.NIC.AEG 2a01:8840:6d:0:0:0:0:2 65.22.111.2
+nserver:      V2N1.NIC.AEG 161.232.33.2 2a01:8840:109:0:0:0:0:2
+ds-rdata:     34387 8 2 03500be162e8b2bc43345d119763e29d9284de715bdf66e55dd19b400a1e64ae
 
 whois:        whois.nic.aeg
 
@@ -41,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      2015-06-11
-changed:      2020-10-01
+changed:      2023-12-05
 source:       IANA
 
