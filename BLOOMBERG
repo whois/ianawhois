@@ -20,27 +20,29 @@ fax-no:       +1 917 522 2727
 e-mail:       ngtld-bloomberg@cscinfo.com
 
 contact:      technical
-name:         Registry Customer Service
-organisation: Verisign, Inc.
-address:      12061 Bluemont Way
-address:      Reston VA 20190
+name:         Howard Eland, Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
 address:      United States of America (the)
-phone:        1-703-925-6999
-fax-no:       1-703-948-3978
-e-mail:       info@verisign-grs.com
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
 
-nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
-nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
-nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
-nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
-ds-rdata:     46338 8 2 98a66be30959371e15eaf5d4a65ada3393050610a2e5b7ae321b694c876258c9
+nserver:      V0N0.NIC.BLOOMBERG 2a01:8840:6a:0:0:0:0:3 65.22.108.3
+nserver:      V0N1.NIC.BLOOMBERG 2a01:8840:6b:0:0:0:0:3 65.22.109.3
+nserver:      V0N2.NIC.BLOOMBERG 2a01:8840:6c:0:0:0:0:3 65.22.110.3
+nserver:      V0N3.NIC.BLOOMBERG 161.232.32.3 2a01:8840:108:0:0:0:0:3
+nserver:      V2N0.NIC.BLOOMBERG 2a01:8840:6d:0:0:0:0:3 65.22.111.3
+nserver:      V2N1.NIC.BLOOMBERG 161.232.33.3 2a01:8840:109:0:0:0:0:3
+ds-rdata:     49654 8 2 da5a6b59df8da1f4b814d38fb01359bccbee0e6595e19fc569c1830ce452447c
 
-whois:        
+whois:        whois.nic.bloomberg
 
 status:       ACTIVE
 remarks:      Registration information: 
 
 created:      2014-10-16
-changed:      2020-10-01
+changed:      2023-12-05
 source:       IANA
 
