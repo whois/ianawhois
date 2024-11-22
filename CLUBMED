@@ -20,20 +20,22 @@ fax-no:       +33 1 53 35 36 10
 e-mail:       ngtld-clubmed@cscinfo.com
 
 contact:      technical
-name:         Registry Customer Service
-organisation: Verisign, inc.
-address:      12061 Bluemont Way
-address:      Reston VA 20190
+name:         Howard Eland, Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
 address:      United States of America (the)
-phone:        +1-703-925-6999
-fax-no:       +1-703-948-3978
-e-mail:       info@verisign-grs.com
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
 
-nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
-nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
-nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
-nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
-ds-rdata:     2823 8 2 49afa8257aef277eadce81a3b3712be90aec8a22363b302884acf373eadadf0c
+nserver:      V0N0.NIC.CLUBMED 2a01:8840:6a:0:0:0:0:12 65.22.108.12
+nserver:      V0N1.NIC.CLUBMED 2a01:8840:6b:0:0:0:0:12 65.22.109.12
+nserver:      V0N2.NIC.CLUBMED 2a01:8840:6c:0:0:0:0:12 65.22.110.12
+nserver:      V0N3.NIC.CLUBMED 161.232.32.12 2a01:8840:108:0:0:0:0:12
+nserver:      V2N0.NIC.CLUBMED 2a01:8840:6d:0:0:0:0:12 65.22.111.12
+nserver:      V2N1.NIC.CLUBMED 161.232.33.12 2a01:8840:109:0:0:0:0:12
+ds-rdata:     21826 8 2 5baa5f5647baef29365e3f37d0914e0abe5f4d62afca9cf59863fb94aa5964e7
 
 whois:        whois.nic.clubmed
 
@@ -41,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      2015-09-24
-changed:      2020-10-01
+changed:      2024-03-31
 source:       IANA
 
