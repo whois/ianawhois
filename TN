@@ -10,7 +10,7 @@ address:      Tunis 1002
 address:      Tunisia
 
 contact:      administrative
-name:         Mrs WAFA DAHMANI
+name:         Network Information Center Departement - NIC Admin
 organisation: Agence Tunisienne d'Internet
 address:      13 Rue Jugurtha Mutuelle-ville
 address:      Tunis 1002
@@ -33,7 +33,7 @@ nserver:      NS-TN.AFRINIC.NET 196.216.168.25 2001:43f8:120:0:0:0:0:25
 nserver:      NS1.ATI.TN 2c0f:fab0:ffff:4:41:228:62:63 41.228.62.63
 nserver:      NS2.ATI.TN 2c0f:fab0:ffff:5:41:228:63:62 41.228.63.62
 nserver:      NS2.NIC.FR 192.93.0.4 2001:660:3005:1:0:0:1:2
-nserver:      PCH.ATI.TN 2001:500:14:6004:ad:0:0:1 204.61.216.94
+nserver:      PCH.ATI.TN 2001:500:14:6094:ad:0:0:1 204.61.216.94
 nserver:      RIP.PSG.COM 147.28.0.39 2001:418:1:0:0:0:0:39
 ds-rdata:     8629 8 2 05c891303fdee4fdae258e2a7d48370ce21f98058c0ee0a50c438c2878a8e2d6
 
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://whois.ati.tn
 
 created:      1991-05-17
-changed:      2017-08-05
+changed:      2024-08-16
 source:       IANA
 
