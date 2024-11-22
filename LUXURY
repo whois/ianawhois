@@ -32,10 +32,10 @@ e-mail:       tld.ops@centralnic.com
 
 nserver:      A.NIC.LUXURY 194.169.218.98 2001:67c:13cc:0:0:0:1:98
 nserver:      B.NIC.LUXURY 185.24.64.98 2a04:2b00:13cc:0:0:0:1:98
-nserver:      C.NIC.LUXURY 212.18.248.98 2a04:2b00:13ee:0:0:0:0:85
+nserver:      C.NIC.LUXURY 212.18.248.98 2a04:2b00:13ee:0:0:0:0:98
 nserver:      D.NIC.LUXURY 212.18.249.98 2a04:2b00:13ff:0:0:0:0:98
-ds-rdata:     3664 8 2 d602e8f4fd9729146d1fb1d249544dceece615e528eb2e4997fb1760b004d67e
 ds-rdata:     32039 8 2 deb7fe904a2e04500acc98f3f5b9d6db275139fbc92ebb2938bcf9e842812935
+ds-rdata:     9355 8 2 0da436d04a11933d6bae25e2aecef3cefcb34e407feb3ba999a7190964f3c3d0
 
 whois:        whois.nic.luxury
 
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: https://join.luxury/
 
 created:      2014-01-09
-changed:      2021-10-12
+changed:      2023-10-05
 source:       IANA
 
