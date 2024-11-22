@@ -35,7 +35,7 @@ nserver:      C.NIC.ONE 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      X.NIC.ONE 156.154.172.82 2610:a1:1074:0:0:0:1:82
 nserver:      Y.NIC.ONE 156.154.173.82 2610:a1:1075:0:0:0:1:82
 nserver:      Z.NIC.ONE 156.154.174.82 2610:a1:1076:0:0:0:1:82
-ds-rdata:     56899 8 2 c28cde2f5e88289c26584a4e6871b41e0f0c2d5f7f2df2906e8fbb275ac4aa68
+ds-rdata:     64939 8 2 32961f5f8cbfc0a1714eb5589e9cb54e83e1340380b5d76ead661d58ea55de9d
 
 whois:        whois.nic.one
 
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.one.com/
 
 created:      2014-12-18
-changed:      2023-03-15
+changed:      2023-12-05
 source:       IANA
 
