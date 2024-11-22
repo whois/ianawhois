@@ -10,14 +10,14 @@ address:      Bangkok 10900
 address:      Thailand
 
 contact:      administrative
-name:         VP, Advance IT Network and Architect
+name:         Mr. Somphop Satjatham
 organisation: The Siam Commercial Bank Public Company Limited ("SCB")
 address:      Siam Commercial Bank, 21st Floor Zone C, 9 Ratchadapisek Road, Jatujak
 address:      Bangkok 10900
 address:      Thailand
 phone:        +66 2 544 6035
 fax-no:       +66 2 544 4948
-e-mail:       tldregistry@scb.co.th
+e-mail:       somphop.satjatham@scb.co.th
 
 contact:      technical
 name:         Director
@@ -29,10 +29,10 @@ phone:        +66 2 2448261
 fax-no:       +66 2 2448164
 e-mail:       bero@thains.co.th
 
-nserver:      A.NIC.SCB 122.155.23.51 2001:c38:2000:183:0:0:0:17
 nserver:      C.NIC.SCB 194.0.1.35 2001:678:4:0:0:0:0:23
+nserver:      NN1.NIC.SCB 194.58.198.136 2a01:3f1:3032:8001:0:0:0:136
 nserver:      RZ.NIC.SCB 194.0.25.42 2001:678:20:0:0:0:0:42
-ds-rdata:     20801 8 2 16bff89dd2faf9ac06221f6de0e206ed57fec2e29316779e30789d7e00a5bd2f
+ds-rdata:     3706 8 2 4468ba63991268d9c1916a569dc1608b39413749679313161165c84b24016160
 
 whois:        whois.nic.scb
 
@@ -41,6 +41,6 @@ remarks:      Registration information:
 remarks:      https://www.scb.co.th/en/personal-banking/top-level-domain.html
 
 created:      2014-06-26
-changed:      2023-04-27
+changed:      2024-05-31
 source:       IANA
 
