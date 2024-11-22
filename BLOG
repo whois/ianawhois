@@ -33,9 +33,8 @@ nserver:      A.NIC.BLOG 194.169.218.94 2001:67c:13cc:0:0:0:1:94
 nserver:      B.NIC.BLOG 185.24.64.94 2a04:2b00:13cc:0:0:0:1:94
 nserver:      C.NIC.BLOG 212.18.248.94 2a04:2b00:13ee:0:0:0:0:94
 nserver:      D.NIC.BLOG 212.18.249.94 2a04:2b00:13ff:0:0:0:0:94
-ds-rdata:     43975 8 2 94023be3a769704f45ecb9fea13bbbab6adcdb4d8bb39e621e3cbf223fb5ca53
-ds-rdata:     16976 8 1 f4535c694f892ffeb740c35cc9665b52e360df7d
 ds-rdata:     16976 8 2 9862de44e1e7e44215165000c4b87bd3f46d439c686166da0ca79e06896958b7
+ds-rdata:     17455 8 2 c0d6cd12fcb746bb819df417dfa43ed0d4227bd62195f749537af85a939d2a21
 
 whois:        whois.nic.blog
 
@@ -43,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.blog
 
 created:      2016-05-12
-changed:      2021-10-12
+changed:      2023-11-09
 source:       IANA
 
