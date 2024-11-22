@@ -5,42 +5,40 @@
 domain:       CITIC
 
 organisation: CITIC Group Corporation
-address:      Capital Mansion,6 Xinyuannanlu
-address:      Chaoyang District
-address:      Beijing 100004
+address:      95 Floor,CITIC Tower,No.10 Guanghualu,Chaoyang District
+address:      Beijing 100020
 address:      China
 
 contact:      administrative
 name:         Xiaohui Ji
 organisation: CITIC Group Corporation
-address:      Capital Mansion,6 Xinyuannanlu
-address:      Chaoyang District
-address:      Beijing 100004
+address:      95 Floor,CITIC Tower,No.10 Guanghualu,Chaoyang District
+address:      Beijing 100020
 address:      China
-phone:        86 10 59661088
-fax-no:       86 10 59660088
+phone:        +861059661088
+fax-no:       +861059660088
 e-mail:       jixh@citic.com
 
 contact:      technical
 name:         Jichao Fei
 organisation: CITIC Group Corporation
-address:      Capital Mansion,6 Xinyuannanlu
-address:      Chaoyang District
-address:      Beijing 100004
+address:      95 Floor,CITIC Tower,No.10 Guanghualu,Chaoyang District
+address:      Beijing 100020
 address:      China
-phone:        86 10 59661013
-fax-no:       86 10 59660013
+phone:        +861059661013
+fax-no:       +861059660013
 e-mail:       feijc@citic.com
 
 nserver:      A.ZDNSCLOUD.COM 203.99.24.1
 nserver:      B.ZDNSCLOUD.COM 203.99.25.1
 nserver:      C.ZDNSCLOUD.COM 203.99.26.1
 nserver:      D.ZDNSCLOUD.COM 203.99.27.1
-nserver:      F.ZDNSCLOUD.COM 114.67.16.204
-nserver:      G.ZDNSCLOUD.COM 42.62.2.16
+nserver:      F.ZDNSCLOUD.COM 116.169.54.111
+nserver:      G.ZDNSCLOUD.COM 223.72.199.37
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
 ds-rdata:     12331 8 2 cdbfc9f67e7f97e1759bf1bcaa26c853bc5dde881551e1fa4a633e8bd6b8c9bd
+ds-rdata:     40391 8 2 7ca2fece772e8398fbf071ecbb433e716f56ea88eda63ec81384913dd736648d
 
 whois:        
 
@@ -48,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      2014-04-17
-changed:      2022-12-08
+changed:      2024-03-04
 source:       IANA
 
