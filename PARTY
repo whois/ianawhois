@@ -21,8 +21,8 @@ e-mail:       edgar.c.lavarello@gi.pwc.com
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
@@ -34,7 +34,7 @@ nserver:      C.NIC.PARTY 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      NS1.DNS.NIC.PARTY 156.154.169.24 2610:a1:1071:0:0:0:1:18
 nserver:      NS2.DNS.NIC.PARTY 156.154.170.24 2610:a1:1072:0:0:0:1:18
 nserver:      NS3.DNS.NIC.PARTY 156.154.171.24 2610:a1:1073:0:0:0:1:18
-ds-rdata:     64246 8 2 11a853aee57ebcc64d5260df6a693f26aa144d4777ebe306f83a886a48f6cdec
+ds-rdata:     55099 8 2 32ad9fd70ad1f66e62f19686f8dceeed1b5ebfea2caf73b68d7903cf3321ee77
 
 whois:        whois.nic.party
 
@@ -42,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.party
 
 created:      2014-10-23
-changed:      2022-07-21
+changed:      2024-05-11
 source:       IANA
 
