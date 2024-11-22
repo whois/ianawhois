@@ -37,11 +37,11 @@ nserver:      A.ZDNSCLOUD.COM 203.99.24.1
 nserver:      B.ZDNSCLOUD.COM 203.99.25.1
 nserver:      C.ZDNSCLOUD.COM 203.99.26.1
 nserver:      D.ZDNSCLOUD.COM 203.99.27.1
-nserver:      F.ZDNSCLOUD.COM 114.67.16.204
-nserver:      G.ZDNSCLOUD.COM 42.62.2.16
+nserver:      F.ZDNSCLOUD.COM 116.169.54.111
+nserver:      G.ZDNSCLOUD.COM 223.72.199.37
 nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
-ds-rdata:     16702 8 2 3dc3633898aef4cf395e3b558dddb6b02111abc6bc31be55346bb44cb7778e74
+ds-rdata:     36754 8 2 d4a3344e3eb4166464489b5a5706ace8b8ad7cdc2d3c0aea088e8851b8e24de2
 
 whois:        whois.nic.xn--efvy88h
 
@@ -49,6 +49,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.gd.xinhua.org
 
 created:      2015-08-06
-changed:      2022-12-08
+changed:      2024-11-21
 source:       IANA
 
