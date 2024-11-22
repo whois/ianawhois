@@ -32,19 +32,18 @@ e-mail:       pl-tech@dns.pl
 nserver:      A-DNS.PL 192.102.225.53 2001:7f9:0:0:0:0:0:53
 nserver:      B-DNS.PL 192.195.72.53 2001:7f9:c:0:0:0:0:53
 nserver:      D-DNS.PL 185.159.197.48 2620:10a:80aa:0:0:0:0:48
-nserver:      E-DNS.PL 46.28.245.82
 nserver:      F-DNS.PL 194.0.25.29 2001:678:20:0:0:0:0:29
-nserver:      G-DNS.PL 149.156.1.252 2001:6d8:1001:1:0:0:0:252
 nserver:      H-DNS.PL 185.159.198.48 2620:10a:80ab:0:0:0:0:48
 nserver:      J-DNS.PL 2001:500:14:7004:ad:0:0:1 204.61.217.4
-ds-rdata:     59899 8 2 914b8a9bdae8efa6b0323ff7f7eb90da985fe63eae0e1cb614cf6d5b116f9c80
+ds-rdata:     48559 8 2 6c7d94c6f25556eeb180ef5e3e9237f2247597f28dca8d7fa63b3a1a45b79a4f
+ds-rdata:     42290 8 2 01cb881bec8bee893cd6c45b9f3185825c5faf619afb51f3c11fe1cd2c1a3785
 
 whois:        whois.dns.pl
 
 status:       ACTIVE
-remarks:      Registration information: http://www.dns.pl/english/
+remarks:      Registration information: https://www.dns.pl/en/
 
 created:      1990-07-30
-changed:      2023-06-17
+changed:      2024-11-08
 source:       IANA
 
