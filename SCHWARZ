@@ -34,10 +34,8 @@ nserver:      A.NIC.SCHWARZ 194.169.218.99 2001:67c:13cc:0:0:0:1:99
 nserver:      B.NIC.SCHWARZ 185.24.64.99 2a04:2b00:13cc:0:0:0:1:99
 nserver:      C.NIC.SCHWARZ 212.18.248.99 2a04:2b00:13ee:0:0:0:0:99
 nserver:      D.NIC.SCHWARZ 212.18.249.99 2a04:2b00:13ff:0:0:0:0:99
-ds-rdata:     47349 7 1 96d2ae596e2d9525c309c0e69714ae8ed377d5ee
-ds-rdata:     51361 7 2 39d5a41f51dc9478526a8eceb14c11095d7eee368191936ef8519b15d2f0aab7
-ds-rdata:     51361 7 1 cc70f9ee2a2e0ae7c59e1dba91cc81265e8861ce
-ds-rdata:     47349 7 2 cbc33d32a5ff8943aa5736e68e234c7e73829d2942dc5d26a6bb278aa579ef57
+ds-rdata:     21945 13 2 65795ac97bb20d4d18cda59e8cb0bca258156f4a2ad3e3d2495259efd1708357
+ds-rdata:     19729 13 2 776ae387424072c0216e5ec2a5d726f289d74e1bd1527400e490982c28789f5b
 
 whois:        whois.nic.schwarz
 
@@ -45,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.nic.schwarz
 
 created:      2014-12-04
-changed:      2021-10-12
+changed:      2023-11-06
 source:       IANA
 
