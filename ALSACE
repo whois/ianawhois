@@ -22,9 +22,8 @@ e-mail:       contact@mondomaine.alsace
 contact:      technical
 name:         TLD Technical Contact
 organisation: Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)
-address:      Immeuble Le Stephenson
-address:      1, rue Stephenson
-address:      Montigny-Le-Bretonneux 78180
+address:      7, avenue du 8 mai 1945
+address:      Guyancourt 78280
 address:      France
 phone:        +33 1 39 30 83 00
 fax-no:       +33 1 39 30 83 01
@@ -33,14 +32,14 @@ e-mail:       pocalsace@afnic.fr
 nserver:      D.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
 nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
 nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
-ds-rdata:     7047 13 2 40ac4eda437f376b0a772ac6f570055a6aa58d635ac07946a778abebb8e5c024
+ds-rdata:     8797 13 2 9af8c74e940ed2d43eded6c22c4dde7acaa49f00f02bf85b8cd15b820e06821a
 
 whois:        whois.nic.alsace
 
 status:       ACTIVE
-remarks:      Registration information: http://www.mondomaine.alsace
+remarks:      Registration information: https://www.mondomaine.alsace
 
 created:      2014-09-18
-changed:      2022-07-27
+changed:      2024-09-16
 source:       IANA
 
