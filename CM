@@ -4,46 +4,46 @@
 
 domain:       CM
 
-organisation: Cameroon Telecommunications (CAMTEL)
-address:      Boulevard du 20 mai
-address:      P.O. Box 1571
-address:      Yaounde
+organisation: Agence Nationale des Technologies de l'Information et de la Communication (ANTIC)
+address:      Street 1.792
+address:      P.O. Box 6170
+address:      Yaoundé
 address:      Cameroon
 
 contact:      administrative
 name:         Director General
-organisation: CAMTEL
-address:      Boulevard du 20 mai
-address:      P.O. Box 1571
-address:      Yaounde
+organisation: Agence Nationale des Technologies de l'Information et de la Communication (ANTIC)
+address:      Street 1.792
+address:      P.O. Box 6170
+address:      Yaoundé
 address:      Cameroon
-phone:        +237 222 234 065
-fax-no:       +237 222 230 303
-e-mail:       ceo@camtel.cm
+phone:        +237 694 40 58 68
+e-mail:       dnc@antic.cm
 
 contact:      technical
-name:         Chief Information Officer
-organisation: CAMTEL
-address:      Boulevard du 20 mai
-address:      P.O. Box 1571
-address:      Yaounde
+name:         .CM System Administrator
+organisation: Agence Nationale des Technologies de l'Information et de la Communication (ANTIC)
+address:      Street 1.792
+address:      P.O. Box 6170
+address:      Yaoundé
 address:      Cameroon
-phone:        +237 222 234 065
-fax-no:       +237 222 230 303
-e-mail:       cio@camtel.cm
+phone:        +237 673 820 320
+e-mail:       dotcm@antic.cm
 
 nserver:      AUTH02.NS.UU.NET 198.6.1.82
-nserver:      KIM.CAMNET.CM 195.24.192.35
-nserver:      LOM.CAMNET.CM 195.24.192.34
+nserver:      NS-CM.AFRINIC.NET 196.216.168.67
+nserver:      NS-CM.NIC.FR 194.0.9.1
 nserver:      NS.ITU.CH 156.106.192.121 2a00:7580:60:2141:0:0:0:10
-nserver:      SANAGA.CAMNET.CM 195.24.192.17
+nserver:      NS1.NIC.CM 195.24.205.60
+nserver:      NS2.NIC.CM 195.24.205.61
+nserver:      PHLOEM.UOREGON.EDU 128.223.32.35 2001:468:d01:20:0:0:80df:2023
 
 whois:        
 
 status:       ACTIVE
-remarks:      Registration information: http://www.info.camnet.cm
+remarks:      Registration information: https://www.nic.cm
 
 created:      1995-04-29
-changed:      2023-07-06
+changed:      2024-01-24
 source:       IANA
 
