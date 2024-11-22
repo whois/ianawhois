@@ -35,9 +35,9 @@ e-mail:       tech@cnnic.cn
 
 nserver:      H.DNS.CN 125.208.32.1 2001:dc7:fffe:0:0:0:0:1
 nserver:      I.DNS.CN 125.208.33.1 2001:dc7:ffff:0:0:0:0:1
-nserver:      J.DNS.CN 125.208.34.1
-nserver:      K.DNS.CN 125.208.35.1
-nserver:      L.DNS.CN 125.208.36.1
+nserver:      J.DNS.CN 125.208.34.1 2001:dc7:fffd:0:0:0:0:1
+nserver:      K.DNS.CN 125.208.35.1 2001:dc7:fffc:0:0:0:0:1
+nserver:      L.DNS.CN 125.208.36.1 2001:dc7:fffb:0:0:0:0:1
 ds-rdata:     28162 8 2 30b55f108e07f9c2397f0d233324e02e667a137569ff91fc0311dcb73cea1571
 
 whois:        cwhois.cnnic.cn
