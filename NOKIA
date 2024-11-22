@@ -20,28 +20,29 @@ fax-no:       +358 0 10 44 81 002
 e-mail:       dnsauthority@nokia.com
 
 contact:      technical
-name:         Senior Director, DNS Infrastructure Group
-organisation: Afilias
-address:      300 Welsh Road
-address:      Building 3, Suite 105
-address:      Horsham PA 19044
-address:      United States of America (the)
-phone:        +1 215 706 5700
-fax-no:       +1 215 706 5701
-e-mail:       tld-tech-poc@afilias.info
+name:         Paul Freeman, CTO
+organisation: CentralNic
+address:      Saddlers House, 4th Floor
+address:      44 Gutter Lane
+address:      London EC2V 6BR
+address:      United Kingdom of Great Britain and Northern Ireland (the)
+phone:        +44 020 33 88 0600
+fax-no:       +44 20 33 88 0601
+e-mail:       tld.ops@centralnic.com
 
-nserver:      A0.NIC.NOKIA 2a01:8840:92:0:0:0:0:17 65.22.148.17
-nserver:      A2.NIC.NOKIA 2a01:8840:95:0:0:0:0:17 65.22.151.17
-nserver:      B0.NIC.NOKIA 2a01:8840:93:0:0:0:0:17 65.22.149.17
-nserver:      C0.NIC.NOKIA 2a01:8840:94:0:0:0:0:17 65.22.150.17
-ds-rdata:     38794 8 2 5d3c0f0b92084eb734e6e06364681b3bb051087a15ebe6f468b2974c5f197ab1
+nserver:      A.NIC.NOKIA 194.169.218.159 2001:67c:13cc:0:0:0:1:159
+nserver:      B.NIC.NOKIA 185.24.64.159 2a04:2b00:13cc:0:0:0:1:159
+nserver:      C.NIC.NOKIA 212.18.248.159 2a04:2b00:13ee:0:0:0:0:159
+nserver:      D.NIC.NOKIA 212.18.249.159 2a04:2b00:13ff:0:0:0:0:159
+ds-rdata:     43790 8 2 7d7d3ebae05f84c911ee972ec6d72f1cc88368297b5fdc6a52db62eb27b76c99
+ds-rdata:     5506 8 2 4030a14335a594b8ab850594ba0e85a0ecd1dc145aa7e097341169f70f0f4292
 
-whois:        whois.afilias-srs.net
+whois:        whois.nic.nokia
 
 status:       ACTIVE
 remarks:      Registration information: http://nic.nokia/
 
 created:      2015-04-23
-changed:      2020-11-09
+changed:      2024-06-26
 source:       IANA
 
