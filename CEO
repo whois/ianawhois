@@ -4,21 +4,19 @@
 
 domain:       CEO
 
-organisation: CEOTLD Pty Ltd
-address:      Level 6
-address:      1 Chifley Square
-address:      Sydney NSW 2000
-address:      Australia
+organisation: XYZ.COM LLC
+address:      2121 E Tropicana Ave, Suite 2
+address:      Las Vegas NV 89119
+address:      United States of America (the)
 
 contact:      administrative
-name:         Jodee Rich
-organisation: CEO TLD Pty Ltd
-address:      Level 6
-address:      1 Chifley Square
-address:      Sydney NSW 2000
-address:      Australia
-phone:        +61 2 9247 8230
-e-mail:       contact@peoplebrowsr.com
+name:         General Counsel
+organisation: XYZ.COM LLC
+address:      2121 E Tropicana Ave, Suite 2
+address:      Las Vegas NV 89119
+address:      United States of America (the)
+phone:        +17027632191
+e-mail:       hello@xyz.com
 
 contact:      technical
 name:         CTO
@@ -35,12 +33,8 @@ nserver:      A.NIC.CEO 194.169.218.78 2001:67c:13cc:0:0:0:1:78
 nserver:      B.NIC.CEO 185.24.64.78 2a04:2b00:13cc:0:0:0:1:78
 nserver:      C.NIC.CEO 212.18.248.78 2a04:2b00:13ee:0:0:0:0:78
 nserver:      D.NIC.CEO 212.18.249.78 2a04:2b00:13ff:0:0:0:0:78
-ds-rdata:     63689 8 1 db7a8f6aadcee147d241a9778857e94707234d4e
-ds-rdata:     63689 8 2 f2ab788c2802c3f219d53f37e7e1687ecf2e453e04bc5abcc0b444fc0e35b1ee
-ds-rdata:     47971 8 1 c1d4b59f029dbfcc32c1b3524ee5f5b87735ea60
-ds-rdata:     47971 8 2 ca81c48a6831fd48d45caf9a0deb74d0e8b8f217cdd05cfd7090c1f926219aea
-ds-rdata:     20929 8 1 bf13ed10ce2850f7c686261f06da97a0e5eb78a6
 ds-rdata:     20929 8 2 dce04f950578106c1c5f8386db709467091c961227606f0a761c7a0e10e2ddc7
+ds-rdata:     24601 8 2 3ad5b5b1cc294b39d77dec9669a8fdbbaf0307d3766f29e14f7364e7f83ad771
 
 whois:        whois.nic.ceo
 
@@ -48,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.peoplebrowsr.com
 
 created:      2013-12-19
-changed:      2021-09-29
+changed:      2024-02-28
 source:       IANA
 
