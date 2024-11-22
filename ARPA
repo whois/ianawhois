@@ -35,7 +35,7 @@ fax-no:       +1 310 823-8649
 e-mail:       tld-contact@iana.org
 
 nserver:      A.NS.ARPA 198.41.0.4 2001:503:ba3e:0:0:0:2:30
-nserver:      B.NS.ARPA 199.9.14.201 2001:500:200:0:0:0:0:b
+nserver:      B.NS.ARPA 170.247.170.2 2801:1b8:10:0:0:0:0:b
 nserver:      C.NS.ARPA 192.33.4.12 2001:500:2:0:0:0:0:c
 nserver:      D.NS.ARPA 199.7.91.13 2001:500:2d:0:0:0:0:d
 nserver:      E.NS.ARPA 192.203.230.10 2001:500:a8:0:0:0:0:e
@@ -55,6 +55,6 @@ remarks:      Registration information:
 remarks:      https://www.iana.org/domains/arpa
 
 created:      1985-01-01
-changed:      2022-10-07
+changed:      2023-11-27
 source:       IANA
 
