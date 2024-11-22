@@ -34,8 +34,8 @@ nserver:      A.NIC.REIT 194.169.218.38 2001:67c:13cc:0:0:0:1:38
 nserver:      B.NIC.REIT 185.24.64.38 2a04:2b00:13cc:0:0:0:1:38
 nserver:      C.NIC.REIT 212.18.248.38 2a04:2b00:13ee:0:0:0:0:38
 nserver:      D.NIC.REIT 212.18.249.38 2a04:2b00:13ff:0:0:0:0:38
-ds-rdata:     44512 8 1 3451296e8f2ffe68eb14b400a686fe1da12e3941
 ds-rdata:     44512 8 2 661fbde636973834f5d417d3897ddf8590461da6f020cfaa4274718dd926c523
+ds-rdata:     51490 8 2 4dd84ee5eaf91cbbd8fddc5ab21382c030860e1fa9bf9d6412d8b4fe5dc9e353
 
 whois:        whois.nic.reit
 
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.reit.com
 
 created:      2014-10-23
-changed:      2021-10-12
+changed:      2023-09-19
 source:       IANA
 
