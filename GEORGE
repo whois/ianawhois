@@ -19,20 +19,23 @@ phone:        +44 20 70 15 17 17
 e-mail:       ngtld-walmart@cscglobal.com
 
 contact:      technical
-name:         Registry Customer Service
-organisation: Verisign, Inc.
-address:      12061 Bluemont Way
-address:      Reston VA 20190
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
-phone:        +1-703-925-6999
-fax-no:       +1-703-948-3978
-e-mail:       info@verisign-grs.com
+phone:        +1 480 505 8800
+fax-no:       +1 480 624 2546
+e-mail:       iana@registry.godaddy
 
-nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
-nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
-nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
-nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
-ds-rdata:     24255 8 2 944d283dd22b4fec947c88d9c8369c75852a9b74a3a88a74756864de374496d4
+nserver:      A.NIC.GEORGE 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.GEORGE 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.GEORGE 2001:dcd:3:0:0:0:0:9 37.209.196.9
+nserver:      X.NIC.GEORGE 156.154.172.82 2610:a1:1074:0:0:0:1:82
+nserver:      Y.NIC.GEORGE 156.154.173.82 2610:a1:1075:0:0:0:1:82
+nserver:      Z.NIC.GEORGE 156.154.174.82 2610:a1:1076:0:0:0:1:82
+ds-rdata:     1759 8 2 0caa1f5ae9c0e736030b351ab71bb351053798ce39b3b662ceefdb956057d5fe
+ds-rdata:     52471 8 2 2075b42f79f6ac18baaa19256564296dc9a53b1a24f2bf84550e005206b4e2d3
 
 whois:        whois.nic.george
 
@@ -40,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.walmart.com
 
 created:      2016-07-21
-changed:      2023-01-18
+changed:      2024-11-20
 source:       IANA
 
