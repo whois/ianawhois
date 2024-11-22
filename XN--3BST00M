@@ -30,15 +30,15 @@ phone:        +86 20 6622 2813
 fax-no:       +86 20 6622 2813
 e-mail:       technology@yu-wei.cn
 
-nserver:      A.ZDNSCLOUD.COM 203.99.24.1
-nserver:      B.ZDNSCLOUD.COM 203.99.25.1
+nserver:      A.ZDNSCLOUD.CN 203.99.24.1
+nserver:      B.ZDNSCLOUD.CN 203.99.25.1
 nserver:      C.ZDNSCLOUD.COM 203.99.26.1
 nserver:      D.ZDNSCLOUD.COM 203.99.27.1
-nserver:      F.ZDNSCLOUD.COM 114.67.16.204
-nserver:      G.ZDNSCLOUD.COM 42.62.2.16
-nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
+nserver:      F.ZDNSCLOUD.CN 116.169.54.111
+nserver:      G.ZDNSCLOUD.COM 223.72.199.37
+nserver:      I.ZDNSCLOUD.CN 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
-ds-rdata:     11479 8 2 7881a662f41e0d4b2133e66229672677147a22a8eca1d1d02db93ecdb127d895
+ds-rdata:     35945 8 2 5a563eded23044a6c1b623a011123e7ad260b656f89301f500d7fcd04223a801
 
 whois:        whois.gtld.knet.cn
 
@@ -46,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.newgtld.cn
 
 created:      2013-12-12
-changed:      2022-12-08
+changed:      2024-11-21
 source:       IANA
 
