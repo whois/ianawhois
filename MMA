@@ -12,9 +12,8 @@ address:      France
 contact:      administrative
 name:         Account Manager
 organisation: AFNIC
-address:      Immeuble Le Stephenson
-address:      1, rue Stephenson
-address:      Montigny-Le-Bretonneux 78180
+address:      7, avenue du 8 mai 1945
+address:      Guyancourt 78280
 address:      France
 phone:        +33 139308315
 fax-no:       +33 139308301
@@ -23,9 +22,8 @@ e-mail:       groupemma@afnic.fr
 contact:      technical
 name:         TLD Technical Contact
 organisation: Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)
-address:      Immeuble Le Stephenson
-address:      1, rue Stephenson
-address:      Montigny-Le-Bretonneux 78180
+address:      7, avenue du 8 mai 1945
+address:      Guyancourt 78280
 address:      France
 phone:        +33 1 39 30 83 00
 fax-no:       +33 1 39 30 83 01
@@ -34,14 +32,14 @@ e-mail:       pocmma@afnic.fr
 nserver:      D.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
 nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
 nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
-ds-rdata:     59534 13 2 25455417c20c22d815e00232defb2fc78e7b728600c91aadb21f8703ea1c314b
+ds-rdata:     56827 13 2 06df92e8eac85a48042b13dbee897a3f00c48496b6c35d6ab46ef3828f9338cf
 
 whois:        whois.nic.mma
 
 status:       ACTIVE
-remarks:      Registration information: http://www.mma.fr
+remarks:      Registration information: https://www.mma.fr
 
 created:      2015-02-27
-changed:      2022-07-21
+changed:      2024-07-23
 source:       IANA
 
