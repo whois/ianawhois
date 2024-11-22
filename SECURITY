@@ -34,6 +34,7 @@ nserver:      B.NIC.SECURITY 185.24.64.68 2a04:2b00:13cc:0:0:0:1:68
 nserver:      E.NIC.SECURITY 212.18.248.68 2a04:2b00:13ee:0:0:0:0:68
 nserver:      F.NIC.SECURITY 212.18.249.68 2a04:2b00:13ff:0:0:0:0:68
 ds-rdata:     14150 8 2 2859485c57b2b929084427b8c2b444200fa44011015aa6bf005146582947a257
+ds-rdata:     50966 8 2 a0ed827c29bd60ff8a0e4a22fce421c519126b23cd2206da41c16c6233604f8a
 
 whois:        whois.nic.security
 
@@ -41,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.security/
 
 created:      2015-09-03
-changed:      2023-01-18
+changed:      2024-04-15
 source:       IANA
 
