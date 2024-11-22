@@ -10,20 +10,20 @@ address:      Sterling VA 20166
 address:      United States of America (the)
 
 contact:      administrative
-name:         Director
+name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
 
 contact:      technical
-name:         Director
+name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
@@ -35,7 +35,7 @@ nserver:      C.NIC.NEUSTAR 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      NS4.DNS.NIC.NEUSTAR 199.7.67.250 2001:502:100e:0:0:0:0:250
 nserver:      NS5.DNS.NIC.NEUSTAR 192.100.59.250 2610:a1:1013:0:0:0:0:250
 nserver:      NS6.DNS.NIC.NEUSTAR 198.133.199.250 2610:a1:1021:0:0:0:0:250
-ds-rdata:     32962 8 2 9bc1d8d086284962e03fa43ae37ac80f2d784218cea1ef02b322220f5e15cafe
+ds-rdata:     65215 8 2 ae5583bdfcf0307df227ff8c2916527da34d91c92d69835a87302b41d8284c7d
 
 whois:        
 
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.neustar.biz
 
 created:      2014-02-06
-changed:      2022-07-21
+changed:      2024-04-17
 source:       IANA
 
