@@ -4,14 +4,14 @@
 
 domain:       SA
 
-organisation: Communications and Information Technology Commission
+organisation: Communications, Space and Technology Commission
 address:      P. O. Box 75606
 address:      Riyadh 11588
 address:      Saudi Arabia
 
 contact:      administrative
 name:         Head of Saudi Network Information Center
-organisation: Communications and Information Technology Commission
+organisation: Communications, Space and Technology Commission
 address:      P. O. Box 75606
 address:      Riyadh 11588
 address:      Saudi Arabia
@@ -21,7 +21,7 @@ e-mail:       tld-admin-contact@nic.net.sa
 
 contact:      technical
 name:         SA-TLD Technical Contact
-organisation: Communications and Information Technology Commission
+organisation: Communications, Space and Technology Commission
 address:      P. O. Box 75606
 address:      Riyadh 11588
 address:      Saudi Arabia
@@ -30,7 +30,7 @@ fax-no:       +966114619497
 e-mail:       tld-tech-contact@nic.net.sa
 
 nserver:      C1.DNS.SA 2001:67c:18c8:c0:0:0:0:c1 86.111.192.9
-nserver:      C2.DNS.SA 86.111.196.9
+nserver:      C2.DNS.SA 2001:67c:130:10:0:0:0:9 86.111.196.9
 nserver:      I1.DNS.SA 2001:1490:0:800:0:0:0:118 212.138.118.118
 nserver:      M1.DNS.SA 2a02:ce0:1:30:0:0:0:5 86.51.77.213
 nserver:      M2.DNS.SA 2a02:ce0:1:91:0:0:0:5 86.51.28.37
@@ -39,7 +39,7 @@ nserver:      P1.DNS.SA 2001:500:14:6041:ad:0:0:1 204.61.216.41
 nserver:      S1.DNS.SA 2001:16a0:1:3002:0:0:0:2 37.107.223.170
 nserver:      S2.DNS.SA 2001:16a0:2:3002:0:0:0:2 37.107.255.170
 nserver:      SH1.DNS.SA 213.236.36.92 2a02:d70:64:68:0:0:0:2
-ds-rdata:     65380 8 2 0c3e281d035fd68a9bd2bbfe46348b7e000237385cd3a31c58a88cd652dc8785
+ds-rdata:     62932 8 2 2e80b1231d370f4933a26f19487946eaca1db9d41a53831c2a9e73368bbbaab5
 
 whois:        whois.nic.net.sa
 
@@ -47,6 +47,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.net.sa/
 
 created:      1994-05-17
-changed:      2023-03-14
+changed:      2024-08-28
 source:       IANA
 
