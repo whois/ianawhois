@@ -33,7 +33,6 @@ nserver:      C.NIC.SCHMIDT 2001:dcd:3:0:0:0:0:9 37.209.196.9
 nserver:      X.NIC.SCHMIDT 156.154.172.82 2610:a1:1074:0:0:0:1:82
 nserver:      Y.NIC.SCHMIDT 156.154.173.82 2610:a1:1075:0:0:0:1:82
 nserver:      Z.NIC.SCHMIDT 156.154.174.82 2610:a1:1076:0:0:0:1:82
-ds-rdata:     44854 8 2 d1351c74070e9e2b0dce546b4814df0adff4e289b1f5f3c6fddddd6a8ca1e33b
 ds-rdata:     26932 8 2 b073b6b0636b7081aaec30d496a1d18b380031886748277e8ea437c07d9c9a61
 
 whois:        whois.nic.schmidt
@@ -42,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.schmidt/
 
 created:      2014-06-19
-changed:      2023-07-31
+changed:      2023-11-30
 source:       IANA
 
