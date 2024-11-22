@@ -38,7 +38,7 @@ nserver:      EUR1.NIPR.MIL 199.252.154.234 2608:4122:2:154:0:0:0:234
 nserver:      EUR2.NIPR.MIL 199.252.143.234 2608:4163:1:143:0:0:0:234
 nserver:      PAC1.NIPR.MIL 199.252.180.234 2608:c184:1:180:0:0:0:234
 nserver:      PAC2.NIPR.MIL 199.252.155.234 2608:c144:1:155:0:0:0:234
-ds-rdata:     62470 8 2 be1683ce6c223cacb29c51244ab9f7bc2b0ff6096feac8ced63368f9dc5060e7
+ds-rdata:     63500 8 2 3baa83867103d6604a124282063f295e1b15c87cc13cb875a42f5754a912ebe0
 
 whois:        
 
@@ -46,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      1985-01-01
-changed:      2022-09-21
+changed:      2024-09-19
 source:       IANA
 
