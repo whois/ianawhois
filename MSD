@@ -20,27 +20,29 @@ phone:        908-243-2545
 e-mail:       merckdomains@merck.com
 
 contact:      technical
-name:         Registry Customer Service
-organisation: Verisign, Inc
-address:      12061 Bluemont Way
-address:      Reston VA 20190
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
-phone:        1-703-925-6999
-fax-no:       1-703-948-3978
-e-mail:       info@verisign-grs.com
+phone:        +1 480 505 8800
+fax-no:       +1 480 624 2546
+e-mail:       iana@registry.godaddy
 
-nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
-nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
-nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
-nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
-ds-rdata:     30849 8 2 8560961fd5e191d49b2461180f7edc509e10689f85ed595ad111956bc81ff9a2
+nserver:      A.NIC.MSD 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.MSD 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.MSD 2001:dcd:3:0:0:0:0:9 37.209.196.9
+nserver:      X.NIC.MSD 156.154.172.82 2610:a1:1074:0:0:0:1:82
+nserver:      Y.NIC.MSD 156.154.173.82 2610:a1:1075:0:0:0:1:82
+nserver:      Z.NIC.MSD 156.154.174.82 2610:a1:1076:0:0:0:1:82
+ds-rdata:     23659 8 2 81de1bcc17ae524ceeabd94382ff3aa6bfd61804332e511b44ea5ab06ec6f52a
 
-whois:        
+whois:        whois.nic.msd
 
 status:       ACTIVE
 remarks:      Registration information: 
 
 created:      2016-06-24
-changed:      2020-10-01
+changed:      2024-06-20
 source:       IANA
 
