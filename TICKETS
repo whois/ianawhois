@@ -33,8 +33,8 @@ nserver:      A.NIC.TICKETS 194.169.218.58 2001:67c:13cc:0:0:0:1:58
 nserver:      B.NIC.TICKETS 185.24.64.58 2a04:2b00:13cc:0:0:0:1:58
 nserver:      C.NIC.TICKETS 212.18.248.58 2a04:2b00:13ee:0:0:0:0:58
 nserver:      D.NIC.TICKETS 212.18.249.58 2a04:2b00:13ff:0:0:0:0:58
-ds-rdata:     11069 8 1 ef9659c10a6ff3b9259f2df0cf7d36eca515c8f0
 ds-rdata:     11069 8 2 5d58d40b472461672340583b4865540a52bfb551ca57663b22084e554d09532b
+ds-rdata:     41687 8 2 ea32f704a1ac5dc44a391652f8b566b058f220acdd5bafbfb47fb9b4f3d01868
 
 whois:        whois.nic.tickets
 
@@ -42,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://tickets.tickets
 
 created:      2015-03-19
-changed:      2022-08-16
+changed:      2024-04-15
 source:       IANA
 
