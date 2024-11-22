@@ -17,13 +17,13 @@ address:      Mies CH-1295
 address:      Switzerland
 phone:        +64.21782255
 fax-no:       +44.2033880601
-e-mail:       primary@dotbasketball.co
+e-mail:       hamish@roar.basketball
 
 contact:      technical
 name:         IANA Contact
 organisation: GoDaddy Registry
-address:      2155 E GoDaddy Way
-address:      Tempe AZ 85284
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
 phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
@@ -35,7 +35,7 @@ nserver:      C.NIC.BASKETBALL 2001:dcd:3:0:0:0:0:10 37.209.196.10
 nserver:      X.NIC.BASKETBALL 156.154.172.82 2610:a1:1074:0:0:0:1:82
 nserver:      Y.NIC.BASKETBALL 156.154.173.82 2610:a1:1075:0:0:0:1:82
 nserver:      Z.NIC.BASKETBALL 156.154.174.82 2610:a1:1076:0:0:0:1:82
-ds-rdata:     46201 8 2 ca5c951d022f3965ab936d403cfbb48f2d753d7b32dde3ac146b419693dfbf30
+ds-rdata:     48130 8 2 02653b2567731ff23c16036c9f0d51a3596fb8c93b6bd0801b74e7267af995af
 
 whois:        whois.nic.basketball
 
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.fiba.com/
 
 created:      2016-10-13
-changed:      2022-12-02
+changed:      2024-11-14
 source:       IANA
 
