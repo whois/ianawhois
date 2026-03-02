@@ -5,14 +5,14 @@
 domain:       AUCTION
 
 organisation: Dog Beach, LLC
-address:      c/o Identity Digital Limited
+address:      c/o Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 
 contact:      administrative
 name:         Vice President, Engineering
-organisation: Identity Digital Limited
+organisation: Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
@@ -23,6 +23,7 @@ e-mail:       tldadmin@identity.digital
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
 organisation: Identity Digital Limited
+address:      c/o Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
@@ -38,12 +39,12 @@ nserver:      V2N0.NIC.AUCTION 2a01:8840:25:0:0:0:0:55 65.22.35.55
 nserver:      V2N1.NIC.AUCTION 161.232.17.55 2a01:8840:fb:0:0:0:0:55
 ds-rdata:     28861 8 2 a36871c0fbde1696e659a812be9ca47a2b140c26bdbd84c61c6ba3a25175a2fd
 
-whois:        whois.nic.auction
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: https://www.identity.digital/
 
 created:      2014-04-24
-changed:      2023-09-12
+changed:      2025-10-07
 source:       IANA
 
