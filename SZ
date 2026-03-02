@@ -31,7 +31,7 @@ e-mail:       dns@sispa.org.sz
 
 nserver:      NS1.SISPA.ORG.SZ 41.77.232.4
 nserver:      RIP.PSG.COM 147.28.0.39 2001:418:1:0:0:0:0:39
-nserver:      SZ.CCTLD.AUTHDNS.RIPE.NET 193.0.9.114 2001:67c:e0:0:0:0:0:114
+nserver:      SZ.CCTLD.AUTHDNS.RIPE.NET 193.0.9.114 2a13:27c0:30:0:0:0:0:114
 
 whois:        
 
@@ -39,6 +39,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.sispa.org.sz/
 
 created:      1993-07-19
-changed:      2023-03-07
+changed:      2025-07-14
 source:       IANA
 
