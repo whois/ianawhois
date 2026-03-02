@@ -40,13 +40,12 @@ nserver:      DNSC.NIC.ZAPPOS 156.154.102.3 2610:a1:1009:0:0:0:0:3
 nserver:      DNSD.NIC.ZAPPOS 156.154.103.3 2610:a1:1010:0:0:0:0:3
 ds-rdata:     36265 8 2 a8426c392c1c10535d73c70c91860ab821ce7ccfbec9567ed6c015c0c3541ca7
 
-whois:        whois.nic.zappos
+whois:        
 
 status:       ACTIVE
-remarks:      Registration information:
-remarks:      https://www.amazonregistry.com/
+remarks:      Registration information: http://www.nic.zappos
 
 created:      2016-05-19
-changed:      2024-01-31
+changed:      2025-02-14
 source:       IANA
 
