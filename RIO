@@ -5,15 +5,14 @@
 domain:       RIO
 
 organisation: Empresa Municipal de Informática SA - IPLANRIO
-address:      Av. Presidente Vargas, 3131 Sala 1204
-address:      Rio de Janeiro RJ 20210-030
+address:      Rua Beatriz Larragoiti Lucas 121 7o andar
+address:      Rio de Janeiro RJ 20211-175
 address:      Brazil
 
 contact:      administrative
-name:         Diretor Presidente
-organisation: Empresa Municipal de Informática SA - IPLANRIO
-address:      Av. Presidente Vargas, 3131 - 13. andar
-address:      Rio de Janeiro RJ 20210-030
+name:         Empresa Municipal de Informática SA - IPLANRIO
+address:      Rua Beatriz Larragoiti Lucas 121 7o andar
+address:      Rio de Janeiro RJ 20211-175
 address:      Brazil
 phone:        +55 21 39711818
 e-mail:       gtlds-rio@registro.br
@@ -35,12 +34,12 @@ nserver:      E.DNS.BR 200.229.248.10 2001:12f8:2:0:0:0:0:10
 nserver:      F.DNS.BR 200.219.159.10 2001:12f8:c:0:0:0:0:10
 ds-rdata:     50876 13 2 b4e05083f7129fab32ea7a6c847999ae437c7f2a8fc11d621f73e4fb386347d4
 
-whois:        whois.gtlds.nic.br
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: https://nic.rio/
 
 created:      2014-05-15
-changed:      2023-11-14
+changed:      2025-08-14
 source:       IANA
 
