@@ -6,14 +6,14 @@ domain:       商店
 domain-ace:   XN--CZRS0T
 
 organisation: Binky Moon, LLC
-address:      c/o Identity Digital Limited
+address:      c/o Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 
 contact:      administrative
 name:         Vice President, Engineering
-organisation: Identity Digital Limited
+organisation: Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
@@ -24,6 +24,7 @@ e-mail:       tldadmin@identity.digital
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
 organisation: Identity Digital Limited
+address:      c/o Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
@@ -39,12 +40,12 @@ nserver:      V2N0.NIC.XN--CZRS0T 2a01:8840:21:0:0:0:0:64 65.22.31.64
 nserver:      V2N1.NIC.XN--CZRS0T 161.232.15.64 2a01:8840:f9:0:0:0:0:64
 ds-rdata:     1450 8 2 ee874dd50ba3cecb8187c1d3fb2f8c72fae826a33c0c6a96dab7c16db8a70d84
 
-whois:        whois.nic.xn--czrs0t
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: https://www.identity.digital/
 
 created:      2014-11-20
-changed:      2023-09-13
+changed:      2025-10-07
 source:       IANA
 
