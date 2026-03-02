@@ -5,14 +5,14 @@
 domain:       DENTAL
 
 organisation: Binky Moon, LLC
-address:      c/o Identity Digital Limited
+address:      c/o Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 
 contact:      administrative
 name:         Vice President, Engineering
-organisation: Identity Digital Limited
+organisation: Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
@@ -23,6 +23,7 @@ e-mail:       tldadmin@identity.digital
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
 organisation: Identity Digital Limited
+address:      c/o Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
@@ -38,12 +39,12 @@ nserver:      V2N0.NIC.DENTAL 2a01:8840:1d:0:0:0:0:49 65.22.27.49
 nserver:      V2N1.NIC.DENTAL 161.232.13.49 2a01:8840:f7:0:0:0:0:49
 ds-rdata:     29074 8 2 d20a39cb427d7ba59a4483ac8e4e774a5d197dfa36ad7a47696501619dfd6b5f
 
-whois:        whois.nic.dental
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: https://www.identity.digital/
 
 created:      2014-04-17
-changed:      2023-09-13
+changed:      2025-10-07
 source:       IANA
 
