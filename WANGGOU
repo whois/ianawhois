@@ -40,12 +40,12 @@ nserver:      DNSC.NIC.WANGGOU 156.154.102.3 2610:a1:1009:0:0:0:0:3
 nserver:      DNSD.NIC.WANGGOU 156.154.103.3 2610:a1:1010:0:0:0:0:3
 ds-rdata:     3407 8 2 ac4cb98b121b9214b4432a123bce7930f5152bf7a496eebd7602731ab44615e3
 
-whois:        whois.nic.wanggou
+whois:        
 
 status:       ACTIVE
-remarks:      Registration information: https://www.amazonregistry.com
+remarks:      Registration information: http://www.nic.wanggou
 
 created:      2015-11-12
-changed:      2024-01-31
+changed:      2025-02-14
 source:       IANA
 
