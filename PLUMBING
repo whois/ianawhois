@@ -5,14 +5,14 @@
 domain:       PLUMBING
 
 organisation: Binky Moon, LLC
-address:      c/o Identity Digital Limited
+address:      c/o Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 
 contact:      administrative
 name:         Vice President, Engineering
-organisation: Identity Digital Limited
+organisation: Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
@@ -23,6 +23,7 @@ e-mail:       tldadmin@identity.digital
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
 organisation: Identity Digital Limited
+address:      c/o Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
@@ -38,12 +39,12 @@ nserver:      V2N0.NIC.PLUMBING 2a01:8840:1d:0:0:0:0:28 65.22.27.28
 nserver:      V2N1.NIC.PLUMBING 161.232.13.28 2a01:8840:f7:0:0:0:0:28
 ds-rdata:     48722 8 2 d0024bf8bc37e85179a92e3b16f602aa566e63df0eb315324be040ff2d35bdb4
 
-whois:        whois.nic.plumbing
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: https://www.identity.digital/
 
 created:      2013-11-08
-changed:      2023-09-13
+changed:      2025-10-07
 source:       IANA
 
