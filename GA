@@ -33,6 +33,7 @@ e-mail:       cctldga-tech@nic.ga
 nserver:      D.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
 nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
 nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
+ds-rdata:     20588 13 2 11e86b193c6f284e61f3af76d42ad754852056e8183097a30e55ad580fd6a631
 
 whois:        
 
@@ -40,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      1994-12-12
-changed:      2023-06-04
+changed:      2025-06-11
 source:       IANA
 
