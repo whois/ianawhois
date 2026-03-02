@@ -29,15 +29,14 @@ address:      China
 phone:        +86-10-68424346
 e-mail:       icann@trademarkdomain.com
 
-nserver:      A.ZDNSCLOUD.COM 203.99.24.1
-nserver:      B.ZDNSCLOUD.COM 203.99.25.1
+nserver:      A.ZDNSCLOUD.CN 203.99.24.1
+nserver:      B.ZDNSCLOUD.CN 203.99.25.1
 nserver:      C.ZDNSCLOUD.COM 203.99.26.1
 nserver:      D.ZDNSCLOUD.COM 203.99.27.1
-nserver:      F.ZDNSCLOUD.COM 116.169.54.111
+nserver:      F.ZDNSCLOUD.CN 116.169.54.111
 nserver:      G.ZDNSCLOUD.COM 223.72.199.37
-nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
+nserver:      I.ZDNSCLOUD.CN 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
-ds-rdata:     61882 8 2 ef3f494c35f4c2c571a0e5644f6e2760818f2eb7b08e1b05b522d995022b6786
 ds-rdata:     47587 8 2 c25353ef849dce2b94e77b4a8997a7ea66d3a8614ec62493a18f072df66de9a6
 
 whois:        
@@ -46,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      2017-12-21
-changed:      2024-04-22
+changed:      2024-12-17
 source:       IANA
 
