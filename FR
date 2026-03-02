@@ -32,7 +32,7 @@ e-mail:       tld-tech@nic.fr
 nserver:      D.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
 nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
 nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
-ds-rdata:     29133 13 2 1303e8da8fb60db500d5bea1ee5dc9a2bcc93dfe2fc43d346576658feccf5749
+ds-rdata:     65381 13 2 8163abf45792942cf4ee38cca31f6a6832fcdc6d402338fc687827690c4132f6
 
 whois:        whois.nic.fr
 
@@ -40,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.nic.fr
 
 created:      1986-09-02
-changed:      2024-09-09
+changed:      2025-07-31
 source:       IANA
 
