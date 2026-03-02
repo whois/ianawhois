@@ -5,14 +5,18 @@
 domain:       CU
 
 organisation: CENIAInternet
-organisation: Industria y San Jose
-organisation: Capitolio Nacional
+address:      Industria y San Jose
+address:      Capitolio Nacional
+address:      La Habana CP 10200
+address:      Cuba
 
 contact:      administrative
 name:         CU-DOM Administrative Contact
 organisation: CENIAInternet
-organisation: Industria y San Jose
-organisation: Capitolio Nacional
+address:      Industria y San Jose
+address:      Capitolio Nacional
+address:      La Habana CP 10200
+address:      Cuba
 phone:        +537 2069380
 fax-no:       +537 2048202
 e-mail:       cu-admin@ceniai.inf.cu
@@ -20,13 +24,15 @@ e-mail:       cu-admin@ceniai.inf.cu
 contact:      technical
 name:         CU-DOM Technical Contact
 organisation: CENIAInternet
-organisation: Industria y San Jose
-organisation: Capitolio Nacional
+address:      Industria y San Jose
+address:      Capitolio Nacional
+address:      La Habana CP 10200
+address:      Cuba
 phone:        +537 8620377
 fax-no:       +537 2048202
 e-mail:       cu-tech@ceniai.inf.cu
 
-nserver:      CU.CCTLD.AUTHDNS.RIPE.NET 193.0.9.70 2001:67c:e0:0:0:0:0:70
+nserver:      CU.CCTLD.AUTHDNS.RIPE.NET 193.0.9.70 2a13:27c0:30:0:0:0:0:70
 nserver:      NS.CENIAI.NET.CU 169.158.128.136 2001:1340:1:128:0:0:0:136
 nserver:      NS.DNS.BR 200.160.0.5 2001:12ff:0:a20:0:0:0:5
 nserver:      NS2.CENIAI.NET.CU 169.158.128.88
@@ -39,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.cu
 
 created:      1992-06-03
-changed:      2024-10-14
+changed:      2025-08-22
 source:       IANA
 
