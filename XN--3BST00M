@@ -18,17 +18,17 @@ address:      Kowloon
 address:      China
 phone:        +86 20 6622 2813
 fax-no:       +86 20 6622 2813
-e-mail:       ceo@yu-wei.cn
+e-mail:       eugene.li@nic.wang
 
 contact:      technical
-name:         VP
+name:         Wendy Yang
 organisation: Eagle Horizon Limited
 address:      Room 201A, Wing On Plaza, 62 Mody Road, Tsui East
 address:      Kowloon
 address:      China
 phone:        +86 20 6622 2813
 fax-no:       +86 20 6622 2813
-e-mail:       technology@yu-wei.cn
+e-mail:       tech-support@nic.wang
 
 nserver:      A.ZDNSCLOUD.CN 203.99.24.1
 nserver:      B.ZDNSCLOUD.CN 203.99.25.1
@@ -46,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.newgtld.cn
 
 created:      2013-12-12
-changed:      2024-11-21
+changed:      2025-12-08
 source:       IANA
 
