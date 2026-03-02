@@ -40,12 +40,12 @@ nserver:      DNSC.NIC.PIN 156.154.102.3 2610:a1:1009:0:0:0:0:3
 nserver:      DNSD.NIC.PIN 156.154.103.3 2610:a1:1010:0:0:0:0:3
 ds-rdata:     63869 8 2 b1e2d98d05c72adebb4876fd43cd7b3f1ed02856eeae8547b34769633e056b92
 
-whois:        whois.nic.pin
+whois:        
 
 status:       ACTIVE
-remarks:      Registration information: https://www.amazonregistry.com
+remarks:      Registration information: http://www.nic.pin
 
 created:      2015-11-12
-changed:      2024-02-01
+changed:      2025-02-14
 source:       IANA
 
