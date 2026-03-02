@@ -34,6 +34,9 @@ e-mail:       senait.mezgebu@ethiotelecom.et
 
 nserver:      A.NIC.ET 197.156.74.192
 nserver:      B.NIC.ET 197.156.74.193
+nserver:      C.NIC.ET 196.188.116.180
+nserver:      D.NIC.ET 196.188.116.181
+ds-rdata:     30356 8 2 5362712d52fcd3c54495fc64976e188362ced5546e609012ce4b25fa808beb4a
 
 whois:        
 
@@ -41,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.ethiotelecom.et
 
 created:      1995-10-15
-changed:      2022-06-02
+changed:      2025-09-19
 source:       IANA
 
