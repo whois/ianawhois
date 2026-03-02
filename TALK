@@ -40,12 +40,12 @@ nserver:      DNSC.NIC.TALK 156.154.102.3 2610:a1:1009:0:0:0:0:3
 nserver:      DNSD.NIC.TALK 156.154.103.3 2610:a1:1010:0:0:0:0:3
 ds-rdata:     63701 8 2 6eafd932eddd45279072054c3cdfcf9cf04ee9cc5847de8f7ae6442a3ecac117
 
-whois:        whois.nic.talk
+whois:        
 
 status:       ACTIVE
-remarks:      Registration information: https://www.amazonregistry.com
+remarks:      Registration information: http://www.nic.talk
 
 created:      2016-03-18
-changed:      2024-01-31
+changed:      2025-02-14
 source:       IANA
 
