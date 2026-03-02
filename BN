@@ -34,6 +34,7 @@ nserver:      NS1.BNNIC.BN 194.0.1.33
 nserver:      NS2.BNNIC.BN 202.93.214.163
 nserver:      NS4.APNIC.NET 2001:dd8:12:0:0:0:0:53 202.12.31.53
 ds-rdata:     21614 8 2 e55808ddc25334d790e0c238d9dc52f80deed1983912463ae9cd1c26066c49e9
+ds-rdata:     7952 8 2 aee5e99a9df33e7ea387e5e5144681fc98cf39c85857a6180c2d04b20808784e
 
 whois:        whois.bnnic.bn
 
@@ -41,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.bnnic.bn
 
 created:      1994-06-03
-changed:      2024-11-20
+changed:      2025-05-05
 source:       IANA
 
