@@ -20,17 +20,17 @@ e-mail:       registry@get.love
 
 contact:      technical
 name:         Vice President, Engineering
-organisation: Tucows Inc
+organisation: Tucows.com, Co.
 address:      96 Mowat Avenue
 address:      Toronto ON M6K3M1
 address:      Canada
-phone:        1.9499033449
+phone:        +1 (416) 535-0123
 e-mail:       trs-ops@tucows.com
 
 nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
-nserver:      NS01.TRS-DNS.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
-nserver:      NS01.TRS-DNS.NET 64.96.2.1
-nserver:      NS01.TRS-DNS.ORG 185.159.197.3 2620:10a:80aa:0:0:0:0:3
+nserver:      NS01.TRS-DNS.NET 2620:57:4002:0:0:0:0:1 64.96.2.1
+nserver:      NS10.TRS-DNS.INFO 2620:171:812:1534:8:0:0:1 64.78.204.1
+nserver:      NS10.TRS-DNS.ORG 2620:171:813:1534:8:0:0:1 64.78.205.1
 ds-rdata:     27205 13 2 099baacef86a52379cdc0f6756d1eadaa7963ff5c3a16cfe32340b109580b84b
 
 whois:        whois.nic.love
@@ -39,6 +39,6 @@ status:       ACTIVE
 remarks:      Registration information: https://get.love
 
 created:      2015-03-25
-changed:      2024-06-20
+changed:      2025-12-12
 source:       IANA
 
