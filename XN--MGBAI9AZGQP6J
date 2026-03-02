@@ -30,11 +30,10 @@ phone:        +92-51-9209009
 fax-no:       +92-51-9201489
 e-mail:       kashif.fayyaz@ntc.org.pk
 
-nserver:      NS.NTC.NET.PK 202.83.164.166
-nserver:      NS1.NTC.NET.PK 202.83.164.167
-nserver:      NS2.NTC.NET.PK 175.107.198.150
-ds-rdata:     21720 7 1 9fc6318aa15a43b4cf11d3f64cd678935e40402f
-ds-rdata:     21720 7 2 bb7d853dfdfd7a39574ce1b5d3009e5c813264e614430c1b29c894c090393dd1
+nserver:      NS1.NTC.ORG.PK 43.250.84.53
+nserver:      NS2.NTC.ORG.PK 43.250.84.54
+nserver:      NS3.NTC.ORG.PK 36.50.76.15
+ds-rdata:     23595 13 2 e46d0e529c6f1a41ec7de4a184c062ffb2847d49618192fecb8d348818e576c6
 
 whois:        
 
@@ -42,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      2011-02-28
-changed:      2023-03-07
+changed:      2026-02-11
 source:       IANA
 
