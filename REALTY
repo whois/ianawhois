@@ -20,17 +20,17 @@ e-mail:       partners@inaming.co
 
 contact:      technical
 name:         Francisco Obispo
-organisation: Tucows Inc
+organisation: Tucows.com, Co.
 address:      96 Mowat Avenue
 address:      Toronto Ontario M6K3M1
 address:      Canada
-phone:        +1.949.903.3449
+phone:        +1 (416) 535-0123
 e-mail:       trs-ops@tucows.com
 
 nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
-nserver:      NS01.TRS-DNS.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
-nserver:      NS01.TRS-DNS.NET 64.96.2.1
-nserver:      NS01.TRS-DNS.ORG 185.159.197.3 2620:10a:80aa:0:0:0:0:3
+nserver:      NS01.TRS-DNS.NET 2620:57:4002:0:0:0:0:1 64.96.2.1
+nserver:      NS10.TRS-DNS.INFO 2620:171:812:1534:8:0:0:1 64.78.204.1
+nserver:      NS10.TRS-DNS.ORG 2620:171:813:1534:8:0:0:1 64.78.205.1
 ds-rdata:     12180 13 2 a7c0a9bbad77a51be0e829afbfc839aa15ad00945bbc03e3ed719d0710023957
 
 whois:        whois.nic.realty
@@ -39,6 +39,6 @@ status:       ACTIVE
 remarks:      Registration information: https://internetnaming.co
 
 created:      2015-06-11
-changed:      2024-05-21
+changed:      2025-12-12
 source:       IANA
 
