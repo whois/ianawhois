@@ -40,12 +40,12 @@ nserver:      DNSC.NIC.SPOT 156.154.102.3 2610:a1:1009:0:0:0:0:3
 nserver:      DNSD.NIC.SPOT 156.154.103.3 2610:a1:1010:0:0:0:0:3
 ds-rdata:     59827 8 2 116c15183e96a172850b479253520c519cfc0d28be0f3154df01298e1bfc1cc2
 
-whois:        whois.nic.spot
+whois:        
 
 status:       ACTIVE
-remarks:      Registration information: https://www.amazonregistry.com
+remarks:      Registration information: http://www.nic.spot
 
 created:      2016-01-29
-changed:      2024-01-31
+changed:      2025-02-14
 source:       IANA
 
