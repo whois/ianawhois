@@ -5,14 +5,14 @@
 domain:       FLORIST
 
 organisation: Binky Moon, LLC
-address:      c/o Identity Digital Limited
+address:      c/o Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 
 contact:      administrative
 name:         Vice President, Engineering
-organisation: Identity Digital Limited
+organisation: Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
@@ -23,6 +23,7 @@ e-mail:       tldadmin@identity.digital
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
 organisation: Identity Digital Limited
+address:      c/o Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
@@ -38,12 +39,12 @@ nserver:      V2N0.NIC.FLORIST 2a01:8840:25:0:0:0:0:30 65.22.35.30
 nserver:      V2N1.NIC.FLORIST 161.232.17.30 2a01:8840:fb:0:0:0:0:30
 ds-rdata:     48775 8 2 3fdfbf7d66854164bd6f7ee44ca6e92f8e7d23e577bdc213d34dfb62a0093e85
 
-whois:        whois.nic.florist
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: https://www.identity.digital/
 
 created:      2013-12-19
-changed:      2023-09-13
+changed:      2025-10-07
 source:       IANA
 
