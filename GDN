@@ -36,8 +36,8 @@ e-mail:       kausar@gdnregistry.com
 nserver:      NS1.NIC.GDN 194.0.25.18 2001:678:20:0:0:0:0:18
 nserver:      NS3.NIC.GDN 194.0.26.11 2001:67c:10e0:0:0:0:0:11
 nserver:      NS4.NIC.GDN 194.0.24.11 2001:678:24:0:0:0:0:11
-ds-rdata:     28906 8 1 157427e9d56b06de066a0bee607c2f3314b85fea
 ds-rdata:     31405 8 1 00275a5feec994177d0c012b7239ca8ad41ec030
+ds-rdata:     51961 8 1 560ebea2094d97bb3bab16b77a706d00ec30c203
 
 whois:        whois.nic.gdn
 
@@ -45,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.gdn
 
 created:      2014-12-04
-changed:      2024-05-06
+changed:      2025-05-06
 source:       IANA
 
