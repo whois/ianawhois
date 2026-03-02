@@ -5,14 +5,14 @@
 domain:       BINGO
 
 organisation: Binky Moon, LLC
-address:      c/o Identity Digital Limited
+address:      c/o Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 
 contact:      administrative
 name:         Vice President, Engineering
-organisation: Identity Digital Limited
+organisation: Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
@@ -23,6 +23,7 @@ e-mail:       tldadmin@identity.digital
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
 organisation: Identity Digital Limited
+address:      c/o Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
@@ -38,12 +39,12 @@ nserver:      V2N0.NIC.BINGO 2a01:8840:25:0:0:0:0:62 65.22.35.62
 nserver:      V2N1.NIC.BINGO 161.232.17.62 2a01:8840:fb:0:0:0:0:62
 ds-rdata:     26002 8 2 03bdacc0aa8ec5264be4aeae020b6868cf219757cffb96e809b02af985571bd2
 
-whois:        whois.nic.bingo
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: https://www.identity.digital/
 
 created:      2015-01-29
-changed:      2023-09-12
+changed:      2025-10-07
 source:       IANA
 
