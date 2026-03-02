@@ -21,29 +21,29 @@ fax-no:       +1-206-946-7702
 e-mail:       arsi-rzm@amazon.com
 
 contact:      technical
-name:         IANA Contact
-organisation: GoDaddy Registry
-address:      100 S. Mill Ave, Suite 1600
-address:      Tempe AZ 85281
+name:         Howard Eland, Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
 address:      United States of America (the)
-phone:        +1 480 505 8800
-fax-no:       +1 480 624 2546
-e-mail:       iana@registry.godaddy
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
 
-nserver:      A.NIC.XN--CCK2B3B 2001:dcd:1:0:0:0:0:10 37.209.192.10
-nserver:      B.NIC.XN--CCK2B3B 2001:dcd:2:0:0:0:0:10 37.209.194.10
-nserver:      C.NIC.XN--CCK2B3B 2001:dcd:3:0:0:0:0:10 37.209.196.10
-nserver:      NS1.DNS.NIC.XN--CCK2B3B 156.154.144.193 2610:a1:1071:0:0:0:0:c1
-nserver:      NS2.DNS.NIC.XN--CCK2B3B 156.154.145.193 2610:a1:1072:0:0:0:0:c1
-nserver:      NS3.DNS.NIC.XN--CCK2B3B 156.154.159.193 2610:a1:1073:0:0:0:0:c1
-ds-rdata:     3841 8 2 123a65d7e5ceaac47d65136b12037a6965b9a52f8ed600c1cfbec8039b5877d5
+nserver:      V0N0.NIC.XN--CCK2B3B 2a01:8840:4a:0:0:0:0:5 65.22.76.5
+nserver:      V0N1.NIC.XN--CCK2B3B 2a01:8840:4b:0:0:0:0:5 65.22.77.5
+nserver:      V0N2.NIC.XN--CCK2B3B 2a01:8840:4c:0:0:0:0:5 65.22.78.5
+nserver:      V0N3.NIC.XN--CCK2B3B 161.232.38.5 2a01:8840:10c:0:0:0:0:5
+nserver:      V2N0.NIC.XN--CCK2B3B 2a01:8840:4d:0:0:0:0:5 65.22.79.5
+nserver:      V2N1.NIC.XN--CCK2B3B 161.232.39.5 2a01:8840:10d:0:0:0:0:5
+ds-rdata:     7171 8 2 480318eeeb6f2bfec750dd4267bddc9d033b80c0bf1bf9cf979780c35bb87769
 
-whois:        
+whois:        whois.nic.xn--cck2b3b
 
 status:       ACTIVE
-remarks:      Registration information: http://www.amazonregistry.com
+remarks:      Registration information: http://www.nic.xn--cck2b3b
 
 created:      2016-01-29
-changed:      2024-05-11
+changed:      2025-06-17
 source:       IANA
 
