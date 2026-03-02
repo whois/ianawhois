@@ -5,7 +5,7 @@
 domain:       BET
 
 organisation: Identity Digital Limited
-address:      c/o Identity Digital Limited
+address:      c/o Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
@@ -13,6 +13,7 @@ address:      United States of America (the)
 contact:      administrative
 name:         Vice President, Engineering
 organisation: Identity Digital Limited
+address:      c/o Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
@@ -23,6 +24,7 @@ e-mail:       tldadmin@identity.digital
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
 organisation: Identity Digital Limited
+address:      c/o Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
@@ -36,12 +38,12 @@ nserver:      B0.NIC.BET 2a01:8840:27:0:0:0:0:17 65.22.37.17
 nserver:      C0.NIC.BET 2a01:8840:28:0:0:0:0:17 65.22.38.17
 ds-rdata:     34666 8 2 e514f93c9ff69ec196e47cdfa00e39946382363cf2cac7df3df562f35b31a2bc
 
-whois:        whois.nic.bet
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: https://www.identity.digital/
 
 created:      2015-07-16
-changed:      2023-09-01
+changed:      2025-09-04
 source:       IANA
 
