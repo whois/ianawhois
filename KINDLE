@@ -40,13 +40,12 @@ nserver:      DNSC.NIC.KINDLE 156.154.102.3 2610:a1:1009:0:0:0:0:3
 nserver:      DNSD.NIC.KINDLE 156.154.103.3 2610:a1:1010:0:0:0:0:3
 ds-rdata:     29776 8 2 bfd30bf5a3a6da5808bb6780e6cbec1cc929445af65e949b31a9e5bdc3003066
 
-whois:        whois.nic.kindle
+whois:        
 
 status:       ACTIVE
-remarks:      Registration information:
-remarks:      https://www.amazonregistry.com/
+remarks:      Registration information: http://www.nic.kindle
 
 created:      2016-05-19
-changed:      2024-02-01
+changed:      2025-02-14
 source:       IANA
 
