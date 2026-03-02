@@ -34,6 +34,7 @@ nserver:      A.REGISTRE.BF 212.52.146.50
 nserver:      DNS-TLD.IRD.FR 13.39.116.127
 nserver:      NS-BF.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
 nserver:      PCH.NS.REGISTRE.BF 2001:500:14:6141:ad:0:0:1 204.61.216.141
+ds-rdata:     59875 13 2 fe5713c51eafd6b7117ac4b7d1d6ea7c6085eb66fe1021235986622ddcf34dce
 
 whois:        whois.registre.bf
 
@@ -41,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.registre.bf
 
 created:      1993-03-29
-changed:      2023-10-03
+changed:      2025-04-30
 source:       IANA
 
