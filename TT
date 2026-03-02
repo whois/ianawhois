@@ -4,8 +4,10 @@
 
 domain:       TT
 
-organisation: University of the West Indies
-organisation: Faculty of Engineering
+organisation: University of the West Indies, Faculty of Engineering
+address:      Kenneth S. Julien Building, Third Floor, Room 305
+address:      St. Augustine
+address:      Trinidad and Tobago
 
 contact:      administrative
 name:         Dr. Patrick Hosein
@@ -27,7 +29,7 @@ e-mail:       tech@nic.tt
 
 nserver:      A.LACTLD.ORG 200.0.68.10 2801:14:a000:0:0:0:0:10
 nserver:      PCH.NIC.TT 2001:500:14:6063:ad:0:0:1 204.61.216.63
-nserver:      RIPE.NIC.TT 193.0.9.50 2001:67c:e0:0:0:0:0:50
+nserver:      RIPE.NIC.TT 193.0.9.50 2a13:27c0:30:0:0:0:0:50
 ds-rdata:     2539 8 2 b06dfa79674df3ea8190e7616164414b01e9199b7c94ec1540378a395daa401f
 
 whois:        
@@ -36,6 +38,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.tt
 
 created:      1991-09-03
-changed:      2022-12-07
+changed:      2025-08-22
 source:       IANA
 
