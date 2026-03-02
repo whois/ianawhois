@@ -5,35 +5,31 @@
 domain:       ZA
 
 organisation: ZA Domain Name Authority
-address:      44 Grand Central Blvd
-address:      Sanofi House
-address:      Halfway house
+address:      72 New Road,
+address:      Glen Austin AH,
 address:      Midrand Gauteng 1685
 address:      South Africa
 
 contact:      administrative
-name:         Chairperson
+name:         .ZA ADMIN
 organisation: ZA Domain Name Authority
-address:      44 Grand Central Blvd
-address:      Sanofi House
-address:      Halfway house
-address:      Midrand Gauteng 1685
-address:      South Africa
-phone:        +27 (0)10 020 3910
-fax-no:       +27 (0)10 020 3919
-e-mail:       chair@zadna.org.za
-
-contact:      technical
-name:         Technical Committee
-organisation: ZA Domain Name Authority
-address:      44 Grand Central Blvd
-address:      Sanofi House
-address:      Halfway house
+address:      72 New Road, Glen Austin AH
 address:      Midrand Gauteng 1685
 address:      South Africa
 phone:        +27 (0)10 020 3910
 fax-no:       +27 (0)10 020 3919
 e-mail:       dnsadmin@zadna.org.za
+
+contact:      technical
+name:         .ZADNA Technical
+organisation: ZA Domain Name Authority
+address:      72 New Road,
+address:      Glen Austin AH
+address:      Midrand Gauteng 1685
+address:      South Africa
+phone:        +27 (0)10 020 3910
+fax-no:       +27 (0)10 020 3919
+e-mail:       dnstech@zadna.org.za
 
 nserver:      NSZA.IS.CO.ZA 196.4.160.27
 nserver:      ZA-NS.ANYCAST.PCH.NET 2001:500:14:6055:ad:0:0:1 204.61.216.55
@@ -46,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.zadna.org.za/
 
 created:      1990-11-07
-changed:      2020-01-15
+changed:      2025-04-16
 source:       IANA
 
