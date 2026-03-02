@@ -4,10 +4,10 @@
 
 domain:       ANQUAN
 
-organisation: QIHOO 360 TECHNOLOGY CO. LTD.
+organisation: Beijing Qihu Keji Co., Ltd.
 address:      Building #2, No. 6 Jiuxianqiao Road
 address:      Chaoyang District
-address:      Beijing
+address:      Beijing 100011
 address:      China
 
 contact:      administrative
@@ -19,7 +19,7 @@ address:      Beijing
 address:      China
 phone:        +86 10 5244 7383
 fax-no:       +86. 10 5878 1411
-e-mail:       newgtld_legal@360.cn
+e-mail:       newgtld@360.cn
 
 contact:      technical
 name:         CTO
@@ -35,6 +35,7 @@ nserver:      NS2.TELEINFOO.COM 103.61.61.1 2402:7d80:8888:0:0:0:0:1
 nserver:      NS3.TELEINFO.CN 103.61.62.1
 nserver:      NS4.TELEINFOO.COM 103.61.63.1
 ds-rdata:     27565 8 2 f8bcdc5d341ec24ca492b2a1fade90c2535844cb0f086a6ab77e0059ea2e8cdf
+ds-rdata:     33427 8 2 491e98ab4efb5c395dbb863edeaaf2e9d696df4391a9ea393242a307eaf1b85c
 
 whois:        whois.teleinfo.cn
 
@@ -42,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.teleinfo.cn
 
 created:      2016-03-18
-changed:      2024-05-06
+changed:      2025-10-24
 source:       IANA
 
