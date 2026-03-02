@@ -17,8 +17,7 @@ address:      28-B
 address:      Navoi street
 address:      Tashkent 100011
 address:      Uzbekistan
-phone:        +998 71 2384200
-fax-no:       +998 71 2384248
+phone:        +998 90 9507330
 e-mail:       e.gimranov@uzinfocom.uz
 
 contact:      technical
@@ -28,17 +27,16 @@ address:      28-B
 address:      Navoi street
 address:      Tashkent 100011
 address:      Uzbekistan
-phone:        +998 71 2384200
-fax-no:       +998 71 2384248
+phone:        +998 97 7888246
 e-mail:       cctld@uzinfocom.uz
 
 nserver:      NS1.UZ 91.212.89.244
 nserver:      NS2.UZ 83.221.179.222
-nserver:      NS3.UZ 185.74.6.29
+nserver:      NS3.UZ 185.74.6.29 2a05:45c7:e001:0:0:0:0:4
 nserver:      NS4.UZ 83.69.136.139
 nserver:      NS5.UZ 217.12.81.129
-nserver:      NS6.UZ 83.69.129.33
-nserver:      NS7.UZ 104.238.81.247
+nserver:      NS6.UZ 2a01:7640:0:d:0:0:0:2 80.241.0.234 83.69.129.33
+nserver:      NS7.UZ 2603:3:6101:8ac0:0:0:0:0 72.167.34.137
 nserver:      NS8.UZ 91.212.89.233
 ds-rdata:     3685 8 2 d058d5a354efb638058dabd7e0310af31bd168ffdccf49405750bf4d5ce5ae0b
 
@@ -48,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.cctld.uz/
 
 created:      1995-04-29
-changed:      2024-02-14
+changed:      2025-10-24
 source:       IANA
 
