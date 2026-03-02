@@ -20,21 +20,19 @@ fax-no:       +1.303.723.1699
 e-mail:       ngtld-latino@cscglobal.com
 
 contact:      technical
-name:         Senior Director, DNS Infrastructure Group
-organisation: Afilias
-address:      300 Welsh Road
-address:      Building 3, Suite 105
-address:      Horsham PA 19044
-address:      United States of America (the)
-phone:        +1 215.706.5700
-fax-no:       +1 215.706.5701
-e-mail:       tld-tech-poc@afilias.info
+name:         Francisco Obispo
+organisation: Tucows.com, Co.
+address:      96 Mowat Avenue
+address:      Toronto Ontario M6K3M1
+address:      Canada
+phone:        +1 (416) 535-0123
+e-mail:       trs-ops@tucows.com
 
-nserver:      A0.NIC.LATINO 2a01:8840:5a:0:0:0:0:17 65.22.92.17
-nserver:      A2.NIC.LATINO 2a01:8840:5d:0:0:0:0:17 65.22.95.17
-nserver:      B0.NIC.LATINO 2a01:8840:5b:0:0:0:0:17 65.22.93.17
-nserver:      C0.NIC.LATINO 2a01:8840:5c:0:0:0:0:17 65.22.94.17
-ds-rdata:     28831 8 2 38d9082c093d8c2e653b0c2bfa3eaa463fc401fe31ed28c62b0a2b506bcf9d24
+nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
+nserver:      NS01.TRS-DNS.NET 2620:57:4002:0:0:0:0:1 64.96.2.1
+nserver:      NS10.TRS-DNS.INFO 2620:171:812:1534:8:0:0:1 64.78.204.1
+nserver:      NS10.TRS-DNS.ORG 2620:171:813:1534:8:0:0:1 64.78.205.1
+ds-rdata:     33323 13 2 a93fbf8bd33a6f3bc0e80be68d72c104bfb5be3b2601765f7aa95b847a191f8f
 
 whois:        whois.nic.latino
 
@@ -42,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.dish.com/
 
 created:      2016-06-30
-changed:      2023-08-11
+changed:      2025-12-12
 source:       IANA
 
