@@ -27,10 +27,12 @@ address:      Georgia
 phone:        +995 577 208045
 e-mail:       v.mazmanov@co.ge
 
-nserver:      NS.NIC.GE 212.72.130.11
-nserver:      NS1.NIC-GE.COM 3.66.58.155
-nserver:      NS2.NIC-GE.COM 35.153.81.228
+nserver:      NS1.NIC.GE 185.19.99.30
 nserver:      NS2.NIC.GE 185.19.98.98
+nserver:      NS3.NIC.GE 3.66.58.155
+nserver:      NS4.NIC.GE 35.153.81.228
+ds-rdata:     39472 8 2 3b29e39d95557b7f087160cd7ac47c4c040801f5e8cfd8b88d4ccb30620c7162
+ds-rdata:     39472 8 4 776a4623d39fbb38e5adbc3d8463e7d1a2593d8ea458a1fc755fba003adc4a31d971f124ce01b7cd5dac505038ba6336
 
 whois:        whois.nic.ge
 
@@ -38,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.ge
 
 created:      1992-12-02
-changed:      2023-05-18
+changed:      2025-06-11
 source:       IANA
 
