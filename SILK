@@ -40,13 +40,12 @@ nserver:      DNSC.NIC.SILK 156.154.102.3 2610:a1:1009:0:0:0:0:3
 nserver:      DNSD.NIC.SILK 156.154.103.3 2610:a1:1010:0:0:0:0:3
 ds-rdata:     23695 8 2 04017ec2e893a546bd7d73575404015a5c904b9c4dbb33b2995ae37b4df0903b
 
-whois:        whois.nic.silk
+whois:        
 
 status:       ACTIVE
-remarks:      Registration information:
-remarks:      https://www.amazonregistry.com/
+remarks:      Registration information: http://www.nic.silk
 
 created:      2016-05-19
-changed:      2024-02-01
+changed:      2025-02-14
 source:       IANA
 
