@@ -17,7 +17,7 @@ address:      Redmond WA 98052
 address:      United States of America (the)
 phone:        +1 425-706-3546
 fax-no:       +1 425-457-2511
-e-mail:       tlddom@microsoft.com
+e-mail:       registry@microsoft.com
 
 contact:      technical
 name:         TLD Registry Services Technical
@@ -30,23 +30,22 @@ address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44.1865332211
 e-mail:       registrytechnical@nominet.uk
 
-nserver:      DNS1.NIC.MICROSOFT 213.248.219.132 2a01:618:403:0:0:0:0:132
-nserver:      DNS2.NIC.MICROSOFT 103.49.83.132 2401:fd80:403:0:0:0:0:132
-nserver:      DNS3.NIC.MICROSOFT 213.248.223.132 2a01:618:407:0:0:0:0:132
-nserver:      DNS4.NIC.MICROSOFT 2401:fd80:407:0:0:0:0:132 43.230.51.132
-nserver:      DNSA.NIC.MICROSOFT 156.154.100.3 2001:502:ad09:0:0:0:0:3
-nserver:      DNSB.NIC.MICROSOFT 156.154.101.3 2001:502:2eda:0:0:0:0:3
-nserver:      DNSC.NIC.MICROSOFT 156.154.102.3 2610:a1:1009:0:0:0:0:3
-nserver:      DNSD.NIC.MICROSOFT 156.154.103.3 2610:a1:1010:0:0:0:0:3
-ds-rdata:     9475 8 2 8193e9e63984c0eebac5e602c134ca712c7843002bcddef3c08a199ac9d4308d
+nserver:      DNS1.NIC.OFFICE 213.248.219.136 2a01:618:403:0:0:0:0:136
+nserver:      DNS2.NIC.OFFICE 103.49.83.136 2401:fd80:403:0:0:0:0:136
+nserver:      DNS3.NIC.OFFICE 213.248.223.136 2a01:618:407:0:0:0:0:136
+nserver:      DNS4.NIC.OFFICE 2401:fd80:407:0:0:0:0:136 43.230.51.136
+nserver:      DNSA.NIC.OFFICE 156.154.100.3 2001:502:ad09:0:0:0:0:3
+nserver:      DNSB.NIC.OFFICE 156.154.101.3 2001:502:2eda:0:0:0:0:3
+nserver:      DNSC.NIC.OFFICE 156.154.102.3 2610:a1:1009:0:0:0:0:3
+nserver:      DNSD.NIC.OFFICE 156.154.103.3 2610:a1:1010:0:0:0:0:3
 ds-rdata:     16229 8 2 274a1641ddcc58b8fa48db227dd26a8785b201363bb99a9ede5b5d2693b15def
 
-whois:        whois.nic.office
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: http://www.office.com
 
 created:      2015-06-04
-changed:      2024-09-17
+changed:      2026-02-07
 source:       IANA
 
