@@ -5,14 +5,14 @@
 domain:       WINE
 
 organisation: Binky Moon, LLC
-address:      c/o Identity Digital Limited
+address:      c/o Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 
 contact:      administrative
 name:         Vice President, Engineering
-organisation: Identity Digital Limited
+organisation: Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
@@ -23,6 +23,7 @@ e-mail:       tldadmin@identity.digital
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
 organisation: Identity Digital Limited
+address:      c/o Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
@@ -38,12 +39,12 @@ nserver:      V2N0.NIC.WINE 2a01:8840:25:0:0:0:0:11 65.22.35.11
 nserver:      V2N1.NIC.WINE 161.232.17.11 2a01:8840:fb:0:0:0:0:11
 ds-rdata:     4210 8 2 16016cd0c2432421b72d072422278999c3c2772353e3d5214d25be24b4d521cb
 
-whois:        whois.nic.wine
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: https://www.identity.digital/
 
 created:      2015-07-23
-changed:      2023-09-13
+changed:      2025-10-07
 source:       IANA
 
