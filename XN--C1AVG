@@ -24,13 +24,14 @@ e-mail:       ops@pir.org
 
 contact:      technical
 name:         Director, DNS Infrastructure Group
-organisation: Donuts Inc.
+organisation: Identity Digital Limited
+address:      c/o Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
-phone:        1.425.298.2200
-fax-no:       1.425.671.0020
-e-mail:       tldtech@donuts.email
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
 
 nserver:      A0.NIC.XN--C1AVG 2a01:8840:b2:0:0:0:0:25 65.22.184.25
 nserver:      A2.NIC.XN--C1AVG 2a01:8840:b5:0:0:0:0:25 65.22.187.25
@@ -44,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.xn--c1avg
 
 created:      2014-02-27
-changed:      2022-06-03
+changed:      2025-08-14
 source:       IANA
 
