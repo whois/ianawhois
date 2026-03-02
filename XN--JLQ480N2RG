@@ -41,13 +41,12 @@ nserver:      DNSC.NIC.XN--JLQ480N2RG 156.154.102.3 2610:a1:1009:0:0:0:0:3
 nserver:      DNSD.NIC.XN--JLQ480N2RG 156.154.103.3 2610:a1:1010:0:0:0:0:3
 ds-rdata:     31571 8 2 3ccfc69c090a34ca30db066549363f433af1b5066fa8bd957f9116d5404d12c1
 
-whois:        whois.nic.xn--jlq480n2rg
+whois:        
 
 status:       ACTIVE
-remarks:      Registration information:
-remarks:      https://www.amazonregistry.com/
+remarks:      Registration information: http://www.nic.xn--jlq480n2rg
 
 created:      2020-05-28
-changed:      2024-01-31
+changed:      2025-02-14
 source:       IANA
 
