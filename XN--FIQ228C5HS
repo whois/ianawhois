@@ -5,20 +5,19 @@
 domain:       中文网
 domain-ace:   XN--FIQ228C5HS
 
-organisation: TLD REGISTRY LIMITED
-address:      2 Grand Canal Square
-address:      Dublin Dublin 2
-address:      Ireland
+organisation: Beijing TLD Registry Technology Limited
+address:      2108, 21st Floor, 9 North Fourth Ring Road West, Haidian District
+address:      Beijing Beijing 100190
+address:      China
 
 contact:      administrative
-name:         Arto Isokoski
-organisation: TLD Registry Ltd.
-address:      2 Grand Canal Square
-address:      Dublin Dublin 2
-address:      Ireland
-phone:        +358 44 7301 607
-fax-no:       +358 20 155 8869
-e-mail:       arto.isokoski@internetregistry.info
+name:         CEO
+organisation: Beijing TLD Registry Technology Limited
+address:      2108, 21st Floor, 9 North Fourth Ring Road West, Haidian District
+address:      Beijing Beijing 100190
+address:      China
+phone:        +86 10 6257 5825
+e-mail:       service@tldland.cn
 
 contact:      technical
 name:         CTO
@@ -34,13 +33,14 @@ nserver:      NS2.TELEINFOO.COM 103.61.61.1 2402:7d80:8888:0:0:0:0:1
 nserver:      NS3.TELEINFO.CN 103.61.62.1
 nserver:      NS4.TELEINFOO.COM 103.61.63.1
 ds-rdata:     27565 8 2 646412b3004632fd45544ebec09e1a2f27e3dda2489814a170dfb2052ba1787c
+ds-rdata:     33427 8 2 9373571e24ca1f9df9d012a5b01044f0a856fdab8aab3d9be97a2690521da024
 
 whois:        whois.teleinfo.cn
 
 status:       ACTIVE
-remarks:      Registration information: http://internetregistry.info/
+remarks:      Registration information: https://tldland.cn/
 
 created:      2013-12-19
-changed:      2024-05-06
+changed:      2025-12-31
 source:       IANA
 
