@@ -10,26 +10,25 @@ address:      Hong Kong
 address:      China
 
 contact:      administrative
-name:         Admin Contact
-organisation: Namesphere Holdings Limited
-address:      12/F, Daily House, 35-37 Haiphong Road,
-address:      Tsim Sha Tsui, Kowloon
+name:         Domain Administrator
+organisation: PCCW-HKT DataCom Services Limited
+address:      39F PCCW Tower, Taikoo Place, 979 Kings Road
+address:      Quarry Bay Hong Kong 0000
 address:      Hong Kong
-address:      China
-phone:        +852 2244 7900
-fax-no:       +852 2244 7902
-e-mail:       info@tld.asia
+phone:        +852.28838524
+fax-no:       +852.29625858
+e-mail:       ngtld-nowtv@cscglobal.com
 
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
-organisation: Afilias
-address:      300 Welsh Road
-address:      Building 3, Suite 105
-address:      Horsham PA 19044
+organisation: Identity Digital Limited
+address:      c/o Identity Digital Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
 address:      United States of America (the)
-phone:        +1 215.706.5700
-fax-no:       +1 215.706.5701
-e-mail:       tld-tech-poc@afilias.info
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
 
 nserver:      A0.NIC.NOWTV 2a01:8840:a6:0:0:0:0:1 65.22.172.1
 nserver:      A2.NIC.NOWTV 2a01:8840:a9:0:0:0:0:1 65.22.175.1
@@ -40,10 +39,9 @@ ds-rdata:     30316 8 2 06bcb6632fc4327ba1d5abff7caca06f7d01fcadefba3aea17db0839
 whois:        whois.nic.nowtv
 
 status:       ACTIVE
-remarks:      Registration information:
-remarks:      http://www.dot.asia/namesphere/
+remarks:      Registration information: https://www.pccw.com/
 
 created:      2016-04-15
-changed:      2023-08-03
+changed:      2026-01-16
 source:       IANA
 
