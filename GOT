@@ -40,12 +40,12 @@ nserver:      DNSC.NIC.GOT 156.154.102.3 2610:a1:1009:0:0:0:0:3
 nserver:      DNSD.NIC.GOT 156.154.103.3 2610:a1:1010:0:0:0:0:3
 ds-rdata:     4355 8 2 8b11d5875a3202ed7faae05a5eab67057eca0d5bdb62875c5203b6cbb011c50a
 
-whois:        whois.nic.got
+whois:        
 
 status:       ACTIVE
-remarks:      Registration information: https://www.amazonregistry.com
+remarks:      Registration information: http://www.nic.got
 
 created:      2015-11-12
-changed:      2024-02-01
+changed:      2025-02-14
 source:       IANA
 
