@@ -5,7 +5,7 @@
 domain:       BEST
 
 organisation: BestTLD Pty Ltd
-address:      Level 6
+address:      Level 9
 address:      1 Chifley Square
 address:      Sydney NSW 2000
 address:      Australia
@@ -17,7 +17,7 @@ address:      295 Rue Du Professeur Paul Milliez
 address:      Champigny Sur Marne 94500
 address:      France
 phone:        +1.310.6518061
-e-mail:       contact@the.best
+e-mail:       contact@domains.best
 
 contact:      technical
 name:         CTO
@@ -40,9 +40,9 @@ ds-rdata:     13966 8 2 1b34271dc3cac4d1faa279893902bd3330eab9675dab6dba03fd1634
 whois:        whois.nic.best
 
 status:       ACTIVE
-remarks:      Registration information: https://www.go.best
+remarks:      Registration information: https://www.domains.best
 
 created:      2014-02-20
-changed:      2023-10-05
+changed:      2026-02-11
 source:       IANA
 
