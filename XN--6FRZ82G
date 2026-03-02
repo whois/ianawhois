@@ -6,7 +6,7 @@ domain:       移动
 domain-ace:   XN--6FRZ82G
 
 organisation: Identity Digital Limited
-address:      c/o Identity Digital Limited
+address:      c/o Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
@@ -14,6 +14,7 @@ address:      United States of America (the)
 contact:      administrative
 name:         Vice President, Engineering
 organisation: Identity Digital Limited
+address:      c/o Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
@@ -24,6 +25,7 @@ e-mail:       tldadmin@identity.digital
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
 organisation: Identity Digital Limited
+address:      c/o Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
@@ -37,12 +39,12 @@ nserver:      B0.NIC.XN--6FRZ82G 2a01:8840:1b:0:0:0:0:9 65.22.25.9
 nserver:      C0.NIC.XN--6FRZ82G 2a01:8840:1c:0:0:0:0:9 65.22.26.9
 ds-rdata:     51310 8 2 b725fa381426f5e3a9338c5c5a57447611aba619e9675d9bf973d1d2a3b14b5e
 
-whois:        whois.nic.xn--6frz82g
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: https://www.identity.digital/
 
 created:      2014-01-23
-changed:      2023-09-01
+changed:      2025-09-04
 source:       IANA
 
