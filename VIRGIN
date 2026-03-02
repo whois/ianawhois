@@ -41,12 +41,12 @@ nserver:      DNSC.NIC.VIRGIN 156.154.102.3 2610:a1:1009:0:0:0:0:3
 nserver:      DNSD.NIC.VIRGIN 156.154.103.3 2610:a1:1010:0:0:0:0:3
 ds-rdata:     41930 8 2 64e74557cc76dd3bb05f8eb86ebf531b186d95e91bfdaa09f35fd620d960603a
 
-whois:        whois.nic.virgin
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: http://www.virgin.com
 
 created:      2015-09-10
-changed:      2021-10-19
+changed:      2025-01-28
 source:       IANA
 
