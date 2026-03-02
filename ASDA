@@ -4,17 +4,17 @@
 
 domain:       ASDA
 
-organisation: Wal-Mart Stores, Inc.
-address:      702 Southwest 8th Street
-address:      Bentonville AR 72716
-address:      United States of America (the)
+organisation: Asda Stores Limited
+address:      Great Wilson St
+address:      Leeds LS11 5AD
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 
 contact:      administrative
 name:         Project and Process Manager
-organisation: Wal-Mart Stores, Inc.
-address:      702 Southwest 8th Street
-address:      Bentonville AR 72716
-address:      United States of America (the)
+organisation: Asda Stores Limited
+address:      Great Wilson St
+address:      Leeds LS11 5AD
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 phone:        +44 20 70 15 17 17
 e-mail:       ngtld-asda@cscglobal.com
 
@@ -40,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.asda.com
 
 created:      2016-07-21
-changed:      2024-05-21
+changed:      2024-12-17
 source:       IANA
 
