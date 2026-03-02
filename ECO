@@ -32,7 +32,7 @@ nserver:      A.NS.NIC.ECO 185.159.197.4 2620:10a:80aa:0:0:0:0:4
 nserver:      B.NS.NIC.ECO 185.159.198.4 2620:10a:80ab:0:0:0:0:4
 nserver:      C.NS.NIC.ECO 2a0e:dbc0:0:0:0:0:0:101 45.142.220.101
 nserver:      D.NS.NIC.ECO 185.159.199.4 2620:10a:80ac:0:0:0:0:4
-ds-rdata:     34597 8 2 bce820d516cfe81df04c38fbcb7cf80c2eccc473b57a295948fa50ac1aff9800
+ds-rdata:     20969 8 2 d64fde1cc6a5c7a2aef1b29a4fbd00c294129c64506af54a3df182c9e658c66c
 
 whois:        whois.nic.eco
 
@@ -40,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: https://go.eco
 
 created:      2016-08-18
-changed:      2024-03-15
+changed:      2025-02-28
 source:       IANA
 
