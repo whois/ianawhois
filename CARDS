@@ -5,14 +5,14 @@
 domain:       CARDS
 
 organisation: Binky Moon, LLC
-address:      c/o Identity Digital Limited
+address:      c/o Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 
 contact:      administrative
 name:         Vice President, Engineering
-organisation: Identity Digital Limited
+organisation: Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
@@ -23,6 +23,7 @@ e-mail:       tldadmin@identity.digital
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
 organisation: Identity Digital Limited
+address:      c/o Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
@@ -38,12 +39,12 @@ nserver:      V2N0.NIC.CARDS 2a01:8840:25:0:0:0:0:50 65.22.35.50
 nserver:      V2N1.NIC.CARDS 161.232.17.50 2a01:8840:fb:0:0:0:0:50
 ds-rdata:     40594 8 2 0a2ec0d96558b08e99f3eb0cfa6b80ce64cb9994cf16726d56af60fd2b5d3f9d
 
-whois:        whois.nic.cards
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: https://www.identity.digital/
 
 created:      2014-02-06
-changed:      2023-09-12
+changed:      2025-10-07
 source:       IANA
 
