@@ -40,12 +40,12 @@ nserver:      DNSC.NIC.READ 156.154.102.3 2610:a1:1009:0:0:0:0:3
 nserver:      DNSD.NIC.READ 156.154.103.3 2610:a1:1010:0:0:0:0:3
 ds-rdata:     15481 8 2 688ba91ca7dc1405423b597ef47becde3188530011815fbb5c55b484eecd9f31
 
-whois:        whois.nic.read
+whois:        
 
 status:       ACTIVE
-remarks:      Registration information: https://www.amazonregistry.com
+remarks:      Registration information: http://www.nic.read
 
 created:      2015-11-12
-changed:      2024-02-01
+changed:      2025-02-14
 source:       IANA
 
