@@ -5,7 +5,7 @@
 domain:       KIM
 
 organisation: Identity Digital Limited
-address:      c/o Identity Digital Limited
+address:      c/o Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
@@ -13,6 +13,7 @@ address:      United States of America (the)
 contact:      administrative
 name:         Vice President, Engineering
 organisation: Identity Digital Limited
+address:      c/o Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
@@ -23,6 +24,7 @@ e-mail:       tldadmin@identity.digital
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
 organisation: Identity Digital Limited
+address:      c/o Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
@@ -36,12 +38,12 @@ nserver:      B0.NIC.KIM 2a01:8840:1f:0:0:0:0:1 65.22.29.1
 nserver:      C0.NIC.KIM 2a01:8840:20:0:0:0:0:1 65.22.30.1
 ds-rdata:     12277 8 2 ba18a744991a561ab09a464ff96864573db04fd61a29e9d37f7551989e7e5535
 
-whois:        whois.nic.kim
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: https://www.identity.digital/
 
 created:      2013-12-19
-changed:      2023-09-01
+changed:      2025-09-04
 source:       IANA
 
