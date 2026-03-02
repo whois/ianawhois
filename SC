@@ -20,14 +20,14 @@ fax-no:       +248 4324056
 e-mail:       arnold.chetty@gmail.com
 
 contact:      technical
-name:         Marc Houareau
-organisation: VCS Pty Ltd
-address:      P.O. Box 1000
-address:      Victoria Mahe
-address:      Seychelles
-phone:        +248 2513532
-fax-no:       +248 4324056
-e-mail:       marchouareau@gmail.com
+name:         Jitender Kumar
+organisation: Identity Digital
+address:      Level 22
+address:      120 Spencer Street
+address:      Melbourne Victoria 3000
+address:      Australia
+phone:        +61399450650
+e-mail:       jkumar@identity.digital
 
 nserver:      A0.CCTLD.AFILIAS-NST.INFO 199.254.59.1 2001:500:25:0:0:0:0:1
 nserver:      A2.CCTLD.AFILIAS-NST.INFO 199.249.116.1 2001:500:44:0:0:0:0:1
@@ -44,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.sc
 
 created:      1997-05-09
-changed:      2024-04-29
+changed:      2025-09-09
 source:       IANA
 
