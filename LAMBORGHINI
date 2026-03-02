@@ -10,13 +10,13 @@ address:      Sant Agata Bolognese BO 40019
 address:      Italy
 
 contact:      administrative
-name:         CEO
-organisation: INDECA GmbH
-address:      Etzelstrasse 1-25
-address:      Heilbronn BW 74076
+name:         Domain Solutions
+organisation: STACKIT GmbH & Co. KG
+address:      Stiftsbergstr. 1
+address:      Neckarsulm Baden-Wuerttemberg 74172
 address:      Germany
-phone:        +49 7131 7999 0
-e-mail:       dotlamborghini@domainexperten.de
+phone:        +49 7131 7999 222
+e-mail:       domainservices@stackit.cloud
 
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
@@ -41,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.lamborghini.com
 
 created:      2015-11-12
-changed:      2023-08-16
+changed:      2025-03-07
 source:       IANA
 
