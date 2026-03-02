@@ -29,10 +29,12 @@ phone:        +1 480 505 8800
 fax-no:       +1 480 624 2546
 e-mail:       iana@registry.godaddy
 
-nserver:      NS1.TLDNS.VU 2001:dcd:1:0:0:0:0:6 37.209.192.6
-nserver:      NS2.TLDNS.VU 2001:dcd:2:0:0:0:0:6 37.209.194.6
-nserver:      NS3.TLDNS.VU 2001:dcd:3:0:0:0:0:6 37.209.196.6
-nserver:      NS4.TLDNS.VU 2001:dcd:4:0:0:0:0:6 37.209.198.6
+nserver:      A.TLDNS.VU 2001:dcd:1:0:0:0:0:6 37.209.192.6
+nserver:      B.TLDNS.VU 2001:dcd:2:0:0:0:0:6 37.209.194.6
+nserver:      C.TLDNS.VU 2001:dcd:3:0:0:0:0:6 37.209.196.6
+nserver:      X.TLDNS.VU 156.154.103.22 2610:a1:1010:0:0:0:0:22
+nserver:      Y.TLDNS.VU 156.154.104.22 2610:a1:1011:0:0:0:0:22
+nserver:      Z.TLDNS.VU 156.154.105.22 2610:a1:1012:0:0:0:0:22
 ds-rdata:     32778 10 2 e9a2e16e09e41f325deb3b58a721d9980d0942e19e7c41b44fd4b2bfd8611e08
 
 whois:        whois.dnrs.vu
@@ -41,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.hello.vu
 
 created:      1995-04-10
-changed:      2024-05-21
+changed:      2025-09-05
 source:       IANA
 
