@@ -33,7 +33,7 @@ nserver:      NS1.NS.SX 185.159.197.10 2620:10a:80aa:0:0:0:0:10
 nserver:      NS2.NS.SX 185.159.198.10 2620:10a:80ab:0:0:0:0:10
 nserver:      NS3.NS.SX 185.159.199.10 2620:10a:80ac:0:0:0:0:10
 nserver:      NS4.NS.SX 2a0e:dbc0:0:0:0:0:0:101 45.142.220.101
-ds-rdata:     13049 8 2 30d0c7552eebf0586e848fd4cb7fb02c2ce377042aabe923304fa598be7082b4
+ds-rdata:     16495 8 2 7a040d828920fab0207f6a46b9ccfe740aece5e74fe4d148d44c1905eb05aeaa
 
 whois:        whois.sx
 
@@ -41,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://registry.sx
 
 created:      2010-12-20
-changed:      2024-11-21
+changed:      2026-01-26
 source:       IANA
 
