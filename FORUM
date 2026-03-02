@@ -21,25 +21,25 @@ e-mail:       jay@fegistry.com
 
 contact:      technical
 name:         Francisco Obispo
-organisation: Tucows Inc
+organisation: Tucows.com, Co.
 address:      96 Mowat Avenue
 address:      Toronto Ontario M6K3M1
 address:      Canada
-phone:        +1.949.903.3449
+phone:        +1 (416) 535-0123
 e-mail:       trs-ops@tucows.com
 
 nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
-nserver:      NS01.TRS-DNS.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
-nserver:      NS01.TRS-DNS.NET 64.96.2.1
-nserver:      NS01.TRS-DNS.ORG 185.159.197.3 2620:10a:80aa:0:0:0:0:3
+nserver:      NS01.TRS-DNS.NET 2620:57:4002:0:0:0:0:1 64.96.2.1
+nserver:      NS10.TRS-DNS.INFO 2620:171:812:1534:8:0:0:1 64.78.204.1
+nserver:      NS10.TRS-DNS.ORG 2620:171:813:1534:8:0:0:1 64.78.205.1
 ds-rdata:     48583 13 2 de6529ec2ac6952fe38e419097c4aed7de20b78b91c88753f70b254ccdfcd543
 
-whois:        whois.nic.forum
+whois:        whois.registry.click
 
 status:       ACTIVE
 remarks:      Registration information: http://www.topspectrum.com
 
 created:      2015-06-11
-changed:      2024-10-24
+changed:      2025-12-18
 source:       IANA
 
