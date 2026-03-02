@@ -13,22 +13,21 @@ contact:      administrative
 name:         CEO
 organisation: DOTZON GmbH
 address:      Akazienstr 28
-address:      Berlin Berlin 10823
+address:      Berlin 10823
 address:      Germany
-phone:        49.173.2019240
-fax-no:       49.30.49802727
+phone:        +49 173 2019240
+fax-no:       +49 30 49802727
 e-mail:       edeka@dotzon.com
 
 contact:      technical
-name:         Senior Director, DNS Infrastructure Group
-organisation: Afilias
-address:      300 Welsh Road
-address:      Building 3, Suite 105
-address:      Horsham PA 19044
+name:         Howard Eland, Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
 address:      United States of America (the)
-phone:        +1.215.706.5700
-fax-no:       +1.215.706.5701
-e-mail:       tld-tech-poc@afilias.info
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
 
 nserver:      A0.NIC.EDEKA 2a01:8840:12:0:0:0:0:25 65.22.16.25
 nserver:      A2.NIC.EDEKA 2a01:8840:15:0:0:0:0:25 65.22.19.25
@@ -42,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://edeka.de
 
 created:      2016-01-08
-changed:      2023-08-03
+changed:      2025-06-17
 source:       IANA
 
