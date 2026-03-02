@@ -41,13 +41,13 @@ nserver:      DNSC.NIC.PHARMACY 156.154.102.3 2610:a1:1009:0:0:0:0:3
 nserver:      DNSD.NIC.PHARMACY 156.154.103.3 2610:a1:1010:0:0:0:0:3
 ds-rdata:     13921 8 2 d24b9704b0642e8d9ea7cf6418c9212883ecd172c5651e89501c04724da8ac00
 
-whois:        whois.nic.pharmacy
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information:
 remarks:      https://nabp.pharmacy/programs/accreditations-inspections/dotpharmacy/
 
 created:      2014-08-28
-changed:      2021-10-19
+changed:      2025-05-28
 source:       IANA
 
