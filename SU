@@ -4,8 +4,7 @@
 
 domain:       SU
 
-organisation: Russian Institute for Development of Public Networks
-organisation: (ROSNIIROS)
+organisation: Russian Institute for Development of Public Networks (ROSNIIROS)
 address:      1, Kurchatov Sq.
 address:      Moscow 123182
 address:      Russian Federation (the)
@@ -35,7 +34,7 @@ nserver:      B.DNS.RIPN.NET 194.85.252.62 2001:678:16:0:194:85:252:62
 nserver:      D.DNS.RIPN.NET 194.190.124.17 2001:678:18:0:194:190:124:17
 nserver:      E.DNS.RIPN.NET 193.232.142.17 2001:678:15:0:193:232:142:17
 nserver:      F.DNS.RIPN.NET 193.232.156.17 2001:678:14:0:193:232:156:17
-ds-rdata:     52180 8 2 6c71a8d6b0c8b8c40a853c38e247d53011d2b4662164f0e645b8274ce2cf7c5b
+ds-rdata:     31297 8 2 8e99a2b6a72a2b07f2accd5a51499f0cb02338aa42da32ac2617856a114c2154
 
 whois:        whois.tcinet.ru
 
@@ -43,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      1990-09-19
-changed:      2024-07-16
+changed:      2025-08-21
 source:       IANA
 
