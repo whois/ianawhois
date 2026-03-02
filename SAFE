@@ -40,12 +40,12 @@ nserver:      DNSC.NIC.SAFE 156.154.102.3 2610:a1:1009:0:0:0:0:3
 nserver:      DNSD.NIC.SAFE 156.154.103.3 2610:a1:1010:0:0:0:0:3
 ds-rdata:     25204 8 2 e7d00d17f0781fe00111cda8875099bb36432f10c3dfefa6e0521ad2090690d1
 
-whois:        whois.nic.safe
+whois:        
 
 status:       ACTIVE
-remarks:      Registration information: https://www.amazonregistry.com
+remarks:      Registration information: http://www.nic.safe
 
 created:      2015-11-12
-changed:      2024-02-01
+changed:      2025-02-14
 source:       IANA
 
