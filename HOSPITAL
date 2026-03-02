@@ -5,14 +5,14 @@
 domain:       HOSPITAL
 
 organisation: Binky Moon, LLC
-address:      c/o Identity Digital Limited
+address:      c/o Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 
 contact:      administrative
 name:         Vice President, Engineering
-organisation: Identity Digital Limited
+organisation: Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
@@ -23,6 +23,7 @@ e-mail:       tldadmin@identity.digital
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
 organisation: Identity Digital Limited
+address:      c/o Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
@@ -38,12 +39,12 @@ nserver:      V2N0.NIC.HOSPITAL 2a01:8840:19:0:0:0:0:29 65.22.23.29
 nserver:      V2N1.NIC.HOSPITAL 161.232.11.29 2a01:8840:f5:0:0:0:0:29
 ds-rdata:     53629 8 2 5ce9ea127a6a20ba0171a93b41716dc419367affe7b5d9445ceb1c4c3a8252bf
 
-whois:        whois.nic.hospital
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: https://www.identity.digital/
 
 created:      2016-12-02
-changed:      2023-09-13
+changed:      2025-10-07
 source:       IANA
 
