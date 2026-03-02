@@ -37,8 +37,7 @@ nserver:      Q.AU 2a01:8840:be:0:0:0:0:1 65.22.196.1
 nserver:      R.AU 2a01:8840:bf:0:0:0:0:1 65.22.197.1
 nserver:      S.AU 2a01:8840:c0:0:0:0:0:1 65.22.198.1
 nserver:      T.AU 2a01:8840:c1:0:0:0:0:1 65.22.199.1
-ds-rdata:     51895 8 2 6c7d509bd4df32af255ff847152b7b00316ac0ba44b853b3c9f9c7119aaa599c
-ds-rdata:     1775 8 2 64dfdddd2c68aa5cc67e58cd88f1fbd7804f911aa3d3314cb59539763a0af89f
+ds-rdata:     32902 8 2 e80a9f8eca018ade79925da724a0cb0dbcf03c9a7049d20c9fb74b716ab7d329
 
 whois:        whois.auda.org.au
 
@@ -47,6 +46,6 @@ remarks:      Registration information:
 remarks:      https://www.auda.org.au/domains/au-domains/
 
 created:      1986-03-05
-changed:      2024-08-08
+changed:      2026-02-09
 source:       IANA
 
