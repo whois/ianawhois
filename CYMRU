@@ -43,13 +43,13 @@ nserver:      DNSC.NIC.CYMRU 156.154.102.3 2610:a1:1009:0:0:0:0:3
 nserver:      DNSD.NIC.CYMRU 156.154.103.3 2610:a1:1010:0:0:0:0:3
 ds-rdata:     34255 8 2 b85680d4065db4e7cfaf8b349dd43901ec51b78f5e9c57c332bc6d905beba702
 
-whois:        whois.nic.cymru
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information:
 remarks:      https://eincartrefarlein.cymru/
 
 created:      2014-07-31
-changed:      2022-08-18
+changed:      2025-06-10
 source:       IANA
 
