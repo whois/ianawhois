@@ -20,29 +20,29 @@ fax-no:       +1 206 946 7702
 e-mail:       arsi-rzm@amazon.com
 
 contact:      technical
-name:         IANA Contact
-organisation: GoDaddy Registry
-address:      100 S. Mill Ave, Suite 1600
-address:      Tempe AZ 85281
+name:         Howard Eland, Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
 address:      United States of America (the)
-phone:        +1 480 505 8800
-fax-no:       +1 480 624 2546
-e-mail:       iana@registry.godaddy
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
 
-nserver:      A.NIC.ZERO 2001:dcd:1:0:0:0:0:10 37.209.192.10
-nserver:      B.NIC.ZERO 2001:dcd:2:0:0:0:0:10 37.209.194.10
-nserver:      C.NIC.ZERO 2001:dcd:3:0:0:0:0:10 37.209.196.10
-nserver:      NS1.DNS.NIC.ZERO 156.154.144.188 2610:a1:1071:0:0:0:0:bc
-nserver:      NS2.DNS.NIC.ZERO 156.154.145.188 2610:a1:1072:0:0:0:0:bc
-nserver:      NS3.DNS.NIC.ZERO 156.154.159.188 2610:a1:1073:0:0:0:0:bc
-ds-rdata:     22717 8 2 c5360714b56c1edbf51e44cd8d93e2c1afa38d22eec53750087915274e4bbadc
+nserver:      V0N0.NIC.ZERO 2a01:8840:4a:0:0:0:0:12 65.22.76.12
+nserver:      V0N1.NIC.ZERO 2a01:8840:4b:0:0:0:0:12 65.22.77.12
+nserver:      V0N2.NIC.ZERO 2a01:8840:4c:0:0:0:0:12 65.22.78.12
+nserver:      V0N3.NIC.ZERO 161.232.38.12 2a01:8840:10c:0:0:0:0:12
+nserver:      V2N0.NIC.ZERO 2a01:8840:4d:0:0:0:0:12 65.22.79.12
+nserver:      V2N1.NIC.ZERO 161.232.39.12 2a01:8840:10d:0:0:0:0:12
+ds-rdata:     52774 8 2 2f7c24f9a7f75c1ba05da9b742209f4e8204bd280f50b4f64800854b0965dd12
 
-whois:        
+whois:        whois.nic.zero
 
 status:       ACTIVE
-remarks:      Registration information: http://www.amazonregistry.com
+remarks:      Registration information: http://www.nic.zero
 
 created:      2015-11-12
-changed:      2024-05-11
+changed:      2025-06-17
 source:       IANA
 
