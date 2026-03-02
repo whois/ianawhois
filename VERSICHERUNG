@@ -33,7 +33,7 @@ nserver:      A.DNS.NIC.VERSICHERUNG 194.0.25.13 2001:678:20:0:0:0:0:13
 nserver:      M.DNS.NIC.VERSICHERUNG 194.0.26.2 2001:67c:10e0:0:0:0:0:2
 nserver:      N.DNS.NIC.VERSICHERUNG 194.0.24.2 2001:678:24:0:0:0:0:2
 ds-rdata:     26134 8 2 925ee924b5bc6876443e476c16eaf5bf02885acadbdf27ca2c87be8eeb7f3b41
-ds-rdata:     53914 8 2 3fb290c372a8e1f1662e968c7836f7856e493f96f0a6603de8e882f54bae577c
+ds-rdata:     40642 8 2 0467a13928ccb19d281df83a64fe82ee5556806625e034b146d2261e1e2632b2
 
 whois:        whois.nic.versicherung
 
@@ -41,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.versicherung
 
 created:      2014-05-15
-changed:      2022-11-04
+changed:      2025-05-12
 source:       IANA
 
