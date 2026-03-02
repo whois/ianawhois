@@ -5,14 +5,14 @@
 domain:       FUND
 
 organisation: Binky Moon, LLC
-address:      c/o Identity Digital Limited
+address:      c/o Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 
 contact:      administrative
 name:         Vice President, Engineering
-organisation: Identity Digital Limited
+organisation: Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
@@ -23,6 +23,7 @@ e-mail:       tldadmin@identity.digital
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
 organisation: Identity Digital Limited
+address:      c/o Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
@@ -38,12 +39,12 @@ nserver:      V2N0.NIC.FUND 2a01:8840:19:0:0:0:0:45 65.22.23.45
 nserver:      V2N1.NIC.FUND 161.232.11.45 2a01:8840:f5:0:0:0:0:45
 ds-rdata:     58270 8 2 987cf39f13d83606711047d4d88b8283bd49bed69ba378b2106c7ed6b33d2527
 
-whois:        whois.nic.fund
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: https://www.identity.digital/
 
 created:      2014-04-17
-changed:      2023-09-13
+changed:      2025-10-07
 source:       IANA
 
