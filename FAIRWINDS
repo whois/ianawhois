@@ -38,13 +38,13 @@ nserver:      DNSC.NIC.FAIRWINDS 156.154.102.3 2610:a1:1009:0:0:0:0:3
 nserver:      DNSD.NIC.FAIRWINDS 156.154.103.3 2610:a1:1010:0:0:0:0:3
 ds-rdata:     48074 8 2 4375da09c7286dcde9acc036596d3f2b9f1347e1a83f13a1e98c7e9821d2ead9
 
-whois:        whois.nic.fairwinds
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information:
 remarks:      http://www.fairwindspartners.com
 
 created:      2015-10-29
-changed:      2024-07-08
+changed:      2025-02-07
 source:       IANA
 
