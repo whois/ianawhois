@@ -5,14 +5,14 @@
 domain:       GLASS
 
 organisation: Binky Moon, LLC
-address:      c/o Identity Digital Limited
+address:      c/o Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 
 contact:      administrative
 name:         Vice President, Engineering
-organisation: Identity Digital Limited
+organisation: Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
@@ -23,6 +23,7 @@ e-mail:       tldadmin@identity.digital
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
 organisation: Identity Digital Limited
+address:      c/o Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
@@ -38,12 +39,12 @@ nserver:      V2N0.NIC.GLASS 2a01:8840:1d:0:0:0:0:57 65.22.27.57
 nserver:      V2N1.NIC.GLASS 161.232.13.57 2a01:8840:f7:0:0:0:0:57
 ds-rdata:     47641 8 2 ba130708530e9f108aca4b16217084e861f151b4069e567c6e85193a457b219e
 
-whois:        whois.nic.glass
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: https://www.identity.digital/
 
 created:      2013-12-19
-changed:      2023-09-12
+changed:      2025-10-07
 source:       IANA
 
