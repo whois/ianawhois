@@ -38,12 +38,12 @@ nserver:      NS2.DNS.NIC.XN--G2XX48C 156.154.170.68 2610:a1:1072:0:0:0:1:44
 nserver:      NS3.DNS.NIC.XN--G2XX48C 156.154.171.68 2610:a1:1073:0:0:0:1:44
 ds-rdata:     11539 8 2 fd57401d8cbd9ec59540ddf8fffa884bc523d94b9a30d5efd81ece063376ff0b
 
-whois:        
+whois:        whois.nic.xn--g2xx48c
 
 status:       ACTIVE
-remarks:      Registration information: http://nicgouwu.com/
+remarks:      Registration information: http://gouwunic.com/
 
 created:      2016-01-08
-changed:      2024-05-11
+changed:      2025-03-13
 source:       IANA
 
