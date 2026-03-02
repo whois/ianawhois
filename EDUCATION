@@ -5,14 +5,14 @@
 domain:       EDUCATION
 
 organisation: Binky Moon, LLC
-address:      c/o Identity Digital Limited
+address:      c/o Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 
 contact:      administrative
 name:         Vice President, Engineering
-organisation: Identity Digital Limited
+organisation: Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
@@ -23,6 +23,7 @@ e-mail:       tldadmin@identity.digital
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
 organisation: Identity Digital Limited
+address:      c/o Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
@@ -38,12 +39,12 @@ nserver:      V2N0.NIC.EDUCATION 2a01:8840:21:0:0:0:0:38 65.22.31.38
 nserver:      V2N1.NIC.EDUCATION 161.232.15.38 2a01:8840:f9:0:0:0:0:38
 ds-rdata:     26536 8 2 a81cd163f9e5927688cec92921df489da53dfbda0e116b78b02b97010814cad0
 
-whois:        whois.nic.education
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: https://www.identity.digital/
 
 created:      2013-12-19
-changed:      2023-09-12
+changed:      2025-10-07
 source:       IANA
 
