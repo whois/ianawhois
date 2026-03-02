@@ -10,24 +10,24 @@ address:      Caracas Miranda 1060
 address:      Venezuela (Bolivarian Republic of)
 
 contact:      administrative
-name:         Mr. Gabriel Porco
+name:         Ms. Meylin Guillen
 organisation: NIC.VE
 address:      Calle Cali, Edif. NIC.VE, Las Mercedes
 address:      Caracas Miranda 1060
 address:      Venezuela (Bolivarian Republic of)
-phone:        +58 212 9090435
-fax-no:       +58 212 9090329
-e-mail:       gporco@nic.ve
+phone:        +584166225906
+fax-no:       +582129090435
+e-mail:       manager@nic.ve
 
 contact:      technical
-name:         Soporte Técnico
+name:         Mr. Gredinson Ramirez
 organisation: NIC.VE
 address:      Calle Cali, Edif. NIC.VE, Las Mercedes
 address:      Caracas Miranda 1060
 address:      Venezuela (Bolivarian Republic of)
-phone:        +58 212 9090435
-fax-no:       +58 212 9090329
-e-mail:       soportenicve@conatel.gob.ve
+phone:        +584166225906
+fax-no:       +58 212 9090435
+e-mail:       technical@nic.ve
 
 nserver:      A.LACTLD.ORG 200.0.68.10 2801:14:a000:0:0:0:0:10
 nserver:      NS3.NIC.VE 190.9.129.56
@@ -35,7 +35,7 @@ nserver:      NS4.NIC.VE 190.202.128.43
 nserver:      NS5.NIC.VE 2801:18:8800:3:18ba:beff:fe61:d08b 45.175.22.88
 nserver:      NS6.NIC.VE 2801:18:8800:1:0:0:0:4 45.175.22.4
 nserver:      SSDNS-TLD.NIC.CL 200.7.5.14 2001:1398:276:0:200:7:5:14
-ds-rdata:     53545 8 2 0ba030fb1720bb0263e2ae748c9caa6fc7bebf30f4e1271af22554c6c43ef3fe
+ds-rdata:     26677 8 2 d26b98c08be23d276334cae7b38284c835aeaa7865b873c854ff87958aab05d4
 
 whois:        whois.nic.ve
 
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.ve/
 
 created:      1991-03-07
-changed:      2024-08-27
+changed:      2025-07-07
 source:       IANA
 
