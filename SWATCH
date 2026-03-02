@@ -38,15 +38,14 @@ nserver:      DNSA.NIC.SWATCH 156.154.100.3 2001:502:ad09:0:0:0:0:3
 nserver:      DNSB.NIC.SWATCH 156.154.101.3 2001:502:2eda:0:0:0:0:3
 nserver:      DNSC.NIC.SWATCH 156.154.102.3 2610:a1:1009:0:0:0:0:3
 nserver:      DNSD.NIC.SWATCH 156.154.103.3 2610:a1:1010:0:0:0:0:3
-ds-rdata:     46125 8 2 f8f63257d53d748eac6844c412a246db125e330f646d32922fd947e9f6a1fac2
 ds-rdata:     63214 8 2 2cca5b625235170eea1b1151293b5ec127a83984bc6dd2af8cce71dd93d2a495
 
-whois:        whois.nic.swatch
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: http://www.swatchgroup.com/
 
 created:      2015-04-23
-changed:      2024-10-25
+changed:      2026-01-23
 source:       IANA
 
