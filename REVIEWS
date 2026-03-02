@@ -5,14 +5,14 @@
 domain:       REVIEWS
 
 organisation: Dog Beach, LLC
-address:      c/o Identity Digital Limited
+address:      c/o Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 
 contact:      administrative
 name:         Vice President, Engineering
-organisation: Identity Digital Limited
+organisation: Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
@@ -23,6 +23,7 @@ e-mail:       tldadmin@identity.digital
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
 organisation: Identity Digital Limited
+address:      c/o Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
@@ -38,12 +39,12 @@ nserver:      V2N0.NIC.REVIEWS 2a01:8840:25:0:0:0:0:12 65.22.35.12
 nserver:      V2N1.NIC.REVIEWS 161.232.17.12 2a01:8840:fb:0:0:0:0:12
 ds-rdata:     38191 8 2 5dafa6aa4e5bb71394ff2f91b4423ef5a1c7ba598e359f7afcc8df8c6f68957c
 
-whois:        whois.nic.reviews
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: https://www.identity.digital/
 
 created:      2014-02-06
-changed:      2023-09-12
+changed:      2025-10-07
 source:       IANA
 
