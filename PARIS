@@ -33,7 +33,6 @@ e-mail:       pocparis@afnic.fr
 nserver:      D.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
 nserver:      F.EXT.NIC.FR 194.146.106.46 2001:67c:1010:11:0:0:0:53
 nserver:      G.EXT.NIC.FR 194.0.36.1 2001:678:4c:0:0:0:0:1
-nserver:      H.EXT.NIC.FR 195.253.66.2 2a01:5b0:6:0:0:0:0:2
 ds-rdata:     29441 13 2 2a63e38eb019ad4300a2d9533fae0db139328ceffd0861cd8db1c401ca0258d9
 
 whois:        whois.nic.paris
@@ -42,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://mondomaine.paris.fr/
 
 created:      2014-03-27
-changed:      2024-09-11
+changed:      2025-04-29
 source:       IANA
 
