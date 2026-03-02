@@ -4,20 +4,19 @@
 
 domain:       WEATHERCHANNEL
 
-organisation: International Business Machines Corporation
-address:      New Orchard Road
-address:      Armonk NY 10504
+organisation: The Weather Company, LLC
+address:      1001 Summit Blvd NE, 21st Floor
+address:      Brookhaven GA 30319
 address:      United States of America (the)
 
 contact:      administrative
-name:         Engineering Manager
-organisation: International Business Machines Corporation
-address:      North Castle Drive
-address:      Armonk NY 10504
+name:         Domain Manager
+organisation: The Weather Company, LLC
+address:      1001 Summit Blvd NE, 21st Floor
+address:      Brookhaven GA 30319
 address:      United States of America (the)
-phone:        +1-914-765-4227
-fax-no:       +1-914-765-4390
-e-mail:       ngtld-ibm@cscinfo.com
+phone:        +1 978.983.6300
+e-mail:       ngtld-weather@cscglobal.com
 
 contact:      technical
 name:         Engineering Manager
@@ -39,9 +38,10 @@ ds-rdata:     47695 8 2 b2f90e6997386b0411808f05702d0f9ac00f5c0d129262394c86e1ba
 whois:        
 
 status:       ACTIVE
-remarks:      Registration information: http://www.weather.com
+remarks:      Registration information:
+remarks:      https://www.weathercompany.com/
 
 created:      2016-01-22
-changed:      2023-11-30
+changed:      2026-03-01
 source:       IANA
 
