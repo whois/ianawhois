@@ -10,14 +10,13 @@ address:      La Plaine Saint-Denis 93210
 address:      France
 
 contact:      administrative
-name:         COO
-organisation: SafeBrands
-address:      37 rue Guibal
-address:      Marseille 13003
+name:         Domain Manager
+organisation: Bostik SA
+address:      253 avenue du Président Wilson
+address:      La Plaine Saint-Denis 93210
 address:      France
-phone:        +33488662207
-fax-no:       +33488662220
-e-mail:       tldbostik@safebrands.com
+phone:        +44 2070151717
+e-mail:       ngtld-bostik@cscglobal.com
 
 contact:      technical
 name:         TLD Technical Contact
@@ -40,6 +39,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.bostik.com
 
 created:      2015-11-06
-changed:      2024-07-19
+changed:      2025-05-09
 source:       IANA
 
