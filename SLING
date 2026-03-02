@@ -20,21 +20,19 @@ fax-no:       +1.301.428.2818
 e-mail:       ngtld-sling@cscglobal.com
 
 contact:      technical
-name:         Senior Director, DNS Infrastructure Group
-organisation: Afilias
-address:      300 Welsh Road
-address:      Building 3, Suite 105
-address:      Horsham PA 19044
-address:      United States of America (the)
-phone:        +1 215.706.5700
-fax-no:       +1 215.706.5701
-e-mail:       tld-tech-poc@afilias.info
+name:         Francisco Obispo
+organisation: Tucows.com, Co.
+address:      96 Mowat Avenue
+address:      Toronto Ontario M6K3M1
+address:      Canada
+phone:        +1 (416) 535-0123
+e-mail:       trs-ops@tucows.com
 
-nserver:      A0.NIC.SLING 2a01:8840:6a:0:0:0:0:9 65.22.108.9
-nserver:      A2.NIC.SLING 2a01:8840:6d:0:0:0:0:9 65.22.111.9
-nserver:      B0.NIC.SLING 2a01:8840:6b:0:0:0:0:9 65.22.109.9
-nserver:      C0.NIC.SLING 2a01:8840:6c:0:0:0:0:9 65.22.110.9
-ds-rdata:     46550 8 2 fc817bc7bcc7edcc930cf73483fde9a88386e85674d7cf438e36ed5d00cdf74f
+nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
+nserver:      NS01.TRS-DNS.NET 2620:57:4002:0:0:0:0:1 64.96.2.1
+nserver:      NS10.TRS-DNS.INFO 2620:171:812:1534:8:0:0:1 64.78.204.1
+nserver:      NS10.TRS-DNS.ORG 2620:171:813:1534:8:0:0:1 64.78.205.1
+ds-rdata:     61126 13 2 f233ac2c14400b3cf810c8765a6d20583dc9c883dae645e90b394fd44354f268
 
 whois:        whois.nic.sling
 
@@ -42,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.echostar.com/
 
 created:      2016-08-04
-changed:      2024-04-25
+changed:      2025-12-12
 source:       IANA
 
