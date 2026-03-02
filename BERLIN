@@ -33,7 +33,7 @@ nserver:      A.DNS.NIC.BERLIN 194.0.25.16 2001:678:20:0:0:0:0:16
 nserver:      M.DNS.NIC.BERLIN 194.0.26.5 2001:67c:10e0:0:0:0:0:5
 nserver:      N.DNS.NIC.BERLIN 194.0.24.5 2001:678:24:0:0:0:0:5
 ds-rdata:     47974 8 2 b1ddc962a9293cda1c2ae8f951c86a8f391248c50751ad61f642d46d0f644b41
-ds-rdata:     25424 8 2 479dd34641c6386048518f9a39aafba26172060ee36a91f478ebe521aa1cffd5
+ds-rdata:     7669 8 2 169700d66838fc2a4fe16098924c9da5f3d167da2697461c144c50d47ed123b0
 
 whois:        whois.nic.berlin
 
@@ -41,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.berlin/
 
 created:      2013-12-19
-changed:      2022-05-18
+changed:      2025-05-13
 source:       IANA
 
