@@ -33,6 +33,7 @@ nserver:      NS2.TELEINFOO.COM 103.61.61.1 2402:7d80:8888:0:0:0:0:1
 nserver:      NS3.TELEINFO.CN 103.61.62.1
 nserver:      NS4.TELEINFOO.COM 103.61.63.1
 ds-rdata:     7210 8 2 eee275c0966a2dcd2bc5b996b6c8fa003e991d877d456c2530d4681e1eee0d55
+ds-rdata:     33427 8 2 361f3209d8856bcf488f2075668167627204356f703e2d1356d9e4d41a61a480
 
 whois:        whois.teleinfo.cn
 
@@ -40,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.teleinfo.cn
 
 created:      2015-02-05
-changed:      2024-03-07
+changed:      2025-04-24
 source:       IANA
 
