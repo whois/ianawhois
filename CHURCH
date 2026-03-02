@@ -5,14 +5,14 @@
 domain:       CHURCH
 
 organisation: Binky Moon, LLC
-address:      c/o Identity Digital Limited
+address:      c/o Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 
 contact:      administrative
 name:         Vice President, Engineering
-organisation: Identity Digital Limited
+organisation: Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
@@ -23,6 +23,7 @@ e-mail:       tldadmin@identity.digital
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
 organisation: Identity Digital Limited
+address:      c/o Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
@@ -38,12 +39,12 @@ nserver:      V2N0.NIC.CHURCH 2a01:8840:1d:0:0:0:0:39 65.22.27.39
 nserver:      V2N1.NIC.CHURCH 161.232.13.39 2a01:8840:f7:0:0:0:0:39
 ds-rdata:     15331 8 2 0f54af90a54221febfc21487adda2c595ef2ef9b5abc706d1938b1f95f20d9c9
 
-whois:        whois.nic.church
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: https://www.identity.digital/
 
 created:      2014-05-08
-changed:      2023-09-12
+changed:      2025-10-07
 source:       IANA
 
