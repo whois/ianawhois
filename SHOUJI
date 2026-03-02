@@ -4,10 +4,10 @@
 
 domain:       SHOUJI
 
-organisation: QIHOO 360 TECHNOLOGY CO. LTD.
+organisation: Beijing Qihu Keji Co., Ltd.
 address:      Building #2, No. 6 Jiuxianqiao Road
 address:      Chaoyang District
-address:      Beijing
+address:      Beijing 100011
 address:      China
 
 contact:      administrative
@@ -19,7 +19,7 @@ address:      Beijing
 address:      China
 phone:        +86 10 5244 7383
 fax-no:       +86. 10 5878 1411
-e-mail:       newgtld_legal@360.cn
+e-mail:       newgtld@360.cn
 
 contact:      technical
 name:         CTO
@@ -35,6 +35,7 @@ nserver:      NS2.TELEINFOO.COM 103.61.61.1 2402:7d80:8888:0:0:0:0:1
 nserver:      NS3.TELEINFO.CN 103.61.62.1
 nserver:      NS4.TELEINFOO.COM 103.61.63.1
 ds-rdata:     27565 8 2 e9706714550cf565afcb114fda3dd0a4f105db670e12074a1a26b71c34f69125
+ds-rdata:     33427 8 2 4aca9b2d5a9b6ea5f9ae129bde41a5303564670d4a33feb061605313432fdb1e
 
 whois:        whois.teleinfo.cn
 
@@ -42,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.teleinfo.cn
 
 created:      2016-03-18
-changed:      2024-05-06
+changed:      2025-10-24
 source:       IANA
 
