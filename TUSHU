@@ -40,12 +40,12 @@ nserver:      DNSC.NIC.TUSHU 156.154.102.3 2610:a1:1009:0:0:0:0:3
 nserver:      DNSD.NIC.TUSHU 156.154.103.3 2610:a1:1010:0:0:0:0:3
 ds-rdata:     38627 8 2 81d6d592c13f144d74bbde9d4a93531338245e9ac1781eec826d4b610947d1a2
 
-whois:        whois.nic.tushu
+whois:        
 
 status:       ACTIVE
-remarks:      Registration information: https://www.amazonregistry.com
+remarks:      Registration information: http://www.nic.tushu
 
 created:      2015-11-12
-changed:      2024-01-31
+changed:      2025-02-14
 source:       IANA
 
