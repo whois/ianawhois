@@ -40,12 +40,12 @@ nserver:      DNSC.NIC.YAMAXUN 156.154.102.3 2610:a1:1009:0:0:0:0:3
 nserver:      DNSD.NIC.YAMAXUN 156.154.103.3 2610:a1:1010:0:0:0:0:3
 ds-rdata:     24775 8 2 fd24cfe326a910cbb3f11cddc381abc7e296bd29e75dac6de13b4b5dbb130ea7
 
-whois:        whois.nic.yamaxun
+whois:        
 
 status:       ACTIVE
-remarks:      Registration information: https://www.amazonregistry.com
+remarks:      Registration information: http://www.nic.yamaxun
 
 created:      2015-09-10
-changed:      2024-01-31
+changed:      2025-02-14
 source:       IANA
 
