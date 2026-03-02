@@ -38,12 +38,12 @@ nserver:      DNSC.EMDNS.UK 156.154.102.3 2610:a1:1009:0:0:0:0:3
 nserver:      DNSD.EMDNS.UK 156.154.103.3 2610:a1:1010:0:0:0:0:3
 ds-rdata:     32206 8 2 1abee4364fcad18301f22226a9b13521e809a4abbbdb96d4c9b875ddf50eb03d
 
-whois:        whois.nic.nowruz
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: https://icann.org/ebero
 
 created:      2015-11-25
-changed:      2024-08-19
+changed:      2025-01-30
 source:       IANA
 
