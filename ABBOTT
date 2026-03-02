@@ -11,25 +11,24 @@ address:      Abbott Park IL 60064
 address:      United States of America (the)
 
 contact:      administrative
-name:         Senior Associate
-organisation: FairWinds Partners
-address:      1000 Potomac Street NW #350
-address:      Washington DC 20007
+name:         Domain Administrator
+organisation: Abbott Laboratories, Inc
+address:      100 Abbott Park Road, Dept. G397, Bldg. AP6D-2
+address:      Abbott Park IL 60064
 address:      United States of America (the)
-phone:        +1 202 223 9252
-fax-no:       +1 202 223 9256
-e-mail:       abbottregistry@fairwindspartners.com
+phone:        +44 20 70 15 17 17
+e-mail:       ngtld-abbott@cscglobal.com
 
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
-organisation: Afilias
-address:      300 Welsh Road
-address:      Building 3, Suite 105
-address:      Horsham PA 19044
+organisation: Identity Digital Limited
+address:      c/o Identity Digital Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
 address:      United States of America (the)
-phone:        +1 215.706.5700
-fax-no:       +1 215.706.5701
-e-mail:       tld-tech-poc@afilias.info
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
 
 nserver:      A0.NIC.ABBOTT 2a01:8840:9a:0:0:0:0:41 65.22.156.41
 nserver:      A2.NIC.ABBOTT 2a01:8840:9d:0:0:0:0:41 65.22.159.41
@@ -43,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.abbott.com
 
 created:      2014-11-20
-changed:      2023-08-16
+changed:      2026-01-26
 source:       IANA
 
