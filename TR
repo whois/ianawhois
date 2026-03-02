@@ -29,8 +29,6 @@ phone:        +90 (312) 586 53 11
 fax-no:       +90 (312) 294 71 45
 e-mail:       gokhan.usta@btk.gov.tr
 
-nserver:      NS41.NS.TR 185.7.0.2
-nserver:      NS42.NS.TR 185.7.0.3
 nserver:      NS43.NS.TR 185.7.0.4
 nserver:      NS44.NS.TR 185.7.0.5
 nserver:      NS61.NS.TR 206.51.254.1 2620:171:804:ad2:0:0:0:1
@@ -38,7 +36,7 @@ nserver:      NS71.NS.TR 185.67.32.53
 nserver:      NS72.NS.TR 2603:1020:201:10:0:0:0:111 40.68.114.66
 nserver:      NS73.NS.TR 31.145.253.159
 nserver:      NS74.NS.TR 31.145.253.160
-ds-rdata:     52321 13 2 31fca215aa6690c3d1c265d141cc879576d16f8f06dbfb99d38893e8f9e33d23
+ds-rdata:     23500 13 2 2405380f78933579783f2b91521d613b63ae2ce20f4e9e886b469e2b15e2e813
 
 whois:        whois.trabis.gov.tr
 
@@ -46,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.trabis.gov.tr
 
 created:      1990-09-17
-changed:      2024-10-09
+changed:      2025-05-05
 source:       IANA
 
