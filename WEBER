@@ -10,30 +10,33 @@ address:      Servon 77170
 address:      France
 
 contact:      administrative
-name:         Digital Marketing Manager
+name:         nGTLD and Compliance Manager
 organisation: Saint-Gobain Weber SA
 address:      Rue de Brie
 address:      Servon 77170
 address:      France
-phone:        +33 1 60 62 13 00
-fax-no:       +33 1 64 05 47 50
-e-mail:       ngtld-weber@cscinfo.com
+phone:        +33 2 41 18 28 28
+fax-no:       +33 2 41 18 28 29
+e-mail:       weber-tld@nameshield.net
 
 contact:      technical
-name:         Registry Customer Service
-organisation: Verisign, inc.
-address:      12061 Bluemont Way
-address:      Reston VA 20190
+name:         Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Limited
+address:      c/o Identity Digital Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
 address:      United States of America (the)
-phone:        +1-703-925-6999
-fax-no:       +1-703-948-3978
-e-mail:       info@verisign-grs.com
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
 
-nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
-nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
-nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
-nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
-ds-rdata:     32799 8 2 67f60d0f656284c11307fbc8402e280ba0e53d83f601ec4adf2eb54fca93aad9
+nserver:      V0N0.NIC.WEBER 2a01:8840:6a:0:0:0:0:21 65.22.108.21
+nserver:      V0N1.NIC.WEBER 2a01:8840:6b:0:0:0:0:21 65.22.109.21
+nserver:      V0N2.NIC.WEBER 2a01:8840:6c:0:0:0:0:21 65.22.110.21
+nserver:      V0N3.NIC.WEBER 161.232.32.21 2a01:8840:108:0:0:0:0:21
+nserver:      V2N0.NIC.WEBER 2a01:8840:6d:0:0:0:0:21 65.22.111.21
+nserver:      V2N1.NIC.WEBER 161.232.33.21 2a01:8840:109:0:0:0:0:21
+ds-rdata:     55549 8 2 fdd1f975d9e59017788b52570119039ed3d99efb0984cd966702a7af0a1eaee5
 
 whois:        whois.nic.weber
 
@@ -41,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      2015-12-10
-changed:      2020-10-01
+changed:      2025-12-17
 source:       IANA
 
