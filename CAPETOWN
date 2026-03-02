@@ -32,8 +32,9 @@ phone:        +27115682800
 e-mail:       theo@dnservices.co.za
 
 nserver:      COZA1.DNSNODE.NET 194.146.106.74 2001:67c:1010:18:0:0:0:53
-nserver:      NSP.NETNOD.SE 194.58.198.33 2a01:3f1:3033:0:0:0:0:53
-ds-rdata:     58120 8 2 0d66710dd001e9120a86952cebb8c21aedd72d5e2ca46f0a40266529e7133107
+nserver:      NS2.DNS.NET.ZA 196.29.59.175 2001:43f8:790:5901:0:0:c41d:3baf
+nserver:      NS4.DNS.NET.ZA 2a01:3f0:0:314:0:0:0:53 77.72.229.251
+ds-rdata:     6749 8 2 3b828190e412d1780fd97c538547f6698f1db01570ffae56efb91f4e4735e6a6
 
 whois:        whois.nic.capetown
 
@@ -41,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://registry.net.za
 
 created:      2014-06-05
-changed:      2022-05-16
+changed:      2025-08-05
 source:       IANA
 
