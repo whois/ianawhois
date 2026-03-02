@@ -5,14 +5,14 @@
 domain:       EQUIPMENT
 
 organisation: Binky Moon, LLC
-address:      c/o Identity Digital Limited
+address:      c/o Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 
 contact:      administrative
 name:         Vice President, Engineering
-organisation: Identity Digital Limited
+organisation: Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
@@ -23,6 +23,7 @@ e-mail:       tldadmin@identity.digital
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
 organisation: Identity Digital Limited
+address:      c/o Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
@@ -38,12 +39,12 @@ nserver:      V2N0.NIC.EQUIPMENT 2a01:8840:25:0:0:0:0:21 65.22.35.21
 nserver:      V2N1.NIC.EQUIPMENT 161.232.17.21 2a01:8840:fb:0:0:0:0:21
 ds-rdata:     51544 8 2 602442f2e32f4a351c89c118cf22cd5f34c324d57ec1df0616a7ded19bccd5ca
 
-whois:        whois.nic.equipment
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: https://www.identity.digital/
 
 created:      2013-10-31
-changed:      2023-09-12
+changed:      2025-10-07
 source:       IANA
 
