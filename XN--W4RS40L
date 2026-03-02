@@ -22,20 +22,23 @@ phone:        +852 2525 7211
 e-mail:       ngtld-kerry1@cscinfo.com
 
 contact:      technical
-name:         Registry Customer Service
-organisation: Verisign, Inc.
-address:      12061 Bluemont Way
-address:      Reston VA 20190
+name:         Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Limited
+address:      c/o Identity Digital Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
 address:      United States of America (the)
-phone:        +1-703-925-6999
-fax-no:       +1-703-948-3978
-e-mail:       info@verisign-grs.com
+phone:        +1.425-298-2200
+fax-no:       +1.425-671-0020
+e-mail:       tldtech@identity.digital
 
-nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
-nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
-nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
-nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
-ds-rdata:     37725 8 2 b8b0d86894f8635a37f163cf24737b3887b325594d58620764f04e99c1ec9287
+nserver:      V0N0.NIC.XN--W4RS40L 2a01:8840:6a:0:0:0:0:24 65.22.108.24
+nserver:      V0N1.NIC.XN--W4RS40L 2a01:8840:6b:0:0:0:0:24 65.22.109.24
+nserver:      V0N2.NIC.XN--W4RS40L 2a01:8840:6c:0:0:0:0:24 65.22.110.24
+nserver:      V0N3.NIC.XN--W4RS40L 161.232.32.24 2a01:8840:108:0:0:0:0:24
+nserver:      V2N0.NIC.XN--W4RS40L 2a01:8840:6d:0:0:0:0:24 65.22.111.24
+nserver:      V2N1.NIC.XN--W4RS40L 161.232.33.24 2a01:8840:109:0:0:0:0:24
+ds-rdata:     56524 8 2 b8c49da52d3bef085a04146ec9c966c341dd0c187019934c7862d57274aa49ce
 
 whois:        whois.nic.xn--w4rs40l
 
@@ -43,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.kerryprops.com
 
 created:      2016-02-05
-changed:      2023-01-19
+changed:      2025-12-08
 source:       IANA
 
