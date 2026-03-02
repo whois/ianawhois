@@ -16,33 +16,31 @@ address:      420 Fort Duquesne Boulevard
 address:      Pittsburgh PA 15222
 address:      United States of America (the)
 phone:        +1 (215) 290 4022
-fax-no:       +1 (781) 368 8823
 e-mail:       rami@get.tube
 
 contact:      technical
 name:         IANA Contact
-organisation: GoDaddy Registry
-address:      100 S. Mill Ave, Suite 1600
-address:      Tempe AZ 85281
-address:      United States of America (the)
-phone:        +1 480 505 8800
-fax-no:       +1 480 624 2546
-e-mail:       iana@registry.godaddy
+organisation: CORE Association
+address:      Cours de Rive 2
+address:      Geneva CH-1204
+address:      Switzerland
+phone:        +41 223 125 610
+fax-no:       +41 223 125 612
+e-mail:       dnsmaster@corenic.org
 
-nserver:      A.NIC.TUBE 2001:dcd:1:0:0:0:0:10 37.209.192.10
-nserver:      B.NIC.TUBE 2001:dcd:2:0:0:0:0:10 37.209.194.10
-nserver:      C.NIC.TUBE 2001:dcd:3:0:0:0:0:10 37.209.196.10
-nserver:      NS1.DNS.NIC.TUBE 156.154.169.80 2610:a1:1071:0:0:0:1:50
-nserver:      NS2.DNS.NIC.TUBE 156.154.170.80 2610:a1:1072:0:0:0:1:50
-nserver:      NS3.DNS.NIC.TUBE 156.154.171.80 2610:a1:1073:0:0:0:1:50
+nserver:      ANYCAST10.IRONDNS.NET 195.253.64.12 2a01:5b0:4:0:0:0:0:c
+nserver:      ANYCAST23.IRONDNS.NET 195.253.65.11 2a01:5b0:5:0:0:0:0:b
+nserver:      ANYCAST24.IRONDNS.NET 195.253.65.12 2a01:5b0:5:0:0:0:0:c
+nserver:      ANYCAST9.IRONDNS.NET 195.253.64.11 2a01:5b0:4:0:0:0:0:b
 ds-rdata:     52096 8 2 03e03aced82968f08ebe79b3d8641a366aeb3a9600b6b29671dce8af94492287
+ds-rdata:     63079 8 2 f4d6217a7ff5a1e65a2c31fbd8da3305a4efe10562c3ab82d459421c1437b62d
 
 whois:        whois.nic.tube
 
 status:       ACTIVE
-remarks:      Registration information: http://tubetld.com
+remarks:      Registration information: http://get.tube
 
 created:      2015-12-23
-changed:      2024-05-11
+changed:      2025-04-15
 source:       IANA
 
