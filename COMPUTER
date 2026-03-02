@@ -5,14 +5,14 @@
 domain:       COMPUTER
 
 organisation: Binky Moon, LLC
-address:      c/o Identity Digital Limited
+address:      c/o Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 
 contact:      administrative
 name:         Vice President, Engineering
-organisation: Identity Digital Limited
+organisation: Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
@@ -23,6 +23,7 @@ e-mail:       tldadmin@identity.digital
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
 organisation: Identity Digital Limited
+address:      c/o Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
@@ -38,12 +39,12 @@ nserver:      V2N0.NIC.COMPUTER 2a01:8840:21:0:0:0:0:19 65.22.31.19
 nserver:      V2N1.NIC.COMPUTER 161.232.15.19 2a01:8840:f9:0:0:0:0:19
 ds-rdata:     29629 8 2 49c52c30c178f8cf305cfe47ed6b6faec79e6200ab71b74dd1bfe4b2a9253438
 
-whois:        whois.nic.computer
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: https://www.identity.digital/
 
 created:      2013-12-12
-changed:      2023-09-13
+changed:      2025-10-07
 source:       IANA
 
