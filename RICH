@@ -20,14 +20,14 @@ fax-no:       +49 180 5522944
 e-mail:       registry-rich@i-registry.com
 
 contact:      technical
-name:         Afilias TLD Technical Administrator
-organisation: Afilias Limited
-address:      4th Floor, International House, 3 Harbourmaster Pl., IFSC
-address:      Dublin D01 K8F1
-address:      Ireland
-phone:        +353 1 854 1100
-fax-no:       +353 1 791 8569
-e-mail:       tld-tech-poc@afilias.info
+name:         Howard Eland, Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
 
 nserver:      A0.NIC.RICH 2a01:8840:86:0:0:0:0:17 65.22.136.17
 nserver:      A2.NIC.RICH 2a01:8840:89:0:0:0:0:17 65.22.139.17
@@ -41,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.i-registry.com
 
 created:      2014-01-16
-changed:      2023-08-03
+changed:      2025-06-23
 source:       IANA
 
