@@ -32,6 +32,7 @@ e-mail:       galara@conexion.sv
 nserver:      A.LACTLD.ORG 200.0.68.10 2801:14:a000:0:0:0:0:10
 nserver:      DNS-EXT.NIC.CR 200.107.82.219 2001:13c7:7004:110:0:0:0:219
 nserver:      NS.DNS.BR 200.160.0.5 2001:12ff:0:a20:0:0:0:5
+nserver:      P.NS.SV 2001:500:14:6112:ad:0:0:1 204.61.216.112
 nserver:      SIR.RED.SV 131.100.140.162
 
 whois:        
@@ -40,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.svnet.sv
 
 created:      1994-11-04
-changed:      2023-09-11
+changed:      2026-01-22
 source:       IANA
 
