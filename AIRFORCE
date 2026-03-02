@@ -5,14 +5,14 @@
 domain:       AIRFORCE
 
 organisation: Dog Beach, LLC
-address:      c/o Identity Digital Limited
+address:      c/o Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 
 contact:      administrative
 name:         Vice President, Engineering
-organisation: Identity Digital Limited
+organisation: Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
@@ -23,6 +23,7 @@ e-mail:       tldadmin@identity.digital
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
 organisation: Identity Digital Limited
+address:      c/o Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
@@ -38,12 +39,12 @@ nserver:      V2N0.NIC.AIRFORCE 2a01:8840:25:0:0:0:0:34 65.22.35.34
 nserver:      V2N1.NIC.AIRFORCE 161.232.17.34 2a01:8840:fb:0:0:0:0:34
 ds-rdata:     3715 8 2 d8c2c957776b06cc6b58a15da206712613092e36e90af34015d6881061dfb5a8
 
-whois:        whois.nic.airforce
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: https://www.identity.digital/
 
 created:      2014-04-17
-changed:      2023-09-12
+changed:      2025-10-07
 source:       IANA
 
