@@ -20,29 +20,29 @@ fax-no:       +41 31 350 31 10
 e-mail:       dotpost@upu.int
 
 contact:      technical
-name:         TLD Technical Administrator
-organisation: Afilias Limited
-address:      2 La Touche House, IFSC
-address:      Dublin Dublin 1
-address:      Ireland
-phone:        +353 1 854 1100
-fax-no:       +353 1 791 8569
-e-mail:       tld-tech-poc@afilias.info
+name:         Howard Eland, Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
 
-nserver:      A0.POST.AFILIAS-NST.INFO 2a01:8840:0:0:0:0:0:1 65.22.0.1
-nserver:      A2.POST.AFILIAS-NST.INFO 2a01:8840:4:0:0:0:0:1 65.22.4.1
-nserver:      B0.POST.AFILIAS-NST.ORG 2a01:8840:1:0:0:0:0:1 65.22.1.1
-nserver:      B2.POST.AFILIAS-NST.ORG 2a01:8840:5:0:0:0:0:1 65.22.5.1
-nserver:      C0.POST.AFILIAS-NST.INFO 2a01:8840:2:0:0:0:0:1 65.22.2.1
-nserver:      D0.POST.AFILIAS-NST.ORG 2a01:8840:3:0:0:0:0:1 65.22.3.1
+nserver:      V0N0.NIC.POST 2a01:8840:0:0:0:0:0:1 65.22.0.1
+nserver:      V0N1.NIC.POST 2a01:8840:1:0:0:0:0:1 65.22.1.1
+nserver:      V0N2.NIC.POST 2a01:8840:2:0:0:0:0:1 65.22.2.1
+nserver:      V0N3.NIC.POST 2a01:8840:3:0:0:0:0:1 65.22.3.1
+nserver:      V2N0.NIC.POST 2a01:8840:4:0:0:0:0:1 65.22.4.1
+nserver:      V2N1.NIC.POST 2a01:8840:5:0:0:0:0:1 65.22.5.1
 ds-rdata:     35725 8 2 5b8265dc3f1952980ab5369253c4a4ed9d674d91b8c39360b22a7deaef168fe0
 
-whois:        whois.dotpostregistry.net
+whois:        whois.nic.post
 
 status:       ACTIVE
 remarks:      Registration information: http://www.upu.int
 
 created:      2012-08-07
-changed:      2023-08-28
+changed:      2025-05-15
 source:       IANA
 
