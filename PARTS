@@ -5,14 +5,14 @@
 domain:       PARTS
 
 organisation: Binky Moon, LLC
-address:      c/o Identity Digital Limited
+address:      c/o Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 
 contact:      administrative
 name:         Vice President, Engineering
-organisation: Identity Digital Limited
+organisation: Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
@@ -23,6 +23,7 @@ e-mail:       tldadmin@identity.digital
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
 organisation: Identity Digital Limited
+address:      c/o Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
@@ -38,12 +39,12 @@ nserver:      V2N0.NIC.PARTS 2a01:8840:19:0:0:0:0:53 65.22.23.53
 nserver:      V2N1.NIC.PARTS 161.232.11.53 2a01:8840:f5:0:0:0:0:53
 ds-rdata:     24967 8 2 3facb67c61427cac01c712ea17c8d0e9eb74f5290a2d36311499c096578254bd
 
-whois:        whois.nic.parts
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: https://www.identity.digital/
 
 created:      2014-02-06
-changed:      2023-09-13
+changed:      2025-10-07
 source:       IANA
 
