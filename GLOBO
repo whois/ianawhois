@@ -35,12 +35,12 @@ nserver:      E.DNS.BR 200.229.248.10 2001:12f8:2:0:0:0:0:10
 nserver:      F.DNS.BR 200.219.159.10 2001:12f8:c:0:0:0:0:10
 ds-rdata:     50876 13 2 fe98518cab979f2d0d8021ef06ae5dc713c79a5870ff8fff8e38b67cf6578fb8
 
-whois:        whois.gtlds.nic.br
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: https://nic.globo/
 
 created:      2014-02-20
-changed:      2024-01-11
+changed:      2025-08-14
 source:       IANA
 
