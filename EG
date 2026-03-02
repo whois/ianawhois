@@ -4,8 +4,7 @@
 
 domain:       EG
 
-organisation: Egyptian Universities Network (EUN)
-organisation: Supreme Council of Universities
+organisation: Egyptian Universities Network (EUN), Supreme Council of Universities
 address:      Cairo University
 address:      Giza - Orman
 address:      Cairo 268
@@ -45,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.egregistry.eg/
 
 created:      1990-11-30
-changed:      2024-04-24
+changed:      2025-08-22
 source:       IANA
 
