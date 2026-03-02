@@ -5,7 +5,7 @@
 domain:       PINK
 
 organisation: Identity Digital Limited
-address:      c/o Identity Digital Limited
+address:      c/o Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
@@ -13,6 +13,7 @@ address:      United States of America (the)
 contact:      administrative
 name:         Vice President, Engineering
 organisation: Identity Digital Limited
+address:      c/o Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
@@ -23,6 +24,7 @@ e-mail:       tldadmin@identity.digital
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
 organisation: Identity Digital Limited
+address:      c/o Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
@@ -37,12 +39,12 @@ nserver:      B2.NIC.PINK 2a01:8840:21:0:0:0:0:21 65.22.31.21
 nserver:      C0.NIC.PINK 2a01:8840:20:0:0:0:0:17 65.22.30.17
 ds-rdata:     53032 8 2 54475c411977fb9c94c01453633eb43b8dc64b154462de278a0644c6b83a79d1
 
-whois:        whois.nic.pink
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: https://www.identity.digital/
 
 created:      2013-12-19
-changed:      2023-09-01
+changed:      2025-09-04
 source:       IANA
 
