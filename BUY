@@ -40,12 +40,12 @@ nserver:      DNSC.NIC.BUY 156.154.102.3 2610:a1:1009:0:0:0:0:3
 nserver:      DNSD.NIC.BUY 156.154.103.3 2610:a1:1010:0:0:0:0:3
 ds-rdata:     16411 8 2 c9c2d0f38695bcf73fe5c6fe4a049282848f45f887c4c72b337bca9fb50abc33
 
-whois:        whois.nic.buy
+whois:        
 
 status:       ACTIVE
-remarks:      Registration information: https://www.amazonregistry.com
+remarks:      Registration information: http://www.nic.buy
 
 created:      2015-11-20
-changed:      2024-02-01
+changed:      2025-02-14
 source:       IANA
 
