@@ -36,6 +36,7 @@ nserver:      F.TLD.SK 185.24.64.16 2a04:2b00:13cc:0:0:0:1:16
 nserver:      G.TLD.SK 212.18.248.16 2a04:2b00:13ee:0:0:0:0:16
 nserver:      H.TLD.SK 212.18.249.16 2a04:2b00:13ff:0:0:0:0:16
 ds-rdata:     2324 13 2 3e7e4f60eccc4ad8f96c654563265c9a4e56b9f1ac998e88e1cf8150ff1a5205
+ds-rdata:     56329 13 2 d76d7cc87d568b76634db673c73ba19e3c87c337efaeeebdce59636d4c73a985
 
 whois:        whois.sk-nic.sk
 
@@ -43,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.sk-nic.sk
 
 created:      1993-03-29
-changed:      2024-01-25
+changed:      2025-05-10
 source:       IANA
 
