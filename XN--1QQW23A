@@ -20,7 +20,7 @@ address:      Guangzhou Guangdong 510610
 address:      China
 phone:        +86.2066222543
 fax-no:       +86.2066222864
-e-mail:       alice@yu-wei.cn
+e-mail:       eugene.li@nic.wang
 
 contact:      technical
 name:         Jacky Luo
@@ -31,14 +31,14 @@ address:      Guangzhou Guangdong 510610
 address:      China
 phone:        +86.2066222543
 fax-no:       +86.2066222864
-e-mail:       technology@yu-wei.cn
+e-mail:       tech-support@nic.wang
 
 nserver:      TA.NGTLD.CN 2001:dc7:ffd1:0:0:0:0:1 42.83.130.1
 nserver:      TB.NGTLD.CN 2001:dc7:ffd2:0:0:0:0:1 42.83.131.1
 nserver:      TC.NGTLD.CN 2001:dc7:ffd3:0:0:0:0:1 42.83.132.1
 nserver:      TD.NGTLD.CN 42.83.133.1
 nserver:      TE.NGTLD.CN 42.83.134.1
-ds-rdata:     2506 8 2 a379e36d05feafa4a5dab25f518b9f62df2fd2ba659bd8da1a3ea48e677da5f9
+ds-rdata:     44374 8 2 d8c60da4f66ca9d0e49c9cbf069578aec58f59afd73d08f8d8765bf2269d39d8
 
 whois:        whois.ngtld.cn
 
@@ -46,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.yu-wei.cn/
 
 created:      2014-07-17
-changed:      2022-04-22
+changed:      2026-01-23
 source:       IANA
 
