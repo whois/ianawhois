@@ -21,29 +21,30 @@ fax-no:       +1-206-946-7702
 e-mail:       arsi-rzm@amazon.com
 
 contact:      technical
-name:         IANA Contact
-organisation: GoDaddy Registry
-address:      100 S. Mill Ave, Suite 1600
-address:      Tempe AZ 85281
+name:         Howard Eland, Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
 address:      United States of America (the)
-phone:        +1 480 505 8800
-fax-no:       +1 480 624 2546
-e-mail:       iana@registry.godaddy
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
 
-nserver:      A.NIC.XN--BCK1B9A5DRE4C 2001:dcd:1:0:0:0:0:10 37.209.192.10
-nserver:      B.NIC.XN--BCK1B9A5DRE4C 2001:dcd:2:0:0:0:0:10 37.209.194.10
-nserver:      C.NIC.XN--BCK1B9A5DRE4C 2001:dcd:3:0:0:0:0:10 37.209.196.10
-nserver:      NS1.DNS.NIC.XN--BCK1B9A5DRE4C 156.154.144.194 2610:a1:1071:0:0:0:0:c2
-nserver:      NS2.DNS.NIC.XN--BCK1B9A5DRE4C 156.154.145.194 2610:a1:1072:0:0:0:0:c2
-nserver:      NS3.DNS.NIC.XN--BCK1B9A5DRE4C 156.154.159.194 2610:a1:1073:0:0:0:0:c2
-ds-rdata:     2884 8 2 dd075c68dac66ece21097863183d23795595362fc5314150d38380adec50fd40
+nserver:      V0N0.NIC.XN--BCK1B9A5DRE4C 2a01:8840:4a:0:0:0:0:4 65.22.76.4
+nserver:      V0N1.NIC.XN--BCK1B9A5DRE4C 2a01:8840:4b:0:0:0:0:4 65.22.77.4
+nserver:      V0N2.NIC.XN--BCK1B9A5DRE4C 2a01:8840:4c:0:0:0:0:4 65.22.78.4
+nserver:      V0N3.NIC.XN--BCK1B9A5DRE4C 161.232.38.4 2a01:8840:10c:0:0:0:0:4
+nserver:      V2N0.NIC.XN--BCK1B9A5DRE4C 2a01:8840:4d:0:0:0:0:4 65.22.79.4
+nserver:      V2N1.NIC.XN--BCK1B9A5DRE4C 161.232.39.4 2a01:8840:10d:0:0:0:0:4
+ds-rdata:     59140 8 2 05f9b4a2cc75f4cc41150454bb3911c3a8b0874d626162842146114819b45443
 
-whois:        
+whois:        whois.nic.xn--bck1b9a5dre4c
 
 status:       ACTIVE
-remarks:      Registration information: http://www.amazonregistry.com
+remarks:      Registration information:
+remarks:      http://www.nic.xn--bck1b9a5dre4c
 
 created:      2016-01-29
-changed:      2024-05-11
+changed:      2025-06-17
 source:       IANA
 
