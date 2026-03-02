@@ -5,14 +5,14 @@
 domain:       CHEAP
 
 organisation: Binky Moon, LLC
-address:      c/o Identity Digital Limited
+address:      c/o Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 
 contact:      administrative
 name:         Vice President, Engineering
-organisation: Identity Digital Limited
+organisation: Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
@@ -23,6 +23,7 @@ e-mail:       tldadmin@identity.digital
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
 organisation: Identity Digital Limited
+address:      c/o Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
@@ -38,12 +39,12 @@ nserver:      V2N0.NIC.CHEAP 2a01:8840:19:0:0:0:0:26 65.22.23.26
 nserver:      V2N1.NIC.CHEAP 161.232.11.26 2a01:8840:f5:0:0:0:0:26
 ds-rdata:     48844 8 2 6956c9cfad73cd2bc1f638fe272fbab440593accee4cc6f9bcc60c3c172218ab
 
-whois:        whois.nic.cheap
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: https://www.identity.digital/
 
 created:      2014-01-09
-changed:      2023-09-12
+changed:      2025-10-07
 source:       IANA
 
