@@ -5,14 +5,14 @@
 domain:       REHAB
 
 organisation: Dog Beach, LLC
-address:      c/o Identity Digital Limited
+address:      c/o Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 
 contact:      administrative
 name:         Vice President, Engineering
-organisation: Identity Digital Limited
+organisation: Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
@@ -23,6 +23,7 @@ e-mail:       tldadmin@identity.digital
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
 organisation: Identity Digital Limited
+address:      c/o Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
@@ -38,12 +39,12 @@ nserver:      V2N0.NIC.REHAB 2a01:8840:21:0:0:0:0:61 65.22.31.61
 nserver:      V2N1.NIC.REHAB 161.232.15.61 2a01:8840:f9:0:0:0:0:61
 ds-rdata:     5731 8 2 d3ba72f70047888faae7f22dead5112c540fa6aac533dcc55d9ee4920de4cca9
 
-whois:        whois.nic.rehab
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: https://www.identity.digital/
 
 created:      2014-05-29
-changed:      2023-09-12
+changed:      2025-10-07
 source:       IANA
 
