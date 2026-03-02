@@ -17,20 +17,18 @@ address:      12/F, Daily House
 address:      35-37 Haiphong Road
 address:      Tsim Sha Tsui Kowloon
 address:      Hong Kong
-phone:        +852 8171 1714
-fax-no:       +852 2125 8484
+phone:        +852 4448 0857
 e-mail:       admin@iana.whois.asia
 
 contact:      technical
-name:         DotAsia Technical Contact
-organisation: DotAsia Organisation Ltd.
-address:      12/F, Daily House
-address:      35-37 Haiphong Road
-address:      Tsim Sha Tsui Kowloon
-address:      Hong Kong
-phone:        +852 8171 1714
-fax-no:       +852 2125 8484
-e-mail:       tech@iana.whois.asia
+name:         Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Limited c/o Identity Digital Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
 
 nserver:      A0.ASIA.AFILIAS-NST.INFO 199.19.55.1 2001:500:d:0:0:0:0:1
 nserver:      A2.ASIA.AFILIAS-NST.INFO 199.249.114.1 2001:500:42:0:0:0:0:1
@@ -46,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.registry.asia
 
 created:      2007-05-02
-changed:      2023-08-03
+changed:      2025-09-01
 source:       IANA
 
