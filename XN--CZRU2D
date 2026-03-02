@@ -31,15 +31,15 @@ address:      Beijing 100088
 address:      China
 phone:        +86.1082961219
 fax-no:       +86.1082961269
-e-mail:       zhanyong.zhang@nic.wang
+e-mail:       tech-support@nic.wang
 
-nserver:      A.ZDNSCLOUD.COM 203.99.24.1
-nserver:      B.ZDNSCLOUD.COM 203.99.25.1
+nserver:      A.ZDNSCLOUD.CN 203.99.24.1
+nserver:      B.ZDNSCLOUD.CN 203.99.25.1
 nserver:      C.ZDNSCLOUD.COM 203.99.26.1
 nserver:      D.ZDNSCLOUD.COM 203.99.27.1
-nserver:      F.ZDNSCLOUD.COM 116.169.54.111
+nserver:      F.ZDNSCLOUD.CN 116.169.54.111
 nserver:      G.ZDNSCLOUD.COM 223.72.199.37
-nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
+nserver:      I.ZDNSCLOUD.CN 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
 ds-rdata:     62552 8 2 a9400022e8ac90989aa6a0ecd9003dadc0902982336bafba4ce68e0fb15a8391
 
@@ -49,6 +49,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.shangcheng.wang
 
 created:      2014-02-27
-changed:      2024-03-27
+changed:      2025-12-17
 source:       IANA
 
