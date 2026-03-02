@@ -20,25 +20,25 @@ e-mail:       registry@d3.email
 
 contact:      technical
 name:         Francisco Obispo, Chief Technology Officer
-organisation: Tucows Inc
+organisation: Tucows.com, Co.
 address:      96 Mowat Avenue
 address:      Toronto Ontario M6K3M1
 address:      Canada
-phone:        +1-949-903-3449
+phone:        +1 (416) 535-0123
 e-mail:       trs-ops@tucows.com
 
 nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
-nserver:      NS01.TRS-DNS.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
-nserver:      NS01.TRS-DNS.NET 64.96.2.1
-nserver:      NS01.TRS-DNS.ORG 185.159.197.3 2620:10a:80aa:0:0:0:0:3
+nserver:      NS01.TRS-DNS.NET 2620:57:4002:0:0:0:0:1 64.96.2.1
+nserver:      NS10.TRS-DNS.INFO 2620:171:812:1534:8:0:0:1 64.78.204.1
+nserver:      NS10.TRS-DNS.ORG 2620:171:813:1534:8:0:0:1 64.78.205.1
 ds-rdata:     54748 13 2 0b9756a259636eb994a12d49a21d3b6be0ad2e5ccb3462478284f6b27a02290b
 
-whois:        whois.nic.vana
+whois:        whois.tucowsregistry.net
 
 status:       ACTIVE
 remarks:      Registration information: https://nic.vana
 
 created:      2015-09-24
-changed:      2024-10-23
+changed:      2025-12-12
 source:       IANA
 
