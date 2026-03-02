@@ -40,12 +40,12 @@ nserver:      DNSC.NIC.FAST 156.154.102.3 2610:a1:1009:0:0:0:0:3
 nserver:      DNSD.NIC.FAST 156.154.103.3 2610:a1:1010:0:0:0:0:3
 ds-rdata:     50396 8 2 ae5d5376961980ddeffc4e0db6a516ffaa3ee0949387afe48f8bffe7cb0651be
 
-whois:        whois.nic.fast
+whois:        
 
 status:       ACTIVE
-remarks:      Registration information: https://www.amazonregistry.com
+remarks:      Registration information: http://www.nic.fast
 
 created:      2015-11-12
-changed:      2024-02-01
+changed:      2025-02-14
 source:       IANA
 
