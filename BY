@@ -30,9 +30,9 @@ fax-no:       +375 17 287 11 01
 e-mail:       info@cctld.by
 
 nserver:      DNS1.TLD.BECLOUDBY.COM 2a00:c827:a:2:0:0:0:2 93.125.25.72
-nserver:      DNS2.TLD.BECLOUDBY.COM 2a00:c827:a:3:0:0:0:2 93.125.25.73
-nserver:      DNS3.TLD.BECLOUDBY.COM 185.98.83.4 2a01:ba80:e:c:1:0:0:4c
-nserver:      DNS4.TLD.BECLOUDBY.COM 2a0e:b81:8001:1001:0:0:0:2 31.44.1.137
+nserver:      DNS2.TLD.BECLOUDBY.TECH 2a00:c827:a:3:0:0:0:2 93.125.25.73
+nserver:      DNS3.TLD.BECLOUDBY.TECH 185.98.83.4 2a01:ba80:e:c:1:0:0:4c
+nserver:      DNS4.TLD.BECLOUDBY.TECH 2a0e:b81:8001:1001:0:0:0:2 31.44.1.137
 nserver:      DNS7.TLD.BECLOUDBY.COM 31.44.5.245
 ds-rdata:     495 13 2 2d14284f8e47b53f839bd8068d438680b4b6c7a645769c9d89b47df0c5359b7b
 
@@ -42,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: https://cctld.by
 
 created:      1994-05-10
-changed:      2023-10-18
+changed:      2025-01-09
 source:       IANA
 
