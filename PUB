@@ -5,14 +5,14 @@
 domain:       PUB
 
 organisation: Dog Beach, LLC
-address:      c/o Identity Digital Limited
+address:      c/o Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 
 contact:      administrative
 name:         Vice President, Engineering
-organisation: Identity Digital Limited
+organisation: Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
@@ -23,6 +23,7 @@ e-mail:       tldadmin@identity.digital
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
 organisation: Identity Digital Limited
+address:      c/o Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
@@ -38,12 +39,12 @@ nserver:      V2N0.NIC.PUB 2a01:8840:21:0:0:0:0:7 65.22.31.7
 nserver:      V2N1.NIC.PUB 161.232.15.7 2a01:8840:f9:0:0:0:0:7
 ds-rdata:     53776 8 2 3766469c89af5eca8e8c5852e359396294057677c5ae8ca9c641422d7237bb4f
 
-whois:        whois.nic.pub
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: https://www.identity.digital/
 
 created:      2014-02-20
-changed:      2023-09-13
+changed:      2025-10-07
 source:       IANA
 
