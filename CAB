@@ -5,14 +5,14 @@
 domain:       CAB
 
 organisation: Binky Moon, LLC
-address:      c/o Identity Digital Limited
+address:      c/o Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 
 contact:      administrative
 name:         Vice President, Engineering
-organisation: Identity Digital Limited
+organisation: Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
@@ -23,6 +23,7 @@ e-mail:       tldadmin@identity.digital
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
 organisation: Identity Digital Limited
+address:      c/o Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
@@ -38,12 +39,12 @@ nserver:      V2N0.NIC.CAB 2a01:8840:21:0:0:0:0:29 65.22.31.29
 nserver:      V2N1.NIC.CAB 161.232.15.29 2a01:8840:f9:0:0:0:0:29
 ds-rdata:     33811 8 2 b0ac01be28d9aa827609e9cee95d686c81d7fcf279d75b54444cc00d9126d8cb
 
-whois:        whois.nic.cab
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: https://www.identity.digital/
 
 created:      2013-12-12
-changed:      2023-09-12
+changed:      2025-10-07
 source:       IANA
 
