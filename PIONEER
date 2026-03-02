@@ -40,12 +40,12 @@ nserver:      DNSC.NIC.PIONEER 156.154.102.3 2610:a1:1009:0:0:0:0:3
 nserver:      DNSD.NIC.PIONEER 156.154.103.3 2610:a1:1010:0:0:0:0:3
 ds-rdata:     52502 8 2 4c7837526065fad0933b836efbf1694b16e9c38115a1ad0317bcc4ba599fb367
 
-whois:        whois.nic.pioneer
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: http://www.nic.pioneer/
 
 created:      2016-05-26
-changed:      2022-09-30
+changed:      2025-01-28
 source:       IANA
 
