@@ -6,31 +6,28 @@ domain:       中國
 domain-ace:   XN--FIQZ9S
 
 organisation: China Internet Network Information Center (CNNIC)
-address:      No.4,  South 4th Street, Zhongguancun
-address:      Haidian district
-address:      Beijing 100190
+address:      Building 4, No.9 West Road , Automobile Museum, Fengtai District
+address:      Beijing 100070
 address:      China
 
 contact:      administrative
-name:         Yu Zeng
+name:         Yulin Liu
 organisation: China Internet Network Information Center (CNNIC)
-address:      No.4,  South 4th Street, Zhongguancun
-address:      Haidian district
-address:      Beijing 100190
+address:      Building 4, No.9 West Road , Automobile Museum, Fengtai District
+address:      Beijing 100070
 address:      China
-phone:        +8610-58813686
-fax-no:       +8610-58813632
+phone:        +8610-58813000
+fax-no:       +8610-59116190
 e-mail:       ceo@cnnic.cn
 
 contact:      technical
 name:         Anlei Hu
 organisation: China Internet Network Information Center (CNNIC)
-address:      No. 4, South 4th Street, Zhongguancun
-address:      Haidian district
-address:      Beijing 100190
+address:      Building 4, No.9 West Road , Automobile Museum, Fengtai District
+address:      Beijing 100070
 address:      China
-phone:        +8610-58813202
-fax-no:       +8610-58812666
+phone:        +8610-59116801
+fax-no:       +8610-59116190
 e-mail:       tech@cnnic.cn
 
 nserver:      H.DNS.CN 125.208.32.1 2001:dc7:fffe:0:0:0:0:1
@@ -38,14 +35,14 @@ nserver:      I.DNS.CN 125.208.33.1 2001:dc7:ffff:0:0:0:0:1
 nserver:      J.DNS.CN 125.208.34.1 2001:dc7:fffd:0:0:0:0:1
 nserver:      K.DNS.CN 125.208.35.1 2001:dc7:fffc:0:0:0:0:1
 nserver:      L.DNS.CN 125.208.36.1 2001:dc7:fffb:0:0:0:0:1
-ds-rdata:     28162 8 2 30b55f108e07f9c2397f0d233324e02e667a137569ff91fc0311dcb73cea1571
+ds-rdata:     3991 8 2 b6e385df94a43e489e596ef51d59ac0ef9b5544e42fb3267bb6494529c39ef31
 
-whois:        cwhois.cnnic.cn
+whois:        whois.cnnic.cn
 
 status:       ACTIVE
 remarks:      Registration information: http://www.cnnic.cn
 
 created:      2010-07-09
-changed:      2023-06-17
+changed:      2025-07-18
 source:       IANA
 
