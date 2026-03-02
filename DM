@@ -29,7 +29,7 @@ e-mail:       cto@dotdm.dm
 
 nserver:      NS.BLACKNIGHTSOLUTIONS.COM 2a01:a8:dc1:33:0:0:0:33 81.17.240.204
 nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
-nserver:      NS01.TRS-DNS.NET 64.96.2.1
+nserver:      NS01.TRS-DNS.NET 2620:57:4002:0:0:0:0:1 64.96.2.1
 nserver:      NS2.BLACKNIGHTSOLUTIONS.COM 2a01:a8:dc2:33:0:0:0:33 78.153.202.4
 nserver:      NS2.NIC.DM 199.127.196.35
 nserver:      NS34.CDNS.NET 194.0.1.34 2001:678:4:0:0:0:0:22
