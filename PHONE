@@ -20,21 +20,19 @@ fax-no:       +1.303.723.1699
 e-mail:       cscngtlds28@cscinfo.com
 
 contact:      technical
-name:         Senior Director, DNS Infrastructure Group
-organisation: Afilias
-address:      300 Welsh Road
-address:      Building 3, Suite 105
-address:      Horsham PA 19044
-address:      United States of America (the)
-phone:        +1 215.706.5700
-fax-no:       +1 215.706.5701
-e-mail:       tld-tech-poc@afilias.info
+name:         Francisco Obispo
+organisation: Tucows.com, Co.
+address:      96 Mowat Avenue
+address:      Toronto Ontario M6K3M1
+address:      Canada
+phone:        +1 (416) 535-0123
+e-mail:       trs-ops@tucows.com
 
-nserver:      A0.NIC.PHONE 2a01:8840:5e:0:0:0:0:17 65.22.96.17
-nserver:      A2.NIC.PHONE 2a01:8840:61:0:0:0:0:17 65.22.99.17
-nserver:      B0.NIC.PHONE 2a01:8840:5f:0:0:0:0:17 65.22.97.17
-nserver:      C0.NIC.PHONE 2a01:8840:60:0:0:0:0:17 65.22.98.17
-ds-rdata:     18829 8 2 b7809834406510fcbea1aafa42f0bd2e7f4096bee97d8b7fd5964cdb39c607b4
+nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
+nserver:      NS01.TRS-DNS.NET 2620:57:4002:0:0:0:0:1 64.96.2.1
+nserver:      NS10.TRS-DNS.INFO 2620:171:812:1534:8:0:0:1 64.78.204.1
+nserver:      NS10.TRS-DNS.ORG 2620:171:813:1534:8:0:0:1 64.78.205.1
+ds-rdata:     62477 13 2 1c61d7a336d5345e623dccff81ef2fd0c2b7f2906606ccad499cb9ff3d827cc2
 
 whois:        whois.nic.phone
 
@@ -42,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.dish.com/
 
 created:      2016-12-15
-changed:      2023-08-11
+changed:      2025-12-12
 source:       IANA
 
