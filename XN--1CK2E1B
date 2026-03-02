@@ -21,29 +21,29 @@ fax-no:       +1-206-946-7702
 e-mail:       arsi-rzm@amazon.com
 
 contact:      technical
-name:         IANA Contact
-organisation: GoDaddy Registry
-address:      100 S. Mill Ave, Suite 1600
-address:      Tempe AZ 85281
+name:         Howard Eland, Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
 address:      United States of America (the)
-phone:        +1 480 505 8800
-fax-no:       +1 480 624 2546
-e-mail:       iana@registry.godaddy
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
 
-nserver:      A.NIC.XN--1CK2E1B 2001:dcd:1:0:0:0:0:10 37.209.192.10
-nserver:      B.NIC.XN--1CK2E1B 2001:dcd:2:0:0:0:0:10 37.209.194.10
-nserver:      C.NIC.XN--1CK2E1B 2001:dcd:3:0:0:0:0:10 37.209.196.10
-nserver:      NS1.DNS.NIC.XN--1CK2E1B 156.154.169.64 2610:a1:1071:0:0:0:1:40
-nserver:      NS2.DNS.NIC.XN--1CK2E1B 156.154.170.64 2610:a1:1072:0:0:0:1:40
-nserver:      NS3.DNS.NIC.XN--1CK2E1B 156.154.171.64 2610:a1:1073:0:0:0:1:40
-ds-rdata:     3829 8 2 9402244c218bf8fe172483e4d2ad8355589be11f812b471fe722dd4e572eac26
+nserver:      V0N0.NIC.XN--1CK2E1B 2a01:8840:4a:0:0:0:0:3 65.22.76.3
+nserver:      V0N1.NIC.XN--1CK2E1B 2a01:8840:4b:0:0:0:0:3 65.22.77.3
+nserver:      V0N2.NIC.XN--1CK2E1B 2a01:8840:4c:0:0:0:0:3 65.22.78.3
+nserver:      V0N3.NIC.XN--1CK2E1B 161.232.38.3 2a01:8840:10c:0:0:0:0:3
+nserver:      V2N0.NIC.XN--1CK2E1B 2a01:8840:4d:0:0:0:0:3 65.22.79.3
+nserver:      V2N1.NIC.XN--1CK2E1B 161.232.39.3 2a01:8840:10d:0:0:0:0:3
+ds-rdata:     53164 8 2 27e776688bd0cedb38466ce0e6b2bcc5cbefa0549e04848ef0f1fdbe40f85d0e
 
-whois:        
+whois:        whois.nic.xn--1ck2e1b
 
 status:       ACTIVE
-remarks:      Registration information: http://www.amazonregistry.com
+remarks:      Registration information: http://www.nic.xn--1ck2e1b
 
 created:      2016-01-29
-changed:      2024-05-11
+changed:      2025-06-17
 source:       IANA
 
