@@ -12,32 +12,32 @@ address:      New Delhi Delhi 110070
 address:      India
 
 contact:      administrative
-name:         Aditi Sharma Wadhwa
+name:         Saurabh Srivastava
 organisation: Bharti Airtel
-address:      Bharti Crescent,
-address:      1, Nelson Mandela Road
-address:      Vasant Kunj Phase II
-address:      New Delhi Delhi 110070
+address:      Airtel Center
+address:      Plot No. 16, Udyog Vihar
+address:      Phase IV, Gurugram
+address:      Haryana 122015
 address:      India
-phone:        +91 99 53990071
-fax-no:       +91 11 41666149
-e-mail:       aditi.sharmawadhwa@airtel.com
+phone:        +91 9953990071
+e-mail:       saurabh2.srivastava@airtel.com
 
 contact:      technical
-name:         Bonnie Bryant
-organisation: Verisign, Inc.
-address:      12061 Bluemont Way
-address:      Reston VA 20190
+name:         IANA Contact
+organisation: GoDaddy Registry
+address:      100 S. Mill Ave, Suite 1600
+address:      Tempe AZ 85281
 address:      United States of America (the)
-phone:        1-703-925-6999
-fax-no:       1-703-948-3978
-e-mail:       info@verisign-grs.com
+phone:        +1 480-505-8800
+e-mail:       iana@registry.godaddy
 
-nserver:      AC1.NSTLD.COM 192.42.173.30 2001:500:120:0:0:0:0:30
-nserver:      AC2.NSTLD.COM 192.42.174.30 2001:500:121:0:0:0:0:30
-nserver:      AC3.NSTLD.COM 192.42.175.30 2001:500:122:0:0:0:0:30
-nserver:      AC4.NSTLD.COM 192.42.176.30 2001:500:123:0:0:0:0:30
-ds-rdata:     42300 8 2 a698e339483d094208dfb7b858cdf0401bffc320afcc5aeed3b03dfe82bfacc0
+nserver:      A.NIC.AIRTEL 2001:dcd:1:0:0:0:0:9 37.209.192.9
+nserver:      B.NIC.AIRTEL 2001:dcd:2:0:0:0:0:9 37.209.194.9
+nserver:      C.NIC.AIRTEL 2001:dcd:3:0:0:0:0:9 37.209.196.9
+nserver:      X.NIC.AIRTEL 156.154.172.82 2610:a1:1074:0:0:0:1:82
+nserver:      Y.NIC.AIRTEL 156.154.173.82 2610:a1:1075:0:0:0:1:82
+nserver:      Z.NIC.AIRTEL 156.154.174.82 2610:a1:1076:0:0:0:1:82
+ds-rdata:     33365 8 2 49d75f57e4393dfa7fb4fb380df31f83d178109da2a791f9d6d1d875260113be
 
 whois:        whois.nic.airtel
 
@@ -45,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.airtel.in
 
 created:      2015-06-18
-changed:      2023-11-21
+changed:      2025-12-11
 source:       IANA
 
