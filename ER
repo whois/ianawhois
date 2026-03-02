@@ -29,7 +29,7 @@ phone:        +291 7169837
 fax-no:       +291 1112941
 e-mail:       erdnsmgmt@tse.com.er
 
-nserver:      ER.CCTLD.AUTHDNS.RIPE.NET 193.0.9.72 2001:67c:e0:0:0:0:0:72
+nserver:      ER.CCTLD.AUTHDNS.RIPE.NET 193.0.9.72 2a13:27c0:30:0:0:0:0:72
 nserver:      SAWANEW.NOC.NET.ER 196.200.96.1
 nserver:      ZARANEW.NOC.NET.ER 196.200.96.2
 ds-rdata:     6518 13 2 a1fdbfa73b513e489341d7e82029c7645d0e5f52d8500a3d7380cdc1122f52a2
@@ -40,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      1996-09-24
-changed:      2023-11-01
+changed:      2025-10-28
 source:       IANA
 
