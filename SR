@@ -34,12 +34,12 @@ nserver:      NS1.NIC.SR 168.195.219.210 2803:ff40:a251:0:168:195:219:2
 nserver:      NS2.NIC.SR 168.195.216.214 2803:ff40:a000:2501:168:195:216:2
 ds-rdata:     46104 13 2 967a6b8f3c9c7fd0f981ea3eef1b8a6fe2c4043fbb1518d171d80e83ce4a84ee
 
-whois:        
+whois:        whois.sr
 
 status:       ACTIVE
 remarks:      Registration information: https://isp.datasur.sr/
 
 created:      1991-09-03
-changed:      2024-07-19
+changed:      2025-06-27
 source:       IANA
 
