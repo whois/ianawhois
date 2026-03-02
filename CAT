@@ -30,8 +30,8 @@ fax-no:       +41 22 312 56 12
 e-mail:       dnsmaster@corenic.org
 
 nserver:      ANYC1.IRONDNS.NET 195.253.64.4 2a01:5b0:4:0:0:0:0:4
+nserver:      CAT.NS.NIC.ES 194.69.254.15 2001:67c:21cc:2000:0:0:64:47
 nserver:      CAT.PCH.NET 2001:500:14:6020:ad:0:0:1 204.61.216.20
-nserver:      NS1.NIC.ES 194.69.254.1 2001:67c:21cc:2000:0:0:64:41
 nserver:      NSC.NIC.DE 194.0.11.110 2001:678:e:110:0:0:0:53
 nserver:      SWITCH.NIC.CAT 130.59.31.29 2001:620:0:ff:0:0:0:2f
 ds-rdata:     58737 10 2 4dce567c12f637d51a755b9585c0c3c4036aba446261ac994f7f5e91eed4c365
@@ -42,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.domini.cat
 
 created:      2005-12-19
-changed:      2024-03-01
+changed:      2025-01-17
 source:       IANA
 
