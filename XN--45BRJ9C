@@ -30,20 +30,18 @@ phone:        +91 11 4820 2011
 fax-no:       +91 11 4820 2013
 e-mail:       rajiv@nixi.in
 
-nserver:      NS1.REGISTRY.IN 2001:dcd:1:0:0:0:0:12 37.209.192.12
-nserver:      NS2.REGISTRY.IN 2001:dcd:2:0:0:0:0:12 37.209.194.12
-nserver:      NS3.REGISTRY.IN 2001:dcd:3:0:0:0:0:12 37.209.196.12
-nserver:      NS4.REGISTRY.IN 2001:dcd:4:0:0:0:0:12 37.209.198.12
-nserver:      NS5.REGISTRY.IN 156.154.100.20 2001:502:2eda:0:0:0:0:20
-nserver:      NS6.REGISTRY.IN 156.154.101.20 2001:502:ad09:0:0:0:0:20
-ds-rdata:     1777 8 2 9ff53f651d2c12f7c22bd9c301132042d423d7c935935e26376e57e352b6fdf6
+nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
+nserver:      NS01.TRS-DNS.NET 2620:57:4002:0:0:0:0:1 64.96.2.1
+nserver:      NS10.TRS-DNS.INFO 2620:171:812:1534:8:0:0:1 64.78.204.1
+nserver:      NS10.TRS-DNS.ORG 2620:171:813:1534:8:0:0:1 64.78.205.1
+ds-rdata:     31141 13 2 5d729c75a258eff24add2c7032ac578b1908996891aab6baf04f05e50dbe896c
 
-whois:        whois.registry.in
+whois:        whois.nixiregistry.in
 
 status:       ACTIVE
-remarks:      Registration information: https://www.registry.in
+remarks:      Registration information: https://registry.in
 
 created:      2011-02-05
-changed:      2023-07-25
+changed:      2025-07-17
 source:       IANA
 
