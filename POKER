@@ -5,7 +5,7 @@
 domain:       POKER
 
 organisation: Identity Digital Limited
-address:      c/o Identity Digital Limited
+address:      c/o Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
@@ -13,6 +13,7 @@ address:      United States of America (the)
 contact:      administrative
 name:         Vice President, Engineering
 organisation: Identity Digital Limited
+address:      c/o Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
@@ -23,6 +24,7 @@ e-mail:       tldadmin@identity.digital
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
 organisation: Identity Digital Limited
+address:      c/o Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
@@ -36,12 +38,12 @@ nserver:      B0.NIC.POKER 2a01:8840:17:0:0:0:0:33 65.22.21.33
 nserver:      C0.NIC.POKER 2a01:8840:18:0:0:0:0:33 65.22.22.33
 ds-rdata:     12856 8 2 571efc932d4c25e2f41df9e216b66732f8d17bb7efd2f6230af3127948ba167c
 
-whois:        whois.nic.poker
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: https://www.identity.digital/
 
 created:      2014-09-04
-changed:      2023-09-01
+changed:      2025-09-04
 source:       IANA
 
