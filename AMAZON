@@ -40,13 +40,12 @@ nserver:      DNSC.NIC.AMAZON 156.154.102.3 2610:a1:1009:0:0:0:0:3
 nserver:      DNSD.NIC.AMAZON 156.154.103.3 2610:a1:1010:0:0:0:0:3
 ds-rdata:     14854 8 2 4f9f1805f5689bf4af48f0fa04bef8727b83eac65a669e8bf1a5eafa83350d39
 
-whois:        whois.nic.amazon
+whois:        
 
 status:       ACTIVE
-remarks:      Registration information:
-remarks:      https://www.amazonregistry.com/
+remarks:      Registration information: http://www.nic.amazon
 
 created:      2020-05-28
-changed:      2024-02-01
+changed:      2025-02-14
 source:       IANA
 
