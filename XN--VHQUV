@@ -6,14 +6,14 @@ domain:       企业
 domain-ace:   XN--VHQUV
 
 organisation: Binky Moon, LLC
-address:      c/o Identity Digital Limited
+address:      c/o Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 
 contact:      administrative
 name:         Vice President, Engineering
-organisation: Identity Digital Limited
+organisation: Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
@@ -24,6 +24,7 @@ e-mail:       tldadmin@identity.digital
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
 organisation: Identity Digital Limited
+address:      c/o Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
@@ -39,12 +40,12 @@ nserver:      V2N0.NIC.XN--VHQUV 2a01:8840:21:0:0:0:0:30 65.22.31.30
 nserver:      V2N1.NIC.XN--VHQUV 161.232.15.30 2a01:8840:f9:0:0:0:0:30
 ds-rdata:     25099 8 2 97139be679993f9bc92729c06a1ce43ae75083580338cf750f15fd2b34737717
 
-whois:        whois.nic.xn--vhquv
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: https://www.identity.digital/
 
 created:      2013-11-25
-changed:      2023-09-13
+changed:      2025-10-07
 source:       IANA
 
