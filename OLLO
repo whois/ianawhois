@@ -20,21 +20,19 @@ fax-no:       +1.303.723.1699
 e-mail:       ngtld-ollo@cscglobal.com
 
 contact:      technical
-name:         Senior Director, DNS Infrastructure Group
-organisation: Afilias
-address:      300 Welsh Road
-address:      Building 3, Suite 105
-address:      Horsham PA 19044
-address:      United States of America (the)
-phone:        +1 215.706.5700
-fax-no:       +1 215.706.5701
-e-mail:       tld-tech-poc@afilias.info
+name:         Francisco Obispo
+organisation: Tucows.com, Co.
+address:      96 Mowat Avenue
+address:      Toronto Ontario M6K3M1
+address:      Canada
+phone:        +1 (416) 535-0123
+e-mail:       trs-ops@tucows.com
 
-nserver:      A0.NIC.OLLO 2a01:8840:5e:0:0:0:0:1 65.22.96.1
-nserver:      A2.NIC.OLLO 2a01:8840:61:0:0:0:0:1 65.22.99.1
-nserver:      B0.NIC.OLLO 2a01:8840:5f:0:0:0:0:1 65.22.97.1
-nserver:      C0.NIC.OLLO 2a01:8840:60:0:0:0:0:1 65.22.98.1
-ds-rdata:     39565 8 2 63769a931a3ee95afa940cc2d02ccdcc01bef022b6445495ae8cb153e211b3f5
+nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
+nserver:      NS01.TRS-DNS.NET 2620:57:4002:0:0:0:0:1 64.96.2.1
+nserver:      NS10.TRS-DNS.INFO 2620:171:812:1534:8:0:0:1 64.78.204.1
+nserver:      NS10.TRS-DNS.ORG 2620:171:813:1534:8:0:0:1 64.78.205.1
+ds-rdata:     47690 13 2 679092419ce976b9aaf2ba0675e0871b676c6d1fb0b1f4380f1727dbc369f3f4
 
 whois:        whois.nic.ollo
 
@@ -42,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.dish.com
 
 created:      2016-05-19
-changed:      2023-08-11
+changed:      2025-12-12
 source:       IANA
 
