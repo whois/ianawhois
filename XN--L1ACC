@@ -36,18 +36,17 @@ phone:        +976 7000 0505
 fax-no:       +976 11 320210
 e-mail:       enkhbold@datacom.mn
 
-nserver:      NS1.IDN.MN 218.100.84.27
-nserver:      NS2.IDN.MN 202.170.80.40
-nserver:      NS3.IDN.MN 180.149.98.78
-ds-rdata:     45112 5 2 1cbba9081b31b12fa98f5b7fee95751bd16676e41a2abc0b25bd0c0031474492
-ds-rdata:     45112 5 1 1f4351261342fc31daa8d5e4f1d4fbf6ee0d9857
+nserver:      NS10.DNS.MN 202.131.1.4
+nserver:      NS11.DNS.MN 202.131.4.12
+ds-rdata:     47327 13 2 5080adfc58d869d0b7e45816945e93354233abf3406f23525fd02d9e8701c434
+ds-rdata:     47327 13 4 ad7439b54ab7bdf624aa203ba36971b08472051ced05d0dca1897184a5ce1da092071eccf10b3adb6c2a51ba32a8da4b
 
-whois:        
+whois:        whois.mn
 
 status:       ACTIVE
-remarks:      Registration information: http://www.mon.mn/
+remarks:      Registration information: https://www.datacom.mn/
 
 created:      2012-06-21
-changed:      2023-03-07
+changed:      2025-06-18
 source:       IANA
 
