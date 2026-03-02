@@ -40,12 +40,12 @@ nserver:      DNSC.NIC.CAREER 156.154.102.3 2610:a1:1009:0:0:0:0:3
 nserver:      DNSD.NIC.CAREER 156.154.103.3 2610:a1:1010:0:0:0:0:3
 ds-rdata:     11480 8 2 252513a3ade85062b3943c4d19b9de1a0ae15176ac5d0c6d15c6b79b70f36ff8
 
-whois:        whois.nic.career
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: 
 
 created:      2014-03-20
-changed:      2021-11-09
+changed:      2025-01-28
 source:       IANA
 
