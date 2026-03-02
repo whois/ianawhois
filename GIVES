@@ -22,13 +22,14 @@ e-mail:       ops@pir.org
 
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
-organisation: Donuts Inc.
+organisation: Identity Digital Limited
+address:      c/o Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       tldtech@donuts.email
+e-mail:       tldtech@identity.digital
 
 nserver:      V0N0.NIC.GIVES 2a01:8840:22:0:0:0:0:61 65.22.32.61
 nserver:      V0N1.NIC.GIVES 2a01:8840:23:0:0:0:0:61 65.22.33.61
@@ -44,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.gives
 
 created:      2014-05-29
-changed:      2023-01-18
+changed:      2025-08-14
 source:       IANA
 
