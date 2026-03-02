@@ -36,12 +36,12 @@ nserver:      NS2.DNS.NIC.AAA 156.154.145.2 2610:a1:1072:0:0:0:0:2
 nserver:      NS3.DNS.NIC.AAA 156.154.159.2 2610:a1:1073:0:0:0:0:2
 ds-rdata:     31852 8 2 89f7670afc091b199b47900e4ce4135b9463b7f74d3d19a1c732e78c345d4de6
 
-whois:        
+whois:        whois.nic.aaa
 
 status:       ACTIVE
 remarks:      Registration information: http://www.aaa.com
 
 created:      2015-08-13
-changed:      2024-05-11
+changed:      2024-12-11
 source:       IANA
 
