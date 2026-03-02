@@ -40,12 +40,12 @@ nserver:      DNSC.NIC.BOOK 156.154.102.3 2610:a1:1009:0:0:0:0:3
 nserver:      DNSD.NIC.BOOK 156.154.103.3 2610:a1:1010:0:0:0:0:3
 ds-rdata:     44297 8 2 66bf547095380bd991dead7d74cefd93b8cfb8a8eabb9f43881b6842de837237
 
-whois:        whois.nic.book
+whois:        
 
 status:       ACTIVE
-remarks:      Registration information: https://www.amazonregistry.com
+remarks:      Registration information: http://www.nic.book
 
 created:      2015-11-12
-changed:      2024-02-01
+changed:      2025-02-14
 source:       IANA
 
