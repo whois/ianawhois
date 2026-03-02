@@ -31,10 +31,11 @@ phone:        +257 22 225005
 e-mail:       tech@nic.bi
 
 nserver:      ANYNS.NIC.BI 2001:500:14:6061:ad:0:0:1 204.61.216.61
-nserver:      BI.CCTLD.AUTHDNS.RIPE.NET 193.0.9.62 2001:67c:e0:0:0:0:0:62
+nserver:      BI.CCTLD.AUTHDNS.RIPE.NET 193.0.9.62 2a13:27c0:30:0:0:0:0:62
 nserver:      NS-BI.AFRINIC.NET 196.216.168.23 2001:43f8:120:0:0:0:0:23
 nserver:      NS.NIC.BI 196.2.8.205
 nserver:      NS1.NIC.BI 196.2.12.205
+ds-rdata:     11190 13 2 6159c2681da8d601bffafd0ab4afe89a1475e5cb709ad53dc40e787c3d426b48
 
 whois:        whois1.nic.bi
 
@@ -42,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.bi
 
 created:      1996-10-21
-changed:      2022-06-07
+changed:      2025-09-05
 source:       IANA
 
