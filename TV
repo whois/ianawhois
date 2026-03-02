@@ -4,13 +4,13 @@
 
 domain:       TV
 
-organisation: Ministry of Justice, Communications and Foreign Affairs
+organisation: Ministry of Transport, Energy, Communications and Innovations
 address:      2 Vaiaku Rd
 address:      Vaiaku Funafuti
 address:      Tuvalu
 
 contact:      administrative
-name:         Ministry of Justice, Communications and Foreign Affairs
+name:         Ministry of Transport, Energy, Communications and Innovations
 address:      2 Vaiaku Rd
 address:      Vaiaku Funafuti
 address:      Tuvalu
@@ -30,7 +30,9 @@ e-mail:       iana@registry.godaddy
 nserver:      A.NIC.TV 2001:dcd:1:0:0:0:0:6 37.209.192.6
 nserver:      B.NIC.TV 2001:dcd:2:0:0:0:0:6 37.209.194.6
 nserver:      C.NIC.TV 2001:dcd:3:0:0:0:0:6 37.209.196.6
-nserver:      D.NIC.TV 2001:dcd:4:0:0:0:0:6 37.209.198.6
+nserver:      X.NIC.TV 156.154.103.22 2610:a1:1010:0:0:0:0:22
+nserver:      Y.NIC.TV 156.154.104.22 2610:a1:1011:0:0:0:0:22
+nserver:      Z.NIC.TV 156.154.105.22 2610:a1:1012:0:0:0:0:22
 ds-rdata:     57277 8 2 cdf61faf1ebc9d83d5bc3d9de22e794ae8acdb0475ea8cf27e92cc00f0c3f5f9
 
 whois:        whois.nic.tv
@@ -39,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: https://turnon.tv/
 
 created:      1996-03-18
-changed:      2024-05-20
+changed:      2025-09-04
 source:       IANA
 
