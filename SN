@@ -33,7 +33,7 @@ nserver:      DNS-TLD.IRD.FR 13.39.116.127
 nserver:      NS-SN.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
 nserver:      NS.UCAD.SN 196.1.95.1
 nserver:      NS1.SONATEL.SN 213.154.64.11
-nserver:      SN.CCTLD.AUTHDNS.RIPE.NET 193.0.9.111 2001:67c:e0:0:0:0:0:111
+nserver:      SN.CCTLD.AUTHDNS.RIPE.NET 193.0.9.111 2a13:27c0:30:0:0:0:0:111
 ds-rdata:     17591 13 2 b6dd49f142b2b79e8581db8ab1a9df7e9289bbdd06be3ddbae21673407e60287
 
 whois:        whois.nic.sn
@@ -42,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.nicsenegal.sn
 
 created:      1993-03-19
-changed:      2024-09-12
+changed:      2025-07-17
 source:       IANA
 
