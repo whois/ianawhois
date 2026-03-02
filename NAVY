@@ -5,14 +5,14 @@
 domain:       NAVY
 
 organisation: Dog Beach, LLC
-address:      c/o Identity Digital Limited
+address:      c/o Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 
 contact:      administrative
 name:         Vice President, Engineering
-organisation: Identity Digital Limited
+organisation: Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
@@ -23,6 +23,7 @@ e-mail:       tldadmin@identity.digital
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
 organisation: Identity Digital Limited
+address:      c/o Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
@@ -38,12 +39,12 @@ nserver:      V2N0.NIC.NAVY 2a01:8840:21:0:0:0:0:34 65.22.31.34
 nserver:      V2N1.NIC.NAVY 161.232.15.34 2a01:8840:f9:0:0:0:0:34
 ds-rdata:     24535 8 2 6f05f1cc418bdc0c32058586cd7de8cf28ec70aa9c978e2613389226053c53bf
 
-whois:        whois.nic.navy
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: https://www.identity.digital/
 
 created:      2014-05-29
-changed:      2023-09-12
+changed:      2025-10-07
 source:       IANA
 
