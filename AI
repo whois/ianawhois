@@ -27,18 +27,20 @@ address:      Anguilla
 phone:        +12644975233
 e-mail:       telecommunications.office@gov.ai
 
-nserver:      A.LACTLD.ORG 200.0.68.10 2801:14:a000:0:0:0:0:10
-nserver:      ANYCASTDNS1-CZ.NIC.AI 185.28.194.194
-nserver:      ANYCASTDNS2-CZ.NIC.AI 185.38.108.108 2a00:fea0:dead:0:0:0:0:beef
-nserver:      PCH.WHOIS.AI 2001:500:14:6123:ad:0:0:1 204.61.216.123
-ds-rdata:     44137 8 2 7886bd35ed745dca983d951a643495b929b3a7676a88c682ef88eb6fedbdb253
+nserver:      V0N0.NIC.AI 199.115.152.1 2001:500:a0:0:0:0:0:1
+nserver:      V0N1.NIC.AI 199.115.153.1 2001:500:a1:0:0:0:0:1
+nserver:      V0N2.NIC.AI 199.115.154.1 2001:500:a2:0:0:0:0:1
+nserver:      V0N3.NIC.AI 199.115.155.1 2001:500:a3:0:0:0:0:1
+nserver:      V2N0.NIC.AI 199.115.156.1 2001:500:a4:0:0:0:0:1
+nserver:      V2N1.NIC.AI 199.115.157.1 2001:500:a5:0:0:0:0:1
+ds-rdata:     3799 8 2 8a8030d4661ae6fcf417349682ac058648371002e70e717e4cf2f11f83543385
 
 whois:        whois.nic.ai
 
 status:       ACTIVE
-remarks:      Registration information: http://whois.ai
+remarks:      Registration information: https://nic.ai
 
 created:      1995-02-16
-changed:      2024-11-18
+changed:      2025-02-11
 source:       IANA
 
