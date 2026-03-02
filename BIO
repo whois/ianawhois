@@ -5,7 +5,7 @@
 domain:       BIO
 
 organisation: Identity Digital Limited
-address:      c/o Identity Digital Limited
+address:      c/o Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
@@ -13,6 +13,7 @@ address:      United States of America (the)
 contact:      administrative
 name:         Vice President, Engineering
 organisation: Identity Digital Limited
+address:      c/o Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
@@ -23,6 +24,7 @@ e-mail:       tldadmin@identity.digital
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
 organisation: Identity Digital Limited
+address:      c/o Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
@@ -36,12 +38,12 @@ nserver:      B0.NIC.BIO 2a01:8840:53:0:0:0:0:9 65.22.85.9
 nserver:      C0.NIC.BIO 2a01:8840:54:0:0:0:0:9 65.22.86.9
 ds-rdata:     16334 8 2 aeaf99ce9c6f64b1607605dae987d3bd0acd4c5490691322b98c592c9c27b14b
 
-whois:        whois.nic.bio
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: https://www.identity.digital/
 
 created:      2014-05-15
-changed:      2023-09-01
+changed:      2025-09-04
 source:       IANA
 
