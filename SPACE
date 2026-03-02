@@ -29,12 +29,12 @@ phone:        +44 20 33 88 0600
 fax-no:       +44 20 33 88 0601
 e-mail:       tld.ops@centralnic.com
 
-nserver:      A.NIC.SPACE 194.169.218.51 2001:67c:13cc:0:0:0:1:51
-nserver:      B.NIC.SPACE 185.24.64.51 2a04:2b00:13cc:0:0:0:1:51
-nserver:      E.NIC.SPACE 212.18.248.51 2a04:2b00:13ee:0:0:0:0:51
-nserver:      F.NIC.SPACE 212.18.249.51 2a04:2b00:13ff:0:0:0:0:51
-ds-rdata:     44251 8 2 a82d8ed2b07d66d6e7af375e0e44b22a82f4479ad45f5d8e1859df6fc170e67c
+nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
+nserver:      NS01.TRS-DNS.NET 2620:57:4002:0:0:0:0:1 64.96.2.1
+nserver:      NS10.TRS-DNS.INFO 2620:171:812:1534:8:0:0:1 64.78.204.1
+nserver:      NS10.TRS-DNS.ORG 2620:171:813:1534:8:0:0:1 64.78.205.1
 ds-rdata:     63881 8 2 85ee1264739a00fb6139712c3d7227721d99654226b0140f14a3e3d1a63b315f
+ds-rdata:     33010 8 2 53e37640a028fa26a4ed6306aa07c506bf037fc414af9caf0e41adfff87ccb72
 
 whois:        whois.nic.space
 
@@ -42,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: https://radix.website/
 
 created:      2014-05-22
-changed:      2024-03-20
+changed:      2026-02-23
 source:       IANA
 
