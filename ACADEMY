@@ -5,14 +5,14 @@
 domain:       ACADEMY
 
 organisation: Binky Moon, LLC
-address:      c/o Identity Digital Limited
+address:      c/o Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 
 contact:      administrative
 name:         Vice President, Engineering
-organisation: Identity Digital Limited
+organisation: Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
@@ -23,6 +23,7 @@ e-mail:       tldadmin@identity.digital
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
 organisation: Identity Digital Limited
+address:      c/o Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
@@ -38,12 +39,12 @@ nserver:      V2N0.NIC.ACADEMY 2a01:8840:1d:0:0:0:0:37 65.22.27.37
 nserver:      V2N1.NIC.ACADEMY 161.232.13.37 2a01:8840:f7:0:0:0:0:37
 ds-rdata:     21439 8 2 15eb9367def52ba7dce806a2d7adc6d3b279503235057fa6e7405e96b39f9052
 
-whois:        whois.nic.academy
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: https://www.identity.digital/
 
 created:      2013-12-12
-changed:      2023-09-12
+changed:      2025-10-07
 source:       IANA
 
