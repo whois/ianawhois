@@ -6,48 +6,45 @@ domain:       இலங்கை
 domain-ace:   XN--XKC2AL3HYE2A
 
 organisation: LK Domain Registry
-address:      c/o Computer Science and Engineering Department
-address:      University of Moratuwa
-address:      Moratuwa 10400
+address:      Bernards Business Park
+address:      106 Dutugemunu St.
+address:      Dehiwala 10350
 address:      Sri Lanka
 
 contact:      administrative
 name:         Prof. Gihan Dias
 organisation: LK Domain Registry
-address:      c/o Computer Science and Engineering Department
-address:      University of Moratuwa
-address:      Moratuwa 10400
+address:      Bernards Business Park
+address:      106 Dutugemunu St.
+address:      Dehiwala 10350
 address:      Sri Lanka
 phone:        +94 11 4216065
-fax-no:       +94 11 2650805
-e-mail:       gihan@cse.mrt.ac.lk
+e-mail:       gihan@domains.lk
 
 contact:      technical
 name:         Hostmaster
 organisation: LK Domain Registry
-address:      c/o Computer Science and Engineering Department
-address:      University of Moratuwa
-address:      Moratuwa 10400
+address:      Bernards Business Park
+address:      106 Dutugemunu St.
+address:      Dehiwala 10350
 address:      Sri Lanka
 phone:        +94 11 4216061
-fax-no:       +94 11 2650912
 e-mail:       hostmaster@domains.lk
 
-nserver:      LK.COMMUNITYDNS.NET 194.0.1.27
-nserver:      NIC.LK-ANYCAST.PCH.NET 204.61.216.27
-nserver:      NS-C.NIC.LK 203.143.19.3
-nserver:      NS-D.NIC.LK 123.231.6.18
-nserver:      NS-L.NIC.LK 192.248.8.17
-nserver:      NS-T.NIC.LK 203.94.66.129
+nserver:      H.NIC.LK 2404:8a00:0:a00:0:0:0:4005 43.252.12.206
+nserver:      M.NIC.LK 202.129.235.229 2407:c00:21:8:202:129:235:229
 nserver:      NS1.AC.LK 192.248.1.162 2401:dd00:1:0:0:0:0:162
-nserver:      NS3.AC.LK 202.124.166.178
+nserver:      P.NIC.LK 2001:500:14:6027:ad:0:0:1 204.61.216.27
+nserver:      T.NIC.LK 203.94.66.129 2402:d000:100c:0:0:0:0:129
+nserver:      Y.NIC.LK 194.0.1.27
+ds-rdata:     50119 13 2 7265be9f2ad36094b61328002767713c929ee655a41e5aba912287ec0b8ef2e6
 
 whois:        
 
 status:       ACTIVE
-remarks:      Registration information: http://www.nic.lk
+remarks:      Registration information: http://www.domains.lk
 
 created:      2010-08-19
-changed:      2023-03-07
+changed:      2025-08-01
 source:       IANA
 
