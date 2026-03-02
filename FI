@@ -35,12 +35,12 @@ nserver:      B.FI 194.146.106.26 2001:67c:1010:6:0:0:0:53
 nserver:      C.FI 194.0.11.104 2001:678:e:104:0:0:0:53
 nserver:      D.FI 2a01:3f0:0:302:0:0:0:53 77.72.229.253
 nserver:      E.FI 194.0.1.14 2001:678:4:0:0:0:0:e
+nserver:      F.FI 2a03:d640:100:1:0:0:0:6 80.248.170.230
 nserver:      G.FI 2001:500:14:6098:ad:0:0:1 204.61.216.98
-nserver:      H.FI 2001:678:a0:0:0:0:0:aaaa 87.239.120.11
 nserver:      I.FI 194.0.25.30 2001:678:20:0:0:0:0:30
 nserver:      J.FI 185.159.199.190 2620:10a:80ac:0:0:0:0:190
 nserver:      K.FI 2001:14b8:188d:0:0:0:0:53 213.186.229.226
-ds-rdata:     35221 8 2 d4a489017f68a6c02836d4f126a4b9f6af34c371993bee97ed759d83db9cd38e
+ds-rdata:     18073 13 2 f9b1900e886c251982237f40a9877bd3445a7379231d7f2cc280fce6ac6f2244
 
 whois:        whois.fi
 
@@ -48,6 +48,6 @@ status:       ACTIVE
 remarks:      Registration information: https://domain.fi
 
 created:      1986-12-17
-changed:      2023-08-18
+changed:      2025-09-15
 source:       IANA
 
