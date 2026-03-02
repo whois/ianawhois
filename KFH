@@ -20,22 +20,21 @@ fax-no:       +965.24966403
 e-mail:       majeed@kfh.com
 
 contact:      technical
-name:         CTO
-organisation: CentralNic
-address:      Saddlers House, 4th Floor
-address:      44 Gutter Lane
-address:      London EC2V 6BR
-address:      United Kingdom of Great Britain and Northern Ireland (the)
-phone:        +44 20 33 88 0600
-fax-no:       +44 20 33 88 0601
-e-mail:       tld.ops@centralnic.com
+name:         Bashar Al-Abdulhadi
+organisation: Kuwaitnet General Trading & Contracting Co
+address:      P.O. Box 1230
+address:      Dasman Asima 15463
+address:      Kuwait
+phone:        +965.1807060
+fax-no:       +965.22257060
+e-mail:       tld.ops@kuwaitnet.com
 
-nserver:      A.NIC.KFH 194.169.218.43 2001:67c:13cc:0:0:0:1:43
-nserver:      B.NIC.KFH 185.24.64.43 2a04:2b00:13cc:0:0:0:1:43
-nserver:      C.NIC.KFH 212.18.248.43 2a04:2b00:13ee:0:0:0:0:43
-nserver:      D.NIC.KFH 212.18.249.43 2a04:2b00:13ff:0:0:0:0:43
-ds-rdata:     47020 8 2 602ee5eb852a6581e8cbdabe8d6685a881cc2783b4de8d8947393231243b80b2
+nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
+nserver:      NS01.TRS-DNS.NET 2620:57:4002:0:0:0:0:1 64.96.2.1
+nserver:      NS10.TRS-DNS.INFO 2620:171:812:1534:8:0:0:1 64.78.204.1
+nserver:      NS10.TRS-DNS.ORG 2620:171:813:1534:8:0:0:1 64.78.205.1
 ds-rdata:     23849 8 2 025679b3fa1c06955dc8722820dc339e4d419a6198f053f98843e40488bdb09c
+ds-rdata:     19529 8 2 e6782b15580e48186716a8e819b8c8a382612e3518cdf0a40851543d3211ec4a
 
 whois:        whois.nic.kfh
 
@@ -43,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://kfh.com
 
 created:      2015-10-29
-changed:      2024-06-05
+changed:      2026-02-24
 source:       IANA
 
