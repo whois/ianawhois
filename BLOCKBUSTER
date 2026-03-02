@@ -20,21 +20,19 @@ fax-no:       +1.303.723.1699
 e-mail:       ngtld-blockbuster@cscglobal.com
 
 contact:      technical
-name:         Senior Director, DNS Infrastructure Group
-organisation: Afilias
-address:      300 Welsh Road
-address:      Building 3, Suite 105
-address:      Horsham PA 19044
-address:      United States of America (the)
-phone:        +1 215.706.5700
-fax-no:       +1 215.706.5701
-e-mail:       tld-tech-poc@afilias.info
+name:         Francisco Obispo
+organisation: Tucows.com, Co.
+address:      96 Mowat Avenue
+address:      Toronto Ontario M6K3M1
+address:      Canada
+phone:        +1 (416) 535-0123
+e-mail:       trs-ops@tucows.com
 
-nserver:      A0.NIC.BLOCKBUSTER 2a01:8840:5a:0:0:0:0:25 65.22.92.25
-nserver:      A2.NIC.BLOCKBUSTER 2a01:8840:5d:0:0:0:0:25 65.22.95.25
-nserver:      B0.NIC.BLOCKBUSTER 2a01:8840:5b:0:0:0:0:25 65.22.93.25
-nserver:      C0.NIC.BLOCKBUSTER 2a01:8840:5c:0:0:0:0:25 65.22.94.25
-ds-rdata:     20059 8 2 7cc46ee5db147183b41bda17ac3a5ce97963064f139e80a7c2b60aa8bd5200e7
+nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
+nserver:      NS01.TRS-DNS.NET 2620:57:4002:0:0:0:0:1 64.96.2.1
+nserver:      NS10.TRS-DNS.INFO 2620:171:812:1534:8:0:0:1 64.78.204.1
+nserver:      NS10.TRS-DNS.ORG 2620:171:813:1534:8:0:0:1 64.78.205.1
+ds-rdata:     43849 13 2 3377ee6d719db727964b7f664504bcd05fed3eede562abaca432cab8b403c78a
 
 whois:        whois.nic.blockbuster
 
@@ -42,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.dish.com/
 
 created:      2016-06-30
-changed:      2023-08-11
+changed:      2025-12-12
 source:       IANA
 
