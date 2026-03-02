@@ -40,12 +40,12 @@ nserver:      DNSC.NIC.TUNES 156.154.102.3 2610:a1:1009:0:0:0:0:3
 nserver:      DNSD.NIC.TUNES 156.154.103.3 2610:a1:1010:0:0:0:0:3
 ds-rdata:     52234 8 2 0d317ea34edc8d43e8868616f66bc5bd9b5e5389dbbfdd1529f7c609ae095b9d
 
-whois:        whois.nic.tunes
+whois:        
 
 status:       ACTIVE
-remarks:      Registration information: https://www.amazonregistry.com
+remarks:      Registration information: http://www.nic.tunes
 
 created:      2016-01-29
-changed:      2024-01-31
+changed:      2025-02-14
 source:       IANA
 
