@@ -5,14 +5,14 @@
 domain:       TENNIS
 
 organisation: Binky Moon, LLC
-address:      c/o Identity Digital Limited
+address:      c/o Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 
 contact:      administrative
 name:         Vice President, Engineering
-organisation: Identity Digital Limited
+organisation: Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
@@ -23,6 +23,7 @@ e-mail:       tldadmin@identity.digital
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
 organisation: Identity Digital Limited
+address:      c/o Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
@@ -38,12 +39,12 @@ nserver:      V2N0.NIC.TENNIS 2a01:8840:21:0:0:0:0:32 65.22.31.32
 nserver:      V2N1.NIC.TENNIS 161.232.15.32 2a01:8840:f9:0:0:0:0:32
 ds-rdata:     41695 8 2 30e59d10fa2e38db83b8dbac7ced28b8a1d6a6697b19b0b8eae5f7cbbaf5d0d8
 
-whois:        whois.nic.tennis
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: https://www.identity.digital/
 
 created:      2015-01-29
-changed:      2023-09-12
+changed:      2025-10-07
 source:       IANA
 
