@@ -35,7 +35,7 @@ nserver:      H.DNS.SI 2001:500:14:6054:ad:0:0:1 204.61.216.54
 nserver:      I.DNS.SI 194.0.25.22 2001:678:20:0:0:0:0:22
 nserver:      K.DNS.SI 185.159.197.11 2620:10a:80aa:0:0:0:0:11
 nserver:      L.DNS.SI 185.159.198.11 2620:10a:80ab:0:0:0:0:11
-ds-rdata:     53074 8 2 d3bbe46af529561a317922df27d89686e06b87343f22bac2569d38a549d996eb
+ds-rdata:     1635 13 2 c2977306e3439d4f8d40a1a7f5dea9e93a408c9fb3c5aa32bad08febf0eb848b
 
 whois:        whois.register.si
 
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.registry.si/
 
 created:      1992-04-01
-changed:      2024-04-16
+changed:      2025-03-26
 source:       IANA
 
