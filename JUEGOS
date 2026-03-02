@@ -21,26 +21,30 @@ fax-no:       +1.425.671.0020
 e-mail:       tldadmin@identity.digital
 
 contact:      technical
-name:         Francisco Obispo
-organisation: Tucows Inc
-address:      96 Mowat Avenue
-address:      Toronto ON M6K3M1
-address:      Canada
-phone:        +1.949.903.3449
-e-mail:       trs-ops@tucows.com
+name:         Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Limited
+address:      c/o Identity Digital Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
 
-nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
-nserver:      NS01.TRS-DNS.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
-nserver:      NS01.TRS-DNS.NET 64.96.2.1
-nserver:      NS01.TRS-DNS.ORG 185.159.197.3 2620:10a:80aa:0:0:0:0:3
-ds-rdata:     29108 13 2 a05ce9ac7dd78b8c400aee67a0f85d3aa82b99c07745748021a53bc35e9fc0f3
+nserver:      V0N0.NIC.JUEGOS 2a01:8840:26:0:0:0:0:1 65.22.36.1
+nserver:      V0N1.NIC.JUEGOS 2a01:8840:27:0:0:0:0:1 65.22.37.1
+nserver:      V0N2.NIC.JUEGOS 2a01:8840:28:0:0:0:0:1 65.22.38.1
+nserver:      V0N3.NIC.JUEGOS 161.232.18.1 2a01:8840:10e:0:0:0:0:1
+nserver:      V2N0.NIC.JUEGOS 2a01:8840:29:0:0:0:0:1 65.22.39.1
+nserver:      V2N1.NIC.JUEGOS 161.232.19.1 2a01:8840:10f:0:0:0:0:1
+ds-rdata:     41009 13 2 328711fc334d2f50af0e54cc25f153904d6644e6e1e9c571c26020f28a8552e7
 
-whois:        whois.uniregistry.net
+whois:        
 
 status:       ACTIVE
-remarks:      Registration information: http://uniregistry.link
+remarks:      Registration information: https://www.identity.digital/
 
 created:      2014-05-08
-changed:      2024-05-01
+changed:      2025-09-25
 source:       IANA
 
