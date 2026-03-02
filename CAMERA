@@ -5,14 +5,14 @@
 domain:       CAMERA
 
 organisation: Binky Moon, LLC
-address:      c/o Identity Digital Limited
+address:      c/o Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 
 contact:      administrative
 name:         Vice President, Engineering
-organisation: Identity Digital Limited
+organisation: Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
@@ -23,6 +23,7 @@ e-mail:       tldadmin@identity.digital
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
 organisation: Identity Digital Limited
+address:      c/o Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
@@ -38,12 +39,12 @@ nserver:      V2N0.NIC.CAMERA 2a01:8840:1d:0:0:0:0:26 65.22.27.26
 nserver:      V2N1.NIC.CAMERA 161.232.13.26 2a01:8840:f7:0:0:0:0:26
 ds-rdata:     23809 8 2 d3a9137a8b8df3d9da4f91cf8c0ee79ca9c3577c9cb7033488c97de376d83d59
 
-whois:        whois.nic.camera
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: https://www.identity.digital/
 
 created:      2013-10-31
-changed:      2023-09-12
+changed:      2025-10-07
 source:       IANA
 
