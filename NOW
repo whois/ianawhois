@@ -40,13 +40,12 @@ nserver:      DNSC.NIC.NOW 156.154.102.3 2610:a1:1009:0:0:0:0:3
 nserver:      DNSD.NIC.NOW 156.154.103.3 2610:a1:1010:0:0:0:0:3
 ds-rdata:     53572 8 2 530790ffb40a20cf7570a38b4f02e33e1b14e2eade01cd99f15c9bbdf2e58112
 
-whois:        whois.nic.now
+whois:        
 
 status:       ACTIVE
-remarks:      Registration information:
-remarks:      https://www.amazonregistry.com/
+remarks:      Registration information: http://www.nic.now
 
 created:      2016-05-19
-changed:      2024-02-01
+changed:      2025-02-14
 source:       IANA
 
