@@ -4,21 +4,19 @@
 
 domain:       RADIO
 
-organisation: European Broadcasting Union (EBU)
-address:      Ancienne-Route 17A
-address:      Le Grand-Saconnex
-address:      Geneva CH-1218
-address:      Switzerland
+organisation: Digity, LLC
+address:      Po Box 1341
+address:      Bridgeview Illinois 60455
+address:      United States of America (the)
 
 contact:      administrative
-name:         .radio TLD Administrative Contact
-organisation: CORE Association
-address:      Cours de Rive 2
-address:      Geneva CH-1204
-address:      Switzerland
-phone:        +41 79 203 4075
-fax-no:       +41 22 312 5612
-e-mail:       secretariat@corenic.org
+name:         Director
+organisation: Digity, LLC
+address:      Po Box 1341
+address:      Bridgeview Illinois 60455
+address:      United States of America (the)
+phone:        +1 (312) 292-9379
+e-mail:       admin@digity.case
 
 contact:      technical
 name:         .radio TLD Technical Contact
@@ -42,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.nic.radio/
 
 created:      2016-09-22
-changed:      2022-01-07
+changed:      2026-02-26
 source:       IANA
 
