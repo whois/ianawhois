@@ -40,12 +40,12 @@ nserver:      DNSC.NIC.BOT 156.154.102.3 2610:a1:1009:0:0:0:0:3
 nserver:      DNSD.NIC.BOT 156.154.103.3 2610:a1:1010:0:0:0:0:3
 ds-rdata:     58741 8 2 eca26804355a4735caa906601c7d388af755ab40f599d02f29d16f347705ee42
 
-whois:        whois.nic.bot
+whois:        
 
 status:       ACTIVE
-remarks:      Registration information: https://www.amazonregistry.com
+remarks:      Registration information: http://www.nic.bot
 
 created:      2015-11-12
-changed:      2024-02-01
+changed:      2025-02-14
 source:       IANA
 
