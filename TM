@@ -33,8 +33,8 @@ nserver:      NS-A2.TM 194.0.2.22 2001:678:5:0:0:0:0:16
 nserver:      NS-A3.TM 74.116.178.22
 nserver:      NS-A4.TM 74.116.179.22
 nserver:      NS-D1.TM 2607:feb8:0:0:0:0:5:8 64.251.31.180
-nserver:      NS-L1.TM 2001:470:1f1d:244:0:0:0:44 80.249.100.44
-nserver:      NS-Y1.TM 2001:470:1f07:d0b:0:0:0:22 91.208.95.22
+nserver:      NS-L1.TM 2a13:f040:0:0:4000:0:0:44 80.249.100.44
+nserver:      NS-Y1.TM 2604:a00:50:1fd:0:0:0:22 91.208.95.22
 ds-rdata:     36787 8 2 af4a3a54aa5f73c114f9c6e4d9c3ef0040e387806a9f92ae85276ff38f33bcb5
 
 whois:        whois.nic.tm
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.tm/
 
 created:      1997-05-30
-changed:      2020-02-07
+changed:      2025-06-18
 source:       IANA
 
