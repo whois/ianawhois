@@ -5,14 +5,14 @@
 domain:       DANCE
 
 organisation: Dog Beach, LLC
-address:      c/o Identity Digital Limited
+address:      c/o Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 
 contact:      administrative
 name:         Vice President, Engineering
-organisation: Identity Digital Limited
+organisation: Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
@@ -23,6 +23,7 @@ e-mail:       tldadmin@identity.digital
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
 organisation: Identity Digital Limited
+address:      c/o Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
@@ -38,12 +39,12 @@ nserver:      V2N0.NIC.DANCE 2a01:8840:1d:0:0:0:0:50 65.22.27.50
 nserver:      V2N1.NIC.DANCE 161.232.13.50 2a01:8840:f7:0:0:0:0:50
 ds-rdata:     22036 8 2 d2494cb312c97d6a1a075f55601ba62cb59d2672e23658e3edacf4777bc614b1
 
-whois:        whois.nic.dance
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: https://www.identity.digital/
 
 created:      2014-01-09
-changed:      2023-09-12
+changed:      2025-10-07
 source:       IANA
 
