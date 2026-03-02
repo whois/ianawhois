@@ -16,23 +16,22 @@ address:      Box 92073
 address:      Stockholm SE-120 07
 address:      Sweden
 phone:        +46 8 452 35 00
-fax-no:       +46 8 452 35 02
 e-mail:       registry@internetstiftelsen.se
 
 contact:      technical
 name:         SE Technical Contact
-organisation: Netnod Internet Exchange I Sverige AB
+organisation: Netnod AB
 address:      Greta Garbos väg 13
 address:      Solna 169 40
 address:      Sweden
 phone:        +46 8 562 860 10
-e-mail:       ops@netnod.se
+e-mail:       noc@netnod.se
 
 nserver:      A.NS.SE 192.36.144.107 2a01:3f0:0:301:0:0:0:53
 nserver:      B.NS.SE 192.36.133.107 2001:67c:254c:301:0:0:0:53
 nserver:      C.NS.SE 192.36.135.107 2001:67c:2554:301:0:0:0:53
-nserver:      F.NS.SE 192.71.53.53 2a01:3f0:0:305:0:0:0:53
-nserver:      G.NS.SE 130.239.5.114 2001:6b0:e:3:0:0:0:1
+nserver:      F.NS.SE 192.36.134.97 2001:67c:2550:301:0:0:0:53
+nserver:      G.NS.SE 194.68.134.97 2001:67c:2558:301:0:0:0:53
 nserver:      I.NS.SE 194.146.106.22 2001:67c:1010:5:0:0:0:53
 nserver:      M.NS.SE 194.0.11.112 2001:678:e:112:0:0:0:53
 nserver:      X.NS.SE 2001:67c:124c:e000:0:0:0:4 213.108.25.4
@@ -47,6 +46,6 @@ remarks:      Registration information:
 remarks:      https://www.internetstiftelsen.se
 
 created:      1986-09-04
-changed:      2020-06-08
+changed:      2026-02-12
 source:       IANA
 
