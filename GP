@@ -17,7 +17,7 @@ address:      Rue de la Chapelle 232
 address:      Z.I. de Jarry
 address:      Baie-Mahault 97122
 address:      Guadeloupe
-phone:        +590590803140
+phone:        +590590530829
 fax-no:       +590590814261
 e-mail:       patrick.raimond@ntgroup.gp
 
@@ -32,7 +32,7 @@ phone:        +590 690 002711
 e-mail:       jbroom@nic.gp
 
 nserver:      A.LACTLD.ORG 200.0.68.10 2801:14:a000:0:0:0:0:10
-nserver:      GP.CCTLD.AUTHDNS.RIPE.NET 193.0.9.76 2001:67c:e0:0:0:0:0:76
+nserver:      GP.CCTLD.AUTHDNS.RIPE.NET 193.0.9.76 2a13:27c0:30:0:0:0:0:76
 nserver:      NS-GP.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
 nserver:      NS1.NIC.GP 193.218.114.2
 nserver:      NS2.NIC.GP 193.218.114.34
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.gp/
 
 created:      1996-10-21
-changed:      2023-01-18
+changed:      2025-09-09
 source:       IANA
 
