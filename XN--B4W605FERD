@@ -24,14 +24,14 @@ e-mail:       ngtld-temasek@cscinfo.com
 
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
-organisation: Afilias
-address:      300 Welsh Road
-address:      Building 3, Suite 105
-address:      Horsham PA 19044
+organisation: Identity Digital Limited
+address:      c/o Identity Digital Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
 address:      United States of America (the)
-phone:        +1 215.706.5700
-fax-no:       +1 215.706.5701
-e-mail:       tld-tech-poc@afilias.info
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
 
 nserver:      A0.NIC.XN--B4W605FERD 2a01:8840:8a:0:0:0:0:1 65.22.140.1
 nserver:      A2.NIC.XN--B4W605FERD 2a01:8840:8d:0:0:0:0:1 65.22.143.1
@@ -46,6 +46,6 @@ remarks:      Registration information:
 remarks:      http://www.temasek.com.sg/nicdan4ma3xi1
 
 created:      2014-12-18
-changed:      2023-08-11
+changed:      2025-08-27
 source:       IANA
 
