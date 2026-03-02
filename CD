@@ -32,9 +32,9 @@ address:      Congo (the Democratic Republic of the)
 phone:        +243 822983889
 e-mail:       maurice.mufusi@scpt.cd
 
-nserver:      NS-ROOT-21.SCPT-NETWORK.NET 102.68.62.15
-nserver:      NS-ROOT-22.SCPT-NETWORK.NET 102.68.60.15
-nserver:      NS-ROOT-23.SCPT-NETWORK.NET 161.97.87.130
+nserver:      GRANSY-ANYCAST1.NIC.CD 185.38.108.108
+nserver:      GRANSY-ANYCAST2.NIC.CD 185.28.194.194
+nserver:      PCH.NIC.CD 204.61.216.139
 
 whois:        
 
@@ -42,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.cd/
 
 created:      1997-08-20
-changed:      2021-02-10
+changed:      2025-12-12
 source:       IANA
 
