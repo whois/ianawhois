@@ -15,9 +15,9 @@ organisation: Microsoft Corporation
 address:      One Microsoft Way
 address:      Redmond WA 98052
 address:      United States of America (the)
-phone:        425-706-3546
-fax-no:       425-457-2511
-e-mail:       tlddom@microsoft.com
+phone:        +1 425-706-3546
+fax-no:       +1 425-457-2511
+e-mail:       registry@microsoft.com
 
 contact:      technical
 name:         TLD Registry Services Technical
@@ -36,15 +36,14 @@ nserver:      DNSA.NIC.XBOX 156.154.100.3 2001:502:ad09:0:0:0:0:3
 nserver:      DNSB.NIC.XBOX 156.154.101.3 2001:502:2eda:0:0:0:0:3
 nserver:      DNSC.NIC.XBOX 156.154.102.3 2610:a1:1009:0:0:0:0:3
 nserver:      DNSD.NIC.XBOX 156.154.103.3 2610:a1:1010:0:0:0:0:3
-ds-rdata:     48291 8 2 1189083bb85010770d8937e4bc2a2af6fc2c81f2eef8a53a7a2457709a53c362
 ds-rdata:     43570 8 2 2c478092b86d62235c8a27bf365edda5c86167e1e9244a50526b735038e5dc26
 
-whois:        whois.nic.xbox
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: http://www.microsoft.com
 
 created:      2015-04-30
-changed:      2024-04-11
+changed:      2026-02-02
 source:       IANA
 
