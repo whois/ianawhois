@@ -40,12 +40,12 @@ nserver:      DNSC.NIC.REALTOR 156.154.102.3 2610:a1:1009:0:0:0:0:3
 nserver:      DNSD.NIC.REALTOR 156.154.103.3 2610:a1:1010:0:0:0:0:3
 ds-rdata:     15827 8 2 577657bd827b1e23edd28113992899460b5e0dd5138d49e6978740d303f41059
 
-whois:        whois.nic.realtor
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: https://www.get.realtor
 
 created:      2014-07-24
-changed:      2023-05-02
+changed:      2025-01-30
 source:       IANA
 
