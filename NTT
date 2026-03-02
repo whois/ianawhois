@@ -33,14 +33,14 @@ nserver:      TLD1.NIC.NTT 103.47.2.2 2001:dda:0:0:0:0:0:2
 nserver:      TLD2.NIC.NTT 117.104.133.17 2001:218:3001:0:0:0:0:2
 nserver:      TLD3.NIC.NTT 2a01:8840:1ba:0:0:0:0:17 65.22.40.17
 nserver:      TLD5.NIC.NTT 2a01:8840:1ba:0:0:0:0:145 65.22.40.145
-ds-rdata:     5392 8 2 a9ac82a69bc8833566cc4def0c4e33b340b6d79a049e42e7adc6b084c20afb33
+ds-rdata:     25342 8 2 ea2c4b6b2ba73249c5827c4c5058c61f90337bd0ae315021f26bcee9e132f5d4
 
-whois:        
+whois:        whois.nic.ntt
 
 status:       ACTIVE
 remarks:      Registration information: https://group.ntt/en/dotntt/
 
 created:      2015-01-08
-changed:      2023-12-06
+changed:      2025-12-11
 source:       IANA
 
