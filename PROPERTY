@@ -20,25 +20,25 @@ e-mail:       registry@dpiregistry.com
 
 contact:      technical
 name:         Francisco Obispo
-organisation: Tucows Inc
+organisation: Tucows.com, Co.
 address:      96 Mowat Avenue
 address:      Toronto ON M6K3M1
 address:      Canada
-phone:        +1.949.903.3449
+phone:        +1 (416) 535-0123
 e-mail:       trs-ops@tucows.com
 
 nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
-nserver:      NS01.TRS-DNS.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
-nserver:      NS01.TRS-DNS.NET 64.96.2.1
-nserver:      NS01.TRS-DNS.ORG 185.159.197.3 2620:10a:80aa:0:0:0:0:3
+nserver:      NS01.TRS-DNS.NET 2620:57:4002:0:0:0:0:1 64.96.2.1
+nserver:      NS10.TRS-DNS.INFO 2620:171:812:1534:8:0:0:1 64.78.204.1
+nserver:      NS10.TRS-DNS.ORG 2620:171:813:1534:8:0:0:1 64.78.205.1
 ds-rdata:     33049 13 2 6dff521d658293fd458e615debb6ca0c76341775f72f340bcd3960851b4c536f
 
-whois:        whois.nic.property
+whois:        whois.tucowsregistry.net
 
 status:       ACTIVE
 remarks:      Registration information: https://internetnaming.co
 
 created:      2014-08-15
-changed:      2024-04-26
+changed:      2025-12-12
 source:       IANA
 
