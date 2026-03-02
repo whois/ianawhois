@@ -5,14 +5,14 @@
 domain:       ACCOUNTANTS
 
 organisation: Binky Moon, LLC
-address:      c/o Identity Digital Limited
+address:      c/o Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 
 contact:      administrative
 name:         Vice President, Engineering
-organisation: Identity Digital Limited
+organisation: Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
@@ -23,6 +23,7 @@ e-mail:       tldadmin@identity.digital
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
 organisation: Identity Digital Limited
+address:      c/o Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
@@ -38,12 +39,12 @@ nserver:      V2N0.NIC.ACCOUNTANTS 2a01:8840:25:0:0:0:0:31 65.22.35.31
 nserver:      V2N1.NIC.ACCOUNTANTS 161.232.17.31 2a01:8840:fb:0:0:0:0:31
 ds-rdata:     57157 8 2 fe57f0ce1828f591e6ea40b797a64813b5c75624614f92a50a90ae164c24d2f7
 
-whois:        whois.nic.accountants
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: https://www.identity.digital/
 
 created:      2014-04-24
-changed:      2023-09-12
+changed:      2025-10-07
 source:       IANA
 
