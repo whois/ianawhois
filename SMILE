@@ -40,12 +40,12 @@ nserver:      DNSC.NIC.SMILE 156.154.102.3 2610:a1:1009:0:0:0:0:3
 nserver:      DNSD.NIC.SMILE 156.154.103.3 2610:a1:1010:0:0:0:0:3
 ds-rdata:     34961 8 2 be86ee1b42b863c89283bf8eb0b013d6c16db2b0702a3c28299eb318540fbeaa
 
-whois:        whois.nic.smile
+whois:        
 
 status:       ACTIVE
-remarks:      Registration information: https://www.amazonregistry.com
+remarks:      Registration information: http://www.nic.smile
 
 created:      2015-11-12
-changed:      2024-01-31
+changed:      2025-02-14
 source:       IANA
 
