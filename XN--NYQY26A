@@ -23,25 +23,21 @@ fax-no:       +852 3972 2211
 e-mail:       johnnydu@stabletone.com
 
 contact:      technical
-name:         Jiagui Xie
-organisation: Teleinfo, Inc.
-address:      Building 21, 1 Gaolizhang Road
-address:      Haidian District
-address:      Beijing 100095
+name:         CTO
+organisation: Beijing Tele-info Technology Co., Ltd.
+address:      21st Floor, Block D, Beihang Zhizhen Building, No. 7 Zhichun Road, Haidan District
+address:      Beijing 100088
 address:      China
-phone:        +86.150 0138 5070
-fax-no:       +86.10 5884 6931
-e-mail:       xiejiagui@teleinfo.cn
+phone:        +86 13811939493
+fax-no:       +86 1058846931
+e-mail:       gtld@teleinfo.cn
 
 nserver:      NS1.TELEINFO.CN 103.61.60.1 2402:7d80:0:0:0:0:0:1
 nserver:      NS2.TELEINFOO.COM 103.61.61.1 2402:7d80:8888:0:0:0:0:1
 nserver:      NS3.TELEINFO.CN 103.61.62.1
 nserver:      NS4.TELEINFOO.COM 103.61.63.1
-ds-rdata:     61705 8 1 8d4ff5a86429fbdf7bdd44c05391b08a3594c09a
-ds-rdata:     61705 8 2 60a626b01624f7305e1e22c1b04da36c14bb501a3a6acb76b40af73af445221f
-ds-rdata:     38734 8 2 f0e7b5258ad4d9048d0562a0c7d5ae30dfd87967a515af0a256d3a8ba72acde3
-ds-rdata:     38734 8 1 d1a95d7325518ac05264a89c41bcb06fcb34c4f1
 ds-rdata:     27565 8 2 cb10ead52dc0ab87619f0add9400977114e8ae84fbcc3c3a3c84674bd1c3d7a0
+ds-rdata:     33427 8 2 479fdb939b2b8ce8dd8db147224f159af1479d551fbfaab1692d63609258eaa2
 
 whois:        
 
@@ -49,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.stabletone.com
 
 created:      2015-03-12
-changed:      2023-01-19
+changed:      2025-05-01
 source:       IANA
 
