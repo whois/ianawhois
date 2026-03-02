@@ -5,31 +5,28 @@
 domain:       CN
 
 organisation: China Internet Network Information Center (CNNIC)
-address:      No. 4, South 4th Street
-address:      Zhong Guan Cun
-address:      Beijing 100190
+address:      Building 4, No.9 Beijing Auto Museum West Road, Fengtai District
+address:      Beijing 100070
 address:      China
 
 contact:      administrative
-name:         Yu Zeng
+name:         Yulin Liu
 organisation: China Internet Network Information Center (CNNIC)
-address:      No. 4, South 4th Street
-address:      Zhong Guan Cun
-address:      Beijing 100190
+address:      Building 4, No.9 West Road , Automobile Museum, Fengtai District
+address:      Beijing 100070
 address:      China
-phone:        +8610-58813686
-fax-no:       +8610-58813632
+phone:        +8610-58813000
+fax-no:       +8610-59116190
 e-mail:       ceo@cnnic.cn
 
 contact:      technical
 name:         Anlei Hu
 organisation: China Internet Network Information Center (CNNIC)
-address:      No. 4, South 4th Street
-address:      Zhong Guan Cun
-address:      Beijing 100190
+address:      Building 4, No.9 West Road , Automobile Museum, Fengtai District
+address:      Beijing 100070
 address:      China
-phone:        +8610-58813202
-fax-no:       +8610-58812666
+phone:        +8610-59116801
+fax-no:       +8610-59116190
 e-mail:       tech@cnnic.cn
 
 nserver:      A.DNS.CN 2001:dc7:0:0:0:0:0:1 203.119.25.1
@@ -38,7 +35,7 @@ nserver:      C.DNS.CN 2001:dc7:2:0:0:0:0:1 203.119.27.1
 nserver:      D.DNS.CN 2001:dc7:1000:0:0:0:0:1 203.119.28.1
 nserver:      E.DNS.CN 2001:dc7:3:0:0:0:0:1 203.119.29.1
 nserver:      NS.CERNET.NET 202.112.0.44
-ds-rdata:     57724 8 2 5d0423633eb24a499be78aa22d1c0c9ba36218ff49fd95a4cdf1a4ad97c67044
+ds-rdata:     33094 8 2 cccf13ed73a83244f7d2936f0b6c3507d85c3ebc5e1be4fb644064bc5b5fe3b2
 
 whois:        whois.cnnic.cn
 
@@ -46,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.cnnic.cn/
 
 created:      1990-11-28
-changed:      2023-09-21
+changed:      2025-07-17
 source:       IANA
 
