@@ -5,20 +5,19 @@
 domain:       UBANK
 
 organisation: National Australia Bank Limited
-address:      Level 9
+address:      Level 10
 address:      700 Bourke Street
 address:      Docklands VIC 3008
 address:      Australia
 
 contact:      administrative
-name:         Manager, Technical Services – Digital & Online Channel Service
+name:         Manager Technical Services Digital & Online Channel Service
 organisation: National Australia Bank Limited
-address:      Level 9
+address:      Level 10
 address:      700 Bourke Street
 address:      Docklands VIC 3008
 address:      Australia
 phone:        +61 477 385 759
-fax-no:       n/a
 e-mail:       ngtld-ubank@cscinfo.com
 
 contact:      technical
@@ -43,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.ubank.com.au/
 
 created:      2016-08-04
-changed:      2023-08-11
+changed:      2025-12-01
 source:       IANA
 
