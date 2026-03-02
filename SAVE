@@ -40,13 +40,12 @@ nserver:      DNSC.NIC.SAVE 156.154.102.3 2610:a1:1009:0:0:0:0:3
 nserver:      DNSD.NIC.SAVE 156.154.103.3 2610:a1:1010:0:0:0:0:3
 ds-rdata:     6611 8 2 e81fa1af4ea9f0ef852f21b1d175fa87b6758a90d293b77d4326edbff8bf79a5
 
-whois:        whois.nic.save
+whois:        
 
 status:       ACTIVE
-remarks:      Registration information:
-remarks:      https://www.amazonregistry.com/
+remarks:      Registration information: http://www.nic.save
 
 created:      2016-05-19
-changed:      2024-02-01
+changed:      2025-02-14
 source:       IANA
 
