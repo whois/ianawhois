@@ -19,13 +19,13 @@ phone:        +47 93007731
 e-mail:       admin@nic.gm
 
 contact:      technical
-name:         Jorn Grotnes
-organisation: GM-NIC
-address:      c/o Jokkolabs Banjul 10 Sait Matty Road, The Gambia
-address:      Bakau
-address:      Gambia (the)
-phone:        +47 93007731
-e-mail:       admin@nic.gm
+name:         Torstein Grotnes
+organisation: CYPDOM
+address:      Evagora Pallikaridi 38
+address:      Paphos 8010
+address:      Cyprus
+phone:        +47 91116605
+e-mail:       technical@nic.gm
 
 nserver:      NS-GM.AFRINIC.NET 196.216.168.29 2001:43f8:120:0:0:0:0:29
 nserver:      NS1.NIC.GM 194.63.250.217
@@ -37,6 +37,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.gm
 
 created:      1997-03-28
-changed:      2024-05-06
+changed:      2025-02-27
 source:       IANA
 
