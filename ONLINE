@@ -4,37 +4,35 @@
 
 domain:       ONLINE
 
-organisation: Radix Technologies Inc.
-address:      Services Cayman Limited, P.O. Box 10008, Willow House, Cricket Square, Grand Cayman
+organisation: Radix Technologies Inc. SEZC
+address:      CO Services Cayman Limited, P.O. Box 10008, Willow House, Cricket Square, Grand Cayman
 address:      KY1-1001
 address:      Cayman Islands (the)
 
 contact:      administrative
 name:         Director
-organisation: Radix Technologies Inc.
-address:      Services Cayman Limited, P.O. Box 10008, Willow House, Cricket Square, Grand Cayman
+organisation: Radix Technologies Inc. SEZC
+address:      CO Services Cayman Limited, P.O. Box 10008, Willow House, Cricket Square, Grand Cayman
 address:      KY1-1001
 address:      Cayman Islands (the)
 phone:        +971 44487934
 e-mail:       admin@radix.email
 
 contact:      technical
-name:         CTO
-organisation: CentralNic
-address:      Saddlers House, 4th Floor
-address:      44 Gutter Lane
-address:      London EC2V 6BR
-address:      United Kingdom of Great Britain and Northern Ireland (the)
-phone:        +44 20 33 88 0600
-fax-no:       +44 20 33 88 0601
-e-mail:       tld.ops@centralnic.com
+name:         Technical Administrator
+organisation: Radix Technologies Inc. SEZC
+address:      CO Services Cayman Limited, P.O. Box 10008, Willow House, Cricket Square, Grand Cayman
+address:      KY1-1001
+address:      Cayman Islands (the)
+phone:        +91 86578 58575
+e-mail:       tech@radix.email
 
-nserver:      A.NIC.ONLINE 194.169.218.54 2001:67c:13cc:0:0:0:1:54
-nserver:      B.NIC.ONLINE 185.24.64.54 2a04:2b00:13cc:0:0:0:1:54
-nserver:      E.NIC.ONLINE 212.18.248.54 2a04:2b00:13ee:0:0:0:0:54
-nserver:      F.NIC.ONLINE 212.18.249.54 2a04:2b00:13ff:0:0:0:0:54
-ds-rdata:     4267 8 2 66d7010609cb19e99ad1da2833ddab8ca2e7acc1ce870cc28d29e76eb53d39ba
+nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
+nserver:      NS01.TRS-DNS.NET 2620:57:4002:0:0:0:0:1 64.96.2.1
+nserver:      NS10.TRS-DNS.INFO 2620:171:812:1534:8:0:0:1 64.78.204.1
+nserver:      NS10.TRS-DNS.ORG 2620:171:813:1534:8:0:0:1 64.78.205.1
 ds-rdata:     19282 8 2 2706a216bd382a5823c746ce685cbc84ca12a9c227e47792abd990fa7885dbb0
+ds-rdata:     65176 8 2 a7ae5fd8bca808edb6906ad3bb9ab506326907f1c41fa8404453e8c843f266ee
 
 whois:        whois.nic.online
 
@@ -42,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: https://radix.website/
 
 created:      2015-03-06
-changed:      2024-03-20
+changed:      2026-02-23
 source:       IANA
 
