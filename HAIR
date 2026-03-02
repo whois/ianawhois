@@ -5,15 +5,15 @@
 domain:       HAIR
 
 organisation: XYZ.COM LLC
-address:      2121 E Tropicana Ave, Suite 2
-address:      Las Vegas NV 89119
+address:      4425 Spring Mountain Rd., Suite 2
+address:      Las Vegas NV 89102
 address:      United States of America (the)
 
 contact:      administrative
 name:         General Counsel
 organisation: XYZ.COM LLC
-address:      2121 E Tropicana Ave, Suite 2
-address:      Las Vegas NV 89119
+address:      4425 Spring Mountain Rd., Suite 2
+address:      Las Vegas NV 89102
 address:      United States of America (the)
 phone:        +1 702 757 6555
 e-mail:       hello@xyz.com
@@ -42,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.hair/
 
 created:      2016-09-16
-changed:      2024-03-11
+changed:      2025-08-12
 source:       IANA
 
