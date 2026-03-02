@@ -5,15 +5,15 @@
 domain:       THEATRE
 
 organisation: XYZ.COM LLC
-address:      2121 E Tropicana Ave, Suite 2
-address:      Las Vegas NV 89119
+address:      4425 Spring Mountain Rd., Suite 2
+address:      Las Vegas NV 89102
 address:      United States of America (the)
 
 contact:      administrative
 name:         General Counsel
 organisation: XYZ.COM LLC
-address:      2121 E Tropicana Ave, Suite 2
-address:      Las Vegas NV 89119
+address:      4425 Spring Mountain Rd., Suite 2
+address:      Las Vegas NV 89102
 address:      United States of America (the)
 phone:        +1.7027632191
 e-mail:       hello@xyz.com
@@ -42,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.theatre/
 
 created:      2015-08-13
-changed:      2024-04-15
+changed:      2025-08-12
 source:       IANA
 
