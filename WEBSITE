@@ -29,12 +29,12 @@ phone:        +44 20 33 88 0600
 fax-no:       +44 20 33 88 0601
 e-mail:       tld.ops@centralnic.com
 
-nserver:      A.NIC.WEBSITE 194.169.218.52 2001:67c:13cc:0:0:0:1:52
-nserver:      B.NIC.WEBSITE 185.24.64.52 2a04:2b00:13cc:0:0:0:1:52
-nserver:      E.NIC.WEBSITE 212.18.248.52 2a04:2b00:13ee:0:0:0:0:52
-nserver:      F.NIC.WEBSITE 212.18.249.52 2a04:2b00:13ff:0:0:0:0:52
-ds-rdata:     47815 8 2 cb5f31743f17c1c1641d7ecc4c7dc40217363645e7ac25c509393c6709d933a8
+nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
+nserver:      NS01.TRS-DNS.NET 2620:57:4002:0:0:0:0:1 64.96.2.1
+nserver:      NS10.TRS-DNS.INFO 2620:171:812:1534:8:0:0:1 64.78.204.1
+nserver:      NS10.TRS-DNS.ORG 2620:171:813:1534:8:0:0:1 64.78.205.1
 ds-rdata:     58591 8 2 bad631380e8e6f70cf21dec0d8d8abbe9df00cd2f0f9376a33535a3fa6ab26e6
+ds-rdata:     241 8 2 bb05372f77f6474787aea2d8bd477386af3b54cddd199ddae76a3fc00d1e7761
 
 whois:        whois.nic.website
 
@@ -42,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: https://radix.website/
 
 created:      2014-05-22
-changed:      2024-03-20
+changed:      2026-02-23
 source:       IANA
 
