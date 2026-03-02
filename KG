@@ -29,7 +29,7 @@ phone:        +996 312 964488
 fax-no:       +996 312 963434
 e-mail:       admin@cctld.kg
 
-nserver:      KG.CCTLD.AUTHDNS.RIPE.NET 193.0.9.84 2001:67c:e0:0:0:0:0:84
+nserver:      KG.CCTLD.AUTHDNS.RIPE.NET 193.0.9.84 2a13:27c0:30:0:0:0:0:84
 nserver:      NS.KG 195.38.160.36 2a11:a380:0:0:195:38:160:36
 nserver:      NS2.KG 195.38.160.38 2a11:a380:0:0:195:38:160:38
 ds-rdata:     45982 8 2 d642af8c9bb761e035ce77a48750bbaa64b41cfa0799d8d94498cfa335fa1380
@@ -40,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.cctld.kg/
 
 created:      1995-07-12
-changed:      2023-12-08
+changed:      2025-07-23
 source:       IANA
 
