@@ -4,57 +4,40 @@
 
 domain:       TO
 
-organisation: Government of the Kingdom of Tonga
-organisation: H.R.H. Crown Prince Tupouto'a
-organisation: c/o Consulate of Tonga
+organisation: Government of the Kingdom of Tonga, H.R.H. Crown Prince Tupouto'a, c/o Consulate of Tonga
 address:      1350 Bayshore Hwy
 address:      Suite 610
 address:      Burlingame CA 94010
 address:      United States of America (the)
 
 contact:      administrative
-name:         Eric Gullichsen
-organisation: Government of the Kingdom of Tonga
-organisation: H.R.H. Crown Prince Tupouto'a
-organisation: c/o Consulate of Tonga
-address:      1350 Bayshore Hwy
-address:      Suite 610
-address:      Burlingame CA 94010
-address:      United States of America (the)
-phone:        +1 415 462 3014
-fax-no:       +1 415 789 0522
-e-mail:       egullich@colo.to
+name:         Justin Kaitapu
+address:      Ma'ufanga
+address:      Nuku'alofa
+address:      Tonga
+phone:        +676 550 1000
+e-mail:       admin.contact@tonic.to
 
 contact:      technical
-name:         Eric Gullichsen
-organisation: Government of the Kingdom of Tonga
-organisation: H.R.H. Crown Prince Tupouto'a
-organisation: c/o Consulate of Tonga
-address:      1350 Bayshore Hwy
-address:      Suite 610
-address:      Burlingame CA 94010
-address:      United States of America (the)
-phone:        +1 415 462 3014
-fax-no:       +1 415 789 0522
-e-mail:       egullich@colo.to
+name:         Francisco Obispo
+organisation: Tucows.com
+address:      96 Mowat Avenue
+address:      Toronto ON M6K3M1
+address:      Canada
+phone:        +1.416.535.0123
+e-mail:       trs-ops@tucows.com
 
-nserver:      CD5.TONIC.TO 185.136.96.197
-nserver:      CD6.TONIC.TO 185.136.97.197
-nserver:      CD7.TONIC.TO 185.136.98.197
-nserver:      CD8.TONIC.TO 185.136.99.197
-nserver:      FRANKFURT.TONIC.TO 46.101.233.168
-nserver:      HELSINKI.TONIC.TO 95.216.159.42
-nserver:      NEWYORK.TONIC.TO 162.243.211.202
-nserver:      SINGAPORE.TONIC.TO 188.166.187.0
-nserver:      SYDNEY.TONIC.TO 104.156.232.193
-nserver:      TONIC.TO 149.28.204.240
+nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
+nserver:      NS01.TRS-DNS.NET 2620:57:4002:0:0:0:0:1 64.96.2.1
+nserver:      NS10.TRS-DNS.INFO 2620:171:812:1534:8:0:0:1 64.78.204.1
+nserver:      NS10.TRS-DNS.ORG 2620:171:813:1534:8:0:0:1 64.78.205.1
 
-whois:        whois.tonic.to
+whois:        whois.tonicregistry.to
 
 status:       ACTIVE
 remarks:      Registration information: http://www.tonic.to/
 
 created:      1995-12-18
-changed:      2023-08-16
+changed:      2026-01-07
 source:       IANA
 
