@@ -5,32 +5,27 @@
 domain:       KH
 
 organisation: Telecommunication Regulator of Cambodia (TRC)
-address:      Corner of Street 13 & 102
-address:      Sangkat Wat Phnom, Khan Daun Penh
+address:      Street 102, Wat Phnom, Daun Penh
 address:      Phnom Penh
 address:      Cambodia
 
 contact:      administrative
-name:         Mrs. Lim Yatal
+name:         Mr. Phoumen Bun
 organisation: TRC
-address:      Corner of Street 13 & 102
-address:      Sangkat Wat Phnom, Khan Daun Penh
+address:      Street 102, Wat Phnom, Daun Penh
 address:      Phnom Penh
 address:      Cambodia
 phone:        +855 23 722 333
-fax-no:       +855 23 723 222
-e-mail:       dns-admin@dns.net.kh
+e-mail:       khnic@trc.gov.kh
 
 contact:      technical
-name:         Mr. Chin Daro
-organisation: Telecom Cambodia (TC)
-address:      # 95-97, Preah Sihanouk Blvd
-address:      Sangkat Boeung Prolit, Khan 7 Makara
+name:         Mr. Pichponleur Pen
+organisation: TRC
+address:      Street 102, Wat Phnom, Daun Penh
 address:      Phnom Penh
 address:      Cambodia
-phone:        +855 16 842 890
-fax-no:       +855 23 721 406
-e-mail:       daro@camnet.com.kh
+phone:        +855 23 722 333
+e-mail:       khnic@trc.gov.kh
 
 nserver:      DNS1.ONLINE.COM.KH 203.189.128.1
 nserver:      NS.CAMNET.COM.KH 203.223.32.3
@@ -40,9 +35,9 @@ nserver:      NS4.APNIC.NET 2001:dd8:12:0:0:0:0:53 202.12.31.53
 whois:        
 
 status:       ACTIVE
-remarks:      Registration information: http://www.tc.com.kh
+remarks:      Registration information: http://www.trc.gov.kh
 
 created:      1996-02-20
-changed:      2019-05-28
+changed:      2026-02-26
 source:       IANA
 
