@@ -21,29 +21,29 @@ fax-no:       +1-206-946-7702
 e-mail:       arsi-rzm@amazon.com
 
 contact:      technical
-name:         IANA Contact
-organisation: GoDaddy Registry
-address:      100 S. Mill Ave, Suite 1600
-address:      Tempe AZ 85281
+name:         Howard Eland, Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
 address:      United States of America (the)
-phone:        +1 480 505 8800
-fax-no:       +1 480 624 2546
-e-mail:       iana@registry.godaddy
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
 
-nserver:      A.NIC.XN--GCKR3F0F 2001:dcd:1:0:0:0:0:10 37.209.192.10
-nserver:      B.NIC.XN--GCKR3F0F 2001:dcd:2:0:0:0:0:10 37.209.194.10
-nserver:      C.NIC.XN--GCKR3F0F 2001:dcd:3:0:0:0:0:10 37.209.196.10
-nserver:      NS1.DNS.NIC.XN--GCKR3F0F 156.154.169.69 2610:a1:1071:0:0:0:1:45
-nserver:      NS2.DNS.NIC.XN--GCKR3F0F 156.154.170.69 2610:a1:1072:0:0:0:1:45
-nserver:      NS3.DNS.NIC.XN--GCKR3F0F 156.154.171.69 2610:a1:1073:0:0:0:1:45
-ds-rdata:     20257 8 2 b43c572db9a2fcf853558b4439fae106547749d710b0f67528343f0274404543
+nserver:      V0N0.NIC.XN--GCKR3F0F 2a01:8840:4a:0:0:0:0:8 65.22.76.8
+nserver:      V0N1.NIC.XN--GCKR3F0F 2a01:8840:4b:0:0:0:0:8 65.22.77.8
+nserver:      V0N2.NIC.XN--GCKR3F0F 2a01:8840:4c:0:0:0:0:8 65.22.78.8
+nserver:      V0N3.NIC.XN--GCKR3F0F 161.232.38.8 2a01:8840:10c:0:0:0:0:8
+nserver:      V2N0.NIC.XN--GCKR3F0F 2a01:8840:4d:0:0:0:0:8 65.22.79.8
+nserver:      V2N1.NIC.XN--GCKR3F0F 161.232.39.8 2a01:8840:10d:0:0:0:0:8
+ds-rdata:     8299 8 2 ea53409a63f3c2e67887df475d35837ca4696aadd7a08523436c05960ac99eee
 
-whois:        
+whois:        whois.nic.xn--gckr3f0f
 
 status:       ACTIVE
-remarks:      Registration information: http://www.amazonregistry.com
+remarks:      Registration information: http://www.nic.xn--gckr3f0f
 
 created:      2016-01-29
-changed:      2024-05-11
+changed:      2025-06-17
 source:       IANA
 
