@@ -20,17 +20,17 @@ e-mail:       jeff@get.hiphop
 
 contact:      technical
 name:         Vice President, Engineering
-organisation: Tucows Inc
+organisation: Tucows.com, Co.
 address:      96 Mowat Avenue
 address:      Toronto ON M6K3M1
 address:      Canada
-phone:        +1.949.903.3449
+phone:        +1 (416) 535-0123
 e-mail:       trs-ops@tucows.com
 
 nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
-nserver:      NS01.TRS-DNS.INFO 185.159.198.3 2620:10a:80ab:0:0:0:0:3
-nserver:      NS01.TRS-DNS.NET 64.96.2.1
-nserver:      NS01.TRS-DNS.ORG 185.159.197.3 2620:10a:80aa:0:0:0:0:3
+nserver:      NS01.TRS-DNS.NET 2620:57:4002:0:0:0:0:1 64.96.2.1
+nserver:      NS10.TRS-DNS.INFO 2620:171:812:1534:8:0:0:1 64.78.204.1
+nserver:      NS10.TRS-DNS.ORG 2620:171:813:1534:8:0:0:1 64.78.205.1
 ds-rdata:     7668 13 2 de0bde4365798b5080d31d7a5a8e7182d4924938761bfd506af371ea5cb36ab0
 
 whois:        whois.nic.hiphop
@@ -39,6 +39,6 @@ status:       ACTIVE
 remarks:      Registration information: https://get.hiphop
 
 created:      2014-05-08
-changed:      2024-04-29
+changed:      2025-12-15
 source:       IANA
 
