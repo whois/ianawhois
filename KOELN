@@ -32,7 +32,7 @@ e-mail:       tech@dns.business
 nserver:      DNS.RYCE-RSP.COM 194.0.11.114 2001:678:e:114:0:0:0:53
 nserver:      NS1.DNS.BUSINESS 157.90.205.138 2a01:4f8:252:4295:0:0:9d5a:cd8a
 nserver:      NS1.RYCE-RSP.COM 193.56.204.111 2a0c:8f40:0:701:0:0:0:111
-ds-rdata:     48568 10 2 0d64b2d9b1a06897bb24383f1200bca0e4f4307aa18a9dfaac28163111f95b44
+ds-rdata:     38539 8 2 3d58791c3bccf61d15649d4d6a7b686b7cdf411dbe4af145ece40fed88ebcbcf
 
 whois:        whois.ryce-rsp.com
 
@@ -40,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.nic.koeln
 
 created:      2014-02-20
-changed:      2021-03-11
+changed:      2025-09-01
 source:       IANA
 
