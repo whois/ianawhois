@@ -21,29 +21,29 @@ fax-no:       +1 206 946 7702
 e-mail:       arsi-rzm@amazon.com
 
 contact:      technical
-name:         IANA Contact
-organisation: GoDaddy Registry
-address:      100 S. Mill Ave, Suite 1600
-address:      Tempe AZ 85281
+name:         Howard Eland, Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
 address:      United States of America (the)
-phone:        +1 480 505 8800
-fax-no:       +1 480 624 2546
-e-mail:       iana@registry.godaddy
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
 
-nserver:      A.NIC.XN--ECKVDTC9D 2001:dcd:1:0:0:0:0:10 37.209.192.10
-nserver:      B.NIC.XN--ECKVDTC9D 2001:dcd:2:0:0:0:0:10 37.209.194.10
-nserver:      C.NIC.XN--ECKVDTC9D 2001:dcd:3:0:0:0:0:10 37.209.196.10
-nserver:      NS1.DNS.NIC.XN--ECKVDTC9D 156.154.169.66 2610:a1:1071:0:0:0:1:42
-nserver:      NS2.DNS.NIC.XN--ECKVDTC9D 156.154.170.66 2610:a1:1072:0:0:0:1:42
-nserver:      NS3.DNS.NIC.XN--ECKVDTC9D 156.154.171.66 2610:a1:1073:0:0:0:1:42
-ds-rdata:     15400 8 2 02709ffcf8a245cdc4bb1d688f982898f244a65d798c574a5ec82749c918830b
+nserver:      V0N0.NIC.XN--ECKVDTC9D 2a01:8840:4a:0:0:0:0:6 65.22.76.6
+nserver:      V0N1.NIC.XN--ECKVDTC9D 2a01:8840:4b:0:0:0:0:6 65.22.77.6
+nserver:      V0N2.NIC.XN--ECKVDTC9D 2a01:8840:4c:0:0:0:0:6 65.22.78.6
+nserver:      V0N3.NIC.XN--ECKVDTC9D 161.232.38.6 2a01:8840:10c:0:0:0:0:6
+nserver:      V2N0.NIC.XN--ECKVDTC9D 2a01:8840:4d:0:0:0:0:6 65.22.79.6
+nserver:      V2N1.NIC.XN--ECKVDTC9D 161.232.39.6 2a01:8840:10d:0:0:0:0:6
+ds-rdata:     53936 8 2 b28c814ee8f6237ced8a3ba3d591b75f455258faec60828f7d01432a8e153eac
 
-whois:        
+whois:        whois.nic.xn--eckvdtc9d
 
 status:       ACTIVE
-remarks:      Registration information: http://www.amazonregistry.com
+remarks:      Registration information: http://www.nic.xn--eckvdtc9d
 
 created:      2015-11-25
-changed:      2024-05-11
+changed:      2025-06-17
 source:       IANA
 
