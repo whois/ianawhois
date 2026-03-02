@@ -32,8 +32,7 @@ nserver:      NS1.ASNIC.BIZ 213.248.219.254 2a01:618:403:0:0:0:0:254
 nserver:      NS2.ASNIC.INFO 103.49.83.254 2401:fd80:403:0:0:0:0:254
 nserver:      NS3.ASNIC.ORG 213.248.223.254 2a01:618:407:0:0:0:0:254
 nserver:      NS4.ASNIC.UK 2401:fd80:407:0:0:0:0:254 43.230.51.254
-nserver:      NS5.ASNIC.US 194.146.106.86 2001:67c:1010:22:0:0:0:53
-nserver:      PCH.NIC.AS 2001:500:14:6111:ad:0:0:1 204.61.216.111
+nserver:      NS5.ASNIC.US 23.128.97.53 2607:7c80:53:0:0:0:0:53
 
 whois:        whois.nic.as
 
@@ -41,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.as
 
 created:      1997-06-12
-changed:      2022-05-06
+changed:      2025-12-08
 source:       IANA
 
