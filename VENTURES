@@ -5,14 +5,14 @@
 domain:       VENTURES
 
 organisation: Binky Moon, LLC
-address:      c/o Identity Digital Limited
+address:      c/o Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 
 contact:      administrative
 name:         Vice President, Engineering
-organisation: Identity Digital Limited
+organisation: Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
@@ -23,6 +23,7 @@ e-mail:       tldadmin@identity.digital
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
 organisation: Identity Digital Limited
+address:      c/o Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
@@ -38,12 +39,12 @@ nserver:      V2N0.NIC.VENTURES 2a01:8840:1d:0:0:0:0:11 65.22.27.11
 nserver:      V2N1.NIC.VENTURES 161.232.13.11 2a01:8840:f7:0:0:0:0:11
 ds-rdata:     43132 8 2 5ad3e6b74a570bbd7ea2f84c87e6bfc6c305233383d14f29074f3e6e4a03a810
 
-whois:        whois.nic.ventures
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: https://www.identity.digital/
 
 created:      2013-10-31
-changed:      2023-09-12
+changed:      2025-10-07
 source:       IANA
 
