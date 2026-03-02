@@ -6,34 +6,28 @@ domain:       公司
 domain-ace:   XN--55QX5D
 
 organisation: China Internet Network Information Center (CNNIC)
-address:      Floor 1, Building 1, Software Park,
-address:      Chinese Academy of Sciences, 4 South 4th Street,
-address:      Zhongguancun
-address:      Beijing
+address:      Building 4, No.9 Beijing Auto Museum West Road, Fengtai District
+address:      Beijing 100070
 address:      China
 
 contact:      administrative
-name:         Yu Zeng
+name:         Yulin Liu
 organisation: China Internet Network Information Center (CNNIC)
-address:      Floor 1, Building 1, Software Park,
-address:      Chinese Academy of Sciences, 4 South 4th Street,
-address:      Zhongguancun
-address:      Beijing
+address:      Building 4, No.9 West Road , Automobile Museum, Fengtai District
+address:      Beijing 100070
 address:      China
-phone:        +86(0)10-58813686
-fax-no:       +86(0)10-58813632
+phone:        +8610-58813000
+fax-no:       +8610-59116190
 e-mail:       ng@cnnic.cn
 
 contact:      technical
 name:         Anlei Hu
 organisation: China Internet Network Information Center (CNNIC)
-address:      Floor 1, Building 1, Software Park,
-address:      Chinese Academy of Sciences, 4 South 4th Street,
-address:      Zhongguancun
-address:      Beijing
+address:      Building 4, No.9 West Road , Automobile Museum, Fengtai District
+address:      Beijing 100070
 address:      China
-phone:        +86(0)10-58813121
-fax-no:       +86(0)10-58812666
+phone:        +8610-59116801
+fax-no:       +8610-59116190
 e-mail:       ngtech@cnnic.cn
 
 nserver:      A.NGTLD.CN 125.208.40.1 2001:dc7:ffc1:0:0:0:0:1
@@ -41,7 +35,7 @@ nserver:      B.NGTLD.CN 125.208.41.1 2001:dc7:ffc2:0:0:0:0:1
 nserver:      C.NGTLD.CN 125.208.42.1 2001:dc7:ffc3:0:0:0:0:1
 nserver:      D.NGTLD.CN 125.208.43.1
 nserver:      E.NGTLD.CN 125.208.44.1
-ds-rdata:     47359 8 2 d8fe897ce8ac620cb7cb9f6f4e887fc7a14c3ed80cb973da4e30a17ceca1015b
+ds-rdata:     7354 8 2 f74d2888b4af5769011720a88a0f2235af7742ab15ae7badc3c8277c5dddaa5b
 
 whois:        whois.ngtld.cn
 
@@ -49,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.cnnic.cn
 
 created:      2014-01-09
-changed:      2023-10-03
+changed:      2025-07-17
 source:       IANA
 
