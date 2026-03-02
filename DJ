@@ -30,11 +30,9 @@ address:      Djibouti
 phone:        +253 21357710
 e-mail:       abdillahi.youssouf@djibtel.dj
 
-nserver:      BOW1.INTNET.DJ 197.241.17.130
 nserver:      NS1.DJIBTELECOM.DJ 197.241.17.175
 nserver:      NS2.DJIBTELECOM.DJ 196.201.196.54
 nserver:      NS3.DJIBTELECOM.DJ 52.213.131.190
-nserver:      VPS443605.OVH.NET 37.59.106.21
 
 whois:        
 
@@ -42,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.dj
 
 created:      1996-05-22
-changed:      2024-07-01
+changed:      2024-12-25
 source:       IANA
 
