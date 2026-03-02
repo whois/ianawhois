@@ -11,23 +11,23 @@ address:      Taipei City
 address:      Taiwan
 
 contact:      administrative
-name:         Vice CEO
+name:         Jofan Yu
 organisation: Taiwan Network Information Center (TWNIC)
-address:      4F-2, No. 9, Roosevelt Road, Section 2
-address:      Taipei City 100
+address:      3F., No. 123, Sec. 4, Bade Rd., Songshan Dist.
+address:      Taipei 105
 address:      Taiwan
-phone:        +886 2 2341 1313 ext. 126
-fax-no:       +886 2 2396 8832
+phone:        +886 2 2528 9696
+fax-no:       +886 2 2528 7756
 e-mail:       tw-admin@twnic.net
 
 contact:      technical
 name:         Director of Technical Department
 organisation: Taiwan Network Information Center (TWNIC)
-address:      4F-2, No. 9, Roosevelt Road, Section 2
-address:      Taipei City 100
+address:      3F., No. 123, Sec. 4, Bade Rd., Songshan Dist.
+address:      Taipei 105
 address:      Taiwan
-phone:        +886 2 2341 1313 ext. 500
-fax-no:       +886 2 2396 8832
+phone:        +886 2 2528 9696
+fax-no:       +886 2 2528 7756
 e-mail:       snw@twnic.net.tw
 
 nserver:      A.NIC.XN--MXTQ1M 2001:c08:175:128:0:0:175:128 202.169.175.130
@@ -42,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.netc.tw
 
 created:      2015-01-08
-changed:      2021-01-15
+changed:      2024-12-17
 source:       IANA
 
