@@ -37,6 +37,7 @@ nserver:      NS2.TELEINFOO.COM 103.61.61.1 2402:7d80:8888:0:0:0:0:1
 nserver:      NS3.TELEINFO.CN 103.61.62.1
 nserver:      NS4.TELEINFOO.COM 103.61.63.1
 ds-rdata:     27565 8 2 a00d06ba7171102d9575f47af108b70ff9e24ce0d2ed3ad8f8923f14bb58f217
+ds-rdata:     33427 8 2 c125fe3fc3d32cdac7709cd8b89732578a80ce3d5547b4dcce3c50217bd4864d
 
 whois:        whois.nic.xn--kput3i
 
@@ -44,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.rntd.cn
 
 created:      2014-06-05
-changed:      2023-01-19
+changed:      2025-04-25
 source:       IANA
 
