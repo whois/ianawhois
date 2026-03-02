@@ -32,7 +32,7 @@ nserver:      A.DNS.NIC.HAMBURG 194.0.25.21 2001:678:20:0:0:0:0:21
 nserver:      M.DNS.NIC.HAMBURG 194.0.26.10 2001:67c:10e0:0:0:0:0:10
 nserver:      N.DNS.NIC.HAMBURG 194.0.24.10 2001:678:24:0:0:0:0:10
 ds-rdata:     12136 8 2 8bdc8642f1c0275904aea61c126d9d5a5db25881a564348af218eb4165bef7c5
-ds-rdata:     39857 8 2 acadfbad24320a82cfad9dc5de24b5ef710fc0a9503f102596019b85ed1c74fa
+ds-rdata:     31894 8 2 0c985a6cbba65067171ebe40e4062058ef01bdd53a2d3321a0c52031755b1bbb
 
 whois:        whois.nic.hamburg
 
@@ -40,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.hamburg
 
 created:      2014-05-22
-changed:      2022-05-18
+changed:      2025-05-13
 source:       IANA
 
