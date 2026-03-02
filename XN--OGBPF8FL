@@ -5,9 +5,9 @@
 domain:       سورية
 domain-ace:   XN--OGBPF8FL
 
-organisation: National Agency for Network Services (NANS)
+organisation: National Authority for Information Technology Services (NAITS)
 address:      Sahara-Sabboura Crossroads
-address:      P.O. Box 47/Kudsaya
+address:      P.O. Box 60/Saboura
 address:      Damascus
 address:      Syrian Arab Republic (the)
 
@@ -35,7 +35,7 @@ e-mail:       dns@tld.sy
 
 nserver:      NS1.TLD.SY 82.137.200.85
 nserver:      PCH.ANYCAST.TLD.SY 2001:500:14:6071:ad:0:0:1 204.61.216.71
-nserver:      SY.CCTLD.AUTHDNS.RIPE.NET 193.0.9.113 2001:67c:e0:0:0:0:0:113
+nserver:      SY.CCTLD.AUTHDNS.RIPE.NET 193.0.9.113 2a13:27c0:30:0:0:0:0:113
 
 whois:        whois.tld.sy
 
@@ -43,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://tld.sy
 
 created:      2011-02-05
-changed:      2024-10-14
+changed:      2025-12-11
 source:       IANA
 
