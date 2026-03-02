@@ -17,7 +17,7 @@ address:      8 Funso Williams Avenue
 address:      Alaka Surulere
 address:      Lagos
 address:      Nigeria
-phone:        +234 8022912202
+phone:        +234 806 269 6840
 e-mail:       president@nira.org.ng
 
 contact:      technical
@@ -27,14 +27,15 @@ address:      8 Funso Williams Avenue
 address:      Alaka Surulere
 address:      Lagos
 address:      Nigeria
-phone:        +234 9094531463
-e-mail:       dnsadmin@nira.org.ng
+phone:        +234 803 348 0113
+e-mail:       tech_support@nira.org.ng
 
 nserver:      NS2.NIC.NET.NG 2001:500:14:6040:ad:0:0:1 204.61.216.40
 nserver:      NS3.NIC.NET.NG 185.38.108.108 2a00:fea0:dead:0:0:0:0:beef
 nserver:      NS4.NIC.NET.NG 185.28.194.194
 nserver:      NS5.NIC.NET.NG 196.216.168.41 2001:43f8:120:0:0:0:0:41
-nserver:      NSA.NIC.NET.NG 41.222.79.3
+nserver:      NSA.NIC.NET.NG 2c0f:f098:0:0:0:0:0:3 41.222.79.3
+ds-rdata:     45566 13 2 746cd3ccef614ad2a4b08f4e45ccd57dd935e37449e7c5df07f35ad7c88fc361
 
 whois:        whois.nic.net.ng
 
@@ -42,6 +43,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nira.org.ng/
 
 created:      1995-03-15
-changed:      2023-03-13
+changed:      2026-02-14
 source:       IANA
 
