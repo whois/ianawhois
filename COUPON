@@ -20,29 +20,29 @@ fax-no:       +1-206-946-7702
 e-mail:       arsi-rzm@amazon.com
 
 contact:      technical
-name:         IANA Contact
-organisation: GoDaddy Registry
-address:      100 S. Mill Ave, Suite 1600
-address:      Tempe AZ 85281
+name:         Howard Eland, Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
 address:      United States of America (the)
-phone:        +1 480 505 8800
-fax-no:       +1 480 624 2546
-e-mail:       iana@registry.godaddy
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
 
-nserver:      A.NIC.COUPON 2001:dcd:1:0:0:0:0:10 37.209.192.10
-nserver:      B.NIC.COUPON 2001:dcd:2:0:0:0:0:10 37.209.194.10
-nserver:      C.NIC.COUPON 2001:dcd:3:0:0:0:0:10 37.209.196.10
-nserver:      NS1.DNS.NIC.COUPON 156.154.144.217 2610:a1:1071:0:0:0:0:d9
-nserver:      NS2.DNS.NIC.COUPON 156.154.145.217 2610:a1:1072:0:0:0:0:d9
-nserver:      NS3.DNS.NIC.COUPON 156.154.159.217 2610:a1:1073:0:0:0:0:d9
-ds-rdata:     10297 8 2 215a8514706a344478d609f1f92e86c0934ba02ae9b7d965aac116e68df1afea
+nserver:      V0N0.NIC.COUPON 2a01:8840:4a:0:0:0:0:1 65.22.76.1
+nserver:      V0N1.NIC.COUPON 2a01:8840:4b:0:0:0:0:1 65.22.77.1
+nserver:      V0N2.NIC.COUPON 2a01:8840:4c:0:0:0:0:1 65.22.78.1
+nserver:      V0N3.NIC.COUPON 161.232.38.1 2a01:8840:10c:0:0:0:0:1
+nserver:      V2N0.NIC.COUPON 2a01:8840:4d:0:0:0:0:1 65.22.79.1
+nserver:      V2N1.NIC.COUPON 161.232.39.1 2a01:8840:10d:0:0:0:0:1
+ds-rdata:     32170 8 2 51e9fee8f549362f446e4e4541231f3261d3896c3004ce1afd66d058659f01a2
 
-whois:        
+whois:        whois.nic.coupon
 
 status:       ACTIVE
-remarks:      Registration information: http://www.amazonregistry.com
+remarks:      Registration information: http://www.nic.coupon
 
 created:      2016-01-29
-changed:      2024-05-11
+changed:      2025-06-17
 source:       IANA
 
