@@ -31,16 +31,16 @@ e-mail:       iana.tech@rusnames.ru
 
 nserver:      NS1.ANYCASTDNS.CZ 185.38.108.108 2a00:fea0:dead:0:0:0:0:beef
 nserver:      NS1.NIC.XN--P1ACF 2620:171:d01:dc:0:0:0:2 72.42.113.2
-nserver:      NS2.ANYCASTDNS.CZ 185.28.194.194
 nserver:      NS2.NIC.XN--P1ACF 2620:171:a01:ad:0:0:0:2 72.0.49.2
 ds-rdata:     11446 8 2 c39b9fb91b155ca7ff3f84bc7f7b7713e8d3b40ae9b7b0d9c3de0fdc36fa325c
+ds-rdata:     50380 8 2 575ac79f934055ecffb95e4485c9bf8eabd39f7ab379c14566a1550081343be6
 
-whois:        whois.nic.xn--p1acf
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: http://rusnames.ru/
 
 created:      2014-07-03
-changed:      2022-11-21
+changed:      2025-12-04
 source:       IANA
 
