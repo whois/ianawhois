@@ -38,13 +38,13 @@ nserver:      DNSC.EMDNS.UK 156.154.102.3 2610:a1:1009:0:0:0:0:3
 nserver:      DNSD.EMDNS.UK 156.154.103.3 2610:a1:1010:0:0:0:0:3
 ds-rdata:     5621 8 2 2ae99319e83d075eac0f4b572822e3685027038688b38ceb2c5445e09606f752
 
-whois:        whois.nic.desi
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information:
 remarks:      https://www.icann.org/resources/pages/ebero-2013-04-02-en
 
 created:      2014-03-06
-changed:      2024-07-12
+changed:      2025-01-30
 source:       IANA
 
