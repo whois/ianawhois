@@ -6,31 +6,29 @@ domain:       ලංකා
 domain-ace:   XN--FZC2C9E2C
 
 organisation: LK Domain Registry
-address:      c/o Computer Science and Engineering Department
-address:      University of Moratuwa
-address:      Moratuwa 10400
+address:      Bernards Business Park
+address:      106 Dutugemunu St.
+address:      Dehiwala 10350
 address:      Sri Lanka
 
 contact:      administrative
 name:         Prof. Gihan Dias
 organisation: LK Domain Registry
-address:      c/o Computer Science and Engineering Department
-address:      University of Moratuwa
-address:      Moratuwa 10400
+address:      Bernards Business Park
+address:      106 Dutugemunu St.
+address:      Dehiwala 10350
 address:      Sri Lanka
 phone:        +94 11 4216065
-fax-no:       +94 11 2650805
-e-mail:       gihan@cse.mrt.ac.lk
+e-mail:       gihan@domains.lk
 
 contact:      technical
 name:         Hostmaster
 organisation: LK Domain Registry
-address:      c/o Computer Science and Engineering Department
-address:      University of Moratuwa
-address:      Moratuwa 10400
+address:      Bernards Business Park
+address:      106 Dutugemunu St.
+address:      Dehiwala 10350
 address:      Sri Lanka
 phone:        +94 11 4216061
-fax-no:       +94 11 2650912
 e-mail:       hostmaster@domains.lk
 
 nserver:      LK.COMMUNITYDNS.NET 194.0.1.27
@@ -45,9 +43,9 @@ nserver:      NS3.AC.LK 202.124.166.178
 whois:        
 
 status:       ACTIVE
-remarks:      Registration information: http://www.nic.lk
+remarks:      Registration information: http://www.domains.lk
 
 created:      2010-08-19
-changed:      2023-03-07
+changed:      2025-04-23
 source:       IANA
 
