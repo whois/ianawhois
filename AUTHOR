@@ -40,12 +40,12 @@ nserver:      DNSC.NIC.AUTHOR 156.154.102.3 2610:a1:1009:0:0:0:0:3
 nserver:      DNSD.NIC.AUTHOR 156.154.103.3 2610:a1:1010:0:0:0:0:3
 ds-rdata:     4690 8 2 fc1aaa00c7d9798c3bbeed82b37aafba04ae15e97016e9a8b646ac5c37572da3
 
-whois:        whois.nic.author
+whois:        
 
 status:       ACTIVE
-remarks:      Registration information: https://www.amazonregistry.com
+remarks:      Registration information: http://www.nic.author
 
 created:      2015-11-12
-changed:      2024-02-01
+changed:      2025-02-14
 source:       IANA
 
