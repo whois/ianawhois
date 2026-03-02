@@ -40,12 +40,12 @@ nserver:      DNSC.NIC.CALL 156.154.102.3 2610:a1:1009:0:0:0:0:3
 nserver:      DNSD.NIC.CALL 156.154.103.3 2610:a1:1010:0:0:0:0:3
 ds-rdata:     58357 8 2 52a3a1c699dacb7d621a198268e5e76ab21931b19693d310595c504670e18c0e
 
-whois:        whois.nic.call
+whois:        
 
 status:       ACTIVE
-remarks:      Registration information: https://www.amazonregistry.com
+remarks:      Registration information: http://www.nic.call
 
 created:      2015-11-12
-changed:      2024-02-01
+changed:      2025-02-14
 source:       IANA
 
