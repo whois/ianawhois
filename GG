@@ -17,7 +17,7 @@ address:      Maison Postel
 address:      Ollivier St
 address:      Alderney GY9 3JZ
 address:      Guernsey
-phone:        +44 1481 521713
+phone:        +44 7781 426912
 e-mail:       hostmaster2016@iana-contact.gg
 
 contact:      technical
@@ -27,7 +27,7 @@ address:      Maison Postel
 address:      Ollivier St
 address:      Alderney GY9 3JZ
 address:      Guernsey
-phone:        +44 1481 521713
+phone:        +44 7781 426912
 e-mail:       hostmaster2016@iana-contact.gg
 
 nserver:      C.CI-SERVERS.ORG 194.146.106.86 2001:67c:1010:22:0:0:0:53
@@ -44,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.gg
 
 created:      1996-08-07
-changed:      2024-02-12
+changed:      2025-07-07
 source:       IANA
 
