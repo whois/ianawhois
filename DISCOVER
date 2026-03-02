@@ -16,32 +16,32 @@ address:      2500 Lake Cook Road
 address:      Riverwoods IL 60015
 address:      United States of America (the)
 phone:        +1 224 405 0640
-e-mail:       vikramjeetgill@discover.com
+e-mail:       ngtld-discover@cscglobal.com
 
 contact:      technical
-name:         IANA Contact
-organisation: GoDaddy Registry
-address:      100 S. Mill Ave, Suite 1600
-address:      Tempe AZ 85281
+name:         Howard Eland, Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
 address:      United States of America (the)
-phone:        +1 480 505 8800
-fax-no:       +1 480 624 2546
-e-mail:       iana@registry.godaddy
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
 
-nserver:      A.NIC.DISCOVER 2001:dcd:1:0:0:0:0:9 37.209.192.9
-nserver:      B.NIC.DISCOVER 2001:dcd:2:0:0:0:0:9 37.209.194.9
-nserver:      C.NIC.DISCOVER 2001:dcd:3:0:0:0:0:9 37.209.196.9
-nserver:      NS1.DNS.NIC.DISCOVER 156.154.144.48 2610:a1:1071:0:0:0:0:30
-nserver:      NS2.DNS.NIC.DISCOVER 156.154.145.48 2610:a1:1072:0:0:0:0:30
-nserver:      NS3.DNS.NIC.DISCOVER 156.154.159.48 2610:a1:1073:0:0:0:0:30
-ds-rdata:     4225 8 2 d90804dc84c5e0542f8da2011babd12624318d1992483525ec125125cd576553
+nserver:      V0N0.NIC.DISCOVER 2a01:8840:6a:0:0:0:0:30 65.22.108.30
+nserver:      V0N1.NIC.DISCOVER 2a01:8840:6b:0:0:0:0:30 65.22.109.30
+nserver:      V0N2.NIC.DISCOVER 2a01:8840:6c:0:0:0:0:30 65.22.110.30
+nserver:      V0N3.NIC.DISCOVER 161.232.32.30 2a01:8840:108:0:0:0:0:30
+nserver:      V2N0.NIC.DISCOVER 2a01:8840:6d:0:0:0:0:30 65.22.111.30
+nserver:      V2N1.NIC.DISCOVER 161.232.33.30 2a01:8840:109:0:0:0:0:30
+ds-rdata:     11395 8 2 47124d6ed5ec3c86d3c52d6b2a4e60471e84227e9b6d8c16a6f85723c9f5f072
 
-whois:        
+whois:        whois.nic.discover
 
 status:       ACTIVE
 remarks:      Registration information: https://www.discover.com/
 
 created:      2016-07-14
-changed:      2024-05-11
+changed:      2025-05-29
 source:       IANA
 
