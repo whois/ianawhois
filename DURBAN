@@ -32,8 +32,9 @@ phone:        +27115682800
 e-mail:       theo@dnservices.co.za
 
 nserver:      COZA1.DNSNODE.NET 194.146.106.74 2001:67c:1010:18:0:0:0:53
-nserver:      NSP.NETNOD.SE 194.58.198.33 2a01:3f1:3033:0:0:0:0:53
-ds-rdata:     48265 8 2 57603308e8a6d14065f069a08c050cde3ad0c769dd2bece4da5fcc9456bafb32
+nserver:      NS2.DNS.NET.ZA 196.29.59.175 2001:43f8:790:5901:0:0:c41d:3baf
+nserver:      NS4.DNS.NET.ZA 2a01:3f0:0:314:0:0:0:53 77.72.229.251
+ds-rdata:     62936 8 2 12f972c27bf0e22f2c4740bf8a4769d7113ed0beff1cf79c070af070203f81a1
 
 whois:        whois.nic.durban
 
@@ -41,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.registry.net.za
 
 created:      2014-06-05
-changed:      2022-05-16
+changed:      2025-08-05
 source:       IANA
 
