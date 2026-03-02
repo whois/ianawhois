@@ -20,29 +20,29 @@ fax-no:       +1-206-946-7702
 e-mail:       arsi-rzm@amazon.com
 
 contact:      technical
-name:         IANA Contact
-organisation: GoDaddy Registry
-address:      100 S. Mill Ave, Suite 1600
-address:      Tempe AZ 85281
+name:         Howard Eland, Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
 address:      United States of America (the)
-phone:        +1 480 505 8800
-fax-no:       +1 480 624 2546
-e-mail:       iana@registry.godaddy
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
 
-nserver:      A.NIC.SONG 2001:dcd:1:0:0:0:0:10 37.209.192.10
-nserver:      B.NIC.SONG 2001:dcd:2:0:0:0:0:10 37.209.194.10
-nserver:      C.NIC.SONG 2001:dcd:3:0:0:0:0:10 37.209.196.10
-nserver:      NS1.DNS.NIC.SONG 156.154.144.153 2610:a1:1071:0:0:0:0:99
-nserver:      NS2.DNS.NIC.SONG 156.154.145.153 2610:a1:1072:0:0:0:0:99
-nserver:      NS3.DNS.NIC.SONG 156.154.159.153 2610:a1:1073:0:0:0:0:99
-ds-rdata:     40012 8 2 9490b716f1dc3bf325e846595c3511f0dc8b3f5149a7664e53671256fda4c6fb
+nserver:      V0N0.NIC.SONG 2a01:8840:4a:0:0:0:0:2 65.22.76.2
+nserver:      V0N1.NIC.SONG 2a01:8840:4b:0:0:0:0:2 65.22.77.2
+nserver:      V0N2.NIC.SONG 2a01:8840:4c:0:0:0:0:2 65.22.78.2
+nserver:      V0N3.NIC.SONG 161.232.38.2 2a01:8840:10c:0:0:0:0:2
+nserver:      V2N0.NIC.SONG 2a01:8840:4d:0:0:0:0:2 65.22.79.2
+nserver:      V2N1.NIC.SONG 161.232.39.2 2a01:8840:10d:0:0:0:0:2
+ds-rdata:     54031 8 2 0595f0d68769e6bc795c21a8c96043f4b530593b76be48348797b157040bf72c
 
-whois:        
+whois:        whois.nic.song
 
 status:       ACTIVE
-remarks:      Registration information: http://www.amazonregistry.com
+remarks:      Registration information: http://www.nic.song
 
 created:      2016-01-29
-changed:      2024-05-11
+changed:      2025-06-17
 source:       IANA
 
