@@ -14,7 +14,7 @@ contact:      administrative
 name:         RNIDS Admin Contact
 organisation: Serbian National Internet Domain Registry (RNIDS)
 address:      Zorza Klemansoa 18a
-address:      Belgrade 11008
+address:      Belgrade 11108
 address:      Serbia
 phone:        +381 11 7281281
 fax-no:       +381 11 7281282
@@ -24,7 +24,7 @@ contact:      technical
 name:         RNIDS Tech Contact
 organisation: Serbian National Internet Domain Registry (RNIDS)
 address:      Zorza Klemansoa 18a
-address:      Belgrade 11008
+address:      Belgrade 11108
 address:      Serbia
 phone:        +381 11 7281281
 fax-no:       +381 11 7281282
@@ -32,8 +32,8 @@ e-mail:       tld-tech@rnids.rs
 
 nserver:      A.NIC.RS 2001:67c:69c:0:0:0:0:59 91.199.17.59
 nserver:      B.NIC.RS 195.178.32.2 2a00:e90:0:3:0:0:0:3
+nserver:      C.NIC.RS 2a0e:dbc0:2:0:0:0:0:81 45.142.220.81
 nserver:      F.NIC.RS 2001:500:14:6032:ad:0:0:1 204.61.216.32
-nserver:      G.NIC.RS 147.91.8.6
 nserver:      H.NIC.RS 2001:67c:69c:0:0:0:0:60 91.199.17.60
 nserver:      L.NIC.RS 194.146.106.114 2001:67c:1010:29:0:0:0:53
 ds-rdata:     64419 13 2 17faf8dac1408c3f80631695363f4a3b0a15023842563af5faf8850e3e632973
@@ -44,6 +44,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.rnids.rs/
 
 created:      2011-02-05
-changed:      2023-03-07
+changed:      2025-02-06
 source:       IANA
 
