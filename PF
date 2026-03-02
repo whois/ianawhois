@@ -29,6 +29,7 @@ phone:        +689 40463705
 fax-no:       +689 40487287
 e-mail:       support-technique@mana.pf
 
+nserver:      NS03.PF 103.254.227.99 2402:6d00:1000:0:0:0:0:5
 nserver:      NS1.MANA.PF 202.3.225.10
 nserver:      NS2.MANA.PF 202.3.225.20
 
@@ -38,6 +39,6 @@ status:       ACTIVE
 remarks:      Registration information: 
 
 created:      1996-03-19
-changed:      2020-10-27
+changed:      2025-10-03
 source:       IANA
 
