@@ -36,7 +36,8 @@ nserver:      IN1.NS.UA 2604:ee00:0:101:0:0:0:40 74.123.224.40
 nserver:      NN.NS.UA 194.58.197.4 2a01:3f1:c001:0:0:0:0:53
 nserver:      PCH.NS.UA 2001:500:14:6012:ad:0:0:1 204.61.216.12
 nserver:      RCZ.NS.UA 193.46.128.10 2a02:850:ffe0:0:0:0:0:10
-ds-rdata:     48349 13 2 d8456df0eab0db7d2422b4110722f5772d7b2f1fd41d487e956a54f1039d53c8
+ds-rdata:     51024 13 2 1bdca65b3ba927efb64909637c10adf90763ea7ab5d0ac1597c66cd6c6caeb6c
+ds-rdata:     51024 13 4 61195cabb323f940314d1bbec97f4eba54d2d7ba49aa244948c8c29844e43a42293ee100841009fbfe85f1ab7ceffacf
 
 whois:        whois.ua
 
@@ -44,6 +45,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.hostmaster.ua/
 
 created:      1992-12-01
-changed:      2024-03-28
+changed:      2024-11-30
 source:       IANA
 
