@@ -5,7 +5,7 @@
 domain:       PROMO
 
 organisation: Identity Digital Limited
-address:      c/o Identity Digital Limited
+address:      c/o Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
@@ -13,6 +13,7 @@ address:      United States of America (the)
 contact:      administrative
 name:         Vice President, Engineering
 organisation: Identity Digital Limited
+address:      c/o Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
@@ -23,6 +24,7 @@ e-mail:       tldadmin@identity.digital
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
 organisation: Identity Digital Limited
+address:      c/o Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
@@ -36,12 +38,12 @@ nserver:      B0.NIC.PROMO 2a01:8840:ef:0:0:0:0:9 65.22.245.9
 nserver:      C0.NIC.PROMO 2a01:8840:f0:0:0:0:0:9 65.22.246.9
 ds-rdata:     61459 8 2 583dcffeacf0cf25f52e5f4d356db7e3d3e4145992edc4e8b1fea3b5ad1868ca
 
-whois:        whois.nic.promo
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: https://www.identity.digital/
 
 created:      2015-12-18
-changed:      2023-09-01
+changed:      2025-09-04
 source:       IANA
 
