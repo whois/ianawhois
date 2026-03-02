@@ -4,20 +4,18 @@
 
 domain:       SKY
 
-organisation: Sky International AG
-address:      Dreikönigstrasse 31a
-address:      Stockerhof
-address:      Zurich CH-8002
-address:      Switzerland
+organisation: Sky UK Limited
+address:      Grant Way
+address:      Isleworth Middlesex TW7 5QD
+address:      United Kingdom of Great Britain and Northern Ireland (the)
 
 contact:      administrative
-name:         Head of Online Compliance Operations
-organisation: Sky International AG
-address:      Dreikönigstrasse 31a
-address:      Stockerhof
-address:      Zurich CH-8002
-address:      Switzerland
-phone:        +44 7713264238
+name:         Head of Domain Management
+organisation: Sky UK Limited
+address:      Grant Way
+address:      Isleworth Middlesex TW7 5QD
+address:      United Kingdom of Great Britain and Northern Ireland (the)
+phone:        +44 7889591127
 fax-no:       +44 2079007112
 e-mail:       skyregistry@sky.uk
 
@@ -42,12 +40,12 @@ nserver:      DNSC.NIC.SKY 156.154.102.3 2610:a1:1009:0:0:0:0:3
 nserver:      DNSD.NIC.SKY 156.154.103.3 2610:a1:1010:0:0:0:0:3
 ds-rdata:     27464 8 2 2c593b75decd94e47a5dbc8e20400dafa9f6adc46f5ee033de4f07bfd9a83904
 
-whois:        whois.nic.sky
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: http://nic.sky
 
 created:      2014-10-02
-changed:      2023-06-08
+changed:      2025-02-03
 source:       IANA
 
