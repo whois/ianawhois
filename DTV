@@ -20,21 +20,19 @@ fax-no:       +1.303.723.1699
 e-mail:       ngtld-dtv@cscglobal.com
 
 contact:      technical
-name:         Senior Director, DNS Infrastructure Group
-organisation: Afilias
-address:      300 Welsh Road
-address:      Building 3, Suite 105
-address:      Horsham PA 19044
-address:      United States of America (the)
-phone:        +1 215.706.5700
-fax-no:       +1 215.706.5701
-e-mail:       tld-tech-poc@afilias.info
+name:         Francisco Obispo
+organisation: Tucows.com, Co.
+address:      96 Mowat Avenue
+address:      Toronto Ontario M6K3M1
+address:      Canada
+phone:        +1 (416) 535-0123
+e-mail:       trs-ops@tucows.com
 
-nserver:      A0.NIC.DTV 2a01:8840:de:0:0:0:0:1 65.22.228.1
-nserver:      A2.NIC.DTV 2a01:8840:e1:0:0:0:0:1 65.22.231.1
-nserver:      B0.NIC.DTV 2a01:8840:df:0:0:0:0:1 65.22.229.1
-nserver:      C0.NIC.DTV 2a01:8840:e0:0:0:0:0:1 65.22.230.1
-ds-rdata:     51301 8 2 eb39cb7d7771f169881c4b9ece63e510c949949741d56988d8bb9cce24eb3479
+nserver:      NS01.TRS-DNS.COM 2620:57:4001:0:0:0:0:1 64.96.1.1
+nserver:      NS01.TRS-DNS.NET 2620:57:4002:0:0:0:0:1 64.96.2.1
+nserver:      NS10.TRS-DNS.INFO 2620:171:812:1534:8:0:0:1 64.78.204.1
+nserver:      NS10.TRS-DNS.ORG 2620:171:813:1534:8:0:0:1 64.78.205.1
+ds-rdata:     17516 13 2 724b9539bb438938a5df6194c1c8a0209da81659832290175a506c07dd6757a0
 
 whois:        whois.nic.dtv
 
@@ -42,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.dish.com
 
 created:      2016-05-19
-changed:      2023-08-11
+changed:      2025-12-12
 source:       IANA
 
