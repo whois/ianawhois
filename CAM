@@ -4,16 +4,16 @@
 
 domain:       CAM
 
-organisation: CAM Connecting SARL
-address:      32 Rue de Remparts
-address:      Monaco 98109
+organisation: CAM Connecting SarL
+address:      3 ruelle de la Fonderie
+address:      Monaco 98000
 address:      Monaco
 
 contact:      administrative
 name:         CTO
 organisation: CAM Connecting SARL
-address:      32 Rue de Remparts
-address:      Monaco 98109
+address:      3 ruelle de la Fonderie
+address:      Monaco 98000
 address:      Monaco
 phone:        +37799907255
 e-mail:       info@nic.cam
@@ -42,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.cam/
 
 created:      2016-06-09
-changed:      2024-04-30
+changed:      2026-01-13
 source:       IANA
 
