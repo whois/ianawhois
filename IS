@@ -4,19 +4,19 @@
 
 domain:       IS
 
-organisation: ISNIC - Internet Iceland ltd.
+organisation: ISNIC - Internet á Íslandi hf.
 address:      Katrínartún 2
 address:      Reykjavik 105
 address:      Iceland
 
 contact:      administrative
-name:         Jens Pétur Jensen
+name:         ISNIC Board
 organisation: ISNIC - Internet á Íslandi hf.
 address:      Katrínartún 2
 address:      Reykjavík 105
 address:      Iceland
 phone:        +354 578 2030
-e-mail:       jens@isnic.is
+e-mail:       iana-contact@isnic.is
 
 contact:      technical
 name:         ISNIC Hostmaster
@@ -28,12 +28,11 @@ phone:        +354 578 2030
 e-mail:       iana-contact@isnic.is
 
 nserver:      A.NIC.IS 185.93.156.10 2001:67c:6c:56:0:0:0:10
-nserver:      B.NIC.IS 185.93.156.154 2001:67c:6c:f056:0:0:0:154
 nserver:      C.NIC.IS 2001:500:14:6116:ad:0:0:1 204.61.216.116
 nserver:      D.NIC.IS 194.146.106.58 2001:67c:1010:14:0:0:0:53
 nserver:      E.NIC.IS 194.0.25.41 2001:678:20:0:0:0:0:41
-nserver:      SUNIC.SUNET.SE 192.36.125.2 2001:6b0:7:0:0:0:0:2
-ds-rdata:     17566 8 2 d53c92eab2840fdea346dbc99900c032f47763762e10e95ce6b0a895ddcb6b4e
+nserver:      F.NIC.IS 185.93.157.22 2001:67c:6c:1000:0:0:0:22
+ds-rdata:     46824 13 2 4a7ccf6f00d17b918a24a12e6e4f114899e423ea4abb9cf7519be81fa226e79b
 
 whois:        whois.isnic.is
 
@@ -41,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: https://www.isnic.is/
 
 created:      1987-11-18
-changed:      2024-11-20
+changed:      2026-02-18
 source:       IANA
 
