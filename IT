@@ -28,19 +28,19 @@ phone:        +39 050 315 2087
 e-mail:       maurizio.martinelli@iit.cnr.it
 
 nserver:      A.DNS.IT 194.0.16.215 2001:678:12:0:194:0:16:215
-nserver:      D.DNS.IT 2a0e:dbc0:0:0:0:0:0:39 45.142.220.39
 nserver:      DNS.NIC.IT 192.12.192.5 2a00:d40:1:1:0:0:0:5
 nserver:      M.DNS.IT 2001:1ac0:0:200:0:a5d1:6004:2 217.29.76.4
 nserver:      NAMESERVER.CNR.IT 194.119.192.34 2a00:1620:c0:220:194:119:192:34
 nserver:      R.DNS.IT 193.206.141.46 2001:760:ffff:ffff:0:0:0:ca
-ds-rdata:     41901 10 2 47f7f7ba21e48591f6172eed13e35b66b93ad9f2880fc9bada64f68ce28ebb90
+nserver:      V.DNS.IT 194.0.25.44 2001:678:20:0:0:0:0:44
+ds-rdata:     51765 13 2 70a144e792f06e6b363bbfd66b6efb6a45668810caae4a0eda7d18d6529a9c6e
 
 whois:        whois.nic.it
 
 status:       ACTIVE
-remarks:      Registration information: http://www.nic.it/
+remarks:      Registration information: https://www.nic.it/
 
 created:      1987-12-23
-changed:      2024-11-06
+changed:      2025-12-17
 source:       IANA
 
