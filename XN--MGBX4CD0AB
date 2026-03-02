@@ -12,7 +12,7 @@ address:      Cyberjaya Selangor Darul Ehsan 63000
 address:      Malaysia
 
 contact:      administrative
-name:         Datuk Ts. Hasnul Fadhly Hasan
+name:         Chief Executive Officer
 organisation: MYNIC Berhad
 address:      Level 3, Tower 2, Menara Cyber Axis
 address:      Jalan Impact
@@ -23,7 +23,7 @@ fax-no:       +603 8008 2020
 e-mail:       dnsadmin@mynic.my
 
 contact:      technical
-name:         Datuk Ts. Hasnul Fadhly Hasan
+name:         Chief Executive Officer
 organisation: MYNIC Berhad
 address:      Level 3, Tower 2, Menara Cyber Axis
 address:      Jalan Impact
@@ -35,13 +35,10 @@ e-mail:       dnsadmin@mynic.my
 
 nserver:      A.MYNIC.CENTRALNIC-DNS.COM 194.169.218.114 2001:67c:13cc:0:0:0:1:114
 nserver:      A.NIC.MY 103.44.108.53 2001:ddc:0:53:0:0:0:53
-nserver:      A1.NIC.MY 202.171.47.204
 nserver:      B.MYNIC.CENTRALNIC-DNS.COM 185.24.64.114 2a04:2b00:13cc:0:0:0:1:114
 nserver:      C.MYNIC.CENTRALNIC-DNS.COM 212.18.248.114 2a04:2b00:13ee:0:0:0:0:114
 nserver:      D.MYNIC.CENTRALNIC-DNS.COM 212.18.249.114 2a04:2b00:13ff:0:0:0:0:114
-ds-rdata:     15654 8 2 e7e6d7d1bba6e0443ebe51946759fdcb9e370ba14f95b61091b9b989b1a90340
-ds-rdata:     37866 8 2 9818ec191cfce9ef77e5e458bcf471d5afcfa30d40f9a62bdd69a1863187247c
-ds-rdata:     1998 8 2 de4c45d877c64e9c3ebcbc79badbc104d7c5292d72bc6ca47090b31be24212e0
+ds-rdata:     15766 13 2 e1b9df06c9b2e9f67aa4f7afe4a20d0cc055abbae1ae5c72e967f2f11d417b71
 
 whois:        whois.mynic.my
 
@@ -49,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.mynic.my
 
 created:      2011-10-22
-changed:      2023-03-07
+changed:      2026-02-12
 source:       IANA
 
