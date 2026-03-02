@@ -31,13 +31,13 @@ address:      China
 phone:        +86.15011380586
 e-mail:       gaolei@zdns.cn
 
-nserver:      A.ZDNSCLOUD.COM 203.99.24.1
-nserver:      B.ZDNSCLOUD.COM 203.99.25.1
+nserver:      A.ZDNSCLOUD.CN 203.99.24.1
+nserver:      B.ZDNSCLOUD.CN 203.99.25.1
 nserver:      C.ZDNSCLOUD.COM 203.99.26.1
 nserver:      D.ZDNSCLOUD.COM 203.99.27.1
-nserver:      F.ZDNSCLOUD.COM 116.169.54.111
+nserver:      F.ZDNSCLOUD.CN 116.169.54.111
 nserver:      G.ZDNSCLOUD.COM 223.72.199.37
-nserver:      I.ZDNSCLOUD.COM 2401:8d00:1:0:0:0:0:1
+nserver:      I.ZDNSCLOUD.CN 2401:8d00:1:0:0:0:0:1
 nserver:      J.ZDNSCLOUD.COM 2401:8d00:2:0:0:0:0:1
 ds-rdata:     23825 8 2 7daede4b986a05b32cd3698ce14d0a0866d12a2ab955b8dc3659d25d7ad65cbe
 
@@ -47,6 +47,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.zdns.cn
 
 created:      2015-12-17
-changed:      2024-11-13
+changed:      2024-12-12
 source:       IANA
 
