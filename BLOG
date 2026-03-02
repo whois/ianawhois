@@ -19,22 +19,20 @@ phone:        +1.8772733049
 e-mail:       welcome@my.blog
 
 contact:      technical
-name:         CTO
-organisation: CentralNic
-address:      Saddlers House, 4th Floor
-address:      44 Gutter Lane
-address:      London EC2V 6BR
-address:      United Kingdom of Great Britain and Northern Ireland (the)
-phone:        +44 20 33 88 0600
-fax-no:       +44 20 33 88 0601
-e-mail:       tld.ops@centralnic.com
+name:         Fury Registry Services
+organisation: Canadian Internet Registration Authority (CIRA)
+address:      979 Bank Street, Suite 400
+address:      Ottawa Ontario K1S 5K5
+address:      Canada
+phone:        +1-613-237-5335
+fax-no:       +1-613-237-0534
+e-mail:       support@fury.ca
 
-nserver:      A.NIC.BLOG 194.169.218.94 2001:67c:13cc:0:0:0:1:94
-nserver:      B.NIC.BLOG 185.24.64.94 2a04:2b00:13cc:0:0:0:1:94
-nserver:      C.NIC.BLOG 212.18.248.94 2a04:2b00:13ee:0:0:0:0:94
-nserver:      D.NIC.BLOG 212.18.249.94 2a04:2b00:13ff:0:0:0:0:94
-ds-rdata:     16976 8 2 9862de44e1e7e44215165000c4b87bd3f46d439c686166da0ca79e06896958b7
-ds-rdata:     17455 8 2 c0d6cd12fcb746bb819df417dfa43ed0d4227bd62195f749537af85a939d2a21
+nserver:      A.NS.NIC.BLOG 185.159.197.9 2620:10a:80aa:0:0:0:0:9
+nserver:      B.NS.NIC.BLOG 185.159.198.9 2620:10a:80ab:0:0:0:0:9
+nserver:      C.NS.NIC.BLOG 2a0e:dbc0:0:0:0:0:0:101 45.142.220.101
+nserver:      D.NS.NIC.BLOG 185.159.199.9 2620:10a:80ac:0:0:0:0:9
+ds-rdata:     6766 8 2 65581cc0c38868bb708cb1c981f61b8d332c201a9a25b71dcb91ae9959443c32
 
 whois:        whois.nic.blog
 
@@ -42,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.blog
 
 created:      2016-05-12
-changed:      2023-11-09
+changed:      2025-05-28
 source:       IANA
 
