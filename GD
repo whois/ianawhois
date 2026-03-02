@@ -10,14 +10,13 @@ address:      St George's
 address:      Grenada
 
 contact:      administrative
-name:         Dr. Spencer Thomas
+name:         Mr. Vincent Roberts
 organisation: The National Telecommunications Regulatory Commission (NTRC)
 address:      P.O. Box 854
 address:      St. George's
 address:      Grenada
 phone:        +1 473 435 6872
-fax-no:       +1 473 435 2132
-e-mail:       sthomas@ectel.int
+e-mail:       vroberts@ntrc.gd
 
 contact:      technical
 name:         CTO
@@ -35,6 +34,7 @@ nserver:      B.NIC.GD 185.24.64.88 2a04:2b00:13cc:0:0:0:1:88
 nserver:      C.NIC.GD 212.18.248.88 2a04:2b00:13ee:0:0:0:0:88
 nserver:      D.NIC.GD 212.18.249.88 2a04:2b00:13ff:0:0:0:0:88
 ds-rdata:     51039 7 2 bf36a1ec5d2998566123de660bbd857d1d25231729873e5f5399a641c1cec13f
+ds-rdata:     29368 7 2 8da3c63ce3495057f49fa905a0b138aeb9e42ffbe62336863ec52d069ecc20b4
 
 whois:        whois.nic.gd
 
@@ -42,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://nic.gd
 
 created:      1992-06-03
-changed:      2021-10-20
+changed:      2025-04-07
 source:       IANA
 
