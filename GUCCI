@@ -41,12 +41,12 @@ nserver:      DNSC.NIC.GUCCI 156.154.102.3 2610:a1:1009:0:0:0:0:3
 nserver:      DNSD.NIC.GUCCI 156.154.103.3 2610:a1:1010:0:0:0:0:3
 ds-rdata:     54892 8 2 e13f3a9ada4c86b25c68f8258d9922e8201fae2845d6300298555856a2e1c938
 
-whois:        whois.nic.gucci
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: http://www.gucci.com
 
 created:      2015-03-06
-changed:      2021-11-09
+changed:      2025-01-28
 source:       IANA
 
