@@ -5,14 +5,14 @@
 domain:       GURU
 
 organisation: Binky Moon, LLC
-address:      c/o Identity Digital Limited
+address:      c/o Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 
 contact:      administrative
 name:         Vice President, Engineering
-organisation: Identity Digital Limited
+organisation: Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
@@ -23,6 +23,7 @@ e-mail:       tldadmin@identity.digital
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
 organisation: Identity Digital Limited
+address:      c/o Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
@@ -38,12 +39,12 @@ nserver:      V2N0.NIC.GURU 2a01:8840:21:0:0:0:0:36 65.22.31.36
 nserver:      V2N1.NIC.GURU 161.232.15.36 2a01:8840:f9:0:0:0:0:36
 ds-rdata:     35665 8 2 3cc5e1cd14a0f2ded6856c1ec88785a7b9b36d6381263dabfa1ac1646848ce82
 
-whois:        whois.nic.guru
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: https://www.identity.digital/
 
 created:      2013-10-31
-changed:      2023-09-12
+changed:      2025-10-07
 source:       IANA
 
