@@ -41,12 +41,12 @@ nserver:      DNSC.NIC.BROADWAY 156.154.102.3 2610:a1:1009:0:0:0:0:3
 nserver:      DNSD.NIC.BROADWAY 156.154.103.3 2610:a1:1010:0:0:0:0:3
 ds-rdata:     47576 8 2 ccc4ce45aacb1c0ecd8181d968b86beff3b34d1a71576f137ca43529ff8f12bb
 
-whois:        whois.nic.broadway
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: http://nic.broadway
 
 created:      2015-10-08
-changed:      2024-01-16
+changed:      2025-05-28
 source:       IANA
 
