@@ -40,12 +40,12 @@ nserver:      DNSC.NIC.ABBVIE 156.154.102.3 2610:a1:1009:0:0:0:0:3
 nserver:      DNSD.NIC.ABBVIE 156.154.103.3 2610:a1:1010:0:0:0:0:3
 ds-rdata:     56720 8 2 11e4530f78b2c9cb2455d04dfa886a61c3f23e1887e53245b7950fff03ad8b2b
 
-whois:        whois.nic.abbvie
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: http://www.abbvie.com
 
 created:      2016-02-26
-changed:      2021-11-09
+changed:      2025-01-28
 source:       IANA
 
