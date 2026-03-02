@@ -5,14 +5,14 @@
 domain:       KITCHEN
 
 organisation: Binky Moon, LLC
-address:      c/o Identity Digital Limited
+address:      c/o Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 
 contact:      administrative
 name:         Vice President, Engineering
-organisation: Identity Digital Limited
+organisation: Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
@@ -23,6 +23,7 @@ e-mail:       tldadmin@identity.digital
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
 organisation: Identity Digital Limited
+address:      c/o Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
@@ -38,12 +39,12 @@ nserver:      V2N0.NIC.KITCHEN 2a01:8840:25:0:0:0:0:17 65.22.35.17
 nserver:      V2N1.NIC.KITCHEN 161.232.17.17 2a01:8840:fb:0:0:0:0:17
 ds-rdata:     47935 8 2 7f36f037e4bd2b909479811f3b3ad76c00db04f1f7f6476d00483d653b744ca4
 
-whois:        whois.nic.kitchen
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: https://www.identity.digital/
 
 created:      2013-11-13
-changed:      2023-09-13
+changed:      2025-10-07
 source:       IANA
 
