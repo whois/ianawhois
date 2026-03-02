@@ -5,7 +5,7 @@
 domain:       LOTTO
 
 organisation: Identity Digital Limited
-address:      c/o Identity Digital Limited
+address:      c/o Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
@@ -13,6 +13,7 @@ address:      United States of America (the)
 contact:      administrative
 name:         Vice President, Engineering
 organisation: Identity Digital Limited
+address:      c/o Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
@@ -23,6 +24,7 @@ e-mail:       tldadmin@identity.digital
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
 organisation: Identity Digital Limited
+address:      c/o Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
@@ -36,12 +38,12 @@ nserver:      B0.NIC.LOTTO 2a01:8840:1f:0:0:0:0:25 65.22.29.25
 nserver:      C0.NIC.LOTTO 2a01:8840:20:0:0:0:0:25 65.22.30.25
 ds-rdata:     45466 8 2 6ffe76934a3634a61f99fad76fa0506a7682c5541452cf7b289f348fedd124bf
 
-whois:        whois.nic.lotto
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: https://www.identity.digital/
 
 created:      2014-06-05
-changed:      2023-09-01
+changed:      2025-09-04
 source:       IANA
 
