@@ -11,8 +11,9 @@ address:      Bellevue WA 98004
 address:      United States of America (the)
 
 contact:      administrative
-name:         SVice President, Engineering
-organisation: Identity Digital Inc.
+name:         Vice President, Engineering
+organisation: Identity Digital Limited
+address:      c/o Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
@@ -22,7 +23,8 @@ e-mail:       tldadmin@identity.digital
 
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
-organisation: Identity Digital Inc.
+organisation: Identity Digital Limited
+address:      c/o Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
@@ -36,12 +38,12 @@ nserver:      B0.NIC.GLOBAL 2a01:8840:4f:0:0:0:0:1 65.22.81.1
 nserver:      C0.NIC.GLOBAL 2a01:8840:50:0:0:0:0:1 65.22.82.1
 ds-rdata:     13060 8 2 5dd90e21ba23d0192e7f7148f56f7c20fe52b02074ac4baf8e611f1e6c7b878b
 
-whois:        whois.nic.global
+whois:        
 
 status:       ACTIVE
-remarks:      Registration information: https://donuts.domains/
+remarks:      Registration information: https://identity.digital/
 
 created:      2014-05-29
-changed:      2024-04-10
+changed:      2025-08-08
 source:       IANA
 
