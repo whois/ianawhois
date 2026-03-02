@@ -40,12 +40,12 @@ nserver:      DNSC.NIC.AWS 156.154.102.3 2610:a1:1009:0:0:0:0:3
 nserver:      DNSD.NIC.AWS 156.154.103.3 2610:a1:1010:0:0:0:0:3
 ds-rdata:     54182 8 2 76f2c3fbb9f23ff5f59a4cd63b8d5d5174b3f2e0f034b7323c1543312f37301d
 
-whois:        whois.nic.aws
+whois:        
 
 status:       ACTIVE
-remarks:      Registration information: https://www.amazonregistry.com
+remarks:      Registration information: http://www.nic.aws
 
 created:      2016-03-18
-changed:      2021-11-20
+changed:      2025-02-07
 source:       IANA
 
