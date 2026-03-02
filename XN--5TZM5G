@@ -23,15 +23,14 @@ fax-no:       +852 2244 7902
 e-mail:       globalwebsiteasia@namesphere.asia
 
 contact:      technical
-name:         Senior Director, DNS Infrastructure Group
-organisation: Afilias Limited
-address:      c/o Donuts Inc.
+name:         Howard Eland, Senior Director, DNS Infrastructure Group
+organisation: Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 phone:        +1.425.298.2200
 fax-no:       +1.425.671.0020
-e-mail:       tldtech@donuts.email
+e-mail:       tldtech@identity.digital
 
 nserver:      A0.NIC.XN--5TZM5G 2a01:8840:12:0:0:0:0:9 65.22.16.9
 nserver:      A2.NIC.XN--5TZM5G 2a01:8840:15:0:0:0:0:9 65.22.19.9
@@ -42,9 +41,9 @@ ds-rdata:     26359 8 2 7d1e023bbb026ac5d19ae62d5f13ee6e01f3450a1e6629e25a9205dc
 whois:        whois.nic.xn--5tzm5g
 
 status:       ACTIVE
-remarks:      Registration information: https://donuts.domains/
+remarks:      Registration information: https://www.identity.digital/
 
 created:      2015-12-04
-changed:      2023-01-18
+changed:      2025-01-20
 source:       IANA
 
