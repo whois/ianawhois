@@ -5,14 +5,14 @@
 domain:       TRAVEL
 
 organisation: Dog Beach, LLC
-address:      c/o Identity Digital Limited
+address:      c/o Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 
 contact:      administrative
 name:         Vice President, Engineering
-organisation: Identity Digital Limited
+organisation: Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
@@ -23,6 +23,7 @@ e-mail:       tldadmin@identity.digital
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
 organisation: Identity Digital Limited
+address:      c/o Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
@@ -38,12 +39,12 @@ nserver:      V2N0.NIC.TRAVEL 2a01:8840:21:0:0:0:0:8 65.22.31.8
 nserver:      V2N1.NIC.TRAVEL 161.232.15.8 2a01:8840:f9:0:0:0:0:8
 ds-rdata:     60277 8 2 df8590752dcf2cc075f91d5a6178c38a7ba1dbbc0c2327b88ca37be4797be126
 
-whois:        whois.nic.travel
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: https://www.identity.digital/
 
 created:      2005-07-27
-changed:      2023-09-12
+changed:      2025-10-07
 source:       IANA
 
