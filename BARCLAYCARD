@@ -5,29 +5,29 @@
 domain:       BARCLAYCARD
 
 organisation: Barclays Bank PLC
-address:      BTCR (Radbroke Hall)
-address:      Knutsford Cheshire WA16 9EU
+address:      1 Churchill Place
+address:      London E14 5HP
 address:      United Kingdom of Great Britain and Northern Ireland (the)
 
 contact:      administrative
-name:         Simon Edlington
+name:         IP LEGAL
 organisation: Barclays Bank PLC
-address:      BTCR (Radbroke Hall)
-address:      Knutsford Cheshire WA16 9EU
+address:      1 Churchill Place
+address:      London E14 5HP
 address:      United Kingdom of Great Britain and Northern Ireland (the)
-phone:        +44 7825 023892
-fax-no:       +44 2071 167663
+phone:        +44 2070159370
+fax-no:       +44 1452638454
 e-mail:       ngtld-barclays@cscglobal.com
 
 contact:      technical
-name:         Senior Director, DNS Infrastructure Group
+name:         Howard Eland, Senior Director, DNS Infrastructure Group
 organisation: Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 phone:        +1 425 298 2200
 fax-no:       +1 425 671 0020
-e-mail:       tldtech@donuts.email
+e-mail:       tldtech@identity.digital
 
 nserver:      A0.NIC.BARCLAYCARD 2a01:8840:76:0:0:0:0:9 65.22.120.9
 nserver:      A2.NIC.BARCLAYCARD 2a01:8840:79:0:0:0:0:9 65.22.123.9
@@ -41,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.barclaycard.com/
 
 created:      2015-01-08
-changed:      2023-08-11
+changed:      2025-04-15
 source:       IANA
 
