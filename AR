@@ -28,7 +28,6 @@ phone:        +54 11 5238 1350
 e-mail:       contacto_dgsi@nic.ar
 
 nserver:      A.LACTLD.ORG 200.0.68.10 2801:14:a000:0:0:0:0:10
-nserver:      AR.CCTLD.AUTHDNS.RIPE.NET 193.0.9.59 2001:67c:e0:0:0:0:0:59
 nserver:      C.DNS.AR 200.108.148.50 2801:140:10:0:0:0:0:10
 nserver:      D.DNS.AR 192.140.126.50 2801:140:dddd:0:0:0:0:50
 nserver:      E.DNS.AR 170.238.66.50 2801:140:eeee:0:0:0:0:50
@@ -41,6 +40,6 @@ status:       ACTIVE
 remarks:      Registration information: https://nic.ar
 
 created:      1987-09-23
-changed:      2024-04-18
+changed:      2025-04-17
 source:       IANA
 
