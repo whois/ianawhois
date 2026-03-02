@@ -21,14 +21,14 @@ e-mail:       registry.iana@ibb.gov.tr
 
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
-organisation: Afilias
-address:      300 Welsh Road
-address:      Building 3, Suite 105
-address:      Horsham PA 19044
+organisation: Identity Digital Limited
+address:      c/o Identity Digital Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
 address:      United States of America (the)
-phone:        +1 215.706.5700
-fax-no:       +1 215.706.5701
-e-mail:       tld-tech-poc@afilias.info
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
 
 nserver:      A0.NIC.IST 2a01:8840:8e:0:0:0:0:1 65.22.144.1
 nserver:      A2.NIC.IST 2a01:8840:91:0:0:0:0:1 65.22.147.1
@@ -42,6 +42,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.nic.istanbul
 
 created:      2015-05-29
-changed:      2023-08-03
+changed:      2025-08-28
 source:       IANA
 
