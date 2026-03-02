@@ -31,19 +31,20 @@ phone:        +237 673 820 320
 e-mail:       dotcm@antic.cm
 
 nserver:      AUTH02.NS.UU.NET 198.6.1.82
-nserver:      NS-CM.AFRINIC.NET 196.216.168.67
-nserver:      NS-CM.NIC.FR 194.0.9.1
+nserver:      NS-CM.AFRINIC.NET 196.216.168.67 2001:43f8:120:0:0:0:0:67
+nserver:      NS-CM.NIC.FR 194.0.9.1 2001:678:c:0:0:0:0:1
 nserver:      NS.ITU.CH 156.106.192.121 2a00:7580:60:2141:0:0:0:10
 nserver:      NS1.NIC.CM 195.24.205.60
 nserver:      NS2.NIC.CM 195.24.205.61
 nserver:      PHLOEM.UOREGON.EDU 128.223.32.35 2001:468:d01:20:0:0:80df:2023
+ds-rdata:     45784 13 2 bc03884ae075280b78a03306ebcd816e29e014a74247c68887ff1b37d22f81f5
 
-whois:        
+whois:        whois.nic.cm
 
 status:       ACTIVE
 remarks:      Registration information: https://www.nic.cm
 
 created:      1995-04-29
-changed:      2024-01-24
+changed:      2025-07-15
 source:       IANA
 
