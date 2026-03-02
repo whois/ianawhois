@@ -5,14 +5,14 @@
 domain:       PHOTOGRAPHY
 
 organisation: Binky Moon, LLC
-address:      c/o Identity Digital Limited
+address:      c/o Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
 
 contact:      administrative
 name:         Vice President, Engineering
-organisation: Identity Digital Limited
+organisation: Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
@@ -23,6 +23,7 @@ e-mail:       tldadmin@identity.digital
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
 organisation: Identity Digital Limited
+address:      c/o Identity Digital Inc.
 address:      10500 NE 8th Street, Suite 750
 address:      Bellevue WA 98004
 address:      United States of America (the)
@@ -38,12 +39,12 @@ nserver:      V2N0.NIC.PHOTOGRAPHY 2a01:8840:1d:0:0:0:0:3 65.22.27.3
 nserver:      V2N1.NIC.PHOTOGRAPHY 161.232.13.3 2a01:8840:f7:0:0:0:0:3
 ds-rdata:     30361 8 2 11ab70b24654e6225068852309a763d43af4958b7c670407842c40f655bee3aa
 
-whois:        whois.nic.photography
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: https://www.identity.digital/
 
 created:      2013-11-13
-changed:      2023-09-12
+changed:      2025-10-07
 source:       IANA
 
