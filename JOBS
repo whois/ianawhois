@@ -40,12 +40,12 @@ nserver:      DNSC.NIC.JOBS 156.154.102.3 2610:a1:1009:0:0:0:0:3
 nserver:      DNSD.NIC.JOBS 156.154.103.3 2610:a1:1010:0:0:0:0:3
 ds-rdata:     47990 8 2 813737ed8ea193eae37c0c2f95758a0de0b5069a20a9b0e8f4955908ac40c57a
 
-whois:        whois.nic.jobs
+whois:        
 
 status:       ACTIVE
 remarks:      Registration information: http://www.goto.jobs
 
 created:      2005-09-08
-changed:      2021-11-09
+changed:      2025-01-28
 source:       IANA
 
