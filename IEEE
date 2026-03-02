@@ -38,7 +38,6 @@ nserver:      DNSA.NIC.IEEE 156.154.100.3 2001:502:ad09:0:0:0:0:3
 nserver:      DNSB.NIC.IEEE 156.154.101.3 2001:502:2eda:0:0:0:0:3
 nserver:      DNSC.NIC.IEEE 156.154.102.3 2610:a1:1009:0:0:0:0:3
 nserver:      DNSD.NIC.IEEE 156.154.103.3 2610:a1:1010:0:0:0:0:3
-ds-rdata:     39700 8 2 f12a037a0d1108bdf15c5a58cc488efc19f3b9100c643c67181703e2747be9ab
 ds-rdata:     16667 8 2 babdaa67d51ee0c44ab2a25b88427f9bdac5bd271dcf6074684d0356de2469b6
 
 whois:        
@@ -47,6 +46,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.ieee.org
 
 created:      2016-06-09
-changed:      2022-03-23
+changed:      2026-02-02
 source:       IANA
 
