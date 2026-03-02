@@ -20,14 +20,14 @@ e-mail:       contact@nic.stockholm
 
 contact:      technical
 name:         Senior Director, DNS Infrastructure Group
-organisation: Afilias
-address:      300 Welsh Road
-address:      Building 3, Suite 105
-address:      Horsham PA 19044
+organisation: Identity Digital Limited
+address:      c/o Identity Digital Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
 address:      United States of America (the)
-phone:        +1 215 706 5700
-fax-no:       +1 215 706 5701
-e-mail:       tld-tech-poc@afilias.info
+phone:        +1.425.298.2200
+fax-no:       +1.425.671.0020
+e-mail:       tldtech@identity.digital
 
 nserver:      A0.NIC.STOCKHOLM 2a01:8840:d6:0:0:0:0:41 65.22.220.41
 nserver:      A2.NIC.STOCKHOLM 2a01:8840:d9:0:0:0:0:41 65.22.223.41
@@ -41,6 +41,6 @@ status:       ACTIVE
 remarks:      Registration information: http://www.stockholm.se/
 
 created:      2015-09-17
-changed:      2023-08-07
+changed:      2025-08-27
 source:       IANA
 
